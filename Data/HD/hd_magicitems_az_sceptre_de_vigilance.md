@@ -5,7 +5,7 @@
 ### Sceptre de vigilance
 
 - AltName: Rod of Alertness (SRD p240)
-- Source: (COC p185)
+- Source: (CDC p185)
 -  Sceptre, très rare (harmonisation requise)
 
 Ce sceptre à la tête en collerette possède les propriétés suivantes.

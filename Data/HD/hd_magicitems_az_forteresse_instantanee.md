@@ -5,7 +5,7 @@
 ### Forteresse instantanée
 
 - AltName: Instant Fortress (SRD p226)
-- Source: (COC p167)
+- Source: (CDC p167)
 -  Objet merveilleux, rare
 
 Vous pouvez utiliser une action pour poser ce tube de métal de 2,5 centimètres à terre et prononcer son mot de commande. Il grandit rapidement pour se muer en forteresse. Il reste sous cette forme jusqu'à ce que vous dépensiez une action pour prononcer le mot de commande permettant de la révoquer (ce qui fonctionne uniquement si elle est vide).

@@ -5,7 +5,7 @@
 ### Épée mordante
 
 - AltName: Sword of Wounding (SRD p246)
-- Source: (COC p163)
+- Source: (CDC p163)
 -  Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
 Seul un repos court ou long permet de récupérer les points de vie perdus à cause des dégâts infligés par cette arme. Ni la régénération, ni la magie, ni aucun autre moyen ne peuvent soigner ces points de vie perdus.

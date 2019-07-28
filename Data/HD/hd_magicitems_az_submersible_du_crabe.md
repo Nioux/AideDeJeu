@@ -5,7 +5,7 @@
 ### Submersible du crabe
 
 - AltName: Apparatus of the Crab (SRD p208)
-- Source: (COC p186)
+- Source: (CDC p186)
 -  Objet merveilleux, légendaire
 
 Au premier abord, cet objet ressemble à un tonneau de fer scellé de taille G. Il pèse 250 kilos et dispose d'un loquet dissimulé qui se remarque seulement suite à un test d'Intelligence (Investigation) DD 20. Si on le débloque, il ouvre une trappe au sommet du tonneau, ce qui permet à deux créatures de taille M ou inférieure de se glisser à l'intérieur. Là, dix leviers sont disposés en rangée, tous en position neutre et susceptibles d'être tirés vers le haut ou le bas. Si on actionne les bons leviers, le submersible se transforme en homard géant.

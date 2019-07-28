@@ -5,7 +5,7 @@
 ### Lame porte-bonheur
 
 - AltName: Luck Blade (SRD p229)
-- Source: (COC p170)
+- Source: (CDC p170)
 -  Arme (épée), légendaire (harmonisation requise)
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique. Tant qu'elle se trouve en votre possession, vous gagnez un bonus de +1 aux jets de sauvegarde.

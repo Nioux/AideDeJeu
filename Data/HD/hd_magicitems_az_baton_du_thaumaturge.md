@@ -5,7 +5,7 @@
 ### Bâton du thaumaturge
 
 - AltName: Staff of the Magi (SRD p244)
-- Source: (COC p151)
+- Source: (CDC p151)
 -  Bâton, légendaire (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts.

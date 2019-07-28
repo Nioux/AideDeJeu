@@ -5,7 +5,7 @@
 ### Flasque de fer
 
 - AltName: Iron Flask (SRD p228)
-- Source: (COC p165)
+- Source: (CDC p165)
 -  Objet merveilleux, légendaire
 
 Cette petite bouteille de fer est fermée par un bouchon de laiton. Vous pouvez utiliser une action pour prononcer le mot de commande de la flasque et viser une créature située dans votre champ de vision et dans un rayon de 18 mètres autour de vous. Si la cible est originaire d'un plan autre que celui sur lequel vous vous trouvez, elle doit réussir un jet de sauvegarde de Sagesse DD 17. Si elle échoue, elle se retrouve piégée dans la flasque. Si la cible a déjà été piégée dans cette flasque auparavant, elle obtient l'avantage lors du jet de sauvegarde. La flasque ne peut contenir qu'une créature à la fois. Une créature prisonnière de la flasque n'a pas besoin de respirer, de manger ni de boire.

@@ -5,7 +5,7 @@
 ### Armure en adamantium
 
 - AltName: Adamantine Armor (SRD p207)
-- Source: (COC p145)
+- Source: (CDC p145)
 -  Armure (intermédiaire ou lourde, mais pas en peau), peu courante
 
 Cette armure est renforcée à base d'adamantium, l'une des substances les plus solides au monde. Tant que vous la portez, tous les coups critiques réussis contre vous se muent en coups normaux.

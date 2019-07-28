@@ -5,7 +5,7 @@
 ### Bâton du grand essaim
 
 - AltName: Staff of Swarming Insects (SRD p244)
-- Source: (COC p150)
+- Source: (CDC p150)
 -  Bâton, rare (harmonisation requise)
 
 Ce bâton contient 10 charges. Il récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un résultat de 1, un nuée d'insectes dévore et détruit le bâton, puis se disperse.

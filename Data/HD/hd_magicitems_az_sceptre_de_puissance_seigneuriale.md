@@ -5,7 +5,7 @@
 ### Sceptre de puissance seigneuriale
 
 - AltName: Rod of Lordly Might (SRD p240)
-- Source: (COC p184)
+- Source: (CDC p184)
 -  Sceptre, légendaire (harmonisation requise)
 
 Ce sceptre à la tête en collerette fonctionne comme une masse d'armes magique qui confère un bonus de +3 aux jets d'attaque et de dégâts effectués avec elle. Le sceptre possède les propriétés associées aux six boutons différents alignés le long de son manche. Il possède également trois autres propriétés, comme décrit ci-dessous.

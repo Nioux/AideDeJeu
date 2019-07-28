@@ -5,7 +5,7 @@
 ### Bottes ailées
 
 - AltName: Winged Boots (SRD p251)
-- Source: (COC p152)
+- Source: (CDC p152)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces bottes aux pieds, vous disposez d'une vitesse de déplacement en vol égale à votre vitesse au sol. Vous pouvez utiliser les bottes pour voler pendant un maximum de 4 heures d'affilée ou lors de vols plus courts. Toutefois, chaque utilisation dépense au minimum 1 minute de cette durée. Si vous volez au moment où cette durée prend fin, vous descendez à une vitesse de 9 mètres par round jusqu'à toucher le sol.

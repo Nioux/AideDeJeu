@@ -5,7 +5,7 @@
 ### Miroir d'emprisonnement
 
 - AltName: Mirror of Life Trapping (SRD p230)
-- Source: (COC p173)
+- Source: (CDC p173)
 -  Objet merveilleux, très rare
 
 Quand on regarde indirectement ce miroir de 1,20 mètre de haut, on y aperçoit vaguement les reflets de plusieurs créatures. Il pèse 25 kilos pour une CA de 11, a 10 points de vie et il est vulnérable aux dégâts contondants. Il vole en éclats et il est détruit s'il tombe à 0 point de vie.

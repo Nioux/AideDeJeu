@@ -5,7 +5,7 @@
 ### Potion de respiration aquatique
 
 - AltName: Potion of Water Breathing (SRD p235)
-- Source: (COC p178)
+- Source: (CDC p178)
 -  Potion, peu courante
 
 Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le liquide vert et trouble qu'elle contient, dans lequel flotte une bulle à l'aspect de méduse, sent la mer.

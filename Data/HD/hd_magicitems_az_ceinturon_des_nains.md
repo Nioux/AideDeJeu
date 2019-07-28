@@ -5,7 +5,7 @@
 ### Ceinturon des nains
 
 - AltName: Belt of Dwarvenkind (SRD p211)
-- Source: (COC p159)
+- Source: (CDC p159)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ce ceinturon, vous bénéficiez des avantages suivants :

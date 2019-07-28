@@ -5,7 +5,7 @@
 ### Bâton des forêts
 
 - AltName: Staff of the Woodlands (SRD p245)
-- Source: (COC p150)
+- Source: (CDC p150)
 -  Bâton, rare (harmonisation avec un druide exigée)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 aux jets d'attaque des sorts.

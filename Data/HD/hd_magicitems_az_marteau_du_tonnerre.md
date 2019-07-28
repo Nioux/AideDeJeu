@@ -5,7 +5,7 @@
 ### Marteau du tonnerre
 
 - AltName: Hammer of Thunderbolts (SRD p224)
-- Source: (COC p172)
+- Source: (CDC p172)
 -  Arme (maillet d'armes), légendaire
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.

@@ -46,7 +46,7 @@
 |8|[Pierre Ioun d'intuition](hd_magicitems_az_pierre_ioun.md)|
 |**87-88**|[Baguette de métamorphose](hd_magicitems_az_baguette_de_metamorphose.md)|
 |**89-92**|[Baguette de mage de guerre +3](hd_magicitems_az_baguette_du_mage_de_guerre_1_2_ou_3.md)|
-|**93**|[Ceinturon de force de géant du feu](hd_magicitems_az_ceinturon_de_force_de_geant.md)|
-|**94-95**|[Ceinturon de force de géant du givre/des pierres](hd_magicitems_az_ceinturon_de_force_de_geant.md)|
+|**93**|[Ceinturon de force de géant du feu](hd_magicitems_az_ceinturon_de_force_de_geant_du_feu.md)|
+|**94-95**|[Ceinturon de force de géant du givre/des pierres](magicitems_az_hd.md#ceinturon-de-force-de-géant-du-givre-des-pierres)|
 |**96-00**|Relancer sur [table 7](hd_magicitems_objets_magiques_7.md)|
 

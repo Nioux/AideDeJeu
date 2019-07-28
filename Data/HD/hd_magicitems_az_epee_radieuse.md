@@ -5,7 +5,7 @@
 ### Épée radieuse
 
 - AltName: Sun Blade (SRD p246)
-- Source: (COC p163)
+- Source: (CDC p163)
 -  Arme (épée longue), rare (harmonisation requise)
 
 Au premier abord, cet objet est la garde d'une épée longue. Lorsque vous la prenez en main, vous pouvez utiliser une action bonus pour qu'une lame de lumière pure en surgisse ou pour la faire disparaître. Tant que la lame est sortie, cette épée longue magique est dotée de la propriété finesse. Si vous maîtrisez le maniement des épées courtes ou longues, vous maîtrisez également celui d'une épée radieuse.

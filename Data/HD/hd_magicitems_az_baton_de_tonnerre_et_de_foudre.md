@@ -5,7 +5,7 @@
 ### Bâton de tonnerre et de foudre
 
 - AltName: Staff of Thunder and Lightning (SRD p245)
-- Source: (COC p150)
+- Source: (CDC p150)
 -  Bâton, très rare (harmonisation requise)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Il possède également les propriétés supplémentaires suivantes. Quand une de ces propriétés est utilisée, il faut attendre l'aube suivante avant de pouvoir l'utiliser à nouveau.

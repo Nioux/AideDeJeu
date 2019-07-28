@@ -5,7 +5,7 @@
 ### Sceptre de sécurité
 
 - AltName: Rod of Security (SRD p241)
-- Source: (COC p185)
+- Source: (CDC p185)
 -  Sceptre, très rare
 
 Tant que vous tenez ce sceptre en main, vous pouvez utiliser une action pour l'activer. Le sceptre vous transporte alors instantanément, ainsi qu'un maximum de 199 autres créatures consentantes situées dans votre champ de vision, vers un espace extraplanaire paradisiaque. Vous décidez à quoi ressemble cet endroit paradisiaque qui peut être un jardin paisible, une jolie clairière, une taverne accueillante, un immense palais, une île tropicale, un fantastique carnaval ou n'importe quel autre endroit sorti de votre imagination. Quelle que soit sa nature, cet endroit paradisiaque contient suffisamment d'eau et de nourriture pour toutes les créatures présentes. Toutes les autres choses avec lesquelles il est possible d'interagir à l'intérieur de l'espace extraplanaire n'existent que là-bas. Par exemple, une fleur cueillie dans un jardin paradisiaque disparaît dès qu'elle en sort.

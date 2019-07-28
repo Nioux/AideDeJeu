@@ -5,7 +5,7 @@
 ### Plume magique
 
 - AltName: Feather Token (SRD p221)
-- Source: (COC p176)
+- Source: (CDC p176)
 -  Objet merveilleux, rare
 
 Ce petit bibelot ressemble à une plume. Il existe plusieurs types de plume, chacune produisant un effet différent à usage unique. C'est au MJ de décider du type ou de le déterminer au hasard.

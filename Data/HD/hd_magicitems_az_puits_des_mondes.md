@@ -5,7 +5,7 @@
 ### Puits des mondes
 
 - AltName: Well of Many Worlds (SRD p250)
-- Source: (COC p180)
+- Source: (CDC p180)
 -  Objet merveilleux, légendaire
 
 Ce morceau d'étoffe noire, fine et douce comme la soie, peut se plier pour adopter les dimensions d'un mouchoir. On peut le déplier pour former une étendue circulaire de 1,80 mètre de diamètre.

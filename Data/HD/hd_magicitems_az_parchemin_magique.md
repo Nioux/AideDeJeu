@@ -5,8 +5,8 @@
 ### Parchemin magique
 
 - AltName: Spell Scroll (SRD p242)
-- Source: (COC p174)
--  Parchemin, variable
+- Source: (CDC p174)
+-  Parchemin, rareté variable
 
 Sur un parchemin magique est inscrite la formule d'un unique sort, rédigée tel un message mystique crypté. Si le sort est présent dans la liste de sorts de votre classe de personnage, vous pouvez utiliser une action pour lire le parchemin et lancer le sort qu'il contient dans devoir fournir aucune de ses composantes. Sinon, le sort est incompréhensible.
 

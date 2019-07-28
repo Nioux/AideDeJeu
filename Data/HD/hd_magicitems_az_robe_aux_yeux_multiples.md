@@ -5,7 +5,7 @@
 ### Robe aux yeux multiples
 
 - AltName: Robe of Eyes (SRD p238)
-- Source: (COC p180)
+- Source: (CDC p180)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Cette robe est ornée de motifs en forme d'yeux. Vous bénéficiez des avantages suivants tant que vous portez cette robe :

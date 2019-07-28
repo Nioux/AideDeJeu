@@ -5,7 +5,7 @@
 ### Pierre Ioun
 
 - AltName: Ioun Stone (SRD p227)
-- Source: (COC p175)
+- Source: (CDC p175)
 -  Objet merveilleux, rareté variable (harmonisation requise)
 
 La pierre Ioun doit son nom à Ioun, un dieu du savoir et des prophéties vénéré sur certains mondes. Il existe de nombreuses variétés de pierre de Ioun, chacune caractérisée par sa forme et sa couleur.

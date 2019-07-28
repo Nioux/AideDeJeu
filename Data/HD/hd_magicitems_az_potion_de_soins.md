@@ -5,7 +5,7 @@
 ### Potion de soins
 
 - AltName: Potion of Healing (SRD p234)
-- Source: (COC p178)
+- Source: (CDC p178)
 -  Potion, rareté variable
 
 Vous récupérez des points de vie quand vous buvez cette potion, le montant dépendant de la rareté de la potion, comme indiqué dans la table Potions de soins. Quelle que soit la puissance de la potion, son liquide rouge scintille quand on l'agite.

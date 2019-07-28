@@ -5,7 +5,7 @@
 ### Poussière à éternuer
 
 - AltName: Dust of Sneezing and Choking (SRD p219)
-- Source: (COC p179)
+- Source: (CDC p179)
 -  Objet merveilleux, peu courant
 
 Cette poudre se trouve dans un petit récipient et ressemble à du sable fin. On dirait de la poussière de disparition et le sort d'identification confirme cette erreur. Il y en a assez pour une seule utilisation.

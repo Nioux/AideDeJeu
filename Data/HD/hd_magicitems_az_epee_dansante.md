@@ -5,7 +5,7 @@
 ### Épée dansante
 
 - AltName: Dancing Sword (SRD p215)
-- Source: (COC p163)
+- Source: (CDC p163)
 -  Arme (épée), très rare (harmonisation requise)
 
 Vous pouvez utiliser une action bonus pour lancer cette épée magique en l'air et prononcer son mot de commande. Elle se met alors à flotter et s'envole à une distance maximum de 9 mètres, attaquant la créature de votre choix située dans un rayon de 1,50 mètre autour d'elle. L'épée utilise votre jet d'attaque et votre modificateur de caractéristique aux jets de dégâts.

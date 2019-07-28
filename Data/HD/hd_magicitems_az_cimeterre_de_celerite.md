@@ -5,7 +5,7 @@
 ### Cimeterre de célérité
 
 - AltName: Scimitar of Speed (SRD p241)
-- Source: (COC p160)
+- Source: (CDC p160)
 -  Arme (cimeterre), très rare (harmonisation requise)
 
 Vous bénéficiez d'un bonus de +2 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, vous pouvez effectuer une attaque avec elle par une action bonus lors de chacun de vos tours.

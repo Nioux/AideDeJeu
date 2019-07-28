@@ -5,7 +5,7 @@
 ### Baguette de métamorphose
 
 - AltName: Wand of Polymorph (SRD p249)
-- Source: (COC p145)
+- Source: (CDC p145)
 -  Baguette, très rare (harmonisation avec un lanceur de sorts exigée)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer le sort de métamorphose (DD des jets de sauvegarde contre le sort 15) par son biais.

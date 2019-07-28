@@ -5,7 +5,7 @@
 ### Vengeresse sacrée
 
 - AltName: Holy Avenger (SRD p225)
-- Source: (COC p188)
+- Source: (CDC p188)
 -  Arme (épée), légendaire (harmonisation requise avec un paladin)
 
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme magique. Quand vous touchez un fiélon ou un mort-vivant avec, il subit 2d10 dégâts radiants supplémentaires.

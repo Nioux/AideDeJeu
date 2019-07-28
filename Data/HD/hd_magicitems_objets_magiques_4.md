@@ -60,7 +60,7 @@
 |**86**|[Cape de déplacement](hd_magicitems_az_cape_de_deplacement.md)|
 |**87**|[Cape de la chauve-souris](hd_magicitems_az_cape_de_la_chauve_souris.md)|
 |**88**|[Cape de prestidigitateur](hd_magicitems_az_cape_de_prestidigitateur.md)|
-|**89**|[Ceinturon de force de géant des collines](hd_magicitems_az_ceinturon_de_force_de_geant.md)|
+|**89**|[Ceinturon de force de géant des collines](hd_magicitems_az_ceinturon_de_force_de_geant_des_collines.md)|
 |**90**|[Ceinturon des nains](hd_magicitems_az_ceinturon_des_nains.md)|
 |**91**|[Corde d'enchevêtrement](hd_magicitems_az_corde_denchevetrement.md)|
 |**92**|[Havresac magique](hd_magicitems_az_havresac_magique.md)|

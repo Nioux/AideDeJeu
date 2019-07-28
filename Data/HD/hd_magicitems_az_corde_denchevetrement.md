@@ -5,7 +5,7 @@
 ### Corde d'enchevêtrement
 
 - AltName: Rope of Entanglement (SRD p241)
-- Source: (COC p161)
+- Source: (CDC p161)
 -  Objet merveilleux, rare
 
 Cette corde fait 9 mètres de long pèse 1,5 kilo. Si vous tenez en main une extrémité de la corde et utilisez une action pour prononcer son mot de commande, l'autre extrémité se jette sur une créature située à 6 mètres ou moins de vous dans votre champ de vision pour l'enchevêtrer. La cible doit réussir un jet de sauvegarde de Dextérité DD 15 pour ne pas se retrouver entravée.

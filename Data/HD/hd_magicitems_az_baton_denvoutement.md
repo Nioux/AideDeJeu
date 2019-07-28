@@ -5,7 +5,7 @@
 ### Bâton d'envoûtement
 
 - AltName: Staff of Charming (SRD p243)
-- Source: (COC p148)
+- Source: (CDC p148)
 -  Bâton, rare (harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
 Tant que vous tenez ce bâton en main, vous pouvez utiliser une action pour dépenser 1 des 10 charges qu'il contient et lancer charme-personne, ordre ou compréhension des langages par son biais en appliquant le DD des jets de sauvegarde contre vos sorts. On peut également manier ce bâton comme une arme magique.

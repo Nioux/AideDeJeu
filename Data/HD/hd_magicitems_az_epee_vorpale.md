@@ -5,7 +5,7 @@
 ### Épée vorpale
 
 - AltName: Vorpal Sword (SRD p248)
-- Source: (COC p163)
+- Source: (CDC p163)
 -  Arme (n'importe quel type d'épée qui inflige des dégâts tranchants), légendaire (harmonisation requise)
 
 Vous obtenez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique. De plus, l'arme ignore toute résistance aux dégâts tranchants.

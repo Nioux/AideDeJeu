@@ -5,7 +5,7 @@
 ### Bouteille de l'éfrit
 
 - AltName: Efreeti Bottle (SRD p220)
-- Source: (COC p154)
+- Source: (CDC p154)
 -  Objet merveilleux, très rare
 
 Cette bouteille en laiton est ornée de peintures et pèse 0,5 kilo. Si vous utilisez une action pour la déboucher, un épais nuage de fumée s'en échappe. La fumée se dissipe à la fin de votre tour dans un éclair de feu inoffensif et un éfrit apparaît dans un emplacement inoccupé dans un rayon de 9 mètres autour de vous.

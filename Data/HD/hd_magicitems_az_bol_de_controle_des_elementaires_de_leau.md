@@ -5,7 +5,7 @@
 ### Bol de contrôle des élémentaires de l'eau
 
 - AltName: Bowl of Commanding Water Elementals (SRD p212)
-- Source: (COC p152)
+- Source: (CDC p152)
 -  Objet merveilleux, rare
 
 Tant que ce bol est rempli d'eau, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'eau, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi le bol.

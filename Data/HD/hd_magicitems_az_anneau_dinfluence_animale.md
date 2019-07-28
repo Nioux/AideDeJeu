@@ -5,7 +5,7 @@
 ### Anneau d'influence animale
 
 - AltName: Ring of Animal Influence (SRD p235)
-- Source: (COC p142)
+- Source: (CDC p142)
 -  Anneau, rare
 
 Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour, à l'aube. Tant que vous portez l'anneau au doigt, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer un des sorts suivants :

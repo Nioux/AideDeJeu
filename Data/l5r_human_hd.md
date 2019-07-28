@@ -1,5 +1,5 @@
 
-<!--RaceItem-->
+<!--GenericItem-->
 
 > <!--ParentNameLink-->[Les Cinq Royaumes](l5r_index_hd.md)<!--/ParentNameLink-->
 
@@ -149,5 +149,5 @@ Les humains sont versatiles et talentueux. Contrairement aux faës, ils ne poss�
 
 <!--/SubRaceItem-->
 
-<!--/RaceItem-->
+<!--/GenericItem-->
 

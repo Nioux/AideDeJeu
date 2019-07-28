@@ -5,7 +5,7 @@
 ### Gemme lumineuse
 
 - AltName: Gem of Brightness (SRD p223)
-- Source: (COC p168)
+- Source: (CDC p168)
 -  Objet merveilleux, rare
 
 Ce prisme a 50 charges. Tant que vous le tenez, vous pouvez utiliser une action pour prononcer l'un des trois mots de commande qui provoquent l'un des effets suivants.

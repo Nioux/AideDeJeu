@@ -5,7 +5,7 @@
 ### Bâton de combat
 
 - AltName: Staff of Striking (SRD p244)
-- Source: (COC p149)
+- Source: (CDC p149)
 -  Bâton, très rare (harmonisation requise)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +3 à l'attaque et aux jets de dégâts effectués par son biais.

@@ -5,7 +5,7 @@
 ### Sceptre d'absorption
 
 - AltName: Rod of Absorption (SRD p239)
-- Source: (COC p184)
+- Source: (CDC p184)
 -  Sceptre, très rare (harmonisation requise)
 
 Tant que vous tenez ce sceptre en main, vous pouvez utiliser votre réaction pour absorber un sort qui ne cible que vous et n'est donc pas un sort à zone d'effet. L'effet du sort absorbé est annulé et l'énergie magique (et non le sort lui-même) est stockée dans le sceptre. Cette énergie est du même niveau que le sort au moment de son incantation. Le sceptre peut absorber et stocker jusqu'à 50 niveaux d'énergie au cours de son existence. Dès que le sceptre a absorbé 50 niveaux d'énergie, il ne peut plus en absorber davantage. Si vous êtes la cible d'un sort dont le sceptre ne peut pas absorber l'énergie, l'objet magique ne produit aucun effet sur ce sort.

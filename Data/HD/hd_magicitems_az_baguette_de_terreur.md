@@ -5,7 +5,7 @@
 ### Baguette de terreur
 
 - AltName: Wand of Fear (SRD p248)
-- Source: (COC p146)
+- Source: (CDC p146)
 -  Baguette, rare (harmonisation requise)
 
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez un d20 si vous dépensez la dernière charge. Sur un 1, elle est détruite et tombe en cendres.

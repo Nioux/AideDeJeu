@@ -5,7 +5,7 @@
 ### Broche de protection
 
 - AltName: Brooch of Shielding (SRD p212)
-- Source: (COC p154)
+- Source: (CDC p154)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez cette broche, vous êtes résistant aux dégâts de force et vous êtes immunisé contre les dégâts du sort de projectile magique.

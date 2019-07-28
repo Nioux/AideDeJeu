@@ -5,7 +5,7 @@
 ### Sphère d'annihilation
 
 - AltName: Sphere of Annihilation (SRD p242)
-- Source: (COC p186)
+- Source: (CDC p186)
 -  Objet merveilleux, légendaire
 
 Cette sphère noire de 60 centimètres de diamètre est un trou dans le multivers, en lévitation dans l'espace et stabilisé grâce au champ magique qui l'enveloppe.

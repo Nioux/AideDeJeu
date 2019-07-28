@@ -5,7 +5,7 @@
 ### Collier de boules de feu
 
 - AltName: Necklace of Fireballs (SRD p231)
-- Source: (COC p160)
+- Source: (CDC p160)
 -  Objet merveilleux, rare
 
 Ce collier possède 1d6+3 perles. Vous pouvez utiliser une action pour détacher une perle et la lancer sur une distance maximale de 18 mètres. Quand elle arrive au bout de sa trajectoire, elle explose comme le sort boule de feu de niveau 3 (DD 15).

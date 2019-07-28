@@ -5,7 +5,7 @@
 ### Potion de lecture des pensées
 
 - AltName: Potion of Mind Reading (SRD p234)
-- Source: (COC p178)
+- Source: (CDC p178)
 -  Potion, rare
 
 Vous bénéficiez des effets d'un sort de détection des pensées (DD des jets de sauvegarde contre le sort 13) quand vous buvez cette potion. Dans le liquide violet et épais de cette concoction flotte un nuage rose en forme d'oeuf.

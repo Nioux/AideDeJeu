@@ -5,7 +5,7 @@
 ### Potion de résistance
 
 - AltName: Potion of Resistance (SRD p235)
-- Source: (COC p178)
+- Source: (CDC p178)
 -  Potion, peu courante
 
 Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1 heure après avoir bu cette potion. Le MJ choisit le type ou le détermine au hasard parmi les potions suivantes.

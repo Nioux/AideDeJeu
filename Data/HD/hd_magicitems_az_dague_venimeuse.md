@@ -5,7 +5,7 @@
 ### Dague venimeuse
 
 - AltName: Dagger of Venom (SRD p215)
-- Source: (COC p162)
+- Source: (CDC p162)
 -  Arme (dague), rare
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.

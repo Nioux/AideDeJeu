@@ -5,7 +5,7 @@
 ### Scarabée de protection
 
 - AltName: Scarab of Protection (SRD p241)
-- Source: (COC p184)
+- Source: (CDC p184)
 -  Objet merveilleux, légendaire (harmonisation requise)
 
 Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, une inscription apparaît à sa surface, révélant sa nature magique. Il confère deux avantages tant que vous le portez sur vous :

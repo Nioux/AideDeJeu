@@ -5,7 +5,7 @@
 ### Manteau de résistance aux sorts
 
 - AltName: Mantle of Spell Resistance (SRD p229)
-- Source: (COC p171)
+- Source: (CDC p171)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ce manteau, vous obtenez l'avantage lors des jets de sauvegarde contre les sorts.

@@ -5,7 +5,7 @@
 ### Gemme élémentaire
 
 - AltName: Elemental Gem (SRD p220)
-- Source: (COC p168)
+- Source: (CDC p168)
 -  Objet merveilleux, peu courant
 
 Cette gemme contient une particule d'énergie élémentaire. Quand vous brisez la gemme par une action, un élémentaire apparaît, comme si vous l'aviez invoqué avec un sort d'invocation d'élémentaire et la gemme perd toute magie. Le type d'élémentaire invoqué dépend de la gemme utilisée.

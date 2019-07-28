@@ -5,7 +5,7 @@
 ### Fer gelé
 
 - AltName: Frost Brand (SRD p223)
-- Source: (COC p164)
+- Source: (CDC p164)
 -  Arme (épée), très rare (harmonisation requise)
 
 Quand vous touchez une créature suite à une attaque avec cette arme magique, votre cible subit 1d6 dégâts de froid supplémentaire. De plus, vous êtes résistant aux dégâts de feu tant que vous tenez cette épée.

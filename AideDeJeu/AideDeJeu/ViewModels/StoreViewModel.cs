@@ -254,7 +254,7 @@ namespace AideDeJeu.ViewModels
                 }
                 y++;
             }
-            Debug.WriteLine(matrix);
+            //Debug.WriteLine(matrix);
         }
 
         public void ParseItemProperties(string source, Item item, ContainerBlock blocks)

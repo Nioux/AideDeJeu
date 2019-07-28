@@ -5,7 +5,7 @@
 ### Bâton du python
 
 - AltName: Staff of the Python (SRD p245)
-- Source: (COC p151)
+- Source: (CDC p151)
 -  Bâton, peu courant (harmonisation avec un clerc, druide ou un sorcier exigée)
 
 Vous pouvez utiliser une action pour prononcer le mot de commande de ce bâton et le lancer par terre, à 3 mètres ou moins de vous. Le bâton se transforme alors en serpent constricteur géant. Il agit lors de son propre décompte d'initiative mais reste sous votre contrôle. En utilisant une action bonus pour prononcer une nouvelle fois le mot de commande, le bâton reprend sa forme normale dans le dernier espace occupé lorsqu'il était serpent.

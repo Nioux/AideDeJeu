@@ -5,7 +5,7 @@
 ### Anneau de feu d'étoiles
 
 - AltName: Ring of Shooting Stars (SRD p237)
-- Source: (COC p140)
+- Source: (CDC p140)
 -  Anneau, très rare (harmonisation en plein air et de nuit exigée)
 
 Tant que vous portez cet anneau dans des endroits faiblement éclairés ou plongés dans les ténèbres, vous pouvez lancer lumières dansantes et lumière à volonté par le biais de l'anneau. L'incantation d'un de ces sorts sous cette forme nécessite une action.

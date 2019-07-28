@@ -5,7 +5,7 @@
 ### Baguette des entraves
 
 - AltName: Wand of Binding (SRD p248)
-- Source: (COC p146)
+- Source: (CDC p146)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
 Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes. Elle récupère 1d6+1 charges dépensées chaque jour, à l'aube. Si vous dépensez sa dernière charge, lancez un d20. Sur un 1, la baguette est détruite et tombe en cendres.

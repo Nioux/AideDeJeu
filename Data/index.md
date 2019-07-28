@@ -65,10 +65,6 @@
 
 <!--br-->
 
-# [Livre des monstres](tome_of_beasts.md)
-
-<!--br-->
-
 # [Monstrueusement Mignons](baby_bestiary.md)
 
 <!--br-->

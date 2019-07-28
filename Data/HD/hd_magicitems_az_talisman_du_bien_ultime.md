@@ -5,7 +5,7 @@
 ### Talisman du bien ultime
 
 - AltName: Talisman of Pure Good (SRD p247)
-- Source: (COC p187)
+- Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation avec une créature d'alignement bon exigée)
 
 Ce talisman est un puissant symbole du bien. Une créature dont l'alignement n'est ni bon ni mauvais subit 6d6 dégâts radiants quand elle le touche. Une créature d'alignement mauvais subit 8d6 dégâts radiants quand elle le touche. Quand elles le tiennent en main ou portent le talisman sur elles, ces deux types de créature subissent une nouvelle fois les dégâts à la fin de chacun de leurs tours.

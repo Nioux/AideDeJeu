@@ -5,7 +5,7 @@
 ### Masse destructrice
 
 - AltName: Mace of Smiting (SRD p229)
-- Source: (COC p173)
+- Source: (CDC p173)
 -  Arme (masse), rare
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique. Ce bonus passe à +3 si vous l'utilisez contre une créature artificielle.

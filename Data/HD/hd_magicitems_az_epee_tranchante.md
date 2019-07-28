@@ -5,7 +5,7 @@
 ### Épée tranchante
 
 - AltName: Sword of Sharpness (SRD p246)
-- Source: (COC p163)
+- Source: (CDC p163)
 -  Arme (n'importe quelle épée qui inflige des dégâts tranchants), très rare (harmonisation requise)
 
 Quand vous réussissez une attaque contre un objet avec cette arme magique, considérez que le(s) dé(s) de dégâts de l'arme obtient le plus haut résultat contre la cible.

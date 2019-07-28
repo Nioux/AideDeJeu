@@ -5,7 +5,7 @@
 ### Anneau de résistance
 
 - AltName: Ring of Resistance (SRD p237)
-- Source: (COC p142)
+- Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 
 Vous bénéficiez d'une résistance contre un type de dégâts tant que vous portez cet anneau au doigt. La pierre précieuse qui orne l'anneau indique le type que le MJ peut choisir ou déterminer au hasard.

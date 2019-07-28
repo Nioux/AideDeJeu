@@ -5,7 +5,7 @@
 ### Potion de poison
 
 - AltName: Potion of Poison (SRD p234)
-- Source: (COC p178)
+- Source: (CDC p178)
 -  Potion, peu courante
 
 Cette concoction ressemble, tant au niveau du goût, de l'odeur et de l'aspect visuel, à une potion de soins ou autre potion bénéfique. C'est pourtant du poison dissimulé par une magie illusoire, et un sort d'identification révèle sa véritable nature.

@@ -5,7 +5,7 @@
 ### Bâton de guérison
 
 - AltName: Staff of Healing (SRD p243)
-- Source: (COC p149)
+- Source: (CDC p149)
 -  Bâton, rare (harmonisation avec un barde, un clerc ou un druide exigée)
 
 Le bâton contient 10 charges. Tant que vous le tenez en main, vous pouvez utiliser une action pour dépenser 1 ou plusieurs de ses charges et lancer un des sorts suivants par son biais, en appliquant le DD des jets de sauvegarde contre vos sorts et le modificateur de votre caractéristique d'incantation : soin des blessures (1 charge par niveau de sort, 4e au maximum), restauration inférieure (2 charges) ou soin des blessures de groupe (5 charges).

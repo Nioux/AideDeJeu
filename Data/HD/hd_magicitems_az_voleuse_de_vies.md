@@ -5,7 +5,7 @@
 ### Voleuse de vies
 
 - AltName: Nine Lives Stealer (SRD p231)
-- Source: (COC p188)
+- Source: (CDC p188)
 -  Arme (épée), très rare (harmonisation requise)
 
 Vous gagnez un bonus de +2 aux jets d'attaque et de dégâts avec cette arme magique.

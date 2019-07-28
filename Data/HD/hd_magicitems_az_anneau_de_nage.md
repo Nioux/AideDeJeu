@@ -5,7 +5,7 @@
 ### Anneau de nage
 
 - AltName: Ring of Swimming (SRD p238)
-- Source: (COC p141)
+- Source: (CDC p141)
 -  Anneau, peu courant
 
 Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vous portez cet anneau au doigt.

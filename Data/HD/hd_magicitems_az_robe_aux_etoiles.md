@@ -5,7 +5,7 @@
 ### Robe aux étoiles
 
 - AltName: Robe of Stars (SRD p239)
-- Source: (COC p180)
+- Source: (CDC p180)
 -  Objet merveilleux, très rare (harmonisation requise)
 
 Cette robe noire ou bleue foncée est brodée de petites étoiles blanches ou argentées. Vous bénéficiez d'un bonus de +1 aux jets de sauvegarde tant que vous la portez.

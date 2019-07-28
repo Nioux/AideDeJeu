@@ -5,7 +5,7 @@
 ### Sac de haricots
 
 - AltName: Bag of Beans (SRD p209)
-- Source: (COC p183)
+- Source: (CDC p183)
 -  Objet merveilleux, rare
 
 Ce lourd sac de toile contient 3d4 haricots secs. Il pèse 250 grammes plus 125 grammes par haricot.

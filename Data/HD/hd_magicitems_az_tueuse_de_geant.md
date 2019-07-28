@@ -5,7 +5,7 @@
 ### Tueuse de géant
 
 - AltName: Giant Slayer (SRD p224)
-- Source: (COC p188)
+- Source: (CDC p188)
 -  Arme (épée ou hache), rare
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme magique.

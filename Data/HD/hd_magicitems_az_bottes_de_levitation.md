@@ -5,7 +5,7 @@
 ### Bottes de lévitation
 
 - AltName: Boots of Levitation (SRD p212)
-- Source: (COC p152)
+- Source: (CDC p152)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ces bottes, vous pouvez utiliser une action pour lancer le sort lévitation sur votre personne à volonté.

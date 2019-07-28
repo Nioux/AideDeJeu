@@ -5,7 +5,7 @@
 ### Bracelets de défense
 
 - AltName: Bracers of Defense (SRD p212)
-- Source: (COC p154)
+- Source: (CDC p154)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la CA, à condition que vous ne portiez ni armure, ni bouclier.

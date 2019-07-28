@@ -5,7 +5,7 @@
 ### Bandeau d'intelligence
 
 - AltName: Headband of Intellect (SRD p225)
-- Source: (COC p148)
+- Source: (CDC p148)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est déjà de 19 ou plus, il n'a aucun effet sur vous.

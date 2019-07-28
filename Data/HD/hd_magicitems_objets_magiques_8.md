@@ -41,8 +41,8 @@
 |5-6|[Talisman du mal ultime](hd_magicitems_az_talisman_du_mal_ultime.md)|
 |**81**|[Bâton du thaumaturge](hd_magicitems_az_baton_du_thaumaturge.md)|
 |**82**|[Cartes merveilleuses](hd_magicitems_az_cartes_merveilleuses.md)|
-|**83**|[Ceinturon de force de géant des nuages](hd_magicitems_az_ceinturon_de_force_de_geant.md)|
-|**84**|[Ceinturon de force de géant des tempêtes](hd_magicitems_az_ceinturon_de_force_de_geant.md)|
+|**83**|[Ceinturon de force de géant des nuages](hd_magicitems_az_ceinturon_de_force_de_geant_des_nuages.md)|
+|**84**|[Ceinturon de force de géant des tempêtes](hd_magicitems_az_ceinturon_de_force_de_geant_des_tempetes.md)|
 |**85**|[Colle universelle](hd_magicitems_az_colle_universelle.md)|
 |**86**|[Cor du Valhalla de fer](hd_magicitems_az_cor_du_valhalla.md)|
 |**87**|[Flasque de fer](hd_magicitems_az_flasque_de_fer.md)|

@@ -5,7 +5,7 @@
 ### Armure de vulnérabilité
 
 - AltName: Armor of Vulnerability (SRD p209)
-- Source: (COC p145)
+- Source: (CDC p145)
 -  Armure (harnois), rare (harmonisation requise)
 
 Tant que vous portez cette armure, vous êtes résistant à un type de dégâts parmi les suivants : contondants, perforants ou tranchants. C'est au MJ de choisir ce type ou de le déterminer au hasard.

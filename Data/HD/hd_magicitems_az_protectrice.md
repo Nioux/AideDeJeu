@@ -5,7 +5,7 @@
 ### Protectrice
 
 - AltName: Defender (SRD p218)
-- Source: (COC p179)
+- Source: (CDC p179)
 -  Arme (épée), légendaire (harmonisation requise)
 
 Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cette arme magique.

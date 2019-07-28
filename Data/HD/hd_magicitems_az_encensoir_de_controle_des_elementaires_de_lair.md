@@ -5,7 +5,7 @@
 ### Encensoir de contrôle des élémentaires de l'air
 
 - AltName: Censer of Controlling Air Elementals (SRD p213)
-- Source: (COC p162)
+- Source: (CDC p162)
 -  Objet merveilleux, rare
 
 Tant que de l'encens brûle dans cet encensoir, vous pouvez utiliser une action pour prononcer son mot de commande et invoquer un élémentaire de l'air, comme si vous aviez lancé le sort invocation d'élémentaires. Ensuite, il faut attendre l'aube suivante avant de pouvoir réutiliser ainsi l'encensoir.

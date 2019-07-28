@@ -5,7 +5,7 @@
 ### Chapelet
 
 - AltName: Necklace of Prayer Beads (SRD p231)
-- Source: (COC p159)
+- Source: (CDC p159)
 -  Objet merveilleux, rare (harmonisation requise par un clerc, un druide ou un paladin)
 
 Ce chapelet se présente sous forme de collier et comporte 1d4+2 grains magiques faits d'aigues-marines, de perles noires ou de topazes. Il possède aussi de nombreux grains ordinaires taillés dans de l'ambre, de l'héliotrope, de la citrine, du corail, du jade, des perles ou du quartz. Si on retire un grain magique du chapelet, il perd sa magie.

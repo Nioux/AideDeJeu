@@ -5,7 +5,7 @@
 ### Cape de protection
 
 - AltName: Cloak of Protection (SRD p214)
-- Source: (COC p155)
+- Source: (CDC p155)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Vous gagnez un bonus de +1 à la CA et aux jets de sauvegarde tant que vous portez cette cape.

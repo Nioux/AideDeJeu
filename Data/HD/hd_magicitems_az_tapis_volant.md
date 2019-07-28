@@ -5,7 +5,7 @@
 ### Tapis volant
 
 - AltName: Carpet of Flying (SRD p213)
-- Source: (COC p188)
+- Source: (CDC p188)
 -  Objet merveilleux, très rare
 
 Quand vous prononcez le mot de commande de ce tapis par une action, il flotte dans les airs. Il se déplace en volant selon vos indications vocales tant que vous vous trouvez à 9 mètres ou moins de lui.

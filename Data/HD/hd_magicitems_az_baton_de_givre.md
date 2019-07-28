@@ -5,7 +5,7 @@
 ### Bâton de givre
 
 - AltName: Staff of Frost (SRD p243)
-- Source: (COC p149)
+- Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
 Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous tenez ce bâton en main.

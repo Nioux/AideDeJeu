@@ -5,7 +5,7 @@
 ### Sac sans fond
 
 - AltName: Bag of Holding (SRD p210)
-- Source: (COC p184)
+- Source: (CDC p184)
 -  Objet merveilleux, peu courant
 
 Ce sac abrite un espace intérieur bien plus grand que ce que ses dimensions extérieures laissent présager. Visuellement, il fait une soixantaine de centimètres de diamètre au niveau de l'ouverture pour 1,20 mètre de profondeur. En revanche, il peut contenir jusqu'à 250 kilos de matière, sans dépasser un volume de 2 000 litres. Le sac pèse 7,5 kilos, quel que soit son contenu. Il faut dépenser une action pour récupérer un objet dans le sac.

@@ -5,7 +5,7 @@
 ### Anneau d'invisibilité
 
 - AltName: Ring of Invisibility (SRD p236)
-- Source: (COC p143)
+- Source: (CDC p143)
 -  Anneau, légendaire (harmonisation requise)
 
 Vous pouvez devenir invisible par une action tant que vous portez cet anneau au doigt. L'ensemble de vos objets équipés ou transportés deviennent également invisibles. Vous restez invisible jusqu'à ce que l'anneau soit retiré, si vous attaquez, lancez un sort ou utilisez une action bonus pour redevenir visible.

@@ -5,7 +5,7 @@
 ### Bottes des terres gelées
 
 - AltName: Boots of the Winterlands (SRD p212)
-- Source: (COC p153)
+- Source: (CDC p153)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez, vous bénéficiez des avantages suivants.

@@ -5,7 +5,7 @@
 ### Cube de force
 
 - AltName: Cube of Force (SRD p215)
-- Source: (COC p161)
+- Source: (CDC p161)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Ce cube fait 2,5 centimètres d'arête. Chaque face est dotée d'une marque distinctive sur laquelle on peut appuyer. Le cube a 36 charges au départ et, chaque matin à l'aube, il récupère 1d20 charges dépensées.

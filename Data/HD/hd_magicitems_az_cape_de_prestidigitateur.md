@@ -5,7 +5,7 @@
 ### Cape de prestidigitateur
 
 - AltName: Cape of the Mountebank (SRD p213)
-- Source: (COC p155)
+- Source: (CDC p155)
 -  Objet merveilleux, rare
 
 Cette cape sent légèrement le soufre. Tant que vous la portez, vous pouvez l'utiliser pour lancer le sort porte dimensionnelle par une action. Vous devez attendre l'aube suivante pour réutiliser ce pouvoir.

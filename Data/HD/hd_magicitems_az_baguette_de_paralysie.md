@@ -5,7 +5,7 @@
 ### Baguette de paralysie
 
 - AltName: Wand of Paralysis (SRD p249)
-- Source: (COC p146)
+- Source: (CDC p146)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et projeter un fin rayon bleu de l'extrémité de la baguette vers une créature située à 18 mètres ou moins dans votre champ de vision. La cible doit réussir un jet de sauvegarde de Constitution DD 15 pour ne pas être paralysée pendant 1 minute. À la fin de chacun des tours de la cible, elle peut retenter le jet de sauvegarde et mettre fin à l'effet dont elle est victime en cas de réussite.

@@ -5,7 +5,7 @@
 ### Armure d'invulnérabilité
 
 - AltName: Armor of Invulnerability (SRD p208)
-- Source: (COC p145)
+- Source: (CDC p145)
 -  Armure (harnois), légendaire (harmonisation requise)
 
 Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De plus, vous pouvez dépenser une action pour vous immuniser contre les dégâts non-magiques pendant 10 minutes ou jusqu'à ce que vous ne portiez plus l'armure. Une fois que vous avez utilisé cette action spéciale, vous ne pouvez plus vous en servir avant l'aube suivante.

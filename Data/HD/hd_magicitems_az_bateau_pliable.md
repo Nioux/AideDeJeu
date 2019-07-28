@@ -5,7 +5,7 @@
 ### Bateau pliable
 
 - AltName: Folding Boat (SRD p223)
-- Source: (COC p148)
+- Source: (CDC p148)
 -  Objet merveilleux, rare
 
 Cet objet ressemble à une boîte en bois de 30 centimètres de long pour 15 de large et 15 de profondeur. Il pèse 2 kilos et flotte. On peut l'ouvrir pour stocker des objets à l'intérieur. Il répond à trois mots de commande, chacun nécessitant une action.

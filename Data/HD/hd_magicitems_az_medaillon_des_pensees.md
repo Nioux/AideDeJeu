@@ -5,7 +5,7 @@
 ### Médaillon des pensées
 
 - AltName: Medallion of Thoughts (SRD p230)
-- Source: (COC p173)
+- Source: (CDC p173)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Le médaillon a trois charges. Tant que vous le portez, vous pouvez utiliser une action et dépenser une charge pour lancer détection des pensées (DD 13) par son intermédiaire. Chaque matin à l'aube, il récupère 1d3 charges dépensées.

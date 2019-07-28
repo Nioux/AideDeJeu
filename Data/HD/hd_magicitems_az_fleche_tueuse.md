@@ -5,7 +5,7 @@
 ### Flèche tueuse
 
 - AltName: Arrow of Slaying (SRD p209)
-- Source: (COC p166)
+- Source: (CDC p166)
 -  Arme (flèche), très rare
 
 Une flèche tueuse est une arme magique conçue pour tuer un type précis de créature. Certaines sont plus spécialisées que d'autres : il existe par exemple des flèches tueuses de dragons et des flèches tueuses de dragons bleus. Si une créature appartient au type, à la race ou au groupe associé à la flèche, elle subit les dégâts normaux et doit faire un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle reçoit 6d10 dégâts perforants supplémentaires, la moitié seulement si elle réussit.

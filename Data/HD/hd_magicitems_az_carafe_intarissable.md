@@ -5,7 +5,7 @@
 ### Carafe intarissable
 
 - AltName: Decanter of Endless Water (SRD p216)
-- Source: (COC p155)
+- Source: (CDC p155)
 -  Objet merveilleux, peu courant
 
 Cette carafe coiffée d'un couvercle fait un bruit de liquide quand on la secoue, comme si elle contenait de l'eau. Elle pèse 1 kilo.

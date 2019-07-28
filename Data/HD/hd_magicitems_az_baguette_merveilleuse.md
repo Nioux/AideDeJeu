@@ -5,7 +5,7 @@
 ### Baguette merveilleuse
 
 - AltName: Wand of Wonder (SRD p249)
-- Source: (COC p147)
+- Source: (CDC p147)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et choisir une cible à 36 mètres ou moins de vous. La cible peut être une créature, un objet ou un point dans l'espace. Lancez un d100 et consultez la table suivante pour découvrir ce qu'il se passe.

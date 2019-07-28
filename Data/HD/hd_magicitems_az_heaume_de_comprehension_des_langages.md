@@ -5,7 +5,7 @@
 ### Heaume de compréhension des langages
 
 - AltName: Helm of Comprehending Languages (SRD p225)
-- Source: (COC p169)
+- Source: (CDC p169)
 -  Objet merveilleux, peu courant
 
 Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer compréhension des langages à volonté par son intermédiaire.

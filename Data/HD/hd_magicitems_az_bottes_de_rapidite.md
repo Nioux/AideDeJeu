@@ -5,7 +5,7 @@
 ### Bottes de rapidité
 
 - AltName: Boots of Speed (SRD p212)
-- Source: (COC p152)
+- Source: (CDC p152)
 -  Objet merveilleux, rare (harmonisation requise)
 
 Tant que vous portez ces bottes, vous pouvez utiliser une action bonus pour claquer des talons. Dans ce cas, les bottes doublent votre vitesse au sol et toute créature effectuant une attaque d'opportunité contre vous subit un désavantage lors du jet d'attaque. Vous mettez un terme à l'effet si vous claquez de nouveau des talons.

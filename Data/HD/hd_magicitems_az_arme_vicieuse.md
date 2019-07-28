@@ -5,7 +5,7 @@
 ### Arme vicieuse
 
 - AltName: Vicious Weapon (SRD p248)
-- Source: (COC p143)
+- Source: (CDC p143)
 -  Arme (n'importe quelle arme), rare
 
 Lorsque vous obtenez un 20 sur un jet d'attaque avec cette arme magique, votre coup critique inflige 2d6 dégâts supplémentaires du type normalement infligé par l'arme.

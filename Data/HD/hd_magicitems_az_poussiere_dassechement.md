@@ -5,7 +5,7 @@
 ### Poussière d'assèchement
 
 - AltName: Dust of Dryness (SRD p219)
-- Source: (COC p179)
+- Source: (CDC p179)
 -  Objet merveilleux, peu courant
 
 Ce petit paquet contient 1d6+4 pincées de poussière. Vous pouvez dépenser une action pour en saupoudrer une sur l'eau. La poussière transforme un cube d'eau de 4,50 mètres d'arête en une boulette de la taille d'une bille. Elle flotte ou repose près de l'endroit où vous avez saupoudré la poussière. Son poids est négligeable.

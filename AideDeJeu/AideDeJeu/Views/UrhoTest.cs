@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
+using System.IO;
 using System.Linq;
 using System.Text;
 using Urho;
@@ -202,6 +203,14 @@ namespace AideDeJeu.Views
             textNode.Position = new Vector3(0, 10, 0);
             text3D = textNode.CreateComponent<Text3D>();
             text3D.SetFont(CoreAssets.Fonts.AnonymousPro, 60);
+            //var font = new Font();
+            //var fontStream = Tools.Helpers.GetResourceStream("AideDeJeu.Pdf.Cinzel-Regular.otf");
+            //var memoryStream = new MemoryStream();
+            //fontStream.CopyTo(memoryStream);
+            //memoryStream.Seek(0, SeekOrigin.Begin);
+            //MemoryBuffer mb = new MemoryBuffer(memoryStream);
+            //bool res = font.Load(mb);
+            //text3D.SetFont(font, 60);
             text3D.TextEffect = TextEffect.Stroke;
 
             base.OnAttachedToNode(node);
@@ -215,6 +224,7 @@ namespace AideDeJeu.Views
             textNode.Position = new Vector3(0.5f, scale.Y + 0.2f, 0);
             //var newValue = (float)Math.Round(scale.Y, 1);
             //if (lastUpdateValue != newValue)
+            //text3D.TextAlignment = HorizontalAlignment.Center;
                 text3D.Text = finalValue.ToString();// newValue.ToString("F01", CultureInfo.InvariantCulture);
             //lastUpdateValue = newValue;
         }
@@ -235,28 +245,28 @@ namespace AideDeJeu.Views
         public event Action<Bar> Selected;
     }
 
-    public static class RandomHelper
-    {
-        static readonly Random random = new Random();
+    //public static class RandomHelper
+    //{
+    //    static readonly Random random = new Random();
 
-        /// <summary>
-        /// Return a random float between 0.0 (inclusive) and 1.0 (exclusive.)
-        /// </summary>
-        public static float NextRandom() { return (float)random.NextDouble(); }
+    //    /// <summary>
+    //    /// Return a random float between 0.0 (inclusive) and 1.0 (exclusive.)
+    //    /// </summary>
+    //    public static float NextRandom() { return (float)random.NextDouble(); }
 
-        /// <summary>
-        /// Return a random float between 0.0 and range, inclusive from both ends.
-        /// </summary>
-        public static float NextRandom(float range) { return (float)random.NextDouble() * range; }
+    //    /// <summary>
+    //    /// Return a random float between 0.0 and range, inclusive from both ends.
+    //    /// </summary>
+    //    public static float NextRandom(float range) { return (float)random.NextDouble() * range; }
 
-        /// <summary>
-        /// Return a random float between min and max, inclusive from both ends.
-        /// </summary>
-        public static float NextRandom(float min, float max) { return (float)((random.NextDouble() * (max - min)) + min); }
+    //    /// <summary>
+    //    /// Return a random float between min and max, inclusive from both ends.
+    //    /// </summary>
+    //    public static float NextRandom(float min, float max) { return (float)((random.NextDouble() * (max - min)) + min); }
 
-        /// <summary>
-        /// Return a random integer between min and max - 1.
-        /// </summary>
-        public static int NextRandom(int min, int max) { return random.Next(min, max); }
-    }
+    //    /// <summary>
+    //    /// Return a random integer between min and max - 1.
+    //    /// </summary>
+    //    public static int NextRandom(int min, int max) { return random.Next(min, max); }
+    //}
 }

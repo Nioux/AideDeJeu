@@ -5,7 +5,7 @@
 ### Armure d'écailles de dragon
 
 - AltName: Dragon Scale Mail (SRD p219)
-- Source: (COC p143)
+- Source: (CDC p143)
 -  Armure (armure d'écaille), très rare (harmonisation requise)
 
 Une armure d'écaille de dragon est faite à partir des écailles d'une espèce de dragon. Parfois, un dragon récupère les écailles qu'il a perdues et les offre à un humanoïde, parfois ce sont des chasseurs qui écorchent soigneusement un dragon mort et conservent sa peau. Dans les deux cas, une armure d'écailles de dragon est un objet très précieux.

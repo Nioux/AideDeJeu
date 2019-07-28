@@ -5,7 +5,7 @@
 ### Puits portatif
 
 - AltName: Portable Hole (SRD p233)
-- Source: (COC p180)
+- Source: (CDC p180)
 -  Objet merveilleux, rare
 
 Cette mince étoffe noire, aussi douce que de la soie, est repliée pour tenir aussi peu de place qu'un mouchoir. Dépliée, elle se présente sous forme d'un disque de 1,80 mètre de diamètre.

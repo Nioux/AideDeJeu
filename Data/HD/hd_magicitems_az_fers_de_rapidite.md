@@ -5,7 +5,7 @@
 ### Fers de rapidité
 
 - AltName: Horseshoes of Speed (SRD p226)
-- Source: (COC p164)
+- Source: (CDC p164)
 -  Objet merveilleux, rare
 
 Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature similaire est ferrée des quatre avec eux, ils augmentent sa vitesse au sol de 9 mètres.

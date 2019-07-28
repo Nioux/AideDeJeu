@@ -5,7 +5,7 @@
 ### Manuel des golems
 
 - AltName: Manual of Golems (SRD p229)
-- Source: (COC p171)
+- Source: (CDC p171)
 -  Objet merveilleux, très rare
 
 Ce livre présente des informations et des incantations nécessaires à la fabrication d'un certain type de golems. C'est au MJ de choisir ce type ou de le déterminer au hasard. Pour déchiffrer le manuel et vous en servir, vous devez être un incantateur disposant d'au moins deux emplacements de sort de niveau 5. Si une créature tente de lire le manuel des golems alors qu'elle est incapable de s'en servir, elle subit 6d6 dégâts psychiques.

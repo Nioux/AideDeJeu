@@ -5,7 +5,7 @@
 ### Anneau d'action libre
 
 - AltName: Ring of Free Action (SRD p236)
-- Source: (COC p139)
+- Source: (CDC p139)
 -  Anneau, rare (harmonisation requise)
 
 Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûtent aucun déplacement supplémentaire. De plus, la magie ne peut pas réduire votre vitesse, vous paralyser ou vous entraver.

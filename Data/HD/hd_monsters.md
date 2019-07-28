@@ -7,36 +7,34 @@ Sizes: TP|P|M|G|TG|Gig
 Sources: CEO|SRD
 Terrains: Arctique / Subarctique|Bois / Forêt|Collines / Vallées|Désert chaud|Jungle|Littoral|Mangrove / Marécage|Mer / Océan|Montagnes|Plaine / Champs / Prairie / Savane|Plans élémentaires|Caverne aménagée|Caverne naturelle|Caverne sous-marine|Donjon maçonné|Ruines extérieures|Ruines souterraines|Ruines sous-marines
 Name: Créatures
-Source: (CEO p)(SRD p)
-AltName: '[Monsters](srd_monsters.md)'
 SubItems:
 - !MonsterItem
   Family: MonsterHD
   Name: Aboleth
   Source: (CEO p)(SRD p)
-  AltName: '[Aboleth](srd_monsters_aboleth.md)'
   Type: Aberration
   Size: G
   Alignment: Loyal Mauvais
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 135 (18d10+36)
   Speed: 3 m, nage 12 m
+  SavingThrows: Con +6, Int +8, Sag +6
+  Skills: '[Histoire](hd_abilities_intelligence_histoire.md) +12, [Perception](hd_abilities_wisdom_perception.md) +10'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 20
+  Languages: profond, télépathie 36 m
+  Challenge: 10 (5 900 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 21 (+5)
   Dexterity: ' 9 (-1)'
   Constitution: 15 (+2)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Con +6, Int +8, Sag +6
-  Skills: '[Histoire](hd_abilities_intelligence_histoire.md) +12, [Perception](hd_abilities_wisdom_perception.md) +10'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 20
-  Languages: profond, télépathie 36 m
-  Challenge: 10 (5 900 PX)
   Id: monsters_hd.md#aboleth
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Aboleth](srd_monsters_aboleth.md)'
   AttributesDictionary: >+
     Name: Aboleth
 
@@ -255,24 +253,24 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: loyal mauvais
-  Terrain: Littoral
   ArmorClass: 15 (armure naturelle)
   HitPoints: 104 (16d8+32)
   Speed: 9 m au sol
+  SavingThrows: Int +7, Sag +4, Cha +5
+  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +7, [Perception](hd_abilities_wisdom_perception.md) +6, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +6'
+  DamageResistances: acide et froid
+  DamageImmunities: de poison
+  Senses: vision dans le noir (18 m) ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine
+  Challenge: 7 (2 900 XP)
+  DamageVulnerabilities: feu
+  Terrain: Littoral
   Strength: 16 (+3)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 18 (+4)
   Wisdom: 13 (+1)
   Charisma: 14 (+2)
-  SavingThrows: Int +7, Sag +4, Cha +5
-  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +7, [Perception](hd_abilities_wisdom_perception.md) +6, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +6'
-  Senses: vision dans le noir (18 m) ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: Commun des profondeurs, profond, télépathie (18 m), langue raciale de la créature d'origine
-  Challenge: 7 (2 900 XP)
-  DamageResistances: acide et froid
-  DamageVulnerabilities: feu
-  DamageImmunities: de poison
   Id: monsters_hd.md#abothid
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -492,30 +490,30 @@ SubItems:
   Family: MonsterHD
   Name: Âme-en-peine
   Source: (CEO p)(SRD p)
-  AltName: '[Wraith](srd_monsters_wraith.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Collines / Vallées, Ruines extérieures, Ruines souterraines
   ArmorClass: 13
   HitPoints: 67 (9d8+27)
   Speed: 0 m, vol 18 m (vol stationnaire)
+  DamageResistances: d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de poison et nécrotiques
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: celles qu'elle connaissait de son vivant
+  Challenge: 5 (1 800 PX)
+  Terrain: Collines / Vallées, Ruines extérieures, Ruines souterraines
   Strength: ' 6 (-2)'
   Dexterity: 16 (+3)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 15 (+2)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: celles qu'elle connaissait de son vivant
-  Challenge: 5 (1 800 PX)
-  DamageResistances: d'acide, de feu, de foudre, de froid et de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de poison et nécrotiques
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#Âme-en-peine
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Wraith](srd_monsters_wraith.md)'
   AttributesDictionary: >+
     Name: Âme-en-peine
 
@@ -686,20 +684,20 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: loyal mauvais
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 12
   HitPoints: 71 (13d8+13)
   Speed: 9 m au sol ; nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision dans le noir 18 m ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: commun des profondeurs
+  Challenge: 2 (450 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   Strength: 17 (+3)
   Dexterity: 11 (+0)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 18 m ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: commun des profondeurs
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#amphibe
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -871,30 +869,30 @@ SubItems:
   Family: MonsterHD
   Name: Déva
   Source: (CEO p)(SRD p)
-  AltName: '[Deva](srd_monsters_deva.md)'
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
   ArmorClass: 17 (armure naturelle)
   HitPoints: 136 (16d8+64)
   Speed: 9 m, vol 27 m
+  SavingThrows: Sag +9, Cha +9
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +9, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +9'
+  DamageResistances: radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
+  Languages: toutes, télépathie 36 m
+  Challenge: 10 (5 900 PX)
   Strength: 18 (+4)
   Dexterity: 18 (+4)
   Constitution: 18 (+4)
   Intelligence: 17 (+3)
   Wisdom: 20 (+5)
   Charisma: 20 (+5)
-  SavingThrows: Sag +9, Cha +9
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +9, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +9'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
-  Languages: toutes, télépathie 36 m
-  Challenge: 10 (5 900 PX)
-  DamageResistances: radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#déva
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Deva](srd_monsters_deva.md)'
   AttributesDictionary: >+
     Name: Déva
 
@@ -1102,30 +1100,30 @@ SubItems:
   Family: MonsterHD
   Name: Planétar
   Source: (CEO p)(SRD p)
-  AltName: '[Planetar](srd_monsters_planetar.md)'
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
   ArmorClass: 19 (armure naturelle)
   HitPoints: 200 (16d10+112)
   Speed: 12 m, vol 36 m
+  SavingThrows: Con +12, Sag +11, Cha +12
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +11'
+  DamageResistances: radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
+  Languages: toutes, télépathie 36 m
+  Challenge: 16 (15 000 PX)
   Strength: 24 (+7)
   Dexterity: 20 (+5)
   Constitution: 24 (+7)
   Intelligence: 19 (+4)
   Wisdom: 22 (+6)
   Charisma: 25 (+7)
-  SavingThrows: Con +12, Sag +11, Cha +12
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +11'
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
-  Languages: toutes, télépathie 36 m
-  Challenge: 16 (15 000 PX)
-  DamageResistances: radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#planétar
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Planetar](srd_monsters_planetar.md)'
   AttributesDictionary: >+
     Name: Planétar
 
@@ -1333,31 +1331,31 @@ SubItems:
   Family: MonsterHD
   Name: Solar
   Source: (CEO p)(SRD p)
-  AltName: '[Solar](srd_monsters_solar.md)'
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
   ArmorClass: 21 (armure naturelle)
   HitPoints: 243 (18d10+144)
   Speed: 15 m, vol 45 m
+  SavingThrows: 'Int +14, Sag +14, Cha +17 '
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +14'
+  DamageResistances: radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison et nécrotiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 24
+  Languages: toutes, télépathie 36 m
+  Challenge: 21 (33 000 PX)
   Strength: 26 (+8)
   Dexterity: 22 (+6)
   Constitution: 26 (+8)
   Intelligence: 25 (+7)
   Wisdom: 25 (+7)
   Charisma: 30 (+10)
-  SavingThrows: 'Int +14, Sag +14, Cha +17 '
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +14'
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 24
-  Languages: toutes, télépathie 36 m
-  Challenge: 21 (33 000 PX)
-  DamageResistances: radiants ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison et nécrotiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#solar
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Solar](srd_monsters_solar.md)'
   AttributesDictionary: >+
     Name: Solar
 
@@ -1625,27 +1623,27 @@ SubItems:
   Family: MonsterHD
   Name: Ankheg
   Source: (CEO p)(SRD p)
-  AltName: '[Ankheg](srd_monsters_ankheg.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane, Caverne naturelle
   ArmorClass: 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
   HitPoints: 39 (6d10+6)
   Speed: 9 m, fouissement 3 m
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Plaine / Champs / Prairie / Savane, Caverne naturelle
   Strength: 17 (+3)
   Dexterity: 11 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#ankheg
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ankheg](srd_monsters_ankheg.md)'
   AttributesDictionary: >+
     Name: Ankheg
 
@@ -1777,30 +1775,30 @@ SubItems:
   Family: MonsterHD
   Name: Azer
   Source: (CEO p)(SRD p)
-  AltName: '[Azer](srd_monsters_azer.md)'
   Type: Élémentaire
   Size: M
   Alignment: Loyal Neutre
-  Terrain: Plans élémentaires, Donjon maçonné
   ArmorClass: 17 (armure naturelle, bouclier)
   HitPoints: 39 (6d8+12)
   Speed: 9 m
+  SavingThrows: Con +4
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: ignée
+  Challenge: 2 (450 PX)
+  Terrain: Plans élémentaires, Donjon maçonné
   Strength: 17 (+3)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: 12 (+1)
   Wisdom: 13 (+1)
   Charisma: 10 (+0)
-  SavingThrows: Con +4
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: ignée
-  Challenge: 2 (450 PX)
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#azer
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Azer](srd_monsters_azer.md)'
   AttributesDictionary: >+
     Name: Azer
 
@@ -1968,28 +1966,28 @@ SubItems:
   Family: MonsterHD
   Name: Babélien
   Source: (CEO p)(SRD p)
-  AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
   Type: Aberration
   Size: M
   Alignment: neutre
-  Terrain: Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
   ArmorClass: 9
   HitPoints: 67 (9d8+27)
   Speed: 3 m, nage 3 m
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
   Strength: 10 (+0)
   Dexterity: ' 8 (-1)'
   Constitution: 16 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 2 (450 PX)
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md)'
   Id: monsters_hd.md#babélien
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
   AttributesDictionary: >+
     Name: Babélien
 
@@ -2151,27 +2149,27 @@ SubItems:
   Family: MonsterHD
   Name: Basilic
   Source: (CEO p)(SRD p)
-  AltName: '[Basilisk](srd_monsters_basilisk.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 6 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 3 (700 PX)
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
   Strength: 16 (+3)
   Dexterity: ' 8 (-1)'
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 7 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#basilic
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Basilisk](srd_monsters_basilisk.md)'
   AttributesDictionary: >+
     Name: Basilic
 
@@ -2281,6 +2279,18 @@ SubItems:
 
 
 
+
+
+      ![Basilic by LadyofHats / CC0](https://upload.wikimedia.org/wikipedia/commons/3/3a/DnD_Basilisk.png)
+
+
+
+
+
+      [Basilic by LadyofHats / CC0](https://commons.wikimedia.org/wiki/File:DnD_Basilisk.png)
+
+
+
     Source: (CEO p)(SRD p)
 
     AltName: '[Basilisk](srd_monsters_basilisk.md)'
@@ -2321,29 +2331,29 @@ SubItems:
   Family: MonsterHD
   Name: Béhir
   Source: (CEO p)(SRD p)
-  AltName: '[Behir](srd_monsters_behir.md)'
   Type: Créature monstrueuse
   Size: TG
   Alignment: Neutre Mauvais
-  Terrain: Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 168 (16d12+64)
   Speed: 15 m, escalade 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +6'
+  DamageImmunities: de foudre
+  Senses: vision dans le noir 27 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: draconique
+  Challenge: 11 (7 200 PX)
+  Terrain: Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
   Strength: 23 (+6)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: ' 7 (-2)'
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: vision dans le noir 27 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: draconique
-  Challenge: 11 (7 200 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#béhir
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Behir](srd_monsters_behir.md)'
   AttributesDictionary: >+
     Name: Béhir
 
@@ -2517,28 +2527,28 @@ SubItems:
   Family: MonsterHD
   Name: Bulette
   Source: (CEO p)(SRD p)
-  AltName: '[Bulette](srd_monsters_bulette.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
   ArmorClass: 17 (armure naturelle)
   HitPoints: 94 (9d10+45)
   Speed: 12 m, fouissement 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
   Strength: 19 (+4)
   Dexterity: 11 (+0)
   Constitution: 21 (+5)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: —
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#bulette
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bulette](srd_monsters_bulette.md)'
   AttributesDictionary: >+
     Name: Bulette
 
@@ -2694,28 +2704,28 @@ SubItems:
   Family: MonsterHD
   Name: Centaure
   Source: (CEO p)(SRD p)
-  AltName: '[Centaur](srd_monsters_centaur.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Bon
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 45 (6d10+12)
   Speed: 15 m
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: elfe, sylvestre
+  Challenge: 2 (450 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 9 (-1)'
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: elfe, sylvestre
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#centaure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Centaur](srd_monsters_centaur.md)'
   AttributesDictionary: >+
     Name: Centaure
 
@@ -2892,22 +2902,22 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt, Jungle, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +10'
+  DamageImmunities: de poison
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 12 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 20
+  Languages: —
+  Challenge: 6 (2 300 PX)
+  Terrain: Bois / Forêt, Jungle, Montagnes
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +10'
-  Senses: vision parfaite 12 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 20
-  Languages: —
-  Challenge: 6 (2 300 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#cerbère
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -3073,28 +3083,28 @@ SubItems:
   Family: MonsterHD
   Name: Criard
   Source: (CEO p)(SRD p)
-  AltName: '[Shrieker](srd_monsters_shrieker.md)'
   Type: Plante
   Size: M
   Alignment: non-alignée
-  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 5
   HitPoints: 13 (3d8)
   Speed: 0 m
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   Strength: ' 1 (-5)'
   Dexterity: ' 1 (-5)'
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
-  Languages: —
-  Challenge: 0 (10 PX)
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#criard
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Shrieker](srd_monsters_shrieker.md)'
   AttributesDictionary: >+
     Name: Criard
 
@@ -3232,28 +3242,28 @@ SubItems:
   Family: MonsterHD
   Name: Moisissure violette
   Source: (CEO p)(SRD p)
-  AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
   Type: Plante
   Size: M
   Alignment: non-alignée
-  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 5
   HitPoints: 18 (4d8)
   Speed: 1,50 m
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   Strength: ' 3 (-4)'
   Dexterity: ' 1 (-5)'
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 9 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#moisissure-violette
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
   AttributesDictionary: >+
     Name: Moisissure violette
 
@@ -3403,28 +3413,28 @@ SubItems:
   Family: MonsterHD
   Name: Chimère
   Source: (CEO p)(SRD p)
-  AltName: '[Chimera](srd_monsters_chimera.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Bois / Forêt, Montagnes, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 9 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +8'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: comprend le draconique mais ne peut pas parler
+  Challenge: 6 (2 300 PX)
+  Terrain: Bois / Forêt, Montagnes, Ruines extérieures
   Strength: 19 (+4)
   Dexterity: 11 (+0)
   Constitution: 19 (+4)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +8'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: comprend le draconique mais ne peut pas parler
-  Challenge: 6 (2 300 PX)
   Id: monsters_hd.md#chimère
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Chimera](srd_monsters_chimera.md)'
   AttributesDictionary: >+
     Name: Chimère
 
@@ -3592,30 +3602,30 @@ SubItems:
   Family: MonsterHD
   Name: Chuul
   Source: (CEO p)(SRD p)
-  AltName: '[Chuul](srd_monsters_chuul.md)'
   Type: Aberration
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   ArmorClass: 16 (armure naturelle)
   HitPoints: 93 (11d10+33)
   Speed: 9 m, nage 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: comprend le profond mais ne peut pas parler
+  Challenge: 4 (1 100 PX)
+  Terrain: Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: 11 (+0)
   Charisma: ' 5 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: comprend le profond mais ne peut pas parler
-  Challenge: 4 (1 100 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#chuul
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Chuul](srd_monsters_chuul.md)'
   AttributesDictionary: >+
     Name: Chuul
 
@@ -3795,27 +3805,27 @@ SubItems:
   Family: MonsterHD
   Name: Cockatrice
   Source: (CEO p)(SRD p)
-  AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 27 (6d6+6)
   Speed: 6 m, vol 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: ' 6 (-2)'
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#cockatrice
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
   AttributesDictionary: >+
     Name: Cockatrice
 
@@ -3941,30 +3951,30 @@ SubItems:
   Family: MonsterHD
   Name: Couatl
   Source: (CEO p)(SRD p)
-  AltName: '[Couatl](srd_monsters_couatl.md)'
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 19 (armure naturelle)
   HitPoints: 97 (13d8+39)
   Speed: 9 m, vol 27 m
+  SavingThrows: Con +5, Sag +7, Cha +6
+  DamageResistances: radiants
+  DamageImmunities: psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: toutes, télépathie 36 m
+  Challenge: 4 (1 100 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 16 (+3)
   Dexterity: 20 (+5)
   Constitution: 17 (+3)
   Intelligence: 18 (+4)
   Wisdom: 20 (+5)
   Charisma: 18 (+4)
-  SavingThrows: Con +5, Sag +7, Cha +6
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: toutes, télépathie 36 m
-  Challenge: 4 (1 100 PX)
-  DamageResistances: radiants
-  DamageImmunities: psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
   Id: monsters_hd.md#couatl
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Couatl](srd_monsters_couatl.md)'
   AttributesDictionary: >+
     Name: Couatl
 
@@ -4192,17 +4202,17 @@ SubItems:
   ArmorClass: 18 (harnois)
   HitPoints: 65 (10d8+20)
   Speed: 9 m
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Perception](hd_abilities_wisdom_perception.md) +2'
+  DamageResistances: de feu
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun, draconique
+  Challenge: 5 (1 800 PX)
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun, draconique
-  Challenge: 5 (1 800 PX)
-  DamageResistances: de feu
   Id: monsters_hd.md#vétéran-demi-dragon-rouge
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -4372,30 +4382,30 @@ SubItems:
   Family: MonsterHD
   Name: Balor
   Source: (CEO p)(SRD p)
-  AltName: '[Balor](srd_monsters_balor.md)'
   Type: Fiélon (démon)
   Size: TG
   Alignment: Chaotique Mauvais
   ArmorClass: 19 (armure naturelle)
   HitPoints: 262 (21d12+126)
   Speed: 12 m, vol 24 m
+  SavingThrows: For +14, Con +12, Sag +9, Cha +12
+  DamageResistances: de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: abyssal, télépathie 36 m
+  Challenge: 19 (22 000 PX)
   Strength: 26 (+8)
   Dexterity: 15 (+2)
   Constitution: 22 (+6)
   Intelligence: 20 (+5)
   Wisdom: 16 (+3)
   Charisma: 22 (+6)
-  SavingThrows: For +14, Con +12, Sag +9, Cha +12
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: abyssal, télépathie 36 m
-  Challenge: 19 (22 000 PX)
-  DamageResistances: de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#balor
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Balor](srd_monsters_balor.md)'
   AttributesDictionary: >+
     Name: Balor
 
@@ -4597,29 +4607,29 @@ SubItems:
   Family: MonsterHD
   Name: Dretch
   Source: (CEO p)(SRD p)
-  AltName: '[Dretch](srd_monsters_dretch.md)'
   Type: Fiélon (démon)
   Size: P
   Alignment: Chaotique Mauvais
   ArmorClass: 11 (armure naturelle)
   HitPoints: 18 (4d6+4)
   Speed: 6 m
+  DamageResistances: de feu, de foudre et de froid
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
+  Challenge: 1/4 (50 PX)
   Strength: 11 (+0)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 5 (-3)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 3 (-4)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: abyssal, télépathie 18 m (fonctionne uniquement avec les créatures qui comprennent l'abyssal)
-  Challenge: 1/4 (50 PX)
-  DamageResistances: de feu, de foudre et de froid
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#dretch
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Dretch](srd_monsters_dretch.md)'
   AttributesDictionary: >+
     Name: Dretch
 
@@ -4785,30 +4795,30 @@ SubItems:
   Family: MonsterHD
   Name: Glabrezu
   Source: (CEO p)(SRD p)
-  AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
   ArmorClass: 17 (armure naturelle)
   HitPoints: 157 (15d10+75)
   Speed: 12 m
+  SavingThrows: For +9, Con +9, Sag +7, Cha +7
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: abyssal, télépathie 36 m
+  Challenge: 9 (5 000 PX)
   Strength: 20 (+5)
   Dexterity: 15 (+2)
   Constitution: 21 (+5)
   Intelligence: 19 (+4)
   Wisdom: 17 (+3)
   Charisma: 16 (+3)
-  SavingThrows: For +9, Con +9, Sag +7, Cha +7
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: abyssal, télépathie 36 m
-  Challenge: 9 (5 000 PX)
-  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#glabrezu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
   AttributesDictionary: >+
     Name: Glabrezu
 
@@ -5004,30 +5014,30 @@ SubItems:
   Family: MonsterHD
   Name: Hezrou
   Source: (CEO p)(SRD p)
-  AltName: '[Hezrou](srd_monsters_hezrou.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
   ArmorClass: 16 (armure naturelle)
   HitPoints: 136 (13d10+65)
   Speed: 9 m
+  SavingThrows: For +7, Con +8, Sag +4
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: abyssal, télépathie 36 m
+  Challenge: 8 (3 900 PX)
   Strength: 19 (+4)
   Dexterity: 17 (+3)
   Constitution: 20 (+5)
   Intelligence: ' 5 (-3)'
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
-  SavingThrows: For +7, Con +8, Sag +4
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: abyssal, télépathie 36 m
-  Challenge: 8 (3 900 PX)
-  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#hezrou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hezrou](srd_monsters_hezrou.md)'
   AttributesDictionary: >+
     Name: Hezrou
 
@@ -5217,30 +5227,30 @@ SubItems:
   Family: MonsterHD
   Name: Marilith
   Source: (CEO p)(SRD p)
-  AltName: '[Marilith](srd_monsters_marilith.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
   ArmorClass: 18 (armure naturelle)
   HitPoints: 189 (18d10+90)
   Speed: 12 m
+  SavingThrows: For +9, Con +10, Sag +8, Cha +10
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: abyssal, télépathie 36 m
+  Challenge: 16 (15 000 PX)
   Strength: 18 (+4)
   Dexterity: 20 (+5)
   Constitution: 20 (+5)
   Intelligence: 18 (+4)
   Wisdom: 16 (+3)
   Charisma: 20 (+5)
-  SavingThrows: For +9, Con +10, Sag +8, Cha +10
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: abyssal, télépathie 36 m
-  Challenge: 16 (15 000 PX)
-  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#marilith
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Marilith](srd_monsters_marilith.md)'
   AttributesDictionary: >+
     Name: Marilith
 
@@ -5454,30 +5464,30 @@ SubItems:
   Family: MonsterHD
   Name: Nalfeshnie
   Source: (CEO p)(SRD p)
-  AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
   ArmorClass: 18 (armure naturelle)
   HitPoints: 184 (16d10+96)
   Speed: 6 m, vol 9 m
+  SavingThrows: Con +11, Int +9, Sag +6, Cha +7
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: abyssal, télépathie 36 m
+  Challenge: 13 (10 000 PX)
   Strength: 21 (+5)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: 19 (+4)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Con +11, Int +9, Sag +6, Cha +7
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: abyssal, télépathie 36 m
-  Challenge: 13 (10 000 PX)
-  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#nalfeshnie
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
   AttributesDictionary: >+
     Name: Nalfeshnie
 
@@ -5679,30 +5689,30 @@ SubItems:
   Family: MonsterHD
   Name: Quasit
   Source: (CEO p)(SRD p)
-  AltName: '[Quasit](srd_monsters_quasit.md)'
   Type: Fiélon (démon, métamorphe)
   Size: TP
   Alignment: Chaotique Mauvais
   ArmorClass: 13
   HitPoints: 7 (3d4)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: abyssal, commun
+  Challenge: 1 (200 PX)
   Strength: ' 5 (-3)'
   Dexterity: 17 (+3)
   Constitution: 10 (+0)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: abyssal, commun
-  Challenge: 1 (200 PX)
-  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#quasit
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Quasit](srd_monsters_quasit.md)'
   AttributesDictionary: >+
     Name: Quasit
 
@@ -5892,30 +5902,30 @@ SubItems:
   Family: MonsterHD
   Name: Vrock
   Source: (CEO p)(SRD p)
-  AltName: '[Vrock](srd_monsters_vrock.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
   ArmorClass: 15 (armure naturelle)
   HitPoints: 104 (11d10+44)
   Speed: 12 m, vol 18 m
+  SavingThrows: Dex +5, Sag +4, Cha +2
+  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: abyssal, télépathie 36 m
+  Challenge: 6 (2 300 PX)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 18 (+4)
   Intelligence: ' 8 (-1)'
   Wisdom: 13 (+1)
   Charisma: ' 8 (-1)'
-  SavingThrows: Dex +5, Sag +4, Cha +2
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: abyssal, télépathie 36 m
-  Challenge: 6 (2 300 PX)
-  DamageResistances: de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#vrock
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Vrock](srd_monsters_vrock.md)'
   AttributesDictionary: >+
     Name: Vrock
 
@@ -6111,27 +6121,27 @@ SubItems:
   Family: MonsterHD
   Name: Destrier noir
   Source: (CEO p)(SRD p)
-  AltName: '[Nightmare](srd_monsters_nightmare.md)'
   Type: Fiélon
   Size: G
   Alignment: Neutre Mauvais
   ArmorClass: 13 (armure naturelle)
   HitPoints: 68 (8d10+24)
   Speed: 18 m, vol 27 m
+  DamageImmunities: de feu
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: comprend l'abyssal, le commun et l'infernal mais ne peut pas parler
+  Challenge: 3 (700 PX)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: comprend l'abyssal, le commun et l'infernal mais ne peut pas parler
-  Challenge: 3 (700 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#destrier-noir
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Nightmare](srd_monsters_nightmare.md)'
   AttributesDictionary: >+
     Name: Destrier noir
 
@@ -6288,21 +6298,21 @@ SubItems:
   Type: Aberration
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Caverne aménagée, Donjon maçonné
   ArmorClass: 15
   HitPoints: 212 (25d10+75)
   Speed: 1,50 m au sol ; 9 mètres en vol
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md), [à terre](hd_conditions_a_terre.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà) ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: profond, commun des profondeurs, télépathie (36 m)
+  Challenge: 13 (10 000 XP)
+  Terrain: Caverne aménagée, Donjon maçonné
   Strength: 12 (+1)
   Dexterity: 14 (+2)
   Constitution: 16 (+3)
   Intelligence: 15 (+2)
   Wisdom: 14 (+2)
   Charisma: 18 (+4)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 18 m (aveugle au-delà) ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: profond, commun des profondeurs, télépathie (36 m)
-  Challenge: 13 (10 000 XP)
-  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md), [à terre](hd_conditions_a_terre.md)'
   Id: monsters_hd.md#dévoreur-arcanique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -6576,31 +6586,31 @@ SubItems:
   Family: MonsterHD
   Name: Diable barbelé
   Source: (CEO p)(SRD p)
-  AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 15 (armure naturelle)
   HitPoints: 110 (13d8+52)
   Speed: 9 m
+  SavingThrows: For +6, Con +7, Sag +5, Cha +5
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +8, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +5, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: infernal, télépathie 36 m
+  Challenge: 5 (1 800 PX)
   Strength: 16 (+3)
   Dexterity: 17 (+3)
   Constitution: 18 (+4)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  SavingThrows: For +6, Con +7, Sag +5, Cha +5
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +8, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +5, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: infernal, télépathie 36 m
-  Challenge: 5 (1 800 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diable-barbelé
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
   AttributesDictionary: >+
     Name: Diable barbelé
 
@@ -6808,30 +6818,30 @@ SubItems:
   Family: MonsterHD
   Name: Diable barbu
   Source: (CEO p)(SRD p)
-  AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 13 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 9 m
+  SavingThrows: For +5, Con +4, Sag +2
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: infernal, télépathie 36 m
+  Challenge: 3 (700 PX)
   Strength: 16 (+3)
   Dexterity: 15 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 9 (-1)'
   Wisdom: 11 (+0)
   Charisma: 11 (+0)
-  SavingThrows: For +5, Con +4, Sag +2
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: infernal, télépathie 36 m
-  Challenge: 3 (700 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diable-barbu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
   AttributesDictionary: >+
     Name: Diable barbu
 
@@ -7021,30 +7031,30 @@ SubItems:
   Family: MonsterHD
   Name: Diable cornu
   Source: (CEO p)(SRD p)
-  AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
   ArmorClass: 18 (armure naturelle)
   HitPoints: 178 (17d10+85)
   Speed: 6 m, vol 18 m
+  SavingThrows: For +10, Dex +7, Sag +7, Cha +7
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: infernal, télépathie 36 m
+  Challenge: 11 (7 200 PX)
   Strength: 22 (+6)
   Dexterity: 17 (+3)
   Constitution: 21 (+5)
   Intelligence: 12 (+1)
   Wisdom: 16 (+3)
   Charisma: 17 (+3)
-  SavingThrows: For +10, Dex +7, Sag +7, Cha +7
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: infernal, télépathie 36 m
-  Challenge: 11 (7 200 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diable-cornu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
   AttributesDictionary: >+
     Name: Diable cornu
 
@@ -7240,30 +7250,30 @@ SubItems:
   Family: MonsterHD
   Name: Diable gelé
   Source: (CEO p)(SRD p)
-  AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
   ArmorClass: 18 (armure naturelle)
   HitPoints: 180 (19d10+76)
   Speed: 12 m
+  SavingThrows: Dex +7, Con +9, Sag +7, Cha +9
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de froid et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: infernal, télépathie 36 m
+  Challenge: 14 (11 500 PX)
   Strength: 21 (+5)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Dex +7, Con +9, Sag +7, Cha +9
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: infernal, télépathie 36 m
-  Challenge: 14 (11 500 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de froid et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diable-gelé
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
   AttributesDictionary: >+
     Name: Diable gelé
 
@@ -7501,30 +7511,30 @@ SubItems:
   Family: MonsterHD
   Name: Diable des chaînes
   Source: (CEO p)(SRD p)
-  AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 16 (armure naturelle)
   HitPoints: 85 (10d8+40)
   Speed: 9 m
+  SavingThrows: Con +7, Sag +4, Cha +5
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: infernal, télépathie 36 m
+  Challenge: 8 (3 900 PX)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 18 (+4)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  SavingThrows: Con +7, Sag +4, Cha +5
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: infernal, télépathie 36 m
-  Challenge: 8 (3 900 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diable-des-chaînes
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
   AttributesDictionary: >+
     Name: Diable des chaînes
 
@@ -7726,31 +7736,31 @@ SubItems:
   Family: MonsterHD
   Name: Diable osseux
   Source: (CEO p)(SRD p)
-  AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
   ArmorClass: 19 (armure naturelle)
   HitPoints: 142 (15d10+60)
   Speed: 12 m, vol 12 m
+  SavingThrows: Int +5, Sag +6, Cha +7
+  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: infernal, télépathie 36 m
+  Challenge: 9 (5 000 PX)
   Strength: 18 (+4)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Int +5, Sag +6, Cha +7
-  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: infernal, télépathie 36 m
-  Challenge: 9 (5 000 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diable-osseux
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
   AttributesDictionary: >+
     Name: Diable osseux
 
@@ -7940,30 +7950,30 @@ SubItems:
   Family: MonsterHD
   Name: Diablotin
   Source: (CEO p)(SRD p)
-  AltName: '[Imp](srd_monsters_imp.md)'
   Type: Fiélon (diable, métamorphe)
   Size: TP
   Alignment: Loyal Mauvais
   ArmorClass: 13
   HitPoints: 10 (3d4+3)
   Speed: 6 m, vol 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +3, [Persuasion](hd_abilities_charisma_persuasion.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: commun, infernal
+  Challenge: 1 (200 PX)
   Strength: ' 6 (-2)'
   Dexterity: 17 (+3)
   Constitution: 13 (+1)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +3, [Persuasion](hd_abilities_charisma_persuasion.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: commun, infernal
-  Challenge: 1 (200 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diablotin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Imp](srd_monsters_imp.md)'
   AttributesDictionary: >+
     Name: Diablotin
 
@@ -8147,30 +8157,30 @@ SubItems:
   Family: MonsterHD
   Name: Diantrefosse
   Source: (CEO p)(SRD p)
-  AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
   ArmorClass: 19 (armure naturelle)
   HitPoints: 300 (24d10+168)
   Speed: 9 m, vol 18 m
+  SavingThrows: Dex +8, Con +13, Sag +10
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: infernal, télépathie 36 m
+  Challenge: 20 (25 000 PX)
   Strength: 26 (+8)
   Dexterity: 14 (+2)
   Constitution: 24 (+7)
   Intelligence: 22 (+6)
   Wisdom: 18 (+4)
   Charisma: 24 (+7)
-  SavingThrows: Dex +8, Con +13, Sag +10
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: infernal, télépathie 36 m
-  Challenge: 20 (25 000 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#diantrefosse
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
   AttributesDictionary: >+
     Name: Diantrefosse
 
@@ -8402,30 +8412,30 @@ SubItems:
   Family: MonsterHD
   Name: Érinye
   Source: (CEO p)(SRD p)
-  AltName: '[Erinyes](srd_monsters_erinyes.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 18 (harnois)
   HitPoints: 153 (18d8+72)
   Speed: 9 m, vol 18 m
+  SavingThrows: Dex +7, Con +8, Sag +6, Cha +8
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: infernal, télépathie 36 m
+  Challenge: 12 (8 400 PX)
   Strength: 18 (+4)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: 14 (+2)
   Wisdom: 14 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Dex +7, Con +8, Sag +6, Cha +8
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: infernal, télépathie 36 m
-  Challenge: 12 (8 400 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#Érinye
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Erinyes](srd_monsters_erinyes.md)'
   AttributesDictionary: >+
     Name: Érinye
 
@@ -8621,29 +8631,29 @@ SubItems:
   Family: MonsterHD
   Name: Lémure
   Source: (CEO p)(SRD p)
-  AltName: '[Lemure](srd_monsters_lemure.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 7
   HitPoints: 13 (3d8)
   Speed: 4,50 m
+  DamageResistances: de froid
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend l'infernal mais ne peut pas parler
+  Challenge: 0 (10 PX)
   Strength: 10 (+0)
   Dexterity: ' 5 (-3)'
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 11 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend l'infernal mais ne peut pas parler
-  Challenge: 0 (10 PX)
-  DamageResistances: de froid
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#lémure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Lemure](srd_monsters_lemure.md)'
   AttributesDictionary: >+
     Name: Lémure
 
@@ -8809,16 +8819,16 @@ SubItems:
   ArmorClass: 14
   HitPoints: 199 (19d12+76)
   Speed: 9 m
+  DamageResistances: voir description
+  Senses: vision dans le noir (18 m)
+  Languages: diaspaad, répète des mots sans les comprendre
+  Challenge: 10 (5 900 XP)
   Strength: 20 (+5)
   Dexterity: 12 (+1)
   Constitution: 18 (+4)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: vision dans le noir (18 m)
-  Languages: diaspaad, répète des mots sans les comprendre
-  Challenge: 10 (5 900 XP)
-  DamageResistances: voir description
   Id: monsters_hd.md#diaspaad
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -8994,28 +9004,28 @@ SubItems:
   Family: MonsterHD
   Name: Plésiosaure
   Source: (CEO p)(SRD p)
-  AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 68 (8d10+24)
   Speed: 6 m, nage 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#plésiosaure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
   AttributesDictionary: >+
     Name: Plésiosaure
 
@@ -9159,27 +9169,27 @@ SubItems:
   Family: MonsterHD
   Name: Tricératops
   Source: (CEO p)(SRD p)
-  AltName: '[Triceratops](srd_monsters_triceratops.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13 (armure naturelle)
   HitPoints: 95 (10d12+30)
   Speed: 15 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 22 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#tricératops
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Triceratops](srd_monsters_triceratops.md)'
   AttributesDictionary: >+
     Name: Tricératops
 
@@ -9329,28 +9339,28 @@ SubItems:
   Family: MonsterHD
   Name: Tyrannosaure
   Source: (CEO p)(SRD p)
-  AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Jungle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 136 (13d12+52)
   Speed: 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 8 (3 900 PX)
+  Terrain: Bois / Forêt, Jungle
   Strength: 25 (+7)
   Dexterity: 10 (+0)
   Constitution: 19 (+4)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 9 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 8 (3 900 PX)
   Id: monsters_hd.md#tyrannosaure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
   AttributesDictionary: >+
     Name: Tyrannosaure
 
@@ -9500,29 +9510,29 @@ SubItems:
   Family: MonsterHD
   Name: Doppleganger
   Source: (CEO p)(SRD p)
-  AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
   Type: Créature monstrueuse (métamorphe)
   Size: M
   Alignment: neutre
-  Terrain: Donjon maçonné
   ArmorClass: 14
   HitPoints: 52 (8d8+16)
   Speed: 9 m
+  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +3, [Supercherie](hd_abilities_charisma_supercherie.md) +6'
+  ConditionImmunities: '[charmé](hd_conditions_charme.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: commun
+  Challenge: 3 (700 PX)
+  Terrain: Donjon maçonné
   Strength: 11 (+0)
   Dexterity: 18 (+4)
   Constitution: 14 (+2)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +3, [Supercherie](hd_abilities_charisma_supercherie.md) +6'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: commun
-  Challenge: 3 (700 PX)
-  ConditionImmunities: '[charmé](hd_conditions_charme.md)'
   Id: monsters_hd.md#doppleganger
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
   AttributesDictionary: >+
     Name: Doppleganger
 
@@ -9702,30 +9712,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon blanc vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 20 (armure naturelle)
   HitPoints: 333 (18d20+144)
   Speed: 12 m, fouissement 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +6, Con +14, Sag +7, Cha +8
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13'
+  DamageImmunities: de froid
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23
+  Languages: commun, draconique
+  Challenge: 20 (25 000 PX)
+  Terrain: Arctique / Subarctique
   Strength: 26 (+8)
   Dexterity: 10 (+0)
   Constitution: 26 (+8)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 14 (+2)
-  SavingThrows: Dex +6, Con +14, Sag +7, Cha +8
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23
-  Languages: commun, draconique
-  Challenge: 20 (25 000 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#dragon-blanc-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon blanc vénérable
 
@@ -9959,30 +9969,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon blanc adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 18 (armure naturelle)
   HitPoints: 200 (16d12+96)
   Speed: 12 m, fouissement 9 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +5, Con +11, Sag +6, Cha +6
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +11'
+  DamageImmunities: de froid
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
+  Languages: commun, draconique
+  Challenge: 13 (10 000 PX)
+  Terrain: Arctique / Subarctique
   Strength: 22 (+6)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: ' 8 (-1)'
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  SavingThrows: Dex +5, Con +11, Sag +6, Cha +6
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +11'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
-  Languages: commun, draconique
-  Challenge: 13 (10 000 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#dragon-blanc-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon blanc adulte
 
@@ -10216,30 +10226,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon blanc
   Source: (CEO p)(SRD p)
-  AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 17 (armure naturelle)
   HitPoints: 133 (14d10+56)
   Speed: 12 m, fouissement 6 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +3, Con +7, Sag +3, Cha +4
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6'
+  DamageImmunities: de froid
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: commun, draconique
+  Challenge: 6 (2 300 PX)
+  Terrain: Arctique / Subarctique
   Strength: 18 (+4)
   Dexterity: 10 (+0)
   Constitution: 18 (+4)
   Intelligence: ' 6 (-2)'
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  SavingThrows: Dex +3, Con +7, Sag +3, Cha +4
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: commun, draconique
-  Challenge: 6 (2 300 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#jeune-dragon-blanc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon blanc
 
@@ -10419,30 +10429,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet blanc
   Source: (CEO p)(SRD p)
-  AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 16 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, fouissement 4,50 m, nage 9 m, vol 18 m
+  SavingThrows: Dex +2, Con +4, Sag +2, Cha +2
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de froid
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
+  Terrain: Arctique / Subarctique
   Strength: 14 (+2)
   Dexterity: 10 (+0)
   Constitution: 14 (+2)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  SavingThrows: Dex +2, Con +4, Sag +2, Cha +2
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 2 (450 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#dragonnet-blanc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet blanc
 
@@ -10592,30 +10602,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon bleu vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Littoral
   ArmorClass: 22 (armure naturelle)
   HitPoints: 481 (26d20+208)
   Speed: 12 m, fouissement 12 m, vol 24 m
+  SavingThrows: Dex +7, Con +15, Sag +10, Cha +12
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +17'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
+  Languages: commun, draconique
+  Challenge: 23 (50 000 PX)
+  Terrain: Désert chaud, Littoral
   Strength: 29 (+9)
   Dexterity: 10 (+0)
   Constitution: 27 (+8)
   Intelligence: 18 (+4)
   Wisdom: 17 (+3)
   Charisma: 21 (+5)
-  SavingThrows: Dex +7, Con +15, Sag +10, Cha +12
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +17'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
-  Languages: commun, draconique
-  Challenge: 23 (50 000 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#dragon-bleu-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon bleu vénérable
 
@@ -10843,30 +10853,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon bleu adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Littoral
   ArmorClass: 19 (armure naturelle)
   HitPoints: 225 (18d12+108)
   Speed: 12 m, fouissement 9 m, vol 24 m
+  SavingThrows: Dex +5, Con +11, Sag +7, Cha +9
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +12'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
+  Languages: commun, draconique
+  Challenge: 16 (15 000 PX)
+  Terrain: Désert chaud, Littoral
   Strength: 25 (+7)
   Dexterity: 10 (+0)
   Constitution: 23 (+6)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 19 (+4)
-  SavingThrows: Dex +5, Con +11, Sag +7, Cha +9
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +12'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
-  Languages: commun, draconique
-  Challenge: 16 (15 000 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#dragon-bleu-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon bleu adulte
 
@@ -11094,30 +11104,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon bleu
   Source: (CEO p)(SRD p)
-  AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Littoral
   ArmorClass: 18 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 12 m, fouissement 6 m, vol 24 m
+  SavingThrows: Dex +4, Con +8, Sag +5, Cha +7
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +9'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
+  Languages: commun, draconique
+  Challenge: 9 (5 000 PX)
+  Terrain: Désert chaud, Littoral
   Strength: 21 (+5)
   Dexterity: 10 (+0)
   Constitution: 19 (+4)
   Intelligence: 14 (+2)
   Wisdom: 13 (+1)
   Charisma: 17 (+3)
-  SavingThrows: Dex +4, Con +8, Sag +5, Cha +7
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +9'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
-  Languages: commun, draconique
-  Challenge: 9 (5 000 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#jeune-dragon-bleu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon bleu
 
@@ -11285,30 +11295,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet bleu
   Source: (CEO p)(SRD p)
-  AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Littoral
   ArmorClass: 17 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 9 m, fouissement 4,50 m, vol 18 m
+  SavingThrows: Dex +2, Con +4, Sag +2, Cha +4
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 3 (700 PX)
+  Terrain: Désert chaud, Littoral
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Dex +2, Con +4, Sag +2, Cha +4
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 3 (700 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#dragonnet-bleu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet bleu
 
@@ -11458,30 +11468,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon noir vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 22 (armure naturelle)
   HitPoints: 367 (21d20+147)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +9, Con +14, Sag +9, Cha +11
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +16'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 26
+  Languages: commun, draconique
+  Challenge: 21 (33 000 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 27 (+8)
   Dexterity: 14 (+2)
   Constitution: 25 (+7)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 19 (+4)
-  SavingThrows: Dex +9, Con +14, Sag +9, Cha +11
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +16'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 26
-  Languages: commun, draconique
-  Challenge: 21 (33 000 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#dragon-noir-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon noir vénérable
 
@@ -11709,30 +11719,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon noir adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 19 (armure naturelle)
   HitPoints: 195 (17d12+85)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +7, Con +10, Sag +6, Cha +8
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +11'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
+  Languages: commun, draconique
+  Challenge: 14 (11 500 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 23 (+6)
   Dexterity: 14 (+2)
   Constitution: 21 (+5)
   Intelligence: 14 (+2)
   Wisdom: 13 (+1)
   Charisma: 17 (+3)
-  SavingThrows: Dex +7, Con +10, Sag +6, Cha +8
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +11'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
-  Languages: commun, draconique
-  Challenge: 14 (11 500 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#dragon-noir-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon noir adulte
 
@@ -11966,30 +11976,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon noir
   Source: (CEO p)(SRD p)
-  AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 18 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +5, Con +6, Sag +3, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +6'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: commun, draconique
+  Challenge: 7 (2 900 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 19 (+4)
   Dexterity: 14 (+2)
   Constitution: 17 (+3)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Dex +5, Con +6, Sag +3, Cha +5
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: commun, draconique
-  Challenge: 7 (2 900 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#jeune-dragon-noir
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon noir
 
@@ -12169,30 +12179,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet noir
   Source: (CEO p)(SRD p)
-  AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Mangrove / Marécage
   ArmorClass: 17 (armure naturelle)
   HitPoints: 33 (6d8+6)
   Speed: 9 m, nage 9 m, vol 18 m
+  SavingThrows: Dex +4, Con +3, Sag +2, Cha +3
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
+  Terrain: Mangrove / Marécage
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 13 (+1)
-  SavingThrows: Dex +4, Con +3, Sag +2, Cha +3
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 2 (450 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#dragonnet-noir
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet noir
 
@@ -12354,30 +12364,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon rouge vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
-  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 22 (armure naturelle)
   HitPoints: 546 (28d20+252)
   Speed: 12 m, escalade 12 m, vol 24 m
+  SavingThrows: Dex +7, Con +16, Sag +9, Cha +13
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +16'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 26
+  Languages: commun, draconique
+  Challenge: 24 (62 000 PX)
+  Terrain: Montagnes, Ruines souterraines
   Strength: 30 (+10)
   Dexterity: 10 (+0)
   Constitution: 29 (+9)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 23 (+6)
-  SavingThrows: Dex +7, Con +16, Sag +9, Cha +13
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +16'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 26
-  Languages: commun, draconique
-  Challenge: 24 (62 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragon-rouge-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon rouge vénérable
 
@@ -12605,30 +12615,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon rouge adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
-  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 19 (armure naturelle)
   HitPoints: 256 (19d12+133)
   Speed: 12 m, escalade 12 m, vol 24 m
+  SavingThrows: Dex +6, Con +13, Sag +7, Cha +11
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23
+  Languages: commun, draconique
+  Challenge: 17 (18 000 PX)
+  Terrain: Montagnes, Ruines souterraines
   Strength: 27 (+8)
   Dexterity: 10 (+0)
   Constitution: 25 (+7)
   Intelligence: 16 (+3)
   Wisdom: 13 (+1)
   Charisma: 21 (+5)
-  SavingThrows: Dex +6, Con +13, Sag +7, Cha +11
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +13'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 23
-  Languages: commun, draconique
-  Challenge: 17 (18 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragon-rouge-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon rouge adulte
 
@@ -12856,30 +12866,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon rouge
   Source: (CEO p)(SRD p)
-  AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 178 (17d10+85)
   Speed: 12 m, escalade 12 m, vol 24 m
+  SavingThrows: Dex +4, Con +9, Sag +4, Cha +8
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +8'
+  DamageImmunities: de feu
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: commun, draconique
+  Challenge: 10 (5 900 PX)
+  Terrain: Montagnes, Ruines souterraines
   Strength: 23 (+6)
   Dexterity: 10 (+0)
   Constitution: 21 (+5)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 19 (+4)
-  SavingThrows: Dex +4, Con +9, Sag +4, Cha +8
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +8'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: commun, draconique
-  Challenge: 10 (5 900 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#jeune-dragon-rouge
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon rouge
 
@@ -13047,30 +13057,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet rouge
   Source: (CEO p)(SRD p)
-  AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Montagnes, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 75 (10d8+30)
   Speed: 9 m, escalade 9 m, vol 18 m
+  SavingThrows: Dex +2, Con +5, Sag +2, Cha +4
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de feu
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 4 (1 100 PX)
+  Terrain: Montagnes, Ruines souterraines
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Dex +2, Con +5, Sag +2, Cha +4
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 4 (1 100 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragonnet-rouge
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet rouge
 
@@ -13220,31 +13230,31 @@ SubItems:
   Family: MonsterHD
   Name: Dragon vert vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Mauvais
-  Terrain: Bois / Forêt, Jungle
   ArmorClass: 21 (armure naturelle)
   HitPoints: 385 (22d20+154)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +8, Con +14, Sag +10, Cha +11
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +17, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +10, [Persuasion](hd_abilities_charisma_persuasion.md) +11, [Supercherie](hd_abilities_charisma_supercherie.md) +11'
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
+  Languages: commun, draconique
+  Challenge: 22 (41 000 PX)
+  Terrain: Bois / Forêt, Jungle
   Strength: 27 (+8)
   Dexterity: 12 (+1)
   Constitution: 25 (+7)
   Intelligence: 20 (+5)
   Wisdom: 17 (+3)
   Charisma: 19 (+4)
-  SavingThrows: Dex +8, Con +14, Sag +10, Cha +11
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +17, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +10, [Persuasion](hd_abilities_charisma_persuasion.md) +11, [Supercherie](hd_abilities_charisma_supercherie.md) +11'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
-  Languages: commun, draconique
-  Challenge: 22 (41 000 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#dragon-vert-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon vert vénérable
 
@@ -13490,31 +13500,31 @@ SubItems:
   Family: MonsterHD
   Name: Dragon vert adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Mauvais
-  Terrain: Bois / Forêt, Jungle
   ArmorClass: 19 (armure naturelle)
   HitPoints: 207 (18d12+90)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +6, Con +10, Sag +7, Cha +8
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +12, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +7, [Persuasion](hd_abilities_charisma_persuasion.md) +8, [Supercherie](hd_abilities_charisma_supercherie.md) +8'
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
+  Languages: commun, draconique
+  Challenge: 15 (13 000 PX)
+  Terrain: Bois / Forêt, Jungle
   Strength: 23 (+6)
   Dexterity: 12 (+1)
   Constitution: 21 (+5)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 17 (+3)
-  SavingThrows: Dex +6, Con +10, Sag +7, Cha +8
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +12, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +7, [Persuasion](hd_abilities_charisma_persuasion.md) +8, [Supercherie](hd_abilities_charisma_supercherie.md) +8'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
-  Languages: commun, draconique
-  Challenge: 15 (13 000 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#dragon-vert-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon vert adulte
 
@@ -13754,31 +13764,31 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon vert
   Source: (CEO p)(SRD p)
-  AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Mauvais
-  Terrain: Bois / Forêt, Jungle
   ArmorClass: 18 (armure naturelle)
   HitPoints: 136 (16d10+48)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +4, Con +6, Sag +4, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: commun, draconique
+  Challenge: 8 (3 900 PX)
+  Terrain: Bois / Forêt, Jungle
   Strength: 19 (+4)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: 16 (+3)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Dex +4, Con +6, Sag +4, Cha +5
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: commun, draconique
-  Challenge: 8 (3 900 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#jeune-dragon-vert
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon vert
 
@@ -13964,31 +13974,31 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet vert
   Source: (CEO p)(SRD p)
-  AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Bois / Forêt, Jungle
   ArmorClass: 17 (armure naturelle)
   HitPoints: 38 (7d8+7)
   Speed: 9 m, nage 9 m, vol 18 m
+  SavingThrows: Dex +3, Con +3, Sag +2, Cha +3
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
+  Terrain: Bois / Forêt, Jungle
   Strength: 15 (+2)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 13 (+1)
-  SavingThrows: Dex +3, Con +3, Sag +2, Cha +3
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 2 (450 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#dragonnet-vert
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet vert
 
@@ -14156,30 +14166,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'airain vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Bon
-  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 20 (armure naturelle)
   HitPoints: 297 (17d20+119)
   Speed: 12 m, fouissement 12 m, vol 24 m
+  SavingThrows: Dex +6, Con +13, Sag +8, Cha +10
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Histoire](hd_abilities_intelligence_histoire.md) +9, [Perception](hd_abilities_wisdom_perception.md) +14, [Persuasion](hd_abilities_charisma_persuasion.md) +10'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 24
+  Languages: commun, draconique
+  Challenge: 20 (25 000 PX)
+  Terrain: Désert chaud, Ruines extérieures
   Strength: 27 (+8)
   Dexterity: 10 (+0)
   Constitution: 25 (+7)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 19 (+4)
-  SavingThrows: Dex +6, Con +13, Sag +8, Cha +10
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Histoire](hd_abilities_intelligence_histoire.md) +9, [Perception](hd_abilities_wisdom_perception.md) +14, [Persuasion](hd_abilities_charisma_persuasion.md) +10'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 24
-  Languages: commun, draconique
-  Challenge: 20 (25 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragon-dairain-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'airain vénérable
 
@@ -14437,30 +14447,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'airain adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Bon
-  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 18 (armure naturelle)
   HitPoints: 172 (15d12+75)
   Speed: 12 m, fouissement 9 m, vol 24 m
+  SavingThrows: Dex +5, Con +10, Sag +6, Cha +8
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Histoire](hd_abilities_intelligence_histoire.md) +7, [Perception](hd_abilities_wisdom_perception.md) +11, [Persuasion](hd_abilities_charisma_persuasion.md) +8'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
+  Languages: commun, draconique
+  Challenge: 13 (10 000 PX)
+  Terrain: Désert chaud, Ruines extérieures
   Strength: 23 (+6)
   Dexterity: 10 (+0)
   Constitution: 21 (+5)
   Intelligence: 14 (+2)
   Wisdom: 13 (+1)
   Charisma: 17 (+3)
-  SavingThrows: Dex +5, Con +10, Sag +6, Cha +8
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Histoire](hd_abilities_intelligence_histoire.md) +7, [Perception](hd_abilities_wisdom_perception.md) +11, [Persuasion](hd_abilities_charisma_persuasion.md) +8'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
-  Languages: commun, draconique
-  Challenge: 13 (10 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragon-dairain-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'airain adulte
 
@@ -14700,30 +14710,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon d'airain
   Source: (CEO p)(SRD p)
-  AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Bon
-  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 12 m, fouissement 6 m, vol 24 m
+  SavingThrows: Dex +3, Con +6, Sag +3, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6, [Persuasion](hd_abilities_charisma_persuasion.md) +5'
+  DamageImmunities: de feu
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: commun, draconique
+  Challenge: 6 (2 300 PX)
+  Terrain: Désert chaud, Ruines extérieures
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Dex +3, Con +6, Sag +3, Cha +5
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6, [Persuasion](hd_abilities_charisma_persuasion.md) +5'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: commun, draconique
-  Challenge: 6 (2 300 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#jeune-dragon-dairain
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon d'airain
 
@@ -14903,30 +14913,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet d'airain
   Source: (CEO p)(SRD p)
-  AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Bon
-  Terrain: Désert chaud, Ruines extérieures
   ArmorClass: 16 (armure naturelle)
   HitPoints: 16 (3d8+3)
   Speed: 9 m, fouissement 4,50 m, vol 18 m
+  SavingThrows: Dex +2, Con +3, Sag +2, Cha +3
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de feu
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 1 (200 PX)
+  Terrain: Désert chaud, Ruines extérieures
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 13 (+1)
-  SavingThrows: Dex +2, Con +3, Sag +2, Cha +3
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 1 (200 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragonnet-dairain
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet d'airain
 
@@ -15088,30 +15098,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'argent vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
-  Terrain: Montagnes
   ArmorClass: 22 (armure naturelle)
   HitPoints: 487 (25d20+225)
   Speed: 12 m, vol 24 m
+  SavingThrows: Dex +7, Con +16, Sag +9, Cha +13
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +11, [Discrétion](hd_abilities_dexterity_discretion.md) +7, [Histoire](hd_abilities_intelligence_histoire.md) +11, [Perception](hd_abilities_wisdom_perception.md) +16'
+  DamageImmunities: de froid
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 26
+  Languages: commun, draconique
+  Challenge: 23 (50 000 PX)
+  Terrain: Montagnes
   Strength: 30 (+10)
   Dexterity: 10 (+0)
   Constitution: 29 (+9)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 23 (+6)
-  SavingThrows: Dex +7, Con +16, Sag +9, Cha +13
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +11, [Discrétion](hd_abilities_dexterity_discretion.md) +7, [Histoire](hd_abilities_intelligence_histoire.md) +11, [Perception](hd_abilities_wisdom_perception.md) +16'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 26
-  Languages: commun, draconique
-  Challenge: 23 (50 000 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#dragon-dargent-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'argent vénérable
 
@@ -15363,30 +15373,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'argent adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
-  Terrain: Montagnes
   ArmorClass: 19 (armure naturelle)
   HitPoints: 243 (18d12+126)
   Speed: 12 m, vol 24 m
+  SavingThrows: Dex +5, Con +12, Sag +6, Cha +10
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Discrétion](hd_abilities_dexterity_discretion.md) +5, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +11'
+  DamageImmunities: de froid
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
+  Languages: commun, draconique
+  Challenge: 16 (15 000 PX)
+  Terrain: Montagnes
   Strength: 27 (+8)
   Dexterity: 10 (+0)
   Constitution: 25 (+7)
   Intelligence: 16 (+3)
   Wisdom: 13 (+1)
   Charisma: 21 (+5)
-  SavingThrows: Dex +5, Con +12, Sag +6, Cha +10
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Discrétion](hd_abilities_dexterity_discretion.md) +5, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +11'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 21
-  Languages: commun, draconique
-  Challenge: 16 (15 000 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#dragon-dargent-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'argent adulte
 
@@ -15644,30 +15654,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon d'argent
   Source: (CEO p)(SRD p)
-  AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
-  Terrain: Montagnes
   ArmorClass: 18 (armure naturelle)
   HitPoints: 168 (16d10+80)
   Speed: 12 m, vol 24 m
+  SavingThrows: Dex +4, Con +9, Sag +4, Cha +8
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +6, [Discrétion](hd_abilities_dexterity_discretion.md) +4, [Histoire](hd_abilities_intelligence_histoire.md) +6, [Perception](hd_abilities_wisdom_perception.md) +8'
+  DamageImmunities: de froid
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: commun, draconique
+  Challenge: 9 (5 000 PX)
+  Terrain: Montagnes
   Strength: 23 (+6)
   Dexterity: 10 (+0)
   Constitution: 21 (+5)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 19 (+4)
-  SavingThrows: Dex +4, Con +9, Sag +4, Cha +8
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +6, [Discrétion](hd_abilities_dexterity_discretion.md) +4, [Histoire](hd_abilities_intelligence_histoire.md) +6, [Perception](hd_abilities_wisdom_perception.md) +8'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: commun, draconique
-  Challenge: 9 (5 000 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#jeune-dragon-dargent
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon d'argent
 
@@ -15847,30 +15857,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet d'argent
   Source: (CEO p)(SRD p)
-  AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
-  Terrain: Montagnes
   ArmorClass: 17 (armure naturelle)
   HitPoints: 45 (6d8+18)
   Speed: 9 m, vol 18 m
+  SavingThrows: Dex +2, Con +5, Sag +2, Cha +4
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de froid
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
+  Terrain: Montagnes
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Dex +2, Con +5, Sag +2, Cha +4
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 2 (450 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#dragonnet-dargent
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet d'argent
 
@@ -16032,30 +16042,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de bronze vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
-  Terrain: Littoral, Mer / Océan
   ArmorClass: 22 (armure naturelle)
   HitPoints: 444 (24d20+192)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +7, Con +15, Sag +10, Cha +12
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +17, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +10'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
+  Languages: commun, draconique
+  Challenge: 22 (41 000 PX)
+  Terrain: Littoral, Mer / Océan
   Strength: 29 (+9)
   Dexterity: 10 (+0)
   Constitution: 27 (+8)
   Intelligence: 18 (+4)
   Wisdom: 17 (+3)
   Charisma: 21 (+5)
-  SavingThrows: Dex +7, Con +15, Sag +10, Cha +12
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +17, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +10'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
-  Languages: commun, draconique
-  Challenge: 22 (41 000 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#dragon-de-bronze-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de bronze vénérable
 
@@ -16313,30 +16323,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de bronze adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
-  Terrain: Littoral, Mer / Océan
   ArmorClass: 19 (armure naturelle)
   HitPoints: 212 (17d12+102)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +5, Con +11, Sag +7, Cha +9
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +12, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +7'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
+  Languages: commun, draconique
+  Challenge: 15 (13 000 PX)
+  Terrain: Littoral, Mer / Océan
   Strength: 25 (+7)
   Dexterity: 10 (+0)
   Constitution: 23 (+6)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 19 (+4)
-  SavingThrows: Dex +5, Con +11, Sag +7, Cha +9
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +12, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +7'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
-  Languages: commun, draconique
-  Challenge: 15 (13 000 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#dragon-de-bronze-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de bronze adulte
 
@@ -16600,30 +16610,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon de bronze
   Source: (CEO p)(SRD p)
-  AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
-  Terrain: Littoral, Mer / Océan
   ArmorClass: 18 (armure naturelle)
   HitPoints: 142 (15d10+60)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +3, Con +7, Sag +4, Cha +6
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +7, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: commun, draconique
+  Challenge: 8 (3 900 PX)
+  Terrain: Littoral, Mer / Océan
   Strength: 21 (+5)
   Dexterity: 10 (+0)
   Constitution: 19 (+4)
   Intelligence: 14 (+2)
   Wisdom: 13 (+1)
   Charisma: 17 (+3)
-  SavingThrows: Dex +3, Con +7, Sag +4, Cha +6
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +7, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: commun, draconique
-  Challenge: 8 (3 900 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#jeune-dragon-de-bronze
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon de bronze
 
@@ -16815,30 +16825,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet de bronze
   Source: (CEO p)(SRD p)
-  AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
-  Terrain: Littoral, Mer / Océan
   ArmorClass: 17 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, nage 9 m, vol 18 m
+  SavingThrows: Dex +2, Con +4, Sag +2, Cha +4
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de foudre
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
+  Terrain: Littoral, Mer / Océan
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Dex +2, Con +4, Sag +2, Cha +4
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 2 (450 PX)
-  DamageImmunities: de foudre
   Id: monsters_hd.md#dragonnet-de-bronze
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet de bronze
 
@@ -17012,30 +17022,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de cuivre vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Bon
-  Terrain: Collines / Vallées
   ArmorClass: 21 (armure naturelle)
   HitPoints: 350 (20d20+140)
   Speed: 12 m, escalade 12 m, vol 24 m
+  SavingThrows: Dex +8, Con +14, Sag +10, Cha +11
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +17, [Supercherie](hd_abilities_charisma_supercherie.md) +11'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
+  Languages: commun, draconique
+  Challenge: 21 (33 000 PX)
+  Terrain: Collines / Vallées
   Strength: 27 (+8)
   Dexterity: 12 (+1)
   Constitution: 25 (+7)
   Intelligence: 20 (+5)
   Wisdom: 17 (+3)
   Charisma: 19 (+4)
-  SavingThrows: Dex +8, Con +14, Sag +10, Cha +11
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +17, [Supercherie](hd_abilities_charisma_supercherie.md) +11'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
-  Languages: commun, draconique
-  Challenge: 21 (33 000 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#dragon-de-cuivre-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de cuivre vénérable
 
@@ -17299,30 +17309,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de cuivre adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Bon
-  Terrain: Collines / Vallées
   ArmorClass: 18 (armure naturelle)
   HitPoints: 184 (16d12+80)
   Speed: 12 m, escalade 12 m, vol 24 m
+  SavingThrows: Dex +6, Con +10, Sag +7, Cha +8
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +12, [Supercherie](hd_abilities_charisma_supercherie.md) +8'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
+  Languages: commun, draconique
+  Challenge: 14 (11 500 PX)
+  Terrain: Collines / Vallées
   Strength: 23 (+6)
   Dexterity: 12 (+1)
   Constitution: 21 (+5)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 17 (+3)
-  SavingThrows: Dex +6, Con +10, Sag +7, Cha +8
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +12, [Supercherie](hd_abilities_charisma_supercherie.md) +8'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 22
-  Languages: commun, draconique
-  Challenge: 14 (11 500 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#dragon-de-cuivre-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de cuivre adulte
 
@@ -17568,30 +17578,30 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon de cuivre
   Source: (CEO p)(SRD p)
-  AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Bon
-  Terrain: Collines / Vallées
   ArmorClass: 17 (armure naturelle)
   HitPoints: 119 (14d10+42)
   Speed: 12m, escalade 12 m, vol 24 m
+  SavingThrows: Dex +4, Con +6, Sag +4, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: commun, draconique
+  Challenge: 7 (2 900 PX)
+  Terrain: Collines / Vallées
   Strength: 19 (+4)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: 16 (+3)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Dex +4, Con +6, Sag +4, Cha +5
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +7, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: commun, draconique
-  Challenge: 7 (2 900 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#jeune-dragon-de-cuivre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon de cuivre
 
@@ -17783,30 +17793,30 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet de cuivre
   Source: (CEO p)(SRD p)
-  AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Bon
-  Terrain: Collines / Vallées
   ArmorClass: 16 (armure naturelle)
   HitPoints: 22 (4d8+4)
   Speed: 9 m, escalade 9 m, vol 18 m
+  SavingThrows: Dex +3, Con +3, Sag +2, Cha +3
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: d'acide
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 1 (200 PX)
+  Terrain: Collines / Vallées
   Strength: 15 (+2)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 13 (+1)
-  SavingThrows: Dex +3, Con +3, Sag +2, Cha +3
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 1 (200 PX)
-  DamageImmunities: d'acide
   Id: monsters_hd.md#dragonnet-de-cuivre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet de cuivre
 
@@ -17968,29 +17978,29 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'or vénérable
   Source: (CEO p)(SRD p)
-  AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
   ArmorClass: 22 (armure naturelle)
   HitPoints: 546 (28d20+252)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +9, Con +16, Sag +10, Cha +16
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +17, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +10, [Persuasion](hd_abilities_charisma_persuasion.md) +16'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
+  Languages: commun, draconique
+  Challenge: 24 (62 000 PX)
   Strength: 30 (+10)
   Dexterity: 14 (+2)
   Constitution: 29 (+9)
   Intelligence: 18 (+4)
   Wisdom: 17 (+3)
   Charisma: 28 (+9)
-  SavingThrows: Dex +9, Con +16, Sag +10, Cha +16
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +17, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +10, [Persuasion](hd_abilities_charisma_persuasion.md) +16'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 27
-  Languages: commun, draconique
-  Challenge: 24 (62 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragon-dor-vénérable
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'or vénérable
 
@@ -18246,29 +18256,29 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'or adulte
   Source: (CEO p)(SRD p)
-  AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
   ArmorClass: 19 (armure naturelle)
   HitPoints: 256 (19d12+133)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +8, Con +13, Sag +8, Cha +13
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +14, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +8, [Persuasion](hd_abilities_charisma_persuasion.md) +13'
+  DamageImmunities: de feu
+  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 24
+  Languages: commun, draconique
+  Challenge: 17 (18 000 PX)
   Strength: 27 (+8)
   Dexterity: 14 (+2)
   Constitution: 25 (+7)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 24 (+7)
-  SavingThrows: Dex +8, Con +13, Sag +8, Cha +13
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +14, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +8, [Persuasion](hd_abilities_charisma_persuasion.md) +13'
-  Senses: vision aveugle 18 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 24
-  Languages: commun, draconique
-  Challenge: 17 (18 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragon-dor-adulte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'or adulte
 
@@ -18530,29 +18540,29 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon d'or
   Source: (CEO p)(SRD p)
-  AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
   ArmorClass: 18 (armure naturelle)
   HitPoints: 178 (17d10+85)
   Speed: 12 m, nage 12 m, vol 24 m
+  SavingThrows: Dex +6, Con +9, Sag +5, Cha +9
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +9, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +5, [Persuasion](hd_abilities_charisma_persuasion.md) +9'
+  DamageImmunities: de feu
+  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
+  Languages: commun, draconique
+  Challenge: 10 (5 900 PX)
   Strength: 23 (+6)
   Dexterity: 14 (+2)
   Constitution: 21 (+5)
   Intelligence: 16 (+3)
   Wisdom: 13 (+1)
   Charisma: 20 (+5)
-  SavingThrows: Dex +6, Con +9, Sag +5, Cha +9
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +9, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +5, [Persuasion](hd_abilities_charisma_persuasion.md) +9'
-  Senses: vision aveugle 9 m, vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
-  Languages: commun, draconique
-  Challenge: 10 (5 900 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#jeune-dragon-dor
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon d'or
 
@@ -18742,29 +18752,29 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet d'or
   Source: (CEO p)(SRD p)
-  AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
   ArmorClass: 17 (armure naturelle)
   HitPoints: 60 (8d8+24)
   Speed: 9 m, nage 9 m, vol 18 m
+  SavingThrows: Dex +4, Con +5, Sag +2, Cha +5
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: de feu
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: draconique
+  Challenge: 3 (700 PX)
   Strength: 19 (+4)
   Dexterity: 14 (+2)
   Constitution: 17 (+3)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 16 (+3)
-  SavingThrows: Dex +4, Con +5, Sag +2, Cha +5
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: draconique
-  Challenge: 3 (700 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#dragonnet-dor
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet d'or
 
@@ -18936,29 +18946,29 @@ SubItems:
   Family: MonsterHD
   Name: Dragon-tortue
   Source: (CEO p)(SRD p)
-  AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
   Type: Dragon
   Size: Gig
   Alignment: neutre
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 20 (armure naturelle)
   HitPoints: 341 (22d20+110)
   Speed: 6 m, nage 12 m
+  SavingThrows: Dex +6, Con +11, Sag +7
+  DamageResistances: de feu
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: aquatique, draconique
+  Challenge: 17 (18 000 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   Strength: 25 (+7)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  SavingThrows: Dex +6, Con +11, Sag +7
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: aquatique, draconique
-  Challenge: 17 (18 000 PX)
-  DamageResistances: de feu
   Id: monsters_hd.md#dragon-tortue
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
   AttributesDictionary: >+
     Name: Dragon-tortue
 
@@ -19150,18 +19160,18 @@ SubItems:
   ArmorClass: 13
   HitPoints: 7 (2d4+2)
   Speed: 6 m, vol 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +3, [Persuasion](hd_abilities_charisma_persuasion.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
+  DamageResistances: contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison
+  ConditionImmunities: spécial [empoisonné](hd_conditions_empoisonne.md)
+  Senses: vision dans le noir à 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun
+  Challenge: 1/4 (50 XP)
   Strength: ' 6 (-2)'
   Dexterity: 17 (+3)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 15 (+2)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +3, [Persuasion](hd_abilities_charisma_persuasion.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
-  Senses: vision dans le noir à 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun
-  Challenge: 1/4 (50 XP)
-  DamageResistances: contondants, perforants et tranchants d'attaques non-magiques, feu, froid, foudre, acide, poison
-  ConditionImmunities: spécial [empoisonné](hd_conditions_empoisonne.md)
   Id: monsters_hd.md#dref
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -19337,28 +19347,28 @@ SubItems:
   Family: MonsterHD
   Name: Drider
   Source: (CEO p)(SRD p)
-  AltName: '[Drider](srd_monsters_drider.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 19 (armure naturelle)
   HitPoints: 123 (13d10+52)
   Speed: 9 m, escalade 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +5'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: commun des profondeurs, elfe
+  Challenge: 6 (2 300 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 16 (+3)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: commun des profondeurs, elfe
-  Challenge: 6 (2 300 PX)
   Id: monsters_hd.md#drider
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Drider](srd_monsters_drider.md)'
   AttributesDictionary: >+
     Name: Drider
 
@@ -19568,28 +19578,28 @@ SubItems:
   Family: MonsterHD
   Name: Drow
   Source: (CEO p)(SRD p)
-  AltName: '[Drow](srd_monsters_drow.md)'
   Type: Humanoïde (elfe)
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 15 (chemise de mailles)
   HitPoints: 13 (3d8)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun des profondeurs, elfe
+  Challenge: 1/4 (50 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: 11 (+0)
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun des profondeurs, elfe
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#drow
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Drow](srd_monsters_drow.md)'
   AttributesDictionary: >+
     Name: Drow
 
@@ -19778,23 +19788,23 @@ SubItems:
   Type: Humanoïde (elfe)
   Size: M
   Alignment: neutre mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 18 (cuirasse +2)
   HitPoints: 58 (9d8+18)
   Speed: 9 m
+  SavingThrows: Con +6, Sag +7, Cha +7
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Intimidation](hd_abilities_charisma_intimidation.md) +11, [Perception](hd_abilities_wisdom_perception.md) +7, [Religion](hd_abilities_intelligence_religion.md) +7'
+  DamageResistances: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: commun des profondeurs, elfe
+  Challenge: 7 (2900 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: 13 (+1)
   Wisdom: 16 (+3)
   Charisma: 17 (+3)
-  SavingThrows: Con +6, Sag +7, Cha +7
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Intimidation](hd_abilities_charisma_intimidation.md) +11, [Perception](hd_abilities_wisdom_perception.md) +7, [Religion](hd_abilities_intelligence_religion.md) +7'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: commun des profondeurs, elfe
-  Challenge: 7 (2900 PX)
-  DamageResistances: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#drow-prêtresse
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -20044,28 +20054,28 @@ SubItems:
   Family: MonsterHD
   Name: Dryade
   Source: (CEO p)(SRD p)
-  AltName: '[Dryad](srd_monsters_dryad.md)'
   Type: Fée
   Size: M
   Alignment: neutre
-  Terrain: Bois / Forêt
   ArmorClass: 11 (16 avec peau d'écorce)
   HitPoints: 22 (5d8)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: elfe, sylvestre
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt
   Strength: 10 (+0)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: 14 (+2)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: elfe, sylvestre
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#dryade
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Dryad](srd_monsters_dryad.md)'
   AttributesDictionary: >+
     Name: Dryade
 
@@ -20263,28 +20273,28 @@ SubItems:
   Family: MonsterHD
   Name: Duergar
   Source: (CEO p)(SRD p)
-  AltName: '[Duergar](srd_monsters_duergar.md)'
   Type: Humanoïde (nain)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 16 (armure d'écailles, bouclier)
   HitPoints: 26 (4d8+8)
   Speed: 7,50 m
+  DamageResistances: de poison
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun des profondeurs, nain
+  Challenge: 1 (200 PX)
+  Terrain: Donjon maçonné, Ruines souterraines
   Strength: 14 (+2)
   Dexterity: 11 (+0)
   Constitution: 14 (+2)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun des profondeurs, nain
-  Challenge: 1 (200 PX)
-  DamageResistances: de poison
   Id: monsters_hd.md#duergar
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Duergar](srd_monsters_duergar.md)'
   AttributesDictionary: >+
     Name: Duergar
 
@@ -20464,30 +20474,30 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire de l'air
   Source: (CEO p)(SRD p)
-  AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
-  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 15
   HitPoints: 90 (12d10+24)
   Speed: 0 m, vol 27 m (vol stationnaire)
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [entravé](hd_conditions_entrave.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: aérien
+  Challenge: 5 (1 800 PX)
+  Terrain: Montagnes, Plans élémentaires
   Strength: 14 (+2)
   Dexterity: 20 (+5)
   Constitution: 14 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: aérien
-  Challenge: 5 (1 800 PX)
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [entravé](hd_conditions_entrave.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#Élémentaire-de-lair
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire de l'air
 
@@ -20667,30 +20677,30 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire de l'eau
   Source: (CEO p)(SRD p)
-  AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
-  Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 9 m, nage 27 m
+  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: aquatique
+  Challenge: 5 (1 800 PX)
+  Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: aquatique
-  Challenge: 5 (1 800 PX)
-  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#Élémentaire-de-leau
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire de l'eau
 
@@ -20870,30 +20880,30 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire du feu
   Source: (CEO p)(SRD p)
-  AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
-  Terrain: Plans élémentaires
   ArmorClass: 13
   HitPoints: 102 (12d10+36)
   Speed: 15 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: ignée
+  Challenge: 5 (1 800 PX)
+  Terrain: Plans élémentaires
   Strength: 10 (+0)
   Dexterity: 17 (+3)
   Constitution: 16 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: ignée
-  Challenge: 5 (1 800 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#Élémentaire-du-feu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire du feu
 
@@ -21067,31 +21077,31 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire de la terre
   Source: (CEO p)(SRD p)
-  AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
-  Terrain: Bois / Forêt, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 126 (12d10+60)
   Speed: 9 m, fouissement 9 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: terreux
+  Challenge: 5 (1 800 PX)
+  DamageVulnerabilities: de tonnerre
+  Terrain: Bois / Forêt, Plans élémentaires
   Strength: 20 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 20 (+5)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: terreux
-  Challenge: 5 (1 800 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageVulnerabilities: de tonnerre
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#Élémentaire-de-la-terre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire de la terre
 
@@ -21265,28 +21275,28 @@ SubItems:
   Family: MonsterHD
   Name: Enlaceur
   Source: (CEO p)(SRD p)
-  AltName: '[Roper](srd_monsters_roper.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Caverne aménagée, Caverne naturelle
   ArmorClass: 20 (armure naturelle)
   HitPoints: 93 (11d10+33)
   Speed: 3 m, escalade 3 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +6'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Caverne aménagée, Caverne naturelle
   Strength: 18 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 16 (+3)
   Charisma: ' 6 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: —
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#enlaceur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Roper](srd_monsters_roper.md)'
   AttributesDictionary: >+
     Name: Enlaceur
 
@@ -21472,28 +21482,28 @@ SubItems:
   Family: MonsterHD
   Name: Esprit follet
   Source: (CEO p)(SRD p)
-  AltName: '[Sprite](srd_monsters_sprite.md)'
   Type: Fée
   Size: TP
   Alignment: Neutre Bonne
-  Terrain: Bois / Forêt, Collines / Vallées, Ruines extérieures
   ArmorClass: 15 (armure de cuir)
   HitPoints: 2 (1d4)
   Speed: 3 m, vol 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: Commun, Elfe, Sylvestre
+  Challenge: 1/4 (50 XP)
+  Terrain: Bois / Forêt, Collines / Vallées, Ruines extérieures
   Strength: ' 3 (-4)'
   Dexterity: 18 (+4)
   Constitution: 10 (+0)
   Intelligence: 14 (+2)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: Commun, Elfe, Sylvestre
-  Challenge: 1/4 (50 XP)
   Id: monsters_hd.md#esprit-follet
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Sprite](srd_monsters_sprite.md)'
   AttributesDictionary: >+
     Name: Esprit follet
 
@@ -21649,28 +21659,28 @@ SubItems:
   Family: MonsterHD
   Name: Ettercap
   Source: (CEO p)(SRD p)
-  AltName: '[Ettercap](srd_monsters_ettercap.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt, Mangrove / Marécage
   ArmorClass: 13 (armure naturelle)
   HitPoints: 44 (8d8+8)
   Speed: 9 m, escalade 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +3'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Bois / Forêt, Mangrove / Marécage
   Strength: 14 (+2)
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#ettercap
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ettercap](srd_monsters_ettercap.md)'
   AttributesDictionary: >+
     Name: Ettercap
 
@@ -21856,28 +21866,28 @@ SubItems:
   Family: MonsterHD
   Name: Ettin
   Source: (CEO p)(SRD p)
-  AltName: '[Ettin](srd_monsters_ettin.md)'
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Montagnes, Caverne naturelle
   ArmorClass: 12 (armure naturelle)
   HitPoints: 85 (10d10+30)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: géant, orc
+  Challenge: 4 (1 100 PX)
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: géant, orc
-  Challenge: 4 (1 100 PX)
   Id: monsters_hd.md#ettin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ettin](srd_monsters_ettin.md)'
   AttributesDictionary: >+
     Name: Ettin
 
@@ -22045,30 +22055,30 @@ SubItems:
   Family: MonsterHD
   Name: Fantôme
   Source: (CEO p)(SRD p)
-  AltName: '[Ghost](srd_monsters_ghost.md)'
   Type: Mort-vivant
   Size: M
   Alignment: n'importe quel alignement
-  Terrain: Ruines extérieures, Ruines souterraines
   ArmorClass: 11
   HitPoints: 45 (10d8)
   Speed: 0 m, vol 12 m (vol stationnaire)
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de froid, de poison et nécrotiques
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: toutes les langues qu'il connaissait de son vivant
+  Challenge: 4 (1 100 PX)
+  Terrain: Ruines extérieures, Ruines souterraines
   Strength: ' 7 (-2)'
   Dexterity: 13 (+1)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 17 (+3)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: toutes les langues qu'il connaissait de son vivant
-  Challenge: 4 (1 100 PX)
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de froid, de poison et nécrotiques
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#fantôme
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ghost](srd_monsters_ghost.md)'
   AttributesDictionary: >+
     Name: Fantôme
 
@@ -22260,30 +22270,30 @@ SubItems:
   Family: MonsterHD
   Name: Feu follet
   Source: (CEO p)(SRD p)
-  AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
   Type: Mort-vivant
   Size: TP
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Mangrove / Marécage
   ArmorClass: 19
   HitPoints: 22 (9d4)
   Speed: 0 m, vol 15 m (vol stationnaire)
+  DamageResistances: d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de foudre et de poison
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: celles qu'il connaissait de son vivant
+  Challenge: 2 (450 PX)
+  Terrain: Collines / Vallées, Mangrove / Marécage
   Strength: ' 1 (-5)'
   Dexterity: 28 (+9)
   Constitution: 10 (+0)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 11 (+0)
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: celles qu'il connaissait de son vivant
-  Challenge: 2 (450 PX)
-  DamageResistances: d'acide, de feu, de froid, de tonnerre, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de foudre et de poison
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#feu-follet
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
   AttributesDictionary: >+
     Name: Feu follet
 
@@ -22463,29 +22473,29 @@ SubItems:
   Family: MonsterHD
   Name: Garde animé
   Source: (CEO p)(SRD p)
-  AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 142 (15d10+60)
   Speed: 9 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
+  Challenge: 7 (2 900 PX)
+  Terrain: Donjon maçonné
   Strength: 18 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 18 (+4)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend les ordres prononcés dans n'importe quelle langue mais ne peut pas parler
-  Challenge: 7 (2 900 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#garde-animé
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
   AttributesDictionary: >+
     Name: Garde animé
 
@@ -22665,30 +22675,30 @@ SubItems:
   Family: MonsterHD
   Name: Gargouille
   Source: (CEO p)(SRD p)
-  AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
   Type: Élémentaire
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Plans élémentaires, Ruines extérieures
   ArmorClass: 15 (armure naturelle)
   HitPoints: 52 (7d8+21)
   Speed: 9 m, vol 18 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: terreux
+  Challenge: 2 (450 PX)
+  Terrain: Plans élémentaires, Ruines extérieures
   Strength: 15 (+2)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: terreux
-  Challenge: 2 (450 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#gargouille
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
   AttributesDictionary: >+
     Name: Gargouille
 
@@ -22862,28 +22872,28 @@ SubItems:
   Family: MonsterHD
   Name: Géant des collines
   Source: (CEO p)(SRD p)
-  AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Caverne naturelle, Ruines extérieures
   ArmorClass: 13 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: géant
+  Challenge: 5 (1 800 PX)
+  Terrain: Collines / Vallées, Caverne naturelle, Ruines extérieures
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 19 (+4)
   Intelligence: ' 5 (-3)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: géant
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#géant-des-collines
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
   AttributesDictionary: >+
     Name: Géant des collines
 
@@ -23033,29 +23043,29 @@ SubItems:
   Family: MonsterHD
   Name: Géant des nuages
   Source: (CEO p)(SRD p)
-  AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Neutre Bon (50 %) ou Neutre Mauvais (50 %)
-  Terrain: Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 200 (16d12+96)
   Speed: 12 m
+  SavingThrows: Con +10, Sag +7, Cha +7
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +7, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +7'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 17'
+  Languages: commun, géant
+  Challenge: 9 (5 000 PX)
+  Terrain: Montagnes
   Strength: 27 (+8)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: 12 (+1)
   Wisdom: 16 (+3)
   Charisma: 16 (+3)
-  SavingThrows: Con +10, Sag +7, Cha +7
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +7, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +7'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 17'
-  Languages: commun, géant
-  Challenge: 9 (5 000 PX)
   Id: monsters_hd.md#géant-des-nuages
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
   AttributesDictionary: >+
     Name: Géant des nuages
 
@@ -23247,29 +23257,29 @@ SubItems:
   Family: MonsterHD
   Name: Géant des pierres
   Source: (CEO p)(SRD p)
-  AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
   Type: Géant
   Size: TG
   Alignment: neutre
-  Terrain: Montagnes
   ArmorClass: 17 (armure naturelle)
   HitPoints: 126 (11d12+55)
   Speed: 12 m
+  SavingThrows: Dex +5, Con +8, Sag +4
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +12, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: géant
+  Challenge: 7 (2 900 PX)
+  Terrain: Montagnes
   Strength: 23 (+6)
   Dexterity: 15 (+2)
   Constitution: 20 (+5)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: ' 9 (-1)'
-  SavingThrows: Dex +5, Con +8, Sag +4
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +12, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: géant
-  Challenge: 7 (2 900 PX)
   Id: monsters_hd.md#géant-des-pierres
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
   AttributesDictionary: >+
     Name: Géant des pierres
 
@@ -23437,31 +23447,31 @@ SubItems:
   Family: MonsterHD
   Name: Géant des tempêtes
   Source: (CEO p)(SRD p)
-  AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Chaotique Bon
-  Terrain: Littoral, Mer / Océan, Ruines sous-marines
   ArmorClass: 16 (armure d'écailles)
   HitPoints: 230 (20d12+100)
   Speed: 15 m, nage 15 m
+  SavingThrows: For +14, Con +10, Sag +9, Cha +9
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Athlétisme](hd_abilities_strength_athletisme.md) +14, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +9'
+  DamageResistances: de froid
+  DamageImmunities: de foudre et de tonnerre
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 19'
+  Languages: commun, géant
+  Challenge: 13 (10 000 PX)
+  Terrain: Littoral, Mer / Océan, Ruines sous-marines
   Strength: 29 (+9)
   Dexterity: 14 (+2)
   Constitution: 20 (+5)
   Intelligence: 16 (+3)
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
-  SavingThrows: For +14, Con +10, Sag +9, Cha +9
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +8, [Athlétisme](hd_abilities_strength_athletisme.md) +14, [Histoire](hd_abilities_intelligence_histoire.md) +8, [Perception](hd_abilities_wisdom_perception.md) +9'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 19'
-  Languages: commun, géant
-  Challenge: 13 (10 000 PX)
-  DamageResistances: de froid
-  DamageImmunities: de foudre et de tonnerre
   Id: monsters_hd.md#géant-des-tempêtes
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
   AttributesDictionary: >+
     Name: Géant des tempêtes
 
@@ -23665,30 +23675,30 @@ SubItems:
   Family: MonsterHD
   Name: Géant du feu
   Source: (CEO p)(SRD p)
-  AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Montagnes
   ArmorClass: 18 (harnois)
   HitPoints: 162 (13d12+78)
   Speed: 9 m
+  SavingThrows: Dex +3, Con +10, Cha +5
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +11, [Perception](hd_abilities_wisdom_perception.md) +6'
+  DamageImmunities: de feu
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 16'
+  Languages: géant
+  Challenge: 9 (5 000 PX)
+  Terrain: Désert chaud, Montagnes
   Strength: 25 (+7)
   Dexterity: ' 9 (-1)'
   Constitution: 23 (+6)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 13 (+1)
-  SavingThrows: Dex +3, Con +10, Cha +5
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +11, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 16'
-  Languages: géant
-  Challenge: 9 (5 000 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#géant-du-feu
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
   AttributesDictionary: >+
     Name: Géant du feu
 
@@ -23850,30 +23860,30 @@ SubItems:
   Family: MonsterHD
   Name: Géant du givre
   Source: (CEO p)(SRD p)
-  AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Neutre Mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 15 (armure composite)
   HitPoints: 138 (12d12+60)
   Speed: 12 m
+  SavingThrows: Con +8, Sag +3, Cha +4
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +9, [Perception](hd_abilities_wisdom_perception.md) +3'
+  DamageImmunities: de froid
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: géant
+  Challenge: 8 (3 900 PX)
+  Terrain: Arctique / Subarctique
   Strength: 23 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 21 (+5)
   Intelligence: ' 9 (-1)'
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  SavingThrows: Con +8, Sag +3, Cha +4
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +9, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: géant
-  Challenge: 8 (3 900 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#géant-du-givre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
   AttributesDictionary: >+
     Name: Géant du givre
 
@@ -24035,29 +24045,29 @@ SubItems:
   Family: MonsterHD
   Name: Djinn
   Source: (CEO p)(SRD p)
-  AltName: '[Djinni](srd_monsters_djinni.md)'
   Type: Élémentaire
   Size: G
   Alignment: Chaotique Bon
-  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 161 (14d10+84)
   Speed: 9 m, vol 27 m
+  SavingThrows: Dex +6, Sag +7, Cha +9
+  DamageImmunities: de foudre et de tonnerre
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: aérien
+  Challenge: 11 (7 200 PX)
+  Terrain: Montagnes, Plans élémentaires
   Strength: 21 (+5)
   Dexterity: 15 (+2)
   Constitution: 22 (+6)
   Intelligence: 15 (+2)
   Wisdom: 16 (+3)
   Charisma: 20 (+5)
-  SavingThrows: Dex +6, Sag +7, Cha +9
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: aérien
-  Challenge: 11 (7 200 PX)
-  DamageImmunities: de foudre et de tonnerre
   Id: monsters_hd.md#djinn
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Djinni](srd_monsters_djinni.md)'
   AttributesDictionary: >+
     Name: Djinn
 
@@ -24255,29 +24265,29 @@ SubItems:
   Family: MonsterHD
   Name: Éfrit
   Source: (CEO p)(SRD p)
-  AltName: '[Efreeti](srd_monsters_efreeti.md)'
   Type: Élémentaire
   Size: G
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 200 (16d10+112)
   Speed: 12 m, vol 18 m
+  SavingThrows: Int +7, Sag +6, Cha +7
+  DamageImmunities: de feu
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: ignée
+  Challenge: 11 (7 200 PX)
+  Terrain: Désert chaud, Plans élémentaires
   Strength: 22 (+6)
   Dexterity: 12 (+1)
   Constitution: 24 (+7)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Int +7, Sag +6, Cha +7
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: ignée
-  Challenge: 11 (7 200 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#Éfrit
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Efreeti](srd_monsters_efreeti.md)'
   AttributesDictionary: >+
     Name: Éfrit
 
@@ -24469,27 +24479,27 @@ SubItems:
   Family: MonsterHD
   Name: Gnoll
   Source: (CEO p)(SRD p)
-  AltName: '[Gnoll](srd_monsters_gnoll.md)'
   Type: Humanoïde (gnoll)
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 15 (armure de peau, bouclier)
   HitPoints: 22 (5d8)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: gnoll
+  Challenge: 1/2 (100 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
   Strength: 14 (+2)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: gnoll
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#gnoll
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gnoll](srd_monsters_gnoll.md)'
   AttributesDictionary: >+
     Name: Gnoll
 
@@ -24657,15 +24667,15 @@ SubItems:
   ArmorClass: 15 (armure de peau, bouclier)
   HitPoints: 44 (8d8+8)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: gnoll
+  Challenge: 2 (450 PX)
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: gnoll
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#gnoll-chef-de-meute
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -24835,28 +24845,28 @@ SubItems:
   Family: MonsterHD
   Name: Gnome des profondeurs (svirfneblin)
   Source: (CEO p)(SRD p)
-  AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
   Type: Humanoïde (gnome)
   Size: P
   Alignment: Neutre Bon
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 15 (chemise de mailles)
   HitPoints: 16 (3d6+6)
   Speed: 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun des profondeurs, gnome, terreux
+  Challenge: 1/2 (100 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: 12 (+1)
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun des profondeurs, gnome, terreux
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#gnome-des-profondeurs-svirfneblin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
   AttributesDictionary: >+
     Name: Gnome des profondeurs (svirfneblin)
 
@@ -25036,28 +25046,28 @@ SubItems:
   Family: MonsterHD
   Name: Gobelin
   Source: (CEO p)(SRD p)
-  AltName: '[Goblin](srd_monsters_goblin.md)'
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
   ArmorClass: 15 (armure de cuir, bouclier)
   HitPoints: 7 (2d6)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: commun, gobelin
+  Challenge: 1/4 (50 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
   Strength: ' 8 (-1)'
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: ' 8 (-1)'
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: commun, gobelin
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#gobelin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Goblin](srd_monsters_goblin.md)'
   AttributesDictionary: >+
     Name: Gobelin
 
@@ -25216,20 +25226,20 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
   ArmorClass: 13 (armure de cuir)
   HitPoints: 27 (6d6+6)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Religion](hd_abilities_intelligence_religion.md) +5'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun, gobelin
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Religion](hd_abilities_intelligence_religion.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun, gobelin
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#gobelin-chaman
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -25404,21 +25414,21 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure de peau)
   HitPoints: 13 (3d6+3)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Survie](hd_abilities_wisdom_survie.md) +7'
+  DamageResistances: de froid
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: commun, gobelin
+  Challenge: 1/2 (100 PX)
+  Terrain: Arctique / Subarctique
   Strength: 13 (+1)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Survie](hd_abilities_wisdom_survie.md) +7'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: commun, gobelin
-  Challenge: 1/2 (100 PX)
-  DamageResistances: de froid
   Id: monsters_hd.md#gobelin-blanc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -25617,21 +25627,21 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure de peau)
   HitPoints: 22 (5d6+5)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Religion](hd_abilities_intelligence_religion.md) +3, [Survie](hd_abilities_wisdom_survie.md) +7'
+  DamageResistances: de froid
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: commun, gobelin
+  Challenge: 1 (200 PX)
+  Terrain: Arctique / Subarctique
   Strength: 13 (+1)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Religion](hd_abilities_intelligence_religion.md) +3, [Survie](hd_abilities_wisdom_survie.md) +7'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: commun, gobelin
-  Challenge: 1 (200 PX)
-  DamageResistances: de froid
   Id: monsters_hd.md#chaman-gobelin-blanc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -25827,28 +25837,28 @@ SubItems:
   Family: MonsterHD
   Name: Gobelours
   Source: (CEO p)(SRD p)
-  AltName: '[Bugbear](srd_monsters_bugbear.md)'
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Caverne aménagée
   ArmorClass: 16 (armure de peau, bouclier)
   HitPoints: 27 (5d8+5)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Survie](hd_abilities_wisdom_survie.md) +2'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, gobelin
+  Challenge: 1 (200 PX)
+  Terrain: Collines / Vallées, Caverne aménagée
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 11 (+0)
   Charisma: ' 9 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Survie](hd_abilities_wisdom_survie.md) +2'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun, gobelin
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#gobelours
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bugbear](srd_monsters_bugbear.md)'
   AttributesDictionary: >+
     Name: Gobelours
 
@@ -26013,20 +26023,20 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: chaotique mauvais
-  Terrain: Collines / Vallées, Caverne aménagée
   ArmorClass: 16 (armure de peau, bouclier)
   HitPoints: 55 (10d8+10)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Intimidation](hd_abilities_charisma_intimidation.md) +6, [Survie](hd_abilities_wisdom_survie.md) +3'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, gobelin
+  Challenge: 4 (1 100 PX)
+  Terrain: Collines / Vallées, Caverne aménagée
   Strength: 17 (+3)
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: ' 9 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +8, [Intimidation](hd_abilities_charisma_intimidation.md) +6, [Survie](hd_abilities_wisdom_survie.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun, gobelin
-  Challenge: 4 (1 100 PX)
   Id: monsters_hd.md#gobelours-chef-barbare
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -26212,29 +26222,29 @@ SubItems:
   Family: MonsterHD
   Name: Golem d'argile
   Source: (CEO p)(SRD p)
-  AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 14 (armure naturelle)
   HitPoints: 133 (14d10+56)
   Speed: 6 m
+  DamageImmunities: d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: comprend les langues de son créateur mais ne peut pas parler
+  Challenge: 9 (5 000 PX)
+  Terrain: Donjon maçonné
   Strength: 20 (+5)
   Dexterity: ' 9 (-1)'
   Constitution: 18 (+4)
   Intelligence: ' 3 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 1 (-5)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: comprend les langues de son créateur mais ne peut pas parler
-  Challenge: 9 (5 000 PX)
-  DamageImmunities: d'acide, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#golem-dargile
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
   AttributesDictionary: >+
     Name: Golem d'argile
 
@@ -26432,29 +26442,29 @@ SubItems:
   Family: MonsterHD
   Name: Golem de chair
   Source: (CEO p)(SRD p)
-  AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
   Type: Créature artificielle
   Size: M
   Alignment: neutre
-  Terrain: Donjon maçonné
   ArmorClass: 9
   HitPoints: 93 (11d8+44)
   Speed: 9 m
+  DamageImmunities: de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend les langues de son créateur mais ne peut pas parler
+  Challenge: 5 (1 800 PX)
+  Terrain: Donjon maçonné
   Strength: 19 (+4)
   Dexterity: ' 9 (-1)'
   Constitution: 18 (+4)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend les langues de son créateur mais ne peut pas parler
-  Challenge: 5 (1 800 PX)
-  DamageImmunities: de foudre, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#golem-de-chair
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
   AttributesDictionary: >+
     Name: Golem de chair
 
@@ -26670,29 +26680,29 @@ SubItems:
   Family: MonsterHD
   Name: Golem de fer
   Source: (CEO p)(SRD p)
-  AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 20 (armure naturelle)
   HitPoints: 210 (20d10+100)
   Speed: 9 m
+  DamageImmunities: de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend les langues de son créateur mais ne peut pas parler
+  Challenge: 16 (15 000 PX)
+  Terrain: Donjon maçonné
   Strength: 24 (+7)
   Dexterity: ' 9 (-1)'
   Constitution: 20 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 1 (-5)'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend les langues de son créateur mais ne peut pas parler
-  Challenge: 16 (15 000 PX)
-  DamageImmunities: de feu, de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#golem-de-fer
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
   AttributesDictionary: >+
     Name: Golem de fer
 
@@ -26884,29 +26894,29 @@ SubItems:
   Family: MonsterHD
   Name: Golem de pierre
   Source: (CEO p)(SRD p)
-  AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 178 (17d10+85)
   Speed: 9 m
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend les langues de son créateur mais ne peut pas parler
+  Challenge: 10 (5 900 PX)
+  Terrain: Donjon maçonné
   Strength: 22 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 20 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 1 (-5)'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend les langues de son créateur mais ne peut pas parler
-  Challenge: 10 (5 900 PX)
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#golem-de-pierre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
   AttributesDictionary: >+
     Name: Golem de pierre
 
@@ -27080,29 +27090,29 @@ SubItems:
   Family: MonsterHD
   Name: Gorgone
   Source: (CEO p)(SRD p)
-  AltName: '[Gorgon](srd_monsters_gorgon.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 19 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  ConditionImmunities: '[pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 20 (+5)
   Dexterity: 11 (+0)
   Constitution: 18 (+4)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: —
-  Challenge: 5 (1 800 PX)
-  ConditionImmunities: '[pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#gorgone
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gorgon](srd_monsters_gorgon.md)'
   AttributesDictionary: >+
     Name: Gorgone
 
@@ -27276,29 +27286,29 @@ SubItems:
   Family: MonsterHD
   Name: Goule
   Source: (CEO p)(SRD p)
-  AltName: '[Ghoul](srd_monsters_ghoul.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Ruines extérieures, Ruines souterraines
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 9 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun
+  Challenge: 1 (200 PX)
+  Terrain: Ruines extérieures, Ruines souterraines
   Strength: 13 (+1)
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun
-  Challenge: 1 (200 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#goule
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ghoul](srd_monsters_ghoul.md)'
   AttributesDictionary: >+
     Name: Goule
 
@@ -27448,30 +27458,30 @@ SubItems:
   Family: MonsterHD
   Name: Goule Blême
   Source: (CEO p)(SRD p)
-  AltName: '[Ghast](srd_monsters_ghast.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Ruines extérieures, Ruines souterraines
   ArmorClass: 13
   HitPoints: 36 (8d8)
   Speed: 9 m
+  DamageResistances: nécrotiques
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun
+  Challenge: 2 (450 PX)
+  Terrain: Ruines extérieures, Ruines souterraines
   Strength: 16 (+3)
   Dexterity: 17 (+3)
   Constitution: 10 (+0)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun
-  Challenge: 2 (450 PX)
-  DamageResistances: nécrotiques
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#goule-blême
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ghast](srd_monsters_ghast.md)'
   AttributesDictionary: >+
     Name: Goule Blême
 
@@ -27645,28 +27655,28 @@ SubItems:
   Family: MonsterHD
   Name: Grick
   Source: (CEO p)(SRD p)
-  AltName: '[Grick](srd_monsters_grick.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 27 (6d8)
   Speed: 9 m, escalade 9 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 14 (+2)
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 2 (450 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
   Id: monsters_hd.md#grick
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Grick](srd_monsters_grick.md)'
   AttributesDictionary: >+
     Name: Grick
 
@@ -27828,28 +27838,28 @@ SubItems:
   Family: MonsterHD
   Name: Griffon
   Source: (CEO p)(SRD p)
-  AltName: '[Griffon](srd_monsters_griffon.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
-  Terrain: Montagnes
   ArmorClass: 12
   HitPoints: 59 (7d10+21)
   Speed: 9 m, vol 24 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Montagnes
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#griffon
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Griffon](srd_monsters_griffon.md)'
   AttributesDictionary: >+
     Name: Griffon
 
@@ -28011,27 +28021,27 @@ SubItems:
   Family: MonsterHD
   Name: Guenaude aquatique
   Source: (CEO p)(SRD p)
-  AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
   Type: Fée
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 52 (7d8+21)
   Speed: 9 m, nage 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: aquatique, commun, géant
+  Challenge: 2 (450 PX)
+  Terrain: Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: aquatique, commun, géant
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#guenaude-aquatique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
   AttributesDictionary: >+
     Name: Guenaude aquatique
 
@@ -28199,30 +28209,30 @@ SubItems:
   Family: MonsterHD
   Name: Guenaude nocturne
   Source: (CEO p)(SRD p)
-  AltName: '[Night Hag](srd_monsters_night_hag.md)'
   Type: Fiélon
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 112 (15d8+45)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +6, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
+  DamageResistances: de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.
+  ConditionImmunities: '[charmé](hd_conditions_charme.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: abyssal, commun, infernal, primordial
+  Challenge: 5 (1 800 PX)
+  Terrain: Donjon maçonné
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 16 (+3)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +6, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +6, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: abyssal, commun, infernal, primordial
-  Challenge: 5 (1 800 PX)
-  DamageResistances: de feu, de froid ; perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent.
-  ConditionImmunities: '[charmé](hd_conditions_charme.md)'
   Id: monsters_hd.md#guenaude-nocturne
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Night Hag](srd_monsters_night_hag.md)'
   AttributesDictionary: >+
     Name: Guenaude nocturne
 
@@ -28420,28 +28430,28 @@ SubItems:
   Family: MonsterHD
   Name: Guenaude verte
   Source: (CEO p)(SRD p)
-  AltName: '[Green Hag](srd_monsters_green_hag.md)'
   Type: Fée
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt, Collines / Vallées, Mangrove / Marécage
   ArmorClass: 17 (armure naturelle)
   HitPoints: 82 (11d8+33)
   Speed: 9 m
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +3, [Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: commun, draconique, sylvestre
+  Challenge: 3 (700 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Mangrove / Marécage
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +3, [Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: commun, draconique, sylvestre
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#guenaude-verte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Green Hag](srd_monsters_green_hag.md)'
   AttributesDictionary: >+
     Name: Guenaude verte
 
@@ -28627,27 +28637,27 @@ SubItems:
   Family: MonsterHD
   Name: Harpie
   Source: (CEO p)(SRD p)
-  AltName: '[Harpy](srd_monsters_harpy.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Littoral, Montagnes, Ruines extérieures
   ArmorClass: 11
   HitPoints: 38 (7d8+7)
   Speed: 6 m, vol 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: commun
+  Challenge: 1 (200 PX)
+  Terrain: Littoral, Montagnes, Ruines extérieures
   Strength: 12 (+1)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: 13 (+1)
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: commun
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#harpie
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Harpy](srd_monsters_harpy.md)'
   AttributesDictionary: >+
     Name: Harpie
 
@@ -28815,28 +28825,28 @@ SubItems:
   Family: MonsterHD
   Name: Hibours
   Source: (CEO p)(SRD p)
-  AltName: '[Owlbear](srd_monsters_owlbear.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 59 (7d10+21)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 3 (700 PX)
+  Terrain: Bois / Forêt, Caverne naturelle
   Strength: 20 (+5)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#hibours
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Owlbear](srd_monsters_owlbear.md)'
   AttributesDictionary: >+
     Name: Hibours
 
@@ -28998,28 +29008,28 @@ SubItems:
   Family: MonsterHD
   Name: Hippogriffe
   Source: (CEO p)(SRD p)
-  AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
-  Terrain: Littoral, Montagnes
   ArmorClass: 11
   HitPoints: 19 (3d10+3)
   Speed: 12 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Littoral, Montagnes
   Strength: 17 (+3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#hippogriffe
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
   AttributesDictionary: >+
     Name: Hippogriffe
 
@@ -29181,27 +29191,27 @@ SubItems:
   Family: MonsterHD
   Name: Hobgobelin
   Source: (CEO p)(SRD p)
-  AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 18 (bouclier, cotte de mailles)
   HitPoints: 11 (2d8+2)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, gobelin
+  Challenge: 1/2 (100 PX)
+  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun, gobelin
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#hobgobelin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
   AttributesDictionary: >+
     Name: Hobgobelin
 
@@ -29354,19 +29364,19 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 18 (bouclier, cotte de mailles)
   HitPoints: 29 (5d8+7)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, gobelin
+  Challenge: 2 (450 PX)
+  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun, gobelin
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#hobgobelin-sergent
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -29526,28 +29536,28 @@ SubItems:
   Family: MonsterHD
   Name: Homme-lézard
   Source: (CEO p)(SRD p)
-  AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 15 (armure naturelle, bouclier)
   HitPoints: 22 (4d8+4)
   Speed: 9 m, nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: draconique
+  Challenge: 1/2 (100 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: draconique
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#homme-lézard
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
   AttributesDictionary: >+
     Name: Homme-lézard
 
@@ -29736,20 +29746,20 @@ SubItems:
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 15 (armure naturelle, bouclier)
   HitPoints: 44 (8d8+8)
   Speed: 9 m, nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: draconique
+  Challenge: 2 (450 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3, [Survie](hd_abilities_wisdom_survie.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: draconique
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#homme-lézard-champion
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -29933,28 +29943,28 @@ SubItems:
   Family: MonsterHD
   Name: Homme-poisson
   Source: (CEO p)(SRD p)
-  AltName: '[Merfolk](srd_monsters_merfolk.md)'
   Type: Humanoïde (homme-poisson)
   Size: M
   Alignment: Neutre
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 11
   HitPoints: 11 (2d8+2)
   Speed: 3 m, nage 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: aquatique, commun
+  Challenge: 1/8 (25 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 10 (+0)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: aquatique, commun
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#homme-poisson
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Merfolk](srd_monsters_merfolk.md)'
   AttributesDictionary: >+
     Name: Homme-poisson
 
@@ -30098,29 +30108,29 @@ SubItems:
   Family: MonsterHD
   Name: Homoncule
   Source: (CEO p)(SRD p)
-  AltName: '[Homunculus](srd_monsters_homunculus.md)'
   Type: Créature artificielle
   Size: TP
   Alignment: neutre
-  Terrain: Donjon maçonné
   ArmorClass: 13 (armure naturelle)
   HitPoints: 5 (2d4)
   Speed: 6 m, vol 12 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend les langues de son créateur mais ne peut pas parler
+  Challenge: 0 (10 PX)
+  Terrain: Donjon maçonné
   Strength: ' 4 (-3)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend les langues de son créateur mais ne peut pas parler
-  Challenge: 0 (10 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#homoncule
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Homunculus](srd_monsters_homunculus.md)'
   AttributesDictionary: >+
     Name: Homoncule
 
@@ -30270,28 +30280,28 @@ SubItems:
   Family: MonsterHD
   Name: Hydre
   Source: (CEO p)(SRD p)
-  AltName: '[Hydra](srd_monsters_hydra.md)'
   Type: Créature monstrueuse
   Size: TG
   Alignment: non-alignée
-  Terrain: Littoral, Caverne sous-marine
   ArmorClass: 15 (armure naturelle)
   HitPoints: 172 (15d12+75)
   Speed: 9 m, nage 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: —
+  Challenge: 8 (3 900 PX)
+  Terrain: Littoral, Caverne sous-marine
   Strength: 20 (+5)
   Dexterity: 12 (+1)
   Constitution: 20 (+5)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: —
-  Challenge: 8 (3 900 PX)
   Id: monsters_hd.md#hydre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hydra](srd_monsters_hydra.md)'
   AttributesDictionary: >+
     Name: Hydre
 
@@ -30471,27 +30481,27 @@ SubItems:
   Family: MonsterHD
   Name: Kobold
   Source: (CEO p)(SRD p)
-  AltName: '[Kobold](srd_monsters_kobold.md)'
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Loyal Mauvais
-  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 12
   HitPoints: 5 (2d6-2)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: commun, draconique
+  Challenge: 1/8 (25 PX)
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   Strength: ' 7 (-2)'
   Dexterity: 15 (+2)
   Constitution: ' 9 (-1)'
   Intelligence: ' 8 (-1)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 8 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: commun, draconique
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#kobold
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Kobold](srd_monsters_kobold.md)'
   AttributesDictionary: >+
     Name: Kobold
 
@@ -30650,19 +30660,19 @@ SubItems:
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 13
   HitPoints: 17 (5d6)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: commun, draconique
+  Challenge: 1/2 (50 PX)
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   Strength: ' 7 (-2)'
   Dexterity: 16 (+3)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: ' 9 (-1)'
   Charisma: ' 9 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: commun, draconique
-  Challenge: 1/2 (50 PX)
   Id: monsters_hd.md#kobold-saigneur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -30828,30 +30838,30 @@ SubItems:
   Family: MonsterHD
   Name: Kraken
   Source: (CEO p)(SRD p)
-  AltName: '[Kraken](srd_monsters_kraken.md)'
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: Chaotique Mauvais
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 472 (27d20+189)
   Speed: 6 m, nage 18 m
+  SavingThrows: For +17, Dex +7, Con +14, Int +13, Sag +11
+  DamageImmunities: de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[terrorisé](hd_conditions_terrorise.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m
+  Challenge: 23 (50 000 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   Strength: 30 (+10)
   Dexterity: 11 (+0)
   Constitution: 25 (+7)
   Intelligence: 22 (+6)
   Wisdom: 18 (+4)
   Charisma: 20 (+5)
-  SavingThrows: For +17, Dex +7, Con +14, Int +13, Sag +11
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: comprend l'abyssal, le céleste, l'infernal et le primordial mais ne peut pas parler, télépathie 36 m
-  Challenge: 23 (50 000 PX)
-  DamageImmunities: de foudre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[terrorisé](hd_conditions_terrorise.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#kraken
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Kraken](srd_monsters_kraken.md)'
   AttributesDictionary: >+
     Name: Kraken
 
@@ -31085,28 +31095,28 @@ SubItems:
   Family: MonsterHD
   Name: Lamie
   Source: (CEO p)(SRD p)
-  AltName: '[Lamia](srd_monsters_lamia.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Désert chaud
   ArmorClass: 13 (armure naturelle)
   HitPoints: 97 (13d10+26)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: abyssal, commun
+  Challenge: 4 (1 100 PX)
+  Terrain: Désert chaud
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 15 (+2)
   Intelligence: 14 (+2)
   Wisdom: 15 (+2)
   Charisma: 16 (+3)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +7'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: abyssal, commun
-  Challenge: 4 (1 100 PX)
   Id: monsters_hd.md#lamie
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Lamia](srd_monsters_lamia.md)'
   AttributesDictionary: >+
     Name: Lamie
 
@@ -31298,31 +31308,31 @@ SubItems:
   Family: MonsterHD
   Name: Liche
   Source: (CEO p)(SRD p)
-  AltName: '[Lich](srd_monsters_lich.md)'
   Type: Mort-vivant
   Size: M
   Alignment: alignement Mauvais
-  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 135 (18d8+54)
   Speed: 9 m
+  SavingThrows: CON +10, INT +12, SAG +9
+  DamageResistances: de froid, de foudre, nécrotiques
+  DamageImmunities: de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [empoisonné](hd_conditions_empoisonne.md), [paralysé](hd_conditions_paralyse.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
+  Languages: commun et jusqu'à cinq autres langues
+  Challenge: 21 (33 000 PX)
+  Terrain: Donjon maçonné
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 16 (+3)
   Intelligence: 20 (+5)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  SavingThrows: CON +10, INT +12, SAG +9
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 19
-  Languages: commun et jusqu'à cinq autres langues
-  Challenge: 21 (33 000 PX)
-  DamageResistances: de froid, de foudre, nécrotiques
-  DamageImmunities: de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [empoisonné](hd_conditions_empoisonne.md), [paralysé](hd_conditions_paralyse.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#liche
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Lich](srd_monsters_lich.md)'
   AttributesDictionary: >+
     Name: Liche
 
@@ -31598,29 +31608,29 @@ SubItems:
   Family: MonsterHD
   Name: Licorne
   Source: (CEO p)(SRD p)
-  AltName: '[Unicorn](srd_monsters_unicorn.md)'
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
-  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 67 (9d10+18)
   Speed: 15 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: céleste, elfe, sylvestre, télépathie 18 m
+  Challenge: 5 (1 800 PX)
+  Terrain: Bois / Forêt
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 11 (+0)
   Wisdom: 17 (+3)
   Charisma: 16 (+3)
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: céleste, elfe, sylvestre, télépathie 18 m
-  Challenge: 5 (1 800 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#licorne
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Unicorn](srd_monsters_unicorn.md)'
   AttributesDictionary: >+
     Name: Licorne
 
@@ -31860,29 +31870,29 @@ SubItems:
   Family: MonsterHD
   Name: Loup-garou
   Source: (CEO p)(SRD p)
-  AltName: '[Werewolf](srd_monsters_werewolf.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Bois / Forêt, Montagnes
   ArmorClass: 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
   HitPoints: 58 (9d8+18)
   Speed: 9 m (12 m sous forme de loup)
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
+  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: commun (ne peut pas parler sous forme de loup)
+  Challenge: 3 (700 PX)
+  Terrain: Bois / Forêt, Montagnes
   Strength: 15 (+2)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: commun (ne peut pas parler sous forme de loup)
-  Challenge: 3 (700 PX)
-  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
   Id: monsters_hd.md#loup-garou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Werewolf](srd_monsters_werewolf.md)'
   AttributesDictionary: >+
     Name: Loup-garou
 
@@ -32068,29 +32078,29 @@ SubItems:
   Family: MonsterHD
   Name: Ours-garou
   Source: (CEO p)(SRD p)
-  AltName: '[Werebear](srd_monsters_werebear.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre Bon
-  Terrain: Bois / Forêt
   ArmorClass: 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
   HitPoints: 135 (18d8+54)
   Speed: 9 m (12 m, escalade 9 m sous forme hybride ou d'ours)
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +7'
+  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 17'
+  Languages: commun (ne peut pas parler sous forme d'ours)
+  Challenge: 5 (1 800 PX)
+  Terrain: Bois / Forêt
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +7'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 17'
-  Languages: commun (ne peut pas parler sous forme d'ours)
-  Challenge: 5 (1 800 PX)
-  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
   Id: monsters_hd.md#ours-garou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Werebear](srd_monsters_werebear.md)'
   AttributesDictionary: >+
     Name: Ours-garou
 
@@ -32276,29 +32286,29 @@ SubItems:
   Family: MonsterHD
   Name: Rat-garou
   Source: (CEO p)(SRD p)
-  AltName: '[Wererat](srd_monsters_wererat.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Caverne naturelle
   ArmorClass: 12
   HitPoints: 33 (6d8+6)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
+  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  Senses: vision dans le noir 18 m (forme de rat uniquement), [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun (ne peut pas parler sous forme de rat)
+  Challenge: 2 (450 PX)
+  Terrain: Caverne naturelle
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 18 m (forme de rat uniquement), [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun (ne peut pas parler sous forme de rat)
-  Challenge: 2 (450 PX)
-  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
   Id: monsters_hd.md#rat-garou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Wererat](srd_monsters_wererat.md)'
   AttributesDictionary: >+
     Name: Rat-garou
 
@@ -32484,29 +32494,29 @@ SubItems:
   Family: MonsterHD
   Name: Sanglier-garou
   Source: (CEO p)(SRD p)
-  AltName: '[Wereboar](srd_monsters_wereboar.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt
   ArmorClass: 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
   HitPoints: 78 (12d8+24)
   Speed: 9 m (12 m sous forme de sanglier)
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: commun (ne peut pas parler sous forme de sanglier)
+  Challenge: 4 (1 100 PX)
+  Terrain: Bois / Forêt
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: ' 8 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: commun (ne peut pas parler sous forme de sanglier)
-  Challenge: 4 (1 100 PX)
-  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
   Id: monsters_hd.md#sanglier-garou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Wereboar](srd_monsters_wereboar.md)'
   AttributesDictionary: >+
     Name: Sanglier-garou
 
@@ -32686,29 +32696,29 @@ SubItems:
   Family: MonsterHD
   Name: Tigre-garou
   Source: (CEO p)(SRD p)
-  AltName: '[Weretiger](srd_monsters_weretiger.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre
-  Terrain: Jungle
   ArmorClass: 12
   HitPoints: 120 (16d8+48)
   Speed: 9 m (12 m sous forme de tigre)
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5'
+  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: commun (ne peut pas parler sous forme de tigre)
+  Challenge: 4 (1 100 PX)
+  Terrain: Jungle
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: commun (ne peut pas parler sous forme de tigre)
-  Challenge: 4 (1 100 PX)
-  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
   Id: monsters_hd.md#tigre-garou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Weretiger](srd_monsters_weretiger.md)'
   AttributesDictionary: >+
     Name: Tigre-garou
 
@@ -32912,29 +32922,29 @@ SubItems:
   Family: MonsterHD
   Name: Magmatique
   Source: (CEO p)(SRD p)
-  AltName: '[Magmin](srd_monsters_magmin.md)'
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Neutre
-  Terrain: Plans élémentaires
   ArmorClass: 14 (armure naturelle)
   HitPoints: 9 (2d6+2)
   Speed: 9 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de feu
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: ignée
+  Challenge: 1/2 (100 PX)
+  Terrain: Plans élémentaires
   Strength: ' 7 (-2)'
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: ignée
-  Challenge: 1/2 (100 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: de feu
   Id: monsters_hd.md#magmatique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Magmin](srd_monsters_magmin.md)'
   AttributesDictionary: >+
     Name: Magmatique
 
@@ -33102,28 +33112,28 @@ SubItems:
   Family: MonsterHD
   Name: Manteleur
   Source: (CEO p)(SRD p)
-  AltName: '[Cloaker](srd_monsters_cloaker.md)'
   Type: Aberration
   Size: G
   Alignment: Chaotique Neutre
-  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 78 (12d10+12)
   Speed: 3 m, vol 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: commun des profondeurs, profond
+  Challenge: 8 (3 900 PX)
+  Terrain: Caverne naturelle, Ruines souterraines
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: 13 (+1)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: commun des profondeurs, profond
-  Challenge: 8 (3 900 PX)
   Id: monsters_hd.md#manteleur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Cloaker](srd_monsters_cloaker.md)'
   AttributesDictionary: >+
     Name: Manteleur
 
@@ -33327,28 +33337,28 @@ SubItems:
   Family: MonsterHD
   Name: Mante obscure
   Source: (CEO p)(SRD p)
-  AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
-  Terrain: Caverne naturelle
   ArmorClass: 11
   HitPoints: 22 (5d6+5)
   Speed: 3 m, vol 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3'
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Caverne naturelle
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#mante-obscure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
   AttributesDictionary: >+
     Name: Mante obscure
 
@@ -33522,27 +33532,27 @@ SubItems:
   Family: MonsterHD
   Name: Manticore
   Source: (CEO p)(SRD p)
-  AltName: '[Manticore](srd_monsters_manticore.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 68 (8d10+24)
   Speed: 9 m, vol 15 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: commun
+  Challenge: 3 (700 PX)
+  Terrain: Désert chaud, Montagnes
   Strength: 17 (+3)
   Dexterity: 16 (+3)
   Constitution: 17 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: commun
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#manticore
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Manticore](srd_monsters_manticore.md)'
   AttributesDictionary: >+
     Name: Manticore
 
@@ -33710,28 +33720,28 @@ SubItems:
   Family: MonsterHD
   Name: Méduse
   Source: (CEO p)(SRD p)
-  AltName: '[Medusa](srd_monsters_medusa.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 127 (17d8+51)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: commun
+  Challenge: 6 (2 300 PX)
+  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: commun
-  Challenge: 6 (2 300 PX)
   Id: monsters_hd.md#méduse
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Medusa](srd_monsters_medusa.md)'
   AttributesDictionary: >+
     Name: Méduse
 
@@ -33917,31 +33927,31 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de glace
   Source: (CEO p)(SRD p)
-  AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Arctique / Subarctique, Montagnes, Plans élémentaires
   ArmorClass: 11
   HitPoints: 21 (6d6)
   Speed: 9 m, vol 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+  DamageImmunities: de froid et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: aérien, aquatique
+  Challenge: 1/2 (100 PX)
+  DamageVulnerabilities: contondants et de feu
+  Terrain: Arctique / Subarctique, Montagnes, Plans élémentaires
   Strength: ' 7 (-3)'
   Dexterity: 13 (+1)
   Constitution: 10 (+0)
   Intelligence: ' 9 (-1)'
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: aérien, aquatique
-  Challenge: 1/2 (100 PX)
-  DamageVulnerabilities: contondants et de feu
-  DamageImmunities: de froid et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#méphite-de-glace
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de glace
 
@@ -34127,31 +34137,31 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de magma
   Source: (CEO p)(SRD p)
-  AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Plans élémentaires
   ArmorClass: 11
   HitPoints: 22 (5d6+5)
   Speed: 9 m, vol 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3'
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: ignée, terreux
+  Challenge: 1/2 (100 PX)
+  DamageVulnerabilities: de froid
+  Terrain: Plans élémentaires
   Strength: ' 8 (-1)'
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: ignée, terreux
-  Challenge: 1/2 (100 PX)
-  DamageVulnerabilities: de froid
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#méphite-de-magma
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de magma
 
@@ -34331,31 +34341,31 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de poussière
   Source: (CEO p)(SRD p)
-  AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
   ArmorClass: 12
   HitPoints: 17 (5d6)
   Speed: 9 m, vol 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: aérien, terreux
+  Challenge: 1/2 (100 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
   Strength: ' 5 (-3)'
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 9 (-1)'
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: aérien, terreux
-  Challenge: 1/2 (100 PX)
-  DamageVulnerabilities: de feu
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#méphite-de-poussière
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de poussière
 
@@ -34535,29 +34545,29 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de vapeur
   Source: (CEO p)(SRD p)
-  AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
-  Terrain: Littoral, Plans élémentaires, Caverne sous-marine
   ArmorClass: 10
   HitPoints: 21 (6d6)
   Speed: 9 m, vol 9 m
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: aquatique, ignée
+  Challenge: 1/4 (50 PX)
+  Terrain: Littoral, Plans élémentaires, Caverne sous-marine
   Strength: ' 5 (-3)'
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: aquatique, ignée
-  Challenge: 1/4 (50 PX)
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#méphite-de-vapeur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de vapeur
 
@@ -34725,27 +34735,27 @@ SubItems:
   Family: MonsterHD
   Name: Merrow
   Source: (CEO p)(SRD p)
-  AltName: '[Merrow](srd_monsters_merrow.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Littoral, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 3 m, nage 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: abyssal, aquatique
+  Challenge: 2 (450 PX)
+  Terrain: Littoral, Caverne sous-marine, Ruines sous-marines
   Strength: 18 (+4)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 8 (-1)'
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: abyssal, aquatique
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#merrow
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Merrow](srd_monsters_merrow.md)'
   AttributesDictionary: >+
     Name: Merrow
 
@@ -34919,30 +34929,30 @@ SubItems:
   Family: MonsterHD
   Name: Mimique
   Source: (CEO p)(SRD p)
-  AltName: '[Mimic](srd_monsters_mimic.md)'
   Type: Créature monstrueuse (métamorphe)
   Size: M
   Alignment: Neutre
-  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 58 (9d8+18)
   Speed: 4,50 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
+  DamageImmunities: d'acide
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   Strength: 17 (+3)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 5 (-3)'
   Wisdom: 13 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 2 (450 PX)
-  DamageImmunities: d'acide
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md)'
   Id: monsters_hd.md#mimique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mimic](srd_monsters_mimic.md)'
   AttributesDictionary: >+
     Name: Mimique
 
@@ -35134,28 +35144,28 @@ SubItems:
   Family: MonsterHD
   Name: Minotaure
   Source: (CEO p)(SRD p)
-  AltName: '[Minotaur](srd_monsters_minotaur.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76 (9d10+27)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +7'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: abyssal
+  Challenge: 3 (700 PX)
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
   Strength: 18 (+4)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 16 (+3)
   Charisma: ' 9 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +7'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: abyssal
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#minotaure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Minotaur](srd_monsters_minotaur.md)'
   AttributesDictionary: >+
     Name: Minotaure
 
@@ -35329,28 +35339,28 @@ SubItems:
   Family: MonsterHD
   Name: Molosse infernal
   Source: (CEO p)(SRD p)
-  AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
   Type: Fiélon
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 15 (armure naturelle)
   HitPoints: 45 (7d8+14)
   Speed: 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
+  DamageImmunities: de feu
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: comprend l'infernal mais ne peut pas parler
+  Challenge: 3 (700 PX)
   Strength: 17 (+3)
   Dexterity: 12 (+1)
   Constitution: 14 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: comprend l'infernal mais ne peut pas parler
-  Challenge: 3 (700 PX)
-  DamageImmunities: de feu
   Id: monsters_hd.md#molosse-infernal
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
   AttributesDictionary: >+
     Name: Molosse infernal
 
@@ -35510,32 +35520,32 @@ SubItems:
   Family: MonsterHD
   Name: Momie
   Source: (CEO p)(SRD p)
-  AltName: '[Mummy](srd_monsters_mummy.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 11 (armure naturelle)
   HitPoints: 58 (9d8+18)
   Speed: 6 m
+  SavingThrows: Sag +2
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison et nécrotiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: celles qu'elle connaissait de son vivant
+  Challenge: 3 (700 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Donjon maçonné, Ruines souterraines
   Strength: 16 (+3)
   Dexterity: ' 8 (-1)'
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  SavingThrows: Sag +2
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: celles qu'elle connaissait de son vivant
-  Challenge: 3 (700 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageVulnerabilities: de feu
-  DamageImmunities: de poison et nécrotiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#momie
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mummy](srd_monsters_mummy.md)'
   AttributesDictionary: >+
     Name: Momie
 
@@ -35709,32 +35719,32 @@ SubItems:
   Family: MonsterHD
   Name: Momie auguste
   Source: (CEO p)(SRD p)
-  AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 97 (13d8+39)
   Speed: 6 m
+  SavingThrows: Con +8, Int +5, Sag +9, Cha +8
+  Skills: '[Histoire](hd_abilities_intelligence_histoire.md) +5, [Religion](hd_abilities_intelligence_religion.md) +5'
+  DamageImmunities: de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: celles qu'elle connaissait de son vivant
+  Challenge: 15 (13 000 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Donjon maçonné, Ruines souterraines
   Strength: 18 (+4)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 11 (+0)
   Wisdom: 18 (+4)
   Charisma: 16 (+3)
-  SavingThrows: Con +8, Int +5, Sag +9, Cha +8
-  Skills: '[Histoire](hd_abilities_intelligence_histoire.md) +5, [Religion](hd_abilities_intelligence_religion.md) +5'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: celles qu'elle connaissait de son vivant
-  Challenge: 15 (13 000 PX)
-  DamageVulnerabilities: de feu
-  DamageImmunities: de poison, nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#momie-auguste
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
   AttributesDictionary: >+
     Name: Momie auguste
 
@@ -36028,30 +36038,30 @@ SubItems:
   Family: MonsterHD
   Name: Naga corrupteur
   Source: (CEO p)(SRD p)
-  AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 75 (10d10+20)
   Speed: 12 m
+  SavingThrows: Dex +6, Con +5, Sag +5, Cha +6
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: abyssal, commun
+  Challenge: 8 (3 900 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 18 (+4)
   Dexterity: 17 (+3)
   Constitution: 14 (+2)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Dex +6, Con +5, Sag +5, Cha +6
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: abyssal, commun
-  Challenge: 8 (3 900 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#naga-corrupteur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
   AttributesDictionary: >+
     Name: Naga corrupteur
 
@@ -36249,30 +36259,30 @@ SubItems:
   Family: MonsterHD
   Name: Naga gardien
   Source: (CEO p)(SRD p)
-  AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Bon
-  Terrain: Ruines extérieures
   ArmorClass: 18 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 12 m
+  SavingThrows: Dex +8, Con +7, Int +7, Sag +8, Cha +8
+  DamageImmunities: de poison
+  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: céleste, commun
+  Challenge: 10 (5 900 PX)
+  Terrain: Ruines extérieures
   Strength: 19 (+4)
   Dexterity: 18 (+4)
   Constitution: 16 (+3)
   Intelligence: 16 (+3)
   Wisdom: 19 (+4)
   Charisma: 18 (+4)
-  SavingThrows: Dex +8, Con +7, Int +7, Sag +8, Cha +8
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: céleste, commun
-  Challenge: 10 (5 900 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#naga-gardien
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
   AttributesDictionary: >+
     Name: Naga gardien
 
@@ -36488,31 +36498,31 @@ SubItems:
   Family: MonsterHD
   Name: Nécrophage
   Source: (CEO p)(SRD p)
-  AltName: '[Wight](srd_monsters_wight.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Mangrove / Marécage, Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure de cuir clouté)
   HitPoints: 45 (6d8+18)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  DamageResistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: celles qu'il connaissait de son vivant
+  Challenge: 3 (700 PX)
+  Terrain: Mangrove / Marécage, Caverne naturelle, Ruines souterraines
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: celles qu'il connaissait de son vivant
-  Challenge: 3 (700 PX)
-  DamageResistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en argent
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#nécrophage
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Wight](srd_monsters_wight.md)'
   AttributesDictionary: >+
     Name: Nécrophage
 
@@ -36710,29 +36720,29 @@ SubItems:
   Family: MonsterHD
   Name: Armure animée
   Source: (CEO p)(SRD p)
-  AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 18 (armure naturelle)
   HitPoints: 33 (6d8+6)
   Speed: 7,50 m
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Donjon maçonné
   Strength: 14 (+2)
   Dexterity: 11 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
-  Languages: —
-  Challenge: 1 (200 PX)
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#armure-animée
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
   AttributesDictionary: >+
     Name: Armure animée
 
@@ -36894,30 +36904,30 @@ SubItems:
   Family: MonsterHD
   Name: Épée volante
   Source: (CEO p)(SRD p)
-  AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 17 (armure naturelle)
   HitPoints: 17 (5d6)
   Speed: 0 m, vol 15 m (vol stationnaire)
+  SavingThrows: Dex +4
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md), [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 7
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Donjon maçonné
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 5 (-3)'
   Charisma: ' 1 (-5)'
-  SavingThrows: Dex +4
-  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 7
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md), [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#Épée-volante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
   AttributesDictionary: >+
     Name: Épée volante
 
@@ -37079,29 +37089,29 @@ SubItems:
   Family: MonsterHD
   Name: Tapis étrangleur
   Source: (CEO p)(SRD p)
-  AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
-  Terrain: Donjon maçonné
   ArmorClass: 12
   HitPoints: 33 (6d10)
   Speed: 3 m
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Donjon maçonné
   Strength: 17 (+3)
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 18 m (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 6
-  Languages: —
-  Challenge: 2 (450 PX)
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [empoisonné](hd_conditions_empoisonne.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#tapis-étrangleur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
   AttributesDictionary: >+
     Name: Tapis étrangleur
 
@@ -37275,27 +37285,27 @@ SubItems:
   Family: MonsterHD
   Name: Ogre
   Source: (CEO p)(SRD p)
-  AltName: '[Ogre](srd_monsters_ogre.md)'
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
   ArmorClass: 11 (armure de peau)
   HitPoints: 59 (7d10+21)
   Speed: 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: commun, géant
+  Challenge: 2 (450 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
   Strength: 19 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 7 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: commun, géant
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#ogre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ogre](srd_monsters_ogre.md)'
   AttributesDictionary: >+
     Name: Ogre
 
@@ -37433,32 +37443,32 @@ SubItems:
   Family: MonsterHD
   Name: Ombre
   Source: (CEO p)(SRD p)
-  AltName: '[Shadow](srd_monsters_shadow.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   ArmorClass: 12
   HitPoints: 16 (3d8+3)
   Speed: 12 m
+  Skills: "[Discrétion](hd_abilities_dexterity_discretion.md) +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
+  DamageResistances: d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de poison et nécrotiques
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md) [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  DamageVulnerabilities: radiants
+  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Skills: "[Discrétion](hd_abilities_dexterity_discretion.md) +4 (+6 dans une zone faiblement éclairée ou dans l'obscurité totale)"
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/2 (100 PX)
-  DamageResistances: d'acide, de feu, de foudre, de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageVulnerabilities: radiants
-  DamageImmunities: de poison et nécrotiques
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [entravé](hd_conditions_entrave.md) [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#ombre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Shadow](srd_monsters_shadow.md)'
   AttributesDictionary: >+
     Name: Ombre
 
@@ -37644,28 +37654,28 @@ SubItems:
   Family: MonsterHD
   Name: Oni
   Source: (CEO p)(SRD p)
-  AltName: '[Oni](srd_monsters_oni.md)'
   Type: Géant
   Size: G
   Alignment: Loyal Mauvais
   ArmorClass: 16 (cotte de mailles)
   HitPoints: 110 (13d10+39)
   Speed: 9 m, vol 9 m
+  SavingThrows: Dex +3, Con +6, Sag +4, Cha +5
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +8'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: commun, géant
+  Challenge: 7 (2 900 PX)
   Strength: 19 (+4)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: 14 (+2)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Dex +3, Con +6, Sag +4, Cha +5
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +8'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: commun, géant
-  Challenge: 7 (2 900 PX)
   Id: monsters_hd.md#oni
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Oni](srd_monsters_oni.md)'
   AttributesDictionary: >+
     Name: Oni
 
@@ -37864,20 +37874,20 @@ SubItems:
   Type: Humanoïde (orc)
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 13 (armure de peau)
   HitPoints: 15 (2d8+6)
   Speed: 9 m
+  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +2'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: commun, orc
+  Challenge: 1/2 (100 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +2'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: commun, orc
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#orc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -38034,20 +38044,20 @@ SubItems:
   Type: Humanoïde (demi-orc)
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 13 (armure de cuir)
   HitPoints: 33 (6d8+6)
   Speed: 9 m
+  Skills: '[Religion](hd_abilities_intelligence_religion.md) +2, [Persuasion](hd_abilities_charisma_persuasion.md) +3'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: commun, orc
+  Challenge: 2 (450 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 15 (+2)
   Dexterity: 11 (+0)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: '[Religion](hd_abilities_intelligence_religion.md) +2, [Persuasion](hd_abilities_charisma_persuasion.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: commun, orc
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#chaman-orc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -38219,28 +38229,28 @@ SubItems:
   Family: MonsterHD
   Name: Otyugh
   Source: (CEO p)(SRD p)
-  AltName: '[Otyugh](srd_monsters_otyugh.md)'
   Type: Aberration
   Size: G
   Alignment: Neutre
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 9 m
+  SavingThrows: Con +7
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: otyugh
+  Challenge: 5 (1 800 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 16 (+3)
   Dexterity: 11 (+0)
   Constitution: 19 (+4)
   Intelligence: ' 6 (-2)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  SavingThrows: Con +7
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: otyugh
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#otyugh
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Otyugh](srd_monsters_otyugh.md)'
   AttributesDictionary: >+
     Name: Otyugh
 
@@ -38420,27 +38430,27 @@ SubItems:
   Family: MonsterHD
   Name: Oxydeur
   Source: (CEO p)(SRD p)
-  AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: non-alignée
-  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 27 (5d8+5)
   Speed: 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Caverne naturelle, Ruines souterraines
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#oxydeur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
   AttributesDictionary: >+
     Name: Oxydeur
 
@@ -38605,22 +38615,22 @@ SubItems:
   Type: Aberration
   Size: TP
   Alignment: Neutre
-  Terrain: Ruines souterraines
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 9 m au sol
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +0'
+  DamageResistances: acide, feu, foudre, froid, tonnerre
+  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
+  Senses: vision aveugle 18 mètres (aveugle au-delà) ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: –
+  Challenge: 1/4 (50 PX)
+  Terrain: Ruines souterraines
   Strength: ' 8 (-1)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 4 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +0'
-  Senses: vision aveugle 18 mètres (aveugle au-delà) ; [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: –
-  Challenge: 1/4 (50 PX)
-  DamageResistances: acide, feu, foudre, froid, tonnerre
-  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
   Id: monsters_hd.md#parasite-arcanique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -38832,28 +38842,28 @@ SubItems:
   Family: MonsterHD
   Name: Pégase
   Source: (CEO p)(SRD p)
-  AltName: '[Pegasus](srd_monsters_pegasus.md)'
   Type: Céleste
   Size: G
   Alignment: Chaotique Bon
   ArmorClass: 12
   HitPoints: 59 (7d10+21)
   Speed: 18 m, vol 27 m
+  SavingThrows: Dex +4, Sag +4, Cha +3
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 16'
+  Languages: comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
+  Challenge: 2 (450 PX)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 15 (+2)
   Charisma: 13 (+1)
-  SavingThrows: Dex +4, Sag +4, Cha +3
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 16'
-  Languages: comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#pégase
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Pegasus](srd_monsters_pegasus.md)'
   AttributesDictionary: >+
     Name: Pégase
 
@@ -38989,28 +38999,28 @@ SubItems:
   Family: MonsterHD
   Name: Pseudodragon
   Source: (CEO p)(SRD p)
-  AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
   Type: Dragon
   Size: TP
   Alignment: Neutre Bon
-  Terrain: Bois / Forêt, Jungle, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 7 (2d4+2)
   Speed: 4,50 m, vol 18 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: comprend le commun et le draconique mais ne peut pas parler
+  Challenge: 1/4 (50 PX)
+  Terrain: Bois / Forêt, Jungle, Caverne naturelle
   Strength: ' 6 (-2)'
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: comprend le commun et le draconique mais ne peut pas parler
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#pseudodragon
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
   AttributesDictionary: >+
     Name: Pseudodragon
 
@@ -39178,29 +39188,29 @@ SubItems:
   Family: MonsterHD
   Name: Rakshasa
   Source: (CEO p)(SRD p)
-  AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
   Type: Fiélon
   Size: M
   Alignment: Loyal Mauvais
   ArmorClass: 16 (armure naturelle)
   HitPoints: 110 (13d8+52)
   Speed: 12 m
+  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +8, [Supercherie](hd_abilities_charisma_supercherie.md) +10'
+  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: commun, infernal
+  Challenge: 13 (10 000 PX)
+  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures Bonnes.
   Strength: 14 (+2)
   Dexterity: 17 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 16 (+3)
   Charisma: 20 (+5)
-  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +8, [Supercherie](hd_abilities_charisma_supercherie.md) +10'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: commun, infernal
-  Challenge: 13 (10 000 PX)
-  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures Bonnes.
-  DamageImmunities: contondants, perforants et tranchants infligés par des attaques non-magiques
   Id: monsters_hd.md#rakshasa
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
   AttributesDictionary: >+
     Name: Rakshasa
 
@@ -39393,20 +39403,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: TG
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique
   ArmorClass: 17 (armure naturelle)
   HitPoints: 195 (17d12+85)
   Speed: 9 m, fouissement 6 m
+  DamageImmunities: de feu et de froid
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 11 (7 200 PX)
+  Terrain: Arctique / Subarctique
   Strength: 24 (+7)
   Dexterity: 13 (+1)
   Constitution: 21 (+5)
   Intelligence: ' 4 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 11 (7 200 PX)
-  DamageImmunities: de feu et de froid
   Id: monsters_hd.md#remorhaz
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -39566,29 +39576,29 @@ SubItems:
   Family: MonsterHD
   Name: Roc
   Source: (CEO p)(SRD p)
-  AltName: '[Roc](srd_monsters_roc.md)'
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
-  Terrain: Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 248 (16d20+80)
   Speed: 6 m, vol 36 m
+  SavingThrows: Dex +4, Con +9, Sag +4, Cha +3
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 11 (7 200 PX)
+  Terrain: Montagnes
   Strength: 28 (+9)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  SavingThrows: Dex +4, Con +9, Sag +4, Cha +3
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 11 (7 200 PX)
   Id: monsters_hd.md#roc
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Roc](srd_monsters_roc.md)'
   AttributesDictionary: >+
     Name: Roc
 
@@ -39756,28 +39766,28 @@ SubItems:
   Family: MonsterHD
   Name: Sahuagin
   Source: (CEO p)(SRD p)
-  AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
   Type: Humanoïde (sahuagin)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 12 (armure naturelle)
   HitPoints: 22 (4d8+4)
   Speed: 9 m, nage 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: sahuagin
+  Challenge: 1/2 (100 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: 12 (+1)
   Wisdom: 13 (+1)
   Charisma: ' 9 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: sahuagin
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#sahuagin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
   AttributesDictionary: >+
     Name: Sahuagin
 
@@ -39966,20 +39976,20 @@ SubItems:
   Type: Humanoïde (sahuagin)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 14 (armure de coquillages)
   HitPoints: 50 (9d8+9)
   Speed: 9 m, nage 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6, [Religion](hd_abilities_intelligence_religion.md) +6'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: sahuagin
+  Challenge: 3 (700 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: 12 (+1)
   Wisdom: 17 (+3)
   Charisma: 11 (+0)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6, [Religion](hd_abilities_intelligence_religion.md) +6'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: sahuagin
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#sahuagin-prêtresse-de-mikala
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -40199,30 +40209,30 @@ SubItems:
   Family: MonsterHD
   Name: Salamandre
   Source: (CEO p)(SRD p)
-  AltName: '[Salamander](srd_monsters_salamander.md)'
   Type: Élémentaire
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Plans élémentaires
   ArmorClass: 15 (armure naturelle)
   HitPoints: 90 (12d10+24)
   Speed: 9 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: de feu
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: ignée
+  Challenge: 5 (1 800 PX)
+  DamageVulnerabilities: de froid
+  Terrain: Plans élémentaires
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: ignée
-  Challenge: 5 (1 800 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageVulnerabilities: de froid
-  DamageImmunities: de feu
   Id: monsters_hd.md#salamandre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Salamander](srd_monsters_salamander.md)'
   AttributesDictionary: >+
     Name: Salamandre
 
@@ -40402,28 +40412,28 @@ SubItems:
   Family: MonsterHD
   Name: Satyre
   Source: (CEO p)(SRD p)
-  AltName: '[Satyr](srd_monsters_satyr.md)'
   Type: Fée
   Size: M
   Alignment: Chaotique Neutre
-  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 14 (armure de cuir)
   HitPoints: 31 (7d8)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +2, [Représentation](hd_abilities_charisma_representation.md) +6'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: commun, elfe, sylvestre
+  Challenge: 1/2 (100 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 12 (+1)
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: 12 (+1)
   Wisdom: 10 (+0)
   Charisma: 14 (+2)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +2, [Représentation](hd_abilities_charisma_representation.md) +6'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: commun, elfe, sylvestre
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#satyre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Satyr](srd_monsters_satyr.md)'
   AttributesDictionary: >+
     Name: Satyre
 
@@ -40594,22 +40604,22 @@ SubItems:
   Type: Plante
   Size: TG
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure naturelle)
   HitPoints: 115 (10d12+50)
   Speed: 0 m
+  DamageResistances: contondant, perforant, poison, tonnerre
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) (10)'
+  Languages: '-'
+  Challenge: 6 (2 300 XP)
+  DamageVulnerabilities: feu
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 21 (+5)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 1 (-5)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) (10)'
-  Languages: '-'
-  Challenge: 6 (2 300 XP)
-  DamageResistances: contondant, perforant, poison, tonnerre
-  DamageVulnerabilities: feu
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#saule-étrangleur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -40784,20 +40794,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 231 (14d20+84)
   Speed: nage 15 m
+  SavingThrows: Con +10, Sag +4
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 16 (15 000 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 28 (+9)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  SavingThrows: Con +10, Sag +4
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 16 (15 000 PX)
   Id: monsters_hd.md#serpent-de-mer
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -40999,30 +41009,30 @@ SubItems:
   Family: MonsterHD
   Name: Spectre
   Source: (CEO p)(SRD p)
-  AltName: '[Specter](srd_monsters_specter.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Ruines extérieures
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 0 m, vol 15 m
+  DamageResistances: acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: nécrotiques et de poison
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [entravé](hd_conditions_entrave.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
+  Challenge: 1 (200 PX)
+  Terrain: Ruines extérieures
   Strength: ' 1 (-5)'
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
-  Challenge: 1 (200 PX)
-  DamageResistances: acides, de froid, de feu, de foudre, de tonerre ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: nécrotiques et de poison
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [entravé](hd_conditions_entrave.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [paralysé](hd_conditions_paralyse.md), [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#spectre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Specter](srd_monsters_specter.md)'
   AttributesDictionary: >+
     Name: Spectre
 
@@ -41184,31 +41194,31 @@ SubItems:
   Family: MonsterHD
   Name: Androsphinx
   Source: (CEO p)(SRD p)
-  AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Neutre
-  Terrain: Désert chaud, Donjon maçonné, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 199 (19d10+95)
   Speed: 12 m, vol 18 m
+  SavingThrows: Dex +6, Con +11, Int +9, Sag +10
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +9, [Perception](hd_abilities_wisdom_perception.md) +10, [Religion](hd_abilities_intelligence_religion.md) +15'
+  DamageImmunities: psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 20
+  Languages: commun, sphinx
+  Challenge: 17 (18 000 PX)
+  Terrain: Désert chaud, Donjon maçonné, Ruines extérieures
   Strength: 22 (+6)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: 16 (+3)
   Wisdom: 18 (+4)
   Charisma: 23 (+6)
-  SavingThrows: Dex +6, Con +11, Int +9, Sag +10
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +9, [Perception](hd_abilities_wisdom_perception.md) +10, [Religion](hd_abilities_intelligence_religion.md) +15'
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 20
-  Languages: commun, sphinx
-  Challenge: 17 (18 000 PX)
-  DamageImmunities: psychiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#androsphinx
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
   AttributesDictionary: >+
     Name: Androsphinx
 
@@ -41484,31 +41494,31 @@ SubItems:
   Family: MonsterHD
   Name: Gynosphinx
   Source: (CEO p)(SRD p)
-  AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Neutre
-  Terrain: Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 136 (16d10+48)
   Speed: 12 m, vol 18 m
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +12, [Histoire](hd_abilities_intelligence_histoire.md) +12, [Perception](hd_abilities_wisdom_perception.md) +8, [Religion](hd_abilities_intelligence_religion.md) +8'
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  DamageImmunities: psychiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [terrorisé](hd_conditions_terrorise.md)'
+  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: commun, sphinx
+  Challenge: 11 (7 200 PX)
+  Terrain: Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 18 (+4)
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +12, [Histoire](hd_abilities_intelligence_histoire.md) +12, [Perception](hd_abilities_wisdom_perception.md) +8, [Religion](hd_abilities_intelligence_religion.md) +8'
-  Senses: vision parfaite 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: commun, sphinx
-  Challenge: 11 (7 200 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  DamageImmunities: psychiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md) et [terrorisé](hd_conditions_terrorise.md)'
   Id: monsters_hd.md#gynosphinx
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
   AttributesDictionary: >+
     Name: Gynosphinx
 
@@ -41754,30 +41764,30 @@ SubItems:
   Family: MonsterHD
   Name: Squelette
   Source: (CEO p)(SRD p)
-  AltName: '[Skeleton](srd_monsters_skeleton.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines extérieures
   ArmorClass: 13 (débris d'armure)
   HitPoints: 13 (2d8+4)
   Speed: 9 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
+  Challenge: 1/4 (50 PX)
+  DamageVulnerabilities: contondants
+  Terrain: Donjon maçonné, Ruines extérieures
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: comprend toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
-  Challenge: 1/4 (50 PX)
-  DamageVulnerabilities: contondants
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#squelette
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Skeleton](srd_monsters_skeleton.md)'
   AttributesDictionary: >+
     Name: Squelette
 
@@ -41933,29 +41943,29 @@ SubItems:
   Family: MonsterHD
   Name: Squelette cheval de guerre
   Source: (CEO p)(SRD p)
-  AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
   Type: Mort-vivant
   Size: G
   Alignment: Loyal Mauvais
   ArmorClass: 13 (débris de barde)
   HitPoints: 22 (3d10+6)
   Speed: 18 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  DamageVulnerabilities: contondants
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 1/2 (100 PX)
-  DamageVulnerabilities: contondants
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#squelette-cheval-de-guerre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
   AttributesDictionary: >+
     Name: Squelette cheval de guerre
 
@@ -42097,30 +42107,30 @@ SubItems:
   Family: MonsterHD
   Name: Squelette minotaure
   Source: (CEO p)(SRD p)
-  AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
   Type: Mort-vivant
   Size: G
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 67 (9d10+18)
   Speed: 12 m
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: comprend l'abyssal mais ne peut pas parler
+  Challenge: 2 (450 PX)
+  DamageVulnerabilities: contondants
+  Terrain: Donjon maçonné, Ruines souterraines
   Strength: 18 (+4)
   Dexterity: 11 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: comprend l'abyssal mais ne peut pas parler
-  Challenge: 2 (450 PX)
-  DamageVulnerabilities: contondants
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#squelette-minotaure
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
   AttributesDictionary: >+
     Name: Squelette minotaure
 
@@ -42288,27 +42298,27 @@ SubItems:
   Family: MonsterHD
   Name: Strige
   Source: (CEO p)(SRD p)
-  AltName: '[Stirge](srd_monsters_stirge.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 2 (1d4)
   Speed: 3 m, vol 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: ' 4 (-3)'
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 6 (-2)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#strige
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Stirge](srd_monsters_stirge.md)'
   AttributesDictionary: >+
     Name: Strige
 
@@ -42446,28 +42456,28 @@ SubItems:
   Family: MonsterHD
   Name: Succube/Incube
   Source: (CEO p)(SRD p)
-  AltName: '[Succubus](srd_monsters_succubus.md)'
   Type: Fiélon (métamorphe)
   Size: M
   Alignment: Neutre Mauvais
   ArmorClass: 15 (armure naturelle)
   HitPoints: 66 (12d8+12)
   Speed: 9 m, vol 18 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +5, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +5, [Persuasion](hd_abilities_charisma_persuasion.md) +9, [Supercherie](hd_abilities_charisma_supercherie.md) +9'
+  DamageResistances: de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: abyssal, commun, infernal, télépathie 18 m
+  Challenge: 4 (1 100 PX)
   Strength: ' 8 (-1)'
   Dexterity: 17 (+3)
   Constitution: 13 (+1)
   Intelligence: 15 (+2)
   Wisdom: 12 (+1)
   Charisma: 20 (+5)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +5, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +5, [Persuasion](hd_abilities_charisma_persuasion.md) +9, [Supercherie](hd_abilities_charisma_supercherie.md) +9'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: abyssal, commun, infernal, télépathie 18 m
-  Challenge: 4 (1 100 PX)
-  DamageResistances: de feu, de foudre, de froid, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
   Id: monsters_hd.md#succubeincube
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Succubus](srd_monsters_succubus.md)'
   AttributesDictionary: >+
     Name: Succube/Incube
 
@@ -42651,29 +42661,29 @@ SubItems:
   Family: MonsterHD
   Name: Sylvanien
   Source: (CEO p)(SRD p)
-  AltName: '[Treant](srd_monsters_treant.md)'
   Type: Plante
   Size: TG
   Alignment: Chaotique Bonne
-  Terrain: Bois / Forêt
   ArmorClass: 15 (armure naturelle)
   HitPoints: 138 (12d12+60)
   Speed: 9 m
+  DamageResistances: contondants et perçants
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: Commun, elfe, druidique, sylvestre
+  Challenge: 9 (5 000 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Bois / Forêt
   Strength: 23 (+6)
   Dexterity: ' 8 (-1)'
   Constitution: 21 (+5)
   Intelligence: 12 (+1)
   Wisdom: 16 (+3)
   Charisma: 12 (+1)
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: Commun, elfe, druidique, sylvestre
-  Challenge: 9 (5 000 PX)
-  DamageResistances: contondants et perçants
-  DamageVulnerabilities: de feu
   Id: monsters_hd.md#sylvanien
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Treant](srd_monsters_treant.md)'
   AttributesDictionary: >+
     Name: Sylvanien
 
@@ -42853,29 +42863,29 @@ SubItems:
   Family: MonsterHD
   Name: Tarasque
   Source: (CEO p)(SRD p)
-  AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: non-alignée
   ArmorClass: 25 (armure naturelle)
   HitPoints: 676 (33d20+330)
   Speed: 12 m
+  SavingThrows: Int +5, Sag +9, Cha +9
+  DamageImmunities: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)'
+  Senses: vision aveugle 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 30 (155 000 PX)
   Strength: 30 (+10)
   Dexterity: 11 (+0)
   Constitution: 30 (+10)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: 11 (+0)
-  SavingThrows: Int +5, Sag +9, Cha +9
-  Senses: vision aveugle 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 30 (155 000 PX)
-  DamageImmunities: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoisonné](hd_conditions_empoisonne.md) et [paralysé](hd_conditions_paralyse.md)'
   Id: monsters_hd.md#tarasque
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
   AttributesDictionary: >+
     Name: Tarasque
 
@@ -43152,21 +43162,21 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 16 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 9 m, fouissement 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +8'
+  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
+  Senses: perception des vibrations 18 m, vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: comprend le commun des profondeurs mais ne parle pas
+  Challenge: 5 (1 800 PX)
+  Terrain: Caverne naturelle, Ruines souterraines
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +8'
-  Senses: perception des vibrations 18 m, vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: comprend le commun des profondeurs mais ne parle pas
-  Challenge: 5 (1 800 PX)
-  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
   Id: monsters_hd.md#terreur-des-roches
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -43341,21 +43351,21 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre
-  Terrain: Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 6 m, fouissement 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6'
+  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
+  Senses: perception des vibrations 12 m, vision aveugle 12 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: '-'
+  Challenge: 1 (200 PX)
+  Terrain: Caverne naturelle
   Strength: 15 (+2)
   Dexterity: 12 (+1)
   Constitution: 14 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 6 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: perception des vibrations 12 m, vision aveugle 12 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: '-'
-  Challenge: 1 (200 PX)
-  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
   Id: monsters_hd.md#larve-des-roches
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -43497,31 +43507,31 @@ SubItems:
   Family: MonsterHD
   Name: Tertre errant
   Source: (CEO p)(SRD p)
-  AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
   Type: Plante
   Size: G
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 136 (16d10+48)
   Speed: 6 m, nage 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+  DamageResistances: de feu et de froid
+  DamageImmunities: de foudre
+  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 18 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 5 (1 800 PX)
-  DamageResistances: de feu et de froid
-  DamageImmunities: de foudre
-  ConditionImmunities: '[assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#tertre-errant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
   AttributesDictionary: >+
     Name: Tertre errant
 
@@ -43695,29 +43705,29 @@ SubItems:
   Family: MonsterHD
   Name: Torve
   Source: (CEO p)(SRD p)
-  AltName: '[Grimlock](srd_monsters_grimlock.md)'
   Type: Humanoïde (torve)
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Caverne aménagée
   ArmorClass: 11
   HitPoints: 11 (2d8+2)
   Speed: 9 m
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +3'
+  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
+  Senses: vision aveugle 9 m ou 3 m s'il est [assourdi](hd_conditions_assourdi.md) (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: commun des profondeurs
+  Challenge: 1/4 (50 PX)
+  Terrain: Caverne aménagée
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 9 (-1)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 6 (-2)'
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision aveugle 9 m ou 3 m s'il est [assourdi](hd_conditions_assourdi.md) (aveugle au-delà de cette distance), [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: commun des profondeurs
-  Challenge: 1/4 (50 PX)
-  ConditionImmunities: '[aveuglé](hd_conditions_aveugle.md)'
   Id: monsters_hd.md#torve
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Grimlock](srd_monsters_grimlock.md)'
   AttributesDictionary: >+
     Name: Torve
 
@@ -43879,30 +43889,30 @@ SubItems:
   Family: MonsterHD
   Name: Traqueur invisible
   Source: (CEO p)(SRD p)
-  AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
   Type: Élémentaire
   Size: M
   Alignment: neutre
-  Terrain: Plans élémentaires
   ArmorClass: 14
   HitPoints: 104 (16d8+32)
   Speed: 15 m, vol 15 m (vol stationnaire)
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +10, [Perception](hd_abilities_wisdom_perception.md) +8'
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
+  Languages: aérien, comprend le commun mais ne peut pas le parler
+  Challenge: 6 (2 300 PX)
+  Terrain: Plans élémentaires
   Strength: 16 (+3)
   Dexterity: 19 (+4)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 15 (+2)
   Charisma: 11 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +10, [Perception](hd_abilities_wisdom_perception.md) +8'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 18
-  Languages: aérien, comprend le commun mais ne peut pas le parler
-  Challenge: 6 (2 300 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non-magiques
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [empoigné](hd_conditions_empoigne.md), [empoisonné](hd_conditions_empoisonne.md), [épuisé](hd_conditions_fatigue_et_epuisement.md), [inconscient](hd_conditions_inconscient.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#traqueur-invisible
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
   AttributesDictionary: >+
     Name: Traqueur invisible
 
@@ -44070,28 +44080,28 @@ SubItems:
   Family: MonsterHD
   Name: Troll
   Source: (CEO p)(SRD p)
-  AltName: '[Troll](srd_monsters_troll.md)'
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
-  Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 84 (8d10+40)
   Speed: 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: géant
+  Challenge: 5 (1 800 PX)
+  Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
   Strength: 18 (+4)
   Dexterity: 13 (+1)
   Constitution: 20 (+5)
   Intelligence: ' 7 (-2)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: géant
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#troll
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Troll](srd_monsters_troll.md)'
   AttributesDictionary: >+
     Name: Troll
 
@@ -44259,30 +44269,30 @@ SubItems:
   Family: MonsterHD
   Name: Vampire
   Source: (CEO p)(SRD p)
-  AltName: '[Vampire](srd_monsters_vampire.md)'
   Type: Mort-vivant (métamorphe)
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné
   ArmorClass: 16 (armure naturelle)
   HitPoints: 144 (17d8+68)
   Speed: 9 m
+  SavingThrows: Dex +9, Sag +7, Cha +9
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +7'
+  DamageResistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: celles qu'il connaissait de son vivant
+  Challenge: 13 (10 000 PX)
+  Terrain: Donjon maçonné
   Strength: 18 (+4)
   Dexterity: 18 (+4)
   Constitution: 18 (+4)
   Intelligence: 17 (+3)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Dex +9, Sag +7, Cha +9
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +7'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: celles qu'il connaissait de son vivant
-  Challenge: 13 (10 000 PX)
-  DamageResistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
   Id: monsters_hd.md#vampire
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Vampire](srd_monsters_vampire.md)'
   AttributesDictionary: >+
     Name: Vampire
 
@@ -44588,30 +44598,30 @@ SubItems:
   Family: MonsterHD
   Name: Vampirien
   Source: (CEO p)(SRD p)
-  AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Donjon maçonné
   ArmorClass: 15 (armure naturelle)
   HitPoints: 82 (11d8+33)
   Speed: 9 m
+  SavingThrows: Dex +6, Sag +3
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
+  DamageResistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: celles qu'il connaissait de son vivant
+  Challenge: 5 (1 800 PX)
+  Terrain: Donjon maçonné
   Strength: 16 (+3)
   Dexterity: 16 (+3)
   Constitution: 16 (+3)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  SavingThrows: Dex +6, Sag +3
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: celles qu'il connaissait de son vivant
-  Challenge: 5 (1 800 PX)
-  DamageResistances: nécrotiques ; contondants, perforants et tranchants infligés par des attaques non-magiques
   Id: monsters_hd.md#vampirien
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
   AttributesDictionary: >+
     Name: Vampirien
 
@@ -44827,28 +44837,28 @@ SubItems:
   Family: MonsterHD
   Name: Cube gélatineux
   Source: (CEO p)(SRD p)
-  AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
   Type: Vase
   Size: G
   Alignment: non-alignée
-  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 6
   HitPoints: 84 (8d10+40)
   Speed: 4,50 m
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Donjon maçonné, Ruines souterraines
   Strength: 14 (+2)
   Dexterity: ' 3 (-4)'
   Constitution: 20 (+5)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 2 (450 PX)
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#cube-gélatineux
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
   AttributesDictionary: >+
     Name: Cube gélatineux
 
@@ -45046,30 +45056,30 @@ SubItems:
   Family: MonsterHD
   Name: Gelée ocre
   Source: (CEO p)(SRD p)
-  AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
   Type: Vase
   Size: G
   Alignment: non-alignée
-  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 8
   HitPoints: 45 (6d10+12)
   Speed: 3 m, escalade 3 m
+  DamageResistances: d'acide
+  DamageImmunities: de foudre et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Caverne naturelle, Ruines souterraines
   Strength: 15 (+2)
   Dexterity: ' 6 (-2)'
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 2 (450 PX)
-  DamageResistances: d'acide
-  DamageImmunities: de foudre et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#gelée-ocre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
   AttributesDictionary: >+
     Name: Gelée ocre
 
@@ -45243,29 +45253,29 @@ SubItems:
   Family: MonsterHD
   Name: Pouding noir
   Source: (CEO p)(SRD p)
-  AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
   Type: Vase
   Size: G
   Alignment: non-alignée
-  Terrain: Caverne aménagée, Caverne naturelle, Donjon maçonné
   ArmorClass: 7
   HitPoints: 85 (10d10+30)
   Speed: 6 m, escalade 6 m
+  DamageImmunities: d'acide, de foudre, de froid, tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 4 (1 100 PX)
+  Terrain: Caverne aménagée, Caverne naturelle, Donjon maçonné
   Strength: 16 (+3)
   Dexterity: ' 5 (-3)'
   Constitution: 16 (+3)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 4 (1 100 PX)
-  DamageImmunities: d'acide, de foudre, de froid, tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#pouding-noir
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
   AttributesDictionary: >+
     Name: Pouding noir
 
@@ -45445,30 +45455,30 @@ SubItems:
   Family: MonsterHD
   Name: Vase grise
   Source: (CEO p)(SRD p)
-  AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
   Type: Vase
   Size: M
   Alignment: non-alignée
-  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 8
   HitPoints: 22 (3d8+9)
   Speed: 3 m, escalade 3 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+  DamageResistances: d'acide, de feu et de froid
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Caverne naturelle, Ruines souterraines
   Strength: 12 (+1)
   Dexterity: ' 6 (-2)'
   Constitution: 16 (+3)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 2 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 1/2 (100 PX)
-  DamageResistances: d'acide, de feu et de froid
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [assourdi](hd_conditions_assourdi.md), [aveuglé](hd_conditions_aveugle.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#vase-grise
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
   AttributesDictionary: >+
     Name: Vase grise
 
@@ -45648,28 +45658,28 @@ SubItems:
   Family: MonsterHD
   Name: Ver pourpre
   Source: (CEO p)(SRD p)
-  AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
-  Terrain: Montagnes, Caverne naturelle
   ArmorClass: 18 (armure naturelle)
   HitPoints: 247 (15d20+90)
   Speed: 15 m, fouissement 9 m
+  SavingThrows: Con +11, Sag +4
+  Senses: perception des vibrations 18 m, vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 15 (13 000 PX)
+  Terrain: Montagnes, Caverne naturelle
   Strength: 28 (+9)
   Dexterity: ' 7 (-2)'
   Constitution: 22 (+6)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 4 (-3)'
-  SavingThrows: Con +11, Sag +4
-  Senses: perception des vibrations 18 m, vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 15 (13 000 PX)
   Id: monsters_hd.md#ver-pourpre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
   AttributesDictionary: >+
     Name: Ver pourpre
 
@@ -45843,28 +45853,28 @@ SubItems:
   Family: MonsterHD
   Name: Vouivre
   Source: (CEO p)(SRD p)
-  AltName: '[Wyvern](srd_monsters_wyvern.md)'
   Type: Dragon
   Size: G
   Alignment: non-alignée
-  Terrain: Littoral, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 6 m, vol 24 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: —
+  Challenge: 6 (2 300 PX)
+  Terrain: Littoral, Montagnes
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: —
-  Challenge: 6 (2 300 PX)
   Id: monsters_hd.md#vouivre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Wyvern](srd_monsters_wyvern.md)'
   AttributesDictionary: >+
     Name: Vouivre
 
@@ -46026,29 +46036,29 @@ SubItems:
   Family: MonsterHD
   Name: Xorn
   Source: (CEO p)(SRD p)
-  AltName: '[Xorn](srd_monsters_xorn.md)'
   Type: Élémentaire
   Size: M
   Alignment: Neutre
-  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 19 (armure naturelle)
   HitPoints: 73 (7d8+42)
   Speed: 6 m, fouissement 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6'
+  DamageResistances: perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
+  Languages: terreux
+  Challenge: 5 (1 800 PX)
+  Terrain: Montagnes, Plans élémentaires
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 16
-  Languages: terreux
-  Challenge: 5 (1 800 PX)
-  DamageResistances: perforants et tranchants infligés par des attaques non-magiques qui ne sont pas en adamantium
   Id: monsters_hd.md#xorn
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Xorn](srd_monsters_xorn.md)'
   AttributesDictionary: >+
     Name: Xorn
 
@@ -46228,29 +46238,29 @@ SubItems:
   Family: MonsterHD
   Name: Zombi
   Source: (CEO p)(SRD p)
-  AltName: '[Zombie](srd_monsters_zombie.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
   ArmorClass: 8
   HitPoints: 22 (3d8+9)
   Speed: 6 m
+  SavingThrows: Sag +0
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: comprend les langues qu'il connaissait de son vivant mais ne peut pas parler
+  Challenge: 1/4 (50 PX)
   Strength: 13 (+1)
   Dexterity: ' 6 (-2)'
   Constitution: 16 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 5 (-3)'
-  SavingThrows: Sag +0
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: comprend les langues qu'il connaissait de son vivant mais ne peut pas parler
-  Challenge: 1/4 (50 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#zombi
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Zombie](srd_monsters_zombie.md)'
   AttributesDictionary: >+
     Name: Zombi
 
@@ -46404,29 +46414,29 @@ SubItems:
   Family: MonsterHD
   Name: Zombi ogre
   Source: (CEO p)(SRD p)
-  AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
   Type: Mort-vivant
   Size: G
   Alignment: Neutre Mauvais
   ArmorClass: 8
   HitPoints: 85 (9d10+36)
   Speed: 9 m
+  SavingThrows: Sag +0
+  DamageImmunities: de poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: comprend le commun et le géant mais ne peut pas parler
+  Challenge: 2 (450 PX)
   Strength: 19 (+4)
   Dexterity: ' 6 (-2)'
   Constitution: 18 (+4)
   Intelligence: ' 3 (-4)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 5 (-3)'
-  SavingThrows: Sag +0
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: comprend le commun et le géant mais ne peut pas parler
-  Challenge: 2 (450 PX)
-  DamageImmunities: de poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md)'
   Id: monsters_hd.md#zombi-ogre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
   AttributesDictionary: >+
     Name: Zombi ogre
 
@@ -46580,28 +46590,28 @@ SubItems:
   Family: MonsterHD
   Name: Aigle
   Source: (CEO p)(SRD p)
-  AltName: '[Eagle](srd_monsters_eagle.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Mer / Océan, Montagnes
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 3 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Mer / Océan, Montagnes
   Strength: ' 6 (-2)'
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#aigle
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Eagle](srd_monsters_eagle.md)'
   AttributesDictionary: >+
     Name: Aigle
 
@@ -46745,28 +46755,28 @@ SubItems:
   Family: MonsterHD
   Name: Aigle géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
   Type: Bête
   Size: G
   Alignment: neutre bon
-  Terrain: Montagnes
   ArmorClass: 13
   HitPoints: 26 (4d10+4)
   Speed: 3 m, vol 24 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: aigle géant, comprend le commun et l'aérien mais ne peut pas les parler
+  Challenge: 1 (200 PX)
+  Terrain: Montagnes
   Strength: 16 (+3)
   Dexterity: 17 (+3)
   Constitution: 13 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: aigle géant, comprend le commun et l'aérien mais ne peut pas les parler
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#aigle-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
   AttributesDictionary: >+
     Name: Aigle géant
 
@@ -46928,28 +46938,28 @@ SubItems:
   Family: MonsterHD
   Name: Araignée
   Source: (CEO p)(SRD p)
-  AltName: '[Spider](srd_monsters_spider.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Jungle
   ArmorClass: 12
   HitPoints: 1 (1d4-1)
   Speed: 6 m, escalade 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt, Jungle
   Strength: ' 2 (-4)'
   Dexterity: 14 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 2 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#araignée
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Spider](srd_monsters_spider.md)'
   AttributesDictionary: >+
     Name: Araignée
 
@@ -47105,28 +47115,28 @@ SubItems:
   Family: MonsterHD
   Name: Araignée de phase
   Source: (CEO p)(SRD p)
-  AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Caverne naturelle, Ruines extérieures
   ArmorClass: 13 (armure naturelle)
   HitPoints: 32 (5d10+5)
   Speed: 9 m, escalade 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 3 (700 PX)
+  Terrain: Bois / Forêt, Caverne naturelle, Ruines extérieures
   Strength: 15 (+2)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-6)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#araignée-de-phase
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
   AttributesDictionary: >+
     Name: Araignée de phase
 
@@ -47282,28 +47292,28 @@ SubItems:
   Family: MonsterHD
   Name: Araignée géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Caverne naturelle, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 26 (4d10+4)
   Speed: 9 m, escalade 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7'
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Caverne naturelle, Ruines extérieures
   Strength: 14 (+2)
   Dexterity: 16 (+3)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 4 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#araignée-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
   AttributesDictionary: >+
     Name: Araignée géante
 
@@ -47471,28 +47481,28 @@ SubItems:
   Family: MonsterHD
   Name: Araignée-loup géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 11 (2d8+2)
   Speed: 12 m, escalade 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 12 (+1)
   Dexterity: 16 (+3)
   Constitution: 13 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +7, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#araignée-loup-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
   AttributesDictionary: >+
     Name: Araignée-loup géante
 
@@ -47648,29 +47658,29 @@ SubItems:
   Family: MonsterHD
   Name: Arbre éveillé
   Source: (CEO p)(SRD p)
-  AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
   Type: Plante
   Size: TG
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 13 (armure naturelle)
   HitPoints: 59 (7d12+14)
   Speed: 6 m
+  DamageResistances: contondants, perforants
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue connue de son créateur
+  Challenge: 2 (450 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Bois / Forêt
   Strength: 19 (+4)
   Dexterity: ' 6 (-2)'
   Constitution: 15 (+2)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue connue de son créateur
-  Challenge: 2 (450 PX)
-  DamageResistances: contondants, perforants
-  DamageVulnerabilities: de feu
   Id: monsters_hd.md#arbre-éveillé
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
   AttributesDictionary: >+
     Name: Arbre éveillé
 
@@ -47820,29 +47830,29 @@ SubItems:
   Family: MonsterHD
   Name: Arbuste éveillé
   Source: (CEO p)(SRD p)
-  AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
   Type: Plante
   Size: P
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 9
   HitPoints: 10 (3d6)
   Speed: 6 m
+  DamageResistances: perforants
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue connue de son créateur
+  Challenge: 0 (10 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Bois / Forêt
   Strength: ' 3 (-4)'
   Dexterity: ' 8 (-1)'
   Constitution: 11 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue connue de son créateur
-  Challenge: 0 (10 PX)
-  DamageResistances: perforants
-  DamageVulnerabilities: de feu
   Id: monsters_hd.md#arbuste-éveillé
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
   AttributesDictionary: >+
     Name: Arbuste éveillé
 
@@ -47992,27 +48002,27 @@ SubItems:
   Family: MonsterHD
   Name: Babouin
   Source: (CEO p)(SRD p)
-  AltName: '[Baboon](srd_monsters_baboon.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Jungle
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 9 m, escalade 9 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Jungle
   Strength: ' 8 (-1)'
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 4 (-3)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#babouin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Baboon](srd_monsters_baboon.md)'
   AttributesDictionary: >+
     Name: Babouin
 
@@ -48150,27 +48160,27 @@ SubItems:
   Family: MonsterHD
   Name: Bec de hache
   Source: (CEO p)(SRD p)
-  AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Jungle
   ArmorClass: 11
   HitPoints: 19 (3d10+3)
   Speed: 15 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Jungle
   Strength: 14 (+2)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#bec-de-hache
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
   AttributesDictionary: >+
     Name: Bec de hache
 
@@ -48296,28 +48306,28 @@ SubItems:
   Family: MonsterHD
   Name: Belette
   Source: (CEO p)(SRD p)
-  AltName: '[Weasel](srd_monsters_weasel.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 1 (1d4-1)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   Strength: ' 3 (-4)'
   Dexterity: 16 (+3)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 3 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#belette
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Weasel](srd_monsters_weasel.md)'
   AttributesDictionary: >+
     Name: Belette
 
@@ -48461,28 +48471,28 @@ SubItems:
   Family: MonsterHD
   Name: Belette géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 9 (2d8)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 10 (+0)
   Intelligence: ' 4 (-3)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#belette-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
   AttributesDictionary: >+
     Name: Belette géante
 
@@ -48626,27 +48636,27 @@ SubItems:
   Family: MonsterHD
   Name: Blaireau
   Source: (CEO p)(SRD p)
-  AltName: '[Badger](srd_monsters_badger.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 10
   HitPoints: 3 (1d4+1)
   Speed: 6 m, fouissement 1,50 m
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt
   Strength: ' 4 (-3)'
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#blaireau
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Badger](srd_monsters_badger.md)'
   AttributesDictionary: >+
     Name: Blaireau
 
@@ -48784,27 +48794,27 @@ SubItems:
   Family: MonsterHD
   Name: Blaireau géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 10
   HitPoints: 13 (2d8+4)
   Speed: 9 m, fouissement 3 m
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Bois / Forêt
   Strength: 13 (+1)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#blaireau-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
   AttributesDictionary: >+
     Name: Blaireau géant
 
@@ -48960,28 +48970,28 @@ SubItems:
   Family: MonsterHD
   Name: Chacal
   Source: (CEO p)(SRD p)
-  AltName: '[Jackal](srd_monsters_jackal.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: ' 8 (-1)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#chacal
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Jackal](srd_monsters_jackal.md)'
   AttributesDictionary: >+
     Name: Chacal
 
@@ -49131,27 +49141,27 @@ SubItems:
   Family: MonsterHD
   Name: Chameau
   Source: (CEO p)(SRD p)
-  AltName: '[Camel](srd_monsters_camel.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Désert chaud
   ArmorClass: 9
   HitPoints: 15 (2d10+4)
   Speed: 15 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 9'
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Désert chaud
   Strength: 16 (+3)
   Dexterity: ' 8 (-1)'
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 9'
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#chameau
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Camel](srd_monsters_camel.md)'
   AttributesDictionary: >+
     Name: Chameau
 
@@ -49277,28 +49287,28 @@ SubItems:
   Family: MonsterHD
   Name: Chat
   Source: (CEO p)(SRD p)
-  AltName: '[Cat](srd_monsters_cat.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 2 (1d4)
   Speed: 12 m, escalade 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   Strength: ' 3 (-4)'
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#chat
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Cat](srd_monsters_cat.md)'
   AttributesDictionary: >+
     Name: Chat
 
@@ -49442,27 +49452,27 @@ SubItems:
   Family: MonsterHD
   Name: Chauve-souris
   Source: (CEO p)(SRD p)
-  AltName: '[Bat](srd_monsters_bat.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Caverne naturelle, Ruines souterraines
   ArmorClass: 12
   HitPoints: 1 (1d4-1)
   Speed: 1,50 m, vol 9 m
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt, Caverne naturelle, Ruines souterraines
   Strength: ' 2 (-4)'
   Dexterity: 15 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#chauve-souris
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bat](srd_monsters_bat.md)'
   AttributesDictionary: >+
     Name: Chauve-souris
 
@@ -49606,27 +49616,27 @@ SubItems:
   Family: MonsterHD
   Name: Chauve-souris géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Jungle, Caverne naturelle, Ruines souterraines
   ArmorClass: 13
   HitPoints: 22 (4d10)
   Speed: 3 m, vol 18 m
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Jungle, Caverne naturelle, Ruines souterraines
   Strength: 15 (+2)
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#chauve-souris-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
   AttributesDictionary: >+
     Name: Chauve-souris géante
 
@@ -49770,27 +49780,27 @@ SubItems:
   Family: MonsterHD
   Name: Cheval de guerre
   Source: (CEO p)(SRD p)
-  AltName: '[Warhorse](srd_monsters_warhorse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 19 (3d10+3)
   Speed: 18 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#cheval-de-guerre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Warhorse](srd_monsters_warhorse.md)'
   AttributesDictionary: >+
     Name: Cheval de guerre
 
@@ -49934,20 +49944,20 @@ SubItems:
   ArmorClass: 13
   HitPoints: 59 (7d10+21)
   Speed: 18 m
+  SavingThrows: For +7, Sag +5, Cha +3
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
+  DamageResistances: nécrotiques
+  DamageImmunities: poison
+  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
+  Languages: comprend le commun et le céleste mais ne peut pas parler
+  Challenge: 2 (450 PX)
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: ' 8 (-1)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  SavingThrows: For +7, Sag +5, Cha +3
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +6'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 17
-  Languages: comprend le commun et le céleste mais ne peut pas parler
-  Challenge: 2 (450 PX)
-  DamageResistances: nécrotiques
-  DamageImmunities: poison
-  ConditionImmunities: '[empoisonné](hd_conditions_empoisonne.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md) et [épuisé](hd_conditions_fatigue_et_epuisement.md)'
   Id: monsters_hd.md#cheval-de-guerre-céleste
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -50135,15 +50145,15 @@ SubItems:
   ArmorClass: 12
   HitPoints: 37 (5d10+10)
   Speed: 18 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 1 (200 PX)
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#cheval-de-guerre-lourd
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -50283,27 +50293,27 @@ SubItems:
   Family: MonsterHD
   Name: Cheval de selle
   Source: (CEO p)(SRD p)
-  AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 13 (2d10+2)
   Speed: 18 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 16 (+3)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#cheval-de-selle
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
   AttributesDictionary: >+
     Name: Cheval de selle
 
@@ -50429,27 +50439,27 @@ SubItems:
   Family: MonsterHD
   Name: Cheval de trait
   Source: (CEO p)(SRD p)
-  AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 19 (3d10+3)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 18 (+4)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#cheval-de-trait
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
   AttributesDictionary: >+
     Name: Cheval de trait
 
@@ -50575,27 +50585,27 @@ SubItems:
   Family: MonsterHD
   Name: Chèvre
   Source: (CEO p)(SRD p)
-  AltName: '[Goat](srd_monsters_goat.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 10
   HitPoints: 4 (1d8)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Collines / Vallées, Montagnes
   Strength: 12 (+1)
   Dexterity: 10 (+0)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#chèvre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Goat](srd_monsters_goat.md)'
   AttributesDictionary: >+
     Name: Chèvre
 
@@ -50739,27 +50749,27 @@ SubItems:
   Family: MonsterHD
   Name: Chèvre géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 11 (armure naturelle)
   HitPoints: 19 (3d10+3)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Collines / Vallées, Montagnes
   Strength: 17 (+3)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#chèvre-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
   AttributesDictionary: >+
     Name: Chèvre géante
 
@@ -50903,27 +50913,27 @@ SubItems:
   Family: MonsterHD
   Name: Chevreuil
   Source: (CEO p)(SRD p)
-  AltName: '[Deer](srd_monsters_deer.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 4 (1d8)
   Speed: 15 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#chevreuil
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Deer](srd_monsters_deer.md)'
   AttributesDictionary: >+
     Name: Chevreuil
 
@@ -51049,28 +51059,28 @@ SubItems:
   Family: MonsterHD
   Name: Chien du trépas
   Source: (CEO p)(SRD p)
-  AltName: '[Death Dog](srd_monsters_death_dog.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 39 (6d8+12)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#chien-du-trépas
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Death Dog](srd_monsters_death_dog.md)'
   AttributesDictionary: >+
     Name: Chien du trépas
 
@@ -51220,28 +51230,28 @@ SubItems:
   Family: MonsterHD
   Name: Chien esquiveur
   Source: (CEO p)(SRD p)
-  AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
   Type: Fée
   Size: M
   Alignment: Loyal Bon
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 22 (4d8+4)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: chien esquiveur, comprend le sylvestre mais ne peut pas le parler
+  Challenge: 1/4 (50 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 12 (+1)
   Dexterity: 17 (+3)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: chien esquiveur, comprend le sylvestre mais ne peut pas le parler
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#chien-esquiveur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
   AttributesDictionary: >+
     Name: Chien esquiveur
 
@@ -51391,28 +51401,28 @@ SubItems:
   Family: MonsterHD
   Name: Chouette
   Source: (CEO p)(SRD p)
-  AltName: '[Owl](srd_monsters_owl.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 11
   HitPoints: 1 (1d4-1)
   Speed: 1,50 m, vol 18 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt
   Strength: ' 3 (+4)'
   Dexterity: 13 (+1)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#chouette
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Owl](srd_monsters_owl.md)'
   AttributesDictionary: >+
     Name: Chouette
 
@@ -51562,28 +51572,28 @@ SubItems:
   Family: MonsterHD
   Name: Chouette géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
   Type: Bête
   Size: G
   Alignment: neutre
-  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 19 (3d10+3)
   Speed: 1,50 m, vol 18 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5'
+  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
+  Languages: chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
+  Challenge: 1/4 (50 PX)
+  Terrain: Bois / Forêt
   Strength: 13 (+1)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 13 (+1)
   Charisma: 10 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: vision dans le noir 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 15
-  Languages: chouette géante, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#chouette-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
   AttributesDictionary: >+
     Name: Chouette géante
 
@@ -51733,28 +51743,28 @@ SubItems:
   Family: MonsterHD
   Name: Corbeau
   Source: (CEO p)(SRD p)
-  AltName: '[Raven](srd_monsters_raven.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Littoral, Montagnes
   ArmorClass: 12
   HitPoints: 1 (1d4-1)
   Speed: 3 m, vol 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Collines / Vallées, Littoral, Montagnes
   Strength: ' 2 (-4)'
   Dexterity: 14 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#corbeau
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Raven](srd_monsters_raven.md)'
   AttributesDictionary: >+
     Name: Corbeau
 
@@ -51898,28 +51908,28 @@ SubItems:
   Family: MonsterHD
   Name: Crabe
   Source: (CEO p)(SRD p)
-  AltName: '[Crab](srd_monsters_crab.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Littoral, Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 11 (armure naturelle)
   HitPoints: 2 (1d4)
   Speed: 6 m, nage 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Littoral, Mangrove / Marécage, Caverne sous-marine
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 2 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
-  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#crabe
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Crab](srd_monsters_crab.md)'
   AttributesDictionary: >+
     Name: Crabe
 
@@ -52063,28 +52073,28 @@ SubItems:
   Family: MonsterHD
   Name: Crabe géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 13 (3d8)
   Speed: 9 m, nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4'
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   Strength: 13 (+1)
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 3 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4'
-  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#crabe-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
   AttributesDictionary: >+
     Name: Crabe géant
 
@@ -52228,27 +52238,27 @@ SubItems:
   Family: MonsterHD
   Name: Crapaud géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Littoral, Mangrove / Marécage
   ArmorClass: 11
   HitPoints: 39 (6d10+6)
   Speed: 6 m, nage 12 m
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Littoral, Mangrove / Marécage
   Strength: 15 (+2)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#crapaud-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
   AttributesDictionary: >+
     Name: Crapaud géant
 
@@ -52404,28 +52414,28 @@ SubItems:
   Family: MonsterHD
   Name: Crocodile
   Source: (CEO p)(SRD p)
-  AltName: '[Crocodile](srd_monsters_crocodile.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Désert chaud, Jungle, Mangrove / Marécage
   ArmorClass: 12 (armure naturelle)
   HitPoints: 19 (3d10+3)
   Speed: 6 m, nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Désert chaud, Jungle, Mangrove / Marécage
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#crocodile
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Crocodile](srd_monsters_crocodile.md)'
   AttributesDictionary: >+
     Name: Crocodile
 
@@ -52569,28 +52579,28 @@ SubItems:
   Family: MonsterHD
   Name: Crocodile géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Désert chaud, Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 85 (9d12+27)
   Speed: 9 m, nage 15 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Désert chaud, Jungle, Mangrove / Marécage
   Strength: 21 (+5)
   Dexterity: ' 9 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#crocodile-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
   AttributesDictionary: >+
     Name: Crocodile géant
 
@@ -52752,27 +52762,27 @@ SubItems:
   Family: MonsterHD
   Name: Élan
   Source: (CEO p)(SRD p)
-  AltName: '[Elk](srd_monsters_elk.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique, Bois / Forêt
   ArmorClass: 10
   HitPoints: 13 (2d10+2)
   Speed: 15 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Arctique / Subarctique, Bois / Forêt
   Strength: 16 (+3)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#Élan
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Elk](srd_monsters_elk.md)'
   AttributesDictionary: >+
     Name: Élan
 
@@ -52922,28 +52932,28 @@ SubItems:
   Family: MonsterHD
   Name: Élan géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure naturelle)
   HitPoints: 42 (5d12+10)
   Speed: 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
+  Challenge: 2 (450 PX)
+  Terrain: Arctique / Subarctique
   Strength: 19 (+4)
   Dexterity: 16 (+3)
   Constitution: 14 (+2)
   Intelligence: ' 7 (-2)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: élan géant, comprend le commun, l'elfe et le sylvestre mais ne peut pas les parler
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#Élan-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
   AttributesDictionary: >+
     Name: Élan géant
 
@@ -53099,27 +53109,27 @@ SubItems:
   Family: MonsterHD
   Name: Éléphant
   Source: (CEO p)(SRD p)
-  AltName: '[Elephant](srd_monsters_elephant.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
   ArmorClass: 12 (armure naturelle)
   HitPoints: 76 (8d12+24)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 4 (1 100 PX)
+  Terrain: Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
   Strength: 22 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 4 (1 100 PX)
   Id: monsters_hd.md#Éléphant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Elephant](srd_monsters_elephant.md)'
   AttributesDictionary: >+
     Name: Éléphant
 
@@ -53269,28 +53279,28 @@ SubItems:
   Family: MonsterHD
   Name: Épaulard
   Source: (CEO p)(SRD p)
-  AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 90 (12d12+12)
   Speed: 0 m, nage 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision aveugle 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 3 (700 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision aveugle 36 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#Épaulard
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
   AttributesDictionary: >+
     Name: Épaulard
 
@@ -53446,28 +53456,28 @@ SubItems:
   Family: MonsterHD
   Name: Faucon
   Source: (CEO p)(SRD p)
-  AltName: '[Hawk](srd_monsters_hawk.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Désert chaud, Littoral
   ArmorClass: 13
   HitPoints: 1 (1d4-1)
   Speed: 3 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Collines / Vallées, Désert chaud, Littoral
   Strength: ' 5 (-3)'
   Dexterity: 16 (+3)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#faucon
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hawk](srd_monsters_hawk.md)'
   AttributesDictionary: >+
     Name: Faucon
 
@@ -53611,28 +53621,28 @@ SubItems:
   Family: MonsterHD
   Name: Faucon de sang
   Source: (CEO p)(SRD p)
-  AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Désert chaud, Littoral
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 3 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Collines / Vallées, Désert chaud, Littoral
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 5 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#faucon-de-sang
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
   AttributesDictionary: >+
     Name: Faucon de sang
 
@@ -53782,28 +53792,28 @@ SubItems:
   Family: MonsterHD
   Name: Grand singe
   Source: (CEO p)(SRD p)
-  AltName: '[Ape](srd_monsters_ape.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Jungle, Montagnes
   ArmorClass: 12
   HitPoints: 19 (3d8+6)
   Speed: 9 m, escalade 9 m
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Jungle, Montagnes
   Strength: 16 (+3)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#grand-singe
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Ape](srd_monsters_ape.md)'
   AttributesDictionary: >+
     Name: Grand singe
 
@@ -53953,28 +53963,28 @@ SubItems:
   Family: MonsterHD
   Name: Grenouille
   Source: (CEO p)(SRD p)
-  AltName: '[Frog](srd_monsters_frog.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Mangrove / Marécage
   ArmorClass: 11
   HitPoints: 1 (1d4-1)
   Speed: 6 m, nage 6 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +1'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 0 (0 PX)
+  Terrain: Mangrove / Marécage
   Strength: ' 1 (-5)'
   Dexterity: 13 (+1)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 3 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +1'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 0 (0 PX)
   Id: monsters_hd.md#grenouille
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Frog](srd_monsters_frog.md)'
   AttributesDictionary: >+
     Name: Grenouille
 
@@ -54106,28 +54116,28 @@ SubItems:
   Family: MonsterHD
   Name: Grenouille géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 11
   HitPoints: 18 (4d8)
   Speed: 9 m, nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 12 (+1)
   Dexterity: 13 (+1)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#grenouille-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
   AttributesDictionary: >+
     Name: Grenouille géante
 
@@ -54289,27 +54299,27 @@ SubItems:
   Family: MonsterHD
   Name: Guêpe géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 3 m, vol 15 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#guêpe-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
   AttributesDictionary: >+
     Name: Guêpe géante
 
@@ -54438,20 +54448,20 @@ SubItems:
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 3 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: Vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 15 (+2)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: Vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#hibou
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -54596,20 +54606,20 @@ SubItems:
   Type: Bête
   Size: G
   Alignment: neutre bon
-  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 26 (4d10+4)
   Speed: 3 m, vol 24 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: Vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: hibou géant, comprend le commun et l'aérien mais ne peut pas les parler
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt
   Strength: 16 (+3)
   Dexterity: 16 (+3)
   Constitution: 13 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 15 (+2)
   Charisma: 10 (+0)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: Vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: hibou géant, comprend le commun et l'aérien mais ne peut pas les parler
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#hibou-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
@@ -54769,27 +54779,27 @@ SubItems:
   Family: MonsterHD
   Name: Hippocampe
   Source: (CEO p)(SRD p)
-  AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Ruines sous-marines
   ArmorClass: 11
   HitPoints: 1 (1d4-1)
   Speed: 0 m, nage 6 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 0 (0 PX)
+  Terrain: Ruines sous-marines
   Strength: ' 1 (-5)'
   Dexterity: 12 (+1)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 2 (-4)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 0 (0 PX)
   Id: monsters_hd.md#hippocampe
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
   AttributesDictionary: >+
     Name: Hippocampe
 
@@ -54909,27 +54919,27 @@ SubItems:
   Family: MonsterHD
   Name: Hippocampe géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 16 (3d10)
   Speed: 0 m, nage 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Ruines sous-marines
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#hippocampe-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
   AttributesDictionary: >+
     Name: Hippocampe géant
 
@@ -55073,28 +55083,28 @@ SubItems:
   Family: MonsterHD
   Name: Hyène
   Source: (CEO p)(SRD p)
-  AltName: '[Hyena](srd_monsters_hyena.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 5 (1d8+1)
   Speed: 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: 11 (+0)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#hyène
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hyena](srd_monsters_hyena.md)'
   AttributesDictionary: >+
     Name: Hyène
 
@@ -55238,28 +55248,28 @@ SubItems:
   Family: MonsterHD
   Name: Hyène géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 45 (6d10+12)
   Speed: 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: 16 (+3)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#hyène-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
   AttributesDictionary: >+
     Name: Hyène géante
 
@@ -55403,27 +55413,27 @@ SubItems:
   Family: MonsterHD
   Name: Lézard
   Source: (CEO p)(SRD p)
-  AltName: '[Lizard](srd_monsters_lizard.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Désert chaud, Jungle, Caverne sous-marine
   ArmorClass: 10
   HitPoints: 2 (1d4)
   Speed: 6 m, escalade 6 m
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Désert chaud, Jungle, Caverne sous-marine
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 3 (-4)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#lézard
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Lizard](srd_monsters_lizard.md)'
   AttributesDictionary: >+
     Name: Lézard
 
@@ -55549,27 +55559,27 @@ SubItems:
   Family: MonsterHD
   Name: Lézard géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Désert chaud, Jungle, Caverne sous-marine
   ArmorClass: 12 (armure naturelle)
   HitPoints: 19 (3d10+3)
   Speed: 9 m, escalade 9 m
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Désert chaud, Jungle, Caverne sous-marine
   Strength: 15 (+2)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#lézard-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
   AttributesDictionary: >+
     Name: Lézard géant
 
@@ -55695,28 +55705,28 @@ SubItems:
   Family: MonsterHD
   Name: Lion
   Source: (CEO p)(SRD p)
-  AltName: '[Lion](srd_monsters_lion.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 26 (4d10+4)
   Speed: 15 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#lion
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Lion](srd_monsters_lion.md)'
   AttributesDictionary: >+
     Name: Lion
 
@@ -55884,28 +55894,28 @@ SubItems:
   Family: MonsterHD
   Name: Loup
   Source: (CEO p)(SRD p)
-  AltName: '[Wolf](srd_monsters_wolf.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Collines / Vallées, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 11 (2d8+2)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Montagnes
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#loup
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Wolf](srd_monsters_wolf.md)'
   AttributesDictionary: >+
     Name: Loup
 
@@ -56055,29 +56065,29 @@ SubItems:
   Family: MonsterHD
   Name: Loup arctique
   Source: (CEO p)(SRD p)
-  AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Arctique / Subarctique
   ArmorClass: 13 (armure naturelle)
   HitPoints: 75 (10d10+20)
   Speed: 15 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +5'
+  DamageImmunities: de froid
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
+  Languages: commun, géant, loup arctique
+  Challenge: 3 (700 PX)
+  Terrain: Arctique / Subarctique
   Strength: 18 (+4)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +3, [Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
-  Languages: commun, géant, loup arctique
-  Challenge: 3 (700 PX)
-  DamageImmunities: de froid
   Id: monsters_hd.md#loup-arctique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
   AttributesDictionary: >+
     Name: Loup arctique
 
@@ -56251,28 +56261,28 @@ SubItems:
   Family: MonsterHD
   Name: Loup sanguinaire
   Source: (CEO p)(SRD p)
-  AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 37 (5d10+10)
   Speed: 15 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt, Montagnes
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#loup-sanguinaire
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
   AttributesDictionary: >+
     Name: Loup sanguinaire
 
@@ -56422,27 +56432,27 @@ SubItems:
   Family: MonsterHD
   Name: Mammouth
   Source: (CEO p)(SRD p)
-  AltName: '[Mammoth](srd_monsters_mammoth.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique
   ArmorClass: 13 (armure naturelle)
   HitPoints: 126 (11d12+55)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 6 (2 300 PX)
+  Terrain: Arctique / Subarctique
   Strength: 24 (+7)
   Dexterity: ' 9 (-1)'
   Constitution: 21 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 6 (2 300 PX)
   Id: monsters_hd.md#mammouth
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mammoth](srd_monsters_mammoth.md)'
   AttributesDictionary: >+
     Name: Mammouth
 
@@ -56592,28 +56602,28 @@ SubItems:
   Family: MonsterHD
   Name: Mastiff
   Source: (CEO p)(SRD p)
-  AltName: '[Mastiff](srd_monsters_mastiff.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 5 (1d8+1)
   Speed: 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 13 (+1)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#mastiff
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mastiff](srd_monsters_mastiff.md)'
   AttributesDictionary: >+
     Name: Mastiff
 
@@ -56757,27 +56767,27 @@ SubItems:
   Family: MonsterHD
   Name: Mille-pattes géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Désert chaud, Jungle, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 4 (1d6+1)
   Speed: 9 m, escalade 9 m
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Désert chaud, Jungle, Caverne naturelle
   Strength: ' 5 (-3)'
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#mille-pattes-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
   AttributesDictionary: >+
     Name: Mille-pattes géant
 
@@ -56903,27 +56913,27 @@ SubItems:
   Family: MonsterHD
   Name: Mule
   Source: (CEO p)(SRD p)
-  AltName: '[Mule](srd_monsters_mule.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 11 (2d8+2)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
   Strength: 14 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#mule
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mule](srd_monsters_mule.md)'
   AttributesDictionary: >+
     Name: Mule
 
@@ -57067,29 +57077,29 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de chauve-souris
   Source: (CEO p)(SRD p)
-  AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
-  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 0 m, vol 9 m
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   Strength: ' 5 (-3)'
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#nuée-de-chauve-souris
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
   AttributesDictionary: >+
     Name: Nuée de chauve-souris
 
@@ -57251,30 +57261,30 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de corbeaux
   Source: (CEO p)(SRD p)
-  AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
-  Terrain: Montagnes, Ruines extérieures
   ArmorClass: 12
   HitPoints: 24 (7d8-7)
   Speed: 3 m, vol 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Montagnes, Ruines extérieures
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#nuée-de-corbeaux
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
   AttributesDictionary: >+
     Name: Nuée de corbeaux
 
@@ -57430,29 +57440,29 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de piranhas
   Source: (CEO p)(SRD p)
-  AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage, Ruines sous-marines
   ArmorClass: 13
   HitPoints: 28 (8d8-8)
   Speed: 0 m, nage 12 m
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Jungle, Mangrove / Marécage, Ruines sous-marines
   Strength: 13 (+1)
   Dexterity: 16 (+3)
   Constitution: ' 9 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 2 (-4)'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 1 (200 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#nuée-de-piranhas
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
   AttributesDictionary: >+
     Name: Nuée de piranhas
 
@@ -57614,29 +57624,29 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de rats
   Source: (CEO p)(SRD p)
-  AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
-  Terrain: Caverne aménagée
   ArmorClass: 10
   HitPoints: 24 (7d8-7)
   Speed: 9 m
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Caverne aménagée
   Strength: ' 9 (-1)'
   Dexterity: 11 (+0)
   Constitution: ' 9 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#nuée-de-rats
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
   AttributesDictionary: >+
     Name: Nuée de rats
 
@@ -57792,29 +57802,29 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de serpents venimeux
   Source: (CEO p)(SRD p)
-  AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 14
   HitPoints: 36 (8d8)
   Speed: 9 m, nage 9 m
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Jungle, Mangrove / Marécage, Caverne sous-marine
   Strength: ' 8 (-1)'
   Dexterity: 18 (+4)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 2 (450 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#nuée-de-serpents-venimeux
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
   AttributesDictionary: >+
     Name: Nuée de serpents venimeux
 
@@ -57964,29 +57974,29 @@ SubItems:
   Family: MonsterHD
   Name: Nuée d'insectes
   Source: (CEO p)(SRD p)
-  AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   ArmorClass: 12 (armure naturelle)
   HitPoints: 22 (5d8)
   Speed: 6 m, escalade 6 m
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   Strength: ' 3 (-4)'
   Dexterity: 13 (+1)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 1 (-5)'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 1/2 (100 PX)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: '[à terre](hd_conditions_a_terre.md), [charmé](hd_conditions_charme.md), [terrorisé](hd_conditions_terrorise.md), [empoigné](hd_conditions_empoigne.md), [étourdi](hd_conditions_etourdi.md), [entravé](hd_conditions_entrave.md), [paralysé](hd_conditions_paralyse.md) et [pétrifié](hd_conditions_petrifie.md)'
   Id: monsters_hd.md#nuée-dinsectes
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
   AttributesDictionary: >+
     Name: Nuée d'insectes
 
@@ -58184,28 +58194,28 @@ SubItems:
   Family: MonsterHD
   Name: Ours brun
   Source: (CEO p)(SRD p)
-  AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Collines / Vallées, Littoral, Montagnes
   ArmorClass: 11 (armure naturelle)
   HitPoints: 34 (4d10+12)
   Speed: 12 m, escalade 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Littoral, Montagnes
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#ours-brun
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
   AttributesDictionary: >+
     Name: Ours brun
 
@@ -58367,27 +58377,27 @@ SubItems:
   Family: MonsterHD
   Name: Ours noir
   Source: (CEO p)(SRD p)
-  AltName: '[Black Bear](srd_monsters_black_bear.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
   ArmorClass: 11 (armure naturelle)
   HitPoints: 19 (3d8+6)
   Speed: 12 m, escalade 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 1/2 (100 PX)
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#ours-noir
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Black Bear](srd_monsters_black_bear.md)'
   AttributesDictionary: >+
     Name: Ours noir
 
@@ -58547,28 +58557,28 @@ SubItems:
   Family: MonsterHD
   Name: Ours polaire
   Source: (CEO p)(SRD p)
-  AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique, Bois / Forêt
   ArmorClass: 12 (armure naturelle)
   HitPoints: 42 (5d10+15)
   Speed: 12 m, nage 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Arctique / Subarctique, Bois / Forêt
   Strength: 20 (+5)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#ours-polaire
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
   AttributesDictionary: >+
     Name: Ours polaire
 
@@ -58730,28 +58740,28 @@ SubItems:
   Family: MonsterHD
   Name: Panthère
   Source: (CEO p)(SRD p)
-  AltName: '[Panther](srd_monsters_panther.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 15 m, escalade 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
   Strength: 14 (+2)
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 7 (-2)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#panthère
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Panther](srd_monsters_panther.md)'
   AttributesDictionary: >+
     Name: Panthère
 
@@ -58913,28 +58923,28 @@ SubItems:
   Family: MonsterHD
   Name: Pieuvre
   Source: (CEO p)(SRD p)
-  AltName: '[Octopus](srd_monsters_octopus.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 1,50 m, nage 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: ' 4 (-3)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#pieuvre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Octopus](srd_monsters_octopus.md)'
   AttributesDictionary: >+
     Name: Pieuvre
 
@@ -59096,28 +59106,28 @@ SubItems:
   Family: MonsterHD
   Name: Pieuvre géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 11
   HitPoints: 52 (8d10+8)
   Speed: 3 m, nage 18 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 17 (+3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 4 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +5, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#pieuvre-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
   AttributesDictionary: >+
     Name: Pieuvre géante
 
@@ -59285,27 +59295,27 @@ SubItems:
   Family: MonsterHD
   Name: Piranha
   Source: (CEO p)(SRD p)
-  AltName: '[Quipper](srd_monsters_quipper.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 13
   HitPoints: 1 (1d4-1)
   Speed: 0 m, nage 12 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: ' 2 (-4)'
   Dexterity: 16 (+3)
   Constitution: ' 9 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 2 (-4)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#piranha
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Quipper](srd_monsters_quipper.md)'
   AttributesDictionary: >+
     Name: Piranha
 
@@ -59449,27 +59459,27 @@ SubItems:
   Family: MonsterHD
   Name: Poney
   Source: (CEO p)(SRD p)
-  AltName: '[Pony](srd_monsters_pony.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 11 (2d8+2)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#poney
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Pony](srd_monsters_pony.md)'
   AttributesDictionary: >+
     Name: Poney
 
@@ -59595,27 +59605,27 @@ SubItems:
   Family: MonsterHD
   Name: Punaise de feu géante
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 4 (1d6+1)
   Speed: 9 m
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
   Strength: ' 8 (-1)'
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 8
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#punaise-de-feu-géante
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
   AttributesDictionary: >+
     Name: Punaise de feu géante
 
@@ -59753,27 +59763,27 @@ SubItems:
   Family: MonsterHD
   Name: Rat
   Source: (CEO p)(SRD p)
-  AltName: '[Rat](srd_monsters_rat.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Caverne aménagée
   ArmorClass: 10
   HitPoints: 1 (1d4-1)
   Speed: 6 m
+  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Caverne aménagée
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: ' 9 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Senses: vision dans le noir 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#rat
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Rat](srd_monsters_rat.md)'
   AttributesDictionary: >+
     Name: Rat
 
@@ -59911,27 +59921,27 @@ SubItems:
   Family: MonsterHD
   Name: Rat géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   Strength: ' 7 (-2)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#rat-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
   AttributesDictionary: >+
     Name: Rat géant
 
@@ -60099,28 +60109,28 @@ SubItems:
   Family: MonsterHD
   Name: Requin chasseur
   Source: (CEO p)(SRD p)
-  AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 0 m, nage 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 18 (+4)
   Dexterity: 13 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#requin-chasseur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
   AttributesDictionary: >+
     Name: Requin chasseur
 
@@ -60270,28 +60280,28 @@ SubItems:
   Family: MonsterHD
   Name: Requin de récif
   Source: (CEO p)(SRD p)
-  AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Littoral, Ruines sous-marines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 22 (4d8+4)
   Speed: 0 m, nage 12 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Littoral, Ruines sous-marines
   Strength: 14 (+2)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision aveugle 9 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#requin-de-récif
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
   AttributesDictionary: >+
     Name: Requin de récif
 
@@ -60441,28 +60451,28 @@ SubItems:
   Family: MonsterHD
   Name: Requin géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 126 (11d12+55)
   Speed: 0 m, nage 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 5 (1 800 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 23 (+6)
   Dexterity: 11 (+0)
   Constitution: 21 (+5)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#requin-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
   AttributesDictionary: >+
     Name: Requin géant
 
@@ -60612,27 +60622,27 @@ SubItems:
   Family: MonsterHD
   Name: Rhinocéros
   Source: (CEO p)(SRD p)
-  AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 11 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#rhinocéros
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
   AttributesDictionary: >+
     Name: Rhinocéros
 
@@ -60776,27 +60786,27 @@ SubItems:
   Family: MonsterHD
   Name: Sanglier
   Source: (CEO p)(SRD p)
-  AltName: '[Boar](srd_monsters_boar.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Collines / Vallées, Jungle
   ArmorClass: 11 (armure naturelle)
   HitPoints: 11 (2d8+2)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 9'
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 9'
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#sanglier
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Boar](srd_monsters_boar.md)'
   AttributesDictionary: >+
     Name: Sanglier
 
@@ -60940,27 +60950,27 @@ SubItems:
   Family: MonsterHD
   Name: Sanglier géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Collines / Vallées, Jungle
   ArmorClass: 12 (armure naturelle)
   HitPoints: 42 (5d10+15)
   Speed: 12 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 8'
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Jungle
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 5 (-3)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 8'
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#sanglier-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
   AttributesDictionary: >+
     Name: Sanglier géant
 
@@ -61104,27 +61114,27 @@ SubItems:
   Family: MonsterHD
   Name: Scorpion
   Source: (CEO p)(SRD p)
-  AltName: '[Scorpion](srd_monsters_scorpion.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Désert chaud, Caverne naturelle
   ArmorClass: 11 (armure naturelle)
   HitPoints: 1 (1d4-1)
   Speed: 3 m
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Désert chaud, Caverne naturelle
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 2 (-4)'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#scorpion
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Scorpion](srd_monsters_scorpion.md)'
   AttributesDictionary: >+
     Name: Scorpion
 
@@ -61250,27 +61260,27 @@ SubItems:
   Family: MonsterHD
   Name: Scorpion géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Désert chaud, Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 52 (7d10+14)
   Speed: 12 m
+  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
+  Languages: —
+  Challenge: 3 (700 PX)
+  Terrain: Désert chaud, Caverne naturelle
   Strength: 15 (+2)
   Dexterity: 13 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 9
-  Languages: —
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#scorpion-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
   AttributesDictionary: >+
     Name: Scorpion géant
 
@@ -61414,27 +61424,27 @@ SubItems:
   Family: MonsterHD
   Name: Serpent constricteur
   Source: (CEO p)(SRD p)
-  AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 13 (2d10+2)
   Speed: 9 m, nage 9 m
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#serpent-constricteur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
   AttributesDictionary: >+
     Name: Serpent constricteur
 
@@ -61572,28 +61582,28 @@ SubItems:
   Family: MonsterHD
   Name: Serpent constricteur géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 60 (8d12+8)
   Speed: 9 m, nage 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 19 (+4)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#serpent-constricteur-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
   AttributesDictionary: >+
     Name: Serpent constricteur géant
 
@@ -61737,27 +61747,27 @@ SubItems:
   Family: MonsterHD
   Name: Serpent venimeux
   Source: (CEO p)(SRD p)
-  AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 2 (1d4)
   Speed: 9 m, nage 9 m
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: ' 2 (-4)'
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 10
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#serpent-venimeux
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
   AttributesDictionary: >+
     Name: Serpent venimeux
 
@@ -61883,28 +61893,28 @@ SubItems:
   Family: MonsterHD
   Name: Serpent venimeux géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Désert chaud, Caverne sous-marine
   ArmorClass: 14
   HitPoints: 11 (2d8+2)
   Speed: 9 m, nage 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Désert chaud, Caverne sous-marine
   Strength: 10 (+0)
   Dexterity: 18 (+4)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 12
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#serpent-venimeux-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
   AttributesDictionary: >+
     Name: Serpent venimeux géant
 
@@ -62042,27 +62052,27 @@ SubItems:
   Family: MonsterHD
   Name: Serpent volant
   Source: (CEO p)(SRD p)
-  AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
-  Terrain: Montagnes
   ArmorClass: 14
   HitPoints: 5 (2d4)
   Speed: 9 m, vol 18 m, nage 9 m
+  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Montagnes
   Strength: ' 4 (-3)'
   Dexterity: 18 (+4)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: vision aveugle 3 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 11
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#serpent-volant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
   AttributesDictionary: >+
     Name: Serpent volant
 
@@ -62200,28 +62210,28 @@ SubItems:
   Family: MonsterHD
   Name: Singe géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique, Jungle, Montagnes
   ArmorClass: 12
   HitPoints: 157 (15d12+60)
   Speed: 12 m, escalade 12 m
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +9, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: —
+  Challenge: 7 (2 900 PX)
+  Terrain: Arctique / Subarctique, Jungle, Montagnes
   Strength: 23 (+6)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +9, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: —
-  Challenge: 7 (2 900 PX)
   Id: monsters_hd.md#singe-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
   AttributesDictionary: >+
     Name: Singe géant
 
@@ -62371,28 +62381,28 @@ SubItems:
   Family: MonsterHD
   Name: Tigre
   Source: (CEO p)(SRD p)
-  AltName: '[Tiger](srd_monsters_tiger.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
   ArmorClass: 12
   HitPoints: 37 (5d10+10)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Arctique / Subarctique, Jungle, Mangrove / Marécage
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 13
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#tigre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Tiger](srd_monsters_tiger.md)'
   AttributesDictionary: >+
     Name: Tigre
 
@@ -62554,28 +62564,28 @@ SubItems:
   Family: MonsterHD
   Name: Tigre à dents de sabre
   Source: (CEO p)(SRD p)
-  AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
-  Terrain: Collines / Vallées, Désert chaud, Montagnes
   ArmorClass: 12
   HitPoints: 52 (7d10+14)
   Speed: 12 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Collines / Vallées, Désert chaud, Montagnes
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#tigre-à-dents-de-sabre
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
   AttributesDictionary: >+
     Name: Tigre à dents de sabre
 
@@ -62737,28 +62747,28 @@ SubItems:
   Family: MonsterHD
   Name: Vautour
   Source: (CEO p)(SRD p)
-  AltName: '[Vulture](srd_monsters_vulture.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 5 (1d188+1)
   Speed: 3 m, vol 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: ' 7 (-2)'
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#vautour
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Vulture](srd_monsters_vulture.md)'
   AttributesDictionary: >+
     Name: Vautour
 
@@ -62908,28 +62918,28 @@ SubItems:
   Family: MonsterHD
   Name: Vautour géant
   Source: (CEO p)(SRD p)
-  AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
   Type: Bête
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 10
   HitPoints: 22 (3d10+6)
   Speed: 3 m, vol 18 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: comprend le commun mais ne peut pas parler
+  Challenge: 1 (200 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: comprend le commun mais ne peut pas parler
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#vautour-géant
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
   AttributesDictionary: >+
     Name: Vautour géant
 
@@ -63097,28 +63107,28 @@ SubItems:
   Family: MonsterHD
   Name: Worg
   Source: (CEO p)(SRD p)
-  AltName: '[Worg](srd_monsters_worg.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
-  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 26 (4d10+4)
   Speed: 15 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
+  Languages: gobelin, worg
+  Challenge: 1/2 (100 PX)
+  Terrain: Collines / Vallées, Montagnes
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 11 (+0)
   Charisma: ' 8 (-1)'
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: vision dans le noir 18 m, [Perception passive](hd_abilities_dexterity_perception_passive.md) 14
-  Languages: gobelin, worg
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#worg
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Worg](srd_monsters_worg.md)'
   AttributesDictionary: >+
     Name: Worg
 
@@ -63262,27 +63272,27 @@ SubItems:
   Family: MonsterHD
   Name: Acolyte
   Source: (CEO p)(SRD p)
-  AltName: '[Acolyte](srd_monsters_acolyte.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 10
   HitPoints: 9 (2d8)
   Speed: 9 m
+  Skills: '[Médecine](hd_abilities_wisdom_medecine.md) +4, [Religion](hd_abilities_intelligence_religion.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 1/4 (50 PX)
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 11 (+0)
-  Skills: '[Médecine](hd_abilities_wisdom_medecine.md) +4, [Religion](hd_abilities_intelligence_religion.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 1/4 (50 PX)
   Id: monsters_hd.md#acolyte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Acolyte](srd_monsters_acolyte.md)'
   AttributesDictionary: >+
     Name: Acolyte
 
@@ -63436,29 +63446,29 @@ SubItems:
   Family: MonsterHD
   Name: Archimage
   Source: (CEO p)(SRD p)
-  AltName: '[Archmage](srd_monsters_archmage.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 12 (15 avec armure du mage)
   HitPoints: 99 (18d8+18)
   Speed: 9 m
+  SavingThrows: Int +9, Sag +6
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +13, [Histoire](hd_abilities_intelligence_histoire.md) +13'
+  DamageResistances: des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: six langues au choix
+  Challenge: 12 (8 400 PX)
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: 20 (+5)
   Wisdom: 15 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Int +9, Sag +6
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +13, [Histoire](hd_abilities_intelligence_histoire.md) +13'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: six langues au choix
-  Challenge: 12 (8 400 PX)
-  DamageResistances: des sorts ; contondants, perforants et tranchants non-magiques (grâce à peau de pierre)
   Id: monsters_hd.md#archimage
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Archmage](srd_monsters_archmage.md)'
   AttributesDictionary: >+
     Name: Archimage
 
@@ -63690,29 +63700,29 @@ SubItems:
   Family: MonsterHD
   Name: Assassin
   Source: (CEO p)(SRD p)
-  AltName: '[Assassin](srd_monsters_assassin.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Bon
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 78 (12d8+24)
   Speed: 9 m
+  SavingThrows: Dex +6, Int +4
+  Skills: '[Acrobaties](hd_abilities_dexterity_acrobaties.md) +6, [Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +3, [Supercherie](hd_abilities_charisma_supercherie.md) +3'
+  DamageResistances: de poison
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: argot des voleurs plus deux autres langues au choix
+  Challenge: 8 (3 900 PX)
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 14 (+2)
   Intelligence: 13 (+1)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  SavingThrows: Dex +6, Int +4
-  Skills: '[Acrobaties](hd_abilities_dexterity_acrobaties.md) +6, [Discrétion](hd_abilities_dexterity_discretion.md) +9, [Perception](hd_abilities_wisdom_perception.md) +3, [Supercherie](hd_abilities_charisma_supercherie.md) +3'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: argot des voleurs plus deux autres langues au choix
-  Challenge: 8 (3 900 PX)
-  DamageResistances: de poison
   Id: monsters_hd.md#assassin
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Assassin](srd_monsters_assassin.md)'
   AttributesDictionary: >+
     Name: Assassin
 
@@ -63896,26 +63906,26 @@ SubItems:
   Family: MonsterHD
   Name: Bandit
   Source: (CEO p)(SRD p)
-  AltName: '[Bandit](srd_monsters_bandit.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Loyal
   ArmorClass: 12 (armure de cuir)
   HitPoints: 11 (2d8+2)
   Speed: 9 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 1/8 (25 PX)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#bandit
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bandit](srd_monsters_bandit.md)'
   AttributesDictionary: >+
     Name: Bandit
 
@@ -64051,26 +64061,26 @@ SubItems:
   Family: MonsterHD
   Name: Berserker
   Source: (CEO p)(SRD p)
-  AltName: '[Berserker](srd_monsters_berserker.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement Chaotique
   ArmorClass: 13 (armure de peau)
   HitPoints: 67 (9d8+27)
   Speed: 9 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 2 (450 PX)
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: ' 9 (-1)'
   Wisdom: 11 (+0)
   Charisma: ' 9 (-1)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#berserker
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Berserker](srd_monsters_berserker.md)'
   AttributesDictionary: >+
     Name: Berserker
 
@@ -64206,28 +64216,28 @@ SubItems:
   Family: MonsterHD
   Name: Capitaine bandit
   Source: (CEO p)(SRD p)
-  AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Loyal
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 65 (10d8+20)
   Speed: 9 m
+  SavingThrows: For +4, Dex +5, Sag +2
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: deux langues au choix
+  Challenge: 2 (450 PX)
   Strength: 15 (+2)
   Dexterity: 16 (+3)
   Constitution: 14 (+2)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 14 (+2)
-  SavingThrows: For +4, Dex +5, Sag +2
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +4, [Supercherie](hd_abilities_charisma_supercherie.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: deux langues au choix
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#capitaine-bandit
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
   AttributesDictionary: >+
     Name: Capitaine bandit
 
@@ -64393,27 +64403,27 @@ SubItems:
   Family: MonsterHD
   Name: Chevalier
   Source: (CEO p)(SRD p)
-  AltName: '[Knight](srd_monsters_knight.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 18 (harnois)
   HitPoints: 52 (8d8+16)
   Speed: 9 m
+  SavingThrows: Con +4, Sag +2
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 3 (700 PX)
   Strength: 16 (+3)
   Dexterity: 11 (+0)
   Constitution: 14 (+2)
   Intelligence: 11 (+0)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Con +4, Sag +2
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#chevalier
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Knight](srd_monsters_knight.md)'
   AttributesDictionary: >+
     Name: Chevalier
 
@@ -64591,27 +64601,27 @@ SubItems:
   Family: MonsterHD
   Name: Druide
   Source: (CEO p)(SRD p)
-  AltName: '[Druid](srd_monsters_druid.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 11 (16 avec peau d'écorce)
   HitPoints: 27 (5d8+5)
   Speed: 9 m
+  Skills: '[Médecine](hd_abilities_wisdom_medecine.md) +4, [Nature](hd_abilities_intelligence_nature.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
+  Languages: langue des druides plus deux langues au choix
+  Challenge: 2 (450 PX)
   Strength: 10 (+0)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: 12 (+1)
   Wisdom: 15 (+2)
   Charisma: 11 (+0)
-  Skills: '[Médecine](hd_abilities_wisdom_medecine.md) +4, [Nature](hd_abilities_intelligence_nature.md) +3, [Perception](hd_abilities_wisdom_perception.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 14'
-  Languages: langue des druides plus deux langues au choix
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#druide
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Druid](srd_monsters_druid.md)'
   AttributesDictionary: >+
     Name: Druide
 
@@ -64771,27 +64781,27 @@ SubItems:
   Family: MonsterHD
   Name: Ecclésiastique
   Source: (CEO p)(SRD p)
-  AltName: '[Priest](srd_monsters_priest.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 13 (chemise de mailles)
   HitPoints: 27 (5d8+5)
   Speed: 7,50 m
+  Skills: '[Médecine](hd_abilities_wisdom_medecine.md) +7, [Persuasion](hd_abilities_charisma_persuasion.md) +3, [Religion](hd_abilities_intelligence_religion.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
+  Languages: deux langues au choix
+  Challenge: 2 (450 PX)
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: 13 (+1)
   Wisdom: 16 (+3)
   Charisma: 13 (+1)
-  Skills: '[Médecine](hd_abilities_wisdom_medecine.md) +7, [Persuasion](hd_abilities_charisma_persuasion.md) +3, [Religion](hd_abilities_intelligence_religion.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 13'
-  Languages: deux langues au choix
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#ecclésiastique
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Priest](srd_monsters_priest.md)'
   AttributesDictionary: >+
     Name: Ecclésiastique
 
@@ -64969,27 +64979,27 @@ SubItems:
   Family: MonsterHD
   Name: Éclaireur
   Source: (CEO p)(SRD p)
-  AltName: '[Scout](srd_monsters_scout.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 13 (armure de cuir)
   HitPoints: 16 (3d8+3)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Nature](hd_abilities_intelligence_nature.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5, [Survie](hd_abilities_wisdom_survie.md) +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 1/2 (100 PX)
   Strength: 11 (+0)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +6, [Nature](hd_abilities_intelligence_nature.md) +4, [Perception](hd_abilities_wisdom_perception.md) +5, [Survie](hd_abilities_wisdom_survie.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 15'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#Éclaireur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Scout](srd_monsters_scout.md)'
   AttributesDictionary: >+
     Name: Éclaireur
 
@@ -65149,27 +65159,27 @@ SubItems:
   Family: MonsterHD
   Name: Espion
   Source: (CEO p)(SRD p)
-  AltName: '[Spy](srd_monsters_spy.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 12
   HitPoints: 27 (6d8)
   Speed: 9 m
+  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +5, [Perception](hd_abilities_wisdom_perception.md) +6, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Persuasion](hd_abilities_charisma_persuasion.md) +5, [Supercherie](hd_abilities_charisma_supercherie.md) +5, [Escamotage](hd_abilities_dexterity_escamotage.md) +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 16'
+  Languages: deux langues au choix
+  Challenge: 1 (200 PX)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  Skills: '[Discrétion](hd_abilities_dexterity_discretion.md) +4, [Investigation](hd_abilities_intelligence_investigation.md) +5, [Perception](hd_abilities_wisdom_perception.md) +6, [Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Persuasion](hd_abilities_charisma_persuasion.md) +5, [Supercherie](hd_abilities_charisma_supercherie.md) +5, [Escamotage](hd_abilities_dexterity_escamotage.md) +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 16'
-  Languages: deux langues au choix
-  Challenge: 1 (200 PX)
   Id: monsters_hd.md#espion
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Spy](srd_monsters_spy.md)'
   AttributesDictionary: >+
     Name: Espion
 
@@ -65335,27 +65345,27 @@ SubItems:
   Family: MonsterHD
   Name: Fanatique de secte
   Source: (CEO p)(SRD p)
-  AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Bon
   ArmorClass: 13 (armure de cuir)
   HitPoints: 33 (6d8+6)
   Speed: 9 m
+  Skills: '[Religion](hd_abilities_intelligence_religion.md) +2, [Persuasion](hd_abilities_charisma_persuasion.md) +4, Supercherie +4'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 2 (450 PX)
   Strength: 11 (+0)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 14 (+2)
-  Skills: '[Religion](hd_abilities_intelligence_religion.md) +2, [Persuasion](hd_abilities_charisma_persuasion.md) +4, Supercherie +4'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 2 (450 PX)
   Id: monsters_hd.md#fanatique-de-secte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
   AttributesDictionary: >+
     Name: Fanatique de secte
 
@@ -65527,27 +65537,27 @@ SubItems:
   Family: MonsterHD
   Name: Garde
   Source: (CEO p)(SRD p)
-  AltName: '[Guard](srd_monsters_guard.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 16 (bouclier, chemise de mailles)
   HitPoints: 11 (2d8+2)
   Speed: 9 m
+  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 1/8 (25 PX)
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#garde
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Guard](srd_monsters_guard.md)'
   AttributesDictionary: >+
     Name: Garde
 
@@ -65677,28 +65687,28 @@ SubItems:
   Family: MonsterHD
   Name: Gladiateur
   Source: (CEO p)(SRD p)
-  AltName: '[Gladiator](srd_monsters_gladiator.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 16 (armure de cuir clouté, bouclier)
   HitPoints: 112 (15d8+45)
   Speed: 9 m
+  SavingThrows: For +7, Dex +5, Con +6
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +10, [Intimidation](hd_abilities_charisma_intimidation.md) +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 5 (1 800 PX)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  SavingThrows: For +7, Dex +5, Con +6
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +10, [Intimidation](hd_abilities_charisma_intimidation.md) +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 5 (1 800 PX)
   Id: monsters_hd.md#gladiateur
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Gladiator](srd_monsters_gladiator.md)'
   AttributesDictionary: >+
     Name: Gladiateur
 
@@ -65888,26 +65898,26 @@ SubItems:
   Family: MonsterHD
   Name: Guerrier tribal
   Source: (CEO p)(SRD p)
-  AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 12 (armure de peau)
   HitPoints: 11 (2d8+2)
   Speed: 9 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix
+  Challenge: 1/8 (25 PX)
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 11 (+0)
   Charisma: ' 8 (-1)'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#guerrier-tribal
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
   AttributesDictionary: >+
     Name: Guerrier tribal
 
@@ -66043,28 +66053,28 @@ SubItems:
   Family: MonsterHD
   Name: Mage
   Source: (CEO p)(SRD p)
-  AltName: '[Mage](srd_monsters_mage.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 12 (15 avec armure du mage)
   HitPoints: 40 (9d8)
   Speed: 9 m
+  SavingThrows: Int +6, Sag +4
+  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +6, [Histoire](hd_abilities_intelligence_histoire.md) +6'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
+  Languages: quatre langues au choix
+  Challenge: 6 (2 300 PX)
   Strength: ' 9 (-1)'
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: 17 (+3)
   Wisdom: 12 (+1)
   Charisma: 11 (+0)
-  SavingThrows: Int +6, Sag +4
-  Skills: '[Arcanes](hd_abilities_intelligence_arcanes.md) +6, [Histoire](hd_abilities_intelligence_histoire.md) +6'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 11'
-  Languages: quatre langues au choix
-  Challenge: 6 (2 300 PX)
   Id: monsters_hd.md#mage
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Mage](srd_monsters_mage.md)'
   AttributesDictionary: >+
     Name: Mage
 
@@ -66248,27 +66258,27 @@ SubItems:
   Family: MonsterHD
   Name: Malfrat
   Source: (CEO p)(SRD p)
-  AltName: '[Thug](srd_monsters_thug.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que bon
   ArmorClass: 11 (armure de cuir)
   HitPoints: 32 (5d8+10)
   Speed: 9 m
+  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 1/2 (100 PX)
   Strength: 15 (+2)
   Dexterity: 11 (+0)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Skills: '[Intimidation](hd_abilities_charisma_intimidation.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 1/2 (100 PX)
   Id: monsters_hd.md#malfrat
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Thug](srd_monsters_thug.md)'
   AttributesDictionary: >+
     Name: Malfrat
 
@@ -66434,27 +66444,27 @@ SubItems:
   Family: MonsterHD
   Name: Membre de secte
   Source: (CEO p)(SRD p)
-  AltName: '[Cultist](srd_monsters_cultist.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Bon
   ArmorClass: 12 (armure de cuir)
   HitPoints: 9 (2d8)
   Speed: 9 m
+  Skills: '[Religion](hd_abilities_intelligence_religion.md) +2, Supercherie +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 1/8 (25 PX)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Religion](hd_abilities_intelligence_religion.md) +2, Supercherie +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#membre-de-secte
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Cultist](srd_monsters_cultist.md)'
   AttributesDictionary: >+
     Name: Membre de secte
 
@@ -66596,27 +66606,27 @@ SubItems:
   Family: MonsterHD
   Name: Noble
   Source: (CEO p)(SRD p)
-  AltName: '[Noble](srd_monsters_noble.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 15 (cuirasse)
   HitPoints: 9 (2d8)
   Speed: 9 m
+  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Persuasion](hd_abilities_charisma_persuasion.md) +5, Supercherie +5'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: deux langues au choix
+  Challenge: 1/8 (25 PX)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  Skills: '[Perspicacité](hd_abilities_wisdom_perspicacite.md) +4, [Persuasion](hd_abilities_charisma_persuasion.md) +5, Supercherie +5'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: deux langues au choix
-  Challenge: 1/8 (25 PX)
   Id: monsters_hd.md#noble
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Noble](srd_monsters_noble.md)'
   AttributesDictionary: >+
     Name: Noble
 
@@ -66758,26 +66768,26 @@ SubItems:
   Family: MonsterHD
   Name: Roturier
   Source: (CEO p)(SRD p)
-  AltName: '[Commoner](srd_monsters_commoner.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
   ArmorClass: 10
   HitPoints: 4 (1d8)
   Speed: 9 m
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 0 (10 PX)
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 10'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 0 (10 PX)
   Id: monsters_hd.md#roturier
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Commoner](srd_monsters_commoner.md)'
   AttributesDictionary: >+
     Name: Roturier
 
@@ -66901,27 +66911,27 @@ SubItems:
   Family: MonsterHD
   Name: Vétéran
   Source: (CEO p)(SRD p)
-  AltName: '[Veteran](srd_monsters_veteran.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: alignement quelconque
   ArmorClass: 17 (clibanion)
   HitPoints: 58 (9d8+18)
   Speed: 9 m
+  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Perception](hd_abilities_wisdom_perception.md) +2'
+  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
+  Languages: une langue au choix (commun le plus souvent)
+  Challenge: 3 (700 PX)
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: '[Athlétisme](hd_abilities_strength_athletisme.md) +5, [Perception](hd_abilities_wisdom_perception.md) +2'
-  Senses: '[Perception passive](hd_abilities_dexterity_perception_passive.md) 12'
-  Languages: une langue au choix (commun le plus souvent)
-  Challenge: 3 (700 PX)
   Id: monsters_hd.md#vétéran
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
+  AltName: '[Veteran](srd_monsters_veteran.md)'
   AttributesDictionary: >+
     Name: Vétéran
 
@@ -67082,6 +67092,8 @@ RootId: monsters_hd.md
 ParentLink: index.md
 ParentName: Créatures et oppositions
 NameLevel: 1
+AltName: '[Monsters](srd_monsters.md)'
+Source: (CEO p)(SRD p)
 AttributesDictionary: >+
   ParentNameLink: '[Créatures et oppositions](index.md)'
 
@@ -67631,6 +67643,10 @@ Si le basilic voit son reflet sous une lumière vive à une distance maximale de
 **_Morsure._** Attaque d'arme au corps à corps : +5 pour toucher, allonge 1,50 m, une cible.
 
 _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
+
+![Basilic by LadyofHats / CC0](https://upload.wikimedia.org/wikipedia/commons/3/3a/DnD_Basilisk.png)
+
+[Basilic by LadyofHats / CC0](https://commons.wikimedia.org/wiki/File:DnD_Basilisk.png)
 
 > [Créatures](hd_monsters.md)
 

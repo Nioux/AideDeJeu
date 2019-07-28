@@ -34,3 +34,7 @@ Si le basilic voit son reflet sous une lumière vive à une distance maximale de
 
 _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 
+![Basilic by LadyofHats / CC0](https://upload.wikimedia.org/wikipedia/commons/3/3a/DnD_Basilisk.png)
+
+[Basilic by LadyofHats / CC0](https://commons.wikimedia.org/wiki/File:DnD_Basilisk.png)
+

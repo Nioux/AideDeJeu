@@ -5,7 +5,7 @@
 ### Potion de vitesse
 
 - AltName: Potion of Speed (SRD p235)
-- Source: (COC p178)
+- Source: (CDC p178)
 -  Potion, très rare
 
 Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concentration requise) après avoir bu cette potion. Le liquide jaune strié de noir de cette concoction tournoie de lui-même sans qu'on le remue.

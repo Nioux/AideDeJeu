@@ -5,7 +5,7 @@
 ### Potion d'héroïsme
 
 - AltName: Potion of Heroism (SRD p234)
-- Source: (COC p179)
+- Source: (CDC p179)
 -  Potion, rare
 
 Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. Pendant cette même période, vous êtes sous l'effet d'un sort de bénédiction (aucune concentration requise). Le liquide bleu bouillonne comme s'il était chauffé en permanence.

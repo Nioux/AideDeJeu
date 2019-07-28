@@ -5,7 +5,7 @@
 ### Sac affamé
 
 - AltName: Bag of Devouring (SRD p210)
-- Source: (COC p182)
+- Source: (CDC p182)
 -  Objet merveilleux, très rare
 
 À première vue, ce sac ressemble à un sac sans fond, mais en réalité, il s'agit de l'orifice nourricier d'une créature extradimensionnelle gigantesque. L'orifice se ferme si l'on met le sac sur l'envers, c'est-à-dire la paroi interne devenant la paroi externe.

@@ -4,8 +4,8 @@
 
 ### Armure +1, +2 ou +3
 
-- AltName: Armor, +1, +2, or +3 (SRD p208)
-- Source: (COC p145)
+- AltName: Armor +1, +2, or +3 (SRD p208)
+- Source: (CDC p145)
 -  Armure (légère, intermédiaire ou lourde), rare (+1), très rare (+2) ou légendaire (+3)
 
 Vous disposez d'un bonus à la CA tant que vous portez cette armure. Ce bonus dépend de la rareté de l'armure.

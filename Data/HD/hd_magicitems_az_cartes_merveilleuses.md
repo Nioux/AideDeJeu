@@ -5,7 +5,7 @@
 ### Cartes merveilleuses
 
 - AltName: Deck of Many Things (SRD p216)
-- Source: (COC p157)
+- Source: (CDC p157)
 -  Objet merveilleux, légendaire
 
 Ce jeu de cartes, en ivoire ou sur vélin, se trouve généralement dans une boîte ou une bourse. La plupart des jeux (75 %) n'ont que treize cartes, mais les autres en ont vingt-deux.

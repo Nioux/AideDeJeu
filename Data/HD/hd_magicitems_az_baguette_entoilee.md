@@ -5,7 +5,7 @@
 ### Baguette entoilée
 
 - AltName: Wand of Web (SRD p249)
-- Source: (COC p147)
+- Source: (CDC p147)
 -  Baguette, peu courante (harmonisation avec un lanceur de sorts exigée)
 
 Cette baguette contient 7 charges. Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de ses charges et lancer le sort toile d'araignée (DD des jets de sauvegarde contre le sort 15) par son biais.

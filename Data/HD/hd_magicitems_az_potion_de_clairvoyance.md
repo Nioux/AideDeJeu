@@ -5,7 +5,7 @@
 ### Potion de clairvoyance
 
 - AltName: Potion of Clairvoyance (SRD p233)
-- Source: (COC p177)
+- Source: (CDC p177)
 -  Potion, rare
 
 Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance. Un globe oculaire flotte dans ce liquide jaunâtre, mais disparaît dès qu'on ouvre la potion.

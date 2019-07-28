@@ -5,7 +5,7 @@
 ### Perle de force
 
 - AltName: Bead of Force (SRD p211)
-- Source: (COC p174)
+- Source: (CDC p174)
 -  Objet merveilleux, rare
 
 Cette petite sphère noire de 2 centimètres de diamètre pèse 30 grammes. En général, on trouve 1d4+4 perles de force à la fois.

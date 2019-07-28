@@ -5,7 +5,7 @@
 ### Flûte des égouts
 
 - AltName: Pipes of the Sewers (SRD p232)
-- Source: (COC p166)
+- Source: (CDC p166)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flûte. Tant que vous êtes harmonisé avec elle, les rats ordinaires et les rats géants sont indifférents envers vous et ne vous attaquent pas, à moins que vous ne les menaciez ou les blessiez.

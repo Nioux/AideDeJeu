@@ -5,7 +5,7 @@
 ### Menottes dimensionnelles
 
 - AltName: Dimensional Shackles (SRD p219)
-- Source: (COC p173)
+- Source: (CDC p173)
 -  Objet merveilleux, rare
 
 Vous pouvez utiliser une action pour menotter une créature neutralisée avec cet objet. Les menottes s'ajustent aux poignets des créatures de taille P à G. En plus de servir d'entraves traditionnelles, elles empêchent la créature attachée d'utiliser la moindre méthode de déplacement extradimensionnel, y compris la téléportation et les voyages vers d'autres plans d'existence. En revanche, elles n'empêchent pas leur prisonnier de traverser un portail interdimensionnel.

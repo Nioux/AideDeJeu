@@ -5,7 +5,7 @@
 ### Anneau de maîtrise élémentaire
 
 - AltName: Ring of Elemental Command (SRD p235)
-- Source: (COC p140)
+- Source: (CDC p140)
 -  Anneau, légendaire (harmonisation requise)
 
 Cet anneau est lié à l'un des quatre plans Élémentaires. Le MJ choisit ou détermine au hasard le plan concerné.

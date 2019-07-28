@@ -5,7 +5,7 @@
 ### Portail cubique
 
 - AltName: Cubic Gate (SRD p215)
-- Source: (COC p177)
+- Source: (CDC p177)
 -  Objet merveilleux, légendaire
 
 Ce cube de 7,5 centimètres d'arête émet une énergie magique palpable. Chacune de ses six faces est liée à un plan d'existence distinct, l'un d'eux étant le plan Matériel. Les autres sont liées à des plans déterminés par le MJ.

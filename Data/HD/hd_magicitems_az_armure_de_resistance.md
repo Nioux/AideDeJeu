@@ -5,7 +5,7 @@
 ### Armure de résistance
 
 - AltName: Armor of Resistance (SRD p208)
-- Source: (COC p144)
+- Source: (CDC p144)
 -  Armure (légère, intermédiaire ou lourde), rare (harmonisation requise)
 
 Tant que vous portez cette armure, vous êtes résistant à un type de dégâts. C'est au MJ de choisir ce type ou de le déterminer au hasard parmi les options suivantes.

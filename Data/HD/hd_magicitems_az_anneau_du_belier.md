@@ -5,7 +5,7 @@
 ### Anneau du bélier
 
 - AltName: Ring of the Ram (SRD p238)
-- Source: (COC p143)
+- Source: (CDC p143)
 -  Anneau, rare (harmonisation requise)
 
 Cet anneau contient 3 charges et récupère 1d3 charges chaque jour, à l'aube. Tant que vous portez cet anneau au doigt, vous pouvez utiliser une action pour dépenser de 1 à 3 charges afin d'attaquer une créature située à 18 mètres ou moins dans votre champ de vision. L'anneau produit une tête de bélier spectrale et effectue son jet d'attaque avec un bonus de +7. En cas d'attaque réussie et pour chaque charge dépensée, la cible subit 2d10 dégâts de force et elle est éloignée de vous sur une distance de 1,50 mètre.

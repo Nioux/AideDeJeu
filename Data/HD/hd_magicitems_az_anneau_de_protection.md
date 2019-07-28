@@ -5,7 +5,7 @@
 ### Anneau de protection
 
 - AltName: Ring of Protection (SRD p237)
-- Source: (COC p141)
+- Source: (CDC p141)
 -  Anneau, rare (harmonisation requise)
 
 Vous bénéficiez d'un bonus de +1 à la CA et aux jets de sauvegarde tant que vous portez cet anneau au doigt.

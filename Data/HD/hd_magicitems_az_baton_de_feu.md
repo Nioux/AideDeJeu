@@ -5,7 +5,7 @@
 ### Bâton de feu
 
 - AltName: Staff of Fire (SRD p243)
-- Source: (COC p149)
+- Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
 Vous bénéficiez d'une résistance contre les dégâts de feu tant que vous tenez ce bâton en main.

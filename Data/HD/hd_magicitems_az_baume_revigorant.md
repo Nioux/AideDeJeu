@@ -5,7 +5,7 @@
 ### Baume revigorant
 
 - AltName: Restorative Ointment (SRD p235)
-- Source: (COC p152)
+- Source: (CDC p152)
 -  Objet merveilleux, peu courant
 
 Ce pot en verre de 7 à 8 centimètres de diamètre contient 1d4+1 doses d'une mixture épaisse qui sent légèrement l'aloès. Le pot et son contenu pèsent un total de 250 grammes.

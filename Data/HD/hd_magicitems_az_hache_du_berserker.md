@@ -5,7 +5,7 @@
 ### Hache du berserker
 
 - AltName: Berserker Axe (SRD p211)
-- Source: (COC p168)
+- Source: (CDC p168)
 -  Arme (hache), rare (harmonisation requise)
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts liés à cette arme magique. De plus, tant que vous êtes harmonisé avec elle, votre maximum de points de vie augmente de 1 par niveau que vous possédez.

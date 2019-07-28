@@ -5,7 +5,7 @@
 ### Figurine merveilleuse
 
 - AltName: Figurine of Wondrous Power (SRD p221)
-- Source: (COC p164)
+- Source: (CDC p164)
 -  Objet merveilleux, rareté selon la figurine
 
 Une figurine merveilleuse est une statuette représentant un animal et assez petite pour tenir dans une poche. Si vous utilisez une action pour prononcer le mot de commande et lancez la figurine au sol dans un rayon de 18 mètres autour de vous, elle se change en créature vivante. Si l'emplacement qu'elle devrait occuper accueille déjà d'autres créatures ou objets, ou s'il n'y a pas assez de place pour l'animal, la figurine ne se métamorphose pas.

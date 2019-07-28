@@ -5,7 +5,7 @@
 ### Sac à malice
 
 - AltName: Bag of Tricks (SRD p210)
-- Source: (COC p182)
+- Source: (CDC p182)
 -  Objet merveilleux, peu courant
 
 Ce banal sac gris, rouille ou brun semble vide. Cependant, si l'on plonge la main à l'intérieur, on sent un petit objet duveteux. Le sac pèse 250 grammes.

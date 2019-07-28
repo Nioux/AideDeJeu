@@ -5,7 +5,7 @@
 ### Anneau de légèreté
 
 - AltName: Ring of Feather Falling (SRD p236)
-- Source: (COC p140)
+- Source: (CDC p140)
 -  Anneau, rare (harmonisation requise)
 
 Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tant que vous portez cet anneau au doigt.

@@ -5,7 +5,7 @@
 ### Heaume scintillant
 
 - AltName: Helm of Brilliance (SRD p225)
-- Source: (COC p169)
+- Source: (CDC p169)
 -  Objet merveilleux, très rare (harmonisation requise)
 
 Ce heaume éblouissant est serti de 1d10 diamants, 2d10 rubis, 3d10 opales de feu et 4d10 opales. Toute gemme arrachée au heaume tombe en poussière. Le heaume perd ses pouvoirs magiques une fois que toutes ses gemmes ont été détruites ou arrachées.

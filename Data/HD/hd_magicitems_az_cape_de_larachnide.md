@@ -5,7 +5,7 @@
 ### Cape de l'arachnide
 
 - AltName: Cloak of Arachnida (SRD p214)
-- Source: (COC p154)
+- Source: (CDC p154)
 -  Objet merveilleux, très rare (harmonisation requise)
 
 Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant que vous le portez, vous bénéficiez des avantages suivants.

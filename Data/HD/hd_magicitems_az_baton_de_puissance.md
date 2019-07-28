@@ -5,7 +5,7 @@
 ### Bâton de puissance
 
 - AltName: Staff of Power (SRD p243)
-- Source: (COC p149)
+- Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
 Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 à l'attaque et aux jets de dégâts effectués par son biais. Tant que vous le tenez en main, vous bénéficiez d'un bonus de +2 à la Classe d'Armure, aux jets de sauvegarde et aux jets d'attaque des sorts.

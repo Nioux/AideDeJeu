@@ -5,7 +5,7 @@
 ### Cartes d'illusion
 
 - AltName: Deck of Illusions (SRD p216)
-- Source: (COC p156)
+- Source: (CDC p156)
 -  Objet merveilleux, peu courant
 
 Cette boîte contient un jeu de cartes faites de parchemin. Le jeu complet compte 34 cartes mais, quand on trouve un jeu, il lui manque souvent 1d20 - 1 cartes.

@@ -5,7 +5,7 @@
 ### Anneau de saut
 
 - AltName: Ring of Jumping (SRD p236)
-- Source: (COC p142)
+- Source: (CDC p142)
 -  Anneau, peu courant (harmonisation requise)
 
 Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant que vous portez cet anneau au doigt. Seul vous bénéficiez des effets de ce sort.

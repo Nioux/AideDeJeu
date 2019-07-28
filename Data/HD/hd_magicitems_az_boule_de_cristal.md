@@ -5,7 +5,7 @@
 ### Boule de cristal
 
 - AltName: Crystal Ball (SRD p214)
-- Source: (COC p153)
+- Source: (CDC p153)
 -  Objet merveilleux, très rare ou légendaire (harmonisation requise)
 
 La boule de cristal la plus courante est un objet très rare d'une quinzaine de centimètres de diamètre. Vous pouvez lancer le sort scrutation (DD 17) par son intermédiaire.

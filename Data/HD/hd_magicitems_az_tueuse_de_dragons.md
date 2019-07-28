@@ -5,7 +5,7 @@
 ### Tueuse de dragons
 
 - AltName: Dragon Slayer (SRD p219)
-- Source: (COC p188)
+- Source: (CDC p188)
 -  Arme (épée), rare
 
 Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.

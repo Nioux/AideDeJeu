@@ -5,7 +5,7 @@
 ### Potion de force de géant
 
 - AltName: Potion of Giant Strength (SRD p234)
-- Source: (COC p177)
+- Source: (CDC p177)
 -  Potion, rareté variable
 
 Quand vous buvez cette potion, votre valeur de Force se modifie pendant 1 heure, en fonction du type de géant auquel la potion est associée (voir la table suivante). La potion n'a aucun effet si votre Force est déjà égale ou supérieure à la valeur indiquée.

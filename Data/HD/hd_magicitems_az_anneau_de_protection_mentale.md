@@ -5,7 +5,7 @@
 ### Anneau de protection mentale
 
 - AltName: Ring of Mind Shielding (SRD p236)
-- Source: (COC p141)
+- Source: (CDC p141)
 -  Anneau, peu courant (harmonisation requise)
 
 Tant que vous portez cet anneau, vous êtes immunisé à la magie utilisée par d'autres créatures pour lire vos pensées, déterminer si vous mentez, connaître votre alignement ou le type de créature que vous êtes. Les créatures peuvent communiquer par télépathie avec vous seulement si vous les y autorisez.

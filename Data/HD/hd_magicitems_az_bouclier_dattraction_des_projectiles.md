@@ -5,7 +5,7 @@
 ### Bouclier d'attraction des projectiles
 
 - AltName: Shield of Missile Attraction (SRD p242)
-- Source: (COC p153)
+- Source: (CDC p153)
 -  Armure (bouclier), rare (harmonisation requise)
 
 Tant que vous tenez ce bouclier, vous bénéficiez d'une résistance contre les dégâts infligés par les attaques d'armes à distance.

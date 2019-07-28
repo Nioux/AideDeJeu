@@ -5,7 +5,7 @@
 ### Anneau de stockage de sorts
 
 - AltName: Ring of Spell Storing (SRD p237)
-- Source: (COC p142)
+- Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 
 Cet anneau stocke des sort que l'on lance à l'intérieur et les conserve jusqu'au moment où son porteur harmonisé les utilise. L'anneau peut stocker un maximum de 5 niveaux de sorts en même temps. Au moment de sa découverte, l'anneau contient 1d6-1 niveaux de sorts stockés choisis par le MJ.

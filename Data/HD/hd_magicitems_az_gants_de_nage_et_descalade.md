@@ -5,7 +5,7 @@
 ### Gants de nage et d'escalade
 
 - AltName: Gloves of Swimming and Climbing (SRD p224)
-- Source: (COC p167)
+- Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
 Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas de déplacement supplémentaire et vous gagnez un bonus de +5 aux tests de Force (Athlétisme) pour grimper ou nager.

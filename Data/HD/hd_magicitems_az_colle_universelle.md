@@ -5,7 +5,7 @@
 ### Colle universelle
 
 - AltName: Sovereign Glue (SRD p242)
-- Source: (COC p160)
+- Source: (CDC p160)
 -  Objet merveilleux, légendaire
 
 Cette substance visqueuse et aussi blanche que le lait peut coller deux objets de manière définitive. Elle doit être conservée dans un pot dont la surface intérieure a été badigeonnée d'huile d'insaisissabilité. Un récipient nouvellement découvert contient 1d6+1 doses de cette colle, de 30 grammes chacune.

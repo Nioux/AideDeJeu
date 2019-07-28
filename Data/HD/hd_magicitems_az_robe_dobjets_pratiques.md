@@ -5,7 +5,7 @@
 ### Robe d'objets pratiques
 
 - AltName: Robe of Useful Items (SRD p239)
-- Source: (COC p182)
+- Source: (CDC p182)
 -  Objet merveilleux, peu courant
 
 Cette robe est couverte de pièces de tissu de formes et de couleurs diverses. Tant que vous portez ce vêtement, vous pouvez effectuer une action pour détacher une des pièces et provoquer sa transformation en l'objet ou la créature qu'elle représente. Dès que la dernière pièce est détachée, la robe devient un vêtement ordinaire.

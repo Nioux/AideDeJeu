@@ -5,7 +5,7 @@
 ### Cierge d'invocation
 
 - AltName: Candle of Invocation (SRD p213)
-- Source: (COC p160)
+- Source: (CDC p160)
 -  Objet merveilleux, très rare (harmonisation requise)
 
 Ce mince cierge est dédié à une divinité précise et partage son alignement. On peut détecter ce dernier avec le sort détection du mal et du bien. C'est au MJ de choisir le dieu et l'alignement associé ou de les déterminer au hasard.
