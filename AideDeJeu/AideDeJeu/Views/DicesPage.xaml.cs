@@ -9,6 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Urho;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Internals;
 using Xamarin.Forms.Xaml;
@@ -88,13 +89,32 @@ namespace AideDeJeu.Views
         Charts charts = null;
         private async void ContentPage_Appearing(object sender, EventArgs e)
         {
-            //await HelloWorldUrhoSurface.Show<HelloWorld>(new Urho.ApplicationOptions(assetsFolder: null));
             charts = await HelloWorldUrhoSurface.Show<Charts>(new Urho.ApplicationOptions(assetsFolder: null));
+            if (!Accelerometer.IsMonitoring)
+            {
+                Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
+                Accelerometer.Start(SensorSpeed.Game);
+            }
+
+        }
+
+        private void Accelerometer_ShakeDetected(object sender, EventArgs e)
+        {
+            charts.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
         }
 
         private void Button_Clicked(object sender, EventArgs e)
         {
             charts.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
+        }
+
+        private void ContentPage_Disappearing(object sender, EventArgs e)
+        {
+            if (Accelerometer.IsMonitoring)
+            {
+                Accelerometer.Stop();
+                Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
+            }
         }
     }
     public class HelloWorld : Urho.Application

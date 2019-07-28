@@ -4,7 +4,9 @@
              xmlns:skviews="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
              xmlns:urho="clr-namespace:Urho.Forms;assembly=UrhoSharp.Forms"
-             x:Class="AideDeJeu.Views.DicesPage" Appearing="ContentPage_Appearing">
+             x:Class="AideDeJeu.Views.DicesPage" 
+             Appearing="ContentPage_Appearing"
+             Disappearing="ContentPage_Disappearing" Title="Dés" Visual="Material">
     <ContentPage.Content>
         <StackLayout>
             <StackLayout Orientation="Horizontal">
