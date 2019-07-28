@@ -16,9 +16,9 @@ namespace AideDeJeu.Views
     public class Charts : Application
     {
         bool movementsEnabled;
-        Scene scene;
+        //Scene scene;
         Node plotNode;
-        Camera camera;
+        //Camera camera;
         Octree octree;
         List<Bar> bars;
         Viewport vp;
@@ -44,10 +44,11 @@ namespace AideDeJeu.Views
         protected override void Start()
         {
             base.Start();
+            vp = new Viewport(Context, null, null, null);
+            vp.SetClearColor(new Color(1, 1, 1, 1));
+            Renderer.SetViewport(0, vp);
+            //SetupViewport();
             CreateScene();
-            SetupViewport();
-            vp.Scene = scene;
-            vp.Camera = camera;
         }
 
         async void CreateScene()
@@ -55,17 +56,17 @@ namespace AideDeJeu.Views
             Input.TouchEnd += OnTouched;
             //Input.SubscribeToTouchEnd(OnTouched);
 
-            scene = new Scene();            
-            octree = scene.CreateComponent<Octree>();
+            vp.Scene = new Scene();            
+            octree = vp.Scene.CreateComponent<Octree>();
 
-            plotNode = scene.CreateChild();
+            plotNode = vp.Scene.CreateChild();
             var baseNode = plotNode.CreateChild().CreateChild();
             //var plane = baseNode.CreateComponent<StaticModel>();
             //plane.Model = CoreAssets.Models.Plane;
             //plane.Material = Material.FromColor(new Color(0, 0, 0, 1));
 
-            var cameraNode = scene.CreateChild();
-            camera = cameraNode.CreateComponent<Camera>();
+            var cameraNode = vp.Scene.CreateChild();
+            vp.Camera = cameraNode.CreateComponent<Camera>();
             cameraNode.Position = new Vector3(10, 15, 10) / (1f);
             cameraNode.Rotation = new Quaternion(-0.121f, 0.878f, -0.305f, -0.35f);
 
@@ -122,7 +123,7 @@ namespace AideDeJeu.Views
 
         void OnTouched(TouchEndEventArgs e)
         {
-            Ray cameraRay = camera.GetScreenRay((float)e.X / Graphics.Width, (float)e.Y / Graphics.Height);
+            Ray cameraRay = vp.Camera.GetScreenRay((float)e.X / Graphics.Width, (float)e.Y / Graphics.Height);
             var results = octree.RaycastSingle(cameraRay, RayQueryLevel.Triangle, 100, DrawableFlags.Geometry);
             if (results != null)
             {
@@ -153,10 +154,10 @@ namespace AideDeJeu.Views
 
         void SetupViewport()
         {
-            renderer = Renderer;
-            vp = new Viewport(Context, scene, camera, null);
-            vp.SetClearColor(new Color(1, 1, 1, 1));
-            renderer.SetViewport(0, vp);
+            //renderer = Renderer;
+            //vp = new Viewport(Context, scene, camera, null);
+            //vp.SetClearColor(new Color(1, 1, 1, 1));
+            //renderer.SetViewport(0, vp);
         }
     }
 
