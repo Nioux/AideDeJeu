@@ -23,6 +23,7 @@ namespace AideDeJeuLib
     {
 
     }
+    [Preserve(AllMembers = true)]
     [DataContract]
     public class Item : IItem //: IList<Item>
     {

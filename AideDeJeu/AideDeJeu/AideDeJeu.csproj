@@ -88,8 +88,8 @@
 
   <ItemGroup>
     <PackageReference Include="Markdig" Version="0.17.1" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="2.2.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="2.0.3" />
     <PackageReference Include="OnePlat.DiceNotation" Version="2.0.2" />
     <PackageReference Include="Rg.Plugins.Popup" Version="1.1.5.188" />
     <PackageReference Include="SkiaSharp.Svg" Version="1.60.0" />

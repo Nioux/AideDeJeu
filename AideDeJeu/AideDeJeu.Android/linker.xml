@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<linker>
+  <assembly fullname="mscorlib">
+    <type fullname="System.Environment">
+      <field name="mono_corlib_version" />
+      <method name="get_StackTrace" />
+    </type>
+  </assembly>
+  <assembly fullname="My.Own.Assembly">
+    <type fullname="Foo" preserve="fields">
+      <method name=".ctor" />
+    </type>
+    <type fullname="Bar">
+      <method signature="System.Void .ctor(System.String)" />
+      <field signature="System.String _blah" />
+    </type>
+    <namespace fullname="My.Own.Namespace" />
+    <type fullname="My.Other*" />
+  </assembly>
+</linker>
