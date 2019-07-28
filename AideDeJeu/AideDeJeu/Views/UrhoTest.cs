@@ -21,6 +21,8 @@ namespace AideDeJeu.Views
         Camera camera;
         Octree octree;
         List<Bar> bars;
+        Viewport vp;
+        Renderer renderer;
 
         public Bar SelectedBar { get; private set; }
 
@@ -44,6 +46,8 @@ namespace AideDeJeu.Views
             base.Start();
             CreateScene();
             SetupViewport();
+            vp.Scene = scene;
+            vp.Camera = camera;
         }
 
         async void CreateScene()
@@ -149,10 +153,10 @@ namespace AideDeJeu.Views
 
         void SetupViewport()
         {
-            var renderer = Renderer;
-            var vp = new Viewport(Context, scene, camera, null);
-            renderer.SetViewport(0, vp);
+            renderer = Renderer;
+            vp = new Viewport(Context, scene, camera, null);
             vp.SetClearColor(new Color(1, 1, 1, 1));
+            renderer.SetViewport(0, vp);
         }
     }
 
