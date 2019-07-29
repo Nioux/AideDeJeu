@@ -56,6 +56,7 @@
     <CodesignKey>iPhone Developer</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchI18n>west</MtouchI18n>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>none</DebugType>
@@ -71,6 +72,7 @@
     <CodesignProvision>AideDeJeuPN</CodesignProvision>
     <MtouchLink>SdkOnly</MtouchLink>
     <MtouchExtraArgs>--linkskip=Microsoft.EntityFrameworkCore --linkskip=Microsoft.EntityFrameworkCore.Relational --linkskip=Microsoft.EntityFrameworkCore.Sqlite --linkskip=Remotion.Linq --linkskip=Microsoft.Data.Sqlite.Core --linkskip=Microsoft.EntityFrameworkCore.Sqlite.Core --linkskip=Microsoft.Extensions.DependencyInjection.Abstractions --linkskip=Microsoft.Extensions.DependencyInjection --linkskip=Microsoft.Extensions.Logging.Abstractions --linkskip=Microsoft.Extensions.Logging --linkskip=Microsoft.Extensions.Caching.Abstractions --linkskip=Microsoft.Extensions.Caching.Memory --linkskip=Microsoft.Extensions.Options --linkskip=Microsoft.Extensions.Primitives --linkskip=System.Reflection --linkskip=System.Reflection.Primitives --linkskip=System.Linq --linkskip=System.Linq.Expressions --linkskip=System.Linq.Queryable</MtouchExtraArgs>
+    <MtouchI18n>west</MtouchI18n>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
     <DebugType>none</DebugType>
