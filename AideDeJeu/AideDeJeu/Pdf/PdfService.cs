@@ -95,15 +95,32 @@ namespace AideDeJeu.Pdf
             //PdfStamper stamper = null;
             //stamper = new PdfStamper(reader, stream);
 
-            foreach (var md in mds)
+            try
             {
-                var expandedMd = await ExpandMarkdownAsync(md);
-                var parsed = Markdig.Markdown.Parse(expandedMd, pipeline);
-                Render(parsed.AsEnumerable(), document, writer);
+                foreach (var md in mds)
+                {
+                    var expandedMd = await ExpandMarkdownAsync(md);
+                    var parsed = Markdig.Markdown.Parse(expandedMd, pipeline);
+                    Render(parsed.AsEnumerable(), document, writer);
+                }
+            }
+            catch(Exception ex)
+            {
+                Debug.WriteLine(ex);
+            }
+            finally
+            {
+                try
+                { 
+                    document?.Close();
+                }
+                catch
+                {
+
+                }
+                writer.Close();
             }
 
-            document.Close();
-            writer.Close();
             //stamper.Close();
             //reader.Close();
         }
@@ -242,7 +259,6 @@ namespace AideDeJeu.Pdf
             //    ParagraphFont = bigFont;
             //}
             var phrases = Render(blocks);
-
 
             ColumnText ct = new ColumnText(writer.DirectContent);
 
