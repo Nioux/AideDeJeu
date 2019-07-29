@@ -14,6 +14,7 @@ using Urho.Shapes;
 
 namespace AideDeJeu.Views
 {
+    [Preserve(AllMembers = true)]
     public class Charts : Application
     {
         bool movementsEnabled;
@@ -30,7 +31,15 @@ namespace AideDeJeu.Views
         public IEnumerable<Bar> Bars => bars;
 
         [Preserve]
-        public Charts(ApplicationOptions options = null) : base(options) { }
+        public Charts(ApplicationOptions options = null) : base(options)
+        {
+            var i = 0;
+        }
+
+        public Charts() : base(null)
+        {
+
+        }
 
         static Charts()
         {

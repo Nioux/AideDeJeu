@@ -89,7 +89,15 @@ namespace AideDeJeu.Views
         Charts charts = null;
         private async void ContentPage_Appearing(object sender, EventArgs e)
         {
-            charts = await HelloWorldUrhoSurface.Show<Charts>(new Urho.ApplicationOptions(assetsFolder: null));
+            try
+            {
+                var ao = new Urho.ApplicationOptions(assetsFolder: null);
+                charts = await HelloWorldUrhoSurface.Show<Charts>(ao);
+            }
+            catch(Exception ex)
+            {
+                Debug.WriteLine(ex);
+            }
             try
             {
                 if (!Accelerometer.IsMonitoring)
@@ -105,12 +113,12 @@ namespace AideDeJeu.Views
 
         private void Accelerometer_ShakeDetected(object sender, EventArgs e)
         {
-            charts.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
+            charts?.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
         }
 
         private void Button_Clicked(object sender, EventArgs e)
         {
-            charts.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
+            charts?.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
         }
 
         private void ContentPage_Disappearing(object sender, EventArgs e)
