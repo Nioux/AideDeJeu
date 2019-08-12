@@ -29,7 +29,7 @@ namespace AideDeJeu.Views
 
         private void Vm_PropertyChanged(object sender, System.ComponentModel.PropertyChangedEventArgs e)
         {
-            CanvasDices.InvalidateSurface();
+            //CanvasDices.InvalidateSurface();
         }
 
         private void SKCanvasView_PaintSurface(object sender, SkiaSharp.Views.Forms.SKPaintSurfaceEventArgs args)
