@@ -26,6 +26,9 @@ namespace AideDeJeu.WPF
         {
             InitializeComponent();
 
+            //var assemblies = new List<System.Reflection.Assembly>();
+            ////assemblies.AddRange(Rg.Plugins.Popup.Popup.GetExtraAssemblies());
+            //assemblies.Add(typeof(Urho.Forms.WpfSurfaceRenderer).GetTypeInfo().Assembly);
             Forms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
 

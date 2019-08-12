@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Runtime.InteropServices.WindowsRuntime;
 using System.Text;
 using Windows.ApplicationModel;
@@ -60,7 +61,11 @@ namespace AideDeJeu.UWP
                 //Xamarin.Forms.SetFlags("Shell_Experimental");
                 Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
-                Xamarin.Forms.Forms.Init(e, Rg.Plugins.Popup.Popup.GetExtraAssemblies());
+                var assemblies = new List<System.Reflection.Assembly>();
+                assemblies.AddRange(Rg.Plugins.Popup.Popup.GetExtraAssemblies());
+                assemblies.Add(typeof(Urho.Forms.UwpSurfaceRenderer).GetTypeInfo().Assembly);
+                Xamarin.Forms.Forms.Init(e, assemblies);
+                //Xamarin.Forms.Forms.Init(e, Rg.Plugins.Popup.Popup.GetExtraAssemblies());
                 SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
                 Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
