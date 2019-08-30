@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             x:Class="AideDeJeu.Views.Library.ItemPage"
+             Title="{Binding Title}"
+             Icon="spell_book.png"
+             x:Name="This">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand}" CommandParameter="{Binding Item.Markdown}" />
+    </ContentPage.ToolbarItems>
+    <Grid>
+        <ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
+            <mdview:MarkdownView 
+                Theme="{StaticResource MonsterMarkdownTheme}" 
+                Markdown="{Binding Item.Markdown}" 
+                NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
+                />
+        </ScrollView>
+        <ActivityIndicator 
+            VerticalOptions="StartAndExpand"
+            HorizontalOptions="End"
+            Color="{StaticResource HDRed}"
+            IsRunning="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}" 
+            IsVisible="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}">
+            <ActivityIndicator.WidthRequest>
+                <OnPlatform x:TypeArguments="x:Double">
+                    <On Platform="UWP" Value="400" />
+                    <On Platform="iOS, Android" Value="50" />
+                </OnPlatform> 
+            </ActivityIndicator.WidthRequest>
+            <ActivityIndicator.HeightRequest>
+                <OnPlatform x:TypeArguments="x:Double">
+                    <On Platform="UWP" Value="10" />
+                    <On Platform="iOS, Android" Value="50" />
+                </OnPlatform>
+            </ActivityIndicator.HeightRequest>
+        </ActivityIndicator>
+    </Grid>
+</ContentPage>

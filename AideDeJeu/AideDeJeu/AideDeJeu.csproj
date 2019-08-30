@@ -111,6 +111,9 @@
       <DependentUpon>Resource.resx</DependentUpon>
     </Compile>
     <Compile Update="Views\AboutPage.xaml.cs" />
+    <Compile Update="Views\Library\ItemPage.xaml.cs">
+      <DependentUpon>ItemPage.xaml</DependentUpon>
+    </Compile>
     <Compile Update="Views\Pickers\ItemView.xaml.cs">
       <DependentUpon>ItemView.xaml</DependentUpon>
     </Compile>
