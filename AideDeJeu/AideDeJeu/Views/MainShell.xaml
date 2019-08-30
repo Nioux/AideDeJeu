@@ -1,16 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Shell xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:local="clr-namespace:AideDeJeu.Views"
-             x:Class="AideDeJeu.Views.MainShell">
-    <Shell.FlyoutHeader>
-        <ListView>
-            
-        </ListView>
-    </Shell.FlyoutHeader>
+       xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
+       xmlns:library="clr-namespace:AideDeJeu.Views.Library"
+       x:Class="AideDeJeu.Views.MainShell">
+    <FlyoutItem Title="Accueil">
+        <ShellContent>
+            <local:MainPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
+        <ShellContent>
+            <pc:PlayerCharacterEditorPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Dés" FlyoutIcon="d20.png">
+        <ShellContent>
+            <local:DicesPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Bibliothèque" FlyoutIcon="spell_book.png">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Héros &amp; Dragons" Shell.BackgroundColor="Blue">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Manuel des règles">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Cadre de campagne">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Créatures et oppositions">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Les Cinq Royaumes">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Livre des monstres">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Monstrueusement Mignons" Shell.BackgroundColor="Blue">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="Joan of Arc" Shell.BackgroundColor="Blue">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="SRD" Shell.BackgroundColor="Blue">
+        <ShellContent>
+            <library:ItemDetailPage/>
+        </ShellContent>
+    </FlyoutItem>
+    <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
+        <ShellContent>
+            <local:AboutPage/>
+        </ShellContent>
+    </FlyoutItem>
     <ShellItem>
         <ShellSection>
-            <ShellContent Title="Main" ContentTemplate="{DataTemplate local:MainPage}">
+            <ShellContent>
+                <local:MainPage/>
             </ShellContent>
         </ShellSection>
     </ShellItem>
