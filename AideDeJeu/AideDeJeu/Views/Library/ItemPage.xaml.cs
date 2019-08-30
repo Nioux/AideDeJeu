@@ -13,7 +13,8 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views.Library
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class ItemPage : ContentPage
+    [QueryProperty("Path", "path")]
+    public partial class ItemPage : ContentPage
 	{
         public MainViewModel Main
         {
@@ -28,19 +29,26 @@ namespace AideDeJeu.Views.Library
         public ItemPage()
         {
             InitializeComponent();
+        }
 
-            BindingContext = this.viewModel = new ItemDetailViewModel(new Item()
-            {
-                Name = "Bibliothèque",
-                Id = "index.md",
-                Markdown = AideDeJeu.Tools.Helpers.GetResourceString($"AideDeJeu.Data.index.md"),
-            }
-            ) { Title = "Bibliothèque" };
-
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
             LoadPageAsync();
         }
 
-        public string Path { get; set; } = "l5r_index_hd.md";
+        private string _Path { get; set; } = "index.md";
+        public string Path
+        {
+            get
+            {
+                return _Path;
+            }
+            set
+            {
+                _Path = value;
+            }
+        }
 
         private async Task LoadPageAsync()
         {

@@ -15,24 +15,47 @@
     <FlyoutItem Title="Dés" FlyoutIcon="d20.png">
         <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
     </FlyoutItem>
-    <FlyoutItem Title="Bibliothèque" FlyoutIcon="spell_book.png" FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Bibliothèque" Icon="spell_book.png" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-
-        <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-
-        <ShellContent Title="Manuel des règles" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-        <ShellContent Title="Cadre de campagne" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-        <ShellContent Title="Créatures et oppositions" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-        <ShellContent Title="Les Cinq Royaumes" ContentTemplate="{DataTemplate library:ItemPage}" />
-
-        <ShellContent Title="Livre des monstres" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-        <ShellContent Title="Monstrueusement Mignons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-        <ShellContent Title="Joan of Arc"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-        <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    <FlyoutItem Title="Bibliothèque" FlyoutIcon="spell_book.png" Route="data">
+        <ShellContent Title="Bibliothèque" Icon="spell_book.png" Route="item" ContentTemplate="{DataTemplate library:ItemPage}" />
     </FlyoutItem>
+    <!--<FlyoutItem Title="Héros &amp; Dragons">
+        <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Manuel des règles">
+        <ShellContent Title="Manuel des règles" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Cadre de campagne">
+        <ShellContent Title="Cadre de campagne" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Créatures et oppositions">
+        <ShellContent Title="Créatures et oppositions" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Les Cinq Royaumes" Route="data">
+        <ShellContent Title="Les Cinq Royaumes" Route="l5r_index_hd.md" ContentTemplate="{DataTemplate library:ItemPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Livre des monstres">
+        <ShellContent Title="Livre des monstres" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Monstrueusement Mignons">
+        <ShellContent Title="Monstrueusement Mignons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Joan of Arc">
+        <ShellContent Title="Joan of Arc"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="SRD">
+        <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>-->
+    <MenuItem Text="Les Cinq Royaumes"
+              Command="{Binding ShellNavigateCommand}"
+              CommandParameter="//data/item?path=l5r_index_hd.md"
+              />
     <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
         <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
     </FlyoutItem>
+    <MenuItem Text="Test"
+              Command="{Binding ShellNavigateCommand}"
+              CommandParameter="//data/item?path=l5r_index_hd.md"
+              />
     <!--<ShellItem>
         <ShellSection>
             <ShellContent>
