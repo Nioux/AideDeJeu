@@ -3,10 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:local="clr-namespace:AideDeJeu.Views"
              x:Class="AideDeJeu.Views.MainShell">
+    <Shell.FlyoutHeader>
+        <ListView>
+            
+        </ListView>
+    </Shell.FlyoutHeader>
     <ShellItem>
         <ShellSection>
-            <ShellContent>
-                <local:MainPage/>
+            <ShellContent Title="Main" ContentTemplate="{DataTemplate local:MainPage}">
             </ShellContent>
         </ShellSection>
     </ShellItem>
