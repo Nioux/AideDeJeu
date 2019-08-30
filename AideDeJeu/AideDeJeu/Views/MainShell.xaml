@@ -7,62 +7,38 @@
        x:Class="AideDeJeu.Views.MainShell">
 
     <FlyoutItem Title="Accueil">
-        <ShellContent Title="Accueil">
-            <local:MainPage/>
-        </ShellContent>
+        <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
     </FlyoutItem>
     <FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
-        <ShellContent Title="Personnages" >
-            <pc:PlayerCharacterEditorPage/>
-        </ShellContent>
+        <ShellContent Title="Personnages"  ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
     </FlyoutItem>
     <FlyoutItem Title="Dés" FlyoutIcon="d20.png">
-        <ShellContent Title="Dés" >
-            <local:DicesPage/>
-        </ShellContent>
+        <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
     </FlyoutItem>
     <FlyoutItem Title="Bibliothèque" FlyoutIcon="spell_book.png" FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent Title="Bibliothèque" Icon="spell_book.png" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
 
-        <ShellContent Title="Héros &amp; Dragons" >
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="Manuel des règles">
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="Cadre de campagne">
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="Créatures et oppositions">
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="Les Cinq Royaumes">
-            <library:ItemPage/>
-        </ShellContent>
-        <ShellContent Title="Livre des monstres">
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="Monstrueusement Mignons">
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="Joan of Arc" >
-            <library:ItemDetailPage/>
-        </ShellContent>
-        <ShellContent Title="SRD" >
-            <library:ItemDetailPage/>
-        </ShellContent>
+        <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+
+        <ShellContent Title="Manuel des règles" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="Cadre de campagne" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="Créatures et oppositions" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="Les Cinq Royaumes" ContentTemplate="{DataTemplate library:ItemPage}" />
+
+        <ShellContent Title="Livre des monstres" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="Monstrueusement Mignons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="Joan of Arc"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
     </FlyoutItem>
     <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
-        <ShellContent Title="A propos de..." >
-            <local:AboutPage/>
-        </ShellContent>
+        <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
     </FlyoutItem>
-    <ShellItem>
+    <!--<ShellItem>
         <ShellSection>
             <ShellContent>
                 <local:MainPage/>
             </ShellContent>
         </ShellSection>
-    </ShellItem>
+    </ShellItem>-->
     
 </Shell>
