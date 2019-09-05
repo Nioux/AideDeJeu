@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Créature artificielle de Petite taille (P), non-alignée
-- **Classe d’armure** 13 (armure naturelle)
+- **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)
 - **Vitesse** 6 m
 
@@ -21,15 +21,15 @@
 - **Langues** partage un lien télépathique avec celui qui a allumé sa mèche.
 - **Dangerosité** 1/4 (50 PX)
 
-**_Contrôlé_** . Une mèche vivante ne peut pas se déplacer, attaquer ou accomplir une action tant qu’elle n’est pas allumée. Elle obéit uniquement aux ordres télépathiques de l’individu qui l’a allumée.
+**_Contrôlé._** Une mèche vivante ne peut pas se déplacer, attaquer ou accomplir une action tant qu'elle n'est pas allumée. Elle obéit uniquement aux ordres télépathiques de l'individu qui l'a allumée.
 
-**_Lumière_** . Une mèche vivante allumée émet autant de lumière qu’une torche.
+**_Lumière._** Une mèche vivante allumée émet autant de lumière qu'une torche.
 
-**_Fondue_** . Tant qu’elle est allumée, la mèche vivante perd 1 point de vie toutes les 24 heures.
+**_Fondue._** Tant qu'elle est allumée, la mèche vivante perd 1 point de vie toutes les 24 heures.
 
 ## ACTIONS
 
-**_Coup._** Attaque d’arme au corps à corps: +2 pour toucher, allonge 1,50 m, une cible. Touché: 3 (1d6) dégâts contondants.
+**_Coup._** _Attaque d'arme au corps à corps :_ +2 pour toucher, allonge 1,50 m, une cible. Touché: 3 (1d6) dégâts contondants.
 
-**_Se consumer_** . La mèche vivante peut recevoir l’ordre de brûler rapidement la mèche qui lui reste, créant une boule de feu dévastatrice. Toutes les créatures dans un rayon de 6 m autour de la mèche vivante subissent 7(2d6) dégâts de feu, ou la moitié si elles réussissent un jet de sauvegarde de Dextérité DD 13. Le feu contourne les angles et embrase les objets inflammables présents dans la zone s’ils ne sont ni portés ni transportés. La mèche est alors réduite à une simple flaque de cire.
+**_Se consumer._** La mèche vivante peut recevoir l'ordre de brûler rapidement la mèche qui lui reste, créant une boule de feu dévastatrice. Toutes les créatures dans un rayon de 6 m autour de la mèche vivante subissent 7(2d6) dégâts de feu, ou la moitié si elles réussissent un jet de sauvegarde de Dextérité DD 13. Le feu contourne les angles et embrase les objets inflammables présents dans la zone s'ils ne sont ni portés ni transportés. La mèche est alors réduite à une simple flaque de cire.
 

@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique
-- **Classe d’armure** 15 (armure naturelle)
+- **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (13d12)
 - **Vitesse** 1,50 m, vol 12 m (vol stationnaire)
 
@@ -30,5 +30,5 @@
 
 **_Attaques multiples :_** La nuée porte une attaque de morsure contre toutes les créatures avec lesquelles elle partage un emplacement.
 
-**_Morsures._** Attaque d’arme au corps à corps: +6 pour toucher, allonge 0m, toutes les créatures dans l’emplacement de la nuée.
+**_Morsures._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 0m, toutes les créatures dans l'emplacement de la nuée.
 

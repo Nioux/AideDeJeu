@@ -5,8 +5,8 @@
 # Nuée De Danseflammes
 
 - Source: (LDM p326)
--  Nuée de taille Moyenne d’élémentaires de taille Très Petite (TP), neutre
-- **Classe d’armure** 15
+-  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
+- **Classe d'armure** 15
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9 m, vol 9 m (vol stationnaire)
 
@@ -20,15 +20,15 @@
 - **Sens** vision dans le noir 18 m, Perception passive 10
 - **Dangerosité** 7 (2 900PX)
 
-**_Corps de feu_** . Si une créature touche la nuée ou réussit une attaque de corps à corps contre elle alors qu’elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts de feu. De plus, la première fois qu’une nuée entre dans l’emplacement d’une créature lors d’un tour, cette créature subit 5 (1d10) dégâts de feu et s’enflamme. Tant que personne n’a utilisé une action pour éteindre le feu, la créature subit 5 (1d10) dégâts de feu au début de chacun de ses tours.
+**_Corps de feu._** Si une créature touche la nuée ou réussit une attaque de corps à corps contre elle alors qu'elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts de feu. De plus, la première fois qu'une nuée entre dans l'emplacement d'une créature lors d'un tour, cette créature subit 5 (1d10) dégâts de feu et s'enflamme. Tant que personne n'a utilisé une action pour éteindre le feu, la créature subit 5 (1d10) dégâts de feu au début de chacun de ses tours.
 
-**_Illumination_** . La nuée émet une vive lumière dans un rayon de 9mètres et une faible lumière dans un rayon de 9 mètres de plus.
+**_Illumination._** La nuée émet une vive lumière dans un rayon de 9mètres et une faible lumière dans un rayon de 9 mètres de plus.
 
-**_Nuée._** Une nuée peut occuper le même emplacement qu’une autre créature et inversement. La nuée peut traverser n’importe quelle ouverture assez grande pour laisser passer une créature de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
+**_Nuée._** Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer une créature de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
 
-**_Sensibilité à l’eau_** . À chaque fois que la nuée parcourt 1,50 mètre dans l’eau ou qu’on lui déverse 4 litres d’eau dessus, elle subit 1dégât de froid.
+**_Sensibilité à l'eau._** À chaque fois que la nuée parcourt 1,50 mètre dans l'eau ou qu'on lui déverse 4 litres d'eau dessus, elle subit 1dégât de froid.
 
 ## ACTIONS
 
-**_Nuée._** Attaque d’arme au corps à corps: +8 pour toucher, allonge 0m, une créature dans l’emplacement de la nuée. Touché:
+**_Nuée._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 0m, une créature dans l'emplacement de la nuée. Touché:
 

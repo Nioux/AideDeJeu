@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
-- **Classe d’armure** 14
+- **Classe d'armure** 14
 - **Points de vie** 110 (13d8+52)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)
 
@@ -15,13 +15,13 @@
 |6 (–2)|18 (+4)|18 (+4)|11 (+0)|16 (+3)|18 (+4)|
 
 - **Jets de sauvegarde** Dex +7, Sag +6
-- **Résistance aux dégâts** d’acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d’armes non magiques
+- **Résistance aux dégâts** d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les dégâts** de froid, nécrotiques, de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
 - **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
-  Certains gardiens spectraux n’étaient pas des guerriers de leur vivant, mais de puissants mages. Le gardien arcanique possède un indice de dangerosité de 8 (3 900 PX) et le trait supplémentaire suivant :
+  Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de puissants mages. Le gardien arcanique possède un indice de dangerosité de 8 (3 900 PX) et le trait supplémentaire suivant :
 
-**_Incantation._** Le gardien arcanique est un lanceur de sorts de niveau 9. Il utilise le Charisme comme caractéristique d’incantation (DD du jet de sauvegarde contre les sorts15, +7 pour toucher avec les attaques de sort). Il connaît les sorts d’ensorceleur suivants, qui n’ont pas besoin de composantes matérielles :
+**_Incantation._** Le gardien arcanique est un lanceur de sorts de niveau 9. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts15, +7 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants, qui n'ont pas besoin de composantes matérielles :
 
 **Tours de magie (à volonté)** : aspersion acide, contact glacial, lumières dansantes, illusion mineure, rayon de givre
 
@@ -35,18 +35,18 @@
 
 **Niveau 5 (1 emplacement)** : cône de froid
 
-- **Langues** comprend les langues qu’il parlait de son vivant mais ne peut pas parler
+- **Langues** comprend les langues qu'il parlait de son vivant mais ne peut pas parler
 - **Dangerosité** 6 (2 300PX)
 
-**_Déplacement intangible._** Le gardien spectral peut se déplacer au travers des autres créatures et des objets, comme s’il s’agissait d’un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour au sein d’un objet.
+**_Déplacement intangible._** Le gardien spectral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.
 
-**_Lié au tombeau_** . Le gardien spectral est lié à la zone qu’il protège. Il ne peut pas s’éloigner à plus de 30 mètres de l’endroit qu’il doit garder.
+**_Lié au tombeau._** Le gardien spectral est lié à la zone qu'il protège. Il ne peut pas s'éloigner à plus de 30 mètres de l'endroit qu'il doit garder.
 
-**_Miasmes flétrissants_** . Une créature qui commence son tour dans l’emplacement du gardien spectral doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle subit 18(4d8)dégâts nécrotiques et voit son maximum de points de vie se réduire du même montant. Cette réduction persiste jusqu’à ce que la créature termine un long repos.
+**_Miasmes flétrissants._** Une créature qui commence son tour dans l'emplacement du gardien spectral doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle subit 18(4d8)dégâts nécrotiques et voit son maximum de points de vie se réduire du même montant. Cette réduction persiste jusqu'à ce que la créature termine un long repos.
 
 ## ACTIONS
 
 **_Attaques multiples._** Le gardien spectral fait deux attaques de déchirement spectral.
 
-**_Déchirement spectral_** . Attaque d’arme au corps à corps: +7 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 14, sans quoi elle est terrorisée et voit sa vitesse réduite à 0. Ces deux effets persistent jusqu’à la fin de son prochain tour.
+**_Déchirement spectral._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 14, sans quoi elle est terrorisée et voit sa vitesse réduite à 0. Ces deux effets persistent jusqu'à la fin de son prochain tour.
 

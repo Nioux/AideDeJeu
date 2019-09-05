@@ -4,9 +4,9 @@
 
 # Vif Ravageur Gnoll
 
-- Source: (LDM p)
+- Source: (LDM p405)
 -  Humanoïde (gnoll) de taille Moyenne (M), chaotique mauvais
-- **Classe d’armure** 15 (chemise de mailles)
+- **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9m
 
@@ -18,17 +18,17 @@
 - **Sens** vision dans le noir 18 m, Perception passive 15
 - **Dangerosité** 3 (700 PX)
 
-**_Harcèlement_** . Si le gnoll attaque deux créatures lors d’un même tour, la première est désavantagée sur ses jets d’attaque jusqu’à la fin de son prochain tour.
+**_Harcèlement._** Si le gnoll attaque deux créatures lors d'un même tour, la première est désavantagée sur ses jets d'attaque jusqu'à la fin de son prochain tour.
 
-**_Course éclair_** . Le gnoll peut se précipiter ou se désengager par une action bonus.
+**_Course éclair._** Le gnoll peut se précipiter ou se désengager par une action bonus.
 
-**_Tactique de meute_** . Le gnoll est avantagé sur les jets d’attaque contre une créature si au moins l’un de ses alliés non neutralisé se trouve dans un rayon de 1,50 mètre autour d’elle.
+**_Tactique de meute._** Le gnoll est avantagé sur les jets d'attaque contre une créature si au moins l'un de ses alliés non neutralisé se trouve dans un rayon de 1,50 mètre autour d'elle.
 
 ## ACTIONS
 
-**_Attaques multiples._** Le gnoll fait une attaque de morsure et deux de hache d’armes.
+**_Attaques multiples._** Le gnoll fait une attaque de morsure et deux de hache d'armes.
 
-**_Hache d’armes_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si utilisée à deux mains.
+**_Hache d'armes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si utilisée à deux mains.
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 

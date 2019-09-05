@@ -6,7 +6,7 @@
 
 - Source: (LDM p378)
 -  Plante de Très Grande taille (TG), neutre
-- **Classe d’armure** 17 (armure naturelle)
+- **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
 - **Vitesse** 9m
 
@@ -20,18 +20,17 @@
 - **Langues** commun, druidique, elfique, sylvestre
 - **Dangerosité** 6 (2 300PX)
 
-**_Monstre assiégeur_** . Le sylvanien inflige des dégâts doublés aux objets et structures.
+**_Monstre assiégeur._** Le sylvanien inflige des dégâts doublés aux objets et structures.
 
-**_Langue des arbres_** . Un sylvanien pleureur peut discuter avec les plantes et la plupart d’entre elles se montrent amicales ou serviables envers lui.
+**_Langue des arbres._** Un sylvanien pleureur peut discuter avec les plantes et la plupart d'entre elles se montrent amicales ou serviables envers lui.
 
-**_Larmes acides_** . D’épaisses larmes de sève sombre coulent sans cesse sur le visage et le tronc du sylvanien. Elles sont très acides: toute personne qui attaque le sylvanien en se tenant à 1,50mètre
-ou moins de lui doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle subit 6 (1d2) dégâts d’acide à cause des éclaboussures de larmes. La sève acide continue d’infliger 6(1d12) dégâts d’acide au début de chaque tour de la créature jusqu’à ce qu’elle-même ou un allié adjacent utilise une action pour essuyer les larmes ou que trois rounds se soient écoulés.
+**_Larmes acides._** D'épaisses larmes de sève sombre coulent sans cesse sur le visage et le tronc du sylvanien. Elles sont très acides: toute personne qui attaque le sylvanien en se tenant à 1,50 mètre ou moins de lui doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle subit 6 (1d2) dégâts d'acide à cause des éclaboussures de larmes. La sève acide continue d'infliger 6(1d12) dégâts d'acide au début de chaque tour de la créature jusqu'à ce qu'elle-même ou un allié adjacent utilise une action pour essuyer les larmes ou que trois rounds se soient écoulés.
 
 ## ACTIONS
 
 **_Attaques multiples._** Le Sylvanien porte trois attaques de coup.
 
-**_Coup._** Attaque d’arme au corps à corps: +8 pour toucher, allonge 1,50 m, une unique cible. Touché: 15 (3d6+5) dégâts contondants.
+**_Coup._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une unique cible. Touché: 15 (3d6+5) dégâts contondants.
 
-**_Rocher_** . Attaque d’arme à distance: +8 pour toucher, portée 18/54m, une cible. Touché: 11 (3d10+5) dégâts contondants.
+**_Rocher._** Attaque d'arme à distance: +8 pour toucher, portée 18/54m, une cible. Touché: 11 (3d10+5) dégâts contondants.
 

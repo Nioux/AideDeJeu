@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Fiélon de Grande taille (G), chaotique mauvais
-- **Classe d’armure** 17 (armure naturelle)
+- **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)
 - **Vitesse** 9 m, escalade 9 m, vol 15 m
 
@@ -23,29 +23,29 @@
 - **Langues** commun, infernal, langue du Vide
 - **Dangerosité** 15 (13 000 PX)
 
-**_Déplacement interdimensionnel_** . Une larve stellaire de Cthulhu peut utiliser pas brumeux par une action bonus une fois par round.
+**_Déplacement interdimensionnel._** Une larve stellaire de Cthulhu peut utiliser pas brumeux par une action bonus une fois par round.
 
-**_Rempart psychique_** . Quand une attaque infligeant des dégâts psychiques est dirigée contre la larve, elle rebondit en direction de l’assaillant. Gérez l’attaque comme si ce dernier était la cible originelle et utilisez les modificateurs de caractéristique et les maîtrises supplémentaires de la larve au lieu de celles de l’assaillant.
+**_Rempart psychique._** Quand une attaque infligeant des dégâts psychiques est dirigée contre la larve, elle rebondit en direction de l'assaillant. Gérez l'attaque comme si ce dernier était la cible originelle et utilisez les modificateurs de caractéristique et les maîtrises supplémentaires de la larve au lieu de celles de l'assaillant.
 
-**_Voyageur du vide_** . La larve stellaire de Cthulhu n’a pas besoin d’air, de chaleur, de pression ambiante, de nourriture, ni d’eau, ce qui lui permet de voyager en toute sécurité dans l’espace interstellaire et tout vide similaire.
+**_Voyageur du vide._** La larve stellaire de Cthulhu n'a pas besoin d'air, de chaleur, de pression ambiante, de nourriture, ni d'eau, ce qui lui permet de voyager en toute sécurité dans l'espace interstellaire et tout vide similaire.
 
 ## ACTIONS
 
 **_Attaques multiples._** La larve stellaire utilise regard désintégrateur si possible et fait aussi une attaque de griffes et une de pas dimensionnel.
 
-**_Griffes broyeuses_** . Attaque d’arme au corps à corps: +12 pour toucher, allonge 3 m, une cible. Touché: 20 (2d12+7) dégâts contondants plus 13 (3d8) dégâts nécrotiques.
+**_Griffes broyeuses._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 3 m, une cible. Touché: 20 (2d12+7) dégâts contondants plus 13 (3d8) dégâts nécrotiques.
 
-**_Regard désintégrateur (recharge 5-6)_** . Attaque de sort à distance:
+**_Regard désintégrateur (recharge 5-6)._** Attaque de sort à distance:
 +15 pour toucher, portée 18 m, une cible dans le champ de vision.
 
-**_Pas dimensionnel_** . Attaque d’arme au corps à corps: +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec
-de créature (le croassement du corbeau, le rugissement de l’ours) et non la voix d’un individu spécifique.
+**_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec
+de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
 
 ## ACTIONS
 
 **_Attaques multiples._** Le léchy fait deux attaques de gourdin.
 
-**_Changement de taille_** . Le léchy semble changer de taille et devenir aussi grand qu’un chêne (Gigantesque) ou aussi petit qu’un brin d’herbe (Minuscule). Ce n’est qu’une illusion, ses statistiques ne changent donc pas.
+**_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
 
-**_Gourdin_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
+**_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
 

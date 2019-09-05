@@ -6,7 +6,7 @@
 
 - Source: (LDM p334)
 -  Céleste de Petite taille (P), neutre bon
-- **Classe d’armure** 16 (armure naturelle)
+- **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 99 (18d6+36)
 - **Vitesse** 6 m, vol 30 m
 
@@ -23,23 +23,23 @@
 - **Langues** céleste, commun, elfique, primordial, sylvestre
 - **Dangerosité** 4 (1 100PX)
 
-**_Incantation innée._** La caractéristique d’incantation innée d’un oiseau de feu est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
+**_Incantation innée._** La caractéristique d'incantation innée d'un oiseau de feu est le Charisme (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
-**À volonté:** assistance, purification de la nourriture et de l’eau, communication avec les animaux
+**À volonté:** assistance, purification de la nourriture et de l'eau, communication avec les animaux
 
 **3/jour chacun:** charme-personne, soin des blessures (2d8+5),
 
 **1/jour chacun:** coercition mystique, guérison, réincarnation
 
-**_Lumière du monde._** Les plumes d’un oiseau de feu produisent une lumière chaude. La créature est capable de projeter une lumière aussi faible qu’une chandelle ou aussi vive qu’une lanterne. L’oiseau de feu produit constamment de la lumière et si on lui arrache une plume, celle-ci continue de projeter une lumière équivalente à une torche.
+**_Lumière du monde._** Les plumes d'un oiseau de feu produisent une lumière chaude. La créature est capable de projeter une lumière aussi faible qu'une chandelle ou aussi vive qu'une lanterne. L'oiseau de feu produit constamment de la lumière et si on lui arrache une plume, celle-ci continue de projeter une lumière équivalente à une torche.
 
-**_Présence chaleureuse._** Un oiseau de feu et toutes les créatures qui se trouvent dans un rayon de 1,50 m sont immunisés contre les effets du froid naturel dans leur environnement. S’il est invité dans un bâtiment, l’oiseau de feu peut étendre cette présence chaleureuse à tous les habitants du lieu, peu importe leur proximité avec lui.
+**_Présence chaleureuse._** Un oiseau de feu et toutes les créatures qui se trouvent dans un rayon de 1,50 m sont immunisés contre les effets du froid naturel dans leur environnement. S'il est invité dans un bâtiment, l'oiseau de feu peut étendre cette présence chaleureuse à tous les habitants du lieu, peu importe leur proximité avec lui.
 
 ## ACTIONS
 
-**_Attaques multiples._** L’oiseau de feu fait une attaque de morsure et deux de griffes.
+**_Attaques multiples._** L'oiseau de feu fait une attaque de morsure et deux de griffes.
 
-**_Morsure._** Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d8+4) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d8+4) dégâts perforants.
 
-**_Griffes_** . Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d8+4) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d8+4) dégâts tranchants.
 

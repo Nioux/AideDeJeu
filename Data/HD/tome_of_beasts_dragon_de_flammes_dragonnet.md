@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Dragon de taille Moyenne (M), chaotique mauvais
-- **Classe d’armure** 17 (armure naturelle)
+- **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m
 
@@ -23,7 +23,7 @@
 
 ## ACTIONS
 
-**_Morsure._** Attaque d’arme au corps à corps: +3 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d10+1) dégâts perforants plus 3 (1d6) dégâts de feu.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d10+1) dégâts perforants plus 3 (1d6) dégâts de feu.
 
-**_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 3mètres. Chaque créature qui se trouve dans la zone d’effet subit 24 (7d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 12.
+**_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 3mètres. Chaque créature qui se trouve dans la zone d'effet subit 24 (7d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 12.
 

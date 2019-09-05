@@ -6,7 +6,7 @@
 
 - Source: (LDM p346)
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
-- **Classe d’armure** 13 (armure de cuir)
+- **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9m
 
@@ -22,7 +22,7 @@
 
 ## ACTIONS
 
-**_Cimeterre._** Attaque d’arme au corps à corps: +4 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d6+2) dégâts tranchants.
+**_Cimeterre._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d6+2) dégâts tranchants.
 
-**_Arc court_** . Attaque d’arme à distance: +4 pour toucher, portée 24/96 m, une cible. Touché: 5 (1d6+2) dégâts perforants.
+**_Arc court._** Attaque d'arme à distance: +4 pour toucher, portée 24/96 m, une cible. Touché: 5 (1d6+2) dégâts perforants.
 

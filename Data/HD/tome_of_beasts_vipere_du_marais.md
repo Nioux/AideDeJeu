@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Bête de Petite taille (P), non-alignée
-- **Classe d’armure** 13
+- **Classe d'armure** 13
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 9m
 
@@ -18,9 +18,9 @@
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
 
-**_Camouflage du marais_** . La vipère du marais est avantagée sur les tests de Dextérité (Discrétion) quand elle est en terrain marécageux.
+**_Camouflage du marais._** La vipère du marais est avantagée sur les tests de Dextérité (Discrétion) quand elle est en terrain marécageux.
 
 ## ACTIONS
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 1 dégât perforant, et la cible doit réussir un jet de sauvegarde DD 11, sans quoi elle est empoisonnée. Tant qu’elle est empoisonnée, la cible est paralysée et subit 3 (1d6) dégâts de poison au début de chacun de ses tours. La cible refait le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l’effet.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 1 dégât perforant, et la cible doit réussir un jet de sauvegarde DD 11, sans quoi elle est empoisonnée. Tant qu'elle est empoisonnée, la cible est paralysée et subit 3 (1d6) dégâts de poison au début de chacun de ses tours. La cible refait le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 

@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique
-- **Classe d’armure** 13
+- **Classe d'armure** 13
 - **Points de vie** 54 (12d8)
 - **Vitesse** 9 m, vol 15 m
 
@@ -21,13 +21,13 @@
 - **Langues** commun, sylvestre
 - **Dangerosité** 3 (700 PX)
 
-**_Nuée._** Une nuée peut occuper le même emplacement qu’une autre créature et inversement. La nuée peut traverser n’importe quelle ouverture assez grande pour laisser passer une fée de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
+**_Nuée._** Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer une fée de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
 
-**_Obscure discrétion_** . Quand la nuée se trouve dans les ténèbres ou sous une faible lumière, elle peut accomplir l’action se cacher par une action bonus.
+**_Obscure discrétion._** Quand la nuée se trouve dans les ténèbres ou sous une faible lumière, elle peut accomplir l'action se cacher par une action bonus.
 
-**_Faiblesse face à la lumière du soleil_** . Sous la lumière du soleil, la nuée est désavantagée sur les jets d’attaque, les tests de caractéristiques et les jets de sauvegarde.
+**_Faiblesse face à la lumière du soleil._** Sous la lumière du soleil, la nuée est désavantagée sur les jets d'attaque, les tests de caractéristiques et les jets de sauvegarde.
 
 ## ACTIONS
 
-**_Contact glacial_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 0 m, une créature dans l’emplacement de la nuée. Touché:
+**_Contact glacial._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché:
 

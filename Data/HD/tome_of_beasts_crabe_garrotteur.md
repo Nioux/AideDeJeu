@@ -6,7 +6,7 @@
 
 - Source: (LDM p70)
 -  Bête de Très Petite taille (TP), non-alignée
-- **Classe d’armure** 13 (armure naturelle)
+- **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 18 (4d4+8)
 - **Vitesse** 9 m, nage 6 m
 
@@ -20,9 +20,9 @@
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
 
-**_Amphibie._** Le crabe respire à l’air libre et sous l’eau.
+**_Amphibie._** Le crabe respire à l'air libre et sous l'eau.
 
 ## ACTIONS
 
-**_Pince-fouet_** . Attaque d’arme au corps à corps: +4 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d6+2) dégâts tranchants et la cible est empoignée (évasion DD 8). Tant que la cible est empoignée, elle ne peut ni parler ni lancer de sort à composante verbale.
+**_Pince-fouet._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d6+2) dégâts tranchants et la cible est empoignée (évasion DD 8). Tant que la cible est empoignée, elle ne peut ni parler ni lancer de sort à composante verbale.
 

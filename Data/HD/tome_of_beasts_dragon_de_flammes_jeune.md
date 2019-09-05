@@ -6,7 +6,7 @@
 
 - Source: (LDM p128)
 -  Dragon de Grande taille (G), chaotique mauvais
-- **Classe d’armure** 18 (armure naturelle)
+- **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (17d10+68)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
 
@@ -21,15 +21,15 @@
 - **Langues** commun, draconique, igné, géant, infernal, orc
 - **Dangerosité** 9 (5 000PX)
 
-**_Incarnation du feu._** Les dégâts de feu infligés par ce dragon passent outre la résistance au feu, mais pas l’immunité contre le feu.
+**_Incarnation du feu._** Les dégâts de feu infligés par ce dragon passent outre la résistance au feu, mais pas l'immunité contre le feu.
 
 ## ACTIONS
 
 **_Attaques multiples._** Le dragon fait une attaque de morsure et deux de griffes.
 
-**_Morsure._** Attaque d’arme au corps à corps: +6 pour toucher, allonge 3 m, une cible. Touché: 13 (2d10+2) dégâts perforants plus 3 (1d6) dégâts de feu.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 3 m, une cible. Touché: 13 (2d10+2) dégâts perforants plus 3 (1d6) dégâts de feu.
 
-**_Griffes_** . Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 9 (2d6+2) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 9 (2d6+2) dégâts tranchants.
 
-**_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 9 mètres. Chaque créature qui se trouve dans la zone d’effet subit 56 (16d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 16.
+**_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 9 mètres. Chaque créature qui se trouve dans la zone d'effet subit 56 (16d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 16.
 

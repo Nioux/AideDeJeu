@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Grande nuée de créatures artificielles de Très Petite taille (TP), neutre
-- **Classe d’armure** 14 (armure naturelle)
+- **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (8d10+8)
 - **Vitesse** 9 m, vol 15 m
 
@@ -17,9 +17,9 @@
 - **Résistance aux dégâts** contondants, perforants et tranchants
 - **Immunité contre les dégâts** de feu, de poison et psychiques
 
-**_Nuée._** Une nuée peut occuper le même emplacement qu’une autre créature et inversement. La nuée peut traverser n’importe quelle ouverture assez grande pour laisser passer une créature artificielle de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
+**_Nuée._** Une nuée peut occuper le même emplacement qu'une autre créature et inversement. La nuée peut traverser n'importe quelle ouverture assez grande pour laisser passer une créature artificielle de Très Petite taille. La nuée ne peut pas récupérer de points de vie ni gagner de points de vie temporaires.
 
 ## ACTIONS
 
-**_Morsures._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 0 m, jusqu’à 4créatures dans l’emplacement de la nuée.
+**_Morsures._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 0 m, jusqu'à 4créatures dans l'emplacement de la nuée.
 

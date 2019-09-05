@@ -735,7 +735,8 @@ namespace AideDeJeu.ViewModels
                 modelBuilder.Entity<ClassFeatureItem>();
                 modelBuilder.Entity<ClassHitPointsItem>();
                 modelBuilder.Entity<ClassProficienciesItem>();
-                
+                modelBuilder.Entity<SkillItem>();
+
                 modelBuilder.Entity<Items>();
                 modelBuilder.Entity<Item>();
 

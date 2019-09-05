@@ -6,7 +6,7 @@
 
 - Source: (LDM p28)
 -  Créature artificielle de Petite taille (P), non-alignée
-- **Classe d’armure** 13 (armure naturelle)
+- **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 54 (12d6+12)
 - **Vitesse** 9 m, escalade 6 m
 
@@ -21,17 +21,17 @@
 - **Langues** comprend le commun mais ne peut pas parler
 - **Dangerosité** 2 (450PX)
 
-**_Forme immuable_** . L’araignée voleuse est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
+**_Forme immuable._** L'araignée voleuse est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
 
-**_Résistance à la magie._** L’araignée voleuse est avantagée lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
+**_Résistance à la magie._** L'araignée voleuse est avantagée lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
-**_Saut assisté_** . Si son attaque de ligne barbelée est disponible, l’araignée peut utiliser son déplacement pour faire un bond de 6 mètres dans la direction de son choix, en lançant le fil comme une toile d’araignée. Le fil se plante dans un objet et l’araignée le réenroule de suite. Elle peut transporter jusqu’à 12,5 kilos supplémentaires quand elle se déplace ainsi. Ce genre de déplacement n’est pas considéré comme une dépense d’attaque de ligne barbelée.
+**_Saut assisté._** Si son attaque de ligne barbelée est disponible, l'araignée peut utiliser son déplacement pour faire un bond de 6 mètres dans la direction de son choix, en lançant le fil comme une toile d'araignée. Le fil se plante dans un objet et l'araignée le réenroule de suite. Elle peut transporter jusqu'à 12,5 kilos supplémentaires quand elle se déplace ainsi. Ce genre de déplacement n'est pas considéré comme une dépense d'attaque de ligne barbelée.
 
 ## ACTIONS
 
-**_Attaques multiples._** L’araignée voleuse fait deux attaques de griffe-faucille.
+**_Attaques multiples._** L'araignée voleuse fait deux attaques de griffe-faucille.
 
-**_Griffe-faucille_** . Attaque d’arme au corps à corps: +3 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d8+1)dégâts tranchants.
+**_Griffe-faucille._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d8+1)dégâts tranchants.
 
-**_Ligne barbelée (recharge 5-6)_** . Attaque d’arme au corps à corps:
+**_Ligne barbelée (recharge 5-6)._** _Attaque d'arme au corps à corps :_
 

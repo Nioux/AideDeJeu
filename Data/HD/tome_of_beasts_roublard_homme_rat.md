@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
-- **Classe d’armure** 15 (armure de cuir clouté)
+- **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 7,50 m, nage 3 m
 
@@ -19,19 +19,19 @@
 - **Langues** commun, argot des voleurs
 - **Dangerosité** 1 (200 PX)
 
-**_Action rusée_** . Un homme-rat peut utiliser une action bonus pour se précipiter, se désengager ou se cacher.
+**_Action rusée._** Un homme-rat peut utiliser une action bonus pour se précipiter, se désengager ou se cacher.
 
-**_Agilité_** . Le roublard homme-rat peut traverser l’emplacement qu’occupe une créature de taille Moyenne ou supérieure.
+**_Agilité._** Le roublard homme-rat peut traverser l'emplacement qu'occupe une créature de taille Moyenne ou supérieure.
 
-**_Tactique de meute_** . Le roublard homme-rat est avantagé sur les jets d’attaque contre une créature si au moins l’un de ses alliés se trouve dans un rayon de 1,50 mètre autour d’elle et est en mesure d’attaquer.
+**_Tactique de meute._** Le roublard homme-rat est avantagé sur les jets d'attaque contre une créature si au moins l'un de ses alliés se trouve dans un rayon de 1,50 mètre autour d'elle et est en mesure d'attaquer.
 
-**_Attaque sournoise (1/tour)._** Le roublard homme-rat inflige 3(1d6) dégâts supplémentaires à sa cible s’il la touche avec une attaque d’arme et qu’il est avantagé lors de son jet d’attaque, ou si elle se trouve dans un rayon de 1,50 mètre autour d’un allié non neutralisé du roublard et que ce dernier n’est pas désavantagé lors de son jet d’attaque.
+**_Attaque sournoise (1/tour)._** Le roublard homme-rat inflige 3(1d6) dégâts supplémentaires à sa cible s'il la touche avec une attaque d'arme et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve dans un rayon de 1,50 mètre autour d'un allié non neutralisé du roublard et que ce dernier n'est pas désavantagé lors de son jet d'attaque.
 
 ## ACTIONS
 
-**_Dague_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d4+3) dégâts perforants.
+**_Dague._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d4+3) dégâts perforants.
 
-**_Arbalète légère_** . Attaque d’arme à distance: +5 pour toucher, portée 24/96 m, une cible. Touché: 7 (1d8+3) dégâts perforants.
+**_Arbalète légère._** Attaque d'arme à distance: +5 pour toucher, portée 24/96 m, une cible. Touché: 7 (1d8+3) dégâts perforants.
 
-**_Déluge de coups de dague_** . Attaque d’arme à distance: +5 pour toucher, portée 6/18m, trois cibles. Touché: 5 (1d4+3) dégâts perforants.
+**_Déluge de coups de dague._** Attaque d'arme à distance: +5 pour toucher, portée 6/18m, trois cibles. Touché: 5 (1d4+3) dégâts perforants.
 

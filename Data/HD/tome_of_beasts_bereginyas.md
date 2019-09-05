@@ -6,7 +6,7 @@
 
 - Source: (LDM p40)
 -  Fée de Très Petite taille (TP), neutre mauvaise
-- **Classe d’armure** 15
+- **Classe d'armure** 15
 - **Points de vie** 70 (20d4+20)
 - **Vitesse** 6m, vol 18m
 
@@ -23,9 +23,9 @@
 
 ## ACTIONS
 
-**_Attaques multiples._** Une béreginyas porte deux attaques de griffe. Si les deux attaques touchent la même cible, celle-ci se trouve empoignée (évasion DD12) et la béreginyas utilise immédiatement son attaque étouffer à l’aide d’une action bonus.
+**_Attaques multiples._** Une béreginyas porte deux attaques de griffe. Si les deux attaques touchent la même cible, celle-ci se trouve empoignée (évasion DD12) et la béreginyas utilise immédiatement son attaque étouffer à l'aide d'une action bonus.
 
-**_Griffe._** Attaque d’arme au corps à corps: +7 pour toucher, allonge 1,50m, une cible. Touché: 9 (1d8+5) dégâts tranchants.
+**_Griffe._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché: 9 (1d8+5) dégâts tranchants.
 
-**_Étouffer._** Si une béreginyas empoigne un adversaire, elle utilise une action bonus pour insérer une vrille mi-solide mi-gazeuse dans la gorge de sa victime. Cette dernière doit réussir un jet de sauvegarde de Force DD14 ou se trouver immédiatement à bout de souffle et commencer à suffoquer. La suffocation prend fin si elle se libère de l’étreinte ou si la béreginyas est tuée.
+**_Étouffer._** Si une béreginyas empoigne un adversaire, elle utilise une action bonus pour insérer une vrille mi-solide mi-gazeuse dans la gorge de sa victime. Cette dernière doit réussir un jet de sauvegarde de Force DD14 ou se trouver immédiatement à bout de souffle et commencer à suffoquer. La suffocation prend fin si elle se libère de l'étreinte ou si la béreginyas est tuée.
 

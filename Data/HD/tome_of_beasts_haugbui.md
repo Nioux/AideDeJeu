@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Mort-vivant de taille Moyenne (M), loyal neutre
-- **Classe d’armure** 18 (armure naturelle)
+- **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
 - **Vitesse** 0 m, vol 12m (vol stationnaire)
 
@@ -17,21 +17,21 @@
 - **Jets de sauvegarde** Dex+8, Con +9, Sag +10
 - **Compétences** Arcanes +7, Histoire +7, Intimidation +8, Perception +10, Religion +12
 - **Résistance aux dégâts** de froid, de foudre, nécrotiques
-- **Immunité contre les dégâts** de poison; contondants, perforants et tranchants issus d’armes non magiques
+- **Immunité contre les dégâts** de poison; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, empoisonné
 - **Sens** vision parfaite 18m, Perception passive 20
-- **Langues** celles qu’il parlait de son vivant ; télépathie à 36 m
+- **Langues** celles qu'il parlait de son vivant ; télépathie à 36 m
 - **Dangerosité** 13 (10 000 PX)
 
-**_Déplacement intangible._** Un haugbui peut se déplacer au travers des autres créatures et des objets comme s’il s’agissait d’un terrain difficile. Il subit 5 (1d10) dégâts de force s’il termine son tour au sein d’un objet.
+**_Déplacement intangible._** Un haugbui peut se déplacer au travers des autres créatures et des objets comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.
 
-**_Incantation innée._** L’haugbui utilise la Sagesse comme caractéristique d’incantation innée (DD du jet de sauvegarde contre les sorts 18). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
+**_Incantation innée._** L'haugbui utilise la Sagesse comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 18). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **Constant :** détection des pensées, invisibilité, main du mage, scrutation
 
 **À volonté:** lumières dansantes, druidisme, réparation, épargner les mourants
 
-**7/jour chacun** : fléau, création ou destruction d’eau, nappe de brouillard, purification de la nourriture et de l’eau
+**7/jour chacun** : fléau, création ou destruction d'eau, nappe de brouillard, purification de la nourriture et de l'eau
 
 **5/jour chacun** : cécité/surdité, bourrasque, localiser un objet, rayon de lune, briser
 
@@ -41,17 +41,17 @@
 
 **1/semaine chacun** : coercition mystique, sanctification
 
-**_Résistance légendaire (3/jour)._** Si l’haugbui rate un jet de sauvegarde, il peut choisir à la place de le réussir.
+**_Résistance légendaire (3/jour)._** Si l'haugbui rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
-**_Scrutation sépulcrale (1/jour)_** . Un œil magique invisible se crée, sous le contrôle de l’haugbui, ce qui lui permet de surveiller son territoire sans quitter son tumulus. L’œil se déplace à la vitesse de la pensée et peut s’éloigner jusqu’à 7,5 kilomètres de l’haugbui. Ce dernier voit, entend et peut utiliser ses capacités d’incantation innées comme s’il se trouvait à la place de l’œil. Celui-ci se repère avec un test de Sagesse (Perception) DD 18 et se dissipe comme un sort de niveau 3. Les sorts bloquant les sorts de scrutation fonctionnent aussi contre la scrutation sépulcrale. Tant que l’œil n’est pas dissipé ou révoqué par son créateur, il dure jusqu’à 12 heures. L’haugbui ne peut en créer qu’un par période de 24 heures.
+**_Scrutation sépulcrale (1/jour)._** Un œil magique invisible se crée, sous le contrôle de l'haugbui, ce qui lui permet de surveiller son territoire sans quitter son tumulus. L'œil se déplace à la vitesse de la pensée et peut s'éloigner jusqu'à 7,5 kilomètres de l'haugbui. Ce dernier voit, entend et peut utiliser ses capacités d'incantation innées comme s'il se trouvait à la place de l'œil. Celui-ci se repère avec un test de Sagesse (Perception) DD 18 et se dissipe comme un sort de niveau 3. Les sorts bloquant les sorts de scrutation fonctionnent aussi contre la scrutation sépulcrale. Tant que l'œil n'est pas dissipé ou révoqué par son créateur, il dure jusqu'à 12 heures. L'haugbui ne peut en créer qu'un par période de 24 heures.
 
-**_Sensibilité à la lumière du soleil._** Un haugbui est désavantagé lors de ses jets d’attaque et de Sagesse (Perception) basés sur la vue s’il est exposé à la lumière du soleil.
+**_Sensibilité à la lumière du soleil._** Un haugbui est désavantagé lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé à la lumière du soleil.
 
-**_Résistance contre le renvoi_** . L’haugbui est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
+**_Résistance contre le renvoi._** L'haugbui est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
 
 ## ACTIONS
 
-**_Attaques multiples._** L’haugbui fait deux attaques de griffes psychiques.
+**_Attaques multiples._** L'haugbui fait deux attaques de griffes psychiques.
 
-**_Griffes psychiques_** . Attaque magique à distance: +10 pour toucher, portée 12 m, une cible. Touché: 32 (6d8+5) dégâts psychiques.
+**_Griffes psychiques._** Attaque magique à distance: +10 pour toucher, portée 12 m, une cible. Touché: 32 (6d8+5) dégâts psychiques.
 

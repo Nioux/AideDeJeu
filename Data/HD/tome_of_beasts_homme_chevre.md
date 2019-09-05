@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
-- **Classe d’armure** 14 (armure naturelle)
+- **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
 - **Vitesse** 12m
 
@@ -22,13 +22,13 @@
 - **Langues** commun, géant, trollien, incapable de parler
 - **Dangerosité** 3 (700 PX)
 
-**_Coup de tête_** . Si l’homme-chèvre se déplace d’au moins 3mètres en ligne droite en direction d’une créature et la touche avec une attaque de coup au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre et étourdie pendant 1 round. Si la cible est à terre, l’homme-chèvre peut immédiatement lui porter une attaque de morsure par une action bonus.
+**_Coup de tête._** Si l'homme-chèvre se déplace d'au moins 3mètres en ligne droite en direction d'une créature et la touche avec une attaque de coup au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre et étourdie pendant 1 round. Si la cible est à terre, l'homme-chèvre peut immédiatement lui porter une attaque de morsure par une action bonus.
 
 ## ACTIONS
 
-**_Attaques multiples._** L’homme-chèvre fait une attaque de morsure et une attaque de coup.
+**_Attaques multiples._** L'homme-chèvre fait une attaque de morsure et une attaque de coup.
 
-**_Morsure._** Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d6+4) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d6+4) dégâts perforants.
 
-**_Coup._** Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts contondants.
+**_Coup._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts contondants.
 

@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
-- **Classe d’armure** 14 (armure de cuir)
+- **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
 - **Vitesse** 12m
 
@@ -19,11 +19,11 @@
 - **Langues** commun, gobelin
 - **Dangerosité** 1/4 (50 PX)
 
-**_Perverti_** . Quand un gobelin poussiéreux attaque une créature alors qu’il est caché, elle doit réussir un jet de sauvegarde de Sagesse DD 10, sans quoi elle est terrorisée jusqu’à la fin de son prochain tour.
+**_Perverti._** Quand un gobelin poussiéreux attaque une créature alors qu'il est caché, elle doit réussir un jet de sauvegarde de Sagesse DD 10, sans quoi elle est terrorisée jusqu'à la fin de son prochain tour.
 
 ## ACTIONS
 
-**_Épée courte_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
+**_Épée courte._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 
-**_Arbalète légère_** . Attaque d’arme à distance: +5 pour toucher, portée 24/96 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
+**_Arbalète légère._** Attaque d'arme à distance: +5 pour toucher, portée 24/96 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 

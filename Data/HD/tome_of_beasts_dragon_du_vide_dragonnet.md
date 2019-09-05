@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Dragon de taille Moyenne (M), chaotique neutre
-- **Classe d’armure** 17 (armure naturelle)
+- **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m, vol 18 m (vol stationnaire)
 
@@ -21,19 +21,19 @@
 - **Langues** commun, draconique, langue du Vide
 - **Dangerosité** 2 (450PX)
 
-**_Frisson du vide._** Les dégâts de froid infligés par le dragon du vide passent outre la résistance au froid, mais pas l’immunité contre le froid.
+**_Frisson du vide._** Les dégâts de froid infligés par le dragon du vide passent outre la résistance au froid, mais pas l'immunité contre le froid.
 
 **_Habitant du Vide._** Comme pour le vénérable dragon du vide.
 
 ## ACTIONS
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d10+3) dégâts perforants plus 3(1d6) dégâts de froid.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d10+3) dégâts perforants plus 3(1d6) dégâts de froid.
 
-**_Souffle (Recharge 5–6)._** Le dragon utilise l’un des souffles suivants.
+**_Souffle (Recharge 5–6)._** Le dragon utilise l'un des souffles suivants.
 
-**Souffle gravitique.** Le dragon exhale un cube de 4,50 mètres d’arête dans lequel la gravité est fortement accentuée et dont il est le point d’origine. Dans cette zone, les dégâts causés par les chutes augmentent de 1d10 par tranche de 3 mètres de chute. Quand une créature commence son tour dans la zone ou y pénètre pour la première fois lors d’un tour, y compris au moment où le dragon crée ce champ, elle doit faire un jet de sauvegarde de Dextérité DD 13. Sur un échec, la créature est entravée. Sur un succès, sa vitesse est réduite de moitié tant qu’elle reste dans la zone. Une créature entravée refait son jet de sauvegarde à la fin de son tour. Ce champ persiste jusqu’à ce que le dragon recharge son souffle. Il ne peut pas utiliser le souffle gravitique deux fois d’affilée.
+**Souffle gravitique.** Le dragon exhale un cube de 4,50 mètres d'arête dans lequel la gravité est fortement accentuée et dont il est le point d'origine. Dans cette zone, les dégâts causés par les chutes augmentent de 1d10 par tranche de 3 mètres de chute. Quand une créature commence son tour dans la zone ou y pénètre pour la première fois lors d'un tour, y compris au moment où le dragon crée ce champ, elle doit faire un jet de sauvegarde de Dextérité DD 13. Sur un échec, la créature est entravée. Sur un succès, sa vitesse est réduite de moitié tant qu'elle reste dans la zone. Une créature entravée refait son jet de sauvegarde à la fin de son tour. Ce champ persiste jusqu'à ce que le dragon recharge son souffle. Il ne peut pas utiliser le souffle gravitique deux fois d'affilée.
 
-**Souffle de flambée stellaire.** Le dragon crache du feu stellaire sur un cône de 4,50 mètres. Chaque créature qui se trouve dans la zone d’effet doit faire un jet de sauvegarde de Dextérité DD13. Sur un échec, une créature subit 10 (3d6) dégâts de feu et 10 (3d6)dégâts radiants, ou moitié moins sur une réussite.
+**Souffle de flambée stellaire.** Le dragon crache du feu stellaire sur un cône de 4,50 mètres. Chaque créature qui se trouve dans la zone d'effet doit faire un jet de sauvegarde de Dextérité DD13. Sur un échec, une créature subit 10 (3d6) dégâts de feu et 10 (3d6)dégâts radiants, ou moitié moins sur une réussite.
 
 ## RÉACTIONS
 

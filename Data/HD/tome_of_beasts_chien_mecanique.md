@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Créature artificielle de taille Moyenne (M), non alignée
-- **Classe d’armure** 12 (armure naturelle)
+- **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
 - **Vitesse** 15 m
 
@@ -21,7 +21,7 @@
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Dangerosité** 2 (450PX)
 
-**_Forme immuable_** . Un chien mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
+**_Forme immuable._** Un chien mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
 
 **_Résistance à la magie._** Un chien mécanique est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
@@ -29,9 +29,9 @@
 
 ## ACTIONS
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 16 (2d10+5) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 16 (2d10+5) dégâts perforants.
 
-**_Langue renversante._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 4,50 m, une cible. Touché: 9 (1d8+5) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Force DD13, sans quoi elle se retrouve à terre.
+**_Langue renversante._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 4,50 m, une cible. Touché: 9 (1d8+5) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Force DD13, sans quoi elle se retrouve à terre.
 
-**_Réacteur explosif._** Le mécanisme qui fournit de l’énergie au chien explose quand cette créature artificielle est détruite. Toutes les créatures qui se trouvent dans un rayon de 1,50 m autour du chien subissent 7(2d6) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 12.
+**_Réacteur explosif._** Le mécanisme qui fournit de l'énergie au chien explose quand cette créature artificielle est détruite. Toutes les créatures qui se trouvent dans un rayon de 1,50 m autour du chien subissent 7(2d6) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 12.
 

@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Aberration de taille Moyenne (M), neutre mauvaise
-- **Classe d’armure** 16
+- **Classe d'armure** 16
 - **Points de vie** 91 (14d8+28)
 - **Vitesse** 12m
 
@@ -19,21 +19,21 @@
 - **Langues** commun, sylvestre, peut parler aux félins
 - **Dangerosité** 4 (1 100PX)
 
-**_Odorat aiguisé_** . Le mngwa est avantagé sur les tests de Sagesse (Perception) basés sur l’odorat.
+**_Odorat aiguisé._** Le mngwa est avantagé sur les tests de Sagesse (Perception) basés sur l'odorat.
 
-**_Tactique de meute_** . Le mngwa est avantagé sur les jets d’attaque contre une créature si au moins l’un de ses alliés se trouve dans un rayon de 1,50 mètre autour d’elle et n’est pas neutralisé.
+**_Tactique de meute._** Le mngwa est avantagé sur les jets d'attaque contre une créature si au moins l'un de ses alliés se trouve dans un rayon de 1,50 mètre autour d'elle et n'est pas neutralisé.
 
-**_Saut avec élan_** . Si le mngwa dispose d’une course d’élan de 3mètres, il peut faire un saut en longueur de 7,50 mètres.
+**_Saut avec élan._** Si le mngwa dispose d'une course d'élan de 3mètres, il peut faire un saut en longueur de 7,50 mètres.
 
-**_Empathie féline_** . Le mngwa est avantagé sur les tests de Sagesse (Dressage) avec des félins.
+**_Empathie féline._** Le mngwa est avantagé sur les tests de Sagesse (Dressage) avec des félins.
 
-**_Fourrure éthérée_** . La classe d’armure du mngwa inclut son modificateur de Charisme. Tous les jets d’attaque à son encontre sont désavantagés. Si le mngwa est adjacent à une zone de fumée ou de brume, il peut exécuter l’action se cacher même si on l’observe directement.
+**_Fourrure éthérée._** La classe d'armure du mngwa inclut son modificateur de Charisme. Tous les jets d'attaque à son encontre sont désavantagés. Si le mngwa est adjacent à une zone de fumée ou de brume, il peut exécuter l'action se cacher même si on l'observe directement.
 
 ## ACTIONS
 
 **_Attaques multiples :_** Le mngwa fait une attaque de morsure et deux de griffes.
 
-**_Morsure._** Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d8+4) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d8+4) dégâts perforants.
 
-**_Griffes_** . Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d6+4) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d6+4) dégâts tranchants.
 

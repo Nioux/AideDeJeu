@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Dragon Très Petite taille, chaotique neutre
-- **Classe d’armure** 13
+- **Classe d'armure** 13
 - **Points de vie** 65 (10d4+40)
 - **Vitesse** 12 m, vol 24 m
 
@@ -20,7 +20,7 @@
 - **Langues** commun, draconique
 - **Dangerosité** 1/2 (100 PX)
 
-**_Incantation innée._** La caractéristique d’incantation innée du drake est le Charisme (DD du jet de sauvegarde contre les sorts 13, +5pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
+**_Incantation innée._** La caractéristique d'incantation innée du drake est le Charisme (DD du jet de sauvegarde contre les sorts 13, +5pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **À volonté:** amis, moquerie cruelle
 
@@ -28,15 +28,15 @@
 
 **3/jour chacun:** confusion, invisibilité
 
-**_Incantation étourdissante._** Quand une créature échoue à son jet de sauvegarde d’Intelligence, de Sagesse ou de Charisme contre un sort lancé par un drake des tavernes, la créature oublie immédiatement qui lui a lancé le sort.
+**_Incantation étourdissante._** Quand une créature échoue à son jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre un sort lancé par un drake des tavernes, la créature oublie immédiatement qui lui a lancé le sort.
 
 ## ACTIONS
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 
-**_Griffes_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (2d4+3) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (2d4+3) dégâts tranchants.
 
-**_Souffle (Recharge 5–6)._** Un drake des tavernes peut éructer un nuage de gaz intoxicant sur un cône de 4,50mètres. Une créature qui se trouve prise dans ce nuage est empoisonnée pour 1 minute et doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver dans l’état étourdi pour 1d6 rounds.
+**_Souffle (Recharge 5–6)._** Un drake des tavernes peut éructer un nuage de gaz intoxicant sur un cône de 4,50mètres. Une créature qui se trouve prise dans ce nuage est empoisonnée pour 1 minute et doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver dans l'état étourdi pour 1d6 rounds.
 
-**_Contact déroutant._** Un drake des tavernes peut faire une attaque de contact qui confère à sa cible un bonus de +3 à ses tests de compétences basés sur la Dextérité et à ses attaques de corps à corps, mais qui la rend également confuse, comme si elle était sous l’effet du sort confusion. Cet effet dure 1d4 rounds. Si la cible réussit un jet de sauvegarde de Charisme DD 13, elle annule cet effet.
+**_Contact déroutant._** Un drake des tavernes peut faire une attaque de contact qui confère à sa cible un bonus de +3 à ses tests de compétences basés sur la Dextérité et à ses attaques de corps à corps, mais qui la rend également confuse, comme si elle était sous l'effet du sort confusion. Cet effet dure 1d4 rounds. Si la cible réussit un jet de sauvegarde de Charisme DD 13, elle annule cet effet.
 

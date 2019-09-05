@@ -6,7 +6,7 @@
 
 - Source: (LDM p144)
 -  Dragon de taille Moyenne (M), neutre mauvais
-- **Classe d’armure** 17 (armure naturelle)
+- **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, vol 18 m, nage 12 m
 
@@ -23,7 +23,7 @@
 
 ## ACTIONS
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de froid.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de froid.
 
-**_Souffle des marées (Recharge 5-6)._** Le dragon crache un jet dévastateur d’eau glacée sur un cône de 4,50mètres. Chaque créature qui se trouve dans la zone affectée doit faire un jet de sauvegarde de Dextérité DD 12. Sur un échec, une cible subit 11 (2d10) dégâts contondants plus 11 (2d10) dégâts de froid et elle se trouve repoussée de 4,50 mètres en arrière et jetée à terre. Si elle réussit son jet de sauvegarde, la créature subit la moitié des dégâts et n’est pas repoussée ni jetée à terre.
+**_Souffle des marées (Recharge 5-6)._** Le dragon crache un jet dévastateur d'eau glacée sur un cône de 4,50mètres. Chaque créature qui se trouve dans la zone affectée doit faire un jet de sauvegarde de Dextérité DD 12. Sur un échec, une cible subit 11 (2d10) dégâts contondants plus 11 (2d10) dégâts de froid et elle se trouve repoussée de 4,50 mètres en arrière et jetée à terre. Si elle réussit son jet de sauvegarde, la créature subit la moitié des dégâts et n'est pas repoussée ni jetée à terre.
 

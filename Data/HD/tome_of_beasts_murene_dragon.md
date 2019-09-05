@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Dragon de Très Grande taille (TG), neutre
-- **Classe d’armure** 18 (armure naturelle)
+- **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)
 - **Vitesse** 6 m, nage 18 m
 
@@ -22,19 +22,19 @@
 - **Langues** commun, draconique, primordial
 - **Dangerosité** 12 (8 400 PX)
 
-**_Imparfaitement amphibie_** . Une murène dragon peut respirer de l’air et de l’eau, mais elle doit être immergée au moins une fois toutes les 6 heures pour éviter de suffoquer.
+**_Imparfaitement amphibie._** Une murène dragon peut respirer de l'air et de l'eau, mais elle doit être immergée au moins une fois toutes les 6 heures pour éviter de suffoquer.
 
-**_Contact électrique._** Le corps d’une murène dragon génère une puissante charge de foudre. Une créature qui touche une murène dragon ou réussit une attaque de corps à corps contre elle subit 5(1d10) dégâts de foudre.
+**_Contact électrique._** Le corps d'une murène dragon génère une puissante charge de foudre. Une créature qui touche une murène dragon ou réussit une attaque de corps à corps contre elle subit 5(1d10) dégâts de foudre.
 
-**_Glisser dans la tempête._** Pendant les tempêtes, une murène dragon peut traverser l’air comme si elle était sous l’effet du sort
+**_Glisser dans la tempête._** Pendant les tempêtes, une murène dragon peut traverser l'air comme si elle était sous l'effet du sort
 
 ## ACTIONS
 
 **_Attaques multiples._** La murène dragon fait une attaque de morsure et une attaque avec la queue.
 
-**_Morsure._** Attaque d’arme au corps à corps: +12 pour toucher, allonge 3 m, une cible. Touché: 26 (4d8+8) dégâts perforants plus 5 (1d10) dégâts de foudre, et la cible doit réussir un jet de sauvegarde de Constitution DD 18 ou être paralysée pour 1d4rounds.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 3 m, une cible. Touché: 26 (4d8+8) dégâts perforants plus 5 (1d10) dégâts de foudre, et la cible doit réussir un jet de sauvegarde de Constitution DD 18 ou être paralysée pour 1d4rounds.
 
-**_Coup de queue._** Attaque d’arme au corps à corps: +12 pour toucher, allonge 3 m, une cible. Touché: 30 (5d8+8) dégâts contondants plus 5 (1d10) dégâts de foudre et la cible est repoussée en arrière d’un maximum de 3 mètres.
+**_Coup de queue._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 3 m, une cible. Touché: 30 (5d8+8) dégâts contondants plus 5 (1d10) dégâts de foudre et la cible est repoussée en arrière d'un maximum de 3 mètres.
 
 **_Souffle de foudre (Recharge 6)._** La murène dragon crache de la foudre sur une ligne de 18 mètres de long sur 3 mètres de large. Les créatures qui se trouvent sur cette ligne subissent 55(10d10)dégâts de foudre, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 18.
 

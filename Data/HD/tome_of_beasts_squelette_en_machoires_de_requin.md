@@ -6,7 +6,7 @@
 
 - Source: (LDM p372)
 -  Mort-vivant de Grande taille (G), loyal mauvais
-- **Classe d’armure** 13 (armure naturelle)
+- **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 9 m, nage 9 m
 
@@ -26,7 +26,7 @@
 
 **_Attaques multiples._** Le squelette porte une attaque de morsure et une attaque de griffes.
 
-**_Morsure._** Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants. Si la cible est une créature de Grande taille ou inférieure, celle-ci se trouve empoignée (évasion DD 13). Tant que l’empoignade se poursuit, le squelette en mâchoires de requin ne peut mordre que la créature qu’il empoigne et il est avantagé sur les jets d’attaque pour ce faire.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants. Si la cible est une créature de Grande taille ou inférieure, celle-ci se trouve empoignée (évasion DD 13). Tant que l'empoignade se poursuit, le squelette en mâchoires de requin ne peut mordre que la créature qu'il empoigne et il est avantagé sur les jets d'attaque pour ce faire.
 
-**_Griffes_** . Attaque d’arme au corps à corps: +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts tranchants.
 

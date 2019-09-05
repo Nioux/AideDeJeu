@@ -6,7 +6,7 @@
 
 - Source: (LDM p)
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
-- **Classe d’armure** 15 (armure naturelle)
+- **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 12m
 
@@ -20,9 +20,9 @@
 - **Langues** commun, gobelin, langue du Vide
 - **Dangerosité** 6 (1 800PX)
 
-**_Bond agressif_** . Si le likho se déplace d’au moins 6 mètres en ligne droite en direction d’une créature et la touche avec une attaque de cimeterre au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
+**_Bond agressif._** Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de cimeterre au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
 
-**_Incantation innée._** Le likho utilise le Charisme comme caractéristique d’incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
+**_Incantation innée._** Le likho utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **À volonté:** message
 
@@ -36,7 +36,7 @@
 
 **_Attaques multiples._** Le likho fait deux attaques de griffes.
 
-**_Griffes_** . Attaque d’arme au corps à corps: +6 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants.
 
-**_Regard perturbateur_** . Par une action bonus, le likho tourne son regard vers une unique créature située dans son champ de vision et lui porte temporairement malheur. La cible est désavantagée lors des jets d’attaque et de sauvegarde et des tests de compétence jusqu’à la fin de son prochain tour.
+**_Regard perturbateur._** Par une action bonus, le likho tourne son regard vers une unique créature située dans son champ de vision et lui porte temporairement malheur. La cible est désavantagée lors des jets d'attaque et de sauvegarde et des tests de compétence jusqu'à la fin de son prochain tour.
 
