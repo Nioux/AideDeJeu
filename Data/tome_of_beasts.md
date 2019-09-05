@@ -44,8 +44,7 @@
 
 **_Permutation de formes._** Par une action bonus, un nihileth peut passer de sa forme matérielle à sa forme éthérée et vice versa à volonté.
 
-**_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché:
-15(3d6+5) dégâts contondants. 
+**_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché: 15(3d6+5) dégâts contondants. 
 
 **_Servitude (3 / jour):_** Un nihileth peut cibler une créature qu'il peut voir et qui se trouve dans un rayon de 9 mètres. La cible doit réussir un jet de sauvegarde de Sagesse DD14 ou se trouver magiquement charmée par le nihileth jusqu'à ce que ce dernier meure ou se trouve sur un plan d'existence différent de sa cible. La cible charmée se trouve sous le contrôle du nihileth et ne peut pas utiliser de réactions. Le nihileth et la cible peuvent communiquer entre eux par télépathie sans limite de distance. À chaque fois que la cible charmée subit des dégâts, elle peut retenter son jet de sauvegarde. En cas de succès, l'effet se termine. Une fois toutes les 24 heures, si elle se trouve à au moins 1,50kilomètre du nihileth, la cible peut également tenter de refaire le jet de sauvegarde.
 
@@ -65,7 +64,15 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 ## ACTIONS D'ANTRE
 
+À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), un nihileth peut effectuer une action d’antre afin de créer un effet magique comme s’il était un aboleth, ou utiliser l’action absorption du Vide détaillée ci-dessous. Le nihileth ne peut pas utiliser le même effet deux rounds de suite.
+
+* Absorption du Vide. Un nihileth peut puiser dans l’énergie vitale de ceux qu’il a convertis en zombis nihilethiques pour regagner de la vie. Ce pouvoir lui permet de puiser 18 (6d6) points de vie auprès des zombis qui se trouvent dans un rayon de 9 mètres de lui. Ces points sont séparés équitablement entre les zombis et permettent de soigner le nihileth. Si un zombi est réduit à 0 point de vie à cause de cette action, il meurt et ne fait pas de jet le sauvegarde permis par Robustesse de la non-vie.
+
 ## EFFETS RÉGIONAUX
+
+Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’un aboleth, à l’exception du point suivant.
+
+* Les sources d’eau qui se trouvent dans un rayon de 1,50 kilomètre de l’antre d’un nihileth sont non seulement souillées surnaturellement par sa présence, mais peuvent également propager sa maladie. Une créature qui boit une telle eau doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver infectée.
 
 <!--/MonsterItem-->
 
@@ -97,9 +104,7 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 ## ACTIONS
 
-**_Coup (uniquement sous forme_** matérielle). _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50m, une cible. Touché: 4 (1d6+1) dégâts contondants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou tomber malade. Cette maladie a peu d'effet pendant 1minute; pendant ce laps de temps, elle peut être guérie à l'aide de bénédiction, de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors pas récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison
-ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10minutes. Si une créature meurt alors qu'elle est affectée par cette maladie,
-elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth qui contrôle déjà le zombi qui lui a transmis la maladie.
+**_Coup (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50m, une cible. Touché: 4 (1d6+1) dégâts contondants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou tomber malade. Cette maladie a peu d'effet pendant 1minute; pendant ce laps de temps, elle peut être guérie à l'aide de bénédiction, de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors pas récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10minutes. Si une créature meurt alors qu'elle est affectée par cette maladie, elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth qui contrôle déjà le zombi qui lui a transmis la maladie.
 
 **_Contact flétrissant (uniquement sous forme éthérée)._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50 m, une cible. Touché: 4 (1d6+1) dégâts nécrotiques.
 
@@ -118,7 +123,7 @@ elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zomb
 # <!--Name-->Ala<!--/Name-->
 
 - Source: <!--Source-->(LDM p11)<!--/Source-->
--  Fée de taille Moyenne,
+-  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d8+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m, vol12m<!--/Speed-->
@@ -220,12 +225,32 @@ elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zomb
 
 ## ACTIONS
 
-**_Lance._** Attaque d'arme au corps à corps ou à distance: +3 pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-4(1d6+1)dégâts perforants ou 5(1d8+1)dégâts perforants si elle est utilisée à deux mains pour porter une attaque de corps à corps.
+**_Lance._** Attaque d'arme au corps à corps ou à distance: +3 pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 4(1d6+1)dégâts perforants ou 5(1d8+1)dégâts perforants si elle est utilisée à deux mains pour porter une attaque de corps à corps.
 
 **_Arc court._** Attaque d'arme à distance: +5 pour toucher, portée 24/94m, une cible. Touché: 6 (1d6+3)dégâts perforants.
+
+<!--/MonsterItem-->
+
+<!--MonsterItem Family="TomeOfBeasts"-->
+
+# <!--Name-->Gardienne des bocages Alséide<!--/Name-->
+
+- Source: <!--Source-->(LDM p13)<!--/Source-->
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (13d8+13)<!--/HitPoints-->
+- **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|13 (+1)|17 (+3)|12 (+1)|8 (-1)|16 (+3)|8 (-1)|
+
+- **Compétences** <!--Skills-->Discrétion +5, Nature +3, Perception +5, Survie +5<!--/Skills-->
+- **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 15<!--/Senses-->
+- **Langues** <!--Languages-->commun, elfique, sylvestre, druidique<!--/Languages-->
+- **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
+
+**_Amie des bois._** Quand une alséide est dans une forêt, elle ne laisse pas de trace et sait automatiquement où se trouve le vrai nord.
 
 **_Incantation._** Une gardienne des bocages est un lanceur de sort de niveau5. Sa caractéristique d'incantation est la Sagesse (DDde sauvegarde contre les sorts13, +5pour toucher avec une attaque de sort). Voici les sorts de druide qu'elle a préparés:
 
@@ -236,9 +261,12 @@ elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zomb
 **Niveau2 (3 emplacements):** messager animal, chauffer le métal,
 
 **Niveau 3 (2 emplacements):** appel de la foudre, dissipation de la magie
-Remplacez l'action lance de l'alséide par la suivante: 
+
+## ACTIONS
 
 **_Bâton._** _Attaque d'arme au corps à corps :_ +3 pour toucher (+5 avec gourdin magique ), allonge 1,50m, une créature.
+
+**_Arc court._** Attaque d'arme à distance: +5 pour toucher, portée 24/94m, une cible. Touché: 6 (1d6+3)dégâts perforants.
 
 <!--/MonsterItem-->
 
@@ -383,8 +411,7 @@ Remplacez l'action lance de l'alséide par la suivante:
 - **Langues** <!--Languages-->toutes les langues qu'il connaissait de son vivant<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2300 PX)<!--/Challenge-->
 
-**_Regard d'agonie._** Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9mètres de celui-ci et que l'angatra n'est pas neutralisé et peut voir la créature, alors celle-ci doit faire un jet de sauvegarde de Charisme DD13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce jet de sauvegarde en détournant les yeux au début de son tour. Une créature qui
-détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le jet de sauvegarde.
+**_Regard d'agonie._** Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9mètres de celui-ci et que l'angatra n'est pas neutralisé et peut voir la créature, alors celle-ci doit faire un jet de sauvegarde de Charisme DD13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce jet de sauvegarde en détournant les yeux au début de son tour. Une créature qui détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le jet de sauvegarde.
 
 **_Courroux des ancêtres._** Un angatra reconnaît immédiatement les individus qui descendent de sa tribu. Il est avantagé à ses jets d'attaque contre ces créatures, et ces dernières sont désavantagées à leurs jets de sauvegarde contre les effets des traits et des attaques de l'angatra.
 
@@ -424,8 +451,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Attaques multiples._** L'ange enchaîné porte deux attaques à l'aide de son épée à deux mains enflammée.
 
-**_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché:
-11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu. 
+**_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché: 11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu. 
 
 **_Gloire déchue (Recharge 5-6)._** Toutes les créatures qui se trouvent dans un rayon de 15mètres d'un ange enchaîné et dans son champ de vision subissent 19 (3d12)dégâts radiants et se trouvent jetées à terre. Elles subissent moitié moins de dégâts et ne sont pas jetées à terre si elles réussissent un jet de sauvegarde de Force DD15.
 
@@ -474,8 +500,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Armes magiques._** Les attaques d'arme d'un ange sont magiques quand il se trouve sous sa forme d'aigle.
 
-**_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation
-1/jour pour le rejoindre. 
+**_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation 1/jour pour le rejoindre. 
 
 **_Fidélité à toute épreuve._** Les anges fidèles ne se séparent jamais volontairement de leur compagnon. Aucun effet magique ou pouvoir ne peut pousser un ange fidèle à agir contre son compagnon et aucun effet de charme ou de domination ne peut réussir à les éloigner ou changer les sentiments d'amour et de loyauté qu'ils éprouvent l'un envers l'autre.
 
@@ -487,11 +512,9 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Arc long +1 (uniquement sous forme de mortel ou d'ange)._** 
 
-**_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-9(1d8+ 5) dégâts perforants. 
+**_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 9(1d8+ 5) dégâts perforants. 
 
-**_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-12 (2d6+5)dégâts tranchants. 
+**_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 12 (2d6+5)dégâts tranchants. 
 
 <!--/MonsterItem-->
 
