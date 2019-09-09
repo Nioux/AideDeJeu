@@ -537,6 +537,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18m, perception des vibrations 9, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->primordial<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
 
 **_Marche du sable._** Au lieu de bouger, la forme humanoïde d'un anubien peut se fragmenter en un tas de sable et se reformer à un autre emplacement inoccupé dans un rayon de 3mètres. Ce déplacement ne provoque pas d'attaque d'opportunité. Après avoir utilisé ce trait dans un terrain sablonneux, l'anubien peut se cacher dans le cadre de son déplacement, même s'il est en train d'être observé. Les anubiens peuvent utiliser leur marche du sable pour passer sous des portes ou traverser des obstacles similaires, pour peu que ceux-ci soient percés d'une ouverture assez large pour permettre le passage de sable.
@@ -799,6 +800,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 |---|---|---|---|---|---|
 |10 (+0)|12 (+1)|12 (+1)|3 (–4)|10 (+0)|1 (–5)|
 
+- **Compétence** <!--Skills-->Discrétion +3<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de feu<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
@@ -871,6 +873,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 |26 (+8)|10 (+0)|18 (+4)|2 (–4)|11 (+0)|6 (–2)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Con +7, Sag +3, Cha +1<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
@@ -955,6 +958,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 
 - **Compétences** <!--Skills-->Acrobaties +4, Discrétion +4, Perception +3<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->géant<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1800 PX)<!--/Challenge-->
 
 **_Pattes d'araignée._** Un asanbosam peut escalader des surfaces difficiles et même évoluer tête en bas au plafond sans avoir besoin de faire de test de caractéristique.
@@ -985,6 +989,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 |---|---|---|---|---|---|
 |12 (+1)|16 (+3)|15 (+2)|6 (–2)|12 (+1)|14 (+2)|
 
+- **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants et nécrotiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, empoisonné<!--/ConditionImmunities-->
@@ -1053,6 +1058,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 
 - **Compétences** <!--Skills-->Perception +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 15<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 **_Huile thérapeutique._** Par une action, un bagiennik peut automatiquement stabiliser une créature mourante en étaler une partie de sa sécrétion huileuse sur la chair de celle-ci. S'il accomplit le même geste sur une créature déjà stable ou qui possède au moins 1point de vie, cette huile a le même effet qu'une potion de soin et restaure 2d4+2points de vie à la créature. Alternativement, la sécrétion du bagiennik peut avoir le même effet que le sort restauration inférieure . Toute créature qui reçoit l'huile thérapeutique d'un bagiennik doit cependant réussir un jet de sauvegarde de Constitution DD13 ou être ralentie pendant 1minute.
@@ -1127,8 +1133,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 
-**_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-5(1d4+3) dégâts perforants. 
+**_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 5(1d4+3) dégâts perforants. 
 
 **_Souffle de feu (Recharge 6)._** Un behtu crache du feu dans un cône de 4,50mètres. Chaque créature qui se trouve dans la zone d'effet subit 21 (5d8)dégâts de feu, ou moitié moins de dégâts si elle réussit un jet de sauvegarde de Dextérité DD13.
 
@@ -1197,6 +1202,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
 
 **_Cheveux agrippants._** Les cheveux d'une belle noyée attaquent comme s'ils étaient trois membres séparés. Chacun peut ainsi être pris pour cible (CA 19; 15 points de vie; immunité contre les dégâts nécrotiques, de poison et psychiques; résistance aux dégâts contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent). Une mèche de cheveux peut être brisée par une créature si celle-ci, par une action, réussit un test de Force DD 15 contre elle.
@@ -1265,6 +1271,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 |20 (+5)|18 (+4)|17 (+3)|14 (+2)|14 (+2)|19 (+4)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +7, Con +6<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Discrétion +7<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
 - **Langues** <!--Languages-->commun, elfique, umbral, langue du Vide<!--/Languages-->
 - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
@@ -1309,6 +1316,7 @@ Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’
 
 - **Compétences** <!--Skills-->Intimidation +3<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->géant<!--/Languages-->
 - **Dangerosité** <!--Challenge-->8 (3900 PX)<!--/Challenge-->
 
 **_Compulsion carnivore._** Si un blemmye voit une créature neutralisée, il doit faire un jet de sauvegarde de Sagesse DD11. Sur un échec, il ne peut résister à la tentation de se déplacer vers cette créature pour l'attaquer.
@@ -1521,8 +1529,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 **_Métamorphe._** Un bouda peut utiliser une action pour se métamorphoser en humain, en hyène, ou pour prendre sa forme véritable, qui est celle d'un hybride entre une hyène et un humanoïde. Ses statistiques sont les même pour toutes ses formes, sauf en ce qui concerne son attaque de griffe méphitique. Tout équipement qu'il porte n'est pas transformé. Quand un bouda est détruit, il reprend sa forme véritable avant de tomber en poussière.
 
-**_Macule avilissante (1/jour)._** Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50mètre. Toute créature vivante qui se trouve dans un rayon de 9mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD15 contre le poison ou se trouver empoisonnée pendant 1d6rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la
-macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une macule persiste pendant une semaine.
+**_Macule avilissante (1/jour)._** Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50mètre. Toute créature vivante qui se trouve dans un rayon de 9mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD15 contre le poison ou se trouver empoisonnée pendant 1d6rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une macule persiste pendant une semaine.
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un bouda est le Charisme (DD du jet de sauvegarde contre les sorts13, +5 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants sans utiliser de composante matérielle:
 
@@ -1702,8 +1709,7 @@ macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une mac
 
 **À volonté:** changement de plan, détection des pensées, épargner, immobiliser un humanoïde, les mourants modifier son apparence
 
-**3/jour :** guérison, protection contre le poison, rayon empoisonné
-18(4d8), soin des blessures 21 (4d8+3)
+**3/jour :** guérison, protection contre le poison, rayon empoisonné 18(4d8), soin des blessures 21 (4d8+3)
 
 **1/jour:** doigt de mort
 
@@ -1711,8 +1717,7 @@ macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une mac
 
 **_Attaques multiples._** Un cambium porte quatre attaques de doigts- aiguilles.
 
-**_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une
-réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
+**_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
 
 **_Réduction de caractéristique (3/jour)._** Si la cible de l'attaque de doigts-aiguilles d'un Cambium échoue à son jet de sauvegarde de Constitution, elle subit une réduction de 1d4 points de caractéristique (choisie par le cambium) jusqu'à ce qu'elle ait terminé un repos long. Si cet effet réduit la valeur d'une de ses caractéristiques à 0, la créature sombre dans l'inconscience jusqu'à ce qu'elle ait regagné au moins 1 point.
 
@@ -1977,6 +1982,7 @@ réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut
 
 - **Compétences** <!--Skills-->Perception +3, Discrétion +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 **_Amphibie._** Un chien-anguille peut respirer à l'air libre et sous l'eau.
@@ -2047,15 +2053,11 @@ réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
 
-**_État calme._** Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. Taille Petite ;
-
-**PV** 9 (6d6 – 12) ; Vitesse 6 m ; FOR 8 (–1) ; CON 6 (–2) ; Langues
-commun, sylvestre 
+**_État calme._** Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. **Taille** Petite ; **PV** 9 (6d6 – 12) ; **Vitesse** 6 m ; **FOR** 8 (–1) ; **CON** 6 (–2) ; **Langues** commun, sylvestre 
 
 **_Sens médiocres._** Le chiot mastodonte est myope et entend mal. Sous une lumière faible ou normale, il voit jusqu'à 9 mètres et entend les bruits dans un rayon de 18 mètres.
 
-**_Émotions déchaînées._** Quand le chiot mastodonte se sent menacé (si quelqu'un le touche, l'intimide, l'accule, l'attaque ou si un étranger se place adjacent à lui), il passe immédiatement de la taille Petite à Très Grande en réaction. Si le chiot a été attaqué, la réaction se produit après l'attaque, mais avant d'appliquer les dégâts. Les créatures et objets alentour sont repoussés dans l'emplacement vide le plus proche et doivent réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Les armes, armures et autres objets que porte ou transporte le chiot grandissent (et rétrécissent) proportionnellement quand il change de taille. Submergé par une vague d'émotions brutes, il se met à détruire tout ce qu'il voit (c'est-à-dire pas grand-chose) et tout ce qui se trouve à portée (c'est-à-dire beaucoup de choses). La transformat ion persiste jusqu'à ce que le chiot ne perçoive plus de créature pendant 1 round, qu'il tombe à 0 point de vie, qu'il reçoive 5 niveaux d'épuisement ou qu'il soit affecté par apaisement des émotions
-ou une magie similaire. La transformation n'est pas totalement incontrôlable : une créature ou une personne que le chiot connaît et en qui il a confiance peut se tenir à côté de lui sans déclencher de réaction. Si les conditions sont particulièrement défavorables, comme dans une zone très peuplée, la transformation du chiot peut durer des jours.
+**_Émotions déchaînées._** Quand le chiot mastodonte se sent menacé (si quelqu'un le touche, l'intimide, l'accule, l'attaque ou si un étranger se place adjacent à lui), il passe immédiatement de la taille Petite à Très Grande en réaction. Si le chiot a été attaqué, la réaction se produit après l'attaque, mais avant d'appliquer les dégâts. Les créatures et objets alentour sont repoussés dans l'emplacement vide le plus proche et doivent réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Les armes, armures et autres objets que porte ou transporte le chiot grandissent (et rétrécissent) proportionnellement quand il change de taille. Submergé par une vague d'émotions brutes, il se met à détruire tout ce qu'il voit (c'est-à-dire pas grand-chose) et tout ce qui se trouve à portée (c'est-à-dire beaucoup de choses). La transformat ion persiste jusqu'à ce que le chiot ne perçoive plus de créature pendant 1 round, qu'il tombe à 0 point de vie, qu'il reçoive 5 niveaux d'épuisement ou qu'il soit affecté par apaisement des émotions ou une magie similaire. La transformation n'est pas totalement incontrôlable : une créature ou une personne que le chiot connaît et en qui il a confiance peut se tenir à côté de lui sans déclencher de réaction. Si les conditions sont particulièrement défavorables, comme dans une zone très peuplée, la transformation du chiot peut durer des jours.
 
 ## ACTIONS
 
@@ -2721,6 +2723,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 - **Immunité contre les dégâts** <!--DamageImmunities-->contondants, d'acide, de foudre<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->aveuglé, charmé, assourdi, épuisé, terrorisé, à terre<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->aucune sous sa forme naturelle ; connaît les mêmes que la créature qu’il domine.<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 **_Informe._** Le démon de sève peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.
@@ -2806,6 +2809,7 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 |14 (+2)|17 (+3)|19 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +7, Sag +7<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +7<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, radiants, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->aveuglé et empoisonné<!--/ConditionImmunities-->
@@ -2919,6 +2923,14 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 **_Coup de corne._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) dégâts perforants et la cible doit réussir un jet de sauvegarde de Force DD15, sans quoi elle se retrouve à terre.
 
 **_Foudroiement (Recharge 5-6)._** Un rübezahl peut faire apparaître un éclair crépitant dans le ciel, ou dans l'air s'il se trouve sous terre ou à l'intérieur, et diriger celui-ci afin qu'il frappe un point que le rübezahl peut voir dans un rayon de 45 m. Toutes les créatures qui se trouvent dans un rayon de 6m autour du point d'impact subissent 36 (8d8) dégâts de foudre, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 16. Si une créature échoue à son jet de sauvegarde, elle est étourdie jusqu'au début du prochain tour du rübezahl.
+
+<!--/MonsterItem-->
+
+<!--MonsterItem Family="TomeOfBeasts"-->
+
+# <!--Name-->Akyishigal, seigneur démon des cafards<!--/Name-->
+
+- Source: <!--Source-->(LDM p84)<!--/Source-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->138 (12d10+72)<!--/HitPoints-->
@@ -2929,6 +2941,7 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 |21 (+5)|17 (+3)|22 (+6)|19 (+4)|14 (+2)|24 (+7)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->For +9, Dex+7, Con +10, Sag +6, Cha +11<!--/SavingThrows-->
+- **Compétences** <!--Skills-->Acrobaties +11, Athlétisme +9, Discrétion +11, Perception +6<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid, de foudre, de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -2954,8 +2967,7 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3 m, une cible. Touché:
 
-**_Manteau de nuées (Recharge 5–6)._** Akyishigal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont désavantagées et Akyishigal peut voir dans toutes les directions (par les yeux des
-insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akyishigal subit 11 (2d10) dégâts perforants plus 10 (3d6) dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également empoisonnée pendant 1heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akyishigal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est empoisonné par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.
+**_Manteau de nuées (Recharge 5–6)._** Akyishigal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont désavantagées et Akyishigal peut voir dans toutes les directions (par les yeux des insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akyishigal subit 11 (2d10) dégâts perforants plus 10 (3d6) dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également empoisonnée pendant 1heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akyishigal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est empoisonné par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.
 
 ## ACTIONS LÉGENDAIRES.
 
@@ -2965,8 +2977,7 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 
 **_Déplacement frénétique._** Akyishigal combine une attaque avec un déplacement de 6 mètres au maximum, comme s'il utilisait une action de repli, et il ne provoque pas d'attaque d'opportunité.
 
-**_Incantation (coûte 2 actions)._** Akyishigal lance fléau d'insectes
-avec son pouvoir d'incantation innée. 
+**_Incantation (coûte 2 actions)._** Akyishigal lance fléau d'insectes avec son pouvoir d'incantation innée. 
 
 <!--/MonsterItem-->
 
@@ -3142,6 +3153,7 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 |---|---|---|---|---|---|
 |12 (+1)|16 (+3)|10 (+0)|2 (-4)|13 (+1)|6 (-2)|
 
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
@@ -3341,6 +3353,7 @@ Qorgeth peut faire 3 actions légendaires parmi celles proposées ci- dessous. I
 |1 (-5)|1 (-5)|6 (-2)|6 (-2)|12 (+1)|20 (+5)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Sag +3, Cha +7<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
@@ -3381,6 +3394,7 @@ Qorgeth peut faire 3 actions légendaires parmi celles proposées ci- dessous. I
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->paralysé, empoisonné, étourdi, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13 Langue infernal<!--/Senses-->
+- **Langue** <!--Languages-->infernal<!--/Languages-->
 - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 **_Lié au lanceur de sorts._** Quand un dévoreur d'âmes est invoqué, il crée un lien mental entre son invocateur et lui. Si la cible assignée au dévoreur d'âmes (voir le pouvoir trouver la cible) meurt avant qu'il ne puisse drainer son âme ou si elle le vainc sans le tuer, il retourne aussi vite que possible auprès de son invocateur et attaque ce dernier. Tant qu'ils sont tous deux sur le même plan, le dévoreur peut utiliser le pouvoir trouver la cible pour le localiser.
@@ -3475,6 +3489,7 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->infernal<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
 
 **_Esprit de ruche._** Les rejetons d'Arbeyach et tous les autres membres de leur ruche partagent un lien qui leur accorde une perception accrue. Ainsi, tant qu'un rejeton se trouve dans un rayon de 18 mètres d'au moins un de ses camarades de ruche, il est avantagé lors de ses jets d'initiative et à ses tests de Sagesse(Perception). Si un rejeton prend conscience d'un danger, tous les autres membres de la ruche en ont conscience également. Au début d'une rencontre, aucun des rejetons qui partagent un esprit de ruche ne peut être surpris, sauf si tous les membres de la ruche le sont.
@@ -4131,6 +4146,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 |---|---|---|---|---|---|
 |19 (+4)|14 (+2)|16 (+3)|2 (-4)|12 (+1)|6 (-2)|
 
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
@@ -4241,6 +4257,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 |---|---|---|---|---|---|
 |23 (+6)|11 (+0)|19 (+4)|2 (-4)|11 (+0)|8 (-1)|
 
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
@@ -4309,6 +4326,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 **_Pattes d'araignée._** Un dissimortuum peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.
@@ -4371,6 +4389,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 |---|---|---|---|---|---|
 |2 (-4)|17 (+3)|14 (+2)|2 (-4)|13 (+1)|2 (-4)|
 
+- **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
@@ -4405,6 +4424,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - **Compétences** <!--Skills-->Discrétion +8, Intimidation +2, Perception +3<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de froid, de foudre<!--/DamageResistances-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->langue du Vide<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un dorreq est l'Intelligence (DD du jet de sauvegarde contre les sorts 10). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
@@ -4881,6 +4901,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide, de poison et de tonnerre<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 36 m, Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->draconique<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 **_Fouisseur._** Un dragon des cavernes est capable de creuser à travers la pierre solide en se déplaçant de la moitié de sa vitesse de fouissement. Il laisse derrière lui un tunnel de 1,50 mètre de large sur 1,50 mètre de haut.
@@ -5640,6 +5661,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|16 (+3)|9 (-1)|15 (+2)|10 (+0)|
 
+- **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de feu<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->inconscient, paralysé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
@@ -5675,9 +5697,11 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 |19 (+4)|17(+3)|18 (+4)|10 (+0)|13 (+1)|10 (+0)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex+6<!--/SavingThrows-->
+- **Compétences** <!--Skills-->Acrobaties +6, Discrétion +6, Perception +4<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de froid<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->à terre, empoisonné, inconscient, paralysé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 17<!--/Senses-->
+- **Langue** <!--Languages-->draconique<!--/Languages-->
 - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 **_Camouflage._** La couleur et la forme d'un drake de corail lui confèrent une discrétion accrue et il se trouve ainsi avantagé lors de tous ses tests de Discrétion quand il se trouve sous l'eau.
@@ -6171,6 +6195,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 18 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->commun mais ne peut pas parler<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 **_Reconstitution._** S'il est détruit, un edimmu se relève de nouveau d'entre les morts au bout de 2d4 jours. Afin de le détruire de manière définitive, il faut enterrer ses restes mortels de manière appropriée sur une terre consacrée ou sanctifiée. Les edimmus s'éloignent rarement de plus de 1,50 kilomètre de l'endroit de leur mort.
@@ -6653,9 +6678,11 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 |---|---|---|---|---|---|
 |7 (–2)|18 (+4)|10 (+0)|4 (–3)|16 (+3)|6 (–2)|
 
+- **Compétence** <!--Skills-->Perception +5<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
+- **Langue** <!--Languages-->primordial<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 **_Caché par la lueur du feu._** Quand il se trouve dans une zone éclairée seulement par des flammes non magiques, un esprit du feu gagne un bonus de +2 à ses tests de Discrétion. Ce bonus devient +4 quand il se cache dans le feu.
@@ -7279,6 +7306,7 @@ un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie 
 |22 (+6)|14 (+2)|22 (+6)|2 (–4)|10 (+0)|13 (+1)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +5, Con +9<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
@@ -7313,6 +7341,7 @@ un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie 
 |14 (+2)|16 (+3)|12 (+1)|14 (+2)|12 (+1)|18 (+4)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex+6, Sag +4, Cha+7<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +4<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des armes non magiques<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
@@ -7525,8 +7554,10 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 |---|---|---|---|---|---|
 |8 (−1)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|7 (−2)|
 
+- **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
 - **Sens** <!--Senses-->Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (50 PX)<!--/Challenge-->
 
 **_Marcheur du givre._** Un terrain rocheux, enneigé ou glacé n'a pas d'impact sur la vitesse d'un fraughashar. Il n'a jamais besoin de faire de test de Dextérité pour se déplacer ou éviter de tomber à terre si le sol est couvert de neige ou de glace.
@@ -7804,6 +7835,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |20 (+5)|6 (–2)|16 (+3)|9 (–1)|13 (+1)|8 (–1)|
 
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
@@ -7950,6 +7982,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |8 (−1)|16 (+3)|14 (+2)|10 (+0)|8 (−1)|8 (−1)|
 
+- **Compétence** <!--Skills-->Discrétion +7<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 9<!--/Senses-->
 - **Langues** <!--Languages-->commun, gobelin<!--/Languages-->
@@ -8024,6 +8057,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |20 (+5)|9 (–1)|20 (+5)|3 (–4)|11 (+0)|1 (–5)|
 
+- **Compétence** <!--Skills-->Athlétisme +9<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 10<!--/Senses-->
@@ -8060,6 +8094,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |22 (+6)|9 (–1)|20 (+5)|5 (–3)|11 (+0)|1 (–5)|
 
+- **Compétence** <!--Skills-->Perception +8<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision parfaite 36 m, Perception passive 18<!--/Senses-->
@@ -8375,6 +8410,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun des profondeurs<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Tactique de meute._** La goule mendiante est avantagée sur les jets d'attaque contre une créature si au moins l'un de ses alliés non neutralisé se trouve dans un rayon de 1,50 mètre autour de cette créature.
@@ -8462,8 +8498,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 ## ACTIONS
 
-**_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché:
-3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
+**_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché: 3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
 
 ## RÉACTION
 
@@ -8485,8 +8520,10 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 |---|---|---|---|---|---|
 |10 (+0)|16 (+3)|14 (+2)|12 (+1)|9 (–1)|12 (+1)|
 
+- **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Incantation innée._** Le gremlin utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 11). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
@@ -8569,6 +8606,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 - **Résistance aux dégâts** <!--DamageResistances-->de tonnerre<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Incantation innée._** La guenaude utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :
@@ -8996,6 +9034,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +2<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Acrobaties +4, Discrétion +6<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
 
 **_Résistant._** L'escarmoucheur est avantagé lors des jets de sauvegarde de Constitution.
@@ -9027,6 +9066,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +5, Con +3<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Acrobaties +5, Discrétion +7<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 **_Résistant._** Comme l'escarmoucheur homme-cafard.
@@ -9325,7 +9365,9 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 |---|---|---|---|---|---|
 |7 (-2)|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|
 
+- **Compétence** <!--Skills-->Perception +2<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
 
 **_Agilité._** L'homme-rat peut traverser l'emplacement qu'occupe une créature de taille Moyenne ou supérieure.
@@ -9394,6 +9436,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - **Jets de sauvegarde** <!--SavingThrows-->Dex+12<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Athlétisme +8, Perception +6, Discrétion +8<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 20<!--/Senses-->
+- **Langue** <!--Languages-->comprend le commun des profondeurs<!--/Languages-->
 - **Dangerosité** <!--Challenge-->9 (5 000PX)<!--/Challenge-->
 
 **_Discrétion dans les ombres._** Un horakh peut se cacher par une action bonus s'il se trouve dans une faible lumière ou dans les ténèbres.
@@ -9494,6 +9537,7 @@ l'obligeant à créer un objet magique de qualité.
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->télépathie à 18 m<!--/Languages-->
 - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
 **_Aura d'apostasie._** La présence de l'idole divine fait douter les fidèles dévoués de leur foi. Un clerc ou un paladin qui voit l'idole et désire lancer un sort ou utiliser un pouvoir de classe doit réussir un jet de sauvegarde de Sagesse DD 16. En cas d'échec, le sort ou le pouvoir est dépensé, mais n'a aucun effet.
@@ -9531,6 +9575,7 @@ l'obligeant à créer un objet magique de qualité.
 - **Résistance aux dégâts** <!--DamageResistances-->contondants<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun (ancien nurien)<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 **_Régénération._** L'imy-ut ushabti récupère 5 points de vie au début de son tour s'il lui reste au moins 1 point de vie.
@@ -9796,6 +9841,7 @@ l'obligeant à créer un objet magique de qualité.
 |---|---|---|---|---|---|
 |7 (−2)|16 (+3)|12 (+1)|16 (+3)|13 (+1)|8 (−1)|
 
+- **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->commun, draconique<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
@@ -9834,6 +9880,7 @@ l'obligeant à créer un objet magique de qualité.
 |---|---|---|---|---|---|
 |19 (+4)|18 (+4)|14 (+2)|2 (−4)|10 (+0)|7 (–2)|
 
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
@@ -10202,6 +10249,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé et empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 30 m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->comprend le darakhul<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 **_Odorat et ouïe aiguisés._** La liche canine est avantagée sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.
@@ -10275,6 +10323,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 |14 (+2)|12 (+1)|18 (+4)|3 (−4)|12 (+1)|12 (+1)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Sag +4, Cha +4<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, nécrotiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre<!--/ConditionImmunities-->
@@ -10310,11 +10359,13 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 |---|---|---|---|---|---|
 |4 (–3)|13 (+1)|10 (+0)|2 (–4)|10 (+0)|8 (–1)|
 
+- **Compétence** <!--Skills-->Discrétion +3<!--/Skills-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->radiants<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/8 (25 PX)<!--/Challenge-->
 
 **_Informe._** Le linceul peut traverser un espace étroit d'au minimum 2,5 cm de large sans se faufiler.
@@ -10440,6 +10491,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide, de froid, de feu, de foudre, de poison, de tonnerre ; contondants, perforants et tranchants infligés par des armes non magiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16<!--/Senses-->
+- **Langue** <!--Languages-->primordial<!--/Languages-->
 - **Dangerosité** <!--Challenge-->17 (18 000PX)<!--/Challenge-->
 
 **_Résistance à la magie._** Un locus élémentaire est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -10523,7 +10575,9 @@ dès qu'elle est en contact avec une étendue d'eau.
 |---|---|---|---|---|---|
 |19 (+4)|12 (+1)|19 (+4)|12 (+1)|14 (+2)|10 (+0)|
 
+- **Compétence** <!--Skills-->Survie +5<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->loxodan<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Charge écrasante._** Si le loxoda se déplace d'au moins 6mètres en ligne droite vers une créature de Grande taille ou supérieure et lui porte une attaque de pas pesant, il est avantagé sur cette dernière. Si cette attaque touche, la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle tombe à terre.
@@ -10678,6 +10732,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 |19 (+4)|19 (+4)|16 (+3)|14 (+2)|13 (+1)|14 (+2)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +7, Con +6, Sag +4, Cha +5<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +4<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
 - **Langues** <!--Languages-->commun, géant, homme-corbeau, sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
@@ -10764,6 +10819,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 - **Compétences** <!--Skills-->Arcanes +7, Histoire +7, Perspicacité+6, Religion +7<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision parfaite 18m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->télépathie 30 m<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un mangedestin est l'Intelligence (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
@@ -10884,6 +10940,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 |18 (+4)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|1 (–5)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +2<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
@@ -11128,6 +11185,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
 
 **_Forme immuable._** Une araignée tisseuse mécanique est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -11165,6 +11223,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 **_Forme immuable._** Un chasseur mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -11202,6 +11261,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 **_Forme immuable._** Un chien mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -11238,6 +11298,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Forme immuable._** Un gendarme mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -11273,6 +11334,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 16<!--/Senses-->
+- **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Forme immuable._** Un myrmidon mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -11309,6 +11371,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 |---|---|---|---|---|---|
 |8 (-1)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|7 (-2)|
 
+- **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
@@ -11482,6 +11545,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - **Résistance aux dégâts** <!--DamageResistances-->de poison; contondants et tranchants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre l'état** <!--ConditionImmunities-->à terre<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 ## ACTIONS
@@ -11540,6 +11604,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 |---|---|---|---|---|---|
 |20 (+5)|8 (-1)|18 (+4)|9 (-1)|13 (+1)|10 (+0)|
 
+- **Compétence** <!--Skills-->Perception +4<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->à terre<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 14<!--/Senses-->
@@ -11837,6 +11902,7 @@ dépassent leurs compétences.
 |11 (+0)|16 (+3)|13 (+1)|14 (+2)|10 (+0)|15 (+2)|
 
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Amphibie._** Le morphoï respire à l'air libre et sous l'eau.
@@ -11940,10 +12006,12 @@ dépassent leurs compétences.
 |---|---|---|---|---|---|
 |15 (+2)|10 (+0)|12 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
+- **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé, empoisonné, étourdi, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 ## ACTIONS
@@ -12158,7 +12226,9 @@ dépassent leurs compétences.
 |---|---|---|---|---|---|
 |16 (+3)|16 (+3)|12 (+1)|10 (+0)|10 (+0)|8 (–1)|
 
+- **Compétence** <!--Skills-->Survie +2<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Métamorphe._** Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
@@ -12191,7 +12261,9 @@ dépassent leurs compétences.
 |---|---|---|---|---|---|
 |18 (+4)|18 (+4)|12 (+1)|10 (+0)|10 (+0)|14 (+2)|
 
+- **Compétence** <!--Skills-->Survie +2<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 **_Métamorphe._** Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
@@ -12213,6 +12285,15 @@ dépassent leurs compétences.
 **_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4) dégâts perforants.
 
 **_Rugissement du chef de meute (recharge après un court ou_** un long repos) . Chaque nkosi que choisit le chef de meute et qui se trouve dans un rayon de 9 mètres autour de lui peut immédiatement utiliser sa réaction pour faire une attaque de morsure. Le chef de meute peut ensuite faire une attaque de morsure par une action bonus.
+
+
+<!--/MonsterItem-->
+
+<!--MonsterItem Family="TomeOfBeasts"-->
+
+# <!--Name-->Autruche de guerre<!--/Name-->
+
+- Source: <!--Source-->(LDM p320)<!--/Source-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (5d10+15)<!--/HitPoints-->
@@ -12337,6 +12418,7 @@ dépassent leurs compétences.
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, terrorisé, paralysé, pétrifié, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Hurlement glaçant._** La nuée hurle par une action bonus à son premier tour de combat, émettant une étrange cacophonie surnaturelle à glacer le sang. Toutes les créatures situées dans un rayon de 90 mètres qui l'entendent doivent réussir un jet de sauvegarde de Charisme DD 12, sans quoi elles sont terrorisées jusqu'au début du prochain tour de la nuée.
@@ -12402,6 +12484,7 @@ dépassent leurs compétences.
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->igné<!--/Languages-->
 - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 **_Corps de feu._** Si une créature touche la nuée ou réussit une attaque de corps à corps contre elle alors qu'elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts de feu. De plus, la première fois qu'une nuée entre dans l'emplacement d'une créature lors d'un tour, cette créature subit 5 (1d10) dégâts de feu et s'enflamme. Tant que personne n'a utilisé une action pour éteindre le feu, la créature subit 5 (1d10) dégâts de feu au début de chacun de ses tours.
@@ -12595,6 +12678,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 |---|---|---|---|---|---|
 |6 (–2)|16 (+3)|11 (+0)|6 (–2)|13 (+1)|10 (+0)|
 
+- **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->de froid ; contondants, perforants et tranchants<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi<!--/ConditionImmunities-->
@@ -12750,11 +12834,13 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 |---|---|---|---|---|---|
 |1 (–5)|20 (+5)|15 (+2)|5 (−3)|12 (+1)|17 (+3)|
 
+- **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de tonnerre<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->à terre, charmé, empoigné, empoisonné, épuisé, entravé, inconscient, paralysé, pétrifié<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->télépathie à 60 m<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d'un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu'elle entend émane d'une entité extérieure. La symbiose auditive persiste jusqu'à ce que la cible tombe à 0point de vie, que l'ostinato y mette un terme par une action bonus ou que l'ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l'ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l'ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.<!--/Challenge-->
 
 **_Aura vorace (1/jour)._** Tant que l'ostinato est fusionné avec un humanoïde (voir symbiose auditive), il se nourrit des créatures voisines. Il peut choisir jusqu'à 9 créatures situées dans un rayon de 18 mètres. Chacune doit réussir un jet de sauvegarde de Charisme DD 13, sans quoi elle subit 3 (1d6) dégâts nécrotiques et voit son maximum de points de vie réduit du même montant jusqu'à ce qu'elle termine un long repos. La cible meurt si son maximum de points de vie tombe à 0. Une victime remarque les dégâts de suite, mais ignore d'où ils viennent.
@@ -12866,6 +12952,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 |---|---|---|---|---|---|
 |23 (+6)|16 (+3)|22 (+6)|15 (+2)|14 (+2)|6 (–2)|
 
+- **Compétence** <!--Skills-->Supercherie +8<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->à terre<!--/ConditionImmunities-->
@@ -12909,6 +12996,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 - **Compétences** <!--Skills-->Athlétisme +5, Discrétion +5, Escamotage +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 **_Voix animale._** Le pombero peut parler par magie avec n'importe quelle bête et imite les sons animaux à la perfection.
@@ -12980,7 +13068,9 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 |---|---|---|---|---|---|
 |18 (+4)|16 (+3)|18 (+4)|8 (-1)|14 (+2)|8 (-1)|
 
+- **Compétences** <!--Skills-->Acrobaties +6, Athlétisme +7, Discrétion +6, Intimidation +2, Perception +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Haine des lanceurs de sorts._** Le primate blanc inflige un dé de dégâts de plus (respectivement d8 ou d10) par attaque contre un ennemi s'il l'a vu lancer un sort.
@@ -13016,6 +13106,7 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 14<!--/Senses-->
+- **Langue** <!--Languages-->comprend une langue ancienne, mais ne peut pas parler<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1100 PX)<!--/Challenge-->
 
 **_Existence maudite._** Quand un profanateur maudit est réduit à 0 point de vie dans un terrain désertique, son corps se désagrège et forme un tas de sable qui est dispersé par une brusque brise sèche. Cependant, à moins qu'il ne soit tué dans un lieu sacré, par des dégâts radiants ou par une créature bénie, un profanateur maudit se reforme au prochain coucher du soleil à 1d100x 1,5kilomètres de là, dans une direction aléatoire.
@@ -13219,6 +13310,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 - **Compétences** <!--Skills-->Arcanes +5, Investigation +5<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
 
 **_Résistance à la magie._** Le ramag est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -13474,6 +13566,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 |---|---|---|---|---|---|
 |6 (–2)|16 (+3)|18 (+4)|11 (+0)|15 (+2)|16 (+3)|
 
+- **Compétence** <!--Skills-->Discrétion +6<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé<!--/ConditionImmunities-->
@@ -13516,6 +13609,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, paralysé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Tresses desséchées._** Si la roussalka reste hors de l'eau pendant 24 heures consécutives, ses cheveux et son corps se dessèchent et il n'en reste que des herbes du marais flétries, la créature étant complètement détruite.
@@ -13732,6 +13826,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
 - **Immunité contre les états** <!--ConditionImmunities-->assourdi et aveuglé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 **_Marcheur vert._** Le seigneur des lianes ignore les restrictions de mouvement et les dégâts causés par des taillis naturels.
@@ -13971,6 +14066,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|14 (+2)|8 (−1)|10 (+0)|16 (+3)|
 
+- **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
 - **Langues** <!--Languages-->comprend l'elfique et l'umbral mais ne peut pas parler<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
@@ -14011,10 +14107,12 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 |---|---|---|---|---|---|
 |26 (+8)|14 (+2)|28 (+9)|12 (+1)|16 (+3)|13 (+1)|
 
+- **Compétence** <!--Skills-->Perception +9<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de feu, contondants et perforants<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid, de tonnerre, tranchants<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->aveuglé, assourdi, à terre, étourdi, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19<!--/Senses-->
+- **Langue** <!--Languages-->langue du Vide<!--/Languages-->
 - **Dangerosité** <!--Challenge-->19 (22 000 PX)<!--/Challenge-->
 
 **_Anaérobie._** Le shoggoth n'a pas besoin d'oxygène pour vivre. Il vit aussi bien au fond de l'océan que dans le vide de l'espace.
@@ -14336,6 +14434,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |22 (+6)|18 (+4)|20 (+5)|12 (+1)|16 (+3)|15 (+2)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->For +11, Dex+9, Con +10, Cha +7<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Supercherie +12<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de feu; contondants et perforants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid, de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -14377,6 +14476,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 - **Compétences** <!--Skills-->Histoire +5, Investigation +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
 
 **_Retenir son souffle._** Le subek peut retenir son souffle 15 minutes.
@@ -14450,6 +14550,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |---|---|---|---|---|---|
 |1 (–5)|19 (+4)|10 (+0)|1 (–5)|12 (+1)|4 (–3)|
 
+- **Compétence** <!--Skills-->Discrétion +6<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
@@ -14519,6 +14620,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé, épuisé, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Zone de défense._** Le templier mécaforgé peut faire une attaque d'opportunité quand une créature entre dans sa zone d'allonge.
@@ -14649,6 +14751,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 - **Compétences** <!--Skills-->Intimidation +1, Perception +2<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->titan<!--/Languages-->
 - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
 **_Résistance à la magie._** Le titan dégénéré est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -14721,6 +14824,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de froid, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->empoisonné, épuisé, paralysé, pétrifié, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 60 m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
 **_Cœur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.
@@ -14752,6 +14856,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |17 (+3)|24 (+7)|20 (+5)|16 (+3)|16 (+3)|18 (+4)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Dex +11, Con +9, Sag +7, Cha +8<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Perception +7<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 17<!--/Senses-->
@@ -14891,6 +14996,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 |10(2d4+5)|dégâts perforants et la cible est paralysée pendant 8heures. On peut mettre un terme à la paralysie en réussissant un test de Sagesse (Médecine)|DD20 ou avec un sort ou effet qui soigne les maladies. (Comme cette attaque vise uniquement les créatures paralysées, elle se solde forcément par un coup critique, les dégâts supplémentaires étant déjà inclus dans la liste des dégâts)|.8 (-1)|16 (+3)|14 (+2)|
 
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->tosculi<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Ailes de planeur._** Le faux-bourdon tosculi peut utiliser ses ailes pour ralentir sa chute lorsqu'il tombe (comme sous l'effet du sort léger comme une plume). Il peut se déplacer horizontalement de 1,50mètre par tranche de 30 centimètres de chute. Le faux- bourdon tosculi ne peut pas prendre de hauteur en utilisant seulement ses ailes, en revanche il peut profiter d'un vent fort ou d'un courant ascendant pour planer plus loin.
@@ -14958,6 +15064,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - **Compétences** <!--Skills-->Discrétion +11, Perception +10<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de tonnerre<!--/DamageImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 20<!--/Senses-->
+- **Langue** <!--Languages-->sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->9 (5000 PX)<!--/Challenge-->
 
 **_Retenir son souffle._** Un ukavac peut retenir son souffle pendant 20 minutes.
@@ -15309,6 +15416,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 |---|---|---|---|---|---|
 |16 (+3)|10 (+0)|22 (+6)|4 (-3)|2 (-4)|1 (-5)|
 
+- **Compétence** <!--Skills-->Discrétion +3<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->tranchants, contondants<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide, de feu et de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->empoisonné, épuisé, paralysé, pétrifié, terrorisé<!--/ConditionImmunities-->
@@ -15595,9 +15703,11 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 |15 (+2)|22 (+6)|10 (+0)|14 (+2)|16 (+3)|10 (+0)|
 
 - **Jets de sauvegarde** <!--SavingThrows-->Con +4, Int +6, Sag +7, Cha +4<!--/SavingThrows-->
+- **Compétence** <!--Skills-->Discrétion +10<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->à terre, épuisé, pétrifié<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision parfaite 18m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->télépathie à 18 m<!--/Languages-->
 - **Dangerosité** <!--Challenge-->11 (7 200PX)<!--/Challenge-->
 
 **_Nourri de ténèbres._** Si un vidien se trouve dans des ténèbres magiques au début de son tour, il guérit de 5 points de vie.
@@ -15640,6 +15750,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 - **Compétences** <!--Skills-->Athlétisme+5, Perception +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
+- **Langue** <!--Languages-->gnoll<!--/Languages-->
 - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 **_Harcèlement._** Si le gnoll attaque deux créatures lors d'un même tour, la première est désavantagée sur ses jets d'attaque jusqu'à la fin de son prochain tour.
@@ -15762,6 +15873,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 |---|---|---|---|---|---|
 |20 (+5)|20 (+5)|16 (+3)|1 (–5)|11 (+0)|1 (–5)|
 
+- **Compétence** <!--Skills-->Discrétion +7<!--/Skills-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de feu<!--/DamageVulnerabilities-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants et perforants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
@@ -15804,6 +15916,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 - **Compétences** <!--Skills-->Persuasion +5, Supercherie +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
 
 **_Animosité focalisée._** La wampus féline est avantagée lors des attaques au corps à corps contre un individu de sexe masculin qu'elle a vu utiliser la magie divine ou brandir un symbole sacré.
@@ -15975,6 +16088,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->empoisonné, paralysé, terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 36 m, Perception passive 10<!--/Senses-->
+- **Langue** <!--Languages-->aquatique<!--/Languages-->
 - **Dangerosité** <!--Challenge-->26 (90 000PX)<!--/Challenge-->
 
 **_Carapace renforcée._** Le zaratan ignore les attaques portées contre sa carapace, à moins que l'une d'elles ne lui inflige au minimum 30 points de dégâts. Cette aptitude ne fonctionne pas contre les attaques portées contre sa tête ou ses nageoires.
@@ -16021,6 +16135,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 - **Compétences** <!--Skills-->Perception +1<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+- **Langue** <!--Languages-->géant<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 ## ACTIONS
@@ -16184,7 +16299,9 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 |---|---|---|---|---|---|
 |13 (+1)|16 (+3)|14 (+2)|10 (+0)|11 (+0)|13 (+1)|
 
+- **Compétence** <!--Skills-->Perception +2<!--/Skills-->
 - **Sens** <!--Senses-->Perception passive 12<!--/Senses-->
+- **Langue** <!--Languages-->une seule (généralement le commun)<!--/Languages-->
 - **Dangerosité** <!--Challenge-->4 (450PX)<!--/Challenge-->
 
 **_Intuition tactique._** Le capitaine du guet est avantagé sur ses tests d'initiative. Les soldats du guet sous les ordres du capitaine jouent à la même initiative que lui.
@@ -16324,6 +16441,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 **_Charge._** Si le chevalier fantôme est à cheval et se déplace d'au moins 9 mètres en ligne droite en direction d'une cible qu'il touche avec une attaque de corps à corps pendant le même tour, cette cible subit 7 (2d6) dégâts de plus.
@@ -16403,6 +16521,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - **Compétences** <!--Skills-->Discrétion +4, Dressage +2, Perception +3, Supercherie +2<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de poison<!--/DamageResistances-->
 - **Sens** <!--Senses-->Perception passive 15 Langue commun<!--/Senses-->
+- **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 **_Sens aiguisés._** Le fanatique du scorpion est avantagé sur les tests de Sagesse (Perception).
@@ -16414,23 +16533,6 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 **_Cimeterre._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d6 + 2) dégâts tranchants plus 3 (1d6) dégâts de poison.
 
 **_Fronde._** Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une cible. Touché: 4 (1d4 + 2) dégâts contondants.
-un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
-
-**_Bâton aux anneaux focaliseur._** Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
-
-**_Incantation._** Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
-
-**Tours de magie (à volonté)** : main du mage, poigne électrique, trait de feu, viser juste
-
-**Niveau 1 (4 emplacements)** : bouclier, projectile magique, repli expéditif, vague tonnante
-
-**Niveau 2 (3 emplacements)** : pas brumeux, toile d'araignée
-
-**Niveau 3 (3 emplacements)** : boule de feu, contresort, vol
-
-**Niveau 4 (3 emplacements)** : invisibilité supérieure, tempête de grêle
-
-**Niveau 5 (1 emplacement)** : cône de froid
 
 <!--/MonsterItem-->
 
@@ -16457,7 +16559,23 @@ un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement.
 
 **_Résistance naine._** Le mage des anneaux nains est avantagé sur les jets de sauvegarde contre le poison.
 
-**_Magie des anneaux._** Le mage des anneaux peut intégrer un sort ayant comme portée "personnelle" ou "contact" dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise
+**_Magie des anneaux._** Le mage des anneaux peut intégrer un sort ayant comme portée "personnelle" ou "contact" dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
+
+**_Bâton aux anneaux focaliseur._** Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
+
+**_Incantation._** Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
+
+**Tours de magie (à volonté)** : main du mage, poigne électrique, trait de feu, viser juste
+
+**Niveau 1 (4 emplacements)** : bouclier, projectile magique, repli expéditif, vague tonnante
+
+**Niveau 2 (3 emplacements)** : pas brumeux, toile d'araignée
+
+**Niveau 3 (3 emplacements)** : boule de feu, contresort, vol
+
+**Niveau 4 (3 emplacements)** : invisibilité supérieure, tempête de grêle
+
+**Niveau 5 (1 emplacement)** : cône de froid
 
 ## ACTIONS
 
