@@ -1779,6 +1779,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 |---|---|---|---|---|---|
 |21 (+5)|14 (+2)|20 (+5)|2 (-4)|10 (+0)|2 (-4)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +11<!--/SavingThrows-->
 - **Sens** <!--Senses-->vision aveugle 9 m, Perception passive 10<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
@@ -2186,6 +2187,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 |---|---|---|---|---|---|
 |13 (+1)|12 (+1)|16 (+3)|10 (+0)|8 (-1)|16 (+3)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Discrétion +3, Perception +1,<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->empoisonné et terrorisé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
@@ -2995,6 +2997,7 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 |---|---|---|---|---|---|
 |15 (+2)|13 (+1)|19 (+4)|10 (+0)|11 (+0)|12 (+1)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +4<!--/SavingThrows-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
@@ -3485,6 +3488,7 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 |---|---|---|---|---|---|
 |18 (+4)|15 (+2)|15 (+2)|10 (+0)|13 (+1)|12 (+1)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Sag +4<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Discrétion +5, Perception +4<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -4389,6 +4393,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 |---|---|---|---|---|---|
 |2 (-4)|17 (+3)|14 (+2)|2 (-4)|13 (+1)|2 (-4)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
@@ -5661,6 +5666,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|16 (+3)|9 (-1)|15 (+2)|10 (+0)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +4<!--/SavingThrows-->
 - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 - **Résistance aux dégâts** <!--DamageResistances-->de feu<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->inconscient, paralysé<!--/ConditionImmunities-->
@@ -5887,6 +5893,7 @@ ou une magie comparable.
 |---|---|---|---|---|---|
 |7 (-2)|16 (+3)|19 (+4)|11 (+0)|12 (+1)|16 (+3)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Perspicacité +3, Persuasion +5, Supercherie +5<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->inconscient, paralysé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
@@ -5929,6 +5936,7 @@ ou une magie comparable.
 |---|---|---|---|---|---|
 |10 (+0)|14 (+2)|14 (+2)|8 (-1)|9 (-1)|14 (+2)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +4<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Acrobaties +4, Perception +1<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->inconscient, paralysé<!--/ConditionImmunities-->
@@ -6158,6 +6166,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 |---|---|---|---|---|---|
 |10 (+0)|16 (+3)|12 (+1)|2 (−4)|12 (+1)|16 (+3)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de feu<!--/DamageImmunities-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
 - **Langues** <!--Languages-->—<!--/Languages-->
@@ -6643,6 +6652,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 |---|---|---|---|---|---|
 |15 (+2)|14 (+2)|17 (+3)|11 (+0)|14 (+2)|6 (–2)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants et perforants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->d'acide, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, terrorisé, empoisonné<!--/ConditionImmunities-->
@@ -6717,6 +6727,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 |---|---|---|---|---|---|
 |4 (–3)|20 (+5)|18 (+4)|10 (+0)|12 (+1)|17 (+3)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +8<!--/SavingThrows-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de foudre<!--/DamageImmunities-->
 - **Résistance aux dégâts** <!--DamageResistances-->d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les états** <!--ConditionImmunities-->épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient<!--/ConditionImmunities-->
@@ -7835,6 +7846,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |20 (+5)|6 (–2)|16 (+3)|9 (–1)|13 (+1)|8 (–1)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
 - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -9759,6 +9771,7 @@ l'obligeant à créer un objet magique de qualité.
 |---|---|---|---|---|---|
 |7 (−2)|16 (+3)|15 (+2)|16 (+3)|9 (−1)|8 (−1)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Arcanes +5, Médecine +3<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
@@ -9978,6 +9991,7 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 |---|---|---|---|---|---|
 |16 (+3)|16 (+3)|13 (+1)|12 (+1)|16 (+3)|17 (+3)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
 - **Langues** <!--Languages-->commun, sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
@@ -10816,6 +10830,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 |---|---|---|---|---|---|
 |18 (+4)|12 (+1)|14 (+2)|18 (+4)|16 (+3)|9 (–1)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Arcanes +7, Histoire +7, Perspicacité+6, Religion +7<!--/Skills-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, inconscient<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision parfaite 18m, Perception passive 13<!--/Senses-->
@@ -11294,6 +11309,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 |---|---|---|---|---|---|
 |14 (+2)|12 (+1)|12 (+1)|5 (-3)|10 (+0)|1 (-5)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +3<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Athlétisme+4, Perception+4<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
@@ -11371,6 +11387,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 |---|---|---|---|---|---|
 |8 (-1)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|7 (-2)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison et psychiques<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé<!--/ConditionImmunities-->
@@ -14331,6 +14348,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |---|---|---|---|---|---|
 |20 (+5)|12 (+1)|16 (+3)|6 (–2)|8 (–1)|5 (–3)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Con +12<!--/SavingThrows-->
 - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants issus d'armes non magiques<!--/DamageResistances-->
 - **Immunité contre les dégâts** <!--DamageImmunities-->de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->assourdi, épuisé et empoisonné<!--/ConditionImmunities-->
@@ -16012,6 +16030,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 |---|---|---|---|---|---|
 |17 (+3)|21 (+5)|18 (+4)|15 (+2)|16 (+3)|15 (+2)|
 
+- **Jet de sauvegarde** <!--SavingThrows-->Cha +5<!--/SavingThrows-->
 - **Compétences** <!--Skills-->Discrétion +8, Intuition+6, Perception +6<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 36 m, Perception passive 16<!--/Senses-->
 - **Langues** <!--Languages-->commun, commun des profondeurs, profond<!--/Languages-->
