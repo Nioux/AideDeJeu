@@ -101,61 +101,61 @@
 
             <!-- MarkdownView -->
 
-            <Style TargetType="Label"  x:Key="paragraph">
+            <Style TargetType="Label"  x:Key="paragraph" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="heading1">
+            <Style TargetType="Label"  x:Key="heading1" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="30" />
                 <Setter Property="TextColor" Value="{StaticResource HDRed}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="heading2">
+            <Style TargetType="Label"  x:Key="heading2" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="25" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="heading3">
+            <Style TargetType="Label"  x:Key="heading3" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="20" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="heading4">
+            <Style TargetType="Label"  x:Key="heading4" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="18" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="heading5">
+            <Style TargetType="Label"  x:Key="heading5" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="16" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="heading6">
+            <Style TargetType="Label"  x:Key="heading6" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="link">
+            <Style TargetType="Label"  x:Key="link" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="15" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlue}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="tableheader">
+            <Style TargetType="Label"  x:Key="tableheader" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
                 <Setter Property="TextColor" Value="{StaticResource HDWhite}" />
@@ -164,7 +164,7 @@
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="tablecell">
+            <Style TargetType="Label"  x:Key="tablecell" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
@@ -172,7 +172,7 @@
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
-            <Style TargetType="Label"  x:Key="tablecellalt">
+            <Style TargetType="Label"  x:Key="tablecellalt" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
                 <Setter Property="TextColor" Value="{StaticResource HDBlack}" />

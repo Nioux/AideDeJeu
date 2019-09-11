@@ -21,8 +21,9 @@
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
-            <SearchBar Style="{StaticResource heading3}"  Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
-                <!--<SearchBar.Behaviors>
+            <SearchBar  Grid.Column="0" Grid.Row="0" x:Name="SearchBar" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+              <!--Style="{StaticResource heading3}"-->
+              <!--<SearchBar.Behaviors>
                     <tools:TextChangedBehavior />
                 </SearchBar.Behaviors>-->
             </SearchBar>

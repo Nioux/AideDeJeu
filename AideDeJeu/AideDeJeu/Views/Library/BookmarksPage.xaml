@@ -28,8 +28,9 @@
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
-            <Picker x:Name="BookmarkCollectionPicker" Grid.Column="0" Grid.Row="0" Style="{StaticResource heading1}" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}">
-                <Picker.Behaviors>
+            <Picker x:Name="BookmarkCollectionPicker" Grid.Column="0" Grid.Row="0" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}">
+              <!--Style="{StaticResource heading1}"-->
+              <Picker.Behaviors>
                     <tools:EventToCommandBehavior EventName="SelectedIndexChanged" Command="{Binding BindingContext.SelectedIndexChangedCommand, Source={x:Reference This}}" />
                 </Picker.Behaviors>
             </Picker>
