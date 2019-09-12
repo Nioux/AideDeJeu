@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |20 (+5)|20 (+5)|16 (+3)|1 (–5)|11 (+0)|1 (–5)|
 
+- **Compétence** Discrétion +7
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** contondants et perforants issus d'armes non magiques
 - **Immunité contre les dégâts** de froid

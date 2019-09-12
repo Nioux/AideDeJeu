@@ -4,7 +4,7 @@
 
 # Nuée De Papillons De Mort
 
-- Source: (LDM p)
+- Source: (LDM p327)
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (11d10)

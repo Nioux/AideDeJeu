@@ -4,7 +4,7 @@
 
 # Linceul
 
-- Source: (LDM p)
+- Source: (LDM p271)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d8)
@@ -14,11 +14,13 @@
 |---|---|---|---|---|---|
 |4 (–3)|13 (+1)|10 (+0)|2 (–4)|10 (+0)|8 (–1)|
 
+- **Compétence** Discrétion +3
 - **Vulnérabilité aux dégâts** radiants
 - **Résistance aux dégâts** d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/8 (25 PX)
 
 **_Informe._** Le linceul peut traverser un espace étroit d'au minimum 2,5 cm de large sans se faufiler.

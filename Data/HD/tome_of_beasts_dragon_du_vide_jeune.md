@@ -4,7 +4,7 @@
 
 # Dragon Du Vide, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p141)
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)

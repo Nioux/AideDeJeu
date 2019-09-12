@@ -16,6 +16,7 @@
 
 - **Compétences** Acrobaties +4, Discrétion +4, Perception +3
 - **Sens** vision dans le noir 18m, Perception passive 13
+- **Langue** géant
 - **Dangerosité** 5 (1800 PX)
 
 **_Pattes d'araignée._** Un asanbosam peut escalader des surfaces difficiles et même évoluer tête en bas au plafond sans avoir besoin de faire de test de caractéristique.

@@ -4,7 +4,7 @@
 
 # Dragon Marin, Vénérable
 
-- Source: (LDM p)
+- Source: (LDM p145)
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)

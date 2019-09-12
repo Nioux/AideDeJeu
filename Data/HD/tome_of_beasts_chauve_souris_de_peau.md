@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |12 (+1)|16 (+3)|10 (+0)|2 (-4)|13 (+1)|6 (-2)|
 
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 13

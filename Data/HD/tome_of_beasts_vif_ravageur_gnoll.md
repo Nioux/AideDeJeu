@@ -16,6 +16,7 @@
 
 - **Compétences** Athlétisme+5, Perception +5
 - **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** gnoll
 - **Dangerosité** 3 (700 PX)
 
 **_Harcèlement._** Si le gnoll attaque deux créatures lors d'un même tour, la première est désavantagée sur ses jets d'attaque jusqu'à la fin de son prochain tour.

@@ -15,6 +15,7 @@
 |14 (+2)|17 (+3)|19 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
 - **Jets de sauvegarde** Dex +7, Sag +7
+- **Compétence** Perception +7
 - **Résistance aux dégâts** de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les dégâts** de feu, radiants, de poison
 - **Immunité contre les états** aveuglé et empoisonné

@@ -4,7 +4,7 @@
 
 # Chef De Meute Nkosi
 
-- Source: (LDM p)
+- Source: (LDM p319)
 -  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 93 (17d8+17)
@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 |18 (+4)|18 (+4)|12 (+1)|10 (+0)|10 (+0)|14 (+2)|
 
+- **Compétence** Survie +2
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 4 (1 100PX)
 
 **_Métamorphe._** Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
@@ -36,22 +38,4 @@
 **_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4) dégâts perforants.
 
 **_Rugissement du chef de meute (recharge après un court ou_** un long repos) . Chaque nkosi que choisit le chef de meute et qui se trouve dans un rayon de 9 mètres autour de lui peut immédiatement utiliser sa réaction pour faire une attaque de morsure. Le chef de meute peut ensuite faire une attaque de morsure par une action bonus.
-
--  Bête de Grande taille (G), non alignée
-- **Classe d'armure** 11
-- **Points de vie** 42 (5d10+15)
-- **Vitesse** 18 m
-- **Sens** Perception passive 10
-- **Langues** —
-- **Dangerosité** 1/2 (100 PX)
-
-**_Saut sans élan._** L'autruche peut sauter en longueur sur un maximum de 6 mètres et en hauteur sur un maximum de 3 mètres, avec ou sans élan.
-
-**_Guerrier bondissant._** Si une autruche sans cavalier saute sur au moins 3 mètres et atterrit dans un rayon de 1,50 mètre autour d'une créature, elle est avantagée lors des attaques à son encontre.
-
-## ACTIONS
-
-**_Attaques multiples._** L'autruche fait deux attaques de griffes.
-
-**_Griffes._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d8+2) dégâts contondants.
 

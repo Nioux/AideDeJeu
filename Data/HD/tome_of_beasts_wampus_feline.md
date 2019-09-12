@@ -16,6 +16,7 @@
 
 - **Compétences** Persuasion +5, Supercherie +5
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 1 (200 PX)
 
 **_Animosité focalisée._** La wampus féline est avantagée lors des attaques au corps à corps contre un individu de sexe masculin qu'elle a vu utiliser la magie divine ou brandir un symbole sacré.

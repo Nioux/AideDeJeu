@@ -16,6 +16,7 @@
 
 - **Compétences** Perception +5
 - **Sens** vision dans le noir 18m, Perception passive 15
+- **Langue** commun
 - **Dangerosité** 3 (700 PX)
 
 **_Huile thérapeutique._** Par une action, un bagiennik peut automatiquement stabiliser une créature mourante en étaler une partie de sa sécrétion huileuse sur la chair de celle-ci. S'il accomplit le même geste sur une créature déjà stable ou qui possède au moins 1point de vie, cette huile a le même effet qu'une potion de soin et restaure 2d4+2points de vie à la créature. Alternativement, la sécrétion du bagiennik peut avoir le même effet que le sort restauration inférieure . Toute créature qui reçoit l'huile thérapeutique d'un bagiennik doit cependant réussir un jet de sauvegarde de Constitution DD13 ou être ralentie pendant 1minute.

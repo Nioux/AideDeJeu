@@ -4,7 +4,7 @@
 
 # Mamura
 
-- Source: (LDM p)
+- Source: (LDM p281)
 -  Aberration (fée) de Petite taille (P), neutre mauvaise.
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d6+52)

@@ -18,6 +18,7 @@
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** igné
 - **Dangerosité** 7 (2 900PX)
 
 **_Corps de feu._** Si une créature touche la nuée ou réussit une attaque de corps à corps contre elle alors qu'elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts de feu. De plus, la première fois qu'une nuée entre dans l'emplacement d'une créature lors d'un tour, cette créature subit 5 (1d10) dégâts de feu et s'enflamme. Tant que personne n'a utilisé une action pour éteindre le feu, la créature subit 5 (1d10) dégâts de feu au début de chacun de ses tours.

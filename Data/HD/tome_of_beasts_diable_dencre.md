@@ -4,7 +4,7 @@
 
 # Diable D'Encre
 
-- Source: (LDM p)
+- Source: (LDM p109)
 -  Fiélon (diable) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d6+12)

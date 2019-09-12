@@ -14,8 +14,10 @@
 |---|---|---|---|---|---|
 |8 (−1)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|7 (−2)|
 
+- **Compétence** Discrétion +4
 - **Immunité contre les dégâts** de froid
 - **Sens** Perception passive 10
+- **Langue** sylvestre
 - **Dangerosité** 1/2 (50 PX)
 
 **_Marcheur du givre._** Un terrain rocheux, enneigé ou glacé n'a pas d'impact sur la vitesse d'un fraughashar. Il n'a jamais besoin de faire de test de Dextérité pour se déplacer ou éviter de tomber à terre si le sol est couvert de neige ou de glace.

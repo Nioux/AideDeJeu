@@ -4,7 +4,7 @@
 
 # Gardien Spectral
 
-- Source: (LDM p)
+- Source: (LDM p201)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 110 (13d8+52)

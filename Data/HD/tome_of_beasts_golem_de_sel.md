@@ -4,7 +4,7 @@
 
 # Golem De Sel
 
-- Source: (LDM p)
+- Source: (LDM p213)
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (11d10+55)
 - **Vitesse** 6 m
@@ -13,6 +13,7 @@
 |---|---|---|---|---|---|
 |20 (+5)|9 (–1)|20 (+5)|3 (–4)|11 (+0)|1 (–5)|
 
+- **Compétence** Athlétisme +9
 - **Immunité contre les dégâts** de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 36 m, Perception passive 10

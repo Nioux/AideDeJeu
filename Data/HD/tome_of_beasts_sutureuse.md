@@ -4,7 +4,7 @@
 
 # Sutureuse
 
-- Source: (LDM p)
+- Source: (LDM p377)
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 7 (3d4)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |1 (–5)|19 (+4)|10 (+0)|1 (–5)|12 (+1)|4 (–3)|
 
+- **Compétence** Discrétion +6
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)

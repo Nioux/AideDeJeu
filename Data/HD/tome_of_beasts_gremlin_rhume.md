@@ -4,7 +4,7 @@
 
 # Gremlin Rhumé
 
-- Source: (LDM p)
+- Source: (LDM p227)
 -  Fée de Très Petite taille  (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
@@ -14,8 +14,10 @@
 |---|---|---|---|---|---|
 |10 (+0)|16 (+3)|14 (+2)|12 (+1)|9 (–1)|12 (+1)|
 
+- **Compétence** Discrétion +5
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Incantation innée._** Le gremlin utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 11). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:

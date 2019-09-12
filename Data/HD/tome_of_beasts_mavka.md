@@ -4,7 +4,7 @@
 
 # Mavka
 
-- Source: (LDM p)
+- Source: (LDM p289)
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d8+80)

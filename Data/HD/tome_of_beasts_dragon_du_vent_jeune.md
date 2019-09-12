@@ -4,7 +4,7 @@
 
 # Dragon Du Vent, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p137)
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (16d10+62)

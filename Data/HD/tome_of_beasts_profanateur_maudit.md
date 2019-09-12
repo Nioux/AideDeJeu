@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, empoisonné
 - **Sens** vision dans le noir 18m, Perception passive 14
+- **Langue** comprend une langue ancienne, mais ne peut pas parler
 - **Dangerosité** 4 (1100 PX)
 
 **_Existence maudite._** Quand un profanateur maudit est réduit à 0 point de vie dans un terrain désertique, son corps se désagrège et forme un tas de sable qui est dispersé par une brusque brise sèche. Cependant, à moins qu'il ne soit tué dans un lieu sacré, par des dégâts radiants ou par une créature bénie, un profanateur maudit se reforme au prochain coucher du soleil à 1d100x 1,5kilomètres de là, dans une direction aléatoire.

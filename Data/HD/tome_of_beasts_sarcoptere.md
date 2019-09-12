@@ -4,7 +4,7 @@
 
 # Sarcoptère
 
-- Source: (LDM p)
+- Source: (LDM p355)
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 187 (22d10+66)

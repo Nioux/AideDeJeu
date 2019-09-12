@@ -4,7 +4,7 @@
 
 # Marionnette Des Lianes
 
-- Source: (LDM p)
+- Source: (LDM p359)
 -  Plante de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 34 (4d8+16)

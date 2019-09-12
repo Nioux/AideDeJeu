@@ -4,7 +4,7 @@
 
 # Morphoï
 
-- Source: (LDM p)
+- Source: (LDM p311)
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 13 (parfois plus avec une armure)
 - **Points de vie** 33 (6d8+6)
@@ -15,6 +15,7 @@
 |11 (+0)|16 (+3)|13 (+1)|14 (+2)|10 (+0)|15 (+2)|
 
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Amphibie._** Le morphoï respire à l'air libre et sous l'eau.

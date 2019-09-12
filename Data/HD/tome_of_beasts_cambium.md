@@ -28,8 +28,7 @@
 
 **À volonté:** changement de plan, détection des pensées, épargner, immobiliser un humanoïde, les mourants modifier son apparence
 
-**3/jour :** guérison, protection contre le poison, rayon empoisonné
-18(4d8), soin des blessures 21 (4d8+3)
+**3/jour :** guérison, protection contre le poison, rayon empoisonné 18(4d8), soin des blessures 21 (4d8+3)
 
 **1/jour:** doigt de mort
 
@@ -37,8 +36,7 @@
 
 **_Attaques multiples._** Un cambium porte quatre attaques de doigts- aiguilles.
 
-**_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une
-réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
+**_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
 
 **_Réduction de caractéristique (3/jour)._** Si la cible de l'attaque de doigts-aiguilles d'un Cambium échoue à son jet de sauvegarde de Constitution, elle subit une réduction de 1d4 points de caractéristique (choisie par le cambium) jusqu'à ce qu'elle ait terminé un repos long. Si cet effet réduit la valeur d'une de ses caractéristiques à 0, la créature sombre dans l'inconscience jusqu'à ce qu'elle ait regagné au moins 1 point.
 

@@ -4,7 +4,7 @@
 
 # Dragon Du Vide, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p141)
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)

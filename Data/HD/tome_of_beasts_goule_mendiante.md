@@ -4,7 +4,7 @@
 
 # Goule Mendiante
 
-- Source: (LDM p)
+- Source: (LDM p223)
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
@@ -17,6 +17,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, épuisé, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun des profondeurs
 - **Dangerosité** 1/2 (100 PX)
 
 **_Tactique de meute._** La goule mendiante est avantagée sur les jets d'attaque contre une créature si au moins l'un de ses alliés non neutralisé se trouve dans un rayon de 1,50 mètre autour de cette créature.

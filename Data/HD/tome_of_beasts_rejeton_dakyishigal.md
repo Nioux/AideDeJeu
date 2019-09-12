@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |15 (+2)|13 (+1)|19 (+4)|10 (+0)|11 (+0)|12 (+1)|
 
+- **Jet de sauvegarde** Dex +4
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10

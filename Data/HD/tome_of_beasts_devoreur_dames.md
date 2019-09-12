@@ -20,6 +20,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** paralysé, empoisonné, étourdi, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 13 Langue infernal
+- **Langue** infernal
 - **Dangerosité** 7 (2 900PX)
 
 **_Lié au lanceur de sorts._** Quand un dévoreur d'âmes est invoqué, il crée un lien mental entre son invocateur et lui. Si la cible assignée au dévoreur d'âmes (voir le pouvoir trouver la cible) meurt avant qu'il ne puisse drainer son âme ou si elle le vainc sans le tuer, il retourne aussi vite que possible auprès de son invocateur et attaque ce dernier. Tant qu'ils sont tous deux sur le même plan, le dévoreur peut utiliser le pouvoir trouver la cible pour le localiser.

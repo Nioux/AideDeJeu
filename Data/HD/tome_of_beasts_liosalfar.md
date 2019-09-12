@@ -4,7 +4,7 @@
 
 # Liosalfar
 
-- Source: (LDM p)
+- Source: (LDM p273)
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 17
 - **Points de vie** 110 (20d10)

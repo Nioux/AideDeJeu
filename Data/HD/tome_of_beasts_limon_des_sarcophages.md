@@ -15,6 +15,7 @@
 |14 (+2)|12 (+1)|18 (+4)|3 (−4)|12 (+1)|12 (+1)|
 
 - **Jets de sauvegarde** Sag +4, Cha +4
+- **Compétence** Discrétion +4
 - **Résistance aux dégâts** d'acide, nécrotiques
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre

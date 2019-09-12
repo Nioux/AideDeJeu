@@ -15,9 +15,11 @@
 |15 (+2)|22 (+6)|10 (+0)|14 (+2)|16 (+3)|10 (+0)|
 
 - **Jets de sauvegarde** Con +4, Int +6, Sag +7, Cha +4
+- **Compétence** Discrétion +10
 - **Immunité contre les dégâts** nécrotiques
 - **Immunité contre les états** à terre, épuisé, pétrifié
 - **Sens** vision parfaite 18m, Perception passive 13
+- **Langue** télépathie à 18 m
 - **Dangerosité** 11 (7 200PX)
 
 **_Nourri de ténèbres._** Si un vidien se trouve dans des ténèbres magiques au début de son tour, il guérit de 5 points de vie.

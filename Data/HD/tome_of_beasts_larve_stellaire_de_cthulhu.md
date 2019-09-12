@@ -4,7 +4,7 @@
 
 # Larve Stellaire De Cthulhu
 
-- Source: (LDM p)
+- Source: (LDM p263)
 -  Fiélon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)

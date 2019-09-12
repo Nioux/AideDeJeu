@@ -4,7 +4,7 @@
 
 # Mimique Des Dunes
 
-- Source: (LDM p)
+- Source: (LDM p303)
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |20 (+5)|8 (-1)|18 (+4)|9 (-1)|13 (+1)|10 (+0)|
 
+- **Compétence** Perception +4
 - **Immunité contre les dégâts** d'acide
 - **Immunité contre l'état** à terre
 - **Sens** vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 14

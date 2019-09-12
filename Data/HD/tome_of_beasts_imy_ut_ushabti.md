@@ -4,7 +4,7 @@
 
 # Imy-Ut Ushabti
 
-- Source: (LDM p)
+- Source: (LDM p249)
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 97 (15d8+30)
@@ -19,6 +19,7 @@
 - **Résistance aux dégâts** contondants
 - **Immunité contre les états** épuisé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun (ancien nurien)
 - **Dangerosité** 3 (700 PX)
 
 **_Régénération._** L'imy-ut ushabti récupère 5 points de vie au début de son tour s'il lui reste au moins 1 point de vie.

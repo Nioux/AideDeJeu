@@ -4,7 +4,7 @@
 
 # Nécrophore
 
-- Source: (LDM p)
+- Source: (LDM p317)
 -  Bête de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (15d10+45)

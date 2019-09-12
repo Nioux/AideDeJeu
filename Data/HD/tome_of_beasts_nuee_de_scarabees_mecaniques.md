@@ -4,7 +4,7 @@
 
 # Nuée De Scarabées Mécaniques
 
-- Source: (LDM p)
+- Source: (LDM p329)
 -  Grande nuée de créatures artificielles de Très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (8d10+8)

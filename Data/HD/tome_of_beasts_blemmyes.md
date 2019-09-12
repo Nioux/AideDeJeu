@@ -16,6 +16,7 @@
 
 - **Compétences** Intimidation +3
 - **Sens** vision dans le noir 18m, Perception passive 11
+- **Langue** géant
 - **Dangerosité** 8 (3900 PX)
 
 **_Compulsion carnivore._** Si un blemmye voit une créature neutralisée, il doit faire un jet de sauvegarde de Sagesse DD11. Sur un échec, il ne peut résister à la tentation de se déplacer vers cette créature pour l'attaquer.

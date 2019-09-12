@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |21 (+5)|14 (+2)|20 (+5)|2 (-4)|10 (+0)|2 (-4)|
 
+- **Jet de sauvegarde** Con +11
 - **Sens** vision aveugle 9 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)

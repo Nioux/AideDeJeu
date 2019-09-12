@@ -4,7 +4,7 @@
 
 # Fourmi Géante
 
-- Source: (LDM p)
+- Source: (LDM p199)
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d10+14)

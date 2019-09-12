@@ -4,7 +4,7 @@
 
 # Dragon De Flammes, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p127)
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)

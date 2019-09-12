@@ -4,7 +4,7 @@
 
 # Géant Du Désert
 
-- Source: (LDM p)
+- Source: (LDM p203)
 -  Géant de Très Grande taille (TG), neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)

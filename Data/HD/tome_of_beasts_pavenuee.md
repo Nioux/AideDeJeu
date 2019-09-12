@@ -4,7 +4,7 @@
 
 # Pavenuée
 
-- Source: (LDM p)
+- Source: (LDM p337)
 -  Nuée de Grande taille composée de bêtes de Très Petite taille (TP), non
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 36 (8d8)

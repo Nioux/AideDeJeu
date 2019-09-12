@@ -15,6 +15,7 @@
 |14 (+2)|16 (+3)|12 (+1)|14 (+2)|12 (+1)|18 (+4)|
 
 - **Jets de sauvegarde** Dex+6, Sag +4, Cha+7
+- **Compétence** Perception +4
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 14

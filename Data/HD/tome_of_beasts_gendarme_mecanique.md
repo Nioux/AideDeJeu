@@ -14,10 +14,12 @@
 |---|---|---|---|---|---|
 |14 (+2)|12 (+1)|12 (+1)|5 (-3)|10 (+0)|1 (-5)|
 
+- **Jet de sauvegarde** Con +3
 - **Compétences** Athlétisme+4, Perception+4
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Forme immuable._** Un gendarme mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

@@ -4,7 +4,7 @@
 
 # Murène Dragon
 
-- Source: (LDM p)
+- Source: (LDM p147)
 -  Dragon de Très Grande taille (TG), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)

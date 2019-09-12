@@ -4,7 +4,7 @@
 
 # Manteau Vide
 
-- Source: (LDM p)
+- Source: (LDM p285)
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d8)
@@ -15,6 +15,7 @@
 |18 (+4)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|1 (–5)|
 
 - **Jets de sauvegarde** Dex +4, Con +2
+- **Compétence** Discrétion +4
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** contondants
 - **Immunité contre les dégâts** de poison

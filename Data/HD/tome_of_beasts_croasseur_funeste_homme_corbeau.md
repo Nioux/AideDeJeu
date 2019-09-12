@@ -4,7 +4,7 @@
 
 # Croasseur Funeste Homme-Corbeau
 
-- Source: (LDM p)
+- Source: (LDM p241)
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 88 (16d8+16)

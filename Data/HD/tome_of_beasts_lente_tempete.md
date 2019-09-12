@@ -4,7 +4,7 @@
 
 # Lente Tempête
 
-- Source: (LDM p)
+- Source: (LDM p265)
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19
 - **Points de vie** 225 (18d12+108)

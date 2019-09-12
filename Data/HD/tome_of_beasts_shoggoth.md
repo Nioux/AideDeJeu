@@ -4,7 +4,7 @@
 
 # Shoggoth
 
-- Source: (LDM p)
+- Source: (LDM p365)
 -  Aberration de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 387 (25d12+225)
@@ -14,10 +14,12 @@
 |---|---|---|---|---|---|
 |26 (+8)|14 (+2)|28 (+9)|12 (+1)|16 (+3)|13 (+1)|
 
+- **Compétence** Perception +9
 - **Résistance aux dégâts** de feu, contondants et perforants
 - **Immunité contre les dégâts** de froid, de tonnerre, tranchants
 - **Immunité contre les états** aveuglé, assourdi, à terre, étourdi, inconscient
 - **Sens** vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
+- **Langue** langue du Vide
 - **Dangerosité** 19 (22 000 PX)
 
 **_Anaérobie._** Le shoggoth n'a pas besoin d'oxygène pour vivre. Il vit aussi bien au fond de l'océan que dans le vide de l'espace.

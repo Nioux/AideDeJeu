@@ -21,6 +21,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** télépathie à 18 m
 - **Dangerosité** 8 (3 900PX)
 
 **_Aura d'apostasie._** La présence de l'idole divine fait douter les fidèles dévoués de leur foi. Un clerc ou un paladin qui voit l'idole et désire lancer un sort ou utiliser un pouvoir de classe doit réussir un jet de sauvegarde de Sagesse DD 16. En cas d'échec, le sort ou le pouvoir est dépensé, mais n'a aucun effet.

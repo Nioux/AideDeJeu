@@ -4,7 +4,7 @@
 
 # Génie Al-Aeshma
 
-- Source: (LDM p)
+- Source: (LDM p209)
 -  Élémentaire de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 172 (15d10+90)

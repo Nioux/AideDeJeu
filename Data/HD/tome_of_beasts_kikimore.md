@@ -4,7 +4,7 @@
 
 # Kikimore
 
-- Source: (LDM p)
+- Source: (LDM p253)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 65 (10d8+20)

@@ -4,7 +4,7 @@
 
 # Golem Smaragdin
 
-- Source: (LDM p)
+- Source: (LDM p215)
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
 - **Vitesse** 9m

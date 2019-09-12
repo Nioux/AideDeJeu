@@ -4,7 +4,7 @@
 
 # Ancien Drake Des Ombres
 
-- Source: (LDM p)
+- Source: (LDM p153)
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 114 (12d10+48)

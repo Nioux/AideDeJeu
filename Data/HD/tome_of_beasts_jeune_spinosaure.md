@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |23 (+6)|11 (+0)|19 (+4)|2 (-4)|11 (+0)|8 (-1)|
 
+- **Compétence** Perception +3
 - **Sens** Perception passive 13
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)

@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de froid, de poison
 - **Immunité contre les états** empoisonné, paralysé, terrorisé
 - **Sens** vision aveugle 36 m, Perception passive 10
+- **Langue** aquatique
 - **Dangerosité** 26 (90 000PX)
 
 **_Carapace renforcée._** Le zaratan ignore les attaques portées contre sa carapace, à moins que l'une d'elles ne lui inflige au minimum 30 points de dégâts. Cette aptitude ne fonctionne pas contre les attaques portées contre sa tête ou ses nageoires.

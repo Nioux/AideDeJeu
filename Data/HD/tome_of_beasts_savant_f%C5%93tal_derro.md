@@ -15,6 +15,7 @@
 |1 (-5)|1 (-5)|6 (-2)|6 (-2)|12 (+1)|20 (+5)|
 
 - **Jets de sauvegarde** Sag +3, Cha +7
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** psychiques
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 13

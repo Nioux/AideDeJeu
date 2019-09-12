@@ -4,7 +4,7 @@
 
 # Ratatosk
 
-- Source: (LDM p)
+- Source: (LDM p347)
 -  Céleste de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 42 (12d4+12)

@@ -20,6 +20,7 @@
 - **Immunité contre les dégâts** d'acide, de froid, de feu, de foudre, de poison, de tonnerre ; contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
 - **Sens** vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
+- **Langue** primordial
 - **Dangerosité** 17 (18 000PX)
 
 **_Résistance à la magie._** Un locus élémentaire est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

@@ -4,7 +4,7 @@
 
 # Étincelle
 
-- Source: (LDM p)
+- Source: (LDM p175)
 -  Élémentaire de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d4+52)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |4 (–3)|20 (+5)|18 (+4)|10 (+0)|12 (+1)|17 (+3)|
 
+- **Jet de sauvegarde** Dex +8
 - **Immunité contre les dégâts** de foudre
 - **Résistance aux dégâts** d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient

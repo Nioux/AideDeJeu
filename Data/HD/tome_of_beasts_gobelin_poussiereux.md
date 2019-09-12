@@ -4,7 +4,7 @@
 
 # Gobelin Poussiéreux
 
-- Source: (LDM p)
+- Source: (LDM p211)
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |8 (−1)|16 (+3)|14 (+2)|10 (+0)|8 (−1)|8 (−1)|
 
+- **Compétence** Discrétion +7
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** commun, gobelin

@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
 - **Sens** vision dans le noir 18m, perception des vibrations 9, Perception passive 11
+- **Langue** primordial
 - **Dangerosité** 2 (450 PX)
 
 **_Marche du sable._** Au lieu de bouger, la forme humanoïde d'un anubien peut se fragmenter en un tas de sable et se reformer à un autre emplacement inoccupé dans un rayon de 3mètres. Ce déplacement ne provoque pas d'attaque d'opportunité. Après avoir utilisé ce trait dans un terrain sablonneux, l'anubien peut se cacher dans le cadre de son déplacement, même s'il est en train d'être observé. Les anubiens peuvent utiliser leur marche du sable pour passer sous des portes ou traverser des obstacles similaires, pour peu que ceux-ci soient percés d'une ouverture assez large pour permettre le passage de sable.

@@ -18,6 +18,7 @@
 - **Compétences** Discrétion +11, Perception +10
 - **Immunité contre les dégâts** de tonnerre
 - **Sens** vision dans le noir 18m, Perception passive 20
+- **Langue** sylvestre
 - **Dangerosité** 9 (5000 PX)
 
 **_Retenir son souffle._** Un ukavac peut retenir son souffle pendant 20 minutes.

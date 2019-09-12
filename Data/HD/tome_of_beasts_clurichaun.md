@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |13 (+1)|12 (+1)|16 (+3)|10 (+0)|8 (-1)|16 (+3)|
 
+- **Jet de sauvegarde** Con +5
 - **Compétences** Discrétion +3, Perception +1,
 - **Immunité contre les états** empoisonné et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 11

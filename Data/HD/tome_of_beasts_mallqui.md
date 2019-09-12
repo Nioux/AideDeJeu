@@ -4,7 +4,7 @@
 
 # Mallqui
 
-- Source: (LDM p)
+- Source: (LDM p279)
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)

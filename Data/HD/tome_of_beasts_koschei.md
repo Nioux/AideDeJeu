@@ -4,7 +4,7 @@
 
 # Koschei
 
-- Source: (LDM p)
+- Source: (LDM p259)
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 135 (18d8+54)

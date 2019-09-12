@@ -25,8 +25,7 @@
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 
-**_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-5(1d4+3) dégâts perforants.
+**_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 5(1d4+3) dégâts perforants.
 
 **_Souffle de feu (Recharge 6)._** Un behtu crache du feu dans un cône de 4,50mètres. Chaque créature qui se trouve dans la zone d'effet subit 21 (5d8)dégâts de feu, ou moitié moins de dégâts si elle réussit un jet de sauvegarde de Dextérité DD13.
 

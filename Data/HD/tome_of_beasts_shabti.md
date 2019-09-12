@@ -4,7 +4,7 @@
 
 # Shabti
 
-- Source: (LDM p)
+- Source: (LDM p363)
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d8+48)

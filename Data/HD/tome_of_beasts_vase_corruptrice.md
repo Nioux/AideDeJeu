@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |16 (+3)|10 (+0)|22 (+6)|4 (-3)|2 (-4)|1 (-5)|
 
+- **Compétence** Discrétion +3
 - **Résistance aux dégâts** tranchants, contondants
 - **Immunité contre les dégâts** d'acide, de feu et de poison
 - **Immunité contre les états** empoisonné, épuisé, paralysé, pétrifié, terrorisé

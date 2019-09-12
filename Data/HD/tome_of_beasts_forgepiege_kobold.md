@@ -4,7 +4,7 @@
 
 # Forgepiège Kobold
 
-- Source: (LDM p)
+- Source: (LDM p257)
 -  Humanoïde de Petite taille (P), loyal neutre
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 36 (8d6+8)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |7 (−2)|16 (+3)|12 (+1)|16 (+3)|13 (+1)|8 (−1)|
 
+- **Compétence** Discrétion +5
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** commun, draconique
 - **Dangerosité** 1 (200 PX)

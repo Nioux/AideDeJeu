@@ -4,7 +4,7 @@
 
 # Guenaude Sanglante
 
-- Source: (LDM p)
+- Source: (LDM p231)
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 178 (21d8+84)

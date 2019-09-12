@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 5 (1 800PX)
 
 **_Cheveux agrippants._** Les cheveux d'une belle noyée attaquent comme s'ils étaient trois membres séparés. Chacun peut ainsi être pris pour cible (CA 19; 15 points de vie; immunité contre les dégâts nécrotiques, de poison et psychiques; résistance aux dégâts contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent). Une mèche de cheveux peut être brisée par une créature si celle-ci, par une action, réussit un test de Force DD 15 contre elle.

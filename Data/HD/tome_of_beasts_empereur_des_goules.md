@@ -4,7 +4,7 @@
 
 # Empereur Des Goules
 
-- Source: (LDM p)
+- Source: (LDM p219)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 204 (24d8+96)

@@ -4,7 +4,7 @@
 
 # Jaculus
 
-- Source: (LDM p)
+- Source: (LDM p251)
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 65 (10d6+30)

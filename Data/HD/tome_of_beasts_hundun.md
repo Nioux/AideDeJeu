@@ -4,7 +4,7 @@
 
 # Hundun
 
-- Source: (LDM p)
+- Source: (LDM p247)
 -  Céleste de Grande taille (G), chaotique bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 153 (18d10+54)

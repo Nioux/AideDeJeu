@@ -20,6 +20,7 @@
 - **Immunité contre les dégâts** de feu, de froid, de poison
 - **Immunité contre les états** empoisonné, épuisé, paralysé, pétrifié, terrorisé
 - **Sens** vision dans le noir 60 m, Perception passive 13
+- **Langue** commun
 - **Dangerosité** 8 (3 900PX)
 
 **_Cœur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.

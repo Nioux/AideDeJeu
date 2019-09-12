@@ -15,6 +15,7 @@
 |26 (+8)|10 (+0)|18 (+4)|2 (–4)|11 (+0)|6 (–2)|
 
 - **Jets de sauvegarde** Con +7, Sag +3, Cha +1
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 13

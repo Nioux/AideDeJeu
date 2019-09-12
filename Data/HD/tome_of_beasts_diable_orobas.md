@@ -4,7 +4,7 @@
 
 # Diable Orobas
 
-- Source: (LDM p)
+- Source: (LDM p115)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 261 (14d10+126)
@@ -35,8 +35,7 @@
 
 **Constant:** détection du mal et du bien
 
-**À volonté:** augure, protection contre le mal et le bien, téléportation
-(seulement personnelle plus 25 kg d'objets)
+**À volonté:** augure, protection contre le mal et le bien, téléportation (seulement personnelle plus 25 kg d'objets)
 
 **5/jour chacun** : boule de feu, jeter une malédiction, rayon ardent
 

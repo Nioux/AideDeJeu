@@ -4,7 +4,7 @@
 
 # Nuée De Sluaghs
 
-- Source: (LDM p)
+- Source: (LDM p331)
 -  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique
 - **Classe d'armure** 13
 - **Points de vie** 54 (12d8)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |6 (–2)|16 (+3)|11 (+0)|6 (–2)|13 (+1)|10 (+0)|
 
+- **Compétence** Discrétion +5
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants
 - **Immunité contre les états** charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi

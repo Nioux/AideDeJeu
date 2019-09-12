@@ -4,7 +4,7 @@
 
 # Cavalier De Baba Yaga, Base
 
-- Source: (LDM p)
+- Source: (LDM p267)
 -  Fée de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 20 (harnois et bouclier)
 - **Points de vie** 171 (18d8+90)

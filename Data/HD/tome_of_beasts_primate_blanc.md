@@ -4,7 +4,7 @@
 
 # Primate Blanc
 
-- Source: (LDM p)
+- Source: (LDM p341)
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 |18 (+4)|16 (+3)|18 (+4)|8 (-1)|14 (+2)|8 (-1)|
 
+- **Compétences** Acrobaties +6, Athlétisme +7, Discrétion +6, Intimidation +2, Perception +5
 - **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Haine des lanceurs de sorts._** Le primate blanc inflige un dé de dégâts de plus (respectivement d8 ou d10) par attaque contre un ennemi s'il l'a vu lancer un sort.

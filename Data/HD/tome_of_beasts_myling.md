@@ -14,10 +14,12 @@
 |---|---|---|---|---|---|
 |15 (+2)|10 (+0)|12 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
+- **Compétence** Discrétion +4
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, terrorisé, empoisonné, étourdi, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 2 (450PX)
 
 ## ACTIONS

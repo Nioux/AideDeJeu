@@ -18,6 +18,7 @@
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
 - **Sens** vision aveugle 18 m, Perception passive 11
+- **Langue** commun mais ne peut pas parler
 - **Dangerosité** 4 (1 100PX)
 
 **_Reconstitution._** S'il est détruit, un edimmu se relève de nouveau d'entre les morts au bout de 2d4 jours. Afin de le détruire de manière définitive, il faut enterrer ses restes mortels de manière appropriée sur une terre consacrée ou sanctifiée. Les edimmus s'éloignent rarement de plus de 1,50 kilomètre de l'endroit de leur mort.

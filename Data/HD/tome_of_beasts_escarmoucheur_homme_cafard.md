@@ -17,6 +17,7 @@
 - **Jets de sauvegarde** Dex +4, Con +2
 - **Compétences** Acrobaties +4, Discrétion +6
 - **Sens** vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
+- **Langue** commun
 - **Dangerosité** 1/4 (50 PX)
 
 **_Résistant._** L'escarmoucheur est avantagé lors des jets de sauvegarde de Constitution.

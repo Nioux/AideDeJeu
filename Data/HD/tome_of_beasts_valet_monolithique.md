@@ -4,7 +4,7 @@
 
 # Valet Monolithique
 
-- Source: (LDM p)
+- Source: (LDM p309)
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 60 (8d10+16)

@@ -4,7 +4,7 @@
 
 # Archimandrite Profond
 
-- Source: (LDM p)
+- Source: (LDM p343)
 -  Humanoïde de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 153 (18d10+54)

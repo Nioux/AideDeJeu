@@ -14,9 +14,11 @@
 |---|---|---|---|---|---|
 |7 (–2)|18 (+4)|10 (+0)|4 (–3)|16 (+3)|6 (–2)|
 
+- **Compétence** Perception +5
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** primordial
 - **Dangerosité** 2 (450PX)
 
 **_Caché par la lueur du feu._** Quand il se trouve dans une zone éclairée seulement par des flammes non magiques, un esprit du feu gagne un bonus de +2 à ses tests de Discrétion. Ce bonus devient +4 quand il se cache dans le feu.

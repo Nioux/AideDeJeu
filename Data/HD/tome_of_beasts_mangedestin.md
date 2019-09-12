@@ -14,9 +14,11 @@
 |---|---|---|---|---|---|
 |18 (+4)|12 (+1)|14 (+2)|18 (+4)|16 (+3)|9 (–1)|
 
+- **Jet de sauvegarde** Con +5
 - **Compétences** Arcanes +7, Histoire +7, Perspicacité+6, Religion +7
 - **Immunité contre les états** charmé, inconscient
 - **Sens** vision parfaite 18m, Perception passive 13
+- **Langue** télépathie 30 m
 - **Dangerosité** 6 (2 300PX)
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un mangedestin est l'Intelligence (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:

@@ -4,7 +4,7 @@
 
 # Homme-Chèvre
 
-- Source: (LDM p)
+- Source: (LDM p239)
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)

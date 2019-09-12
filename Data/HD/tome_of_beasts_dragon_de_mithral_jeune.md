@@ -4,7 +4,7 @@
 
 # Dragon De Mithral, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p131)
 -  Dragon de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 92 (16d8+20)

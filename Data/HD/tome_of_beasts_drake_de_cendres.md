@@ -4,7 +4,7 @@
 
 # Drake De Cendres
 
-- Source: (LDM p)
+- Source: (LDM p149)
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 117 (18d6+54)
@@ -14,6 +14,8 @@
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|16 (+3)|9 (-1)|15 (+2)|10 (+0)|
 
+- **Jet de sauvegarde** Dex +4
+- **Compétence** Discrétion +4
 - **Résistance aux dégâts** de feu
 - **Immunité contre les états** inconscient, paralysé
 - **Sens** vision dans le noir 18 m, Perception passive 12

@@ -4,7 +4,7 @@
 
 # Stryx
 
-- Source: (LDM p)
+- Source: (LDM p373)
 -  Créature monstrueuse de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 10 (4d4)

@@ -4,7 +4,7 @@
 
 # Chort
 
-- Source: (LDM p)
+- Source: (LDM p107)
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (15d8+120)

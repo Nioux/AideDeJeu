@@ -4,7 +4,7 @@
 
 # Spinosaure
 
-- Source: (LDM p)
+- Source: (LDM p119)
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 231 (14d20+84)

@@ -17,6 +17,7 @@
 - **Jets de sauvegarde** Dex +5, Con +3
 - **Compétences** Acrobaties +5, Discrétion +7
 - **Sens** vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
+- **Langue** commun
 - **Dangerosité** 2 (450PX)
 
 **_Résistant._** Comme l'escarmoucheur homme-cafard.

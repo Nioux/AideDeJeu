@@ -20,12 +20,12 @@ SubItems:
   Speed: 3m, nage 12m, vol 12m (uniquement sous forme éthérée, vol stationnaire)
   SavingThrows: Con +6, Int +8, Sag +6
   Skills: Histoire +12, Perception +10
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée); contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (seulement sous sa forme éthérée)
-  ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
   Senses: vision dans le noir 36m, Perception passive 20
   Languages: langue du Vide, télépathie 36m
   Challenge: 12 (8400 PX)
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée); contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (seulement sous sa forme éthérée)
+  ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
   Id: tome_of_beasts.md#nihileth
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -165,11 +165,7 @@ SubItems:
 
 
 
-      **_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché:
-
-
-
-      15(3d6+5) dégâts contondants.
+      **_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché: 15(3d6+5) dégâts contondants.
 
 
 
@@ -229,7 +225,31 @@ SubItems:
 
 
 
+      À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), un nihileth peut effectuer une action d’antre afin de créer un effet magique comme s’il était un aboleth, ou utiliser l’action absorption du Vide détaillée ci-dessous. Le nihileth ne peut pas utiliser le même effet deux rounds de suite.
+
+
+
+
+
+      * Absorption du Vide. Un nihileth peut puiser dans l’énergie vitale de ceux qu’il a convertis en zombis nihilethiques pour regagner de la vie. Ce pouvoir lui permet de puiser 18 (6d6) points de vie auprès des zombis qui se trouvent dans un rayon de 9 mètres de lui. Ces points sont séparés équitablement entre les zombis et permettent de soigner le nihileth. Si un zombi est réduit à 0 point de vie à cause de cette action, il meurt et ne fait pas de jet le sauvegarde permis par Robustesse de la non-vie.
+
+
+
+
+
       ## EFFETS RÉGIONAUX
+
+
+
+
+
+      Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’un aboleth, à l’exception du point suivant.
+
+
+
+
+
+      * Les sources d’eau qui se trouvent dans un rayon de 1,50 kilomètre de l’antre d’un nihileth sont non seulement souillées surnaturellement par sa présence, mais peuvent également propager sa maladie. Une créature qui boit une telle eau doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver infectée.
 
 
 
@@ -274,12 +294,12 @@ SubItems:
   HitPoints: 22 (3d8+9)
   Speed: 6m, nage 9m
   SavingThrows: Sag +0
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (uniquement sous forme éthérée)
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18m, Perception passive 8
   Languages: comprend la langue du Vide et toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
   Challenge: 1 (200 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (uniquement sous forme éthérée)
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#zombi-nihilethique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -379,15 +399,7 @@ SubItems:
 
 
 
-      **_Coup (uniquement sous forme_** matérielle). _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50m, une cible. Touché: 4 (1d6+1) dégâts contondants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou tomber malade. Cette maladie a peu d'effet pendant 1minute; pendant ce laps de temps, elle peut être guérie à l'aide de bénédiction, de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors pas récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison
-
-
-
-      ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10minutes. Si une créature meurt alors qu'elle est affectée par cette maladie,
-
-
-
-      elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth qui contrôle déjà le zombi qui lui a transmis la maladie.
+      **_Coup (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50m, une cible. Touché: 4 (1d6+1) dégâts contondants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou tomber malade. Cette maladie a peu d'effet pendant 1minute; pendant ce laps de temps, elle peut être guérie à l'aide de bénédiction, de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors pas récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10minutes. Si une créature meurt alors qu'elle est affectée par cette maladie, elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth qui contrôle déjà le zombi qui lui a transmis la maladie.
 
 
 
@@ -453,15 +465,18 @@ SubItems:
   Family: TomeOfBeasts
   Name: Ala
   Source: (LDM p11)
+  Type: Fée
+  Size: M
+  Alignment: chaotique mauvaise
   ArmorClass: 17 (armure naturelle)
   HitPoints: 127 (15d8+60)
   Speed: 9m, vol12m
   Skills: Athétisme +8, Discrétion +6, Perception +9
-  DamageImmunities: de foudre, de poison, de tonnerre
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18m, Perception passive 19
   Languages: commun, draconique
   Challenge: 8 (3900 PX)
+  DamageImmunities: de foudre, de poison, de tonnerre
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#ala
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -481,7 +496,7 @@ SubItems:
 
 
 
-      -  Fée de taille Moyenne,
+      -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 
 
 
@@ -587,6 +602,12 @@ SubItems:
 
     Source: (LDM p11)
 
+    Type: Fée
+
+    Size: M
+
+    Alignment: chaotique mauvaise
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 127 (15d8+60)
@@ -617,12 +638,12 @@ SubItems:
   Speed: 12m, vol 12 m
   SavingThrows: Dex +6, Con +8, Sag +7, Cha +8
   Skills: Athletisme +9, Investigation +5, Perception +7, Perspicacité +7
-  DamageResistances: d'acide, de froid, de foudre
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18m, Perception passive 17
   Languages: commun, céleste, draconique, infernal
   Challenge: 10 (5900 PX)
+  DamageResistances: d'acide, de froid, de foudre
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#algorith
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -803,8 +824,8 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
-  ArmorClass: 14 (armure de cuir)15 (armure de cuir clouté)
-  HitPoints: 49 (9d8+9)71 (13d8+13)
+  ArmorClass: 14 (armure de cuir)
+  HitPoints: 49 (9d8+9)
   Speed: 12m
   Skills: Discrétion +5, Nature +3, Perception +5, Survie +5
   Senses: vision dans le noir 18m, Perception passive 15
@@ -891,11 +912,7 @@ SubItems:
 
 
 
-      **_Lance._** Attaque d'arme au corps à corps ou à distance: +3 pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-
-
-
-      4(1d6+1)dégâts perforants ou 5(1d8+1)dégâts perforants si elle est utilisée à deux mains pour porter une attaque de corps à corps.
+      **_Lance._** Attaque d'arme au corps à corps ou à distance: +3 pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 4(1d6+1)dégâts perforants ou 5(1d8+1)dégâts perforants si elle est utilisée à deux mains pour porter une attaque de corps à corps.
 
 
 
@@ -905,6 +922,63 @@ SubItems:
 
 
 
+    Source: (LDM p13)
+
+    Type: Créature monstrueuse
+
+    Size: M
+
+    Alignment: chaotique neutre
+
+    ArmorClass: 14 (armure de cuir)
+
+    HitPoints: 49 (9d8+9)
+
+    Speed: 12m
+
+    Skills: Discrétion +5, Nature +3, Perception +5, Survie +5
+
+    Senses: vision dans le noir 18m, Perception passive 15
+
+    Languages: commun, elfique, sylvestre
+
+    Challenge: 1/2 (100 PX)
+
+- !MonsterItem
+  Family: TomeOfBeasts
+  Name: Gardienne des bocages Alséide
+  Source: (LDM p13)
+  Type: Créature monstrueuse
+  Size: M
+  Alignment: chaotique neutre
+  ArmorClass: 15 (armure de cuir clouté)
+  HitPoints: 71 (13d8+13)
+  Speed: 12m
+  Skills: Discrétion +5, Nature +3, Perception +5, Survie +5
+  Senses: vision dans le noir 18m, Perception passive 15
+  Languages: commun, elfique, sylvestre, druidique
+  Challenge: 3 (700 PX)
+  Id: tome_of_beasts.md#gardienne-des-bocages-alséide
+  ParentLink: tome_of_beasts.md#livre-des-monstres
+  ParentName: Livre des monstres
+  NameLevel: 1
+  AttributesDictionary: >+
+    Name: Gardienne des bocages Alséide
+
+    Markdown: >+
+
+      # <!--Name-->Gardienne des bocages Alséide<!--/Name-->
+
+
+
+
+
+      - Source: <!--Source-->(LDM p13)<!--/Source-->
+
+
+
+      -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
 
 
       - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
@@ -912,6 +986,48 @@ SubItems:
 
 
       - **Points de vie** <!--HitPoints-->71 (13d8+13)<!--/HitPoints-->
+
+
+
+      - **Vitesse** <!--Speed-->12m<!--/Speed-->
+
+
+
+
+
+      |FOR|DEX|CON|INT|SAG|CHA|
+
+
+
+      |---|---|---|---|---|---|
+
+
+
+      |13 (+1)|17 (+3)|12 (+1)|8 (-1)|16 (+3)|8 (-1)|
+
+
+
+
+
+      - **Compétences** <!--Skills-->Discrétion +5, Nature +3, Perception +5, Survie +5<!--/Skills-->
+
+
+
+      - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 15<!--/Senses-->
+
+
+
+      - **Langues** <!--Languages-->commun, elfique, sylvestre, druidique<!--/Languages-->
+
+
+
+      - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
+
+
+
+
+
+      **_Amie des bois._** Quand une alséide est dans une forêt, elle ne laisse pas de trace et sait automatiquement où se trouve le vrai nord.
 
 
 
@@ -945,13 +1061,21 @@ SubItems:
 
 
 
-      Remplacez l'action lance de l'alséide par la suivante:
+
+
+      ## ACTIONS
 
 
 
 
 
       **_Bâton._** _Attaque d'arme au corps à corps :_ +3 pour toucher (+5 avec gourdin magique ), allonge 1,50m, une créature.
+
+
+
+
+
+      **_Arc court._** Attaque d'arme à distance: +5 pour toucher, portée 24/94m, une cible. Touché: 6 (1d6+3)dégâts perforants.
 
 
 
@@ -963,9 +1087,9 @@ SubItems:
 
     Alignment: chaotique neutre
 
-    ArmorClass: 14 (armure de cuir)15 (armure de cuir clouté)
+    ArmorClass: 15 (armure de cuir clouté)
 
-    HitPoints: 49 (9d8+9)71 (13d8+13)
+    HitPoints: 71 (13d8+13)
 
     Speed: 12m
 
@@ -973,9 +1097,9 @@ SubItems:
 
     Senses: vision dans le noir 18m, Perception passive 15
 
-    Languages: commun, elfique, sylvestre
+    Languages: commun, elfique, sylvestre, druidique
 
-    Challenge: 1/2 (100 PX)
+    Challenge: 3 (700 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
@@ -1266,11 +1390,11 @@ SubItems:
   Speed: 18m, fouissement 6m, escalade 6m, nage 18m
   SavingThrows: Con +12, Sag +9, Cha +11
   Skills: Arcanes +5, Perception +9, Religion +5
-  DamageResistances: d'acide, de froid, de feu, de foudre
-  DamageImmunities: psychiques
   Senses: vision dans le noir 18m, perception des vibrations 36m, Perception passive 19
   Languages: commun, céleste, géant, sylvestre
   Challenge: 15 (13000 PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre
+  DamageImmunities: psychiques
   Id: tome_of_beasts.md#andrenjinyi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1473,12 +1597,12 @@ SubItems:
   HitPoints: 85 (10d8+40)
   Speed: 15m
   Skills: Discrétion +8, Perception +4
-  DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, épuisé, terrorisé
   Senses: vision dans le noir 18m, Perception passive 14
   Languages: toutes les langues qu'il connaissait de son vivant
   Challenge: 6 (2300 PX)
+  DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, épuisé, terrorisé
   Id: tome_of_beasts.md#angatra
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1560,11 +1684,7 @@ SubItems:
 
 
 
-      **_Regard d'agonie._** Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9mètres de celui-ci et que l'angatra n'est pas neutralisé et peut voir la créature, alors celle-ci doit faire un jet de sauvegarde de Charisme DD13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce jet de sauvegarde en détournant les yeux au début de son tour. Une créature qui
-
-
-
-      détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le jet de sauvegarde.
+      **_Regard d'agonie._** Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9mètres de celui-ci et que l'angatra n'est pas neutralisé et peut voir la créature, alors celle-ci doit faire un jet de sauvegarde de Charisme DD13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce jet de sauvegarde en détournant les yeux au début de son tour. Une créature qui détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le jet de sauvegarde.
 
 
 
@@ -1632,11 +1752,11 @@ SubItems:
   Speed: 9m, vol 18m
   SavingThrows: Dex +6, Sag +7, Cha +8
   Skills: Perception +7
-  DamageResistances: perforants
-  DamageImmunities: de feu, radiants
   Senses: vision dans le noir 60m, Perception passive 17
   Languages: commun, céleste, infernal
   Challenge: 8 (3900 PX)
+  DamageResistances: perforants
+  DamageImmunities: de feu, radiants
   Id: tome_of_beasts.md#ange-enchaîné
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1736,11 +1856,7 @@ SubItems:
 
 
 
-      **_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché:
-
-
-
-      11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu.
+      **_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché: 11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu.
 
 
 
@@ -1802,12 +1918,12 @@ SubItems:
   Speed: 12m, vol 12m (forme d'ange), ou 3m, vol 24m (forme d'aigle)
   SavingThrows: Dex +7, Con +5, Int +5, Sag +6, Cha +7
   Skills: Perception +6, Perspicacité +6
-  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: d'acide, de froid
-  ConditionImmunities: charmé, empoisonné, pétrifié
   Senses: vision dans le noir 18m, Perception passive 16
   Languages: commun, céleste, infernal
   Challenge: 5 (1800 PX)
+  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: d'acide, de froid
+  ConditionImmunities: charmé, empoisonné, pétrifié
   Id: tome_of_beasts.md#ange-fidèle
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -1941,11 +2057,7 @@ SubItems:
 
 
 
-      **_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation
-
-
-
-      1/jour pour le rejoindre.
+      **_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation 1/jour pour le rejoindre.
 
 
 
@@ -1981,21 +2093,13 @@ SubItems:
 
 
 
-      **_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-
-
-
-      9(1d8+ 5) dégâts perforants.
+      **_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 9(1d8+ 5) dégâts perforants.
 
 
 
 
 
-      **_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-
-
-
-      12 (2d6+5)dégâts tranchants.
+      **_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 12 (2d6+5)dégâts tranchants.
 
 
 
@@ -2040,11 +2144,12 @@ SubItems:
   HitPoints: 44 (8d8+8)
   Speed: 9m
   Skills: Discrétion +5 (+7 dans un terrain sablonneux)
+  Senses: vision dans le noir 18m, perception des vibrations 9, Perception passive 11
+  Languages: primordial
+  Challenge: 2 (450 PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
-  Senses: vision dans le noir 18m, perception des vibrations 9, Perception passive 11
-  Challenge: 2 (450 PX)
   Id: tome_of_beasts.md#anubien
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2116,6 +2221,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->primordial<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->2 (450 PX)<!--/Challenge-->
 
 
@@ -2180,6 +2289,8 @@ SubItems:
 
     Senses: vision dans le noir 18m, perception des vibrations 9, Perception passive 11
 
+    Languages: primordial
+
     Challenge: 2 (450 PX)
 
 - !MonsterItem
@@ -2192,12 +2303,12 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 44 (8d8+8)
   Speed: 9m
-  DamageResistances: contondants et perforants issus d'armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, épuisé
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: —
   Challenge: 2 (450PX)
+  DamageResistances: contondants et perforants issus d'armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, épuisé
   Id: tome_of_beasts.md#apparition-putride
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2340,11 +2451,11 @@ SubItems:
   HitPoints: 2 (1d4)
   Speed: 9 m, escalade 9 m
   Skills: Perception +2, Discrétion +5
-  DamageImmunities: psychiques
-  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: —
   Challenge: 1/4 (50 PX)
+  DamageImmunities: psychiques
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#araignée-À-lignes-rouges
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2488,11 +2599,11 @@ SubItems:
   Speed: 9 m, escalade 6 m
   SavingThrows: Dex+6, Con +6, Int +6
   Skills: Athlétisme +5, Perception +3, Discrétion +6
-  DamageResistances: de poison
-  ConditionImmunities: charmé, empoisonné, inconscient
   Senses: vision dans le noir 72 m, Perception passive 13
   Languages: commun, langue du Vide
   Challenge: 7 (2 900PX)
+  DamageResistances: de poison
+  ConditionImmunities: charmé, empoisonné, inconscient
   Id: tome_of_beasts.md#araignée-de-leng
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -2693,7 +2804,7 @@ SubItems:
   Alignment: non-alignée
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (14d10+28)
-  Speed: 9 m, fouissement 6 m 16(2d10+5) dégâts perforant plus 13 (3d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 13 réussi.
+  Speed: 9 m, fouissement 6 m
   Skills: Perception +4, Discrétion +6 (+9 dans le sable)
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14
   Languages: —
@@ -2729,19 +2840,7 @@ SubItems:
 
 
 
-      - **Vitesse** <!--Speed-->9 m, fouissement 6 m 16(2d10+5) dégâts perforant plus 13 (3d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 13 réussi.<!--/Speed-->
-
-
-
-
-
-      ## RÉACTIONS
-
-
-
-
-
-      **_Trappe à embuscade._** Quand une créature passe au-dessus du terrier caché d'une araignée des sables, cette dernière peut utiliser sa réaction pour attaquer cette créature avec deux attaques de pattes empaleuses. La créature est considérée comme surprise vis-à-vis de ces deux attaques. Si l'une de ces attaques touche, ou les deux, et que la cible est une créature de taille Moyenne ou inférieure, l'araignée et la cible entament un test de Force en opposition. Si la cible l'emporte, elle peut s'éloigner immédiatement de l'araignée de 1,50 mètre. En cas d'égalité, elle est empoignée (évasion DD 15). Si l'araignée gagne, elle empoigne la cible et la traîne dans son antre sur 9 mètres. Si la créature est encore empoignée au début du prochain tour de l'araignée, elle est à la place entravée. Une fois entravée, elle peut fuir si elle utilise une action et réussit un test de Force (Athlétisme) DD 15.
+      - **Vitesse** <!--Speed-->9 m, fouissement 6 m
 
 
 
@@ -2803,17 +2902,25 @@ SubItems:
 
 
 
-      **_Pattes empaleuses._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 3m, une cible. Touché:
-
-
-
-      11 (1d12+5) dégâts perforants. Si l'araignée des sables réussit un coup critique avec cette attaque, lancez les dés de dégâts trois fois au lieu de deux. Si les deux attaques de pattes empaleuses touchent la même cible, le second coup inflige 11 (1d12+5) dégâts perforants supplémentaires.
+      **_Pattes empaleuses._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 3m, une cible. Touché: 11 (1d12+5) dégâts perforants. Si l'araignée des sables réussit un coup critique avec cette attaque, lancez les dés de dégâts trois fois au lieu de deux. Si les deux attaques de pattes empaleuses touchent la même cible, le second coup inflige 11 (1d12+5) dégâts perforants supplémentaires.
 
 
 
 
 
-      **_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une créature. Touché:
+      **_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une créature. Touché: 16(2d10+5) dégâts perforant plus 13 (3d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 13 réussi.<!--/Speed-->
+
+
+
+
+
+      ## RÉACTIONS
+
+
+
+
+
+      **_Trappe à embuscade._** Quand une créature passe au-dessus du terrier caché d'une araignée des sables, cette dernière peut utiliser sa réaction pour attaquer cette créature avec deux attaques de pattes empaleuses. La créature est considérée comme surprise vis-à-vis de ces deux attaques. Si l'une de ces attaques touche, ou les deux, et que la cible est une créature de taille Moyenne ou inférieure, l'araignée et la cible entament un test de Force en opposition. Si la cible l'emporte, elle peut s'éloigner immédiatement de l'araignée de 1,50 mètre. En cas d'égalité, elle est empoignée (évasion DD 15). Si l'araignée gagne, elle empoigne la cible et la traîne dans son antre sur 9 mètres. Si la créature est encore empoignée au début du prochain tour de l'araignée, elle est à la place entravée. Une fois entravée, elle peut fuir si elle utilise une action et réussit un test de Force (Athlétisme) DD 15.
 
 
 
@@ -2829,7 +2936,7 @@ SubItems:
 
     HitPoints: 105 (14d10+28)
 
-    Speed: 9 m, fouissement 6 m 16(2d10+5) dégâts perforant plus 13 (3d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 13 réussi.
+    Speed: 9 m, fouissement 6 m
 
     Skills: Perception +4, Discrétion +6 (+9 dans le sable)
 
@@ -2989,12 +3096,12 @@ SubItems:
   Speed: 15 m, escalade 15 m
   SavingThrows: Dex +9, Cha +3
   Skills: Perception +6
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonnéparalysé, pétrifié, à terre, entravé, étourdi La marchespectre se termine quand l'araignée décide d'y mettre un terme par une action bonus ou quand elle meurt.
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
   Languages: comprend le commun des profondeurs mais ne peut pas parler
   Challenge: 9 (5 000PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonnéparalysé, pétrifié, à terre, entravé, étourdi La marchespectre se termine quand l'araignée décide d'y mettre un terme par une action bonus ou quand elle meurt.
   Id: tome_of_beasts.md#araignée-marchespectre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3172,12 +3279,13 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 54 (12d6+12)
   Speed: 9 m, escalade 6 m
-  DamageResistances: de feu
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Skills: Discrétion +3
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend le commun mais ne peut pas parler
   Challenge: 2 (450PX)
+  DamageResistances: de feu
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#araignée-voleuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3226,6 +3334,10 @@ SubItems:
       |10 (+0)|12 (+1)|12 (+1)|3 (–4)|10 (+0)|1 (–5)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +3<!--/Skills-->
 
 
 
@@ -3309,6 +3421,8 @@ SubItems:
 
     Speed: 9 m, escalade 6 m
 
+    Skills: Discrétion +3
+
     DamageResistances: de feu
 
     DamageImmunities: de poison et psychiques
@@ -3331,11 +3445,11 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 1,50m
-  DamageImmunities: Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d'acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur airain, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid.
-  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 36 m, Perception passive 11
   Languages: peut comprendre les mêmes langues que son créateur ou son maître désigné
   Challenge: 8 (3 900PX)
+  DamageImmunities: Un arbre feuilledragon possède les mêmes immunités que son géniteur. Les arbres couleur noir, cuivre et vert sont immunisés contre les dégâts d'acide ; les arbres couleur bleu et bronze sont immunisés contre les dégâts de foudre ; les arbres couleur airain, or et rouge sont immunisés contre les dégâts de feu ; et les arbres couleur argent et blanc sont immunisés contre les dégâts de froid.
+  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#arbre-feuilledragon
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3478,11 +3592,12 @@ SubItems:
   HitPoints: 94 (9d12+36)
   Speed: 6 m
   SavingThrows: Con +7, Sag +3, Cha +1
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Skills: Perception +3
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 8 (3 900PX)
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#arbre-pare-fées
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -3535,6 +3650,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Con +7, Sag +3, Cha +1<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -3627,6 +3746,8 @@ SubItems:
     Speed: 6 m
 
     SavingThrows: Con +7, Sag +3, Cha +1
+
+    Skills: Perception +3
 
     DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
 
@@ -3820,6 +3941,7 @@ SubItems:
   Speed: 12m, escalade 4,50m
   Skills: Acrobaties +4, Discrétion +4, Perception +3
   Senses: vision dans le noir 18m, Perception passive 13
+  Languages: géant
   Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#asanbosam
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -3877,6 +3999,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->géant<!--/Languages-->
 
 
 
@@ -3938,6 +4064,8 @@ SubItems:
 
     Senses: vision dans le noir 18m, Perception passive 13
 
+    Languages: géant
+
     Challenge: 5 (1800 PX)
 
 - !MonsterItem
@@ -3950,12 +4078,13 @@ SubItems:
   ArmorClass: 13
   HitPoints: 39 (6d8+12)
   Speed: 9m
-  DamageResistances: contondants et nécrotiques
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  Skills: Discrétion +5
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: comprend les langues qu'il parlait de son vivant mais ne peut pas parler
   Challenge: 2 (450PX)
+  DamageResistances: contondants et nécrotiques
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
   Id: tome_of_beasts.md#assoiffeur-gris
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4004,6 +4133,10 @@ SubItems:
       |12 (+1)|16 (+3)|15 (+2)|6 (–2)|12 (+1)|14 (+2)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 
 
 
@@ -4081,6 +4214,8 @@ SubItems:
 
     Speed: 9m
 
+    Skills: Discrétion +5
+
     DamageResistances: contondants et nécrotiques
 
     DamageImmunities: de feu, de poison
@@ -4104,11 +4239,11 @@ SubItems:
   HitPoints: 7 (2d6)
   Speed: 9m
   Skills: Histoire +4, Investigation +4
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné
   Senses: vision aveugle 18 m, vision parfaite 3 m, Perception passive 11
   Languages: commun, langue des machines
   Challenge: 1/2 (100 PX)
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#automate-bibliothécaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4246,6 +4381,7 @@ SubItems:
   Speed: 9m, nage 12m
   Skills: Perception +5
   Senses: vision dans le noir 18m, Perception passive 15
+  Languages: commun
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#bagiennik
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -4306,6 +4442,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 
@@ -4358,6 +4498,8 @@ SubItems:
 
     Senses: vision dans le noir 18m, Perception passive 15
 
+    Languages: commun
+
     Challenge: 3 (700 PX)
 
 - !MonsterItem
@@ -4372,10 +4514,10 @@ SubItems:
   Speed: 9 m
   SavingThrows: Dex +8, Con +8, Cha +12
   Skills: Perception +7, Performance +12, Persuasion +12, Supercherie +12
-  DamageImmunities: de feu
   Senses: Perception passive 17
   Languages: commun, draconique, elfique, sylvestre
   Challenge: 11 (7 200 PX)
+  DamageImmunities: de feu
   Id: tome_of_beasts.md#beauté-abominable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4525,10 +4667,10 @@ SubItems:
   Speed: 6m, escalade6m
   SavingThrows: Dex +5
   Skills: Athlétisme +5, Discrétion +5
-  DamageResistances: de froid, de feu, de foudre
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: behtu, commun, infernal
   Challenge: 2 (450 PX)
+  DamageResistances: de froid, de feu, de foudre
   Id: tome_of_beasts.md#behtu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4618,11 +4760,7 @@ SubItems:
 
 
 
-      **_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-
-
-
-      5(1d4+3) dégâts perforants.
+      **_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 5(1d4+3) dégâts perforants.
 
 
 
@@ -4676,11 +4814,11 @@ SubItems:
   Speed: 9m, vol 9m
   SavingThrows: Dex +5
   Skills: Discrétion +5, Perception +4
-  DamageImmunities: de froid
   Senses: vision dans le noir 18m, Perception passive 14
   Languages: commun, géant, nain
   Challenge: 2 (450 PX)
   DamageVulnerabilities: de feu
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#béli
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4853,11 +4991,12 @@ SubItems:
   HitPoints: 90 (20d8)
   Speed: 9 m, nage 12 m
   SavingThrows: Dex +6, Cha +7
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: commun
+  Challenge: 5 (1 800PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#belle-noyée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -4926,6 +5065,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -5011,6 +5154,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 11
 
+    Languages: commun
+
     Challenge: 5 (1 800PX)
 
 - !MonsterItem
@@ -5025,10 +5170,10 @@ SubItems:
   Speed: 6m, vol 18m
   SavingThrows: Dex +7
   Skills: Discrétion +9, Perception +5
-  DamageImmunities: contondants
   Senses: vision dans le noir 18m, Perception passive 15
   Languages: commun, elfique, sylvestre
   Challenge: 4 (1100 PX)
+  DamageImmunities: contondants
   Id: tome_of_beasts.md#béreginyas
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -5165,6 +5310,7 @@ SubItems:
   HitPoints: 135 (18d8+54)
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex +7, Con +6
+  Skills: Discrétion +7
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, elfique, umbral, langue du Vide
   Challenge: 7 (2 900PX)
@@ -5220,6 +5366,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex +7, Con +6<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +7<!--/Skills-->
 
 
 
@@ -5317,6 +5467,8 @@ SubItems:
 
     SavingThrows: Dex +7, Con +6
 
+    Skills: Discrétion +7
+
     Senses: vision dans le noir 18 m, Perception passive 12
 
     Languages: commun, elfique, umbral, langue du Vide
@@ -5335,6 +5487,7 @@ SubItems:
   Speed: 12m
   Skills: Intimidation +3
   Senses: vision dans le noir 18m, Perception passive 11
+  Languages: géant
   Challenge: 8 (3900 PX)
   Id: tome_of_beasts.md#blemmyes
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -5395,6 +5548,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->géant<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->8 (3900 PX)<!--/Challenge-->
 
 
@@ -5452,6 +5609,8 @@ SubItems:
     Skills: Intimidation +3
 
     Senses: vision dans le noir 18m, Perception passive 11
+
+    Languages: géant
 
     Challenge: 8 (3900 PX)
 
@@ -5768,12 +5927,12 @@ SubItems:
   Speed: 15m, vol 36m
   SavingThrows: Dex +12, Sag +10, Cha +11
   Skills: Discrétion +12, Nature +10, Perception +10, Supercherie +11
-  DamageResistances: d'acide
-  DamageImmunities: de froid, de foudre, de poison, de tonnerre
-  ConditionImmunities: empoisonné, petrifié
   Senses: vision dans le noir 18m, vision parfaite 36m, Perception passive 20
   Languages: commun, géant, infernal, nain
   Challenge: 17 (18000 PX)
+  DamageResistances: d'acide
+  DamageImmunities: de froid, de foudre, de poison, de tonnerre
+  ConditionImmunities: empoisonné, petrifié
   Id: tome_of_beasts.md#avatar-de-borée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6152,12 +6311,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+5, Con +7, Sag +4, Cha +5
   Skills: Athlétisme +7, Discrétion +5, Intimidation +5, Perception +4, Supercherie +5
-  DamageResistances: d'acide, de foudre; contondants, perforants, et tranchants infligés par des armes non magiques qui ne sont pas en argent.
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: charmé, empoisonné, épuisé
   Senses: vision dans le noir 36m, Perception passive 14
   Languages: commun, céleste, infernal, nurien; télépathie30m
   Challenge: 5 (1800 PX)
+  DamageResistances: d'acide, de foudre; contondants, perforants, et tranchants infligés par des armes non magiques qui ne sont pas en argent.
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: charmé, empoisonné, épuisé
   Id: tome_of_beasts.md#bouda
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6249,11 +6408,7 @@ SubItems:
 
 
 
-      **_Macule avilissante (1/jour)._** Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50mètre. Toute créature vivante qui se trouve dans un rayon de 9mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD15 contre le poison ou se trouver empoisonnée pendant 1d6rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la
-
-
-
-      macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une macule persiste pendant une semaine.
+      **_Macule avilissante (1/jour)._** Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50mètre. Toute créature vivante qui se trouve dans un rayon de 9mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD15 contre le poison ou se trouver empoisonnée pendant 1d6rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une macule persiste pendant une semaine.
 
 
 
@@ -6383,12 +6538,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+10, Con +8, Cha+9
   Skills: Acrobaties +10, Supercherie +9, Perception +7, Représentation +9, Escamotage +10, Discrétion +10
-  DamageResistances: de froid
-  DamageImmunities: nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: abyssal, céleste, commun, gnome ; télépathie 18 m
   Challenge: 11 (7 200PX)
+  DamageResistances: de froid
+  DamageImmunities: nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#bouffon-macabre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6562,11 +6717,11 @@ SubItems:
   Speed: 18m, vol 27m
   SavingThrows: Con +9, Sag +8, Cha +9
   Skills: Histoire +8, Religion +8
-  DamageResistances: radiants; contondants, perforants, et tranchants infligés par des armes non magiques.
-  ConditionImmunities: charmé, épuisé, terrorisé
   Senses: vision parfaite 36m, Perception passive 14
   Languages: céleste, commun, primordial, télépathie 36m
   Challenge: 11 (7200 PX)
+  DamageResistances: radiants; contondants, perforants, et tranchants infligés par des armes non magiques.
+  ConditionImmunities: charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#bouraq
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6750,12 +6905,12 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76(8d10+32)
   Speed: 1,50m
-  DamageResistances: contondants et perforants
-  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
   Languages: comprend le sylvestre mais ne peut pas parler
   Challenge: 3 (700 PX)
+  DamageResistances: contondants et perforants
   DamageVulnerabilities: de feu
+  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#cactide
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -6899,11 +7054,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex +8, Con +11, Int +8, Sag +8, Cha +9
   Skills: Arcanes +8, Discrétion+8, Médecine +8, Perception+8, Perspicacité+8, Supercherie+9
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné et épuisé
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, draconique, infernal
   Challenge: 14 (11 500PX)
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné et épuisé
   Id: tome_of_beasts.md#cambium
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -7003,11 +7158,7 @@ SubItems:
 
 
 
-      **3/jour :** guérison, protection contre le poison, rayon empoisonné
-
-
-
-      18(4d8), soin des blessures 21 (4d8+3)
+      **3/jour :** guérison, protection contre le poison, rayon empoisonné 18(4d8), soin des blessures 21 (4d8+3)
 
 
 
@@ -7031,11 +7182,7 @@ SubItems:
 
 
 
-      **_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une
-
-
-
-      réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
+      **_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
 
 
 
@@ -7245,6 +7392,7 @@ SubItems:
   ArmorClass: 15 (armure de chaînes)
   HitPoints: 126 (12d10+60)
   Speed: 9 m, fouissement 3 m, nage 3 m
+  SavingThrows: Con +11
   Senses: vision aveugle 9 m, Perception passive 10
   Languages: —
   Challenge: 5 (1 800PX)
@@ -7296,6 +7444,10 @@ SubItems:
       |21 (+5)|14 (+2)|20 (+5)|2 (-4)|10 (+0)|2 (-4)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +11<!--/SavingThrows-->
 
 
 
@@ -7373,6 +7525,8 @@ SubItems:
 
     Speed: 9 m, fouissement 3 m, nage 3 m
 
+    SavingThrows: Con +11
+
     Senses: vision aveugle 9 m, Perception passive 10
 
     Languages: —
@@ -7391,11 +7545,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Con +6
   Skills: Athlétisme +8, Intimidation +5
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, sylvestre, commun des profondeurs
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#chapeau-rouge
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -7726,11 +7880,11 @@ SubItems:
   Speed: 12 m, escalade 9 m
   SavingThrows: Dex+6, Sag +5, Cha+5
   Skills: Acrobaties+6, Athlétisme+9, Discrétion +6, Perception+5
-  DamageImmunities: de poison
-  ConditionImmunities: charmé et empoisonné
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: —
   Challenge: 7 (2 900PX)
+  DamageImmunities: de poison
+  ConditionImmunities: charmé et empoisonné
   Id: tome_of_beasts.md#chélicère
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -7927,10 +8081,10 @@ SubItems:
   HitPoints: 32 (5d4+20)
   Speed: 6 m, vol 6 m
   Skills: Acrobaties+6, Discrétion +6, Perception+2
-  DamageResistances: contondants, perforants et tranchants reçus d'attaques non magiques qui ne sont pas infligées par des armes en argent.
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, draconique, sylvestre
   Challenge: 1 (200 PX)
+  DamageResistances: contondants, perforants et tranchants reçus d'attaques non magiques qui ne sont pas infligées par des armes en argent.
   Id: tome_of_beasts.md#chernomoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8074,6 +8228,7 @@ SubItems:
   Speed: 9 m, nage 12 m
   Skills: Perception +3, Discrétion +5
   Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: sylvestre
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#chien-anguille
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -8131,6 +8286,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->sylvestre<!--/Languages-->
 
 
 
@@ -8192,6 +8351,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 13
 
+    Languages: sylvestre
+
     Challenge: 2 (450PX)
 
 - !MonsterItem
@@ -8206,10 +8367,10 @@ SubItems:
   Speed: 9m
   SavingThrows: For +7, Con +5, Int +2, Sag +5
   Skills: Perception +5
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend le céleste et le commun, mais ne peut pas parler
   Challenge: 5 (1 800PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#chien-du-temple
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8357,10 +8518,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 94 (9d12+36)
   Speed: 12m
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision réduite 9 m, Perception passive 12
   Languages: —
   Challenge: 5 (1 800PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#chiot-mastodonte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8430,17 +8591,7 @@ SubItems:
 
 
 
-      **_État calme._** Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. Taille Petite ;
-
-
-
-
-
-      **PV** 9 (6d6 – 12) ; Vitesse 6 m ; FOR 8 (–1) ; CON 6 (–2) ; Langues
-
-
-
-      commun, sylvestre
+      **_État calme._** Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. **Taille** Petite ; **PV** 9 (6d6 – 12) ; **Vitesse** 6 m ; **FOR** 8 (–1) ; **CON** 6 (–2) ; **Langues** commun, sylvestre
 
 
 
@@ -8452,11 +8603,7 @@ SubItems:
 
 
 
-      **_Émotions déchaînées._** Quand le chiot mastodonte se sent menacé (si quelqu'un le touche, l'intimide, l'accule, l'attaque ou si un étranger se place adjacent à lui), il passe immédiatement de la taille Petite à Très Grande en réaction. Si le chiot a été attaqué, la réaction se produit après l'attaque, mais avant d'appliquer les dégâts. Les créatures et objets alentour sont repoussés dans l'emplacement vide le plus proche et doivent réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Les armes, armures et autres objets que porte ou transporte le chiot grandissent (et rétrécissent) proportionnellement quand il change de taille. Submergé par une vague d'émotions brutes, il se met à détruire tout ce qu'il voit (c'est-à-dire pas grand-chose) et tout ce qui se trouve à portée (c'est-à-dire beaucoup de choses). La transformat ion persiste jusqu'à ce que le chiot ne perçoive plus de créature pendant 1 round, qu'il tombe à 0 point de vie, qu'il reçoive 5 niveaux d'épuisement ou qu'il soit affecté par apaisement des émotions
-
-
-
-      ou une magie similaire. La transformation n'est pas totalement incontrôlable : une créature ou une personne que le chiot connaît et en qui il a confiance peut se tenir à côté de lui sans déclencher de réaction. Si les conditions sont particulièrement défavorables, comme dans une zone très peuplée, la transformation du chiot peut durer des jours.
+      **_Émotions déchaînées._** Quand le chiot mastodonte se sent menacé (si quelqu'un le touche, l'intimide, l'accule, l'attaque ou si un étranger se place adjacent à lui), il passe immédiatement de la taille Petite à Très Grande en réaction. Si le chiot a été attaqué, la réaction se produit après l'attaque, mais avant d'appliquer les dégâts. Les créatures et objets alentour sont repoussés dans l'emplacement vide le plus proche et doivent réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Les armes, armures et autres objets que porte ou transporte le chiot grandissent (et rétrécissent) proportionnellement quand il change de taille. Submergé par une vague d'émotions brutes, il se met à détruire tout ce qu'il voit (c'est-à-dire pas grand-chose) et tout ce qui se trouve à portée (c'est-à-dire beaucoup de choses). La transformat ion persiste jusqu'à ce que le chiot ne perçoive plus de créature pendant 1 round, qu'il tombe à 0 point de vie, qu'il reçoive 5 niveaux d'épuisement ou qu'il soit affecté par apaisement des émotions ou une magie similaire. La transformation n'est pas totalement incontrôlable : une créature ou une personne que le chiot connaît et en qui il a confiance peut se tenir à côté de lui sans déclencher de réaction. Si les conditions sont particulièrement défavorables, comme dans une zone très peuplée, la transformation du chiot peut durer des jours.
 
 
 
@@ -8522,11 +8669,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 9m
-  DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifié
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: céleste, infernal
   Challenge: 8 (3 900PX)
+  DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifié
   Id: tome_of_beasts.md#chronomentaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8681,10 +8828,10 @@ SubItems:
   HitPoints: 17 (7d4)
   Speed: 3 m, vol 12 m
   Skills: Discrétion +6, Perception +5
-  DamageResistances: d'acide, de feu et de poison
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend le commun ; télépathie (contact)
   Challenge: 1/8 (25 PX)
+  DamageResistances: d'acide, de feu et de poison
   Id: tome_of_beasts.md#cikavak
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8822,12 +8969,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+9
   Skills: Perception +5, Discrétion +9
-  DamageResistances: d'acide, de feu, de froid; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison et psychiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision aveugle 9m, Perception passive 15
   Languages: —
   Challenge: 6 (2 300PX)
+  DamageResistances: d'acide, de feu, de froid; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: nécrotiques, de poison et psychiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#claquepiège
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -8969,11 +9116,12 @@ SubItems:
   ArmorClass: 14
   HitPoints: 22 (4d4+12)
   Speed: 9m
+  SavingThrows: Con +5
   Skills: Discrétion +3, Perception +1,
-  ConditionImmunities: empoisonné et terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, elfique, sylvestre
   Challenge: 1/4 (50 PX)
+  ConditionImmunities: empoisonné et terrorisé
   Id: tome_of_beasts.md#clurichaun
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9022,6 +9170,10 @@ SubItems:
       |13 (+1)|12 (+1)|16 (+3)|10 (+0)|8 (-1)|16 (+3)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
 
 
 
@@ -9107,6 +9259,8 @@ SubItems:
 
     Speed: 9m
 
+    SavingThrows: Con +5
+
     Skills: Discrétion +3, Perception +1,
 
     ConditionImmunities: empoisonné et terrorisé
@@ -9127,11 +9281,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 6 m
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur, mais ne peut pas parler
   Challenge: 7 (2 900PX)
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#colonne-possédée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9287,12 +9441,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8
   Skills: Arcanes +5, Discrétion +11, Perception +3, Supercherie +6
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent.
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: épuisé, empoisonné
   Senses: vision dans le noir 36m, Perception passive 13
   Languages: commun, darakhul
   Challenge: 8 (3900 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent.
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: épuisé, empoisonné
   Id: tome_of_beasts.md#conglomérat-osseux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9483,10 +9637,10 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 9 m, nage 6 m
   Skills: Perception +1, Discrétion +4
-  ConditionImmunities: charmé, inconscient
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: géant, sylvestre
   Challenge: 2 (450PX)
+  ConditionImmunities: charmé, inconscient
   Id: tome_of_beasts.md#coquicape
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9650,12 +9804,12 @@ SubItems:
   HitPoints: 55 (10d4+30)
   Speed: 6m, escalade 6m
   Skills: Discrétion +6, Perception +4
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques.
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 1 (200 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques.
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#couveteux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9799,11 +9953,11 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 18 (4d4+8)
   Speed: 9 m, nage 6 m
-  DamageImmunities: psychiques
-  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: —
   Challenge: 1/4 (50 PX)
+  DamageImmunities: psychiques
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#crabe-garrotteur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -9928,10 +10082,10 @@ SubItems:
   HitPoints: 33 (6d6+12)
   Speed: 6 m, nage 3m
   Skills: Discrétion +4, Perception +3
-  DamageResistances: contondants
   Senses: vision dans le noir 18m, Perception passive 13
   Languages: —
   Challenge: 1/2 (100 PX)
+  DamageResistances: contondants
   Id: tome_of_beasts.md#crabe-osseux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -10581,12 +10735,12 @@ SubItems:
   Speed: 9 m
   SavingThrows: Con +5, Cha +9
   Skills: Supercherie +9, Persuasion +9, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de froid
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, géant, sylvestre
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: de feu
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#demoiselle-glacée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -10814,13 +10968,13 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7, Con +7, Sag +4
   Skills: Discrétion +7, Intimidation +5, Perception +4
-  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné, terrorisé
   Senses: vision dans le noir 36 m, Perception passive 14
   Languages: infernal, simien, télépathie 36 m
   Challenge: 6 (2 300PX)
+  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   DamageVulnerabilities: de froid
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné, terrorisé
   Id: tome_of_beasts.md#apau-perape
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11010,12 +11164,12 @@ SubItems:
   Speed: 12 m, fouissement 6 m
   SavingThrows: For +10, Sag +6, Cha +8
   Skills: Discrétion +4 (+8 en terrain boisé), Nature +10, Supercherie +8, Survie +6
-  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de foudre, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 12
   Languages: abyssal, commun, sylvestre ; télépathie 36 m
   Challenge: 11 (7 200PX)
+  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de foudre, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#berstuc
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11181,11 +11335,12 @@ SubItems:
   ArmorClass: 13 (naturelle)
   HitPoints: 67 (15d6+15)
   Speed: 6 m, escalade 6 m
+  Senses: vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
+  Languages: aucune sous sa forme naturelle ; connaît les mêmes que la créature qu’il domine.
+  Challenge: 4 (1 100PX)
   DamageResistances: perforants et tranchants issus d'armes non magiques
   DamageImmunities: contondants, d'acide, de foudre
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
-  Senses: vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
-  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#démon-de-sève
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11253,6 +11408,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->aucune sous sa forme naturelle ; connaît les mêmes que la créature qu’il domine.<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 
@@ -11315,6 +11474,8 @@ SubItems:
 
     Senses: vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
 
+    Languages: aucune sous sa forme naturelle ; connaît les mêmes que la créature qu’il domine.
+
     Challenge: 4 (1 100PX)
 
 - !MonsterItem
@@ -11329,12 +11490,12 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex+8, Con +7, Sag +3
   Skills: Perception +3, Représentation +9, Supercherie +9
-  DamageResistances: de froid, de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: céleste, commun, draconique, infernal, télépathie 36 m
   Challenge: 8 (3 900PX)
+  DamageResistances: de froid, de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#démon-kishi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11547,12 +11708,13 @@ SubItems:
   HitPoints: 102 (12d8+48)
   Speed: 12m
   SavingThrows: Dex +7, Sag +7
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de feu, radiants, de poison
-  ConditionImmunities: aveuglé et empoisonné
+  Skills: Perception +7
   Senses: vision parfaite 9m, Perception passive 17
   Languages: abyssal ; télépathie 36 m
   Challenge: 9 (5 000PX)
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de feu, radiants, de poison
+  ConditionImmunities: aveuglé et empoisonné
   Id: tome_of_beasts.md#malakbel
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11605,6 +11767,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex +7, Sag +7<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +7<!--/Skills-->
 
 
 
@@ -11696,6 +11862,8 @@ SubItems:
 
     SavingThrows: Dex +7, Sag +7
 
+    Skills: Perception +7
+
     DamageResistances: de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
 
     DamageImmunities: de feu, radiants, de poison
@@ -11720,12 +11888,12 @@ SubItems:
   Speed: 12 m, vol 18 m
   SavingThrows: Dex +9, Con +8, Sag +7, Cha +7
   Skills: Acrobaties +9, Discrétion +9, Intimidation +7, Perception +6
-  DamageResistances: de froid, de foudre
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision aveugle 9 m, vision dans le noir 18 m, Perception passive 16
   Languages: commun, infernal ; télépathie 18 m
   Challenge: 7 (2 900PX)
+  DamageResistances: de froid, de foudre
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#démon-psoglav
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -11891,20 +12059,20 @@ SubItems:
   Family: TomeOfBeasts
   Name: Rübezahl
   Source: (LDM p82)
-  Type: Fiélon (démon)Fiélon (démon)
-  Size: MG
-  Alignment: chaotique mauvaischaotique mauvais
-  ArmorClass: 15 (armure naturelle)18 (armure naturelle)
-  HitPoints: 110 (17d8+34)138 (12d10+72)
-  Speed: 15 m12 m, fouissement 6 m, escalade12 m, vol 12 m
-  SavingThrows: Dex+6, Con +6, Sag +5For +9, Dex+7, Con +10, Sag +6, Cha +11
+  Type: Fiélon (démon)
+  Size: M
+  Alignment: chaotique mauvais
+  ArmorClass: 15 (armure naturelle)
+  HitPoints: 110 (17d8+34)
+  Speed: 15 m
+  SavingThrows: Dex+6, Con +6, Sag +5
   Skills: Perception +5, Supercherie +8, Survie +5
-  DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiquesd'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de foudre, de tonnerre, de poisonde froid, de foudre, de poison
-  ConditionImmunities: empoisonné, étourdiempoisonné
-  Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
-  Languages: abyssal, commun ; télépathie 36 mabyssal, commun, draconique, elfe, infernal ; télépathie 18 m
-  Challenge: 10 (5 900 PX)12 (8 400 PX)
+  Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15
+  Languages: abyssal, commun ; télépathie 36 m
+  Challenge: 10 (5 900 PX)
+  DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de foudre, de tonnerre, de poison
+  ConditionImmunities: empoisonné, étourdi
   Id: tome_of_beasts.md#rübezahl
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -12064,6 +12232,71 @@ SubItems:
 
 
 
+    Source: (LDM p82)
+
+    Type: Fiélon (démon)
+
+    Size: M
+
+    Alignment: chaotique mauvais
+
+    ArmorClass: 15 (armure naturelle)
+
+    HitPoints: 110 (17d8+34)
+
+    Speed: 15 m
+
+    SavingThrows: Dex+6, Con +6, Sag +5
+
+    Skills: Perception +5, Supercherie +8, Survie +5
+
+    DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+
+    DamageImmunities: de foudre, de tonnerre, de poison
+
+    ConditionImmunities: empoisonné, étourdi
+
+    Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15
+
+    Languages: abyssal, commun ; télépathie 36 m
+
+    Challenge: 10 (5 900 PX)
+
+- !MonsterItem
+  Family: TomeOfBeasts
+  Name: Akyishigal, seigneur démon des cafards
+  Source: (LDM p84)
+  Type: Fiélon (démon)
+  Size: G
+  Alignment: chaotique mauvais
+  ArmorClass: 18 (armure naturelle)
+  HitPoints: 138 (12d10+72)
+  Speed: 12 m, fouissement 6 m, escalade12 m, vol 12 m
+  SavingThrows: For +9, Dex+7, Con +10, Sag +6, Cha +11
+  Skills: Acrobaties +11, Athlétisme +9, Discrétion +11, Perception +6
+  Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
+  Languages: abyssal, commun, draconique, elfe, infernal ; télépathie 18 m
+  Challenge: 12 (8 400 PX)
+  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de froid, de foudre, de poison
+  ConditionImmunities: empoisonné
+  Id: tome_of_beasts.md#akyishigal-seigneur-démon-des-cafards
+  ParentLink: tome_of_beasts.md#livre-des-monstres
+  ParentName: Livre des monstres
+  NameLevel: 1
+  AttributesDictionary: >+
+    Name: Akyishigal, seigneur démon des cafards
+
+    Markdown: >+
+
+      # <!--Name-->Akyishigal, seigneur démon des cafards<!--/Name-->
+
+
+
+
+
+      - Source: <!--Source-->(LDM p84)<!--/Source-->
+
 
 
       -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
@@ -12099,6 +12332,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->For +9, Dex+7, Con +10, Sag +6, Cha +11<!--/SavingThrows-->
+
+
+
+      - **Compétences** <!--Skills-->Acrobaties +11, Athlétisme +9, Discrétion +11, Perception +6<!--/Skills-->
 
 
 
@@ -12182,11 +12419,7 @@ SubItems:
 
 
 
-      **_Manteau de nuées (Recharge 5–6)._** Akyishigal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont désavantagées et Akyishigal peut voir dans toutes les directions (par les yeux des
-
-
-
-      insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akyishigal subit 11 (2d10) dégâts perforants plus 10 (3d6) dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également empoisonnée pendant 1heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akyishigal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est empoisonné par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.
+      **_Manteau de nuées (Recharge 5–6)._** Akyishigal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont désavantagées et Akyishigal peut voir dans toutes les directions (par les yeux des insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akyishigal subit 11 (2d10) dégâts perforants plus 10 (3d6) dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également empoisonnée pendant 1heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akyishigal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est empoisonné par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.
 
 
 
@@ -12216,43 +12449,39 @@ SubItems:
 
 
 
-      **_Incantation (coûte 2 actions)._** Akyishigal lance fléau d'insectes
+      **_Incantation (coûte 2 actions)._** Akyishigal lance fléau d'insectes avec son pouvoir d'incantation innée.
 
 
 
-      avec son pouvoir d'incantation innée.
+    Source: (LDM p84)
 
+    Type: Fiélon (démon)
 
+    Size: G
 
-    Source: (LDM p82)
+    Alignment: chaotique mauvais
 
-    Type: Fiélon (démon)Fiélon (démon)
+    ArmorClass: 18 (armure naturelle)
 
-    Size: MG
+    HitPoints: 138 (12d10+72)
 
-    Alignment: chaotique mauvaischaotique mauvais
+    Speed: 12 m, fouissement 6 m, escalade12 m, vol 12 m
 
-    ArmorClass: 15 (armure naturelle)18 (armure naturelle)
+    SavingThrows: For +9, Dex+7, Con +10, Sag +6, Cha +11
 
-    HitPoints: 110 (17d8+34)138 (12d10+72)
+    Skills: Acrobaties +11, Athlétisme +9, Discrétion +11, Perception +6
 
-    Speed: 15 m12 m, fouissement 6 m, escalade12 m, vol 12 m
+    DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
 
-    SavingThrows: Dex+6, Con +6, Sag +5For +9, Dex+7, Con +10, Sag +6, Cha +11
+    DamageImmunities: de froid, de foudre, de poison
 
-    Skills: Perception +5, Supercherie +8, Survie +5
+    ConditionImmunities: empoisonné
 
-    DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiquesd'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+    Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
 
-    DamageImmunities: de foudre, de tonnerre, de poisonde froid, de foudre, de poison
+    Languages: abyssal, commun, draconique, elfe, infernal ; télépathie 18 m
 
-    ConditionImmunities: empoisonné, étourdiempoisonné
-
-    Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
-
-    Languages: abyssal, commun ; télépathie 36 mabyssal, commun, draconique, elfe, infernal ; télépathie 18 m
-
-    Challenge: 10 (5 900 PX)12 (8 400 PX)
+    Challenge: 12 (8 400 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
@@ -12264,15 +12493,15 @@ SubItems:
   ArmorClass: 15 (armure naturelle)20 (armure naturelle)19 (armure naturelle)
   HitPoints: 119 (14d8+56)350 (28d12+168)537 (43d10+301)
   Speed: 9 m, escalade 4,50 m6 m, vol 30 m9 m, escalade 9 m, vol 24 m
-  SavingThrows: Dex+11, Con +13, Sag +12Dex +13, Con +14, Sag +13, Cha +14
+  SavingThrows: Dex +4Dex+11, Con +13, Sag +12Dex +13, Con +14, Sag +13, Cha +14
   Skills: Discrétion +11, Perception +12, Supercherie +10Acrobaties +13, Athlétisme +17, Intimidation +14, Perception +13, Perspicacité +13, Supercherie +14
-  DamageResistances: de feu et de foudred'acide, de foudre; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de poisonde froid, de poison; contondants, perforants et tranchants infligés par des armes non magiquesde feu, de poison et de foudre
-  ConditionImmunities: empoisonnécharmé, empoisonné, épuisé, terroriséassourdi, charmé, empoisonné, étourdi, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10vision parfaite 36 m, Perception passive 22vision aveugle 36 m, vision dans le noir 12 m, Perception passive 23
   Languages: infernal, rejeton d'Akyishigaltoutes ; télépathie 36 mcommun, darakhul, derro, draconique, infernal, langue du vide, nain, nurien, primordial ; télépathie 90 m
   Challenge: 5 (1 800PX)21 (33 000 PX)22 (62000 PX)
+  DamageResistances: de feu et de foudred'acide, de foudre; contondants, perforants et tranchants infligés par des armes non magiques
   DamageVulnerabilities: de froid
+  DamageImmunities: de poisonde froid, de poison; contondants, perforants et tranchants infligés par des armes non magiquesde feu, de poison et de foudre
+  ConditionImmunities: empoisonnécharmé, empoisonné, épuisé, terroriséassourdi, charmé, empoisonné, étourdi, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#rejeton-dakyishigal
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -12321,6 +12550,10 @@ SubItems:
       |15 (+2)|13 (+1)|19 (+4)|10 (+0)|11 (+0)|12 (+1)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +4<!--/SavingThrows-->
 
 
 
@@ -12798,6 +13031,8 @@ SubItems:
 
     Speed: 9 m, escalade 4,50 m6 m, vol 30 m9 m, escalade 9 m, vol 24 m
 
+    SavingThrows: Dex +4Dex+11, Con +13, Sag +12Dex +13, Con +14, Sag +13, Cha +14
+
     DamageImmunities: de poisonde froid, de poison; contondants, perforants et tranchants infligés par des armes non magiquesde feu, de poison et de foudre
 
     ConditionImmunities: empoisonnécharmé, empoisonné, épuisé, terroriséassourdi, charmé, empoisonné, étourdi, paralysé, pétrifié, terrorisé
@@ -12807,8 +13042,6 @@ SubItems:
     Languages: infernal, rejeton d'Akyishigaltoutes ; télépathie 36 mcommun, darakhul, derro, draconique, infernal, langue du vide, nain, nurien, primordial ; télépathie 90 m
 
     Challenge: 5 (1 800PX)21 (33 000 PX)22 (62000 PX)
-
-    SavingThrows: Dex+11, Con +13, Sag +12Dex +13, Con +14, Sag +13, Cha +14
 
     Skills: Discrétion +11, Perception +12, Supercherie +10Acrobaties +13, Athlétisme +17, Intimidation +14, Perception +13, Perspicacité +13, Supercherie +14
 
@@ -12827,14 +13060,14 @@ SubItems:
   HitPoints: 14 (4d6)370 (20d20+160)370 (20d20+160)
   Speed: 3 m, vol 12 m18 m, escalade 18 m15 m, fouissement 15 m, escalade 9 m
   SavingThrows: For +17, Dex +12,Sag +12Dex +5, Con +15, Sag +11, Cha +11
-  Skills: Arcanes +12, Intimidation+14, Perception +12, Perspicacité +12, Religion+12Perception +11
-  DamageResistances: de froid, de feu et de foudre
-  DamageImmunities: de poisond'acide, de feu, de foudre, de poison ; contondants, perforants et tranchants infligés par des armes non magiquesde poison; contondants, perforants et tranchants infligés par des armes non magiques
-  ConditionImmunities: empoisonnécharmé, empoisonné, étourdi, terroriséaveuglé, charmé, empoisonné, épuisé, terrorisé
+  Skills: Perception +3Arcanes +12, Intimidation+14, Perception +12, Perspicacité +12, Religion+12Perception +11
   Senses: vision dans le noir 18 m, Perception passive 13vision parfaite 36 m, Perception passive 22vision aveugle 36m, perception des vibrations 36 m, Perception passive 21
   Languages: céleste, commun, draconique, infernal, primordial ; télépathie 90mtoutes ; télépathie 36 m
   Challenge: 1/2 (100 PX)27 (105000 PX)23 (50000 PX)
+  DamageResistances: de froid, de feu et de foudre
   DamageVulnerabilities: de froid
+  DamageImmunities: de poisond'acide, de feu, de foudre, de poison ; contondants, perforants et tranchants infligés par des armes non magiquesde poison; contondants, perforants et tranchants infligés par des armes non magiques
+  ConditionImmunities: empoisonnécharmé, empoisonné, étourdi, terroriséaveuglé, charmé, empoisonné, épuisé, terrorisé
   Id: tome_of_beasts.md#chauve-souris-de-peau
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -12883,6 +13116,10 @@ SubItems:
       |12 (+1)|16 (+3)|10 (+0)|2 (-4)|13 (+1)|6 (-2)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -13330,6 +13567,8 @@ SubItems:
 
     Speed: 3 m, vol 12 m18 m, escalade 18 m15 m, fouissement 15 m, escalade 9 m
 
+    Skills: Perception +3Arcanes +12, Intimidation+14, Perception +12, Perspicacité +12, Religion+12Perception +11
+
     DamageImmunities: de poisond'acide, de feu, de foudre, de poison ; contondants, perforants et tranchants infligés par des armes non magiquesde poison; contondants, perforants et tranchants infligés par des armes non magiques
 
     ConditionImmunities: empoisonnécharmé, empoisonné, étourdi, terroriséaveuglé, charmé, empoisonné, épuisé, terrorisé
@@ -13339,8 +13578,6 @@ SubItems:
     Challenge: 1/2 (100 PX)27 (105000 PX)23 (50000 PX)
 
     SavingThrows: For +17, Dex +12,Sag +12Dex +5, Con +15, Sag +11, Cha +11
-
-    Skills: Arcanes +12, Intimidation+14, Perception +12, Perspicacité +12, Religion+12Perception +11
 
     DamageVulnerabilities: de froid
 
@@ -13547,11 +13784,12 @@ SubItems:
   HitPoints: 2 (4d4 - 8)
   Speed: 1,50 m (0 en cage)
   SavingThrows: Sag +3, Cha +7
-  DamageImmunities: psychiques
-  ConditionImmunities: charmé, terrorisé
+  Skills: Perception +3
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageImmunities: psychiques
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#savant-fœtal-derro
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -13604,6 +13842,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Sag +3, Cha +7<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -13679,6 +13921,8 @@ SubItems:
 
     SavingThrows: Sag +3, Cha +7
 
+    Skills: Perception +3
+
     DamageImmunities: psychiques
 
     ConditionImmunities: charmé, terrorisé
@@ -13701,12 +13945,12 @@ SubItems:
   Speed: 9 m, vol 30 m12 m, fouissement 6 m, escalade12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex+9, Con +5, Cha+3Dex +12, Con +14, Sag +12, Cha +14
   Skills: Intimidation +3, Perception +3, Discrétion+9Discrétion +12, Perspicacité +12, Perception+12, Supercherie +14
+  Senses: vision dans le noir 18 m, Perception passive 13 Langue infernalvision parfaite 36 m, Perception passive 22
+  Languages: infernalcéleste, commun, draconique, infernal ; télépathie 36 m
+  Challenge: 7 (2 900PX)21 (33 000 PX)
   DamageResistances: contondants, perforants et tranchants issus d'armes non magiquesd'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de poisonde feu, de poison
   ConditionImmunities: paralysé, empoisonné, étourdi, inconscientcharmé, empoisonné, étourdi, terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 13 Langue infernalvision parfaite 36 m, Perception passive 22
-  Languages: céleste, commun, draconique, infernal ; télépathie 36 m
-  Challenge: 7 (2 900PX)21 (33 000 PX)
   Id: tome_of_beasts.md#dévoreur-dÂmes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -13779,6 +14023,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13 Langue infernal<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->infernal<!--/Languages-->
 
 
 
@@ -14046,9 +14294,9 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 13 Langue infernalvision parfaite 36 m, Perception passive 22
 
-    Challenge: 7 (2 900PX)21 (33 000 PX)
+    Languages: infernalcéleste, commun, draconique, infernal ; télépathie 36 m
 
-    Languages: céleste, commun, draconique, infernal ; télépathie 36 m
+    Challenge: 7 (2 900PX)21 (33 000 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
@@ -14060,15 +14308,15 @@ SubItems:
   ArmorClass: 17 (armure naturelle)17 (armure naturelle)20 (armure naturelle)19 (armure naturelle)
   HitPoints: 78 (12d8+24)170 (20d10+60)378 (28d12+196)299 (26d8+182)
   Speed: 12 m, escalade 6 m1,50 m, vol 12 m (vol stationnaire)15 m12 m, vol 18 m
-  SavingThrows: Dex +10, Con +8, Sag +9, Cha +11Dex +9, Int +14, Sag +13, Cha +16Dex +11, Con +14, Int +15, Sag +13, Cha +11
+  SavingThrows: Sag +4Dex +10, Con +8, Sag +9, Cha +11Dex +9, Int +14, Sag +13, Cha +16Dex +11, Con +14, Int +15, Sag +13, Cha +11
   Skills: Discrétion +5, Perception +4Arcanes +10, Perception +9, Perspicacité +9, Persuasion +11, Supercherie +11Perception +13, Perspicacité +13, Persuasion +16, Supercherie +16Arcanes +15, Histoire +15, Investigation +15, Perception +13, Religion +15
+  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14vision aveugle 3m, vision dans le noir 36 m, Perception passive 19vision parfaite 36 m, Perception passive 23vision parfaite 9 m, vision dans le noir 18m, Perception passive 23
+  Languages: infernalcommun, draconique, infernal, primordialtoutes ; télépathie 36 mcommun, céleste, draconique, infernal, langue du Vide ; télépathie 36 m
+  Challenge: 5 (1 800PX)15 (13 000 PX)25 (75000 PX)24 (62000 PX)
   DamageResistances: de froidcontondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de froid
   DamageImmunities: de poisonde feu, de poison ; contondants, perforants et tranchantsde feu, de poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argentde feu, de poison
   ConditionImmunities: empoisonnéà terre, charmé, empoisonné, entravé, étourdi, paralysé, pétrifié, terrorisécharmé, empoisonné, épuisé, terroriséempoisonné
-  Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14vision aveugle 3m, vision dans le noir 36 m, Perception passive 19vision parfaite 36 m, Perception passive 23vision parfaite 9 m, vision dans le noir 18m, Perception passive 23
-  Languages: commun, draconique, infernal, primordialtoutes ; télépathie 36 mcommun, céleste, draconique, infernal, langue du Vide ; télépathie 36 m
-  Challenge: 5 (1 800PX)15 (13 000 PX)25 (75000 PX)24 (62000 PX)
-  DamageVulnerabilities: de froid
   Id: tome_of_beasts.md#rejeton-darbeyach
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -14120,6 +14368,10 @@ SubItems:
 
 
 
+      - **Jet de sauvegarde** <!--SavingThrows-->Sag +4<!--/SavingThrows-->
+
+
+
       - **Compétences** <!--Skills-->Discrétion +5, Perception +4<!--/Skills-->
 
 
@@ -14133,6 +14385,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->infernal<!--/Languages-->
 
 
 
@@ -14750,6 +15006,8 @@ SubItems:
 
     Speed: 12 m, escalade 6 m1,50 m, vol 12 m (vol stationnaire)15 m12 m, vol 18 m
 
+    SavingThrows: Sag +4Dex +10, Con +8, Sag +9, Cha +11Dex +9, Int +14, Sag +13, Cha +16Dex +11, Con +14, Int +15, Sag +13, Cha +11
+
     Skills: Discrétion +5, Perception +4Arcanes +10, Perception +9, Perspicacité +9, Persuasion +11, Supercherie +11Perception +13, Perspicacité +13, Persuasion +16, Supercherie +16Arcanes +15, Histoire +15, Investigation +15, Perception +13, Religion +15
 
     DamageImmunities: de poisonde feu, de poison ; contondants, perforants et tranchantsde feu, de poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argentde feu, de poison
@@ -14758,20 +15016,18 @@ SubItems:
 
     Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14vision aveugle 3m, vision dans le noir 36 m, Perception passive 19vision parfaite 36 m, Perception passive 23vision parfaite 9 m, vision dans le noir 18m, Perception passive 23
 
+    Languages: infernalcommun, draconique, infernal, primordialtoutes ; télépathie 36 mcommun, céleste, draconique, infernal, langue du Vide ; télépathie 36 m
+
     Challenge: 5 (1 800PX)15 (13 000 PX)25 (75000 PX)24 (62000 PX)
 
-    SavingThrows: Dex +10, Con +8, Sag +9, Cha +11Dex +9, Int +14, Sag +13, Cha +16Dex +11, Con +14, Int +15, Sag +13, Cha +11
-
     DamageVulnerabilities: de froid
-
-    Languages: commun, draconique, infernal, primordialtoutes ; télépathie 36 mcommun, céleste, draconique, infernal, langue du Vide ; télépathie 36 m
 
     DamageResistances: de froidcontondants, perforants et tranchants issus d'armes non magiques
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Automate
-  Source: (LDM p)
+  Source: (LDM p105)
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -14780,12 +15036,12 @@ SubItems:
   Speed: 12m
   SavingThrows: For +11, Dex+7, Con +9, Sag +6, Cha +8
   Skills: Athlétisme +11, Intimidation +8
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m
   Languages: commun, infernal ; télépathie 30 m
   Challenge: 10 (5 900 PX)
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-automate
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -14801,7 +15057,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p105)<!--/Source-->
 
 
 
@@ -14945,7 +15201,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p105)
 
     Type: Fiélon (diable)
 
@@ -14978,7 +15234,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chort
-  Source: (LDM p)
+  Source: (LDM p107)
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -14987,12 +15243,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +11, Dex+9, Con +12, Int +8, Cha +9
   Skills: Athlétisme +11, Supercherie +9, Perspicacité +9, Perception +9
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de froid, de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 19
   Languages: céleste, commun, draconique, infernal, primordial ; télépathie (36 m)
   Challenge: 12 (8 400 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de froid, de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#chort
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15008,7 +15264,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p107)<!--/Source-->
 
 
 
@@ -15142,7 +15398,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p107)
 
     Type: Fiélon (diable)
 
@@ -15184,12 +15440,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Sag +4, Cha +5
   Skills: Perspicacité +4, Supercherie +8
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 11
   Languages: céleste, commun, infernal ; télépathie 36 m
   Challenge: 6 (2 300PX)
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-cristallin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15382,7 +15638,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable D'Encre
-  Source: (LDM p)
+  Source: (LDM p109)
   Type: Fiélon (diable)
   Size: P
   Alignment: loyal mauvais
@@ -15391,12 +15647,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6
   Skills: Arcanes+9, Discrétion +8, Histoire+9, Supercherie+8
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 9
   Languages: céleste, commun, draconique, infernal ; télépathie 36 m
   Challenge: 2 (450PX)
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-dencre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15412,7 +15668,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p109)<!--/Source-->
 
 
 
@@ -15546,7 +15802,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p109)
 
     Type: Fiélon (diable)
 
@@ -15588,12 +15844,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+4, Con +7, Cha+5
   Skills: Discrétion +4, Perception +5
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: céleste, commun, gnoll, infernal ; télépathie 36 m
   Challenge: 6 (2 300PX)
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-de-sel
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15776,7 +16032,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Doré
-  Source: (LDM p)
+  Source: (LDM p111)
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -15785,12 +16041,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +6, Con +6, Sag +7, Cha +6
   Skills: Escamotage +8, Histoire +5, Perspicacité+10, Persuasion +9, Supercherie +9
-  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m
   Languages: céleste, commun, draconique, infernal ; télépathie 36 m
   Challenge: 7 (2 900PX)
+  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-doré
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -15806,7 +16062,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p111)<!--/Source-->
 
 
 
@@ -15976,7 +16232,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p111)
 
     Type: Fiélon (diable)
 
@@ -16009,7 +16265,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Koralk (Diable Moissonneur)
-  Source: (LDM p)
+  Source: (LDM p112)
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -16017,12 +16273,12 @@ SubItems:
   HitPoints: 136 (16d10+48)
   Speed: 12m
   SavingThrows: Con +7, Sag +4, Cha +5
-  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: infernal ; télépathie 36 m
   Challenge: 11 (7 200PX)
+  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#koralk-diable-moissonneur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -16038,7 +16294,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p112)<!--/Source-->
 
 
 
@@ -16154,7 +16410,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p112)
 
     Type: Fiélon (diable)
 
@@ -16194,12 +16450,12 @@ SubItems:
   Speed: 12 m, vol 18 m (vol stationnaire), marche sur la lumière 24 m
   SavingThrows: For +8, Dex+8, Con +8, Sag +5
   Skills: Perception +5
-  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: céleste, draconique, elfique, infernal, sylvestre ; télépathie 36 m
   Challenge: 8 (3 900PX)
+  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-lunaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -16406,7 +16662,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Orobas
-  Source: (LDM p)
+  Source: (LDM p115)
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -16415,12 +16671,12 @@ SubItems:
   Speed: 12m
   SavingThrows: For +13, Dex+7, Con +14, Sag +13
   Skills: Histoire +11, Perception +13, Perspicacité +13, Persuasion +10, Supercherie +10
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: empoisonné
   Senses: vision parfaite 27m, Perception passive 23
   Languages: céleste, commun des profondeurs, darakhul, draconique, géant, infernal, langue du Vide; télépathie 30 m
   Challenge: 14 (11 500PX)
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#diable-orobas
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -16436,7 +16692,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p115)<!--/Source-->
 
 
 
@@ -16542,11 +16798,7 @@ SubItems:
 
 
 
-      **À volonté:** augure, protection contre le mal et le bien, téléportation
-
-
-
-      (seulement personnelle plus 25 kg d'objets)
+      **À volonté:** augure, protection contre le mal et le bien, téléportation (seulement personnelle plus 25 kg d'objets)
 
 
 
@@ -16608,7 +16860,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p115)
 
     Type: Fiélon (diable)
 
@@ -16641,13 +16893,14 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mbielu
-  Source: (LDM p)
+  Source: (LDM p117)
   Type: Bête
   Size: TG
   Alignment: non alignée
   ArmorClass: 15 (armure naturelle)
   HitPoints: 95 (10d12+30)
   Speed: 9 m, nage 6 m
+  Skills: Perception +3
   Senses: Perception passive 13
   Languages: —
   Challenge: 3 (700 PX)
@@ -16666,7 +16919,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p117)<!--/Source-->
 
 
 
@@ -16699,6 +16952,10 @@ SubItems:
       |19 (+4)|14 (+2)|16 (+3)|2 (-4)|12 (+1)|6 (-2)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -16744,7 +17001,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p117)
 
     Type: Bête
 
@@ -16757,6 +17014,8 @@ SubItems:
     HitPoints: 95 (10d12+30)
 
     Speed: 9 m, nage 6 m
+
+    Skills: Perception +3
 
     Senses: Perception passive 13
 
@@ -16906,7 +17165,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Spinosaure
-  Source: (LDM p)
+  Source: (LDM p119)
   Type: Bête
   Size: Gig
   Alignment: non alignée
@@ -16932,7 +17191,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p119)<!--/Source-->
 
 
 
@@ -17062,7 +17321,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p119)
 
     Type: Bête
 
@@ -17094,6 +17353,7 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 15 m, nage 9 m
+  Skills: Perception +3
   Senses: Perception passive 13
   Languages: —
   Challenge: 5 (1 800PX)
@@ -17145,6 +17405,10 @@ SubItems:
       |23 (+6)|11 (+0)|19 (+4)|2 (-4)|11 (+0)|8 (-1)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -17204,6 +17468,8 @@ SubItems:
 
     Speed: 15 m, nage 9 m
 
+    Skills: Perception +3
+
     Senses: Perception passive 13
 
     Languages: —
@@ -17213,7 +17479,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dipsa
-  Source: (LDM p)
+  Source: (LDM p121)
   Type: Vase
   Size: TP
   Alignment: non alignée
@@ -17221,11 +17487,11 @@ SubItems:
   HitPoints: 27 (6d4+12)
   Speed: 6 m, escalade 6 m, nage 6 m
   Skills: Discrétion +7 (+9 en terrain marécageux)
-  DamageResistances: d'acide
-  ConditionImmunities: assourdi, à terre, aveuglé, charmé, épuisé, terrorisé
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 1/4 (50 PX)
+  DamageResistances: d'acide
+  ConditionImmunities: assourdi, à terre, aveuglé, charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#dipsa
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17241,7 +17507,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p121)<!--/Source-->
 
 
 
@@ -17331,7 +17597,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p121)
 
     Type: Vase
 
@@ -17368,11 +17634,12 @@ SubItems:
   HitPoints: 112 (15d8+45)
   Speed: 9 m, escalade 9 m
   SavingThrows: Con +6
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun
+  Challenge: 7 (2 900PX)
   DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, empoisonné, épuisé
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#dissimortuum
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17444,6 +17711,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 
@@ -17502,12 +17773,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: commun
+
     Challenge: 7 (2 900PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Domovoï
-  Source: (LDM p)
+  Source: (LDM p123)
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -17515,10 +17788,10 @@ SubItems:
   HitPoints: 93 (11d8+44)
   Speed: 9m
   Skills: Intimidation +5, Perception +2
-  DamageImmunities: d'acide, de foudre
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, elfe, nain
   Challenge: 4 (1 100PX)
+  DamageImmunities: d'acide, de foudre
   Id: tome_of_beasts.md#domovoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17534,7 +17807,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p123)<!--/Source-->
 
 
 
@@ -17626,7 +17899,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p123)
 
     Type: Fée
 
@@ -17660,6 +17933,8 @@ SubItems:
   ArmorClass: 13
   HitPoints: 22 (5d4+10)
   Speed: 4,50 m, escalade 4,50 m, nage 4,50 m
+  SavingThrows: Dex +5
+  Skills: Discrétion +5
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 2 (450PX)
@@ -17711,6 +17986,14 @@ SubItems:
       |2 (-4)|17 (+3)|14 (+2)|2 (-4)|13 (+1)|2 (-4)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 
 
 
@@ -17770,6 +18053,10 @@ SubItems:
 
     Speed: 4,50 m, escalade 4,50 m, nage 4,50 m
 
+    SavingThrows: Dex +5
+
+    Skills: Discrétion +5
+
     Senses: vision dans le noir 18 m, Perception passive 11
 
     Languages: —
@@ -17779,7 +18066,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dorreq
-  Source: (LDM p)
+  Source: (LDM p125)
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -17788,9 +18075,10 @@ SubItems:
   Speed: 6 m, escalade 4,50 m
   SavingThrows: Dex+6
   Skills: Discrétion +8, Intimidation +2, Perception +3
-  DamageResistances: d'acide, de froid, de foudre
   Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: langue du Vide
   Challenge: 4 (1 100PX)
+  DamageResistances: d'acide, de froid, de foudre
   Id: tome_of_beasts.md#dorreq
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -17806,7 +18094,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p125)<!--/Source-->
 
 
 
@@ -17855,6 +18143,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->langue du Vide<!--/Languages-->
 
 
 
@@ -17910,7 +18202,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p125)
 
     Type: Aberration
 
@@ -17932,6 +18224,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 13
 
+    Languages: langue du Vide
+
     Challenge: 4 (1 100PX)
 
 - !MonsterItem
@@ -17946,10 +18240,10 @@ SubItems:
   Speed: 12 m, escalade 12 m, vol 24 m
   SavingThrows: Dex +7, Con +11, Sag +7, Cha +10
   Skills: Discrétion +7, Perception +12, Perspicacité +7, Persuasion +10, Supercherie +10
-  DamageImmunities: de feu
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
   Languages: commun, draconique, géant, igné, infernal, orc
   Challenge: 16 (15 000 PX)
+  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18152,7 +18446,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Flammes, Dragonnet
-  Source: (LDM p)
+  Source: (LDM p127)
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
@@ -18161,10 +18455,10 @@ SubItems:
   Speed: 9 m, escalade 9 m, vol 18 m
   SavingThrows: Dex +4, Con +4, Sag +3, Cha +5
   Skills: Discrétion +4, Perception +5, Perspicacité +3, Persuasion +5, Supercherie +5
-  DamageImmunities: de feu
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 15
   Languages: commun, draconique, igné
   Challenge: 3 (700 PX)
+  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18180,7 +18474,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p127)<!--/Source-->
 
 
 
@@ -18258,7 +18552,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p127)
 
     Type: Dragon
 
@@ -18296,10 +18590,10 @@ SubItems:
   Speed: 12 m, escalade 12 m, vol 24 m
   SavingThrows: Dex +6, Con +8, Sag +5, Cha +8
   Skills: Discrétion +6, Perception +9, Perspicacité +5, Persuasion +8, Supercherie +8
-  DamageImmunities: de feu
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
   Languages: commun, draconique, igné, géant, infernal, orc
   Challenge: 9 (5 000PX)
+  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18449,10 +18743,10 @@ SubItems:
   Speed: 12 m, escalade 12 m, vol 24 m
   SavingThrows: Dex +9, Con +15, Sag +10, Cha +13
   Skills: Discrétion +9, Perception +17, Perspicacité +10, Persuasion +13, Supercherie +13
-  DamageImmunities: de feu
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
   Languages: commun, draconique, géant, igné, infernal, orc
   Challenge: 24 (62000 PX)
+  DamageImmunities: de feu
   Id: tome_of_beasts.md#dragon-de-flammes-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18672,12 +18966,12 @@ SubItems:
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +9, Con +10, Int +10, Sag +10, Cha +10
   Skills: Athlétisme +13, Histoire +10, Perception +10, Perspicacité +10, Persuasion +10
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: d'acide, de tonnerre
-  ConditionImmunities: charmé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20
   Languages: céleste, commun, draconique, primordial
   Challenge: 14 (11 500PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: d'acide, de tonnerre
+  ConditionImmunities: charmé
   Id: tome_of_beasts.md#dragon-de-mithral-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18920,7 +19214,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Mithral, Jeune
-  Source: (LDM p)
+  Source: (LDM p131)
   Type: Dragon
   Size: M
   Alignment: neutre
@@ -18929,12 +19223,12 @@ SubItems:
   Speed: 15 m, vol 18 m
   SavingThrows: Dex +9, Con +4, Sag +5, Cha +5
   Skills: Acrobaties +6, Perception +5, Perspicacité +5, Persuasion+5
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: d'acide, de tonnerre
-  ConditionImmunities: charmé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 15
   Languages: céleste, commun, draconique, primordial
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: d'acide, de tonnerre
+  ConditionImmunities: charmé
   Id: tome_of_beasts.md#dragon-de-mithral-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -18950,7 +19244,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p131)<!--/Source-->
 
 
 
@@ -19066,7 +19360,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p131)
 
     Type: Dragon
 
@@ -19099,7 +19393,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Mithral, Vénérable
-  Source: (LDM p)
+  Source: (LDM p131)
   Type: Dragon
   Size: Gig
   Alignment: neutre
@@ -19108,12 +19402,12 @@ SubItems:
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +9, Con +13, Int +13, Sag +13, Cha +13
   Skills: Athlétisme +15, Histoire +13, Intimidation +13, Perception +13, Perspicacité +13, Persuasion +13
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: d'acide, de tonnerre
-  ConditionImmunities: charmé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
   Languages: céleste, commun, draconique, primordial
   Challenge: 18 (20000 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: d'acide, de tonnerre
+  ConditionImmunities: charmé
   Id: tome_of_beasts.md#dragon-de-mithral-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19129,7 +19423,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p131)<!--/Source-->
 
 
 
@@ -19375,7 +19669,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p131)
 
     Type: Dragon
 
@@ -19408,7 +19702,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Des Cavernes, Adulte
-  Source: (LDM p)
+  Source: (LDM p133)
   Type: Dragon
   Size: TG
   Alignment: neutre mauvais
@@ -19417,11 +19711,11 @@ SubItems:
   Speed: 12 m, escalade 12 m, traverser la terre
   SavingThrows: Dex +6, Con +12, Sag +6, Cha +10
   Skills: Perception +10
-  DamageImmunities: d'acide, de poison et de tonnerre
-  ConditionImmunities: empoisonné
   Senses: vision aveugle 36 m, Perception passive 20
   Languages: commun, darakhul, draconique, gobelin, nain
   Challenge: 16 (15 000 PX)
+  DamageImmunities: d'acide, de poison et de tonnerre
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#dragon-des-cavernes-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19437,7 +19731,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p133)<!--/Source-->
 
 
 
@@ -19633,7 +19927,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p133)
 
     Type: Dragon
 
@@ -19664,7 +19958,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Des Cavernes, Dragonnet
-  Source: (LDM p)
+  Source: (LDM p135)
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
@@ -19673,10 +19967,11 @@ SubItems:
   Speed: 9 m, fouissement 6 m, vol 6 m
   SavingThrows: Dex+3, Con +5, Cha+3
   Skills: Discrétion +5, Perception +2
+  Senses: vision aveugle 36 m, Perception passive 12
+  Languages: draconique
+  Challenge: 2 (450PX)
   DamageImmunities: d'acide, de poison et de tonnerre
   ConditionImmunities: empoisonné
-  Senses: vision aveugle 36 m, Perception passive 12
-  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#dragon-des-cavernes-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19692,7 +19987,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p135)<!--/Source-->
 
 
 
@@ -19748,6 +20043,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->draconique<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 
@@ -19788,7 +20087,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p135)
 
     Type: Dragon
 
@@ -19812,12 +20111,14 @@ SubItems:
 
     Senses: vision aveugle 36 m, Perception passive 12
 
+    Languages: draconique
+
     Challenge: 2 (450PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Des Cavernes, Jeune
-  Source: (LDM p)
+  Source: (LDM p135)
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
@@ -19826,11 +20127,11 @@ SubItems:
   Speed: 12 m, fouissement 6 m, vol6 m
   SavingThrows: Dex +4, Con +8, Sag +4, Cha +7
   Skills: Discrétion +4, Perception +4
-  DamageImmunities: d'acide, de poison et de tonnerre
-  ConditionImmunities: empoisonné
   Senses: vision aveugle 36 m, Perception passive 14
   Languages: commun, darakhul, draconique
   Challenge: 8 (3 900PX)
+  DamageImmunities: d'acide, de poison et de tonnerre
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#dragon-des-cavernes-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -19846,7 +20147,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p135)<!--/Source-->
 
 
 
@@ -19976,7 +20277,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p135)
 
     Type: Dragon
 
@@ -20016,11 +20317,11 @@ SubItems:
   Speed: 12 m, vol 27 m
   SavingThrows: Dex +10, Con +12, Sag +8, Cha +10
   Skills: Acrobaties +10, Discrétion +10, Intimidation +10, Perception +14
-  DamageImmunities: de foudre
-  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Senses: vision aveugle 3m, vision dans le noir 18 m, Perception passive 24
   Languages: commun, draconique, primordial
   Challenge: 17 (18 000PX)
+  DamageImmunities: de foudre
+  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20255,7 +20556,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vent, Dragonnet
-  Source: (LDM p)
+  Source: (LDM p137)
   Type: Dragon
   Size: M
   Alignment: chaotique neutre
@@ -20264,11 +20565,11 @@ SubItems:
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +6, Con +4, Sag +2, Cha +4
   Skills: Discrétion +6, Perception +4
-  DamageImmunities: de foudre
-  ConditionImmunities: charmé, épuisé, paralysé
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
   Languages: draconique, primordial
   Challenge: 1 (200 PX)
+  DamageImmunities: de foudre
+  ConditionImmunities: charmé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20284,7 +20585,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p137)<!--/Source-->
 
 
 
@@ -20366,7 +20667,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p137)
 
     Type: Dragon
 
@@ -20397,7 +20698,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vent, Jeune
-  Source: (LDM p)
+  Source: (LDM p137)
   Type: Dragon
   Size: G
   Alignment: chaotique neutre
@@ -20406,11 +20707,11 @@ SubItems:
   Speed: 12 m, vol 27 m
   SavingThrows: Dex +7, Con +7, Sag +4, Cha +6
   Skills: Discrétion +7, Perception +7
-  DamageImmunities: de foudre
-  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 17
   Languages: commun, draconique, primordial
   Challenge: 6 (2 300PX)
+  DamageImmunities: de foudre
+  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20426,7 +20727,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p137)<!--/Source-->
 
 
 
@@ -20544,7 +20845,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p137)
 
     Type: Dragon
 
@@ -20584,12 +20885,12 @@ SubItems:
   Speed: 12 m, vol 36 m
   SavingThrows: Dex +11, Con +15, Sag +10, Cha +12
   Skills: Acrobaties +11, Arcanes +11, Discrétion +11, Intimidation +12, Perception +17
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de foudre, infligés par des armes à distance
-  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 27
   Languages: commun, draconique, elfique, nain, primordial
   Challenge: 22 (41000 PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de foudre, infligés par des armes à distance
+  ConditionImmunities: charmé, entravé, épuisé, paralysé
   Id: tome_of_beasts.md#dragon-du-vent-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -20841,11 +21142,11 @@ SubItems:
   Speed: 12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +5, Con +12, Sag +6, Cha +10
   Skills: Arcanes +13, Discrétion +5, Histoire+13, Perception+11, Persuasion +10
-  DamageImmunities: de froid
-  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 21
   Languages: commun, draconique, langue du Vide
   Challenge: 14 (11 500PX)
+  DamageImmunities: de froid
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#dragon-du-vide-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21082,7 +21383,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vide, Dragonnet
-  Source: (LDM p)
+  Source: (LDM p141)
   Type: Dragon
   Size: M
   Alignment: chaotique neutre
@@ -21091,10 +21392,10 @@ SubItems:
   Speed: 9 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +4, Con +5, Sag +1, Cha +5
   Skills: Discrétion +2, Perception +3
-  DamageImmunities: de froid
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 13
   Languages: commun, draconique, langue du Vide
   Challenge: 2 (450PX)
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-du-vide-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21110,7 +21411,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p141)<!--/Source-->
 
 
 
@@ -21224,7 +21525,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p141)
 
     Type: Dragon
 
@@ -21253,7 +21554,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vide, Jeune
-  Source: (LDM p)
+  Source: (LDM p141)
   Type: Dragon
   Size: G
   Alignment: chaotique neutre
@@ -21262,11 +21563,11 @@ SubItems:
   Speed: 12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +4, Con +9, Sag +4, Cha +8
   Skills: Arcanes +10, Discrétion +4, Histoire +10, Perception +8, Persuasion +8
-  DamageImmunities: de froid
-  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 18
   Languages: commun, draconique, langue du Vide
   Challenge: 9 (5 000PX)
+  DamageImmunities: de froid
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#dragon-du-vide-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21282,7 +21583,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p141)<!--/Source-->
 
 
 
@@ -21412,7 +21713,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p141)
 
     Type: Dragon
 
@@ -21452,11 +21753,11 @@ SubItems:
   Speed: 12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +7, Con +16, Sag +9, Cha +13
   Skills: Arcanes +18, Discrétion +7, Histoire +18, Perception +16, Persuasion +13
-  DamageImmunities: de froid
-  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 26
   Languages: céleste, commun, draconique, infernal, langue du Vide, primordial
   Challenge: 24 (62000 PX)
+  DamageImmunities: de froid
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#dragon-du-vide-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21732,10 +22033,10 @@ SubItems:
   Speed: 12 m, vol 24 m, nage 18 m
   SavingThrows: Dex +5, Con +11, Sag +7, Cha +9
   Skills: Discrétion +5, Perception +12
-  DamageImmunities: de froid
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 22
   Languages: commun, draconique
   Challenge: 16 (15 000 PX)
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -21939,10 +22240,10 @@ SubItems:
   Speed: 9 m, vol 18 m, nage 12 m
   SavingThrows: Dex +2, Con +4, Sag +2, Cha +4
   Skills: Discrétion +2, Perception +4
-  DamageImmunities: de froid
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
   Languages: commun, draconique, primordial
   Challenge: 2 (450PX)
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22065,7 +22366,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Marin, Jeune
-  Source: (LDM p)
+  Source: (LDM p145)
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
@@ -22074,10 +22375,10 @@ SubItems:
   Speed: 12 m, vol 24 m, nage 15 m
   SavingThrows: Dex +4, Con +8, Sag +5, Cha +7
   Skills: Discrétion +4, Perception +9
-  DamageImmunities: de froid
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive 19
   Languages: commun, draconique
   Challenge: 9 (5 000PX)
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22093,7 +22394,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p145)<!--/Source-->
 
 
 
@@ -22195,7 +22496,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p145)
 
     Type: Dragon
 
@@ -22224,7 +22525,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Marin, Vénérable
-  Source: (LDM p)
+  Source: (LDM p145)
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
@@ -22233,10 +22534,10 @@ SubItems:
   Speed: 12 m, vol 24 m, nage 24 m
   SavingThrows: Dex +7, Con +15, Sag +10, Cha +12
   Skills: Discrétion +7, Perception +17
-  DamageImmunities: de froid
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
   Languages: commun, draconique, infernal, primordial
   Challenge: 22 (41000 PX)
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#dragon-marin-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22252,7 +22553,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p145)<!--/Source-->
 
 
 
@@ -22414,7 +22715,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p145)
 
     Type: Dragon
 
@@ -22443,7 +22744,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Murène Dragon
-  Source: (LDM p)
+  Source: (LDM p147)
   Type: Dragon
   Size: TG
   Alignment: neutre
@@ -22452,11 +22753,11 @@ SubItems:
   Speed: 6 m, nage 18 m
   SavingThrows: For +12, Dex +5, Int +6, Sag +5, Cha +6
   Skills: Acrobaties +5, Athlétisme +12, Perception +6, Perspicacité +5
-  DamageImmunities: de foudre
-  ConditionImmunities: à terre, paralysé
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, draconique, primordial
   Challenge: 12 (8 400 PX)
+  DamageImmunities: de foudre
+  ConditionImmunities: à terre, paralysé
   Id: tome_of_beasts.md#murène-dragon
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22472,7 +22773,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p147)<!--/Source-->
 
 
 
@@ -22584,7 +22885,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p147)
 
     Type: Dragon
 
@@ -22624,10 +22925,10 @@ SubItems:
   Speed: 4,50 m, vol 12 m (vol stationnaire)
   SavingThrows: Dex +3, Sag +3, Cha +3
   Skills: Arcanes +5, Histoire +5, Nature +5, Perception +3, Religion +5
-  ConditionImmunities: paralysé, inconscient
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique, elfe, primordial ; télépathie 18 m
   Challenge: 1/2 (50 PX)
+  ConditionImmunities: paralysé, inconscient
   Id: tome_of_beasts.md#dragonette-lanterne
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22768,18 +23069,20 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake De Cendres
-  Source: (LDM p)
+  Source: (LDM p149)
   Type: Dragon
   Size: P
   Alignment: neutre mauvais
   ArmorClass: 16 (armure naturelle)
   HitPoints: 117 (18d6+54)
   Speed: 9 m, vol 18 m
-  DamageResistances: de feu
-  ConditionImmunities: inconscient, paralysé
+  SavingThrows: Dex +4
+  Skills: Discrétion +4
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, draconique
   Challenge: 4 (1 100PX)
+  DamageResistances: de feu
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-de-cendres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22795,7 +23098,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p149)<!--/Source-->
 
 
 
@@ -22828,6 +23131,14 @@ SubItems:
       |14 (+2)|15 (+2)|16 (+3)|9 (-1)|15 (+2)|10 (+0)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +4<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 
 
 
@@ -22887,7 +23198,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p149)
 
     Type: Dragon
 
@@ -22900,6 +23211,10 @@ SubItems:
     HitPoints: 117 (18d6+54)
 
     Speed: 9 m, vol 18 m
+
+    SavingThrows: Dex +4
+
+    Skills: Discrétion +4
 
     DamageResistances: de feu
 
@@ -22922,10 +23237,12 @@ SubItems:
   HitPoints: 127 (15d8+60)
   Speed: 9 m, nage 18 m
   SavingThrows: Dex+6
+  Skills: Acrobaties +6, Discrétion +6, Perception +4
+  Senses: vision dans le noir 36 m, Perception passive 17
+  Languages: draconique
+  Challenge: 7 (2 900PX)
   DamageResistances: de froid
   ConditionImmunities: à terre, empoisonné, inconscient, paralysé
-  Senses: vision dans le noir 36 m, Perception passive 17
-  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#drake-de-corail
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -22981,6 +23298,10 @@ SubItems:
 
 
 
+      - **Compétences** <!--Skills-->Acrobaties +6, Discrétion +6, Perception +4<!--/Skills-->
+
+
+
       - **Résistance aux dégâts** <!--DamageResistances-->de froid<!--/DamageResistances-->
 
 
@@ -22990,6 +23311,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 17<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->draconique<!--/Languages-->
 
 
 
@@ -23061,28 +23386,32 @@ SubItems:
 
     SavingThrows: Dex+6
 
+    Skills: Acrobaties +6, Discrétion +6, Perception +4
+
     DamageResistances: de froid
 
     ConditionImmunities: à terre, empoisonné, inconscient, paralysé
 
     Senses: vision dans le noir 36 m, Perception passive 17
 
+    Languages: draconique
+
     Challenge: 7 (2 900PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake De Papier
-  Source: (LDM p)
+  Source: (LDM p151)
   Type: Dragon
   Size: P
   Alignment: neutre
   ArmorClass: 13
   HitPoints: 78 (12d6+36)
   Speed: 12 m, vol 30 m
-  ConditionImmunities: paralysé, inconscient
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique, elfique, nain
   Challenge: 2 (450PX)
+  ConditionImmunities: paralysé, inconscient
   Id: tome_of_beasts.md#drake-de-papier
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23098,7 +23427,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p151)<!--/Source-->
 
 
 
@@ -23192,7 +23521,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p151)
 
     Type: Dragon
 
@@ -23225,12 +23554,12 @@ SubItems:
   HitPoints: 161 (19d8+76)
   Speed: 6 m, fouissement 1,50 m, vol 30 m
   Skills: Perception +3, Discrétion +5
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné et paralysé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique
   Challenge: 8 (3 900PX)
   DamageVulnerabilities: d'acide
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné et paralysé
   Id: tome_of_beasts.md#drake-de-rouille
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23381,7 +23710,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ancien Drake Des Ombres
-  Source: (LDM p)
+  Source: (LDM p153)
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
@@ -23390,12 +23719,12 @@ SubItems:
   Speed: 6 m, vol 18 m
   SavingThrows: Dex+4, Con +7, Cha+4
   Skills: Discrétion +7, Perception +5
-  DamageImmunities: de froid
-  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: commun, draconique, umbral
   Challenge: 7 (2 900PX) magique doit commencer et se terminer dans une zone de lumière faible ou de ténèbres, et ces deux zones ne peuvent pas être distantes de plus de 18mètres.
   DamageVulnerabilities: radiants
+  DamageImmunities: de froid
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#ancien-drake-des-ombres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23411,7 +23740,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p153)<!--/Source-->
 
 
 
@@ -23527,7 +23856,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p153)
 
     Type: Dragon
 
@@ -23569,11 +23898,11 @@ SubItems:
   Speed: 15 m, escalade 9 m, vol 30 m
   SavingThrows: Dex +8, Con +6
   Skills: Athlétisme +9, Perception +6, Perspicacité +6
-  DamageImmunities: nécrotiques
-  ConditionImmunities: inconscient, paralysé
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 16
   Languages: commun, commun des profondeurs, darakhul, draconique
   Challenge: 9 (5 000PX)
+  DamageImmunities: nécrotiques
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-des-profondeurs
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23726,15 +24055,16 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake Des Tavernes.
-  Source: (LDM p)
+  Source: (LDM p155)
   ArmorClass: 13
   HitPoints: 65 (10d4+40)
   Speed: 12 m, vol 24 m
+  SavingThrows: Dex +5
   Skills: Perspicacité +3, Persuasion +5, Supercherie +5
-  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique
   Challenge: 1/2 (100 PX)
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-des-tavernes.
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23750,7 +24080,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p155)<!--/Source-->
 
 
 
@@ -23783,6 +24113,10 @@ SubItems:
       |7 (-2)|16 (+3)|19 (+4)|11 (+0)|12 (+1)|16 (+3)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 
 
 
@@ -23866,13 +24200,15 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p155)
 
     ArmorClass: 13
 
     HitPoints: 65 (10d4+40)
 
     Speed: 12 m, vol 24 m
+
+    SavingThrows: Dex +5
 
     Skills: Perspicacité +3, Persuasion +5, Supercherie +5
 
@@ -23894,12 +24230,13 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 54 (12d4+24)
   Speed: 4,50 m, vol 24 m
+  SavingThrows: Dex +4
   Skills: Acrobaties +4, Perception +1
-  DamageImmunities: de feu
-  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique; télépathie 18 m
   Challenge: 1 (200 PX)
+  DamageImmunities: de feu
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#drake-pourpre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -23948,6 +24285,10 @@ SubItems:
       |10 (+0)|14 (+2)|14 (+2)|8 (-1)|9 (-1)|14 (+2)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +4<!--/SavingThrows-->
 
 
 
@@ -24025,6 +24366,8 @@ SubItems:
 
     Speed: 4,50 m, vol 24 m
 
+    SavingThrows: Dex +4
+
     Skills: Acrobaties +4, Perception +1
 
     DamageImmunities: de feu
@@ -24040,7 +24383,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake Stellaire
-  Source: (LDM p)
+  Source: (LDM p157)
   Type: Dragon
   Size: G
   Alignment: neutre
@@ -24049,11 +24392,11 @@ SubItems:
   Speed: 12 m, vol 30 m
   SavingThrows: Dex +8, Con +10, Int +8, Sag +12, Cha +10
   Skills: Arcanes +8, Histoire +8, Perception +12, Perspicacité +12, Religion+8
-  DamageImmunities: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
-  ConditionImmunities: charmé, inconscient, paralysé, terrorisé
   Senses: vision parfaite 36 m, Perception passive 22
   Languages: céleste, commun, draconique, elfique, infernal, nain, primordial
   Challenge: 15 (13 000 PX)
+  DamageImmunities: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
+  ConditionImmunities: charmé, inconscient, paralysé, terrorisé
   Id: tome_of_beasts.md#drake-stellaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24069,7 +24412,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p157)<!--/Source-->
 
 
 
@@ -24247,7 +24590,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p157)
 
     Type: Dragon
 
@@ -24286,11 +24629,11 @@ SubItems:
   HitPoints: 105 (14d10+28)
   Speed: 9 m, vol 18 m, nage 12 m
   Skills: Discrétion +7, Perception +4
-  DamageResistances: d'acide
-  ConditionImmunities: paralysé
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 5 (1 800PX)
+  DamageResistances: d'acide
+  ConditionImmunities: paralysé
   Id: tome_of_beasts.md#drakon
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24431,7 +24774,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dryade Épine-Du-Crépuscule
-  Source: (LDM p)
+  Source: (LDM p159)
   Type: Fée
   Size: M
   Alignment: chaotique
@@ -24458,7 +24801,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p159)<!--/Source-->
 
 
 
@@ -24592,7 +24935,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p159)
 
     Type: Fée
 
@@ -24627,12 +24970,12 @@ SubItems:
   HitPoints: 178 (17d10+85)
   Speed: 18 m
   Skills: Intimidation +7, Perception +6, Persuasion +7, Survie+6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques
-  ConditionImmunities: charmé, empoisonné, terrorisé
   Senses: vision aveugle 18 m, Perception passive 16
   Languages: commun, elfique, sylvestre
   Challenge: 11 (7 200PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: nécrotiques
+  ConditionImmunities: charmé, empoisonné, terrorisé
   Id: tome_of_beasts.md#dullahan
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24821,17 +25164,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Eala
-  Source: (LDM p)
+  Source: (LDM p161)
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
   ArmorClass: 15 (naturelle)
   HitPoints: 40 (9d6+9)
   Speed: 3 m, vol 18 m
-  DamageImmunities: de feu
+  SavingThrows: Dex +5
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 2 (450PX)
+  DamageImmunities: de feu
   Id: tome_of_beasts.md#eala
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -24847,7 +25191,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p161)<!--/Source-->
 
 
 
@@ -24880,6 +25224,10 @@ SubItems:
       |10 (+0)|16 (+3)|12 (+1)|2 (−4)|12 (+1)|16 (+3)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 
 
 
@@ -24935,7 +25283,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p161)
 
     Type: Créature monstrueuse
 
@@ -24948,6 +25296,8 @@ SubItems:
     HitPoints: 40 (9d6+9)
 
     Speed: 3 m, vol 18 m
+
+    SavingThrows: Dex +5
 
     DamageImmunities: de feu
 
@@ -24967,11 +25317,12 @@ SubItems:
   ArmorClass: 15
   HitPoints: 75 (10d8+30)
   Speed: 0 m, vol 18 m (vol stationnaire)
+  Senses: vision aveugle 18 m, Perception passive 11
+  Languages: commun mais ne peut pas parler
+  Challenge: 4 (1 100PX)
   DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
-  Senses: vision aveugle 18 m, Perception passive 11
-  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#edimmu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -25039,6 +25390,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun mais ne peut pas parler<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 
@@ -25089,12 +25444,14 @@ SubItems:
 
     Senses: vision aveugle 18 m, Perception passive 11
 
+    Languages: commun mais ne peut pas parler
+
     Challenge: 4 (1 100PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Einherjar
-  Source: (LDM p)
+  Source: (LDM p163)
   Type: Humanoïde
   Size: M
   Alignment: chaotique neutre
@@ -25102,10 +25459,10 @@ SubItems:
   HitPoints: 119 (14d8+56)
   Speed: 9m
   Skills: Dressage +5, Intimidation +6, Perception +5
-  DamageResistances: infligés par les armes perforantes qui ne sont pas magiques
   Senses: vision dans le noir 18 m, vision parfaite 18m, Perception passive 15
   Languages: céleste, commun
   Challenge: 7 (2 900PX)
+  DamageResistances: infligés par les armes perforantes qui ne sont pas magiques
   Id: tome_of_beasts.md#einherjar
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -25121,7 +25478,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p163)<!--/Source-->
 
 
 
@@ -25251,7 +25608,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p163)
 
     Type: Humanoïde
 
@@ -25287,10 +25644,10 @@ SubItems:
   Speed: 9 m, nage 9 m9m9m9m9m9m
   SavingThrows: For +4, Dex +7, Con +6, Int +5, Sag +5, Cha +7Dex+7, Con +4, Cha+6Dex +8, Con +5, Sag +4, Cha +6Dex +5, Sag +6, Cha +7For +6, Con +5
   Skills: Supercherie +7, Perspicacité +5, Perception +5Arcanes +2, Perception +2Arcanes +3, Perception +4, Discrétion +10, Survie +4Arcanes+4, Supercherie+6, Perception +4, Discrétion+8Arcanes +4, Supercherie +7, Perception +6, Persuasion +7, Discrétion +5Athlétisme+6, Perception +4
-  ConditionImmunities: charmé, terrorisé
   Senses: Perception passive 15vision dans le noir 18 m, Perception passive 12vision dans le noir 18 m, Perception passive 14vision dans le noir 18 m, Perception passive 14vision dans le noir 18 m, Perception passive 16vision dans le noir 18 m, Perception passive 14
   Languages: aquatique, commun, elfique, sylvestrecommun, elfique, umbralcommun, elfique, umbralcommun, elfique, umbralcommun, elfique, umbralcommun, elfique, umbral
   Challenge: 5 (1 800PX)1/4 (50 PX)5 (1 800PX)6 (2 300PX)7 (2 900PX)4 (1 100PX)
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#eleinomae
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26226,7 +26583,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Enfant Des Bruyères
-  Source: (LDM p)
+  Source: (LDM p171)
   Type: Plante
   Size: TP
   Alignment: neutre mauvaise
@@ -26253,7 +26610,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p171)<!--/Source-->
 
 
 
@@ -26355,7 +26712,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p171)
 
     Type: Plante
 
@@ -26389,10 +26746,10 @@ SubItems:
   ArmorClass: 12 (armure de cuir)
   HitPoints: 22 (4d6+8)
   Speed: 6 m, fouissement 6m
-  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: commun, erina
   Challenge: 1/4 (50 PX)
+  DamageResistances: de poison
   Id: tome_of_beasts.md#Écornifleur-erina
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26529,10 +26886,10 @@ SubItems:
   HitPoints: 44 (8d6+16)
   Speed: 6 m, fouissement 6m
   Skills: Athlétisme+4, Perception +3
-  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, erina
   Challenge: 1 (200 PX)
+  DamageResistances: de poison
   Id: tome_of_beasts.md#défenseur-erina
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26685,19 +27042,20 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Esclave Putresprit
-  Source: (LDM p)
+  Source: (LDM p173)
   Type: Plante
   Size: M
   Alignment: neutre
   ArmorClass: 15 (armure naturelle)
   HitPoints: 82 (11d8+33)
   Speed: 9m
-  DamageResistances: contondants et perforants issus d'armes non magiques
-  DamageImmunities: d'acide, de poison
-  ConditionImmunities: charmé, terrorisé, empoisonné
+  SavingThrows: Con +5
   Senses: perception des vibrations 9 m, Perception passive 12
   Languages: comprend le commun mais ne peut pas parler
   Challenge: 3 (700 PX)
+  DamageResistances: contondants et perforants issus d'armes non magiques
+  DamageImmunities: d'acide, de poison
+  ConditionImmunities: charmé, terrorisé, empoisonné
   Id: tome_of_beasts.md#esclave-putresprit
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26713,7 +27071,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p173)<!--/Source-->
 
 
 
@@ -26746,6 +27104,10 @@ SubItems:
       |15 (+2)|14 (+2)|17 (+3)|11 (+0)|14 (+2)|6 (–2)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
 
 
 
@@ -26809,7 +27171,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p173)
 
     Type: Plante
 
@@ -26822,6 +27184,8 @@ SubItems:
     HitPoints: 82 (11d8+33)
 
     Speed: 9m
+
+    SavingThrows: Con +5
 
     DamageResistances: contondants et perforants issus d'armes non magiques
 
@@ -26845,10 +27209,12 @@ SubItems:
   ArmorClass: 14
   HitPoints: 87 (25d6)
   Speed: 12m
+  Skills: Perception +5
+  Senses: vision dans le noir 18 m, Perception passive 15
+  Languages: primordial
+  Challenge: 2 (450PX)
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
-  Senses: vision dans le noir 18 m, Perception passive 15
-  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#esprit-du-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -26900,6 +27266,10 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Perception +5<!--/Skills-->
+
+
+
       - **Immunité contre les dégâts** <!--DamageImmunities-->de feu, de poison<!--/DamageImmunities-->
 
 
@@ -26909,6 +27279,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->primordial<!--/Languages-->
 
 
 
@@ -26978,30 +27352,35 @@ SubItems:
 
     Speed: 12m
 
+    Skills: Perception +5
+
     DamageImmunities: de feu, de poison
 
     ConditionImmunities: épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
 
     Senses: vision dans le noir 18 m, Perception passive 15
 
+    Languages: primordial
+
     Challenge: 2 (450PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Étincelle
-  Source: (LDM p)
+  Source: (LDM p175)
   Type: Élémentaire
   Size: TP
   Alignment: chaotique neutre
   ArmorClass: 16 (armure naturelle)
   HitPoints: 84 (13d4+52)
   Speed: 3 m, vol 18 m (vol stationnaire)
-  DamageResistances: d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de foudre
-  ConditionImmunities: épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient
+  SavingThrows: Dex +8
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, primordial
   Challenge: 7 (2 900PX)
+  DamageResistances: d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de foudre
+  ConditionImmunities: épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient
   Id: tome_of_beasts.md#Étincelle
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -27017,7 +27396,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p175)<!--/Source-->
 
 
 
@@ -27050,6 +27429,10 @@ SubItems:
       |4 (–3)|20 (+5)|18 (+4)|10 (+0)|12 (+1)|17 (+3)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +8<!--/SavingThrows-->
 
 
 
@@ -27113,7 +27496,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p175)
 
     Type: Élémentaire
 
@@ -27126,6 +27509,8 @@ SubItems:
     HitPoints: 84 (13d4+52)
 
     Speed: 3 m, vol 18 m (vol stationnaire)
+
+    SavingThrows: Dex +8
 
     DamageImmunities: de foudre
 
@@ -27329,7 +27714,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Far Darrig
-  Source: (LDM p)
+  Source: (LDM p177)
   Type: FéeFéeFéeFéeFéeFéeFée (métamorphe)Fée
   Size: PMMGMMMM
   Alignment: neutreneutre mauvaiseneutre mauvaiseneutreloyale neutreneutre bonneloyale neutrechaotique neutre
@@ -27338,12 +27723,12 @@ SubItems:
   Speed: 6 m9 m, vol 18 m (vol stationnaire)12m12 m, vol 15 m (vol stationnaire)12m15 m12m9 m, nage 12 m
   SavingThrows: Dex+5, Con +7, Cha+7Con +10, Sag +11Dex+9, Con +7, Cha+9Dex+6, Sag +10, Cha+12For +11, Sag +10, Cha +8Con +10, Sag +10, Cha +11For +9, Dex +4, Sag +7Dex+8, Con +10, Sag +6
   Skills: Nature +4, Dressage +6, Médecine +6, Perception +6, Survie +6Arcanes +12, Supercherie +15, Intimidation +15, Perception +11, Discrétion +12Perception +10, Discrétion +9Arcanes +9, Supercherie +12, Histoire +9, Perspicacité +10, Perception +10Athlétisme +11, Perception +10, Survie +10Arcanes +11, Perception +10Athlétisme +9, Intimidation +7, Perception +7Intimidation +8, Nature +7, Perception +6, Discrétion +8
-  DamageResistances: de feu et de foudrecontondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froidde feu, de froid; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidcontondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidacides ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid.de froidde feu, de froid, de tonnerre ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
-  DamageImmunities: de froid ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidde froidradiantsde froid, de poisonde froid, de feu, de poisonde poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froidde foudre
-  ConditionImmunities: charmé, terrorisécharmé, terrorisé, épuiséaveuglé, charmé, terroriséépuisé, charmé, terrorisé, empoisonnécharmé, terrorisé, empoisonnéempoisonnéépuisé
   Senses: vision dans le noir 18 m, Perception passive 16vision parfaite 36 m, Perception passive 21vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20vision parfaite 18m, Perception passive 19vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20vision aveugle 9m, vision dans le noir 36 m, Perception passive 20vision dans le noir 18 m, Perception passive 17vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
   Languages: commun, elfique, sylvestrecéleste, commun, elfique, sylvestre, umbral ; télépathie 36 mcommun, elfique, géant, sylvestrecéleste, commun, draconique, elfique, sylvestre, umbralcommun, draconique, elfique, sylvestreabyssal, céleste, commun, draconique, elfique, infernal, umbral ; télépathie 30mcommun, elfique, géant, sylvestrecommun, élémentaire, elfique, géant
   Challenge: 3 (700 PX)21 (33 000 PX)16 (15 000 PX)17 (18 000PX)18 (20000 PX)17 (18 000PX)12 (8 400 PX)16 (15 000 PX)
+  DamageResistances: de feu et de foudrecontondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froidde feu, de froid; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidcontondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidacides ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid.de froidde feu, de froid, de tonnerre ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
+  DamageImmunities: de froid ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froidde froidradiantsde froid, de poisonde froid, de feu, de poisonde poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froidde foudre
+  ConditionImmunities: charmé, terrorisécharmé, terrorisé, épuiséaveuglé, charmé, terroriséépuisé, charmé, terrorisé, empoisonnécharmé, terrorisé, empoisonnéempoisonnéépuisé
   Id: tome_of_beasts.md#far-darrig
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -27359,7 +27744,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p177)<!--/Source-->
 
 
 
@@ -28835,7 +29220,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p177)
 
     Type: FéeFéeFéeFéeFéeFéeFée (métamorphe)Fée
 
@@ -28876,12 +29261,12 @@ SubItems:
   HitPoints: 135 (18d8+54)
   Speed: 9m
   SavingThrows: For +8
-  DamageResistances: d'acide, de froid, de feu, de foudre
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: celles qu'il parlait de son vivant
   Challenge: 5 (1 800PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, empoisonné
   Id: tome_of_beasts.md#felforgé
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29038,7 +29423,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Férocien
-  Source: (LDM p)
+  Source: (LDM p195)
   Type: Bête
   Size: G
   Alignment: neutre mauvaise
@@ -29046,10 +29431,11 @@ SubItems:
   HitPoints: 115 (1d10+60)
   Speed: 12 m, escalade 6 m
   SavingThrows: Dex +5, Con +9
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, terrorisé
+  Skills: Perception +3
   Senses: vision dans le noir 18 m, Perception passive 13
   Challenge: 8 (3 900PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#férocien
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29065,7 +29451,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p195)<!--/Source-->
 
 
 
@@ -29102,6 +29488,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex +5, Con +9<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -29157,7 +29547,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p195)
 
     Type: Bête
 
@@ -29172,6 +29562,8 @@ SubItems:
     Speed: 12 m, escalade 6 m
 
     SavingThrows: Dex +5, Con +9
+
+    Skills: Perception +3
 
     DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
 
@@ -29192,11 +29584,12 @@ SubItems:
   HitPoints: 60 (11d8+11)
   Speed: 9m
   SavingThrows: Dex+6, Sag +4, Cha+7
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  Skills: Perception +4
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: les langues parlées par son protecteur
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#fext
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29249,6 +29642,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex+6, Sag +4, Cha+7<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +4<!--/Skills-->
 
 
 
@@ -29354,6 +29751,8 @@ SubItems:
 
     SavingThrows: Dex+6, Sag +4, Cha+7
 
+    Skills: Perception +4
+
     DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
 
     ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
@@ -29367,7 +29766,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fils De Fenris
-  Source: (LDM p)
+  Source: (LDM p197)
   Type: Créature monstrueuse
   Size: TG
   Alignment: chaotique mauvaise
@@ -29376,12 +29775,12 @@ SubItems:
   Speed: 18 m, fouissement 4,50 m (9 m dans la glace ou la neige)
   SavingThrows: Dex+7, Con +10, Sag +8
   Skills: Arcanes +7, Intimidation +6, Religion +12
-  DamageResistances: psychiques, radiants
-  DamageImmunities: de froid, de foudre, de poison; contondants et perforants infligés par des armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision parfaite 18 m, perception des vibrations 30 m, Perception passive 14
   Languages: commun, céleste, draconique, elfique, nain, géant, infernal, télépathie 18 m
   Challenge: 12 (8 400 PX)
+  DamageResistances: psychiques, radiants
+  DamageImmunities: de froid, de foudre, de poison; contondants et perforants infligés par des armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#fils-de-fenris
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29397,7 +29796,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p197)<!--/Source-->
 
 
 
@@ -29573,7 +29972,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p197)
 
     Type: Créature monstrueuse
 
@@ -29615,11 +30014,11 @@ SubItems:
   Speed: 12 m, escalade 4,50 m
   SavingThrows: Sag +6
   Skills: Intimidation +6, Discrétion +7
-  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
-  ConditionImmunities: charmé, terrorisé
   Senses: vision aveugle 9m, Perception passive 12
   Languages: commun, elfique, sylvestre
   Challenge: 10 (5 900 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#forgepeur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -29794,7 +30193,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fourmi Géante
-  Source: (LDM p)
+  Source: (LDM p199)
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -29819,7 +30218,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p199)<!--/Source-->
 
 
 
@@ -29897,7 +30296,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p199)
 
     Type: Bête
 
@@ -29920,7 +30319,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Reine Fourmi Géante
-  Source: (LDM p)
+  Source: (LDM p199)
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -29945,7 +30344,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p199)<!--/Source-->
 
 
 
@@ -30029,7 +30428,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p199)
 
     Type: Bête
 
@@ -30059,9 +30458,11 @@ SubItems:
   ArmorClass: 15 (armure de cuir, bouclier)
   HitPoints: 18 (4d6+4)
   Speed: 7,50m
-  DamageImmunities: de froid
+  Skills: Discrétion +4
   Senses: Perception passive 10
+  Languages: sylvestre
   Challenge: 1/2 (50 PX)
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#fraughashar
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30113,11 +30514,19 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
+
+
+
       - **Immunité contre les dégâts** <!--DamageImmunities-->de froid<!--/DamageImmunities-->
 
 
 
       - **Sens** <!--Senses-->Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->sylvestre<!--/Languages-->
 
 
 
@@ -30175,16 +30584,20 @@ SubItems:
 
     Speed: 7,50m
 
+    Skills: Discrétion +4
+
     DamageImmunities: de froid
 
     Senses: Perception passive 10
+
+    Languages: sylvestre
 
     Challenge: 1/2 (50 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gardien Spectral
-  Source: (LDM p)
+  Source: (LDM p201)
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -30192,12 +30605,12 @@ SubItems:
   HitPoints: 110 (13d8+52)
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +7, Sag +6
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de froid, nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
   Languages: comprend les langues qu'il parlait de son vivant mais ne peut pas parler
   Challenge: 6 (2 300PX)
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de froid, nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
   Id: tome_of_beasts.md#gardien-spectral
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30213,7 +30626,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p201)<!--/Source-->
 
 
 
@@ -30357,7 +30770,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p201)
 
     Type: Mort-vivant
 
@@ -30535,7 +30948,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Géant Du Désert
-  Source: (LDM p)
+  Source: (LDM p203)
   Type: Géant
   Size: TG
   Alignment: neutre
@@ -30560,7 +30973,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p203)<!--/Source-->
 
 
 
@@ -30648,7 +31061,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p203)
 
     Type: Géant
 
@@ -30680,12 +31093,12 @@ SubItems:
   Speed: 15 m (6 m, vol 36 m sous forme de roc)
   SavingThrows: Dex +6, Int +9, Sag +9, Cha +11
   Skills: Athlétisme +13, Perception +9, Survie +9
-  DamageResistances: de foudre, de tonnerre
-  DamageImmunities: de froid, contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: épuisé
   Senses: Perception passive 19
   Languages: aérien, commun, géant (incapable de parler sous forme de roc)
   Challenge: 19 (22 000 PX)
+  DamageResistances: de foudre, de tonnerre
+  DamageImmunities: de froid, contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: épuisé
   Id: tome_of_beasts.md#hraesvelgr-le-mangeur-de-cadavres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -30937,10 +31350,10 @@ SubItems:
   Speed: 18 m
   SavingThrows: Con +14, Sag +11, Cha +8
   Skills: Arcanes +10, Histoire +10, Nature +10, Discrétion+5
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: commun, géant
   Challenge: 22 (25 000PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#géant-jotun
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31165,18 +31578,20 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Géant Obèse
-  Source: (LDM p)
+  Source: (LDM p207)
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
   ArmorClass: 14 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 6 m
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné
+  SavingThrows: Con +5
+  Skills: Perception +3
   Senses: Perception passive 13
   Languages: nain, géant
   Challenge: 4 (1 100PX)
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#géant-obèse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31192,7 +31607,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p207)<!--/Source-->
 
 
 
@@ -31225,6 +31640,14 @@ SubItems:
       |20 (+5)|6 (–2)|16 (+3)|9 (–1)|13 (+1)|8 (–1)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -31278,7 +31701,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p207)
 
     Type: Géant
 
@@ -31291,6 +31714,10 @@ SubItems:
     HitPoints: 110 (13d10+39)
 
     Speed: 6 m
+
+    SavingThrows: Con +5
+
+    Skills: Perception +3
 
     DamageImmunities: de poison
 
@@ -31451,7 +31878,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Génie Al-Aeshma
-  Source: (LDM p)
+  Source: (LDM p209)
   Type: Élémentaire
   Size: G
   Alignment: chaotique mauvais
@@ -31459,10 +31886,10 @@ SubItems:
   HitPoints: 172 (15d10+90)
   Speed: 9 m, vol 27 m (vol stationnaire)
   SavingThrows: Dex+6, Sag +7, Cha+9
-  DamageImmunities: de foudre, de tonnerre
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: aérien, commun, igné
   Challenge: 9 (5 000PX)
+  DamageImmunities: de foudre, de tonnerre
   Id: tome_of_beasts.md#génie-al-aeshma
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31478,7 +31905,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p209)<!--/Source-->
 
 
 
@@ -31612,7 +32039,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p209)
 
     Type: Élémentaire
 
@@ -31771,17 +32198,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gobelin Poussiéreux
-  Source: (LDM p)
+  Source: (LDM p211)
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
   ArmorClass: 14 (armure de cuir)
   HitPoints: 5 (1d6+2)
   Speed: 12m
-  ConditionImmunities: charmé, terrorisé
+  Skills: Discrétion +7
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, gobelin
   Challenge: 1/4 (50 PX)
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#gobelin-poussiéreux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -31797,7 +32225,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p211)<!--/Source-->
 
 
 
@@ -31830,6 +32258,10 @@ SubItems:
       |8 (−1)|16 (+3)|14 (+2)|10 (+0)|8 (−1)|8 (−1)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +7<!--/Skills-->
 
 
 
@@ -31873,7 +32305,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p211)
 
     Type: Humanoïde (gobelinoïde)
 
@@ -31886,6 +32318,8 @@ SubItems:
     HitPoints: 5 (1d6+2)
 
     Speed: 12m
+
+    Skills: Discrétion +7
 
     ConditionImmunities: charmé, terrorisé
 
@@ -31905,11 +32339,11 @@ SubItems:
   ArmorClass: 18 (armure naturelle)
   HitPoints: 171 (18d10+72)
   Speed: 12m
-  DamageImmunities: de feu, de poison, psychiques ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 13 (10 000 PX)
+  DamageImmunities: de feu, de poison, psychiques ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#golem-À-vapeur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32080,15 +32514,16 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem De Sel
-  Source: (LDM p)
+  Source: (LDM p213)
   ArmorClass: 17 (armure naturelle)
   HitPoints: 110 (11d10+55)
   Speed: 6 m
-  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Skills: Athlétisme +9
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 10 (5 900 PX)
+  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#golem-de-sel
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32104,7 +32539,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p213)<!--/Source-->
 
 
 
@@ -32133,6 +32568,10 @@ SubItems:
       |20 (+5)|9 (–1)|20 (+5)|3 (–4)|11 (+0)|1 (–5)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Athlétisme +9<!--/Skills-->
 
 
 
@@ -32198,13 +32637,15 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p213)
 
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 110 (11d10+55)
 
     Speed: 6 m
+
+    Skills: Athlétisme +9
 
     DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
 
@@ -32226,11 +32667,12 @@ SubItems:
   ArmorClass: 20 (armure naturelle)
   HitPoints: 157 (15d10+75)
   Speed: 9m
-  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
+  Skills: Perception +8
   Senses: vision parfaite 36 m, Perception passive 18
   Languages: comprend la langue de son créateur mais ne peut pas parler
   Challenge: 11 (7 200PX)
+  DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Id: tome_of_beasts.md#golem-oculaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32279,6 +32721,10 @@ SubItems:
       |22 (+6)|9 (–1)|20 (+5)|5 (–3)|11 (+0)|1 (–5)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Perception +8<!--/Skills-->
 
 
 
@@ -32370,6 +32816,8 @@ SubItems:
 
     Speed: 9m
 
+    Skills: Perception +8
+
     DamageImmunities: de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
 
     ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
@@ -32383,15 +32831,15 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem Smaragdin
-  Source: (LDM p)
+  Source: (LDM p215)
   ArmorClass: 17 (armure naturelle)
   HitPoints: 231 (22d10+110)
   Speed: 9m
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 14 (11 500PX)
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#golem-smaragdin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32407,7 +32855,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p215)<!--/Source-->
 
 
 
@@ -32507,7 +32955,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p215)
 
     ArmorClass: 17 (armure naturelle)
 
@@ -32537,11 +32985,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Con +9
   Skills: Athlétisme+10, Perception +4
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Senses: vision dans le noir 36 m, Perception passive 14
   Languages: comprend la langue de son créateur mais ne peut pas parler
   Challenge: 12 (8 400 PX)
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
   Id: tome_of_beasts.md#golem-trésor
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32700,17 +33148,17 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule Darakhule
-  Source: (LDM p)
+  Source: (LDM p217)
   ArmorClass: 16 (armure d'écailles ; 18 avec bouclier)
   HitPoints: 78 (12d8+24)
   Speed: 9m
   Skills: Supercherie +3, Discrétion +5
-  DamageResistances: nécrotiques
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, darakhul
   Challenge: 3 (700 PX)
+  DamageResistances: nécrotiques
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, empoisonné
   Id: tome_of_beasts.md#goule-darakhule
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -32726,7 +33174,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p217)<!--/Source-->
 
         Mort-vivant de taille Moyenne, neutre mauvais
 
@@ -32840,7 +33288,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p217)
 
     ArmorClass: 16 (armure d'écailles ; 18 avec bouclier)
 
@@ -32872,11 +33320,11 @@ SubItems:
   ArmorClass: 16 (cuirasse)
   HitPoints: 143 (22d8+44)
   Speed: 9 m, fouissement 6 m
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, darakhul, commun des profondeurs
   Challenge: 5 (2 900PX)
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, empoisonné
   Id: tome_of_beasts.md#goule-de-fer
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33017,7 +33465,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Empereur Des Goules
-  Source: (LDM p)
+  Source: (LDM p219)
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -33026,12 +33474,12 @@ SubItems:
   Speed: 9 m, fouissement 4,50 m
   SavingThrows: Dex +8, Sag +9
   Skills: Supercherie +11, Perspicacité +9, Perception +9, Persuasion +11
-  DamageResistances: de froid, nécrotiques
-  DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
   Senses: vision dans le noir 36 m, Perception passive 19
   Languages: commun, darakhul, draconique, gnoll, commun des profondeurs
   Challenge: 20 (25 000PX)
+  DamageResistances: de froid, nécrotiques
+  DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
   Id: tome_of_beasts.md#empereur-des-goules
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33047,7 +33495,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p219)<!--/Source-->
 
 
 
@@ -33289,7 +33737,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p219)
 
     Type: Mort-vivant
 
@@ -33329,11 +33777,11 @@ SubItems:
   ArmorClass: 16 (cuirasse)
   HitPoints: 93 (17d8+17)
   Speed: 9 m, fouissement 4,50 m
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, darakhul, commun des profondeurs
   Challenge: 4 (1 100PX)
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, empoisonné
   Id: tome_of_beasts.md#goule-impériale
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33468,17 +33916,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule Mendiante
-  Source: (LDM p)
+  Source: (LDM p223)
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 9m
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun des profondeurs
+  Challenge: 1/2 (100 PX)
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, empoisonné
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#goule-mendiante
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33494,7 +33943,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p223)<!--/Source-->
 
 
 
@@ -33542,6 +33991,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun des profondeurs<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 
@@ -33576,7 +34029,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p223)
 
     Type: Mort-vivant
 
@@ -33596,6 +34049,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: commun des profondeurs
+
     Challenge: 1/2 (100 PX)
 
 - !MonsterItem
@@ -33610,12 +34065,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +9, Con +8, Sag +6, Cha +8
   Skills: Perception +6, Discrétion +9
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, darakhul, draconique, nain
   Challenge: 12 (8 400 PX)
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#goule-poudre-dos
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33815,10 +34270,10 @@ SubItems:
   ArmorClass: 14
   HitPoints: 7 (2d6)
   Speed: 3m, vol 12m (vol stationnaire)
-  DamageImmunities: de foudre, de tonnerre
   Senses: vision dans le noir 36m, Perception passive 11
   Languages: commun, primordial
   Challenge: 1/4 (50 PX)
+  DamageImmunities: de foudre, de tonnerre
   Id: tome_of_beasts.md#gremlin-azza
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33900,11 +34355,7 @@ SubItems:
 
 
 
-      **_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché:
-
-
-
-      3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
+      **_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché: 3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
 
 
 
@@ -33945,16 +34396,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gremlin Rhumé
-  Source: (LDM p)
+  Source: (LDM p227)
   Type: Fée
   Size: TP
   Alignment: chaotique mauvaise
   ArmorClass: 13
   HitPoints: 22 (5d4+10)
   Speed: 6 m, escalade 3 m, nage 3 m
-  ConditionImmunities: empoisonné
+  Skills: Discrétion +5
   Senses: vision dans le noir 36 m, Perception passive 10
+  Languages: commun
   Challenge: 1/2 (100 PX)
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#gremlin-rhumé
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -33970,7 +34423,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p227)<!--/Source-->
 
 
 
@@ -34006,11 +34459,19 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
+
+
+
       - **Immunité contre l'état** <!--ConditionImmunities-->empoisonné<!--/ConditionImmunities-->
 
 
 
       - **Sens** <!--Senses-->vision dans le noir 36 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -34072,7 +34533,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p227)
 
     Type: Fée
 
@@ -34086,9 +34547,13 @@ SubItems:
 
     Speed: 6 m, escalade 3 m, nage 3 m
 
+    Skills: Discrétion +5
+
     ConditionImmunities: empoisonné
 
     Senses: vision dans le noir 36 m, Perception passive 10
+
+    Languages: commun
 
     Challenge: 1/2 (100 PX)
 
@@ -34264,17 +34729,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Guenaude Miroir
-  Source: (LDM p)
+  Source: (LDM p229)
   Type: Fée
   Size: M
   Alignment: chaotique neutre
   ArmorClass: 16 (armure naturelle)
   HitPoints: 168 (16d8+96)
   Speed: 9 m, vol 3 m
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: commun
+  Challenge: 6 (2 300PX)
   DamageResistances: de tonnerre
   ConditionImmunities: charmé, terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#guenaude-miroir
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34290,7 +34756,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p229)<!--/Source-->
 
 
 
@@ -34335,6 +34801,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -34402,7 +34872,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p229)
 
     Type: Fée
 
@@ -34422,6 +34892,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 12
 
+    Languages: commun
+
     Challenge: 6 (2 300PX)
 
 - !MonsterItem
@@ -34435,10 +34907,10 @@ SubItems:
   HitPoints: 119 (14d8+56)
   Speed: 9 m, nage 9 m
   Skills: Arcanes +9, Supercherie +5, Perspicacité +7, Perception +9
-  ConditionImmunities: charmé, empoisonné
   Senses: perception du sang 27 m, vision dans le noir 18 m, Perception passive 16
   Languages: commun, druidique, géant
   Challenge: 7 (2 900PX)
+  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#guenaude-rouge
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34609,7 +35081,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Guenaude Sanglante
-  Source: (LDM p)
+  Source: (LDM p231)
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -34618,10 +35090,10 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7, Con +8, Cha+7
   Skills: Supercherie +7, Intimidation +7, Perception +9, Discrétion +7
-  ConditionImmunities: charmé, empoisonné
   Senses: perception du sang 27 m, vision dans le noir 18 m, Perception passive 19
   Languages: commun, géant, infernal, sylvestre, trollien
   Challenge: 11 (7 200PX)
+  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#guenaude-sanglante
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -34637,7 +35109,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p231)<!--/Source-->
 
 
 
@@ -34791,7 +35263,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p231)
 
     Type: Fée
 
@@ -34829,11 +35301,11 @@ SubItems:
   Speed: 12m
   SavingThrows: For +12, Dex+4, Con +11, Cha +6
   Skills: Athlétisme +11, Perception +3, Discrétion +4
-  DamageImmunities: de poison
-  ConditionImmunities: confus, épuisé, paralysé, empoisonné
   Senses: vision dans le noir 72 m, Perception passive 13
   Languages: profond, géant, commun des profondeurs
   Challenge: 12 (8 400 PX)
+  DamageImmunities: de poison
+  ConditionImmunities: confus, épuisé, paralysé, empoisonné
   Id: tome_of_beasts.md#gug
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35016,7 +35488,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Habitant De Leng
-  Source: (LDM p)
+  Source: (LDM p233)
   Type: Humanoïde
   Size: M
   Alignment: neutre mauvais
@@ -35025,12 +35497,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +4, Sag +5
   Skills: Arcanes +4, Supercherie +8, Perception +5
-  DamageResistances: de froid
-  DamageImmunities: nécrotiques
-  ConditionImmunities: terrorisé
   Senses: Perception passive 15
   Languages: commun, langue du vide
   Challenge: 2 (450PX)
+  DamageResistances: de froid
+  DamageImmunities: nécrotiques
+  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#habitant-de-leng
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35046,7 +35518,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p233)<!--/Source-->
 
 
 
@@ -35180,7 +35652,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p233)
 
     Type: Humanoïde
 
@@ -35377,7 +35849,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Haugbui
-  Source: (LDM p)
+  Source: (LDM p235)
   Type: Mort-vivant
   Size: M
   Alignment: loyal neutre
@@ -35386,12 +35858,12 @@ SubItems:
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex+8, Con +9, Sag +10
   Skills: Arcanes +7, Histoire +7, Intimidation +8, Perception +10, Religion +12
-  DamageResistances: de froid, de foudre, nécrotiques
-  DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision parfaite 18m, Perception passive 20
   Languages: celles qu'il parlait de son vivant ; télépathie à 36 m
   Challenge: 13 (10 000 PX)
+  DamageResistances: de froid, de foudre, nécrotiques
+  DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#haugbui
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35407,7 +35879,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p235)<!--/Source-->
 
 
 
@@ -35571,7 +36043,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p235)
 
     Type: Mort-vivant
 
@@ -35613,12 +36085,12 @@ SubItems:
   Speed: 9 m, nage 9 m, vol 15 m
   SavingThrows: For +8, Con +8, Cha +8
   Skills: Athlétisme +8, Supercherie +8, Perception +5
-  DamageResistances: contondants, de tonnerre
-  DamageImmunities: de froid, de foudre, nécrotiques, de poison
-  ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 60 m, Perception passive 15
   Languages: commun, elfique, gobelin, infernal, sylvestre
   Challenge: 7 (2 900PX)
+  DamageResistances: contondants, de tonnerre
+  DamageImmunities: de froid, de foudre, nécrotiques, de poison
+  ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#héraut-des-ténèbres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35791,7 +36263,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Héraut Du Sang
-  Source: (LDM p)
+  Source: (LDM p237)
   Type: Fiélon
   Size: TG
   Alignment: neutre mauvais
@@ -35800,12 +36272,12 @@ SubItems:
   Speed: 9 m, nage 9 m, vol 15 m
   SavingThrows: For +10, Con +9, Sag +7
   Skills: Arcanes +6, Perception +7
-  DamageResistances: perforants, de foudre
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 72 m, Perception passive 17
   Languages: commun, draconique, infernal, langue du Vide
   Challenge: 12 (8 400 PX)
+  DamageResistances: perforants, de foudre
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#héraut-du-sang
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -35821,7 +36293,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p237)<!--/Source-->
 
 
 
@@ -35969,7 +36441,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p237)
 
     Type: Fiélon
 
@@ -36012,6 +36484,7 @@ SubItems:
   SavingThrows: Dex +4, Con +2
   Skills: Acrobaties +4, Discrétion +6
   Senses: vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
+  Languages: commun
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#escarmoucheur-homme-cafard
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -36076,6 +36549,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
 
 
@@ -36130,6 +36607,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
 
+    Languages: commun
+
     Challenge: 1/4 (50 PX)
 
 - !MonsterItem
@@ -36145,6 +36624,7 @@ SubItems:
   SavingThrows: Dex +5, Con +3
   Skills: Acrobaties +5, Discrétion +7
   Senses: vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
+  Languages: commun
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#seigneur-homme-cafard
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -36209,6 +36689,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 
@@ -36269,12 +36753,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
 
+    Languages: commun
+
     Challenge: 2 (450PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Chèvre
-  Source: (LDM p)
+  Source: (LDM p239)
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -36283,11 +36769,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex+4
   Skills: Acrobaties+4, Athlétisme +6, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, géant, trollien, incapable de parler
   Challenge: 3 (700 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#homme-chèvre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -36303,7 +36789,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p239)<!--/Source-->
 
 
 
@@ -36397,7 +36883,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p239)
 
     Type: Créature monstrueuse
 
@@ -36612,7 +37098,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Croasseur Funeste Homme-Corbeau
-  Source: (LDM p)
+  Source: (LDM p241)
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
@@ -36639,7 +37125,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p241)<!--/Source-->
 
 
 
@@ -36755,7 +37241,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p241)
 
     Type: Humanoïde (kenku)
 
@@ -36934,7 +37420,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Lémurien
-  Source: (LDM p)
+  Source: (LDM p243)
   Type: Humanoïde (homme-lémurien)
   Size: P
   Alignment: neutre
@@ -36960,7 +37446,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p243)<!--/Source-->
 
 
 
@@ -37046,7 +37532,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p243)
 
     Type: Humanoïde (homme-lémurien)
 
@@ -37071,7 +37557,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Lémurien Fourrure Grise
-  Source: (LDM p)
+  Source: (LDM p243)
   Type: Humanoïde (homme-lémurien)
   Size: P
   Alignment: neutre
@@ -37097,7 +37583,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p243)<!--/Source-->
 
 
 
@@ -37221,7 +37707,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p243)
 
     Type: Humanoïde (homme-lémurien)
 
@@ -37384,14 +37870,16 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Rat
-  Source: (LDM p)
+  Source: (LDM p245)
   Type: Humanoïde (homme-rat)
   Size: P
   Alignment: neutre
   ArmorClass: 14 (armure de cuir clouté)
   HitPoints: 7 (2d6)
   Speed: 7,50 m, nage 3 m
+  Skills: Perception +2
   Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: commun
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#homme-rat
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -37408,7 +37896,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p245)<!--/Source-->
 
 
 
@@ -37444,7 +37932,15 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Perception +2<!--/Skills-->
+
+
+
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -37482,7 +37978,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p245)
 
     Type: Humanoïde (homme-rat)
 
@@ -37496,14 +37992,18 @@ SubItems:
 
     Speed: 7,50 m, nage 3 m
 
+    Skills: Perception +2
+
     Senses: vision dans le noir 18 m, Perception passive 12
+
+    Languages: commun
 
     Challenge: 1/4 (50 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Roublard Homme-Rat
-  Source: (LDM p)
+  Source: (LDM p245)
   Type: Humanoïde (homme-rat)
   Size: P
   Alignment: neutre
@@ -37529,7 +38029,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p245)<!--/Source-->
 
 
 
@@ -37629,7 +38129,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p245)
 
     Type: Humanoïde (homme-rat)
 
@@ -37664,6 +38164,7 @@ SubItems:
   SavingThrows: Dex+12
   Skills: Athlétisme +8, Perception +6, Discrétion +8
   Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 20
+  Languages: comprend le commun des profondeurs
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#horakh
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -37725,6 +38226,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 20<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->comprend le commun des profondeurs<!--/Languages-->
 
 
 
@@ -37794,12 +38299,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 20
 
+    Languages: comprend le commun des profondeurs
+
     Challenge: 9 (5 000PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Hundun
-  Source: (LDM p)
+  Source: (LDM p247)
   Type: Céleste
   Size: G
   Alignment: chaotique bon
@@ -37808,12 +38315,12 @@ SubItems:
   Speed: 12 m, vol 12 m
   SavingThrows: Con +7, Sag +9, Cha +8
   Skills: Athlétisme +9, Perspicacité +9, Perception +9
-  DamageResistances: de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: d'acide et psychiques
-  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, étourdi, inconscient
   Senses: vision aveugle 18 m, Perception passive 20
   Languages: comprend le céleste et le primordial, mais ne peut pas parler de façon intelligible
   Challenge: 10 (5 900 PX)
+  DamageResistances: de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: d'acide et psychiques
+  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, étourdi, inconscient
   Id: tome_of_beasts.md#hundun
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -37829,7 +38336,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p247)<!--/Source-->
 
 
 
@@ -38007,7 +38514,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p247)
 
     Type: Céleste
 
@@ -38049,12 +38556,13 @@ SubItems:
   Speed: 0 m, vol 9 m
   SavingThrows: Sag +3
   Skills: Supercherie +8, Discrétion +8 (+11 dans une faible lumière ou les ténèbres)
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: télépathie à 18 m
+  Challenge: 8 (3 900PX)
   DamageResistances: de froid, contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de feu
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 8 (3 900PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#idole-divine
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38134,6 +38642,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->télépathie à 18 m<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
 
@@ -38208,12 +38720,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: télépathie à 18 m
+
     Challenge: 8 (3 900PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Imy-Ut Ushabti
-  Source: (LDM p)
+  Source: (LDM p249)
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
@@ -38221,11 +38735,12 @@ SubItems:
   HitPoints: 97 (15d8+30)
   Speed: 9m
   SavingThrows: Sag +2
-  DamageResistances: contondants
-  ConditionImmunities: épuisé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun (ancien nurien)
   Challenge: 3 (700 PX)
+  DamageResistances: contondants
   DamageVulnerabilities: de feu
+  ConditionImmunities: épuisé, terrorisé
   Id: tome_of_beasts.md#imy-ut-ushabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38241,7 +38756,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p249)<!--/Source-->
 
 
 
@@ -38297,6 +38812,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun (ancien nurien)<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 
@@ -38337,7 +38856,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p249)
 
     Type: Créature monstrueuse
 
@@ -38361,6 +38880,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: commun (ancien nurien)
+
     Challenge: 3 (700 PX)
 
 - !MonsterItem
@@ -38375,10 +38896,10 @@ SubItems:
   Speed: nage 30 m
   SavingThrows: For +14, Con +12, Sag +8
   Skills: Athlétisme+14, Perception +8
-  DamageImmunities: réduction/diminution permanente de caractéristique
   Senses: vision dans le noir 27 m, Perception passive 18
   Languages: comprend l'aquatique et le céleste mais ne peut pas parler
   Challenge: 14 (11 500PX)
+  DamageImmunities: réduction/diminution permanente de caractéristique
   Id: tome_of_beasts.md#isonade
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38561,7 +39082,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Jaculus
-  Source: (LDM p)
+  Source: (LDM p251)
   Type: Dragon
   Size: P
   Alignment: neutre mauvais
@@ -38570,10 +39091,10 @@ SubItems:
   Speed: 6 m, escalade 6 m, vol 3 m
   SavingThrows: For +4, Dex +6, Con +5, Sag +3, Cha +3
   Skills: Acrobaties+6, Perception+3, Discrétion +6
-  DamageResistances: d'acide, de foudre
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique
   Challenge: 3 (700 PX)
+  DamageResistances: d'acide, de foudre
   Id: tome_of_beasts.md#jaculus
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38589,7 +39110,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p251)<!--/Source-->
 
 
 
@@ -38679,7 +39200,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p251)
 
     Type: Dragon
 
@@ -38841,7 +39362,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Kikimore
-  Source: (LDM p)
+  Source: (LDM p253)
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -38849,10 +39370,10 @@ SubItems:
   HitPoints: 65 (10d8+20)
   Speed: 9m
   Skills: Supercherie +7, Perception+7, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, sylvestre
   Challenge: 5 (1 800PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#kikimore
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -38868,7 +39389,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p253)<!--/Source-->
 
 
 
@@ -38978,7 +39499,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p253)
 
     Type: Fée
 
@@ -39012,12 +39533,13 @@ SubItems:
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 44 (8d6+16)
   Speed: 9m
+  SavingThrows: Dex +5
   Skills: Arcanes +5, Médecine +3
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, draconique
   Challenge: 2 (450PX)
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#alchimiste-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -39066,6 +39588,10 @@ SubItems:
       |7 (−2)|16 (+3)|15 (+2)|16 (+3)|9 (−1)|8 (−1)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 
 
 
@@ -39161,6 +39687,8 @@ SubItems:
 
     Speed: 9m
 
+    SavingThrows: Dex +5
+
     Skills: Arcanes +5, Médecine +3
 
     DamageImmunities: de poison
@@ -39185,10 +39713,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +5, Cha +4
   Skills: Intimidation +6, Discrétion +5
-  ConditionImmunities: charmé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique
   Challenge: 4 (1 100PX)
+  ConditionImmunities: charmé, terrorisé
   Id: tome_of_beasts.md#chef-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -39347,13 +39875,14 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Forgepiège Kobold
-  Source: (LDM p)
+  Source: (LDM p257)
   Type: Humanoïde
   Size: P
   Alignment: loyal neutre
   ArmorClass: 14 (armure de cuir)
   HitPoints: 36 (8d6+8)
   Speed: 9m
+  Skills: Discrétion +5
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, draconique
   Challenge: 1 (200 PX)
@@ -39372,7 +39901,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p257)<!--/Source-->
 
 
 
@@ -39405,6 +39934,10 @@ SubItems:
       |7 (−2)|16 (+3)|12 (+1)|16 (+3)|13 (+1)|8 (−1)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 
 
 
@@ -39474,7 +40007,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p257)
 
     Type: Humanoïde
 
@@ -39487,6 +40020,8 @@ SubItems:
     HitPoints: 36 (8d6+8)
 
     Speed: 9m
+
+    Skills: Discrétion +5
 
     Senses: vision dans le noir 18 m, Perception passive 11
 
@@ -39504,6 +40039,7 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 112 (15d10+30)
   Speed: 3 m, vol 18 m
+  Skills: Perception +3
   Senses: Perception passive 13
   Languages: —
   Challenge: 5 (1 800PX)
@@ -39555,6 +40091,10 @@ SubItems:
       |19 (+4)|18 (+4)|14 (+2)|2 (−4)|10 (+0)|7 (–2)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
 
 
 
@@ -39626,6 +40166,8 @@ SubItems:
 
     Speed: 3 m, vol 18 m
 
+    Skills: Perception +3
+
     Senses: Perception passive 13
 
     Languages: —
@@ -39635,7 +40177,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Koschei
-  Source: (LDM p)
+  Source: (LDM p259)
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -39644,12 +40186,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+7, Sag +7, Cha+11
   Skills: Arcanes +9, Perspicacité +7, Perception +7
-  DamageResistances: de froid, de foudre
-  DamageImmunities: nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, épuisé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: abyssal, céleste, commun, infernal, nain
   Challenge: 17 (18 000PX)
+  DamageResistances: de froid, de foudre
+  DamageImmunities: nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#koschei
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -39665,7 +40207,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p259)<!--/Source-->
 
 
 
@@ -39847,7 +40389,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p259)
 
     Type: Fiélon
 
@@ -39880,13 +40422,14 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Kot Bayun
-  Source: (LDM p)
+  Source: (LDM p261)
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
   ArmorClass: 15
   HitPoints: 44 (8d8+8)
   Speed: 12 m, escalade 6 m
+  SavingThrows: Dex +5
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, sylvestre
   Challenge: 2 (450PX)
@@ -39905,7 +40448,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p261)<!--/Source-->
 
 
 
@@ -39938,6 +40481,10 @@ SubItems:
       |16 (+3)|16 (+3)|13 (+1)|12 (+1)|16 (+3)|17 (+3)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
 
 
 
@@ -40007,7 +40554,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p261)
 
     Type: Créature monstrueuse
 
@@ -40020,6 +40567,8 @@ SubItems:
     HitPoints: 44 (8d8+8)
 
     Speed: 12 m, escalade 6 m
+
+    SavingThrows: Dex +5
 
     Senses: vision dans le noir 18 m, Perception passive 13
 
@@ -40038,11 +40587,11 @@ SubItems:
   HitPoints: 150 (12d12+72)
   Speed: 6 m, nage 9 m
   SavingThrows: For +11, Con +10, Int +7, Cha +8
-  DamageImmunities: de froid, de poison et psychiques
-  ConditionImmunities: charmé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, infernal, primordial, langue du Vide
   Challenge: 9 (5 000PX)
+  DamageImmunities: de froid, de poison et psychiques
+  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#larve-de-krake
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40219,7 +40768,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Larve Stellaire De Cthulhu
-  Source: (LDM p)
+  Source: (LDM p263)
   Type: Fiélon
   Size: G
   Alignment: chaotique mauvais
@@ -40228,12 +40777,12 @@ SubItems:
   Speed: 9 m, escalade 9 m, vol 15 m
   SavingThrows: For +12, Con +12, Int +15, Sag +9
   Skills: Arcanes +15, Perception +14
-  DamageResistances: contondants, perforants et tranchants
-  DamageImmunities: de froid, de feu, de foudre, de poison et psychiques
-  ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 90 m, Perception passive 24
   Languages: commun, infernal, langue du Vide
   Challenge: 15 (13 000 PX)
+  DamageResistances: contondants, perforants et tranchants
+  DamageImmunities: de froid, de feu, de foudre, de poison et psychiques
+  ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#larve-stellaire-de-cthulhu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40249,7 +40798,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p263)<!--/Source-->
 
 
 
@@ -40397,7 +40946,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p263)
 
     Type: Fiélon
 
@@ -40563,7 +41112,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lente Tempête
-  Source: (LDM p)
+  Source: (LDM p265)
   Type: Élémentaire
   Size: TG
   Alignment: chaotique neutre
@@ -40571,12 +41120,12 @@ SubItems:
   HitPoints: 225 (18d12+108)
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +9, Con +11
-  DamageResistances: d'acide, de froid, de feu
-  DamageImmunities: de foudre
-  ConditionImmunities: à terre
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive13
   Languages: commun, primordial
   Challenge: 15 (13 000 PX)
+  DamageResistances: d'acide, de froid, de feu
+  DamageImmunities: de foudre
+  ConditionImmunities: à terre
   Id: tome_of_beasts.md#lente-tempête
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40592,7 +41141,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p265)<!--/Source-->
 
 
 
@@ -40734,7 +41283,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p265)
 
     Type: Élémentaire
 
@@ -40765,7 +41314,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Cavalier De Baba Yaga, Base
-  Source: (LDM p)
+  Source: (LDM p267)
   Type: Fée
   Size: M
   Alignment: loyal neutre
@@ -40774,12 +41323,12 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +4, Sag +8
   Skills: Arcanes +7, Athlétisme +10, Histoire +7, Perception +8
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de foudre, de poison
-  ConditionImmunities: empoisonné, épuisé, paralysé
   Senses: Perception passive 18
   Languages: céleste, commun, infernal; télépathie 30m
   Challenge: 11 (7200 PX)
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de foudre, de poison
+  ConditionImmunities: empoisonné, épuisé, paralysé
   Id: tome_of_beasts.md#cavalier-de-baba-yaga-base
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -40795,7 +41344,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p267)<!--/Source-->
 
 
 
@@ -40933,7 +41482,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p267)
 
     Type: Fée
 
@@ -40975,11 +41524,12 @@ SubItems:
   Speed: 9 m, vol 15 m
   SavingThrows: Dex+4, Con +4, Cha+3
   Skills: Acrobaties +6, Perception +4
+  Senses: vision aveugle 30 m, Perception passive 14
+  Languages: comprend le darakhul
+  Challenge: 4 (1 100PX)
   DamageResistances: perforants et contondants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: épuisé et empoisonné
-  Senses: vision aveugle 30 m, Perception passive 14
-  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#liche-canine
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41055,6 +41605,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->comprend le darakhul<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 
@@ -41121,12 +41675,14 @@ SubItems:
 
     Senses: vision aveugle 30 m, Perception passive 14
 
+    Languages: comprend le darakhul
+
     Challenge: 4 (1 100PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Likho
-  Source: (LDM p)
+  Source: (LDM p269)
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -41153,7 +41709,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p269)<!--/Source-->
 
 
 
@@ -41269,7 +41825,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p269)
 
     Type: Créature monstrueuse
 
@@ -41304,12 +41860,13 @@ SubItems:
   HitPoints: 102 (12d8+48)
   Speed: 6 m
   SavingThrows: Sag +4, Cha +4
-  DamageResistances: d'acide, nécrotiques
-  DamageImmunities: de poison
-  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre
+  Skills: Discrétion +4
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 11
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 5 (1 800PX)
+  DamageResistances: d'acide, nécrotiques
+  DamageImmunities: de poison
+  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre
   Id: tome_of_beasts.md#limon-des-sarcophages
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41362,6 +41919,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Sag +4, Cha +4<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 
 
 
@@ -41441,6 +42002,8 @@ SubItems:
 
     SavingThrows: Sag +4, Cha +4
 
+    Skills: Discrétion +4
+
     DamageResistances: d'acide, nécrotiques
 
     DamageImmunities: de poison
@@ -41456,19 +42019,21 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Linceul
-  Source: (LDM p)
+  Source: (LDM p271)
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
   ArmorClass: 13 (armure naturelle)
   HitPoints: 9 (2d8)
   Speed: 0 m, vol 9 m (vol stationnaire)
+  Skills: Discrétion +3
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun
+  Challenge: 1/8 (25 PX)
   DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
+  DamageVulnerabilities: radiants
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 1/8 (25 PX)
-  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#linceul
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41484,7 +42049,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p271)<!--/Source-->
 
 
 
@@ -41520,6 +42085,10 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Discrétion +3<!--/Skills-->
+
+
+
       - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->radiants<!--/DamageVulnerabilities-->
 
 
@@ -41537,6 +42106,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -41580,7 +42153,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p271)
 
     Type: Mort-vivant
 
@@ -41594,6 +42167,8 @@ SubItems:
 
     Speed: 0 m, vol 9 m (vol stationnaire)
 
+    Skills: Discrétion +3
+
     DamageVulnerabilities: radiants
 
     DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
@@ -41603,6 +42178,8 @@ SubItems:
     ConditionImmunities: épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
 
     Senses: vision dans le noir 18 m, Perception passive 10
+
+    Languages: commun
 
     Challenge: 1/8 (25 PX)
 
@@ -41618,11 +42195,11 @@ SubItems:
   Speed: 12 m, nage 6 m
   SavingThrows: For +7, Dex+8, Con +6
   Skills: Acrobaties +8, Athlétisme +8, Perception +4, Discrétion +9
-  DamageImmunities: de froid
-  ConditionImmunities: paralysé, à terre, inconscient
   Senses: vision dans le noir 18 m, perception des vibrations sur la glace 36 m, Perception passive 14
   Challenge: 5 (1 800PX)
   DamageVulnerabilities: de feu
+  DamageImmunities: de froid
+  ConditionImmunities: paralysé, à terre, inconscient
   Id: tome_of_beasts.md#lindwurm
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41781,7 +42358,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Liosalfar
-  Source: (LDM p)
+  Source: (LDM p273)
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -41790,12 +42367,12 @@ SubItems:
   Speed: vol 18 m (vol stationnaire)
   SavingThrows: Dex +10, Con +3, Int +7, Sag +7, Cha +4
   Skills: Arcanes +7, Perspicacité +7, Perception +7
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison, psychiques, radiants
-  ConditionImmunities: aveuglé, charmé, épuisé (voir le pouvoir forme lumineuse), empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
   Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 17
   Languages: commun, céleste, élémentaire, elfique, géant
   Challenge: 8 (3 900PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de poison, psychiques, radiants
+  ConditionImmunities: aveuglé, charmé, épuisé (voir le pouvoir forme lumineuse), empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
   Id: tome_of_beasts.md#liosalfar
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -41811,7 +42388,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p273)<!--/Source-->
 
 
 
@@ -41951,7 +42528,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p273)
 
     Type: Élémentaire
 
@@ -41993,11 +42570,12 @@ SubItems:
   Speed: 1,50m
   SavingThrows: Int +6, Sag +6, Cha +6
   Skills: Nature +6, Perception +6
+  Senses: vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
+  Languages: primordial
+  Challenge: 17 (18 000PX)
   DamageResistances: contondants, perforants et tranchants
   DamageImmunities: d'acide, de froid, de feu, de foudre, de poison, de tonnerre ; contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
-  Senses: vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
-  Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#locus-Élémentaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -42070,6 +42648,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->primordial<!--/Languages-->
 
 
 
@@ -42151,12 +42733,14 @@ SubItems:
 
     Senses: vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
 
+    Languages: primordial
+
     Challenge: 17 (18 000PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lorelei
-  Source: (LDM p)
+  Source: (LDM p275)
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -42183,7 +42767,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p275)<!--/Source-->
 
 
 
@@ -42321,7 +42905,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p275)
 
     Type: Fée
 
@@ -42352,7 +42936,9 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 147 (14d12+56)
   Speed: 12m
+  Skills: Survie +5
   Senses: Perception passive 12
+  Languages: loxodan
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#loxoda
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -42405,7 +42991,15 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Survie +5<!--/Skills-->
+
+
+
       - **Sens** <!--Senses-->Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->loxodan<!--/Languages-->
 
 
 
@@ -42457,14 +43051,18 @@ SubItems:
 
     Speed: 12m
 
+    Skills: Survie +5
+
     Senses: Perception passive 12
+
+    Languages: loxodan
 
     Challenge: 6 (2 300PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lynx Vaporeux
-  Source: (LDM p)
+  Source: (LDM p277)
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique neutre
@@ -42490,7 +43088,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p277)<!--/Source-->
 
 
 
@@ -42590,7 +43188,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p277)
 
     Type: Créature monstrueuse
 
@@ -42768,7 +43366,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mallqui
-  Source: (LDM p)
+  Source: (LDM p279)
   Type: Mort-vivant
   Size: M
   Alignment: loyal neutre
@@ -42777,12 +43375,12 @@ SubItems:
   Speed: 6 m
   SavingThrows: Int +3, Cha +5
   Skills: Histoire +3, Perspicacité +6, Religion +3
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: celles qu'il parlait de son vivant
   Challenge: 8 (3 900PX)
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#mallqui
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -42798,7 +43396,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p279)<!--/Source-->
 
 
 
@@ -42938,7 +43536,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p279)
 
     Type: Mort-vivant
 
@@ -42979,6 +43577,7 @@ SubItems:
   HitPoints: 120 (16d8+48)
   Speed: 12 m, vol 9 m
   SavingThrows: Dex +7, Con +6, Sag +4, Cha +5
+  Skills: Perception +4
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun, géant, homme-corbeau, sylvestre
   Challenge: 6 (2 300PX)
@@ -43034,6 +43633,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex +7, Con +6, Sag +4, Cha +5<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +4<!--/Skills-->
 
 
 
@@ -43131,6 +43734,8 @@ SubItems:
 
     SavingThrows: Dex +7, Con +6, Sag +4, Cha +5
 
+    Skills: Perception +4
+
     Senses: vision dans le noir 18 m, Perception passive 14
 
     Languages: commun, géant, homme-corbeau, sylvestre
@@ -43140,7 +43745,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mamura
-  Source: (LDM p)
+  Source: (LDM p281)
   Type: Aberration (fée)
   Size: P
   Alignment: neutre mauvaise.
@@ -43149,10 +43754,10 @@ SubItems:
   Speed: 6 m, vol 9 m
   SavingThrows: Dex+7, Con +7, Cha+6
   Skills: Acrobaties+7, Perception+6, Discrétion +7
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, elfique, gobelin, sylvestre, langue du Vide
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#mamura
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43168,7 +43773,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p281)<!--/Source-->
 
 
 
@@ -43282,7 +43887,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p281)
 
     Type: Aberration (fée)
 
@@ -43318,10 +43923,12 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 182 (28d8+56)
   Speed: 12 m, escalade 12 m
+  SavingThrows: Con +5
   Skills: Arcanes +7, Histoire +7, Perspicacité+6, Religion +7
-  ConditionImmunities: charmé, inconscient
   Senses: vision parfaite 18m, Perception passive 13
+  Languages: télépathie 30 m
   Challenge: 6 (2 300PX)
+  ConditionImmunities: charmé, inconscient
   Id: tome_of_beasts.md#mangedestin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43373,6 +43980,10 @@ SubItems:
 
 
 
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +5<!--/SavingThrows-->
+
+
+
       - **Compétences** <!--Skills-->Arcanes +7, Histoire +7, Perspicacité+6, Religion +7<!--/Skills-->
 
 
@@ -43382,6 +43993,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision parfaite 18m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->télépathie 30 m<!--/Languages-->
 
 
 
@@ -43439,18 +44054,22 @@ SubItems:
 
     Speed: 12 m, escalade 12 m
 
+    SavingThrows: Con +5
+
     Skills: Arcanes +7, Histoire +7, Perspicacité+6, Religion +7
 
     ConditionImmunities: charmé, inconscient
 
     Senses: vision parfaite 18m, Perception passive 13
 
+    Languages: télépathie 30 m
+
     Challenge: 6 (2 300PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mangepoussière (Yakat-Shi)
-  Source: (LDM p)
+  Source: (LDM p283)
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -43459,12 +44078,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +9, Con +9, Cha +7
   Skills: Athlétisme +9, Intimidation +7, Perception +6
-  DamageResistances: d'acide, de froid
-  DamageImmunities: contondants, perforants, de foudre,de poison et tranchants infligés par des armes non magiques
-  ConditionImmunities: aveuglé, empoisonné
   Senses: vision aveugle 18 m, Perception passive 16
   Languages: comprend l'abyssal, le commun, l'infernal, la langue du Vide, mais ne peut pas parler; télépathie 30 m
   Challenge: 9 (5 000PX)
+  DamageResistances: d'acide, de froid
+  DamageImmunities: contondants, perforants, de foudre,de poison et tranchants infligés par des armes non magiques
+  ConditionImmunities: aveuglé, empoisonné
   Id: tome_of_beasts.md#mangepoussière-yakat-shi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43480,7 +44099,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p283)<!--/Source-->
 
 
 
@@ -43602,7 +44221,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p283)
 
     Type: Aberration
 
@@ -43643,12 +44262,12 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 9 m, vol 6m
   Skills: Perspicacité +4, Persuasion +8, Supercherie +8
-  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: céleste, commun, draconique, infernal ; télépathie 30m
   Challenge: 5 (1 800PX)
+  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#mangerêve
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43825,7 +44444,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Manteau Vide
-  Source: (LDM p)
+  Source: (LDM p285)
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
@@ -43833,13 +44452,14 @@ SubItems:
   HitPoints: 45 (10d8)
   Speed: 0 m, vol 12 m
   SavingThrows: Dex +4, Con +2
-  DamageResistances: contondants
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  Skills: Discrétion +4
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend l'elfique et l'umbral mais ne peut pas parler
   Challenge: 1/2 (100 PX)
+  DamageResistances: contondants
   DamageVulnerabilities: de feu
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#manteau-vide
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -43855,7 +44475,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p285)<!--/Source-->
 
 
 
@@ -43892,6 +44512,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex +4, Con +2<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 
 
 
@@ -43965,7 +44589,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p285)
 
     Type: Créature artificielle
 
@@ -43980,6 +44604,8 @@ SubItems:
     Speed: 0 m, vol 12 m
 
     SavingThrows: Dex +4, Con +2
+
+    Skills: Discrétion +4
 
     DamageVulnerabilities: de feu
 
@@ -44131,7 +44757,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Marchand De Sable
-  Source: (LDM p)
+  Source: (LDM p287)
   Type: Céleste
   Size: M
   Alignment: chaotique neutre
@@ -44139,12 +44765,12 @@ SubItems:
   HitPoints: 82 (11d8+33)
   Speed: 12m
   SavingThrows: Dex +7, Cha +7
-  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: charmé, épuisé, terrorisé, empoisonné, inconscient
   Senses: vision parfaite 18m, Perception passive 12
   Languages: commun, céleste, géant, infernal, umbral
   Challenge: 5 (1 800PX)
+  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: charmé, épuisé, terrorisé, empoisonné, inconscient
   Id: tome_of_beasts.md#marchand-de-sable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44160,7 +44786,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p287)<!--/Source-->
 
 
 
@@ -44288,7 +44914,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p287)
 
     Type: Céleste
 
@@ -44327,11 +44953,11 @@ SubItems:
   HitPoints: 38 (11d4+22)
   Speed: 6 m
   SavingThrows: Dex+7
-  DamageResistances: perforants issus d'armes non magiques
-  DamageImmunities: de foudre, de tonnerre
   Senses: Perception passive 10
   Languages: commun, sylvestre
   Challenge: 3 (700 PX)
+  DamageResistances: perforants issus d'armes non magiques
+  DamageImmunities: de foudre, de tonnerre
   Id: tome_of_beasts.md#marcheflèche
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44484,7 +45110,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mavka
-  Source: (LDM p)
+  Source: (LDM p289)
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -44493,11 +45119,11 @@ SubItems:
   Speed: 9m
   SavingThrows: For +9, Dex+6, Con +8, Cha +8
   Skills: Athlétisme +9, Nature +5, Perception +5
-  DamageResistances: d'acide, de feu, nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de froid, de foudre
   Senses: vision dans le noir 27 m, Perception passive 15
   Languages: commun, infernal, sylvestre
   Challenge: 12 (8 400 PX)
+  DamageResistances: d'acide, de feu, nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de froid, de foudre
   Id: tome_of_beasts.md#mavka
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44513,7 +45139,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p289)<!--/Source-->
 
 
 
@@ -44637,7 +45263,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p289)
 
     Type: Mort-vivant
 
@@ -44677,12 +45303,12 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex +4, Con +7
   Skills: Athlétisme +9, Discrétion +4, Perception +4
-  DamageResistances: d'acide, de feu et de froid; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, infernal
   Challenge: 5 (1 800PX)
+  DamageResistances: d'acide, de feu et de froid; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
   Id: tome_of_beasts.md#abomination-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44857,17 +45483,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée Tisseuse Mécanique
-  Source: (LDM p)
+  Source: (LDM p291)
   Type: Créature artificielle
   Size: TP
   Alignment: non alignée
   ArmorClass: 15 (armure naturelle)
   HitPoints: 25 (10d4)
   Speed: 12 m, escalade 12 m
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: comprend le commun
+  Challenge: 1 (200 PX)
   DamageImmunities: de poison
   ConditionImmunities: assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé et terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#araignée-tisseuse-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -44883,7 +45510,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p291)<!--/Source-->
 
 
 
@@ -44928,6 +45555,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 
 
 
@@ -44977,7 +45608,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p291)
 
     Type: Créature artificielle
 
@@ -44997,6 +45628,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 14
 
+    Languages: comprend le commun
+
     Challenge: 1 (200 PX)
 
 - !MonsterItem
@@ -45011,10 +45644,11 @@ SubItems:
   Speed: 12m
   SavingThrows: For +5, Dex +4
   Skills: Perception +4, Survie +4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: comprend le commun
+  Challenge: 3 (700 PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#chasseur-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45083,6 +45717,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 
 
 
@@ -45156,12 +45794,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 14
 
+    Languages: comprend le commun
+
     Challenge: 3 (700 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chien Mécanique
-  Source: (LDM p)
+  Source: (LDM p293)
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -45170,10 +45810,11 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex +4, Con +4
   Skills: Athlétisme+7, Perception+4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: comprend le commun
+  Challenge: 2 (450PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#chien-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45189,7 +45830,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p293)<!--/Source-->
 
 
 
@@ -45245,6 +45886,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->comprend le commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->2 (450PX)<!--/Challenge-->
 
 
@@ -45291,7 +45936,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p293)
 
     Type: Créature artificielle
 
@@ -45315,6 +45960,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 14
 
+    Languages: comprend le commun
+
     Challenge: 2 (450PX)
 
 - !MonsterItem
@@ -45327,11 +45974,13 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 55 (10d8+10)
   Speed: 9m
+  SavingThrows: Con +3
   Skills: Athlétisme+4, Perception+4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: commun
+  Challenge: 1/2 (100 PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#gendarme-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45383,6 +46032,10 @@ SubItems:
 
 
 
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +3<!--/SavingThrows-->
+
+
+
       - **Compétences** <!--Skills-->Athlétisme+4, Perception+4<!--/Skills-->
 
 
@@ -45396,6 +46049,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 14<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -45453,6 +46110,8 @@ SubItems:
 
     Speed: 9m
 
+    SavingThrows: Con +3
+
     Skills: Athlétisme+4, Perception+4
 
     DamageImmunities: de poison et psychiques
@@ -45461,12 +46120,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 14
 
+    Languages: commun
+
     Challenge: 1/2 (100 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Myrmidon Mécanique
-  Source: (LDM p)
+  Source: (LDM p295)
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
@@ -45475,10 +46136,11 @@ SubItems:
   Speed: 9m
   SavingThrows: For +11, Dex +5
   Skills: Athlétisme+8, Perception+6
+  Senses: vision dans le noir 18 m, Perception passive 16
+  Languages: comprend le commun
+  Challenge: 6 (2 300PX)
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 16
-  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#myrmidon-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45494,7 +46156,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p295)<!--/Source-->
 
 
 
@@ -45547,6 +46209,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 16<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->comprend le commun<!--/Languages-->
 
 
 
@@ -45608,7 +46274,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p295)
 
     Type: Créature artificielle
 
@@ -45632,6 +46298,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 16
 
+    Languages: comprend le commun
+
     Challenge: 6 (2 300PX)
 
 - !MonsterItem
@@ -45644,11 +46312,13 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 15 (6d4)
   Speed: 9 m, vol 15 m
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  SavingThrows: Dex +5
+  Skills: Discrétion +5
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: comprend le commun, télépathie 30 m (seulement avec son créateur)
   Challenge: 1/2 (100 PX)
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
   Id: tome_of_beasts.md#scarabée-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45697,6 +46367,14 @@ SubItems:
       |8 (-1)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|7 (-2)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Dex +5<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 
 
 
@@ -45758,6 +46436,10 @@ SubItems:
 
     Speed: 9 m, vol 15 m
 
+    SavingThrows: Dex +5
+
+    Skills: Discrétion +5
+
     DamageImmunities: de poison et psychiques
 
     ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
@@ -45771,19 +46453,19 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mèche Vivante
-  Source: (LDM p)
+  Source: (LDM p297)
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
   ArmorClass: 13 (armure naturelle)
   HitPoints: 28 (8d6)
   Speed: 6 m
-  DamageImmunities: de poison et psychiques
-  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
   Senses: vision 6 m (aveugle au-delà du rayon de sa propre lumière), Perception passive 10
   Languages: partage un lien télépathique avec celui qui a allumé sa mèche.
   Challenge: 1/4 (50 PX)
   DamageVulnerabilities: de feu
+  DamageImmunities: de poison et psychiques
+  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
   Id: tome_of_beasts.md#mèche-vivante
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -45799,7 +46481,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p297)<!--/Source-->
 
 
 
@@ -45895,7 +46577,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p297)
 
     Type: Créature artificielle
 
@@ -45931,10 +46613,10 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 1,50 m, vol 6 m (vol stationnaire)
-  DamageImmunities: de foudre
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageImmunities: de foudre
   Id: tome_of_beasts.md#médazur-À-défenses
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46063,7 +46745,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mélasse
-  Source: (LDM p)
+  Source: (LDM p299)
   Type: Vase
   Size: TP
   Alignment: non alignée
@@ -46089,7 +46771,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p299)<!--/Source-->
 
 
 
@@ -46171,7 +46853,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p299)
 
     Type: Vase
 
@@ -46205,10 +46887,10 @@ SubItems:
   Speed: 9 m, vol 18 m
   SavingThrows: For +6, Con +8, Cha +4
   Skills: Arcanes +10, Supercherie +7, Médecine +5, Perception +5, Discrétion +7
-  DamageResistances: radiants, de froid
   Senses: vision aveugle 9 m, vision dans le noir 72 m, Perception passive 15
   Languages: commun, mi-go, langue du Vide
   Challenge: 5 (1 800PX)
+  DamageResistances: radiants, de froid
   Id: tome_of_beasts.md#mi-go
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46365,7 +47047,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Millitaure
-  Source: (LDM p)
+  Source: (LDM p301)
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
@@ -46373,10 +47055,11 @@ SubItems:
   HitPoints: 85 (10d10+30)
   Speed: 12 m, fouissement 6 m, escalade 9 m
   Skills: Acrobaties +4
+  Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
+  Languages: commun
+  Challenge: 3 (700 PX)
   DamageResistances: de poison; contondants et tranchants issus d'armes non magiques
   ConditionImmunities: à terre
-  Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
-  Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#millitaure
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46392,7 +47075,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p301)<!--/Source-->
 
 
 
@@ -46444,6 +47127,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->3 (700 PX)<!--/Challenge-->
 
 
@@ -46466,7 +47153,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p301)
 
     Type: Créature monstrueuse
 
@@ -46488,6 +47175,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
 
+    Languages: commun
+
     Challenge: 3 (700 PX)
 
 - !MonsterItem
@@ -46497,11 +47186,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, vol 4,50 m
-  DamageImmunities: d'acide
-  ConditionImmunities: à terre
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 1/4 (50 PX)
+  DamageImmunities: d'acide
+  ConditionImmunities: à terre
   Id: tome_of_beasts.md#mimique-carte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46630,18 +47319,19 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mimique Des Dunes
-  Source: (LDM p)
+  Source: (LDM p303)
   Type: Créature monstrueuse (métamorphe)
   Size: TG
   Alignment: neutre
   ArmorClass: 13 (armure naturelle)
   HitPoints: 168 (16d12+64)
   Speed: 3 m
-  DamageImmunities: d'acide
-  ConditionImmunities: à terre
+  Skills: Perception +4
   Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 14
   Languages: —
   Challenge: 8 (5 900 PX)
+  DamageImmunities: d'acide
+  ConditionImmunities: à terre
   Id: tome_of_beasts.md#mimique-des-dunes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -46657,7 +47347,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p303)<!--/Source-->
 
 
 
@@ -46690,6 +47380,10 @@ SubItems:
       |20 (+5)|8 (-1)|18 (+4)|9 (-1)|13 (+1)|10 (+0)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Perception +4<!--/Skills-->
 
 
 
@@ -46761,7 +47455,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p303)
 
     Type: Créature monstrueuse (métamorphe)
 
@@ -46774,6 +47468,8 @@ SubItems:
     HitPoints: 168 (16d12+64)
 
     Speed: 3 m
+
+    Skills: Perception +4
 
     DamageImmunities: d'acide
 
@@ -46951,7 +47647,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mngwa
-  Source: (LDM p)
+  Source: (LDM p305)
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -46977,7 +47673,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p305)<!--/Source-->
 
 
 
@@ -47083,7 +47779,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p305)
 
     Type: Aberration
 
@@ -47117,11 +47813,11 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6, Con +5, Sag +5
   Skills: Intimidation +3, Perception +5, Discrétion +6
-  DamageImmunities: de froid
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend l'elfique et l'umbral mais ne peut pas parler
   Challenge: 5 (1 800PX)
   DamageVulnerabilities: de feu
+  DamageImmunities: de froid
   Id: tome_of_beasts.md#molosse-nocturne
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47272,7 +47968,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Momie Venimeuse
-  Source: (LDM p)
+  Source: (LDM p307)
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -47280,13 +47976,13 @@ SubItems:
   HitPoints: 58 (9d8+18)
   Speed: 6 m
   SavingThrows: Sag +2
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: celles qu'il parlait de son vivant
   Challenge: 3 (700 PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: de feu
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#momie-venimeuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47302,7 +47998,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p307)<!--/Source-->
 
 
 
@@ -47394,7 +48090,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p307)
 
     Type: Mort-vivant
 
@@ -47434,11 +48130,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 12m
-  DamageImmunities: de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: elfique, umbral
   Challenge: 8 (3 900PX)
+  DamageImmunities: de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#champion-monolithique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47573,18 +48269,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Valet Monolithique
-  Source: (LDM p)
+  Source: (LDM p309)
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
   ArmorClass: 14 (armure naturelle)
   HitPoints: 60 (8d10+16)
   Speed: 12m
-  DamageImmunities: de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: elfique, umbral
   Challenge: 3 (700 PX)
+  DamageImmunities: de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#valet-monolithique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47600,7 +48296,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p309)<!--/Source-->
 
 
 
@@ -47692,7 +48388,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p309)
 
     Type: Créature artificielle
 
@@ -47727,12 +48423,12 @@ SubItems:
   HitPoints: 207 (18d12+90)
   Speed: 9m
   SavingThrows: Con +9, Int +3, Sag +4
-  DamageResistances: nécrotiques
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, épuisé et terrorisé
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend le commun mais ne peut pas parler
   Challenge: 11 (7 200PX)
+  DamageResistances: nécrotiques
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, épuisé et terrorisé
   Id: tome_of_beasts.md#montagne-de-cadavres
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -47891,7 +48587,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Morphoï
-  Source: (LDM p)
+  Source: (LDM p311)
   Type: Plante (métamorphe)
   Size: M
   Alignment: chaotique mauvaise
@@ -47899,6 +48595,7 @@ SubItems:
   HitPoints: 33 (6d8+6)
   Speed: 9 m, nage 9 m
   Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#morphoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -47915,7 +48612,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p311)<!--/Source-->
 
 
 
@@ -47952,6 +48649,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -48001,7 +48702,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p311)
 
     Type: Plante (métamorphe)
 
@@ -48017,6 +48718,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: commun
+
     Challenge: 1/2 (100 PX)
 
 - !MonsterItem
@@ -48031,12 +48734,12 @@ SubItems:
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex+8, Con +6, Sag +6
   Skills: Discrétion +8, Perception +6
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: celles qu'il parlait de son vivant
   Challenge: 7 (2 900PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
   Id: tome_of_beasts.md#mort-follet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48201,18 +48904,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mousse Luminescente Des Cavernes
-  Source: (LDM p)
+  Source: (LDM p313)
   Type: Plante
   Size: G
   Alignment: neutre
   ArmorClass: 15 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 1,50 m, escalade 1,50 m
-  DamageResistances: d'acide, de froid, de feu ; tranchants infligés par des armes non magiques
-  ConditionImmunities: assourdi, à terre, charmé, étourdi, inconscient, paralysé et terrorisé
   Senses: perception des vibrations 18 m, Perception passive 11
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageResistances: d'acide, de froid, de feu ; tranchants infligés par des armes non magiques
+  ConditionImmunities: assourdi, à terre, charmé, étourdi, inconscient, paralysé et terrorisé
   Id: tome_of_beasts.md#mousse-luminescente-des-cavernes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48228,7 +48931,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p313)<!--/Source-->
 
 
 
@@ -48308,7 +49011,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p313)
 
     Type: Plante
 
@@ -48342,11 +49045,13 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 45 (10d6+10)
   Speed: 9 m, fouissement 3 m
+  Skills: Discrétion +4
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: commun
+  Challenge: 2 (450PX)
   DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, terrorisé, empoisonné, étourdi, inconscient
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 2 (450PX)
   Id: tome_of_beasts.md#myling
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48398,6 +49103,10 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
+
+
+
       - **Résistance aux dégâts** <!--DamageResistances-->contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent<!--/DamageResistances-->
 
 
@@ -48411,6 +49120,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -48462,6 +49175,8 @@ SubItems:
 
     Speed: 9 m, fouissement 3 m
 
+    Skills: Discrétion +4
+
     DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
 
     DamageImmunities: nécrotiques, de poison
@@ -48470,12 +49185,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 11
 
+    Languages: commun
+
     Challenge: 2 (450PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Naïna
-  Source: (LDM p)
+  Source: (LDM p315)
   Type: Dragon (métamorphe)
   Size: G
   Alignment: loyal mauvais
@@ -48484,11 +49201,11 @@ SubItems:
   Speed: 12 m, vol 36 m
   SavingThrows: Dex +7, Con +9, Int +6, Sag +8, Cha +8
   Skills: Arcanes +6, Escamotage +7, Perception +8, Perspicacité +8, Persuasion +8, Supercherie +8
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: empoisonné, inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, darakhul, draconique, elfique, sylvestre
   Challenge: 11 (7 200PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: empoisonné, inconscient, paralysé
   Id: tome_of_beasts.md#naïna
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48504,7 +49221,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p315)<!--/Source-->
 
 
 
@@ -48678,7 +49395,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p315)
 
     Type: Dragon (métamorphe)
 
@@ -48717,13 +49434,13 @@ SubItems:
   HitPoints: 207 (18d8 +126)
   Speed: 12m
   SavingThrows: For +11, Dex+9, Con +12, Int +7, Sag +8, Cha +9
-  DamageResistances: d'acide, de feu, de foudre, de froid; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, empoisonné, étourdi, inconscient
   Senses: vision dans le noir 36 m, vision parfaite 9 m, Perception passive 13
   Languages: commun, géant, infernal
   Challenge: 13 (10 000 PX)
+  DamageResistances: d'acide, de feu, de foudre, de froid; contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: radiants
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, empoisonné, étourdi, inconscient
   Id: tome_of_beasts.md#nécrophage-masqué
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48904,17 +49621,17 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nécrophore
-  Source: (LDM p)
+  Source: (LDM p317)
   Type: Bête
   Size: G
   Alignment: neutre
   ArmorClass: 15 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 9 m, fouissement 6 m, escalade 3 m
-  ConditionImmunities: paralysé
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 4 (1 100PX)
+  ConditionImmunities: paralysé
   Id: tome_of_beasts.md#nécrophore
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -48930,7 +49647,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p317)<!--/Source-->
 
 
 
@@ -49012,7 +49729,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p317)
 
     Type: Bête
 
@@ -49046,12 +49763,12 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7
   Skills: Acrobaties +7, Perception +7, Perspicacité +7
-  DamageResistances: d'acide, de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné, inconscient, paralysé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: elfique, primordial, sylvestre, langue du Vide
   Challenge: 6 (2 300PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné, inconscient, paralysé, terrorisé
   Id: tome_of_beasts.md#nichny
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -49240,13 +49957,15 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nkosi
-  Source: (LDM p)
+  Source: (LDM p319)
   Type: Humanoïde
   Size: MM
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 11 (2d8+2)
   Speed: 9m
+  Skills: Survie +2
   Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#nkosi
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -49263,7 +49982,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p319)<!--/Source-->
 
 
 
@@ -49299,7 +50018,15 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Survie +2<!--/Skills-->
+
+
+
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -49349,7 +50076,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p319)
 
     Type: Humanoïde
 
@@ -49361,23 +50088,27 @@ SubItems:
 
     Speed: 9m
 
+    Skills: Survie +2
+
     Senses: vision dans le noir 18 m, Perception passive 10
+
+    Languages: commun
 
     Challenge: 1/2 (100 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chef De Meute Nkosi
-  Source: (LDM p)
-  Type: HumanoïdeBête
-  Size: MMG
-  Alignment: non alignée
-  ArmorClass: 16 (armure de cuir clouté)11
-  HitPoints: 93 (17d8+17)42 (5d10+15)
-  Speed: 9m18 m
-  Senses: vision dans le noir 18 m, Perception passive 10Perception passive 10
-  Languages: —
-  Challenge: 4 (1 100PX)1/2 (100 PX)
+  Source: (LDM p319)
+  Type: Humanoïde
+  Size: MM
+  ArmorClass: 16 (armure de cuir clouté)
+  HitPoints: 93 (17d8+17)
+  Speed: 9m
+  Skills: Survie +2
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun
+  Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#chef-de-meute-nkosi
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -49393,7 +50124,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p319)<!--/Source-->
 
 
 
@@ -49429,7 +50160,15 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Survie +2<!--/Skills-->
+
+
+
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -49497,6 +50236,56 @@ SubItems:
 
 
 
+    Source: (LDM p319)
+
+    Type: Humanoïde
+
+    Size: MM
+
+    ArmorClass: 16 (armure de cuir clouté)
+
+    HitPoints: 93 (17d8+17)
+
+    Speed: 9m
+
+    Skills: Survie +2
+
+    Senses: vision dans le noir 18 m, Perception passive 10
+
+    Languages: commun
+
+    Challenge: 4 (1 100PX)
+
+- !MonsterItem
+  Family: TomeOfBeasts
+  Name: Autruche de guerre
+  Source: (LDM p320)
+  Type: Bête
+  Size: G
+  Alignment: non alignée
+  ArmorClass: 11
+  HitPoints: 42 (5d10+15)
+  Speed: 18 m
+  Senses: Perception passive 10
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Id: tome_of_beasts.md#autruche-de-guerre
+  ParentLink: tome_of_beasts.md#livre-des-monstres
+  ParentName: Livre des monstres
+  NameLevel: 1
+  AttributesDictionary: >+
+    Name: Autruche de guerre
+
+    Markdown: >+
+
+      # <!--Name-->Autruche de guerre<!--/Name-->
+
+
+
+
+
+      - Source: <!--Source-->(LDM p320)<!--/Source-->
+
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
@@ -49557,25 +50346,25 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p320)
 
-    Type: HumanoïdeBête
+    Type: Bête
 
-    Size: MMG
-
-    ArmorClass: 16 (armure de cuir clouté)11
-
-    HitPoints: 93 (17d8+17)42 (5d10+15)
-
-    Speed: 9m18 m
-
-    Senses: vision dans le noir 18 m, Perception passive 10Perception passive 10
-
-    Challenge: 4 (1 100PX)1/2 (100 PX)
+    Size: G
 
     Alignment: non alignée
 
+    ArmorClass: 11
+
+    HitPoints: 42 (5d10+15)
+
+    Speed: 18 m
+
+    Senses: Perception passive 10
+
     Languages: —
+
+    Challenge: 1/2 (100 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
@@ -49588,10 +50377,10 @@ SubItems:
   HitPoints: 114 (12d10+48)
   Speed: 6 m (bipède), 12 m (quadrupède)
   Skills: Discrétion +5, Perception +5
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: commun, géant, gobelin, télépathie à 60 m (avec les factices uniquement)
   Challenge: 6 (2 300PX)
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
   DamageVulnerabilities: radiants ; aux armes en argentradiants; aux armes en argent
   Id: tome_of_beasts.md#noctegarm
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -49767,14 +50556,14 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Noctin
-  Source: (LDM p)
+  Source: (LDM p323)
   ArmorClass: 13 (armure de cuir clouté)
   HitPoints: 52 (8d8+16)
   Speed: 9m
-  ConditionImmunities: terrorisé
   Senses: Perception passive 10
   Languages: commun et les langues que parle le maître fext du noctin
   Challenge: 2 (450PX)
+  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#noctin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -49790,7 +50579,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p323)<!--/Source-->
 
 
 
@@ -49896,7 +50685,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p323)
 
     ArmorClass: 13 (armure de cuir clouté)
 
@@ -49924,11 +50713,12 @@ SubItems:
   Speed: 15 m, vol 15 m (vol stationnaire)
   SavingThrows: For +5, Dex +6
   Skills: Perception +3, Discrétion +6
+  Senses: vision dans le noir 36 m, Perception passive 13
+  Languages: comprend le commun
+  Challenge: 6 (2 300PX)
   DamageResistances: nécrotiques, contondants, perforants et tranchants
   DamageImmunities: de froid
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
-  Senses: vision dans le noir 36 m, Perception passive 13
-  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#nuée-desprits-lupins
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50004,6 +50794,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->comprend le commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
 
 
@@ -50070,12 +50864,14 @@ SubItems:
 
     Senses: vision dans le noir 36 m, Perception passive 13
 
+    Languages: comprend le commun
+
     Challenge: 6 (2 300PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée D'Yeux
-  Source: (LDM p)
+  Source: (LDM p325)
   Type: Nuée
   Size: G
   Alignment: neutre
@@ -50083,11 +50879,11 @@ SubItems:
   HitPoints: 110 (13d10+39)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
   Skills: Discrétion +7, Intuition+6, Perception +6
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: à terre, charmé, pétrifié, entravé, étourdi, paralysé, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: comprend le commun, mais ne peut pas parler
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: à terre, charmé, pétrifié, entravé, étourdi, paralysé, terrorisé
   Id: tome_of_beasts.md#nuée-dyeux
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50103,7 +50899,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p325)<!--/Source-->
 
 
 
@@ -50187,7 +50983,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p325)
 
     Type: Nuée
 
@@ -50223,11 +51019,12 @@ SubItems:
   ArmorClass: 15
   HitPoints: 90 (12d8+36)
   Speed: 9 m, vol 9 m (vol stationnaire)
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: igné
+  Challenge: 7 (2 900PX)
   DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#nuée-de-danseflammes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50295,6 +51092,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->igné<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->7 (2 900PX)<!--/Challenge-->
 
 
@@ -50357,23 +51158,25 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: igné
+
     Challenge: 7 (2 900PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Papillons De Mort
-  Source: (LDM p)
+  Source: (LDM p327)
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
   ArmorClass: 15 (armure naturelle)
   HitPoints: 60 (11d10)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 11
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants, perforants et tranchants
   DamageVulnerabilities: de feu, de froid
+  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#nuée-de-papillons-de-mort
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50389,7 +51192,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p327)<!--/Source-->
 
 
 
@@ -50485,7 +51288,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p327)
 
     Type: Nuée
 
@@ -50512,18 +51315,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Grande Nuée De Papillons De Mort
-  Source: (LDM p)
+  Source: (LDM p327)
   Type: Nuée
   Size: TP
   Alignment: chaotique
   ArmorClass: 15 (armure naturelle)
   HitPoints: 84 (13d12)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 12
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants
   DamageVulnerabilities: de feu, de froid
+  ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#grande-nuée-de-papillons-de-mort
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50539,7 +51342,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p327)<!--/Source-->
 
 
 
@@ -50631,7 +51434,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p327)
 
     Type: Nuée
 
@@ -50666,11 +51469,11 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 6 m, fouissement 1,50 m, escalade 6 m
   Skills: Perception +3, Discrétion +5
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision aveugle 3 m, vision dans le noir 9 m, perception des vibrations 9 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-scarabées-manavores
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -50819,7 +51622,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Scarabées Mécaniques
-  Source: (LDM p)
+  Source: (LDM p329)
   Type: Grande nuée
   Size: TP
   Alignment: neutre
@@ -50843,7 +51646,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p329)<!--/Source-->
 
 
 
@@ -50905,7 +51708,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p329)
 
     Type: Grande nuée
 
@@ -50934,11 +51737,11 @@ SubItems:
   HitPoints: 38 (7d8+7)
   Speed: 6 m, fouissement 1,50 m, escalade 9 m
   Skills: Perception +3, Discrétion +5
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision aveugle 3 m, vision dans le noir 9 m, Perception passive 13
   Languages: —
   Challenge: 3 (700 PX)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-scarabées-prismatiques
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51071,19 +51874,20 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Sluaghs
-  Source: (LDM p)
+  Source: (LDM p331)
   Type: Nuée
   Size: TP
   Alignment: chaotique
   ArmorClass: 13
   HitPoints: 54 (12d8)
   Speed: 9 m, vol 15 m
-  DamageResistances: de froid ; contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
+  Skills: Discrétion +5
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, sylvestre
   Challenge: 3 (700 PX)
+  DamageResistances: de froid ; contondants, perforants et tranchants
   DamageVulnerabilities: de feu
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-sluaghs
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51099,7 +51903,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p331)<!--/Source-->
 
 
 
@@ -51132,6 +51936,10 @@ SubItems:
       |6 (–2)|16 (+3)|11 (+0)|6 (–2)|13 (+1)|10 (+0)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +5<!--/Skills-->
 
 
 
@@ -51189,7 +51997,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p331)
 
     Type: Nuée
 
@@ -51202,6 +52010,8 @@ SubItems:
     HitPoints: 54 (12d8)
 
     Speed: 9 m, vol 15 m
+
+    Skills: Discrétion +5
 
     DamageVulnerabilities: de feu
 
@@ -51224,13 +52034,13 @@ SubItems:
   Speed: 6m, vol 18m
   SavingThrows: Dex +8, Sag +6, Cha +9
   Skills: Acrobatics +8, Discrétion +8, Perception +6
-  DamageResistances: perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, charmé, empoisonné, entravé, épuisé, étourdi, paralysé, terrorisé
   Senses: vision dans le noir 18m, Perception passive 16
   Languages: commun, langue du Vide
   Challenge: 10 (5 900 PX)
+  DamageResistances: perforants et tranchants infligés par des armes non magiques
   DamageVulnerabilities: contondants
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, charmé, empoisonné, entravé, épuisé, étourdi, paralysé, terrorisé
   Id: tome_of_beasts.md#nuée-osseuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51383,7 +52193,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Œil D'Émeraude
-  Source: (LDM p)
+  Source: (LDM p333)
   Type: Créature artificielle
   Size: TP
   Alignment: chaotique mauvais
@@ -51392,12 +52202,12 @@ SubItems:
   Speed: 0 m, vol 9 m (vol stationnaire)
   SavingThrows: Dex+4, Con +4, Int +4
   Skills: Acrobaties +4, Arcanes +4, Supercherie +5, Histoire+4, Perception +3, Persuasion +5, Religion +4
-  DamageResistances: de froid, de feu ; dégâts perforants
-  DamageImmunities: de poison
-  ConditionImmunities: aveuglé, assourdi, épuisé, paralysé, pétrifié, empoisonné, à terre, inconscient
   Senses: vision aveugle 18 m
   Languages: commun, draconique; télépathie 75 m
   Challenge: 1 (200 PX)
+  DamageResistances: de froid, de feu ; dégâts perforants
+  DamageImmunities: de poison
+  ConditionImmunities: aveuglé, assourdi, épuisé, paralysé, pétrifié, empoisonné, à terre, inconscient
   Id: tome_of_beasts.md#Œil-dÉmeraude
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51413,7 +52223,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p333)<!--/Source-->
 
 
 
@@ -51523,7 +52333,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p333)
 
     Type: Créature artificielle
 
@@ -51565,12 +52375,12 @@ SubItems:
   Speed: 6 m, vol 30 m
   SavingThrows: Dex +6, Con +4, Int +5, Sag +4, Cha +7
   Skills: Acrobaties +6, Arcanes +5, Perspicacité +4, Médecine +4, Nature +5, Perception +7, Religion +5
-  DamageResistances: de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
-  DamageImmunities: de feu
-  ConditionImmunities: charmé, terrorisé, invisible
   Senses: vision parfaite 18 m, Perception passive 17
   Languages: céleste, commun, elfique, primordial, sylvestre
   Challenge: 4 (1 100PX)
+  DamageResistances: de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageImmunities: de feu
+  ConditionImmunities: charmé, terrorisé, invisible
   Id: tome_of_beasts.md#oiseau-de-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51747,19 +52557,21 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ostinato
-  Source: (LDM p)
+  Source: (LDM p335)
   Type: Aberration
   Size: M
   Alignment: chaotique neutre
   ArmorClass: 15
   HitPoints: 39 (6d8+12)
   Speed: vol 15 m (vol stationnaire)
+  Skills: Perception +3
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: télépathie à 60 m
+  Challenge: 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d'un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu'elle entend émane d'une entité extérieure. La symbiose auditive persiste jusqu'à ce que la cible tombe à 0point de vie, que l'ostinato y mette un terme par une action bonus ou que l'ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l'ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l'ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
   DamageResistances: d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de tonnerre
   DamageImmunities: de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, épuisé, entravé, inconscient, paralysé, pétrifié
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Challenge: 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d'un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu'elle entend émane d'une entité extérieure. La symbiose auditive persiste jusqu'à ce que la cible tombe à 0point de vie, que l'ostinato y mette un terme par une action bonus ou que l'ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l'ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l'ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
-  DamageVulnerabilities: de tonnerre
   Id: tome_of_beasts.md#ostinato
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -51775,7 +52587,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p335)<!--/Source-->
 
 
 
@@ -51811,6 +52623,10 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Perception +3<!--/Skills-->
+
+
+
       - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->de tonnerre<!--/DamageVulnerabilities-->
 
 
@@ -51828,6 +52644,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->télépathie à 60 m<!--/Languages-->
 
 
 
@@ -51883,7 +52703,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p335)
 
     Type: Aberration
 
@@ -51897,6 +52717,8 @@ SubItems:
 
     Speed: vol 15 m (vol stationnaire)
 
+    Skills: Perception +3
+
     DamageVulnerabilities: de tonnerre
 
     DamageResistances: d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
@@ -51906,6 +52728,8 @@ SubItems:
     ConditionImmunities: à terre, charmé, empoigné, empoisonné, épuisé, entravé, inconscient, paralysé, pétrifié
 
     Senses: vision dans le noir 18 m, Perception passive 13
+
+    Languages: télépathie à 60 m
 
     Challenge: 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d'un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu'elle entend émane d'une entité extérieure. La symbiose auditive persiste jusqu'à ce que la cible tombe à 0point de vie, que l'ostinato y mette un terme par une action bonus ou que l'ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l'ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l'ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
 
@@ -51921,13 +52745,13 @@ SubItems:
   Speed: 6 m, escalade 6 m, nage 6 m
   SavingThrows: Int +5, Sag +10, Cha +8
   Skills: Histoire +5, Perception +10, Perspicacité +10, Supercherie +8
-  DamageResistances: de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: d'acide
-  ConditionImmunities: aveuglé, assourdi, à terre, charmé, épuisé, terrorisé
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), perception des vibrations 36 m, Perception passive 20
   Languages: comprend toutes les langues, mais ne peut pas parler, télépathie à 36 m
   Challenge: 9 (5 000PX)
+  DamageResistances: de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: de tonnerre
+  DamageImmunities: d'acide
+  ConditionImmunities: aveuglé, assourdi, à terre, charmé, épuisé, terrorisé
   Id: tome_of_beasts.md#ovasis
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52098,18 +52922,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Pavenuée
-  Source: (LDM p)
+  Source: (LDM p337)
   Type: Nuée
   Size: TP
   Alignment: non
   ArmorClass: 15 (armure naturelle)
   HitPoints: 36 (8d8)
   Speed: 9m
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: à terre, charmé, étourdi, paralysé, pétrifié et terrorisé
   Senses: Perception passive 11
   Languages: —
   Challenge: 2 (450PX)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: à terre, charmé, étourdi, paralysé, pétrifié et terrorisé
   Id: tome_of_beasts.md#pavenuée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52125,7 +52949,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p337)<!--/Source-->
 
 
 
@@ -52221,7 +53045,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p337)
 
     Type: Nuée
 
@@ -52255,12 +53079,13 @@ SubItems:
   ArmorClass: 18 (armure naturelle)
   HitPoints: 264 (16d20+96)
   Speed: 3 m, fouissement 6 m
-  DamageResistances: contondants issus d'armes non magiques
-  DamageImmunities: d'acide
-  ConditionImmunities: à terre
+  Skills: Supercherie +8
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 12
   Languages: commun, primordial
   Challenge: 15 (13 000 PX)
+  DamageResistances: contondants issus d'armes non magiques
+  DamageImmunities: d'acide
+  ConditionImmunities: à terre
   Id: tome_of_beasts.md#piège-caustique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52309,6 +53134,10 @@ SubItems:
       |23 (+6)|16 (+3)|22 (+6)|15 (+2)|14 (+2)|6 (–2)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Supercherie +8<!--/Skills-->
 
 
 
@@ -52404,6 +53233,8 @@ SubItems:
 
     Speed: 3 m, fouissement 6 m
 
+    Skills: Supercherie +8
+
     DamageResistances: contondants issus d'armes non magiques
 
     DamageImmunities: d'acide
@@ -52419,7 +53250,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Pombero
-  Source: (LDM p)
+  Source: (LDM p339)
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -52428,6 +53259,7 @@ SubItems:
   Speed: 9m
   Skills: Athlétisme +5, Discrétion +5, Escamotage +5
   Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: sylvestre
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#pombero
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -52444,7 +53276,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p339)<!--/Source-->
 
 
 
@@ -52485,6 +53317,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->sylvestre<!--/Languages-->
 
 
 
@@ -52546,7 +53382,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p339)
 
     Type: Fée
 
@@ -52564,6 +53400,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 10
 
+    Languages: sylvestre
+
     Challenge: 3 (700 PX)
 
 - !MonsterItem
@@ -52576,10 +53414,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 12m
-  DamageResistances: de force, poison
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 5 (1 800PX)
+  DamageResistances: de force, poison
   Id: tome_of_beasts.md#pourceau-des-failles
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52716,14 +53554,16 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Primate Blanc
-  Source: (LDM p)
+  Source: (LDM p341)
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 12 m, escalade 12 m
+  Skills: Acrobaties +6, Athlétisme +7, Discrétion +6, Intimidation +2, Perception +5
   Senses: vision dans le noir 18 m, Perception passive 15
+  Languages: commun
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#primate-blanc
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -52740,7 +53580,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p341)<!--/Source-->
 
 
 
@@ -52776,7 +53616,15 @@ SubItems:
 
 
 
+      - **Compétences** <!--Skills-->Acrobaties +6, Athlétisme +7, Discrétion +6, Intimidation +2, Perception +5<!--/Skills-->
+
+
+
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -52820,7 +53668,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p341)
 
     Type: Créature monstrueuse
 
@@ -52834,7 +53682,11 @@ SubItems:
 
     Speed: 12 m, escalade 12 m
 
+    Skills: Acrobaties +6, Athlétisme +7, Discrétion +6, Intimidation +2, Perception +5
+
     Senses: vision dans le noir 18 m, Perception passive 15
+
+    Languages: commun
 
     Challenge: 6 (2 300PX)
 
@@ -52849,11 +53701,12 @@ SubItems:
   HitPoints: 75 (10d8+30)
   Speed: 9m
   Skills: Discrétion +4, Perception +4
+  Senses: vision dans le noir 18m, Perception passive 14
+  Languages: comprend une langue ancienne, mais ne peut pas parler
+  Challenge: 4 (1100 PX)
   DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
-  Senses: vision dans le noir 18m, Perception passive 14
-  Challenge: 4 (1100 PX)
   Id: tome_of_beasts.md#profanateur-maudit
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -52925,6 +53778,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->comprend une langue ancienne, mais ne peut pas parler<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->4 (1100 PX)<!--/Challenge-->
 
 
@@ -52989,12 +53846,14 @@ SubItems:
 
     Senses: vision dans le noir 18m, Perception passive 14
 
+    Languages: comprend une langue ancienne, mais ne peut pas parler
+
     Challenge: 4 (1100 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Profond
-  Source: (LDM p)
+  Source: (LDM p343)
   Type: Humanoïde
   Size: M
   Alignment: chaotique mauvais
@@ -53002,10 +53861,10 @@ SubItems:
   HitPoints: 91 (14d8+28)
   Speed: 9 m, nage 9 m
   SavingThrows: For +5, Con +4, Cha +3
-  DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 9
   Languages: commun, langue du Vide
   Challenge: 2 (450PX)
+  DamageResistances: de froid
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#profond
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53022,7 +53881,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p343)<!--/Source-->
 
 
 
@@ -53118,7 +53977,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p343)
 
     Type: Humanoïde
 
@@ -53147,7 +54006,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Archimandrite Profond
-  Source: (LDM p)
+  Source: (LDM p343)
   Type: Humanoïde
   Size: G
   Alignment: chaotique mauvais
@@ -53156,10 +54015,10 @@ SubItems:
   Speed: 12 m, nage 12 m
   SavingThrows: Dex +5, Sag +6, Cha +7
   Skills: Arcanes +4, Perception+6
-  DamageResistances: de froid, de tonnerre
   Senses: vision dans le noir 72 m, Perception passive 16
   Languages: commun, langue du Vide
   Challenge: 8 (3 900PX)
+  DamageResistances: de froid, de tonnerre
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#archimandrite-profond
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53176,7 +54035,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p343)<!--/Source-->
 
 
 
@@ -53318,7 +54177,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p343)
 
     Type: Humanoïde
 
@@ -53358,10 +54217,10 @@ SubItems:
   Speed: 9 m, nage 9 m
   SavingThrows: Con +5, Sag +3, Cha +4
   Skills: Athlétisme +6, Perception +3, Supercherie +4
-  DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: commun, langue du Vide
   Challenge: 4 (1 100PX)
+  DamageResistances: de froid
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#prêtre-profond-hybride
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53543,7 +54402,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Qwyllion
-  Source: (LDM p)
+  Source: (LDM p345)
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -53552,10 +54411,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8, Cha +6
   Skills: Acrobaties +11, Perception+4
-  DamageResistances: d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun, gobelin, infernal, sylvestre, langue du Vide
   Challenge: 8 (3 900PX)
+  DamageResistances: d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#qwyllion
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -53571,7 +54430,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p345)<!--/Source-->
 
 
 
@@ -53679,7 +54538,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p345)
 
     Type: Aberration
 
@@ -53717,6 +54576,7 @@ SubItems:
   Speed: 9m
   Skills: Arcanes +5, Investigation +5
   Senses: Perception passive 11
+  Languages: commun
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#ramag
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -53777,6 +54637,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->1/4 (50 PX)<!--/Challenge-->
 
 
@@ -53823,12 +54687,14 @@ SubItems:
 
     Senses: Perception passive 11
 
+    Languages: commun
+
     Challenge: 1/4 (50 PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ratatosk
-  Source: (LDM p)
+  Source: (LDM p347)
   Type: Céleste
   Size: TP
   Alignment: chaotique neutre
@@ -53837,10 +54703,10 @@ SubItems:
   Speed: 6 m, escalade 6 m
   SavingThrows: Sag +4, Cha +6
   Skills: Discrétion +6, Perception+6, Supercherie +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: céleste, commun ; télépathie 30 m
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#ratatosk
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -53856,7 +54722,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p347)<!--/Source-->
 
 
 
@@ -53976,7 +54842,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p347)
 
     Type: Céleste
 
@@ -54177,12 +55043,12 @@ SubItems:
   HitPoints: 126 (12d10+60)
   Speed: 9m
   SavingThrows: Sag +6, Cha +4
-  DamageResistances: contondants et perforants
-  ConditionImmunities: assourdi et aveuglé
   Senses: Perception passive 13
   Languages: commun, druidique, elfique, sylvestre
   Challenge: 5 (1 800PX)
+  DamageResistances: contondants et perforants
   DamageVulnerabilities: de feu, de froid
+  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#ravenala
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54482,11 +55348,11 @@ SubItems:
   HitPoints: 63 (14d10 - 14)
   Speed: 9 m, escalade 9 m, nage 6 m
   Skills: Escamotage +5, Perception +3
-  DamageResistances: contondants, perforants et tranchants
-  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants, perforants et tranchants
+  ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
   Id: tome_of_beasts.md#nuée-de-rôdeurs-des-quais
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54621,7 +55487,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Rôdeur Moussu
-  Source: (LDM p)
+  Source: (LDM p351)
   Type: Humanoïde
   Size: P
   Alignment: chaotique neutre
@@ -54630,11 +55496,11 @@ SubItems:
   Speed: 9m
   SavingThrows: For +4, Dex +4
   Skills: Perception +2, Discrétion +4
-  DamageImmunities: de feu, de poison
-  ConditionImmunities: aveuglé et empoisonné
   Senses: vision aveugle 18 m, Perception passive 12
   Languages: géant, sylvestre, trollien
   Challenge: 1 (200 PX)
+  DamageImmunities: de feu, de poison
+  ConditionImmunities: aveuglé et empoisonné
   Id: tome_of_beasts.md#rôdeur-moussu
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54650,7 +55516,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p351)<!--/Source-->
 
 
 
@@ -54768,7 +55634,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p351)
 
     Type: Humanoïde
 
@@ -54806,12 +55672,13 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76 (9d8+36)
   Speed: 9 m, fouissement 6 m
-  DamageResistances: contondants, perforants et tranchants
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé
+  Skills: Discrétion +6
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, argot des voleurs
   Challenge: 5 (1 800PX)
+  DamageResistances: contondants, perforants et tranchants
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#roi-des-rats
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54860,6 +55727,10 @@ SubItems:
       |6 (–2)|16 (+3)|18 (+4)|11 (+0)|15 (+2)|16 (+3)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +6<!--/Skills-->
 
 
 
@@ -54949,6 +55820,8 @@ SubItems:
 
     Speed: 9 m, fouissement 6 m
 
+    Skills: Discrétion +6
+
     DamageResistances: contondants, perforants et tranchants
 
     DamageImmunities: de poison
@@ -54964,17 +55837,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Roussalka
-  Source: (LDM p)
+  Source: (LDM p353)
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
   ArmorClass: 14 (armure naturelle)
   HitPoints: 88 (16d8+16)
   Speed: 9 m, nage 12 m
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: commun
+  Challenge: 6 (2 300PX)
   DamageImmunities: nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, empoisonné, paralysé, terrorisé
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#roussalka
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -54990,7 +55864,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p353)<!--/Source-->
 
 
 
@@ -55035,6 +55909,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -55090,7 +55968,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p353)
 
     Type: Mort-vivant
 
@@ -55109,6 +55987,8 @@ SubItems:
     ConditionImmunities: charmé, empoisonné, paralysé, terrorisé
 
     Senses: vision dans le noir 18 m, Perception passive 12
+
+    Languages: commun
 
     Challenge: 6 (2 300PX)
 
@@ -55267,7 +56147,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sarcoptère
-  Source: (LDM p)
+  Source: (LDM p355)
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -55276,13 +56156,13 @@ SubItems:
   Speed: 3 m, vol 18 m
   SavingThrows: For +4, Dex +8
   Skills: Supercherie +4, Perception +5, Discrétion +8
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, paralysé, épuisé, empoisonné, étourdi, inconscient
   Senses: vision dans le noir 72 m, Perception passive 15
   Languages: commun, darakhul
   Challenge: 12 (8 400 PX)
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: radiants
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, paralysé, épuisé, empoisonné, étourdi, inconscient
   Id: tome_of_beasts.md#sarcoptère
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -55298,7 +56178,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p355)<!--/Source-->
 
 
 
@@ -55424,7 +56304,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p355)
 
     Type: Mort-vivant
 
@@ -55467,10 +56347,10 @@ SubItems:
   HitPoints: 153 (18d6+72)
   Speed: 6 m, escalade 4,50 m
   SavingThrows: For +10, Con +10
-  ConditionImmunities: inconscient
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, darakhul, elfique
   Challenge: 6 (2 300PX)
+  ConditionImmunities: inconscient
   Id: tome_of_beasts.md#scheznyki
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -55629,7 +56509,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Scorpion Nocturne
-  Source: (LDM p)
+  Source: (LDM p357)
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -55654,7 +56534,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p357)<!--/Source-->
 
 
 
@@ -55726,7 +56606,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p357)
 
     Type: Bête
 
@@ -55749,7 +56629,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Scorpion Stygien À Large Queue
-  Source: (LDM p)
+  Source: (LDM p357)
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -55774,7 +56654,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p357)<!--/Source-->
 
 
 
@@ -55846,7 +56726,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p357)
 
     Type: Bête
 
@@ -55877,10 +56757,11 @@ SubItems:
   HitPoints: 105 (14d8+42)
   Speed: 9m
   SavingThrows: Con +6, Sag +6, Cha +7
-  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13
+  Languages: commun
   Challenge: 7 (2 900PX)
   DamageVulnerabilities: de feu
+  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#seigneur-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -55945,6 +56826,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -56034,23 +56919,25 @@ SubItems:
 
     Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13
 
+    Languages: commun
+
     Challenge: 7 (2 900PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Marionnette Des Lianes
-  Source: (LDM p)
+  Source: (LDM p359)
   Type: Plante
   Size: M
   Alignment: loyale neutre
   ArmorClass: 13 (armure de cuir clouté)
   HitPoints: 34 (4d8+16)
   Speed: 9m
-  ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 2 (450PX)
   DamageVulnerabilities: de feu
+  ConditionImmunities: assourdi et aveuglé
   Id: tome_of_beasts.md#marionnette-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56066,7 +56953,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p359)<!--/Source-->
 
 
 
@@ -56164,7 +57051,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p359)
 
     Type: Plante
 
@@ -56200,11 +57087,11 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex+4, Con +6, Cha+6
   Skills: Perception +6, Discrétion +8
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: d'acide, de foudre
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, elfique, sylvestre, langue du Vide
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: d'acide, de foudre
   Id: tome_of_beasts.md#sélang
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56369,7 +57256,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vipère Du Marais
-  Source: (LDM p)
+  Source: (LDM p361)
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -56394,7 +57281,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p361)<!--/Source-->
 
 
 
@@ -56460,7 +57347,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p361)
 
     Type: Bête
 
@@ -56483,7 +57370,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vipère De Zanskaran
-  Source: (LDM p)
+  Source: (LDM p361)
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -56508,7 +57395,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p361)<!--/Source-->
 
 
 
@@ -56568,7 +57455,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p361)
 
     Type: Bête
 
@@ -56599,11 +57486,11 @@ SubItems:
   HitPoints: 85 (10d10+30)
   Speed: 12 m, nage 9 m
   Skills: Perception +3, Discrétion +5 (+7 dans le sable ou les marais)
-  DamageResistances: de poison
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive13
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageResistances: de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#serpopard
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56744,18 +57631,18 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Shabti
-  Source: (LDM p)
+  Source: (LDM p363)
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
   ArmorClass: 17 (armure naturelle)
   HitPoints: 102 (12d8+48)
   Speed: 12m
-  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 8 (3 900PX)
+  DamageImmunities: de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
   Id: tome_of_beasts.md#shabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -56771,7 +57658,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p363)<!--/Source-->
 
 
 
@@ -56875,7 +57762,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p363)
 
     Type: Créature artificielle
 
@@ -56909,6 +57796,7 @@ SubItems:
   ArmorClass: 14 (naturelle)
   HitPoints: 97 (13d10+26)
   Speed: 15 m
+  Skills: Discrétion +4
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: comprend l'elfique et l'umbral mais ne peut pas parler
   Challenge: 2 (450PX)
@@ -56960,6 +57848,10 @@ SubItems:
       |14 (+2)|15 (+2)|14 (+2)|8 (−1)|10 (+0)|16 (+3)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +4<!--/Skills-->
 
 
 
@@ -57049,6 +57941,8 @@ SubItems:
 
     Speed: 15 m
 
+    Skills: Discrétion +4
+
     Senses: vision dans le noir 18 m, Perception passive 12
 
     Languages: comprend l'elfique et l'umbral mais ne peut pas parler
@@ -57058,18 +57952,20 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Shoggoth
-  Source: (LDM p)
+  Source: (LDM p365)
   Type: Aberration
   Size: TG
   Alignment: chaotique neutre
   ArmorClass: 18 (armure naturelle)
   HitPoints: 387 (25d12+225)
   Speed: 15 m, escalade 9 m, nage 9 m
+  Skills: Perception +9
+  Senses: vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
+  Languages: langue du Vide
+  Challenge: 19 (22 000 PX)
   DamageResistances: de feu, contondants et perforants
   DamageImmunities: de froid, de tonnerre, tranchants
   ConditionImmunities: aveuglé, assourdi, à terre, étourdi, inconscient
-  Senses: vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
-  Challenge: 19 (22 000 PX)
   Id: tome_of_beasts.md#shoggoth
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57085,7 +57981,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p365)<!--/Source-->
 
 
 
@@ -57121,6 +58017,10 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Perception +9<!--/Skills-->
+
+
+
       - **Résistance aux dégâts** <!--DamageResistances-->de feu, contondants et perforants<!--/DamageResistances-->
 
 
@@ -57134,6 +58034,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->langue du Vide<!--/Languages-->
 
 
 
@@ -57195,7 +58099,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p365)
 
     Type: Aberration
 
@@ -57209,6 +58113,8 @@ SubItems:
 
     Speed: 15 m, escalade 9 m, nage 9 m
 
+    Skills: Perception +9
+
     DamageResistances: de feu, contondants et perforants
 
     DamageImmunities: de froid, de tonnerre, tranchants
@@ -57216,6 +58122,8 @@ SubItems:
     ConditionImmunities: aveuglé, assourdi, à terre, étourdi, inconscient
 
     Senses: vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
+
+    Languages: langue du Vide
 
     Challenge: 19 (22 000 PX)
 
@@ -57229,12 +58137,12 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (14d8+42)
   Speed: 9 m, fouissement 9 m
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 11
   Languages: celles qu'elle parlait de son vivant
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
   Id: tome_of_beasts.md#silhouette-de-sable
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57393,7 +58301,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sorceleur
-  Source: (LDM p)
+  Source: (LDM p367)
   Type: Créature artificielle
   Size: TP
   Alignment: neutre
@@ -57401,11 +58309,11 @@ SubItems:
   HitPoints: 10 (4d4)
   Speed: vol 15 m
   Skills: Perception +3
-  DamageImmunities: de poison, radiants
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: comprend la langue de son créateur, mais ne peut pas parler
   Challenge: 1/4 (50 PX)
+  DamageImmunities: de poison, radiants
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#sorceleur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57421,7 +58329,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p367)<!--/Source-->
 
 
 
@@ -57517,7 +58425,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p367)
 
     Type: Créature artificielle
 
@@ -57555,11 +58463,11 @@ SubItems:
   Speed: 9 m, vol 9m
   SavingThrows: Int +8, Sag +10, Cha +10
   Skills: Histoire +8, Perspicacité +15, Perception +15
-  DamageResistances: radiants
-  DamageImmunities: de feu, de foudre, psychiques
   Senses: vision parfaite 18m, Perception passive 25
   Languages: céleste, télépathie (30 m)
   Challenge: 12 (8 400 PX)
+  DamageResistances: radiants
+  DamageImmunities: de feu, de foudre, psychiques
   Id: tome_of_beasts.md#sorcière-de-lÉcheveau
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57724,7 +58632,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gypsosphinx
-  Source: (LDM p)
+  Source: (LDM p369)
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
@@ -57732,12 +58640,12 @@ SubItems:
   HitPoints: 171 (18d10+72)
   Speed: 12 m, vol 21 m
   Skills: Arcanes +9, Histoire +9, Perception +9, Religion +9
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: psychiques, de poison
-  ConditionImmunities: empoisonné
   Senses: vision parfaite 27 m, Perception passive 19
   Languages: abyssal, commun, darakhul, sphinx
   Challenge: 14 (11 500 PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: psychiques, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#gypsosphinx
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57753,7 +58661,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p369)<!--/Source-->
 
 
 
@@ -57937,7 +58845,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p369)
 
     Type: Créature monstrueuse
 
@@ -57968,19 +58876,20 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Squelette De Troll Des Lianes
-  Source: (LDM p)
+  Source: (LDM p371)
   Type: Plante
   Size: G
   Alignment: non-alignée
   ArmorClass: 16 (armure naturelle)
   HitPoints: 119 (14d10+42)
   Speed: 9m
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: assourdi, épuisé et empoisonné
+  SavingThrows: Con +12
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: —
   Challenge: 9 (5 000PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: assourdi, épuisé et empoisonné
   Id: tome_of_beasts.md#squelette-de-troll-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -57996,7 +58905,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p371)<!--/Source-->
 
 
 
@@ -58029,6 +58938,10 @@ SubItems:
       |20 (+5)|12 (+1)|16 (+3)|6 (–2)|8 (–1)|5 (–3)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Con +12<!--/SavingThrows-->
 
 
 
@@ -58086,7 +58999,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p371)
 
     Type: Plante
 
@@ -58099,6 +59012,8 @@ SubItems:
     HitPoints: 119 (14d10+42)
 
     Speed: 9m
+
+    SavingThrows: Con +12
 
     DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
 
@@ -58123,12 +59038,12 @@ SubItems:
   HitPoints: 45 (6d10+12)
   Speed: 9 m, nage 9 m
   Skills: Perception +1, Discrétion +2
-  DamageImmunities: de froid, nécrotiques, de poison
-  ConditionImmunities: épuisé et empoisonné
   Senses: vision dans le noir 18 m, ouïe fine 9 m, Perception passive 11
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 1 (200 PX)
   DamageVulnerabilities: contondants
+  DamageImmunities: de froid, nécrotiques, de poison
+  ConditionImmunities: épuisé et empoisonné
   Id: tome_of_beasts.md#squelette-en-mâchoires-de-requin
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -58263,7 +59178,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Stryx
-  Source: (LDM p)
+  Source: (LDM p373)
   Type: Créature monstrueuse
   Size: TP
   Alignment: neutre
@@ -58289,7 +59204,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p373)<!--/Source-->
 
 
 
@@ -58389,7 +59304,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p373)
 
     Type: Créature monstrueuse
 
@@ -58422,12 +59337,13 @@ SubItems:
   HitPoints: 190 (20d8+100)
   Speed: 12 m, escalade 12 m
   SavingThrows: For +11, Dex+9, Con +10, Cha +7
-  DamageResistances: d'acide, de feu; contondants et perforants issus d'armes non magiques
-  DamageImmunities: de froid, de poison
-  ConditionImmunities: empoisonné
+  Skills: Supercherie +12
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, infernal ; télépathie 30 m
   Challenge: 13 (10 000 PX)
+  DamageResistances: d'acide, de feu; contondants et perforants issus d'armes non magiques
+  DamageImmunities: de froid, de poison
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#stuhac
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -58480,6 +59396,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->For +11, Dex+9, Con +10, Cha +7<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Supercherie +12<!--/Skills-->
 
 
 
@@ -58571,6 +59491,8 @@ SubItems:
 
     SavingThrows: For +11, Dex+9, Con +10, Cha +7
 
+    Skills: Supercherie +12
+
     DamageResistances: d'acide, de feu; contondants et perforants issus d'armes non magiques
 
     DamageImmunities: de froid, de poison
@@ -58586,7 +59508,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Subek
-  Source: (LDM p)
+  Source: (LDM p375)
   Type: Humanoïde
   Size: G
   Alignment: loyal neutre
@@ -58595,6 +59517,7 @@ SubItems:
   Speed: 9 m, nage 6 m
   Skills: Histoire +5, Investigation +5
   Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: commun
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#subek
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -58611,7 +59534,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p375)<!--/Source-->
 
 
 
@@ -58652,6 +59575,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 11<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -58707,7 +59634,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p375)
 
     Type: Humanoïde
 
@@ -58725,6 +59652,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 11
 
+    Languages: commun
+
     Challenge: 5 (1 800PX)
 
 - !MonsterItem
@@ -58738,10 +59667,10 @@ SubItems:
   HitPoints: 97 (13d8+39)
   Speed: 9 m
   Skills: Médecine +6, Religion +3
-  DamageResistances: nécrotiques; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: celles qu'il parlait de son vivant
   Challenge: 5 (1 800PX)
+  DamageResistances: nécrotiques; contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#suffragan-cœur-de-vers
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -58895,13 +59824,14 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sutureuse
-  Source: (LDM p)
+  Source: (LDM p377)
   Type: Bête
   Size: TP
   Alignment: non-alignée
   ArmorClass: 14
   HitPoints: 7 (3d4)
   Speed: 3 m, vol 12 m (vol stationnaire)
+  Skills: Discrétion +6
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: —
   Challenge: 1/4 (50 PX)
@@ -58920,7 +59850,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p377)<!--/Source-->
 
 
 
@@ -58953,6 +59883,10 @@ SubItems:
       |1 (–5)|19 (+4)|10 (+0)|1 (–5)|12 (+1)|4 (–3)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +6<!--/Skills-->
 
 
 
@@ -58992,7 +59926,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p377)
 
     Type: Bête
 
@@ -59005,6 +59939,8 @@ SubItems:
     HitPoints: 7 (3d4)
 
     Speed: 3 m, vol 12 m (vol stationnaire)
+
+    Skills: Discrétion +6
 
     Senses: vision dans le noir 18 m, Perception passive 11
 
@@ -59022,10 +59958,10 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 9m
-  DamageResistances: contondants et perforants
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, druidique, elfique, sylvestre
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants et perforants
   DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#sylvanien-pleureur
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -59167,7 +60103,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Templier Mécaforgé
-  Source: (LDM p)
+  Source: (LDM p379)
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -59175,11 +60111,12 @@ SubItems:
   HitPoints: 71 (11d8+22)
   Speed: 9m
   SavingThrows: Dex +2, Con +5
+  Senses: Perception passive 13
+  Languages: commun
+  Challenge: 6 (2 300PX)
   DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, terrorisé, épuisé, empoisonné
-  Senses: Perception passive 13
-  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#templier-mécaforgé
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -59195,7 +60132,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p379)<!--/Source-->
 
 
 
@@ -59248,6 +60185,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -59309,7 +60250,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p379)
 
     Type: Humanoïde
 
@@ -59333,6 +60274,8 @@ SubItems:
 
     Senses: Perception passive 13
 
+    Languages: commun
+
     Challenge: 6 (2 300PX)
 
 - !MonsterItem
@@ -59347,13 +60290,13 @@ SubItems:
   Speed: 0 m, vol 30 m (vol stationnaire)
   SavingThrows: Int +4, Sag +4, Cha +6
   Skills: Perception +4
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, épuisé, empoigné, empoisonné, entravé, inconscient, paralysé, pétrifié
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun, nain, primordial
   Challenge: 10 (5 900 PX)
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: de feu
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, épuisé, empoigné, empoisonné, entravé, inconscient, paralysé, pétrifié
   Id: tome_of_beasts.md#thuellai
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -59556,7 +60499,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Titan Antique
-  Source: (LDM p)
+  Source: (LDM p381)
   Type: Céleste
   Size: Gig
   Alignment: neutre bon
@@ -59565,10 +60508,10 @@ SubItems:
   Speed: 15 m
   SavingThrows: Con +10, Sag +7, Cha +9
   Skills: Athlétisme +12, Intimidation +9, Perception +7
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 17
   Languages: commun, géant, primordial, titan, télépathie à 60 mètres
   Challenge: 12 (8 400 PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#titan-antique
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -59584,7 +60527,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p381)<!--/Source-->
 
 
 
@@ -59698,7 +60641,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p381)
 
     Type: Céleste
 
@@ -59736,6 +60679,7 @@ SubItems:
   Speed: 12m
   Skills: Intimidation +1, Perception +2
   Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: titan
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#titan-dégénéré
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -59793,6 +60737,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->titan<!--/Languages-->
 
 
 
@@ -59860,12 +60808,14 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 12
 
+    Languages: titan
+
     Challenge: 8 (3 900PX)
 
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Titanoboa
-  Source: (LDM p)
+  Source: (LDM p383)
   Type: Bête
   Size: Gig
   Alignment: non alignée
@@ -59892,7 +60842,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p)<!--/Source-->
+      - Source: <!--Source-->(LDM p383)<!--/Source-->
 
 
 
@@ -59984,7 +60934,7 @@ SubItems:
 
 
 
-    Source: (LDM p)
+    Source: (LDM p383)
 
     Type: Bête
 
@@ -60020,11 +60970,12 @@ SubItems:
   Speed: 9m
   SavingThrows: For +10, Con +8, Dex +3
   Skills: Perception +3
+  Senses: vision dans le noir 60 m, Perception passive 13
+  Languages: commun
+  Challenge: 8 (3 900PX)
   DamageResistances: nécrotiques
   DamageImmunities: de feu, de froid, de poison
   ConditionImmunities: empoisonné, épuisé, paralysé, pétrifié, terrorisé
-  Senses: vision dans le noir 60 m, Perception passive 13
-  Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#tophet
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -60100,6 +61051,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
 
@@ -60166,6 +61121,8 @@ SubItems:
 
     Senses: vision dans le noir 60 m, Perception passive 13
 
+    Languages: commun
+
     Challenge: 8 (3 900PX)
 
 - !MonsterItem
@@ -60179,11 +61136,12 @@ SubItems:
   HitPoints: 157 (15d10+75)
   Speed: 12 m, vol 18 m
   SavingThrows: Dex +11, Con +9, Sag +7, Cha +8
-  DamageImmunities: de poison
-  ConditionImmunities: charmé, empoisonné
+  Skills: Perception +7
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: commun, gnoll, infernal, profond, tosculi
   Challenge: 12 (8 400 PX)
+  DamageImmunities: de poison
+  ConditionImmunities: charmé, empoisonné
   Id: tome_of_beasts.md#reine-du-nid-tosculie
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -60236,6 +61194,10 @@ SubItems:
 
 
       - **Jets de sauvegarde** <!--SavingThrows-->Dex +11, Con +9, Sag +7, Cha +8<!--/SavingThrows-->
+
+
+
+      - **Compétence** <!--Skills-->Perception +7<!--/Skills-->
 
 
 
@@ -60412,6 +61374,8 @@ SubItems:
     Speed: 12 m, vol 18 m
 
     SavingThrows: Dex +11, Con +9, Sag +7, Cha +8
+
+    Skills: Perception +7
 
     DamageImmunities: de poison
 
@@ -60723,6 +61687,7 @@ SubItems:
   HitPoints: 22 (4d6+8)
   Speed: 6 m
   Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: tosculi
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#faux-bourdon-tosculi
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -60779,6 +61744,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->tosculi<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 
@@ -60828,6 +61797,8 @@ SubItems:
     Speed: 6 m
 
     Senses: vision dans le noir 18 m, Perception passive 11
+
+    Languages: tosculi
 
     Challenge: 1/2 (100 PX)
 
@@ -60988,9 +61959,10 @@ SubItems:
   Speed: 12m, nage 6m
   SavingThrows: Dex +7, Con +8
   Skills: Discrétion +11, Perception +10
-  DamageImmunities: de tonnerre
   Senses: vision dans le noir 18m, Perception passive 20
+  Languages: sylvestre
   Challenge: 9 (5000 PX)
+  DamageImmunities: de tonnerre
   Id: tome_of_beasts.md#ukavac
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61055,6 +62027,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18m, Perception passive 20<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->sylvestre<!--/Languages-->
 
 
 
@@ -61132,6 +62108,8 @@ SubItems:
 
     Senses: vision dans le noir 18m, Perception passive 20
 
+    Languages: sylvestre
+
     Challenge: 9 (5000 PX)
 
 - !MonsterItem
@@ -61145,12 +62123,12 @@ SubItems:
   HitPoints: 40 (9d4+18)
   Speed: 9 m, vol 18 m
   Skills: Perception +4
-  DamageResistances: de feu ; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: épuisé
   Senses: vision aveugle 3 m, Perception passive 14
   Languages: comprend le céleste et le commun, mais ne peut pas parler
   Challenge: 2 (450PX)
+  DamageResistances: de feu ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: épuisé
   Id: tome_of_beasts.md#uraeus
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61312,12 +62290,12 @@ SubItems:
   Speed: 12 m, escalade 6 m
   SavingThrows: Dex +8, Con +13, Sag +8, Cha +11
   Skills: Discrétion +8, Perception +8
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
-  DamageImmunities: de tonnerre
-  ConditionImmunities: terrorisé
   Senses: vision parfaite 36 m, Perception passive 18
   Languages: comprend le darakhul et la langue du Vide
   Challenge: 17 (18 000PX)
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
+  DamageImmunities: de tonnerre
+  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#urochar-guetteur-Étrangleur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61539,11 +62517,11 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +7, Cha +3
   Skills: Arcanes +4, Histoire +4, Perception +8
-  DamageImmunities: de poison ; contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: langues anciennes au choix du MD
   Challenge: 9 (5 000PX)
+  DamageImmunities: de poison ; contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#ushabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -61716,11 +62694,11 @@ SubItems:
   HitPoints: 120 (16d8+48)
   Speed: 9m
   SavingThrows: Dex +4, Con +5, Sag +3, Cha +4
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: charmé, empoisonné, terrorisé
   Senses: vision parfaite 9 m, vision dans le noir 18m, Perception passive 11
   Languages: celles qu'il parlait de son vivant
   Challenge: 4 (1 100PX)
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: charmé, empoisonné, terrorisé
   Id: tome_of_beasts.md#vættir
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62045,12 +63023,12 @@ SubItems:
   Speed: 9 m, vol 9m
   SavingThrows: For +12, Dex +12, Con +11, Int +5, Sag +8, Cha +12
   Skills: Perception +8
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre
-  DamageImmunities: contondants, perforants et tranchants issus d'armes non magiques
-  ConditionImmunities: terrorisé
   Senses: vision parfaite 18m, Perception passive 18
   Languages: commun, géant, nain, voir don des langues
   Challenge: 11 (7 200PX)
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre
+  DamageImmunities: contondants, perforants et tranchants issus d'armes non magiques
+  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#valkyrie
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62272,12 +63250,12 @@ SubItems:
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex +7, Cha +7
   Skills: Discrétion +7, Perception +5
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: de froid, nécrotiques, de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: commun, langue du Vide, umbral
   Challenge: 7 (2 900PX)
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: de froid, nécrotiques, de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
   Id: tome_of_beasts.md#vampire-umbral
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62455,12 +63433,13 @@ SubItems:
   ArmorClass: 12 (armure naturelle)
   HitPoints: 115 (10d10+60)
   Speed: 6 m, nage 9 m
-  DamageResistances: tranchants, contondants
-  DamageImmunities: d'acide, de feu et de poison
-  ConditionImmunities: empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  Skills: Discrétion +3
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 5
   Languages: —
   Challenge: 5 (1 800PX)
+  DamageResistances: tranchants, contondants
+  DamageImmunities: d'acide, de feu et de poison
+  ConditionImmunities: empoisonné, épuisé, paralysé, pétrifié, terrorisé
   Id: tome_of_beasts.md#vase-corruptrice
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62509,6 +63488,10 @@ SubItems:
       |16 (+3)|10 (+0)|22 (+6)|4 (-3)|2 (-4)|1 (-5)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +3<!--/Skills-->
 
 
 
@@ -62574,6 +63557,8 @@ SubItems:
 
     Speed: 6 m, nage 9 m
 
+    Skills: Discrétion +3
+
     DamageResistances: tranchants, contondants
 
     DamageImmunities: d'acide, de feu et de poison
@@ -62596,12 +63581,12 @@ SubItems:
   ArmorClass: 15
   HitPoints: 82 (11d10+22)
   Speed: 0 m, vol 18 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: nécrotiques, de poison
-  ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié, terrifié
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
   Languages: —
   Challenge: 6 (2 300PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageImmunities: nécrotiques, de poison
+  ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié, terrifié
   Id: tome_of_beasts.md#vent-putréfacteur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62744,10 +63729,10 @@ SubItems:
   HitPoints: 105 (10d10+50)
   Speed: 9 m, nage 9 m, fouissement (neige, glace) 9 m
   SavingThrows: For +8, Con +8
-  DamageImmunities: de froid, nécrotiques
   Senses: vision dans le noir 60 m, Perception passive 12
   Languages: —
   Challenge: 6 (2 300PX)
+  DamageImmunities: de froid, nécrotiques
   Id: tome_of_beasts.md#ver-givré-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -62896,10 +63881,10 @@ SubItems:
   HitPoints: 45 (6d8+18)
   Speed: 9 m, nage 9 m, fouissement (neige, glace) 6 m
   SavingThrows: For +5, Con +5
-  DamageResistances: de froid
   Senses: vision dans le noir 60 m, Perception passive 11
   Languages: —
   Challenge: 1 (200 PX)
+  DamageResistances: de froid
   Id: tome_of_beasts.md#larve-de-ver-givré
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63041,11 +64026,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 133 (14d12+42)
   Speed: 6m, escalade 6 m
-  DamageImmunities: de poison
-  ConditionImmunities: assourdi, à terre, aveuglé, charmé, empoisonné
   Senses: perception des vibrations 18m, Perception passive 12
   Languages: —
   Challenge: 4 (1100 PX)
+  DamageImmunities: de poison
+  ConditionImmunities: assourdi, à terre, aveuglé, charmé, empoisonné
   Id: tome_of_beasts.md#ver-pêcheur
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63200,13 +64185,13 @@ SubItems:
   HitPoints: 172 (15d12+75)
   Speed: 6 m, fouissement 6 m, nage 6 m
   Skills: Perception +5, Discrétion +2 (+6 dans le sable, la boue ou les terrains rocheux)
-  DamageResistances: de feu, contondants, perforants et tranchants issus d'armes non magiques
-  DamageImmunities: d'acide, de poison
-  ConditionImmunities: épuisé, paralysé, pétrifié, empoisonné, inconscient
   Senses: perception des vibrations 18 m, Perception passive 15
   Languages: comprend le profond et le terreux mais ne peut pas parler
   Challenge: 10 (5 900 PX)
+  DamageResistances: de feu, contondants, perforants et tranchants issus d'armes non magiques
   DamageVulnerabilities: de tonnerre
+  DamageImmunities: d'acide, de poison
+  ConditionImmunities: épuisé, paralysé, pétrifié, empoisonné, inconscient
   Id: tome_of_beasts.md#ver-sathaq
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63360,11 +64345,11 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 9m
-  DamageImmunities: d'acide
-  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageImmunities: d'acide
+  ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
   Id: tome_of_beasts.md#verminhantée
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63513,11 +64498,11 @@ SubItems:
   HitPoints: 203 (14d20+56)
   Speed: 0 m, fouissement 1,50 m
   Skills: Perception +6
-  DamageResistances: de feu, contondants et perforants
-  ConditionImmunities: aveuglé, assourdi, à terre, charmé, terrorisé
   Senses: perception des vibrations 18 m, Perception passive 16
   Languages: —
   Challenge: 11 (7 200PX)
+  DamageResistances: de feu, contondants et perforants
+  ConditionImmunities: aveuglé, assourdi, à terre, charmé, terrorisé
   Id: tome_of_beasts.md#vésiculose
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63688,10 +64673,12 @@ SubItems:
   HitPoints: 110 (20d10)
   Speed: 0 m, vol 15 m (vol stationnaire)
   SavingThrows: Con +4, Int +6, Sag +7, Cha +4
+  Skills: Discrétion +10
+  Senses: vision parfaite 18m, Perception passive 13
+  Languages: télépathie à 18 m
+  Challenge: 11 (7 200PX)
   DamageImmunities: nécrotiques
   ConditionImmunities: à terre, épuisé, pétrifié
-  Senses: vision parfaite 18m, Perception passive 13
-  Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#vidien
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -63747,6 +64734,10 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Discrétion +10<!--/Skills-->
+
+
+
       - **Immunité contre les dégâts** <!--DamageImmunities-->nécrotiques<!--/DamageImmunities-->
 
 
@@ -63756,6 +64747,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision parfaite 18m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->télépathie à 18 m<!--/Languages-->
 
 
 
@@ -63845,11 +64840,15 @@ SubItems:
 
     SavingThrows: Con +4, Int +6, Sag +7, Cha +4
 
+    Skills: Discrétion +10
+
     DamageImmunities: nécrotiques
 
     ConditionImmunities: à terre, épuisé, pétrifié
 
     Senses: vision parfaite 18m, Perception passive 13
+
+    Languages: télépathie à 18 m
 
     Challenge: 11 (7 200PX)
 
@@ -63865,6 +64864,7 @@ SubItems:
   Speed: 9m
   Skills: Athlétisme+5, Perception +5
   Senses: vision dans le noir 18 m, Perception passive 15
+  Languages: gnoll
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#vif-ravageur-gnoll
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -63922,6 +64922,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 15<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->gnoll<!--/Languages-->
 
 
 
@@ -63989,6 +64993,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 15
 
+    Languages: gnoll
+
     Challenge: 3 (700 PX)
 
 - !MonsterItem
@@ -64002,11 +65008,11 @@ SubItems:
   HitPoints: 28 (8d6)
   Speed: 9m
   Skills: Athlétisme +3, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas plaquées argent ou faite de fer froid
-  ConditionImmunities: terrorisé
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, gobelin, sylvestre, umbral
   Challenge: 2 (450PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas plaquées argent ou faite de fer froid
+  ConditionImmunities: terrorisé
   Id: tome_of_beasts.md#vil-barbier
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64180,10 +65186,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8, Con +4, Sag +5, Cha +6
   Skills: Discrétion +8, Dressage +8, Intimidation +6, Perception +8, Perspicacité +5
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, sylvestre, télépathie à 18m (bêtes seulement)
   Challenge: 5 (1 800PX)
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Id: tome_of_beasts.md#vila
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64367,13 +65373,14 @@ SubItems:
   ArmorClass: 16
   HitPoints: 67 (9d8+27)
   Speed: 3 m, vol (variable; voir le trait porté par le vent)
-  DamageResistances: contondants et perforants issus d'armes non magiques
-  DamageImmunities: de froid
-  ConditionImmunities: aveuglé, charmé, assourdi, terrorisé, à terre
+  Skills: Discrétion +7
   Senses: vision aveugle 30 m, Perception passive 10
   Languages: —
   Challenge: 4 (1 100PX)
+  DamageResistances: contondants et perforants issus d'armes non magiques
   DamageVulnerabilities: de feu
+  DamageImmunities: de froid
+  ConditionImmunities: aveuglé, charmé, assourdi, terrorisé, à terre
   Id: tome_of_beasts.md#voile-de-givre
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64422,6 +65429,10 @@ SubItems:
       |20 (+5)|20 (+5)|16 (+3)|1 (–5)|11 (+0)|1 (–5)|
 
 
+
+
+
+      - **Compétence** <!--Skills-->Discrétion +7<!--/Skills-->
 
 
 
@@ -64515,6 +65526,8 @@ SubItems:
 
     Speed: 3 m, vol (variable; voir le trait porté par le vent)
 
+    Skills: Discrétion +7
+
     DamageVulnerabilities: de feu
 
     DamageResistances: contondants et perforants issus d'armes non magiques
@@ -64541,6 +65554,7 @@ SubItems:
   Speed: 12 m, escalade 6 m, nage 6 m
   Skills: Persuasion +5, Supercherie +5
   Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: commun
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#wampus-féline
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -64598,6 +65612,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -64670,6 +65688,8 @@ SubItems:
     Skills: Persuasion +5, Supercherie +5
 
     Senses: vision dans le noir 18 m, Perception passive 12
+
+    Languages: commun
 
     Challenge: 1 (200 PX)
 
@@ -64815,10 +65835,10 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 18 (4d6+4)
   Speed: 7,50 m, escalade 4,50 m
-  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Senses: vision aveugle 36 m, Perception passive 10
   Languages: comprend les langues de son créateur, mais ne peut pas parler
   Challenge: 1/4 (50 PX)
+  ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
   Id: tome_of_beasts.md#xanka
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -64942,6 +65962,7 @@ SubItems:
   ArmorClass: 19 (armure naturelle et mystique)
   HitPoints: 133 (14d10 + 56)
   Speed: 15 m, escalade 9 m
+  SavingThrows: Cha +5
   Skills: Discrétion +8, Intuition+6, Perception +6
   Senses: vision dans le noir 18 m, perception des vibrations 36 m, Perception passive 16
   Languages: commun, commun des profondeurs, profond
@@ -64994,6 +66015,10 @@ SubItems:
       |17 (+3)|21 (+5)|18 (+4)|15 (+2)|16 (+3)|15 (+2)|
 
 
+
+
+
+      - **Jet de sauvegarde** <!--SavingThrows-->Cha +5<!--/SavingThrows-->
 
 
 
@@ -65063,6 +66088,8 @@ SubItems:
 
     Speed: 15 m, escalade 9 m
 
+    SavingThrows: Cha +5
+
     Skills: Discrétion +8, Intuition+6, Perception +6
 
     Senses: vision dans le noir 18 m, perception des vibrations 36 m, Perception passive 16
@@ -65081,11 +66108,11 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 231 (14d20+84)
   Speed: 15 m
-  DamageResistances: contondants
-  ConditionImmunities: épuisé
   Senses: Perception passive 11
   Languages: —
   Challenge: 11 (7 200PX)
+  DamageResistances: contondants
+  ConditionImmunities: épuisé
   Id: tome_of_beasts.md#ychen-bannog
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65240,11 +66267,12 @@ SubItems:
   HitPoints: 507 (26d20+234)
   Speed: 3 m, nage 15 m
   SavingThrows: Int +8, Sag +8, Cha +8
+  Senses: vision aveugle 36 m, Perception passive 10
+  Languages: aquatique
+  Challenge: 26 (90 000PX)
   DamageResistances: de feu, de foudre, de tonnerre; contondants, perforants, tranchants
   DamageImmunities: de froid, de poison
   ConditionImmunities: empoisonné, paralysé, terrorisé
-  Senses: vision aveugle 36 m, Perception passive 10
-  Challenge: 26 (90 000PX)
   Id: tome_of_beasts.md#zaratan
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65313,6 +66341,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision aveugle 36 m, Perception passive 10<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->aquatique<!--/Languages-->
 
 
 
@@ -65422,6 +66454,8 @@ SubItems:
 
     Senses: vision aveugle 36 m, Perception passive 10
 
+    Languages: aquatique
+
     Challenge: 26 (90 000PX)
 
 - !MonsterItem
@@ -65436,6 +66470,7 @@ SubItems:
   Speed: 12m
   Skills: Perception +1
   Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: géant
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#zimwi
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -65496,6 +66531,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->géant<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->4 (1 100PX)<!--/Challenge-->
 
 
@@ -65542,6 +66581,8 @@ SubItems:
 
     Senses: vision dans le noir 18 m, Perception passive 11
 
+    Languages: géant
+
     Challenge: 4 (1 100PX)
 
 - !MonsterItem
@@ -65556,11 +66597,11 @@ SubItems:
   Speed: 9 m, vol 15 m, nage 9 m
   SavingThrows: Con +9, Sag +8, Cha +6
   Skills: Perception +8
-  DamageResistances: de froid, de feu
-  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, vision dans le noir 27 m, Perception passive 18
   Languages: commun, draconique, elfique, sylvestre
   Challenge: 14 (11 500PX)
+  DamageResistances: de froid, de feu
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#zmey
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -65780,11 +66821,11 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 105 (14d8 + 42), régénération 5/round
   Speed: 9 m, nage 6 m
-  DamageResistances: de froid, de feu
-  ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique, sylvestre
   Challenge: 5 (1 800PX)
+  DamageResistances: de froid, de feu
+  ConditionImmunities: inconscient, paralysé
   Id: tome_of_beasts.md#bébécéphale-de-zmey
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -66101,7 +67142,9 @@ SubItems:
   ArmorClass: 17 (armure d'écailles)
   HitPoints: 91 (14d8 + 28)
   Speed: 9m
+  Skills: Perception +2
   Senses: Perception passive 12
+  Languages: une seule (généralement le commun)
   Challenge: 4 (450PX)
   Id: tome_of_beasts.md#capitaine-du-guet
   ParentLink: tome_of_beasts.md#livre-des-monstres
@@ -66154,7 +67197,15 @@ SubItems:
 
 
 
+      - **Compétence** <!--Skills-->Perception +2<!--/Skills-->
+
+
+
       - **Sens** <!--Senses-->Perception passive 12<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->une seule (généralement le commun)<!--/Languages-->
 
 
 
@@ -66224,7 +67275,11 @@ SubItems:
 
     Speed: 9m
 
+    Skills: Perception +2
+
     Senses: Perception passive 12
+
+    Languages: une seule (généralement le commun)
 
     Challenge: 4 (450PX)
 
@@ -66240,10 +67295,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Int +5, Sag +8, Cha +5
   Skills: Arcanes +5, Histoire +5, Religion +5, Supercherie +5
-  DamageResistances: de froid, de feu et de foudre
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: trois au choix
   Challenge: 8 (3 900PX)
+  DamageResistances: de froid, de feu et de foudre
   Id: tome_of_beasts.md#chef-du-culte-de-lordre-dÉmeraude
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -66627,11 +67682,12 @@ SubItems:
   HitPoints: 97 (15d8 + 30)
   Speed: 9m
   Skills: Athlétisme +6, Discrétion +5, Dressage +3, Perception +3
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: commun
+  Challenge: 6 (2 300PX)
   DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#chevalier-fantôme
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -66700,6 +67756,10 @@ SubItems:
 
 
       - **Sens** <!--Senses-->vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+
+
+
+      - **Langue** <!--Languages-->commun<!--/Languages-->
 
 
 
@@ -66790,6 +67850,8 @@ SubItems:
     ConditionImmunities: charmé, empoisonné, épuisé
 
     Senses: vision dans le noir 18 m, Perception passive 13
+
+    Languages: commun
 
     Challenge: 6 (2 300PX)
 
@@ -66962,9 +68024,10 @@ SubItems:
   HitPoints: 19 (3d8 + 6)
   Speed: 9m
   Skills: Discrétion +4, Dressage +2, Perception +3, Supercherie +2
-  DamageResistances: de poison
   Senses: Perception passive 15 Langue commun
+  Languages: commun
   Challenge: 1/2 (100 PX)
+  DamageResistances: de poison
   Id: tome_of_beasts.md#fanatique-du-scorpion
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -67028,6 +68091,10 @@ SubItems:
 
 
 
+      - **Langue** <!--Languages-->commun<!--/Languages-->
+
+
+
       - **Dangerosité** <!--Challenge-->1/2 (100 PX)<!--/Challenge-->
 
 
@@ -67062,58 +68129,6 @@ SubItems:
 
 
 
-      un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
-
-
-
-
-
-      **_Bâton aux anneaux focaliseur._** Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
-
-
-
-
-
-      **_Incantation._** Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
-
-
-
-
-
-      **Tours de magie (à volonté)** : main du mage, poigne électrique, trait de feu, viser juste
-
-
-
-
-
-      **Niveau 1 (4 emplacements)** : bouclier, projectile magique, repli expéditif, vague tonnante
-
-
-
-
-
-      **Niveau 2 (3 emplacements)** : pas brumeux, toile d'araignée
-
-
-
-
-
-      **Niveau 3 (3 emplacements)** : boule de feu, contresort, vol
-
-
-
-
-
-      **Niveau 4 (3 emplacements)** : invisibilité supérieure, tempête de grêle
-
-
-
-
-
-      **Niveau 5 (1 emplacement)** : cône de froid
-
-
-
     Source: (LDM p422)
 
     Type: Humanoïde
@@ -67134,6 +68149,8 @@ SubItems:
 
     Senses: Perception passive 15 Langue commun
 
+    Languages: commun
+
     Challenge: 1/2 (100 PX)
 
 - !MonsterItem
@@ -67148,10 +68165,10 @@ SubItems:
   Speed: 9m
   SavingThrows: Int +7, Con +4, Sag +4
   Skills: Arcanes +7, Histoire +7
-  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, nain
   Challenge: 7 (2 900PX)
+  DamageResistances: de poison
   Id: tome_of_beasts.md#mage-des-anneaux-nains
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -67235,7 +68252,55 @@ SubItems:
 
 
 
-      **_Magie des anneaux._** Le mage des anneaux peut intégrer un sort ayant comme portée "personnelle" ou "contact" dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise
+      **_Magie des anneaux._** Le mage des anneaux peut intégrer un sort ayant comme portée "personnelle" ou "contact" dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
+
+
+
+
+
+      **_Bâton aux anneaux focaliseur._** Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
+
+
+
+
+
+      **_Incantation._** Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
+
+
+
+
+
+      **Tours de magie (à volonté)** : main du mage, poigne électrique, trait de feu, viser juste
+
+
+
+
+
+      **Niveau 1 (4 emplacements)** : bouclier, projectile magique, repli expéditif, vague tonnante
+
+
+
+
+
+      **Niveau 2 (3 emplacements)** : pas brumeux, toile d'araignée
+
+
+
+
+
+      **Niveau 3 (3 emplacements)** : boule de feu, contresort, vol
+
+
+
+
+
+      **Niveau 4 (3 emplacements)** : invisibilité supérieure, tempête de grêle
+
+
+
+
+
+      **Niveau 5 (1 emplacement)** : cône de froid
 
 
 
@@ -67452,11 +68517,11 @@ SubItems:
   Speed: 7,50m
   SavingThrows: Con +6, Int +7, Cha +10
   Skills: Arcanes +7, Histoire +7, Persuasion +10, Supercherie+10
-  DamageResistances: de froid, de feu, de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
-  ConditionImmunities: empoisonné
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, infernal, gnome
   Challenge: 9 (5 000PX)
+  DamageResistances: de froid, de feu, de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
+  ConditionImmunities: empoisonné
   Id: tome_of_beasts.md#prince-gnome-asservi-aux-démons
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -67965,8 +69030,7 @@ AttributesDictionary: >+
 
 **_Permutation de formes._** Par une action bonus, un nihileth peut passer de sa forme matérielle à sa forme éthérée et vice versa à volonté.
 
-**_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché:
-15(3d6+5) dégâts contondants.
+**_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché: 15(3d6+5) dégâts contondants.
 
 **_Servitude (3 / jour):_** Un nihileth peut cibler une créature qu'il peut voir et qui se trouve dans un rayon de 9 mètres. La cible doit réussir un jet de sauvegarde de Sagesse DD14 ou se trouver magiquement charmée par le nihileth jusqu'à ce que ce dernier meure ou se trouve sur un plan d'existence différent de sa cible. La cible charmée se trouve sous le contrôle du nihileth et ne peut pas utiliser de réactions. Le nihileth et la cible peuvent communiquer entre eux par télépathie sans limite de distance. À chaque fois que la cible charmée subit des dégâts, elle peut retenter son jet de sauvegarde. En cas de succès, l'effet se termine. Une fois toutes les 24 heures, si elle se trouve à au moins 1,50kilomètre du nihileth, la cible peut également tenter de refaire le jet de sauvegarde.
 
@@ -67986,7 +69050,15 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 ## ACTIONS D'ANTRE
 
+À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), un nihileth peut effectuer une action d’antre afin de créer un effet magique comme s’il était un aboleth, ou utiliser l’action absorption du Vide détaillée ci-dessous. Le nihileth ne peut pas utiliser le même effet deux rounds de suite.
+
+* Absorption du Vide. Un nihileth peut puiser dans l’énergie vitale de ceux qu’il a convertis en zombis nihilethiques pour regagner de la vie. Ce pouvoir lui permet de puiser 18 (6d6) points de vie auprès des zombis qui se trouvent dans un rayon de 9 mètres de lui. Ces points sont séparés équitablement entre les zombis et permettent de soigner le nihileth. Si un zombi est réduit à 0 point de vie à cause de cette action, il meurt et ne fait pas de jet le sauvegarde permis par Robustesse de la non-vie.
+
 ## EFFETS RÉGIONAUX
+
+Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’un aboleth, à l’exception du point suivant.
+
+* Les sources d’eau qui se trouvent dans un rayon de 1,50 kilomètre de l’antre d’un nihileth sont non seulement souillées surnaturellement par sa présence, mais peuvent également propager sa maladie. Une créature qui boit une telle eau doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver infectée.
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -68018,9 +69090,7 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 ## ACTIONS
 
-**_Coup (uniquement sous forme_** matérielle). _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50m, une cible. Touché: 4 (1d6+1) dégâts contondants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou tomber malade. Cette maladie a peu d'effet pendant 1minute; pendant ce laps de temps, elle peut être guérie à l'aide de bénédiction, de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors pas récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison
-ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10minutes. Si une créature meurt alors qu'elle est affectée par cette maladie,
-elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth qui contrôle déjà le zombi qui lui a transmis la maladie.
+**_Coup (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50m, une cible. Touché: 4 (1d6+1) dégâts contondants et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou tomber malade. Cette maladie a peu d'effet pendant 1minute; pendant ce laps de temps, elle peut être guérie à l'aide de bénédiction, de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors pas récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10minutes. Si une créature meurt alors qu'elle est affectée par cette maladie, elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth qui contrôle déjà le zombi qui lui a transmis la maladie.
 
 **_Contact flétrissant (uniquement sous forme éthérée)._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50 m, une cible. Touché: 4 (1d6+1) dégâts nécrotiques.
 
@@ -68039,7 +69109,7 @@ elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zomb
 # Ala
 
 - Source: (LDM p11)
--  Fée de taille Moyenne,
+-  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 127 (15d8+60)
 - **Vitesse** 9m, vol12m
@@ -68141,13 +69211,32 @@ elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zomb
 
 ## ACTIONS
 
-**_Lance._** Attaque d'arme au corps à corps ou à distance: +3 pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-4(1d6+1)dégâts perforants ou 5(1d8+1)dégâts perforants si elle est utilisée à deux mains pour porter une attaque de corps à corps.
+**_Lance._** Attaque d'arme au corps à corps ou à distance: +3 pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 4(1d6+1)dégâts perforants ou 5(1d8+1)dégâts perforants si elle est utilisée à deux mains pour porter une attaque de corps à corps.
 
 **_Arc court._** Attaque d'arme à distance: +5 pour toucher, portée 24/94m, une cible. Touché: 6 (1d6+3)dégâts perforants.
 
+> [Livre des monstres](tome_of_beasts.md)
+
+---
+
+# Gardienne des bocages Alséide
+
+- Source: (LDM p13)
+-  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 71 (13d8+13)
+- **Vitesse** 12m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|13 (+1)|17 (+3)|12 (+1)|8 (-1)|16 (+3)|8 (-1)|
+
+- **Compétences** Discrétion +5, Nature +3, Perception +5, Survie +5
+- **Sens** vision dans le noir 18m, Perception passive 15
+- **Langues** commun, elfique, sylvestre, druidique
+- **Dangerosité** 3 (700 PX)
+
+**_Amie des bois._** Quand une alséide est dans une forêt, elle ne laisse pas de trace et sait automatiquement où se trouve le vrai nord.
 
 **_Incantation._** Une gardienne des bocages est un lanceur de sort de niveau5. Sa caractéristique d'incantation est la Sagesse (DDde sauvegarde contre les sorts13, +5pour toucher avec une attaque de sort). Voici les sorts de druide qu'elle a préparés:
 
@@ -68158,9 +69247,12 @@ elle revient 2d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zomb
 **Niveau2 (3 emplacements):** messager animal, chauffer le métal,
 
 **Niveau 3 (2 emplacements):** appel de la foudre, dissipation de la magie
-Remplacez l'action lance de l'alséide par la suivante:
+
+## ACTIONS
 
 **_Bâton._** _Attaque d'arme au corps à corps :_ +3 pour toucher (+5 avec gourdin magique ), allonge 1,50m, une créature.
+
+**_Arc court._** Attaque d'arme à distance: +5 pour toucher, portée 24/94m, une cible. Touché: 6 (1d6+3)dégâts perforants.
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -68305,8 +69397,7 @@ Remplacez l'action lance de l'alséide par la suivante:
 - **Langues** toutes les langues qu'il connaissait de son vivant
 - **Dangerosité** 6 (2300 PX)
 
-**_Regard d'agonie._** Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9mètres de celui-ci et que l'angatra n'est pas neutralisé et peut voir la créature, alors celle-ci doit faire un jet de sauvegarde de Charisme DD13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce jet de sauvegarde en détournant les yeux au début de son tour. Une créature qui
-détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le jet de sauvegarde.
+**_Regard d'agonie._** Quand une créature qui peut voir les yeux d'un angatra commence son tour à moins de 9mètres de celui-ci et que l'angatra n'est pas neutralisé et peut voir la créature, alors celle-ci doit faire un jet de sauvegarde de Charisme DD13. Sur un échec, le seuil de douleur de la créature est abaissé, ce qui a pour effet de la rendre vulnérable à tous les types de dégâts jusqu'au début de son prochain tour. À moins qu'elle soit surprise, la créature peut éviter d'avoir à faire ce jet de sauvegarde en détournant les yeux au début de son tour. Une créature qui détourne le regard ne peut pas voir l'angatra pendant un round complet, au terme duquel elle doit décider si elle veut continuer de détourner le regard. Si la créature regarde en direction de l'angatra entre-temps, elle doit immédiatement accomplir le jet de sauvegarde.
 
 **_Courroux des ancêtres._** Un angatra reconnaît immédiatement les individus qui descendent de sa tribu. Il est avantagé à ses jets d'attaque contre ces créatures, et ces dernières sont désavantagées à leurs jets de sauvegarde contre les effets des traits et des attaques de l'angatra.
 
@@ -68346,8 +69437,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Attaques multiples._** L'ange enchaîné porte deux attaques à l'aide de son épée à deux mains enflammée.
 
-**_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché:
-11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu.
+**_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché: 11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu.
 
 **_Gloire déchue (Recharge 5-6)._** Toutes les créatures qui se trouvent dans un rayon de 15mètres d'un ange enchaîné et dans son champ de vision subissent 19 (3d12)dégâts radiants et se trouvent jetées à terre. Elles subissent moitié moins de dégâts et ne sont pas jetées à terre si elles réussissent un jet de sauvegarde de Force DD15.
 
@@ -68396,8 +69486,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Armes magiques._** Les attaques d'arme d'un ange sont magiques quand il se trouve sous sa forme d'aigle.
 
-**_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation
-1/jour pour le rejoindre.
+**_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation 1/jour pour le rejoindre.
 
 **_Fidélité à toute épreuve._** Les anges fidèles ne se séparent jamais volontairement de leur compagnon. Aucun effet magique ou pouvoir ne peut pousser un ange fidèle à agir contre son compagnon et aucun effet de charme ou de domination ne peut réussir à les éloigner ou changer les sentiments d'amour et de loyauté qu'ils éprouvent l'un envers l'autre.
 
@@ -68409,11 +69498,9 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Arc long +1 (uniquement sous forme de mortel ou d'ange)._**
 
-**_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-9(1d8+ 5) dégâts perforants.
+**_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 9(1d8+ 5) dégâts perforants.
 
-**_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-12 (2d6+5)dégâts tranchants.
+**_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 12 (2d6+5)dégâts tranchants.
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -68436,6 +69523,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
 - **Sens** vision dans le noir 18m, perception des vibrations 9, Perception passive 11
+- **Langue** primordial
 - **Dangerosité** 2 (450 PX)
 
 **_Marche du sable._** Au lieu de bouger, la forme humanoïde d'un anubien peut se fragmenter en un tas de sable et se reformer à un autre emplacement inoccupé dans un rayon de 3mètres. Ce déplacement ne provoque pas d'attaque d'opportunité. Après avoir utilisé ce trait dans un terrain sablonneux, l'anubien peut se cacher dans le cadre de son déplacement, même s'il est en train d'être observé. Les anubiens peuvent utiliser leur marche du sable pour passer sous des portes ou traverser des obstacles similaires, pour peu que ceux-ci soient percés d'une ouverture assez large pour permettre le passage de sable.
@@ -68578,11 +69666,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d10+28)
-- **Vitesse** 9 m, fouissement 6 m 16(2d10+5) dégâts perforant plus 13 (3d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 13 réussi.
-
-## RÉACTIONS
-
-**_Trappe à embuscade._** Quand une créature passe au-dessus du terrier caché d'une araignée des sables, cette dernière peut utiliser sa réaction pour attaquer cette créature avec deux attaques de pattes empaleuses. La créature est considérée comme surprise vis-à-vis de ces deux attaques. Si l'une de ces attaques touche, ou les deux, et que la cible est une créature de taille Moyenne ou inférieure, l'araignée et la cible entament un test de Force en opposition. Si la cible l'emporte, elle peut s'éloigner immédiatement de l'araignée de 1,50 mètre. En cas d'égalité, elle est empoignée (évasion DD 15). Si l'araignée gagne, elle empoigne la cible et la traîne dans son antre sur 9 mètres. Si la créature est encore empoignée au début du prochain tour de l'araignée, elle est à la place entravée. Une fois entravée, elle peut fuir si elle utilise une action et réussit un test de Force (Athlétisme) DD 15.
+- **Vitesse** 9 m, fouissement 6 m
 
 |FOR|DEX|CON|INT|SAG|CHA|
 |---|---|---|---|---|---|
@@ -68601,10 +69685,13 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Attaques multiples._** L'araignée des sables fait deux attaques avec ses pattes empaleuses et une de morsure
 
-**_Pattes empaleuses._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 3m, une cible. Touché:
-11 (1d12+5) dégâts perforants. Si l'araignée des sables réussit un coup critique avec cette attaque, lancez les dés de dégâts trois fois au lieu de deux. Si les deux attaques de pattes empaleuses touchent la même cible, le second coup inflige 11 (1d12+5) dégâts perforants supplémentaires.
+**_Pattes empaleuses._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 3m, une cible. Touché: 11 (1d12+5) dégâts perforants. Si l'araignée des sables réussit un coup critique avec cette attaque, lancez les dés de dégâts trois fois au lieu de deux. Si les deux attaques de pattes empaleuses touchent la même cible, le second coup inflige 11 (1d12+5) dégâts perforants supplémentaires.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une créature. Touché:
+**_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une créature. Touché: 16(2d10+5) dégâts perforant plus 13 (3d8) dégâts de poison, ou la moitié des dégâts de poison sur un jet de sauvegarde de Constitution DD 13 réussi.
+
+## RÉACTIONS
+
+**_Trappe à embuscade._** Quand une créature passe au-dessus du terrier caché d'une araignée des sables, cette dernière peut utiliser sa réaction pour attaquer cette créature avec deux attaques de pattes empaleuses. La créature est considérée comme surprise vis-à-vis de ces deux attaques. Si l'une de ces attaques touche, ou les deux, et que la cible est une créature de taille Moyenne ou inférieure, l'araignée et la cible entament un test de Force en opposition. Si la cible l'emporte, elle peut s'éloigner immédiatement de l'araignée de 1,50 mètre. En cas d'égalité, elle est empoignée (évasion DD 15). Si l'araignée gagne, elle empoigne la cible et la traîne dans son antre sur 9 mètres. Si la créature est encore empoignée au début du prochain tour de l'araignée, elle est à la place entravée. Une fois entravée, elle peut fuir si elle utilise une action et réussit un test de Force (Athlétisme) DD 15.
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -68699,6 +69786,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 |---|---|---|---|---|---|
 |10 (+0)|12 (+1)|12 (+1)|3 (–4)|10 (+0)|1 (–5)|
 
+- **Compétence** Discrétion +3
 - **Résistance aux dégâts** de feu
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
@@ -68771,6 +69859,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 |26 (+8)|10 (+0)|18 (+4)|2 (–4)|11 (+0)|6 (–2)|
 
 - **Jets de sauvegarde** Con +7, Sag +3, Cha +1
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** de poison, psychiques ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 13
@@ -68855,6 +69944,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 - **Compétences** Acrobaties +4, Discrétion +4, Perception +3
 - **Sens** vision dans le noir 18m, Perception passive 13
+- **Langue** géant
 - **Dangerosité** 5 (1800 PX)
 
 **_Pattes d'araignée._** Un asanbosam peut escalader des surfaces difficiles et même évoluer tête en bas au plafond sans avoir besoin de faire de test de caractéristique.
@@ -68885,6 +69975,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 |---|---|---|---|---|---|
 |12 (+1)|16 (+3)|15 (+2)|6 (–2)|12 (+1)|14 (+2)|
 
+- **Compétence** Discrétion +5
 - **Résistance aux dégâts** contondants et nécrotiques
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, empoisonné
@@ -68953,6 +70044,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 - **Compétences** Perception +5
 - **Sens** vision dans le noir 18m, Perception passive 15
+- **Langue** commun
 - **Dangerosité** 3 (700 PX)
 
 **_Huile thérapeutique._** Par une action, un bagiennik peut automatiquement stabiliser une créature mourante en étaler une partie de sa sécrétion huileuse sur la chair de celle-ci. S'il accomplit le même geste sur une créature déjà stable ou qui possède au moins 1point de vie, cette huile a le même effet qu'une potion de soin et restaure 2d4+2points de vie à la créature. Alternativement, la sécrétion du bagiennik peut avoir le même effet que le sort restauration inférieure . Toute créature qui reçoit l'huile thérapeutique d'un bagiennik doit cependant réussir un jet de sauvegarde de Constitution DD13 ou être ralentie pendant 1minute.
@@ -69027,8 +70119,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50m, une cible. Touché: 6 (1d6+3) dégâts perforants.
 
-**_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché:
-5(1d4+3) dégâts perforants.
+**_Épieu._** Attaque d'arme au corps à corps ou à distance: +5pour toucher, allonge 1,50m ou portée 6/18m, une cible. Touché: 5(1d4+3) dégâts perforants.
 
 **_Souffle de feu (Recharge 6)._** Un behtu crache du feu dans un cône de 4,50mètres. Chaque créature qui se trouve dans la zone d'effet subit 21 (5d8)dégâts de feu, ou moitié moins de dégâts si elle réussit un jet de sauvegarde de Dextérité DD13.
 
@@ -69097,6 +70188,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 5 (1 800PX)
 
 **_Cheveux agrippants._** Les cheveux d'une belle noyée attaquent comme s'ils étaient trois membres séparés. Chacun peut ainsi être pris pour cible (CA 19; 15 points de vie; immunité contre les dégâts nécrotiques, de poison et psychiques; résistance aux dégâts contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent). Une mèche de cheveux peut être brisée par une créature si celle-ci, par une action, réussit un test de Force DD 15 contre elle.
@@ -69165,6 +70257,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 |20 (+5)|18 (+4)|17 (+3)|14 (+2)|14 (+2)|19 (+4)|
 
 - **Jets de sauvegarde** Dex +7, Con +6
+- **Compétence** Discrétion +7
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** commun, elfique, umbral, langue du Vide
 - **Dangerosité** 7 (2 900PX)
@@ -69209,6 +70302,7 @@ détourne le regard ne peut pas voir l'angatra pendant un round complet, au term
 
 - **Compétences** Intimidation +3
 - **Sens** vision dans le noir 18m, Perception passive 11
+- **Langue** géant
 - **Dangerosité** 8 (3900 PX)
 
 **_Compulsion carnivore._** Si un blemmye voit une créature neutralisée, il doit faire un jet de sauvegarde de Sagesse DD11. Sur un échec, il ne peut résister à la tentation de se déplacer vers cette créature pour l'attaquer.
@@ -69421,8 +70515,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 **_Métamorphe._** Un bouda peut utiliser une action pour se métamorphoser en humain, en hyène, ou pour prendre sa forme véritable, qui est celle d'un hybride entre une hyène et un humanoïde. Ses statistiques sont les même pour toutes ses formes, sauf en ce qui concerne son attaque de griffe méphitique. Tout équipement qu'il porte n'est pas transformé. Quand un bouda est détruit, il reprend sa forme véritable avant de tomber en poussière.
 
-**_Macule avilissante (1/jour)._** Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50mètre. Toute créature vivante qui se trouve dans un rayon de 9mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD15 contre le poison ou se trouver empoisonnée pendant 1d6rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la
-macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une macule persiste pendant une semaine.
+**_Macule avilissante (1/jour)._** Un bouda peut sécréter une dégoûtante substance d'un jaune blanchâtre, visqueuse comme du goudron, afin de marquer sa nourriture et son territoire. Par une action bonus, un bouda marque un unique emplacement, objet ou créature sans défense qui se trouve dans un rayon de 1,50mètre. Toute créature vivante qui se trouve dans un rayon de 9mètres de la macule au début de son tour doit réussir un jet de sauvegarde de Constitution DD15 contre le poison ou se trouver empoisonnée pendant 1d6rounds. Une créature qui réussit son jet de sauvegarde est immunisée à la macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une macule persiste pendant une semaine.
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un bouda est le Charisme (DD du jet de sauvegarde contre les sorts13, +5 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants sans utiliser de composante matérielle:
 
@@ -69602,8 +70695,7 @@ macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une mac
 
 **À volonté:** changement de plan, détection des pensées, épargner, immobiliser un humanoïde, les mourants modifier son apparence
 
-**3/jour :** guérison, protection contre le poison, rayon empoisonné
-18(4d8), soin des blessures 21 (4d8+3)
+**3/jour :** guérison, protection contre le poison, rayon empoisonné 18(4d8), soin des blessures 21 (4d8+3)
 
 **1/jour:** doigt de mort
 
@@ -69611,8 +70703,7 @@ macule avilissante de ce bouda pendant 24heures. La puanteur que dégage une mac
 
 **_Attaques multiples._** Un cambium porte quatre attaques de doigts- aiguilles.
 
-**_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une
-réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
+**_Doigts-aiguilles._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3 m, une cible. Touché: 21 (3d10+5) dégâts perforants. En outre, la cible doit faire un jet de sauvegarde de Constitution DD 19 ; sur un échec, le cambium lui inflige soit une réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut faire ce jet de sauvegarde qu'une fois par tour, même si elle reçoit plus d'une attaque de doigts-aiguilles.
 
 **_Réduction de caractéristique (3/jour)._** Si la cible de l'attaque de doigts-aiguilles d'un Cambium échoue à son jet de sauvegarde de Constitution, elle subit une réduction de 1d4 points de caractéristique (choisie par le cambium) jusqu'à ce qu'elle ait terminé un repos long. Si cet effet réduit la valeur d'une de ses caractéristiques à 0, la créature sombre dans l'inconscience jusqu'à ce qu'elle ait regagné au moins 1 point.
 
@@ -69674,6 +70765,7 @@ réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut
 |---|---|---|---|---|---|
 |21 (+5)|14 (+2)|20 (+5)|2 (-4)|10 (+0)|2 (-4)|
 
+- **Jet de sauvegarde** Con +11
 - **Sens** vision aveugle 9 m, Perception passive 10
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)
@@ -69877,6 +70969,7 @@ réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut
 
 - **Compétences** Perception +3, Discrétion +5
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** sylvestre
 - **Dangerosité** 2 (450PX)
 
 **_Amphibie._** Un chien-anguille peut respirer à l'air libre et sous l'eau.
@@ -69947,15 +71040,11 @@ réduction de caractéristiques, soit un dérèglement humoral. La cible ne peut
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)
 
-**_État calme._** Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. Taille Petite ;
-
-**PV** 9 (6d6 – 12) ; Vitesse 6 m ; FOR 8 (–1) ; CON 6 (–2) ; Langues
-commun, sylvestre
+**_État calme._** Un chiot mastodonte calme et sans peur utilise les statistiques suivantes au lieu des précédentes. **Taille** Petite ; **PV** 9 (6d6 – 12) ; **Vitesse** 6 m ; **FOR** 8 (–1) ; **CON** 6 (–2) ; **Langues** commun, sylvestre
 
 **_Sens médiocres._** Le chiot mastodonte est myope et entend mal. Sous une lumière faible ou normale, il voit jusqu'à 9 mètres et entend les bruits dans un rayon de 18 mètres.
 
-**_Émotions déchaînées._** Quand le chiot mastodonte se sent menacé (si quelqu'un le touche, l'intimide, l'accule, l'attaque ou si un étranger se place adjacent à lui), il passe immédiatement de la taille Petite à Très Grande en réaction. Si le chiot a été attaqué, la réaction se produit après l'attaque, mais avant d'appliquer les dégâts. Les créatures et objets alentour sont repoussés dans l'emplacement vide le plus proche et doivent réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Les armes, armures et autres objets que porte ou transporte le chiot grandissent (et rétrécissent) proportionnellement quand il change de taille. Submergé par une vague d'émotions brutes, il se met à détruire tout ce qu'il voit (c'est-à-dire pas grand-chose) et tout ce qui se trouve à portée (c'est-à-dire beaucoup de choses). La transformat ion persiste jusqu'à ce que le chiot ne perçoive plus de créature pendant 1 round, qu'il tombe à 0 point de vie, qu'il reçoive 5 niveaux d'épuisement ou qu'il soit affecté par apaisement des émotions
-ou une magie similaire. La transformation n'est pas totalement incontrôlable : une créature ou une personne que le chiot connaît et en qui il a confiance peut se tenir à côté de lui sans déclencher de réaction. Si les conditions sont particulièrement défavorables, comme dans une zone très peuplée, la transformation du chiot peut durer des jours.
+**_Émotions déchaînées._** Quand le chiot mastodonte se sent menacé (si quelqu'un le touche, l'intimide, l'accule, l'attaque ou si un étranger se place adjacent à lui), il passe immédiatement de la taille Petite à Très Grande en réaction. Si le chiot a été attaqué, la réaction se produit après l'attaque, mais avant d'appliquer les dégâts. Les créatures et objets alentour sont repoussés dans l'emplacement vide le plus proche et doivent réussir un jet de sauvegarde de Force DD 15 ou tomber à terre. Les armes, armures et autres objets que porte ou transporte le chiot grandissent (et rétrécissent) proportionnellement quand il change de taille. Submergé par une vague d'émotions brutes, il se met à détruire tout ce qu'il voit (c'est-à-dire pas grand-chose) et tout ce qui se trouve à portée (c'est-à-dire beaucoup de choses). La transformat ion persiste jusqu'à ce que le chiot ne perçoive plus de créature pendant 1 round, qu'il tombe à 0 point de vie, qu'il reçoive 5 niveaux d'épuisement ou qu'il soit affecté par apaisement des émotions ou une magie similaire. La transformation n'est pas totalement incontrôlable : une créature ou une personne que le chiot connaît et en qui il a confiance peut se tenir à côté de lui sans déclencher de réaction. Si les conditions sont particulièrement défavorables, comme dans une zone très peuplée, la transformation du chiot peut durer des jours.
 
 ## ACTIONS
 
@@ -70084,6 +71173,7 @@ ou une magie similaire. La transformation n'est pas totalement incontrôlable : 
 |---|---|---|---|---|---|
 |13 (+1)|12 (+1)|16 (+3)|10 (+0)|8 (-1)|16 (+3)|
 
+- **Jet de sauvegarde** Con +5
 - **Compétences** Discrétion +3, Perception +1,
 - **Immunité contre les états** empoisonné et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 11
@@ -70621,6 +71711,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 - **Immunité contre les dégâts** contondants, d'acide, de foudre
 - **Immunité contre les états** aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
 - **Sens** vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
+- **Langue** aucune sous sa forme naturelle ; connaît les mêmes que la créature qu’il domine.
 - **Dangerosité** 4 (1 100PX)
 
 **_Informe._** Le démon de sève peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.
@@ -70706,6 +71797,7 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 |14 (+2)|17 (+3)|19 (+4)|13 (+1)|16 (+3)|20 (+5)|
 
 - **Jets de sauvegarde** Dex +7, Sag +7
+- **Compétence** Perception +7
 - **Résistance aux dégâts** de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les dégâts** de feu, radiants, de poison
 - **Immunité contre les états** aveuglé et empoisonné
@@ -70820,6 +71912,13 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 
 **_Foudroiement (Recharge 5-6)._** Un rübezahl peut faire apparaître un éclair crépitant dans le ciel, ou dans l'air s'il se trouve sous terre ou à l'intérieur, et diriger celui-ci afin qu'il frappe un point que le rübezahl peut voir dans un rayon de 45 m. Toutes les créatures qui se trouvent dans un rayon de 6m autour du point d'impact subissent 36 (8d8) dégâts de foudre, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 16. Si une créature échoue à son jet de sauvegarde, elle est étourdie jusqu'au début du prochain tour du rübezahl.
 
+> [Livre des monstres](tome_of_beasts.md)
+
+---
+
+# Akyishigal, seigneur démon des cafards
+
+- Source: (LDM p84)
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 138 (12d10+72)
@@ -70830,6 +71929,7 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 |21 (+5)|17 (+3)|22 (+6)|19 (+4)|14 (+2)|24 (+7)|
 
 - **Jets de sauvegarde** For +9, Dex+7, Con +10, Sag +6, Cha +11
+- **Compétences** Acrobaties +11, Athlétisme +9, Discrétion +11, Perception +6
 - **Résistance aux dégâts** d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les dégâts** de froid, de foudre, de poison
 - **Immunité contre l'état** empoisonné
@@ -70855,8 +71955,7 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3 m, une cible. Touché:
 
-**_Manteau de nuées (Recharge 5–6)._** Akyishigal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont désavantagées et Akyishigal peut voir dans toutes les directions (par les yeux des
-insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akyishigal subit 11 (2d10) dégâts perforants plus 10 (3d6) dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également empoisonnée pendant 1heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akyishigal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est empoisonné par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.
+**_Manteau de nuées (Recharge 5–6)._** Akyishigal s'entoure d'un nuage d'insectes volants munis de dards, qui émergent de sa bouche, de ses yeux et des plaies qui marquent sa peau. Ce nuage l'entoure sur une distance de 1,50 mètre. Quand le manteau est actif, toutes les attaques qui le ciblent sont désavantagées et Akyishigal peut voir dans toutes les directions (par les yeux des insectes). Toute créature vivante qui commence son tour dans un rayon de 1,50 m d'Akyishigal subit 11 (2d10) dégâts perforants plus 10 (3d6) dégâts de poison, ou moitié moins de dégâts de poison si elle réussit un jet de sauvegarde de Constitution DD 17. Si elle le rate, elle est également empoisonnée pendant 1heure. La nuée persiste pendant 5 rounds. Elle se dissipe instantanément si Akyishigal subit 30 dégâts d'une attaque qui n'est pas faite avec une arme et contre laquelle il n'est pas résistant. Quand un personnage est empoisonné par le manteau de nuées, il se dégage de lui une puanteur de charogne. Toute vermine qui n'est pas sous le contrôle d'une créature attaque ce personnage dès qu'elle le voit et en priorité par rapport aux autres cibles.
 
 ## ACTIONS LÉGENDAIRES.
 
@@ -70866,8 +71965,7 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 
 **_Déplacement frénétique._** Akyishigal combine une attaque avec un déplacement de 6 mètres au maximum, comme s'il utilisait une action de repli, et il ne provoque pas d'attaque d'opportunité.
 
-**_Incantation (coûte 2 actions)._** Akyishigal lance fléau d'insectes
-avec son pouvoir d'incantation innée.
+**_Incantation (coûte 2 actions)._** Akyishigal lance fléau d'insectes avec son pouvoir d'incantation innée.
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -70885,6 +71983,7 @@ avec son pouvoir d'incantation innée.
 |---|---|---|---|---|---|
 |15 (+2)|13 (+1)|19 (+4)|10 (+0)|11 (+0)|12 (+1)|
 
+- **Jet de sauvegarde** Dex +4
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10
@@ -71044,6 +72143,7 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 |---|---|---|---|---|---|
 |12 (+1)|16 (+3)|10 (+0)|2 (-4)|13 (+1)|6 (-2)|
 
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 13
@@ -71244,6 +72344,7 @@ Qorgeth peut faire 3 actions légendaires parmi celles proposées ci- dessous. I
 |1 (-5)|1 (-5)|6 (-2)|6 (-2)|12 (+1)|20 (+5)|
 
 - **Jets de sauvegarde** Sag +3, Cha +7
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** psychiques
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 13
@@ -71284,6 +72385,7 @@ Qorgeth peut faire 3 actions légendaires parmi celles proposées ci- dessous. I
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** paralysé, empoisonné, étourdi, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 13 Langue infernal
+- **Langue** infernal
 - **Dangerosité** 7 (2 900PX)
 
 **_Lié au lanceur de sorts._** Quand un dévoreur d'âmes est invoqué, il crée un lien mental entre son invocateur et lui. Si la cible assignée au dévoreur d'âmes (voir le pouvoir trouver la cible) meurt avant qu'il ne puisse drainer son âme ou si elle le vainc sans le tuer, il retourne aussi vite que possible auprès de son invocateur et attaque ce dernier. Tant qu'ils sont tous deux sur le même plan, le dévoreur peut utiliser le pouvoir trouver la cible pour le localiser.
@@ -71375,10 +72477,12 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 |---|---|---|---|---|---|
 |18 (+4)|15 (+2)|15 (+2)|10 (+0)|13 (+1)|12 (+1)|
 
+- **Jet de sauvegarde** Sag +4
 - **Compétences** Discrétion +5, Perception +4
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14
+- **Langue** infernal
 - **Dangerosité** 5 (1 800PX)
 
 **_Esprit de ruche._** Les rejetons d'Arbeyach et tous les autres membres de leur ruche partagent un lien qui leur accorde une perception accrue. Ainsi, tant qu'un rejeton se trouve dans un rayon de 18 mètres d'au moins un de ses camarades de ruche, il est avantagé lors de ses jets d'initiative et à ses tests de Sagesse(Perception). Si un rejeton prend conscience d'un danger, tous les autres membres de la ruche en ont conscience également. Au début d'une rencontre, aucun des rejetons qui partagent un esprit de ruche ne peut être surpris, sauf si tous les membres de la ruche le sont.
@@ -71573,7 +72677,7 @@ Totivillus peut faire 3 actions légendaires, parmi celles proposées ci- dessou
 
 # Diable Automate
 
-- Source: (LDM p)
+- Source: (LDM p105)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
@@ -71623,7 +72727,7 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 
 # Chort
 
-- Source: (LDM p)
+- Source: (LDM p107)
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (15d8+120)
@@ -71720,7 +72824,7 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 
 # Diable D'Encre
 
-- Source: (LDM p)
+- Source: (LDM p109)
 -  Fiélon (diable) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d6+12)
@@ -71814,7 +72918,7 @@ Certains diables de sel possèdent une action qui leur permet de convoquer d'aut
 
 # Diable Doré
 
-- Source: (LDM p)
+- Source: (LDM p111)
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (armure de pièces)
 - **Points de vie** 112 (15d8+45)
@@ -71872,7 +72976,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Koralk (Diable Moissonneur)
 
-- Source: (LDM p)
+- Source: (LDM p112)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -71968,7 +73072,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Diable Orobas
 
-- Source: (LDM p)
+- Source: (LDM p115)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 261 (14d10+126)
@@ -71999,8 +73103,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 **Constant:** détection du mal et du bien
 
-**À volonté:** augure, protection contre le mal et le bien, téléportation
-(seulement personnelle plus 25 kg d'objets)
+**À volonté:** augure, protection contre le mal et le bien, téléportation (seulement personnelle plus 25 kg d'objets)
 
 **5/jour chacun** : boule de feu, jeter une malédiction, rayon ardent
 
@@ -72027,7 +73130,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Mbielu
 
-- Source: (LDM p)
+- Source: (LDM p117)
 -  Bête de Très Grande taille (TG), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
@@ -72037,6 +73140,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 |---|---|---|---|---|---|
 |19 (+4)|14 (+2)|16 (+3)|2 (-4)|12 (+1)|6 (-2)|
 
+- **Compétence** Perception +3
 - **Sens** Perception passive 13
 - **Langues** —
 - **Dangerosité** 3 (700 PX)
@@ -72090,7 +73194,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Spinosaure
 
-- Source: (LDM p)
+- Source: (LDM p119)
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
@@ -72147,6 +73251,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 |---|---|---|---|---|---|
 |23 (+6)|11 (+0)|19 (+4)|2 (-4)|11 (+0)|8 (-1)|
 
+- **Compétence** Perception +3
 - **Sens** Perception passive 13
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)
@@ -72167,7 +73272,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Dipsa
 
-- Source: (LDM p)
+- Source: (LDM p121)
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15
 - **Points de vie** 27 (6d4+12)
@@ -72215,6 +73320,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, empoisonné, épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 7 (2 900PX)
 
 **_Pattes d'araignée._** Un dissimortuum peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.
@@ -72233,7 +73339,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Domovoï
 
-- Source: (LDM p)
+- Source: (LDM p123)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
@@ -72277,6 +73383,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 |---|---|---|---|---|---|
 |2 (-4)|17 (+3)|14 (+2)|2 (-4)|13 (+1)|2 (-4)|
 
+- **Jet de sauvegarde** Dex +5
+- **Compétence** Discrétion +5
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —
 - **Dangerosité** 2 (450PX)
@@ -72297,7 +73405,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Dorreq
 
-- Source: (LDM p)
+- Source: (LDM p125)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (17d8+17)
@@ -72311,6 +73419,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - **Compétences** Discrétion +8, Intimidation +2, Perception +3
 - **Résistance aux dégâts** d'acide, de froid, de foudre
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** langue du Vide
 - **Dangerosité** 4 (1 100PX)
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un dorreq est l'Intelligence (DD du jet de sauvegarde contre les sorts 10). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
@@ -72390,7 +73499,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Flammes, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p127)
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -72579,7 +73688,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Mithral, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p131)
 -  Dragon de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 92 (16d8+20)
@@ -72620,7 +73729,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Mithral, Vénérable
 
-- Source: (LDM p)
+- Source: (LDM p131)
 -  Dragon de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
@@ -72704,7 +73813,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Des Cavernes, Adulte
 
-- Source: (LDM p)
+- Source: (LDM p133)
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
@@ -72772,7 +73881,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Des Cavernes, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p135)
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -72787,6 +73896,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - **Immunité contre les dégâts** d'acide, de poison et de tonnerre
 - **Immunité contre l'état** empoisonné
 - **Sens** vision aveugle 36 m, Perception passive 12
+- **Langue** draconique
 - **Dangerosité** 2 (450PX)
 
 **_Fouisseur._** Un dragon des cavernes est capable de creuser à travers la pierre solide en se déplaçant de la moitié de sa vitesse de fouissement. Il laisse derrière lui un tunnel de 1,50 mètre de large sur 1,50 mètre de haut.
@@ -72807,7 +73917,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Des Cavernes, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p135)
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -72918,7 +74028,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vent, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p137)
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 45 (7d8+14)
@@ -72948,7 +74058,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vent, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p137)
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (16d10+62)
@@ -73123,7 +74233,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vide, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p141)
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
@@ -73164,7 +74274,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vide, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p141)
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -73367,7 +74477,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Marin, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p145)
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
@@ -73404,7 +74514,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Marin, Vénérable
 
-- Source: (LDM p)
+- Source: (LDM p145)
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
@@ -73461,7 +74571,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Murène Dragon
 
-- Source: (LDM p)
+- Source: (LDM p147)
 -  Dragon de Très Grande taille (TG), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)
@@ -73536,7 +74646,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Drake De Cendres
 
-- Source: (LDM p)
+- Source: (LDM p149)
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 117 (18d6+54)
@@ -73546,6 +74656,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|16 (+3)|9 (-1)|15 (+2)|10 (+0)|
 
+- **Jet de sauvegarde** Dex +4
+- **Compétence** Discrétion +4
 - **Résistance aux dégâts** de feu
 - **Immunité contre les états** inconscient, paralysé
 - **Sens** vision dans le noir 18 m, Perception passive 12
@@ -73581,9 +74693,11 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 |19 (+4)|17(+3)|18 (+4)|10 (+0)|13 (+1)|10 (+0)|
 
 - **Jets de sauvegarde** Dex+6
+- **Compétences** Acrobaties +6, Discrétion +6, Perception +4
 - **Résistance aux dégâts** de froid
 - **Immunité contre les états** à terre, empoisonné, inconscient, paralysé
 - **Sens** vision dans le noir 36 m, Perception passive 17
+- **Langue** draconique
 - **Dangerosité** 7 (2 900PX)
 
 **_Camouflage._** La couleur et la forme d'un drake de corail lui confèrent une discrétion accrue et il se trouve ainsi avantagé lors de tous ses tests de Discrétion quand il se trouve sous l'eau.
@@ -73608,7 +74722,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Drake De Papier
 
-- Source: (LDM p)
+- Source: (LDM p151)
 -  Dragon de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d6+36)
@@ -73680,7 +74794,7 @@ ou une magie comparable.
 
 # Ancien Drake Des Ombres
 
-- Source: (LDM p)
+- Source: (LDM p153)
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -73759,7 +74873,7 @@ ou une magie comparable.
 
 # Drake Des Tavernes.
 
-- Source: (LDM p)
+- Source: (LDM p155)
 -  Dragon Très Petite taille, chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 65 (10d4+40)
@@ -73769,6 +74883,7 @@ ou une magie comparable.
 |---|---|---|---|---|---|
 |7 (-2)|16 (+3)|19 (+4)|11 (+0)|12 (+1)|16 (+3)|
 
+- **Jet de sauvegarde** Dex +5
 - **Compétences** Perspicacité +3, Persuasion +5, Supercherie +5
 - **Immunité contre les états** inconscient, paralysé
 - **Sens** vision dans le noir 18 m, Perception passive 11
@@ -73811,6 +74926,7 @@ ou une magie comparable.
 |---|---|---|---|---|---|
 |10 (+0)|14 (+2)|14 (+2)|8 (-1)|9 (-1)|14 (+2)|
 
+- **Jet de sauvegarde** Dex +4
 - **Compétences** Acrobaties +4, Perception +1
 - **Immunité contre les dégâts** de feu
 - **Immunité contre les états** inconscient, paralysé
@@ -73836,7 +74952,7 @@ ou une magie comparable.
 
 # Drake Stellaire
 
-- Source: (LDM p)
+- Source: (LDM p157)
 -  Dragon de Grande taille (G), neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 189 (18d10+90)
@@ -73933,7 +75049,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Dryade Épine-Du-Crépuscule
 
-- Source: (LDM p)
+- Source: (LDM p159)
 -  Fée de taille Moyenne (M), chaotique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
@@ -74030,7 +75146,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Eala
 
-- Source: (LDM p)
+- Source: (LDM p161)
 -  Créature monstrueuse de Petite taille (P), non-alignée
 - **Classe d'armure** 15 (naturelle)
 - **Points de vie** 40 (9d6+9)
@@ -74040,6 +75156,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 |---|---|---|---|---|---|
 |10 (+0)|16 (+3)|12 (+1)|2 (−4)|12 (+1)|16 (+3)|
 
+- **Jet de sauvegarde** Dex +5
 - **Immunité contre les dégâts** de feu
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —
@@ -74077,6 +75194,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
 - **Sens** vision aveugle 18 m, Perception passive 11
+- **Langue** commun mais ne peut pas parler
 - **Dangerosité** 4 (1 100PX)
 
 **_Reconstitution._** S'il est détruit, un edimmu se relève de nouveau d'entre les morts au bout de 2d4 jours. Afin de le détruire de manière définitive, il faut enterrer ses restes mortels de manière appropriée sur une terre consacrée ou sanctifiée. Les edimmus s'éloignent rarement de plus de 1,50 kilomètre de l'endroit de leur mort.
@@ -74093,7 +75211,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Einherjar
 
-- Source: (LDM p)
+- Source: (LDM p163)
 -  Humanoïde de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (cotte de mailles et bouclier)
 - **Points de vie** 119 (14d8+56)
@@ -74410,7 +75528,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 
 # Enfant Des Bruyères
 
-- Source: (LDM p)
+- Source: (LDM p171)
 -  Plante de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 50 (20d4)
@@ -74520,7 +75638,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 
 # Esclave Putresprit
 
-- Source: (LDM p)
+- Source: (LDM p173)
 -  Plante de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
@@ -74530,6 +75648,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 |---|---|---|---|---|---|
 |15 (+2)|14 (+2)|17 (+3)|11 (+0)|14 (+2)|6 (–2)|
 
+- **Jet de sauvegarde** Con +5
 - **Résistance aux dégâts** contondants et perforants issus d'armes non magiques
 - **Immunité contre les dégâts** d'acide, de poison
 - **Immunité contre les états** charmé, terrorisé, empoisonné
@@ -74565,9 +75684,11 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 |---|---|---|---|---|---|
 |7 (–2)|18 (+4)|10 (+0)|4 (–3)|16 (+3)|6 (–2)|
 
+- **Compétence** Perception +5
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** primordial
 - **Dangerosité** 2 (450PX)
 
 **_Caché par la lueur du feu._** Quand il se trouve dans une zone éclairée seulement par des flammes non magiques, un esprit du feu gagne un bonus de +2 à ses tests de Discrétion. Ce bonus devient +4 quand il se cache dans le feu.
@@ -74592,7 +75713,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 
 # Étincelle
 
-- Source: (LDM p)
+- Source: (LDM p175)
 -  Élémentaire de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d4+52)
@@ -74602,6 +75723,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 |---|---|---|---|---|---|
 |4 (–3)|20 (+5)|18 (+4)|10 (+0)|12 (+1)|17 (+3)|
 
+- **Jet de sauvegarde** Dex +8
 - **Immunité contre les dégâts** de foudre
 - **Résistance aux dégâts** d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient
@@ -74676,7 +75798,7 @@ réussir un jet de sauvegarde de Charisme DD 15 ou se trouver dans l'état charm
 
 # Far Darrig
 
-- Source: (LDM p)
+- Source: (LDM p177)
 -  Fée de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 104 (16d6+48)
@@ -75181,7 +76303,7 @@ un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie 
 
 # Férocien
 
-- Source: (LDM p)
+- Source: (LDM p195)
 -  Bête de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (1d10+60)
@@ -75192,6 +76314,7 @@ un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie 
 |22 (+6)|14 (+2)|22 (+6)|2 (–4)|10 (+0)|13 (+1)|
 
 - **Jets de sauvegarde** Dex +5, Con +9
+- **Compétence** Perception +3
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 13
@@ -75226,6 +76349,7 @@ un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie 
 |14 (+2)|16 (+3)|12 (+1)|14 (+2)|12 (+1)|18 (+4)|
 
 - **Jets de sauvegarde** Dex+6, Sag +4, Cha+7
+- **Compétence** Perception +4
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 14
@@ -75260,7 +76384,7 @@ un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie 
 
 # Fils De Fenris
 
-- Source: (LDM p)
+- Source: (LDM p197)
 -  Créature monstrueuse de Très Grande taille (TG), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
@@ -75366,7 +76490,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Fourmi Géante
 
-- Source: (LDM p)
+- Source: (LDM p199)
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d10+14)
@@ -75396,7 +76520,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Reine Fourmi Géante
 
-- Source: (LDM p)
+- Source: (LDM p199)
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -75438,8 +76562,10 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 |---|---|---|---|---|---|
 |8 (−1)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|7 (−2)|
 
+- **Compétence** Discrétion +4
 - **Immunité contre les dégâts** de froid
 - **Sens** Perception passive 10
+- **Langue** sylvestre
 - **Dangerosité** 1/2 (50 PX)
 
 **_Marcheur du givre._** Un terrain rocheux, enneigé ou glacé n'a pas d'impact sur la vitesse d'un fraughashar. Il n'a jamais besoin de faire de test de Dextérité pour se déplacer ou éviter de tomber à terre si le sol est couvert de neige ou de glace.
@@ -75460,7 +76586,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Gardien Spectral
 
-- Source: (LDM p)
+- Source: (LDM p201)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 110 (13d8+52)
@@ -75547,7 +76673,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Géant Du Désert
 
-- Source: (LDM p)
+- Source: (LDM p203)
 -  Géant de Très Grande taille (TG), neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
@@ -75709,7 +76835,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Géant Obèse
 
-- Source: (LDM p)
+- Source: (LDM p207)
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -75719,6 +76845,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |20 (+5)|6 (–2)|16 (+3)|9 (–1)|13 (+1)|8 (–1)|
 
+- **Jet de sauvegarde** Con +5
+- **Compétence** Perception +3
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** Perception passive 13
@@ -75775,7 +76903,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Génie Al-Aeshma
 
-- Source: (LDM p)
+- Source: (LDM p209)
 -  Élémentaire de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 172 (15d10+90)
@@ -75855,7 +76983,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Gobelin Poussiéreux
 
-- Source: (LDM p)
+- Source: (LDM p211)
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
@@ -75865,6 +76993,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |8 (−1)|16 (+3)|14 (+2)|10 (+0)|8 (−1)|8 (−1)|
 
+- **Compétence** Discrétion +7
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 9
 - **Langues** commun, gobelin
@@ -75930,7 +77059,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem De Sel
 
-- Source: (LDM p)
+- Source: (LDM p213)
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (11d10+55)
 - **Vitesse** 6 m
@@ -75939,6 +77068,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |20 (+5)|9 (–1)|20 (+5)|3 (–4)|11 (+0)|1 (–5)|
 
+- **Compétence** Athlétisme +9
 - **Immunité contre les dégâts** de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 36 m, Perception passive 10
@@ -75975,6 +77105,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 |---|---|---|---|---|---|
 |22 (+6)|9 (–1)|20 (+5)|5 (–3)|11 (+0)|1 (–5)|
 
+- **Compétence** Perception +8
 - **Immunité contre les dégâts** de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
 - **Sens** vision parfaite 36 m, Perception passive 18
@@ -76005,7 +77136,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem Smaragdin
 
-- Source: (LDM p)
+- Source: (LDM p215)
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
 - **Vitesse** 9m
@@ -76082,7 +77213,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Goule Darakhule
 
-- Source: (LDM p)
+- Source: (LDM p217)
   Mort-vivant de taille Moyenne, neutre mauvais
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)
 - **Points de vie** 78 (12d8+24)
@@ -76160,7 +77291,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Empereur Des Goules
 
-- Source: (LDM p)
+- Source: (LDM p219)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 204 (24d8+96)
@@ -76277,7 +77408,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 # Goule Mendiante
 
-- Source: (LDM p)
+- Source: (LDM p223)
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
@@ -76290,6 +77421,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, épuisé, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun des profondeurs
 - **Dangerosité** 1/2 (100 PX)
 
 **_Tactique de meute._** La goule mendiante est avantagée sur les jets d'attaque contre une créature si au moins l'un de ses alliés non neutralisé se trouve dans un rayon de 1,50 mètre autour de cette créature.
@@ -76377,8 +77509,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 ## ACTIONS
 
-**_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché:
-3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
+**_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché: 3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
 
 ## RÉACTION
 
@@ -76390,7 +77521,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 # Gremlin Rhumé
 
-- Source: (LDM p)
+- Source: (LDM p227)
 -  Fée de Très Petite taille  (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
@@ -76400,8 +77531,10 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 |---|---|---|---|---|---|
 |10 (+0)|16 (+3)|14 (+2)|12 (+1)|9 (–1)|12 (+1)|
 
+- **Compétence** Discrétion +5
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 36 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Incantation innée._** Le gremlin utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 11). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
@@ -76471,7 +77604,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 # Guenaude Miroir
 
-- Source: (LDM p)
+- Source: (LDM p229)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
@@ -76484,6 +77617,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 - **Résistance aux dégâts** de tonnerre
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Incantation innée._** La guenaude utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :
@@ -76558,7 +77692,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 # Guenaude Sanglante
 
-- Source: (LDM p)
+- Source: (LDM p231)
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 178 (21d8+84)
@@ -76660,7 +77794,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # Habitant De Leng
 
-- Source: (LDM p)
+- Source: (LDM p233)
 -  Humanoïde de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 68 (8d8+32)
@@ -76747,7 +77881,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # Haugbui
 
-- Source: (LDM p)
+- Source: (LDM p235)
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -76847,7 +77981,7 @@ jets de sauvegarde physiques, peut traverser n'importe quel fossé ou ouverture,
 
 # Héraut Du Sang
 
-- Source: (LDM p)
+- Source: (LDM p237)
 -  Fiélon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 115 (10d12+50)
@@ -76911,6 +78045,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - **Jets de sauvegarde** Dex +4, Con +2
 - **Compétences** Acrobaties +4, Discrétion +6
 - **Sens** vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
+- **Langue** commun
 - **Dangerosité** 1/4 (50 PX)
 
 **_Résistant._** L'escarmoucheur est avantagé lors des jets de sauvegarde de Constitution.
@@ -76942,6 +78077,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - **Jets de sauvegarde** Dex +5, Con +3
 - **Compétences** Acrobaties +5, Discrétion +7
 - **Sens** vision dans le noir 18 m, perception des vibrations 3 m, Perception passive 9
+- **Langue** commun
 - **Dangerosité** 2 (450PX)
 
 **_Résistant._** Comme l'escarmoucheur homme-cafard.
@@ -76962,7 +78098,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # Homme-Chèvre
 
-- Source: (LDM p)
+- Source: (LDM p239)
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
@@ -77042,7 +78178,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Croasseur Funeste Homme-Corbeau
 
-- Source: (LDM p)
+- Source: (LDM p241)
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 88 (16d8+16)
@@ -77120,7 +78256,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Lémurien
 
-- Source: (LDM p)
+- Source: (LDM p243)
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 14 (4d6)
@@ -77152,7 +78288,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Lémurien Fourrure Grise
 
-- Source: (LDM p)
+- Source: (LDM p243)
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Classe d'armure** 13 (16 avec armure du mage )
 - **Points de vie** 67 (15d6+15)
@@ -77230,7 +78366,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Rat
 
-- Source: (LDM p)
+- Source: (LDM p245)
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 7 (2d6)
@@ -77240,7 +78376,9 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 |---|---|---|---|---|---|
 |7 (-2)|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|
 
+- **Compétence** Perception +2
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 1/4 (50 PX)
 
 **_Agilité._** L'homme-rat peut traverser l'emplacement qu'occupe une créature de taille Moyenne ou supérieure.
@@ -77259,7 +78397,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Roublard Homme-Rat
 
-- Source: (LDM p)
+- Source: (LDM p245)
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 18 (4d6+4)
@@ -77309,6 +78447,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - **Jets de sauvegarde** Dex+12
 - **Compétences** Athlétisme +8, Perception +6, Discrétion +8
 - **Sens** vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 20
+- **Langue** comprend le commun des profondeurs
 - **Dangerosité** 9 (5 000PX)
 
 **_Discrétion dans les ombres._** Un horakh peut se cacher par une action bonus s'il se trouve dans une faible lumière ou dans les ténèbres.
@@ -77331,7 +78470,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Hundun
 
-- Source: (LDM p)
+- Source: (LDM p247)
 -  Céleste de Grande taille (G), chaotique bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -77409,6 +78548,7 @@ l'obligeant à créer un objet magique de qualité.
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** télépathie à 18 m
 - **Dangerosité** 8 (3 900PX)
 
 **_Aura d'apostasie._** La présence de l'idole divine fait douter les fidèles dévoués de leur foi. Un clerc ou un paladin qui voit l'idole et désire lancer un sort ou utiliser un pouvoir de classe doit réussir un jet de sauvegarde de Sagesse DD 16. En cas d'échec, le sort ou le pouvoir est dépensé, mais n'a aucun effet.
@@ -77431,7 +78571,7 @@ l'obligeant à créer un objet magique de qualité.
 
 # Imy-Ut Ushabti
 
-- Source: (LDM p)
+- Source: (LDM p249)
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 97 (15d8+30)
@@ -77446,6 +78586,7 @@ l'obligeant à créer un objet magique de qualité.
 - **Résistance aux dégâts** contondants
 - **Immunité contre les états** épuisé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun (ancien nurien)
 - **Dangerosité** 3 (700 PX)
 
 **_Régénération._** L'imy-ut ushabti récupère 5 points de vie au début de son tour s'il lui reste au moins 1 point de vie.
@@ -77515,7 +78656,7 @@ l'obligeant à créer un objet magique de qualité.
 
 # Jaculus
 
-- Source: (LDM p)
+- Source: (LDM p251)
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 65 (10d6+30)
@@ -77579,7 +78720,7 @@ l'obligeant à créer un objet magique de qualité.
 
 # Kikimore
 
-- Source: (LDM p)
+- Source: (LDM p253)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
@@ -77629,6 +78770,7 @@ l'obligeant à créer un objet magique de qualité.
 |---|---|---|---|---|---|
 |7 (−2)|16 (+3)|15 (+2)|16 (+3)|9 (−1)|8 (−1)|
 
+- **Jet de sauvegarde** Dex +5
 - **Compétences** Arcanes +5, Médecine +3
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
@@ -77701,7 +78843,7 @@ l'obligeant à créer un objet magique de qualité.
 
 # Forgepiège Kobold
 
-- Source: (LDM p)
+- Source: (LDM p257)
 -  Humanoïde de Petite taille (P), loyal neutre
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 36 (8d6+8)
@@ -77711,6 +78853,7 @@ l'obligeant à créer un objet magique de qualité.
 |---|---|---|---|---|---|
 |7 (−2)|16 (+3)|12 (+1)|16 (+3)|13 (+1)|8 (−1)|
 
+- **Compétence** Discrétion +5
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** commun, draconique
 - **Dangerosité** 1 (200 PX)
@@ -77749,6 +78892,7 @@ l'obligeant à créer un objet magique de qualité.
 |---|---|---|---|---|---|
 |19 (+4)|18 (+4)|14 (+2)|2 (−4)|10 (+0)|7 (–2)|
 
+- **Compétence** Perception +3
 - **Sens** Perception passive 13
 - **Langues** —
 - **Dangerosité** 5 (1 800PX)
@@ -77773,7 +78917,7 @@ l'obligeant à créer un objet magique de qualité.
 
 # Koschei
 
-- Source: (LDM p)
+- Source: (LDM p259)
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
@@ -77836,7 +78980,7 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 
 # Kot Bayun
 
-- Source: (LDM p)
+- Source: (LDM p261)
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15
 - **Points de vie** 44 (8d8+8)
@@ -77846,6 +78990,7 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 |---|---|---|---|---|---|
 |16 (+3)|16 (+3)|13 (+1)|12 (+1)|16 (+3)|17 (+3)|
 
+- **Jet de sauvegarde** Dex +5
 - **Sens** vision dans le noir 18 m, Perception passive 13
 - **Langues** commun, sylvestre
 - **Dangerosité** 2 (450PX)
@@ -77921,7 +79066,7 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 
 # Larve Stellaire De Cthulhu
 
-- Source: (LDM p)
+- Source: (LDM p263)
 -  Fiélon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)
@@ -78003,7 +79148,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 # Lente Tempête
 
-- Source: (LDM p)
+- Source: (LDM p265)
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19
 - **Points de vie** 225 (18d12+108)
@@ -78053,7 +79198,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 # Cavalier De Baba Yaga, Base
 
-- Source: (LDM p)
+- Source: (LDM p267)
 -  Fée de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 20 (harnois et bouclier)
 - **Points de vie** 171 (18d8+90)
@@ -78117,6 +79262,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** épuisé et empoisonné
 - **Sens** vision aveugle 30 m, Perception passive 14
+- **Langue** comprend le darakhul
 - **Dangerosité** 4 (1 100PX)
 
 **_Odorat et ouïe aiguisés._** La liche canine est avantagée sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.
@@ -78137,7 +79283,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 # Likho
 
-- Source: (LDM p)
+- Source: (LDM p269)
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -78190,6 +79336,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 |14 (+2)|12 (+1)|18 (+4)|3 (−4)|12 (+1)|12 (+1)|
 
 - **Jets de sauvegarde** Sag +4, Cha +4
+- **Compétence** Discrétion +4
 - **Résistance aux dégâts** d'acide, nécrotiques
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre
@@ -78215,7 +79362,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 # Linceul
 
-- Source: (LDM p)
+- Source: (LDM p271)
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d8)
@@ -78225,11 +79372,13 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 |---|---|---|---|---|---|
 |4 (–3)|13 (+1)|10 (+0)|2 (–4)|10 (+0)|8 (–1)|
 
+- **Compétence** Discrétion +3
 - **Vulnérabilité aux dégâts** radiants
 - **Résistance aux dégâts** d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/8 (25 PX)
 
 **_Informe._** Le linceul peut traverser un espace étroit d'au minimum 2,5 cm de large sans se faufiler.
@@ -78290,7 +79439,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 # Liosalfar
 
-- Source: (LDM p)
+- Source: (LDM p273)
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 17
 - **Points de vie** 110 (20d10)
@@ -78355,6 +79504,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 - **Immunité contre les dégâts** d'acide, de froid, de feu, de foudre, de poison, de tonnerre ; contondants, perforants et tranchants infligés par des armes non magiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
 - **Sens** vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
+- **Langue** primordial
 - **Dangerosité** 17 (18 000PX)
 
 **_Résistance à la magie._** Un locus élémentaire est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -78379,7 +79529,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 # Lorelei
 
-- Source: (LDM p)
+- Source: (LDM p275)
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 76 (9d8+36)
@@ -78438,7 +79588,9 @@ dès qu'elle est en contact avec une étendue d'eau.
 |---|---|---|---|---|---|
 |19 (+4)|12 (+1)|19 (+4)|12 (+1)|14 (+2)|10 (+0)|
 
+- **Compétence** Survie +5
 - **Sens** Perception passive 12
+- **Langue** loxodan
 - **Dangerosité** 6 (2 300PX)
 
 **_Charge écrasante._** Si le loxoda se déplace d'au moins 6mètres en ligne droite vers une créature de Grande taille ou supérieure et lui porte une attaque de pas pesant, il est avantagé sur cette dernière. Si cette attaque touche, la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle tombe à terre.
@@ -78459,7 +79611,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Lynx Vaporeux
 
-- Source: (LDM p)
+- Source: (LDM p277)
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -78533,7 +79685,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 # Mallqui
 
-- Source: (LDM p)
+- Source: (LDM p279)
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
@@ -78593,6 +79745,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 |19 (+4)|19 (+4)|16 (+3)|14 (+2)|13 (+1)|14 (+2)|
 
 - **Jets de sauvegarde** Dex +7, Con +6, Sag +4, Cha +5
+- **Compétence** Perception +4
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langues** commun, géant, homme-corbeau, sylvestre
 - **Dangerosité** 6 (2 300PX)
@@ -78625,7 +79778,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 # Mamura
 
-- Source: (LDM p)
+- Source: (LDM p281)
 -  Aberration (fée) de Petite taille (P), neutre mauvaise.
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d6+52)
@@ -78676,9 +79829,11 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 |---|---|---|---|---|---|
 |18 (+4)|12 (+1)|14 (+2)|18 (+4)|16 (+3)|9 (–1)|
 
+- **Jet de sauvegarde** Con +5
 - **Compétences** Arcanes +7, Histoire +7, Perspicacité+6, Religion +7
 - **Immunité contre les états** charmé, inconscient
 - **Sens** vision parfaite 18m, Perception passive 13
+- **Langue** télépathie 30 m
 - **Dangerosité** 6 (2 300PX)
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un mangedestin est l'Intelligence (DD du jet de sauvegarde contre les sorts 15). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
@@ -78699,7 +79854,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 # Mangepoussière (Yakat-Shi)
 
-- Source: (LDM p)
+- Source: (LDM p283)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 114 (12d8+60)
@@ -78788,7 +79943,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 # Manteau Vide
 
-- Source: (LDM p)
+- Source: (LDM p285)
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d8)
@@ -78799,6 +79954,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 |18 (+4)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|1 (–5)|
 
 - **Jets de sauvegarde** Dex +4, Con +2
+- **Compétence** Discrétion +4
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** contondants
 - **Immunité contre les dégâts** de poison
@@ -78858,7 +80014,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 # Marchand De Sable
 
-- Source: (LDM p)
+- Source: (LDM p287)
 -  Céleste de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 82 (11d8+33)
@@ -78942,7 +80098,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 # Mavka
 
-- Source: (LDM p)
+- Source: (LDM p289)
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d8+80)
@@ -79030,7 +80186,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 
 # Araignée Tisseuse Mécanique
 
-- Source: (LDM p)
+- Source: (LDM p291)
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 25 (10d4)
@@ -79043,6 +80199,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** comprend le commun
 - **Dangerosité** 1 (200 PX)
 
 **_Forme immuable._** Une araignée tisseuse mécanique est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -79080,6 +80237,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** comprend le commun
 - **Dangerosité** 3 (700 PX)
 
 **_Forme immuable._** Un chasseur mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -79102,7 +80260,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 
 # Chien Mécanique
 
-- Source: (LDM p)
+- Source: (LDM p293)
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
@@ -79117,6 +80275,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** comprend le commun
 - **Dangerosité** 2 (450PX)
 
 **_Forme immuable._** Un chien mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -79149,10 +80308,12 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 |---|---|---|---|---|---|
 |14 (+2)|12 (+1)|12 (+1)|5 (-3)|10 (+0)|1 (-5)|
 
+- **Jet de sauvegarde** Con +3
 - **Compétences** Athlétisme+4, Perception+4
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Forme immuable._** Un gendarme mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -79173,7 +80334,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 
 # Myrmidon Mécanique
 
-- Source: (LDM p)
+- Source: (LDM p295)
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -79188,6 +80349,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 16
+- **Langue** comprend le commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Forme immuable._** Un myrmidon mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
@@ -79224,6 +80386,8 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 |---|---|---|---|---|---|
 |8 (-1)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|7 (-2)|
 
+- **Jet de sauvegarde** Dex +5
+- **Compétence** Discrétion +5
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 11
@@ -79244,7 +80408,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 
 # Mèche Vivante
 
-- Source: (LDM p)
+- Source: (LDM p297)
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)
@@ -79312,7 +80476,7 @@ créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination su
 
 # Mélasse
 
-- Source: (LDM p)
+- Source: (LDM p299)
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (4d4+12)
@@ -79383,7 +80547,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Millitaure
 
-- Source: (LDM p)
+- Source: (LDM p301)
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -79397,6 +80561,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - **Résistance aux dégâts** de poison; contondants et tranchants issus d'armes non magiques
 - **Immunité contre l'état** à terre
 - **Sens** vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 3 (700 PX)
 
 ## ACTIONS
@@ -79445,7 +80610,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Mimique Des Dunes
 
-- Source: (LDM p)
+- Source: (LDM p303)
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
@@ -79455,6 +80620,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 |---|---|---|---|---|---|
 |20 (+5)|8 (-1)|18 (+4)|9 (-1)|13 (+1)|10 (+0)|
 
+- **Compétence** Perception +4
 - **Immunité contre les dégâts** d'acide
 - **Immunité contre l'état** à terre
 - **Sens** vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 14
@@ -79524,7 +80690,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Mngwa
 
-- Source: (LDM p)
+- Source: (LDM p305)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16
 - **Points de vie** 91 (14d8+28)
@@ -79600,7 +80766,7 @@ dépassent leurs compétences.
 
 # Momie Venimeuse
 
-- Source: (LDM p)
+- Source: (LDM p307)
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
@@ -79667,7 +80833,7 @@ dépassent leurs compétences.
 
 # Valet Monolithique
 
-- Source: (LDM p)
+- Source: (LDM p309)
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 60 (8d10+16)
@@ -79741,7 +80907,7 @@ dépassent leurs compétences.
 
 # Morphoï
 
-- Source: (LDM p)
+- Source: (LDM p311)
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 13 (parfois plus avec une armure)
 - **Points de vie** 33 (6d8+6)
@@ -79752,6 +80918,7 @@ dépassent leurs compétences.
 |11 (+0)|16 (+3)|13 (+1)|14 (+2)|10 (+0)|15 (+2)|
 
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Amphibie._** Le morphoï respire à l'air libre et sous l'eau.
@@ -79815,7 +80982,7 @@ dépassent leurs compétences.
 
 # Mousse Luminescente Des Cavernes
 
-- Source: (LDM p)
+- Source: (LDM p313)
 -  Plante de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
@@ -79855,10 +81022,12 @@ dépassent leurs compétences.
 |---|---|---|---|---|---|
 |15 (+2)|10 (+0)|12 (+1)|10 (+0)|12 (+1)|10 (+0)|
 
+- **Compétence** Discrétion +4
 - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, terrorisé, empoisonné, étourdi, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 2 (450PX)
 
 ## ACTIONS
@@ -79877,7 +81046,7 @@ dépassent leurs compétences.
 
 # Naïna
 
-- Source: (LDM p)
+- Source: (LDM p315)
 -  Dragon (métamorphe) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
@@ -79983,7 +81152,7 @@ dépassent leurs compétences.
 
 # Nécrophore
 
-- Source: (LDM p)
+- Source: (LDM p317)
 -  Bête de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -80063,7 +81232,7 @@ dépassent leurs compétences.
 
 # Nkosi
 
-- Source: (LDM p)
+- Source: (LDM p319)
 -  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 11 (2d8+2)
@@ -80073,7 +81242,9 @@ dépassent leurs compétences.
 |---|---|---|---|---|---|
 |16 (+3)|16 (+3)|12 (+1)|10 (+0)|10 (+0)|8 (–1)|
 
+- **Compétence** Survie +2
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Métamorphe._** Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
@@ -80096,7 +81267,7 @@ dépassent leurs compétences.
 
 # Chef De Meute Nkosi
 
-- Source: (LDM p)
+- Source: (LDM p319)
 -  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 93 (17d8+17)
@@ -80106,7 +81277,9 @@ dépassent leurs compétences.
 |---|---|---|---|---|---|
 |18 (+4)|18 (+4)|12 (+1)|10 (+0)|10 (+0)|14 (+2)|
 
+- **Compétence** Survie +2
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 4 (1 100PX)
 
 **_Métamorphe._** Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.
@@ -80129,6 +81302,13 @@ dépassent leurs compétences.
 
 **_Rugissement du chef de meute (recharge après un court ou_** un long repos) . Chaque nkosi que choisit le chef de meute et qui se trouve dans un rayon de 9 mètres autour de lui peut immédiatement utiliser sa réaction pour faire une attaque de morsure. Le chef de meute peut ensuite faire une attaque de morsure par une action bonus.
 
+> [Livre des monstres](tome_of_beasts.md)
+
+---
+
+# Autruche de guerre
+
+- Source: (LDM p320)
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 11
 - **Points de vie** 42 (5d10+15)
@@ -80199,7 +81379,7 @@ dépassent leurs compétences.
 
 # Noctin
 
-- Source: (LDM p)
+- Source: (LDM p323)
 -  Humanoïde (noctin) de taille Moyenne,
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 52 (8d8+16)
@@ -80254,6 +81434,7 @@ dépassent leurs compétences.
 - **Immunité contre les dégâts** de froid
 - **Immunité contre les états** épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 36 m, Perception passive 13
+- **Langue** comprend le commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Hurlement glaçant._** La nuée hurle par une action bonus à son premier tour de combat, émettant une étrange cacophonie surnaturelle à glacer le sang. Toutes les créatures situées dans un rayon de 90 mètres qui l'entendent doivent réussir un jet de sauvegarde de Charisme DD 12, sans quoi elles sont terrorisées jusqu'au début du prochain tour de la nuée.
@@ -80274,7 +81455,7 @@ dépassent leurs compétences.
 
 # Nuée D'Yeux
 
-- Source: (LDM p)
+- Source: (LDM p325)
 -  Nuée de Grande taille d'aberrations de taille Minuscule (G), neutre
 - **Classe d'armure** 15
 - **Points de vie** 110 (13d10+39)
@@ -80319,6 +81500,7 @@ dépassent leurs compétences.
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** igné
 - **Dangerosité** 7 (2 900PX)
 
 **_Corps de feu._** Si une créature touche la nuée ou réussit une attaque de corps à corps contre elle alors qu'elle se trouve dans un rayon de 1,50 mètre, elle subit 5 (1d10) dégâts de feu. De plus, la première fois qu'une nuée entre dans l'emplacement d'une créature lors d'un tour, cette créature subit 5 (1d10) dégâts de feu et s'enflamme. Tant que personne n'a utilisé une action pour éteindre le feu, la créature subit 5 (1d10) dégâts de feu au début de chacun de ses tours.
@@ -80339,7 +81521,7 @@ dépassent leurs compétences.
 
 # Nuée De Papillons De Mort
 
-- Source: (LDM p)
+- Source: (LDM p327)
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (11d10)
@@ -80374,7 +81556,7 @@ dépassent leurs compétences.
 
 # Grande Nuée De Papillons De Mort
 
-- Source: (LDM p)
+- Source: (LDM p327)
 -  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (13d12)
@@ -80445,7 +81627,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 # Nuée De Scarabées Mécaniques
 
-- Source: (LDM p)
+- Source: (LDM p329)
 -  Grande nuée de créatures artificielles de Très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (8d10+8)
@@ -80502,7 +81684,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 # Nuée De Sluaghs
 
-- Source: (LDM p)
+- Source: (LDM p331)
 -  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique
 - **Classe d'armure** 13
 - **Points de vie** 54 (12d8)
@@ -80512,6 +81694,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 |---|---|---|---|---|---|
 |6 (–2)|16 (+3)|11 (+0)|6 (–2)|13 (+1)|10 (+0)|
 
+- **Compétence** Discrétion +5
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** de froid ; contondants, perforants et tranchants
 - **Immunité contre les états** charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
@@ -80573,7 +81756,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 # Œil D'Émeraude
 
-- Source: (LDM p)
+- Source: (LDM p333)
 -  Créature artificielle de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d4+24)
@@ -80657,7 +81840,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 # Ostinato
 
-- Source: (LDM p)
+- Source: (LDM p335)
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15
 - **Points de vie** 39 (6d8+12)
@@ -80667,11 +81850,13 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 |---|---|---|---|---|---|
 |1 (–5)|20 (+5)|15 (+2)|5 (−3)|12 (+1)|17 (+3)|
 
+- **Compétence** Perception +3
 - **Vulnérabilité aux dégâts** de tonnerre
 - **Résistance aux dégâts** d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** à terre, charmé, empoigné, empoisonné, épuisé, entravé, inconscient, paralysé, pétrifié
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** télépathie à 60 m
 - **Dangerosité** 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d'un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu'elle entend émane d'une entité extérieure. La symbiose auditive persiste jusqu'à ce que la cible tombe à 0point de vie, que l'ostinato y mette un terme par une action bonus ou que l'ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l'ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l'ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
 
 **_Aura vorace (1/jour)._** Tant que l'ostinato est fusionné avec un humanoïde (voir symbiose auditive), il se nourrit des créatures voisines. Il peut choisir jusqu'à 9 créatures situées dans un rayon de 18 mètres. Chacune doit réussir un jet de sauvegarde de Charisme DD 13, sans quoi elle subit 3 (1d6) dégâts nécrotiques et voit son maximum de points de vie réduit du même montant jusqu'à ce qu'elle termine un long repos. La cible meurt si son maximum de points de vie tombe à 0. Une victime remarque les dégâts de suite, mais ignore d'où ils viennent.
@@ -80738,7 +81923,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 # Pavenuée
 
-- Source: (LDM p)
+- Source: (LDM p337)
 -  Nuée de Grande taille composée de bêtes de Très Petite taille (TP), non
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 36 (8d8)
@@ -80783,6 +81968,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 |---|---|---|---|---|---|
 |23 (+6)|16 (+3)|22 (+6)|15 (+2)|14 (+2)|6 (–2)|
 
+- **Compétence** Supercherie +8
 - **Résistance aux dégâts** contondants issus d'armes non magiques
 - **Immunité contre les dégâts** d'acide
 - **Immunité contre l'état** à terre
@@ -80814,7 +82000,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 # Pombero
 
-- Source: (LDM p)
+- Source: (LDM p339)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -80826,6 +82012,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 - **Compétences** Athlétisme +5, Discrétion +5, Escamotage +5
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** sylvestre
 - **Dangerosité** 3 (700 PX)
 
 **_Voix animale._** Le pombero peut parler par magie avec n'importe quelle bête et imite les sons animaux à la perfection.
@@ -80887,7 +82074,7 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 
 # Primate Blanc
 
-- Source: (LDM p)
+- Source: (LDM p341)
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -80897,7 +82084,9 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 |---|---|---|---|---|---|
 |18 (+4)|16 (+3)|18 (+4)|8 (-1)|14 (+2)|8 (-1)|
 
+- **Compétences** Acrobaties +6, Athlétisme +7, Discrétion +6, Intimidation +2, Perception +5
 - **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Haine des lanceurs de sorts._** Le primate blanc inflige un dé de dégâts de plus (respectivement d8 ou d10) par attaque contre un ennemi s'il l'a vu lancer un sort.
@@ -80933,6 +82122,7 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, empoisonné
 - **Sens** vision dans le noir 18m, Perception passive 14
+- **Langue** comprend une langue ancienne, mais ne peut pas parler
 - **Dangerosité** 4 (1100 PX)
 
 **_Existence maudite._** Quand un profanateur maudit est réduit à 0 point de vie dans un terrain désertique, son corps se désagrège et forme un tas de sable qui est dispersé par une brusque brise sèche. Cependant, à moins qu'il ne soit tué dans un lieu sacré, par des dégâts radiants ou par une créature bénie, un profanateur maudit se reforme au prochain coucher du soleil à 1d100x 1,5kilomètres de là, dans une direction aléatoire.
@@ -80953,7 +82143,7 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 
 # Profond
 
-- Source: (LDM p)
+- Source: (LDM p343)
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 91 (14d8+28)
@@ -80988,7 +82178,7 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 
 # Archimandrite Profond
 
-- Source: (LDM p)
+- Source: (LDM p343)
 -  Humanoïde de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -81085,7 +82275,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Qwyllion
 
-- Source: (LDM p)
+- Source: (LDM p345)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
@@ -81136,6 +82326,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 - **Compétences** Arcanes +5, Investigation +5
 - **Sens** Perception passive 11
+- **Langue** commun
 - **Dangerosité** 1/4 (50 PX)
 
 **_Résistance à la magie._** Le ramag est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -81152,7 +82343,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Ratatosk
 
-- Source: (LDM p)
+- Source: (LDM p347)
 -  Céleste de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 42 (12d4+12)
@@ -81339,7 +82530,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Rôdeur Moussu
 
-- Source: (LDM p)
+- Source: (LDM p351)
 -  Humanoïde de Petite taille (P), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
@@ -81391,6 +82582,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 |---|---|---|---|---|---|
 |6 (–2)|16 (+3)|18 (+4)|11 (+0)|15 (+2)|16 (+3)|
 
+- **Compétence** Discrétion +6
 - **Résistance aux dégâts** contondants, perforants et tranchants
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé
@@ -81420,7 +82612,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Roussalka
 
-- Source: (LDM p)
+- Source: (LDM p353)
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 88 (16d8+16)
@@ -81433,6 +82625,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 - **Immunité contre les dégâts** nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** charmé, empoisonné, paralysé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Tresses desséchées._** Si la roussalka reste hors de l'eau pendant 24 heures consécutives, ses cheveux et son corps se dessèchent et il n'en reste que des herbes du marais flétries, la créature étant complètement détruite.
@@ -81493,7 +82686,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Sarcoptère
 
-- Source: (LDM p)
+- Source: (LDM p355)
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 187 (22d10+66)
@@ -81579,7 +82772,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Scorpion Nocturne
 
-- Source: (LDM p)
+- Source: (LDM p357)
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
@@ -81607,7 +82800,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Scorpion Stygien À Large Queue
 
-- Source: (LDM p)
+- Source: (LDM p357)
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 10 (4d4)
@@ -81649,6 +82842,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 - **Vulnérabilité aux dégâts** de feu
 - **Immunité contre les états** assourdi et aveuglé
 - **Sens** vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13
+- **Langue** commun
 - **Dangerosité** 7 (2 900PX)
 
 **_Marcheur vert._** Le seigneur des lianes ignore les restrictions de mouvement et les dégâts causés par des taillis naturels.
@@ -81677,7 +82871,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Marionnette Des Lianes
 
-- Source: (LDM p)
+- Source: (LDM p359)
 -  Plante de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 34 (4d8+16)
@@ -81755,7 +82949,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Vipère Du Marais
 
-- Source: (LDM p)
+- Source: (LDM p361)
 -  Bête de Petite taille (P), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 18 (4d6+4)
@@ -81781,7 +82975,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Vipère De Zanskaran
 
-- Source: (LDM p)
+- Source: (LDM p361)
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 38 (4d10+16)
@@ -81840,7 +83034,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Shabti
 
-- Source: (LDM p)
+- Source: (LDM p363)
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -81888,6 +83082,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|14 (+2)|8 (−1)|10 (+0)|16 (+3)|
 
+- **Compétence** Discrétion +4
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** comprend l'elfique et l'umbral mais ne peut pas parler
 - **Dangerosité** 2 (450PX)
@@ -81918,7 +83113,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Shoggoth
 
-- Source: (LDM p)
+- Source: (LDM p365)
 -  Aberration de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 387 (25d12+225)
@@ -81928,10 +83123,12 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 |---|---|---|---|---|---|
 |26 (+8)|14 (+2)|28 (+9)|12 (+1)|16 (+3)|13 (+1)|
 
+- **Compétence** Perception +9
 - **Résistance aux dégâts** de feu, contondants et perforants
 - **Immunité contre les dégâts** de froid, de tonnerre, tranchants
 - **Immunité contre les états** aveuglé, assourdi, à terre, étourdi, inconscient
 - **Sens** vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
+- **Langue** langue du Vide
 - **Dangerosité** 19 (22 000 PX)
 
 **_Anaérobie._** Le shoggoth n'a pas besoin d'oxygène pour vivre. Il vit aussi bien au fond de l'océan que dans le vide de l'espace.
@@ -81999,7 +83196,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Sorceleur
 
-- Source: (LDM p)
+- Source: (LDM p367)
 -  Créature artificielle de Très Petite taille (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 10 (4d4)
@@ -82076,7 +83273,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 # Gypsosphinx
 
-- Source: (LDM p)
+- Source: (LDM p369)
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 171 (18d10+72)
@@ -82140,7 +83337,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Squelette De Troll Des Lianes
 
-- Source: (LDM p)
+- Source: (LDM p371)
 -  Plante de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
@@ -82150,6 +83347,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |---|---|---|---|---|---|
 |20 (+5)|12 (+1)|16 (+3)|6 (–2)|8 (–1)|5 (–3)|
 
+- **Jet de sauvegarde** Con +12
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** assourdi, épuisé et empoisonné
@@ -82205,7 +83403,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Stryx
 
-- Source: (LDM p)
+- Source: (LDM p373)
 -  Créature monstrueuse de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 10 (4d4)
@@ -82253,6 +83451,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |22 (+6)|18 (+4)|20 (+5)|12 (+1)|16 (+3)|15 (+2)|
 
 - **Jets de sauvegarde** For +11, Dex+9, Con +10, Cha +7
+- **Compétence** Supercherie +12
 - **Résistance aux dégâts** d'acide, de feu; contondants et perforants issus d'armes non magiques
 - **Immunité contre les dégâts** de froid, de poison
 - **Immunité contre l'état** empoisonné
@@ -82282,7 +83481,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Subek
 
-- Source: (LDM p)
+- Source: (LDM p375)
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76(8d10+32)
@@ -82294,6 +83493,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 - **Compétences** Histoire +5, Investigation +5
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 5 (1 800PX)
 
 **_Retenir son souffle._** Le subek peut retenir son souffle 15 minutes.
@@ -82357,7 +83557,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Sutureuse
 
-- Source: (LDM p)
+- Source: (LDM p377)
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 7 (3d4)
@@ -82367,6 +83567,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |---|---|---|---|---|---|
 |1 (–5)|19 (+4)|10 (+0)|1 (–5)|12 (+1)|4 (–3)|
 
+- **Compétence** Discrétion +6
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —
 - **Dangerosité** 1/4 (50 PX)
@@ -82421,7 +83622,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Templier Mécaforgé
 
-- Source: (LDM p)
+- Source: (LDM p379)
 -  Humanoïde de taille Moyenne (mécaforgé) (M), loyal neutre
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 71 (11d8+22)
@@ -82436,6 +83637,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, terrorisé, épuisé, empoisonné
 - **Sens** Perception passive 13
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Zone de défense._** Le templier mécaforgé peut faire une attaque d'opportunité quand une créature entre dans sa zone d'allonge.
@@ -82513,7 +83715,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Titan Antique
 
-- Source: (LDM p)
+- Source: (LDM p381)
 -  Céleste de taille Gigantesque (titan) (Gig), neutre bon
 - **Classe d'armure** 15 (cuirasse)
 - **Points de vie** 198 (12d20+72)
@@ -82566,6 +83768,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 - **Compétences** Intimidation +1, Perception +2
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** titan
 - **Dangerosité** 8 (3 900PX)
 
 **_Résistance à la magie._** Le titan dégénéré est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
@@ -82588,7 +83791,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Titanoboa
 
-- Source: (LDM p)
+- Source: (LDM p383)
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 232 (15d20+75)
@@ -82638,6 +83841,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Immunité contre les dégâts** de feu, de froid, de poison
 - **Immunité contre les états** empoisonné, épuisé, paralysé, pétrifié, terrorisé
 - **Sens** vision dans le noir 60 m, Perception passive 13
+- **Langue** commun
 - **Dangerosité** 8 (3 900PX)
 
 **_Cœur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.
@@ -82669,6 +83873,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 |17 (+3)|24 (+7)|20 (+5)|16 (+3)|16 (+3)|18 (+4)|
 
 - **Jets de sauvegarde** Dex +11, Con +9, Sag +7, Cha +8
+- **Compétence** Perception +7
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 17
@@ -82808,6 +84013,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 |10(2d4+5)|dégâts perforants et la cible est paralysée pendant 8heures. On peut mettre un terme à la paralysie en réussissant un test de Sagesse (Médecine)|DD20 ou avec un sort ou effet qui soigne les maladies. (Comme cette attaque vise uniquement les créatures paralysées, elle se solde forcément par un coup critique, les dégâts supplémentaires étant déjà inclus dans la liste des dégâts)|.8 (-1)|16 (+3)|14 (+2)|
 
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** tosculi
 - **Dangerosité** 1/2 (100 PX)
 
 **_Ailes de planeur._** Le faux-bourdon tosculi peut utiliser ses ailes pour ralentir sa chute lorsqu'il tombe (comme sous l'effet du sort léger comme une plume). Il peut se déplacer horizontalement de 1,50mètre par tranche de 30 centimètres de chute. Le faux- bourdon tosculi ne peut pas prendre de hauteur en utilisant seulement ses ailes, en revanche il peut profiter d'un vent fort ou d'un courant ascendant pour planer plus loin.
@@ -82875,6 +84081,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - **Compétences** Discrétion +11, Perception +10
 - **Immunité contre les dégâts** de tonnerre
 - **Sens** vision dans le noir 18m, Perception passive 20
+- **Langue** sylvestre
 - **Dangerosité** 9 (5000 PX)
 
 **_Retenir son souffle._** Un ukavac peut retenir son souffle pendant 20 minutes.
@@ -83226,6 +84433,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 |---|---|---|---|---|---|
 |16 (+3)|10 (+0)|22 (+6)|4 (-3)|2 (-4)|1 (-5)|
 
+- **Compétence** Discrétion +3
 - **Résistance aux dégâts** tranchants, contondants
 - **Immunité contre les dégâts** d'acide, de feu et de poison
 - **Immunité contre les états** empoisonné, épuisé, paralysé, pétrifié, terrorisé
@@ -83512,9 +84720,11 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 |15 (+2)|22 (+6)|10 (+0)|14 (+2)|16 (+3)|10 (+0)|
 
 - **Jets de sauvegarde** Con +4, Int +6, Sag +7, Cha +4
+- **Compétence** Discrétion +10
 - **Immunité contre les dégâts** nécrotiques
 - **Immunité contre les états** à terre, épuisé, pétrifié
 - **Sens** vision parfaite 18m, Perception passive 13
+- **Langue** télépathie à 18 m
 - **Dangerosité** 11 (7 200PX)
 
 **_Nourri de ténèbres._** Si un vidien se trouve dans des ténèbres magiques au début de son tour, il guérit de 5 points de vie.
@@ -83557,6 +84767,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 - **Compétences** Athlétisme+5, Perception +5
 - **Sens** vision dans le noir 18 m, Perception passive 15
+- **Langue** gnoll
 - **Dangerosité** 3 (700 PX)
 
 **_Harcèlement._** Si le gnoll attaque deux créatures lors d'un même tour, la première est désavantagée sur ses jets d'attaque jusqu'à la fin de son prochain tour.
@@ -83679,6 +84890,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 |---|---|---|---|---|---|
 |20 (+5)|20 (+5)|16 (+3)|1 (–5)|11 (+0)|1 (–5)|
 
+- **Compétence** Discrétion +7
 - **Vulnérabilité aux dégâts** de feu
 - **Résistance aux dégâts** contondants et perforants issus d'armes non magiques
 - **Immunité contre les dégâts** de froid
@@ -83721,6 +84933,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 - **Compétences** Persuasion +5, Supercherie +5
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 1 (200 PX)
 
 **_Animosité focalisée._** La wampus féline est avantagée lors des attaques au corps à corps contre un individu de sexe masculin qu'elle a vu utiliser la magie divine ou brandir un symbole sacré.
@@ -83816,6 +85029,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 |---|---|---|---|---|---|
 |17 (+3)|21 (+5)|18 (+4)|15 (+2)|16 (+3)|15 (+2)|
 
+- **Jet de sauvegarde** Cha +5
 - **Compétences** Discrétion +8, Intuition+6, Perception +6
 - **Sens** vision dans le noir 18 m, perception des vibrations 36 m, Perception passive 16
 - **Langues** commun, commun des profondeurs, profond
@@ -83892,6 +85106,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - **Immunité contre les dégâts** de froid, de poison
 - **Immunité contre les états** empoisonné, paralysé, terrorisé
 - **Sens** vision aveugle 36 m, Perception passive 10
+- **Langue** aquatique
 - **Dangerosité** 26 (90 000PX)
 
 **_Carapace renforcée._** Le zaratan ignore les attaques portées contre sa carapace, à moins que l'une d'elles ne lui inflige au minimum 30 points de dégâts. Cette aptitude ne fonctionne pas contre les attaques portées contre sa tête ou ses nageoires.
@@ -83938,6 +85153,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 - **Compétences** Perception +1
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** géant
 - **Dangerosité** 4 (1 100PX)
 
 ## ACTIONS
@@ -84101,7 +85317,9 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 |---|---|---|---|---|---|
 |13 (+1)|16 (+3)|14 (+2)|10 (+0)|11 (+0)|13 (+1)|
 
+- **Compétence** Perception +2
 - **Sens** Perception passive 12
+- **Langue** une seule (généralement le commun)
 - **Dangerosité** 4 (450PX)
 
 **_Intuition tactique._** Le capitaine du guet est avantagé sur ses tests d'initiative. Les soldats du guet sous les ordres du capitaine jouent à la même initiative que lui.
@@ -84241,6 +85459,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, empoisonné, épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Charge._** Si le chevalier fantôme est à cheval et se déplace d'au moins 9 mètres en ligne droite en direction d'une cible qu'il touche avec une attaque de corps à corps pendant le même tour, cette cible subit 7 (2d6) dégâts de plus.
@@ -84320,6 +85539,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - **Compétences** Discrétion +4, Dressage +2, Perception +3, Supercherie +2
 - **Résistance aux dégâts** de poison
 - **Sens** Perception passive 15 Langue commun
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Sens aiguisés._** Le fanatique du scorpion est avantagé sur les tests de Sagesse (Perception).
@@ -84331,23 +85551,6 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 **_Cimeterre._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, une cible. Touché: 5 (1d6 + 2) dégâts tranchants plus 3 (1d6) dégâts de poison.
 
 **_Fronde._** Attaque d'arme à distance : +4 pour toucher, portée 9/36 m, une cible. Touché: 4 (1d4 + 2) dégâts contondants.
-un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
-
-**_Bâton aux anneaux focaliseur._** Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
-
-**_Incantation._** Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
-
-**Tours de magie (à volonté)** : main du mage, poigne électrique, trait de feu, viser juste
-
-**Niveau 1 (4 emplacements)** : bouclier, projectile magique, repli expéditif, vague tonnante
-
-**Niveau 2 (3 emplacements)** : pas brumeux, toile d'araignée
-
-**Niveau 3 (3 emplacements)** : boule de feu, contresort, vol
-
-**Niveau 4 (3 emplacements)** : invisibilité supérieure, tempête de grêle
-
-**Niveau 5 (1 emplacement)** : cône de froid
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -84374,7 +85577,23 @@ un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement.
 
 **_Résistance naine._** Le mage des anneaux nains est avantagé sur les jets de sauvegarde contre le poison.
 
-**_Magie des anneaux._** Le mage des anneaux peut intégrer un sort ayant comme portée "personnelle" ou "contact" dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise
+**_Magie des anneaux._** Le mage des anneaux peut intégrer un sort ayant comme portée "personnelle" ou "contact" dans un anneau dépourvu de magie. Pour se faire, il dépense des composantes comme s'il avait lancé le sort normalement et utilise un emplacement de sort d'un niveau de plus que ce que ce sort exige normalement. Quand le détenteur de l'anneau l'active par une action, le sort est lancé comme si le mage venait de le jeter. Le mage ne récupère pas l'emplacement de sort dépensé tant que le sort reste dans l'anneau, à moins qu'il ne choisisse de révoquer ce sort.
+
+**_Bâton aux anneaux focaliseur._** Le mage des anneaux nains peut utiliser son bâton aux anneaux comme focaliseur pour les sorts exigeant un anneau comme focaliseur ou comme composante pour le pouvoir magie des anneaux. S'il sert de focaliseur pour la magie des anneaux, le sort n'exige pas un emplacement de sort d'un niveau de plus que la normale. Une fois par jour, le mage peut intégrer un sort de niveau 4 ou inférieur dans son bâton aux anneaux en dépensant un emplacement de sort d'un niveau égal à celui du sort intégré.
+
+**_Incantation._** Le mage est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Voici les sorts de magicien qu'il a préparés :
+
+**Tours de magie (à volonté)** : main du mage, poigne électrique, trait de feu, viser juste
+
+**Niveau 1 (4 emplacements)** : bouclier, projectile magique, repli expéditif, vague tonnante
+
+**Niveau 2 (3 emplacements)** : pas brumeux, toile d'araignée
+
+**Niveau 3 (3 emplacements)** : boule de feu, contresort, vol
+
+**Niveau 4 (3 emplacements)** : invisibilité supérieure, tempête de grêle
+
+**Niveau 5 (1 emplacement)** : cône de froid
 
 ## ACTIONS
 

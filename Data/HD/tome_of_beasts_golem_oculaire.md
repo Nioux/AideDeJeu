@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |22 (+6)|9 (–1)|20 (+5)|5 (–3)|11 (+0)|1 (–5)|
 
+- **Compétence** Perception +8
 - **Immunité contre les dégâts** de feu, de poison, psychiques; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en adamantium
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié et empoisonné
 - **Sens** vision parfaite 36 m, Perception passive 18

@@ -4,7 +4,7 @@
 
 # Enfant Des Bruyères
 
-- Source: (LDM p)
+- Source: (LDM p171)
 -  Plante de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 50 (20d4)

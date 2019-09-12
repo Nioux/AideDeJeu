@@ -4,7 +4,7 @@
 
 # Diable Automate
 
-- Source: (LDM p)
+- Source: (LDM p105)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d10+80)

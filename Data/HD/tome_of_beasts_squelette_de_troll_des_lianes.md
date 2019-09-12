@@ -4,7 +4,7 @@
 
 # Squelette De Troll Des Lianes
 
-- Source: (LDM p)
+- Source: (LDM p371)
 -  Plante de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |20 (+5)|12 (+1)|16 (+3)|6 (–2)|8 (–1)|5 (–3)|
 
+- **Jet de sauvegarde** Con +12
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** assourdi, épuisé et empoisonné

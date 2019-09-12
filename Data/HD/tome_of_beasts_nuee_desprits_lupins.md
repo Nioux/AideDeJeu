@@ -20,6 +20,7 @@
 - **Immunité contre les dégâts** de froid
 - **Immunité contre les états** épuisé, terrorisé, paralysé, pétrifié, empoisonné
 - **Sens** vision dans le noir 36 m, Perception passive 13
+- **Langue** comprend le commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Hurlement glaçant._** La nuée hurle par une action bonus à son premier tour de combat, émettant une étrange cacophonie surnaturelle à glacer le sang. Toutes les créatures situées dans un rayon de 90 mètres qui l'entendent doivent réussir un jet de sauvegarde de Charisme DD 12, sans quoi elles sont terrorisées jusqu'au début du prochain tour de la nuée.

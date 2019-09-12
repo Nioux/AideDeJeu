@@ -4,7 +4,7 @@
 
 # Chien Mécanique
 
-- Source: (LDM p)
+- Source: (LDM p293)
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** comprend le commun
 - **Dangerosité** 2 (450PX)
 
 **_Forme immuable._** Un chien mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

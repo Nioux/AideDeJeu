@@ -16,6 +16,7 @@
 
 - **Compétences** Perception +3, Discrétion +5
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** sylvestre
 - **Dangerosité** 2 (450PX)
 
 **_Amphibie._** Un chien-anguille peut respirer à l'air libre et sous l'eau.

@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |7 (−2)|16 (+3)|15 (+2)|16 (+3)|9 (−1)|8 (−1)|
 
+- **Jet de sauvegarde** Dex +5
 - **Compétences** Arcanes +5, Médecine +3
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné

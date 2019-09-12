@@ -15,6 +15,7 @@
 |10(2d4+5)|dégâts perforants et la cible est paralysée pendant 8heures. On peut mettre un terme à la paralysie en réussissant un test de Sagesse (Médecine)|DD20 ou avec un sort ou effet qui soigne les maladies. (Comme cette attaque vise uniquement les créatures paralysées, elle se solde forcément par un coup critique, les dégâts supplémentaires étant déjà inclus dans la liste des dégâts)|.8 (-1)|16 (+3)|14 (+2)|
 
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** tosculi
 - **Dangerosité** 1/2 (100 PX)
 
 **_Ailes de planeur._** Le faux-bourdon tosculi peut utiliser ses ailes pour ralentir sa chute lorsqu'il tombe (comme sous l'effet du sort léger comme une plume). Il peut se déplacer horizontalement de 1,50mètre par tranche de 30 centimètres de chute. Le faux- bourdon tosculi ne peut pas prendre de hauteur en utilisant seulement ses ailes, en revanche il peut profiter d'un vent fort ou d'un courant ascendant pour planer plus loin.

@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** comprend le commun
 - **Dangerosité** 3 (700 PX)
 
 **_Forme immuable._** Un chasseur mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

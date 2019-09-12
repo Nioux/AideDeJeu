@@ -4,7 +4,7 @@
 
 # Dipsa
 
-- Source: (LDM p)
+- Source: (LDM p121)
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15
 - **Points de vie** 27 (6d4+12)

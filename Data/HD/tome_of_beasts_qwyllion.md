@@ -4,7 +4,7 @@
 
 # Qwyllion
 
-- Source: (LDM p)
+- Source: (LDM p345)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)

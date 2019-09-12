@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 |19 (+4)|12 (+1)|19 (+4)|12 (+1)|14 (+2)|10 (+0)|
 
+- **Compétence** Survie +5
 - **Sens** Perception passive 12
+- **Langue** loxodan
 - **Dangerosité** 6 (2 300PX)
 
 **_Charge écrasante._** Si le loxoda se déplace d'au moins 6mètres en ligne droite vers une créature de Grande taille ou supérieure et lui porte une attaque de pas pesant, il est avantagé sur cette dernière. Si cette attaque touche, la cible doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle tombe à terre.

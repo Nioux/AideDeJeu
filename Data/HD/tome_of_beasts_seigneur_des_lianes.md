@@ -18,6 +18,7 @@
 - **Vulnérabilité aux dégâts** de feu
 - **Immunité contre les états** assourdi et aveuglé
 - **Sens** vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13
+- **Langue** commun
 - **Dangerosité** 7 (2 900PX)
 
 **_Marcheur vert._** Le seigneur des lianes ignore les restrictions de mouvement et les dégâts causés par des taillis naturels.

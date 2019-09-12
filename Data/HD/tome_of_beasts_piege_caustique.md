@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |23 (+6)|16 (+3)|22 (+6)|15 (+2)|14 (+2)|6 (–2)|
 
+- **Compétence** Supercherie +8
 - **Résistance aux dégâts** contondants issus d'armes non magiques
 - **Immunité contre les dégâts** d'acide
 - **Immunité contre l'état** à terre

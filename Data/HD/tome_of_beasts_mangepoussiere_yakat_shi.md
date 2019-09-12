@@ -4,7 +4,7 @@
 
 # Mangepoussière (Yakat-Shi)
 
-- Source: (LDM p)
+- Source: (LDM p283)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 114 (12d8+60)

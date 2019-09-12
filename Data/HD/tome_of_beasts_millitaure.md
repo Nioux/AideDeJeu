@@ -4,7 +4,7 @@
 
 # Millitaure
 
-- Source: (LDM p)
+- Source: (LDM p301)
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -18,6 +18,7 @@
 - **Résistance aux dégâts** de poison; contondants et tranchants issus d'armes non magiques
 - **Immunité contre l'état** à terre
 - **Sens** vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 3 (700 PX)
 
 ## ACTIONS

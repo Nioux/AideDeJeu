@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |17 (+3)|21 (+5)|18 (+4)|15 (+2)|16 (+3)|15 (+2)|
 
+- **Jet de sauvegarde** Cha +5
 - **Compétences** Discrétion +8, Intuition+6, Perception +6
 - **Sens** vision dans le noir 18 m, perception des vibrations 36 m, Perception passive 16
 - **Langues** commun, commun des profondeurs, profond

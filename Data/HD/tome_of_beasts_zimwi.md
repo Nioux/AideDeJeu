@@ -16,6 +16,7 @@
 
 - **Compétences** Perception +1
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** géant
 - **Dangerosité** 4 (1 100PX)
 
 ## ACTIONS

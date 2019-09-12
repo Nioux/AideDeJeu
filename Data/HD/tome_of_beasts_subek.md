@@ -4,7 +4,7 @@
 
 # Subek
 
-- Source: (LDM p)
+- Source: (LDM p375)
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76(8d10+32)
@@ -16,6 +16,7 @@
 
 - **Compétences** Histoire +5, Investigation +5
 - **Sens** vision dans le noir 18 m, Perception passive 11
+- **Langue** commun
 - **Dangerosité** 5 (1 800PX)
 
 **_Retenir son souffle._** Le subek peut retenir son souffle 15 minutes.

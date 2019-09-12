@@ -4,7 +4,7 @@
 
 # Domovoï
 
-- Source: (LDM p)
+- Source: (LDM p123)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)

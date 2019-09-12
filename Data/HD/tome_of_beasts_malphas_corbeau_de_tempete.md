@@ -15,6 +15,7 @@
 |19 (+4)|19 (+4)|16 (+3)|14 (+2)|13 (+1)|14 (+2)|
 
 - **Jets de sauvegarde** Dex +7, Con +6, Sag +4, Cha +5
+- **Compétence** Perception +4
 - **Sens** vision dans le noir 18 m, Perception passive 14
 - **Langues** commun, géant, homme-corbeau, sylvestre
 - **Dangerosité** 6 (2 300PX)

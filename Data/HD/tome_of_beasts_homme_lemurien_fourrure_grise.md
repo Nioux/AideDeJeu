@@ -4,7 +4,7 @@
 
 # Homme-Lémurien Fourrure Grise
 
-- Source: (LDM p)
+- Source: (LDM p243)
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Classe d'armure** 13 (16 avec armure du mage )
 - **Points de vie** 67 (15d6+15)

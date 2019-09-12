@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |14 (+2)|15 (+2)|14 (+2)|8 (−1)|10 (+0)|16 (+3)|
 
+- **Compétence** Discrétion +4
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** comprend l'elfique et l'umbral mais ne peut pas parler
 - **Dangerosité** 2 (450PX)

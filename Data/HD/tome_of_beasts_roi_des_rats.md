@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |6 (–2)|16 (+3)|18 (+4)|11 (+0)|15 (+2)|16 (+3)|
 
+- **Compétence** Discrétion +6
 - **Résistance aux dégâts** contondants, perforants et tranchants
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé

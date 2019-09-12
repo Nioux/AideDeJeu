@@ -39,8 +39,7 @@
 
 **_Armes magiques._** Les attaques d'arme d'un ange sont magiques quand il se trouve sous sa forme d'aigle.
 
-**_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation
-1/jour pour le rejoindre.
+**_Au côté de mon amour._** S'il est séparé de son compagnon, chaque ange fidèle peut utiliser changement de plan et téléportation 1/jour pour le rejoindre.
 
 **_Fidélité à toute épreuve._** Les anges fidèles ne se séparent jamais volontairement de leur compagnon. Aucun effet magique ou pouvoir ne peut pousser un ange fidèle à agir contre son compagnon et aucun effet de charme ou de domination ne peut réussir à les éloigner ou changer les sentiments d'amour et de loyauté qu'ils éprouvent l'un envers l'autre.
 
@@ -52,9 +51,7 @@
 
 **_Arc long +1 (uniquement sous forme de mortel ou d'ange)._**
 
-**_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-9(1d8+ 5) dégâts perforants.
+**_Bec (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 9(1d8+ 5) dégâts perforants.
 
-**_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché:
-12 (2d6+5)dégâts tranchants.
+**_Serres (uniquement sous forme d'aigle)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50m, une cible. Touché: 12 (2d6+5)dégâts tranchants.
 

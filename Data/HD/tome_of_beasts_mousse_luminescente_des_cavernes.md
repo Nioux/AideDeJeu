@@ -4,7 +4,7 @@
 
 # Mousse Luminescente Des Cavernes
 
-- Source: (LDM p)
+- Source: (LDM p313)
 -  Plante de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d10+40)

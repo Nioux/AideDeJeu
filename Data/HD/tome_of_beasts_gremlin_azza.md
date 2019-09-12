@@ -23,8 +23,7 @@
 
 ## ACTIONS
 
-**_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché:
-3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
+**_Choc électrique._** Attaque de corps à corps ou à distance: +6 pour toucher, allonge 1,50m ou portée 9 m, une créature. Touché: 3 (1d6) dégâts de foudre, et la cible est affectée par foudre contagieuse.
 
 ## RÉACTION
 

@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, empoisonné, épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Charge._** Si le chevalier fantôme est à cheval et se déplace d'au moins 9 mètres en ligne droite en direction d'une cible qu'il touche avec une attaque de corps à corps pendant le même tour, cette cible subit 7 (2d6) dégâts de plus.

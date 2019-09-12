@@ -4,7 +4,7 @@
 
 # Mèche Vivante
 
-- Source: (LDM p)
+- Source: (LDM p297)
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)

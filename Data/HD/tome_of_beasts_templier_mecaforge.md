@@ -4,7 +4,7 @@
 
 # Templier Mécaforgé
 
-- Source: (LDM p)
+- Source: (LDM p379)
 -  Humanoïde de taille Moyenne (mécaforgé) (M), loyal neutre
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 71 (11d8+22)
@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, terrorisé, épuisé, empoisonné
 - **Sens** Perception passive 13
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Zone de défense._** Le templier mécaforgé peut faire une attaque d'opportunité quand une créature entre dans sa zone d'allonge.

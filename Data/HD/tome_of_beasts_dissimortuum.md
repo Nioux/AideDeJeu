@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** nécrotiques, de poison
 - **Immunité contre les états** charmé, empoisonné, épuisé
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 7 (2 900PX)
 
 **_Pattes d'araignée._** Un dissimortuum peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.

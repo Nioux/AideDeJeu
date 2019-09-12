@@ -14,10 +14,12 @@
 |---|---|---|---|---|---|
 |18 (+4)|15 (+2)|15 (+2)|10 (+0)|13 (+1)|12 (+1)|
 
+- **Jet de sauvegarde** Sag +4
 - **Compétences** Discrétion +5, Perception +4
 - **Immunité contre les dégâts** de poison
 - **Immunité contre l'état** empoisonné
 - **Sens** vision dans le noir 18 m, perception des vibrations 18m, Perception passive 14
+- **Langue** infernal
 - **Dangerosité** 5 (1 800PX)
 
 **_Esprit de ruche._** Les rejetons d'Arbeyach et tous les autres membres de leur ruche partagent un lien qui leur accorde une perception accrue. Ainsi, tant qu'un rejeton se trouve dans un rayon de 18 mètres d'au moins un de ses camarades de ruche, il est avantagé lors de ses jets d'initiative et à ses tests de Sagesse(Perception). Si un rejeton prend conscience d'un danger, tous les autres membres de la ruche en ont conscience également. Au début d'une rencontre, aucun des rejetons qui partagent un esprit de ruche ne peut être surpris, sauf si tous les membres de la ruche le sont.

@@ -4,7 +4,7 @@
 
 # Dragon Des Cavernes, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p135)
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)

@@ -4,7 +4,7 @@
 
 # Guenaude Miroir
 
-- Source: (LDM p)
+- Source: (LDM p229)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
@@ -17,6 +17,7 @@
 - **Résistance aux dégâts** de tonnerre
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Incantation innée._** La guenaude utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 15, +7 pour toucher avec les attaques de sort). Elle peut lancer les sorts suivants de façon innée sans composantes matérielles :

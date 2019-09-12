@@ -15,6 +15,7 @@
 |22 (+6)|18 (+4)|20 (+5)|12 (+1)|16 (+3)|15 (+2)|
 
 - **Jets de sauvegarde** For +11, Dex+9, Con +10, Cha +7
+- **Compétence** Supercherie +12
 - **Résistance aux dégâts** d'acide, de feu; contondants et perforants issus d'armes non magiques
 - **Immunité contre les dégâts** de froid, de poison
 - **Immunité contre l'état** empoisonné

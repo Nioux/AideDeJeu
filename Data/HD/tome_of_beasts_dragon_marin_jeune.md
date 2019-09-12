@@ -4,7 +4,7 @@
 
 # Dragon Marin, Jeune
 
-- Source: (LDM p)
+- Source: (LDM p145)
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)

@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |10 (+0)|14 (+2)|14 (+2)|8 (-1)|9 (-1)|14 (+2)|
 
+- **Jet de sauvegarde** Dex +4
 - **Compétences** Acrobaties +4, Perception +1
 - **Immunité contre les dégâts** de feu
 - **Immunité contre les états** inconscient, paralysé

@@ -4,7 +4,7 @@
 
 # Noctin
 
-- Source: (LDM p)
+- Source: (LDM p323)
 -  Humanoïde (noctin) de taille Moyenne,
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 52 (8d8+16)

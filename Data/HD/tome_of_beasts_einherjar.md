@@ -4,7 +4,7 @@
 
 # Einherjar
 
-- Source: (LDM p)
+- Source: (LDM p163)
 -  Humanoïde de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (cotte de mailles et bouclier)
 - **Points de vie** 119 (14d8+56)

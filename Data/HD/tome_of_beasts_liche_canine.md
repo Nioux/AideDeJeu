@@ -20,6 +20,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** épuisé et empoisonné
 - **Sens** vision aveugle 30 m, Perception passive 14
+- **Langue** comprend le darakhul
 - **Dangerosité** 4 (1 100PX)
 
 **_Odorat et ouïe aiguisés._** La liche canine est avantagée sur les tests de Sagesse (Perception) basés sur l'ouïe ou l'odorat.

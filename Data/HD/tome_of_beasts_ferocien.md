@@ -4,7 +4,7 @@
 
 # Férocien
 
-- Source: (LDM p)
+- Source: (LDM p195)
 -  Bête de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (1d10+60)
@@ -15,6 +15,7 @@
 |22 (+6)|14 (+2)|22 (+6)|2 (–4)|10 (+0)|13 (+1)|
 
 - **Jets de sauvegarde** Dex +5, Con +9
+- **Compétence** Perception +3
 - **Résistance aux dégâts** contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** charmé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 13

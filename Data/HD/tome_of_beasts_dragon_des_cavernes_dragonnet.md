@@ -4,7 +4,7 @@
 
 # Dragon Des Cavernes, Dragonnet
 
-- Source: (LDM p)
+- Source: (LDM p135)
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** d'acide, de poison et de tonnerre
 - **Immunité contre l'état** empoisonné
 - **Sens** vision aveugle 36 m, Perception passive 12
+- **Langue** draconique
 - **Dangerosité** 2 (450PX)
 
 **_Fouisseur._** Un dragon des cavernes est capable de creuser à travers la pierre solide en se déplaçant de la moitié de sa vitesse de fouissement. Il laisse derrière lui un tunnel de 1,50 mètre de large sur 1,50 mètre de haut.

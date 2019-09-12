@@ -17,6 +17,7 @@
 - **Jets de sauvegarde** Dex+12
 - **Compétences** Athlétisme +8, Perception +6, Discrétion +8
 - **Sens** vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 20
+- **Langue** comprend le commun des profondeurs
 - **Dangerosité** 9 (5 000PX)
 
 **_Discrétion dans les ombres._** Un horakh peut se cacher par une action bonus s'il se trouve dans une faible lumière ou dans les ténèbres.

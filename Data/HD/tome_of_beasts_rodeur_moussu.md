@@ -4,7 +4,7 @@
 
 # Rôdeur Moussu
 
-- Source: (LDM p)
+- Source: (LDM p351)
 -  Humanoïde de Petite taille (P), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)

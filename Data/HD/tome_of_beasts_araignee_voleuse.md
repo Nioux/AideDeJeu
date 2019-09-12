@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |10 (+0)|12 (+1)|12 (+1)|3 (–4)|10 (+0)|1 (–5)|
 
+- **Compétence** Discrétion +3
 - **Résistance aux dégâts** de feu
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné

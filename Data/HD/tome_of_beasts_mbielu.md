@@ -4,7 +4,7 @@
 
 # Mbielu
 
-- Source: (LDM p)
+- Source: (LDM p117)
 -  Bête de Très Grande taille (TG), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |19 (+4)|14 (+2)|16 (+3)|2 (-4)|12 (+1)|6 (-2)|
 
+- **Compétence** Perception +3
 - **Sens** Perception passive 13
 - **Langues** —
 - **Dangerosité** 3 (700 PX)

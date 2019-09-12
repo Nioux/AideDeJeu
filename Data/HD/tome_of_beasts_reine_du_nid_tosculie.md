@@ -15,6 +15,7 @@
 |17 (+3)|24 (+7)|20 (+5)|16 (+3)|16 (+3)|18 (+4)|
 
 - **Jets de sauvegarde** Dex +11, Con +9, Sag +7, Cha +8
+- **Compétence** Perception +7
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** charmé, empoisonné
 - **Sens** vision dans le noir 18 m, Perception passive 17

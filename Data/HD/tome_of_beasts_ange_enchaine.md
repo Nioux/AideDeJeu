@@ -28,8 +28,7 @@
 
 **_Attaques multiples._** L'ange enchaîné porte deux attaques à l'aide de son épée à deux mains enflammée.
 
-**_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché:
-11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu.
+**_Épée à deux mains enflammée._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50m, une cible. Touché: 11(2d6+4)dégâts tranchants plus 16 (3d10)dégâts de feu.
 
 **_Gloire déchue (Recharge 5-6)._** Toutes les créatures qui se trouvent dans un rayon de 15mètres d'un ange enchaîné et dans son champ de vision subissent 19 (3d12)dégâts radiants et se trouvent jetées à terre. Elles subissent moitié moins de dégâts et ne sont pas jetées à terre si elles réussissent un jet de sauvegarde de Force DD15.
 

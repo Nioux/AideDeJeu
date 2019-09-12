@@ -4,7 +4,7 @@
 
 # Héraut Du Sang
 
-- Source: (LDM p)
+- Source: (LDM p237)
 -  Fiélon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 115 (10d12+50)

@@ -4,7 +4,7 @@
 
 # Drake Des Tavernes.
 
-- Source: (LDM p)
+- Source: (LDM p155)
 -  Dragon Très Petite taille, chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 65 (10d4+40)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |7 (-2)|16 (+3)|19 (+4)|11 (+0)|12 (+1)|16 (+3)|
 
+- **Jet de sauvegarde** Dex +5
 - **Compétences** Perspicacité +3, Persuasion +5, Supercherie +5
 - **Immunité contre les états** inconscient, paralysé
 - **Sens** vision dans le noir 18 m, Perception passive 11

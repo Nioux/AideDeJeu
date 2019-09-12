@@ -4,7 +4,7 @@
 
 # Dorreq
 
-- Source: (LDM p)
+- Source: (LDM p125)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (17d8+17)
@@ -18,6 +18,7 @@
 - **Compétences** Discrétion +8, Intimidation +2, Perception +3
 - **Résistance aux dégâts** d'acide, de froid, de foudre
 - **Sens** vision dans le noir 18 m, Perception passive 13
+- **Langue** langue du Vide
 - **Dangerosité** 4 (1 100PX)
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un dorreq est l'Intelligence (DD du jet de sauvegarde contre les sorts 10). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:

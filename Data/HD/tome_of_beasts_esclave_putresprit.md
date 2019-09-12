@@ -4,7 +4,7 @@
 
 # Esclave Putresprit
 
-- Source: (LDM p)
+- Source: (LDM p173)
 -  Plante de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |15 (+2)|14 (+2)|17 (+3)|11 (+0)|14 (+2)|6 (–2)|
 
+- **Jet de sauvegarde** Con +5
 - **Résistance aux dégâts** contondants et perforants issus d'armes non magiques
 - **Immunité contre les dégâts** d'acide, de poison
 - **Immunité contre les états** charmé, terrorisé, empoisonné

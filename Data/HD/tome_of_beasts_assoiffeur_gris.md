@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |12 (+1)|16 (+3)|15 (+2)|6 (–2)|12 (+1)|14 (+2)|
 
+- **Compétence** Discrétion +5
 - **Résistance aux dégâts** contondants et nécrotiques
 - **Immunité contre les dégâts** de feu, de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, empoisonné

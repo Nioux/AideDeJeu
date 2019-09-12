@@ -4,7 +4,7 @@
 
 # Drake Stellaire
 
-- Source: (LDM p)
+- Source: (LDM p157)
 -  Dragon de Grande taille (G), neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 189 (18d10+90)

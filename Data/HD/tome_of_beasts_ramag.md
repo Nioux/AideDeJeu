@@ -16,6 +16,7 @@
 
 - **Compétences** Arcanes +5, Investigation +5
 - **Sens** Perception passive 11
+- **Langue** commun
 - **Dangerosité** 1/4 (50 PX)
 
 **_Résistance à la magie._** Le ramag est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

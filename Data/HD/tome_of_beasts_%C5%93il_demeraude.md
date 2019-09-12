@@ -4,7 +4,7 @@
 
 # Œil D'Émeraude
 
-- Source: (LDM p)
+- Source: (LDM p333)
 -  Créature artificielle de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d4+24)

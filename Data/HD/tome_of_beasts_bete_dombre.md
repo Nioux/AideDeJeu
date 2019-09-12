@@ -15,6 +15,7 @@
 |20 (+5)|18 (+4)|17 (+3)|14 (+2)|14 (+2)|19 (+4)|
 
 - **Jets de sauvegarde** Dex +7, Con +6
+- **Compétence** Discrétion +7
 - **Sens** vision dans le noir 18 m, Perception passive 12
 - **Langues** commun, elfique, umbral, langue du Vide
 - **Dangerosité** 7 (2 900PX)

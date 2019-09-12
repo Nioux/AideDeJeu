@@ -16,6 +16,7 @@
 
 - **Compétences** Intimidation +1, Perception +2
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** titan
 - **Dangerosité** 8 (3 900PX)
 
 **_Résistance à la magie._** Le titan dégénéré est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.

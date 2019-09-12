@@ -15,9 +15,11 @@
 |19 (+4)|17(+3)|18 (+4)|10 (+0)|13 (+1)|10 (+0)|
 
 - **Jets de sauvegarde** Dex+6
+- **Compétences** Acrobaties +6, Discrétion +6, Perception +4
 - **Résistance aux dégâts** de froid
 - **Immunité contre les états** à terre, empoisonné, inconscient, paralysé
 - **Sens** vision dans le noir 36 m, Perception passive 17
+- **Langue** draconique
 - **Dangerosité** 7 (2 900PX)
 
 **_Camouflage._** La couleur et la forme d'un drake de corail lui confèrent une discrétion accrue et il se trouve ainsi avantagé lors de tous ses tests de Discrétion quand il se trouve sous l'eau.

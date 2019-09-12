@@ -4,7 +4,7 @@
 
 # Roussalka
 
-- Source: (LDM p)
+- Source: (LDM p353)
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 88 (16d8+16)
@@ -17,6 +17,7 @@
 - **Immunité contre les dégâts** nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques
 - **Immunité contre les états** charmé, empoisonné, paralysé, terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Tresses desséchées._** Si la roussalka reste hors de l'eau pendant 24 heures consécutives, ses cheveux et son corps se dessèchent et il n'en reste que des herbes du marais flétries, la créature étant complètement détruite.

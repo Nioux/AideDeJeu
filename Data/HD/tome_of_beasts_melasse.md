@@ -4,7 +4,7 @@
 
 # Mélasse
 
-- Source: (LDM p)
+- Source: (LDM p299)
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (4d4+12)

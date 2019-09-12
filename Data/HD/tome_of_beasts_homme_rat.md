@@ -4,7 +4,7 @@
 
 # Homme-Rat
 
-- Source: (LDM p)
+- Source: (LDM p245)
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 7 (2d6)
@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 |7 (-2)|15 (+2)|11 (+0)|14 (+2)|10 (+0)|10 (+0)|
 
+- **Compétence** Perception +2
 - **Sens** vision dans le noir 18 m, Perception passive 12
+- **Langue** commun
 - **Dangerosité** 1/4 (50 PX)
 
 **_Agilité._** L'homme-rat peut traverser l'emplacement qu'occupe une créature de taille Moyenne ou supérieure.

@@ -14,6 +14,8 @@
 |---|---|---|---|---|---|
 |8 (-1)|16 (+3)|10 (+0)|4 (-3)|12 (+1)|7 (-2)|
 
+- **Jet de sauvegarde** Dex +5
+- **Compétence** Discrétion +5
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 11

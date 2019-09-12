@@ -4,7 +4,7 @@
 
 # Vipère Du Marais
 
-- Source: (LDM p)
+- Source: (LDM p361)
 -  Bête de Petite taille (P), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 18 (4d6+4)

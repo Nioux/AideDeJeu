@@ -4,7 +4,7 @@
 
 # Scorpion Stygien À Large Queue
 
-- Source: (LDM p)
+- Source: (LDM p357)
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 10 (4d4)

@@ -4,7 +4,7 @@
 
 # Myrmidon Mécanique
 
-- Source: (LDM p)
+- Source: (LDM p295)
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -19,6 +19,7 @@
 - **Immunité contre les dégâts** de poison et psychiques
 - **Immunité contre les états** charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 16
+- **Langue** comprend le commun
 - **Dangerosité** 6 (2 300PX)
 
 **_Forme immuable._** Un myrmidon mécanique est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.

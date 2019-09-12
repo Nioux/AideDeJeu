@@ -4,7 +4,7 @@
 
 # Dryade Épine-Du-Crépuscule
 
-- Source: (LDM p)
+- Source: (LDM p159)
 -  Fée de taille Moyenne (M), chaotique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 77 (14d8+14)

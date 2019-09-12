@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 |13 (+1)|16 (+3)|14 (+2)|10 (+0)|11 (+0)|13 (+1)|
 
+- **Compétence** Perception +2
 - **Sens** Perception passive 12
+- **Langue** une seule (généralement le commun)
 - **Dangerosité** 4 (450PX)
 
 **_Intuition tactique._** Le capitaine du guet est avantagé sur ses tests d'initiative. Les soldats du guet sous les ordres du capitaine jouent à la même initiative que lui.

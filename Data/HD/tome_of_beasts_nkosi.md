@@ -4,7 +4,7 @@
 
 # Nkosi
 
-- Source: (LDM p)
+- Source: (LDM p319)
 -  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 11 (2d8+2)
@@ -14,7 +14,9 @@
 |---|---|---|---|---|---|
 |16 (+3)|16 (+3)|12 (+1)|10 (+0)|10 (+0)|8 (–1)|
 
+- **Compétence** Survie +2
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** commun
 - **Dangerosité** 1/2 (100 PX)
 
 **_Métamorphe._** Le nkosi peut utiliser une action pour se changer en lion de taille Moyenne ou reprendre son apparence normale. Sous forme de lion, il ne peut pas parler et sa vitesse est de 15mètres. À part sa vitesse, ses statistiques ne changent pas quelle que soit sa forme. Les objets dont il est équipé ou vêtu ne sont pas transformés. Il reprend sa forme normale s'il meurt.

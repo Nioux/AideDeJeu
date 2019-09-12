@@ -4,7 +4,7 @@
 
 # Profond
 
-- Source: (LDM p)
+- Source: (LDM p343)
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 91 (14d8+28)

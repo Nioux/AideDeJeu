@@ -4,7 +4,7 @@
 
 # Pombero
 
-- Source: (LDM p)
+- Source: (LDM p339)
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -16,6 +16,7 @@
 
 - **Compétences** Athlétisme +5, Discrétion +5, Escamotage +5
 - **Sens** vision dans le noir 18 m, Perception passive 10
+- **Langue** sylvestre
 - **Dangerosité** 3 (700 PX)
 
 **_Voix animale._** Le pombero peut parler par magie avec n'importe quelle bête et imite les sons animaux à la perfection.

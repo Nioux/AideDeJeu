@@ -4,7 +4,7 @@
 
 # Koralk (Diable Moissonneur)
 
-- Source: (LDM p)
+- Source: (LDM p112)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)

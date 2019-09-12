@@ -4,7 +4,7 @@
 
 # Homme-Lémurien
 
-- Source: (LDM p)
+- Source: (LDM p243)
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 14 (4d6)

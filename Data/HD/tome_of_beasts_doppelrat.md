@@ -14,6 +14,8 @@
 |---|---|---|---|---|---|
 |2 (-4)|17 (+3)|14 (+2)|2 (-4)|13 (+1)|2 (-4)|
 
+- **Jet de sauvegarde** Dex +5
+- **Compétence** Discrétion +5
 - **Sens** vision dans le noir 18 m, Perception passive 11
 - **Langues** —
 - **Dangerosité** 2 (450PX)

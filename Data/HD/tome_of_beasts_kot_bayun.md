@@ -4,7 +4,7 @@
 
 # Kot Bayun
 
-- Source: (LDM p)
+- Source: (LDM p261)
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15
 - **Points de vie** 44 (8d8+8)
@@ -14,6 +14,7 @@
 |---|---|---|---|---|---|
 |16 (+3)|16 (+3)|13 (+1)|12 (+1)|16 (+3)|17 (+3)|
 
+- **Jet de sauvegarde** Dex +5
 - **Sens** vision dans le noir 18 m, Perception passive 13
 - **Langues** commun, sylvestre
 - **Dangerosité** 2 (450PX)

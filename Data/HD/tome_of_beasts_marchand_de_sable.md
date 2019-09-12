@@ -4,7 +4,7 @@
 
 # Marchand De Sable
 
-- Source: (LDM p)
+- Source: (LDM p287)
 -  Céleste de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 82 (11d8+33)

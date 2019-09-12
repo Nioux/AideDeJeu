@@ -41,8 +41,7 @@
 
 **_Permutation de formes._** Par une action bonus, un nihileth peut passer de sa forme matérielle à sa forme éthérée et vice versa à volonté.
 
-**_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché:
-15(3d6+5) dégâts contondants.
+**_Queue (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 3m, une cible. Touché: 15(3d6+5) dégâts contondants.
 
 **_Servitude (3 / jour):_** Un nihileth peut cibler une créature qu'il peut voir et qui se trouve dans un rayon de 9 mètres. La cible doit réussir un jet de sauvegarde de Sagesse DD14 ou se trouver magiquement charmée par le nihileth jusqu'à ce que ce dernier meure ou se trouve sur un plan d'existence différent de sa cible. La cible charmée se trouve sous le contrôle du nihileth et ne peut pas utiliser de réactions. Le nihileth et la cible peuvent communiquer entre eux par télépathie sans limite de distance. À chaque fois que la cible charmée subit des dégâts, elle peut retenter son jet de sauvegarde. En cas de succès, l'effet se termine. Une fois toutes les 24 heures, si elle se trouve à au moins 1,50kilomètre du nihileth, la cible peut également tenter de refaire le jet de sauvegarde.
 
@@ -62,5 +61,13 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 ## ACTIONS D'ANTRE
 
+À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), un nihileth peut effectuer une action d’antre afin de créer un effet magique comme s’il était un aboleth, ou utiliser l’action absorption du Vide détaillée ci-dessous. Le nihileth ne peut pas utiliser le même effet deux rounds de suite.
+
+* Absorption du Vide. Un nihileth peut puiser dans l’énergie vitale de ceux qu’il a convertis en zombis nihilethiques pour regagner de la vie. Ce pouvoir lui permet de puiser 18 (6d6) points de vie auprès des zombis qui se trouvent dans un rayon de 9 mètres de lui. Ces points sont séparés équitablement entre les zombis et permettent de soigner le nihileth. Si un zombi est réduit à 0 point de vie à cause de cette action, il meurt et ne fait pas de jet le sauvegarde permis par Robustesse de la non-vie.
+
 ## EFFETS RÉGIONAUX
+
+Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’un aboleth, à l’exception du point suivant.
+
+* Les sources d’eau qui se trouvent dans un rayon de 1,50 kilomètre de l’antre d’un nihileth sont non seulement souillées surnaturellement par sa présence, mais peuvent également propager sa maladie. Une créature qui boit une telle eau doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver infectée.
 

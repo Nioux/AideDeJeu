@@ -4,7 +4,7 @@
 
 # Araignée Tisseuse Mécanique
 
-- Source: (LDM p)
+- Source: (LDM p291)
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 25 (10d4)
@@ -17,6 +17,7 @@
 - **Immunité contre les dégâts** de poison
 - **Immunité contre les états** assourdi, aveuglé, charmé, empoisonné, épuisé, paralysé et terrorisé
 - **Sens** vision dans le noir 18 m, Perception passive 14
+- **Langue** comprend le commun
 - **Dangerosité** 1 (200 PX)
 
 **_Forme immuable._** Une araignée tisseuse mécanique est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
