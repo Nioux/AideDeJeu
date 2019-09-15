@@ -14,21 +14,21 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Mer / Océan, Ruines sous-marines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 39 (6d8+12)
   Speed: 3 m, nage 12 m
+  SavingThrows: Con +4, Int +4
+  Skills: Perception +6
+  Senses: vision dans le noir 36 m, Perception passive 16
+  Languages: profond, télépathie 36 m
+  Challenge: 2 (450 PX)
+  Terrain: Mer / Océan, Ruines sous-marines
   Strength: 13 (+1)
   Dexterity: ' 9 (-1)'
   Constitution: 15 (+2)
   Intelligence: 14 (+2)
   Wisdom: 15 (+2)
   Charisma: 14 (+2)
-  SavingThrows: Con +4, Int +4
-  Skills: Perception +6
-  Senses: vision dans le noir 36 m, Perception passive 16
-  Languages: profond, télépathie 36 m
-  Challenge: 2 (450 PX)
   Id: baby_bestiary.md#aboleth-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -205,18 +205,18 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 100 (8d10+56)
   Speed: 9 m, nage 12 m, vol 12 m
+  SavingThrows: Dex +6, Con +11, Sag +8
+  DamageResistances: de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiquesd'acide, de feu et de poison
+  ConditionImmunities: empoisonné
+  Senses: vision parfaite 36 m, Perception passive 14
+  Languages: infernal, télépathie 36 m
+  Challenge: 8 (3 900 PX)
   Strength: 20 (+5)
   Dexterity: 14 (+2)
   Constitution: 24 (+7)
   Intelligence: 18 (+4)
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
-  SavingThrows: Dex +6, Con +11, Sag +8
-  Senses: vision parfaite 36 m, Perception passive 14
-  Languages: infernal, télépathie 36 m
-  Challenge: 8 (3 900 PX)
-  DamageResistances: de feu, de froid, d'électricité ; contondants, perforants et tranchants infligés par des attaques non magiquesd'acide, de feu et de poison
-  ConditionImmunities: empoisonné
   Id: baby_bestiary.md#ancien-dieu-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -403,18 +403,18 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 16 (3d6+6)
   Speed: 9 m, vol 12 m (forme humanoïde)
+  Skills: Perception +3
+  DamageResistances: d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: charmé et terrorisé
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: toutes
+  Challenge: 1/2 (100 PX)
   Strength: 6 (-2)
   Dexterity: 12 (+1)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 12 (+1)
-  Skills: Perception +3
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: toutes
-  Challenge: 1/2 (100 PX)
-  DamageResistances: d'électricité, nécrotiques, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: charmé et terrorisé
   Id: baby_bestiary.md#archon-canin-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -591,17 +591,17 @@ SubItems:
   ArmorClass: 12
   HitPoints: 11 (2d8+2)
   Speed: 6 m, vol 12 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
+  Senses: vision dans le noir 18 m, Perception passive 12
+  Languages: toutes
+  Challenge: 1/2 (100 PX)
   Strength: 6 (-2)
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  Senses: vision dans le noir 18 m, Perception passive 12
-  Languages: toutes
-  Challenge: 1/2 (100 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: entravé, empoigné, empoisonné, épuisé, paralysé, pétrifé
   Id: baby_bestiary.md#baku-éléphanteau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -754,17 +754,17 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 37 (5d6+20)
   Speed: 6 m, vol 12 m
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non magiquesde feu et de poison
+  ConditionImmunities: empoisonné
+  Senses: vision parfaite 18 m, Perception passive 11
+  Languages: commun, télépathie 18 m
+  Challenge: 2 (450 PX)
   Strength: 12 (+1)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 10 (+0)
-  Senses: vision parfaite 18 m, Perception passive 11
-  Languages: commun, télépathie 18 m
-  Challenge: 2 (450 PX)
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des attaques non magiquesde feu et de poison
-  ConditionImmunities: empoisonné
   Id: baby_bestiary.md#balor-brandon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -934,18 +934,18 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: non aligné
-  Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 22 (4d6+8)
   Speed: 6 m
+  Senses: vision dans le noir 18 m, Perception passive 9
+  Challenge: 1 (200 PX)
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
   Strength: 10 (+0)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: 2 (-4)
   Wisdom: 8 (-1)
   Charisma: 7 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 9
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#basilic-lézardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -1074,17 +1074,17 @@ SubItems:
   ArmorClass: 14 (armure naturelle)
   HitPoints: 43 (5d8+20)
   Speed: 9 m, escalade 9 m
+  Skills: Discrétion +4, Perception +4
+  DamageResistances: de foudre
+  Senses: vision dans le noir 27 m, Perception passive 16
+  Languages: aucune
+  Challenge: 1 (200 PX)
   Strength: 14 (+2)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: 5 (-3)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: Discrétion +4, Perception +4
-  Senses: vision dans le noir 27 m, Perception passive 16
-  Languages: aucune
-  Challenge: 1 (200 PX)
-  DamageResistances: de foudre
   Id: baby_bestiary.md#beithir
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -1228,19 +1228,19 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
-  Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 38 (4d8+20)
   Speed: 9 m, fouissement 9 m
+  Skills: Perception +4
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Caverne naturelle
   Strength: 12 (+1)
   Dexterity: 13 (+1)
   Constitution: 21 (+5)
   Intelligence: 2 (-4)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  Skills: Perception +4
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#bulette-chevreau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -1372,19 +1372,19 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Bon
-  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 19 (3d8+6)
   Speed: 12 m
+  Skills: Athlétisme +2
+  Senses: Perception passive 11
+  Challenge: 1/4 (50 PX)
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 14 (+2)
   Intelligence: 9 (+0)
   Wisdom: 13 (+1)
   Charisma: 10 (+0)
-  Skills: Athlétisme +2
-  Senses: Perception passive 11
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#centaure-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -1528,21 +1528,21 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
-  Terrain: Bois / Forêt, Jungle, Montagnes
   ArmorClass: 13
   HitPoints: 45 (6d8+18)
   Speed: 12 m
+  Skills: Perception +6
+  DamageResistances: de poison
+  ConditionImmunities: assourdi, aveuglé et empoisonné
+  Senses: vision parfaite 12 m, Perception passive 16
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt, Jungle, Montagnes
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 16 (+3)
   Intelligence: 5 (-3)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +6
-  Senses: vision parfaite 12 m, Perception passive 16
-  Challenge: 1 (200 PX)
-  DamageResistances: de poison
-  ConditionImmunities: assourdi, aveuglé et empoisonné
   Id: baby_bestiary.md#cerbère-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -1692,19 +1692,19 @@ SubItems:
   Type: Fée
   Size: P
   Alignment: Loyal Bon
-  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 9 (2d6+2)
   Speed: 9 m
+  Skills: Discrétion +5, Perception +3
+  Senses: Perception passive 13
+  Challenge: 1/8 (25 PX)
+  Terrain: Plaine / Champs / Prairie / Savane
   Strength: 7 (-2)
   Dexterity: 17 (+3)
   Constitution: 12 (+1)
   Intelligence: 8 (-1)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: Discrétion +5, Perception +3
-  Senses: Perception passive 13
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#chien-esquiveur-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -1848,19 +1848,19 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Bois / Forêt, Montagnes, Ruines extérieures
   ArmorClass: 13 (armure naturelle)
   HitPoints: 37 (5d8+15)
   Speed: 9 m, vol 12 m (dès 16 mois)
+  Skills: Perception +6
+  Senses: vision parfaite 12 m, Perception passive 16
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt, Montagnes, Ruines extérieures
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: 3 (-4)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +6
-  Senses: vision parfaite 12 m, Perception passive 16
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#chimère-lionceau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2022,17 +2022,17 @@ SubItems:
   Type: Créature monstrueuse
   Size: TP
   Alignment: non aligné
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 7 (2d4+2)
   Speed: 6 m, vol 9 m
+  Senses: vision dans le noir 18 m, Perception passive 11 Dangerosité 1/4 (50 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 2 (-4)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 2 (-4)
   Wisdom: 13 (+1)
   Charisma: 5 (-3)
-  Senses: vision dans le noir 18 m, Perception passive 11 Dangerosité 1/4 (50 PX)
   Id: baby_bestiary.md#cocatrice-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2146,21 +2146,21 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 16 (armure naturelle)
   HitPoints: 39 (6d6+18)
   Speed: 6 m, vol 18 m
+  Skills: Perception +4
+  DamageResistances: radiantspsychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
+  Senses: vision parfaite 36 m, Perception passive 14
+  Languages: toutes, télépathie 36 m
+  Challenge: 1/2 (100 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 9 (-1)
   Dexterity: 18 (+4)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  Skills: Perception +4
-  Senses: vision parfaite 36 m, Perception passive 14
-  Languages: toutes, télépathie 36 m
-  Challenge: 1/2 (100 PX)
-  DamageResistances: radiantspsychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
   Id: baby_bestiary.md#couatl-nouveau-né
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2332,20 +2332,20 @@ SubItems:
   Type: Plante
   Size: P
   Alignment: non aligné
-  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   ArmorClass: 5
   HitPoints: 3 (1d6)
   Speed: 0 m
+  ConditionImmunities: assourdi, aveuglé et terrorisé
+  Senses: vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
+  Languages: —
+  Challenge: 0 (10 PX)
+  Terrain: Caverne aménagée, Caverne naturelle, Ruines souterraines
   Strength: 1 (-5)
   Dexterity: 1 (-5)
   Constitution: 10 (+0)
   Intelligence: 1 (-5)
   Wisdom: 3 (-4)
   Charisma: 1 (-5)
-  Senses: vision aveugle 9 m (aveugle au-delà de cette distance), Perception passive 6
-  Languages: —
-  Challenge: 0 (10 PX)
-  ConditionImmunities: assourdi, aveuglé et terrorisé
   Id: baby_bestiary.md#criard-bouton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2483,19 +2483,19 @@ SubItems:
   Type: Vase
   Size: P
   Alignment: non aligné
-  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 6
   HitPoints: 17 (2d6+10)
   Speed: 4,5 m
+  ConditionImmunities: à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
+  Challenge: 1/4 (50 PX)
+  Terrain: Donjon maçonné, Ruines souterraines
   Strength: 8 (-2)
   Dexterity: 3 (-4)
   Constitution: 20 (+5)
   Intelligence: 1 (-5)
   Wisdom: 6 (-2)
   Charisma: 1 (-5)
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 8
-  Challenge: 1/4 (50 PX)
-  ConditionImmunities: à terre, assourdi, aveuglé, charmé, terrorisé et épuisé
   Id: baby_bestiary.md#cube-gélatineux-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2642,15 +2642,15 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 30 (4d8+12)
   Speed: 12 m, vol 18 m
+  DamageResistances: de feu
+  Senses: Perception passive 11
+  Challenge: 1/2 (100 PX)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  Senses: Perception passive 11
-  Challenge: 1/2 (100 PX)
-  DamageResistances: de feu
   Id: baby_bestiary.md#destrier-noir-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2792,21 +2792,21 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Bon
-  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 41 (5d6+24)
   Speed: 6 m, vol 18 m
+  SavingThrows: Dex +4, Sag +4
+  DamageImmunities: de foudre et de tonnerre
+  Senses: vision dans le noir 36 m, Perception passive 12
+  Languages: aérien
+  Challenge: 2 (400 PX)
+  Terrain: Montagnes, Plans élémentaires
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 22 (+6)
   Intelligence: 11 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  SavingThrows: Dex +4, Sag +4
-  Senses: vision dans le noir 36 m, Perception passive 12
-  Languages: aérien
-  Challenge: 2 (400 PX)
-  DamageImmunities: de foudre et de tonnerre
   Id: baby_bestiary.md#djinayni
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -2969,17 +2969,17 @@ SubItems:
   ArmorClass: 12
   HitPoints: 45 (6d6+24)
   Speed: vol 6 m
+  SavingThrows: Int +4
+  Skills: Perception +4
+  ConditionImmunities: à terre
+  Senses: vision dans le noir 36 m, Perception passive 14
+  Challenge: 2 (450 PX)
   Strength: 6 (-4)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: 14 (+2)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  SavingThrows: Int +4
-  Skills: Perception +4
-  Senses: vision dans le noir 36 m, Perception passive 14
-  Challenge: 2 (450 PX)
-  ConditionImmunities: à terre
   Id: baby_bestiary.md#dodomeki-petit-oeil
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -3126,18 +3126,18 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 35 (5d6+15)
   Speed: 9 m, escalade 9 m, vol 12 m
+  SavingThrows: Dex +2, Con +5
+  Skills: Discrétion +2, Perception +4
+  DamageResistances: selon sa couleur
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
+  Languages: draconique
+  Challenge: 2 (450 PX)
   Strength: 14 (+2)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 12 (+1)
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  SavingThrows: Dex +2, Con +5
-  Skills: Discrétion +2, Perception +4
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 14
-  Languages: draconique
-  Challenge: 2 (450 PX)
-  DamageResistances: selon sa couleur
   Id: baby_bestiary.md#dragonnet
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -3275,20 +3275,20 @@ SubItems:
   Type: Dragon
   Size: P
   Alignment: alignement variable
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 16 (armure naturelle)
   HitPoints: 19 (3d6+9)
   Speed: 6 m, nage 12 m
+  DamageResistances: de feu
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: draconique
+  Challenge: 1/2 (100 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Languages: draconique
-  Challenge: 1/2 (100 PX)
-  DamageResistances: de feu
   Id: baby_bestiary.md#dragonnet-tortue
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -3426,22 +3426,22 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre
-  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 14
   HitPoints: 22 (4d6+8)
   Speed: 0 m, vol 27 m (vol stationnaire)
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: aérien
+  Challenge: 1 (200 PX)
+  Terrain: Montagnes, Plans élémentaires
   Strength: 8 (-2)
   Dexterity: 18 (+4)
   Constitution: 14 (+2)
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 6 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: aérien
-  Challenge: 1 (200 PX)
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-dair
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -3603,22 +3603,22 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre
-  Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 30 (4d6+16)
   Speed: 9 m, nage 27 m
+  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: aquatique
+  Challenge: 1 (200 PX)
+  Terrain: Mer / Océan, Plans élémentaires, Caverne sous-marine
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 8 (-1)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: aquatique
-  Challenge: 1 (200 PX)
-  DamageResistances: d'acide ; contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageImmunities: de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-deau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -3792,22 +3792,22 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre
-  Terrain: Plans élémentaires
   ArmorClass: 13
   HitPoints: 26 (4d6+12)
   Speed: 15 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de feu et de poison
+  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: ignée
+  Challenge: 1 (200 PX)
+  Terrain: Plans élémentaires
   Strength: 4 (-3)
   Dexterity: 17 (+3)
   Constitution: 16 (+3)
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: ignée
-  Challenge: 1 (200 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageImmunities: de feu et de poison
-  ConditionImmunities: à terre, empoigné, empoisonné, épuisé, inconscient, entravé, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-de-feu
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -3973,23 +3973,23 @@ SubItems:
   Family: BabyBestiary
   Name: Élémenteau de terre
   Type: Élémentaire de terre taille P, Neutre
-  Terrain: Bois / Forêt, Plans élémentaires
   ArmorClass: 16 (armure naturelle)
   HitPoints: 34 (4d6+20)
   Speed: 9 m, fouissement 9 m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  DamageImmunities: de poison
+  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifé
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
+  Languages: terreux
+  Challenge: 1 (200 PX)
+  DamageVulnerabilities: de tonnerre
+  Terrain: Bois / Forêt, Plans élémentaires
   Strength: 12 (+1)
   Dexterity: 8 (-1)
   Constitution: 20 (+5)
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
-  Languages: terreux
-  Challenge: 1 (200 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageVulnerabilities: de tonnerre
-  DamageImmunities: de poison
-  ConditionImmunities: empoisonné, épuisé, inconscient, paralysé et pétrifé
   Id: baby_bestiary.md#Élémenteau-de-terre
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -4162,17 +4162,17 @@ SubItems:
   ArmorClass: 13 (armure naturelle)
   HitPoints: 9 (2d4+4)
   Speed: 12 m
+  Skills: Discrétion +4, Perception +4
+  DamageResistances: nécrotiques
+  Senses: Perception passive 14
+  Languages: —
+  Challenge: 1/2 (50 PX)
   Strength: 6 (-3)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: 8 (-2)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: Discrétion +4, Perception +4
-  Senses: Perception passive 14
-  Languages: —
-  Challenge: 1/2 (50 PX)
-  DamageResistances: nécrotiques
   Id: baby_bestiary.md#enfield-renardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -4322,21 +4322,21 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Mauvais
-  Terrain: Plans élémentaires, Ruines extérieures
   ArmorClass: 15 (armure naturelle)
   HitPoints: 11 (2d8+6)
   Speed: 6 m, vol 12m
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantiumde poison
+  ConditionImmunities: empoisonné, épuisé et pétrifé
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: selon l'âme
+  Challenge: 1/4 (50 PX)
+  Terrain: Plans élémentaires, Ruines extérieures
   Strength: 6 (-2)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: 6 (-2)
   Wisdom: 11 (+0)
   Charisma: 7 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: selon l'âme
-  Challenge: 1/4 (50 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantiumde poison
-  ConditionImmunities: empoisonné, épuisé et pétrifé
   Id: baby_bestiary.md#gargouille-moulure
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -4508,19 +4508,19 @@ SubItems:
   Type: Humanoïde (gnoll)
   Size: P
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 11
   HitPoints: 4 (1d8)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: gnoll
+  Challenge: 0 (0 PX)
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
   Strength: 8 (-2)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: 4 (-3)
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: gnoll
-  Challenge: 0 (0 PX)
   Id: baby_bestiary.md#gnoll-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -4658,20 +4658,20 @@ SubItems:
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Chaotique Mauvais
-  Terrain: Collines / Vallées, Caverne aménagée
   ArmorClass: 12
   HitPoints: 9 (2d6+2)
   Speed: 9 m
+  Skills: Discrétion +6, Survie +2
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun, gobelin
+  Challenge: 1/8 (25 PX)
+  Terrain: Collines / Vallées, Caverne aménagée
   Strength: 8 (-1)
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: 8 (-1)
   Wisdom: 11 (+0)
   Charisma: 9 (-1)
-  Skills: Discrétion +6, Survie +2
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: commun, gobelin
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#gobelours-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -4821,20 +4821,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
-  Terrain: Montagnes
   ArmorClass: 12
   HitPoints: 19 (3d8+6)
   Speed: 9 m, vol 18 m
+  Skills: Perception +3
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Montagnes
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 2 (-4)
   Wisdom: 13 (+1)
   Charisma: 8 (-1)
-  Skills: Perception +3
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#griffon-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -4996,19 +4996,19 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: Chaotique Mauvais
-  Terrain: Littoral, Montagnes, Ruines extérieures
   ArmorClass: 11
   HitPoints: 9 (2d6+2)
   Speed: 6 m, vol 9 m
+  Senses: Perception passive 10
+  Languages: commun
+  Challenge: 1/4 (50 PX)
+  Terrain: Littoral, Montagnes, Ruines extérieures
   Strength: 6 (-3)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: 7 (-2)
   Wisdom: 10 (+0)
   Charisma: 13 (+1)
-  Senses: Perception passive 10
-  Languages: commun
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#harpie-fille
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -5140,19 +5140,19 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non aligné
-  Terrain: Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 5 (1d10)
   Speed: 0 m, nage 12 m
+  Senses: Perception passive 11
+  Languages: —
+  Challenge: 1/8 (25 PX)
+  Terrain: Ruines sous-marines
   Strength: 8 (-1)
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: 2 (-4)
   Wisdom: 12 (+1)
   Charisma: 5 (-3)
-  Senses: Perception passive 11
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#hippocampe-fretin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -5296,20 +5296,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
-  Terrain: Littoral, Montagnes
   ArmorClass: 11
   HitPoints: 5 (1d8+1)
   Speed: 9 m, vol 12 m
+  Skills: Perception +5
+  Senses: Perception passive 15
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Littoral, Montagnes
   Strength: 9 (-1)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 2 (-4)
   Wisdom: 12 (+1)
   Charisma: 8 (-1)
-  Skills: Perception +5
-  Senses: Perception passive 15
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#hippogriffe-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -5471,20 +5471,20 @@ SubItems:
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
-  Terrain: Mangrove / Marécage, Caverne sous-marine
   ArmorClass: 15 (armure naturelle, bouclier)
   HitPoints: 4 (1d6+1)
   Speed: 6 m, nage 6 m
+  Skills: Discrétion +4, Perception +3, Survie +5
+  Senses: Perception passive 13
+  Languages: draconique
+  Challenge: 0 (0 PX)
+  Terrain: Mangrove / Marécage, Caverne sous-marine
   Strength: 8 (-1)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: 7 (-2)
   Wisdom: 12 (+1)
   Charisma: 7 (-2)
-  Skills: Discrétion +4, Perception +3, Survie +5
-  Senses: Perception passive 13
-  Languages: draconique
-  Challenge: 0 (0 PX)
   Id: baby_bestiary.md#homme-lézard-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -5628,20 +5628,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
-  Terrain: Littoral, Caverne sous-marine
   ArmorClass: 13 (armure naturelle)
   HitPoints: 47 (5d8+25)
   Speed: 9 m, nage 9 m
+  Skills: Perception +4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Littoral, Caverne sous-marine
   Strength: 12 (+1)
   Dexterity: 12 (+1)
   Constitution: 20 (+5)
   Intelligence: 2 (-4)
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
-  Skills: Perception +4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: baby_bestiary.md#hydre-serpenteau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -5812,16 +5812,16 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 30 (4d8+12)
   Speed: 9 m, vol 18 m
+  DamageResistances: radiants, feu, électricité
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: toutes, télépathie 36 m
+  Challenge: 2 (100 PX)
   Strength: 12 (+1)
   Dexterity: 18 (+4)
   Constitution: 16 (+3)
   Intelligence: 12 (+2)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: toutes, télépathie 36 m
-  Challenge: 2 (100 PX)
-  DamageResistances: radiants, feu, électricité
   Id: baby_bestiary.md#kirin-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -5986,16 +5986,16 @@ SubItems:
   ArmorClass: 12 sous forme humanoïde, 13 (armure naturelle) sous forme hybride ou de renard
   HitPoints: 16 (3d6+6)
   Speed: 9 m (12 m sous forme de renard)
+  Skills: Discrétion +3, Perception +4
+  Senses: Perception passive 14
+  Languages: commun (ne peut pas parler sous forme de renard)
+  Challenge: 1 (200 PX)
   Strength: 6 (-2)
   Dexterity: 15 (+2)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 15 (+2)
-  Skills: Discrétion +3, Perception +4
-  Senses: Perception passive 14
-  Languages: commun (ne peut pas parler sous forme de renard)
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#kitsune-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -6157,19 +6157,19 @@ SubItems:
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Loyal Mauvais
-  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   ArmorClass: 12
   HitPoints: 1 (1d6-2)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, Perception passive 8
+  Languages: commun, draconique
+  Challenge: 0 (0 PX)
+  Terrain: Jungle, Mangrove / Marécage, Caverne aménagée
   Strength: 5 (-3)
   Dexterity: 15 (+2)
   Constitution: 9 (-1)
   Intelligence: 8 (-1)
   Wisdom: 7 (-2)
   Charisma: 8 (-1)
-  Senses: vision dans le noir 18 m, Perception passive 8
-  Languages: commun, draconique
-  Challenge: 0 (0 PX)
   Id: baby_bestiary.md#kobold-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -6307,20 +6307,20 @@ SubItems:
   Type: Bête
   Size: M
   Alignment: non aligné
-  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 11
   HitPoints: 13 (3d6+3)
   Speed: 3 m, nage 15 m
+  Skills: Discrétion +5, Perception +4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   Strength: 10 (+0)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 6 (-2)
   Wisdom: 10 (+0)
   Charisma: 4 (-3)
-  Skills: Discrétion +5, Perception +4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#kraken-larve
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -6491,17 +6491,17 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 95 (10d12+30)
   Speed: nage 15 m
+  SavingThrows: For +7, Con +5
+  ConditionImmunities: terrorisé
+  Senses: vision dans le noir 36 m, Perception passive 10
+  Languages: —
+  Challenge: 5 (1 800 PX)
   Strength: 21 (+5)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 2 (-4)
   Wisdom: 10 (+0)
   Charisma: 7 (-2)
-  SavingThrows: For +7, Con +5
-  Senses: vision dans le noir 36 m, Perception passive 10
-  Languages: —
-  Challenge: 5 (1 800 PX)
-  ConditionImmunities: terrorisé
   Id: baby_bestiary.md#léviathan-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -6630,16 +6630,16 @@ SubItems:
   ArmorClass: 10
   HitPoints: 2 (1d4)
   Speed: 6 m, escalade 6 m
+  DamageResistances: de foudre
+  Senses: vision dans le noir 9 m, Perception passive 9
+  Languages: —
+  Challenge: 0 (10 PX)
   Strength: 2 (-4)
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: 1 (-5)
   Wisdom: 8 (-1)
   Charisma: 3 (-4)
-  Senses: vision dans le noir 9 m, Perception passive 9
-  Languages: —
-  Challenge: 0 (10 PX)
-  DamageResistances: de foudre
   Id: baby_bestiary.md#lézardeau-de-foudre
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -6759,21 +6759,21 @@ SubItems:
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
-  Terrain: Bois / Forêt
   ArmorClass: 12
   HitPoints: 22 (3d8+9)
   Speed: 15 m
+  DamageResistances: de poison
+  ConditionImmunities: charmé, empoisonné et paralysé
+  Senses: vision aveugle 18 m, Perception passive 13
+  Languages: céleste, elfe, sylvestre, télépathie 18 m
+  Challenge: 1 (200 PX)
+  Terrain: Bois / Forêt
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 11 (+0)
   Wisdom: 17 (+3)
   Charisma: 14 (+2)
-  Senses: vision aveugle 18 m, Perception passive 13
-  Languages: céleste, elfe, sylvestre, télépathie 18 m
-  Challenge: 1 (200 PX)
-  DamageResistances: de poison
-  ConditionImmunities: charmé, empoisonné et paralysé
   Id: baby_bestiary.md#licorne-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -6980,15 +6980,15 @@ SubItems:
   ArmorClass: 12 (armure naturelle)
   HitPoints: 11 (2d8+2)
   Speed: 6 m, nage 9 m
+  Senses: Perception passive 11
+  Languages: —
+  Challenge: 1/4 (50 PX)
   Strength: 10 (+0)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: 2 (-4)
   Wisdom: 12 (+1)
   Charisma: 8 (-1)
-  Senses: Perception passive 11
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#lionceau-de-mer
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -7114,18 +7114,18 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Mauvais
-  Terrain: Désert chaud, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m, vol 12 m
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Challenge: 1/2 (100 PX)
+  Terrain: Désert chaud, Montagnes
   Strength: 10 (+0)
   Dexterity: 16 (+3)
   Constitution: 17 (+3)
   Intelligence: 5 (-3)
   Wisdom: 12 (+1)
   Charisma: 8 (-1)
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#manticore-lionceau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -7287,21 +7287,21 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Mauvais
-  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 26 (4d6+12)
   Speed: 9 m
+  Skills: Discrétion +4, Perception +3, Supercherie +2
+  ConditionImmunities: empoisonné, pétrifé (variante)
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: commun
+  Challenge: 1 (200 PX)
+  Terrain: Donjon maçonné, Ruines extérieures, Ruines souterraines
   Strength: 8 (-2)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 13 (+1)
-  Skills: Discrétion +4, Perception +3, Supercherie +2
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: commun
-  Challenge: 1 (200 PX)
-  ConditionImmunities: empoisonné, pétrifé (variante)
   Id: baby_bestiary.md#méduse-fille
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -7457,22 +7457,22 @@ SubItems:
   Type: Créature monstrueuse (métamorphe)
   Size: P
   Alignment: Neutre
-  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   ArmorClass: 12 (armure naturelle)
   HitPoints: 13 (3d6+6)
   Speed: 4,50 m
+  Skills: Discrétion +5
+  DamageResistances: d'acide
+  ConditionImmunities: à terre
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Languages: —
+  Challenge: 1/4 (50 PX)
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   Strength: 9 (-1)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: 5 (-3)
   Wisdom: 13 (+1)
   Charisma: 8 (-1)
-  Skills: Discrétion +5
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  DamageResistances: d'acide
-  ConditionImmunities: à terre
   Id: baby_bestiary.md#mimique-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -7658,19 +7658,19 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
   ArmorClass: 14 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m
+  Skills: Perception +5
+  Senses: vision dans le noir 18 m, Perception passive 15
+  Challenge: 1/2 (100 PX)
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines extérieures
   Strength: 10 (+0)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: 6 (-2)
   Wisdom: 16 (+3)
   Charisma: 9 (-1)
-  Skills: Perception +5
-  Senses: vision dans le noir 18 m, Perception passive 15
-  Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#minotaure-veau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -7823,15 +7823,15 @@ SubItems:
   ArmorClass: 5
   HitPoints: 4 (1d6+1)
   Speed: 6 m
+  Senses: vision dans le noir 36 m, Perception passive 10
+  Languages: —
+  Challenge: 0 (10 PX)
   Strength: 5 (-3)
   Dexterity: 8 (-1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 6 (-2)
-  Senses: vision dans le noir 36 m, Perception passive 10
-  Languages: —
-  Challenge: 0 (10 PX)
   Id: baby_bestiary.md#myconide-spore
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -7951,22 +7951,22 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
-  Terrain: Ruines extérieures
   ArmorClass: 16 (armure naturelle)
   HitPoints: 32 (5d6+15)
   Speed: 9 m
+  SavingThrows: Dex +6, Con +6, Sag +6
+  DamageResistances: de poison
+  ConditionImmunities: charmé et empoisonné
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: commun
+  Challenge: 2 (450 PX)
+  Terrain: Ruines extérieures
   Strength: 10 (+0)
   Dexterity: 18 (+4)
   Constitution: 16 (+3)
   Intelligence: 13 (+1)
   Wisdom: 19 (+4)
   Charisma: 16 (+2)
-  SavingThrows: Dex +6, Con +6, Sag +6
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: commun
-  Challenge: 2 (450 PX)
-  DamageResistances: de poison
-  ConditionImmunities: charmé et empoisonné
   Id: baby_bestiary.md#naga-couvain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -8161,15 +8161,15 @@ SubItems:
   ArmorClass: 10
   HitPoints: 30 (4d8 + 12)
   Speed: 9 m, vol 9 m
+  Senses: vision dans le noir à 18 m, Perception passive +2
+  Languages: commun, géant
+  Challenge: 1 (200 PX)
   Strength: 10 (+0)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: 13 (+1)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  Senses: vision dans le noir à 18 m, Perception passive +2
-  Languages: commun, géant
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#ogre-mage
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -8316,17 +8316,17 @@ SubItems:
   ArmorClass: 15 (armure naturelle)
   HitPoints: 30 (4d8+12)
   Speed: 9 m, fouissement 6 m
+  Skills: Discrétion +4, Perception +6
+  ConditionImmunities: aveuglé
+  Senses: perception des vibrations 18 m, vision aveugle 18 m, Perception passive 14
+  Languages: comprend le commun des profondeurs mais ne parle pas
+  Challenge: 1 (200 PX)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: 7 (-2)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Discrétion +4, Perception +6
-  Senses: perception des vibrations 18 m, vision aveugle 18 m, Perception passive 14
-  Languages: comprend le commun des profondeurs mais ne parle pas
-  Challenge: 1 (200 PX)
-  ConditionImmunities: aveuglé
   Id: baby_bestiary.md#ombres-des-roches
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -8476,19 +8476,19 @@ SubItems:
   Type: Humanoïde (orc)
   Size: P
   Alignment: Chaotique Mauvais
-  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 11
   HitPoints: 6 (1d6+3)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, Perception passive 10
+  Languages: commun, orc
+  Challenge: 1/8 (25 PX)
+  Terrain: Caverne aménagée, Ruines souterraines
   Strength: 9 (-1)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: 7 (-2)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Senses: vision dans le noir 18 m, Perception passive 10
-  Languages: commun, orc
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#orque-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -8638,20 +8638,20 @@ SubItems:
   Type: Aberration
   Size: M
   Alignment: Neutre
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 24 (3d8+12)
   Speed: 9 m
+  SavingThrows: Con +7
+  Senses: vision dans le noir 36 m, Perception passive 11
+  Languages: otyugh
+  Challenge: 1 (200 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 10 (+0)
   Dexterity: 11 (+0)
   Constitution: 19 (+4)
   Intelligence: 6 (-2)
   Wisdom: 13 (+1)
   Charisma: 6 (-2)
-  SavingThrows: Con +7
-  Senses: vision dans le noir 36 m, Perception passive 11
-  Languages: otyugh
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#otyugh-bout
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -8813,20 +8813,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
-  Terrain: Bois / Forêt, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m
+  Skills: Perception +3
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: —
+  Challenge: 1/2 (100 PX)
+  Terrain: Bois / Forêt, Caverne naturelle
   Strength: 12 (+1)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: 3 (-4)
   Wisdom: 12 (+1)
   Charisma: 7 (-2)
-  Skills: Perception +3
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: —
-  Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#ours-hibou-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -8988,18 +8988,18 @@ SubItems:
   Type: Créature monstrueuse
   Size: P
   Alignment: non aligné
-  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 9 (2d6+2)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Challenge: 1 (200 PX)
+  Terrain: Caverne naturelle, Ruines souterraines
   Strength: 6 (-2)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 2 (-4)
   Wisdom: 13 (+1)
   Charisma: 6 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#oxydeur-charançon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -9134,16 +9134,16 @@ SubItems:
   ArmorClass: 12
   HitPoints: 12 (2d8+6)
   Speed: 12 m, vol 18 m
+  Skills: Perception +6
+  Senses: Perception passive 16
+  Languages: comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
+  Challenge: 1/4 (50 PX)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 15 (+2)
   Charisma: 13 (+1)
-  Skills: Perception +6
-  Senses: Perception passive 16
-  Languages: comprend le céleste, le commun, l'elfe et le sylvestre, mais ne peut pas parler
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#pégase-poulain
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -9276,16 +9276,16 @@ SubItems:
   ArmorClass: 13
   HitPoints: 26 (4d8+8)
   Speed: 3 m, vol 24 m
+  Skills: Perception +4
+  Senses: Perception passive 14
+  Languages: comprend le commun et l'aérien mais ne peut pas les parler
+  Challenge: 1 (200 PX)
   Strength: 14 (+2)
   Dexterity: 17 (+3)
   Constitution: 15 (+2)
   Intelligence: 6 (-2)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +4
-  Senses: Perception passive 14
-  Languages: comprend le commun et l'aérien mais ne peut pas les parler
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#péryton-hinulus
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -9450,18 +9450,18 @@ SubItems:
   ArmorClass: 12
   HitPoints: 18 (4d6+4)
   Speed: 3 m, vol 18 m
+  Skills: Perception +4
+  DamageResistances: radiants, nécrotiques, d'électricité
+  DamageImmunities: de feu
+  Senses: Perception passive 14
+  Languages: comprend le commun et l'aérien mais ne peut pas parler
+  Challenge: 1 (200 PX)
   Strength: 8 (-1)
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: 8 (-1)
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +4
-  Senses: Perception passive 14
-  Languages: comprend le commun et l'aérien mais ne peut pas parler
-  Challenge: 1 (200 PX)
-  DamageResistances: radiants, nécrotiques, d'électricité
-  DamageImmunities: de feu
   Id: baby_bestiary.md#phénix-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -9629,20 +9629,20 @@ SubItems:
   Type: Dragon
   Size: TP
   Alignment: Neutre Bon
-  Terrain: Bois / Forêt, Jungle, Caverne naturelle
   ArmorClass: 13 (armure naturelle)
   HitPoints: 3 (1d4+1)
   Speed: 4,50 m, vol 18 m
+  Skills: Discrétion +4, Perception +3
+  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
+  Languages: comprend le commun et le draconique mais ne peut pas parler
+  Challenge: 1/8 (25 PX)
+  Terrain: Bois / Forêt, Jungle, Caverne naturelle
   Strength: 4 (-3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 10 (+0)
-  Skills: Discrétion +4, Perception +3
-  Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
-  Languages: comprend le commun et le draconique mais ne peut pas parler
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#pseudo-dragon-vermisseau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -9813,18 +9813,18 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 30 (4d6+16)
   Speed: 9 m
+  Skills: Perspicacité +5, Supercherie +5
+  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
+  Senses: vision dans le noir 18 m, Perception passive 13
+  Languages: commun, infernal
+  Challenge: 3 (700 PX)
+  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures bonnes.
   Strength: 9 (-1)
   Dexterity: 17 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 16 (+3)
   Charisma: 16 (+3)
-  Skills: Perspicacité +5, Supercherie +5
-  Senses: vision dans le noir 18 m, Perception passive 13
-  Languages: commun, infernal
-  Challenge: 3 (700 PX)
-  DamageResistances: contondants, perforants et tranchants infligés par des attaques non magiques
-  DamageVulnerabilities: perforants infligés par des armes magiques maniées par des créatures bonnes.
   Id: baby_bestiary.md#rakshasa-chaton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -9988,20 +9988,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
-  Terrain: Arctique / Subarctique
   ArmorClass: 15 (armure naturelle)
   HitPoints: 51 (6d8+24)
   Speed: 9 m, fouissement 6 m
+  DamageResistances: de feu et de froid
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Arctique / Subarctique
   Strength: 14 (+2)
   Dexterity: 13 (+1)
   Constitution: 18 (+4)
   Intelligence: 4 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 10
-  Languages: —
-  Challenge: 2 (450 PX)
-  DamageResistances: de feu et de froid
   Id: baby_bestiary.md#remorhaz-fraie
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -10145,20 +10145,20 @@ SubItems:
   Type: Fée
   Size: P
   Alignment: Chaotique Neutre
-  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 12
   HitPoints: 9 (2d8)
   Speed: 12 m
+  Skills: Discrétion +5, Perception +2, Représentation +4
+  Senses: Perception passive 12
+  Languages: commun, elfe, sylvestre
+  Challenge: 1/8 (25 PX)
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   Strength: 8 (-1)
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: 12 (+1)
   Wisdom: 10 (+0)
   Charisma: 14 (+2)
-  Skills: Discrétion +5, Perception +2, Représentation +4
-  Senses: Perception passive 12
-  Languages: commun, elfe, sylvestre
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#satyre-chevreau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -10305,16 +10305,16 @@ SubItems:
   ArmorClass: 12
   HitPoints: 16 (3d6+6)
   Speed: 9 m, vol 15 m
+  Skills: Perception +4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: —
+  Challenge: 1/4 (50 PX)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 15 (+2)
   Charisma: 14 (+2)
-  Skills: Perception +4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: —
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#simurgh-chiot
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -10449,19 +10449,19 @@ SubItems:
   ArmorClass: 17 (armure naturelle)
   HitPoints: 51 (6d8+24)
   Speed: 9 m, vol 15 m
+  SavingThrows: Con +6, Sag +4
+  Skills: Perception +4
+  DamageResistances: psychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: charmé et terrorisé
+  Senses: vision parfaite 36 m, Perception passive 14
+  Languages: commun, sphinx
+  Challenge: 2 (450 PX)
   Strength: 12 (+1)
   Dexterity: 10 (+0)
   Constitution: 18 (+4)
   Intelligence: 14 (+2)
   Wisdom: 14 (+2)
   Charisma: 17 (+3)
-  SavingThrows: Con +6, Sag +4
-  Skills: Perception +4
-  Senses: vision parfaite 36 m, Perception passive 14
-  Languages: commun, sphinx
-  Challenge: 2 (450 PX)
-  DamageResistances: psychiques ; contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: charmé et terrorisé
   Id: baby_bestiary.md#sphinx-chaton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -10649,21 +10649,21 @@ SubItems:
   Type: Plante
   Size: G
   Alignment: Chaotique Bonne
-  Terrain: Bois / Forêt
   ArmorClass: 15 (armure naturelle)
   HitPoints: 42 (4d10+20)
   Speed: 9 m
+  DamageResistances: contondants et perçants
+  Senses: Perception passive 13
+  Languages: commun, elfe, druidique, sylvestre
+  Challenge: 1 (200 PX)
+  DamageVulnerabilities: de feu
+  Terrain: Bois / Forêt
   Strength: 15 (+2)
   Dexterity: 8 (-1)
   Constitution: 21 (+5)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Senses: Perception passive 13
-  Languages: commun, elfe, druidique, sylvestre
-  Challenge: 1 (200 PX)
-  DamageResistances: contondants et perçants
-  DamageVulnerabilities: de feu
   Id: baby_bestiary.md#sylvanien-baliveau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -10828,14 +10828,14 @@ SubItems:
   ArmorClass: 16 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 9 m, nage 9 m
+  Senses: vision dans le noir 18 m, Perception passive 11
+  Challenge: 1/2 (100 PX)
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 17 (+3)
   Intelligence: 5 (-3)
   Wisdom: 12 (+1)
   Charisma: 8 (-1)
-  Senses: vision dans le noir 18 m, Perception passive 11
-  Challenge: 1/2 (100 PX)
   Id: baby_bestiary.md#tarasque-poussin
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -10982,17 +10982,17 @@ SubItems:
   ArmorClass: 13
   HitPoints: 11 (2d6+4)
   Speed: 9 m, escalade 9m
+  Skills: Discrétion +4, Perception +3
+  DamageResistances: d'acide, de feu, de foudre et de froid
+  Senses: Perception passive 13
+  Languages: —
+  Challenge: 1/4 (50 PX)
   Strength: 6 (-2)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 7 (-2)
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
-  Skills: Discrétion +4, Perception +3
-  Senses: Perception passive 13
-  Languages: —
-  Challenge: 1/4 (50 PX)
-  DamageResistances: d'acide, de feu, de foudre et de froid
   Id: baby_bestiary.md#tatzelwurm-vermisseau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -11118,22 +11118,22 @@ SubItems:
   Type: Plante
   Size: M
   Alignment: non aligné
-  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 37 (5d8+15)
   Speed: 6 m
+  Skills: Discrétion +4
+  DamageResistances: de feu et de froidde foudre
+  ConditionImmunities: assourdi, aveuglé et épuisé
+  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Jungle, Mangrove / Marécage
   Strength: 10 (+0)
   Dexterity: 8 (-1)
   Constitution: 16 (+3)
   Intelligence: 5 (-3)
   Wisdom: 10 (+0)
   Charisma: 5 (-3)
-  Skills: Discrétion +4
-  Senses: vision aveugle 18 m (aveugle au-delà de ce rayon), Perception passive 10
-  Languages: —
-  Challenge: 1 (200 PX)
-  DamageResistances: de feu et de froidde foudre
-  ConditionImmunities: assourdi, aveuglé et épuisé
   Id: baby_bestiary.md#tertre-errant-petit
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -11302,16 +11302,16 @@ SubItems:
   ArmorClass: 12
   HitPoints: 16 (3d6+6)
   Speed: 12 m
+  Skills: Discrétion +6, Perception +3
+  Senses: Perception passive 13
+  Languages: —
+  Challenge: 1 (200 PX)
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 3 (-4)
   Wisdom: 12 (+1)
   Charisma: 8 (-1)
-  Skills: Discrétion +6, Perception +3
-  Senses: Perception passive 13
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#tigron-de-phase
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -11482,17 +11482,17 @@ SubItems:
   ArmorClass: 20 (armure naturelle)
   HitPoints: 181 (11d12+110)
   Speed: 12 m
+  DamageResistances: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
+  ConditionImmunities: charmé, terrorisé, empoisonné et paralysé
+  Senses: vision aveugle 36 m, Perception passive 10
+  Languages: —
+  Challenge: 10 (5 900 PX)
   Strength: 22 (+6)
   Dexterity: 11 (+0)
   Constitution: 30 (+10)
   Intelligence: 3 (-4)
   Wisdom: 11 (+0)
   Charisma: 11 (+0)
-  Senses: vision aveugle 36 m, Perception passive 10
-  Languages: —
-  Challenge: 10 (5 900 PX)
-  DamageResistances: de feu, de poison ; contondants, perforants et tranchants infligés par des attaques non magiques
-  ConditionImmunities: charmé, terrorisé, empoisonné et paralysé
   Id: baby_bestiary.md#titan-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -11693,15 +11693,15 @@ SubItems:
   ArmorClass: 11
   HitPoints: 4 (1d6+1)
   Speed: 12 m, nage 12 m
+  Senses: vision aveugle 18 m, aveugle au-delà, Perception passive 10
+  Languages: —
+  Challenge: 1/8 (25 PX)
   Strength: 8 (-1)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: 2 (-4)
   Wisdom: 10 (+0)
   Charisma: 3 (-4)
-  Senses: vision aveugle 18 m, aveugle au-delà, Perception passive 10
-  Languages: —
-  Challenge: 1/8 (25 PX)
   Id: baby_bestiary.md#troglodyte-têtard
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -11833,19 +11833,19 @@ SubItems:
   Type: Géant
   Size: M
   Alignment: Chaotique Mauvais
-  Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 19 (2d8+10)
   Speed: 9 m
+  Senses: vision dans le noir 18 m, Perception passive 9
+  Languages: variable
+  Challenge: 1 (200 PX)
+  Terrain: Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
   Strength: 10 (+0)
   Dexterity: 13 (+1)
   Constitution: 20 (+5)
   Intelligence: 7 (-2)
   Wisdom: 9 (-1)
   Charisma: 7 (-2)
-  Senses: vision dans le noir 18 m, Perception passive 9
-  Languages: variable
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#troll-bourgeon
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -12007,20 +12007,20 @@ SubItems:
   Type: Créature monstrueuse
   Size: G
   Alignment: non aligné
-  Terrain: Montagnes, Caverne naturelle
   ArmorClass: 16 (armure naturelle)
   HitPoints: 52 (5d10+25)
   Speed: 12 m, fouissement 6 m
+  SavingThrows: Con +7
+  Senses: perception des vibrations 18 m, vision aveugle 9 m, Perception passive 9
+  Languages: —
+  Challenge: 2 (450 PX)
+  Terrain: Montagnes, Caverne naturelle
   Strength: 16 (+3)
   Dexterity: 7 (-2)
   Constitution: 22 (+5)
   Intelligence: 1 (-5)
   Wisdom: 8 (-1)
   Charisma: 4 (-3)
-  SavingThrows: Con +7
-  Senses: perception des vibrations 18 m, vision aveugle 9 m, Perception passive 9
-  Languages: —
-  Challenge: 2 (450 PX)
   Id: baby_bestiary.md#ver-pourpre-violet
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -12164,20 +12164,20 @@ SubItems:
   Type: Dragon
   Size: M
   Alignment: non aligné
-  Terrain: Littoral, Montagnes
   ArmorClass: 13 (armure naturelle)
   HitPoints: 30 (4d8+12)
   Speed: 6 m, vol 18 m
+  Skills: Perception +4
+  Senses: vision dans le noir 18 m, Perception passive 14
+  Languages: —
+  Challenge: 1 (200 PX)
+  Terrain: Littoral, Montagnes
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: 5 (-3)
   Wisdom: 12 (+1)
   Charisma: 6 (-2)
-  Skills: Perception +4
-  Senses: vision dans le noir 18 m, Perception passive 14
-  Languages: —
-  Challenge: 1 (200 PX)
   Id: baby_bestiary.md#vouivre-civelle
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -12342,16 +12342,16 @@ SubItems:
   ArmorClass: 13
   HitPoints: 5 (1d6+2)
   Speed: 12 m, vol 24 m
+  Skills: Perception +4
+  Senses: Perception passive 14
+  Languages: comprend le commun mais ne peut pas parler
+  Challenge: 1/4 (50 PX)
   Strength: 4 (-3)
   Dexterity: 17 (+3)
   Constitution: 15 (+2)
   Intelligence: 6 (-2)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: Perception +4
-  Senses: Perception passive 14
-  Languages: comprend le commun mais ne peut pas parler
-  Challenge: 1/4 (50 PX)
   Id: baby_bestiary.md#wolpentinger-rejeton
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
@@ -12495,21 +12495,21 @@ SubItems:
   Type: Élémentaire
   Size: P
   Alignment: Neutre
-  Terrain: Montagnes, Plans élémentaires
   ArmorClass: 17 (armure naturelle)
   HitPoints: 17 (2d6+10)
   Speed: 6 m, fouissement 3 m
+  Skills: Discrétion +2, Perception +4
+  DamageResistances: perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
+  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
+  Languages: terreux
+  Challenge: 1/2 (100 PX)
+  Terrain: Montagnes, Plans élémentaires
   Strength: 9 (-1)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Skills: Discrétion +2, Perception +4
-  Senses: perception des vibrations 18 m, vision dans le noir 18 m, Perception passive 14
-  Languages: terreux
-  Challenge: 1/2 (100 PX)
-  DamageResistances: perforants et tranchants infligés par des attaques non magiques qui ne sont pas en adamantium
   Id: baby_bestiary.md#xorn-bébé
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
