@@ -5117,6 +5117,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Morsure rapide (Coûte 2 actions)._** Le dragon fait deux attaques de morsure.
 
+# [L'antre d'un dragon des cavernes]
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -5152,6 +5154,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4)dégâts perforants plus 3(1d6) dégâts de poison.
 
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon crache un gaz noir empoisonné sur un cône de 4,50 mètres. Chaque créature qui se trouve dans la zone d'effet doit faire un jet de sauvegarde de Constitution DD 13. Sur un échec, une créature subit 14 (4d6) dégâts de poison et se trouve dans l'état empoisonné. L'état empoisonné dure jusqu'à ce que la cible termine un repos court ou long, ou le dissipe à l'aide de
+
+# [L'antre d'un dragon des cavernes]
 
 <!--/MonsterItem-->
 
@@ -5198,6 +5202,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 ## RÉACTIONS
 
 **_Collerette d'épines._** Quand une créature tente de pénétrer dans un emplacement adjacent à celui d'un dragon des cavernes, celui-ci hérisse ses nombreux barbillons et épines. La créature ne peut pas entrer dans un emplacement adjacent à celui du dragon sauf si elle réussit un jet de sauvegarde de Dextérité DD 16. Sur un échec, la créature peut continuer de se déplacer, mais seulement vers un emplacement qui ne se trouve pas à moins de 1,50 mètre du dragon et elle subit 4 (1d8) dégâts perforants causés par les épines.
+
+# [L'antre d'un dragon des cavernes]
 
 <!--/MonsterItem-->
 
@@ -5264,6 +5270,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 3 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 14(2d6+7) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
 
+# [L'antre d'un dragon du vent]
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -5293,6 +5301,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Morsure._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 9 (1d10+4) dégâts perforants.
 
 **_Souffle de bourrasques (Recharge 5–6)._** Le dragon souffle une bourrasque de vent sur un cône de 4,50mètres. Chaque créature qui se trouve dans ce cône doit réussir un jet de sauvegarde de Force DD 12 ou être repoussée de 4,50 mètres et jetée à terre. Les flammes non protégées qui se trouvent dans ce cône sont éteintes. Les flammes protégées (comme celles qui se trouvent dans des lanternes) ont 50 % de chances d'être éteintes.
+
+# [L'antre d'un dragon du vent]
 
 <!--/MonsterItem-->
 
@@ -5335,6 +5345,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Griffes._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d6+5) dégâts tranchants.
 
 **_Souffle de bourrasques (Recharge 5–6)._** Le dragon souffle une bourrasque de vent sur un cône de 9mètres. Chaque créature qui se trouve dans ce cône subit 11 (2d10) dégâts contondants et est repoussée à 7,50 mètres du dragon et jetée à terre. Si une créature réussit un jet de sauvegarde de Force DD 16, les dégâts sont diminués de moitié et elle n'est pas repoussée (mais elle est jetée à terre). Les flammes non protégées qui se trouvent dans ce cône sont éteintes. Les flammes protégées (comme celles qui se trouvent dans des lanternes) ont 75 % de chances d'être éteintes.
+
+# [L'antre d'un dragon du vent]
 
 <!--/MonsterItem-->
 
@@ -5400,6 +5412,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Attaque avec la queue._** Le dragon fait une attaque de queue.
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 3 mètres doit réussir un jet de sauvegarde de Dextérité DD 24 ou subir 20 (2d10+ 9) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
+
+# [L'antre d'un dragon du vent]
 
 <!--/MonsterItem-->
 
@@ -5483,6 +5497,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Cache du vide (Coûte 3 actions)._** Le dragon peut magiquement accéder à son trésor pour y récupérer un objet. Si le dragon tient un objet, il peut utiliser ce pouvoir pour le déposer dans son trésor.
 
+# [L'antre d'un dragon du vide]
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -5523,6 +5539,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 ## RÉACTIONS
 
 **_Distorsion du Vide._** Comme pour le dragon du vide adulte, mais avec une augmentation de la CA de 2.
+
+# [L'antre d'un dragon du vide]
 
 <!--/MonsterItem-->
 
@@ -5570,6 +5588,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Distorsion du Vide._** Comme pour le dragon du vide adulte, mais avec une augmentation de la CA de 4.
 
+# [L'antre d'un dragon du vide]
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -5612,8 +5632,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Queue._** _Attaque d'arme au corps à corps :_ +16 pour toucher, allonge 6 m, une cible. Touché: 18 (2d8+9) dégâts contondants.
 
-**_Aura de folie._** Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 22 ou être terrorisées pendant 1 minute. Une créature refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature échoue à son jet de sauvegarde de 5 ou plus, elle devient folle. Une créature folle est
-en permanence terrorisée et elle se comporte alors comme si elle était sous l'effet du sort confusion . Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre l'aura de folie du dragon pour les 24 heures qui suivent.
+**_Aura de folie._** Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 22 ou être terrorisées pendant 1 minute. Une créature refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature échoue à son jet de sauvegarde de 5 ou plus, elle devient folle. Une créature folle est en permanence terrorisée et elle se comporte alors comme si elle était sous l'effet du sort confusion . Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre l'aura de folie du dragon pour les 24 heures qui suivent.
 
 **_Souffle (Recharge 5–6)._** Le dragon utilise l'un des souffles suivants.
 
@@ -5625,8 +5644,7 @@ en permanence terrorisée et elle se comporte alors comme si elle était sous l'
 
 ## RÉACTIONS
 
-**_Distorsion du Vide._** Quand le dragon est touché par une attaque à distance, il peut créer une petite déchirure dans l'espace qui lui permet d'augmenter sa CA de 7 contre cette attaque. Si l'attaque
-échoue à cause de cette augmentation, le dragon peut désigner une créature dans un rayon de 9mètres qui devient la nouvelle cible de cette attaque. Utilisez le jet d'attaque d'origine pour déterminer si l'attaque touche la nouvelle cible ou non.
+**_Distorsion du Vide._** Quand le dragon est touché par une attaque à distance, il peut créer une petite déchirure dans l'espace qui lui permet d'augmenter sa CA de 7 contre cette attaque. Si l'attaque échoue à cause de cette augmentation, le dragon peut désigner une créature dans un rayon de 9mètres qui devient la nouvelle cible de cette attaque. Utilisez le jet d'attaque d'origine pour déterminer si l'attaque touche la nouvelle cible ou non.
 
 ## ACTIONS LÉGENDAIRES.
 
@@ -5636,10 +5654,11 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec la queue._** Le dragon fait une attaque de queue.
 
-**_Glissade du Vide (Coûte 2 actions)._** 
-Le dragon tord la structure de l'espace. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 13(2d6+6)dégâts contondants et se trouver jetée à terre. Le dragon peut alors se téléporter dans un emplacement inoccupé dans un rayon de 12mètres.
+**_Glissade du Vide (Coûte 2 actions)._**  Le dragon tord la structure de l'espace. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 13(2d6+6)dégâts contondants et se trouver jetée à terre. Le dragon peut alors se téléporter dans un emplacement inoccupé dans un rayon de 12mètres.
 
 **_Cache du vide (Coûte 3 actions)._** Le dragon peut magiquement accéder à son trésor pour y récupérer un objet. Si le dragon tient un objet, il peut utiliser ce pouvoir pour le déposer dans son trésor.
+
+# [L'antre d'un dragon du vide]
 
 <!--/MonsterItem-->
 
@@ -5722,6 +5741,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 20 ou subir 14(2d6+7) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer de la moitié de sa vitesse de vol ou de la moitié de sa vitesse de nage s'il est dans l'eau.
 
+# [L'antre d'un dragon marin]
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -5750,6 +5771,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de froid.
 
 **_Souffle des marées (Recharge 5-6)._** Le dragon crache un jet dévastateur d'eau glacée sur un cône de 4,50mètres. Chaque créature qui se trouve dans la zone affectée doit faire un jet de sauvegarde de Dextérité DD 12. Sur un échec, une cible subit 11 (2d10) dégâts contondants plus 11 (2d10) dégâts de froid et elle se trouve repoussée de 4,50 mètres en arrière et jetée à terre. Si elle réussit son jet de sauvegarde, la créature subit la moitié des dégâts et n'est pas repoussée ni jetée à terre.
+
+# [L'antre d'un dragon marin]
 
 <!--/MonsterItem-->
 
@@ -5787,6 +5810,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Griffes._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d6+5) dégâts tranchants.
 
 **_Souffle des marées (Recharge 5-6)._** Le dragon crache un jet dévastateur d'eau glacée sur un cône de 9mètres. Chaque créature qui se trouve dans la zone affectée doit faire un jet de sauvegarde de Dextérité DD 16. Sur un échec, une cible subit 27 (5d10) dégâts contondants plus 27 (5d10) dégâts de froid et elle se trouve repoussée de 9 mètres en arrière et jetée à terre. Si elle réussit son jet de sauvegarde, la créature subit la moitié des dégâts et n'est pas repoussée ni jetée à terre.
+
+# [L'antre d'un dragon marin]
 
 <!--/MonsterItem-->
 
@@ -5840,6 +5865,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Attaque avec la queue._** Le dragon fait une attaque de queue.
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 24 ou subir 16 (2d6+9) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer de la moitié de sa vitesse de vol ou de la moitié de sa vitesse de nage s'il est dans l'eau.
+
+# [L'antre d'un dragon marin]
 
 <!--/MonsterItem-->
 
@@ -7241,6 +7268,8 @@ La Reine de la Nuit et de la Magie peut faire 3 actions légendaires, parmi cell
 
 **_Sort (2 actions)._** La Reine de la Nuit et de la Magie lance un sort.
 
+# [L'antre de la Reine de la Nuit et de la Magie]
+
 <!--/MonsterItem-->
 
 <!--GenericItem-->
@@ -7332,6 +7361,8 @@ La Reine des Neiges peut faire trois actions légendaires, parmi celles proposé
 
 **_Manteau d'enneigement (2 Actions)._** La Reine des Neiges lance son manteau de neige en direction d'un point qu'elle peut voir dans un rayon de 18 mètres. La zone qui se trouve dans un rayon de 9 mètres de ce point se trouve instantanément couverte d'une épaisse couche de neige. Les créatures qui se trouvent dans cette zone doivent réussir un jet de sauvegarde de Force DD 17 ou être entravées. La zone devient un terrain difficile, sur lequel chaque mètre parcouru coûte deux mètres de vitesse. Ce terrain reste difficile jusqu'à la fin du prochain tour de la Reine des Neiges, moment à partir duquel son manteau revient se poser sur ses épaules.
 
+# [L'antre de la Reine des Neiges]
+
 <!--/MonsterItem-->
 
 <!--GenericItem-->
@@ -7421,6 +7452,8 @@ Nicnevin peut faire 3 actions légendaires, parmi celles proposées ci-dessous. 
 
 **_Téléportation._** Nicnevin se téléporte magiquement jusqu'à un emplacement inoccupé qu'elle peut voir dans un rayon de 12mètres.
 
+# [L'antre de Nicnevin]
+
 <!--/MonsterItem-->
 
 <!--GenericItem-->
@@ -7509,6 +7542,8 @@ Le Grand Veneur peut faire 3 actions légendaires, parmi celles proposées ci-de
 **_Avance persévérante._** Le Grand Veneur se déplace de la moitié de sa vitesse ou, s'il est monté, de la moitié de la vitesse de son destrier.
 
 **_Appel de la Chasse (2 actions)_** Le Grand Veneur souffle dans son cor de chasse et choisit une créature qu'il peut voir dans un rayon de 18 mètres. Si la créature peut entendre le cor, elle doit réussir un jet de sauvegarde de Charisme DD 16 contre sa magie ou se trouver sous le charme du Grand Veneur pendant 8 heures. Une créature charmée rejoint la Haute Chasse, suit les instructions verbales du Grand Veneur et traite ses anciens alliés comme des ennemis. Si une créature charmée blesse un de ses anciens alliés ou est blessée par l'un d'eux, elle refait le jet de sauvegarde à la fin de son tour. Si elle réussit, l'effet prend fin. Si une créature réussit son jet de sauvegarde ou que l'effet prend fin, elle est immunisée contre l'appel de la Chasse pendant 24 heures.
+
+# [L'antre du Grand Veneur]
 
 <!--/MonsterItem-->
 
@@ -7603,6 +7638,8 @@ Le Roi Baigné de Lune peut faire trois actions légendaires parmi celles propos
 
 **_Aura de folie (2 actions)._** Tant qu'il se tient dans une zone éclairée par la lumière de la lune, le Roi Baigné de Lune peut transmettre sa folie aux autres créatures qui se trouvent dans un rayon de 9mètres. Une créature qui n'est pas un fiélon et qui commence son tour dans la zone d'effet de l'aura ou y pénètre pour la première fois lors de son tour (y compris au moment où l'aura est activée) doit réussir un jet de Charisme DD 19 ou se trouver dans l'état confus (comme si elle était sous l'effet du sort confusion ) jusqu'au début de son tour suivant. Cette aura persiste jusqu'au début du tour suivant du Roi Baigné de Lune.
 
+# [L'antre du Roi Baigné de Lune]
+
 <!--/MonsterItem-->
 
 <!--GenericItem-->
@@ -7685,6 +7722,8 @@ Le Roi des Ours peut faire trois actions légendaires parmi celles proposées ci
 **_Jet de miel._** Le Roi des Ours plonge la main dans le pot de miel qu'il porte à la ceinture et lance une poignée de miel sur une cible qui se trouve dans un rayon de 9 mètres. Il s'agit d'une attaque à distance (+9 pour toucher). Si l'attaque porte, la créature se trouve dans l'état entravé (évasion DD 17).
 
 **_Rugissement terrifiant (2 actions)._** Le Roi des Ours pousse un rugissement à glacer le sang. Toutes les créatures qui se trouvent dans un rayon de 27 mètres et qui peuvent l'entendre doivent réussir un jet de sauvegarde de Sagesse DD 15 ou être terrorisées pendant 1 minute. Si une créature réussit son jet de sauvegarde ou que l'effet est arrivé à son terme, elle est immunisée contre le rugissement terrifiant pendant 24 heures. Les alliés du Roi des Ours ne sont pas affectés.
+
+# [L'antre du Roi des Ours]
 
 <!--/MonsterItem-->
 
@@ -7776,6 +7815,8 @@ Le Roi des Rivières peut faire trois actions légendaires parmi celles proposé
 **_Écoulement._** Le Roi des Rivières se déplace de la moitié de sa vitesse sans provoquer d'attaque d'opportunité.
 
 **_Ondoiement (2 Actions)._** Le Roi des Rivières se met à ondoyer comme le soleil à la surface des eaux. Jusqu'au début de son prochain tour, toutes les attaques portées contre lui sont désavantagées.
+
+# [L'antre du Roi des Rivières]
 
 <!--/MonsterItem-->
 
@@ -8305,6 +8346,8 @@ Hraesvelgr peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 **_Déplacement (2 actions)._** Hraesvelgr se déplace à la moitié de sa vitesse. S'il est sous forme de roc, toutes les créatures qui se trouvent à 3 mètres de lui ou moins à la fin de ce déplacement doivent réussir un jet de sauvegarde de Dextérité DD 15 ou subir 10 (3d6) dégâts contondants et tomber à terre.
 
 **_Engloutir (3 actions, forme de roc uniquement)._** Hraesvelgr fait une attaque de morsure contre une créature qu'il a empoignée. S'il la touche, il l'avale. Une créature engloutie n'est plus empoignée, mais elle est aveuglée, entravée et avantagée contre les attaques et effets venant de l'extérieur d'Hraesvelgr. Une créature engloutie subit 14 (4d6) dégâts d'acide au début de chaque tour d'Hraesvelgr. Si ce dernier reprend sa forme de géant ou subit 40 dégâts ou plus en un tour de la part d'une créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 20 ou régurgiter toutes les créatures englouties, qui tombent alors à terre dans un rayon de 3 mètres autour de lui. Si Hraesvelgr meurt, les créatures englouties ne sont plus entravées et peuvent s'enfuir en dépensant 9 mètres de déplacement. Elles ressortent à terre.
+
+# [L'antre d'Hraesvelgr]
 
 <!--/MonsterItem-->
 
@@ -8929,6 +8972,8 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 **_Tour de magie._** L'empereur lance un tour de magie.
 
 **_Source de puissance (3 actions)._** Lancez 1d8. L'empereur récupère un emplacement de sort de ce niveau ou d'un niveau inférieur.
+
+# [L'antre de l'empereur des goules]
 
 <!--/MonsterItem-->
 
@@ -15530,6 +15575,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 **_Attaque de dard._** La reine du nid fait une attaque de dard.
 
 **_Poussière scintillante (Coûte 2 Actions)._** La reine du nid utilise poussière scintillante.
+
+# [L'antre de la reine du nid]
 
 <!--/MonsterItem-->
 
