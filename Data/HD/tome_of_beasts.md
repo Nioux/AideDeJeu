@@ -30955,7 +30955,7 @@ SubItems:
 
 
 
-      # [L'antre du Roi Baigné de Lune](tome_of_beasts.md#lantre-du-roi-baigne-de-lune)
+      # [L'antre du Roi Baigné de Lune](tome_of_beasts_lantre_du_roi_baigne_de_lune.md)
 
 
 
@@ -31595,7 +31595,7 @@ SubItems:
 
 
 
-      # [L'antre du Roi des Rivières](tome_of_beasts.md#lantre-du-roi-des-rivieres)
+      # [L'antre du Roi des Rivières](tome_of_beasts_lantre_du_roi_des_rivieres.md)
 
 
 
@@ -35801,13 +35801,13 @@ SubItems:
 
 
 
-      **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
 
 
-      **_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
@@ -35945,13 +35945,13 @@ SubItems:
 
 
 
-      **_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
 
 
-      **_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 18 (4d6+4) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 18 (4d6+4) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
@@ -36190,7 +36190,7 @@ SubItems:
 
 
 
-      **_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul). (voir page XX215).
+      **_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md). (voir page XX215).
 
 
 
@@ -36343,7 +36343,7 @@ SubItems:
 
 
 
-      * Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul) sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
+      * Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md) sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
 
 
 
@@ -36471,7 +36471,7 @@ SubItems:
 
 
 
-      **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
@@ -36802,13 +36802,13 @@ SubItems:
 
 
 
-      **_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
 
 
-      **_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+      **_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 
 
@@ -79482,7 +79482,7 @@ Le Roi Baigné de Lune peut faire trois actions légendaires parmi celles propos
 
 **_Aura de folie (2 actions)._** Tant qu'il se tient dans une zone éclairée par la lumière de la lune, le Roi Baigné de Lune peut transmettre sa folie aux autres créatures qui se trouvent dans un rayon de 9mètres. Une créature qui n'est pas un fiélon et qui commence son tour dans la zone d'effet de l'aura ou y pénètre pour la première fois lors de son tour (y compris au moment où l'aura est activée) doit réussir un jet de Charisme DD 19 ou se trouver dans l'état confus (comme si elle était sous l'effet du sort confusion ) jusqu'au début de son tour suivant. Cette aura persiste jusqu'au début du tour suivant du Roi Baigné de Lune.
 
-# [L'antre du Roi Baigné de Lune](tome_of_beasts.md#lantre-du-roi-baigne-de-lune)
+# [L'antre du Roi Baigné de Lune](tome_of_beasts_lantre_du_roi_baigne_de_lune.md)
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -79660,7 +79660,7 @@ Le Roi des Rivières peut faire trois actions légendaires parmi celles proposé
 
 **_Ondoiement (2 Actions)._** Le Roi des Rivières se met à ondoyer comme le soleil à la surface des eaux. Jusqu'au début de son prochain tour, toutes les attaques portées contre lui sont désavantagées.
 
-# [L'antre du Roi des Rivières](tome_of_beasts.md#lantre-du-roi-des-rivieres)
+# [L'antre du Roi des Rivières](tome_of_beasts_lantre_du_roi_des_rivieres.md)
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -80699,9 +80699,9 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 **_Attaques multiples._** Le darakhul mord une fois, griffe une fois et fait une attaque de pic de guerre. S'il utilise un bouclier, il est limité à une attaque de griffes ou de pic de guerre, mais pas les deux.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
-**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 **_Pic de guerre._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants.
 
@@ -80733,9 +80733,9 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 **_Attaques multiples._** La goule de fer fait une attaque de morsure et une de griffes, ou trois attaques de coutille.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
-**_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 18 (4d6+4) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 18 (4d6+4) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 **_Coutille._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 3m, une cible. Touché: 20 (1d10+4) dégâts tranchants.
 
@@ -80798,7 +80798,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 **_Attaques multiples._** L'empereur fait une attaque de morsure et deux de griffes. Il peut faire une attaque de sceptre au lieu d'une attaque de griffes.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul). (voir page XX215).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md). (voir page XX215).
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4) dégâts tranchants. La cible doit réussir un jet de sauvegarde de Constitution DD 18, sans quoi elle est paralysée pendant 1minute. Une créature paralysée refait le jet de sauvegarde à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
 
@@ -80840,7 +80840,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 La région dans laquelle se trouve l'antre de l'empereur est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul) sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
+* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md) sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
 
 * Les cadavres dans un rayon de 1,50 mètre autour de l'antre ont 80 pour cent de chances de se relever sous forme de squelettes ou de zombis 24 heures après leur mort. Ces morts-vivants n'attaquent jamais les goules ni les darakhuls et leur obéissent instinctivement.
 
@@ -80876,7 +80876,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 **_Attaques multiples._** La goule impériale fait une attaque de morsure et une attaque de griffes.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 17 (4d6+3) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 
@@ -80955,9 +80955,9 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 ## ACTIONS
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
-**_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
+**_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md).
 
 **_Tourbillon (recharge 5-6)._** Une goule poudre d'os peut générer un tourbillon d'os et de dents. Toutes les créatures dans un cube de 6 mètres de côté subissent 66 (12d10) dégâts tranchants et perdent 1d6 Force. Celles qui réussissent un jet de sauvegarde de Dextérité DD 17 réduisent les dégâts de moitié et annulent la perte de Force. Le tourbillon se dissipe au bout d'un round.
 

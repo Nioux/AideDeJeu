@@ -55,7 +55,7 @@
 
 **_Attaques multiples._** L'empereur fait une attaque de morsure et deux de griffes. Il peut faire une attaque de sceptre au lieu d'une attaque de griffes.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul). (voir page XX215).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul](tome_of_beasts_fievre_du_darakhul.md). (voir page XX215).
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4) dégâts tranchants. La cible doit réussir un jet de sauvegarde de Constitution DD 18, sans quoi elle est paralysée pendant 1minute. Une créature paralysée refait le jet de sauvegarde à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
 
