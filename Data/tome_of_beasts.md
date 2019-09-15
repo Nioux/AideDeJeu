@@ -17487,10 +17487,10 @@ Les actions légendaires des vampires ordinaires sont remplacées par les suivan
 [L'antre de la Reine des Neiges]: tome_of_beasts.md#lantre-de-la-reine-des-neiges
 [L'antre de Nicnevin]: tome_of_beasts.md#lantre-de-nicnevin
 [L'antre du Grand Veneur]: tome_of_beasts.md#lantre-du-grand-veneur
-[L'antre du Roi Baigné de Lune]: tome_of_beasts.md#lantre-du-roi-baigne-de-lune
+[L'antre du Roi Baigné de Lune]: tome_of_beasts.md#lantre-du-roi-baigné-de-lune
 [L'antre du Roi des Ours]: tome_of_beasts.md#lantre-du-roi-des-ours
-[L'antre du Roi des Rivières]: tome_of_beasts.md#lantre-du-roi-des-rivieres
+[L'antre du Roi des Rivières]: tome_of_beasts.md#lantre-du-roi-des-rivières
 [L'antre d'Hraesvelgr]: tome_of_beasts.md#lantre-dhraesvelgr
 [L'antre de l'empereur des goules]: tome_of_beasts.md#lantre-de-lempereur-des-goules
 [L'antre de la reine du nid]: tome_of_beasts.md#lantre-de-la-reine-du-nid
-[fièvre du darakhul]: tome_of_beasts.md#fievre-du-darakhul
+[fièvre du darakhul]: tome_of_beasts.md#fièvre-du-darakhul
