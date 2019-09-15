@@ -6202,10 +6202,10 @@ ou une magie comparable.
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Drake Des Tavernes.<!--/Name-->
+# <!--Name-->Drake Des Tavernes<!--/Name-->
 
 - Source: <!--Source-->(LDM p155)<!--/Source-->
--  Dragon Très Petite taille, chaotique neutre
+-  <!--Type-->Dragon<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d4+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -8481,7 +8481,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # <!--Name-->Géant Thursir<!--/Name-->
 
 - Source: <!--Source-->(LDM p208)<!--/Source-->
--  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais (50 %) ou loyal<!--/Alignment-->
+-  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais (50 %) ou loyal mauvais (50 %)<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -11226,7 +11226,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # <!--Name-->Loxoda<!--/Name-->
 
 - Source: <!--Source-->(LDM p276)<!--/Source-->
--  Créature monstrueuse de Très Grande taille,
+-  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->147 (14d12+56)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -12241,7 +12241,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # <!--Name-->Mimique Carte<!--/Name-->
 
 - Source: <!--Source-->(LDM p302)<!--/Source-->
--  Créature monstrueuse (métamorphe) de très Petite taille,
+-  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 4,50 m<!--/Speed-->
@@ -13051,7 +13051,7 @@ dépassent leurs compétences.
 # <!--Name-->Noctin<!--/Name-->
 
 - Source: <!--Source-->(LDM p323)<!--/Source-->
--  Humanoïde (noctin) de taille Moyenne,
+-  <!--Type-->Humanoïde (noctin)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13227,7 +13227,7 @@ dépassent leurs compétences.
 # <!--Name-->Grande Nuée De Papillons De Mort<!--/Name-->
 
 - Source: <!--Source-->(LDM p327)<!--/Source-->
--  <!--Type-->Nuée<!--/Type--> de Très Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
+-  <!--Type-->Nuée<!--/Type--> de Très Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 12 m (vol stationnaire)<!--/Speed-->
@@ -13353,7 +13353,7 @@ dépassent leurs compétences.
 # <!--Name-->Nuée De Sluaghs<!--/Name-->
 
 - Source: <!--Source-->(LDM p331)<!--/Source-->
--  <!--Type-->Nuée<!--/Type--> de taille Moyenne de fées de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
+-  <!--Type-->Nuée<!--/Type--> de taille Moyenne de fées de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 15 m<!--/Speed-->
@@ -14245,7 +14245,7 @@ dépassent leurs compétences.
 # <!--Name-->Roi Des Rats<!--/Name-->
 
 - Source: <!--Source-->(LDM p352)<!--/Source-->
--  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
+-  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
@@ -16947,7 +16947,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # <!--Name-->Archer Vétéran Elfique<!--/Name-->
 
 - Source: <!--Source-->(LDM p418)<!--/Source-->
--  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique bon ou chaotique<!--/Alignment-->
+-  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique bon ou chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8 + 14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->

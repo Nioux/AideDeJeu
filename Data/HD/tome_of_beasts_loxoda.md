@@ -5,7 +5,7 @@
 # Loxoda
 
 - Source: (LDM p276)
--  Créature monstrueuse de Très Grande taille,
+-  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 147 (14d12+56)
 - **Vitesse** 12m

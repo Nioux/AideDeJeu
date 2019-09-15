@@ -5,7 +5,7 @@
 # Mimique Carte
 
 - Source: (LDM p302)
--  Créature monstrueuse (métamorphe) de très Petite taille,
+-  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, vol 4,50 m

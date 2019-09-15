@@ -5,7 +5,7 @@
 # Archer Vétéran Elfique
 
 - Source: (LDM p418)
--  Humanoïde (elfe) de taille Moyenne (M), chaotique bon ou chaotique
+-  Humanoïde (elfe) de taille Moyenne (M), chaotique bon ou chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 77 (14d8 + 14)
 - **Vitesse** 9m

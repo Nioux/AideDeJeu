@@ -5,7 +5,7 @@
 # Grande Nuée De Papillons De Mort
 
 - Source: (LDM p327)
--  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique
+-  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (13d12)
 - **Vitesse** 1,50 m, vol 12 m (vol stationnaire)

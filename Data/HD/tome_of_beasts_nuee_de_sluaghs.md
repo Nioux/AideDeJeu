@@ -5,7 +5,7 @@
 # Nuée De Sluaghs
 
 - Source: (LDM p331)
--  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique
+-  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 54 (12d8)
 - **Vitesse** 9 m, vol 15 m
