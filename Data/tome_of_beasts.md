@@ -62,6 +62,14 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 **_Succion psychique (coûte 2 actions)._** Une créature charmée par un aboleth subit 10(3d6) dégâts psychiques et l'aboleth regagne une quantité de points de vie égale à la quantité de dégâts subis par la créature.
 
+# [L'antre d'un nihileth]
+
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre d'un nihileth<!--/Name-->
+
 ## ACTIONS D'ANTRE
 
 À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), un nihileth peut effectuer une action d'antre afin de créer un effet magique comme s'il était un aboleth, ou utiliser l'action absorption du Vide détaillée ci-dessous. Le nihileth ne peut pas utiliser le même effet deux rounds de suite.
@@ -74,7 +82,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 * Les sources d'eau qui se trouvent dans un rayon de 1,50 kilomètre de l'antre d'un nihileth sont non seulement souillées surnaturellement par sa présence, mais peuvent également propager sa maladie. Une créature qui boit une telle eau doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver infectée.
 
-<!--/MonsterItem-->
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -3078,6 +3086,14 @@ Alquam peut faire 3 actions légendaires, parmi celles proposées ci- dessous. I
 
 **_Linceul (2 actions)._** Il émane du corps d'Alquam un voile de ténèbres magiques sur un rayon de 9 mètres. Ces ténèbres persistent jusqu'au début du prochain tour d'Alquam.
 
+# [L'antre d'Alquam]
+
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre d'Alquam<!--/Name-->
+
 ## ACTIONS D'ANTRE
 
 À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Alquam peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
@@ -3100,7 +3116,7 @@ La région dans laquelle se trouve l'antre d'Alquam est déformée par la magie 
 
 Si Alquam meurt, les conditions de la zone qui entoure son antre redeviennent normales dans un délai de 1d10 jours.
 
-<!--/MonsterItem-->
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -3265,6 +3281,14 @@ Mechuiti peut faire 3 actions légendaires, parmi celles proposées ci- dessous.
 
 **_Couronne de feu (coûte 2 actions)._** Mechuiti utilise couronne embrasante.
 
+# [L'antre de Mechuiti]
+
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre de Mechuiti<!--/Name-->
+
 ## ACTIONS D'ANTRE
 
 À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Mechuiti peut par une action d'antre déclencher l'un des effets suivants. Mechuiti ne peut pas utiliser le même effet deux rounds d'affilée.
@@ -3291,7 +3315,7 @@ La région dans laquelle se trouve l'antre de Mechuiti est déformée par la mag
 
 Si Mechuiti meurt, tous ces effets régionaux prennent fin immédiatement.
 
-<!--/MonsterItem-->
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -3352,6 +3376,14 @@ Qorgeth peut faire 3 actions légendaires parmi celles proposées ci- dessous. I
 
 **_Dévorer (3 actions)._** Qorgeth fait une attaque de morsure.
 
+# [L'antre de Qorgeth]
+
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre de Qorgeth<!--/Name-->
+
 ## ACTIONS D'ANTRE
 
 À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Qorgeth peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
@@ -3374,7 +3406,7 @@ La région dans laquelle se trouve l'antre de Qorgeth est déformée par la magi
 
 Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent normales au bout de 1d10 jours.
 
-<!--/MonsterItem-->
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -3708,6 +3740,14 @@ Mammon peut faire 3 actions légendaires parmi celles proposées ci-dessous. Il 
 
 **_Plein aux as (3 actions)._** Mammon recharge son pouvoir votre poids en or.
 
+# [L'antre de Mammon]
+
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre de Mammon<!--/Name-->
+
 ## ACTIONS D'ANTRE
 
 À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Mammon peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
@@ -3730,7 +3770,7 @@ La région dans laquelle se trouve l'antre de Mammon est déformée par la magie
 
 Si Mammon meurt, les conditions de la zone qui entoure son antre redeviennent normales dans un délai de 1d10 jours.
 
-<!--/MonsterItem-->
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -4640,6 +4680,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 17 ou subir 11(2d6+4) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
 
+# [L'antre d'un dragon de flammes]
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -4668,6 +4710,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Morsure._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d10+1) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 **_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 3mètres. Chaque créature qui se trouve dans la zone d'effet subit 24 (7d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 12.
+
+# [L'antre d'un dragon de flammes]
 
 <!--/MonsterItem-->
 
@@ -4703,6 +4747,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Griffes._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 1,50 m, une cible. Touché: 9 (2d6+2) dégâts tranchants.
 
 **_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 9 mètres. Chaque créature qui se trouve dans la zone d'effet subit 56 (16d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 16.
+
+# [L'antre d'un dragon de flammes]
 
 <!--/MonsterItem-->
 
@@ -4756,6 +4802,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Attaque avec la queue._** Le dragon fait une attaque de queue.
 
 **_Attaque avec les ailes (coûte 2actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 13(2d6+6) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
+
+# [L'antre d'un dragon de flammes]
 
 <!--/MonsterItem-->
 
@@ -7197,27 +7245,27 @@ La Reine de la Nuit et de la Magie peut faire 3 actions légendaires, parmi cell
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre de la Reine de la Nuit et de la Magie<!--/Name-->
+# <!--Name-->L'antre de la Reine de la Nuit et de la Magie<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’elle perd en cas d’égalité), la Reine de la Nuit et de la Magie peut par une action d’antre déclencher l’un des effets suivants (elle ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'elle perd en cas d'égalité), la Reine de la Nuit et de la Magie peut par une action d'antre déclencher l'un des effets suivants (elle ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• La Reine intime aux ténèbres de prendre l’ascendant sur la lumière. Toutes les sources de lumière vive dans son antre s’atténuent et ne projettent plus qu’une lumière faible sur leur rayon normal. Les sources de lumière faible s’éteignent. Cet effet dure jusqu’à ce que la Reine décide d’y mettre fin ou qu’elle meure.
+* La Reine intime aux ténèbres de prendre l'ascendant sur la lumière. Toutes les sources de lumière vive dans son antre s'atténuent et ne projettent plus qu'une lumière faible sur leur rayon normal. Les sources de lumière faible s'éteignent. Cet effet dure jusqu'à ce que la Reine décide d'y mettre fin ou qu'elle meure.
 
-• Un mur opaque d’ombres mouvantes surgit d’une surface solide à 36 mètres de la Reine. Ce mur peut faire jusqu’à 18 mètres de long, 3 mètres de haut et 1,50 mètre d’épaisseur. Chaque créature qui se trouve dans la zone doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 18 (4d8) dégâts nécrotiques. Les créatures qui se trouvent à l’emplacement où apparaît le mur sont repoussées de 1,50 mètre hors de cet emplacement, du côté du mur de leur choix. Une créature peut traverser le mur, mais les ombres semimatérielles lui résistent. Pour chaque tranche de 30 centimètres qu’une créature parcourt dans le mur, elle doit dépenser 1,20 mètre de déplacement. En outre, toute créature qui se trouve sur le même emplacement que le mur lors de son tour subit 18 (4d8) dégâts nécrotiques, ou moitié moins si elle réussit un jet de sauvegarde de Constitution DD 15. Chaque section de mur de 3 mètres possède : CA 5 ; 15 points de vie ; vulnérabilité aux dégâts radiants ; résistance aux dégâts contondants et perforants ; immunité aux dégâts de froid, de poison et psychiques. Le mur persiste jusqu’à ce que la Reine utilise de nouveau cette action d’antre ou qu’elle meure.
+* Un mur opaque d'ombres mouvantes surgit d'une surface solide à 36 mètres de la Reine. Ce mur peut faire jusqu'à 18 mètres de long, 3 mètres de haut et 1,50 mètre d'épaisseur. Chaque créature qui se trouve dans la zone doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 18 (4d8) dégâts nécrotiques. Les créatures qui se trouvent à l'emplacement où apparaît le mur sont repoussées de 1,50 mètre hors de cet emplacement, du côté du mur de leur choix. Une créature peut traverser le mur, mais les ombres semimatérielles lui résistent. Pour chaque tranche de 30 centimètres qu'une créature parcourt dans le mur, elle doit dépenser 1,20 mètre de déplacement. En outre, toute créature qui se trouve sur le même emplacement que le mur lors de son tour subit 18 (4d8) dégâts nécrotiques, ou moitié moins si elle réussit un jet de sauvegarde de Constitution DD 15. Chaque section de mur de 3 mètres possède : CA 5 ; 15 points de vie ; vulnérabilité aux dégâts radiants ; résistance aux dégâts contondants et perforants ; immunité aux dégâts de froid, de poison et psychiques. Le mur persiste jusqu'à ce que la Reine utilise de nouveau cette action d'antre ou qu'elle meure.
 
-• La Reine prend pour cible une créature qui se trouve dans un rayon de 18 mètres et l’assaille de visions de désespoir et de découragement. La créature doit réussir un jet de sauvegarde de Sagesse DD 15 ou se trouver dans l’état étourdi jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant.
+* La Reine prend pour cible une créature qui se trouve dans un rayon de 18 mètres et l'assaille de visions de désespoir et de découragement. La créature doit réussir un jet de sauvegarde de Sagesse DD 15 ou se trouver dans l'état étourdi jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant.
 
 ## EFFETS RÉGIONAUX
 
-La région dans laquelle se trouve l’antre de la Reine de la Nuit et de la Magie est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
+La région dans laquelle se trouve l'antre de la Reine de la Nuit et de la Magie est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Dans un rayon de 9 km autour de l’antre de la Reine, les ombres prennent vie. La plupart du temps, ces ombres se contentent de déconcerter les intrus, mais quand une créature agit contre les intérêts de la Reine, elles peuvent interférer et faire en sorte que tous les jets de dés concernés soient désavantagés.
+* Dans un rayon de 9 km autour de l'antre de la Reine, les ombres prennent vie. La plupart du temps, ces ombres se contentent de déconcerter les intrus, mais quand une créature agit contre les intérêts de la Reine, elles peuvent interférer et faire en sorte que tous les jets de dés concernés soient désavantagés.
 
-• Dans un rayon de 9 kilomètres autour de l’antre, la magie qui sature la zone a des effets aléatoires similaires au tour de magie prestidigitation.
+* Dans un rayon de 9 kilomètres autour de l'antre, la magie qui sature la zone a des effets aléatoires similaires au tour de magie prestidigitation.
 
-• Dans un rayon de 9 kilomètres autour de l’antre, la Reine de la Nuit et de la Magie peut projeter ses sens dans n’importe quel endroit plongé dans les ténèbres, illuminé par une lumière faible ou dans lequel se trouvent des ombres, comme si elle utilisait le sort clairvoyance. Quand la cour d’Été règne, les effets régionaux de l’antre de la Reine s’étendent quand même au Palais d’hiver, mais ils sont moins marqués et plus faibles qu’en temps normal. Lorsque la cour d’Hiver règne, le Palais d’hiver n’est pas soumis aux effets régionaux de l’antre de la Reine.
+* Dans un rayon de 9 kilomètres autour de l'antre, la Reine de la Nuit et de la Magie peut projeter ses sens dans n'importe quel endroit plongé dans les ténèbres, illuminé par une lumière faible ou dans lequel se trouvent des ombres, comme si elle utilisait le sort clairvoyance. Quand la cour d'Été règne, les effets régionaux de l'antre de la Reine s'étendent quand même au Palais d'hiver, mais ils sont moins marqués et plus faibles qu'en temps normal. Lorsque la cour d'Hiver règne, le Palais d'hiver n'est pas soumis aux effets régionaux de l'antre de la Reine.
 
 Si la Reine de la Nuit et de la Magie meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans un délai de 2d10 jours.
 
@@ -7288,27 +7336,27 @@ La Reine des Neiges peut faire trois actions légendaires, parmi celles proposé
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre de la Reine des Neiges<!--/Name-->
+# <!--Name-->L'antre de la Reine des Neiges<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’elle perd en cas d’égalité), la Reine des Neiges peut par une action d’antre déclencher l’un des effets suivants (elle ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'elle perd en cas d'égalité), la Reine des Neiges peut par une action d'antre déclencher l'un des effets suivants (elle ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• Un mur de neige dense surgit dans un rayon de 36 mètres de la Reine des Neiges. Ce mur fait peut faire jusqu’à 18 mètres de long, 3 mètres de haut et 1,50 mètre d’épaisseur et il bloque le champ de vision. Quand le mur surgit, chaque créature qui se trouve dans la zone concernée doit faire un jet de sauvegarde de Dextérité DD 15. Une créature qui échoue à son jet de sauvegarde subit 18 (4d8) dégâts de froid et est repoussée de 1,50 mètre hors de l’emplacement occupé par le mur. Elle décide de quel côté du mur elle veut se trouver. Une créature qui touche le mur à quelque moment que ce soit subit la même quantité de dégâts. Chaque section de mur de 3 mètres possède : CA 5 ; 15 points de vie ; vulnérabilité aux dégâts de feu ; résistance aux dégâts contondants et perforants ; immunité contre les dégâts de froid, de poison et psychiques. Le mur persiste jusqu’à ce que la Reine des Neiges utilise de nouveau cette action ou meure.
+* Un mur de neige dense surgit dans un rayon de 36 mètres de la Reine des Neiges. Ce mur fait peut faire jusqu'à 18 mètres de long, 3 mètres de haut et 1,50 mètre d'épaisseur et il bloque le champ de vision. Quand le mur surgit, chaque créature qui se trouve dans la zone concernée doit faire un jet de sauvegarde de Dextérité DD 15. Une créature qui échoue à son jet de sauvegarde subit 18 (4d8) dégâts de froid et est repoussée de 1,50 mètre hors de l'emplacement occupé par le mur. Elle décide de quel côté du mur elle veut se trouver. Une créature qui touche le mur à quelque moment que ce soit subit la même quantité de dégâts. Chaque section de mur de 3 mètres possède : CA 5 ; 15 points de vie ; vulnérabilité aux dégâts de feu ; résistance aux dégâts contondants et perforants ; immunité contre les dégâts de froid, de poison et psychiques. Le mur persiste jusqu'à ce que la Reine des Neiges utilise de nouveau cette action ou meure.
 
-• Un vent glacé et cinglant, chargé de flocons, tourbillonne autour de la Reine des Neiges. Toutes les créatures qui ne sont pas immunisées contre les dégâts de froid sont désavantagées lors de leurs jets de sauvegarde contre les dégâts de froid ou les effets basés sur le froid tant qu’elles se trouvent dans un rayon de 18 mètres de la Reine des Neiges. Cet effet dure jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant.
+* Un vent glacé et cinglant, chargé de flocons, tourbillonne autour de la Reine des Neiges. Toutes les créatures qui ne sont pas immunisées contre les dégâts de froid sont désavantagées lors de leurs jets de sauvegarde contre les dégâts de froid ou les effets basés sur le froid tant qu'elles se trouvent dans un rayon de 18 mètres de la Reine des Neiges. Cet effet dure jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant.
 
-• La neige et la glace qui se trouvent dans l’antre se mettent à luire, reflétant la lumière et éblouissant les ennemis de la Reine des Neiges. Les jets d’attaque portés contre la Reine des Neiges et ses alliés dans son antre sont désavantagés jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant.
+* La neige et la glace qui se trouvent dans l'antre se mettent à luire, reflétant la lumière et éblouissant les ennemis de la Reine des Neiges. Les jets d'attaque portés contre la Reine des Neiges et ses alliés dans son antre sont désavantagés jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant.
 
 ## EFFETS RÉGIONAUX
 
-La région dans laquelle se trouve l’antre de la Reine des Neiges est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
+La région dans laquelle se trouve l'antre de la Reine des Neiges est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Dans un rayon de 15 kilomètres autour de l’antre, la neige et la glace ne fondent pas. Le seul moyen de les faire fondre est un contact prolongé avec du feu.
+* Dans un rayon de 15 kilomètres autour de l'antre, la neige et la glace ne fondent pas. Le seul moyen de les faire fondre est un contact prolongé avec du feu.
 
-• Dans un rayon de 15 kilomètres autour de l’antre, le ciel est généralement couvert et les chutes de neige fréquentes. L’épaisse couche de neige qui couvre la région en fait un terrain difficile pour les créatures de taille Très Petite, Petite et Moyenne.
+* Dans un rayon de 15 kilomètres autour de l'antre, le ciel est généralement couvert et les chutes de neige fréquentes. L'épaisse couche de neige qui couvre la région en fait un terrain difficile pour les créatures de taille Très Petite, Petite et Moyenne.
 
-• Dans un rayon de 7,50 kilomètres autour de l’antre, la visibilité est réduite à cause des chutes de neige ou des flocons soulevés par le vent.
+* Dans un rayon de 7,50 kilomètres autour de l'antre, la visibilité est réduite à cause des chutes de neige ou des flocons soulevés par le vent.
 
 Si la Reine des Neiges meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans un délai de 1d10 jours.
 
@@ -7377,27 +7425,27 @@ Nicnevin peut faire 3 actions légendaires, parmi celles proposées ci-dessous. 
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre de Nicnevin<!--/Name-->
+# <!--Name-->L'antre de Nicnevin<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’elle perd en cas d’égalité), Nicnevin peut par une action d’antre déclencher l’un des effets suivants (elle ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'elle perd en cas d'égalité), Nicnevin peut par une action d'antre déclencher l'un des effets suivants (elle ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• Nicnevin fait apparaître un flamboiement incandescent de lumière lunaire depuis un point qu’elle peut voir dans un rayon de 30 mètres. Toutes les créatures désignées par Nicnevin qui se trouvent dans un rayon de 9 mètres autour de ce point subissent 13 (3d8) dégâts radiants, ou moitié moins si elles réussissent un jet de sauvegarde de Sagesse DD 15. Les créatures qui ne se trouvent pas sous leur forme naturelle sont désavantagées lors de ce jet de sauvegarde et, sur un échec, elles reprennent immédiatement leur forme naturelle (saut s’il s’agit d’un effet de métamorphose causé par Nicnevin).
+* Nicnevin fait apparaître un flamboiement incandescent de lumière lunaire depuis un point qu'elle peut voir dans un rayon de 30 mètres. Toutes les créatures désignées par Nicnevin qui se trouvent dans un rayon de 9 mètres autour de ce point subissent 13 (3d8) dégâts radiants, ou moitié moins si elles réussissent un jet de sauvegarde de Sagesse DD 15. Les créatures qui ne se trouvent pas sous leur forme naturelle sont désavantagées lors de ce jet de sauvegarde et, sur un échec, elles reprennent immédiatement leur forme naturelle (saut s'il s'agit d'un effet de métamorphose causé par Nicnevin).
 
-• Un mur de cristaux faiblement luisants émerge d’une surface solide de l’antre. Ce mur fait 18 mètres de long, 3 mètres de haut, 1,50 mètre d’épaisseur, il bloque le champ de vision et luit d’une lumière faible sur 3 mètres. Les créatures qui se trouvent à l’emplacement où surgit le mur doivent réussir un jet de sauvegarde de Dextérité DD 15 ou subir 14 (4d6) dégâts radiants. Chaque créature est repoussée du côté du mur de son choix. Chaque section de mur de 1,50 mètre possède : CA 15 ; 10 points de vie ; résistance aux dégâts de feu, perforants et tranchants ; immunité contre les dégâts de poison et psychiques ; vulnérabilité aux dégâts de tonnerre. Ce mur persiste jusqu’à ce que Nicnevin utilise de nouveau cette action ou meure.
+* Un mur de cristaux faiblement luisants émerge d'une surface solide de l'antre. Ce mur fait 18 mètres de long, 3 mètres de haut, 1,50 mètre d'épaisseur, il bloque le champ de vision et luit d'une lumière faible sur 3 mètres. Les créatures qui se trouvent à l'emplacement où surgit le mur doivent réussir un jet de sauvegarde de Dextérité DD 15 ou subir 14 (4d6) dégâts radiants. Chaque créature est repoussée du côté du mur de son choix. Chaque section de mur de 1,50 mètre possède : CA 15 ; 10 points de vie ; résistance aux dégâts de feu, perforants et tranchants ; immunité contre les dégâts de poison et psychiques ; vulnérabilité aux dégâts de tonnerre. Ce mur persiste jusqu'à ce que Nicnevin utilise de nouveau cette action ou meure.
 
-• Jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant, toute créature qui n’est pas une fée et qui tente de lancer un sort doit réussir un jet de sauvegarde de Constitution DD 15 ou voir son sort échouer et l’emplacement de sort dépensé. Une créature qui lance un sort prend conscience de cet effet dès qu’elle entreprend de le lancer et elle peut choisir une autre action à la place.
+* Jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant, toute créature qui n'est pas une fée et qui tente de lancer un sort doit réussir un jet de sauvegarde de Constitution DD 15 ou voir son sort échouer et l'emplacement de sort dépensé. Une créature qui lance un sort prend conscience de cet effet dès qu'elle entreprend de le lancer et elle peut choisir une autre action à la place.
 
 ## EFFETS RÉGIONAUX
 
-La région dans laquelle se trouve l’antre de Nicnevin est déformée par la magie de la Reine, ce qui crée un ou plusieurs effets parmi les suivants :
+La région dans laquelle se trouve l'antre de Nicnevin est déformée par la magie de la Reine, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Dans un rayon de 15 kilomètres autour de l’antre, appeler Nicnevin par son nom sous le clair de lune attire son attention (comme si elle avait lancé un sort de scrutation). Elle est alors susceptible de visiter son suppliant pour écouter sa requête, notamment s’il fait appel à elle plusieurs nuits d’affilée. Pendant les 24 heures qui suivent cette invocation, Nicnevin a un lien avec l’endroit où elle a été appelée, ce qui lui permet de cibler cette zone avec un cercle de téléportation.
+* Dans un rayon de 15 kilomètres autour de l'antre, appeler Nicnevin par son nom sous le clair de lune attire son attention (comme si elle avait lancé un sort de scrutation). Elle est alors susceptible de visiter son suppliant pour écouter sa requête, notamment s'il fait appel à elle plusieurs nuits d'affilée. Pendant les 24 heures qui suivent cette invocation, Nicnevin a un lien avec l'endroit où elle a été appelée, ce qui lui permet de cibler cette zone avec un cercle de téléportation.
 
-• Dans un rayon de 15 kilomètres autour de l’antre, la lune est toujours visible pendant la majeure partie de la nuit, quelles que soient les conditions climatiques. La couverture nuageuse est trouée en de nombreux endroits, ou alors la lumière de la lune traverse les nuages.
+* Dans un rayon de 15 kilomètres autour de l'antre, la lune est toujours visible pendant la majeure partie de la nuit, quelles que soient les conditions climatiques. La couverture nuageuse est trouée en de nombreux endroits, ou alors la lumière de la lune traverse les nuages.
 
-• Dans un rayon de 15 kilomètres autour de l’antre, il n’est pas rare de rencontrer une brume argentée au sein de laquelle résonnent d’étranges murmures.
+* Dans un rayon de 15 kilomètres autour de l'antre, il n'est pas rare de rencontrer une brume argentée au sein de laquelle résonnent d'étranges murmures.
 
 Si Nicnevin meurt, les conditions de la zone qui entoure son antre redeviennent normales dans un délai de 1d10 jours.
 
@@ -7466,27 +7514,27 @@ Le Grand Veneur peut faire 3 actions légendaires, parmi celles proposées ci-de
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre du Grand Veneur<!--/Name-->
+# <!--Name-->L'antre du Grand Veneur<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), le Grand Veneur peut par une action d’antre déclencher l’un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), le Grand Veneur peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• Le Grand Veneur choisit un endroit qu’il peut voir dans son antre. Des plantes émergent du sol dans une zone de 6 mètres de rayon autour de ce point, créant un terrain difficile. Toutes les créatures qui commencent leur tour dans cette zone ou qui y pénètrent pour la première fois lors de leur tour doivent faire un jet de sauvegarde de Dextérité DD 15 ou se trouver entravées par les plantes et subir 13 (3d8) dégâts de poison. Une créature peut se libérer elle-même ou un allié qui se trouve sur un emplacement adjacent si elle utilise son action et réussit un test de Force DD 15. Cet effet dure jusqu’à ce que le Grand Veneur utilise de nouveau cette action d’antre ou qu’il meure.
+* Le Grand Veneur choisit un endroit qu'il peut voir dans son antre. Des plantes émergent du sol dans une zone de 6 mètres de rayon autour de ce point, créant un terrain difficile. Toutes les créatures qui commencent leur tour dans cette zone ou qui y pénètrent pour la première fois lors de leur tour doivent faire un jet de sauvegarde de Dextérité DD 15 ou se trouver entravées par les plantes et subir 13 (3d8) dégâts de poison. Une créature peut se libérer elle-même ou un allié qui se trouve sur un emplacement adjacent si elle utilise son action et réussit un test de Force DD 15. Cet effet dure jusqu'à ce que le Grand Veneur utilise de nouveau cette action d'antre ou qu'il meure.
 
-• Le Grand Veneur pousse un cri de guerre. Une créature qu’il peut voir dans un rayon de 36 mètres doit réussir un jet de sauvegarde de Sagesse DD 15 ou être terrorisée pendant 1 minute. Une créature terrorisée refait le jet de sauvegarde à la fin de son tour et met un terme à l’effet si elle le réussit.
+* Le Grand Veneur pousse un cri de guerre. Une créature qu'il peut voir dans un rayon de 36 mètres doit réussir un jet de sauvegarde de Sagesse DD 15 ou être terrorisée pendant 1 minute. Une créature terrorisée refait le jet de sauvegarde à la fin de son tour et met un terme à l'effet si elle le réussit.
 
-• Le Grand Veneur peut utiliser sa magie pour marquer une cible qu’il voit et qui se trouve dans un rayon de 36 mètres. Le Grand Veneur est avantagé lors de ses jets d’attaque contre la cible marquée. Cette marque persiste jusqu’à ce que le décompte d’initiative atteigne 20 au tour suivant.
+* Le Grand Veneur peut utiliser sa magie pour marquer une cible qu'il voit et qui se trouve dans un rayon de 36 mètres. Le Grand Veneur est avantagé lors de ses jets d'attaque contre la cible marquée. Cette marque persiste jusqu'à ce que le décompte d'initiative atteigne 20 au tour suivant.
 
 ## EFFETS RÉGIONAUX
 
 La région dans laquelle se trouve le campement du Grand Veneur est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Dans un rayon de 4,50 kilomètres autour de l’antre, le gibier est abondant. Les tests de Sagesse (Survie) nécessaires pour chasser sont avantagés, mais les patrouilles de la Haute Chasse n’aiment pas les braconniers.
+* Dans un rayon de 4,50 kilomètres autour de l'antre, le gibier est abondant. Les tests de Sagesse (Survie) nécessaires pour chasser sont avantagés, mais les patrouilles de la Haute Chasse n'aiment pas les braconniers.
 
-• Dans un rayon de 4,50 kilomètres autour de l’antre, les animaux domestiques deviennent nerveux et sont apeurés. Il devient difficile de les diriger et, s’ils en ont la possibilité, ils fuient la région.
+* Dans un rayon de 4,50 kilomètres autour de l'antre, les animaux domestiques deviennent nerveux et sont apeurés. Il devient difficile de les diriger et, s'ils en ont la possibilité, ils fuient la région.
 
-• Dans un rayon de 4,50 kilomètres autour de l’antre, les surfaces naturelles se réarrangent subtilement afin de créer des coulées de gibier, même au coeur des forêts les plus épaisses.
+* Dans un rayon de 4,50 kilomètres autour de l'antre, les surfaces naturelles se réarrangent subtilement afin de créer des coulées de gibier, même au coeur des forêts les plus épaisses.
 
 Quand le Grand Veneur meurt ou lève le camp, la région qui entoure celui-ci retrouve immédiatement son état normal.
 
@@ -7559,27 +7607,27 @@ Le Roi Baigné de Lune peut faire trois actions légendaires parmi celles propos
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre du Roi Baigné de Lune<!--/Name-->
+# <!--Name-->L'antre du Roi Baigné de Lune<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), le Roi Baigné de Lune peut par une action d’antre déclencher l’un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), le Roi Baigné de Lune peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• Le Roi Baigné de Lune crée quatre rayons de lune qui éclairent quatre points qu’il peut voir dans un rayon de 30 mètres. Chacun de ces rayons illumine une zone de 3 mètres de rayon de lumière faible. Ces rayons lunaires durent jusqu’à ce que le Roi Baigné de Lune utilise cette action de nouveau ou qu’il meure.
+* Le Roi Baigné de Lune crée quatre rayons de lune qui éclairent quatre points qu'il peut voir dans un rayon de 30 mètres. Chacun de ces rayons illumine une zone de 3 mètres de rayon de lumière faible. Ces rayons lunaires durent jusqu'à ce que le Roi Baigné de Lune utilise cette action de nouveau ou qu'il meure.
 
-• Le Roi Baigné de Lune choisit un point qu’il peut voir dans un rayon de 30 mètres. Des murmures désincarnés parlant de désespoir et d’échec emplissent une zone de 9 mètres de rayon centrée sur ce point. Toutes les créatures qui se trouvent dans cette zone et qui ne sont pas des fiélons doivent réussir un jet de sauvegarde de Sagesse DD 15 ou se trouver dans l’état terrifié jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant.
+* Le Roi Baigné de Lune choisit un point qu'il peut voir dans un rayon de 30 mètres. Des murmures désincarnés parlant de désespoir et d'échec emplissent une zone de 9 mètres de rayon centrée sur ce point. Toutes les créatures qui se trouvent dans cette zone et qui ne sont pas des fiélons doivent réussir un jet de sauvegarde de Sagesse DD 15 ou se trouver dans l'état terrifié jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant.
 
-• Le Roi Baigné de Lune convoque quatre démons des ombres. Les démons apparaissent dans des emplacements inoccupés que le Roi Baigné de Lune peut voir dans un rayon de 18 mètres. Les démons agissent immédiatement et restent présents jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant.
+* Le Roi Baigné de Lune convoque quatre démons des ombres. Les démons apparaissent dans des emplacements inoccupés que le Roi Baigné de Lune peut voir dans un rayon de 18 mètres. Les démons agissent immédiatement et restent présents jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant.
 
 ## EFFETS RÉGIONAUX
 
-La région dans laquelle se trouve l’antre du Roi Baigné de Lune est déformée par la magie du seigneur fée, ce qui crée un ou plusieurs effets parmi les suivants :
+La région dans laquelle se trouve l'antre du Roi Baigné de Lune est déformée par la magie du seigneur fée, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Les rêves et les peurs prennent vie. Dans un rayon de 9 kilomètres autour de l’antre, les créatures sont assaillies d’hallucinations visuelles et auditives mineures.
+* Les rêves et les peurs prennent vie. Dans un rayon de 9 kilomètres autour de l'antre, les créatures sont assaillies d'hallucinations visuelles et auditives mineures.
 
-• Dans un rayon de 15 kilomètres autour de l’antre, le Roi Baigné de Lune peut communiquer par télépathie avec n’importe quelle stryx et partager ses sens.
+* Dans un rayon de 15 kilomètres autour de l'antre, le Roi Baigné de Lune peut communiquer par télépathie avec n'importe quelle stryx et partager ses sens.
 
-• Dans un rayon de 15 kilomètres autour de l’antre, les conditions climatiques n’empêchent pas les rayons lunaires de briller. Les nuages s’écartent, la pluie semble transporter la lumière lunaire et la neige luit d’un éclat argenté.
+* Dans un rayon de 15 kilomètres autour de l'antre, les conditions climatiques n'empêchent pas les rayons lunaires de briller. Les nuages s'écartent, la pluie semble transporter la lumière lunaire et la neige luit d'un éclat argenté.
 
 Si le Roi Baigné de Lune meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans un délai de 1d10 jours.
 
@@ -7642,27 +7690,27 @@ Le Roi des Ours peut faire trois actions légendaires parmi celles proposées ci
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre du Roi des Ours<!--/Name-->
+# <!--Name-->L'antre du Roi des Ours<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), le Roi des Ours peut par une action d’antre déclencher l’un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), le Roi des Ours peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• Le Roi des Ours conjure un essaim de huit abeilles géantes (avec les statistiques des guêpes géantes) pour défendre son antre. Les abeilles agissent immédiatement, puis à 20 lors du décompte d’initiative lors des rounds qui suivent. Les abeilles persistent jusqu’à ce qu’elles soient tuées ou que le Roi des Ours les révoque par une action. Le Roi des Ours peut utiliser cette action de nouveau, mais le nombre d’abeilles géantes présentes au même moment ne peut pas excéder huit.
+* Le Roi des Ours conjure un essaim de huit abeilles géantes (avec les statistiques des guêpes géantes) pour défendre son antre. Les abeilles agissent immédiatement, puis à 20 lors du décompte d'initiative lors des rounds qui suivent. Les abeilles persistent jusqu'à ce qu'elles soient tuées ou que le Roi des Ours les révoque par une action. Le Roi des Ours peut utiliser cette action de nouveau, mais le nombre d'abeilles géantes présentes au même moment ne peut pas excéder huit.
 
-• Le Roi des Ours cible une créature qui se trouve dans son antre et qu’il peut voir. Cette créature doit réussir un jet de sauvegarde de Constitution DD 15 ou être magiquement transformée en ours brun, comme si elle était ciblée par le sort métamorphose. La créature métamorphosée refait le jet de sauvegarde au début de chacun de ses tours. Sur un échec, la créature doit utiliser son action pour attaquer un ennemi du Roi des Ours. Sur une réussite, l’effet prend fin et la créature retrouve sa forme d’origine. L’effet dure sinon jusqu’à ce que la créature réussisse son jet de sauvegarde ou que le Roi des Ours utilise de nouveau cette action d’antre.
+* Le Roi des Ours cible une créature qui se trouve dans son antre et qu'il peut voir. Cette créature doit réussir un jet de sauvegarde de Constitution DD 15 ou être magiquement transformée en ours brun, comme si elle était ciblée par le sort métamorphose. La créature métamorphosée refait le jet de sauvegarde au début de chacun de ses tours. Sur un échec, la créature doit utiliser son action pour attaquer un ennemi du Roi des Ours. Sur une réussite, l'effet prend fin et la créature retrouve sa forme d'origine. L'effet dure sinon jusqu'à ce que la créature réussisse son jet de sauvegarde ou que le Roi des Ours utilise de nouveau cette action d'antre.
 
-• Le Roi des Ours cause un séisme dans une zone de 6 mètres de côté. Toutes les créatures qui se trouvent dans cette zone doivent réussir un jet de sauvegarde de Force DD 15 ou subir 7 (2d6) dégâts contondants et tomber à terre. Le sol continue de trembler jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant. Pendant tout ce temps, le terrain est considéré comme difficile.
+* Le Roi des Ours cause un séisme dans une zone de 6 mètres de côté. Toutes les créatures qui se trouvent dans cette zone doivent réussir un jet de sauvegarde de Force DD 15 ou subir 7 (2d6) dégâts contondants et tomber à terre. Le sol continue de trembler jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant. Pendant tout ce temps, le terrain est considéré comme difficile.
 
 ## EFFETS RÉGIONAUX
 
 La région dans laquelle se trouve le Roc crépusculaire est déformée par la magie du Roi des Ours, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Dans un rayon de 15 kilomètres autour de l’antre du Roi des Ours, les créatures sont désavantagées lors de leurs jets de sauvegarde pour éviter de contracter la lycanthropie des ours-garous.
+* Dans un rayon de 15 kilomètres autour de l'antre du Roi des Ours, les créatures sont désavantagées lors de leurs jets de sauvegarde pour éviter de contracter la lycanthropie des ours-garous.
 
-• Dans un rayon de 15 kilomètres autour de l’antre du Roi des Ours, les abeilles sont irritables et promptes à attaquer. De nombreuses nuées d’insectes (abeilles ou frelons) se trouvent dans la zone, mais elles laissent généralement la population locale tranquille.
+* Dans un rayon de 15 kilomètres autour de l'antre du Roi des Ours, les abeilles sont irritables et promptes à attaquer. De nombreuses nuées d'insectes (abeilles ou frelons) se trouvent dans la zone, mais elles laissent généralement la population locale tranquille.
 
-• Dans un rayon de 7,50 km autour de l’antre du Roi des Ours, les émotions semblent exacerbées. Les disputes tournent vite à la bagarre et les moments festifs ont des chances de se transformer rapidement en bruyante bacchanale ou en rixe généralisée.
+* Dans un rayon de 7,50 km autour de l'antre du Roi des Ours, les émotions semblent exacerbées. Les disputes tournent vite à la bagarre et les moments festifs ont des chances de se transformer rapidement en bruyante bacchanale ou en rixe généralisée.
 
 Si le Roi des Ours meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans un délai de 1d6 jours.
 
@@ -7733,27 +7781,27 @@ Le Roi des Rivières peut faire trois actions légendaires parmi celles proposé
 
 <!--GenericItem-->
 
-# <!--Name-->L’antre du Roi des Rivières<!--/Name-->
+# <!--Name-->L'antre du Roi des Rivières<!--/Name-->
 
 ## ACTIONS D'ANTRE
 
-À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), le Roi des Rivières peut par une action d’antre déclencher l’un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d’affilée) :
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), le Roi des Rivières peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
 
-• Les eaux de la rivière féerique enflent soudain et viennent empiéter sur ses berges, ou alors les murs de la Grand-Pièce cèdent et laissent l’eau pénétrer en jets torrentiels. Le Roi des Rivières choisit une trajectoire large de 3 mètres et qui peut faire jusqu’à 18 mètres de long. Chaque créature qui se trouve sur le chemin emprunté par les eaux doit faire un jet de sauvegarde de Force DD 15. Les créatures qui échouent sont entraînées sur 6 mètres et subissent 9 (2d8) dégâts contondants.
+* Les eaux de la rivière féerique enflent soudain et viennent empiéter sur ses berges, ou alors les murs de la Grand-Pièce cèdent et laissent l'eau pénétrer en jets torrentiels. Le Roi des Rivières choisit une trajectoire large de 3 mètres et qui peut faire jusqu'à 18 mètres de long. Chaque créature qui se trouve sur le chemin emprunté par les eaux doit faire un jet de sauvegarde de Force DD 15. Les créatures qui échouent sont entraînées sur 6 mètres et subissent 9 (2d8) dégâts contondants.
 
-• Le Roi des Rivières cible une créature qu’il peut voir dans un rayon de 18 mètres. La bouche et la gorge de cette créature se remplissent d’eau douce. La créature doit faire un jet de sauvegarde de Constitution DD 15. Sur une réussite, elle réussit à retenir sa respiration. Sur un échec, elle se met à suffoquer. Une créature qui suffoque mais est encore consciente refait le jet de sauvegarde à la fin de son tour et met fin à l’effet sur un succès. Une autre créature qui se trouve à 1,50 mètre d’elle peut, par une action, faire un test de Sagesse (Médecine) DD 15. Si elle réussit, la créature en train de suffoquer recrache l’eau et l’effet prend fin. Sinon l’effet persiste jusqu’à ce que le Roi des Rivières utilise de nouveau cette action ou meure.
+* Le Roi des Rivières cible une créature qu'il peut voir dans un rayon de 18 mètres. La bouche et la gorge de cette créature se remplissent d'eau douce. La créature doit faire un jet de sauvegarde de Constitution DD 15. Sur une réussite, elle réussit à retenir sa respiration. Sur un échec, elle se met à suffoquer. Une créature qui suffoque mais est encore consciente refait le jet de sauvegarde à la fin de son tour et met fin à l'effet sur un succès. Une autre créature qui se trouve à 1,50 mètre d'elle peut, par une action, faire un test de Sagesse (Médecine) DD 15. Si elle réussit, la créature en train de suffoquer recrache l'eau et l'effet prend fin. Sinon l'effet persiste jusqu'à ce que le Roi des Rivières utilise de nouveau cette action ou meure.
 
-• Le Roi des Rivières cible une créature qu’il peut voir dans un rayon de 36 mètres. Son autorité naturelle impressionne cette créature qui doit faire un jet de sauvegarde de Charisme DD 15. Sur un échec, la créature est charmée par le Roi des Rivières jusqu’à ce que le décompte d’initiative atteigne 20 au round suivant.
+* Le Roi des Rivières cible une créature qu'il peut voir dans un rayon de 36 mètres. Son autorité naturelle impressionne cette créature qui doit faire un jet de sauvegarde de Charisme DD 15. Sur un échec, la créature est charmée par le Roi des Rivières jusqu'à ce que le décompte d'initiative atteigne 20 au round suivant.
 
 ## EFFETS RÉGIONAUX
 
-La région dans laquelle se trouve l’antre du Roi des Rivières est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
+La région dans laquelle se trouve l'antre du Roi des Rivières est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-• Dans un rayon de 9 kilomètres autour de l’antre, le courant des rivières devient plus puissant, mais également erratique. Les créatures qui ne possèdent pas de vitesse de nage et qui commencent leur tour dans de l’eau vive doivent réussir un test de Force (Athlétisme) DD 15 ou se trouver entraînées de 18 mètres par le courant.
+* Dans un rayon de 9 kilomètres autour de l'antre, le courant des rivières devient plus puissant, mais également erratique. Les créatures qui ne possèdent pas de vitesse de nage et qui commencent leur tour dans de l'eau vive doivent réussir un test de Force (Athlétisme) DD 15 ou se trouver entraînées de 18 mètres par le courant.
 
-• Dans un rayon de 9 kilomètres autour de l’antre, les lacs, les mares, les rivières et les ruisseaux regorgent de poissons et de vie aquatique.
+* Dans un rayon de 9 kilomètres autour de l'antre, les lacs, les mares, les rivières et les ruisseaux regorgent de poissons et de vie aquatique.
 
-• Dans un rayon de 9 kilomètres autour de l’antre, il pleut fréquemment, et les nombreux orages et pluies torrentielles rendent la visibilité nulle et font déborder les cours d’eau de leur lit.
+* Dans un rayon de 9 kilomètres autour de l'antre, il pleut fréquemment, et les nombreux orages et pluies torrentielles rendent la visibilité nulle et font déborder les cours d'eau de leur lit.
 
 Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans un délai de 1d10 jours.
 
@@ -7791,8 +7839,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 **_Attaques multiples._** Le felforgé fait deux attaques de coup nécrotique.
 
-**_Coup nécrotique._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d8+2) dégâts contondants plus 4 (1d8) dégâts nécrotiques ; la cible doit réussir
-un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie réduit de la quantité de dégâts subis. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points de vie à 0.
+**_Coup nécrotique._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d8+2) dégâts contondants plus 4 (1d8) dégâts nécrotiques ; la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie réduit de la quantité de dégâts subis. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points de vie à 0.
 
 **_Échappement violent._** Les âmes-en-peine felforgées ne respectent pas les corps mécaniques qui les abritent. Ainsi, elles n'hésitent pas à appliquer de telles tensions à leurs mécanismes que les volants d'inertie se déséquilibrent, que les rouages se brisent et que les ressorts claquent. Par une action bonus, une violente projection de rouages et de molettes inflige 7 (2d6) dégâts perforants à tous les adversaires qui se trouvent dans un rayon de 1,50 mètre et qui ne réussissent pas un jet de Dextérité DD 14. Chaque fois qu'un felforgé utilise ce pouvoir, il subit une réduction cumulative de vitesse de 1,50m. Si sa vitesse est réduite à 0 m, le felforgé est paralysé.
 
@@ -8100,6 +8147,23 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 - **Immunité contre les dégâts** <!--DamageImmunities-->de froid, nécrotiques, de poison<!--/DamageImmunities-->
 - **Immunité contre les états** <!--ConditionImmunities-->charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé<!--/ConditionImmunities-->
 - **Sens** <!--Senses-->vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13<!--/Senses-->
+- **Langues** <!--Languages-->comprend les langues qu'il parlait de son vivant mais ne peut pas parler<!--/Languages-->
+- **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
+
+**_Déplacement intangible._** Le gardien spectral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.
+
+**_Lié au tombeau._** Le gardien spectral est lié à la zone qu'il protège. Il ne peut pas s'éloigner à plus de 30 mètres de l'endroit qu'il doit garder.
+
+**_Miasmes flétrissants._** Une créature qui commence son tour dans l'emplacement du gardien spectral doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle subit 18(4d8)dégâts nécrotiques et voit son maximum de points de vie se réduire du même montant. Cette réduction persiste jusqu'à ce que la créature termine un long repos.
+
+## ACTIONS
+
+**_Attaques multiples._** Le gardien spectral fait deux attaques de déchirement spectral.
+
+**_Déchirement spectral._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 14, sans quoi elle est terrorisée et voit sa vitesse réduite à 0. Ces deux effets persistent jusqu'à la fin de son prochain tour.
+
+# Variante : Gardien Arcanique
+
 Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de puissants mages. Le gardien arcanique possède un indice de dangerosité de 8 (3 900 PX) et le trait supplémentaire suivant :
 
 **_Incantation._** Le gardien arcanique est un lanceur de sorts de niveau 9. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts15, +7 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants, qui n'ont pas besoin de composantes matérielles :
@@ -8115,20 +8179,6 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 **Niveau 4 (3 emplacements)** : flétrissement, tempête de grêle
 
 **Niveau 5 (1 emplacement)** : cône de froid
-- **Langues** <!--Languages-->comprend les langues qu'il parlait de son vivant mais ne peut pas parler<!--/Languages-->
-- **Dangerosité** <!--Challenge-->6 (2 300PX)<!--/Challenge-->
-
-**_Déplacement intangible._** Le gardien spectral peut se déplacer au travers des autres créatures et des objets, comme s'il s'agissait d'un terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour au sein d'un objet.
-
-**_Lié au tombeau._** Le gardien spectral est lié à la zone qu'il protège. Il ne peut pas s'éloigner à plus de 30 mètres de l'endroit qu'il doit garder.
-
-**_Miasmes flétrissants._** Une créature qui commence son tour dans l'emplacement du gardien spectral doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle subit 18(4d8)dégâts nécrotiques et voit son maximum de points de vie se réduire du même montant. Cette réduction persiste jusqu'à ce que la créature termine un long repos.
-
-## ACTIONS
-
-**_Attaques multiples._** Le gardien spectral fait deux attaques de déchirement spectral.
-
-**_Déchirement spectral._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 14, sans quoi elle est terrorisée et voit sa vitesse réduite à 0. Ces deux effets persistent jusqu'à la fin de son prochain tour.
 
 <!--/MonsterItem-->
 
@@ -8238,14 +8288,11 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 **_Attaques multiples._** Hraesvelgr fait deux attaques.
 
-**_Bec (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché:
-25(4d8+7)dégâts perforants. 
+**_Bec (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché: 25(4d8+7)dégâts perforants. 
 
-**_Poing (forme de géant uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché:
-20(3d8+7) dégâts contondants. La cible doit réussir un jet de sauvegarde de Constitution DD 21, sans quoi elle est étourdie jusqu'au début du prochain tour d'Hraesvelgr.
+**_Poing (forme de géant uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché: 20(3d8+7) dégâts contondants. La cible doit réussir un jet de sauvegarde de Constitution DD 21, sans quoi elle est étourdie jusqu'au début du prochain tour d'Hraesvelgr.
 
-**_Serres (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 1,50 m, une cible. Touché:
-21(4d6+7) dégâts tranchants et la cible est empoignée (évasion DD17). Tant qu'elle est empoignée, la cible est entravée et Hraesvelgr ne peut pas utiliser ses serres contre une autre cible.
+**_Serres (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 1,50 m, une cible. Touché: 21(4d6+7) dégâts tranchants et la cible est empoignée (évasion DD17). Tant qu'elle est empoignée, la cible est entravée et Hraesvelgr ne peut pas utiliser ses serres contre une autre cible.
 
 **_Violente bourrasque (recharge 5-6)._** Hraesvelgr déchaîne une bourrasque de tempête sur une ligne de 18 mètres de long pour 3 de large. Les créatures de la zone subissent 35 (10d6) dégâts contondants et sont repoussées de 4,50 mètres à l'opposé d'Hraesvelgr. Celles qui réussissent un jet de sauvegarde de Force DD 19 subissent la moitié des dégâts seulement et ne sont pas repoussées.
 
@@ -8259,11 +8306,35 @@ Hraesvelgr peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 **_Engloutir (3 actions, forme de roc uniquement)._** Hraesvelgr fait une attaque de morsure contre une créature qu'il a empoignée. S'il la touche, il l'avale. Une créature engloutie n'est plus empoignée, mais elle est aveuglée, entravée et avantagée contre les attaques et effets venant de l'extérieur d'Hraesvelgr. Une créature engloutie subit 14 (4d6) dégâts d'acide au début de chaque tour d'Hraesvelgr. Si ce dernier reprend sa forme de géant ou subit 40 dégâts ou plus en un tour de la part d'une créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 20 ou régurgiter toutes les créatures englouties, qui tombent alors à terre dans un rayon de 3 mètres autour de lui. Si Hraesvelgr meurt, les créatures englouties ne sont plus entravées et peuvent s'enfuir en dépensant 9 mètres de déplacement. Elles ressortent à terre.
 
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre d'Hraesvelgr<!--/Name-->
+
 ## ACTIONS D'ANTRE
+
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Hraesvelgr peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
+
+* Hraesvelgr libère une bourrasque de vent dans un cône de 18 mètres. Chaque créature qui se trouve dans la zone affectée doit réussir un jet de sauvegarde de Dextérité DD 15 ou tomber à terre.
+
+* Une créature dans le champ de vision d'Hraesvelgr et un rayon de 18 mètres autour de lui doit réussir un jet de sauvegarde de Force DD 15, sans quoi elle est emportée dans un couloir de vent ascendant. Elle est entravée et suspendue à 4,50 mètres du sol. Si elle parvient à s'accrocher à quelque chose, elle peut se tirer hors du couloir de vent en utilisant une action, à condition de réussir un test de Force DD 15. Une créature à portée de celle suspendue peut la tirer en sécurité de la même manière. Une créature volante peut répéter le jet de sauvegarde par une action. Si elle réussit, elle se déplace de 1,50 mètre hors de la colonne de vent. Cet effet persiste jusqu'à ce que Hraesvelgr utilise de nouveau cette action ou meure.
+
+* Hraesvelgr pousse un rugissement sous forme de géant ou un cri perçant sous forme de roc. Toute créature dans un rayon de 9 mètres doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est terrorisée pendant 1 minute. Une créature terrorisée refait le jet de sauvegarde à la fin de son tour et met un terme à l'effet si elle le réussit.
 
 ## EFFETS RÉGIONAUX
 
-<!--/MonsterItem-->
+La région dans laquelle se trouve l'antre d'Hraesvelgr est déformée par la magie du mangeur de cadavres, ce qui crée un ou plusieurs effets parmi les suivants :
+
+* Les vents violents sont fréquents dans un rayon de 9 kilomètres autour de l'antre.
+
+* Les oiseaux géants sont attirés par cet antre et le défendent férocement contre les intrus.
+
+* Le vent dans un rayon de 15 kilomètres autour de l'antre porte une puissante odeur de charogne.
+
+Si Hraesvelgr meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans les 1d10 jours.
+
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -8859,13 +8930,35 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 **_Source de puissance (3 actions)._** Lancez 1d8. L'empereur récupère un emplacement de sort de ce niveau ou d'un niveau inférieur.
 
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre de l'empereur des goules<!--/Name-->
+
 ## ACTIONS D'ANTRE
+
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), l'empereur peut par une action d'antre déclencher l'un des effets suivants. L'empereur ne peut pas utiliser le même effet deux rounds d'affilée.
+
+* Jusqu'à ce que le décompte d'initiative arrive à 20 au round suivant, toutes les créatures autres que les morts-vivants et les créatures artificielles qui subissent des dégâts nécrotiques en reçoivent 7 (2d6) de plus.
+
+* L'empereur vise une créature située dans son champ de vision et un rayon de 9 mètres. Elle doit réussir un jet de sauvegarde de Constitution DD 15 ou subir 18 (4d8) dégâts nécrotiques. L'empereur récupère un nombre de points de vie égal au montant des dégâts.
+
+* Un mur de glace surgit du sol à 30 mètres ou moins de l'empereur. Il mesure 18 mètres de long pour 3 de haut et 1,50 d'épaisseur. Si une créature se trouve à l'emplacement du mur lorsqu'il apparaît, elle doit réussir un jet de sauvegarde de Dextérité DD 15 ou subir 10 (3d6) dégâts de froid et être repoussée d'un côté ou de l'autre du mur (à elle de choisir lequel). Chaque section de mur de 1,50 mètre a une CA de 10, 15 points de vie, une résistance aux dégâts perforants et tranchants, l'immunité contre les dégâts de froid, de poison et psychiques et une vulnérabilité contre les dégâts de feu. Le mur persiste jusqu'à ce que l'empereur utilise de nouveau cette action ou meure.
 
 ## EFFETS RÉGIONAUX
 
-## LES EMPEREURS DES GOULES
+La région dans laquelle se trouve l'antre de l'empereur est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-<!--/MonsterItem-->
+* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la fièvre du darakhul sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
+
+* Les cadavres dans un rayon de 1,50 mètre autour de l'antre ont 80 pour cent de chances de se relever sous forme de squelettes ou de zombis 24 heures après leur mort. Ces morts-vivants n'attaquent jamais les goules ni les darakhuls et leur obéissent instinctivement.
+
+* Des lumières fantomatiques apparaissent dans un rayon de 15 kilomètres autour de l'antre, plus l'on s'approche, plus elles sont fréquentes. Elles émettent une faible lumière dans un rayon de 3 mètres. Au sein de cette lumière, un mort-vivant gagne 1d6 points de vie temporaires au début de son tour, mais ne peut pas dépasser 150 % de son total de points de vie normal.
+
+Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entoure son antre dans un délai de 1d10 jours.
+
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -8977,9 +9070,6 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 **_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la fièvre du darakhul.
 
 **_Tourbillon (recharge 5-6)._** Une goule poudre d'os peut générer un tourbillon d'os et de dents. Toutes les créatures dans un cube de 6 mètres de côté subissent 66 (12d10) dégâts tranchants et perdent 1d6 Force. Celles qui réussissent un jet de sauvegarde de Dextérité DD 17 réduisent les dégâts de moitié et annulent la perte de Force. Le tourbillon se dissipe au bout d'un round.
-
-**Jet** Résultat
-1-9 Rien, la victime est juste morte 10-16 Goule 17-20 Blême 21+ Darakhul
 
 <!--/MonsterItem-->
 
@@ -9659,12 +9749,14 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 **_Bec._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50m, une cible. Touché: 5 (1d4+3) dégâts perforants.
 
-**_Lance runique radiante._** _Attaque d'arme au corps à corps :_
-+3pour toucher, allonge 3 m, une cible. Touché: 7(1d12+1) dégâts perforants plus 2 (1d4) dégâts radiants.
+**_Lance runique radiante._** _Attaque d'arme au corps à corps :_ +3pour toucher, allonge 3 m, une cible. Touché: 7(1d12+1) dégâts perforants plus 2 (1d4) dégâts radiants.
 
 ## RÉACTIONS
 
 **_Appel d'Odin._** Un combattant homme-corbeau peut se désengager après qu'une attaque l'a réduit à 10 pv ou moins.
+
+# Variante : Manque de runes
+
 Certains combattants n'ont pas accès aux armes runiques et utilisent une rapière à la place.
 
 **_Rapière_** : _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants.
@@ -9774,8 +9866,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 ## ACTIONS
 
-**_Dague kukri._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, portée 6/18 m, une cible. Touché:
-4 (1d4+2) dégâts perforants. 
+**_Dague kukri._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, portée 6/18 m, une cible. Touché: 4 (1d4+2) dégâts perforants. 
 
 **_Sarbacane._** Attaque d'arme à distance: +4 pour toucher, portée 7,50/30 m, une cible. Touché: 4 (1d4+2) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD13, sans quoi elle est empoisonnée et inconsciente pendant 1d4heures. Une autre créature peut utiliser une action pour réveiller la cible en la secouant, ce qui met un terme à l'inconscience, mais pas à l'empoisonnement.
 
@@ -9816,12 +9907,9 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 ## ACTIONS
 
-**_Dague kukri._**
-+5 pour toucher, allonge 1,50 m, portée 6/18 m, une cible. Touché:
-5 (1d4+3) dégâts perforants. 
+**_Dague kukri._** +5 pour toucher, allonge 1,50 m, portée 6/18 m, une cible. Touché: 5 (1d4+3) dégâts perforants. 
 
-**_Sarbacane._** Attaque d'arme à distance: +5 pour toucher, portée 7,50/30 m, une créature Touché:
-5 (1d4+3) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est empoisonnée et inconsciente pendant 1d4 heures. Une autre créature peut utiliser une action pour réveiller la cible en la secouant, ce qui met un terme à l'inconscience, mais pas à l'empoisonnement.
+**_Sarbacane._** Attaque d'arme à distance: +5 pour toucher, portée 7,50/30 m, une créature Touché: 5 (1d4+3) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est empoisonnée et inconsciente pendant 1d4 heures. Une autre créature peut utiliser une action pour réveiller la cible en la secouant, ce qui met un terme à l'inconscience, mais pas à l'empoisonnement.
 
 <!--/MonsterItem-->
 
@@ -9991,18 +10079,14 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 **_Danse créatrice._** Un hundun peut accomplir un acte créateur magique d'une ampleur presque illimitée tous les 1d8 jours. Cet effet équivaut à un souhait, mais doit créer quelque chose.
 
 **_Confusion illuminatrice._** Quand le sort confusion de l'hundrun affecte une cible, il peut appliquer la table suivante au lieu de l'habituelle.
-01–10 11–20 21–50 51–75 76–100
 
-**Inspiré** : Avantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.
-
-**Distrait** : Désavantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.
-
-**Incohérent** : La cible ne fait que balbutier ou griffonner des notes incohérentes à propos d'une nouvelle idée.
-
-**Obsédé** : La cible est victime d'une coercition mystique
-l'obligeant à créer un objet magique de qualité.
-
-**Influençable** : La cible reçoit une suggestion de la part de l'hundun.
+|1d100|Résultat|
+|---|---|
+|01-10|**Inspiré** : Avantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.|
+|11-20|**Distrait** : Désavantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.|
+|21-50|**Incohérent** : La cible ne fait que balbutier ou griffonner des notes incohérentes à propos d'une nouvelle idée.|
+|51-75|**Obsédé** : La cible est victime d'une coercition mystique l'obligeant à créer un objet magique de qualité.|
+|76-100|**Influençable** : La cible reçoit une suggestion de la part de l'hundun.|
 
 **_Incantation innée._** L'hundun utilise la Sagesse comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 17). Il peut lancer les sorts suivants sans composantes matérielles :
 
@@ -10467,11 +10551,33 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 
 **_Drain (2 actions)._** Koschei fait une attaque de drain de vie.
 
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
 ## ACTIONS D'ANTRE
+
+À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Koschei peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :
+
+* Koschei crée un tourbillon centré sur un point situé dans son champ de vision dans un rayon de 30 mètres. Ce tourbillon fait 3 mètres de large pour un maximum de 15 mètres de haut. Si une créature se trouve dans la zone du tourbillon lors de son apparition ou si elle y entre pour la première fois lors d'un tour, elle doit faire un jet de sauvegarde de Force DD 15. Si elle échoue, elle est entravée et subit 18 (4d8) dégâts contondants à cause du vent qui la malmène. Une créature entravée peut échapper au tourbillon si elle utilise son action pour refaire le jet de sauvegarde et le réussit. Elle se déplace alors de 1,50 mètre hors de la zone du tourbillon. Ce dernier persiste jusqu'à ce que Koschei utilise de nouveau cette action ou meurt.
+
+* Des esprits torturés apparaissent et attaquent jusqu'à trois créatures situées dans le champ de vision et l'antre de Koschei. Chaque créature visée est la cible d'une seule attaque avec +8 au toucher et infligeant 10 (3d6) dégâts nécrotiques.
+
+* Koschei perturbe le flot de la magie dans son antre. Jusqu'à ce que le décompte de l'initiative arrive à 20 au round suivant, toute créature autre qu'un fiélon qui vise Koschei avec un sort doit faire un jet de sauvegarde de Sagesse DD 15. Sur un échec, elle lance bien le sort, mais doit choisir une autre cible que Koschei.
 
 ## EFFETS RÉGIONAUX
 
-<!--/MonsterItem-->
+La région dans laquelle se trouve l'antre de Koschei est déformée par sa magie, ce qui crée un ou plusieurs des effets suivants :
+
+* Les lapins, les canards et autre gibier deviennent hostiles envers les intrus dans un rayon de 7,5 kilomètres autour de l'antre. Ils se montrent agressifs, mais attaquent seulement s'ils sont acculés. Il est difficile de trouver de la nourriture en chassant et cette activité donne moitié moins de nourriture que d'habitude.
+
+* Le vent et les tempêtes de neige sont fréquents dans un rayon de 7,5 kilomètres autour de l'antre.
+
+* Koschei perçoit tout sort lancé dans un rayon de 7,5 kilomètres autour de son antre. Il connaît la source de cette magie (innée, la classe du lanceur ou l'objet magique) et sait dans quelle direction se trouve le lanceur.
+
+Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10 jours.
+
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -10594,11 +10700,9 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 
 **_Griffes broyeuses._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 3 m, une cible. Touché: 20 (2d12+7) dégâts contondants plus 13 (3d8) dégâts nécrotiques.
 
-**_Regard désintégrateur (recharge 5-6)._** Attaque de sort à distance:
-+15 pour toucher, portée 18 m, une cible dans le champ de vision. 
+**_Regard désintégrateur (recharge 5-6)._** Attaque de sort à distance: +15 pour toucher, portée 18 m, une cible dans le champ de vision. 
 
-**_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec
-de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
+**_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
 
 ## ACTIONS
 
@@ -10730,8 +10834,7 @@ de créature (le croassement du corbeau, le rugissement de l'ours) et non la voi
 
 **_Attaques multiples._** Un cavalier porte trois attaques avec sa lance d'arçon ou son épée longue. S'il en a la possiblité, il peut utiliser sa frappe temporelle avec l'une de ces attaques.
 
-**_Lance d'arçon._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3m (désavantagé à moins de 1,50m), une cible. Touché:
-12 (1d12+6) dégâts perforants. 
+**_Lance d'arçon._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3m (désavantagé à moins de 1,50m), une cible. Touché: 12 (1d12+6) dégâts perforants. 
 
 **_Épée longue._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50m, une cible. Touché: 10 (1d8+6) dégâts tranchants.
 
@@ -11173,8 +11276,17 @@ dès qu'elle est en contact avec une étendue d'eau.
 **_Rugissement._** Quand un mahoru rugit, toutes les créatures qui l'entendent et se trouvent dans un rayon de 9 mètres autour de lui doivent faire un jet de sauvegarde de Sagesse DD 14. Celles qui échouent sont terrorisées jusqu'à la fin du prochain tour du mahoru. Celles qui ratent le jet de sauvegarde de 5 ou plus sont également paralysées pendant la même durée. Celles qui réussissent le jet sont immunisées contre le rugissement de tous les mahorus pendant 24 heures.
 
 **_Morsure vorpale._** Les mâchoires en dents de scie du mahoru sont conçues pour le démembrement. Quand le mahoru réussit un coup critique, la cible doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle perd un membre. Lancez le dé dans la table suivante :
-1-2 3-4 5-6 7-8 9 10 11 12
-main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauche tibia droit tibia gauche
+
+|1d12|Résultat|
+|---|---|
+|1-2|main droite|
+|3-4|main gauche|
+|5-6|pied droit|
+|7-8|pied gauche|
+|9|avant-bras droit|
+|10|avant-bras gauche|
+|11|tibia droit|
+|12|tibia gauche|
 
 <!--/MonsterItem-->
 
@@ -11343,7 +11455,16 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 26 (5d8+4) dégâts tranchants plus 11(2d10) dégâts nécrotiques.
 
-**_Morsure spectrale._** Quand un mangedestin fait un coup critique contre une cible, il ne se contente pas de blesser la créature, mais endommage également les fils de son destin et change ainsi le passé ou le futur de sa victime. La cible doit lancer 1d6 sur le tableau ci-dessous pour chaque coup critique qu'elle n'a pas réussi à annuler à l'aide d'un jet de sauvegarde de Charisme DD 15 : 1 Voir les alternatives
+**_Morsure spectrale._** Quand un mangedestin fait un coup critique contre une cible, il ne se contente pas de blesser la créature, mais endommage également les fils de son destin et change ainsi le passé ou le futur de sa victime. La cible doit lancer 1d6 sur le tableau ci-dessous pour chaque coup critique qu'elle n'a pas réussi à annuler à l'aide d'un jet de sauvegarde de Charisme DD 15 : 
+
+|1|Voir les alternatives|Souffre des effets du sort confusion pendant 1d4 rounds|
+|2|Détaché du métier à tisser|La vitesse du personnage devient aléatoire pendant 4 rounds. Au début de chacun de ses tours, déterminez sa vitesse par un jet de dés : 3d20 x 0,30 m|
+|3|Souvenirs modifiés|Perd définitivement et aléatoirement la maîtrise d'une compétence maîtrisée et gagne aléatoirement la maîtrise d'une autre compétence non maîtrisée|
+|4|Pas si vite|Perd l'usage d'une de ses aptitudes de classe, déterminée aléatoirement|
+|5|Potentiel perdu|Perd un point dans une caractéristique déterminée aléatoirement|
+|6|Une voie de garage|L'actuel total de points de vie du personnage devient son maximum de points de vie|
+
+Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un jet de sauvegarde de Charisme. Il répète le jet de sauvegarde après chaque repos long, mais le DD de celuici augmente de 1 après chaque tentative, le personnage s'ancrant toujours un peu plus dans sa nouvelle destinée. Sinon, ces nouveaux destins ne peuvent être défaits que par un sort de souhait ou une magie comparable.
 
 <!--/MonsterItem-->
 
@@ -11664,8 +11785,7 @@ main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauch
 
 **_Forme immuable._** Une abomination mécanique est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
 
-**_Source d'énergie infernale._** Quand une abomination mécanique tombe à 0 point de vie, sa batterie infernale explose. Les
-créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination subissent 14 (4d6) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 14.
+**_Source d'énergie infernale._** Quand une abomination mécanique tombe à 0 point de vie, sa batterie infernale explose. Les créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination subissent 14 (4d6) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 14.
 
 ## ACTIONS
 
@@ -12799,7 +12919,6 @@ dépassent leurs compétences.
 
 **_Rugissement du chef de meute (recharge après un court ou_** un long repos) . Chaque nkosi que choisit le chef de meute et qui se trouve dans un rayon de 9 mètres autour de lui peut immédiatement utiliser sa réaction pour faire une attaque de morsure. Le chef de meute peut ensuite faire une attaque de morsure par une action bonus.
 
-
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
@@ -12863,6 +12982,14 @@ dépassent leurs compétences.
 ## ACTIONS
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 27 (4d10+5) dégâts perforants. Si la cible est de taille Moyenne ou inférieure, elle doit réussir un jet de sauvegarde de Force DD15, sans quoi elle est engloutie. Une créature engloutie est aveuglée et entravée, mais bénéficie d'un abri total contre les attaques et effets venant de l'extérieur de la noctegarm. Elle subit 21 (6d6) dégâts d'acide au début de chaque tour de la noctegarm. Cette dernière ne peut avoir qu'une créature engloutie à la fois. Si la créature engloutie lui inflige 25 dégâts ou plus lors d'un même tour, elle doit réussir un jet de sauvegarde de Constitution DD 14 à la fin de ce tour, sans quoi elle régurgite la créature, qui tombe à terre dans un espace situé dans un rayon de 1,50 mètre autour d'elle. Si la noctegarm meurt, les créatures englouties ne sont plus entravées et peuvent s'enfuir en dépensant 3 mètres de déplacement. Elles ressortent à terre.
+
+<!--/MonsterItem-->
+
+<!--MonsterItem Family="TomeOfBeasts"-->
+
+# <!--Name-->Factice noctegarm<!--/Name-->
+
+- Source: <!--Source-->(LDM p322)<!--/Source-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->radiants; aux armes en argent<!--/DamageVulnerabilities-->
 
@@ -13044,8 +13171,7 @@ dépassent leurs compétences.
 
 **_Attaques multiples :_** La nuée porte une attaque de morsure contre toutes les créatures avec lesquelles elle partage un emplacement.
 
-**_Morsures._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée. Touché:
-22(6d6 +1) dégâts perforants ou 11 (3d6+1)dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible subit également 10 (3d6) dégâts de poison et est empoisonnée pendant 1d4rounds; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état empoisonné si elle réussit un jet de sauvegarde de Constitution DD 13.
+**_Morsures._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée. Touché: 22(6d6 +1) dégâts perforants ou 11 (3d6+1)dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible subit également 10 (3d6) dégâts de poison et est empoisonnée pendant 1d4rounds; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état empoisonné si elle réussit un jet de sauvegarde de Constitution DD 13.
 
 <!--/MonsterItem-->
 
@@ -13079,7 +13205,7 @@ dépassent leurs compétences.
 
 **_Attaques multiples :_** La nuée porte une attaque de morsure contre toutes les créatures avec lesquelles elle partage un emplacement.
 
-**_Morsures._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 0m, toutes les créatures dans l'emplacement de la nuée.
+**_Morsures._** _Attaque d'arme au corps à corps :_ +6 pour toucher, allonge 0m, toutes les créatures dans l'emplacement de la nuée. Touché : 24 (6d6 +3) dégâts perforants ou 13 (3d6 +3) dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible subit également 17 (5d6) dégâts de poison et est empoisonnée pendant 1d4 rounds ; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état empoisonné si elle réussit un jet de sauvegarde de Constitution DD 15.
 
 <!--/MonsterItem-->
 
@@ -13110,13 +13236,11 @@ dépassent leurs compétences.
 
 **_Renifler la magie._** La nuée de scarabées manavores détecte la présence des créatures magiques, des sorts et effets de sorts actifs et des objets magiques dans un rayon de 36 mètres.
 
-**_Érosion de mana._** La nuée de scarabées manavores dévore la magie. Les objets magiques abandonnés se trouvant dans l'emplacement de la nuée à la fin de son tour voient leurs effets supprimés pendant 1minute. De plus, les objets chargés se trouvant dans son emplacement perdent 1d6charges au début de chacun de ses tours ; les objets avec un nombre d'utilisations quotidiennes limité perdent une de ces utilisations et les objets à usage unique comme les potions ou les parchemins
-sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipés (comme avec dissipation de la magie lancé avec une caractéristique d'incantation de +5).
+**_Érosion de mana._** La nuée de scarabées manavores dévore la magie. Les objets magiques abandonnés se trouvant dans l'emplacement de la nuée à la fin de son tour voient leurs effets supprimés pendant 1minute. De plus, les objets chargés se trouvant dans son emplacement perdent 1d6charges au début de chacun de ses tours ; les objets avec un nombre d'utilisations quotidiennes limité perdent une de ces utilisations et les objets à usage unique comme les potions ou les parchemins sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipés (comme avec dissipation de la magie lancé avec une caractéristique d'incantation de +5).
 
 ## ACTIONS
 
-**_Morsures._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché:
-14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible doit réussir un jet de sauvegarde de Dextérité DD15, sans quoi un objet magique aléatoire en sa possession est immédiatement affecté par le trait érosion de mana. Si cette attaque touche un lanceur de sorts, il doit réussir un jet de sauvegarde de Charisme DD 15, sans quoi l'un de ses emplacements de sorts de plus bas niveau encore inutilisé est dépensé.
+**_Morsures._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 0 m, une créature dans l'emplacement de la nuée. Touché: 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible doit réussir un jet de sauvegarde de Dextérité DD15, sans quoi un objet magique aléatoire en sa possession est immédiatement affecté par le trait érosion de mana. Si cette attaque touche un lanceur de sorts, il doit réussir un jet de sauvegarde de Charisme DD 15, sans quoi l'un de ses emplacements de sorts de plus bas niveau encore inutilisé est dépensé.
 
 <!--/MonsterItem-->
 
@@ -13216,7 +13340,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 # <!--Name-->Nuée Osseuse<!--/Name-->
 
 - Source: <!--Source-->(LDM p332)<!--/Source-->
--  Nuée de Grande taille de morts-vivants de Très Petite taille,
+-  <!--Type-->Nuée<!--/Type--> de Grande taille de morts-vivants de Très Petite taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->198 (36d10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, vol 18m<!--/Speed-->
@@ -13421,7 +13545,7 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 # <!--Name-->Pavenuée<!--/Name-->
 
 - Source: <!--Source-->(LDM p337)<!--/Source-->
--  <!--Type-->Nuée<!--/Type--> de Grande taille composée de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non<!--/Alignment-->
+-  <!--Type-->Nuée<!--/Type--> de Grande taille composée de bêtes de Très Petite taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13555,6 +13679,13 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 
 **_Mutations du chaos._** 50% des pourceaux des failles ont des mutations supplémentaires. Choisissez-les ou lancez le dé dans la table suivante.
 
+|1|**Furoncles acides.** Une créature qui touche le pourceau avec une attaque de corps à corps doit réussir un jet de sauvegarde de Dextérité DD 12, sans quoi elle subit 3 (1d6 dégâts d'acide).|
+|2|**Langue tentaculaire.** Le pourceau utilise sa langue au lieu de ses défenses pour attaquer : Attaque d'arme au corps à corps : +7 pour toucher, allonge 1,50 m, une cible. Touché : 9 (2d4 + 4) dégâts contondants. Si la cible est une créature, elle est empoignée et entravée comme avec une attaque de tentacule (évasion DD 14).|
+|3|**Couvert de mucus.** La CA du pourceau augmente de 1.|
+|4|**Salive acide.** L'attaque de défenses ou de langue du pourceau inflige 3 (1d6) dégâts d'acide de plus.|
+|5|**Crachat empoisonné.** Attaque d'arme à distance : +3 pour toucher, portée 4,50 m, une cible. Touché : 6 (1d12) dégâts de poison.|
+|6|**Lancez deux fois le dé.**|
+
 ## ACTIONS
 
 **_Attaques multiples._** Le pourceau fait une attaque de défense et deux attaques de tentacules.
@@ -13562,8 +13693,6 @@ sont détruits. Les effets magiques dans l'emplacement de la nuée sont dissipé
 **_Défenses._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts tranchants.
 
 **_Tentacule._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 3m, une cible. Touché: 11 (2d6+4) dégâts contondants. Si la cible est une créature, celle-ci se trouve empoignée (évasion DD 14). Tant qu'elle est empoignée, elle est entravée et le pourceau ne peut pas utiliser ses tentacules contre une autre cible.
-Dextérité DD 12, sans quoi elle subit 3 (1d6 dégâts d'acide). 
-toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si la cible est une créature, elle est empoignée et entravée comme avec une attaque de tentacule (évasion DD 14).
 
 <!--/MonsterItem-->
 
@@ -13745,8 +13874,7 @@ toucher, allonge 1,50 m, une cible. Touché: 9 (2d4+4) dégâts contondants. Si 
 
 **_Amphibie._** Un prêtre profond peut respirer aussi facilement dans l'eau que dans l'air.
 
-**_Fou de rage._** Quand un prêtre profond hybride subit 10 dégâts ou plus d'une unique attaque, il est avantagé lors de ses attaques de
-corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses griffes lors de son tour suivant.
+**_Fou de rage._** Quand un prêtre profond hybride subit 10 dégâts ou plus d'une unique attaque, il est avantagé lors de ses attaques de corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses griffes lors de son tour suivant.
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un prêtre profond est le Charisme (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -14691,7 +14819,7 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Sorceleur<!--/Name-->
+# <!--Name-->Sorcelueur<!--/Name-->
 
 - Source: <!--Source-->(LDM p367)<!--/Source-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
@@ -14712,15 +14840,15 @@ corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses gri
 
 **_Faiblesse face à la dissipation de la magie._** Le sort dissipation de la magie lancé sur la sorceleur la paralyse pendant 1d10 rounds.
 
-**_Luminance._** Une sorceleur brille d'ordinaire comme une torche. Elle peut réduire sa luminosité jusqu'à celle d'une chandelle, mais ne peut pas l'éteindre. À cause de cette lumière, elle est désavantagée sur les tests de Dextérité (Discrétion).
+**_Luminance._** Une sorcelueur brille d'ordinaire comme une torche. Elle peut réduire sa luminosité jusqu'à celle d'une chandelle, mais ne peut pas l'éteindre. À cause de cette lumière, elle est désavantagée sur les tests de Dextérité (Discrétion).
 
-**_Fin comme la lumière._** Bien que la sorceleur ne soit pas intangible, elle peut traverser n'importe quelle ouverture laissant passer la lumière.
+**_Fin comme la lumière._** Bien que la sorcelueur ne soit pas intangible, elle peut traverser n'importe quelle ouverture laissant passer la lumière.
 
 ## ACTIONS
 
 **_Rayon lumineux._** Attaque d'arme à distance : +6 pour toucher, allonge 9 m, une cible. Touché: 6 (1d4+4) dégâts radiants.
 
-**_Flash (Recharge 5–6)._** La sorceleur émet un flash de lumière éblouissante qui aveugle toutes les créatures capables de voir situées dans un rayon de 9mètres pendant 1d4 rounds, à moins qu'elles ne réussissent un jet de sauvegarde de Constitution DD10.
+**_Flash (Recharge 5–6)._** La sorcelueur émet un flash de lumière éblouissante qui aveugle toutes les créatures capables de voir situées dans un rayon de 9mètres pendant 1d4 rounds, à moins qu'elles ne réussissent un jet de sauvegarde de Constitution DD10.
 
 <!--/MonsterItem-->
 
@@ -14928,6 +15056,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 ## ACTIONS
 
 **_Serres._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 1 dégât tranchant. 
+
+# LES FAMILIERS STRYX
 
 **_Lien du familier._** La stryx peut servir de familier et forme alors un lien télépathique avec son maître. Tant qu'ils sont tous deux dans un rayon de 30 mètres, ils peuvent communiquer par télépathie. Par une action, le maître peut utiliser les sens de son familier pendant un round. Pendant ce temps, il est sourd et aveugle à son propre environnement. De plus, tant que la stryx se trouve dans un rayon de 3 mètres autour de lui, il bénéficie de compréhension des langues comme d'un sort inné. En revanche, la stryx est une créature vivante normale (bien qu'étrange) et non un céleste, une fée ou un fiélon convoqué par magie, ce qui entraîne des limites : elle ne peut pas être envoyée dans une poche dimensionnelle ni être invoquée par magie seulement quand son maître le souhaite. La stryx ne peut pas servir d'intermédiaire pour les sorts de contact à distance. Quand elle se trouve à plus de 30 mètres de son maître, les deux ne peuvent pas communiquer, à part avec des signaux prédéfinis (comme un signe de la main ou un coup de sifflet) La stryx a sa propre initiative et peut attaquer lors d'un combat, mais si elle se fait tuer, elle meurt sans recours.
 
@@ -15401,6 +15531,12 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 **_Poussière scintillante (Coûte 2 Actions)._** La reine du nid utilise poussière scintillante.
 
+<!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->L'antre de la reine du nid<!--/Name-->
+
 ## ACTION D'ANTRE
 
 À une initiative de 20, la reine (perdant en cas d'égalité), fait une action d'antre qui provoque l'un des effets suivants :
@@ -15418,11 +15554,11 @@ La présence de la reine du nid tosculie influe sur la région abritant son antr
 1. Les créatures intelligentes présentes dans un rayon de 10 kilomètres souffrent de fréquents maux de crâne, comme si quelque chose bourdonnait en continu dans leur tête.
 2. Dans un rayon de 10 kilomètres, les bêtes sont plus irritables et violentes que d'ordinaire et reçoivent le trait frénésie sanguinaire.
 
-Frénésie sanguinaire. La bête est avantagée sur les jets d'attaque au corps à corps contre une créature qui ne possède pas la totalité de ses points de vie.
+**Frénésie sanguinaire.** La bête est avantagée sur les jets d'attaque au corps à corps contre une créature qui ne possède pas la totalité de ses points de vie.
 
 SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les bêtes redeviennent normales en 1d10 jours.
 
-<!--/MonsterItem-->
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -17233,6 +17369,10 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 - Source: <!--Source-->(LDM p426)<!--/Source-->
 
+Le sorcier vampire n'est pas sujet à défense d'entrer ni blessé par l'eau courante, faiblesses des vampires ordinaires, et subit 10 dégâts radiants au lieu de 20 s'il est exposé à la lumière du jour.
+
+Il gagne le trait incantation innée :
+
 **_Incantation innée._** Le vampire utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 17). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **À volonté:** dominer un humanoïde, invisibilité, pas brumeux, ténèbres
@@ -17264,3 +17404,24 @@ Les actions légendaires des vampires ordinaires sont remplacées par les suivan
 <!--/MonsterItem-->
 
 <!--/MonsterItems-->
+
+[L'antre d'un nihileth]: tome_of_beasts.md#lantre-dun-nihileth
+[L'antre d'Alquam]: tome_of_beasts.md#lantre-dalquam
+[L'antre de Mechuiti]: tome_of_beasts.md#lantre-de-mechuiti
+[L'antre de Qorgeth]: tome_of_beasts.md#lantre-de-qorgeth
+[L'antre de Mammon]: tome_of_beasts.md#lantre-de-mammon
+[L'antre d'un dragon de flammes]: tome_of_beasts.md#lantre-dun-dragon-de-flammes
+[L'antre d'un dragon des cavernes]: tome_of_beasts.md#lantre-dun-dragon-des-cavernes
+[L'antre d'un dragon du vent]: tome_of_beasts.md#lantre-dun-dragon-du-vent
+[L'antre d'un dragon du vide]: tome_of_beasts.md#lantre-dun-dragon-du-vide
+[L'antre d'un dragon marin]: tome_of_beasts.md#lantre-dun-dragon-marin
+[L'antre de la Reine de la Nuit et de la Magie]: tome_of_beasts.md#lantre-de-la-reine-de-la-nuit-et-de-la-magie
+[L'antre de la Reine des Neiges]: tome_of_beasts.md#lantre-de-la-reine-des-neiges
+[L'antre de Nicnevin]: tome_of_beasts.md#lantre-de-nicnevin
+[L'antre du Grand Veneur]: tome_of_beasts.md#lantre-du-grand-veneur
+[L'antre du Roi Baigné de Lune]: tome_of_beasts.md#lantre-du-roi-baigné-de-lune
+[L'antre du Roi des Ours]: tome_of_beasts.md#lantre-du-roi-des-ours
+[L'antre du Roi des Rivières]: tome_of_beasts.md#lantre-du-roi-des-rivières
+[L'antre d'Hraesvelgr]: tome_of_beasts.md#lantre-dhraesvelgr
+[L'antre de l'empereur des goules]: tome_of_beasts.md#lantre-de-lempereur-des-goules
+[L'antre de la reine du nid]: tome_of_beasts.md#lantre-de-la-reine-du-nid
