@@ -362,16 +362,24 @@ namespace AideDeJeuCmd
                 switch (key.KeyChar)
                 {
                     case 'l':
+                        Console.WriteLine("> build library");
                         await BuildLibraryAsync();
+                        Console.WriteLine("/ build library");
                         break;
                     case 'o':
+                        Console.WriteLine("> check orphan links");
                         await CheckOrphanLinksAsync();
+                        Console.WriteLine("/ check orphan links");
                         break;
                     case 'p':
+                        Console.WriteLine("> test pdf");
                         await TestPdfAsync();
+                        Console.WriteLine("/ test pdf");
                         break;
                     case 'h':
+                        Console.WriteLine("> extract html");
                         await ExtractHtmlAsync();
+                        Console.WriteLine("/ extract html");
                         break;
                     case 'q':
                         return;

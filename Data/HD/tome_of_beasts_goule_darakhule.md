@@ -34,9 +34,9 @@
 
 **_Attaques multiples._** Le darakhul mord une fois, griffe une fois et fait une attaque de pic de guerre. S'il utilise un bouclier, il est limité à une attaque de griffes ou de pic de guerre, mais pas les deux.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
 
-**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la fièvre du darakhul.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
 
 **_Pic de guerre._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants.
 

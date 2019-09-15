@@ -39,9 +39,9 @@
 
 ## ACTIONS
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
 
-**_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la fièvre du darakhul.
+**_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
 
 **_Tourbillon (recharge 5-6)._** Une goule poudre d'os peut générer un tourbillon d'os et de dents. Toutes les créatures dans un cube de 6 mètres de côté subissent 66 (12d10) dégâts tranchants et perdent 1d6 Force. Celles qui réussissent un jet de sauvegarde de Dextérité DD 17 réduisent les dégâts de moitié et annulent la perte de Force. Le tourbillon se dissipe au bout d'un round.
 

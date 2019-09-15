@@ -21,7 +21,7 @@
 
 **_Résistance à la magie._** La guenaude est avantagée lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
-**_Incantation innée._** La guenaude des sables utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
+**_Incantation innée._** La guenaude des sables utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 14). Elle peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **À volonté:** invisibilité
 

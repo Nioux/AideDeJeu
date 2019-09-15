@@ -5959,7 +5959,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - **Langues** <!--Languages-->commun, draconique, elfe, primordial ; télépathie 18 m<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1/2 (50 PX)<!--/Challenge-->
 
-**_Lanterne ventrale (1/jour)._** Si la dragonette a mangé 225 grammes de cire de chandelle au cours des dernières 24 heures, elle peut émettre une flamme éternelle pendant 3d20 minutes. On peut dissiper cette flamme, mais la dragonette peut la rallumer par une action bonus si la limite de temps n'a pas expiré, sauf si elle se trouve dans une zone de ténèbres magiques.
+**_Lanterne ventrale (1/jour)._** Si la dragonette a mangé 200 grammes de cire de chandelle au cours des dernières 24 heures, elle peut émettre une flamme éternelle pendant 3d20 minutes. On peut dissiper cette flamme, mais la dragonette peut la rallumer par une action bonus si la limite de temps n'a pas expiré, sauf si elle se trouve dans une zone de ténèbres magiques.
 
 **_Incantation innée._** La dragonette lanterne utilise l'Intelligence comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -8854,9 +8854,9 @@ Mort-vivant de taille Moyenne, neutre mauvais
 
 **_Attaques multiples._** Le darakhul mord une fois, griffe une fois et fait une attaque de pic de guerre. S'il utilise un bouclier, il est limité à une attaque de griffes ou de pic de guerre, mais pas les deux.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul].
 
-**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la fièvre du darakhul.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 10 (2d6+3) dégâts tranchants. Si la cible est une créature autre qu'un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 12, sans quoi elle est paralysée pendant 1 minute. Une cible paralysée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si un humanoïde est paralysé pendant 2 rounds ou plus (s'il rate au moins 2 jets de sauvegarde), consécutifs ou non, il contracte la [fièvre du darakhul].
 
 **_Pic de guerre._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants.
 
@@ -8888,9 +8888,9 @@ Mort-vivant de taille Moyenne, neutre mauvais
 
 **_Attaques multiples._** La goule de fer fait une attaque de morsure et une de griffes, ou trois attaques de coutille.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul].
 
-**_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 18 (4d6+4) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la fièvre du darakhul.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 18 (4d6+4) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 13 ou contracter la [fièvre du darakhul].
 
 **_Coutille._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 3m, une cible. Touché: 20 (1d10+4) dégâts tranchants.
 
@@ -8953,7 +8953,7 @@ Mort-vivant de taille Moyenne, neutre mauvais
 
 **_Attaques multiples._** L'empereur fait une attaque de morsure et deux de griffes. Il peut faire une attaque de sceptre au lieu d'une attaque de griffes.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la fièvre du darakhul. (voir page XX215).
+**_Morsure._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts perforants. Une créature doit réussir un jet de sauvegarde de Constitution DD 18 ou contracter la [fièvre du darakhul]. (voir page XX215).
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4) dégâts tranchants. La cible doit réussir un jet de sauvegarde de Constitution DD 18, sans quoi elle est paralysée pendant 1minute. Une créature paralysée refait le jet de sauvegarde à la fin de chacun de ses tours. Elle met un terme à l'effet si elle le réussit.
 
@@ -8995,7 +8995,7 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 La région dans laquelle se trouve l'antre de l'empereur est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la fièvre du darakhul sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
+* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la [fièvre du darakhul] sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
 
 * Les cadavres dans un rayon de 1,50 mètre autour de l'antre ont 80 pour cent de chances de se relever sous forme de squelettes ou de zombis 24 heures après leur mort. Ces morts-vivants n'attaquent jamais les goules ni les darakhuls et leur obéissent instinctivement.
 
@@ -9031,7 +9031,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 **_Attaques multiples._** La goule impériale fait une attaque de morsure et une attaque de griffes.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul].
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 17 (4d6+3) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 
@@ -9110,13 +9110,32 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 ## ACTIONS
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 18 (3d8+5) plus 1d4dégâts de Force. La cible doit réussir un jet de sauvegarde de Constitution DD 17, sans quoi elle est paralysée pendant 1d4+1rounds. Si la cible est un humanoïde, elle doit réussir un autre jet de sauvegarde de Constitution DD 19 ou contracter la [fièvre du darakhul].
 
-**_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la fièvre du darakhul.
+**_Poussière tombale._** Une goule poudre d'os peut projeter de la poussière tombale dans un cône de 12 m. Toutes les cibles de la zone doivent faire un jet de sauvegarde de Dextérité DD 19. Celles qui échouent subissent 4d8 dégâts nécrotiques et doivent réussir un jet de sauvegarde de Constitution DD 17, sans quoi elles contractent la [fièvre du darakhul].
 
 **_Tourbillon (recharge 5-6)._** Une goule poudre d'os peut générer un tourbillon d'os et de dents. Toutes les créatures dans un cube de 6 mètres de côté subissent 66 (12d10) dégâts tranchants et perdent 1d6 Force. Celles qui réussissent un jet de sauvegarde de Dextérité DD 17 réduisent les dégâts de moitié et annulent la perte de Force. Le tourbillon se dissipe au bout d'un round.
 
 <!--/MonsterItem-->
+
+<!--GenericItem-->
+
+# <!--Name-->Fièvre du darakhul<!--/Name-->
+
+Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu’elle n’a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d’une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
+
+La maladie se répand surtout chez les humains, mais comme elle peut affecter les ogres, elle doit pouvoir toucher les autres géants. Si une créature atteinte de la fièvre du darakhul meurt, lancez 1d20, ajoutez le modificateur de Constitution actuel du personnage et consultez la table des ajustements pour savoir en quel mort-vivant elle se change.
+
+## Table des ajustements
+
+|Jet|Résultat|
+|---|---|
+|1-9|Rien, la victime est juste morte|
+|10-16|Goule|
+|17-20|Blême|
+|21+|Darakhul|
+
+<!--/GenericItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
@@ -9210,7 +9229,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 **_Résistance à la magie._** La guenaude est avantagée lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
-**_Incantation innée._** La guenaude des sables utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 14). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
+**_Incantation innée._** La guenaude des sables utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 14). Elle peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **À volonté:** invisibilité
 
@@ -10946,7 +10965,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - **Langues** <!--Languages-->commun, gobelin, langue du Vide<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (1 800PX)<!--/Challenge-->
 
-**_Bond agressif._** Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de cimeterre au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
+**_Bond agressif._** Si le likho se déplace d’au moins 6 mètres en ligne droite en direction d’une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
 
 **_Incantation innée._** Le likho utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -16264,7 +16283,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 ## ACTIONS
 
-**_Attaques multiples._** Un ver pêcheur porte faire une attaque de morsure. Il peut également porter une attaque d'anneaux contre chaque créature ennemie entravée dans ses fils et à portée de ses anneaux. Une fois qu'il s'est enroulé autour d'une créature, il ne peut plus porter d'attaque d'anneaux contre les autres.
+**_Attaques multiples._** Un ver pêcheur porte une attaque de morsure. Il peut également porter une attaque d'anneaux contre chaque créature ennemie entravée dans ses fils et à portée de ses anneaux. Une fois qu'il s'est enroulé autour d'une créature, il ne peut plus porter d'attaque d'anneaux contre les autres.
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50m, une créature. Touché: 9 (2d6+2) dégâts perforants plus 3 (1d6)dégâts d'acide.
 
@@ -17468,9 +17487,10 @@ Les actions légendaires des vampires ordinaires sont remplacées par les suivan
 [L'antre de la Reine des Neiges]: tome_of_beasts.md#lantre-de-la-reine-des-neiges
 [L'antre de Nicnevin]: tome_of_beasts.md#lantre-de-nicnevin
 [L'antre du Grand Veneur]: tome_of_beasts.md#lantre-du-grand-veneur
-[L'antre du Roi Baigné de Lune]: tome_of_beasts.md#lantre-du-roi-baigné-de-lune
+[L'antre du Roi Baigné de Lune]: tome_of_beasts.md#lantre-du-roi-baigne-de-lune
 [L'antre du Roi des Ours]: tome_of_beasts.md#lantre-du-roi-des-ours
-[L'antre du Roi des Rivières]: tome_of_beasts.md#lantre-du-roi-des-rivières
+[L'antre du Roi des Rivières]: tome_of_beasts.md#lantre-du-roi-des-rivieres
 [L'antre d'Hraesvelgr]: tome_of_beasts.md#lantre-dhraesvelgr
 [L'antre de l'empereur des goules]: tome_of_beasts.md#lantre-de-lempereur-des-goules
 [L'antre de la reine du nid]: tome_of_beasts.md#lantre-de-la-reine-du-nid
+[fièvre du darakhul]: tome_of_beasts.md#fievre-du-darakhul

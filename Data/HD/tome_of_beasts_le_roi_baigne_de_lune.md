@@ -63,5 +63,5 @@ Le Roi Baigné de Lune peut faire trois actions légendaires parmi celles propos
 
 **_Aura de folie (2 actions)._** Tant qu'il se tient dans une zone éclairée par la lumière de la lune, le Roi Baigné de Lune peut transmettre sa folie aux autres créatures qui se trouvent dans un rayon de 9mètres. Une créature qui n'est pas un fiélon et qui commence son tour dans la zone d'effet de l'aura ou y pénètre pour la première fois lors de son tour (y compris au moment où l'aura est activée) doit réussir un jet de Charisme DD 19 ou se trouver dans l'état confus (comme si elle était sous l'effet du sort confusion ) jusqu'au début de son tour suivant. Cette aura persiste jusqu'au début du tour suivant du Roi Baigné de Lune.
 
-# [L'antre du Roi Baigné de Lune](tome_of_beasts_lantre_du_roi_baigne_de_lune.md)
+# [L'antre du Roi Baigné de Lune](tome_of_beasts.md#lantre-du-roi-baigne-de-lune)
 

@@ -28,7 +28,7 @@
 
 ## ACTIONS
 
-**_Attaques multiples._** Un ver pêcheur porte faire une attaque de morsure. Il peut également porter une attaque d'anneaux contre chaque créature ennemie entravée dans ses fils et à portée de ses anneaux. Une fois qu'il s'est enroulé autour d'une créature, il ne peut plus porter d'attaque d'anneaux contre les autres.
+**_Attaques multiples._** Un ver pêcheur porte une attaque de morsure. Il peut également porter une attaque d'anneaux contre chaque créature ennemie entravée dans ses fils et à portée de ses anneaux. Une fois qu'il s'est enroulé autour d'une créature, il ne peut plus porter d'attaque d'anneaux contre les autres.
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50m, une créature. Touché: 9 (2d6+2) dégâts perforants plus 3 (1d6)dégâts d'acide.
 

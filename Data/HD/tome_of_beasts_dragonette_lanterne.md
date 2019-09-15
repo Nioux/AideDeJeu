@@ -21,7 +21,7 @@
 - **Langues** commun, draconique, elfe, primordial ; télépathie 18 m
 - **Dangerosité** 1/2 (50 PX)
 
-**_Lanterne ventrale (1/jour)._** Si la dragonette a mangé 225 grammes de cire de chandelle au cours des dernières 24 heures, elle peut émettre une flamme éternelle pendant 3d20 minutes. On peut dissiper cette flamme, mais la dragonette peut la rallumer par une action bonus si la limite de temps n'a pas expiré, sauf si elle se trouve dans une zone de ténèbres magiques.
+**_Lanterne ventrale (1/jour)._** Si la dragonette a mangé 200 grammes de cire de chandelle au cours des dernières 24 heures, elle peut émettre une flamme éternelle pendant 3d20 minutes. On peut dissiper cette flamme, mais la dragonette peut la rallumer par une action bonus si la limite de temps n'a pas expiré, sauf si elle se trouve dans une zone de ténèbres magiques.
 
 **_Incantation innée._** La dragonette lanterne utilise l'Intelligence comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 13, +5 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 

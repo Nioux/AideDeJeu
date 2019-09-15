@@ -61,5 +61,5 @@ Le Roi des Rivières peut faire trois actions légendaires parmi celles proposé
 
 **_Ondoiement (2 Actions)._** Le Roi des Rivières se met à ondoyer comme le soleil à la surface des eaux. Jusqu'au début de son prochain tour, toutes les attaques portées contre lui sont désavantagées.
 
-# [L'antre du Roi des Rivières](tome_of_beasts_lantre_du_roi_des_rivieres.md)
+# [L'antre du Roi des Rivières](tome_of_beasts.md#lantre-du-roi-des-rivieres)
 

@@ -20,7 +20,7 @@
 - **Langues** commun, gobelin, langue du Vide
 - **Dangerosité** 6 (1 800PX)
 
-**_Bond agressif._** Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de cimeterre au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
+**_Bond agressif._** Si le likho se déplace d’au moins 6 mètres en ligne droite en direction d’une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
 
 **_Incantation innée._** Le likho utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 

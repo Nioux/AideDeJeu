@@ -26,7 +26,7 @@
 
 **_Attaques multiples._** La goule impériale fait une attaque de morsure et une attaque de griffes.
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la fièvre du darakhul.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants. Si la cible est un humanoïde, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle contracte la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul).
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 17 (4d6+3) dégâts tranchants. Si la cible est une créature autre qu'un elfe ou un mort-vivant, elle doit réussir un jet de sauvegarde de Constitution DD 11, sans quoi elle est paralysée pendant 1 minute. Elle répète le jet de sauvegarde à la fin de chacun de ses tours et, sur une réussite, met un terme à l'effet.
 

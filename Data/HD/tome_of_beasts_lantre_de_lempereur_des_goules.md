@@ -18,7 +18,7 @@
 
 La région dans laquelle se trouve l'antre de l'empereur est déformée par sa magie, ce qui crée un ou plusieurs effets parmi les suivants :
 
-* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la fièvre du darakhul sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
+* Les créatures dans un rayon de 1,5 kilomètre autour de l'antre infectées par la [fièvre du darakhul](tome_of_beasts.md#fievre-du-darakhul) sont désavantagées lors des jets de sauvegarde de Sagesse contre les sorts et effets générés par une goule ou un darakhul.
 
 * Les cadavres dans un rayon de 1,50 mètre autour de l'antre ont 80 pour cent de chances de se relever sous forme de squelettes ou de zombis 24 heures après leur mort. Ces morts-vivants n'attaquent jamais les goules ni les darakhuls et leur obéissent instinctivement.
 
