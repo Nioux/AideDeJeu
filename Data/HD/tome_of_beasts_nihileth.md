@@ -35,7 +35,7 @@
 
 **_Attaques multiples._** Le nihileth porte trois attaques de tentacule ou trois contacts flétrissants, en fonction de la forme sous laquelle il se trouve.
 
-**_Tentacule (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9pour toucher, allonge 3 m, une cible. _Touché :_ 12 (2d6 + 5) dégâts contondants. Si la créature ciblée est touchée, elle doit réussir un jet de sauvegarde de la Constitution DD 14 ou tomber malade. Cette maladie n’a aucun effet pendant 1 minute ; pendant ce laps de temps, elle peut être guérie à l’aide de restauration inférieure ou d’une magie similaire. Au bout d’une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors plus récupérer de points de vie à moins de se trouver entièrement immergée dans de l’eau et la maladie ne peut être soignée que par le sort guérison ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10 minutes. Si une créature meurt alors qu'elle est affectée par cette maladie, elle revient 1d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth.
+**_Tentacule (uniquement sous forme matérielle)._** _Attaque d'arme au corps à corps :_ +9pour toucher, allonge 3 m, une cible. _Touché :_ 12 (2d6 + 5) dégâts contondants. Si la créature ciblée est touchée, elle doit réussir un jet de sauvegarde de la Constitution DD 14 ou tomber malade. Cette maladie n'a aucun effet pendant 1 minute ; pendant ce laps de temps, elle peut être guérie à l'aide de restauration inférieure ou d'une magie similaire. Au bout d'une minute, la peau de la créature malade devient translucide et visqueuse. La créature ne peut alors plus récupérer de points de vie à moins de se trouver entièrement immergée dans de l'eau et la maladie ne peut être soignée que par le sort guérison ou une magie comparable. À moins que la créature ne se trouve entièrement immergée dans l'eau ou régulièrement aspergée d'eau, elle subit 6(1d12) dégâts d'acide toutes les 10 minutes. Si une créature meurt alors qu'elle est affectée par cette maladie, elle revient 1d6 rounds plus tard sous la forme d'un zombi nihilethique. Ce zombi se trouve sous le contrôle permanent du nihileth.
 
 **_Contact flétrissant (uniquement sous forme éthérée)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 3m, une créature. _Touché :_ 14 (3d6+4) dégâts nécrotiques.
 
@@ -59,15 +59,5 @@ Un nihileth peut accomplir trois actions légendaires parmi celles présentées 
 
 **_Succion psychique (coûte 2 actions)._** Une créature charmée par un aboleth subit 10(3d6) dégâts psychiques et l'aboleth regagne une quantité de points de vie égale à la quantité de dégâts subis par la créature.
 
-## ACTIONS D'ANTRE
-
-À 20 lors du décompte d’initiative (sachant qu’il perd en cas d’égalité), un nihileth peut effectuer une action d’antre afin de créer un effet magique comme s’il était un aboleth, ou utiliser l’action absorption du Vide détaillée ci-dessous. Le nihileth ne peut pas utiliser le même effet deux rounds de suite.
-
-* Absorption du Vide. Un nihileth peut puiser dans l’énergie vitale de ceux qu’il a convertis en zombis nihilethiques pour regagner de la vie. Ce pouvoir lui permet de puiser 18 (6d6) points de vie auprès des zombis qui se trouvent dans un rayon de 9 mètres de lui. Ces points sont séparés équitablement entre les zombis et permettent de soigner le nihileth. Si un zombi est réduit à 0 point de vie à cause de cette action, il meurt et ne fait pas de jet le sauvegarde permis par Robustesse de la non-vie.
-
-## EFFETS RÉGIONAUX
-
-Les effets régionaux de l’antre d’un nihileth sont les mêmes que ceux d’un aboleth, à l’exception du point suivant.
-
-* Les sources d’eau qui se trouvent dans un rayon de 1,50 kilomètre de l’antre d’un nihileth sont non seulement souillées surnaturellement par sa présence, mais peuvent également propager sa maladie. Une créature qui boit une telle eau doit réussir un jet de sauvegarde de Constitution DD 14 ou se trouver infectée.
+# [L'antre d'un nihileth](tome_of_beasts_lantre_dun_nihileth.md)
 

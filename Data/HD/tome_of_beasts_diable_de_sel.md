@@ -39,7 +39,7 @@
 
 **_Cimeterre._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d6+4) dégâts tranchants. Si la cible n'est ni morte-vivante, ni une créature artificielle, elle subit également 5(1d10)dégâts nécrotiques, ou moitié moins si elle réussit un jet de sauvegarde de Constitution DD 15. Les plantes, les vases et les créatures qui possèdent les traits amphibie, corps d'eau, ou respiration aquatique, sont désavantagées lors de ce jet de sauvegarde. Si une créature rate son jet de sauvegarde de5 ou plus, elle gagne également un niveau d'épuisement.
 
-## VARIANTE : CONVOCATION DE DIABLE
+# Variante : Convocation de diable
 
 Certains diables de sel possèdent une action qui leur permet de convoquer d'autres diables.
 

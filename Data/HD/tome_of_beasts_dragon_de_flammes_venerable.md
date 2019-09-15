@@ -37,8 +37,7 @@
 
 **_Présence terrifiante._** Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 21 ou être terrorisées pendant 1 minute. Une créature terrorisée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre la présence terrifiante du dragon pour les 24heures qui suivent.
 
-**_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 27 mètres. Chaque créature qui se trouve dans la zone d'effet subit 91 (26d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 23. Chaque
-créature qui se trouve dans cette zone doit également réussir un jet de sauvegarde de Sagesse DD 21 ou devenir déchaînée pendant 1minute. Une créature déchaînée doit attaquer la créature vivante la plus proche d'elle ou briser un objet plus petit qu'elle si elle ne peut pas atteindre de créature en un seul mouvement. Une créature déchaînée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
+**_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 27 mètres. Chaque créature qui se trouve dans la zone d'effet subit 91 (26d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 23. Chaque créature qui se trouve dans cette zone doit également réussir un jet de sauvegarde de Sagesse DD 21 ou devenir déchaînée pendant 1minute. Une créature déchaînée doit attaquer la créature vivante la plus proche d'elle ou briser un objet plus petit qu'elle si elle ne peut pas atteindre de créature en un seul mouvement. Une créature déchaînée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
 
 **_Flammes changeantes._** Par magie, le dragon peut soit se métamorphoser en une créature immunisée contre les dégâts de feu dont la taille et la dangerosité ne peuvent pas être supérieures à la sienne, soit reprendre sa forme véritable. Il reprend sa forme normale s'il meurt. Tout équipement qu'il porte est absorbé ou porté par la nouvelle forme qu'il prend (au choix du dragon). Sous sa nouvelle forme, le dragon conserve son alignement, ses points de vie, ses Dés de vie, sa capacité à parler, ses maîtrises, sa résistance légendaire, ses actions d'antres, ses valeurs d'Intelligence, de Sagesse et de Charisme, ainsi que cette action. Le reste de ses statistiques et de ses capacités est remplacé par celles de sa nouvelle forme, à l'exception des aptitudes de classe et des actions légendaires de cette forme.
 
@@ -52,7 +51,5 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec les ailes (coûte 2actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 13(2d6+6) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
 
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
+# [L'antre d'un dragon de flammes](tome_of_beasts_lantre_dun_dragon_de_flammes.md)
 

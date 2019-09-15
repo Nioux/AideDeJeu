@@ -44,6 +44,9 @@
 **_Griffes._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d6+4) dégâts tranchants.
 
 **_Aspersion cristalline (Recharge 5–6)._** Un diable cristallin peut projeter magiquement un nuage d'éclats de cristal sur un cône de 4,50mètres. Les créatures qui se trouvent dans cette zone subissent 17 (7d4) dégâts perforants, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 15.
+
+# Variante : Convocation de diable
+
 Certains diables cristallins peuvent par une action convoquer d'autres diables.
 
 **_Convocation de diable (1/jour)._** Un diable cristallin a 25 % de chances de convoquer un autre diable cristallin.

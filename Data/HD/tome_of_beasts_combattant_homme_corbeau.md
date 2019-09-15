@@ -34,12 +34,14 @@
 
 **_Bec._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50m, une cible. Touché: 5 (1d4+3) dégâts perforants.
 
-**_Lance runique radiante._** _Attaque d'arme au corps à corps :_
-+3pour toucher, allonge 3 m, une cible. Touché: 7(1d12+1) dégâts perforants plus 2 (1d4) dégâts radiants.
+**_Lance runique radiante._** _Attaque d'arme au corps à corps :_ +3pour toucher, allonge 3 m, une cible. Touché: 7(1d12+1) dégâts perforants plus 2 (1d4) dégâts radiants.
 
 ## RÉACTIONS
 
 **_Appel d'Odin._** Un combattant homme-corbeau peut se désengager après qu'une attaque l'a réduit à 10 pv ou moins.
+
+# Variante : Manque de runes
+
 Certains combattants n'ont pas accès aux armes runiques et utilisent une rapière à la place.
 
 **_Rapière_** : _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7 (1d8+3) dégâts perforants.

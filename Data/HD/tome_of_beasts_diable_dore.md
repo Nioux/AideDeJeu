@@ -43,11 +43,20 @@
 
 **_Attaques multiples._** Un diable doré porte deux attaques de fléau lourd.
 
-**_Fléau lourd (fléau de l'avarice)._** _Attaque d'arme au corps à corps :_
-+8 pour toucher, allonge 1,50 m, une cible. Touché:
-10 (1d10+5) dégâts contondants.
+**_Fléau lourd (fléau de l'avarice)._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 10 (1d10+5) dégâts contondants.
 
 **_Traîtrise des trésors (Recharge 5–6)._** Par une action bonus, un diable doré peut faire en sorte que les anneaux, colliers et autres bijoux portés par une créature se retournent momentanément contre celle-ci. Le diable peut ainsi affecter tous les bijoux visibles portés par deux créatures dans un rayon de 18 mètres, de sorte que ceux-ci se trouvent soudain dotés de barbelures et de pointes. Chaque cible doit réussir un jet de sauvegarde de Sagesse DD 15 pour diminuer de moitié les dégâts causés par cet effet. En cas d'échec, une victime subit 13 (3d8)dégâts perforants ainsi qu'un effet supplémentaire en fonction de l'emplacement de l'objet.
+
+|Emplacement|Effet|
+|---|---|
+|Bras|Dégâts infligés au corps à corps diminués de moitié jusqu'à la fin d'un repos court.|
+|Main|La cible lâche tous les objets qu'elle tient.|
+|Yeux|La cible est aveuglée de manière permanente.|
+|Tête|La cible est désavantagée lors des tests d'Intelligence jusqu'à la fin d'un repos long.|
+|Pieds|Vitesse diminuée de moitié pendant 24 heures.|
+|Cou|La cible se trouve dans l'état étourdi et est incapable de respirer pendant 1 round.|
+|Autre|Pas d'effet supplémentaire.|
+
 Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (comme de l'argent, de l'or, de l'ivoire ou de l'adamantium), décoré de gemmes ou les deux, et qu'il vaut au moins 100po.
 
 **_Mépris des bas métaux._** Les attaques portées par un diable doré ignorent toutes les protections apportées par les armures non magiques faites en bronze, en fer, en acier et autres métaux similaires. La protection apportée par les objets faits de métaux précieux, comme l'adamantium, le mithral ou l'or, fonctionne normalement, tout comme les bonus apportés par les objets non métalliques.

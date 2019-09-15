@@ -32,8 +32,7 @@
 
 **_Attaques multiples._** Le felforgé fait deux attaques de coup nécrotique.
 
-**_Coup nécrotique._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d8+2) dégâts contondants plus 4 (1d8) dégâts nécrotiques ; la cible doit réussir
-un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie réduit de la quantité de dégâts subis. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points de vie à 0.
+**_Coup nécrotique._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 11 (2d8+2) dégâts contondants plus 4 (1d8) dégâts nécrotiques ; la cible doit réussir un jet de sauvegarde de Constitution DD 14 ou voir son maximum de points de vie réduit de la quantité de dégâts subis. Cette réduction perdure jusqu'à ce que la cible termine un long repos. La cible meurt si cet effet réduit son maximum de points de vie à 0.
 
 **_Échappement violent._** Les âmes-en-peine felforgées ne respectent pas les corps mécaniques qui les abritent. Ainsi, elles n'hésitent pas à appliquer de telles tensions à leurs mécanismes que les volants d'inertie se déséquilibrent, que les rouages se brisent et que les ressorts claquent. Par une action bonus, une violente projection de rouages et de molettes inflige 7 (2d6) dégâts perforants à tous les adversaires qui se trouvent dans un rayon de 1,50 mètre et qui ne réussissent pas un jet de Dextérité DD 14. Chaque fois qu'un felforgé utilise ce pouvoir, il subit une réduction cumulative de vitesse de 1,50m. Si sa vitesse est réduite à 0 m, le felforgé est paralysé.
 

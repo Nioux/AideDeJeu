@@ -35,11 +35,9 @@
 
 **_Griffes broyeuses._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 3 m, une cible. Touché: 20 (2d12+7) dégâts contondants plus 13 (3d8) dégâts nécrotiques.
 
-**_Regard désintégrateur (recharge 5-6)._** Attaque de sort à distance:
-+15 pour toucher, portée 18 m, une cible dans le champ de vision.
+**_Regard désintégrateur (recharge 5-6)._** Attaque de sort à distance: +15 pour toucher, portée 18 m, une cible dans le champ de vision.
 
-**_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec
-de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
+**_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
 
 ## ACTIONS
 

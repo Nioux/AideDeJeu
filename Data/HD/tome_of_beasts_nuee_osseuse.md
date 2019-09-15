@@ -5,7 +5,7 @@
 # Nuée Osseuse
 
 - Source: (LDM p332)
--  Nuée de Grande taille de morts-vivants de Très Petite taille,
+-  Nuée de Grande taille de morts-vivants de Très Petite taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 198 (36d10)
 - **Vitesse** 6m, vol 18m

@@ -34,8 +34,7 @@
 
 **_Faux._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 3m, une cible. Touché: 16 (2d12+3) dégâts tranchants, OU le koralk peut à la place se saisir d'une cible de taille Moyenne ou inférieure à l'aide de ses plus petits bras vestigiaux (aucun dégât, évasion DD13).
 
-**_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge1,50 m, une cible empoignée. Touché:
-19 (3d10+3) dégâts perforants.
+**_Morsure._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge1,50 m, une cible empoignée. Touché: 19 (3d10+3) dégâts perforants.
 
 **_Dard._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge1,50 m, une cible. Touché: 12 (2d8+3) dégâts perforants et la cible doit réussir un jet de sauvegarde de Constitution DD 15, sans quoi elle est empoisonnée. Tant qu'elle est empoisonnée, la cible subit 10 (3d6) dégâts de poison au début de chacun de ses tours causés par la liquéfaction de ses entrailles. Si une créature réussit son jet de sauvegarde, elle est immunisée contre le poison du koralk pendant 24 heures. Si la créature meurt pendant qu'elle est sous l'effet du poison d'un koralk, son cadavre éclate et il en sort un lémure nouvellement formé et couvert d'un liquide immonde. Ce lémure est aux ordres du diable le plus haut placé qui se trouve à proximité. Le poison peut être neutralisé par
 

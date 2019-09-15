@@ -28,3 +28,5 @@
 
 **_Souffle de bourrasques (Recharge 5–6)._** Le dragon souffle une bourrasque de vent sur un cône de 4,50mètres. Chaque créature qui se trouve dans ce cône doit réussir un jet de sauvegarde de Force DD 12 ou être repoussée de 4,50 mètres et jetée à terre. Les flammes non protégées qui se trouvent dans ce cône sont éteintes. Les flammes protégées (comme celles qui se trouvent dans des lanternes) ont 50 % de chances d'être éteintes.
 
+# [L'antre d'un dragon du vent](tome_of_beasts_lantre_dun_dragon_du_vent.md)
+

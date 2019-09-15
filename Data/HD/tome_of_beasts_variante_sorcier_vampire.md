@@ -6,6 +6,10 @@
 
 - Source: (LDM p426)
 
+Le sorcier vampire n'est pas sujet à défense d'entrer ni blessé par l'eau courante, faiblesses des vampires ordinaires, et subit 10 dégâts radiants au lieu de 20 s'il est exposé à la lumière du jour.
+
+Il gagne le trait incantation innée :
+
 **_Incantation innée._** Le vampire utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 17). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
 **À volonté:** dominer un humanoïde, invisibilité, pas brumeux, ténèbres

@@ -18,7 +18,7 @@
 - **Immunité contre les dégâts** contondants, d'acide, de foudre
 - **Immunité contre les états** aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
 - **Sens** vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
-- **Langue** aucune sous sa forme naturelle ; connaît les mêmes que la créature qu’il domine.
+- **Langue** aucune sous sa forme naturelle ; connaît les mêmes que la créature qu'il domine.
 - **Dangerosité** 4 (1 100PX)
 
 **_Informe._** Le démon de sève peut traverser un espace étroit d'au minimum 2,5 centimètres de large sans se faufiler.

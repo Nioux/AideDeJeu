@@ -24,8 +24,7 @@
 
 **_Amphibie._** Un prêtre profond peut respirer aussi facilement dans l'eau que dans l'air.
 
-**_Fou de rage._** Quand un prêtre profond hybride subit 10 dégâts ou plus d'une unique attaque, il est avantagé lors de ses attaques de
-corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses griffes lors de son tour suivant.
+**_Fou de rage._** Quand un prêtre profond hybride subit 10 dégâts ou plus d'une unique attaque, il est avantagé lors de ses attaques de corps à corps et ajoute +4 aux dégâts qu'il inflige avec ses sorts et ses griffes lors de son tour suivant.
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un prêtre profond est le Charisme (DD du jet de sauvegarde contre les sorts 12, +4 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 

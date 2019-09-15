@@ -31,11 +31,9 @@
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +9pour toucher, allonge 3 m, une cible. Touché: 15 (2d10+4) dégâts perforants plus 7(2d6) dégâts de feu.
 
-**_Griffes._** _Attaque d'arme au corps à corps :_ +9pour toucher, allonge 1,50 m, une cible.
-11 (2d6+4) dégâts tranchants.
+**_Griffes._** _Attaque d'arme au corps à corps :_ +9pour toucher, allonge 1,50 m, une cible. 11 (2d6+4) dégâts tranchants.
 
-**_Queue._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 4,50 m, une cible. Touché:
-13 (2d8+4) dégâts contondants.
+**_Queue._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 4,50 m, une cible. Touché: 13 (2d8+4) dégâts contondants.
 
 **_Présence terrifiante._** Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 18 ou être terrorisées pendant 1 minute. Une créature terrorisée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre la présence terrifiante du dragon pour les 24 heures qui suivent.
 
@@ -52,4 +50,6 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 **_Attaque avec la queue._** Le dragon fait une attaque de queue.
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 17 ou subir 11(2d6+4) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
+
+# [L'antre d'un dragon de flammes](tome_of_beasts_lantre_dun_dragon_de_flammes.md)
 

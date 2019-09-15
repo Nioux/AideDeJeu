@@ -40,8 +40,7 @@
 
 **_Queue._** _Attaque d'arme au corps à corps :_ +16 pour toucher, allonge 6 m, une cible. Touché: 18 (2d8+9) dégâts contondants.
 
-**_Aura de folie._** Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 22 ou être terrorisées pendant 1 minute. Une créature refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature échoue à son jet de sauvegarde de 5 ou plus, elle devient folle. Une créature folle est
-en permanence terrorisée et elle se comporte alors comme si elle était sous l'effet du sort confusion . Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre l'aura de folie du dragon pour les 24 heures qui suivent.
+**_Aura de folie._** Toutes les créatures désignées par le dragon, qui se trouvent dans un rayon de 36mètres de lui et qui sont conscientes de sa présence doivent réussir un jet de sauvegarde de Sagesse DD 22 ou être terrorisées pendant 1 minute. Une créature refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit. Si une créature échoue à son jet de sauvegarde de 5 ou plus, elle devient folle. Une créature folle est en permanence terrorisée et elle se comporte alors comme si elle était sous l'effet du sort confusion . Si une créature réussit son jet de sauvegarde ou que l'effet se termine pour elle, elle est immunisée contre l'aura de folie du dragon pour les 24 heures qui suivent.
 
 **_Souffle (Recharge 5–6)._** Le dragon utilise l'un des souffles suivants.
 
@@ -53,8 +52,7 @@ en permanence terrorisée et elle se comporte alors comme si elle était sous l'
 
 ## RÉACTIONS
 
-**_Distorsion du Vide._** Quand le dragon est touché par une attaque à distance, il peut créer une petite déchirure dans l'espace qui lui permet d'augmenter sa CA de 7 contre cette attaque. Si l'attaque
-échoue à cause de cette augmentation, le dragon peut désigner une créature dans un rayon de 9mètres qui devient la nouvelle cible de cette attaque. Utilisez le jet d'attaque d'origine pour déterminer si l'attaque touche la nouvelle cible ou non.
+**_Distorsion du Vide._** Quand le dragon est touché par une attaque à distance, il peut créer une petite déchirure dans l'espace qui lui permet d'augmenter sa CA de 7 contre cette attaque. Si l'attaque échoue à cause de cette augmentation, le dragon peut désigner une créature dans un rayon de 9mètres qui devient la nouvelle cible de cette attaque. Utilisez le jet d'attaque d'origine pour déterminer si l'attaque touche la nouvelle cible ou non.
 
 ## ACTIONS LÉGENDAIRES.
 
@@ -64,12 +62,9 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec la queue._** Le dragon fait une attaque de queue.
 
-**_Glissade du Vide (Coûte 2 actions)._**
-Le dragon tord la structure de l'espace. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 13(2d6+6)dégâts contondants et se trouver jetée à terre. Le dragon peut alors se téléporter dans un emplacement inoccupé dans un rayon de 12mètres.
+**_Glissade du Vide (Coûte 2 actions)._**  Le dragon tord la structure de l'espace. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 21 ou subir 13(2d6+6)dégâts contondants et se trouver jetée à terre. Le dragon peut alors se téléporter dans un emplacement inoccupé dans un rayon de 12mètres.
 
 **_Cache du vide (Coûte 3 actions)._** Le dragon peut magiquement accéder à son trésor pour y récupérer un objet. Si le dragon tient un objet, il peut utiliser ce pouvoir pour le déposer dans son trésor.
 
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
+# [L'antre d'un dragon du vide](tome_of_beasts_lantre_dun_dragon_du_vide.md)
 

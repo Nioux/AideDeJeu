@@ -27,3 +27,5 @@
 
 **_Souffle des marées (Recharge 5-6)._** Le dragon crache un jet dévastateur d'eau glacée sur un cône de 4,50mètres. Chaque créature qui se trouve dans la zone affectée doit faire un jet de sauvegarde de Dextérité DD 12. Sur un échec, une cible subit 11 (2d10) dégâts contondants plus 11 (2d10) dégâts de froid et elle se trouve repoussée de 4,50 mètres en arrière et jetée à terre. Si elle réussit son jet de sauvegarde, la créature subit la moitié des dégâts et n'est pas repoussée ni jetée à terre.
 
+# [L'antre d'un dragon marin](tome_of_beasts_lantre_dun_dragon_marin.md)
+

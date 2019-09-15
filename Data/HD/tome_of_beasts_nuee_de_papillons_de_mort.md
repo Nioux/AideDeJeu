@@ -30,6 +30,5 @@
 
 **_Attaques multiples :_** La nuée porte une attaque de morsure contre toutes les créatures avec lesquelles elle partage un emplacement.
 
-**_Morsures._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée. Touché:
-22(6d6 +1) dégâts perforants ou 11 (3d6+1)dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible subit également 10 (3d6) dégâts de poison et est empoisonnée pendant 1d4rounds; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état empoisonné si elle réussit un jet de sauvegarde de Constitution DD 13.
+**_Morsures._** _Attaque d'arme au corps à corps :_ +3 pour toucher, allonge 0 m, toutes les créatures dans l'emplacement de la nuée. Touché: 22(6d6 +1) dégâts perforants ou 11 (3d6+1)dégâts perforants si la nuée n'a plus que la moitié de ses points de vie ou moins. La cible subit également 10 (3d6) dégâts de poison et est empoisonnée pendant 1d4rounds; elle peut réduire cette quantité de dégâts de moitié et ne pas se trouver dans l'état empoisonné si elle réussit un jet de sauvegarde de Constitution DD 13.
 

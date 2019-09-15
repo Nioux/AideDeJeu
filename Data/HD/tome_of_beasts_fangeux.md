@@ -39,11 +39,3 @@
 
 **_Fuite boueuse (1/jour)._** Si une attaque devait faire tomber le fangeux à 0 point de vie, il tombe à la place à 1 point de vie et se répand en une flaque d'eau boueuse. Sous cette forme, il peut se déplacer à sa vitesse normale et traverser des emplacements occupés par d'autres créatures. Au début de son prochain tour, il peut se reformer, toujours à 1 point de vie, par une action bonus.
 
-## ACTIONS
-
-**_Attaques multiples._** Le far darrig fait quatre attaques de coutille en ramure.
-
-**_Coutille en ramure._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m ou 3 m, une cible. Touché: 7 (1d10+2) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Force DD13 ou soit être désarmée, soit tomber à terre. Le far darrig assaillant choisit l'effet à sa guise.
-
-**_Manœuvres de coutille enchantée._** Par une action bonus, un far darrig peut agrandir ou rétrécir magiquement sa coutille en ramure afin de lui donner une allonge 1,50 m ou de 3 m.
-

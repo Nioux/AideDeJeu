@@ -57,7 +57,3 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 
 **_Drain (2 actions)._** Koschei fait une attaque de drain de vie.
 
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
-

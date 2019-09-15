@@ -39,6 +39,8 @@
 
 **_Résistance à la magie._** Le diable est avantagé lors de ses jets de sauvegarde contre les sorts et autres effets magiques.
 
+# Variante
+
 **_Convocation de diable (1/jour)._** Le diable peut tenter de réaliser une convocation magique. Il a 40 pourcent de chances de convoquer soit 2diables des chaînes, soit 1diable lunaire.
 
 ## ACTIONS

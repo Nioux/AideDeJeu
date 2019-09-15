@@ -19,22 +19,6 @@
 - **Immunité contre les dégâts** de froid, nécrotiques, de poison
 - **Immunité contre les états** charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
 - **Sens** vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
-  Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de puissants mages. Le gardien arcanique possède un indice de dangerosité de 8 (3 900 PX) et le trait supplémentaire suivant :
-
-**_Incantation._** Le gardien arcanique est un lanceur de sorts de niveau 9. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts15, +7 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants, qui n'ont pas besoin de composantes matérielles :
-
-**Tours de magie (à volonté)** : aspersion acide, contact glacial, lumières dansantes, illusion mineure, rayon de givre
-
-**Niveau 1 (4 emplacements)** : armure du mage, rayon empoisonné
-
-**Niveau 2 (3 emplacements)** : ténèbres, rayon ardent
-
-**Niveau 3 (3 emplacements)** : peur, lenteur, nuage puant
-
-**Niveau 4 (3 emplacements)** : flétrissement, tempête de grêle
-
-**Niveau 5 (1 emplacement)** : cône de froid
-
 - **Langues** comprend les langues qu'il parlait de son vivant mais ne peut pas parler
 - **Dangerosité** 6 (2 300PX)
 
@@ -49,4 +33,22 @@
 **_Attaques multiples._** Le gardien spectral fait deux attaques de déchirement spectral.
 
 **_Déchirement spectral._** _Attaque d'arme au corps à corps :_ +7 pour toucher, allonge 1,50 m, une cible. Touché: 13 (2d8+4) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse DD 14, sans quoi elle est terrorisée et voit sa vitesse réduite à 0. Ces deux effets persistent jusqu'à la fin de son prochain tour.
+
+# Variante : Gardien Arcanique
+
+Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de puissants mages. Le gardien arcanique possède un indice de dangerosité de 8 (3 900 PX) et le trait supplémentaire suivant :
+
+**_Incantation._** Le gardien arcanique est un lanceur de sorts de niveau 9. Il utilise le Charisme comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts15, +7 pour toucher avec les attaques de sort). Il connaît les sorts d'ensorceleur suivants, qui n'ont pas besoin de composantes matérielles :
+
+**Tours de magie (à volonté)** : aspersion acide, contact glacial, lumières dansantes, illusion mineure, rayon de givre
+
+**Niveau 1 (4 emplacements)** : armure du mage, rayon empoisonné
+
+**Niveau 2 (3 emplacements)** : ténèbres, rayon ardent
+
+**Niveau 3 (3 emplacements)** : peur, lenteur, nuage puant
+
+**Niveau 4 (3 emplacements)** : flétrissement, tempête de grêle
+
+**Niveau 5 (1 emplacement)** : cône de froid
 

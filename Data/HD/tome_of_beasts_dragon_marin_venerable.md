@@ -9,6 +9,13 @@
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
 - **Vitesse** 12 m, vol 24 m, nage 24 m
+
+|FOR|DEX|CON|INT|SAG|CHA|
+|---|---|---|---|---|---|
+|29 (+9)|10 (+0)|27 (+8)|19 (+4)|17 (+3)|21 (+5)|
+
+- **Jets de sauvegarde** Dex +7, Con +15, Sag +10, Cha +12
+- **Compétences** Discrétion +7, Perception +17
 - **Immunité contre les dégâts** de froid
 - **Sens** vision aveugle 18 m, vision dans le noir 36 m, Perception passive 27
 - **Langues** commun, draconique, infernal, primordial
@@ -44,14 +51,5 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec les ailes (coûte 2 actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 4,50 mètres doit réussir un jet de sauvegarde de Dextérité DD 24 ou subir 16 (2d6+9) dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer de la moitié de sa vitesse de vol ou de la moitié de sa vitesse de nage s'il est dans l'eau.
 
-|FOR|DEX|CON|INT|SAG|CHA|
-|---|---|---|---|---|---|
-|29 (+9)|10 (+0)|27 (+8)|19 (+4)|17 (+3)|21 (+5)|
-
-- **Jets de sauvegarde** Dex +7, Con +15, Sag +10, Cha +12
-- **Compétences** Discrétion +7, Perception +17
-
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
+# [L'antre d'un dragon marin](tome_of_beasts_lantre_dun_dragon_marin.md)
 

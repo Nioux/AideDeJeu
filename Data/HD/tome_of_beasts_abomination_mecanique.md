@@ -29,8 +29,7 @@
 
 **_Forme immuable._** Une abomination mécanique est immunisée contre tous les sorts et effets susceptibles de modifier sa forme.
 
-**_Source d'énergie infernale._** Quand une abomination mécanique tombe à 0 point de vie, sa batterie infernale explose. Les
-créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination subissent 14 (4d6) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 14.
+**_Source d'énergie infernale._** Quand une abomination mécanique tombe à 0 point de vie, sa batterie infernale explose. Les créatures qui se trouvent dans un rayon de 3 mètres autour de l'abomination subissent 14 (4d6) dégâts de feu, ou moitié moins si elles réussissent un jet de sauvegarde de Dextérité DD 14.
 
 ## ACTIONS
 

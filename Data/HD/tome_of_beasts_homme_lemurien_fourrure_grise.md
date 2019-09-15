@@ -35,10 +35,7 @@
 
 ## ACTIONS
 
-**_Dague kukri._**
-+5 pour toucher, allonge 1,50 m, portée 6/18 m, une cible. Touché:
-5 (1d4+3) dégâts perforants.
+**_Dague kukri._** +5 pour toucher, allonge 1,50 m, portée 6/18 m, une cible. Touché: 5 (1d4+3) dégâts perforants.
 
-**_Sarbacane._** Attaque d'arme à distance: +5 pour toucher, portée 7,50/30 m, une créature Touché:
-5 (1d4+3) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est empoisonnée et inconsciente pendant 1d4 heures. Une autre créature peut utiliser une action pour réveiller la cible en la secouant, ce qui met un terme à l'inconscience, mais pas à l'empoisonnement.
+**_Sarbacane._** Attaque d'arme à distance: +5 pour toucher, portée 7,50/30 m, une créature Touché: 5 (1d4+3) dégâts perforants. La cible doit réussir un jet de sauvegarde de Constitution DD 13, sans quoi elle est empoisonnée et inconsciente pendant 1d4 heures. Une autre créature peut utiliser une action pour réveiller la cible en la secouant, ce qui met un terme à l'inconscience, mais pas à l'empoisonnement.
 

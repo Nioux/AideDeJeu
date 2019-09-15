@@ -28,18 +28,14 @@
 **_Danse créatrice._** Un hundun peut accomplir un acte créateur magique d'une ampleur presque illimitée tous les 1d8 jours. Cet effet équivaut à un souhait, mais doit créer quelque chose.
 
 **_Confusion illuminatrice._** Quand le sort confusion de l'hundrun affecte une cible, il peut appliquer la table suivante au lieu de l'habituelle.
-01–10 11–20 21–50 51–75 76–100
 
-**Inspiré** : Avantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.
-
-**Distrait** : Désavantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.
-
-**Incohérent** : La cible ne fait que balbutier ou griffonner des notes incohérentes à propos d'une nouvelle idée.
-
-**Obsédé** : La cible est victime d'une coercition mystique
-l'obligeant à créer un objet magique de qualité.
-
-**Influençable** : La cible reçoit une suggestion de la part de l'hundun.
+|1d100|Résultat|
+|---|---|
+|01-10|**Inspiré** : Avantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.|
+|11-20|**Distrait** : Désavantagé sur les jets d'attaque et de sauvegarde et les tests de caractéristique.|
+|21-50|**Incohérent** : La cible ne fait que balbutier ou griffonner des notes incohérentes à propos d'une nouvelle idée.|
+|51-75|**Obsédé** : La cible est victime d'une coercition mystique l'obligeant à créer un objet magique de qualité.|
+|76-100|**Influençable** : La cible reçoit une suggestion de la part de l'hundun.|
 
 **_Incantation innée._** L'hundun utilise la Sagesse comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 17). Il peut lancer les sorts suivants sans composantes matérielles :
 

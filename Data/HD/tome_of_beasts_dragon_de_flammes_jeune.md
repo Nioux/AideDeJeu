@@ -33,3 +33,5 @@
 
 **_Souffle de feu (Recharge 5-6)._** Le dragon crache du feu sur un cône de 9 mètres. Chaque créature qui se trouve dans la zone d'effet subit 56 (16d6) dégâts de feu, ou moitié moins si elle réussit un jet de sauvegarde de Dextérité DD 16.
 
+# [L'antre d'un dragon de flammes](tome_of_beasts_lantre_dun_dragon_de_flammes.md)
+

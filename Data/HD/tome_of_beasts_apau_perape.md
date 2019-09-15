@@ -39,6 +39,9 @@
 **_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une créature. Touché: 12 (2d6+5) dégâts perforants.
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 14 (2d8+5) dégâts tranchants.
+
+# Variante : Convocation de démons
+
 Certains apau perapes possèdent une action qui leur permet de convoquer d'autres démons.
 
 **_Convocation de démon (1/jour) :_** L'apau perape tente de convoquer magiquement une créature de son choix. Il a 50% de chances de convoquer un autre apau perape ou un singe géant.

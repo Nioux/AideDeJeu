@@ -39,14 +39,11 @@
 
 **_Attaques multiples._** Hraesvelgr fait deux attaques.
 
-**_Bec (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché:
-25(4d8+7)dégâts perforants.
+**_Bec (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché: 25(4d8+7)dégâts perforants.
 
-**_Poing (forme de géant uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché:
-20(3d8+7) dégâts contondants. La cible doit réussir un jet de sauvegarde de Constitution DD 21, sans quoi elle est étourdie jusqu'au début du prochain tour d'Hraesvelgr.
+**_Poing (forme de géant uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 3 m, une cible. Touché: 20(3d8+7) dégâts contondants. La cible doit réussir un jet de sauvegarde de Constitution DD 21, sans quoi elle est étourdie jusqu'au début du prochain tour d'Hraesvelgr.
 
-**_Serres (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 1,50 m, une cible. Touché:
-21(4d6+7) dégâts tranchants et la cible est empoignée (évasion DD17). Tant qu'elle est empoignée, la cible est entravée et Hraesvelgr ne peut pas utiliser ses serres contre une autre cible.
+**_Serres (forme de roc uniquement)._** _Attaque d'arme au corps à corps :_ +13 pour toucher, allonge 1,50 m, une cible. Touché: 21(4d6+7) dégâts tranchants et la cible est empoignée (évasion DD17). Tant qu'elle est empoignée, la cible est entravée et Hraesvelgr ne peut pas utiliser ses serres contre une autre cible.
 
 **_Violente bourrasque (recharge 5-6)._** Hraesvelgr déchaîne une bourrasque de tempête sur une ligne de 18 mètres de long pour 3 de large. Les créatures de la zone subissent 35 (10d6) dégâts contondants et sont repoussées de 4,50 mètres à l'opposé d'Hraesvelgr. Celles qui réussissent un jet de sauvegarde de Force DD 19 subissent la moitié des dégâts seulement et ne sont pas repoussées.
 
@@ -60,7 +57,5 @@ Hraesvelgr peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 **_Engloutir (3 actions, forme de roc uniquement)._** Hraesvelgr fait une attaque de morsure contre une créature qu'il a empoignée. S'il la touche, il l'avale. Une créature engloutie n'est plus empoignée, mais elle est aveuglée, entravée et avantagée contre les attaques et effets venant de l'extérieur d'Hraesvelgr. Une créature engloutie subit 14 (4d6) dégâts d'acide au début de chaque tour d'Hraesvelgr. Si ce dernier reprend sa forme de géant ou subit 40 dégâts ou plus en un tour de la part d'une créature engloutie, il doit réussir un jet de sauvegarde de Constitution DD 20 ou régurgiter toutes les créatures englouties, qui tombent alors à terre dans un rayon de 3 mètres autour de lui. Si Hraesvelgr meurt, les créatures englouties ne sont plus entravées et peuvent s'enfuir en dépensant 9 mètres de déplacement. Elles ressortent à terre.
 
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
+# [L'antre d'Hraesvelgr](tome_of_beasts_lantre_dhraesvelgr.md)
 

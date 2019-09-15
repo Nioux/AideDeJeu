@@ -75,9 +75,5 @@ L'empereur peut faire 3 actions légendaires parmi celles proposées ci-dessous.
 
 **_Source de puissance (3 actions)._** Lancez 1d8. L'empereur récupère un emplacement de sort de ce niveau ou d'un niveau inférieur.
 
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
-
-## LES EMPEREURS DES GOULES
+# [L'antre de l'empereur des goules](tome_of_beasts_lantre_de_lempereur_des_goules.md)
 

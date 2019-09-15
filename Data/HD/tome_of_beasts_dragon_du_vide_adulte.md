@@ -64,3 +64,5 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Cache du vide (Coûte 3 actions)._** Le dragon peut magiquement accéder à son trésor pour y récupérer un objet. Si le dragon tient un objet, il peut utiliser ce pouvoir pour le déposer dans son trésor.
 
+# [L'antre d'un dragon du vide](tome_of_beasts_lantre_dun_dragon_du_vide.md)
+

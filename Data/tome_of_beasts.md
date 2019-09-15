@@ -10600,6 +10600,8 @@ Koschei peut faire 3 actions légendaires, parmi celles proposées ci-dessous. I
 
 <!--GenericItem-->
 
+# <!--Name-->L'antre de Koschei<!--/Name-->
+
 ## ACTIONS D'ANTRE
 
 À 20 lors du décompte d'initiative (sachant qu'il perd en cas d'égalité), Koschei peut par une action d'antre déclencher l'un des effets suivants (il ne peut cependant pas utiliser le même effet deux rounds d'affilée) :

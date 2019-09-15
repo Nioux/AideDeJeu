@@ -32,6 +32,15 @@
 **_Rugissement._** Quand un mahoru rugit, toutes les créatures qui l'entendent et se trouvent dans un rayon de 9 mètres autour de lui doivent faire un jet de sauvegarde de Sagesse DD 14. Celles qui échouent sont terrorisées jusqu'à la fin du prochain tour du mahoru. Celles qui ratent le jet de sauvegarde de 5 ou plus sont également paralysées pendant la même durée. Celles qui réussissent le jet sont immunisées contre le rugissement de tous les mahorus pendant 24 heures.
 
 **_Morsure vorpale._** Les mâchoires en dents de scie du mahoru sont conçues pour le démembrement. Quand le mahoru réussit un coup critique, la cible doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle perd un membre. Lancez le dé dans la table suivante :
-1-2 3-4 5-6 7-8 9 10 11 12
-main droite main gauche pied droit pied gauche avant-bras droit avant-bras gauche tibia droit tibia gauche
+
+|1d12|Résultat|
+|---|---|
+|1-2|main droite|
+|3-4|main gauche|
+|5-6|pied droit|
+|7-8|pied gauche|
+|9|avant-bras droit|
+|10|avant-bras gauche|
+|11|tibia droit|
+|12|tibia gauche|
 

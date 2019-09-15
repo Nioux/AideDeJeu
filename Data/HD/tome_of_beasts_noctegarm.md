@@ -37,10 +37,3 @@
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 27 (4d10+5) dégâts perforants. Si la cible est de taille Moyenne ou inférieure, elle doit réussir un jet de sauvegarde de Force DD15, sans quoi elle est engloutie. Une créature engloutie est aveuglée et entravée, mais bénéficie d'un abri total contre les attaques et effets venant de l'extérieur de la noctegarm. Elle subit 21 (6d6) dégâts d'acide au début de chaque tour de la noctegarm. Cette dernière ne peut avoir qu'une créature engloutie à la fois. Si la créature engloutie lui inflige 25 dégâts ou plus lors d'un même tour, elle doit réussir un jet de sauvegarde de Constitution DD 14 à la fin de ce tour, sans quoi elle régurgite la créature, qui tombe à terre dans un espace situé dans un rayon de 1,50 mètre autour d'elle. Si la noctegarm meurt, les créatures englouties ne sont plus entravées et peuvent s'enfuir en dépensant 3 mètres de déplacement. Elles ressortent à terre.
 
--  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
-- **Vulnérabilité aux dégâts** radiants; aux armes en argent
-
-**_Odorat aiguisé._** Le factice est avantagé sur les tests de Sagesse (Perception) basés sur l'odorat.
-
-**_Amour maternel._** Tous les factices ont un lien empathique avec leur mère. Il fonctionne comme celui liant un magicien et son familier. Ils obéissent à leur génitrice comme s'ils étaient charmés.
-

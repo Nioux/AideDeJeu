@@ -34,3 +34,5 @@
 
 **_Souffle empoisonné (Recharge 5-6)._** Le dragon crache un gaz noir empoisonné sur un cône de 4,50 mètres. Chaque créature qui se trouve dans la zone d'effet doit faire un jet de sauvegarde de Constitution DD 13. Sur un échec, une créature subit 14 (4d6) dégâts de poison et se trouve dans l'état empoisonné. L'état empoisonné dure jusqu'à ce que la cible termine un repos court ou long, ou le dissipe à l'aide de
 
+# [L'antre d'un dragon des cavernes](tome_of_beasts_lantre_dun_dragon_des_cavernes.md)
+

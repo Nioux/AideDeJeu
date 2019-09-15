@@ -46,7 +46,7 @@
 **_Lance._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible. Touché:
 7 (1d6+4) dégâts perforants ou 8 (1d8+4) dégâts perforants si utilisée à deux mains pour une attaque de corps à corps.
 
-## VARIANTE : CONVOCATION DE DÉMON
+# Variante : Convocation de démon
 
 Certains démons kishis possèdent une action qui leur permet de convoquer d'autres démons.
 

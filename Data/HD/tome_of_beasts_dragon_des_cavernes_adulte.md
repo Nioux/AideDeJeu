@@ -66,3 +66,5 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Morsure rapide (Coûte 2 actions)._** Le dragon fait deux attaques de morsure.
 
+# [L'antre d'un dragon des cavernes](tome_of_beasts_lantre_dun_dragon_des_cavernes.md)
+

@@ -78,7 +78,3 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 **_Attaque avec les ailes (coûte 2actions)._** Le dragon bat des ailes. Chaque créature qui se trouve dans un rayon de 3 mètres doit réussir un jet de sauvegarde de Dextérité DD 23 ou subir 18(2d8+9)dégâts contondants et se trouver jetée à terre. Le dragon peut alors se déplacer en volant de la moitié de sa vitesse de vol.
 
-## ACTIONS D'ANTRE
-
-## EFFETS RÉGIONAUX
-

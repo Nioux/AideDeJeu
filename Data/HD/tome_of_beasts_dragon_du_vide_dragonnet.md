@@ -39,3 +39,5 @@
 
 **_Distorsion du Vide._** Comme pour le dragon du vide adulte, mais avec une augmentation de la CA de 2.
 
+# [L'antre d'un dragon du vide](tome_of_beasts_lantre_dun_dragon_du_vide.md)
+

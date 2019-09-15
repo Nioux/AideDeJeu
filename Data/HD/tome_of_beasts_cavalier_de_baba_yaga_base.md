@@ -39,8 +39,7 @@
 
 **_Attaques multiples._** Un cavalier porte trois attaques avec sa lance d'arçon ou son épée longue. S'il en a la possiblité, il peut utiliser sa frappe temporelle avec l'une de ces attaques.
 
-**_Lance d'arçon._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3m (désavantagé à moins de 1,50m), une cible. Touché:
-12 (1d12+6) dégâts perforants.
+**_Lance d'arçon._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 3m (désavantagé à moins de 1,50m), une cible. Touché: 12 (1d12+6) dégâts perforants.
 
 **_Épée longue._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 1,50m, une cible. Touché: 10 (1d8+6) dégâts tranchants.
 

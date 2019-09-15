@@ -44,3 +44,5 @@
 
 **_Collerette d'épines._** Quand une créature tente de pénétrer dans un emplacement adjacent à celui d'un dragon des cavernes, celui-ci hérisse ses nombreux barbillons et épines. La créature ne peut pas entrer dans un emplacement adjacent à celui du dragon sauf si elle réussit un jet de sauvegarde de Dextérité DD 16. Sur un échec, la créature peut continuer de se déplacer, mais seulement vers un emplacement qui ne se trouve pas à moins de 1,50 mètre du dragon et elle subit 4 (1d8) dégâts perforants causés par les épines.
 
+# [L'antre d'un dragon des cavernes](tome_of_beasts_lantre_dun_dragon_des_cavernes.md)
+
