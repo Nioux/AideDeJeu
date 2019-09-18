@@ -1503,7 +1503,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Boucca<!--/Name-->
 
-- Source: <!--Source-->(LDM p47)<!--/Source-->
+- Source: <!--Source-->(LDM p47)(TOB p46)<!--/Source-->
+- TOB: <!--AltName-->Bucca<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (5d4+15)<!--/HitPoints-->
@@ -1637,7 +1638,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Bouraq<!--/Name-->
 
-- Source: <!--Source-->(LDM p50)<!--/Source-->
+- Source: <!--Source-->(LDM p50)(TOB p48)<!--/Source-->
+- TOB: <!--AltName-->Buraq<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d8+80)<!--/HitPoints-->
@@ -1657,7 +1659,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 **_Armes angéliques._** Les attaques d'un bouraq sont magiques. Quand un bouraq réussit une attaque avec ses sabots, il inflige 4d8dégâts radiants supplémentaires (déjà intégrés dans les dégâts de l'attaque).
 
-**_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le buraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
+**_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le bouraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
 
 **À volonté:** aura sacrée, compréhension des langues, détection du mal et du bien, passage sans trace
 
@@ -1683,7 +1685,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Cactide<!--/Name-->
 
-- Source: <!--Source-->(LDM p51)<!--/Source-->
+- Source: <!--Source-->(LDM p51)(TOB p50)<!--/Source-->
+- TOB: <!--AltName-->Cactid<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76(8d10+32)<!--/HitPoints-->
@@ -1716,7 +1719,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Cambium<!--/Name-->
 
-- Source: <!--Source-->(LDM p52)<!--/Source-->
+- Source: <!--Source-->(LDM p52)(TOB p51)<!--/Source-->
+- TOB: <!--AltName-->Cambium<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->264 (23d10+138)<!--/HitPoints-->
@@ -1919,7 +1923,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chélicère<!--/Name-->
 
-- Source: <!--Source-->(LDM p57)<!--/Source-->
+- Source: <!--Source-->(LDM p57)(TOB p54)<!--/Source-->
+- TOB: <!--AltName-->Chelicerae<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d10+54)<!--/HitPoints-->
@@ -2376,7 +2381,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Couveteux<!--/Name-->
 
-- Source: <!--Source-->(LDM p69)<!--/Source-->
+- Source: <!--Source-->(LDM p69)(TOB p45)<!--/Source-->
+- TOB: <!--AltName-->Broodiken<!--/AltName-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->55 (10d4+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, escalade 6m<!--/Speed-->
@@ -2517,7 +2523,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Cynome<!--/Name-->
 
-- Source: <!--Source-->(LDM p73)<!--/Source-->
+- Source: <!--Source-->(LDM p73)(TOB p49)<!--/Source-->
+- TOB: <!--AltName-->Burrowling<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (cynome) (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d6+6)<!--/HitPoints-->
@@ -12697,7 +12704,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Mousse Luminescente Des Cavernes<!--/Name-->
 
-- Source: <!--Source-->(LDM p313)<!--/Source-->
+- Source: <!--Source-->(LDM p313)(TOB p53)<!--/Source-->
+- TOB: <!--AltName-->Cavelight Moss<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
@@ -12867,7 +12875,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nécrophore<!--/Name-->
 
-- Source: <!--Source-->(LDM p317)<!--/Source-->
+- Source: <!--Source-->(LDM p317)(TOB p52)<!--/Source-->
+- TOB: <!--AltName-->Carrion Beetle<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10+45)<!--/HitPoints-->
@@ -15801,7 +15810,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Ukavac<!--/Name-->
 
-- Source: <!--Source-->(LDM p389)<!--/Source-->
+- Source: <!--Source-->(LDM p389)(TOB p47)<!--/Source-->
+- TOB: <!--AltName-->Bukavac<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->199 (21d10+84)<!--/HitPoints-->
