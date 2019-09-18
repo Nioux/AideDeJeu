@@ -7,7 +7,8 @@
 
 # <!--Name-->Nihileth<!--/Name-->
 
-- Source: <!--Source-->(LDM p8)<!--/Source-->
+- Source: <!--Source-->(LDM p8)(TOB p8)<!--/Source-->
+- TOB: <!--AltName-->Nihileth<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d10+36)<!--/HitPoints-->
@@ -88,7 +89,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Zombi Nihilethique<!--/Name-->
 
-- Source: <!--Source-->(LDM p9)<!--/Source-->
+- Source: <!--Source-->(LDM p9)(TOB p9)<!--/Source-->
+- TOB: <!--AltName-->Nihilethic Zombie<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->9 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
@@ -130,7 +132,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Ala<!--/Name-->
 
-- Source: <!--Source-->(LDM p11)<!--/Source-->
+- Source: <!--Source-->(LDM p13)<!--/Source-->
+- TOB: <!--AltName-->Ala<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d8+60)<!--/HitPoints-->
@@ -169,7 +172,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Algorith<!--/Name-->
 
-- Source: <!--Source-->(LDM p12)<!--/Source-->
+- Source: <!--Source-->(LDM p12)(TOB p14)<!--/Source-->
+- TOB: <!--AltName-->Algorith<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d8+64)<!--/HitPoints-->
@@ -214,7 +218,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Alséide<!--/Name-->
 
-- Source: <!--Source-->(LDM p13)<!--/Source-->
+- Source: <!--Source-->(LDM p13)(TOB p15)<!--/Source-->
+- TOB: <!--AltName-->Alseid<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->49 (9d8+9)<!--/HitPoints-->
@@ -243,7 +248,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Gardienne des bocages Alséide<!--/Name-->
 
-- Source: <!--Source-->(LDM p13)<!--/Source-->
+- Source: <!--Source-->(LDM p13)(TOB p15)<!--/Source-->
+- TOB: <!--AltName-->Alseid grovekeeper<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (13d8+13)<!--/HitPoints-->
@@ -316,7 +322,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Amphiptère<!--/Name-->
 
-- Source: <!--Source-->(LDM p15)<!--/Source-->
+- Source: <!--Source-->(LDM p15)(TOB p16)<!--/Source-->
+- TOB: <!--AltName-->Amphiptere<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (8d8+24)<!--/HitPoints-->
@@ -349,7 +356,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Andrenjinyi<!--/Name-->
 
-- Source: <!--Source-->(LDM p17)<!--/Source-->
+- Source: <!--Source-->(LDM p17)(TOB p17)<!--/Source-->
+- TOB: <!--AltName-->Andrenjinyi<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->228 (13d20+91)<!--/HitPoints-->
@@ -401,7 +409,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Angatra<!--/Name-->
 
-- Source: <!--Source-->(LDM p18)<!--/Source-->
+- Source: <!--Source-->(LDM p18)(TOB p19)<!--/Source-->
+- TOB: <!--AltName-->Angatra<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d8+40)<!--/HitPoints-->
@@ -435,7 +444,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Ange Enchaîné<!--/Name-->
 
-- Source: <!--Source-->(LDM p19)<!--/Source-->
+- Source: <!--Source-->(LDM p19)(TOB p20)<!--/Source-->
+- TOB: <!--AltName-->Angel, Chained<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->88 (16d8+16)<!--/HitPoints-->
@@ -473,7 +483,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Ange Fidèle<!--/Name-->
 
-- Source: <!--Source-->(LDM p20)<!--/Source-->
+- Source: <!--Source-->(LDM p20)(TOB p21)<!--/Source-->
+- TOB: <!--AltName-->Fidele Angel<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (16d8+32)<!--/HitPoints-->
@@ -530,7 +541,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Anubien<!--/Name-->
 
-- Source: <!--Source-->(LDM p21)<!--/Source-->
+- Source: <!--Source-->(LDM p21)(TOB p24)<!--/Source-->
+- TOB: <!--AltName-->Anubian<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
@@ -912,7 +924,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Aridni<!--/Name-->
 
-- Source: <!--Source-->(LDM p31)<!--/Source-->
+- Source: <!--Source-->(LDM p31)(TOB p26)<!--/Source-->
+- TOB: <!--AltName-->Aridni<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (15d6+30)<!--/HitPoints-->
@@ -954,7 +967,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Asanbosam<!--/Name-->
 
-- Source: <!--Source-->(LDM p32)<!--/Source-->
+- Source: <!--Source-->(LDM p32)(TOB p27)<!--/Source-->
+- TOB: <!--AltName-->Asanbosam<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
@@ -1054,7 +1068,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Bagiennik<!--/Name-->
 
-- Source: <!--Source-->(LDM p35)<!--/Source-->
+- Source: <!--Source-->(LDM p35)(TOB p31)<!--/Source-->
+- TOB: <!--AltName-->Bagiennik<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -1085,7 +1100,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Beauté Abominable<!--/Name-->
 
-- Source: <!--Source-->(LDM p36)<!--/Source-->
+- Source: <!--Source-->(LDM p36)(TOB p11)<!--/Source-->
+- TOB: <!--AltName-->Abominable Beauty<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->187 (22d8+88)<!--/HitPoints-->
@@ -1120,7 +1136,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Behtu<!--/Name-->
 
-- Source: <!--Source-->(LDM p37)<!--/Source-->
+- Source: <!--Source-->(LDM p37)(TOB p34)<!--/Source-->
+- TOB: <!--AltName-->Behtu<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d6+24)<!--/HitPoints-->
@@ -1153,7 +1170,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Béli<!--/Name-->
 
-- Source: <!--Source-->(LDM p38)<!--/Source-->
+- Source: <!--Source-->(LDM p38)(TOB p35)<!--/Source-->
+- TOB: <!--AltName-->Beli<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d6+10)<!--/HitPoints-->
@@ -1237,7 +1255,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Béreginyas<!--/Name-->
 
-- Source: <!--Source-->(LDM p40)<!--/Source-->
+- Source: <!--Source-->(LDM p40)(TOB p36)<!--/Source-->
+- TOB: <!--AltName-->Bereginyas<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->70 (20d4+20)<!--/HitPoints-->
@@ -1312,7 +1331,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Blemmyes<!--/Name-->
 
-- Source: <!--Source-->(LDM p42)<!--/Source-->
+- Source: <!--Source-->(LDM p42)(TOB p37)<!--/Source-->
+- TOB: <!--AltName-->Blemmyes<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d10+80)<!--/HitPoints-->
@@ -1345,7 +1365,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Boloti<!--/Name-->
 
-- Source: <!--Source-->(LDM p43)<!--/Source-->
+- Source: <!--Source-->(LDM p43)(TOB p38)<!--/Source-->
+- TOB: <!--AltName-->Boloti<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d4+28)<!--/HitPoints-->
@@ -1420,7 +1441,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Avatar De Borée<!--/Name-->
 
-- Source: <!--Source-->(LDM p45)<!--/Source-->
+- Source: <!--Source-->(LDM p45)(TOB p42)<!--/Source-->
+- TOB: <!--AltName-->Avatar of Boreas<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (métamorphe) (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d8+96)<!--/HitPoints-->
@@ -1516,7 +1538,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Bouda<!--/Name-->
 
-- Source: <!--Source-->(LDM p48)<!--/Source-->
+- Source: <!--Source-->(LDM p48)(TOB p44)<!--/Source-->
+- TOB: <!--AltName-->Bouda<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (métamorphe) (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d8+44)<!--/HitPoints-->
@@ -1852,7 +1875,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chat Du Temple De Bastet<!--/Name-->
 
-- Source: <!--Source-->(LDM p56)<!--/Source-->
+- Source: <!--Source-->(LDM p56)(TOB p32)<!--/Source-->
+- TOB: <!--AltName-->Bastet Temple Cat<!--/AltName-->
 -  <!--Type-->Créature montrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->40 (9d6+9)<!--/HitPoints-->
@@ -2262,7 +2286,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Conglomérat Osseux<!--/Name-->
 
-- Source: <!--Source-->(LDM p67)<!--/Source-->
+- Source: <!--Source-->(LDM p67)(TOB p39)<!--/Source-->
+- TOB: <!--AltName-->Bone Collective<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d6+64)<!--/HitPoints-->
@@ -2414,7 +2439,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Crabe Osseux<!--/Name-->
 
-- Source: <!--Source-->(LDM p71)<!--/Source-->
+- Source: <!--Source-->(LDM p71)(TOB p40)<!--/Source-->
+- TOB: <!--AltName-->Bone Crab<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d6+12)<!--/HitPoints-->
@@ -6856,7 +6882,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Empoigneur Arboricole<!--/Name-->
 
-- Source: <!--Source-->(LDM p170)<!--/Source-->
+- Source: <!--Source-->(LDM p170)(TOB p25)<!--/Source-->
+- TOB: <!--AltName-->Arboreal Grappler<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
@@ -8077,7 +8104,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # <!--Name-->Fourmi Géante<!--/Name-->
 
-- Source: <!--Source-->(LDM p199)<!--/Source-->
+- Source: <!--Source-->(LDM p199)(TOB p23)<!--/Source-->
+- TOB: <!--AltName-->Giant Ant<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (7d10+14)<!--/HitPoints-->
@@ -8107,7 +8135,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # <!--Name-->Reine Fourmi Géante<!--/Name-->
 
-- Source: <!--Source-->(LDM p199)<!--/Source-->
+- Source: <!--Source-->(LDM p199)(TOB p23)<!--/Source-->
+- TOB: <!--AltName-->Giant Ant Queen<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
@@ -9122,7 +9151,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # <!--Name-->Fièvre du darakhul<!--/Name-->
 
-Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu’elle n’a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d’une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
+Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu'elle n'a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d'une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
 
 La maladie se répand surtout chez les humains, mais comme elle peut affecter les ogres, elle doit pouvoir toucher les autres géants. Si une créature atteinte de la fièvre du darakhul meurt, lancez 1d20, ajoutez le modificateur de Constitution actuel du personnage et consultez la table des ajustements pour savoir en quel mort-vivant elle se change.
 
@@ -9141,7 +9170,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Gremlin Azza<!--/Name-->
 
-- Source: <!--Source-->(LDM p226)<!--/Source-->
+- Source: <!--Source-->(LDM p226)(TOB p28)<!--/Source-->
+- TOB: <!--AltName-->Azza Gremlin<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -9981,7 +10011,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Homme-Ours<!--/Name-->
 
-- Source: <!--Source-->(LDM p244)<!--/Source-->
+- Source: <!--Source-->(LDM p244)(TOB p33)<!--/Source-->
+- TOB: <!--AltName-->Bearfold<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-ours)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
@@ -10865,7 +10896,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Cavalier De Baba Yaga, Base<!--/Name-->
 
-- Source: <!--Source-->(LDM p267)<!--/Source-->
+- Source: <!--Source-->(LDM p267)(TOB p30)<!--/Source-->
+- TOB: <!--AltName-->Baba Yaga's Horsemen, Base<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (harnois et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->171 (18d8+90)<!--/HitPoints-->
@@ -10965,7 +10997,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - **Langues** <!--Languages-->commun, gobelin, langue du Vide<!--/Languages-->
 - **Dangerosité** <!--Challenge-->6 (1 800PX)<!--/Challenge-->
 
-**_Bond agressif._** Si le likho se déplace d’au moins 6 mètres en ligne droite en direction d’une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
+**_Bond agressif._** Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
 
 **_Incantation innée._** Le likho utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -13405,7 +13437,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée Osseuse<!--/Name-->
 
-- Source: <!--Source-->(LDM p332)<!--/Source-->
+- Source: <!--Source-->(LDM p332)(TOB p41)<!--/Source-->
+- TOB: <!--AltName-->Bone Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille de morts-vivants de Très Petite taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->198 (36d10)<!--/HitPoints-->
@@ -16259,7 +16292,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Ver Pêcheur<!--/Name-->
 
-- Source: <!--Source-->(LDM p400)<!--/Source-->
+- Source: <!--Source-->(LDM p400)(TOB p22)<!--/Source-->
+- TOB: <!--AltName-->Angler Worm<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->133 (14d12+42)<!--/HitPoints-->
