@@ -4,7 +4,8 @@
 
 # Nuée De Papillons De Mort
 
-- Source: (LDM p327)
+- Source: (LDM p327)(TOB p71)
+- TOB: Death Butterfly Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (11d10)

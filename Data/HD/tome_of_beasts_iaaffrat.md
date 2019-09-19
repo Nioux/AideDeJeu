@@ -4,7 +4,8 @@
 
 # Ia'Affrat
 
-- Source: (LDM p101)
+- Source: (LDM p101)(TOB p98)
+- TOB: Ia'Affrat
 -  Nuée de Grande taille d'élémentaires de taille Minuscule (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d10+60)

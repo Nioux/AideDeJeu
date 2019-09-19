@@ -4,7 +4,8 @@
 
 # Boloti
 
-- Source: (LDM p43)
+- Source: (LDM p43)(TOB p38)
+- TOB: Boloti
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 63 (14d4+28)

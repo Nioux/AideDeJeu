@@ -4,7 +4,8 @@
 
 # Mammon
 
-- Source: (LDM p102)
+- Source: (LDM p102)(TOB p99)
+- TOB: Mammon
 -  Fiélon (diable) de Très Grande taille (TG), loyal mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 378 (28d12+196)

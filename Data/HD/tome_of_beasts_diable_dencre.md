@@ -4,7 +4,8 @@
 
 # Diable D'Encre
 
-- Source: (LDM p109)
+- Source: (LDM p109)(TOB p108)
+- TOB: Ink Devil
 -  Fiélon (diable) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d6+12)

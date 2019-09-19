@@ -4,7 +4,8 @@
 
 # Blemmyes
 
-- Source: (LDM p42)
+- Source: (LDM p42)(TOB p37)
+- TOB: Blemmyes
 -  Créature monstrueuse de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 168 (16d10+80)

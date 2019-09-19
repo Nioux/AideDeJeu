@@ -4,7 +4,8 @@
 
 # Diable Lunaire
 
-- Source: (LDM p114)
+- Source: (LDM p114)(TOB p110)
+- TOB: Lunar Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 94 (9d10+45)

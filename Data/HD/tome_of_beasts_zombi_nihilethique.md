@@ -4,7 +4,8 @@
 
 # Zombi Nihilethique
 
-- Source: (LDM p9)
+- Source: (LDM p9)(TOB p9)
+- TOB: Nihilethic Zombie
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 9 (armure naturelle)
 - **Points de vie** 22 (3d8+9)

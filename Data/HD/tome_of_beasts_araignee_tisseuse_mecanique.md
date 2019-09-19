@@ -4,7 +4,8 @@
 
 # Araignée Tisseuse Mécanique
 
-- Source: (LDM p291)
+- Source: (LDM p291)(TOB p66)
+- TOB: Weaving Spider
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 25 (10d4)

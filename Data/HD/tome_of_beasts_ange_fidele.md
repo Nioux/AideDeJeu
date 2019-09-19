@@ -4,7 +4,8 @@
 
 # Ange Fidèle
 
-- Source: (LDM p20)
+- Source: (LDM p20)(TOB p21)
+- TOB: Fidele Angel
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 104 (16d8+32)

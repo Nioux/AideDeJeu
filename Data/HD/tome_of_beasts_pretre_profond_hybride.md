@@ -4,7 +4,8 @@
 
 # Prêtre Profond Hybride
 
-- Source: (LDM p344)
+- Source: (LDM p344)(TOB p73)
+- TOB: Deep One Hybrid Priest
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)

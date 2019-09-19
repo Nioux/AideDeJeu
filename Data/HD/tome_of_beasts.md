@@ -11,7 +11,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nihileth
-  Source: (LDM p8)
+  Source: (LDM p8)(TOB p8)
+  AltName: Nihileth
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -41,7 +42,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p8)<!--/Source-->
+      - Source: <!--Source-->(LDM p8)(TOB p8)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Nihileth<!--/AltName-->
 
 
 
@@ -223,7 +228,9 @@ SubItems:
 
 
 
-    Source: (LDM p8)
+    Source: (LDM p8)(TOB p8)
+
+    AltName: Nihileth
 
     Type: Mort-vivant
 
@@ -307,7 +314,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Zombi Nihilethique
-  Source: (LDM p9)
+  Source: (LDM p9)(TOB p9)
+  AltName: Nihilethic Zombie
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -336,7 +344,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p9)<!--/Source-->
+      - Source: <!--Source-->(LDM p9)(TOB p9)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Nihilethic Zombie<!--/AltName-->
 
 
 
@@ -454,7 +466,9 @@ SubItems:
 
 
 
-    Source: (LDM p9)
+    Source: (LDM p9)(TOB p9)
+
+    AltName: Nihilethic Zombie
 
     Type: Mort-vivant
 
@@ -485,7 +499,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ala
-  Source: (LDM p11)
+  Source: (LDM p13)
+  AltName: Ala
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -513,7 +528,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p11)<!--/Source-->
+      - Source: <!--Source-->(LDM p13)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ala<!--/AltName-->
 
 
 
@@ -621,7 +640,9 @@ SubItems:
 
 
 
-    Source: (LDM p11)
+    Source: (LDM p13)
+
+    AltName: Ala
 
     Type: Fée
 
@@ -650,7 +671,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Algorith
-  Source: (LDM p12)
+  Source: (LDM p12)(TOB p14)
+  AltName: Algorith
   Type: Créature artificielle
   Size: M
   Alignment: loyal neutre
@@ -680,7 +702,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p12)<!--/Source-->
+      - Source: <!--Source-->(LDM p12)(TOB p14)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Algorith<!--/AltName-->
 
 
 
@@ -808,7 +834,9 @@ SubItems:
 
 
 
-    Source: (LDM p12)
+    Source: (LDM p12)(TOB p14)
+
+    AltName: Algorith
 
     Type: Créature artificielle
 
@@ -841,7 +869,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Alséide
-  Source: (LDM p13)
+  Source: (LDM p13)(TOB p15)
+  AltName: Alseid
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
@@ -867,7 +896,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p13)<!--/Source-->
+      - Source: <!--Source-->(LDM p13)(TOB p15)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Alseid<!--/AltName-->
 
 
 
@@ -943,7 +976,9 @@ SubItems:
 
 
 
-    Source: (LDM p13)
+    Source: (LDM p13)(TOB p15)
+
+    AltName: Alseid
 
     Type: Créature monstrueuse
 
@@ -968,7 +1003,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gardienne des bocages Alséide
-  Source: (LDM p13)
+  Source: (LDM p13)(TOB p15)
+  AltName: Alseid grovekeeper
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
@@ -994,7 +1030,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p13)<!--/Source-->
+      - Source: <!--Source-->(LDM p13)(TOB p15)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Alseid grovekeeper<!--/AltName-->
 
 
 
@@ -1100,7 +1140,9 @@ SubItems:
 
 
 
-    Source: (LDM p13)
+    Source: (LDM p13)(TOB p15)
+
+    AltName: Alseid grovekeeper
 
     Type: Créature monstrueuse
 
@@ -1263,7 +1305,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Amphiptère
-  Source: (LDM p15)
+  Source: (LDM p15)(TOB p16)
+  AltName: Amphiptere
   Type: Bête
   Size: M
   Alignment: non alignée
@@ -1289,7 +1332,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p15)<!--/Source-->
+      - Source: <!--Source-->(LDM p15)(TOB p16)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Amphiptere<!--/AltName-->
 
 
 
@@ -1377,7 +1424,9 @@ SubItems:
 
 
 
-    Source: (LDM p15)
+    Source: (LDM p15)(TOB p16)
+
+    AltName: Amphiptere
 
     Type: Bête
 
@@ -1402,7 +1451,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Andrenjinyi
-  Source: (LDM p17)
+  Source: (LDM p17)(TOB p17)
+  AltName: Andrenjinyi
   Type: Céleste
   Size: Gig
   Alignment: neutre
@@ -1431,7 +1481,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p17)<!--/Source-->
+      - Source: <!--Source-->(LDM p17)(TOB p17)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Andrenjinyi<!--/AltName-->
 
 
 
@@ -1579,7 +1633,9 @@ SubItems:
 
 
 
-    Source: (LDM p17)
+    Source: (LDM p17)(TOB p17)
+
+    AltName: Andrenjinyi
 
     Type: Céleste
 
@@ -1610,7 +1666,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Angatra
-  Source: (LDM p18)
+  Source: (LDM p18)(TOB p19)
+  AltName: Angatra
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -1639,7 +1696,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p18)<!--/Source-->
+      - Source: <!--Source-->(LDM p18)(TOB p19)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Angatra<!--/AltName-->
 
 
 
@@ -1733,7 +1794,9 @@ SubItems:
 
 
 
-    Source: (LDM p18)
+    Source: (LDM p18)(TOB p19)
+
+    AltName: Angatra
 
     Type: Mort-vivant
 
@@ -1764,7 +1827,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ange Enchaîné
-  Source: (LDM p19)
+  Source: (LDM p19)(TOB p20)
+  AltName: Angel, Chained
   Type: Céleste
   Size: M
   Alignment: neutre mauvais
@@ -1793,7 +1857,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p19)<!--/Source-->
+      - Source: <!--Source-->(LDM p19)(TOB p20)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Angel, Chained<!--/AltName-->
 
 
 
@@ -1899,7 +1967,9 @@ SubItems:
 
 
 
-    Source: (LDM p19)
+    Source: (LDM p19)(TOB p20)
+
+    AltName: Angel, Chained
 
     Type: Céleste
 
@@ -1930,7 +2000,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ange Fidèle
-  Source: (LDM p20)
+  Source: (LDM p20)(TOB p21)
+  AltName: Fidele Angel
   Type: Céleste
   Size: M
   Alignment: loyal bon
@@ -1960,7 +2031,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p20)<!--/Source-->
+      - Source: <!--Source-->(LDM p20)(TOB p21)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fidele Angel<!--/AltName-->
 
 
 
@@ -2124,7 +2199,9 @@ SubItems:
 
 
 
-    Source: (LDM p20)
+    Source: (LDM p20)(TOB p21)
+
+    AltName: Fidele Angel
 
     Type: Céleste
 
@@ -2157,7 +2234,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Anubien
-  Source: (LDM p21)
+  Source: (LDM p21)(TOB p24)
+  AltName: Anubian
   Type: Élémentaire
   Size: M
   Alignment: chaotique mauvais
@@ -2186,7 +2264,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p21)<!--/Source-->
+      - Source: <!--Source-->(LDM p21)(TOB p24)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Anubian<!--/AltName-->
 
 
 
@@ -2286,7 +2368,9 @@ SubItems:
 
 
 
-    Source: (LDM p21)
+    Source: (LDM p21)(TOB p24)
+
+    AltName: Anubian
 
     Type: Élémentaire
 
@@ -3783,7 +3867,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Aridni
-  Source: (LDM p31)
+  Source: (LDM p31)(TOB p26)
+  AltName: Aridni
   Type: Fée
   Size: P
   Alignment: neutre mauvaise
@@ -3810,7 +3895,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p31)<!--/Source-->
+      - Source: <!--Source-->(LDM p31)(TOB p26)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Aridni<!--/AltName-->
 
 
 
@@ -3926,7 +4015,9 @@ SubItems:
 
 
 
-    Source: (LDM p31)
+    Source: (LDM p31)(TOB p26)
+
+    AltName: Aridni
 
     Type: Fée
 
@@ -3953,7 +4044,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Asanbosam
-  Source: (LDM p32)
+  Source: (LDM p32)(TOB p27)
+  AltName: Asanbosam
   Type: Aberration
   Size: G
   Alignment: chaotique mauvaise
@@ -3979,7 +4071,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p32)<!--/Source-->
+      - Source: <!--Source-->(LDM p32)(TOB p27)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Asanbosam<!--/AltName-->
 
 
 
@@ -4067,7 +4163,9 @@ SubItems:
 
 
 
-    Source: (LDM p32)
+    Source: (LDM p32)(TOB p27)
+
+    AltName: Asanbosam
 
     Type: Aberration
 
@@ -4393,7 +4491,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bagiennik
-  Source: (LDM p35)
+  Source: (LDM p35)(TOB p31)
+  AltName: Bagiennik
   Type: Aberration
   Size: M
   Alignment: chaotique neutre
@@ -4419,7 +4518,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p35)<!--/Source-->
+      - Source: <!--Source-->(LDM p35)(TOB p31)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bagiennik<!--/AltName-->
 
 
 
@@ -4501,7 +4604,9 @@ SubItems:
 
 
 
-    Source: (LDM p35)
+    Source: (LDM p35)(TOB p31)
+
+    AltName: Bagiennik
 
     Type: Aberration
 
@@ -4526,7 +4631,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Beauté Abominable
-  Source: (LDM p36)
+  Source: (LDM p36)(TOB p11)
+  AltName: Abominable Beauty
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -4554,7 +4660,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p36)<!--/Source-->
+      - Source: <!--Source-->(LDM p36)(TOB p11)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Abominable Beauty<!--/AltName-->
 
 
 
@@ -4650,7 +4760,9 @@ SubItems:
 
 
 
-    Source: (LDM p36)
+    Source: (LDM p36)(TOB p11)
+
+    AltName: Abominable Beauty
 
     Type: Fée
 
@@ -4679,7 +4791,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Behtu
-  Source: (LDM p37)
+  Source: (LDM p37)(TOB p34)
+  AltName: Behtu
   Type: Humanoïde
   Size: P
   Alignment: chaotique mauvais
@@ -4707,7 +4820,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p37)<!--/Source-->
+      - Source: <!--Source-->(LDM p37)(TOB p34)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Behtu<!--/AltName-->
 
 
 
@@ -4797,7 +4914,9 @@ SubItems:
 
 
 
-    Source: (LDM p37)
+    Source: (LDM p37)(TOB p34)
+
+    AltName: Behtu
 
     Type: Humanoïde
 
@@ -4826,7 +4945,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Béli
-  Source: (LDM p38)
+  Source: (LDM p38)(TOB p35)
+  AltName: Beli
   Type: Fée
   Size: P
   Alignment: neutre mauvaise
@@ -4855,7 +4975,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p38)<!--/Source-->
+      - Source: <!--Source-->(LDM p38)(TOB p35)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Beli<!--/AltName-->
 
 
 
@@ -4973,7 +5097,9 @@ SubItems:
 
 
 
-    Source: (LDM p38)
+    Source: (LDM p38)(TOB p35)
+
+    AltName: Beli
 
     Type: Fée
 
@@ -5182,7 +5308,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Béreginyas
-  Source: (LDM p40)
+  Source: (LDM p40)(TOB p36)
+  AltName: Bereginyas
   Type: Fée
   Size: TP
   Alignment: neutre mauvaise
@@ -5210,7 +5337,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p40)<!--/Source-->
+      - Source: <!--Source-->(LDM p40)(TOB p36)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bereginyas<!--/AltName-->
 
 
 
@@ -5294,7 +5425,9 @@ SubItems:
 
 
 
-    Source: (LDM p40)
+    Source: (LDM p40)(TOB p36)
+
+    AltName: Bereginyas
 
     Type: Fée
 
@@ -5499,7 +5632,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Blemmyes
-  Source: (LDM p42)
+  Source: (LDM p42)(TOB p37)
+  AltName: Blemmyes
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique mauvais
@@ -5525,7 +5659,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p42)<!--/Source-->
+      - Source: <!--Source-->(LDM p42)(TOB p37)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Blemmyes<!--/AltName-->
 
 
 
@@ -5613,7 +5751,9 @@ SubItems:
 
 
 
-    Source: (LDM p42)
+    Source: (LDM p42)(TOB p37)
+
+    AltName: Blemmyes
 
     Type: Créature monstrueuse
 
@@ -5638,7 +5778,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Boloti
-  Source: (LDM p43)
+  Source: (LDM p43)(TOB p38)
+  AltName: Boloti
   Type: Fée
   Size: TP
   Alignment: neutre mauvaise
@@ -5664,7 +5805,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p43)<!--/Source-->
+      - Source: <!--Source-->(LDM p43)(TOB p38)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Boloti<!--/AltName-->
 
 
 
@@ -5770,7 +5915,9 @@ SubItems:
 
 
 
-    Source: (LDM p43)
+    Source: (LDM p43)(TOB p38)
+
+    AltName: Boloti
 
     Type: Fée
 
@@ -5939,7 +6086,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Avatar De Borée
-  Source: (LDM p45)
+  Source: (LDM p45)(TOB p42)
+  AltName: Avatar of Boreas
   Type: Élémentaire
   Size: M
   Alignment: chaotique mauvais
@@ -5969,7 +6117,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p45)<!--/Source-->
+      - Source: <!--Source-->(LDM p45)(TOB p42)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Avatar of Boreas<!--/AltName-->
 
 
 
@@ -6145,7 +6297,9 @@ SubItems:
 
 
 
-    Source: (LDM p45)
+    Source: (LDM p45)(TOB p42)
+
+    AltName: Avatar of Boreas
 
     Type: Élémentaire
 
@@ -6178,7 +6332,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Boucca
-  Source: (LDM p47)
+  Source: (LDM p47)(TOB p46)
+  AltName: Bucca
   Type: Fée
   Size: TP
   Alignment: neutre mauvaise
@@ -6204,7 +6359,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p47)<!--/Source-->
+      - Source: <!--Source-->(LDM p47)(TOB p46)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bucca<!--/AltName-->
 
 
 
@@ -6298,7 +6457,9 @@ SubItems:
 
 
 
-    Source: (LDM p47)
+    Source: (LDM p47)(TOB p46)
+
+    AltName: Bucca
 
     Type: Fée
 
@@ -6323,7 +6484,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bouda
-  Source: (LDM p48)
+  Source: (LDM p48)(TOB p44)
+  AltName: Bouda
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -6353,7 +6515,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p48)<!--/Source-->
+      - Source: <!--Source-->(LDM p48)(TOB p44)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bouda<!--/AltName-->
 
 
 
@@ -6517,7 +6683,9 @@ SubItems:
 
 
 
-    Source: (LDM p48)
+    Source: (LDM p48)(TOB p44)
+
+    AltName: Bouda
 
     Type: Fiélon
 
@@ -6729,7 +6897,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bouraq
-  Source: (LDM p50)
+  Source: (LDM p50)(TOB p48)
+  AltName: Buraq
   Type: Céleste
   Size: M
   Alignment: loyal bon
@@ -6758,7 +6927,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p50)<!--/Source-->
+      - Source: <!--Source-->(LDM p50)(TOB p48)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Buraq<!--/AltName-->
 
 
 
@@ -6830,7 +7003,7 @@ SubItems:
 
 
 
-      **_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le buraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
+      **_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le bouraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
 
 
 
@@ -6888,7 +7061,9 @@ SubItems:
 
 
 
-    Source: (LDM p50)
+    Source: (LDM p50)(TOB p48)
+
+    AltName: Buraq
 
     Type: Céleste
 
@@ -6919,7 +7094,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Cactide
-  Source: (LDM p51)
+  Source: (LDM p51)(TOB p50)
+  AltName: Cactid
   Type: Plante
   Size: G
   Alignment: non alignée
@@ -6947,7 +7123,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p51)<!--/Source-->
+      - Source: <!--Source-->(LDM p51)(TOB p50)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Cactid<!--/AltName-->
 
 
 
@@ -7037,7 +7217,9 @@ SubItems:
 
 
 
-    Source: (LDM p51)
+    Source: (LDM p51)(TOB p50)
+
+    AltName: Cactid
 
     Type: Plante
 
@@ -7066,7 +7248,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Cambium
-  Source: (LDM p52)
+  Source: (LDM p52)(TOB p51)
+  AltName: Cambium
   Type: Fiélon
   Size: G
   Alignment: neutre mauvais
@@ -7095,7 +7278,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p52)<!--/Source-->
+      - Source: <!--Source-->(LDM p52)(TOB p51)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Cambium<!--/AltName-->
 
 
 
@@ -7243,7 +7430,9 @@ SubItems:
 
 
 
-    Source: (LDM p52)
+    Source: (LDM p52)(TOB p51)
+
+    AltName: Cambium
 
     Type: Fiélon
 
@@ -7723,7 +7912,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chat Du Temple De Bastet
-  Source: (LDM p56)
+  Source: (LDM p56)(TOB p32)
+  AltName: Bastet Temple Cat
   Type: Créature montrueuse
   Size: P
   Alignment: chaotique neutre
@@ -7749,7 +7939,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p56)<!--/Source-->
+      - Source: <!--Source-->(LDM p56)(TOB p32)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bastet Temple Cat<!--/AltName-->
 
 
 
@@ -7867,7 +8061,9 @@ SubItems:
 
 
 
-    Source: (LDM p56)
+    Source: (LDM p56)(TOB p32)
+
+    AltName: Bastet Temple Cat
 
     Type: Créature montrueuse
 
@@ -7892,7 +8088,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chélicère
-  Source: (LDM p57)
+  Source: (LDM p57)(TOB p54)
+  AltName: Chelicerae
   Type: Aberration
   Size: G
   Alignment: neutre mauvaise
@@ -7921,7 +8118,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p57)<!--/Source-->
+      - Source: <!--Source-->(LDM p57)(TOB p54)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Chelicerae<!--/AltName-->
 
 
 
@@ -8063,7 +8264,9 @@ SubItems:
 
 
 
-    Source: (LDM p57)
+    Source: (LDM p57)(TOB p54)
+
+    AltName: Chelicerae
 
     Type: Aberration
 
@@ -8094,7 +8297,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chernomoï
-  Source: (LDM p58)
+  Source: (LDM p58)(TOB p55)
+  AltName: Chernomoi
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -8121,7 +8325,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p58)<!--/Source-->
+      - Source: <!--Source-->(LDM p58)(TOB p55)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Chernomoi<!--/AltName-->
 
 
 
@@ -8213,7 +8421,9 @@ SubItems:
 
 
 
-    Source: (LDM p58)
+    Source: (LDM p58)(TOB p55)
+
+    AltName: Chernomoi
 
     Type: Fée
 
@@ -8683,7 +8893,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chronomentaire
-  Source: (LDM p62)
+  Source: (LDM p62)(TOB p57)
+  AltName: Chronalmental
   Type: Élémentaire
   Size: G
   Alignment: non aligné
@@ -8710,7 +8921,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p62)<!--/Source-->
+      - Source: <!--Source-->(LDM p62)(TOB p57)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Chronalmental<!--/AltName-->
 
 
 
@@ -8814,7 +9029,9 @@ SubItems:
 
 
 
-    Source: (LDM p62)
+    Source: (LDM p62)(TOB p57)
+
+    AltName: Chronalmental
 
     Type: Élémentaire
 
@@ -8841,7 +9058,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Cikavak
-  Source: (LDM p63)
+  Source: (LDM p63)(TOB p58)
+  AltName: Cikavak
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -8868,7 +9086,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p63)<!--/Source-->
+      - Source: <!--Source-->(LDM p63)(TOB p58)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Cikavak<!--/AltName-->
 
 
 
@@ -8954,7 +9176,9 @@ SubItems:
 
 
 
-    Source: (LDM p63)
+    Source: (LDM p63)(TOB p58)
+
+    AltName: Cikavak
 
     Type: Fée
 
@@ -9130,7 +9354,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Clurichaun
-  Source: (LDM p65)
+  Source: (LDM p65)(TOB p67)
+  AltName: Clurichaun
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -9158,7 +9383,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p65)<!--/Source-->
+      - Source: <!--Source-->(LDM p65)(TOB p67)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clurichaun<!--/AltName-->
 
 
 
@@ -9266,7 +9495,9 @@ SubItems:
 
 
 
-    Source: (LDM p65)
+    Source: (LDM p65)(TOB p67)
+
+    AltName: Clurichaun
 
     Type: Fée
 
@@ -9453,7 +9684,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Conglomérat Osseux
-  Source: (LDM p67)
+  Source: (LDM p67)(TOB p39)
+  AltName: Bone Collective
   Type: Mort-vivant
   Size: P
   Alignment: chaotique mauvais
@@ -9483,7 +9715,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p67)<!--/Source-->
+      - Source: <!--Source-->(LDM p67)(TOB p39)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bone Collective<!--/AltName-->
 
 
 
@@ -9617,7 +9853,9 @@ SubItems:
 
 
 
-    Source: (LDM p67)
+    Source: (LDM p67)(TOB p39)
+
+    AltName: Bone Collective
 
     Type: Mort-vivant
 
@@ -9820,7 +10058,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Couveteux
-  Source: (LDM p69)
+  Source: (LDM p69)(TOB p45)
+  AltName: Broodiken
   ArmorClass: 13 (armure naturelle)
   HitPoints: 55 (10d4+30)
   Speed: 6m, escalade 6m
@@ -9846,7 +10085,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p69)<!--/Source-->
+      - Source: <!--Source-->(LDM p69)(TOB p45)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Broodiken<!--/AltName-->
 
 
 
@@ -9942,7 +10185,9 @@ SubItems:
 
 
 
-    Source: (LDM p69)
+    Source: (LDM p69)(TOB p45)
+
+    AltName: Broodiken
 
     ArmorClass: 13 (armure naturelle)
 
@@ -10095,7 +10340,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Crabe Osseux
-  Source: (LDM p71)
+  Source: (LDM p71)(TOB p40)
+  AltName: Bone Crab
   Type: Bête
   Size: P
   Alignment: neutre
@@ -10122,7 +10368,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p71)<!--/Source-->
+      - Source: <!--Source-->(LDM p71)(TOB p40)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bone Crab<!--/AltName-->
 
 
 
@@ -10226,7 +10476,9 @@ SubItems:
 
 
 
-    Source: (LDM p71)
+    Source: (LDM p71)(TOB p40)
+
+    AltName: Bone Crab
 
     Type: Bête
 
@@ -10410,7 +10662,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Cynome
-  Source: (LDM p73)
+  Source: (LDM p73)(TOB p49)
+  AltName: Burrowling
   Type: Humanoïde
   Size: P
   Alignment: loyal neutre
@@ -10436,7 +10689,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p73)<!--/Source-->
+      - Source: <!--Source-->(LDM p73)(TOB p49)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Burrowling<!--/AltName-->
 
 
 
@@ -10530,7 +10787,9 @@ SubItems:
 
 
 
-    Source: (LDM p73)
+    Source: (LDM p73)(TOB p49)
+
+    AltName: Burrowling
 
     Type: Humanoïde
 
@@ -10555,7 +10814,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dau
-  Source: (LDM p74)
+  Source: (LDM p74)(TOB p70)
+  AltName: Dau
   Type: Fée
   Size: P
   Alignment: chaotique neutre
@@ -10581,7 +10841,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p74)<!--/Source-->
+      - Source: <!--Source-->(LDM p74)(TOB p70)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dau<!--/AltName-->
 
 
 
@@ -10703,7 +10967,9 @@ SubItems:
 
 
 
-    Source: (LDM p74)
+    Source: (LDM p74)(TOB p70)
+
+    AltName: Dau
 
     Type: Fée
 
@@ -10961,7 +11227,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Apau Perape
-  Source: (LDM p76)
+  Source: (LDM p76)(TOB p75)
+  AltName: Apau Perape
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -10992,7 +11259,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p76)<!--/Source-->
+      - Source: <!--Source-->(LDM p76)(TOB p75)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Apau Perape<!--/AltName-->
 
 
 
@@ -11130,7 +11401,9 @@ SubItems:
 
 
 
-    Source: (LDM p76)
+    Source: (LDM p76)(TOB p75)
+
+    AltName: Apau Perape
 
     Type: Fiélon (démon)
 
@@ -11165,7 +11438,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Berstuc
-  Source: (LDM p77)
+  Source: (LDM p77)(TOB p76)
+  AltName: Berstuc
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -11195,7 +11469,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p77)<!--/Source-->
+      - Source: <!--Source-->(LDM p77)(TOB p76)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Berstuc<!--/AltName-->
 
 
 
@@ -11305,7 +11583,9 @@ SubItems:
 
 
 
-    Source: (LDM p77)
+    Source: (LDM p77)(TOB p76)
+
+    AltName: Berstuc
 
     Type: Fiélon (démon)
 
@@ -11491,7 +11771,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Démon Kishi
-  Source: (LDM p79)
+  Source: (LDM p79)(TOB p77)
+  AltName: Kishi Demon
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -11521,7 +11802,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p79)<!--/Source-->
+      - Source: <!--Source-->(LDM p79)(TOB p77)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kishi Demon<!--/AltName-->
 
 
 
@@ -11677,7 +11962,9 @@ SubItems:
 
 
 
-    Source: (LDM p79)
+    Source: (LDM p79)(TOB p77)
+
+    AltName: Kishi Demon
 
     Type: Fiélon (démon)
 
@@ -11710,7 +11997,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Malakbel
-  Source: (LDM p80)
+  Source: (LDM p80)(TOB p78)
+  AltName: Malakbel
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -11740,7 +12028,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p80)<!--/Source-->
+      - Source: <!--Source-->(LDM p80)(TOB p78)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Malakbel<!--/AltName-->
 
 
 
@@ -11856,7 +12148,9 @@ SubItems:
 
 
 
-    Source: (LDM p80)
+    Source: (LDM p80)(TOB p78)
+
+    AltName: Malakbel
 
     Type: Fiélon (démon)
 
@@ -11889,7 +12183,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Démon Psoglav
-  Source: (LDM p81)
+  Source: (LDM p81)(TOB p79)
+  AltName: Psoglav Demon
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -11919,7 +12214,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p81)<!--/Source-->
+      - Source: <!--Source-->(LDM p81)(TOB p79)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Psoglav Demon<!--/AltName-->
 
 
 
@@ -12035,7 +12334,9 @@ SubItems:
 
 
 
-    Source: (LDM p81)
+    Source: (LDM p81)(TOB p79)
+
+    AltName: Psoglav Demon
 
     Type: Fiélon (démon)
 
@@ -12068,7 +12369,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Rübezahl
-  Source: (LDM p82)
+  Source: (LDM p82)(TOB p80)
+  AltName: Rubezahl
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -12098,7 +12400,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p82)<!--/Source-->
+      - Source: <!--Source-->(LDM p82)(TOB p80)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rubezahl<!--/AltName-->
 
 
 
@@ -12242,7 +12548,9 @@ SubItems:
 
 
 
-    Source: (LDM p82)
+    Source: (LDM p82)(TOB p80)
+
+    AltName: Rubezahl
 
     Type: Fiélon (démon)
 
@@ -12275,7 +12583,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Akyishigal, seigneur démon des cafards
-  Source: (LDM p84)
+  Source: (LDM p84)(TOB p82)
+  AltName: Akyishigal, Demon Lord of Cockroaches
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -12305,7 +12614,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p84)<!--/Source-->
+      - Source: <!--Source-->(LDM p84)(TOB p82)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Akyishigal, Demon Lord of Cockroaches<!--/AltName-->
 
 
 
@@ -12463,7 +12776,9 @@ SubItems:
 
 
 
-    Source: (LDM p84)
+    Source: (LDM p84)(TOB p82)
+
+    AltName: Akyishigal, Demon Lord of Cockroaches
 
     Type: Fiélon (démon)
 
@@ -12496,7 +12811,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Rejeton D'Akyishigal
-  Source: (LDM p85)
+  Source: (LDM p85)(TOB p83)
+  AltName: Spawn of Akyishigal
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -12524,7 +12840,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p85)<!--/Source-->
+      - Source: <!--Source-->(LDM p85)(TOB p83)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spawn of Akyishigal<!--/AltName-->
 
 
 
@@ -12620,7 +12940,9 @@ SubItems:
 
 
 
-    Source: (LDM p85)
+    Source: (LDM p85)(TOB p83)
+
+    AltName: Spawn of Akyishigal
 
     Type: Fiélon (démon)
 
@@ -12649,7 +12971,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Alquam, seigneur démon de la nuit
-  Source: (LDM p86)
+  Source: (LDM p86)(TOB p84)
+  AltName: Alquam, Demon Lord of Night
   Type: Fiélon (démon)
   Size: TG
   Alignment: chaotique mauvais
@@ -12679,7 +13002,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p86)<!--/Source-->
+      - Source: <!--Source-->(LDM p86)(TOB p84)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Alquam, Demon Lord of Night<!--/AltName-->
 
 
 
@@ -12875,7 +13202,9 @@ SubItems:
 
 
 
-    Source: (LDM p86)
+    Source: (LDM p86)(TOB p84)
+
+    AltName: Alquam, Demon Lord of Night
 
     Type: Fiélon (démon)
 
@@ -12989,7 +13318,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Camazotz, seigneur démon des chauves-souris et du feu
-  Source: (LDM p87)
+  Source: (LDM p87)(TOB p85)
+  AltName: Camazotz, Demon Lord of Bats and Fire
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -13020,7 +13350,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p87)<!--/Source-->
+      - Source: <!--Source-->(LDM p87)(TOB p85)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Camazotz, Demon Lord of Bats and Fire<!--/AltName-->
 
 
 
@@ -13218,7 +13552,9 @@ SubItems:
 
 
 
-    Source: (LDM p87)
+    Source: (LDM p87)(TOB p85)
+
+    AltName: Camazotz, Demon Lord of Bats and Fire
 
     Type: Fiélon (démon)
 
@@ -13253,7 +13589,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chauve-Souris De Peau
-  Source: (LDM p89)
+  Source: (LDM p89)(TOB p87)
+  AltName: Skin Bat
   Type: Mort-vivant
   Size: P
   Alignment: neutre mauvais
@@ -13280,7 +13617,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p89)<!--/Source-->
+      - Source: <!--Source-->(LDM p89)(TOB p87)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Skin Bat<!--/AltName-->
 
 
 
@@ -13354,7 +13695,9 @@ SubItems:
 
 
 
-    Source: (LDM p89)
+    Source: (LDM p89)(TOB p87)
+
+    AltName: Skin Bat
 
     Type: Mort-vivant
 
@@ -13381,7 +13724,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mechuiti, seigneur démon des grands singes
-  Source: (LDM p90)
+  Source: (LDM p90)(TOB p88)
+  AltName: Mechuiti, Demon Lord of Apes
   Type: Fiélon (démon)
   Size: Gig
   Alignment: chaotique mauvais
@@ -13411,7 +13755,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p90)<!--/Source-->
+      - Source: <!--Source-->(LDM p90)(TOB p88)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mechuiti, Demon Lord of Apes<!--/AltName-->
 
 
 
@@ -13617,7 +13965,9 @@ SubItems:
 
 
 
-    Source: (LDM p90)
+    Source: (LDM p90)(TOB p88)
+
+    AltName: Mechuiti, Demon Lord of Apes
 
     Type: Fiélon (démon)
 
@@ -13743,7 +14093,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Qorgeth, seigneur démon du ver insatiable
-  Source: (LDM p92)
+  Source: (LDM p92)(TOB p90)
+  AltName: Qorgeth, Demon Lord of the Devouring Worm
   Type: Fiélon (démon)
   Size: Gig
   Alignment: chaotique mauvais
@@ -13773,7 +14124,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p92)<!--/Source-->
+      - Source: <!--Source-->(LDM p92)(TOB p90)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Qorgeth, Demon Lord of the Devouring Worm<!--/AltName-->
 
 
 
@@ -13955,7 +14310,9 @@ SubItems:
 
 
 
-    Source: (LDM p92)
+    Source: (LDM p92)(TOB p90)
+
+    AltName: Qorgeth, Demon Lord of the Devouring Worm
 
     Type: Fiélon (démon)
 
@@ -14069,7 +14426,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Antipaladin Des Ombres Derro
-  Source: (LDM p94)
+  Source: (LDM p94)(TOB p93)
+  AltName: Derro Shadow Antipaladin
   Type: Humanoïde (derro)
   Size: P
   Alignment: chaotique mauvais
@@ -14096,7 +14454,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p94)<!--/Source-->
+      - Source: <!--Source-->(LDM p94)(TOB p93)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Derro Shadow Antipaladin<!--/AltName-->
 
 
 
@@ -14230,7 +14592,9 @@ SubItems:
 
 
 
-    Source: (LDM p94)
+    Source: (LDM p94)(TOB p93)
+
+    AltName: Derro Shadow Antipaladin
 
     Type: Humanoïde (derro)
 
@@ -14257,7 +14621,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Savant Fœtal Derro
-  Source: (LDM p95)
+  Source: (LDM p95)(TOB p92)
+  AltName: Derro Fetal Savant
   Type: Humanoïde
   Size: TP
   Alignment: chaotique mauvais
@@ -14286,7 +14651,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p95)<!--/Source-->
+      - Source: <!--Source-->(LDM p95)(TOB p92)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Derro Fetal Savant<!--/AltName-->
 
 
 
@@ -14386,7 +14755,9 @@ SubItems:
 
 
 
-    Source: (LDM p95)
+    Source: (LDM p95)(TOB p92)
+
+    AltName: Derro Fetal Savant
 
     Type: Humanoïde
 
@@ -14584,7 +14955,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Arbeyach
-  Source: (LDM p98)
+  Source: (LDM p98)(TOB p95)
+  AltName: Arbeyach
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -14614,7 +14986,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p98)<!--/Source-->
+      - Source: <!--Source-->(LDM p98)(TOB p95)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Arbeyach<!--/AltName-->
 
 
 
@@ -14802,7 +15178,9 @@ SubItems:
 
 
 
-    Source: (LDM p98)
+    Source: (LDM p98)(TOB p95)
+
+    AltName: Arbeyach
 
     Type: Fiélon (diable)
 
@@ -14835,7 +15213,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Rejeton D'Arbeyach
-  Source: (LDM p100)
+  Source: (LDM p100)(TOB p97)
+  AltName: Spawn of Arbeyach
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -14864,7 +15243,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p100)<!--/Source-->
+      - Source: <!--Source-->(LDM p100)(TOB p97)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spawn of Arbeyach<!--/AltName-->
 
 
 
@@ -14976,7 +15359,9 @@ SubItems:
 
 
 
-    Source: (LDM p100)
+    Source: (LDM p100)(TOB p97)
+
+    AltName: Spawn of Arbeyach
 
     Type: Fiélon (diable)
 
@@ -15007,7 +15392,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ia'Affrat
-  Source: (LDM p101)
+  Source: (LDM p101)(TOB p98)
+  AltName: Ia'Affrat
   Type: Nuée
   Size: G
   Alignment: loyal mauvais
@@ -15037,7 +15423,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p101)<!--/Source-->
+      - Source: <!--Source-->(LDM p101)(TOB p98)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ia'Affrat<!--/AltName-->
 
 
 
@@ -15177,7 +15567,9 @@ SubItems:
 
 
 
-    Source: (LDM p101)
+    Source: (LDM p101)(TOB p98)
+
+    AltName: Ia'Affrat
 
     Type: Nuée
 
@@ -15210,7 +15602,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mammon
-  Source: (LDM p102)
+  Source: (LDM p102)(TOB p99)
+  AltName: Mammon
   Type: Fiélon (diable)
   Size: TG
   Alignment: loyal mauvais
@@ -15240,7 +15633,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p102)<!--/Source-->
+      - Source: <!--Source-->(LDM p102)(TOB p99)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mammon<!--/AltName-->
 
 
 
@@ -15416,7 +15813,9 @@ SubItems:
 
 
 
-    Source: (LDM p102)
+    Source: (LDM p102)(TOB p99)
+
+    AltName: Mammon
 
     Type: Fiélon (diable)
 
@@ -15530,7 +15929,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Totivillus, le Scribe de l'Enfer
-  Source: (LDM p104)
+  Source: (LDM p104)(TOB p101)
+  AltName: Totivillus, Scribe of Hell
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -15560,7 +15960,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p104)<!--/Source-->
+      - Source: <!--Source-->(LDM p104)(TOB p101)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Totivillus, Scribe of Hell<!--/AltName-->
 
 
 
@@ -15784,7 +16188,9 @@ SubItems:
 
 
 
-    Source: (LDM p104)
+    Source: (LDM p104)(TOB p101)
+
+    AltName: Totivillus, Scribe of Hell
 
     Type: Fiélon (diable)
 
@@ -15817,7 +16223,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Automate
-  Source: (LDM p105)
+  Source: (LDM p105)(TOB p102)
+  AltName: Automata Devil
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -15847,7 +16254,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p105)<!--/Source-->
+      - Source: <!--Source-->(LDM p105)(TOB p102)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Automata Devil<!--/AltName-->
 
 
 
@@ -15991,7 +16402,9 @@ SubItems:
 
 
 
-    Source: (LDM p105)
+    Source: (LDM p105)(TOB p102)
+
+    AltName: Automata Devil
 
     Type: Fiélon (diable)
 
@@ -16024,7 +16437,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chort
-  Source: (LDM p107)
+  Source: (LDM p107)(TOB p104)
+  AltName: Chort Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16054,7 +16468,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p107)<!--/Source-->
+      - Source: <!--Source-->(LDM p107)(TOB p104)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Chort Devil<!--/AltName-->
 
 
 
@@ -16188,7 +16606,9 @@ SubItems:
 
 
 
-    Source: (LDM p107)
+    Source: (LDM p107)(TOB p104)
+
+    AltName: Chort Devil
 
     Type: Fiélon (diable)
 
@@ -16221,7 +16641,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Cristallin
-  Source: (LDM p108)
+  Source: (LDM p108)(TOB p105)
+  AltName: Crystalline Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16251,7 +16672,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p108)<!--/Source-->
+      - Source: <!--Source-->(LDM p108)(TOB p105)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Crystalline Devil<!--/AltName-->
 
 
 
@@ -16403,7 +16828,9 @@ SubItems:
 
 
 
-    Source: (LDM p108)
+    Source: (LDM p108)(TOB p105)
+
+    AltName: Crystalline Devil
 
     Type: Fiélon (diable)
 
@@ -16436,7 +16863,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable D'Encre
-  Source: (LDM p109)
+  Source: (LDM p109)(TOB p108)
+  AltName: Ink Devil
   Type: Fiélon (diable)
   Size: P
   Alignment: loyal mauvais
@@ -16466,7 +16894,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p109)<!--/Source-->
+      - Source: <!--Source-->(LDM p109)(TOB p108)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ink Devil<!--/AltName-->
 
 
 
@@ -16600,7 +17032,9 @@ SubItems:
 
 
 
-    Source: (LDM p109)
+    Source: (LDM p109)(TOB p108)
+
+    AltName: Ink Devil
 
     Type: Fiélon (diable)
 
@@ -16633,7 +17067,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable De Sel
-  Source: (LDM p110)
+  Source: (LDM p110)(TOB p113)
+  AltName: Salt Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16663,7 +17098,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p110)<!--/Source-->
+      - Source: <!--Source-->(LDM p110)(TOB p113)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Salt Devil<!--/AltName-->
 
 
 
@@ -16797,7 +17236,9 @@ SubItems:
 
 
 
-    Source: (LDM p110)
+    Source: (LDM p110)(TOB p113)
+
+    AltName: Salt Devil
 
     Type: Fiélon (diable)
 
@@ -16830,7 +17271,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Doré
-  Source: (LDM p111)
+  Source: (LDM p111)(TOB p106)
+  AltName: Gilded Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16860,7 +17302,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p111)<!--/Source-->
+      - Source: <!--Source-->(LDM p111)(TOB p106)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gilded Devil<!--/AltName-->
 
 
 
@@ -17062,7 +17508,9 @@ SubItems:
 
 
 
-    Source: (LDM p111)
+    Source: (LDM p111)(TOB p106)
+
+    AltName: Gilded Devil
 
     Type: Fiélon (diable)
 
@@ -17095,7 +17543,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Koralk (Diable Moissonneur)
-  Source: (LDM p112)
+  Source: (LDM p112)(TOB p108)
+  AltName: Koralk (Harvester Devil)
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -17124,7 +17573,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p112)<!--/Source-->
+      - Source: <!--Source-->(LDM p112)(TOB p108)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Koralk (Harvester Devil)<!--/AltName-->
 
 
 
@@ -17236,7 +17689,9 @@ SubItems:
 
 
 
-    Source: (LDM p112)
+    Source: (LDM p112)(TOB p108)
+
+    AltName: Koralk (Harvester Devil)
 
     Type: Fiélon (diable)
 
@@ -17267,7 +17722,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Lunaire
-  Source: (LDM p114)
+  Source: (LDM p114)(TOB p110)
+  AltName: Lunar Devil
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -17297,7 +17753,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p114)<!--/Source-->
+      - Source: <!--Source-->(LDM p114)(TOB p110)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lunar Devil<!--/AltName-->
 
 
 
@@ -17461,7 +17921,9 @@ SubItems:
 
 
 
-    Source: (LDM p114)
+    Source: (LDM p114)(TOB p110)
+
+    AltName: Lunar Devil
 
     Type: Fiélon (diable)
 
@@ -17494,7 +17956,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Diable Orobas
-  Source: (LDM p115)
+  Source: (LDM p115)(TOB p111)
+  AltName: Orobas Devil
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -17524,7 +17987,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p115)<!--/Source-->
+      - Source: <!--Source-->(LDM p115)(TOB p111)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Orobas Devil<!--/AltName-->
 
 
 
@@ -17692,7 +18159,9 @@ SubItems:
 
 
 
-    Source: (LDM p115)
+    Source: (LDM p115)(TOB p111)
+
+    AltName: Orobas Devil
 
     Type: Fiélon (diable)
 
@@ -27949,7 +28418,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Empoigneur Arboricole
-  Source: (LDM p170)
+  Source: (LDM p170)(TOB p25)
+  AltName: Arboreal Grappler
   Type: Aberration
   Size: M
   Alignment: neutre mauvais
@@ -27975,7 +28445,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p170)<!--/Source-->
+      - Source: <!--Source-->(LDM p170)(TOB p25)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Arboreal Grappler<!--/AltName-->
 
 
 
@@ -28063,7 +28537,9 @@ SubItems:
 
 
 
-    Source: (LDM p170)
+    Source: (LDM p170)(TOB p25)
+
+    AltName: Arboreal Grappler
 
     Type: Aberration
 
@@ -28088,7 +28564,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Enfant Des Bruyères
-  Source: (LDM p171)
+  Source: (LDM p171)(TOB p56)
+  AltName: Child of the Briar
   Type: Plante
   Size: TP
   Alignment: neutre mauvaise
@@ -28115,7 +28592,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p171)<!--/Source-->
+      - Source: <!--Source-->(LDM p171)(TOB p56)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Child of the Briar<!--/AltName-->
 
 
 
@@ -28217,7 +28698,9 @@ SubItems:
 
 
 
-    Source: (LDM p171)
+    Source: (LDM p171)(TOB p56)
+
+    AltName: Child of the Briar
 
     Type: Plante
 
@@ -32649,7 +33132,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fourmi Géante
-  Source: (LDM p199)
+  Source: (LDM p199)(TOB p23)
+  AltName: Giant Ant
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -32674,7 +33158,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p199)<!--/Source-->
+      - Source: <!--Source-->(LDM p199)(TOB p23)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Giant Ant<!--/AltName-->
 
 
 
@@ -32752,7 +33240,9 @@ SubItems:
 
 
 
-    Source: (LDM p199)
+    Source: (LDM p199)(TOB p23)
+
+    AltName: Giant Ant
 
     Type: Bête
 
@@ -32775,7 +33265,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Reine Fourmi Géante
-  Source: (LDM p199)
+  Source: (LDM p199)(TOB p23)
+  AltName: Giant Ant Queen
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -32800,7 +33291,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p199)<!--/Source-->
+      - Source: <!--Source-->(LDM p199)(TOB p23)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Giant Ant Queen<!--/AltName-->
 
 
 
@@ -32884,7 +33379,9 @@ SubItems:
 
 
 
-    Source: (LDM p199)
+    Source: (LDM p199)(TOB p23)
+
+    AltName: Giant Ant Queen
 
     Type: Bête
 
@@ -36865,7 +37362,7 @@ SubItems:
 
 
 
-      Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu’elle n’a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d’une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
+      Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu'elle n'a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d'une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
 
 
 
@@ -36910,7 +37407,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gremlin Azza
-  Source: (LDM p226)
+  Source: (LDM p226)(TOB p28)
+  AltName: Azza Gremlin
   Type: Fée
   Size: P
   Alignment: neutre
@@ -36936,7 +37434,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p226)<!--/Source-->
+      - Source: <!--Source-->(LDM p226)(TOB p28)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Azza Gremlin<!--/AltName-->
 
 
 
@@ -37018,7 +37520,9 @@ SubItems:
 
 
 
-    Source: (LDM p226)
+    Source: (LDM p226)(TOB p28)
+
+    AltName: Azza Gremlin
 
     Type: Fée
 
@@ -40367,7 +40871,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Ours
-  Source: (LDM p244)
+  Source: (LDM p244)(TOB p33)
+  AltName: Bearfold
   Type: Humanoïde (homme-ours)
   Size: M
   Alignment: chaotique bon
@@ -40392,7 +40897,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p244)<!--/Source-->
+      - Source: <!--Source-->(LDM p244)(TOB p33)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bearfold<!--/AltName-->
 
 
 
@@ -40482,7 +40991,9 @@ SubItems:
 
 
 
-    Source: (LDM p244)
+    Source: (LDM p244)(TOB p33)
+
+    AltName: Bearfold
 
     Type: Humanoïde (homme-ours)
 
@@ -44002,7 +44513,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Cavalier De Baba Yaga, Base
-  Source: (LDM p267)
+  Source: (LDM p267)(TOB p30)
+  AltName: Baba Yaga's Horsemen, Base
   Type: Fée
   Size: M
   Alignment: loyal neutre
@@ -44032,7 +44544,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p267)<!--/Source-->
+      - Source: <!--Source-->(LDM p267)(TOB p30)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Baba Yaga's Horsemen, Base<!--/AltName-->
 
 
 
@@ -44166,7 +44682,9 @@ SubItems:
 
 
 
-    Source: (LDM p267)
+    Source: (LDM p267)(TOB p30)
+
+    AltName: Baba Yaga's Horsemen, Base
 
     Type: Fée
 
@@ -44451,7 +44969,7 @@ SubItems:
 
 
 
-      **_Bond agressif._** Si le likho se déplace d’au moins 6 mètres en ligne droite en direction d’une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
+      **_Bond agressif._** Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
 
 
 
@@ -48053,7 +48571,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Abomination Mécanique
-  Source: (LDM p290)
+  Source: (LDM p290)(TOB p59)
+  AltName: Clockwork Abomination
   Type: Créature artificielle (diable)
   Size: G
   Alignment: loyal mauvais
@@ -48083,7 +48602,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p290)<!--/Source-->
+      - Source: <!--Source-->(LDM p290)(TOB p59)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Abomination<!--/AltName-->
 
 
 
@@ -48205,7 +48728,9 @@ SubItems:
 
 
 
-    Source: (LDM p290)
+    Source: (LDM p290)(TOB p59)
+
+    AltName: Clockwork Abomination
 
     Type: Créature artificielle (diable)
 
@@ -48238,7 +48763,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée Tisseuse Mécanique
-  Source: (LDM p291)
+  Source: (LDM p291)(TOB p66)
+  AltName: Weaving Spider
   Type: Créature artificielle
   Size: TP
   Alignment: non alignée
@@ -48265,7 +48791,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p291)<!--/Source-->
+      - Source: <!--Source-->(LDM p291)(TOB p66)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Weaving Spider<!--/AltName-->
 
 
 
@@ -48363,7 +48893,9 @@ SubItems:
 
 
 
-    Source: (LDM p291)
+    Source: (LDM p291)(TOB p66)
+
+    AltName: Weaving Spider
 
     Type: Créature artificielle
 
@@ -48390,7 +48922,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chasseur Mécanique
-  Source: (LDM p292)
+  Source: (LDM p292)(TOB p63)
+  AltName: Clockwork Huntsman
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -48419,7 +48952,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p292)<!--/Source-->
+      - Source: <!--Source-->(LDM p292)(TOB p63)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Huntsman<!--/AltName-->
 
 
 
@@ -48525,7 +49062,9 @@ SubItems:
 
 
 
-    Source: (LDM p292)
+    Source: (LDM p292)(TOB p63)
+
+    AltName: Clockwork Huntsman
 
     Type: Créature artificielle
 
@@ -48556,7 +49095,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chien Mécanique
-  Source: (LDM p293)
+  Source: (LDM p293)(TOB p62)
+  AltName: Clockwork Hound
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -48585,7 +49125,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p293)<!--/Source-->
+      - Source: <!--Source-->(LDM p293)(TOB p62)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Hound<!--/AltName-->
 
 
 
@@ -48691,7 +49235,9 @@ SubItems:
 
 
 
-    Source: (LDM p293)
+    Source: (LDM p293)(TOB p62)
+
+    AltName: Clockwork Hound
 
     Type: Créature artificielle
 
@@ -48722,7 +49268,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gendarme Mécanique
-  Source: (LDM p294)
+  Source: (LDM p294)(TOB p65)
+  AltName: Clockwork Watchman
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -48751,7 +49298,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p294)<!--/Source-->
+      - Source: <!--Source-->(LDM p294)(TOB p65)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Watchman<!--/AltName-->
 
 
 
@@ -48851,7 +49402,9 @@ SubItems:
 
 
 
-    Source: (LDM p294)
+    Source: (LDM p294)(TOB p65)
+
+    AltName: Clockwork Watchman
 
     Type: Créature artificielle
 
@@ -48882,7 +49435,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Myrmidon Mécanique
-  Source: (LDM p295)
+  Source: (LDM p295)(TOB p64)
+  AltName: Clockwork Myrmidon
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
@@ -48911,7 +49465,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p295)<!--/Source-->
+      - Source: <!--Source-->(LDM p295)(TOB p64)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Myrmidon<!--/AltName-->
 
 
 
@@ -49029,7 +49587,9 @@ SubItems:
 
 
 
-    Source: (LDM p295)
+    Source: (LDM p295)(TOB p64)
+
+    AltName: Clockwork Myrmidon
 
     Type: Créature artificielle
 
@@ -49060,7 +49620,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Scarabée Mécanique
-  Source: (LDM p296)
+  Source: (LDM p296)(TOB p60)
+  AltName: Clockwork Beetle
   Type: Créature artificielle
   Size: TP
   Alignment: non alignée
@@ -49089,7 +49650,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p296)<!--/Source-->
+      - Source: <!--Source-->(LDM p296)(TOB p60)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Beetle<!--/AltName-->
 
 
 
@@ -49177,7 +49742,9 @@ SubItems:
 
 
 
-    Source: (LDM p296)
+    Source: (LDM p296)(TOB p60)
+
+    AltName: Clockwork Beetle
 
     Type: Créature artificielle
 
@@ -51179,7 +51746,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Montagne De Cadavres
-  Source: (LDM p310)
+  Source: (LDM p310)(TOB p69)
+  AltName: Corpse Mound
   Type: Mort-vivant
   Size: TG
   Alignment: neutre mauvais
@@ -51208,7 +51776,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p310)<!--/Source-->
+      - Source: <!--Source-->(LDM p310)(TOB p69)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Corpse Mound<!--/AltName-->
 
 
 
@@ -51320,7 +51892,9 @@ SubItems:
 
 
 
-    Source: (LDM p310)
+    Source: (LDM p310)(TOB p69)
+
+    AltName: Corpse Mound
 
     Type: Mort-vivant
 
@@ -51489,7 +52063,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mort Follet
-  Source: (LDM p312)
+  Source: (LDM p312)(TOB p72)
+  AltName: Deathwisp
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -51519,7 +52094,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p312)<!--/Source-->
+      - Source: <!--Source-->(LDM p312)(TOB p72)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Deathwisp<!--/AltName-->
 
 
 
@@ -51635,7 +52214,9 @@ SubItems:
 
 
 
-    Source: (LDM p312)
+    Source: (LDM p312)(TOB p72)
+
+    AltName: Deathwisp
 
     Type: Mort-vivant
 
@@ -51668,7 +52249,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mousse Luminescente Des Cavernes
-  Source: (LDM p313)
+  Source: (LDM p313)(TOB p53)
+  AltName: Cavelight Moss
   Type: Plante
   Size: G
   Alignment: neutre
@@ -51695,7 +52277,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p313)<!--/Source-->
+      - Source: <!--Source-->(LDM p313)(TOB p53)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Cavelight Moss<!--/AltName-->
 
 
 
@@ -51775,7 +52361,9 @@ SubItems:
 
 
 
-    Source: (LDM p313)
+    Source: (LDM p313)(TOB p53)
+
+    AltName: Cavelight Moss
 
     Type: Plante
 
@@ -52385,7 +52973,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nécrophore
-  Source: (LDM p317)
+  Source: (LDM p317)(TOB p52)
+  AltName: Carrion Beetle
   Type: Bête
   Size: G
   Alignment: neutre
@@ -52411,7 +53000,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p317)<!--/Source-->
+      - Source: <!--Source-->(LDM p317)(TOB p52)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Carrion Beetle<!--/AltName-->
 
 
 
@@ -52493,7 +53086,9 @@ SubItems:
 
 
 
-    Source: (LDM p317)
+    Source: (LDM p317)(TOB p52)
+
+    AltName: Carrion Beetle
 
     Type: Bête
 
@@ -53973,7 +54568,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Papillons De Mort
-  Source: (LDM p327)
+  Source: (LDM p327)(TOB p71)
+  AltName: Death Butterfly Swarm
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
@@ -54000,7 +54596,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p327)<!--/Source-->
+      - Source: <!--Source-->(LDM p327)(TOB p71)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Death Butterfly Swarm<!--/AltName-->
 
 
 
@@ -54092,7 +54692,9 @@ SubItems:
 
 
 
-    Source: (LDM p327)
+    Source: (LDM p327)(TOB p71)
+
+    AltName: Death Butterfly Swarm
 
     Type: Nuée
 
@@ -54119,7 +54721,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Grande Nuée De Papillons De Mort
-  Source: (LDM p327)
+  Source: (LDM p327)(TOB p71)
+  AltName: Greater Death Butterfly Swarm
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
@@ -54146,7 +54749,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p327)<!--/Source-->
+      - Source: <!--Source-->(LDM p327)(TOB p71)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Greater Death Butterfly Swarm<!--/AltName-->
 
 
 
@@ -54238,7 +54845,9 @@ SubItems:
 
 
 
-    Source: (LDM p327)
+    Source: (LDM p327)(TOB p71)
+
+    AltName: Greater Death Butterfly Swarm
 
     Type: Nuée
 
@@ -54418,7 +55027,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Scarabées Mécaniques
-  Source: (LDM p329)
+  Source: (LDM p329)(TOB p61)
+  AltName: Clockwork Beetle Swarm
   Type: Grande nuée
   Size: TP
   Alignment: neutre
@@ -54442,7 +55052,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p329)<!--/Source-->
+      - Source: <!--Source-->(LDM p329)(TOB p61)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Clockwork Beetle Swarm<!--/AltName-->
 
 
 
@@ -54504,7 +55118,9 @@ SubItems:
 
 
 
-    Source: (LDM p329)
+    Source: (LDM p329)(TOB p61)
+
+    AltName: Clockwork Beetle Swarm
 
     Type: Grande nuée
 
@@ -54824,7 +55440,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée Osseuse
-  Source: (LDM p332)
+  Source: (LDM p332)(TOB p41)
+  AltName: Bone Swarm
   Type: Nuée
   Size: G
   Alignment: chaotique mauvais
@@ -54855,7 +55472,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p332)<!--/Source-->
+      - Source: <!--Source-->(LDM p332)(TOB p41)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bone Swarm<!--/AltName-->
 
 
 
@@ -54963,7 +55584,9 @@ SubItems:
 
 
 
-    Source: (LDM p332)
+    Source: (LDM p332)(TOB p41)
+
+    AltName: Bone Swarm
 
     Type: Nuée
 
@@ -55727,7 +56350,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Pavenuée
-  Source: (LDM p337)
+  Source: (LDM p337)(TOB p68)
+  AltName: Cobbleswarm
   Type: Nuée
   Size: G
   Alignment: non alignée
@@ -55754,7 +56378,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p337)<!--/Source-->
+      - Source: <!--Source-->(LDM p337)(TOB p68)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Cobbleswarm<!--/AltName-->
 
 
 
@@ -55850,7 +56478,9 @@ SubItems:
 
 
 
-    Source: (LDM p337)
+    Source: (LDM p337)(TOB p68)
+
+    AltName: Cobbleswarm
 
     Type: Nuée
 
@@ -56676,7 +57306,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Profond
-  Source: (LDM p343)
+  Source: (LDM p343)(TOB p73)
+  AltName: Deep One
   Type: Humanoïde
   Size: M
   Alignment: chaotique mauvais
@@ -56704,7 +57335,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p343)<!--/Source-->
+      - Source: <!--Source-->(LDM p343)(TOB p73)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Deep One<!--/AltName-->
 
 
 
@@ -56800,7 +57435,9 @@ SubItems:
 
 
 
-    Source: (LDM p343)
+    Source: (LDM p343)(TOB p73)
+
+    AltName: Deep One
 
     Type: Humanoïde
 
@@ -56829,7 +57466,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Archimandrite Profond
-  Source: (LDM p343)
+  Source: (LDM p343)(TOB p74)
+  AltName: Deep One Archimandrite
   Type: Humanoïde
   Size: G
   Alignment: chaotique mauvais
@@ -56858,7 +57496,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p343)<!--/Source-->
+      - Source: <!--Source-->(LDM p343)(TOB p74)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Deep One Archimandrite<!--/AltName-->
 
 
 
@@ -57000,7 +57642,9 @@ SubItems:
 
 
 
-    Source: (LDM p343)
+    Source: (LDM p343)(TOB p74)
+
+    AltName: Deep One Archimandrite
 
     Type: Humanoïde
 
@@ -57031,7 +57675,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Prêtre Profond Hybride
-  Source: (LDM p344)
+  Source: (LDM p344)(TOB p73)
+  AltName: Deep One Hybrid Priest
   Type: Humanoïde
   Size: M
   Alignment: chaotique mauvais
@@ -57060,7 +57705,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p344)<!--/Source-->
+      - Source: <!--Source-->(LDM p344)(TOB p73)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Deep One Hybrid Priest<!--/AltName-->
 
 
 
@@ -57190,7 +57839,9 @@ SubItems:
 
 
 
-    Source: (LDM p344)
+    Source: (LDM p344)(TOB p73)
+
+    AltName: Deep One Hybrid Priest
 
     Type: Humanoïde
 
@@ -64796,7 +65447,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ukavac
-  Source: (LDM p389)
+  Source: (LDM p389)(TOB p47)
+  AltName: Bukavac
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
@@ -64824,7 +65476,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p389)<!--/Source-->
+      - Source: <!--Source-->(LDM p389)(TOB p47)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bukavac<!--/AltName-->
 
 
 
@@ -64932,7 +65588,9 @@ SubItems:
 
 
 
-    Source: (LDM p389)
+    Source: (LDM p389)(TOB p47)
+
+    AltName: Bukavac
 
     Type: Créature monstrueuse
 
@@ -66865,7 +67523,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ver Pêcheur
-  Source: (LDM p400)
+  Source: (LDM p400)(TOB p22)
+  AltName: Angler Worm
   Type: Créature monstrueuse
   Size: TG
   Alignment: non alignée
@@ -66892,7 +67551,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p400)<!--/Source-->
+      - Source: <!--Source-->(LDM p400)(TOB p22)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Angler Worm<!--/AltName-->
 
 
 
@@ -66996,7 +67659,9 @@ SubItems:
 
 
 
-    Source: (LDM p400)
+    Source: (LDM p400)(TOB p22)
+
+    AltName: Angler Worm
 
     Type: Créature monstrueuse
 
@@ -71851,7 +72516,8 @@ AttributesDictionary: >+
 
 # Nihileth
 
-- Source: (LDM p8)
+- Source: (LDM p8)(TOB p8)
+- TOB: Nihileth
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d10+36)
@@ -71932,7 +72598,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Zombi Nihilethique
 
-- Source: (LDM p9)
+- Source: (LDM p9)(TOB p9)
+- TOB: Nihilethic Zombie
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 9 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
@@ -71974,7 +72641,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Ala
 
-- Source: (LDM p11)
+- Source: (LDM p13)
+- TOB: Ala
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 127 (15d8+60)
@@ -72013,7 +72681,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Algorith
 
-- Source: (LDM p12)
+- Source: (LDM p12)(TOB p14)
+- TOB: Algorith
 -  Créature artificielle de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -72058,7 +72727,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Alséide
 
-- Source: (LDM p13)
+- Source: (LDM p13)(TOB p15)
+- TOB: Alseid
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 49 (9d8+9)
@@ -72087,7 +72757,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Gardienne des bocages Alséide
 
-- Source: (LDM p13)
+- Source: (LDM p13)(TOB p15)
+- TOB: Alseid grovekeeper
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 71 (13d8+13)
@@ -72160,7 +72831,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Amphiptère
 
-- Source: (LDM p15)
+- Source: (LDM p15)(TOB p16)
+- TOB: Amphiptere
 -  Bête de taille Moyenne (M), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
@@ -72193,7 +72865,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Andrenjinyi
 
-- Source: (LDM p17)
+- Source: (LDM p17)(TOB p17)
+- TOB: Andrenjinyi
 -  Céleste de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 228 (13d20+91)
@@ -72245,7 +72918,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Angatra
 
-- Source: (LDM p18)
+- Source: (LDM p18)(TOB p19)
+- TOB: Angatra
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
@@ -72279,7 +72953,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Ange Enchaîné
 
-- Source: (LDM p19)
+- Source: (LDM p19)(TOB p20)
+- TOB: Angel, Chained
 -  Céleste de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 88 (16d8+16)
@@ -72317,7 +72992,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Ange Fidèle
 
-- Source: (LDM p20)
+- Source: (LDM p20)(TOB p21)
+- TOB: Fidele Angel
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 104 (16d8+32)
@@ -72374,7 +73050,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Anubien
 
-- Source: (LDM p21)
+- Source: (LDM p21)(TOB p24)
+- TOB: Anubian
 -  Élémentaire de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 13
 - **Points de vie** 44 (8d8+8)
@@ -72756,7 +73433,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Aridni
 
-- Source: (LDM p31)
+- Source: (LDM p31)(TOB p26)
+- TOB: Aridni
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 82 (15d6+30)
@@ -72798,7 +73476,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Asanbosam
 
-- Source: (LDM p32)
+- Source: (LDM p32)(TOB p27)
+- TOB: Asanbosam
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
@@ -72898,7 +73577,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Bagiennik
 
-- Source: (LDM p35)
+- Source: (LDM p35)(TOB p31)
+- TOB: Bagiennik
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -72929,7 +73609,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Beauté Abominable
 
-- Source: (LDM p36)
+- Source: (LDM p36)(TOB p11)
+- TOB: Abominable Beauty
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (22d8+88)
@@ -72964,7 +73645,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Behtu
 
-- Source: (LDM p37)
+- Source: (LDM p37)(TOB p34)
+- TOB: Behtu
 -  Humanoïde de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 52 (8d6+24)
@@ -72997,7 +73679,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Béli
 
-- Source: (LDM p38)
+- Source: (LDM p38)(TOB p35)
+- TOB: Beli
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
@@ -73081,7 +73764,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Béreginyas
 
-- Source: (LDM p40)
+- Source: (LDM p40)(TOB p36)
+- TOB: Bereginyas
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 70 (20d4+20)
@@ -73156,7 +73840,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Blemmyes
 
-- Source: (LDM p42)
+- Source: (LDM p42)(TOB p37)
+- TOB: Blemmyes
 -  Créature monstrueuse de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
@@ -73189,7 +73874,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Boloti
 
-- Source: (LDM p43)
+- Source: (LDM p43)(TOB p38)
+- TOB: Boloti
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 63 (14d4+28)
@@ -73264,7 +73950,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Avatar De Borée
 
-- Source: (LDM p45)
+- Source: (LDM p45)(TOB p42)
+- TOB: Avatar of Boreas
 -  Élémentaire de taille Moyenne (métamorphe) (M), chaotique mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
@@ -73325,7 +74012,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Boucca
 
-- Source: (LDM p47)
+- Source: (LDM p47)(TOB p46)
+- TOB: Bucca
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (5d4+15)
@@ -73360,7 +74048,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Bouda
 
-- Source: (LDM p48)
+- Source: (LDM p48)(TOB p44)
+- TOB: Bouda
 -  Fiélon de taille Moyenne (métamorphe) (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
@@ -73458,7 +74147,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Bouraq
 
-- Source: (LDM p50)
+- Source: (LDM p50)(TOB p48)
+- TOB: Buraq
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 17
 - **Points de vie** 152 (16d8+80)
@@ -73478,7 +74168,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 **_Armes angéliques._** Les attaques d'un bouraq sont magiques. Quand un bouraq réussit une attaque avec ses sabots, il inflige 4d8dégâts radiants supplémentaires (déjà intégrés dans les dégâts de l'attaque).
 
-**_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le buraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
+**_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le bouraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
 
 **À volonté:** aura sacrée, compréhension des langues, détection du mal et du bien, passage sans trace
 
@@ -73504,7 +74194,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Cactide
 
-- Source: (LDM p51)
+- Source: (LDM p51)(TOB p50)
+- TOB: Cactid
 -  Plante de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76(8d10+32)
@@ -73537,7 +74228,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Cambium
 
-- Source: (LDM p52)
+- Source: (LDM p52)(TOB p51)
+- TOB: Cambium
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 264 (23d10+138)
@@ -73696,7 +74388,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chat Du Temple De Bastet
 
-- Source: (LDM p56)
+- Source: (LDM p56)(TOB p32)
+- TOB: Bastet Temple Cat
 -  Créature montrueuse de Petite taille (P), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 40 (9d6+9)
@@ -73739,7 +74432,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chélicère
 
-- Source: (LDM p57)
+- Source: (LDM p57)(TOB p54)
+- TOB: Chelicerae
 -  Aberration de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -73789,7 +74483,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chernomoï
 
-- Source: (LDM p58)
+- Source: (LDM p58)(TOB p55)
+- TOB: Chernomoi
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 32 (5d4+20)
@@ -73928,7 +74623,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chronomentaire
 
-- Source: (LDM p62)
+- Source: (LDM p62)(TOB p57)
+- TOB: Chronalmental
 -  Élémentaire de Grande taille (G), non aligné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
@@ -73966,7 +74662,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Cikavak
 
-- Source: (LDM p63)
+- Source: (LDM p63)(TOB p58)
+- TOB: Cikavak
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 12
 - **Points de vie** 17 (7d4)
@@ -74029,7 +74726,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Clurichaun
 
-- Source: (LDM p65)
+- Source: (LDM p65)(TOB p67)
+- TOB: Clurichaun
 -  Fée de taille Très Petite (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 22 (4d4+12)
@@ -74106,7 +74804,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Conglomérat Osseux
 
-- Source: (LDM p67)
+- Source: (LDM p67)(TOB p39)
+- TOB: Bone Collective
 -  Mort-vivant de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 120 (16d6+64)
@@ -74195,7 +74894,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Couveteux
 
-- Source: (LDM p69)
+- Source: (LDM p69)(TOB p45)
+- TOB: Broodiken
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 55 (10d4+30)
 - **Vitesse** 6m, escalade 6m
@@ -74258,7 +74958,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Crabe Osseux
 
-- Source: (LDM p71)
+- Source: (LDM p71)(TOB p40)
+- TOB: Bone Crab
 -  Bête de Petite taille (P), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 33 (6d6+12)
@@ -74335,7 +75036,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Cynome
 
-- Source: (LDM p73)
+- Source: (LDM p73)(TOB p49)
+- TOB: Burrowling
 -  Humanoïde de Petite taille (cynome) (P), loyal neutre
 - **Classe d'armure** 13
 - **Points de vie** 27 (6d6+6)
@@ -74370,7 +75072,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Dau
 
-- Source: (LDM p74)
+- Source: (LDM p74)(TOB p70)
+- TOB: Dau
 -  Fée de Petite taille (P), chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 49 (9d6+18)
@@ -74473,7 +75176,8 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 
 # Apau Perape
 
-- Source: (LDM p76)
+- Source: (LDM p76)(TOB p75)
+- TOB: Apau Perape
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
@@ -74521,7 +75225,8 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 
 # Berstuc
 
-- Source: (LDM p77)
+- Source: (LDM p77)(TOB p76)
+- TOB: Berstuc
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -74595,7 +75300,8 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 
 # Démon Kishi
 
-- Source: (LDM p79)
+- Source: (LDM p79)(TOB p77)
+- TOB: Kishi Demon
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle, bouclier)
 - **Points de vie** 119 (14d8+56)
@@ -74649,7 +75355,8 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 # Malakbel
 
-- Source: (LDM p80)
+- Source: (LDM p80)(TOB p78)
+- TOB: Malakbel
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -74690,7 +75397,8 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 # Démon Psoglav
 
-- Source: (LDM p81)
+- Source: (LDM p81)(TOB p79)
+- TOB: Psoglav Demon
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (11d10+55)
@@ -74731,7 +75439,8 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 # Rübezahl
 
-- Source: (LDM p82)
+- Source: (LDM p82)(TOB p80)
+- TOB: Rubezahl
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (17d8+34)
@@ -74781,7 +75490,8 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 
 # Akyishigal, seigneur démon des cafards
 
-- Source: (LDM p84)
+- Source: (LDM p84)(TOB p82)
+- TOB: Akyishigal, Demon Lord of Cockroaches
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 138 (12d10+72)
@@ -74836,7 +75546,8 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 
 # Rejeton D'Akyishigal
 
-- Source: (LDM p85)
+- Source: (LDM p85)(TOB p83)
+- TOB: Spawn of Akyishigal
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 119 (14d8+56)
@@ -74871,7 +75582,8 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 
 # Alquam, seigneur démon de la nuit
 
-- Source: (LDM p86)
+- Source: (LDM p86)(TOB p84)
+- TOB: Alquam, Demon Lord of Night
 -  Fiélon (démon) de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 350 (28d12+168)
@@ -74966,7 +75678,8 @@ Si Alquam meurt, les conditions de la zone qui entoure son antre redeviennent no
 
 # Camazotz, seigneur démon des chauves-souris et du feu
 
-- Source: (LDM p87)
+- Source: (LDM p87)(TOB p85)
+- TOB: Camazotz, Demon Lord of Bats and Fire
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 537 (43d10+301)
@@ -75034,7 +75747,8 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 
 # Chauve-Souris De Peau
 
-- Source: (LDM p89)
+- Source: (LDM p89)(TOB p87)
+- TOB: Skin Bat
 -  Mort-vivant de Petite taille (P), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 14 (4d6)
@@ -75062,7 +75776,8 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 
 # Mechuiti, seigneur démon des grands singes
 
-- Source: (LDM p90)
+- Source: (LDM p90)(TOB p88)
+- TOB: Mechuiti, Demon Lord of Apes
 -  Fiélon (démon) de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 370 (20d20+160)
@@ -75165,7 +75880,8 @@ Si Mechuiti meurt, tous ces effets régionaux prennent fin immédiatement.
 
 # Qorgeth, seigneur démon du ver insatiable
 
-- Source: (LDM p92)
+- Source: (LDM p92)(TOB p90)
+- TOB: Qorgeth, Demon Lord of the Devouring Worm
 -  Fiélon (démon) de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 370 (20d20+160)
@@ -75256,7 +75972,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # Antipaladin Des Ombres Derro
 
-- Source: (LDM p94)
+- Source: (LDM p94)(TOB p93)
+- TOB: Derro Shadow Antipaladin
 -  Humanoïde (derro) de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 18 (cuirasse et bouclier)
 - **Points de vie** 82 (11d6+44)
@@ -75304,7 +76021,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # Savant Fœtal Derro
 
-- Source: (LDM p95)
+- Source: (LDM p95)(TOB p92)
+- TOB: Derro Fetal Savant
 -  Humanoïde de Très Petite taille (TP), chaotique mauvais
 - **Classe d'armure** 15 (cage)
 - **Points de vie** 2 (4d4 - 8)
@@ -75377,7 +76095,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # Arbeyach
 
-- Source: (LDM p98)
+- Source: (LDM p98)(TOB p95)
+- TOB: Arbeyach
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 275 (22d10+154)
@@ -75442,7 +76161,8 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 
 # Rejeton D'Arbeyach
 
-- Source: (LDM p100)
+- Source: (LDM p100)(TOB p97)
+- TOB: Spawn of Arbeyach
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 78 (12d8+24)
@@ -75482,7 +76202,8 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 
 # Ia'Affrat
 
-- Source: (LDM p101)
+- Source: (LDM p101)(TOB p98)
+- TOB: Ia'Affrat
 -  Nuée de Grande taille d'élémentaires de taille Minuscule (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d10+60)
@@ -75531,7 +76252,8 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 
 # Mammon
 
-- Source: (LDM p102)
+- Source: (LDM p102)(TOB p99)
+- TOB: Mammon
 -  Fiélon (diable) de Très Grande taille (TG), loyal mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 378 (28d12+196)
@@ -75620,7 +76342,8 @@ Si Mammon meurt, les conditions de la zone qui entoure son antre redeviennent no
 
 # Totivillus, le Scribe de l'Enfer
 
-- Source: (LDM p104)
+- Source: (LDM p104)(TOB p101)
+- TOB: Totivillus, Scribe of Hell
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 299 (26d8+182)
@@ -75697,7 +76420,8 @@ Totivillus peut faire 3 actions légendaires, parmi celles proposées ci- dessou
 
 # Diable Automate
 
-- Source: (LDM p105)
+- Source: (LDM p105)(TOB p102)
+- TOB: Automata Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
@@ -75747,7 +76471,8 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 
 # Chort
 
-- Source: (LDM p107)
+- Source: (LDM p107)(TOB p104)
+- TOB: Chort Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (15d8+120)
@@ -75794,7 +76519,8 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 
 # Diable Cristallin
 
-- Source: (LDM p108)
+- Source: (LDM p108)(TOB p105)
+- TOB: Crystalline Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -75847,7 +76573,8 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 
 # Diable D'Encre
 
-- Source: (LDM p109)
+- Source: (LDM p109)(TOB p108)
+- TOB: Ink Devil
 -  Fiélon (diable) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d6+12)
@@ -75894,7 +76621,8 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 
 # Diable De Sel
 
-- Source: (LDM p110)
+- Source: (LDM p110)(TOB p113)
+- TOB: Salt Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
@@ -75941,7 +76669,8 @@ Certains diables de sel possèdent une action qui leur permet de convoquer d'aut
 
 # Diable Doré
 
-- Source: (LDM p111)
+- Source: (LDM p111)(TOB p106)
+- TOB: Gilded Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (armure de pièces)
 - **Points de vie** 112 (15d8+45)
@@ -76008,7 +76737,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Koralk (Diable Moissonneur)
 
-- Source: (LDM p112)
+- Source: (LDM p112)(TOB p108)
+- TOB: Koralk (Harvester Devil)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -76048,7 +76778,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Diable Lunaire
 
-- Source: (LDM p114)
+- Source: (LDM p114)(TOB p110)
+- TOB: Lunar Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 94 (9d10+45)
@@ -76105,7 +76836,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Diable Orobas
 
-- Source: (LDM p115)
+- Source: (LDM p115)(TOB p111)
+- TOB: Orobas Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 261 (14d10+126)
@@ -78700,7 +79432,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Empoigneur Arboricole
 
-- Source: (LDM p170)
+- Source: (LDM p170)(TOB p25)
+- TOB: Arboreal Grappler
 -  Aberration de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -78733,7 +79466,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Enfant Des Bruyères
 
-- Source: (LDM p171)
+- Source: (LDM p171)(TOB p56)
+- TOB: Child of the Briar
 -  Plante de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 50 (20d4)
@@ -79921,7 +80655,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Fourmi Géante
 
-- Source: (LDM p199)
+- Source: (LDM p199)(TOB p23)
+- TOB: Giant Ant
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d10+14)
@@ -79951,7 +80686,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Reine Fourmi Géante
 
-- Source: (LDM p199)
+- Source: (LDM p199)(TOB p23)
+- TOB: Giant Ant Queen
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -80967,7 +81703,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # Fièvre du darakhul
 
-Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu’elle n’a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d’une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
+Cette maladie très rare se transmet principalement par les morsures. Elle se manifeste en 24 heures en affaiblissant rapidement sa victime qui doit faire un jet de sauvegarde de Constitution DD 17 après chaque long repos. À chaque échec, elle subit 14 (4d6) dégâts nécrotiques et son maximum de points de vie est réduit du même montant. La victime ne peut pas se débarrasser de cette réduction tant qu'elle n'a pas guéri de la fièvre du darakhul. Une fois rétablie, elle doit bénéficier de restauration supérieure ou d'une magie similaire. La victime guérit de la maladie si elle réussit ses jets de sauvegarde deux jours de suite. Restauration supérieure soigne la maladie tandis que restauration inférieure avantage la victime sur le jet de sauvegarde quotidien de Constitution.
 
 La maladie se répand surtout chez les humains, mais comme elle peut affecter les ogres, elle doit pouvoir toucher les autres géants. Si une créature atteinte de la fièvre du darakhul meurt, lancez 1d20, ajoutez le modificateur de Constitution actuel du personnage et consultez la table des ajustements pour savoir en quel mort-vivant elle se change.
 
@@ -80986,7 +81722,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Gremlin Azza
 
-- Source: (LDM p226)
+- Source: (LDM p226)(TOB p28)
+- TOB: Azza Gremlin
 -  Fée de Petite taille (P), neutre
 - **Classe d'armure** 14
 - **Points de vie** 7 (2d6)
@@ -81826,7 +82563,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Ours
 
-- Source: (LDM p244)
+- Source: (LDM p244)(TOB p33)
+- TOB: Bearfold
 -  Humanoïde (homme-ours) de taille Moyenne (M), chaotique bon
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 45 (6d8+18)
@@ -82710,7 +83448,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Cavalier De Baba Yaga, Base
 
-- Source: (LDM p267)
+- Source: (LDM p267)(TOB p30)
+- TOB: Baba Yaga's Horsemen, Base
 -  Fée de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 20 (harnois et bouclier)
 - **Points de vie** 171 (18d8+90)
@@ -82810,7 +83549,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - **Langues** commun, gobelin, langue du Vide
 - **Dangerosité** 6 (1 800PX)
 
-**_Bond agressif._** Si le likho se déplace d’au moins 6 mètres en ligne droite en direction d’une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
+**_Bond agressif._** Si le likho se déplace d'au moins 6 mètres en ligne droite en direction d'une créature et la touche avec une attaque de griffes au cours du même tour, elle doit réussir un jet de sauvegarde de Force DD 14, sans quoi elle se retrouve à terre. Si la cible est à terre, le likho peut utiliser une action bonus pour faire deux attaques de griffes supplémentaires contre elle.
 
 **_Incantation innée._** Le likho utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -83671,7 +84410,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Abomination Mécanique
 
-- Source: (LDM p290)
+- Source: (LDM p290)(TOB p59)
+- TOB: Clockwork Abomination
 -  Créature artificielle (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 76(8d10+32)
@@ -83714,7 +84454,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Araignée Tisseuse Mécanique
 
-- Source: (LDM p291)
+- Source: (LDM p291)(TOB p66)
+- TOB: Weaving Spider
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 25 (10d4)
@@ -83750,7 +84491,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Chasseur Mécanique
 
-- Source: (LDM p292)
+- Source: (LDM p292)(TOB p63)
+- TOB: Clockwork Huntsman
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 14
 - **Points de vie** 110 (20d8+20)
@@ -83788,7 +84530,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Chien Mécanique
 
-- Source: (LDM p293)
+- Source: (LDM p293)(TOB p62)
+- TOB: Clockwork Hound
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
@@ -83826,7 +84569,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Gendarme Mécanique
 
-- Source: (LDM p294)
+- Source: (LDM p294)(TOB p65)
+- TOB: Clockwork Watchman
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 55 (10d8+10)
@@ -83862,7 +84606,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Myrmidon Mécanique
 
-- Source: (LDM p295)
+- Source: (LDM p295)(TOB p64)
+- TOB: Clockwork Myrmidon
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -83904,7 +84649,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Scarabée Mécanique
 
-- Source: (LDM p296)
+- Source: (LDM p296)(TOB p60)
+- TOB: Clockwork Beetle
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 15 (6d4)
@@ -84395,7 +85141,8 @@ dépassent leurs compétences.
 
 # Montagne De Cadavres
 
-- Source: (LDM p310)
+- Source: (LDM p310)(TOB p69)
+- TOB: Corpse Mound
 -  Mort-vivant de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 207 (18d12+90)
@@ -84469,7 +85216,8 @@ dépassent leurs compétences.
 
 # Mort Follet
 
-- Source: (LDM p312)
+- Source: (LDM p312)(TOB p72)
+- TOB: Deathwisp
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d8+33)
@@ -84510,7 +85258,8 @@ dépassent leurs compétences.
 
 # Mousse Luminescente Des Cavernes
 
-- Source: (LDM p313)
+- Source: (LDM p313)(TOB p53)
+- TOB: Cavelight Moss
 -  Plante de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
@@ -84680,7 +85429,8 @@ dépassent leurs compétences.
 
 # Nécrophore
 
-- Source: (LDM p317)
+- Source: (LDM p317)(TOB p52)
+- TOB: Carrion Beetle
 -  Bête de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -85056,7 +85806,8 @@ dépassent leurs compétences.
 
 # Nuée De Papillons De Mort
 
-- Source: (LDM p327)
+- Source: (LDM p327)(TOB p71)
+- TOB: Death Butterfly Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (11d10)
@@ -85090,7 +85841,8 @@ dépassent leurs compétences.
 
 # Grande Nuée De Papillons De Mort
 
-- Source: (LDM p327)
+- Source: (LDM p327)(TOB p71)
+- TOB: Greater Death Butterfly Swarm
 -  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (13d12)
@@ -85159,7 +85911,8 @@ dépassent leurs compétences.
 
 # Nuée De Scarabées Mécaniques
 
-- Source: (LDM p329)
+- Source: (LDM p329)(TOB p61)
+- TOB: Clockwork Beetle Swarm
 -  Grande nuée de créatures artificielles de Très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (8d10+8)
@@ -85250,7 +86003,8 @@ dépassent leurs compétences.
 
 # Nuée Osseuse
 
-- Source: (LDM p332)
+- Source: (LDM p332)(TOB p41)
+- TOB: Bone Swarm
 -  Nuée de Grande taille de morts-vivants de Très Petite taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 198 (36d10)
@@ -85455,7 +86209,8 @@ dépassent leurs compétences.
 
 # Pavenuée
 
-- Source: (LDM p337)
+- Source: (LDM p337)(TOB p68)
+- TOB: Cobbleswarm
 -  Nuée de Grande taille composée de bêtes de Très Petite taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 36 (8d8)
@@ -85680,7 +86435,8 @@ dépassent leurs compétences.
 
 # Profond
 
-- Source: (LDM p343)
+- Source: (LDM p343)(TOB p73)
+- TOB: Deep One
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 91 (14d8+28)
@@ -85715,7 +86471,8 @@ dépassent leurs compétences.
 
 # Archimandrite Profond
 
-- Source: (LDM p343)
+- Source: (LDM p343)(TOB p74)
+- TOB: Deep One Archimandrite
 -  Humanoïde de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -85765,7 +86522,8 @@ dépassent leurs compétences.
 
 # Prêtre Profond Hybride
 
-- Source: (LDM p344)
+- Source: (LDM p344)(TOB p73)
+- TOB: Deep One Hybrid Priest
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
@@ -87613,7 +88371,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Ukavac
 
-- Source: (LDM p389)
+- Source: (LDM p389)(TOB p47)
+- TOB: Bukavac
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 199 (21d10+84)
@@ -88104,7 +88863,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Ver Pêcheur
 
-- Source: (LDM p400)
+- Source: (LDM p400)(TOB p22)
+- TOB: Angler Worm
 -  Créature monstrueuse de Très Grande taille (TG), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d12+42)

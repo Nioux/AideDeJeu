@@ -4,7 +4,8 @@
 
 # Fourmi Géante
 
-- Source: (LDM p199)
+- Source: (LDM p199)(TOB p23)
+- TOB: Giant Ant
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d10+14)

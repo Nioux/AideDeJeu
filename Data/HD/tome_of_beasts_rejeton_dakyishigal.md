@@ -4,7 +4,8 @@
 
 # Rejeton D'Akyishigal
 
-- Source: (LDM p85)
+- Source: (LDM p85)(TOB p83)
+- TOB: Spawn of Akyishigal
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 119 (14d8+56)

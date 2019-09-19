@@ -4,7 +4,8 @@
 
 # Chronomentaire
 
-- Source: (LDM p62)
+- Source: (LDM p62)(TOB p57)
+- TOB: Chronalmental
 -  Élémentaire de Grande taille (G), non aligné
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 152 (16d10+64)

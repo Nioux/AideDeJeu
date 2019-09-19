@@ -4,7 +4,8 @@
 
 # Crabe Osseux
 
-- Source: (LDM p71)
+- Source: (LDM p71)(TOB p40)
+- TOB: Bone Crab
 -  Bête de Petite taille (P), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 33 (6d6+12)

@@ -4,7 +4,8 @@
 
 # Empoigneur Arboricole
 
-- Source: (LDM p170)
+- Source: (LDM p170)(TOB p25)
+- TOB: Arboreal Grappler
 -  Aberration de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d8+36)

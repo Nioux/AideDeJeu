@@ -4,7 +4,8 @@
 
 # Ala
 
-- Source: (LDM p11)
+- Source: (LDM p13)
+- TOB: Ala
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 127 (15d8+60)

@@ -4,7 +4,8 @@
 
 # Bouda
 
-- Source: (LDM p48)
+- Source: (LDM p48)(TOB p44)
+- TOB: Bouda
 -  Fiélon de taille Moyenne (métamorphe) (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)

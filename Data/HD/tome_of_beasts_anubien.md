@@ -4,7 +4,8 @@
 
 # Anubien
 
-- Source: (LDM p21)
+- Source: (LDM p21)(TOB p24)
+- TOB: Anubian
 -  Élémentaire de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 13
 - **Points de vie** 44 (8d8+8)

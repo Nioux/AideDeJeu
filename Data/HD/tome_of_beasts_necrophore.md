@@ -4,7 +4,8 @@
 
 # Nécrophore
 
-- Source: (LDM p317)
+- Source: (LDM p317)(TOB p52)
+- TOB: Carrion Beetle
 -  Bête de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (15d10+45)

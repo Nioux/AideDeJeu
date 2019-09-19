@@ -4,7 +4,8 @@
 
 # Akyishigal, seigneur démon des cafards
 
-- Source: (LDM p84)
+- Source: (LDM p84)(TOB p82)
+- TOB: Akyishigal, Demon Lord of Cockroaches
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 138 (12d10+72)

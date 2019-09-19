@@ -4,7 +4,8 @@
 
 # Chasseur Mécanique
 
-- Source: (LDM p292)
+- Source: (LDM p292)(TOB p63)
+- TOB: Clockwork Huntsman
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 14
 - **Points de vie** 110 (20d8+20)

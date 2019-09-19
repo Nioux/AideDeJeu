@@ -4,7 +4,8 @@
 
 # Couveteux
 
-- Source: (LDM p69)
+- Source: (LDM p69)(TOB p45)
+- TOB: Broodiken
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 55 (10d4+30)
 - **Vitesse** 6m, escalade 6m

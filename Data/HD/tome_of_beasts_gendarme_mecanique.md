@@ -4,7 +4,8 @@
 
 # Gendarme Mécanique
 
-- Source: (LDM p294)
+- Source: (LDM p294)(TOB p65)
+- TOB: Clockwork Watchman
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 55 (10d8+10)

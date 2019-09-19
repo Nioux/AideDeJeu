@@ -4,7 +4,8 @@
 
 # Cambium
 
-- Source: (LDM p52)
+- Source: (LDM p52)(TOB p51)
+- TOB: Cambium
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 264 (23d10+138)

@@ -4,7 +4,8 @@
 
 # Dau
 
-- Source: (LDM p74)
+- Source: (LDM p74)(TOB p70)
+- TOB: Dau
 -  Fée de Petite taille (P), chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 49 (9d6+18)

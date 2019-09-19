@@ -4,7 +4,8 @@
 
 # Béreginyas
 
-- Source: (LDM p40)
+- Source: (LDM p40)(TOB p36)
+- TOB: Bereginyas
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 70 (20d4+20)

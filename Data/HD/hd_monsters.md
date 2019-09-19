@@ -12,6 +12,7 @@ SubItems:
   Family: MonsterHD
   Name: Aboleth
   Source: (CEO p)(SRD p)
+  AltName: '[Aboleth](srd_monsters_aboleth.md)'
   Type: Aberration
   Size: G
   Alignment: Loyal Mauvais
@@ -34,7 +35,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Aboleth](srd_monsters_aboleth.md)'
   AttributesDictionary: >+
     Name: Aboleth
 
@@ -490,6 +490,7 @@ SubItems:
   Family: MonsterHD
   Name: Âme-en-peine
   Source: (CEO p)(SRD p)
+  AltName: '[Wraith](srd_monsters_wraith.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
@@ -513,7 +514,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Wraith](srd_monsters_wraith.md)'
   AttributesDictionary: >+
     Name: Âme-en-peine
 
@@ -869,6 +869,7 @@ SubItems:
   Family: MonsterHD
   Name: Déva
   Source: (CEO p)(SRD p)
+  AltName: '[Deva](srd_monsters_deva.md)'
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
@@ -892,7 +893,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Deva](srd_monsters_deva.md)'
   AttributesDictionary: >+
     Name: Déva
 
@@ -1100,6 +1100,7 @@ SubItems:
   Family: MonsterHD
   Name: Planétar
   Source: (CEO p)(SRD p)
+  AltName: '[Planetar](srd_monsters_planetar.md)'
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
@@ -1123,7 +1124,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Planetar](srd_monsters_planetar.md)'
   AttributesDictionary: >+
     Name: Planétar
 
@@ -1331,6 +1331,7 @@ SubItems:
   Family: MonsterHD
   Name: Solar
   Source: (CEO p)(SRD p)
+  AltName: '[Solar](srd_monsters_solar.md)'
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
@@ -1355,7 +1356,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Solar](srd_monsters_solar.md)'
   AttributesDictionary: >+
     Name: Solar
 
@@ -1623,6 +1623,7 @@ SubItems:
   Family: MonsterHD
   Name: Ankheg
   Source: (CEO p)(SRD p)
+  AltName: '[Ankheg](srd_monsters_ankheg.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -1643,7 +1644,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ankheg](srd_monsters_ankheg.md)'
   AttributesDictionary: >+
     Name: Ankheg
 
@@ -1775,6 +1775,7 @@ SubItems:
   Family: MonsterHD
   Name: Azer
   Source: (CEO p)(SRD p)
+  AltName: '[Azer](srd_monsters_azer.md)'
   Type: Élémentaire
   Size: M
   Alignment: Loyal Neutre
@@ -1798,7 +1799,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Azer](srd_monsters_azer.md)'
   AttributesDictionary: >+
     Name: Azer
 
@@ -1966,6 +1966,7 @@ SubItems:
   Family: MonsterHD
   Name: Babélien
   Source: (CEO p)(SRD p)
+  AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
   Type: Aberration
   Size: M
   Alignment: neutre
@@ -1987,7 +1988,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gibbering Mouther](srd_monsters_gibbering_mouther.md)'
   AttributesDictionary: >+
     Name: Babélien
 
@@ -2149,6 +2149,7 @@ SubItems:
   Family: MonsterHD
   Name: Basilic
   Source: (CEO p)(SRD p)
+  AltName: '[Basilisk](srd_monsters_basilisk.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: non-alignée
@@ -2169,7 +2170,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Basilisk](srd_monsters_basilisk.md)'
   AttributesDictionary: >+
     Name: Basilic
 
@@ -2331,6 +2331,7 @@ SubItems:
   Family: MonsterHD
   Name: Béhir
   Source: (CEO p)(SRD p)
+  AltName: '[Behir](srd_monsters_behir.md)'
   Type: Créature monstrueuse
   Size: TG
   Alignment: Neutre Mauvais
@@ -2353,7 +2354,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Behir](srd_monsters_behir.md)'
   AttributesDictionary: >+
     Name: Béhir
 
@@ -2527,6 +2527,7 @@ SubItems:
   Family: MonsterHD
   Name: Bulette
   Source: (CEO p)(SRD p)
+  AltName: '[Bulette](srd_monsters_bulette.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -2548,7 +2549,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bulette](srd_monsters_bulette.md)'
   AttributesDictionary: >+
     Name: Bulette
 
@@ -2704,6 +2704,7 @@ SubItems:
   Family: MonsterHD
   Name: Centaure
   Source: (CEO p)(SRD p)
+  AltName: '[Centaur](srd_monsters_centaur.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Bon
@@ -2725,7 +2726,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Centaur](srd_monsters_centaur.md)'
   AttributesDictionary: >+
     Name: Centaure
 
@@ -3083,6 +3083,7 @@ SubItems:
   Family: MonsterHD
   Name: Criard
   Source: (CEO p)(SRD p)
+  AltName: '[Shrieker](srd_monsters_shrieker.md)'
   Type: Plante
   Size: M
   Alignment: non-alignée
@@ -3104,7 +3105,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Shrieker](srd_monsters_shrieker.md)'
   AttributesDictionary: >+
     Name: Criard
 
@@ -3242,6 +3242,7 @@ SubItems:
   Family: MonsterHD
   Name: Moisissure violette
   Source: (CEO p)(SRD p)
+  AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
   Type: Plante
   Size: M
   Alignment: non-alignée
@@ -3263,7 +3264,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Violet Fungus](srd_monsters_violet_fungus.md)'
   AttributesDictionary: >+
     Name: Moisissure violette
 
@@ -3413,6 +3413,7 @@ SubItems:
   Family: MonsterHD
   Name: Chimère
   Source: (CEO p)(SRD p)
+  AltName: '[Chimera](srd_monsters_chimera.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
@@ -3434,7 +3435,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Chimera](srd_monsters_chimera.md)'
   AttributesDictionary: >+
     Name: Chimère
 
@@ -3602,6 +3602,7 @@ SubItems:
   Family: MonsterHD
   Name: Chuul
   Source: (CEO p)(SRD p)
+  AltName: '[Chuul](srd_monsters_chuul.md)'
   Type: Aberration
   Size: G
   Alignment: Chaotique Mauvais
@@ -3625,7 +3626,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Chuul](srd_monsters_chuul.md)'
   AttributesDictionary: >+
     Name: Chuul
 
@@ -3805,6 +3805,7 @@ SubItems:
   Family: MonsterHD
   Name: Cockatrice
   Source: (CEO p)(SRD p)
+  AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
@@ -3825,7 +3826,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Cockatrice](srd_monsters_cockatrice.md)'
   AttributesDictionary: >+
     Name: Cockatrice
 
@@ -3951,6 +3951,7 @@ SubItems:
   Family: MonsterHD
   Name: Couatl
   Source: (CEO p)(SRD p)
+  AltName: '[Couatl](srd_monsters_couatl.md)'
   Type: Céleste
   Size: M
   Alignment: Loyal Bon
@@ -3974,7 +3975,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Couatl](srd_monsters_couatl.md)'
   AttributesDictionary: >+
     Name: Couatl
 
@@ -4382,6 +4382,7 @@ SubItems:
   Family: MonsterHD
   Name: Balor
   Source: (CEO p)(SRD p)
+  AltName: '[Balor](srd_monsters_balor.md)'
   Type: Fiélon (démon)
   Size: TG
   Alignment: Chaotique Mauvais
@@ -4405,7 +4406,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Balor](srd_monsters_balor.md)'
   AttributesDictionary: >+
     Name: Balor
 
@@ -4607,6 +4607,7 @@ SubItems:
   Family: MonsterHD
   Name: Dretch
   Source: (CEO p)(SRD p)
+  AltName: '[Dretch](srd_monsters_dretch.md)'
   Type: Fiélon (démon)
   Size: P
   Alignment: Chaotique Mauvais
@@ -4629,7 +4630,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Dretch](srd_monsters_dretch.md)'
   AttributesDictionary: >+
     Name: Dretch
 
@@ -4795,6 +4795,7 @@ SubItems:
   Family: MonsterHD
   Name: Glabrezu
   Source: (CEO p)(SRD p)
+  AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
@@ -4818,7 +4819,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Glabrezu](srd_monsters_glabrezu.md)'
   AttributesDictionary: >+
     Name: Glabrezu
 
@@ -5014,6 +5014,7 @@ SubItems:
   Family: MonsterHD
   Name: Hezrou
   Source: (CEO p)(SRD p)
+  AltName: '[Hezrou](srd_monsters_hezrou.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
@@ -5037,7 +5038,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hezrou](srd_monsters_hezrou.md)'
   AttributesDictionary: >+
     Name: Hezrou
 
@@ -5227,6 +5227,7 @@ SubItems:
   Family: MonsterHD
   Name: Marilith
   Source: (CEO p)(SRD p)
+  AltName: '[Marilith](srd_monsters_marilith.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
@@ -5250,7 +5251,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Marilith](srd_monsters_marilith.md)'
   AttributesDictionary: >+
     Name: Marilith
 
@@ -5464,6 +5464,7 @@ SubItems:
   Family: MonsterHD
   Name: Nalfeshnie
   Source: (CEO p)(SRD p)
+  AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
@@ -5487,7 +5488,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Nalfeshnee](srd_monsters_nalfeshnee.md)'
   AttributesDictionary: >+
     Name: Nalfeshnie
 
@@ -5689,6 +5689,7 @@ SubItems:
   Family: MonsterHD
   Name: Quasit
   Source: (CEO p)(SRD p)
+  AltName: '[Quasit](srd_monsters_quasit.md)'
   Type: Fiélon (démon, métamorphe)
   Size: TP
   Alignment: Chaotique Mauvais
@@ -5712,7 +5713,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Quasit](srd_monsters_quasit.md)'
   AttributesDictionary: >+
     Name: Quasit
 
@@ -5902,6 +5902,7 @@ SubItems:
   Family: MonsterHD
   Name: Vrock
   Source: (CEO p)(SRD p)
+  AltName: '[Vrock](srd_monsters_vrock.md)'
   Type: Fiélon (démon)
   Size: G
   Alignment: Chaotique Mauvais
@@ -5925,7 +5926,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Vrock](srd_monsters_vrock.md)'
   AttributesDictionary: >+
     Name: Vrock
 
@@ -6121,6 +6121,7 @@ SubItems:
   Family: MonsterHD
   Name: Destrier noir
   Source: (CEO p)(SRD p)
+  AltName: '[Nightmare](srd_monsters_nightmare.md)'
   Type: Fiélon
   Size: G
   Alignment: Neutre Mauvais
@@ -6141,7 +6142,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Nightmare](srd_monsters_nightmare.md)'
   AttributesDictionary: >+
     Name: Destrier noir
 
@@ -6586,6 +6586,7 @@ SubItems:
   Family: MonsterHD
   Name: Diable barbelé
   Source: (CEO p)(SRD p)
+  AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
@@ -6610,7 +6611,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Barbed Devil](srd_monsters_barbed_devil.md)'
   AttributesDictionary: >+
     Name: Diable barbelé
 
@@ -6818,6 +6818,7 @@ SubItems:
   Family: MonsterHD
   Name: Diable barbu
   Source: (CEO p)(SRD p)
+  AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
@@ -6841,7 +6842,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bearded Devil](srd_monsters_bearded_devil.md)'
   AttributesDictionary: >+
     Name: Diable barbu
 
@@ -7031,6 +7031,7 @@ SubItems:
   Family: MonsterHD
   Name: Diable cornu
   Source: (CEO p)(SRD p)
+  AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
@@ -7054,7 +7055,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Horned Devil](srd_monsters_horned_devil.md)'
   AttributesDictionary: >+
     Name: Diable cornu
 
@@ -7250,6 +7250,7 @@ SubItems:
   Family: MonsterHD
   Name: Diable gelé
   Source: (CEO p)(SRD p)
+  AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
@@ -7273,7 +7274,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ice Devil](srd_monsters_ice_devil.md)'
   AttributesDictionary: >+
     Name: Diable gelé
 
@@ -7511,6 +7511,7 @@ SubItems:
   Family: MonsterHD
   Name: Diable des chaînes
   Source: (CEO p)(SRD p)
+  AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
@@ -7534,7 +7535,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Chain Devil](srd_monsters_chain_devil.md)'
   AttributesDictionary: >+
     Name: Diable des chaînes
 
@@ -7736,6 +7736,7 @@ SubItems:
   Family: MonsterHD
   Name: Diable osseux
   Source: (CEO p)(SRD p)
+  AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
@@ -7760,7 +7761,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bone Devil](srd_monsters_bone_devil.md)'
   AttributesDictionary: >+
     Name: Diable osseux
 
@@ -7950,6 +7950,7 @@ SubItems:
   Family: MonsterHD
   Name: Diablotin
   Source: (CEO p)(SRD p)
+  AltName: '[Imp](srd_monsters_imp.md)'
   Type: Fiélon (diable, métamorphe)
   Size: TP
   Alignment: Loyal Mauvais
@@ -7973,7 +7974,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Imp](srd_monsters_imp.md)'
   AttributesDictionary: >+
     Name: Diablotin
 
@@ -8157,6 +8157,7 @@ SubItems:
   Family: MonsterHD
   Name: Diantrefosse
   Source: (CEO p)(SRD p)
+  AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
   Type: Fiélon (diable)
   Size: G
   Alignment: Loyal Mauvais
@@ -8180,7 +8181,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Pit Fiend](srd_monsters_pit_fiend.md)'
   AttributesDictionary: >+
     Name: Diantrefosse
 
@@ -8412,6 +8412,7 @@ SubItems:
   Family: MonsterHD
   Name: Érinye
   Source: (CEO p)(SRD p)
+  AltName: '[Erinyes](srd_monsters_erinyes.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
@@ -8435,7 +8436,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Erinyes](srd_monsters_erinyes.md)'
   AttributesDictionary: >+
     Name: Érinye
 
@@ -8631,6 +8631,7 @@ SubItems:
   Family: MonsterHD
   Name: Lémure
   Source: (CEO p)(SRD p)
+  AltName: '[Lemure](srd_monsters_lemure.md)'
   Type: Fiélon (diable)
   Size: M
   Alignment: Loyal Mauvais
@@ -8653,7 +8654,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Lemure](srd_monsters_lemure.md)'
   AttributesDictionary: >+
     Name: Lémure
 
@@ -9004,6 +9004,7 @@ SubItems:
   Family: MonsterHD
   Name: Plésiosaure
   Source: (CEO p)(SRD p)
+  AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -9025,7 +9026,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Plesiosaurus](srd_monsters_plesiosaurus.md)'
   AttributesDictionary: >+
     Name: Plésiosaure
 
@@ -9169,6 +9169,7 @@ SubItems:
   Family: MonsterHD
   Name: Tricératops
   Source: (CEO p)(SRD p)
+  AltName: '[Triceratops](srd_monsters_triceratops.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -9189,7 +9190,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Triceratops](srd_monsters_triceratops.md)'
   AttributesDictionary: >+
     Name: Tricératops
 
@@ -9339,6 +9339,7 @@ SubItems:
   Family: MonsterHD
   Name: Tyrannosaure
   Source: (CEO p)(SRD p)
+  AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -9360,7 +9361,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)'
   AttributesDictionary: >+
     Name: Tyrannosaure
 
@@ -9510,6 +9510,7 @@ SubItems:
   Family: MonsterHD
   Name: Doppleganger
   Source: (CEO p)(SRD p)
+  AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
   Type: Créature monstrueuse (métamorphe)
   Size: M
   Alignment: neutre
@@ -9532,7 +9533,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Doppelganger](srd_monsters_doppelganger.md)'
   AttributesDictionary: >+
     Name: Doppleganger
 
@@ -9712,6 +9712,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon blanc vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
@@ -9735,7 +9736,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon blanc vénérable
 
@@ -9969,6 +9969,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon blanc adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
@@ -9992,7 +9993,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult White Dragon](srd_monsters_adult_white_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon blanc adulte
 
@@ -10226,6 +10226,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon blanc
   Source: (CEO p)(SRD p)
+  AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
@@ -10249,7 +10250,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young White Dragon](srd_monsters_young_white_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon blanc
 
@@ -10429,6 +10429,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet blanc
   Source: (CEO p)(SRD p)
+  AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
@@ -10452,7 +10453,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet blanc
 
@@ -10602,6 +10602,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon bleu vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Mauvais
@@ -10625,7 +10626,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon bleu vénérable
 
@@ -10853,6 +10853,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon bleu adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Mauvais
@@ -10876,7 +10877,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon bleu adulte
 
@@ -11104,6 +11104,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon bleu
   Source: (CEO p)(SRD p)
+  AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Mauvais
@@ -11127,7 +11128,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Blue Dragon](srd_monsters_young_blue_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon bleu
 
@@ -11295,6 +11295,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet bleu
   Source: (CEO p)(SRD p)
+  AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Mauvais
@@ -11318,7 +11319,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet bleu
 
@@ -11468,6 +11468,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon noir vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
@@ -11491,7 +11492,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon noir vénérable
 
@@ -11719,6 +11719,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon noir adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
@@ -11742,7 +11743,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Black Dragon](srd_monsters_adult_black_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon noir adulte
 
@@ -11976,6 +11976,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon noir
   Source: (CEO p)(SRD p)
+  AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
@@ -11999,7 +12000,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Black Dragon](srd_monsters_young_black_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon noir
 
@@ -12179,6 +12179,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet noir
   Source: (CEO p)(SRD p)
+  AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
@@ -12202,7 +12203,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet noir
 
@@ -12364,6 +12364,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon rouge vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Mauvais
@@ -12387,7 +12388,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon rouge vénérable
 
@@ -12615,6 +12615,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon rouge adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Mauvais
@@ -12638,7 +12639,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Red Dragon](srd_monsters_adult_red_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon rouge adulte
 
@@ -12866,6 +12866,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon rouge
   Source: (CEO p)(SRD p)
+  AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Mauvais
@@ -12889,7 +12890,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Red Dragon](srd_monsters_young_red_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon rouge
 
@@ -13057,6 +13057,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet rouge
   Source: (CEO p)(SRD p)
+  AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Mauvais
@@ -13080,7 +13081,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet rouge
 
@@ -13230,6 +13230,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon vert vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Mauvais
@@ -13254,7 +13255,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon vert vénérable
 
@@ -13500,6 +13500,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon vert adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Mauvais
@@ -13524,7 +13525,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Green Dragon](srd_monsters_adult_green_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon vert adulte
 
@@ -13764,6 +13764,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon vert
   Source: (CEO p)(SRD p)
+  AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Mauvais
@@ -13788,7 +13789,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Green Dragon](srd_monsters_young_green_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon vert
 
@@ -13974,6 +13974,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet vert
   Source: (CEO p)(SRD p)
+  AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Mauvais
@@ -13998,7 +13999,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet vert
 
@@ -14166,6 +14166,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'airain vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Bon
@@ -14189,7 +14190,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'airain vénérable
 
@@ -14447,6 +14447,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'airain adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Bon
@@ -14470,7 +14471,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'airain adulte
 
@@ -14710,6 +14710,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon d'airain
   Source: (CEO p)(SRD p)
+  AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Bon
@@ -14733,7 +14734,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Brass Dragon](srd_monsters_young_brass_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon d'airain
 
@@ -14913,6 +14913,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet d'airain
   Source: (CEO p)(SRD p)
+  AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Bon
@@ -14936,7 +14937,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet d'airain
 
@@ -15098,6 +15098,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'argent vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
@@ -15121,7 +15122,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'argent vénérable
 
@@ -15373,6 +15373,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'argent adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
@@ -15396,7 +15397,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'argent adulte
 
@@ -15654,6 +15654,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon d'argent
   Source: (CEO p)(SRD p)
+  AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
@@ -15677,7 +15678,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Silver Dragon](srd_monsters_young_silver_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon d'argent
 
@@ -15857,6 +15857,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet d'argent
   Source: (CEO p)(SRD p)
+  AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
@@ -15880,7 +15881,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet d'argent
 
@@ -16042,6 +16042,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de bronze vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
@@ -16065,7 +16066,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de bronze vénérable
 
@@ -16323,6 +16323,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de bronze adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
@@ -16346,7 +16347,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de bronze adulte
 
@@ -16610,6 +16610,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon de bronze
   Source: (CEO p)(SRD p)
+  AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
@@ -16633,7 +16634,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon de bronze
 
@@ -16825,6 +16825,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet de bronze
   Source: (CEO p)(SRD p)
+  AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
@@ -16848,7 +16849,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet de bronze
 
@@ -17022,6 +17022,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de cuivre vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Chaotique Bon
@@ -17045,7 +17046,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de cuivre vénérable
 
@@ -17309,6 +17309,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon de cuivre adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Chaotique Bon
@@ -17332,7 +17333,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon de cuivre adulte
 
@@ -17578,6 +17578,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon de cuivre
   Source: (CEO p)(SRD p)
+  AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Chaotique Bon
@@ -17601,7 +17602,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Copper Dragon](srd_monsters_young_copper_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon de cuivre
 
@@ -17793,6 +17793,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet de cuivre
   Source: (CEO p)(SRD p)
+  AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Chaotique Bon
@@ -17816,7 +17817,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet de cuivre
 
@@ -17978,6 +17978,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'or vénérable
   Source: (CEO p)(SRD p)
+  AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
   Type: Dragon
   Size: Gig
   Alignment: Loyal Bon
@@ -18000,7 +18001,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'or vénérable
 
@@ -18256,6 +18256,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon d'or adulte
   Source: (CEO p)(SRD p)
+  AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
   Type: Dragon
   Size: TG
   Alignment: Loyal Bon
@@ -18278,7 +18279,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)'
   AttributesDictionary: >+
     Name: Dragon d'or adulte
 
@@ -18540,6 +18540,7 @@ SubItems:
   Family: MonsterHD
   Name: Jeune dragon d'or
   Source: (CEO p)(SRD p)
+  AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
   Type: Dragon
   Size: G
   Alignment: Loyal Bon
@@ -18562,7 +18563,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Young Gold Dragon](srd_monsters_young_gold_dragon.md)'
   AttributesDictionary: >+
     Name: Jeune dragon d'or
 
@@ -18752,6 +18752,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragonnet d'or
   Source: (CEO p)(SRD p)
+  AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
   Type: Dragon
   Size: M
   Alignment: Loyal Bon
@@ -18774,7 +18775,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)'
   AttributesDictionary: >+
     Name: Dragonnet d'or
 
@@ -18946,6 +18946,7 @@ SubItems:
   Family: MonsterHD
   Name: Dragon-tortue
   Source: (CEO p)(SRD p)
+  AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
   Type: Dragon
   Size: Gig
   Alignment: neutre
@@ -18968,7 +18969,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Dragon Turtle](srd_monsters_dragon_turtle.md)'
   AttributesDictionary: >+
     Name: Dragon-tortue
 
@@ -19347,6 +19347,7 @@ SubItems:
   Family: MonsterHD
   Name: Drider
   Source: (CEO p)(SRD p)
+  AltName: '[Drider](srd_monsters_drider.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
@@ -19368,7 +19369,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Drider](srd_monsters_drider.md)'
   AttributesDictionary: >+
     Name: Drider
 
@@ -19578,6 +19578,7 @@ SubItems:
   Family: MonsterHD
   Name: Drow
   Source: (CEO p)(SRD p)
+  AltName: '[Drow](srd_monsters_drow.md)'
   Type: Humanoïde (elfe)
   Size: M
   Alignment: Neutre Mauvais
@@ -19599,7 +19600,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Drow](srd_monsters_drow.md)'
   AttributesDictionary: >+
     Name: Drow
 
@@ -20054,6 +20054,7 @@ SubItems:
   Family: MonsterHD
   Name: Dryade
   Source: (CEO p)(SRD p)
+  AltName: '[Dryad](srd_monsters_dryad.md)'
   Type: Fée
   Size: M
   Alignment: neutre
@@ -20075,7 +20076,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Dryad](srd_monsters_dryad.md)'
   AttributesDictionary: >+
     Name: Dryade
 
@@ -20273,6 +20273,7 @@ SubItems:
   Family: MonsterHD
   Name: Duergar
   Source: (CEO p)(SRD p)
+  AltName: '[Duergar](srd_monsters_duergar.md)'
   Type: Humanoïde (nain)
   Size: M
   Alignment: Loyal Mauvais
@@ -20294,7 +20295,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Duergar](srd_monsters_duergar.md)'
   AttributesDictionary: >+
     Name: Duergar
 
@@ -20474,6 +20474,7 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire de l'air
   Source: (CEO p)(SRD p)
+  AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -20497,7 +20498,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Air Elemental](srd_monsters_air_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire de l'air
 
@@ -20677,6 +20677,7 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire de l'eau
   Source: (CEO p)(SRD p)
+  AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -20700,7 +20701,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Water Elemental](srd_monsters_water_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire de l'eau
 
@@ -20880,6 +20880,7 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire du feu
   Source: (CEO p)(SRD p)
+  AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -20903,7 +20904,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Fire Elemental](srd_monsters_fire_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire du feu
 
@@ -21077,6 +21077,7 @@ SubItems:
   Family: MonsterHD
   Name: Élémentaire de la terre
   Source: (CEO p)(SRD p)
+  AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -21101,7 +21102,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Earth Elemental](srd_monsters_earth_elemental.md)'
   AttributesDictionary: >+
     Name: Élémentaire de la terre
 
@@ -21275,6 +21275,7 @@ SubItems:
   Family: MonsterHD
   Name: Enlaceur
   Source: (CEO p)(SRD p)
+  AltName: '[Roper](srd_monsters_roper.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
@@ -21296,7 +21297,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Roper](srd_monsters_roper.md)'
   AttributesDictionary: >+
     Name: Enlaceur
 
@@ -21482,6 +21482,7 @@ SubItems:
   Family: MonsterHD
   Name: Esprit follet
   Source: (CEO p)(SRD p)
+  AltName: '[Sprite](srd_monsters_sprite.md)'
   Type: Fée
   Size: TP
   Alignment: Neutre Bonne
@@ -21503,7 +21504,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Sprite](srd_monsters_sprite.md)'
   AttributesDictionary: >+
     Name: Esprit follet
 
@@ -21659,6 +21659,7 @@ SubItems:
   Family: MonsterHD
   Name: Ettercap
   Source: (CEO p)(SRD p)
+  AltName: '[Ettercap](srd_monsters_ettercap.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -21680,7 +21681,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ettercap](srd_monsters_ettercap.md)'
   AttributesDictionary: >+
     Name: Ettercap
 
@@ -21866,6 +21866,7 @@ SubItems:
   Family: MonsterHD
   Name: Ettin
   Source: (CEO p)(SRD p)
+  AltName: '[Ettin](srd_monsters_ettin.md)'
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
@@ -21887,7 +21888,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ettin](srd_monsters_ettin.md)'
   AttributesDictionary: >+
     Name: Ettin
 
@@ -22055,6 +22055,7 @@ SubItems:
   Family: MonsterHD
   Name: Fantôme
   Source: (CEO p)(SRD p)
+  AltName: '[Ghost](srd_monsters_ghost.md)'
   Type: Mort-vivant
   Size: M
   Alignment: n'importe quel alignement
@@ -22078,7 +22079,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ghost](srd_monsters_ghost.md)'
   AttributesDictionary: >+
     Name: Fantôme
 
@@ -22270,6 +22270,7 @@ SubItems:
   Family: MonsterHD
   Name: Feu follet
   Source: (CEO p)(SRD p)
+  AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
   Type: Mort-vivant
   Size: TP
   Alignment: Chaotique Mauvais
@@ -22293,7 +22294,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: "[Will-o'-Wisp](srd_monsters_will_o_wisp.md)"
   AttributesDictionary: >+
     Name: Feu follet
 
@@ -22473,6 +22473,7 @@ SubItems:
   Family: MonsterHD
   Name: Garde animé
   Source: (CEO p)(SRD p)
+  AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -22495,7 +22496,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Shield Guardian](srd_monsters_shield_guardian.md)'
   AttributesDictionary: >+
     Name: Garde animé
 
@@ -22675,6 +22675,7 @@ SubItems:
   Family: MonsterHD
   Name: Gargouille
   Source: (CEO p)(SRD p)
+  AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
   Type: Élémentaire
   Size: M
   Alignment: Chaotique Mauvais
@@ -22698,7 +22699,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gargoyle](srd_monsters_gargoyle.md)'
   AttributesDictionary: >+
     Name: Gargouille
 
@@ -22872,6 +22872,7 @@ SubItems:
   Family: MonsterHD
   Name: Géant des collines
   Source: (CEO p)(SRD p)
+  AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Chaotique Mauvais
@@ -22893,7 +22894,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hill Giant](srd_monsters_hill_giant.md)'
   AttributesDictionary: >+
     Name: Géant des collines
 
@@ -23043,6 +23043,7 @@ SubItems:
   Family: MonsterHD
   Name: Géant des nuages
   Source: (CEO p)(SRD p)
+  AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Neutre Bon (50 %) ou Neutre Mauvais (50 %)
@@ -23065,7 +23066,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Cloud Giant](srd_monsters_cloud_giant.md)'
   AttributesDictionary: >+
     Name: Géant des nuages
 
@@ -23257,6 +23257,7 @@ SubItems:
   Family: MonsterHD
   Name: Géant des pierres
   Source: (CEO p)(SRD p)
+  AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
   Type: Géant
   Size: TG
   Alignment: neutre
@@ -23279,7 +23280,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Stone Giant](srd_monsters_stone_giant.md)'
   AttributesDictionary: >+
     Name: Géant des pierres
 
@@ -23447,6 +23447,7 @@ SubItems:
   Family: MonsterHD
   Name: Géant des tempêtes
   Source: (CEO p)(SRD p)
+  AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Chaotique Bon
@@ -23471,7 +23472,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Storm Giant](srd_monsters_storm_giant.md)'
   AttributesDictionary: >+
     Name: Géant des tempêtes
 
@@ -23675,6 +23675,7 @@ SubItems:
   Family: MonsterHD
   Name: Géant du feu
   Source: (CEO p)(SRD p)
+  AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Loyal Mauvais
@@ -23698,7 +23699,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Fire Giant](srd_monsters_fire_giant.md)'
   AttributesDictionary: >+
     Name: Géant du feu
 
@@ -23860,6 +23860,7 @@ SubItems:
   Family: MonsterHD
   Name: Géant du givre
   Source: (CEO p)(SRD p)
+  AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
   Type: Géant
   Size: TG
   Alignment: Neutre Mauvais
@@ -23883,7 +23884,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Frost Giant](srd_monsters_frost_giant.md)'
   AttributesDictionary: >+
     Name: Géant du givre
 
@@ -24045,6 +24045,7 @@ SubItems:
   Family: MonsterHD
   Name: Djinn
   Source: (CEO p)(SRD p)
+  AltName: '[Djinni](srd_monsters_djinni.md)'
   Type: Élémentaire
   Size: G
   Alignment: Chaotique Bon
@@ -24067,7 +24068,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Djinni](srd_monsters_djinni.md)'
   AttributesDictionary: >+
     Name: Djinn
 
@@ -24265,6 +24265,7 @@ SubItems:
   Family: MonsterHD
   Name: Éfrit
   Source: (CEO p)(SRD p)
+  AltName: '[Efreeti](srd_monsters_efreeti.md)'
   Type: Élémentaire
   Size: G
   Alignment: Loyal Mauvais
@@ -24287,7 +24288,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Efreeti](srd_monsters_efreeti.md)'
   AttributesDictionary: >+
     Name: Éfrit
 
@@ -24479,6 +24479,7 @@ SubItems:
   Family: MonsterHD
   Name: Gnoll
   Source: (CEO p)(SRD p)
+  AltName: '[Gnoll](srd_monsters_gnoll.md)'
   Type: Humanoïde (gnoll)
   Size: M
   Alignment: Chaotique Mauvais
@@ -24499,7 +24500,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gnoll](srd_monsters_gnoll.md)'
   AttributesDictionary: >+
     Name: Gnoll
 
@@ -24845,6 +24845,7 @@ SubItems:
   Family: MonsterHD
   Name: Gnome des profondeurs (svirfneblin)
   Source: (CEO p)(SRD p)
+  AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
   Type: Humanoïde (gnome)
   Size: P
   Alignment: Neutre Bon
@@ -24866,7 +24867,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)'
   AttributesDictionary: >+
     Name: Gnome des profondeurs (svirfneblin)
 
@@ -25046,6 +25046,7 @@ SubItems:
   Family: MonsterHD
   Name: Gobelin
   Source: (CEO p)(SRD p)
+  AltName: '[Goblin](srd_monsters_goblin.md)'
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: Neutre Mauvais
@@ -25067,7 +25068,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Goblin](srd_monsters_goblin.md)'
   AttributesDictionary: >+
     Name: Gobelin
 
@@ -25837,6 +25837,7 @@ SubItems:
   Family: MonsterHD
   Name: Gobelours
   Source: (CEO p)(SRD p)
+  AltName: '[Bugbear](srd_monsters_bugbear.md)'
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Chaotique Mauvais
@@ -25858,7 +25859,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bugbear](srd_monsters_bugbear.md)'
   AttributesDictionary: >+
     Name: Gobelours
 
@@ -26222,6 +26222,7 @@ SubItems:
   Family: MonsterHD
   Name: Golem d'argile
   Source: (CEO p)(SRD p)
+  AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -26244,7 +26245,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Clay Golem](srd_monsters_clay_golem.md)'
   AttributesDictionary: >+
     Name: Golem d'argile
 
@@ -26442,6 +26442,7 @@ SubItems:
   Family: MonsterHD
   Name: Golem de chair
   Source: (CEO p)(SRD p)
+  AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
   Type: Créature artificielle
   Size: M
   Alignment: neutre
@@ -26464,7 +26465,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Flesh Golem](srd_monsters_flesh_golem.md)'
   AttributesDictionary: >+
     Name: Golem de chair
 
@@ -26680,6 +26680,7 @@ SubItems:
   Family: MonsterHD
   Name: Golem de fer
   Source: (CEO p)(SRD p)
+  AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -26702,7 +26703,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Iron Golem](srd_monsters_iron_golem.md)'
   AttributesDictionary: >+
     Name: Golem de fer
 
@@ -26894,6 +26894,7 @@ SubItems:
   Family: MonsterHD
   Name: Golem de pierre
   Source: (CEO p)(SRD p)
+  AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -26916,7 +26917,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Stone Golem](srd_monsters_stone_golem.md)'
   AttributesDictionary: >+
     Name: Golem de pierre
 
@@ -27090,6 +27090,7 @@ SubItems:
   Family: MonsterHD
   Name: Gorgone
   Source: (CEO p)(SRD p)
+  AltName: '[Gorgon](srd_monsters_gorgon.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -27112,7 +27113,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gorgon](srd_monsters_gorgon.md)'
   AttributesDictionary: >+
     Name: Gorgone
 
@@ -27286,6 +27286,7 @@ SubItems:
   Family: MonsterHD
   Name: Goule
   Source: (CEO p)(SRD p)
+  AltName: '[Ghoul](srd_monsters_ghoul.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
@@ -27308,7 +27309,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ghoul](srd_monsters_ghoul.md)'
   AttributesDictionary: >+
     Name: Goule
 
@@ -27458,6 +27458,7 @@ SubItems:
   Family: MonsterHD
   Name: Goule Blême
   Source: (CEO p)(SRD p)
+  AltName: '[Ghast](srd_monsters_ghast.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
@@ -27481,7 +27482,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ghast](srd_monsters_ghast.md)'
   AttributesDictionary: >+
     Name: Goule Blême
 
@@ -27655,6 +27655,7 @@ SubItems:
   Family: MonsterHD
   Name: Grick
   Source: (CEO p)(SRD p)
+  AltName: '[Grick](srd_monsters_grick.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
@@ -27676,7 +27677,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Grick](srd_monsters_grick.md)'
   AttributesDictionary: >+
     Name: Grick
 
@@ -27838,6 +27838,7 @@ SubItems:
   Family: MonsterHD
   Name: Griffon
   Source: (CEO p)(SRD p)
+  AltName: '[Griffon](srd_monsters_griffon.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -27859,7 +27860,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Griffon](srd_monsters_griffon.md)'
   AttributesDictionary: >+
     Name: Griffon
 
@@ -28021,6 +28021,7 @@ SubItems:
   Family: MonsterHD
   Name: Guenaude aquatique
   Source: (CEO p)(SRD p)
+  AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
   Type: Fée
   Size: M
   Alignment: Chaotique Mauvais
@@ -28041,7 +28042,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Sea Hag](srd_monsters_sea_hag.md)'
   AttributesDictionary: >+
     Name: Guenaude aquatique
 
@@ -28209,6 +28209,7 @@ SubItems:
   Family: MonsterHD
   Name: Guenaude nocturne
   Source: (CEO p)(SRD p)
+  AltName: '[Night Hag](srd_monsters_night_hag.md)'
   Type: Fiélon
   Size: M
   Alignment: Neutre Mauvais
@@ -28232,7 +28233,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Night Hag](srd_monsters_night_hag.md)'
   AttributesDictionary: >+
     Name: Guenaude nocturne
 
@@ -28430,6 +28430,7 @@ SubItems:
   Family: MonsterHD
   Name: Guenaude verte
   Source: (CEO p)(SRD p)
+  AltName: '[Green Hag](srd_monsters_green_hag.md)'
   Type: Fée
   Size: M
   Alignment: Neutre Mauvais
@@ -28451,7 +28452,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Green Hag](srd_monsters_green_hag.md)'
   AttributesDictionary: >+
     Name: Guenaude verte
 
@@ -28637,6 +28637,7 @@ SubItems:
   Family: MonsterHD
   Name: Harpie
   Source: (CEO p)(SRD p)
+  AltName: '[Harpy](srd_monsters_harpy.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
@@ -28657,7 +28658,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Harpy](srd_monsters_harpy.md)'
   AttributesDictionary: >+
     Name: Harpie
 
@@ -28825,6 +28825,7 @@ SubItems:
   Family: MonsterHD
   Name: Hibours
   Source: (CEO p)(SRD p)
+  AltName: '[Owlbear](srd_monsters_owlbear.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -28846,7 +28847,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Owlbear](srd_monsters_owlbear.md)'
   AttributesDictionary: >+
     Name: Hibours
 
@@ -29008,6 +29008,7 @@ SubItems:
   Family: MonsterHD
   Name: Hippogriffe
   Source: (CEO p)(SRD p)
+  AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -29029,7 +29030,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hippogriff](srd_monsters_hippogriff.md)'
   AttributesDictionary: >+
     Name: Hippogriffe
 
@@ -29191,6 +29191,7 @@ SubItems:
   Family: MonsterHD
   Name: Hobgobelin
   Source: (CEO p)(SRD p)
+  AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
   Type: Humanoïde (gobelinoïde)
   Size: M
   Alignment: Loyal Mauvais
@@ -29211,7 +29212,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hobgoblin](srd_monsters_hobgoblin.md)'
   AttributesDictionary: >+
     Name: Hobgobelin
 
@@ -29536,6 +29536,7 @@ SubItems:
   Family: MonsterHD
   Name: Homme-lézard
   Source: (CEO p)(SRD p)
+  AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
   Type: Humanoïde (homme-lézard)
   Size: M
   Alignment: Neutre
@@ -29557,7 +29558,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Lizardfolk](srd_monsters_lizardfolk.md)'
   AttributesDictionary: >+
     Name: Homme-lézard
 
@@ -29943,6 +29943,7 @@ SubItems:
   Family: MonsterHD
   Name: Homme-poisson
   Source: (CEO p)(SRD p)
+  AltName: '[Merfolk](srd_monsters_merfolk.md)'
   Type: Humanoïde (homme-poisson)
   Size: M
   Alignment: Neutre
@@ -29964,7 +29965,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Merfolk](srd_monsters_merfolk.md)'
   AttributesDictionary: >+
     Name: Homme-poisson
 
@@ -30108,6 +30108,7 @@ SubItems:
   Family: MonsterHD
   Name: Homoncule
   Source: (CEO p)(SRD p)
+  AltName: '[Homunculus](srd_monsters_homunculus.md)'
   Type: Créature artificielle
   Size: TP
   Alignment: neutre
@@ -30130,7 +30131,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Homunculus](srd_monsters_homunculus.md)'
   AttributesDictionary: >+
     Name: Homoncule
 
@@ -30280,6 +30280,7 @@ SubItems:
   Family: MonsterHD
   Name: Hydre
   Source: (CEO p)(SRD p)
+  AltName: '[Hydra](srd_monsters_hydra.md)'
   Type: Créature monstrueuse
   Size: TG
   Alignment: non-alignée
@@ -30301,7 +30302,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hydra](srd_monsters_hydra.md)'
   AttributesDictionary: >+
     Name: Hydre
 
@@ -30481,6 +30481,7 @@ SubItems:
   Family: MonsterHD
   Name: Kobold
   Source: (CEO p)(SRD p)
+  AltName: '[Kobold](srd_monsters_kobold.md)'
   Type: Humanoïde (kobold)
   Size: P
   Alignment: Loyal Mauvais
@@ -30501,7 +30502,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Kobold](srd_monsters_kobold.md)'
   AttributesDictionary: >+
     Name: Kobold
 
@@ -30838,6 +30838,7 @@ SubItems:
   Family: MonsterHD
   Name: Kraken
   Source: (CEO p)(SRD p)
+  AltName: '[Kraken](srd_monsters_kraken.md)'
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: Chaotique Mauvais
@@ -30861,7 +30862,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Kraken](srd_monsters_kraken.md)'
   AttributesDictionary: >+
     Name: Kraken
 
@@ -31095,6 +31095,7 @@ SubItems:
   Family: MonsterHD
   Name: Lamie
   Source: (CEO p)(SRD p)
+  AltName: '[Lamia](srd_monsters_lamia.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
@@ -31116,7 +31117,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Lamia](srd_monsters_lamia.md)'
   AttributesDictionary: >+
     Name: Lamie
 
@@ -31308,6 +31308,7 @@ SubItems:
   Family: MonsterHD
   Name: Liche
   Source: (CEO p)(SRD p)
+  AltName: '[Lich](srd_monsters_lich.md)'
   Type: Mort-vivant
   Size: M
   Alignment: alignement Mauvais
@@ -31332,7 +31333,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Lich](srd_monsters_lich.md)'
   AttributesDictionary: >+
     Name: Liche
 
@@ -31608,6 +31608,7 @@ SubItems:
   Family: MonsterHD
   Name: Licorne
   Source: (CEO p)(SRD p)
+  AltName: '[Unicorn](srd_monsters_unicorn.md)'
   Type: Céleste
   Size: G
   Alignment: Loyal Bon
@@ -31630,7 +31631,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Unicorn](srd_monsters_unicorn.md)'
   AttributesDictionary: >+
     Name: Licorne
 
@@ -31870,6 +31870,7 @@ SubItems:
   Family: MonsterHD
   Name: Loup-garou
   Source: (CEO p)(SRD p)
+  AltName: '[Werewolf](srd_monsters_werewolf.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Chaotique Mauvais
@@ -31892,7 +31893,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Werewolf](srd_monsters_werewolf.md)'
   AttributesDictionary: >+
     Name: Loup-garou
 
@@ -32078,6 +32078,7 @@ SubItems:
   Family: MonsterHD
   Name: Ours-garou
   Source: (CEO p)(SRD p)
+  AltName: '[Werebear](srd_monsters_werebear.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre Bon
@@ -32100,7 +32101,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Werebear](srd_monsters_werebear.md)'
   AttributesDictionary: >+
     Name: Ours-garou
 
@@ -32286,6 +32286,7 @@ SubItems:
   Family: MonsterHD
   Name: Rat-garou
   Source: (CEO p)(SRD p)
+  AltName: '[Wererat](srd_monsters_wererat.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Loyal Mauvais
@@ -32308,7 +32309,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Wererat](srd_monsters_wererat.md)'
   AttributesDictionary: >+
     Name: Rat-garou
 
@@ -32494,6 +32494,7 @@ SubItems:
   Family: MonsterHD
   Name: Sanglier-garou
   Source: (CEO p)(SRD p)
+  AltName: '[Wereboar](srd_monsters_wereboar.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre Mauvais
@@ -32516,7 +32517,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Wereboar](srd_monsters_wereboar.md)'
   AttributesDictionary: >+
     Name: Sanglier-garou
 
@@ -32696,6 +32696,7 @@ SubItems:
   Family: MonsterHD
   Name: Tigre-garou
   Source: (CEO p)(SRD p)
+  AltName: '[Weretiger](srd_monsters_weretiger.md)'
   Type: Humanoïde (humain, métamorphe)
   Size: M
   Alignment: Neutre
@@ -32718,7 +32719,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Weretiger](srd_monsters_weretiger.md)'
   AttributesDictionary: >+
     Name: Tigre-garou
 
@@ -32922,6 +32922,7 @@ SubItems:
   Family: MonsterHD
   Name: Magmatique
   Source: (CEO p)(SRD p)
+  AltName: '[Magmin](srd_monsters_magmin.md)'
   Type: Élémentaire
   Size: P
   Alignment: Chaotique Neutre
@@ -32944,7 +32945,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Magmin](srd_monsters_magmin.md)'
   AttributesDictionary: >+
     Name: Magmatique
 
@@ -33112,6 +33112,7 @@ SubItems:
   Family: MonsterHD
   Name: Manteleur
   Source: (CEO p)(SRD p)
+  AltName: '[Cloaker](srd_monsters_cloaker.md)'
   Type: Aberration
   Size: G
   Alignment: Chaotique Neutre
@@ -33133,7 +33134,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Cloaker](srd_monsters_cloaker.md)'
   AttributesDictionary: >+
     Name: Manteleur
 
@@ -33337,6 +33337,7 @@ SubItems:
   Family: MonsterHD
   Name: Mante obscure
   Source: (CEO p)(SRD p)
+  AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
@@ -33358,7 +33359,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Darkmantle](srd_monsters_darkmantle.md)'
   AttributesDictionary: >+
     Name: Mante obscure
 
@@ -33532,6 +33532,7 @@ SubItems:
   Family: MonsterHD
   Name: Manticore
   Source: (CEO p)(SRD p)
+  AltName: '[Manticore](srd_monsters_manticore.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Mauvais
@@ -33552,7 +33553,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Manticore](srd_monsters_manticore.md)'
   AttributesDictionary: >+
     Name: Manticore
 
@@ -33720,6 +33720,7 @@ SubItems:
   Family: MonsterHD
   Name: Méduse
   Source: (CEO p)(SRD p)
+  AltName: '[Medusa](srd_monsters_medusa.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Loyal Mauvais
@@ -33741,7 +33742,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Medusa](srd_monsters_medusa.md)'
   AttributesDictionary: >+
     Name: Méduse
 
@@ -33927,6 +33927,7 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de glace
   Source: (CEO p)(SRD p)
+  AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
@@ -33951,7 +33952,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ice Mephit](srd_monsters_ice_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de glace
 
@@ -34137,6 +34137,7 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de magma
   Source: (CEO p)(SRD p)
+  AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
@@ -34161,7 +34162,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Magma Mephit](srd_monsters_magma_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de magma
 
@@ -34341,6 +34341,7 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de poussière
   Source: (CEO p)(SRD p)
+  AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
@@ -34365,7 +34366,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Dust Mephit](srd_monsters_dust_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de poussière
 
@@ -34545,6 +34545,7 @@ SubItems:
   Family: MonsterHD
   Name: Méphite de vapeur
   Source: (CEO p)(SRD p)
+  AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
   Type: Élémentaire
   Size: P
   Alignment: Neutre Mauvais
@@ -34567,7 +34568,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Steam Mephit](srd_monsters_steam_mephit.md)'
   AttributesDictionary: >+
     Name: Méphite de vapeur
 
@@ -34735,6 +34735,7 @@ SubItems:
   Family: MonsterHD
   Name: Merrow
   Source: (CEO p)(SRD p)
+  AltName: '[Merrow](srd_monsters_merrow.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
@@ -34755,7 +34756,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Merrow](srd_monsters_merrow.md)'
   AttributesDictionary: >+
     Name: Merrow
 
@@ -34929,6 +34929,7 @@ SubItems:
   Family: MonsterHD
   Name: Mimique
   Source: (CEO p)(SRD p)
+  AltName: '[Mimic](srd_monsters_mimic.md)'
   Type: Créature monstrueuse (métamorphe)
   Size: M
   Alignment: Neutre
@@ -34952,7 +34953,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mimic](srd_monsters_mimic.md)'
   AttributesDictionary: >+
     Name: Mimique
 
@@ -35144,6 +35144,7 @@ SubItems:
   Family: MonsterHD
   Name: Minotaure
   Source: (CEO p)(SRD p)
+  AltName: '[Minotaur](srd_monsters_minotaur.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
@@ -35165,7 +35166,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Minotaur](srd_monsters_minotaur.md)'
   AttributesDictionary: >+
     Name: Minotaure
 
@@ -35339,6 +35339,7 @@ SubItems:
   Family: MonsterHD
   Name: Molosse infernal
   Source: (CEO p)(SRD p)
+  AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
   Type: Fiélon
   Size: M
   Alignment: Loyal Mauvais
@@ -35360,7 +35361,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hell Hound](srd_monsters_hell_hound.md)'
   AttributesDictionary: >+
     Name: Molosse infernal
 
@@ -35520,6 +35520,7 @@ SubItems:
   Family: MonsterHD
   Name: Momie
   Source: (CEO p)(SRD p)
+  AltName: '[Mummy](srd_monsters_mummy.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
@@ -35545,7 +35546,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mummy](srd_monsters_mummy.md)'
   AttributesDictionary: >+
     Name: Momie
 
@@ -35719,6 +35719,7 @@ SubItems:
   Family: MonsterHD
   Name: Momie auguste
   Source: (CEO p)(SRD p)
+  AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
@@ -35744,7 +35745,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mummy Lord](srd_monsters_mummy_lord.md)'
   AttributesDictionary: >+
     Name: Momie auguste
 
@@ -36038,6 +36038,7 @@ SubItems:
   Family: MonsterHD
   Name: Naga corrupteur
   Source: (CEO p)(SRD p)
+  AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Chaotique Mauvais
@@ -36061,7 +36062,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Spirit Naga](srd_monsters_spirit_naga.md)'
   AttributesDictionary: >+
     Name: Naga corrupteur
 
@@ -36259,6 +36259,7 @@ SubItems:
   Family: MonsterHD
   Name: Naga gardien
   Source: (CEO p)(SRD p)
+  AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Bon
@@ -36282,7 +36283,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Guardian Naga](srd_monsters_guardian_naga.md)'
   AttributesDictionary: >+
     Name: Naga gardien
 
@@ -36498,6 +36498,7 @@ SubItems:
   Family: MonsterHD
   Name: Nécrophage
   Source: (CEO p)(SRD p)
+  AltName: '[Wight](srd_monsters_wight.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
@@ -36522,7 +36523,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Wight](srd_monsters_wight.md)'
   AttributesDictionary: >+
     Name: Nécrophage
 
@@ -36720,6 +36720,7 @@ SubItems:
   Family: MonsterHD
   Name: Armure animée
   Source: (CEO p)(SRD p)
+  AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
@@ -36742,7 +36743,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Animated Armor](srd_monsters_animated_armor.md)'
   AttributesDictionary: >+
     Name: Armure animée
 
@@ -36904,6 +36904,7 @@ SubItems:
   Family: MonsterHD
   Name: Épée volante
   Source: (CEO p)(SRD p)
+  AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
@@ -36927,7 +36928,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Flying Sword](srd_monsters_flying_sword.md)'
   AttributesDictionary: >+
     Name: Épée volante
 
@@ -37089,6 +37089,7 @@ SubItems:
   Family: MonsterHD
   Name: Tapis étrangleur
   Source: (CEO p)(SRD p)
+  AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -37111,7 +37112,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Rug of Smothering](srd_monsters_rug_of_smothering.md)'
   AttributesDictionary: >+
     Name: Tapis étrangleur
 
@@ -37285,6 +37285,7 @@ SubItems:
   Family: MonsterHD
   Name: Ogre
   Source: (CEO p)(SRD p)
+  AltName: '[Ogre](srd_monsters_ogre.md)'
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
@@ -37305,7 +37306,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ogre](srd_monsters_ogre.md)'
   AttributesDictionary: >+
     Name: Ogre
 
@@ -37443,6 +37443,7 @@ SubItems:
   Family: MonsterHD
   Name: Ombre
   Source: (CEO p)(SRD p)
+  AltName: '[Shadow](srd_monsters_shadow.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
@@ -37468,7 +37469,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Shadow](srd_monsters_shadow.md)'
   AttributesDictionary: >+
     Name: Ombre
 
@@ -37654,6 +37654,7 @@ SubItems:
   Family: MonsterHD
   Name: Oni
   Source: (CEO p)(SRD p)
+  AltName: '[Oni](srd_monsters_oni.md)'
   Type: Géant
   Size: G
   Alignment: Loyal Mauvais
@@ -37675,7 +37676,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Oni](srd_monsters_oni.md)'
   AttributesDictionary: >+
     Name: Oni
 
@@ -38229,6 +38229,7 @@ SubItems:
   Family: MonsterHD
   Name: Otyugh
   Source: (CEO p)(SRD p)
+  AltName: '[Otyugh](srd_monsters_otyugh.md)'
   Type: Aberration
   Size: G
   Alignment: Neutre
@@ -38250,7 +38251,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Otyugh](srd_monsters_otyugh.md)'
   AttributesDictionary: >+
     Name: Otyugh
 
@@ -38430,6 +38430,7 @@ SubItems:
   Family: MonsterHD
   Name: Oxydeur
   Source: (CEO p)(SRD p)
+  AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: non-alignée
@@ -38450,7 +38451,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Rust Monster](srd_monsters_rust_monster.md)'
   AttributesDictionary: >+
     Name: Oxydeur
 
@@ -38842,6 +38842,7 @@ SubItems:
   Family: MonsterHD
   Name: Pégase
   Source: (CEO p)(SRD p)
+  AltName: '[Pegasus](srd_monsters_pegasus.md)'
   Type: Céleste
   Size: G
   Alignment: Chaotique Bon
@@ -38863,7 +38864,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Pegasus](srd_monsters_pegasus.md)'
   AttributesDictionary: >+
     Name: Pégase
 
@@ -38999,6 +38999,7 @@ SubItems:
   Family: MonsterHD
   Name: Pseudodragon
   Source: (CEO p)(SRD p)
+  AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
   Type: Dragon
   Size: TP
   Alignment: Neutre Bon
@@ -39020,7 +39021,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Pseudodragon](srd_monsters_pseudodragon.md)'
   AttributesDictionary: >+
     Name: Pseudodragon
 
@@ -39188,6 +39188,7 @@ SubItems:
   Family: MonsterHD
   Name: Rakshasa
   Source: (CEO p)(SRD p)
+  AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
   Type: Fiélon
   Size: M
   Alignment: Loyal Mauvais
@@ -39210,7 +39211,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Rakshasa](srd_monsters_rakshasa.md)'
   AttributesDictionary: >+
     Name: Rakshasa
 
@@ -39576,6 +39576,7 @@ SubItems:
   Family: MonsterHD
   Name: Roc
   Source: (CEO p)(SRD p)
+  AltName: '[Roc](srd_monsters_roc.md)'
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
@@ -39598,7 +39599,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Roc](srd_monsters_roc.md)'
   AttributesDictionary: >+
     Name: Roc
 
@@ -39766,6 +39766,7 @@ SubItems:
   Family: MonsterHD
   Name: Sahuagin
   Source: (CEO p)(SRD p)
+  AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
   Type: Humanoïde (sahuagin)
   Size: M
   Alignment: Loyal Mauvais
@@ -39787,7 +39788,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Sahuagin](srd_monsters_sahuagin.md)'
   AttributesDictionary: >+
     Name: Sahuagin
 
@@ -40209,6 +40209,7 @@ SubItems:
   Family: MonsterHD
   Name: Salamandre
   Source: (CEO p)(SRD p)
+  AltName: '[Salamander](srd_monsters_salamander.md)'
   Type: Élémentaire
   Size: G
   Alignment: Neutre Mauvais
@@ -40232,7 +40233,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Salamander](srd_monsters_salamander.md)'
   AttributesDictionary: >+
     Name: Salamandre
 
@@ -40412,6 +40412,7 @@ SubItems:
   Family: MonsterHD
   Name: Satyre
   Source: (CEO p)(SRD p)
+  AltName: '[Satyr](srd_monsters_satyr.md)'
   Type: Fée
   Size: M
   Alignment: Chaotique Neutre
@@ -40433,7 +40434,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Satyr](srd_monsters_satyr.md)'
   AttributesDictionary: >+
     Name: Satyre
 
@@ -41009,6 +41009,7 @@ SubItems:
   Family: MonsterHD
   Name: Spectre
   Source: (CEO p)(SRD p)
+  AltName: '[Specter](srd_monsters_specter.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Chaotique Mauvais
@@ -41032,7 +41033,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Specter](srd_monsters_specter.md)'
   AttributesDictionary: >+
     Name: Spectre
 
@@ -41194,6 +41194,7 @@ SubItems:
   Family: MonsterHD
   Name: Androsphinx
   Source: (CEO p)(SRD p)
+  AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Neutre
@@ -41218,7 +41219,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Androsphinx](srd_monsters_androsphinx.md)'
   AttributesDictionary: >+
     Name: Androsphinx
 
@@ -41494,6 +41494,7 @@ SubItems:
   Family: MonsterHD
   Name: Gynosphinx
   Source: (CEO p)(SRD p)
+  AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Loyal Neutre
@@ -41518,7 +41519,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gynosphinx](srd_monsters_gynosphinx.md)'
   AttributesDictionary: >+
     Name: Gynosphinx
 
@@ -41764,6 +41764,7 @@ SubItems:
   Family: MonsterHD
   Name: Squelette
   Source: (CEO p)(SRD p)
+  AltName: '[Skeleton](srd_monsters_skeleton.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Loyal Mauvais
@@ -41787,7 +41788,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Skeleton](srd_monsters_skeleton.md)'
   AttributesDictionary: >+
     Name: Squelette
 
@@ -41943,6 +41943,7 @@ SubItems:
   Family: MonsterHD
   Name: Squelette cheval de guerre
   Source: (CEO p)(SRD p)
+  AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
   Type: Mort-vivant
   Size: G
   Alignment: Loyal Mauvais
@@ -41965,7 +41966,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)'
   AttributesDictionary: >+
     Name: Squelette cheval de guerre
 
@@ -42107,6 +42107,7 @@ SubItems:
   Family: MonsterHD
   Name: Squelette minotaure
   Source: (CEO p)(SRD p)
+  AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
   Type: Mort-vivant
   Size: G
   Alignment: Loyal Mauvais
@@ -42130,7 +42131,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)'
   AttributesDictionary: >+
     Name: Squelette minotaure
 
@@ -42298,6 +42298,7 @@ SubItems:
   Family: MonsterHD
   Name: Strige
   Source: (CEO p)(SRD p)
+  AltName: '[Stirge](srd_monsters_stirge.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -42318,7 +42319,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Stirge](srd_monsters_stirge.md)'
   AttributesDictionary: >+
     Name: Strige
 
@@ -42456,6 +42456,7 @@ SubItems:
   Family: MonsterHD
   Name: Succube/Incube
   Source: (CEO p)(SRD p)
+  AltName: '[Succubus](srd_monsters_succubus.md)'
   Type: Fiélon (métamorphe)
   Size: M
   Alignment: Neutre Mauvais
@@ -42477,7 +42478,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Succubus](srd_monsters_succubus.md)'
   AttributesDictionary: >+
     Name: Succube/Incube
 
@@ -42661,6 +42661,7 @@ SubItems:
   Family: MonsterHD
   Name: Sylvanien
   Source: (CEO p)(SRD p)
+  AltName: '[Treant](srd_monsters_treant.md)'
   Type: Plante
   Size: TG
   Alignment: Chaotique Bonne
@@ -42683,7 +42684,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Treant](srd_monsters_treant.md)'
   AttributesDictionary: >+
     Name: Sylvanien
 
@@ -42863,6 +42863,7 @@ SubItems:
   Family: MonsterHD
   Name: Tarasque
   Source: (CEO p)(SRD p)
+  AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: non-alignée
@@ -42885,7 +42886,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Tarrasque](srd_monsters_tarrasque.md)'
   AttributesDictionary: >+
     Name: Tarasque
 
@@ -43507,6 +43507,7 @@ SubItems:
   Family: MonsterHD
   Name: Tertre errant
   Source: (CEO p)(SRD p)
+  AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
   Type: Plante
   Size: G
   Alignment: non-alignée
@@ -43531,7 +43532,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Shambling Mound](srd_monsters_shambling_mound.md)'
   AttributesDictionary: >+
     Name: Tertre errant
 
@@ -43705,6 +43705,7 @@ SubItems:
   Family: MonsterHD
   Name: Torve
   Source: (CEO p)(SRD p)
+  AltName: '[Grimlock](srd_monsters_grimlock.md)'
   Type: Humanoïde (torve)
   Size: M
   Alignment: Neutre Mauvais
@@ -43727,7 +43728,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Grimlock](srd_monsters_grimlock.md)'
   AttributesDictionary: >+
     Name: Torve
 
@@ -43889,6 +43889,7 @@ SubItems:
   Family: MonsterHD
   Name: Traqueur invisible
   Source: (CEO p)(SRD p)
+  AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
   Type: Élémentaire
   Size: M
   Alignment: neutre
@@ -43912,7 +43913,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Invisible Stalker](srd_monsters_invisible_stalker.md)'
   AttributesDictionary: >+
     Name: Traqueur invisible
 
@@ -44080,6 +44080,7 @@ SubItems:
   Family: MonsterHD
   Name: Troll
   Source: (CEO p)(SRD p)
+  AltName: '[Troll](srd_monsters_troll.md)'
   Type: Géant
   Size: G
   Alignment: Chaotique Mauvais
@@ -44101,7 +44102,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Troll](srd_monsters_troll.md)'
   AttributesDictionary: >+
     Name: Troll
 
@@ -44269,6 +44269,7 @@ SubItems:
   Family: MonsterHD
   Name: Vampire
   Source: (CEO p)(SRD p)
+  AltName: '[Vampire](srd_monsters_vampire.md)'
   Type: Mort-vivant (métamorphe)
   Size: M
   Alignment: Loyal Mauvais
@@ -44292,7 +44293,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Vampire](srd_monsters_vampire.md)'
   AttributesDictionary: >+
     Name: Vampire
 
@@ -44598,6 +44598,7 @@ SubItems:
   Family: MonsterHD
   Name: Vampirien
   Source: (CEO p)(SRD p)
+  AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
@@ -44621,7 +44622,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Vampire Spawn](srd_monsters_vampire_spawn.md)'
   AttributesDictionary: >+
     Name: Vampirien
 
@@ -44837,6 +44837,7 @@ SubItems:
   Family: MonsterHD
   Name: Cube gélatineux
   Source: (CEO p)(SRD p)
+  AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
   Type: Vase
   Size: G
   Alignment: non-alignée
@@ -44858,7 +44859,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gelatinous Cube](srd_monsters_gelatinous_cube.md)'
   AttributesDictionary: >+
     Name: Cube gélatineux
 
@@ -45056,6 +45056,7 @@ SubItems:
   Family: MonsterHD
   Name: Gelée ocre
   Source: (CEO p)(SRD p)
+  AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
   Type: Vase
   Size: G
   Alignment: non-alignée
@@ -45079,7 +45080,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ochre Jelly](srd_monsters_ochre_jelly.md)'
   AttributesDictionary: >+
     Name: Gelée ocre
 
@@ -45253,6 +45253,7 @@ SubItems:
   Family: MonsterHD
   Name: Pouding noir
   Source: (CEO p)(SRD p)
+  AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
   Type: Vase
   Size: G
   Alignment: non-alignée
@@ -45275,7 +45276,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Black Pudding](srd_monsters_black_pudding.md)'
   AttributesDictionary: >+
     Name: Pouding noir
 
@@ -45455,6 +45455,7 @@ SubItems:
   Family: MonsterHD
   Name: Vase grise
   Source: (CEO p)(SRD p)
+  AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
   Type: Vase
   Size: M
   Alignment: non-alignée
@@ -45478,7 +45479,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gray Ooze](srd_monsters_gray_ooze.md)'
   AttributesDictionary: >+
     Name: Vase grise
 
@@ -45658,6 +45658,7 @@ SubItems:
   Family: MonsterHD
   Name: Ver pourpre
   Source: (CEO p)(SRD p)
+  AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
   Type: Créature monstrueuse
   Size: Gig
   Alignment: non-alignée
@@ -45679,7 +45680,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Purple Worm](srd_monsters_purple_worm.md)'
   AttributesDictionary: >+
     Name: Ver pourpre
 
@@ -45853,6 +45853,7 @@ SubItems:
   Family: MonsterHD
   Name: Vouivre
   Source: (CEO p)(SRD p)
+  AltName: '[Wyvern](srd_monsters_wyvern.md)'
   Type: Dragon
   Size: G
   Alignment: non-alignée
@@ -45874,7 +45875,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Wyvern](srd_monsters_wyvern.md)'
   AttributesDictionary: >+
     Name: Vouivre
 
@@ -46036,6 +46036,7 @@ SubItems:
   Family: MonsterHD
   Name: Xorn
   Source: (CEO p)(SRD p)
+  AltName: '[Xorn](srd_monsters_xorn.md)'
   Type: Élémentaire
   Size: M
   Alignment: Neutre
@@ -46058,7 +46059,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Xorn](srd_monsters_xorn.md)'
   AttributesDictionary: >+
     Name: Xorn
 
@@ -46238,6 +46238,7 @@ SubItems:
   Family: MonsterHD
   Name: Zombi
   Source: (CEO p)(SRD p)
+  AltName: '[Zombie](srd_monsters_zombie.md)'
   Type: Mort-vivant
   Size: M
   Alignment: Neutre Mauvais
@@ -46260,7 +46261,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Zombie](srd_monsters_zombie.md)'
   AttributesDictionary: >+
     Name: Zombi
 
@@ -46414,6 +46414,7 @@ SubItems:
   Family: MonsterHD
   Name: Zombi ogre
   Source: (CEO p)(SRD p)
+  AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
   Type: Mort-vivant
   Size: G
   Alignment: Neutre Mauvais
@@ -46436,7 +46437,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ogre Zombie](srd_monsters_ogre_zombie.md)'
   AttributesDictionary: >+
     Name: Zombi ogre
 
@@ -46590,6 +46590,7 @@ SubItems:
   Family: MonsterHD
   Name: Aigle
   Source: (CEO p)(SRD p)
+  AltName: '[Eagle](srd_monsters_eagle.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -46611,7 +46612,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Eagle](srd_monsters_eagle.md)'
   AttributesDictionary: >+
     Name: Aigle
 
@@ -46755,6 +46755,7 @@ SubItems:
   Family: MonsterHD
   Name: Aigle géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
   Type: Bête
   Size: G
   Alignment: neutre bon
@@ -46776,7 +46777,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Eagle](srd_monsters_giant_eagle.md)'
   AttributesDictionary: >+
     Name: Aigle géant
 
@@ -46938,6 +46938,7 @@ SubItems:
   Family: MonsterHD
   Name: Araignée
   Source: (CEO p)(SRD p)
+  AltName: '[Spider](srd_monsters_spider.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -46959,7 +46960,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Spider](srd_monsters_spider.md)'
   AttributesDictionary: >+
     Name: Araignée
 
@@ -47115,6 +47115,7 @@ SubItems:
   Family: MonsterHD
   Name: Araignée de phase
   Source: (CEO p)(SRD p)
+  AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -47136,7 +47137,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Phase Spider](srd_monsters_phase_spider.md)'
   AttributesDictionary: >+
     Name: Araignée de phase
 
@@ -47292,6 +47292,7 @@ SubItems:
   Family: MonsterHD
   Name: Araignée géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -47313,7 +47314,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Spider](srd_monsters_giant_spider.md)'
   AttributesDictionary: >+
     Name: Araignée géante
 
@@ -47481,6 +47481,7 @@ SubItems:
   Family: MonsterHD
   Name: Araignée-loup géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -47502,7 +47503,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)'
   AttributesDictionary: >+
     Name: Araignée-loup géante
 
@@ -47658,6 +47658,7 @@ SubItems:
   Family: MonsterHD
   Name: Arbre éveillé
   Source: (CEO p)(SRD p)
+  AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
   Type: Plante
   Size: TG
   Alignment: non-alignée
@@ -47680,7 +47681,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Awakened Tree](srd_monsters_awakened_tree.md)'
   AttributesDictionary: >+
     Name: Arbre éveillé
 
@@ -47830,6 +47830,7 @@ SubItems:
   Family: MonsterHD
   Name: Arbuste éveillé
   Source: (CEO p)(SRD p)
+  AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
   Type: Plante
   Size: P
   Alignment: non-alignée
@@ -47852,7 +47853,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Awakened Shrub](srd_monsters_awakened_shrub.md)'
   AttributesDictionary: >+
     Name: Arbuste éveillé
 
@@ -48002,6 +48002,7 @@ SubItems:
   Family: MonsterHD
   Name: Babouin
   Source: (CEO p)(SRD p)
+  AltName: '[Baboon](srd_monsters_baboon.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -48022,7 +48023,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Baboon](srd_monsters_baboon.md)'
   AttributesDictionary: >+
     Name: Babouin
 
@@ -48160,6 +48160,7 @@ SubItems:
   Family: MonsterHD
   Name: Bec de hache
   Source: (CEO p)(SRD p)
+  AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -48180,7 +48181,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Axe Beak](srd_monsters_axe_beak.md)'
   AttributesDictionary: >+
     Name: Bec de hache
 
@@ -48306,6 +48306,7 @@ SubItems:
   Family: MonsterHD
   Name: Belette
   Source: (CEO p)(SRD p)
+  AltName: '[Weasel](srd_monsters_weasel.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -48327,7 +48328,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Weasel](srd_monsters_weasel.md)'
   AttributesDictionary: >+
     Name: Belette
 
@@ -48471,6 +48471,7 @@ SubItems:
   Family: MonsterHD
   Name: Belette géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -48492,7 +48493,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Weasel](srd_monsters_giant_weasel.md)'
   AttributesDictionary: >+
     Name: Belette géante
 
@@ -48636,6 +48636,7 @@ SubItems:
   Family: MonsterHD
   Name: Blaireau
   Source: (CEO p)(SRD p)
+  AltName: '[Badger](srd_monsters_badger.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -48656,7 +48657,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Badger](srd_monsters_badger.md)'
   AttributesDictionary: >+
     Name: Blaireau
 
@@ -48794,6 +48794,7 @@ SubItems:
   Family: MonsterHD
   Name: Blaireau géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -48814,7 +48815,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Badger](srd_monsters_giant_badger.md)'
   AttributesDictionary: >+
     Name: Blaireau géant
 
@@ -48970,6 +48970,7 @@ SubItems:
   Family: MonsterHD
   Name: Chacal
   Source: (CEO p)(SRD p)
+  AltName: '[Jackal](srd_monsters_jackal.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -48991,7 +48992,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Jackal](srd_monsters_jackal.md)'
   AttributesDictionary: >+
     Name: Chacal
 
@@ -49141,6 +49141,7 @@ SubItems:
   Family: MonsterHD
   Name: Chameau
   Source: (CEO p)(SRD p)
+  AltName: '[Camel](srd_monsters_camel.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -49161,7 +49162,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Camel](srd_monsters_camel.md)'
   AttributesDictionary: >+
     Name: Chameau
 
@@ -49287,6 +49287,7 @@ SubItems:
   Family: MonsterHD
   Name: Chat
   Source: (CEO p)(SRD p)
+  AltName: '[Cat](srd_monsters_cat.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -49308,7 +49309,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Cat](srd_monsters_cat.md)'
   AttributesDictionary: >+
     Name: Chat
 
@@ -49452,6 +49452,7 @@ SubItems:
   Family: MonsterHD
   Name: Chauve-souris
   Source: (CEO p)(SRD p)
+  AltName: '[Bat](srd_monsters_bat.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -49472,7 +49473,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bat](srd_monsters_bat.md)'
   AttributesDictionary: >+
     Name: Chauve-souris
 
@@ -49616,6 +49616,7 @@ SubItems:
   Family: MonsterHD
   Name: Chauve-souris géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -49636,7 +49637,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Bat](srd_monsters_giant_bat.md)'
   AttributesDictionary: >+
     Name: Chauve-souris géante
 
@@ -49780,6 +49780,7 @@ SubItems:
   Family: MonsterHD
   Name: Cheval de guerre
   Source: (CEO p)(SRD p)
+  AltName: '[Warhorse](srd_monsters_warhorse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -49800,7 +49801,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Warhorse](srd_monsters_warhorse.md)'
   AttributesDictionary: >+
     Name: Cheval de guerre
 
@@ -50293,6 +50293,7 @@ SubItems:
   Family: MonsterHD
   Name: Cheval de selle
   Source: (CEO p)(SRD p)
+  AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -50313,7 +50314,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Riding Horse](srd_monsters_riding_horse.md)'
   AttributesDictionary: >+
     Name: Cheval de selle
 
@@ -50439,6 +50439,7 @@ SubItems:
   Family: MonsterHD
   Name: Cheval de trait
   Source: (CEO p)(SRD p)
+  AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -50459,7 +50460,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Draft Horse](srd_monsters_draft_horse.md)'
   AttributesDictionary: >+
     Name: Cheval de trait
 
@@ -50585,6 +50585,7 @@ SubItems:
   Family: MonsterHD
   Name: Chèvre
   Source: (CEO p)(SRD p)
+  AltName: '[Goat](srd_monsters_goat.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -50605,7 +50606,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Goat](srd_monsters_goat.md)'
   AttributesDictionary: >+
     Name: Chèvre
 
@@ -50749,6 +50749,7 @@ SubItems:
   Family: MonsterHD
   Name: Chèvre géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -50769,7 +50770,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Goat](srd_monsters_giant_goat.md)'
   AttributesDictionary: >+
     Name: Chèvre géante
 
@@ -50913,6 +50913,7 @@ SubItems:
   Family: MonsterHD
   Name: Chevreuil
   Source: (CEO p)(SRD p)
+  AltName: '[Deer](srd_monsters_deer.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -50933,7 +50934,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Deer](srd_monsters_deer.md)'
   AttributesDictionary: >+
     Name: Chevreuil
 
@@ -51059,6 +51059,7 @@ SubItems:
   Family: MonsterHD
   Name: Chien du trépas
   Source: (CEO p)(SRD p)
+  AltName: '[Death Dog](srd_monsters_death_dog.md)'
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -51080,7 +51081,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Death Dog](srd_monsters_death_dog.md)'
   AttributesDictionary: >+
     Name: Chien du trépas
 
@@ -51230,6 +51230,7 @@ SubItems:
   Family: MonsterHD
   Name: Chien esquiveur
   Source: (CEO p)(SRD p)
+  AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
   Type: Fée
   Size: M
   Alignment: Loyal Bon
@@ -51251,7 +51252,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Blink Dog](srd_monsters_blink_dog.md)'
   AttributesDictionary: >+
     Name: Chien esquiveur
 
@@ -51401,6 +51401,7 @@ SubItems:
   Family: MonsterHD
   Name: Chouette
   Source: (CEO p)(SRD p)
+  AltName: '[Owl](srd_monsters_owl.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -51422,7 +51423,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Owl](srd_monsters_owl.md)'
   AttributesDictionary: >+
     Name: Chouette
 
@@ -51572,6 +51572,7 @@ SubItems:
   Family: MonsterHD
   Name: Chouette géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
   Type: Bête
   Size: G
   Alignment: neutre
@@ -51593,7 +51594,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Owl](srd_monsters_giant_owl.md)'
   AttributesDictionary: >+
     Name: Chouette géante
 
@@ -51743,6 +51743,7 @@ SubItems:
   Family: MonsterHD
   Name: Corbeau
   Source: (CEO p)(SRD p)
+  AltName: '[Raven](srd_monsters_raven.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -51764,7 +51765,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Raven](srd_monsters_raven.md)'
   AttributesDictionary: >+
     Name: Corbeau
 
@@ -51908,6 +51908,7 @@ SubItems:
   Family: MonsterHD
   Name: Crabe
   Source: (CEO p)(SRD p)
+  AltName: '[Crab](srd_monsters_crab.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -51929,7 +51930,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Crab](srd_monsters_crab.md)'
   AttributesDictionary: >+
     Name: Crabe
 
@@ -52073,6 +52073,7 @@ SubItems:
   Family: MonsterHD
   Name: Crabe géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -52094,7 +52095,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Crab](srd_monsters_giant_crab.md)'
   AttributesDictionary: >+
     Name: Crabe géant
 
@@ -52238,6 +52238,7 @@ SubItems:
   Family: MonsterHD
   Name: Crapaud géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -52258,7 +52259,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Toad](srd_monsters_giant_toad.md)'
   AttributesDictionary: >+
     Name: Crapaud géant
 
@@ -52414,6 +52414,7 @@ SubItems:
   Family: MonsterHD
   Name: Crocodile
   Source: (CEO p)(SRD p)
+  AltName: '[Crocodile](srd_monsters_crocodile.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -52435,7 +52436,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Crocodile](srd_monsters_crocodile.md)'
   AttributesDictionary: >+
     Name: Crocodile
 
@@ -52579,6 +52579,7 @@ SubItems:
   Family: MonsterHD
   Name: Crocodile géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -52600,7 +52601,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Crocodile](srd_monsters_giant_crocodile.md)'
   AttributesDictionary: >+
     Name: Crocodile géant
 
@@ -52762,6 +52762,7 @@ SubItems:
   Family: MonsterHD
   Name: Élan
   Source: (CEO p)(SRD p)
+  AltName: '[Elk](srd_monsters_elk.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -52782,7 +52783,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Elk](srd_monsters_elk.md)'
   AttributesDictionary: >+
     Name: Élan
 
@@ -52932,6 +52932,7 @@ SubItems:
   Family: MonsterHD
   Name: Élan géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -52953,7 +52954,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Elk](srd_monsters_giant_elk.md)'
   AttributesDictionary: >+
     Name: Élan géant
 
@@ -53109,6 +53109,7 @@ SubItems:
   Family: MonsterHD
   Name: Éléphant
   Source: (CEO p)(SRD p)
+  AltName: '[Elephant](srd_monsters_elephant.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -53129,7 +53130,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Elephant](srd_monsters_elephant.md)'
   AttributesDictionary: >+
     Name: Éléphant
 
@@ -53279,6 +53279,7 @@ SubItems:
   Family: MonsterHD
   Name: Épaulard
   Source: (CEO p)(SRD p)
+  AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -53300,7 +53301,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Killer Whale](srd_monsters_killer_whale.md)'
   AttributesDictionary: >+
     Name: Épaulard
 
@@ -53456,6 +53456,7 @@ SubItems:
   Family: MonsterHD
   Name: Faucon
   Source: (CEO p)(SRD p)
+  AltName: '[Hawk](srd_monsters_hawk.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -53477,7 +53478,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hawk](srd_monsters_hawk.md)'
   AttributesDictionary: >+
     Name: Faucon
 
@@ -53621,6 +53621,7 @@ SubItems:
   Family: MonsterHD
   Name: Faucon de sang
   Source: (CEO p)(SRD p)
+  AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -53642,7 +53643,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Blood Hawk](srd_monsters_blood_hawk.md)'
   AttributesDictionary: >+
     Name: Faucon de sang
 
@@ -53792,6 +53792,7 @@ SubItems:
   Family: MonsterHD
   Name: Grand singe
   Source: (CEO p)(SRD p)
+  AltName: '[Ape](srd_monsters_ape.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -53813,7 +53814,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Ape](srd_monsters_ape.md)'
   AttributesDictionary: >+
     Name: Grand singe
 
@@ -53963,6 +53963,7 @@ SubItems:
   Family: MonsterHD
   Name: Grenouille
   Source: (CEO p)(SRD p)
+  AltName: '[Frog](srd_monsters_frog.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -53984,7 +53985,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Frog](srd_monsters_frog.md)'
   AttributesDictionary: >+
     Name: Grenouille
 
@@ -54116,6 +54116,7 @@ SubItems:
   Family: MonsterHD
   Name: Grenouille géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -54137,7 +54138,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Frog](srd_monsters_giant_frog.md)'
   AttributesDictionary: >+
     Name: Grenouille géante
 
@@ -54299,6 +54299,7 @@ SubItems:
   Family: MonsterHD
   Name: Guêpe géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -54319,7 +54320,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Wasp](srd_monsters_giant_wasp.md)'
   AttributesDictionary: >+
     Name: Guêpe géante
 
@@ -54779,6 +54779,7 @@ SubItems:
   Family: MonsterHD
   Name: Hippocampe
   Source: (CEO p)(SRD p)
+  AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -54799,7 +54800,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Sea Horse](srd_monsters_sea_horse.md)'
   AttributesDictionary: >+
     Name: Hippocampe
 
@@ -54919,6 +54919,7 @@ SubItems:
   Family: MonsterHD
   Name: Hippocampe géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -54939,7 +54940,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Sea Horse](srd_monsters_giant_sea_horse.md)'
   AttributesDictionary: >+
     Name: Hippocampe géant
 
@@ -55083,6 +55083,7 @@ SubItems:
   Family: MonsterHD
   Name: Hyène
   Source: (CEO p)(SRD p)
+  AltName: '[Hyena](srd_monsters_hyena.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -55104,7 +55105,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hyena](srd_monsters_hyena.md)'
   AttributesDictionary: >+
     Name: Hyène
 
@@ -55248,6 +55248,7 @@ SubItems:
   Family: MonsterHD
   Name: Hyène géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -55269,7 +55270,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Hyena](srd_monsters_giant_hyena.md)'
   AttributesDictionary: >+
     Name: Hyène géante
 
@@ -55413,6 +55413,7 @@ SubItems:
   Family: MonsterHD
   Name: Lézard
   Source: (CEO p)(SRD p)
+  AltName: '[Lizard](srd_monsters_lizard.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -55433,7 +55434,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Lizard](srd_monsters_lizard.md)'
   AttributesDictionary: >+
     Name: Lézard
 
@@ -55559,6 +55559,7 @@ SubItems:
   Family: MonsterHD
   Name: Lézard géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -55579,7 +55580,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Lizard](srd_monsters_giant_lizard.md)'
   AttributesDictionary: >+
     Name: Lézard géant
 
@@ -55705,6 +55705,7 @@ SubItems:
   Family: MonsterHD
   Name: Lion
   Source: (CEO p)(SRD p)
+  AltName: '[Lion](srd_monsters_lion.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -55726,7 +55727,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Lion](srd_monsters_lion.md)'
   AttributesDictionary: >+
     Name: Lion
 
@@ -55894,6 +55894,7 @@ SubItems:
   Family: MonsterHD
   Name: Loup
   Source: (CEO p)(SRD p)
+  AltName: '[Wolf](srd_monsters_wolf.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -55915,7 +55916,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Wolf](srd_monsters_wolf.md)'
   AttributesDictionary: >+
     Name: Loup
 
@@ -56065,6 +56065,7 @@ SubItems:
   Family: MonsterHD
   Name: Loup arctique
   Source: (CEO p)(SRD p)
+  AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
@@ -56087,7 +56088,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Winter Wolf](srd_monsters_winter_wolf.md)'
   AttributesDictionary: >+
     Name: Loup arctique
 
@@ -56261,6 +56261,7 @@ SubItems:
   Family: MonsterHD
   Name: Loup sanguinaire
   Source: (CEO p)(SRD p)
+  AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -56282,7 +56283,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Dire Wolf](srd_monsters_dire_wolf.md)'
   AttributesDictionary: >+
     Name: Loup sanguinaire
 
@@ -56432,6 +56432,7 @@ SubItems:
   Family: MonsterHD
   Name: Mammouth
   Source: (CEO p)(SRD p)
+  AltName: '[Mammoth](srd_monsters_mammoth.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -56452,7 +56453,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mammoth](srd_monsters_mammoth.md)'
   AttributesDictionary: >+
     Name: Mammouth
 
@@ -56602,6 +56602,7 @@ SubItems:
   Family: MonsterHD
   Name: Mastiff
   Source: (CEO p)(SRD p)
+  AltName: '[Mastiff](srd_monsters_mastiff.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -56623,7 +56624,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mastiff](srd_monsters_mastiff.md)'
   AttributesDictionary: >+
     Name: Mastiff
 
@@ -56767,6 +56767,7 @@ SubItems:
   Family: MonsterHD
   Name: Mille-pattes géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -56787,7 +56788,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Centipede](srd_monsters_giant_centipede.md)'
   AttributesDictionary: >+
     Name: Mille-pattes géant
 
@@ -56913,6 +56913,7 @@ SubItems:
   Family: MonsterHD
   Name: Mule
   Source: (CEO p)(SRD p)
+  AltName: '[Mule](srd_monsters_mule.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -56933,7 +56934,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mule](srd_monsters_mule.md)'
   AttributesDictionary: >+
     Name: Mule
 
@@ -57077,6 +57077,7 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de chauve-souris
   Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
@@ -57099,7 +57100,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Swarm of Bats](srd_monsters_swarm_of_bats.md)'
   AttributesDictionary: >+
     Name: Nuée de chauve-souris
 
@@ -57261,6 +57261,7 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de corbeaux
   Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
@@ -57284,7 +57285,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)'
   AttributesDictionary: >+
     Name: Nuée de corbeaux
 
@@ -57440,6 +57440,7 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de piranhas
   Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
@@ -57462,7 +57463,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)'
   AttributesDictionary: >+
     Name: Nuée de piranhas
 
@@ -57624,6 +57624,7 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de rats
   Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
@@ -57646,7 +57647,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Swarm of Rats](srd_monsters_swarm_of_rats.md)'
   AttributesDictionary: >+
     Name: Nuée de rats
 
@@ -57802,6 +57802,7 @@ SubItems:
   Family: MonsterHD
   Name: Nuée de serpents venimeux
   Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
@@ -57824,7 +57825,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)'
   AttributesDictionary: >+
     Name: Nuée de serpents venimeux
 
@@ -57974,6 +57974,7 @@ SubItems:
   Family: MonsterHD
   Name: Nuée d'insectes
   Source: (CEO p)(SRD p)
+  AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
   Type: Nuée
   Size: M composée de bêtes de taille TP
   Alignment: non-alignée
@@ -57996,7 +57997,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Swarm of Insects](srd_monsters_swarm_of_insects.md)'
   AttributesDictionary: >+
     Name: Nuée d'insectes
 
@@ -58194,6 +58194,7 @@ SubItems:
   Family: MonsterHD
   Name: Ours brun
   Source: (CEO p)(SRD p)
+  AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -58215,7 +58216,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Brown Bear](srd_monsters_brown_bear.md)'
   AttributesDictionary: >+
     Name: Ours brun
 
@@ -58377,6 +58377,7 @@ SubItems:
   Family: MonsterHD
   Name: Ours noir
   Source: (CEO p)(SRD p)
+  AltName: '[Black Bear](srd_monsters_black_bear.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -58397,7 +58398,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Black Bear](srd_monsters_black_bear.md)'
   AttributesDictionary: >+
     Name: Ours noir
 
@@ -58557,6 +58557,7 @@ SubItems:
   Family: MonsterHD
   Name: Ours polaire
   Source: (CEO p)(SRD p)
+  AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -58578,7 +58579,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Polar Bear](srd_monsters_polar_bear.md)'
   AttributesDictionary: >+
     Name: Ours polaire
 
@@ -58740,6 +58740,7 @@ SubItems:
   Family: MonsterHD
   Name: Panthère
   Source: (CEO p)(SRD p)
+  AltName: '[Panther](srd_monsters_panther.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -58761,7 +58762,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Panther](srd_monsters_panther.md)'
   AttributesDictionary: >+
     Name: Panthère
 
@@ -58923,6 +58923,7 @@ SubItems:
   Family: MonsterHD
   Name: Pieuvre
   Source: (CEO p)(SRD p)
+  AltName: '[Octopus](srd_monsters_octopus.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -58944,7 +58945,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Octopus](srd_monsters_octopus.md)'
   AttributesDictionary: >+
     Name: Pieuvre
 
@@ -59106,6 +59106,7 @@ SubItems:
   Family: MonsterHD
   Name: Pieuvre géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -59127,7 +59128,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Octopus](srd_monsters_giant_octopus.md)'
   AttributesDictionary: >+
     Name: Pieuvre géante
 
@@ -59295,6 +59295,7 @@ SubItems:
   Family: MonsterHD
   Name: Piranha
   Source: (CEO p)(SRD p)
+  AltName: '[Quipper](srd_monsters_quipper.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -59315,7 +59316,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Quipper](srd_monsters_quipper.md)'
   AttributesDictionary: >+
     Name: Piranha
 
@@ -59459,6 +59459,7 @@ SubItems:
   Family: MonsterHD
   Name: Poney
   Source: (CEO p)(SRD p)
+  AltName: '[Pony](srd_monsters_pony.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -59479,7 +59480,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Pony](srd_monsters_pony.md)'
   AttributesDictionary: >+
     Name: Poney
 
@@ -59605,6 +59605,7 @@ SubItems:
   Family: MonsterHD
   Name: Punaise de feu géante
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -59625,7 +59626,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)'
   AttributesDictionary: >+
     Name: Punaise de feu géante
 
@@ -59763,6 +59763,7 @@ SubItems:
   Family: MonsterHD
   Name: Rat
   Source: (CEO p)(SRD p)
+  AltName: '[Rat](srd_monsters_rat.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -59783,7 +59784,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Rat](srd_monsters_rat.md)'
   AttributesDictionary: >+
     Name: Rat
 
@@ -59921,6 +59921,7 @@ SubItems:
   Family: MonsterHD
   Name: Rat géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -59941,7 +59942,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Rat](srd_monsters_giant_rat.md)'
   AttributesDictionary: >+
     Name: Rat géant
 
@@ -60109,6 +60109,7 @@ SubItems:
   Family: MonsterHD
   Name: Requin chasseur
   Source: (CEO p)(SRD p)
+  AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -60130,7 +60131,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Hunter Shark](srd_monsters_hunter_shark.md)'
   AttributesDictionary: >+
     Name: Requin chasseur
 
@@ -60280,6 +60280,7 @@ SubItems:
   Family: MonsterHD
   Name: Requin de récif
   Source: (CEO p)(SRD p)
+  AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -60301,7 +60302,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Reef Shark](srd_monsters_reef_shark.md)'
   AttributesDictionary: >+
     Name: Requin de récif
 
@@ -60451,6 +60451,7 @@ SubItems:
   Family: MonsterHD
   Name: Requin géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -60472,7 +60473,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Shark](srd_monsters_giant_shark.md)'
   AttributesDictionary: >+
     Name: Requin géant
 
@@ -60622,6 +60622,7 @@ SubItems:
   Family: MonsterHD
   Name: Rhinocéros
   Source: (CEO p)(SRD p)
+  AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -60642,7 +60643,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Rhinoceros](srd_monsters_rhinoceros.md)'
   AttributesDictionary: >+
     Name: Rhinocéros
 
@@ -60786,6 +60786,7 @@ SubItems:
   Family: MonsterHD
   Name: Sanglier
   Source: (CEO p)(SRD p)
+  AltName: '[Boar](srd_monsters_boar.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -60806,7 +60807,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Boar](srd_monsters_boar.md)'
   AttributesDictionary: >+
     Name: Sanglier
 
@@ -60950,6 +60950,7 @@ SubItems:
   Family: MonsterHD
   Name: Sanglier géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -60970,7 +60971,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Boar](srd_monsters_giant_boar.md)'
   AttributesDictionary: >+
     Name: Sanglier géant
 
@@ -61114,6 +61114,7 @@ SubItems:
   Family: MonsterHD
   Name: Scorpion
   Source: (CEO p)(SRD p)
+  AltName: '[Scorpion](srd_monsters_scorpion.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -61134,7 +61135,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Scorpion](srd_monsters_scorpion.md)'
   AttributesDictionary: >+
     Name: Scorpion
 
@@ -61260,6 +61260,7 @@ SubItems:
   Family: MonsterHD
   Name: Scorpion géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -61280,7 +61281,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Scorpion](srd_monsters_giant_scorpion.md)'
   AttributesDictionary: >+
     Name: Scorpion géant
 
@@ -61424,6 +61424,7 @@ SubItems:
   Family: MonsterHD
   Name: Serpent constricteur
   Source: (CEO p)(SRD p)
+  AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -61444,7 +61445,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Constrictor Snake](srd_monsters_constrictor_snake.md)'
   AttributesDictionary: >+
     Name: Serpent constricteur
 
@@ -61582,6 +61582,7 @@ SubItems:
   Family: MonsterHD
   Name: Serpent constricteur géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -61603,7 +61604,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)'
   AttributesDictionary: >+
     Name: Serpent constricteur géant
 
@@ -61747,6 +61747,7 @@ SubItems:
   Family: MonsterHD
   Name: Serpent venimeux
   Source: (CEO p)(SRD p)
+  AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -61767,7 +61768,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Poisonous Snake](srd_monsters_poisonous_snake.md)'
   AttributesDictionary: >+
     Name: Serpent venimeux
 
@@ -61893,6 +61893,7 @@ SubItems:
   Family: MonsterHD
   Name: Serpent venimeux géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -61914,7 +61915,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)'
   AttributesDictionary: >+
     Name: Serpent venimeux géant
 
@@ -62052,6 +62052,7 @@ SubItems:
   Family: MonsterHD
   Name: Serpent volant
   Source: (CEO p)(SRD p)
+  AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -62072,7 +62073,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Flying Snake](srd_monsters_flying_snake.md)'
   AttributesDictionary: >+
     Name: Serpent volant
 
@@ -62210,6 +62210,7 @@ SubItems:
   Family: MonsterHD
   Name: Singe géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -62231,7 +62232,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Ape](srd_monsters_giant_ape.md)'
   AttributesDictionary: >+
     Name: Singe géant
 
@@ -62381,6 +62381,7 @@ SubItems:
   Family: MonsterHD
   Name: Tigre
   Source: (CEO p)(SRD p)
+  AltName: '[Tiger](srd_monsters_tiger.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -62402,7 +62403,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Tiger](srd_monsters_tiger.md)'
   AttributesDictionary: >+
     Name: Tigre
 
@@ -62564,6 +62564,7 @@ SubItems:
   Family: MonsterHD
   Name: Tigre à dents de sabre
   Source: (CEO p)(SRD p)
+  AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -62585,7 +62586,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)'
   AttributesDictionary: >+
     Name: Tigre à dents de sabre
 
@@ -62747,6 +62747,7 @@ SubItems:
   Family: MonsterHD
   Name: Vautour
   Source: (CEO p)(SRD p)
+  AltName: '[Vulture](srd_monsters_vulture.md)'
   Type: Bête
   Size: M
   Alignment: non-alignée
@@ -62768,7 +62769,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Vulture](srd_monsters_vulture.md)'
   AttributesDictionary: >+
     Name: Vautour
 
@@ -62918,6 +62918,7 @@ SubItems:
   Family: MonsterHD
   Name: Vautour géant
   Source: (CEO p)(SRD p)
+  AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
   Type: Bête
   Size: G
   Alignment: Neutre Mauvais
@@ -62939,7 +62940,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Giant Vulture](srd_monsters_giant_vulture.md)'
   AttributesDictionary: >+
     Name: Vautour géant
 
@@ -63107,6 +63107,7 @@ SubItems:
   Family: MonsterHD
   Name: Worg
   Source: (CEO p)(SRD p)
+  AltName: '[Worg](srd_monsters_worg.md)'
   Type: Créature monstrueuse
   Size: G
   Alignment: Neutre Mauvais
@@ -63128,7 +63129,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Worg](srd_monsters_worg.md)'
   AttributesDictionary: >+
     Name: Worg
 
@@ -63272,6 +63272,7 @@ SubItems:
   Family: MonsterHD
   Name: Acolyte
   Source: (CEO p)(SRD p)
+  AltName: '[Acolyte](srd_monsters_acolyte.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -63292,7 +63293,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Acolyte](srd_monsters_acolyte.md)'
   AttributesDictionary: >+
     Name: Acolyte
 
@@ -63446,6 +63446,7 @@ SubItems:
   Family: MonsterHD
   Name: Archimage
   Source: (CEO p)(SRD p)
+  AltName: '[Archmage](srd_monsters_archmage.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -63468,7 +63469,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Archmage](srd_monsters_archmage.md)'
   AttributesDictionary: >+
     Name: Archimage
 
@@ -63700,6 +63700,7 @@ SubItems:
   Family: MonsterHD
   Name: Assassin
   Source: (CEO p)(SRD p)
+  AltName: '[Assassin](srd_monsters_assassin.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Bon
@@ -63722,7 +63723,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Assassin](srd_monsters_assassin.md)'
   AttributesDictionary: >+
     Name: Assassin
 
@@ -63906,6 +63906,7 @@ SubItems:
   Family: MonsterHD
   Name: Bandit
   Source: (CEO p)(SRD p)
+  AltName: '[Bandit](srd_monsters_bandit.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Loyal
@@ -63925,7 +63926,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bandit](srd_monsters_bandit.md)'
   AttributesDictionary: >+
     Name: Bandit
 
@@ -64061,6 +64061,7 @@ SubItems:
   Family: MonsterHD
   Name: Berserker
   Source: (CEO p)(SRD p)
+  AltName: '[Berserker](srd_monsters_berserker.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement Chaotique
@@ -64080,7 +64081,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Berserker](srd_monsters_berserker.md)'
   AttributesDictionary: >+
     Name: Berserker
 
@@ -64216,6 +64216,7 @@ SubItems:
   Family: MonsterHD
   Name: Capitaine bandit
   Source: (CEO p)(SRD p)
+  AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Loyal
@@ -64237,7 +64238,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Bandit Captain](srd_monsters_bandit_captain.md)'
   AttributesDictionary: >+
     Name: Capitaine bandit
 
@@ -64403,6 +64403,7 @@ SubItems:
   Family: MonsterHD
   Name: Chevalier
   Source: (CEO p)(SRD p)
+  AltName: '[Knight](srd_monsters_knight.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -64423,7 +64424,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Knight](srd_monsters_knight.md)'
   AttributesDictionary: >+
     Name: Chevalier
 
@@ -64601,6 +64601,7 @@ SubItems:
   Family: MonsterHD
   Name: Druide
   Source: (CEO p)(SRD p)
+  AltName: '[Druid](srd_monsters_druid.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -64621,7 +64622,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Druid](srd_monsters_druid.md)'
   AttributesDictionary: >+
     Name: Druide
 
@@ -64781,6 +64781,7 @@ SubItems:
   Family: MonsterHD
   Name: Ecclésiastique
   Source: (CEO p)(SRD p)
+  AltName: '[Priest](srd_monsters_priest.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -64801,7 +64802,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Priest](srd_monsters_priest.md)'
   AttributesDictionary: >+
     Name: Ecclésiastique
 
@@ -64979,6 +64979,7 @@ SubItems:
   Family: MonsterHD
   Name: Éclaireur
   Source: (CEO p)(SRD p)
+  AltName: '[Scout](srd_monsters_scout.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -64999,7 +65000,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Scout](srd_monsters_scout.md)'
   AttributesDictionary: >+
     Name: Éclaireur
 
@@ -65159,6 +65159,7 @@ SubItems:
   Family: MonsterHD
   Name: Espion
   Source: (CEO p)(SRD p)
+  AltName: '[Spy](srd_monsters_spy.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -65179,7 +65180,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Spy](srd_monsters_spy.md)'
   AttributesDictionary: >+
     Name: Espion
 
@@ -65345,6 +65345,7 @@ SubItems:
   Family: MonsterHD
   Name: Fanatique de secte
   Source: (CEO p)(SRD p)
+  AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Bon
@@ -65365,7 +65366,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Cult Fanatic](srd_monsters_cult_fanatic.md)'
   AttributesDictionary: >+
     Name: Fanatique de secte
 
@@ -65537,6 +65537,7 @@ SubItems:
   Family: MonsterHD
   Name: Garde
   Source: (CEO p)(SRD p)
+  AltName: '[Guard](srd_monsters_guard.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -65557,7 +65558,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Guard](srd_monsters_guard.md)'
   AttributesDictionary: >+
     Name: Garde
 
@@ -65687,6 +65687,7 @@ SubItems:
   Family: MonsterHD
   Name: Gladiateur
   Source: (CEO p)(SRD p)
+  AltName: '[Gladiator](srd_monsters_gladiator.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -65708,7 +65709,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Gladiator](srd_monsters_gladiator.md)'
   AttributesDictionary: >+
     Name: Gladiateur
 
@@ -65898,6 +65898,7 @@ SubItems:
   Family: MonsterHD
   Name: Guerrier tribal
   Source: (CEO p)(SRD p)
+  AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -65917,7 +65918,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Tribal Warrior](srd_monsters_tribal_warrior.md)'
   AttributesDictionary: >+
     Name: Guerrier tribal
 
@@ -66053,6 +66053,7 @@ SubItems:
   Family: MonsterHD
   Name: Mage
   Source: (CEO p)(SRD p)
+  AltName: '[Mage](srd_monsters_mage.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -66074,7 +66075,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Mage](srd_monsters_mage.md)'
   AttributesDictionary: >+
     Name: Mage
 
@@ -66258,6 +66258,7 @@ SubItems:
   Family: MonsterHD
   Name: Malfrat
   Source: (CEO p)(SRD p)
+  AltName: '[Thug](srd_monsters_thug.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que bon
@@ -66278,7 +66279,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Thug](srd_monsters_thug.md)'
   AttributesDictionary: >+
     Name: Malfrat
 
@@ -66444,6 +66444,7 @@ SubItems:
   Family: MonsterHD
   Name: Membre de secte
   Source: (CEO p)(SRD p)
+  AltName: '[Cultist](srd_monsters_cultist.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement autre que Bon
@@ -66464,7 +66465,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Cultist](srd_monsters_cultist.md)'
   AttributesDictionary: >+
     Name: Membre de secte
 
@@ -66606,6 +66606,7 @@ SubItems:
   Family: MonsterHD
   Name: Noble
   Source: (CEO p)(SRD p)
+  AltName: '[Noble](srd_monsters_noble.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -66626,7 +66627,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Noble](srd_monsters_noble.md)'
   AttributesDictionary: >+
     Name: Noble
 
@@ -66768,6 +66768,7 @@ SubItems:
   Family: MonsterHD
   Name: Roturier
   Source: (CEO p)(SRD p)
+  AltName: '[Commoner](srd_monsters_commoner.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: n'importe quel alignement
@@ -66787,7 +66788,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Commoner](srd_monsters_commoner.md)'
   AttributesDictionary: >+
     Name: Roturier
 
@@ -66911,6 +66911,7 @@ SubItems:
   Family: MonsterHD
   Name: Vétéran
   Source: (CEO p)(SRD p)
+  AltName: '[Veteran](srd_monsters_veteran.md)'
   Type: Humanoïde (n'importe quelle race)
   Size: M
   Alignment: alignement quelconque
@@ -66931,7 +66932,6 @@ SubItems:
   ParentLink: monsters_hd.md#créatures
   ParentName: Créatures
   NameLevel: 1
-  AltName: '[Veteran](srd_monsters_veteran.md)'
   AttributesDictionary: >+
     Name: Vétéran
 

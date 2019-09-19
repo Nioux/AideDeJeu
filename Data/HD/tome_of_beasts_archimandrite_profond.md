@@ -4,7 +4,8 @@
 
 # Archimandrite Profond
 
-- Source: (LDM p343)
+- Source: (LDM p343)(TOB p74)
+- TOB: Deep One Archimandrite
 -  Humanoïde de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 153 (18d10+54)

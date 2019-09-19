@@ -4,7 +4,8 @@
 
 # Beauté Abominable
 
-- Source: (LDM p36)
+- Source: (LDM p36)(TOB p11)
+- TOB: Abominable Beauty
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (22d8+88)

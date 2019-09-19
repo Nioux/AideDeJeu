@@ -4,7 +4,8 @@
 
 # Behtu
 
-- Source: (LDM p37)
+- Source: (LDM p37)(TOB p34)
+- TOB: Behtu
 -  Humanoïde de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 52 (8d6+24)

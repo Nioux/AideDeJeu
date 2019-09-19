@@ -4,7 +4,8 @@
 
 # Alséide
 
-- Source: (LDM p13)
+- Source: (LDM p13)(TOB p15)
+- TOB: Alseid
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 49 (9d8+9)

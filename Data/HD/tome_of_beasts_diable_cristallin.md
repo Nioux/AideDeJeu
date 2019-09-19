@@ -4,7 +4,8 @@
 
 # Diable Cristallin
 
-- Source: (LDM p108)
+- Source: (LDM p108)(TOB p105)
+- TOB: Crystalline Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d8+48)

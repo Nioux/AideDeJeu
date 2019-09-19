@@ -4,7 +4,8 @@
 
 # Mechuiti, seigneur démon des grands singes
 
-- Source: (LDM p90)
+- Source: (LDM p90)(TOB p88)
+- TOB: Mechuiti, Demon Lord of Apes
 -  Fiélon (démon) de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 370 (20d20+160)

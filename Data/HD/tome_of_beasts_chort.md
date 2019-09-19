@@ -4,7 +4,8 @@
 
 # Chort
 
-- Source: (LDM p107)
+- Source: (LDM p107)(TOB p104)
+- TOB: Chort Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (15d8+120)

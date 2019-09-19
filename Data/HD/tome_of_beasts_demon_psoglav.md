@@ -4,7 +4,8 @@
 
 # Démon Psoglav
 
-- Source: (LDM p81)
+- Source: (LDM p81)(TOB p79)
+- TOB: Psoglav Demon
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (11d10+55)

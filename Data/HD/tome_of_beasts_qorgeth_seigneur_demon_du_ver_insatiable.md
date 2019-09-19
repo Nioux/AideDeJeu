@@ -4,7 +4,8 @@
 
 # Qorgeth, seigneur démon du ver insatiable
 
-- Source: (LDM p92)
+- Source: (LDM p92)(TOB p90)
+- TOB: Qorgeth, Demon Lord of the Devouring Worm
 -  Fiélon (démon) de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 370 (20d20+160)

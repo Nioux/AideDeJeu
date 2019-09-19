@@ -4,7 +4,8 @@
 
 # Ver Pêcheur
 
-- Source: (LDM p400)
+- Source: (LDM p400)(TOB p22)
+- TOB: Angler Worm
 -  Créature monstrueuse de Très Grande taille (TG), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d12+42)

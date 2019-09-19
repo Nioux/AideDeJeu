@@ -4,7 +4,8 @@
 
 # Malakbel
 
-- Source: (LDM p80)
+- Source: (LDM p80)(TOB p78)
+- TOB: Malakbel
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d8+48)

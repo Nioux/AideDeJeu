@@ -4,7 +4,8 @@
 
 # Camazotz, seigneur démon des chauves-souris et du feu
 
-- Source: (LDM p87)
+- Source: (LDM p87)(TOB p85)
+- TOB: Camazotz, Demon Lord of Bats and Fire
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 537 (43d10+301)

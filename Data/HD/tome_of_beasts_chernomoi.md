@@ -4,7 +4,8 @@
 
 # Chernomoï
 
-- Source: (LDM p58)
+- Source: (LDM p58)(TOB p55)
+- TOB: Chernomoi
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 32 (5d4+20)

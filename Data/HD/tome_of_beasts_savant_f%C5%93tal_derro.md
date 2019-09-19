@@ -4,7 +4,8 @@
 
 # Savant Fœtal Derro
 
-- Source: (LDM p95)
+- Source: (LDM p95)(TOB p92)
+- TOB: Derro Fetal Savant
 -  Humanoïde de Très Petite taille (TP), chaotique mauvais
 - **Classe d'armure** 15 (cage)
 - **Points de vie** 2 (4d4 - 8)

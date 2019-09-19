@@ -4,7 +4,8 @@
 
 # Cactide
 
-- Source: (LDM p51)
+- Source: (LDM p51)(TOB p50)
+- TOB: Cactid
 -  Plante de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76(8d10+32)

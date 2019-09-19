@@ -4,7 +4,8 @@
 
 # Bouraq
 
-- Source: (LDM p50)
+- Source: (LDM p50)(TOB p48)
+- TOB: Buraq
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 17
 - **Points de vie** 152 (16d8+80)
@@ -24,7 +25,7 @@
 
 **_Armes angéliques._** Les attaques d'un bouraq sont magiques. Quand un bouraq réussit une attaque avec ses sabots, il inflige 4d8dégâts radiants supplémentaires (déjà intégrés dans les dégâts de l'attaque).
 
-**_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le buraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
+**_Incantation innée._** La caractéristique d'incantation innée d'un bouraq est le Charisme (DD du jet de sauvegarde contre les sorts17). Le bouraq peut lancer de manière innée les sorts suivants, sans utiliser de composantes:
 
 **À volonté:** aura sacrée, compréhension des langues, détection du mal et du bien, passage sans trace
 

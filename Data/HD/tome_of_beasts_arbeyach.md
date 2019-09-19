@@ -4,7 +4,8 @@
 
 # Arbeyach
 
-- Source: (LDM p98)
+- Source: (LDM p98)(TOB p95)
+- TOB: Arbeyach
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 275 (22d10+154)

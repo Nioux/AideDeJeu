@@ -4,7 +4,8 @@
 
 # Démon Kishi
 
-- Source: (LDM p79)
+- Source: (LDM p79)(TOB p77)
+- TOB: Kishi Demon
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle, bouclier)
 - **Points de vie** 119 (14d8+56)

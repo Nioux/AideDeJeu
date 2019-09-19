@@ -4,7 +4,8 @@
 
 # Ukavac
 
-- Source: (LDM p389)
+- Source: (LDM p389)(TOB p47)
+- TOB: Bukavac
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 199 (21d10+84)

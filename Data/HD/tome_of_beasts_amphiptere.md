@@ -4,7 +4,8 @@
 
 # Amphiptère
 
-- Source: (LDM p15)
+- Source: (LDM p15)(TOB p16)
+- TOB: Amphiptere
 -  Bête de taille Moyenne (M), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (8d8+24)

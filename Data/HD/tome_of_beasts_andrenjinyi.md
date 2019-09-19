@@ -4,7 +4,8 @@
 
 # Andrenjinyi
 
-- Source: (LDM p17)
+- Source: (LDM p17)(TOB p17)
+- TOB: Andrenjinyi
 -  Céleste de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 228 (13d20+91)

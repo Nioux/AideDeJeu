@@ -4,7 +4,8 @@
 
 # Cynome
 
-- Source: (LDM p73)
+- Source: (LDM p73)(TOB p49)
+- TOB: Burrowling
 -  Humanoïde de Petite taille (cynome) (P), loyal neutre
 - **Classe d'armure** 13
 - **Points de vie** 27 (6d6+6)

@@ -4,7 +4,8 @@
 
 # Abomination Mécanique
 
-- Source: (LDM p290)
+- Source: (LDM p290)(TOB p59)
+- TOB: Clockwork Abomination
 -  Créature artificielle (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 76(8d10+32)

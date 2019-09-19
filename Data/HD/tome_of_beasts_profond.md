@@ -4,7 +4,8 @@
 
 # Profond
 
-- Source: (LDM p343)
+- Source: (LDM p343)(TOB p73)
+- TOB: Deep One
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 91 (14d8+28)

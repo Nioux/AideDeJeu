@@ -11,6 +11,7 @@ SubItems:
   Family: MonsterVO
   Name: Aboleth
   Source: (SRD p261)
+  AltName: '[Aboleth](hd_monsters_aboleth.md)'
   Type: aberration
   Size: Large
   Alignment: lawful evil
@@ -32,7 +33,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Aboleth](hd_monsters_aboleth.md)'
   AttributesDictionary: >+
     Name: Aboleth
 
@@ -2046,6 +2046,7 @@ SubItems:
   Family: MonsterVO
   Name: Acolyte
   Source: (SRD p395)
+  AltName: '[Acolyte](hd_monsters_acolyte.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -2066,7 +2067,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Acolyte](hd_monsters_acolyte.md)'
   AttributesDictionary: >+
     Name: Acolyte
 
@@ -2216,6 +2216,7 @@ SubItems:
   Family: MonsterVO
   Name: Eagle
   Source: (SRD p371)
+  AltName: '[Aigle](hd_monsters_aigle.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -2236,7 +2237,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Aigle](hd_monsters_aigle.md)'
   AttributesDictionary: >+
     Name: Eagle
 
@@ -2374,6 +2374,7 @@ SubItems:
   Family: MonsterVO
   Name: Giant Eagle
   Source: (SRD p375)
+  AltName: '[Aigle géant](hd_monsters_aigle_geant.md)'
   Type: beast
   Size: Large
   Alignment: neutral good
@@ -2394,7 +2395,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Aigle géant](hd_monsters_aigle_geant.md)'
   AttributesDictionary: >+
     Name: Giant Eagle
 
@@ -2550,6 +2550,7 @@ SubItems:
   Family: MonsterVO
   Name: Androsphinx
   Source: (SRD p347)
+  AltName: '[Androsphinx](hd_monsters_androsphinx.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful neutral
@@ -2573,7 +2574,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Androsphinx](hd_monsters_androsphinx.md)'
   AttributesDictionary: >+
     Name: Androsphinx
 
@@ -2843,6 +2843,7 @@ SubItems:
   Family: MonsterVO
   Name: Ankheg
   Source: (SRD p264)
+  AltName: '[Ankheg](hd_monsters_ankheg.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -2862,7 +2863,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ankheg](hd_monsters_ankheg.md)'
   AttributesDictionary: >+
     Name: Ankheg
 
@@ -2988,6 +2988,7 @@ SubItems:
   Family: MonsterVO
   Name: Spider
   Source: (SRD p389)
+  AltName: '[Araignée](hd_monsters_araignee.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -3008,7 +3009,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée](hd_monsters_araignee.md)'
   AttributesDictionary: >+
     Name: Spider
 
@@ -3158,6 +3158,7 @@ SubItems:
   Family: MonsterVO
   Name: Phase Spider
   Source: (SRD p385)
+  AltName: '[Araignée de phase](hd_monsters_araignee_de_phase.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -3178,7 +3179,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée de phase](hd_monsters_araignee_de_phase.md)'
   AttributesDictionary: >+
     Name: Phase Spider
 
@@ -3328,6 +3328,7 @@ SubItems:
   Family: MonsterVO
   Name: Giant Spider
   Source: (SRD p379)
+  AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -3348,7 +3349,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
   AttributesDictionary: >+
     Name: Giant Spider
 
@@ -3510,6 +3510,7 @@ SubItems:
   Family: MonsterVO
   Name: Giant Wolf Spider
   Source: (SRD p381)
+  AltName: '[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -3530,7 +3531,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)'
   AttributesDictionary: >+
     Name: Giant Wolf Spider
 
@@ -3680,6 +3680,7 @@ SubItems:
   Family: MonsterVO
   Name: Awakened Tree
   Source: (SRD p366)
+  AltName: '[Arbre éveillé](hd_monsters_arbre_eveille.md)'
   Type: plant
   Size: Huge
   Alignment: unaligned
@@ -3700,7 +3701,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Arbre éveillé](hd_monsters_arbre_eveille.md)'
   AttributesDictionary: >+
     Name: Awakened Tree
 
@@ -3842,6 +3842,7 @@ SubItems:
   Family: MonsterVO
   Name: Awakened Shrub
   Source: (SRD p366)
+  AltName: '[Arbuste éveillé](hd_monsters_arbuste_eveille.md)'
   Type: plant
   Size: Small
   Alignment: unaligned
@@ -3862,7 +3863,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Arbuste éveillé](hd_monsters_arbuste_eveille.md)'
   AttributesDictionary: >+
     Name: Awakened Shrub
 
@@ -4004,6 +4004,7 @@ SubItems:
   Family: MonsterVO
   Name: Archmage
   Source: (SRD p395)
+  AltName: '[Archimage](hd_monsters_archimage.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -4026,7 +4027,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Archimage](hd_monsters_archimage.md)'
   AttributesDictionary: >+
     Name: Archmage
 
@@ -4248,6 +4248,7 @@ SubItems:
   Family: MonsterVO
   Name: Animated Armor
   Source: (SRD p263)
+  AltName: '[Armure animée](hd_monsters_armure_animee.md)'
   Type: construct
   Size: Medium
   Alignment: unaligned
@@ -4269,7 +4270,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Armure animée](hd_monsters_armure_animee.md)'
   AttributesDictionary: >+
     Name: Animated Armor
 
@@ -4425,6 +4425,7 @@ SubItems:
   Family: MonsterVO
   Name: Assassin
   Source: (SRD p396)
+  AltName: '[Assassin](hd_monsters_assassin.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
@@ -4447,7 +4448,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Assassin](hd_monsters_assassin.md)'
   AttributesDictionary: >+
     Name: Assassin
 
@@ -4627,6 +4627,7 @@ SubItems:
   Family: MonsterVO
   Name: Azer
   Source: (SRD p265)
+  AltName: '[Azer](hd_monsters_azer.md)'
   Type: elemental
   Size: Medium
   Alignment: lawful neutral
@@ -4649,7 +4650,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Azer](hd_monsters_azer.md)'
   AttributesDictionary: >+
     Name: Azer
 
@@ -4811,6 +4811,7 @@ SubItems:
   Family: MonsterVO
   Name: Baboon
   Source: (SRD p367)
+  AltName: '[Babouin](hd_monsters_babouin.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -4830,7 +4831,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Babouin](hd_monsters_babouin.md)'
   AttributesDictionary: >+
     Name: Baboon
 
@@ -4962,6 +4962,7 @@ SubItems:
   Family: MonsterVO
   Name: Gibbering Mouther
   Source: (SRD p314)
+  AltName: '[Babélien](hd_monsters_babelien.md)'
   Type: aberration
   Size: Medium
   Alignment: neutral
@@ -4982,7 +4983,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Babélien](hd_monsters_babelien.md)'
   AttributesDictionary: >+
     Name: Gibbering Mouther
 
@@ -5144,6 +5144,7 @@ SubItems:
   Family: MonsterVO
   Name: Balor
   Source: (SRD p270)
+  AltName: '[Balor](hd_monsters_balor.md)'
   Type: fiend (demon)
   Size: Huge
   Alignment: chaotic evil
@@ -5167,7 +5168,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Balor](hd_monsters_balor.md)'
   AttributesDictionary: >+
     Name: Balor
 
@@ -5365,6 +5365,7 @@ SubItems:
   Family: MonsterVO
   Name: Bandit
   Source: (SRD p396)
+  AltName: '[Bandit](hd_monsters_bandit.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-lawful alignment
@@ -5384,7 +5385,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Bandit](hd_monsters_bandit.md)'
   AttributesDictionary: >+
     Name: Bandit
 
@@ -5516,6 +5516,7 @@ SubItems:
   Family: MonsterVO
   Name: Bandit Captain
   Source: (SRD p397)
+  AltName: '[Capitaine Bandit](hd_monsters_capitaine_bandit.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-lawful alignment
@@ -5537,7 +5538,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Capitaine Bandit](hd_monsters_capitaine_bandit.md)'
   AttributesDictionary: >+
     Name: Bandit Captain
 
@@ -5699,6 +5699,7 @@ SubItems:
   Family: MonsterVO
   Name: Basilisk
   Source: (SRD p265)
+  AltName: '[Basilic](hd_monsters_basilic.md)'
   Type: monstrosity
   Size: Medium
   Alignment: unaligned
@@ -5718,7 +5719,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Basilic](hd_monsters_basilic.md)'
   AttributesDictionary: >+
     Name: Basilisk
 
@@ -5850,6 +5850,7 @@ SubItems:
   Family: MonsterVO
   Name: Axe Beak
   Source: (SRD p366)
+  AltName: '[Bec de hache](hd_monsters_bec_de_hache.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -5869,7 +5870,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Bec de hache](hd_monsters_bec_de_hache.md)'
   AttributesDictionary: >+
     Name: Axe Beak
 
@@ -5989,6 +5989,7 @@ SubItems:
   Family: MonsterVO
   Name: Weasel
   Source: (SRD p392)
+  AltName: '[Belette](hd_monsters_belette.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -6009,7 +6010,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Belette](hd_monsters_belette.md)'
   AttributesDictionary: >+
     Name: Weasel
 
@@ -6147,6 +6147,7 @@ SubItems:
   Family: MonsterVO
   Name: Giant Weasel
   Source: (SRD p381)
+  AltName: '[Belette géante](hd_monsters_belette_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -6167,7 +6168,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Belette géante](hd_monsters_belette_geante.md)'
   AttributesDictionary: >+
     Name: Giant Weasel
 
@@ -6305,6 +6305,7 @@ SubItems:
   Family: MonsterVO
   Name: Berserker
   Source: (SRD p397)
+  AltName: '[Berserker](hd_monsters_berserker.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any chaotic alignment
@@ -6324,7 +6325,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Berserker](hd_monsters_berserker.md)'
   AttributesDictionary: >+
     Name: Berserker
 
@@ -6456,6 +6456,7 @@ SubItems:
   Family: MonsterVO
   Name: Badger
   Source: (SRD p367)
+  AltName: '[Blaireau](hd_monsters_blaireau.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -6475,7 +6476,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blaireau](hd_monsters_blaireau.md)'
   AttributesDictionary: >+
     Name: Badger
 
@@ -6607,6 +6607,7 @@ SubItems:
   Family: MonsterVO
   Name: Giant Badger
   Source: (SRD p373)
+  AltName: '[Blaireau géant](hd_monsters_blaireau_geant.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -6626,7 +6627,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blaireau géant](hd_monsters_blaireau_geant.md)'
   AttributesDictionary: >+
     Name: Giant Badger
 
@@ -6776,6 +6776,7 @@ SubItems:
   Family: MonsterVO
   Name: Ghast
   Source: (SRD p311)
+  AltName: '[Blême](monsters_hd.md#blême)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
@@ -6798,7 +6799,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blême](monsters_hd.md#blême)'
   AttributesDictionary: >+
     Name: Ghast
 
@@ -6966,6 +6966,7 @@ SubItems:
   Family: MonsterVO
   Name: Bulette
   Source: (SRD p266)
+  AltName: '[Bulette](hd_monsters_bulette.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -6986,7 +6987,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Bulette](hd_monsters_bulette.md)'
   AttributesDictionary: >+
     Name: Bulette
 
@@ -7130,6 +7130,7 @@ SubItems:
   Family: MonsterVO
   Name: Behir
   Source: (SRD p265)
+  AltName: '[Béhir](hd_monsters_behir.md)'
   Type: monstrosity
   Size: Huge
   Alignment: neutral evil
@@ -7151,7 +7152,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Béhir](hd_monsters_behir.md)'
   AttributesDictionary: >+
     Name: Behir
 
@@ -7312,6 +7312,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Centaur
+  AltName: '[Centaure](hd_monsters_centaure.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral good
@@ -7332,7 +7333,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Centaure](hd_monsters_centaure.md)'
   AttributesDictionary: >+
     Name: Centaur
 
@@ -7493,6 +7493,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Jackal
+  AltName: '[Chacal](hd_monsters_chacal.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -7513,7 +7514,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chacal](hd_monsters_chacal.md)'
   AttributesDictionary: >+
     Name: Jackal
 
@@ -7650,6 +7650,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Camel
+  AltName: '[Chameau](hd_monsters_chameau.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -7669,7 +7670,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chameau](hd_monsters_chameau.md)'
   AttributesDictionary: >+
     Name: Camel
 
@@ -7782,6 +7782,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Cat
+  AltName: '[Chat](hd_monsters_chat.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -7802,7 +7803,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chat](hd_monsters_chat.md)'
   AttributesDictionary: >+
     Name: Cat
 
@@ -7933,6 +7933,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Bat
+  AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -7952,7 +7953,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
   AttributesDictionary: >+
     Name: Bat
 
@@ -8083,6 +8083,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Bat
+  AltName: '[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -8102,7 +8103,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)'
   AttributesDictionary: >+
     Name: Giant Bat
 
@@ -8233,6 +8233,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Warhorse
+  AltName: '[Cheval de guerre](hd_monsters_cheval_de_guerre.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -8252,7 +8253,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cheval de guerre](hd_monsters_cheval_de_guerre.md)'
   AttributesDictionary: >+
     Name: Warhorse
 
@@ -8377,6 +8377,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Riding Horse
+  AltName: '[Cheval de selle](hd_monsters_cheval_de_selle.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -8396,7 +8397,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cheval de selle](hd_monsters_cheval_de_selle.md)'
   AttributesDictionary: >+
     Name: Riding Horse
 
@@ -8509,6 +8509,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Draft Horse
+  AltName: '[Cheval de trait](hd_monsters_cheval_de_trait.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -8528,7 +8529,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cheval de trait](hd_monsters_cheval_de_trait.md)'
   AttributesDictionary: >+
     Name: Draft Horse
 
@@ -8641,6 +8641,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Knight
+  AltName: '[Chevalier](hd_monsters_chevalier.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -8661,7 +8662,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chevalier](hd_monsters_chevalier.md)'
   AttributesDictionary: >+
     Name: Knight
 
@@ -8828,6 +8828,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Deer
+  AltName: '[Chevreuil](hd_monsters_chevreuil.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -8847,7 +8848,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chevreuil](hd_monsters_chevreuil.md)'
   AttributesDictionary: >+
     Name: Deer
 
@@ -8960,6 +8960,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Death Dog
+  AltName: '[Chien du trépas](hd_monsters_chien_du_trepas.md)'
   Type: monstrosity
   Size: Medium
   Alignment: neutral evil
@@ -8980,7 +8981,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chien du trépas](hd_monsters_chien_du_trepas.md)'
   AttributesDictionary: >+
     Name: Death Dog
 
@@ -9117,6 +9117,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Blink Dog
+  AltName: '[Chien esquiveur](hd_monsters_chien_esquiveur.md)'
   Type: fey
   Size: Medium
   Alignment: lawful good
@@ -9137,7 +9138,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chien esquiveur](hd_monsters_chien_esquiveur.md)'
   AttributesDictionary: >+
     Name: Blink Dog
 
@@ -9274,6 +9274,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Chimera
+  AltName: '[Chimère](hd_monsters_chimere.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
@@ -9294,7 +9295,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chimère](hd_monsters_chimere.md)'
   AttributesDictionary: >+
     Name: Chimera
 
@@ -9449,6 +9449,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Owl
+  AltName: '[Chouette](hd_monsters_chouette.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -9469,7 +9470,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chouette](hd_monsters_chouette.md)'
   AttributesDictionary: >+
     Name: Owl
 
@@ -9606,6 +9606,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Owl
+  AltName: '[Chouette géante](hd_monsters_chouette_geante.md)'
   Type: beast
   Size: Large
   Alignment: neutral
@@ -9626,7 +9627,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chouette géante](hd_monsters_chouette_geante.md)'
   AttributesDictionary: >+
     Name: Giant Owl
 
@@ -9763,6 +9763,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Chuul
+  AltName: '[Chuul](hd_monsters_chuul.md)'
   Type: aberration
   Size: Large
   Alignment: chaotic evil
@@ -9785,7 +9786,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chuul](hd_monsters_chuul.md)'
   AttributesDictionary: >+
     Name: Chuul
 
@@ -9946,6 +9946,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Goat
+  AltName: '[Chèvre](hd_monsters_chevre.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -9965,7 +9966,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chèvre](hd_monsters_chevre.md)'
   AttributesDictionary: >+
     Name: Goat
 
@@ -10096,6 +10096,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Goat
+  AltName: '[Chèvre géante](hd_monsters_chevre_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -10115,7 +10116,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chèvre géante](hd_monsters_chevre_geante.md)'
   AttributesDictionary: >+
     Name: Giant Goat
 
@@ -10246,6 +10246,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Cockatrice
+  AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
   Type: monstrosity
   Size: Small
   Alignment: unaligned
@@ -10265,7 +10266,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
   AttributesDictionary: >+
     Name: Cockatrice
 
@@ -10378,6 +10378,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Raven
+  AltName: '[Corbeau](hd_monsters_corbeau.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -10398,7 +10399,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Corbeau](hd_monsters_corbeau.md)'
   AttributesDictionary: >+
     Name: Raven
 
@@ -10529,6 +10529,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Couatl
+  AltName: '[Couatl](hd_monsters_couatl.md)'
   Type: celestial
   Size: Medium
   Alignment: lawful good
@@ -10551,7 +10552,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Couatl](hd_monsters_couatl.md)'
   AttributesDictionary: >+
     Name: Couatl
 
@@ -10742,6 +10742,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Crab
+  AltName: '[Crabe](hd_monsters_crabe.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -10762,7 +10763,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crabe](hd_monsters_crabe.md)'
   AttributesDictionary: >+
     Name: Crab
 
@@ -10893,6 +10893,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Crab
+  AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -10913,7 +10914,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
   AttributesDictionary: >+
     Name: Giant Crab
 
@@ -11044,6 +11044,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Toad
+  AltName: '[Crapaud géant](hd_monsters_crapaud_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -11063,7 +11064,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crapaud géant](hd_monsters_crapaud_geant.md)'
   AttributesDictionary: >+
     Name: Giant Toad
 
@@ -11200,6 +11200,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Shrieker
+  AltName: '[Criard](hd_monsters_criard.md)'
   Type: plant
   Size: Medium
   Alignment: unaligned
@@ -11220,7 +11221,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Criard](hd_monsters_criard.md)'
   AttributesDictionary: >+
     Name: Shrieker
 
@@ -11345,6 +11345,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Crocodile
+  AltName: '[Crocodile](hd_monsters_crocodile.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -11365,7 +11366,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crocodile](hd_monsters_crocodile.md)'
   AttributesDictionary: >+
     Name: Crocodile
 
@@ -11496,6 +11496,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Crocodile
+  AltName: '[Crocodile géant](hd_monsters_crocodile_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -11516,7 +11517,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crocodile géant](hd_monsters_crocodile_geant.md)'
   AttributesDictionary: >+
     Name: Giant Crocodile
 
@@ -11665,6 +11665,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gelatinous Cube
+  AltName: '[Cube gélatineux](hd_monsters_cube_gelatineux.md)'
   Type: ooze
   Size: Large
   Alignment: unaligned
@@ -11685,7 +11686,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cube gélatineux](hd_monsters_cube_gelatineux.md)'
   AttributesDictionary: >+
     Name: Gelatinous Cube
 
@@ -11828,6 +11828,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Nightmare
+  AltName: '[Destrier noir](hd_monsters_destrier_noir.md)'
   Type: fiend
   Size: Large
   Alignment: neutral evil
@@ -11848,7 +11849,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Destrier noir](hd_monsters_destrier_noir.md)'
   AttributesDictionary: >+
     Name: Nightmare
 
@@ -11991,6 +11991,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Barbed Devil
+  AltName: '[Diable barbelé](hd_monsters_diable_barbele.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
@@ -12015,7 +12016,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable barbelé](hd_monsters_diable_barbele.md)'
   AttributesDictionary: >+
     Name: Barbed Devil
 
@@ -12212,6 +12212,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Bearded Devil
+  AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
@@ -12235,7 +12236,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
   AttributesDictionary: >+
     Name: Bearded Devil
 
@@ -12414,6 +12414,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Horned Devil
+  AltName: '[Diable cornu](hd_monsters_diable_cornu.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
@@ -12437,7 +12438,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable cornu](hd_monsters_diable_cornu.md)'
   AttributesDictionary: >+
     Name: Horned Devil
 
@@ -12622,6 +12622,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Chain Devil
+  AltName: '[Diable des chaînes](hd_monsters_diable_des_chaines.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
@@ -12645,7 +12646,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable des chaînes](hd_monsters_diable_des_chaines.md)'
   AttributesDictionary: >+
     Name: Chain Devil
 
@@ -12824,6 +12824,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ice Devil
+  AltName: '[Diable gelé](hd_monsters_diable_gele.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
@@ -12847,7 +12848,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable gelé](hd_monsters_diable_gele.md)'
   AttributesDictionary: >+
     Name: Ice Devil
 
@@ -13038,6 +13038,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Bone Devil
+  AltName: '[Diable osseux](hd_monsters_diable_osseux.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
@@ -13062,7 +13063,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable osseux](hd_monsters_diable_osseux.md)'
   AttributesDictionary: >+
     Name: Bone Devil
 
@@ -13241,6 +13241,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Imp
+  AltName: '[Diablotin](hd_monsters_diablotin.md)'
   Type: fiend (devil
   Size: Tiny
   Alignment: shapechanger), lawful evil
@@ -13264,7 +13265,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diablotin](hd_monsters_diablotin.md)'
   AttributesDictionary: >+
     Name: Imp
 
@@ -13431,6 +13431,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Pit Fiend
+  AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
@@ -13454,7 +13455,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
   AttributesDictionary: >+
     Name: Pit Fiend
 
@@ -13675,6 +13675,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Djinni
+  AltName: '[Djinn](hd_monsters_djinn.md)'
   Type: elemental
   Size: Large
   Alignment: chaotic good
@@ -13696,7 +13697,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Djinn](hd_monsters_djinn.md)'
   AttributesDictionary: >+
     Name: Djinni
 
@@ -13869,6 +13869,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Doppelganger
+  AltName: '[Doppleganger](hd_monsters_doppleganger.md)'
   Type: monstrosity (shapechanger)
   Size: Medium
   Alignment: neutral
@@ -13890,7 +13891,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Doppleganger](hd_monsters_doppleganger.md)'
   AttributesDictionary: >+
     Name: Doppelganger
 
@@ -14051,6 +14051,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult White Dragon
+  AltName: '[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic evil
@@ -14073,7 +14074,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)'
   AttributesDictionary: >+
     Name: Adult White Dragon
 
@@ -14294,6 +14294,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient White Dragon
+  AltName: '[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic evil
@@ -14316,7 +14317,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient White Dragon
 
@@ -14537,6 +14537,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young White Dragon
+  AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic evil
@@ -14559,7 +14560,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
   AttributesDictionary: >+
     Name: Young White Dragon
 
@@ -14726,6 +14726,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: White Dragon Wyrmling
+  AltName: '[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic evil
@@ -14748,7 +14749,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)'
   AttributesDictionary: >+
     Name: White Dragon Wyrmling
 
@@ -14885,6 +14885,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Blue Dragon
+  AltName: '[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: lawful evil
@@ -14907,7 +14908,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Blue Dragon
 
@@ -15122,6 +15122,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Blue Dragon
+  AltName: '[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: lawful evil
@@ -15144,7 +15145,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Blue Dragon
 
@@ -15359,6 +15359,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Blue Dragon
+  AltName: '[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)'
   Type: dragon
   Size: Large
   Alignment: lawful evil
@@ -15381,7 +15382,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)'
   AttributesDictionary: >+
     Name: Young Blue Dragon
 
@@ -15536,6 +15536,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Blue Dragon Wyrmling
+  AltName: '[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)'
   Type: dragon
   Size: Medium
   Alignment: lawful evil
@@ -15558,7 +15559,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)'
   AttributesDictionary: >+
     Name: Blue Dragon Wyrmling
 
@@ -15695,6 +15695,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Brass Dragon
+  AltName: "[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)"
   Type: dragon
   Size: Huge
   Alignment: chaotic good
@@ -15717,7 +15718,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)"
   AttributesDictionary: >+
     Name: Adult Brass Dragon
 
@@ -15944,6 +15944,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Brass Dragon
+  AltName: "[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)"
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic good
@@ -15966,7 +15967,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)"
   AttributesDictionary: >+
     Name: Ancient Brass Dragon
 
@@ -16199,6 +16199,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Brass Dragon
+  AltName: "[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)"
   Type: dragon
   Size: Large
   Alignment: chaotic good
@@ -16221,7 +16222,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)"
   AttributesDictionary: >+
     Name: Young Brass Dragon
 
@@ -16388,6 +16388,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Brass Dragon Wyrmling
+  AltName: "[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)"
   Type: dragon
   Size: Medium
   Alignment: chaotic good
@@ -16410,7 +16411,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)"
   AttributesDictionary: >+
     Name: Brass Dragon Wyrmling
 
@@ -16559,6 +16559,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Silver Dragon
+  AltName: "[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)"
   Type: dragon
   Size: Huge
   Alignment: lawful good
@@ -16581,7 +16582,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)"
   AttributesDictionary: >+
     Name: Adult Silver Dragon
 
@@ -16814,6 +16814,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Silver Dragon
+  AltName: "[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)"
   Type: dragon
   Size: Gargantuan
   Alignment: lawful good
@@ -16836,7 +16837,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)"
   AttributesDictionary: >+
     Name: Ancient Silver Dragon
 
@@ -17069,6 +17069,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Silver Dragon
+  AltName: "[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)"
   Type: dragon
   Size: Large
   Alignment: lawful good
@@ -17091,7 +17092,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)"
   AttributesDictionary: >+
     Name: Young Silver Dragon
 
@@ -17258,6 +17258,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Silver Dragon Wyrmling
+  AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
   Type: dragon
   Size: Medium
   Alignment: lawful good
@@ -17280,7 +17281,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
   AttributesDictionary: >+
     Name: Silver Dragon Wyrmling
 
@@ -17429,6 +17429,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Gold Dragon
+  AltName: "[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)"
   Type: dragon
   Size: Huge
   Alignment: lawful good
@@ -17451,7 +17452,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)"
   AttributesDictionary: >+
     Name: Adult Gold Dragon
 
@@ -17690,6 +17690,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Gold Dragon
+  AltName: "[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)"
   Type: dragon
   Size: Gargantuan
   Alignment: lawful good
@@ -17712,7 +17713,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)"
   AttributesDictionary: >+
     Name: Ancient Gold Dragon
 
@@ -17951,6 +17951,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Gold Dragon
+  AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
   Type: dragon
   Size: Large
   Alignment: lawful good
@@ -17973,7 +17974,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
   AttributesDictionary: >+
     Name: Young Gold Dragon
 
@@ -18152,6 +18152,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gold Dragon Wyrmling
+  AltName: "[Dragonnet d'or](hd_monsters_dragonnet_dor.md)"
   Type: dragon
   Size: Medium
   Alignment: lawful good
@@ -18174,7 +18175,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragonnet d'or](hd_monsters_dragonnet_dor.md)"
   AttributesDictionary: >+
     Name: Gold Dragon Wyrmling
 
@@ -18335,6 +18335,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Bronze Dragon
+  AltName: '[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: lawful good
@@ -18357,7 +18358,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Bronze Dragon
 
@@ -18596,6 +18596,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Bronze Dragon
+  AltName: '[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: lawful good
@@ -18618,7 +18619,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Bronze Dragon
 
@@ -18857,6 +18857,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Bronze Dragon
+  AltName: '[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)'
   Type: dragon
   Size: Large
   Alignment: lawful good
@@ -18879,7 +18880,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)'
   AttributesDictionary: >+
     Name: Young Bronze Dragon
 
@@ -19058,6 +19058,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Bronze Dragon Wyrmling
+  AltName: '[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)'
   Type: dragon
   Size: Medium
   Alignment: lawful good
@@ -19080,7 +19081,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)'
   AttributesDictionary: >+
     Name: Bronze Dragon Wyrmling
 
@@ -19241,6 +19241,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Copper Dragon
+  AltName: '[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic good
@@ -19263,7 +19264,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Copper Dragon
 
@@ -19490,6 +19490,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Copper Dragon
+  AltName: '[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic good
@@ -19512,7 +19513,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Copper Dragon
 
@@ -19745,6 +19745,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Copper Dragon
+  AltName: '[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic good
@@ -19767,7 +19768,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)'
   AttributesDictionary: >+
     Name: Young Copper Dragon
 
@@ -19934,6 +19934,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Copper Dragon Wyrmling
+  AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic good
@@ -19956,7 +19957,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
   AttributesDictionary: >+
     Name: Copper Dragon Wyrmling
 
@@ -20105,6 +20105,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Black Dragon
+  AltName: '[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic evil
@@ -20127,7 +20128,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Black Dragon
 
@@ -20348,6 +20348,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Black Dragon
+  AltName: '[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic evil
@@ -20370,7 +20371,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Black Dragon
 
@@ -20591,6 +20591,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Black Dragon
+  AltName: '[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic evil
@@ -20613,7 +20614,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)'
   AttributesDictionary: >+
     Name: Young Black Dragon
 
@@ -20780,6 +20780,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Black Dragon Wyrmling
+  AltName: '[Dragonnet noir](hd_monsters_dragonnet_noir.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic evil
@@ -20802,7 +20803,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet noir](hd_monsters_dragonnet_noir.md)'
   AttributesDictionary: >+
     Name: Black Dragon Wyrmling
 
@@ -20951,6 +20951,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Red Dragon
+  AltName: '[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic evil
@@ -20973,7 +20974,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Red Dragon
 
@@ -21188,6 +21188,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Red Dragon
+  AltName: '[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic evil
@@ -21210,7 +21211,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Red Dragon
 
@@ -21425,6 +21425,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Red Dragon
+  AltName: '[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic evil
@@ -21447,7 +21448,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)'
   AttributesDictionary: >+
     Name: Young Red Dragon
 
@@ -21602,6 +21602,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Red Dragon Wyrmling
+  AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic evil
@@ -21624,7 +21625,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
   AttributesDictionary: >+
     Name: Red Dragon Wyrmling
 
@@ -21761,6 +21761,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Adult Green Dragon
+  AltName: '[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: lawful evil
@@ -21784,7 +21785,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Green Dragon
 
@@ -22011,6 +22011,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ancient Green Dragon
+  AltName: '[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: lawful evil
@@ -22034,7 +22035,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Green Dragon
 
@@ -22261,6 +22261,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Young Green Dragon
+  AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
   Type: dragon
   Size: Large
   Alignment: lawful evil
@@ -22284,7 +22285,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
   AttributesDictionary: >+
     Name: Young Green Dragon
 
@@ -22457,6 +22457,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Green Dragon Wyrmling
+  AltName: '[Dragonnet vert](hd_monsters_dragonnet_vert.md)'
   Type: dragon
   Size: Medium
   Alignment: lawful evil
@@ -22480,7 +22481,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet vert](hd_monsters_dragonnet_vert.md)'
   AttributesDictionary: >+
     Name: Green Dragon Wyrmling
 
@@ -22635,6 +22635,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Dragon Turtle
+  AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: neutral
@@ -22656,7 +22657,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
   AttributesDictionary: >+
     Name: Dragon Turtle
 
@@ -22829,6 +22829,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Dretch
+  AltName: '[Dretch](hd_monsters_dretch.md)'
   Type: fiend (demon)
   Size: Small
   Alignment: chaotic evil
@@ -22851,7 +22852,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dretch](hd_monsters_dretch.md)'
   AttributesDictionary: >+
     Name: Dretch
 
@@ -23006,6 +23006,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Drider
+  AltName: '[Drider](hd_monsters_drider.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
@@ -23026,7 +23027,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Drider](hd_monsters_drider.md)'
   AttributesDictionary: >+
     Name: Drider
 
@@ -23223,6 +23223,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Drow
+  AltName: '[Drow](hd_monsters_drow.md)'
   Type: humanoid (elf)
   Size: Medium
   Alignment: neutral evil
@@ -23243,7 +23244,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Drow](hd_monsters_drow.md)'
   AttributesDictionary: >+
     Name: Drow
 
@@ -23410,6 +23410,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Druid
+  AltName: '[Druide](hd_monsters_druide.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -23430,7 +23431,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Druide](hd_monsters_druide.md)'
   AttributesDictionary: >+
     Name: Druid
 
@@ -23579,6 +23579,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Dryad
+  AltName: '[Dryade](hd_monsters_dryade.md)'
   Type: fey
   Size: Medium
   Alignment: neutral
@@ -23599,7 +23600,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dryade](hd_monsters_dryade.md)'
   AttributesDictionary: >+
     Name: Dryad
 
@@ -23772,6 +23772,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Duergar
+  AltName: '[Duergar](hd_monsters_duergar.md)'
   Type: humanoid (dwarf)
   Size: Medium
   Alignment: lawful evil
@@ -23792,7 +23793,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Duergar](hd_monsters_duergar.md)'
   AttributesDictionary: >+
     Name: Duergar
 
@@ -23953,6 +23953,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Deva
+  AltName: '[Déva](hd_monsters_deva.md)'
   Type: celestial
   Size: Medium
   Alignment: lawful good
@@ -23976,7 +23977,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Déva](hd_monsters_deva.md)'
   AttributesDictionary: >+
     Name: Deva
 
@@ -24167,6 +24167,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Priest
+  AltName: '[Ecclésiastique](hd_monsters_ecclesiastique.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -24187,7 +24188,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ecclésiastique](hd_monsters_ecclesiastique.md)'
   AttributesDictionary: >+
     Name: Priest
 
@@ -24348,6 +24348,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Roper
+  AltName: '[Enlaceur](hd_monsters_enlaceur.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral evil
@@ -24368,7 +24369,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Enlaceur](hd_monsters_enlaceur.md)'
   AttributesDictionary: >+
     Name: Roper
 
@@ -24535,6 +24535,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Spy
+  AltName: '[Espion](hd_monsters_espion.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -24555,7 +24556,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Espion](hd_monsters_espion.md)'
   AttributesDictionary: >+
     Name: Spy
 
@@ -24710,6 +24710,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Sprite
+  AltName: '[Esprit follet](hd_monsters_esprit_follet.md)'
   Type: fey
   Size: Tiny
   Alignment: neutral good
@@ -24730,7 +24731,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Esprit follet](hd_monsters_esprit_follet.md)'
   AttributesDictionary: >+
     Name: Sprite
 
@@ -24873,6 +24873,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ettercap
+  AltName: '[Ettercap](hd_monsters_ettercap.md)'
   Type: monstrosity
   Size: Medium
   Alignment: neutral evil
@@ -24893,7 +24894,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ettercap](hd_monsters_ettercap.md)'
   AttributesDictionary: >+
     Name: Ettercap
 
@@ -25066,6 +25066,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ettin
+  AltName: '[Ettin](hd_monsters_ettin.md)'
   Type: giant
   Size: Large
   Alignment: chaotic evil
@@ -25086,7 +25087,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ettin](hd_monsters_ettin.md)'
   AttributesDictionary: >+
     Name: Ettin
 
@@ -25241,6 +25241,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Cult Fanatic
+  AltName: '[Fanatique de secte](hd_monsters_fanatique_de_secte.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
@@ -25261,7 +25262,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Fanatique de secte](hd_monsters_fanatique_de_secte.md)'
   AttributesDictionary: >+
     Name: Cult Fanatic
 
@@ -25422,6 +25422,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ghost
+  AltName: '[Fantôme](hd_monsters_fantome.md)'
   Type: undead
   Size: Medium
   Alignment: any alignment
@@ -25444,7 +25445,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Fantôme](hd_monsters_fantome.md)'
   AttributesDictionary: >+
     Name: Ghost
 
@@ -25611,6 +25611,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hawk
+  AltName: '[Faucon](hd_monsters_faucon.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -25631,7 +25632,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Faucon](hd_monsters_faucon.md)'
   AttributesDictionary: >+
     Name: Hawk
 
@@ -25762,6 +25762,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Blood Hawk
+  AltName: '[Faucon de sang](hd_monsters_faucon_de_sang.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -25782,7 +25783,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Faucon de sang](hd_monsters_faucon_de_sang.md)'
   AttributesDictionary: >+
     Name: Blood Hawk
 
@@ -25919,6 +25919,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Will-o'-Wisp
+  AltName: '[Feu follet](hd_monsters_feu_follet.md)'
   Type: undead
   Size: Tiny
   Alignment: chaotic evil
@@ -25941,7 +25942,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Feu follet](hd_monsters_feu_follet.md)'
   AttributesDictionary: >+
     Name: Will-o'-Wisp
 
@@ -26108,6 +26108,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Guard
+  AltName: '[Garde](hd_monsters_garde.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -26128,7 +26129,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Garde](hd_monsters_garde.md)'
   AttributesDictionary: >+
     Name: Guard
 
@@ -26247,6 +26247,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Shield Guardian
+  AltName: '[Garde animé](hd_monsters_garde_anime.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
@@ -26268,7 +26269,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Garde animé](hd_monsters_garde_anime.md)'
   AttributesDictionary: >+
     Name: Shield Guardian
 
@@ -26435,6 +26435,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gargoyle
+  AltName: '[Gargouille](hd_monsters_gargouille.md)'
   Type: elemental
   Size: Medium
   Alignment: chaotic evil
@@ -26457,7 +26458,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gargouille](hd_monsters_gargouille.md)'
   AttributesDictionary: >+
     Name: Gargoyle
 
@@ -26618,6 +26618,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ochre Jelly
+  AltName: '[Gelée ocre](hd_monsters_gelee_ocre.md)'
   Type: ooze
   Size: Large
   Alignment: unaligned
@@ -26640,7 +26641,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gelée ocre](hd_monsters_gelee_ocre.md)'
   AttributesDictionary: >+
     Name: Ochre Jelly
 
@@ -26801,6 +26801,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Glabrezu
+  AltName: '[Glabrezu](hd_monsters_glabrezu.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
@@ -26824,7 +26825,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Glabrezu](hd_monsters_glabrezu.md)'
   AttributesDictionary: >+
     Name: Glabrezu
 
@@ -27009,6 +27009,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gladiator
+  AltName: '[Gladiateur](hd_monsters_gladiateur.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -27030,7 +27031,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gladiateur](hd_monsters_gladiateur.md)'
   AttributesDictionary: >+
     Name: Gladiator
 
@@ -27203,6 +27203,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gnoll
+  AltName: '[Gnoll](hd_monsters_gnoll.md)'
   Type: humanoid (gnoll)
   Size: Medium
   Alignment: chaotic evil
@@ -27222,7 +27223,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gnoll](hd_monsters_gnoll.md)'
   AttributesDictionary: >+
     Name: Gnoll
 
@@ -27371,6 +27371,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Deep Gnome (Svirfneblin)
+  AltName: '[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)'
   Type: humanoid (gnome)
   Size: Small
   Alignment: neutral good
@@ -27391,7 +27392,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)'
   AttributesDictionary: >+
     Name: Deep Gnome (Svirfneblin)
 
@@ -27558,6 +27558,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Goblin
+  AltName: '[Gobelin](hd_monsters_gobelin.md)'
   Type: humanoid (goblinoid)
   Size: Small
   Alignment: neutral evil
@@ -27578,7 +27579,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gobelin](hd_monsters_gobelin.md)'
   AttributesDictionary: >+
     Name: Goblin
 
@@ -27721,6 +27721,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Bugbear
+  AltName: '[Gobelours](hd_monsters_gobelours.md)'
   Type: humanoid (goblinoid)
   Size: Medium
   Alignment: chaotic evil
@@ -27741,7 +27742,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gobelours](hd_monsters_gobelours.md)'
   AttributesDictionary: >+
     Name: Bugbear
 
@@ -27890,6 +27890,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Clay Golem
+  AltName: "[Golem d'argile](hd_monsters_golem_dargile.md)"
   Type: construct
   Size: Large
   Alignment: unaligned
@@ -27911,7 +27912,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Golem d'argile](hd_monsters_golem_dargile.md)"
   AttributesDictionary: >+
     Name: Clay Golem
 
@@ -28084,6 +28084,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Flesh Golem
+  AltName: '[Golem de chair](hd_monsters_golem_de_chair.md)'
   Type: construct
   Size: Medium
   Alignment: neutral
@@ -28105,7 +28106,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Golem de chair](hd_monsters_golem_de_chair.md)'
   AttributesDictionary: >+
     Name: Flesh Golem
 
@@ -28278,6 +28278,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Iron Golem
+  AltName: '[Golem de fer](hd_monsters_golem_de_fer.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
@@ -28299,7 +28300,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Golem de fer](hd_monsters_golem_de_fer.md)'
   AttributesDictionary: >+
     Name: Iron Golem
 
@@ -28478,6 +28478,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Stone Golem
+  AltName: '[Golem de pierre](hd_monsters_golem_de_pierre.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
@@ -28499,7 +28500,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Golem de pierre](hd_monsters_golem_de_pierre.md)'
   AttributesDictionary: >+
     Name: Stone Golem
 
@@ -28660,6 +28660,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gorgon
+  AltName: '[Gorgone](hd_monsters_gorgone.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -28681,7 +28682,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gorgone](hd_monsters_gorgone.md)'
   AttributesDictionary: >+
     Name: Gorgon
 
@@ -28836,6 +28836,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ghoul
+  AltName: '[Goule](hd_monsters_goule.md)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
@@ -28857,7 +28858,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Goule](hd_monsters_goule.md)'
   AttributesDictionary: >+
     Name: Ghoul
 
@@ -28994,6 +28994,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ape
+  AltName: '[Grand singe](hd_monsters_grand_singe.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -29014,7 +29015,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grand singe](hd_monsters_grand_singe.md)'
   AttributesDictionary: >+
     Name: Ape
 
@@ -29151,6 +29151,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Frog
+  AltName: '[Grenouille](hd_monsters_grenouille.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -29171,7 +29172,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grenouille](hd_monsters_grenouille.md)'
   AttributesDictionary: >+
     Name: Frog
 
@@ -29290,6 +29290,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Frog
+  AltName: '[Grenouille géante](hd_monsters_grenouille_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -29310,7 +29311,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grenouille géante](hd_monsters_grenouille_geante.md)'
   AttributesDictionary: >+
     Name: Giant Frog
 
@@ -29453,6 +29453,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Grick
+  AltName: '[Grick](hd_monsters_grick.md)'
   Type: monstrosity
   Size: Medium
   Alignment: neutral
@@ -29473,7 +29474,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grick](hd_monsters_grick.md)'
   AttributesDictionary: >+
     Name: Grick
 
@@ -29622,6 +29622,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Griffon
+  AltName: '[Griffon](hd_monsters_griffon.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -29642,7 +29643,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Griffon](hd_monsters_griffon.md)'
   AttributesDictionary: >+
     Name: Griffon
 
@@ -29791,6 +29791,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Sea Hag
+  AltName: '[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)'
   Type: fey
   Size: Medium
   Alignment: chaotic evil
@@ -29810,7 +29811,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)'
   AttributesDictionary: >+
     Name: Sea Hag
 
@@ -29953,6 +29953,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Night Hag
+  AltName: '[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)'
   Type: fiend
   Size: Medium
   Alignment: neutral evil
@@ -29975,7 +29976,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)'
   AttributesDictionary: >+
     Name: Night Hag
 
@@ -30154,6 +30154,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Green Hag
+  AltName: '[Guenaude verte](hd_monsters_guenaude_verte.md)'
   Type: fey
   Size: Medium
   Alignment: neutral evil
@@ -30174,7 +30175,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guenaude verte](hd_monsters_guenaude_verte.md)'
   AttributesDictionary: >+
     Name: Green Hag
 
@@ -30335,6 +30335,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Tribal Warrior
+  AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -30354,7 +30355,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
   AttributesDictionary: >+
     Name: Tribal Warrior
 
@@ -30479,6 +30479,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Wasp
+  AltName: '[Guêpe géante](hd_monsters_guepe_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -30498,7 +30499,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guêpe géante](hd_monsters_guepe_geante.md)'
   AttributesDictionary: >+
     Name: Giant Wasp
 
@@ -30611,6 +30611,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gynosphinx
+  AltName: '[Gynosphinx](hd_monsters_gynosphinx.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful neutral
@@ -30634,7 +30635,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gynosphinx](hd_monsters_gynosphinx.md)'
   AttributesDictionary: >+
     Name: Gynosphinx
 
@@ -30867,6 +30867,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hill Giant
+  AltName: '[Géant des collines](hd_monsters_geant_des_collines.md)'
   Type: giant
   Size: Huge
   Alignment: chaotic evil
@@ -30887,7 +30888,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des collines](hd_monsters_geant_des_collines.md)'
   AttributesDictionary: >+
     Name: Hill Giant
 
@@ -31024,6 +31024,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Cloud Giant
+  AltName: '[Géant des nuages](hd_monsters_geant_des_nuages.md)'
   Type: giant
   Size: Huge
   Alignment: neutral good (50 %) or neutral evil (50 %)
@@ -31045,7 +31046,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des nuages](hd_monsters_geant_des_nuages.md)'
   AttributesDictionary: >+
     Name: Cloud Giant
 
@@ -31224,6 +31224,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Stone Giant
+  AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
   Type: giant
   Size: Huge
   Alignment: neutral
@@ -31245,7 +31246,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
   AttributesDictionary: >+
     Name: Stone Giant
 
@@ -31406,6 +31406,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Storm Giant
+  AltName: '[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)'
   Type: giant
   Size: Huge
   Alignment: chaotic good
@@ -31429,7 +31430,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)'
   AttributesDictionary: >+
     Name: Storm Giant
 
@@ -31620,6 +31620,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Fire Giant
+  AltName: '[Géant du feu](hd_monsters_geant_du_feu.md)'
   Type: giant
   Size: Huge
   Alignment: lawful evil
@@ -31642,7 +31643,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant du feu](hd_monsters_geant_du_feu.md)'
   AttributesDictionary: >+
     Name: Fire Giant
 
@@ -31791,6 +31791,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Frost Giant
+  AltName: '[Géant du givre](hd_monsters_geant_du_givre.md)'
   Type: giant
   Size: Huge
   Alignment: neutral evil
@@ -31813,7 +31814,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant du givre](hd_monsters_geant_du_givre.md)'
   AttributesDictionary: >+
     Name: Frost Giant
 
@@ -31962,6 +31962,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Harpy
+  AltName: '[Harpie](hd_monsters_harpie.md)'
   Type: monstrosity
   Size: Medium
   Alignment: chaotic evil
@@ -31981,7 +31982,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Harpie](hd_monsters_harpie.md)'
   AttributesDictionary: >+
     Name: Harpy
 
@@ -32118,6 +32118,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hezrou
+  AltName: '[Hezrou](hd_monsters_hezrou.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
@@ -32141,7 +32142,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hezrou](hd_monsters_hezrou.md)'
   AttributesDictionary: >+
     Name: Hezrou
 
@@ -32314,6 +32314,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Owlbear
+  AltName: '[Hibours](hd_monsters_hibours.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -32334,7 +32335,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hibours](hd_monsters_hibours.md)'
   AttributesDictionary: >+
     Name: Owlbear
 
@@ -32483,6 +32483,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Sea Horse
+  AltName: '[Hippocampe](hd_monsters_hippocampe.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -32502,7 +32503,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hippocampe](hd_monsters_hippocampe.md)'
   AttributesDictionary: >+
     Name: Sea Horse
 
@@ -32609,6 +32609,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Sea Horse
+  AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -32628,7 +32629,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
   AttributesDictionary: >+
     Name: Giant Sea Horse
 
@@ -32759,6 +32759,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hippogriff
+  AltName: '[Hippogriffe](hd_monsters_hippogriffe.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
@@ -32779,7 +32780,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hippogriffe](hd_monsters_hippogriffe.md)'
   AttributesDictionary: >+
     Name: Hippogriff
 
@@ -32928,6 +32928,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hobgoblin
+  AltName: '[Hobgobelin](hd_monsters_hobgobelin.md)'
   Type: humanoid (goblinoid)
   Size: Medium
   Alignment: lawful evil
@@ -32947,7 +32948,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hobgobelin](hd_monsters_hobgobelin.md)'
   AttributesDictionary: >+
     Name: Hobgoblin
 
@@ -33084,6 +33084,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Lizardfolk
+  AltName: '[Homme-lézard](hd_monsters_homme_lezard.md)'
   Type: humanoid (lizardfolk)
   Size: Medium
   Alignment: neutral
@@ -33104,7 +33105,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Homme-lézard](hd_monsters_homme_lezard.md)'
   AttributesDictionary: >+
     Name: Lizardfolk
 
@@ -33277,6 +33277,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Merfolk
+  AltName: '[Homme-poisson](hd_monsters_homme_poisson.md)'
   Type: humanoid (merfolk)
   Size: Medium
   Alignment: neutral
@@ -33297,7 +33298,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Homme-poisson](hd_monsters_homme_poisson.md)'
   AttributesDictionary: >+
     Name: Merfolk
 
@@ -33428,6 +33428,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Homunculus
+  AltName: '[Homoncule](hd_monsters_homoncule.md)'
   Type: construct
   Size: Tiny
   Alignment: neutral
@@ -33449,7 +33450,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Homoncule](hd_monsters_homoncule.md)'
   AttributesDictionary: >+
     Name: Homunculus
 
@@ -33586,6 +33586,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hydra
+  AltName: '[Hydre](hd_monsters_hydre.md)'
   Type: monstrosity
   Size: Huge
   Alignment: unaligned
@@ -33606,7 +33607,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hydre](hd_monsters_hydre.md)'
   AttributesDictionary: >+
     Name: Hydra
 
@@ -33761,6 +33761,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hyena
+  AltName: '[Hyène](hd_monsters_hyene.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -33781,7 +33782,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hyène](hd_monsters_hyene.md)'
   AttributesDictionary: >+
     Name: Hyena
 
@@ -33912,6 +33912,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Hyena
+  AltName: '[Hyène géante](hd_monsters_hyene_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -33932,7 +33933,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hyène géante](hd_monsters_hyene_geante.md)'
   AttributesDictionary: >+
     Name: Giant Hyena
 
@@ -34063,6 +34063,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Kobold
+  AltName: '[Kobold](hd_monsters_kobold.md)'
   Type: humanoid (kobold)
   Size: Small
   Alignment: lawful evil
@@ -34082,7 +34083,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Kobold](hd_monsters_kobold.md)'
   AttributesDictionary: >+
     Name: Kobold
 
@@ -34225,6 +34225,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Kraken
+  AltName: '[Kraken](hd_monsters_kraken.md)'
   Type: monstrosity (titan)
   Size: Gargantuan
   Alignment: chaotic evil
@@ -34247,7 +34248,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Kraken](hd_monsters_kraken.md)'
   AttributesDictionary: >+
     Name: Kraken
 
@@ -34462,6 +34462,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Lamia
+  AltName: '[Lamie](hd_monsters_lamie.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
@@ -34482,7 +34483,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lamie](hd_monsters_lamie.md)'
   AttributesDictionary: >+
     Name: Lamia
 
@@ -34661,6 +34661,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Lich
+  AltName: '[Liche](hd_monsters_liche.md)'
   Type: undead
   Size: Medium
   Alignment: any evil alignment
@@ -34685,7 +34686,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Liche](hd_monsters_liche.md)'
   AttributesDictionary: >+
     Name: Lich
 
@@ -34954,6 +34954,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Unicorn
+  AltName: '[Licorne](hd_monsters_licorne.md)'
   Type: celestial
   Size: Large
   Alignment: lawful good
@@ -34975,7 +34976,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Licorne](hd_monsters_licorne.md)'
   AttributesDictionary: >+
     Name: Unicorn
 
@@ -35202,6 +35202,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Lion
+  AltName: '[Lion](hd_monsters_lion.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -35222,7 +35223,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lion](hd_monsters_lion.md)'
   AttributesDictionary: >+
     Name: Lion
 
@@ -35383,6 +35383,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Wolf
+  AltName: '[Loup](hd_monsters_loup.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -35403,7 +35404,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup](hd_monsters_loup.md)'
   AttributesDictionary: >+
     Name: Wolf
 
@@ -35540,6 +35540,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Winter Wolf
+  AltName: '[Loup arctique](hd_monsters_loup_arctique.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral evil
@@ -35561,7 +35562,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup arctique](hd_monsters_loup_arctique.md)'
   AttributesDictionary: >+
     Name: Winter Wolf
 
@@ -35716,6 +35716,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Dire Wolf
+  AltName: '[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -35736,7 +35737,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)'
   AttributesDictionary: >+
     Name: Dire Wolf
 
@@ -35873,6 +35873,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Werewolf
+  AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), chaotic evil
@@ -35894,7 +35895,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
   AttributesDictionary: >+
     Name: Werewolf
 
@@ -36067,6 +36067,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Lemure
+  AltName: '[Lémure](hd_monsters_lemure.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
@@ -36089,7 +36090,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lémure](hd_monsters_lemure.md)'
   AttributesDictionary: >+
     Name: Lemure
 
@@ -36238,6 +36238,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Lizard
+  AltName: '[Lézard](hd_monsters_lezard.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -36257,7 +36258,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lézard](hd_monsters_lezard.md)'
   AttributesDictionary: >+
     Name: Lizard
 
@@ -36370,6 +36370,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Lizard
+  AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -36389,7 +36390,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
   AttributesDictionary: >+
     Name: Giant Lizard
 
@@ -36502,6 +36502,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mage
+  AltName: '[Mage](hd_monsters_mage.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -36523,7 +36524,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mage](hd_monsters_mage.md)'
   AttributesDictionary: >+
     Name: Mage
 
@@ -36696,6 +36696,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Magmin
+  AltName: '[Magmatique](hd_monsters_magmatique.md)'
   Type: elemental
   Size: Small
   Alignment: chaotic neutral
@@ -36717,7 +36718,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Magmatique](hd_monsters_magmatique.md)'
   AttributesDictionary: >+
     Name: Magmin
 
@@ -36860,6 +36860,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Thug
+  AltName: '[Malfrat](hd_monsters_malfrat.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
@@ -36880,7 +36881,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Malfrat](hd_monsters_malfrat.md)'
   AttributesDictionary: >+
     Name: Thug
 
@@ -37029,6 +37029,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mammoth
+  AltName: '[Mammouth](hd_monsters_mammouth.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -37048,7 +37049,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mammouth](hd_monsters_mammouth.md)'
   AttributesDictionary: >+
     Name: Mammoth
 
@@ -37185,6 +37185,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Darkmantle
+  AltName: '[Mante obscure](hd_monsters_mante_obscure.md)'
   Type: monstrosity
   Size: Small
   Alignment: unaligned
@@ -37205,7 +37206,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mante obscure](hd_monsters_mante_obscure.md)'
   AttributesDictionary: >+
     Name: Darkmantle
 
@@ -37348,6 +37348,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Cloaker
+  AltName: '[Manteleur](hd_monsters_manteleur.md)'
   Type: aberration
   Size: Large
   Alignment: chaotic neutral
@@ -37368,7 +37369,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Manteleur](hd_monsters_manteleur.md)'
   AttributesDictionary: >+
     Name: Cloaker
 
@@ -37541,6 +37541,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Manticore
+  AltName: '[Manticore](hd_monsters_manticore.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful evil
@@ -37560,7 +37561,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Manticore](hd_monsters_manticore.md)'
   AttributesDictionary: >+
     Name: Manticore
 
@@ -37715,6 +37715,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Marilith
+  AltName: '[Marilith](hd_monsters_marilith.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
@@ -37738,7 +37739,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Marilith](hd_monsters_marilith.md)'
   AttributesDictionary: >+
     Name: Marilith
 
@@ -37935,6 +37935,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Cultist
+  AltName: '[Membre de secte](hd_monsters_membre_de_secte.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
@@ -37955,7 +37956,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Membre de secte](hd_monsters_membre_de_secte.md)'
   AttributesDictionary: >+
     Name: Cultist
 
@@ -38086,6 +38086,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Merrow
+  AltName: '[Merrow](hd_monsters_merrow.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
@@ -38105,7 +38106,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Merrow](hd_monsters_merrow.md)'
   AttributesDictionary: >+
     Name: Merrow
 
@@ -38260,6 +38260,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Centipede
+  AltName: '[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -38279,7 +38280,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)'
   AttributesDictionary: >+
     Name: Giant Centipede
 
@@ -38392,6 +38392,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mimic
+  AltName: '[Mimique](hd_monsters_mimique.md)'
   Type: monstrosity (shapechanger)
   Size: Medium
   Alignment: neutral
@@ -38414,7 +38415,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mimique](hd_monsters_mimique.md)'
   AttributesDictionary: >+
     Name: Mimic
 
@@ -38587,6 +38587,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Minotaur
+  AltName: '[Minotaure](hd_monsters_minotaure.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
@@ -38607,7 +38608,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Minotaure](hd_monsters_minotaure.md)'
   AttributesDictionary: >+
     Name: Minotaur
 
@@ -38762,6 +38762,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Violet Fungus
+  AltName: '[Moisissure violette](hd_monsters_moisissure_violette.md)'
   Type: plant
   Size: Medium
   Alignment: unaligned
@@ -38782,7 +38783,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Moisissure violette](hd_monsters_moisissure_violette.md)'
   AttributesDictionary: >+
     Name: Violet Fungus
 
@@ -38919,6 +38919,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mastiff
+  AltName: '[Mastiff](hd_monsters_mastiff.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -38939,7 +38940,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mastiff](hd_monsters_mastiff.md)'
   AttributesDictionary: >+
     Name: Mastiff
 
@@ -39070,6 +39070,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hell Hound
+  AltName: '[Molosse infernal](hd_monsters_molosse_infernal.md)'
   Type: fiend
   Size: Medium
   Alignment: lawful evil
@@ -39091,7 +39092,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Molosse infernal](hd_monsters_molosse_infernal.md)'
   AttributesDictionary: >+
     Name: Hell Hound
 
@@ -39246,6 +39246,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mummy
+  AltName: '[Momie](hd_monsters_momie.md)'
   Type: undead
   Size: Medium
   Alignment: lawful evil
@@ -39269,7 +39270,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Momie](hd_monsters_momie.md)'
   AttributesDictionary: >+
     Name: Mummy
 
@@ -39422,6 +39422,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mummy Lord
+  AltName: '[Momie auguste](hd_monsters_momie_auguste.md)'
   Type: undead
   Size: Medium
   Alignment: lawful evil
@@ -39445,7 +39446,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Momie auguste](hd_monsters_momie_auguste.md)'
   AttributesDictionary: >+
     Name: Mummy Lord
 
@@ -39706,6 +39706,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Mule
+  AltName: '[Mule](hd_monsters_mule.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -39725,7 +39726,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mule](hd_monsters_mule.md)'
   AttributesDictionary: >+
     Name: Mule
 
@@ -39856,6 +39856,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Medusa
+  AltName: '[Méduse](hd_monsters_meduse.md)'
   Type: monstrosity
   Size: Medium
   Alignment: lawful evil
@@ -39876,7 +39877,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méduse](hd_monsters_meduse.md)'
   AttributesDictionary: >+
     Name: Medusa
 
@@ -40037,6 +40037,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ice Mephit
+  AltName: '[Méphite de glace](hd_monsters_mephite_de_glace.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
@@ -40059,7 +40060,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de glace](hd_monsters_mephite_de_glace.md)'
   AttributesDictionary: >+
     Name: Ice Mephit
 
@@ -40224,6 +40224,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Magma Mephit
+  AltName: '[Méphite de magma](hd_monsters_mephite_de_magma.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
@@ -40246,7 +40247,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de magma](hd_monsters_mephite_de_magma.md)'
   AttributesDictionary: >+
     Name: Magma Mephit
 
@@ -40411,6 +40411,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Dust Mephit
+  AltName: '[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
@@ -40433,7 +40434,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)'
   AttributesDictionary: >+
     Name: Dust Mephit
 
@@ -40592,6 +40592,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Steam Mephit
+  AltName: '[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
@@ -40613,7 +40614,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)'
   AttributesDictionary: >+
     Name: Steam Mephit
 
@@ -40762,6 +40762,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Spirit Naga
+  AltName: '[Naga corrupteur](hd_monsters_naga_corrupteur.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
@@ -40784,7 +40785,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Naga corrupteur](hd_monsters_naga_corrupteur.md)'
   AttributesDictionary: >+
     Name: Spirit Naga
 
@@ -40969,6 +40969,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Guardian Naga
+  AltName: '[Naga gardien](hd_monsters_naga_gardien.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful good
@@ -40991,7 +40992,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Naga gardien](hd_monsters_naga_gardien.md)'
   AttributesDictionary: >+
     Name: Guardian Naga
 
@@ -41194,6 +41194,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Nalfeshnee
+  AltName: '[Nalfeshnie](hd_monsters_nalfeshnie.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
@@ -41217,7 +41218,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nalfeshnie](hd_monsters_nalfeshnie.md)'
   AttributesDictionary: >+
     Name: Nalfeshnee
 
@@ -41396,6 +41396,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Noble
+  AltName: '[Noble](hd_monsters_noble.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -41416,7 +41417,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Noble](hd_monsters_noble.md)'
   AttributesDictionary: >+
     Name: Noble
 
@@ -41547,6 +41547,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Swarm of Insects
+  AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
@@ -41568,7 +41569,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
   AttributesDictionary: >+
     Name: Swarm of Insects
 
@@ -41705,6 +41705,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Swarm of Bats
+  AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
@@ -41726,7 +41727,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
   AttributesDictionary: >+
     Name: Swarm of Bats
 
@@ -41875,6 +41875,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Swarm of Ravens
+  AltName: '[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
@@ -41897,7 +41898,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)'
   AttributesDictionary: >+
     Name: Swarm of Ravens
 
@@ -42040,6 +42040,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Swarm of Quippers
+  AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
@@ -42061,7 +42062,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
   AttributesDictionary: >+
     Name: Swarm of Quippers
 
@@ -42210,6 +42210,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Swarm of Rats
+  AltName: '[Nuée de rats](hd_monsters_nuee_de_rats.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
@@ -42231,7 +42232,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de rats](hd_monsters_nuee_de_rats.md)'
   AttributesDictionary: >+
     Name: Swarm of Rats
 
@@ -42374,6 +42374,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Swarm of Poisonous Snakes
+  AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
@@ -42395,7 +42396,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
   AttributesDictionary: >+
     Name: Swarm of Poisonous Snakes
 
@@ -42532,6 +42532,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Wight
+  AltName: '[Nécrophage](hd_monsters_necrophage.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
@@ -42555,7 +42556,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nécrophage](hd_monsters_necrophage.md)'
   AttributesDictionary: >+
     Name: Wight
 
@@ -42734,6 +42734,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ogre
+  AltName: '[Ogre](hd_monsters_ogre.md)'
   Type: giant
   Size: Large
   Alignment: chaotic evil
@@ -42753,7 +42754,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ogre](hd_monsters_ogre.md)'
   AttributesDictionary: >+
     Name: Ogre
 
@@ -42878,6 +42878,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Shadow
+  AltName: '[Ombre](hd_monsters_ombre.md)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
@@ -42901,7 +42902,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ombre](hd_monsters_ombre.md)'
   AttributesDictionary: >+
     Name: Shadow
 
@@ -43066,6 +43066,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Oni
+  AltName: '[Oni](hd_monsters_oni.md)'
   Type: giant
   Size: Large
   Alignment: lawful evil
@@ -43087,7 +43088,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Oni](hd_monsters_oni.md)'
   AttributesDictionary: >+
     Name: Oni
 
@@ -43272,6 +43272,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Orc
+  AltName: '[Orc](hd_monsters_orc.md)'
   Type: humanoid (orc)
   Size: Medium
   Alignment: chaotic evil
@@ -43292,7 +43293,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Orc](hd_monsters_orc.md)'
   AttributesDictionary: >+
     Name: Orc
 
@@ -43435,6 +43435,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Otyugh
+  AltName: '[Otyugh](hd_monsters_otyugh.md)'
   Type: aberration
   Size: Large
   Alignment: neutral
@@ -43455,7 +43456,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Otyugh](hd_monsters_otyugh.md)'
   AttributesDictionary: >+
     Name: Otyugh
 
@@ -43610,6 +43610,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Brown Bear
+  AltName: '[Ours brun](hd_monsters_ours_brun.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -43630,7 +43631,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours brun](hd_monsters_ours_brun.md)'
   AttributesDictionary: >+
     Name: Brown Bear
 
@@ -43779,6 +43779,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Black Bear
+  AltName: '[Ours noir](hd_monsters_ours_noir.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -43799,7 +43800,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours noir](hd_monsters_ours_noir.md)'
   AttributesDictionary: >+
     Name: Black Bear
 
@@ -43948,6 +43948,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Polar Bear
+  AltName: '[Ours polaire](hd_monsters_ours_polaire.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -43968,7 +43969,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours polaire](hd_monsters_ours_polaire.md)'
   AttributesDictionary: >+
     Name: Polar Bear
 
@@ -44117,6 +44117,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Werebear
+  AltName: '[Ours-garou](hd_monsters_ours_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), neutral good
@@ -44138,7 +44139,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours-garou](hd_monsters_ours_garou.md)'
   AttributesDictionary: >+
     Name: Werebear
 
@@ -44311,6 +44311,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Rust Monster
+  AltName: '[Oxydeur](hd_monsters_oxydeur.md)'
   Type: monstrosity
   Size: Medium
   Alignment: unaligned
@@ -44330,7 +44331,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Oxydeur](hd_monsters_oxydeur.md)'
   AttributesDictionary: >+
     Name: Rust Monster
 
@@ -44467,6 +44467,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Panther
+  AltName: '[Panthère](hd_monsters_panthere.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -44487,7 +44488,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Panthère](hd_monsters_panthere.md)'
   AttributesDictionary: >+
     Name: Panther
 
@@ -44636,6 +44636,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Octopus
+  AltName: '[Pieuvre](hd_monsters_pieuvre.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -44656,7 +44657,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pieuvre](hd_monsters_pieuvre.md)'
   AttributesDictionary: >+
     Name: Octopus
 
@@ -44805,6 +44805,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Octopus
+  AltName: '[Pieuvre géante](hd_monsters_pieuvre_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -44825,7 +44826,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pieuvre géante](hd_monsters_pieuvre_geante.md)'
   AttributesDictionary: >+
     Name: Giant Octopus
 
@@ -44974,6 +44974,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Quipper
+  AltName: '[Piranha](hd_monsters_piranha.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -44993,7 +44994,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Piranha](hd_monsters_piranha.md)'
   AttributesDictionary: >+
     Name: Quipper
 
@@ -45124,6 +45124,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Planetar
+  AltName: '[Planétar](hd_monsters_planetar.md)'
   Type: celestial
   Size: Large
   Alignment: lawful good
@@ -45147,7 +45148,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Planétar](hd_monsters_planetar.md)'
   AttributesDictionary: >+
     Name: Planetar
 
@@ -45344,6 +45344,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Plesiosaurus
+  AltName: '[Plésiosaure](hd_monsters_plesiosaure.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -45364,7 +45365,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Plésiosaure](hd_monsters_plesiosaure.md)'
   AttributesDictionary: >+
     Name: Plesiosaurus
 
@@ -45495,6 +45495,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Pony
+  AltName: '[Poney](hd_monsters_poney.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -45514,7 +45515,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Poney](hd_monsters_poney.md)'
   AttributesDictionary: >+
     Name: Pony
 
@@ -45627,6 +45627,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Black Pudding
+  AltName: '[Pouding noir](hd_monsters_pouding_noir.md)'
   Type: ooze
   Size: Large
   Alignment: unaligned
@@ -45648,7 +45649,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pouding noir](hd_monsters_pouding_noir.md)'
   AttributesDictionary: >+
     Name: Black Pudding
 
@@ -45809,6 +45809,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Pseudodragon
+  AltName: '[Pseudodragon](hd_monsters_pseudodragon.md)'
   Type: dragon
   Size: Tiny
   Alignment: neutral good
@@ -45829,7 +45830,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pseudodragon](hd_monsters_pseudodragon.md)'
   AttributesDictionary: >+
     Name: Pseudodragon
 
@@ -45984,6 +45984,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Fire Beetle
+  AltName: '[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -46003,7 +46004,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)'
   AttributesDictionary: >+
     Name: Giant Fire Beetle
 
@@ -46128,6 +46128,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Pegasus
+  AltName: '[Pégase](hd_monsters_pegase.md)'
   Type: celestial
   Size: Large
   Alignment: chaotic good
@@ -46149,7 +46150,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pégase](hd_monsters_pegase.md)'
   AttributesDictionary: >+
     Name: Pegasus
 
@@ -46274,6 +46274,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Quasit
+  AltName: '[Quasit](hd_monsters_quasit.md)'
   Type: fiend (demon
   Size: Tiny
   Alignment: shapechanger), chaotic evil
@@ -46297,7 +46298,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Quasit](hd_monsters_quasit.md)'
   AttributesDictionary: >+
     Name: Quasit
 
@@ -46464,6 +46464,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Rakshasa
+  AltName: '[Rakshasa](hd_monsters_rakshasa.md)'
   Type: fiend
   Size: Medium
   Alignment: lawful evil
@@ -46485,7 +46486,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rakshasa](hd_monsters_rakshasa.md)'
   AttributesDictionary: >+
     Name: Rakshasa
 
@@ -46656,6 +46656,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Rat
+  AltName: '[Rat](hd_monsters_rat.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -46675,7 +46676,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rat](hd_monsters_rat.md)'
   AttributesDictionary: >+
     Name: Rat
 
@@ -46800,6 +46800,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Rat
+  AltName: '[Rat géant](hd_monsters_rat_geant.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
@@ -46819,7 +46820,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rat géant](hd_monsters_rat_geant.md)'
   AttributesDictionary: >+
     Name: Giant Rat
 
@@ -46950,6 +46950,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Wererat
+  AltName: '[Rat-garou](hd_monsters_rat_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), lawful evil
@@ -46971,7 +46972,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rat-garou](hd_monsters_rat_garou.md)'
   AttributesDictionary: >+
     Name: Wererat
 
@@ -47144,6 +47144,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Reef Shark
+  AltName: '[Requin de récif](hd_monsters_requin_de_recif.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -47164,7 +47165,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Requin de récif](hd_monsters_requin_de_recif.md)'
   AttributesDictionary: >+
     Name: Reef Shark
 
@@ -47301,6 +47301,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Shark
+  AltName: '[Requin géant](hd_monsters_requin_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -47321,7 +47322,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Requin géant](hd_monsters_requin_geant.md)'
   AttributesDictionary: >+
     Name: Giant Shark
 
@@ -47458,6 +47458,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Hunter Shark
+  AltName: '[Requin chasseur](hd_monsters_requin_chasseur.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -47478,7 +47479,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Requin chasseur](hd_monsters_requin_chasseur.md)'
   AttributesDictionary: >+
     Name: Hunter Shark
 
@@ -47615,6 +47615,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Rhinoceros
+  AltName: '[Rhinocéros](hd_monsters_rhinoceros.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -47634,7 +47635,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rhinocéros](hd_monsters_rhinoceros.md)'
   AttributesDictionary: >+
     Name: Rhinoceros
 
@@ -47759,6 +47759,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Roc
+  AltName: '[Roc](hd_monsters_roc.md)'
   Type: monstrosity
   Size: Gargantuan
   Alignment: unaligned
@@ -47780,7 +47781,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Roc](hd_monsters_roc.md)'
   AttributesDictionary: >+
     Name: Roc
 
@@ -47935,6 +47935,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Commoner
+  AltName: '[Roturier](hd_monsters_roturier.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -47954,7 +47955,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Roturier](hd_monsters_roturier.md)'
   AttributesDictionary: >+
     Name: Commoner
 
@@ -48067,6 +48067,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Remorhaz
+  AltName: '[Remorhaz](hd_monsters_remorhaz.md)'
   Type: monstrosity
   Size: Huge
   Alignment: unaligned
@@ -48087,7 +48088,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Remorhaz](hd_monsters_remorhaz.md)'
   AttributesDictionary: >+
     Name: Remorhaz
 
@@ -48224,6 +48224,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Sahuagin
+  AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
   Type: humanoid (sahuagin)
   Size: Medium
   Alignment: lawful evil
@@ -48244,7 +48245,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
   AttributesDictionary: >+
     Name: Sahuagin
 
@@ -48417,6 +48417,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Salamander
+  AltName: '[Salamandre](hd_monsters_salamandre.md)'
   Type: elemental
   Size: Large
   Alignment: neutral evil
@@ -48438,7 +48439,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Salamandre](hd_monsters_salamandre.md)'
   AttributesDictionary: >+
     Name: Salamander
 
@@ -48603,6 +48603,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Boar
+  AltName: '[Sanglier](hd_monsters_sanglier.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -48622,7 +48623,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sanglier](hd_monsters_sanglier.md)'
   AttributesDictionary: >+
     Name: Boar
 
@@ -48753,6 +48753,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Boar
+  AltName: '[Sanglier géant](hd_monsters_sanglier_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -48772,7 +48773,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sanglier géant](hd_monsters_sanglier_geant.md)'
   AttributesDictionary: >+
     Name: Giant Boar
 
@@ -48903,6 +48903,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Wereboar
+  AltName: '[Sanglier-garou](hd_monsters_sanglier_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), neutral evil
@@ -48924,7 +48925,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sanglier-garou](hd_monsters_sanglier_garou.md)'
   AttributesDictionary: >+
     Name: Wereboar
 
@@ -49091,6 +49091,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Satyr
+  AltName: '[Satyre](hd_monsters_satyre.md)'
   Type: fey
   Size: Medium
   Alignment: chaotic neutral
@@ -49111,7 +49112,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Satyre](hd_monsters_satyre.md)'
   AttributesDictionary: >+
     Name: Satyr
 
@@ -49266,6 +49266,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Scorpion
+  AltName: '[Scorpion](hd_monsters_scorpion.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -49285,7 +49286,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Scorpion](hd_monsters_scorpion.md)'
   AttributesDictionary: >+
     Name: Scorpion
 
@@ -49398,6 +49398,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Scorpion
+  AltName: '[Scorpion géant](hd_monsters_scorpion_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -49417,7 +49418,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Scorpion géant](hd_monsters_scorpion_geant.md)'
   AttributesDictionary: >+
     Name: Giant Scorpion
 
@@ -49548,6 +49548,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Constrictor Snake
+  AltName: '[Serpent constricteur](hd_monsters_serpent_constricteur.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -49567,7 +49568,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent constricteur](hd_monsters_serpent_constricteur.md)'
   AttributesDictionary: >+
     Name: Constrictor Snake
 
@@ -49692,6 +49692,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Constrictor Snake
+  AltName: '[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -49712,7 +49713,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)'
   AttributesDictionary: >+
     Name: Giant Constrictor Snake
 
@@ -49843,6 +49843,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Poisonous Snake
+  AltName: '[Serpent venimeux](hd_monsters_serpent_venimeux.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -49862,7 +49863,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent venimeux](hd_monsters_serpent_venimeux.md)'
   AttributesDictionary: >+
     Name: Poisonous Snake
 
@@ -49975,6 +49975,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Poisonous Snake
+  AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -49995,7 +49996,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
   AttributesDictionary: >+
     Name: Giant Poisonous Snake
 
@@ -50114,6 +50114,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Flying Snake
+  AltName: '[Serpent volant](hd_monsters_serpent_volant.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -50133,7 +50134,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent volant](hd_monsters_serpent_volant.md)'
   AttributesDictionary: >+
     Name: Flying Snake
 
@@ -50258,6 +50258,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Ape
+  AltName: '[Singe géant](hd_monsters_singe_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -50278,7 +50279,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Singe géant](hd_monsters_singe_geant.md)'
   AttributesDictionary: >+
     Name: Giant Ape
 
@@ -50415,6 +50415,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Solar
+  AltName: '[Solar](hd_monsters_solar.md)'
   Type: celestial
   Size: Large
   Alignment: lawful good
@@ -50439,7 +50440,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Solar](hd_monsters_solar.md)'
   AttributesDictionary: >+
     Name: Solar
 
@@ -50690,6 +50690,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Specter
+  AltName: '[Spectre](hd_monsters_spectre.md)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
@@ -50712,7 +50713,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Spectre](hd_monsters_spectre.md)'
   AttributesDictionary: >+
     Name: Specter
 
@@ -50861,6 +50861,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Skeleton
+  AltName: '[Squelette](hd_monsters_squelette.md)'
   Type: undead
   Size: Medium
   Alignment: lawful evil
@@ -50882,7 +50883,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Squelette](hd_monsters_squelette.md)'
   AttributesDictionary: >+
     Name: Skeleton
 
@@ -51023,6 +51023,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Warhorse Skeleton
+  AltName: '[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)'
   Type: undead
   Size: Large
   Alignment: lawful evil
@@ -51044,7 +51045,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)'
   AttributesDictionary: >+
     Name: Warhorse Skeleton
 
@@ -51173,6 +51173,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Minotaur Skeleton
+  AltName: '[Squelette minotaure](hd_monsters_squelette_minotaure.md)'
   Type: undead
   Size: Large
   Alignment: lawful evil
@@ -51194,7 +51195,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Squelette minotaure](hd_monsters_squelette_minotaure.md)'
   AttributesDictionary: >+
     Name: Minotaur Skeleton
 
@@ -51347,6 +51347,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Stirge
+  AltName: '[Strige](hd_monsters_strige.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
@@ -51366,7 +51367,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Strige](hd_monsters_strige.md)'
   AttributesDictionary: >+
     Name: Stirge
 
@@ -51479,6 +51479,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Succubus
+  AltName: '[Succube/Incube](hd_monsters_succubeincube.md)'
   Type: fiend (shapechanger)
   Size: Medium
   Alignment: neutral evil
@@ -51500,7 +51501,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Succube/Incube](hd_monsters_succubeincube.md)'
   AttributesDictionary: >+
     Name: Succubus
 
@@ -51661,6 +51661,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Treant
+  AltName: '[Sylvanien](hd_monsters_sylvanien.md)'
   Type: plant
   Size: Huge
   Alignment: chaotic good
@@ -51681,7 +51682,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sylvanien](hd_monsters_sylvanien.md)'
   AttributesDictionary: >+
     Name: Treant
 
@@ -51846,6 +51846,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Rug of Smothering
+  AltName: '[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
@@ -51867,7 +51868,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)'
   AttributesDictionary: >+
     Name: Rug of Smothering
 
@@ -52016,6 +52016,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Tarrasque
+  AltName: '[Tarasque](hd_monsters_tarasque.md)'
   Type: monstrosity (titan)
   Size: Gargantuan
   Alignment: unaligned
@@ -52038,7 +52039,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tarasque](hd_monsters_tarasque.md)'
   AttributesDictionary: >+
     Name: Tarrasque
 
@@ -52283,6 +52283,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Shambling Mound
+  AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
   Type: plant
   Size: Large
   Alignment: unaligned
@@ -52306,7 +52307,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
   AttributesDictionary: >+
     Name: Shambling Mound
 
@@ -52467,6 +52467,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Tiger
+  AltName: '[Tigre](hd_monsters_tigre.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -52487,7 +52488,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tigre](hd_monsters_tigre.md)'
   AttributesDictionary: >+
     Name: Tiger
 
@@ -52636,6 +52636,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Saber-Toothed Tiger
+  AltName: '[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -52656,7 +52657,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)'
   AttributesDictionary: >+
     Name: Saber-Toothed Tiger
 
@@ -52805,6 +52805,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Weretiger
+  AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), neutral
@@ -52826,7 +52827,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
   AttributesDictionary: >+
     Name: Weretiger
 
@@ -53017,6 +53017,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Grimlock
+  AltName: '[Torve](hd_monsters_torve.md)'
   Type: humanoid (grimlock)
   Size: Medium
   Alignment: neutral evil
@@ -53038,7 +53039,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Torve](hd_monsters_torve.md)'
   AttributesDictionary: >+
     Name: Grimlock
 
@@ -53187,6 +53187,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Invisible Stalker
+  AltName: '[Traqueur invisible](hd_monsters_traqueur_invisible.md)'
   Type: elemental
   Size: Medium
   Alignment: neutral
@@ -53210,7 +53211,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Traqueur invisible](hd_monsters_traqueur_invisible.md)'
   AttributesDictionary: >+
     Name: Invisible Stalker
 
@@ -53371,6 +53371,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Triceratops
+  AltName: '[Tricératops](hd_monsters_triceratops.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -53390,7 +53391,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tricératops](hd_monsters_triceratops.md)'
   AttributesDictionary: >+
     Name: Triceratops
 
@@ -53527,6 +53527,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Troll
+  AltName: '[Troll](hd_monsters_troll.md)'
   Type: giant
   Size: Large
   Alignment: chaotic evil
@@ -53547,7 +53548,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Troll](hd_monsters_troll.md)'
   AttributesDictionary: >+
     Name: Troll
 
@@ -53702,6 +53702,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Tyrannosaurus Rex
+  AltName: '[Tyrannosaure](hd_monsters_tyrannosaure.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -53722,7 +53723,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tyrannosaure](hd_monsters_tyrannosaure.md)'
   AttributesDictionary: >+
     Name: Tyrannosaurus Rex
 
@@ -53859,6 +53859,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Vampire
+  AltName: '[Vampire](hd_monsters_vampire.md)'
   Type: undead (shapechanger)
   Size: Medium
   Alignment: lawful evil
@@ -53881,7 +53882,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vampire](hd_monsters_vampire.md)'
   AttributesDictionary: >+
     Name: Vampire
 
@@ -54138,6 +54138,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Vampire Spawn
+  AltName: '[Vampirien](hd_monsters_vampirien.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
@@ -54160,7 +54161,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vampirien](hd_monsters_vampirien.md)'
   AttributesDictionary: >+
     Name: Vampire Spawn
 
@@ -54357,6 +54357,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Gray Ooze
+  AltName: '[Vase grise](hd_monsters_vase_grise.md)'
   Type: ooze
   Size: Medium
   Alignment: unaligned
@@ -54379,7 +54380,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vase grise](hd_monsters_vase_grise.md)'
   AttributesDictionary: >+
     Name: Gray Ooze
 
@@ -54540,6 +54540,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Vulture
+  AltName: '[Vautour](hd_monsters_vautour.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
@@ -54560,7 +54561,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vautour](hd_monsters_vautour.md)'
   AttributesDictionary: >+
     Name: Vulture
 
@@ -54697,6 +54697,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Vulture
+  AltName: '[Vautour géant](hd_monsters_vautour_geant.md)'
   Type: beast
   Size: Large
   Alignment: neutral evil
@@ -54717,7 +54718,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vautour géant](hd_monsters_vautour_geant.md)'
   AttributesDictionary: >+
     Name: Giant Vulture
 
@@ -54872,6 +54872,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Purple Worm
+  AltName: '[Ver pourpre](hd_monsters_ver_pourpre.md)'
   Type: monstrosity
   Size: Gargantuan
   Alignment: unaligned
@@ -54892,7 +54893,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ver pourpre](hd_monsters_ver_pourpre.md)'
   AttributesDictionary: >+
     Name: Purple Worm
 
@@ -55041,6 +55041,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Wyvern
+  AltName: '[Vouivre](hd_monsters_vouivre.md)'
   Type: dragon
   Size: Large
   Alignment: unaligned
@@ -55061,7 +55062,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vouivre](hd_monsters_vouivre.md)'
   AttributesDictionary: >+
     Name: Wyvern
 
@@ -55210,6 +55210,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Vrock
+  AltName: '[Vrock](hd_monsters_vrock.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
@@ -55233,7 +55234,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vrock](hd_monsters_vrock.md)'
   AttributesDictionary: >+
     Name: Vrock
 
@@ -55418,6 +55418,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Veteran
+  AltName: '[Vétéran](hd_monsters_veteran.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -55438,7 +55439,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vétéran](hd_monsters_veteran.md)'
   AttributesDictionary: >+
     Name: Veteran
 
@@ -55587,6 +55587,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Worg
+  AltName: '[Worg](hd_monsters_worg.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral evil
@@ -55607,7 +55608,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Worg](hd_monsters_worg.md)'
   AttributesDictionary: >+
     Name: Worg
 
@@ -55738,6 +55738,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Xorn
+  AltName: '[Xorn](hd_monsters_xorn.md)'
   Type: elemental
   Size: Medium
   Alignment: neutral
@@ -55759,7 +55760,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Xorn](hd_monsters_xorn.md)'
   AttributesDictionary: >+
     Name: Xorn
 
@@ -55926,6 +55926,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Zombie
+  AltName: '[Zombi](hd_monsters_zombi.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
@@ -55948,7 +55949,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Zombi](hd_monsters_zombi.md)'
   AttributesDictionary: >+
     Name: Zombie
 
@@ -56091,6 +56091,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Ogre Zombie
+  AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
   Type: undead
   Size: Large
   Alignment: neutral evil
@@ -56113,7 +56114,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
   AttributesDictionary: >+
     Name: Ogre Zombie
 
@@ -56256,6 +56256,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Wraith
+  AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
@@ -56278,7 +56279,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
   AttributesDictionary: >+
     Name: Wraith
 
@@ -56433,6 +56433,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Scout
+  AltName: '[Éclaireur](hd_monsters_eclaireur.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
@@ -56453,7 +56454,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Éclaireur](hd_monsters_eclaireur.md)'
   AttributesDictionary: >+
     Name: Scout
 
@@ -56602,6 +56602,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Efreeti
+  AltName: '[Éfrit](hd_monsters_efrit.md)'
   Type: elemental
   Size: Large
   Alignment: lawful evil
@@ -56623,7 +56624,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Éfrit](hd_monsters_efrit.md)'
   AttributesDictionary: >+
     Name: Efreeti
 
@@ -56802,6 +56802,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Elk
+  AltName: '[Élan](hd_monsters_elan.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
@@ -56821,7 +56822,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élan](hd_monsters_elan.md)'
   AttributesDictionary: >+
     Name: Elk
 
@@ -56958,6 +56958,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Giant Elk
+  AltName: '[Élan géant](hd_monsters_elan_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -56978,7 +56979,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élan géant](hd_monsters_elan_geant.md)'
   AttributesDictionary: >+
     Name: Giant Elk
 
@@ -57121,6 +57121,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Air Elemental
+  AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
   Type: elemental
   Size: Large
   Alignment: neutral
@@ -57143,7 +57144,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
   AttributesDictionary: >+
     Name: Air Elemental
 
@@ -57298,6 +57298,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Water Elemental
+  AltName: "[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)"
   Type: elemental
   Size: Large
   Alignment: neutral
@@ -57320,7 +57321,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)"
   AttributesDictionary: >+
     Name: Water Elemental
 
@@ -57481,6 +57481,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Earth Elemental
+  AltName: '[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)'
   Type: elemental
   Size: Large
   Alignment: neutral
@@ -57503,7 +57504,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)'
   AttributesDictionary: >+
     Name: Earth Elemental
 
@@ -57662,6 +57662,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Fire Elemental
+  AltName: '[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)'
   Type: elemental
   Size: Large
   Alignment: neutral
@@ -57684,7 +57685,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)'
   AttributesDictionary: >+
     Name: Fire Elemental
 
@@ -57845,6 +57845,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Elephant
+  AltName: '[Éléphant](hd_monsters_elephant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -57864,7 +57865,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Éléphant](hd_monsters_elephant.md)'
   AttributesDictionary: >+
     Name: Elephant
 
@@ -58001,6 +58001,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Killer Whale
+  AltName: '[Épaulard](hd_monsters_epaulard.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
@@ -58021,7 +58022,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Épaulard](hd_monsters_epaulard.md)'
   AttributesDictionary: >+
     Name: Killer Whale
 
@@ -58164,6 +58164,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Flying Sword
+  AltName: '[Épée volante](hd_monsters_epee_volante.md)'
   Type: construct
   Size: Small
   Alignment: unaligned
@@ -58186,7 +58187,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Épée volante](hd_monsters_epee_volante.md)'
   AttributesDictionary: >+
     Name: Flying Sword
 
@@ -58335,6 +58335,7 @@ SubItems:
 - !MonsterItem
   Family: MonsterVO
   Name: Erinyes
+  AltName: '[Érinye](hd_monsters_erinye.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
@@ -58358,7 +58359,6 @@ SubItems:
   ParentLink: monsters_vo.md#monsters-npc-and-animals
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Érinye](hd_monsters_erinye.md)'
   AttributesDictionary: >+
     Name: Erinyes
 

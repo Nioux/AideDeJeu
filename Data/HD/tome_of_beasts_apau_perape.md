@@ -4,7 +4,8 @@
 
 # Apau Perape
 
-- Source: (LDM p76)
+- Source: (LDM p76)(TOB p75)
+- TOB: Apau Perape
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
