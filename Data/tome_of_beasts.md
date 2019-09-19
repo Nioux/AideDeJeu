@@ -883,7 +883,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Arbre Pare-Fées<!--/Name-->
 
-- Source: <!--Source-->(LDM p30)<!--/Source-->
+- Source: <!--Source-->(LDM p30)(TOB p200)<!--/Source-->
+- TOB: <!--AltName-->Feyward Tree<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->94 (9d12+36)<!--/HitPoints-->
@@ -1002,7 +1003,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Assoiffeur Gris<!--/Name-->
 
-- Source: <!--Source-->(LDM p33)<!--/Source-->
+- Source: <!--Source-->(LDM p33)(TOB p238)<!--/Source-->
+- TOB: <!--AltName-->Gray Thirster<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d8+12)<!--/HitPoints-->
@@ -1585,21 +1587,14 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 **_Engloutissement vorace._** Un bouda dévore les organes d'un cadavre dans l'emplacement occupé par ce dernier. Le bouda gagne une quantité de points de vie temporaires égale au nombre de DV de la créature morte pour une durée de 1heure. Les organes qu'il a dévorés à l'aide de ce pouvoir n'existent plus et la créature ne peut être ramenée à la vie à l'aide de sorts ou d'effets magiques qui nécessitent d'avoir un cadavre à peu près intact à disposition.
 
-**1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
-
-**_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
-
-**_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
-
-**_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
-
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
 # <!--Name-->Bouffon Macabre<!--/Name-->
 
-- Source: <!--Source-->(LDM p49)<!--/Source-->
+- Source: <!--Source-->(LDM p49)(TOB p240)<!--/Source-->
+- TOB: <!--AltName-->Grim Jester<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d8+64)<!--/HitPoints-->
@@ -1623,6 +1618,14 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 **À volonté:** déguisement, graisse, blessure, bouche magique, pas brumeux
 
 **3/jour chacun:** contagion, image miroir
+
+**1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
+
+**_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
+
+**_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
+
+**_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
 
 ## ACTIONS
 
@@ -2082,7 +2085,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chiot Mastodonte<!--/Name-->
 
-- Source: <!--Source-->(LDM p61)<!--/Source-->
+- Source: <!--Source-->(LDM p61)(TOB p252)<!--/Source-->
+- TOB: <!--AltName-->Hulking Whelp<!--/AltName-->
 -  <!--Type-->Fée (métamorphe)<!--/Type--> de Petite/Très Grande taille (<!--Size-->P/TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->94 (9d12+36)<!--/HitPoints-->
@@ -2191,7 +2195,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Claquepiège<!--/Name-->
 
-- Source: <!--Source-->(LDM p64)<!--/Source-->
+- Source: <!--Source-->(LDM p64)(TOB p229)<!--/Source-->
+- TOB: <!--AltName-->Gnarljak<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d6+14)<!--/HitPoints-->
@@ -2426,7 +2431,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Crabe Garrotteur<!--/Name-->
 
-- Source: <!--Source-->(LDM p70)<!--/Source-->
+- Source: <!--Source-->(LDM p70)(TOB p208)<!--/Source-->
+- TOB: <!--AltName-->Garroter Crab<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d4+8)<!--/HitPoints-->
@@ -2493,7 +2499,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Croco De Verre<!--/Name-->
 
-- Source: <!--Source-->(LDM p72)<!--/Source-->
+- Source: <!--Source-->(LDM p72)(TOB p228)<!--/Source-->
+- TOB: <!--AltName-->Glass Gator<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (7d10+7)<!--/HitPoints-->
@@ -7161,7 +7168,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Esprit Du Feu<!--/Name-->
 
-- Source: <!--Source-->(LDM p174)<!--/Source-->
+- Source: <!--Source-->(LDM p174)(TOB p202)<!--/Source-->
+- TOB: <!--AltName-->Firegeist<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->87 (25d6)<!--/HitPoints-->
@@ -8278,7 +8286,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # <!--Name-->Fraughashar<!--/Name-->
 
-- Source: <!--Source-->(LDM p200)<!--/Source-->
+- Source: <!--Source-->(LDM p200)(TOB p206)<!--/Source-->
+- TOB: <!--AltName-->Fraughashar<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
@@ -8366,7 +8375,8 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 # <!--Name-->Gbahali (Postosuchus)<!--/Name-->
 
-- Source: <!--Source-->(LDM p202)<!--/Source-->
+- Source: <!--Source-->(LDM p202)(TOB p209)<!--/Source-->
+- TOB: <!--AltName-->Gbahali (Postosuchus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d12+48)<!--/HitPoints-->
@@ -8400,7 +8410,8 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 # <!--Name-->Géant Du Désert<!--/Name-->
 
-- Source: <!--Source-->(LDM p203)<!--/Source-->
+- Source: <!--Source-->(LDM p203)(TOB p222)<!--/Source-->
+- TOB: <!--AltName-->Desert Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->175 (14d12+84)<!--/HitPoints-->
@@ -8433,7 +8444,8 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 # <!--Name-->Hraesvelgr Le Mangeur De Cadavres<!--/Name-->
 
-- Source: <!--Source-->(LDM p204)<!--/Source-->
+- Source: <!--Source-->(LDM p204)(TOB p224)<!--/Source-->
+- TOB: <!--AltName-->Hraesvelgr the Corpse Swallower<!--/AltName-->
 -  <!--Type-->Géant (métamorphe (<!--Size-->TG<!--/Size-->), titan)<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->241 (12d12+105)<!--/HitPoints-->
@@ -8522,7 +8534,8 @@ Si Hraesvelgr meurt, les conditions redeviennent normales dans la zone qui entou
 
 # <!--Name-->Géant Jotun<!--/Name-->
 
-- Source: <!--Source-->(LDM p206)<!--/Source-->
+- Source: <!--Source-->(LDM p206)(TOB p226)<!--/Source-->
+- TOB: <!--AltName-->Jotun Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->407 (22d20+176)<!--/HitPoints-->
@@ -8585,7 +8598,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Géant Obèse<!--/Name-->
 
-- Source: <!--Source-->(LDM p207)<!--/Source-->
+- Source: <!--Source-->(LDM p207)(TOB p223)<!--/Source-->
+- TOB: <!--AltName-->Flab Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
@@ -8619,7 +8633,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Géant Thursir<!--/Name-->
 
-- Source: <!--Source-->(LDM p208)<!--/Source-->
+- Source: <!--Source-->(LDM p208)(TOB p227)<!--/Source-->
+- TOB: <!--AltName-->Thursir Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais (50 %) ou loyal mauvais (50 %)<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
@@ -8653,7 +8668,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Génie Al-Aeshma<!--/Name-->
 
-- Source: <!--Source-->(LDM p209)<!--/Source-->
+- Source: <!--Source-->(LDM p209)(TOB p211)<!--/Source-->
+- TOB: <!--AltName-->Al-Aeshma Genie<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->172 (15d10+90)<!--/HitPoints-->
@@ -8701,7 +8717,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Gerridé<!--/Name-->
 
-- Source: <!--Source-->(LDM p210)<!--/Source-->
+- Source: <!--Source-->(LDM p210)(TOB p212)<!--/Source-->
+- TOB: <!--AltName-->Gerridae<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (9d10+27)<!--/HitPoints-->
@@ -8733,7 +8750,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Gobelin Poussiéreux<!--/Name-->
 
-- Source: <!--Source-->(LDM p211)<!--/Source-->
+- Source: <!--Source-->(LDM p211)(TOB p232)<!--/Source-->
+- TOB: <!--AltName-->Dust Goblin<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (1d6+2)<!--/HitPoints-->
@@ -8763,7 +8781,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Golem À Vapeur<!--/Name-->
 
-- Source: <!--Source-->(LDM p212)<!--/Source-->
+- Source: <!--Source-->(LDM p212)(TOB p237)<!--/Source-->
+- TOB: <!--AltName-->Steam Golem<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->171 (18d10+72)<!--/HitPoints-->
@@ -8809,7 +8828,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Golem De Sel<!--/Name-->
 
-- Source: <!--Source-->(LDM p213)<!--/Source-->
+- Source: <!--Source-->(LDM p213)(TOB p235)<!--/Source-->
+- TOB: <!--AltName-->Salt Golem<!--/AltName-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (11d10+55)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -8845,7 +8865,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Golem Oculaire<!--/Name-->
 
-- Source: <!--Source-->(LDM p214)<!--/Source-->
+- Source: <!--Source-->(LDM p214)(TOB p233)<!--/Source-->
+- TOB: <!--AltName-->Eye Golem<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
@@ -8886,7 +8907,9 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Golem Smaragdin<!--/Name-->
 
-- Source: <!--Source-->(LDM p215)<!--/Source-->
+- Source: <!--Source-->(LDM p215)(TOB p236)<!--/Source-->
+- TOB: <!--AltName-->Smaragdine Golem<!--/AltName-->
+-  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (22d10+110)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -8923,7 +8946,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Golem Trésor<!--/Name-->
 
-- Source: <!--Source-->(LDM p216)<!--/Source-->
+- Source: <!--Source-->(LDM p216)(TOB p234)<!--/Source-->
+- TOB: <!--AltName-->Hoard Golem<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (14d12+70)<!--/HitPoints-->
@@ -8963,8 +8987,9 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # <!--Name-->Goule Darakhule<!--/Name-->
 
-- Source: <!--Source-->(LDM p217)<!--/Source-->
-Mort-vivant de taille Moyenne, neutre mauvais 
+- Source: <!--Source-->(LDM p217)(TOB p216)<!--/Source-->
+- TOB: <!--AltName-->Ghoul, Darakhul<!--/AltName-->
+-  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles ; 18 avec bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -9005,7 +9030,8 @@ Mort-vivant de taille Moyenne, neutre mauvais
 
 # <!--Name-->Goule De Fer<!--/Name-->
 
-- Source: <!--Source-->(LDM p218)<!--/Source-->
+- Source: <!--Source-->(LDM p218)(TOB p221)<!--/Source-->
+- TOB: <!--AltName-->Ghoul, Iron<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->143 (22d8+44)<!--/HitPoints-->
@@ -9041,7 +9067,8 @@ Mort-vivant de taille Moyenne, neutre mauvais
 
 # <!--Name-->Empereur Des Goules<!--/Name-->
 
-- Source: <!--Source-->(LDM p219)<!--/Source-->
+- Source: <!--Source-->(LDM p219)(TOB p218)<!--/Source-->
+- TOB: <!--AltName-->Emperor of the Ghouls<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->204 (24d8+96)<!--/HitPoints-->
@@ -9148,7 +9175,8 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # <!--Name-->Goule Impériale<!--/Name-->
 
-- Source: <!--Source-->(LDM p222)<!--/Source-->
+- Source: <!--Source-->(LDM p222)(TOB p220)<!--/Source-->
+- TOB: <!--AltName-->Ghoul, Imperial<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (17d8+17)<!--/HitPoints-->
@@ -9182,7 +9210,8 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # <!--Name-->Goule Mendiante<!--/Name-->
 
-- Source: <!--Source-->(LDM p223)<!--/Source-->
+- Source: <!--Source-->(LDM p223)(TOB p213)<!--/Source-->
+- TOB: <!--AltName-->Beggar Ghoul<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -9214,7 +9243,8 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # <!--Name-->Goule Poudre D'Os<!--/Name-->
 
-- Source: <!--Source-->(LDM p224)<!--/Source-->
+- Source: <!--Source-->(LDM p224)(TOB p214)<!--/Source-->
+- TOB: <!--AltName-->Bonepowder Ghoul<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->195 (26d6+104)<!--/HitPoints-->
@@ -9312,7 +9342,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Gremlin Rhumé<!--/Name-->
 
-- Source: <!--Source-->(LDM p227)<!--/Source-->
+- Source: <!--Source-->(LDM p227)(TOB p239)<!--/Source-->
+- TOB: <!--AltName-->Rum Gremlin<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille  (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d4+10)<!--/HitPoints-->
@@ -9352,7 +9383,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Guenaude Des Sables<!--/Name-->
 
-- Source: <!--Source-->(LDM p228)<!--/Source-->
+- Source: <!--Source-->(LDM p228)(TOB p245)<!--/Source-->
+- TOB: <!--AltName-->Sanf Hag<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -9395,7 +9427,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Guenaude Miroir<!--/Name-->
 
-- Source: <!--Source-->(LDM p229)<!--/Source-->
+- Source: <!--Source-->(LDM p229)(TOB p229)<!--/Source-->
+- TOB: <!--AltName-->Mirror Hag<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d8+96)<!--/HitPoints-->
@@ -9437,7 +9470,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Guenaude Rouge<!--/Name-->
 
-- Source: <!--Source-->(LDM p230)<!--/Source-->
+- Source: <!--Source-->(LDM p230)(TOB p244)<!--/Source-->
+- TOB: <!--AltName-->Red Hag<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d8+56)<!--/HitPoints-->
@@ -9483,7 +9517,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Guenaude Sanglante<!--/Name-->
 
-- Source: <!--Source-->(LDM p231)<!--/Source-->
+- Source: <!--Source-->(LDM p231)(TOB p242)<!--/Source-->
+- TOB: <!--AltName-->Blood Hag<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->178 (21d8+84)<!--/HitPoints-->
@@ -9537,7 +9572,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # <!--Name-->Gug<!--/Name-->
 
-- Source: <!--Source-->(LDM p232)<!--/Source-->
+- Source: <!--Source-->(LDM p232)(TOB p241)<!--/Source-->
+- TOB: <!--AltName-->Gug<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->270 (20d12+140)<!--/HitPoints-->
@@ -9585,7 +9621,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # <!--Name-->Habitant De Leng<!--/Name-->
 
-- Source: <!--Source-->(LDM p233)<!--/Source-->
+- Source: <!--Source-->(LDM p233)(TOB p204)<!--/Source-->
+- TOB: <!--AltName-->Folk of Leng<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->68 (8d8+32)<!--/HitPoints-->
@@ -9632,7 +9669,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # <!--Name-->Harpie Chouette<!--/Name-->
 
-- Source: <!--Source-->(LDM p234)<!--/Source-->
+- Source: <!--Source-->(LDM p234)(TOB p246)<!--/Source-->
+- TOB: <!--AltName-->Owl Harpy<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -9672,7 +9710,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # <!--Name-->Haugbui<!--/Name-->
 
-- Source: <!--Source-->(LDM p235)<!--/Source-->
+- Source: <!--Source-->(LDM p235)(TOB p247)<!--/Source-->
+- TOB: <!--AltName-->Haugbui<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d8+64)<!--/HitPoints-->
@@ -9729,7 +9768,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # <!--Name-->Héraut Des Ténèbres<!--/Name-->
 
-- Source: <!--Source-->(LDM p236)<!--/Source-->
+- Source: <!--Source-->(LDM p236)(TOB p249)<!--/Source-->
+- TOB: <!--AltName-->Herald of Darkness<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d10+50)<!--/HitPoints-->
@@ -9772,7 +9812,8 @@ jets de sauvegarde physiques, peut traverser n'importe quel fossé ou ouverture,
 
 # <!--Name-->Héraut Du Sang<!--/Name-->
 
-- Source: <!--Source-->(LDM p237)<!--/Source-->
+- Source: <!--Source-->(LDM p237)(TOB p248)<!--/Source-->
+- TOB: <!--AltName-->Herald of Blood<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->115 (10d12+50)<!--/HitPoints-->
@@ -9889,7 +9930,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # <!--Name-->Homme-Chèvre<!--/Name-->
 
-- Source: <!--Source-->(LDM p239)<!--/Source-->
+- Source: <!--Source-->(LDM p239)(TOB p231)<!--/Source-->
+- TOB: <!--AltName-->Goat-Man<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
@@ -10224,7 +10266,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Horakh<!--/Name-->
 
-- Source: <!--Source-->(LDM p246)<!--/Source-->
+- Source: <!--Source-->(LDM p246)(TOB p250)<!--/Source-->
+- TOB: <!--AltName-->Horakh<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (19d8+76)<!--/HitPoints-->
@@ -11814,7 +11857,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Maraudeur Des Forêts<!--/Name-->
 
-- Source: <!--Source-->(LDM p286)<!--/Source-->
+- Source: <!--Source-->(LDM p286)(TOB p205)<!--/Source-->
+- TOB: <!--AltName-->Forest Marauder<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10 +48)<!--/HitPoints-->
@@ -12567,7 +12611,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # <!--Name-->Molosse Nocturne<!--/Name-->
 
-- Source: <!--Source-->(LDM p306)<!--/Source-->
+- Source: <!--Source-->(LDM p306)(TOB p251)<!--/Source-->
+- TOB: <!--AltName-->Hound of the night<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d10+30)<!--/HitPoints-->
@@ -13646,7 +13691,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Oiseau De Feu<!--/Name-->
 
-- Source: <!--Source-->(LDM p334)<!--/Source-->
+- Source: <!--Source-->(LDM p334)(TOB p201)<!--/Source-->
+- TOB: <!--AltName-->Firebird<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->99 (18d6+36)<!--/HitPoints-->
@@ -14545,7 +14591,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Sarcoptère<!--/Name-->
 
-- Source: <!--Source-->(LDM p355)<!--/Source-->
+- Source: <!--Source-->(LDM p355)(TOB p203)<!--/Source-->
+- TOB: <!--AltName-->Flutterflesh<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->187 (22d10+66)<!--/HitPoints-->
@@ -15483,7 +15530,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Templier Mécaforgé<!--/Name-->
 
-- Source: <!--Source-->(LDM p379)<!--/Source-->
+- Source: <!--Source-->(LDM p379)(TOB p210)<!--/Source-->
+- TOB: <!--AltName-->Gearforged Templar<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (mécaforgé) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (11d8+22)<!--/HitPoints-->
@@ -16627,7 +16675,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Vif Ravageur Gnoll<!--/Name-->
 
-- Source: <!--Source-->(LDM p405)<!--/Source-->
+- Source: <!--Source-->(LDM p405)(TOB p230)<!--/Source-->
+- TOB: <!--AltName-->Gnoll Havoc Runner<!--/AltName-->
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
@@ -16752,7 +16801,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Voile-De-Givre<!--/Name-->
 
-- Source: <!--Source-->(LDM p408)<!--/Source-->
+- Source: <!--Source-->(LDM p408)(TOB p207)<!--/Source-->
+- TOB: <!--AltName-->Frostveil<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
