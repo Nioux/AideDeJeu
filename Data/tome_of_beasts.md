@@ -848,7 +848,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Arbre Feuilledragon<!--/Name-->
 
-- Source: <!--Source-->(LDM p29)<!--/Source-->
+- Source: <!--Source-->(LDM p29)(TOB p147)<!--/Source-->
+- TOB: <!--AltName-->Dragonleaf Tree<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
@@ -1772,7 +1773,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Canitaupe<!--/Name-->
 
-- Source: <!--Source-->(LDM p53)<!--/Source-->
+- Source: <!--Source-->(LDM p53)(TOB p120)<!--/Source-->
+- TOB: <!--AltName-->Dogmole<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (11d8+22)<!--/HitPoints-->
@@ -1804,7 +1806,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Canitaupe Juggernaut<!--/Name-->
 
-- Source: <!--Source-->(LDM p54)<!--/Source-->
+- Source: <!--Source-->(LDM p54)(TOB p121)<!--/Source-->
+- TOB: <!--AltName-->Dogmole Juggernaut<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de chaînes)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
@@ -4386,7 +4389,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # <!--Name-->Mbielu<!--/Name-->
 
-- Source: <!--Source-->(LDM p117)<!--/Source-->
+- Source: <!--Source-->(LDM p117)(TOB p114)<!--/Source-->
+- TOB: <!--AltName-->Mbielu<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d12+30)<!--/HitPoints-->
@@ -4417,7 +4421,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # <!--Name-->Ngobou<!--/Name-->
 
-- Source: <!--Source-->(LDM p118)<!--/Source-->
+- Source: <!--Source-->(LDM p118)(TOB p115)<!--/Source-->
+- TOB: <!--AltName-->Ngobou<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
@@ -4450,7 +4455,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # <!--Name-->Spinosaure<!--/Name-->
 
-- Source: <!--Source-->(LDM p119)<!--/Source-->
+- Source: <!--Source-->(LDM p119)(TOB p116)<!--/Source-->
+- TOB: <!--AltName-->Spinosaurus<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (14d20+84)<!--/HitPoints-->
@@ -4497,7 +4503,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Jeune Spinosaure<!--/Name-->
 
-- Source: <!--Source-->(LDM p120)<!--/Source-->
+- Source: <!--Source-->(LDM p120)(TOB p117)<!--/Source-->
+- TOB: <!--AltName-->Young Spinosaurus<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d12+40)<!--/HitPoints-->
@@ -4528,7 +4535,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Dipsa<!--/Name-->
 
-- Source: <!--Source-->(LDM p121)<!--/Source-->
+- Source: <!--Source-->(LDM p121)(TOB p118)<!--/Source-->
+- TOB: <!--AltName-->Dipsa<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d4+12)<!--/HitPoints-->
@@ -4561,7 +4569,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Dissimortuum<!--/Name-->
 
-- Source: <!--Source-->(LDM p122)<!--/Source-->
+- Source: <!--Source-->(LDM p122)(TOB p119)<!--/Source-->
+- TOB: <!--AltName-->Dissimortuum<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -4595,7 +4604,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Domovoï<!--/Name-->
 
-- Source: <!--Source-->(LDM p123)<!--/Source-->
+- Source: <!--Source-->(LDM p123)(TOB p122)<!--/Source-->
+- TOB: <!--AltName-->Domovoi<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d8+44)<!--/HitPoints-->
@@ -4629,7 +4639,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Doppelrat<!--/Name-->
 
-- Source: <!--Source-->(LDM p124)<!--/Source-->
+- Source: <!--Source-->(LDM p124)(TOB p123)<!--/Source-->
+- TOB: <!--AltName-->Doppelrat<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d4+10)<!--/HitPoints-->
@@ -4661,7 +4672,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Dorreq<!--/Name-->
 
-- Source: <!--Source-->(LDM p125)<!--/Source-->
+- Source: <!--Source-->(LDM p125)(TOB p124)<!--/Source-->
+- TOB: <!--AltName-->Dorreq<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (17d8+17)<!--/HitPoints-->
@@ -4700,7 +4712,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # <!--Name-->Dragon De Flammes, Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p126)<!--/Source-->
+- Source: <!--Source-->(LDM p126)(TOB p129)<!--/Source-->
+- TOB: <!--AltName-->Adult Flame Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->212 (17d12+102)<!--/HitPoints-->
@@ -4755,7 +4768,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon De Flammes, Dragonnet<!--/Name-->
 
-- Source: <!--Source-->(LDM p127)<!--/Source-->
+- Source: <!--Source-->(LDM p127)(TOB p131)<!--/Source-->
+- TOB: <!--AltName-->Flame Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
@@ -4786,7 +4800,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon De Flammes, Jeune<!--/Name-->
 
-- Source: <!--Source-->(LDM p128)<!--/Source-->
+- Source: <!--Source-->(LDM p128)(TOB p130)<!--/Source-->
+- TOB: <!--AltName-->Young Flame Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (17d10+68)<!--/HitPoints-->
@@ -4823,7 +4838,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon De Flammes, Vénérable<!--/Name-->
 
-- Source: <!--Source-->(LDM p128)<!--/Source-->
+- Source: <!--Source-->(LDM p128)(TOB p128)<!--/Source-->
+- TOB: <!--AltName-->Ancient Flame Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->481 (26d20+208)<!--/HitPoints-->
@@ -4906,7 +4922,8 @@ Si le dragon meurt, les disputes et malentendus se dissipent immédiatement et l
 
 # <!--Name-->Dragon De Mithral, Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p130)<!--/Source-->
+- Source: <!--Source-->(LDM p130)(TOB p133)<!--/Source-->
+- TOB: <!--AltName-->Adult Mithral Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->184 (16d12+80)<!--/HitPoints-->
@@ -4973,7 +4990,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon De Mithral, Jeune<!--/Name-->
 
-- Source: <!--Source-->(LDM p131)<!--/Source-->
+- Source: <!--Source-->(LDM p131)(TOB p134)<!--/Source-->
+- TOB: <!--AltName-->Young Mithral Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->92 (16d8+20)<!--/HitPoints-->
@@ -5014,7 +5032,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon De Mithral, Vénérable<!--/Name-->
 
-- Source: <!--Source-->(LDM p131)<!--/Source-->
+- Source: <!--Source-->(LDM p131)(TOB p132)<!--/Source-->
+- TOB: <!--AltName-->Ancient Mithral Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->297 (17d20+119)<!--/HitPoints-->
@@ -5122,7 +5141,8 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 
 # <!--Name-->Dragon Des Cavernes, Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p133)<!--/Source-->
+- Source: <!--Source-->(LDM p133)(TOB p125)<!--/Source-->
+- TOB: <!--AltName-->Adult Cave Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->243 (18d12+126)<!--/HitPoints-->
@@ -5192,7 +5212,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Des Cavernes, Dragonnet<!--/Name-->
 
-- Source: <!--Source-->(LDM p135)<!--/Source-->
+- Source: <!--Source-->(LDM p135)(TOB p127)<!--/Source-->
+- TOB: <!--AltName-->Cave Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -5230,7 +5251,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Des Cavernes, Jeune<!--/Name-->
 
-- Source: <!--Source-->(LDM p135)<!--/Source-->
+- Source: <!--Source-->(LDM p135)(TOB p127)<!--/Source-->
+- TOB: <!--AltName-->Young Cave Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
@@ -5278,7 +5300,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vent, Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p136)<!--/Source-->
+- Source: <!--Source-->(LDM p136)(TOB p143)<!--/Source-->
+- TOB: <!--AltName-->Wind Dragon, Adult<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->237 (19d12+114)<!--/HitPoints-->
@@ -5345,7 +5368,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vent, Dragonnet<!--/Name-->
 
-- Source: <!--Source-->(LDM p137)<!--/Source-->
+- Source: <!--Source-->(LDM p137)(TOB p145)<!--/Source-->
+- TOB: <!--AltName-->Wind Dragon, Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (7d8+14)<!--/HitPoints-->
@@ -5377,7 +5401,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vent, Jeune<!--/Name-->
 
-- Source: <!--Source-->(LDM p137)<!--/Source-->
+- Source: <!--Source-->(LDM p137)(TOB p144)<!--/Source-->
+- TOB: <!--AltName-->Wind Dragon, Young<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->150 (16d10+62)<!--/HitPoints-->
@@ -5421,7 +5446,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vent, Vénérable<!--/Name-->
 
-- Source: <!--Source-->(LDM p138)<!--/Source-->
+- Source: <!--Source-->(LDM p138)(TOB p142)<!--/Source-->
+- TOB: <!--AltName-->Wind Dragon, Ancient<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->425 (23d20 +184)<!--/HitPoints-->
@@ -5504,7 +5530,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vide, Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p140)<!--/Source-->
+- Source: <!--Source-->(LDM p140)(TOB p139)<!--/Source-->
+- TOB: <!--AltName-->Adult Void Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->229 (17d12+119)<!--/HitPoints-->
@@ -5572,7 +5599,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vide, Dragonnet<!--/Name-->
 
-- Source: <!--Source-->(LDM p141)<!--/Source-->
+- Source: <!--Source-->(LDM p141)(TOB p140)<!--/Source-->
+- TOB: <!--AltName-->Void Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
@@ -5615,7 +5643,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vide, Jeune<!--/Name-->
 
-- Source: <!--Source-->(LDM p141)<!--/Source-->
+- Source: <!--Source-->(LDM p141)(TOB p140)<!--/Source-->
+- TOB: <!--AltName-->Young Void Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
@@ -5663,7 +5692,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Du Vide, Vénérable<!--/Name-->
 
-- Source: <!--Source-->(LDM p142)<!--/Source-->
+- Source: <!--Source-->(LDM p142)(TOB p138)<!--/Source-->
+- TOB: <!--AltName-->Ancient Void Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->448 (23d20+207)<!--/HitPoints-->
@@ -5761,7 +5791,8 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 
 # <!--Name-->Dragon Marin, Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p144)<!--/Source-->
+- Source: <!--Source-->(LDM p144)(TOB p135)<!--/Source-->
+- TOB: <!--AltName-->Adult Sea Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->225 (18d12+108)<!--/HitPoints-->
@@ -5816,7 +5847,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Marin, Dragonnet<!--/Name-->
 
-- Source: <!--Source-->(LDM p144)<!--/Source-->
+- Source: <!--Source-->(LDM p144)(TOB p136)<!--/Source-->
+- TOB: <!--AltName-->Sea Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
@@ -5847,7 +5879,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Marin, Jeune<!--/Name-->
 
-- Source: <!--Source-->(LDM p145)<!--/Source-->
+- Source: <!--Source-->(LDM p145)(TOB p136)<!--/Source-->
+- TOB: <!--AltName-->Young Sea Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
@@ -5886,7 +5919,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # <!--Name-->Dragon Marin, Vénérable<!--/Name-->
 
-- Source: <!--Source-->(LDM p145)<!--/Source-->
+- Source: <!--Source-->(LDM p145)(TOB p135)<!--/Source-->
+- TOB: <!--AltName-->Ancient Sea Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->481 (26d20+208)<!--/HitPoints-->
@@ -5969,7 +6003,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # <!--Name-->Murène Dragon<!--/Name-->
 
-- Source: <!--Source-->(LDM p147)<!--/Source-->
+- Source: <!--Source-->(LDM p147)(TOB p146)<!--/Source-->
+- TOB: <!--AltName-->Dragon Eel<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->230 (20d12+100)<!--/HitPoints-->
@@ -6044,7 +6079,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # <!--Name-->Drake De Cendres<!--/Name-->
 
-- Source: <!--Source-->(LDM p149)<!--/Source-->
+- Source: <!--Source-->(LDM p149)(TOB p149)<!--/Source-->
+- TOB: <!--AltName-->Ash Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->117 (18d6+54)<!--/HitPoints-->
@@ -6080,7 +6116,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # <!--Name-->Drake De Corail<!--/Name-->
 
-- Source: <!--Source-->(LDM p150)<!--/Source-->
+- Source: <!--Source-->(LDM p150)(TOB p150)<!--/Source-->
+- TOB: <!--AltName-->Coral Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d8+60)<!--/HitPoints-->
@@ -6120,7 +6157,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # <!--Name-->Drake De Papier<!--/Name-->
 
-- Source: <!--Source-->(LDM p151)<!--/Source-->
+- Source: <!--Source-->(LDM p151)(TOB p154)<!--/Source-->
+- TOB: <!--AltName-->Paper Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d6+36)<!--/HitPoints-->
@@ -6155,7 +6193,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # <!--Name-->Drake De Rouille<!--/Name-->
 
-- Source: <!--Source-->(LDM p152)<!--/Source-->
+- Source: <!--Source-->(LDM p152)(TOB p155)<!--/Source-->
+- TOB: <!--AltName-->Rust Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (19d8+76)<!--/HitPoints-->
@@ -6192,7 +6231,8 @@ ou une magie comparable.
 
 # <!--Name-->Ancien Drake Des Ombres<!--/Name-->
 
-- Source: <!--Source-->(LDM p153)<!--/Source-->
+- Source: <!--Source-->(LDM p153)(TOB p153)<!--/Source-->
+- TOB: <!--AltName-->Elder Shadow Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
@@ -6233,7 +6273,8 @@ ou une magie comparable.
 
 # <!--Name-->Drake Des Profondeurs<!--/Name-->
 
-- Source: <!--Source-->(LDM p154)<!--/Source-->
+- Source: <!--Source-->(LDM p154)(TOB p152)<!--/Source-->
+- TOB: <!--AltName-->Deep Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->150 (20d10+40)<!--/HitPoints-->
@@ -6271,7 +6312,8 @@ ou une magie comparable.
 
 # <!--Name-->Drake Des Tavernes<!--/Name-->
 
-- Source: <!--Source-->(LDM p155)<!--/Source-->
+- Source: <!--Source-->(LDM p155)(TOB p148)<!--/Source-->
+- TOB: <!--AltName-->Alehouse Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d4+40)<!--/HitPoints-->
@@ -6314,7 +6356,8 @@ ou une magie comparable.
 
 # <!--Name-->Drake Pourpre<!--/Name-->
 
-- Source: <!--Source-->(LDM p156)<!--/Source-->
+- Source: <!--Source-->(LDM p156)(TOB p151)<!--/Source-->
+- TOB: <!--AltName-->Crimson Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d4+24)<!--/HitPoints-->
@@ -6350,7 +6393,8 @@ ou une magie comparable.
 
 # <!--Name-->Drake Stellaire<!--/Name-->
 
-- Source: <!--Source-->(LDM p157)<!--/Source-->
+- Source: <!--Source-->(LDM p157)(TOB p157)<!--/Source-->
+- TOB: <!--AltName-->Star Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->189 (18d10+90)<!--/HitPoints-->
@@ -6412,7 +6456,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Drakon<!--/Name-->
 
-- Source: <!--Source-->(LDM p158)<!--/Source-->
+- Source: <!--Source-->(LDM p158)(TOB p157)<!--/Source-->
+- TOB: <!--AltName-->Drakon<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d10+28)<!--/HitPoints-->
