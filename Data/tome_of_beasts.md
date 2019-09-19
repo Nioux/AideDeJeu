@@ -1214,7 +1214,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Belle Noyée<!--/Name-->
 
-- Source: <!--Source-->(LDM p39)<!--/Source-->
+- Source: <!--Source-->(LDM p39)(TOB p159)<!--/Source-->
+- TOB: <!--AltName-->Drowned Maiden<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (20d8)<!--/HitPoints-->
@@ -2012,7 +2013,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chien-Anguille<!--/Name-->
 
-- Source: <!--Source-->(LDM p59)<!--/Source-->
+- Source: <!--Source-->(LDM p59)(TOB p166)<!--/Source-->
+- TOB: <!--AltName-->Eel Hound<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8+14)<!--/HitPoints-->
@@ -6492,7 +6494,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Dryade Épine-Du-Crépuscule<!--/Name-->
 
-- Source: <!--Source-->(LDM p159)<!--/Source-->
+- Source: <!--Source-->(LDM p159)(TOB p160)<!--/Source-->
+- TOB: <!--AltName-->Duskthorn Dryad<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8+14)<!--/HitPoints-->
@@ -6526,12 +6529,9 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 ## ACTIONS
 
-**_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible.
-7 (1d4+5) dégâts perforants.
+**_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible. 7 (1d4+5) dégâts perforants.
 
-**_Arc long._** Attaque d'arme à distance:
-+7 pour toucher, portée 45/180 m, une cible. Touché:
-9 (1d8+5) dégâts perforants.
+**_Arc long._** Attaque d'arme à distance: +7 pour toucher, portée 45/180 m, une cible. Touché: 9 (1d8+5) dégâts perforants.
 
 <!--/MonsterItem-->
 
@@ -6539,7 +6539,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Dullahan<!--/Name-->
 
-- Source: <!--Source-->(LDM p160)<!--/Source-->
+- Source: <!--Source-->(LDM p160)(TOB p161)<!--/Source-->
+- TOB: <!--AltName-->Dullahan<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->178 (17d10+85)<!--/HitPoints-->
@@ -6589,7 +6590,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Eala<!--/Name-->
 
-- Source: <!--Source-->(LDM p161)<!--/Source-->
+- Source: <!--Source-->(LDM p161)(TOB p163)<!--/Source-->
+- TOB: <!--AltName-->Eala<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->40 (9d6+9)<!--/HitPoints-->
@@ -6623,7 +6625,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Edimmu<!--/Name-->
 
-- Source: <!--Source-->(LDM p162)<!--/Source-->
+- Source: <!--Source-->(LDM p162)(TOB p165)<!--/Source-->
+- TOB: <!--AltName-->Edimmu<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -6654,7 +6657,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Einherjar<!--/Name-->
 
-- Source: <!--Source-->(LDM p163)<!--/Source-->
+- Source: <!--Source-->(LDM p163)(TOB p167)<!--/Source-->
+- TOB: <!--AltName-->Einherjar<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (cotte de mailles et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d8+56)<!--/HitPoints-->
@@ -6700,7 +6704,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Eleinomae<!--/Name-->
 
-- Source: <!--Source-->(LDM p164)<!--/Source-->
+- Source: <!--Source-->(LDM p164)(TOB p168)<!--/Source-->
+- TOB: <!--AltName-->Eleinomae<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -6742,7 +6747,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Fée des ombres<!--/Name-->
 
-- Source: <!--Source-->(LDM p166)<!--/Source-->
+- Source: <!--Source-->(LDM p166)(TOB p171)<!--/Source-->
+- TOB: <!--AltName-->Shadow Fey<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->31 (7d8)<!--/HitPoints-->
@@ -6779,7 +6785,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Chasseur forestier<!--/Name-->
 
-- Source: <!--Source-->(LDM p166)<!--/Source-->
+- Source: <!--Source-->(LDM p166)(TOB p173)<!--/Source-->
+- TOB: <!--AltName-->Forest Hunter<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (19d8+19)<!--/HitPoints-->
@@ -6821,7 +6828,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Duelliste<!--/Name-->
 
-- Source: <!--Source-->(LDM p167)<!--/Source-->
+- Source: <!--Source-->(LDM p167)(TOB p171)<!--/Source-->
+- TOB: <!--AltName-->Duelist<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->117 (18d8+36)<!--/HitPoints-->
@@ -6865,7 +6873,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Enchanteresse<!--/Name-->
 
-- Source: <!--Source-->(LDM p168)<!--/Source-->
+- Source: <!--Source-->(LDM p168)(TOB p172)<!--/Source-->
+- TOB: <!--AltName-->Enchantress<!--/AltName-->
 -  <!--Type-->Humanoïde (fée des ombres)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->123 (19d8+38)<!--/HitPoints-->
@@ -6921,7 +6930,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Gardien<!--/Name-->
 
-- Source: <!--Source-->(LDM p169)<!--/Source-->
+- Source: <!--Source-->(LDM p169)(TOB p174)<!--/Source-->
+- TOB: <!--AltName-->Guardian<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
@@ -7040,7 +7050,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Écornifleur Erina<!--/Name-->
 
-- Source: <!--Source-->(LDM p172)<!--/Source-->
+- Source: <!--Source-->(LDM p172)(TOB p178)<!--/Source-->
+- TOB: <!--AltName-->Erina Scrounger<!--/AltName-->
 -  <!--Type-->Humanoïde (erina)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
@@ -7073,7 +7084,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Défenseur Erina<!--/Name-->
 
-- Source: <!--Source-->(LDM p172)<!--/Source-->
+- Source: <!--Source-->(LDM p172)(TOB p178)<!--/Source-->
+- TOB: <!--AltName-->Erina Defender<!--/AltName-->
 -  <!--Type-->Humanoïde (erina)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d6+16)<!--/HitPoints-->
@@ -7265,7 +7277,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Far Darrig<!--/Name-->
 
-- Source: <!--Source-->(LDM p177)<!--/Source-->
+- Source: <!--Source-->(LDM p177)(TOB p179)<!--/Source-->
+- TOB: <!--AltName-->Far Darrig<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (16d6+48)<!--/HitPoints-->
@@ -7305,7 +7318,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->La Reine de la Nuit et de la Magie<!--/Name-->
 
-- Source: <!--Source-->(LDM p180)<!--/Source-->
+- Source: <!--Source-->(LDM p180)(TOB p192)<!--/Source-->
+- TOB: <!--AltName-->Queen of Night and Magic<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (18 avec armure du mage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->180 (24d8+72)<!--/HitPoints-->
@@ -7418,7 +7432,8 @@ Si la Reine de la Nuit et de la Magie meurt, les conditions redeviennent normale
 
 # <!--Name-->La Reine des Neiges<!--/Name-->
 
-- Source: <!--Source-->(LDM p182)<!--/Source-->
+- Source: <!--Source-->(LDM p182)(TOB p198)<!--/Source-->
+- TOB: <!--AltName-->Snow Queen<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->123 (19d8+38)<!--/HitPoints-->
@@ -7511,7 +7526,8 @@ Si la Reine des Neiges meurt, les conditions redeviennent normales dans la zone 
 
 # <!--Name-->La Reine des Sorcières<!--/Name-->
 
-- Source: <!--Source-->(LDM p184)<!--/Source-->
+- Source: <!--Source-->(LDM p184)(TOB p194)<!--/Source-->
+- TOB: <!--AltName-->Queen of Witches<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->123 (13d10+52)<!--/HitPoints-->
@@ -7602,7 +7618,8 @@ Si Nicnevin meurt, les conditions de la zone qui entoure son antre redeviennent 
 
 # <!--Name-->Le Grand Veneur<!--/Name-->
 
-- Source: <!--Source-->(LDM p186)<!--/Source-->
+- Source: <!--Source-->(LDM p186)(TOB p188)<!--/Source-->
+- TOB: <!--AltName-->Lord of the Hunt<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->229 (27d8+108)<!--/HitPoints-->
@@ -7693,7 +7710,8 @@ Quand le Grand Veneur meurt ou lève le camp, la région qui entoure celui-ci re
 
 # <!--Name-->Le Roi Baigné de Lune<!--/Name-->
 
-- Source: <!--Source-->(LDM p188)<!--/Source-->
+- Source: <!--Source-->(LDM p188)(TOB p190)<!--/Source-->
+- TOB: <!--AltName-->Moonlit King<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre bonne<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (demi-plate)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->170 (20d8+80)<!--/HitPoints-->
@@ -7788,7 +7806,8 @@ Si le Roi Baigné de Lune meurt, les conditions redeviennent normales dans la zo
 
 # <!--Name-->Le Roi des Ours<!--/Name-->
 
-- Source: <!--Source-->(LDM p190)<!--/Source-->
+- Source: <!--Source-->(LDM p190)(TOB p186)<!--/Source-->
+- TOB: <!--AltName-->Bear King<!--/AltName-->
 -  <!--Type-->Fée (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->133 (14d8+70)<!--/HitPoints-->
@@ -7873,7 +7892,8 @@ Si le Roi des Ours meurt, les conditions redeviennent normales dans la zone qui 
 
 # <!--Name-->Le Roi des Rivières<!--/Name-->
 
-- Source: <!--Source-->(LDM p192)<!--/Source-->
+- Source: <!--Source-->(LDM p192)(TOB p196)<!--/Source-->
+- TOB: <!--AltName-->River King<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d8+80)<!--/HitPoints-->
@@ -7966,7 +7986,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # <!--Name-->Felforgé<!--/Name-->
 
-- Source: <!--Source-->(LDM p194)<!--/Source-->
+- Source: <!--Source-->(LDM p194)(TOB p182)<!--/Source-->
+- TOB: <!--AltName-->Fellforged<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d8+54)<!--/HitPoints-->
@@ -8039,7 +8060,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # <!--Name-->Fext<!--/Name-->
 
-- Source: <!--Source-->(LDM p196)<!--/Source-->
+- Source: <!--Source-->(LDM p196)(TOB p183)<!--/Source-->
+- TOB: <!--AltName-->Fext<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (11d8+11)<!--/HitPoints-->
@@ -8146,7 +8168,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # <!--Name-->Forgepeur<!--/Name-->
 
-- Source: <!--Source-->(LDM p198)<!--/Source-->
+- Source: <!--Source-->(LDM p198)(TOB p181)<!--/Source-->
+- TOB: <!--AltName-->Fear Smith<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->123 (19d8+38)<!--/HitPoints-->
@@ -11273,7 +11296,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Locus Élémentaire<!--/Name-->
 
-- Source: <!--Source-->(LDM p274)<!--/Source-->
+- Source: <!--Source-->(LDM p274)(TOB p169)<!--/Source-->
+- TOB: <!--AltName-->Elemental Locus<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->290 (20d20+80)<!--/HitPoints-->
@@ -11613,7 +11637,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Mangedestin<!--/Name-->
 
-- Source: <!--Source-->(LDM p282)<!--/Source-->
+- Source: <!--Source-->(LDM p282)(TOB p180)<!--/Source-->
+- TOB: <!--AltName-->Fate Eater<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->182 (28d8+56)<!--/HitPoints-->
@@ -11657,7 +11682,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Mangepoussière (Yakat-Shi)<!--/Name-->
 
-- Source: <!--Source-->(LDM p283)<!--/Source-->
+- Source: <!--Source-->(LDM p283)(TOB p164)<!--/Source-->
+- TOB: <!--AltName-->Eater of Dust (Yakat-Shi)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d8+60)<!--/HitPoints-->
@@ -11700,7 +11726,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Mangerêve<!--/Name-->
 
-- Source: <!--Source-->(LDM p284)<!--/Source-->
+- Source: <!--Source-->(LDM p284)(TOB p158)<!--/Source-->
+- TOB: <!--AltName-->Dream Eater<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -11746,7 +11773,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Manteau Vide<!--/Name-->
 
-- Source: <!--Source-->(LDM p285)<!--/Source-->
+- Source: <!--Source-->(LDM p285)(TOB p176)<!--/Source-->
+- TOB: <!--AltName-->Empty Cloak<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d8)<!--/HitPoints-->
@@ -12419,7 +12447,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # <!--Name-->Mimique Des Dunes<!--/Name-->
 
-- Source: <!--Source-->(LDM p303)<!--/Source-->
+- Source: <!--Source-->(LDM p303)(TOB p162)<!--/Source-->
+- TOB: <!--AltName-->Dune Mimic<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d12+64)<!--/HitPoints-->
@@ -13577,7 +13606,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Œil D'Émeraude<!--/Name-->
 
-- Source: <!--Source-->(LDM p333)<!--/Source-->
+- Source: <!--Source-->(LDM p333)(TOB p175)<!--/Source-->
+- TOB: <!--AltName-->Emerald Eye<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d4+24)<!--/HitPoints-->
@@ -16132,7 +16162,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Vagabond Éonique<!--/Name-->
 
-- Source: <!--Source-->(LDM p394)<!--/Source-->
+- Source: <!--Source-->(LDM p394)(TOB p177)<!--/Source-->
+- TOB: <!--AltName-->Eonic Drifter<!--/AltName-->
 -  <!--Type-->Humanoïde (humain)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
