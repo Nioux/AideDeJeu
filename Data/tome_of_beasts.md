@@ -1974,7 +1974,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chernomoï<!--/Name-->
 
-- Source: <!--Source-->(LDM p58)<!--/Source-->
+- Source: <!--Source-->(LDM p58)(TOB p55)<!--/Source-->
+- TOB: <!--AltName-->Chernomoi<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d4+20)<!--/HitPoints-->
@@ -2113,7 +2114,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chronomentaire<!--/Name-->
 
-- Source: <!--Source-->(LDM p62)<!--/Source-->
+- Source: <!--Source-->(LDM p62)(TOB p57)<!--/Source-->
+- TOB: <!--AltName-->Chronalmental<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non aligné<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
@@ -2151,7 +2153,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Cikavak<!--/Name-->
 
-- Source: <!--Source-->(LDM p63)<!--/Source-->
+- Source: <!--Source-->(LDM p63)(TOB p58)<!--/Source-->
+- TOB: <!--AltName-->Cikavak<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->17 (7d4)<!--/HitPoints-->
@@ -2214,7 +2217,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Clurichaun<!--/Name-->
 
-- Source: <!--Source-->(LDM p65)<!--/Source-->
+- Source: <!--Source-->(LDM p65)(TOB p67)<!--/Source-->
+- TOB: <!--AltName-->Clurichaun<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d4+12)<!--/HitPoints-->
@@ -2559,7 +2563,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Dau<!--/Name-->
 
-- Source: <!--Source-->(LDM p74)<!--/Source-->
+- Source: <!--Source-->(LDM p74)(TOB p70)<!--/Source-->
+- TOB: <!--AltName-->Dau<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->49 (9d6+18)<!--/HitPoints-->
@@ -2662,7 +2667,8 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 
 # <!--Name-->Apau Perape<!--/Name-->
 
-- Source: <!--Source-->(LDM p76)<!--/Source-->
+- Source: <!--Source-->(LDM p76)(TOB p75)<!--/Source-->
+- TOB: <!--AltName-->Apau Perape<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
@@ -2710,7 +2716,8 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 
 # <!--Name-->Berstuc<!--/Name-->
 
-- Source: <!--Source-->(LDM p77)<!--/Source-->
+- Source: <!--Source-->(LDM p77)(TOB p76)<!--/Source-->
+- TOB: <!--AltName-->Berstuc<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
@@ -2784,7 +2791,8 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 
 # <!--Name-->Démon Kishi<!--/Name-->
 
-- Source: <!--Source-->(LDM p79)<!--/Source-->
+- Source: <!--Source-->(LDM p79)(TOB p77)<!--/Source-->
+- TOB: <!--AltName-->Kishi Demon<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d8+56)<!--/HitPoints-->
@@ -2838,7 +2846,8 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 # <!--Name-->Malakbel<!--/Name-->
 
-- Source: <!--Source-->(LDM p80)<!--/Source-->
+- Source: <!--Source-->(LDM p80)(TOB p78)<!--/Source-->
+- TOB: <!--AltName-->Malakbel<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
@@ -2879,7 +2888,8 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 # <!--Name-->Démon Psoglav<!--/Name-->
 
-- Source: <!--Source-->(LDM p81)<!--/Source-->
+- Source: <!--Source-->(LDM p81)(TOB p79)<!--/Source-->
+- TOB: <!--AltName-->Psoglav Demon<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->115 (11d10+55)<!--/HitPoints-->
@@ -2920,7 +2930,8 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 # <!--Name-->Rübezahl<!--/Name-->
 
-- Source: <!--Source-->(LDM p82)<!--/Source-->
+- Source: <!--Source-->(LDM p82)(TOB p80)<!--/Source-->
+- TOB: <!--AltName-->Rubezahl<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (17d8+34)<!--/HitPoints-->
@@ -2970,7 +2981,8 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 
 # <!--Name-->Akyishigal, seigneur démon des cafards<!--/Name-->
 
-- Source: <!--Source-->(LDM p84)<!--/Source-->
+- Source: <!--Source-->(LDM p84)(TOB p82)<!--/Source-->
+- TOB: <!--AltName-->Akyishigal, Demon Lord of Cockroaches<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->138 (12d10+72)<!--/HitPoints-->
@@ -3025,7 +3037,8 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 
 # <!--Name-->Rejeton D'Akyishigal<!--/Name-->
 
-- Source: <!--Source-->(LDM p85)<!--/Source-->
+- Source: <!--Source-->(LDM p85)(TOB p83)<!--/Source-->
+- TOB: <!--AltName-->Spawn of Akyishigal<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d8+56)<!--/HitPoints-->
@@ -3060,7 +3073,8 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 
 # <!--Name-->Alquam, seigneur démon de la nuit<!--/Name-->
 
-- Source: <!--Source-->(LDM p86)<!--/Source-->
+- Source: <!--Source-->(LDM p86)(TOB p84)<!--/Source-->
+- TOB: <!--AltName-->Alquam, Demon Lord of Night<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->350 (28d12+168)<!--/HitPoints-->
@@ -3155,7 +3169,8 @@ Si Alquam meurt, les conditions de la zone qui entoure son antre redeviennent no
 
 # <!--Name-->Camazotz, seigneur démon des chauves-souris et du feu<!--/Name-->
 
-- Source: <!--Source-->(LDM p87)<!--/Source-->
+- Source: <!--Source-->(LDM p87)(TOB p85)<!--/Source-->
+- TOB: <!--AltName-->Camazotz, Demon Lord of Bats and Fire<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->537 (43d10+301)<!--/HitPoints-->
@@ -3223,7 +3238,8 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 
 # <!--Name-->Chauve-Souris De Peau<!--/Name-->
 
-- Source: <!--Source-->(LDM p89)<!--/Source-->
+- Source: <!--Source-->(LDM p89)(TOB p87)<!--/Source-->
+- TOB: <!--AltName-->Skin Bat<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->14 (4d6)<!--/HitPoints-->
@@ -3251,7 +3267,8 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 
 # <!--Name-->Mechuiti, seigneur démon des grands singes<!--/Name-->
 
-- Source: <!--Source-->(LDM p90)<!--/Source-->
+- Source: <!--Source-->(LDM p90)(TOB p88)<!--/Source-->
+- TOB: <!--AltName-->Mechuiti, Demon Lord of Apes<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->370 (20d20+160)<!--/HitPoints-->
@@ -3354,7 +3371,8 @@ Si Mechuiti meurt, tous ces effets régionaux prennent fin immédiatement.
 
 # <!--Name-->Qorgeth, seigneur démon du ver insatiable<!--/Name-->
 
-- Source: <!--Source-->(LDM p92)<!--/Source-->
+- Source: <!--Source-->(LDM p92)(TOB p90)<!--/Source-->
+- TOB: <!--AltName-->Qorgeth, Demon Lord of the Devouring Worm<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->370 (20d20+160)<!--/HitPoints-->
@@ -3445,7 +3463,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # <!--Name-->Antipaladin Des Ombres Derro<!--/Name-->
 
-- Source: <!--Source-->(LDM p94)<!--/Source-->
+- Source: <!--Source-->(LDM p94)(TOB p93)<!--/Source-->
+- TOB: <!--AltName-->Derro Shadow Antipaladin<!--/AltName-->
 -  <!--Type-->Humanoïde (derro)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (cuirasse et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d6+44)<!--/HitPoints-->
@@ -3493,7 +3512,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # <!--Name-->Savant Fœtal Derro<!--/Name-->
 
-- Source: <!--Source-->(LDM p95)<!--/Source-->
+- Source: <!--Source-->(LDM p95)(TOB p92)<!--/Source-->
+- TOB: <!--AltName-->Derro Fetal Savant<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (cage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (4d4 - 8)<!--/HitPoints-->
@@ -3566,7 +3586,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # <!--Name-->Arbeyach<!--/Name-->
 
-- Source: <!--Source-->(LDM p98)<!--/Source-->
+- Source: <!--Source-->(LDM p98)(TOB p95)<!--/Source-->
+- TOB: <!--AltName-->Arbeyach<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->275 (22d10+154)<!--/HitPoints-->
@@ -3631,7 +3652,8 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 
 # <!--Name-->Rejeton D'Arbeyach<!--/Name-->
 
-- Source: <!--Source-->(LDM p100)<!--/Source-->
+- Source: <!--Source-->(LDM p100)(TOB p97)<!--/Source-->
+- TOB: <!--AltName-->Spawn of Arbeyach<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
@@ -3671,7 +3693,8 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 
 # <!--Name-->Ia'Affrat<!--/Name-->
 
-- Source: <!--Source-->(LDM p101)<!--/Source-->
+- Source: <!--Source-->(LDM p101)(TOB p98)<!--/Source-->
+- TOB: <!--AltName-->Ia'Affrat<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille d'élémentaires de taille Minuscule (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->170 (20d10+60)<!--/HitPoints-->
@@ -3720,7 +3743,8 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 
 # <!--Name-->Mammon<!--/Name-->
 
-- Source: <!--Source-->(LDM p102)<!--/Source-->
+- Source: <!--Source-->(LDM p102)(TOB p99)<!--/Source-->
+- TOB: <!--AltName-->Mammon<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->378 (28d12+196)<!--/HitPoints-->
@@ -3809,7 +3833,8 @@ Si Mammon meurt, les conditions de la zone qui entoure son antre redeviennent no
 
 # <!--Name-->Totivillus, le Scribe de l'Enfer<!--/Name-->
 
-- Source: <!--Source-->(LDM p104)<!--/Source-->
+- Source: <!--Source-->(LDM p104)(TOB p101)<!--/Source-->
+- TOB: <!--AltName-->Totivillus, Scribe of Hell<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->299 (26d8+182)<!--/HitPoints-->
@@ -3886,7 +3911,8 @@ Totivillus peut faire 3 actions légendaires, parmi celles proposées ci- dessou
 
 # <!--Name-->Diable Automate<!--/Name-->
 
-- Source: <!--Source-->(LDM p105)<!--/Source-->
+- Source: <!--Source-->(LDM p105)(TOB p102)<!--/Source-->
+- TOB: <!--AltName-->Automata Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d10+80)<!--/HitPoints-->
@@ -3936,7 +3962,8 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 
 # <!--Name-->Chort<!--/Name-->
 
-- Source: <!--Source-->(LDM p107)<!--/Source-->
+- Source: <!--Source-->(LDM p107)(TOB p104)<!--/Source-->
+- TOB: <!--AltName-->Chort Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->187 (15d8+120)<!--/HitPoints-->
@@ -3983,7 +4010,8 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 
 # <!--Name-->Diable Cristallin<!--/Name-->
 
-- Source: <!--Source-->(LDM p108)<!--/Source-->
+- Source: <!--Source-->(LDM p108)(TOB p105)<!--/Source-->
+- TOB: <!--AltName-->Crystalline Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
@@ -4036,7 +4064,8 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 
 # <!--Name-->Diable D'Encre<!--/Name-->
 
-- Source: <!--Source-->(LDM p109)<!--/Source-->
+- Source: <!--Source-->(LDM p109)(TOB p108)<!--/Source-->
+- TOB: <!--AltName-->Ink Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d6+12)<!--/HitPoints-->
@@ -4083,7 +4112,8 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 
 # <!--Name-->Diable De Sel<!--/Name-->
 
-- Source: <!--Source-->(LDM p110)<!--/Source-->
+- Source: <!--Source-->(LDM p110)(TOB p113)<!--/Source-->
+- TOB: <!--AltName-->Salt Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d8+44)<!--/HitPoints-->
@@ -4130,7 +4160,8 @@ Certains diables de sel possèdent une action qui leur permet de convoquer d'aut
 
 # <!--Name-->Diable Doré<!--/Name-->
 
-- Source: <!--Source-->(LDM p111)<!--/Source-->
+- Source: <!--Source-->(LDM p111)(TOB p106)<!--/Source-->
+- TOB: <!--AltName-->Gilded Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de pièces)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -4197,7 +4228,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # <!--Name-->Koralk (Diable Moissonneur)<!--/Name-->
 
-- Source: <!--Source-->(LDM p112)<!--/Source-->
+- Source: <!--Source-->(LDM p112)(TOB p108)<!--/Source-->
+- TOB: <!--AltName-->Koralk (Harvester Devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d10+48)<!--/HitPoints-->
@@ -4237,7 +4269,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # <!--Name-->Diable Lunaire<!--/Name-->
 
-- Source: <!--Source-->(LDM p114)<!--/Source-->
+- Source: <!--Source-->(LDM p114)(TOB p110)<!--/Source-->
+- TOB: <!--AltName-->Lunar Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->94 (9d10+45)<!--/HitPoints-->
@@ -4294,7 +4327,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # <!--Name-->Diable Orobas<!--/Name-->
 
-- Source: <!--Source-->(LDM p115)<!--/Source-->
+- Source: <!--Source-->(LDM p115)(TOB p111)<!--/Source-->
+- TOB: <!--AltName-->Orobas Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->261 (14d10+126)<!--/HitPoints-->
@@ -6923,7 +6957,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Enfant Des Bruyères<!--/Name-->
 
-- Source: <!--Source-->(LDM p171)<!--/Source-->
+- Source: <!--Source-->(LDM p171)(TOB p56)<!--/Source-->
+- TOB: <!--AltName-->Child of the Briar<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->50 (20d4)<!--/HitPoints-->
@@ -11865,7 +11900,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Abomination Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p290)<!--/Source-->
+- Source: <!--Source-->(LDM p290)(TOB p59)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Abomination<!--/AltName-->
 -  <!--Type-->Créature artificielle (diable)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76(8d10+32)<!--/HitPoints-->
@@ -11908,7 +11944,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Araignée Tisseuse Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p291)<!--/Source-->
+- Source: <!--Source-->(LDM p291)(TOB p66)<!--/Source-->
+- TOB: <!--AltName-->Weaving Spider<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->25 (10d4)<!--/HitPoints-->
@@ -11944,7 +11981,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Chasseur Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p292)<!--/Source-->
+- Source: <!--Source-->(LDM p292)(TOB p63)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Huntsman<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (20d8+20)<!--/HitPoints-->
@@ -11982,7 +12020,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Chien Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p293)<!--/Source-->
+- Source: <!--Source-->(LDM p293)(TOB p62)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Hound<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (11d8+22)<!--/HitPoints-->
@@ -12020,7 +12059,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Gendarme Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p294)<!--/Source-->
+- Source: <!--Source-->(LDM p294)(TOB p65)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Watchman<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->55 (10d8+10)<!--/HitPoints-->
@@ -12056,7 +12096,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Myrmidon Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p295)<!--/Source-->
+- Source: <!--Source-->(LDM p295)(TOB p64)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Myrmidon<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d10+54)<!--/HitPoints-->
@@ -12098,7 +12139,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Scarabée Mécanique<!--/Name-->
 
-- Source: <!--Source-->(LDM p296)<!--/Source-->
+- Source: <!--Source-->(LDM p296)(TOB p60)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Beetle<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->15 (6d4)<!--/HitPoints-->
@@ -12589,7 +12631,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Montagne De Cadavres<!--/Name-->
 
-- Source: <!--Source-->(LDM p310)<!--/Source-->
+- Source: <!--Source-->(LDM p310)(TOB p69)<!--/Source-->
+- TOB: <!--AltName-->Corpse Mound<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->207 (18d12+90)<!--/HitPoints-->
@@ -12663,7 +12706,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Mort Follet<!--/Name-->
 
-- Source: <!--Source-->(LDM p312)<!--/Source-->
+- Source: <!--Source-->(LDM p312)(TOB p72)<!--/Source-->
+- TOB: <!--AltName-->Deathwisp<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d8+33)<!--/HitPoints-->
@@ -13252,7 +13296,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Papillons De Mort<!--/Name-->
 
-- Source: <!--Source-->(LDM p327)<!--/Source-->
+- Source: <!--Source-->(LDM p327)(TOB p71)<!--/Source-->
+- TOB: <!--AltName-->Death Butterfly Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (11d10)<!--/HitPoints-->
@@ -13286,7 +13331,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Grande Nuée De Papillons De Mort<!--/Name-->
 
-- Source: <!--Source-->(LDM p327)<!--/Source-->
+- Source: <!--Source-->(LDM p327)(TOB p71)<!--/Source-->
+- TOB: <!--AltName-->Greater Death Butterfly Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Très Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d12)<!--/HitPoints-->
@@ -13355,7 +13401,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Scarabées Mécaniques<!--/Name-->
 
-- Source: <!--Source-->(LDM p329)<!--/Source-->
+- Source: <!--Source-->(LDM p329)(TOB p61)<!--/Source-->
+- TOB: <!--AltName-->Clockwork Beetle Swarm<!--/AltName-->
 -  <!--Type-->Grande nuée<!--/Type--> de créatures artificielles de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d10+8)<!--/HitPoints-->
@@ -13652,7 +13699,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Pavenuée<!--/Name-->
 
-- Source: <!--Source-->(LDM p337)<!--/Source-->
+- Source: <!--Source-->(LDM p337)(TOB p68)<!--/Source-->
+- TOB: <!--AltName-->Cobbleswarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille composée de bêtes de Très Petite taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
@@ -13877,7 +13925,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Profond<!--/Name-->
 
-- Source: <!--Source-->(LDM p343)<!--/Source-->
+- Source: <!--Source-->(LDM p343)(TOB p73)<!--/Source-->
+- TOB: <!--AltName-->Deep One<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8+28)<!--/HitPoints-->
@@ -13912,7 +13961,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Archimandrite Profond<!--/Name-->
 
-- Source: <!--Source-->(LDM p343)<!--/Source-->
+- Source: <!--Source-->(LDM p343)(TOB p74)<!--/Source-->
+- TOB: <!--AltName-->Deep One Archimandrite<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d10+54)<!--/HitPoints-->
@@ -13962,7 +14012,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Prêtre Profond Hybride<!--/Name-->
 
-- Source: <!--Source-->(LDM p344)<!--/Source-->
+- Source: <!--Source-->(LDM p344)(TOB p73)<!--/Source-->
+- TOB: <!--AltName-->Deep One Hybrid Priest<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
