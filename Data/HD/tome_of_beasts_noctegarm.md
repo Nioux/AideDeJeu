@@ -4,7 +4,8 @@
 
 # Noctegarm
 
-- Source: (LDM p322)
+- Source: (LDM p322)(TOB p305)
+- TOB: Nightgarm
 -  Créature monstrueuse de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 114 (12d10+48)

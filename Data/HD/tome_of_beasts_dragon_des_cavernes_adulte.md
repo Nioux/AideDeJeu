@@ -4,7 +4,8 @@
 
 # Dragon Des Cavernes, Adulte
 
-- Source: (LDM p133)
+- Source: (LDM p133)(TOB p125)
+- TOB: Adult Cave Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 243 (18d12+126)

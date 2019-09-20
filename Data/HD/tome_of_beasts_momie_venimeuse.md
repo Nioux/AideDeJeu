@@ -4,7 +4,8 @@
 
 # Momie Venimeuse
 
-- Source: (LDM p307)
+- Source: (LDM p307)(TOB p299)
+- TOB: Venomous Mummy
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)

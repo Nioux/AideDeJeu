@@ -4,7 +4,8 @@
 
 # Dragon Marin, Adulte
 
-- Source: (LDM p144)
+- Source: (LDM p144)(TOB p135)
+- TOB: Adult Sea Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)

@@ -4,7 +4,8 @@
 
 # Factice noctegarm
 
-- Source: (LDM p322)
+- Source: (LDM p322)(TOB p305)
+- TOB: Nightgarm Falseman
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Vulnérabilité aux dégâts** radiants; aux armes en argent
 

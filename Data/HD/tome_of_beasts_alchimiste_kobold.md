@@ -4,7 +4,8 @@
 
 # Alchimiste Kobold
 
-- Source: (LDM p254)
+- Source: (LDM p254)(TOB p261)
+- TOB: Kobold Alchemist
 -  Humanoïde (kobold) de Petite taille (P), loyal neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 44 (8d6+16)

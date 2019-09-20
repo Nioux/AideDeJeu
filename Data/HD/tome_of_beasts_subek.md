@@ -4,7 +4,8 @@
 
 # Subek
 
-- Source: (LDM p375)
+- Source: (LDM p375)(TOB p371)
+- TOB: Subek
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76(8d10+32)

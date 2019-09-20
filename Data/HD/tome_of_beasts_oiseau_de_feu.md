@@ -4,7 +4,8 @@
 
 # Oiseau De Feu
 
-- Source: (LDM p334)
+- Source: (LDM p334)(TOB p201)
+- TOB: Firebird
 -  Céleste de Petite taille (P), neutre bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 99 (18d6+36)

@@ -4,7 +4,8 @@
 
 # Escarmoucheur Homme-Cafard
 
-- Source: (LDM p238)
+- Source: (LDM p238)(TOB p329)
+- TOB: Roachling Skirmisher
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)

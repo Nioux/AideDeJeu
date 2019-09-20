@@ -4,7 +4,8 @@
 
 # Dragon Marin, Jeune
 
-- Source: (LDM p145)
+- Source: (LDM p145)(TOB p136)
+- TOB: Young Sea Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)

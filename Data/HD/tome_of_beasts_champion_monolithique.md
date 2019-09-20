@@ -4,7 +4,8 @@
 
 # Champion Monolithique
 
-- Source: (LDM p308)
+- Source: (LDM p308)(TOB p294)
+- TOB: Monolith Champion
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d10+36)

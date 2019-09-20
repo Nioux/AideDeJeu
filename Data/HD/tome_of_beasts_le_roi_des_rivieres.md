@@ -4,7 +4,8 @@
 
 # Le Roi des Rivières
 
-- Source: (LDM p192)
+- Source: (LDM p192)(TOB p196)
+- TOB: River King
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d8+80)

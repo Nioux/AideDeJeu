@@ -4,7 +4,8 @@
 
 # Araignée Marchespectre
 
-- Source: (LDM p27)
+- Source: (LDM p27)(TOB p361)
+- TOB: Ghostwalk Spider
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 119 (14d10+42)

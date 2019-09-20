@@ -4,7 +4,8 @@
 
 # Titanoboa
 
-- Source: (LDM p383)
+- Source: (LDM p383)(TOB p382)
+- TOB: Titanoboa
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 232 (15d20+75)

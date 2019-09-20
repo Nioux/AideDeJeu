@@ -4,7 +4,8 @@
 
 # Géant Thursir
 
-- Source: (LDM p208)
+- Source: (LDM p208)(TOB p227)
+- TOB: Thursir Giant
 -  Géant de Grande taille (G), neutre mauvais (50 %) ou loyal mauvais (50 %)
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 114 (12d10+48)

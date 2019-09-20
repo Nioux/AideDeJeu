@@ -4,7 +4,8 @@
 
 # Ancien Drake Des Ombres
 
-- Source: (LDM p153)
+- Source: (LDM p153)(TOB p153)
+- TOB: Elder Shadow Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 114 (12d10+48)

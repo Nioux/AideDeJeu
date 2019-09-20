@@ -4,7 +4,8 @@
 
 # Sorcière De L'Écheveau
 
-- Source: (LDM p368)
+- Source: (LDM p368)(TOB p349)
+- TOB: Skein Witch
 -  Céleste de taille Moyenne (M), neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 162 (25d8+50)

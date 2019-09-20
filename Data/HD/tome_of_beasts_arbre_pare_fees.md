@@ -4,7 +4,8 @@
 
 # Arbre Pare-Fées
 
-- Source: (LDM p30)
+- Source: (LDM p30)(TOB p200)
+- TOB: Feyward Tree
 -  Créature artificielle de Très Grande taille (TG), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 94 (9d12+36)

@@ -4,7 +4,8 @@
 
 # Mngwa
 
-- Source: (LDM p305)
+- Source: (LDM p305)(TOB p293)
+- TOB: Mngwa
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16
 - **Points de vie** 91 (14d8+28)

@@ -4,7 +4,8 @@
 
 # Scheznyki
 
-- Source: (LDM p356)
+- Source: (LDM p356)(TOB p339)
+- TOB: Scheznyki
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d6+72)

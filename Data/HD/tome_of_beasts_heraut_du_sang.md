@@ -4,7 +4,8 @@
 
 # Héraut Du Sang
 
-- Source: (LDM p237)
+- Source: (LDM p237)(TOB p248)
+- TOB: Herald of Blood
 -  Fiélon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 115 (10d12+50)

@@ -4,7 +4,8 @@
 
 # Fext
 
-- Source: (LDM p196)
+- Source: (LDM p196)(TOB p183)
+- TOB: Fext
 -  Mort-vivant de taille Moyenne (M), n'importe quel alignement
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (11d8+11)

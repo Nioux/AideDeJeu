@@ -4,7 +4,8 @@
 
 # Rôdeur Des Quais
 
-- Source: (LDM p350)
+- Source: (LDM p350)(TOB p407)
+- TOB: Wharfling
 -  Bête de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13
 - **Points de vie** 6 (4d4 - 4)

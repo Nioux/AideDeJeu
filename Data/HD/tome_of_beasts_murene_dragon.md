@@ -4,7 +4,8 @@
 
 # Murène Dragon
 
-- Source: (LDM p147)
+- Source: (LDM p147)(TOB p146)
+- TOB: Dragon Eel
 -  Dragon de Très Grande taille (TG), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)

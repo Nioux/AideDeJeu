@@ -4,7 +4,8 @@
 
 # Dragon Marin, Vénérable
 
-- Source: (LDM p145)
+- Source: (LDM p145)(TOB p135)
+- TOB: Ancient Sea Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)

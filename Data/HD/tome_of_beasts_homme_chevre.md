@@ -4,7 +4,8 @@
 
 # Homme-Chèvre
 
-- Source: (LDM p239)
+- Source: (LDM p239)(TOB p231)
+- TOB: Goat-Man
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)

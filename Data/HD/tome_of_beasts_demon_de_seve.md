@@ -4,7 +4,8 @@
 
 # Démon De Sève
 
-- Source: (LDM p78)
+- Source: (LDM p78)(TOB p335)
+- TOB: Sap Demon
 -  Vase de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 13 (naturelle)
 - **Points de vie** 67 (15d6+15)

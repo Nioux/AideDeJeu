@@ -4,7 +4,8 @@
 
 # Scorpion Nocturne
 
-- Source: (LDM p357)
+- Source: (LDM p357)(TOB p340)
+- TOB: Night Scorpion
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d10+24)

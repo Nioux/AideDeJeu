@@ -4,7 +4,8 @@
 
 # Jeune Spinosaure
 
-- Source: (LDM p120)
+- Source: (LDM p120)(TOB p117)
+- TOB: Young Spinosaurus
 -  Bête de Très Grande taille (TG), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 105 (10d12+40)

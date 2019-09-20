@@ -4,7 +4,8 @@
 
 # Dragon Du Vent, Adulte
 
-- Source: (LDM p136)
+- Source: (LDM p136)(TOB p143)
+- TOB: Wind Dragon, Adult
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 237 (19d12+114)

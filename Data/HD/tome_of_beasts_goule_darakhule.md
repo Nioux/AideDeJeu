@@ -4,8 +4,9 @@
 
 # Goule Darakhule
 
-- Source: (LDM p217)
-  Mort-vivant de taille Moyenne, neutre mauvais
+- Source: (LDM p217)(TOB p216)
+- TOB: Ghoul, Darakhul
+-  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m

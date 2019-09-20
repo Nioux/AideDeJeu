@@ -4,7 +4,8 @@
 
 # Mèche Vivante
 
-- Source: (LDM p297)
+- Source: (LDM p297)(TOB p278)
+- TOB: Living Wick
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)

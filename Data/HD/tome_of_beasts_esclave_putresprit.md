@@ -4,7 +4,8 @@
 
 # Esclave Putresprit
 
-- Source: (LDM p173)
+- Source: (LDM p173)(TOB p290)
+- TOB: Mindrot Thrall
 -  Plante de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)

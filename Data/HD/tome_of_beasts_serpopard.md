@@ -4,7 +4,8 @@
 
 # Serpopard
 
-- Source: (LDM p362)
+- Source: (LDM p362)(TOB p342)
+- TOB: Serpopard
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)

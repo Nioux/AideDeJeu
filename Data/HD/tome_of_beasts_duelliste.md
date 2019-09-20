@@ -4,7 +4,8 @@
 
 # Duelliste
 
-- Source: (LDM p167)
+- Source: (LDM p167)(TOB p171)
+- TOB: Duelist
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (armure de cuir clouté)
 - **Points de vie** 117 (18d8+36)

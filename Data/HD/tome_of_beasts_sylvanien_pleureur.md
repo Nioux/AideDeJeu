@@ -4,7 +4,8 @@
 
 # Sylvanien Pleureur
 
-- Source: (LDM p378)
+- Source: (LDM p378)(TOB p388)
+- TOB: Weeping Treant
 -  Plante de Très Grande taille (TG), neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 105 (10d12+40)

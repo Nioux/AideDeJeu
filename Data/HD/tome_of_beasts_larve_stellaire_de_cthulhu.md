@@ -4,7 +4,8 @@
 
 # Larve Stellaire De Cthulhu
 
-- Source: (LDM p263)
+- Source: (LDM p263)(TOB p368)
+- TOB: Star Spawn of Cthulhu
 -  Fiélon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)
@@ -38,12 +39,4 @@
 **_Regard désintégrateur (recharge 5-6)._** Attaque de sort à distance: +15 pour toucher, portée 18 m, une cible dans le champ de vision.
 
 **_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
-
-## ACTIONS
-
-**_Attaques multiples._** Le léchy fait deux attaques de gourdin.
-
-**_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
-
-**_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
 

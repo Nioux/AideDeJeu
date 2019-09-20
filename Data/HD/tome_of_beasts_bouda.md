@@ -48,11 +48,3 @@
 
 **_Engloutissement vorace._** Un bouda dévore les organes d'un cadavre dans l'emplacement occupé par ce dernier. Le bouda gagne une quantité de points de vie temporaires égale au nombre de DV de la créature morte pour une durée de 1heure. Les organes qu'il a dévorés à l'aide de ce pouvoir n'existent plus et la créature ne peut être ramenée à la vie à l'aide de sorts ou d'effets magiques qui nécessitent d'avoir un cadavre à peu près intact à disposition.
 
-**1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
-
-**_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
-
-**_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
-
-**_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
-

@@ -4,7 +4,8 @@
 
 # Reine Du Nid Tosculie
 
-- Source: (LDM p386)
+- Source: (LDM p386)(TOB p385)
+- TOB: Tosculi Hive-Queen
 -  Créature monstrueuse de Grande taille (G), loyale mauvaise
 - **Classe d'armure** 17
 - **Points de vie** 157 (15d10+75)

@@ -4,7 +4,8 @@
 
 # Ver Sathaq
 
-- Source: (LDM p401)
+- Source: (LDM p401)(TOB p337)
+- TOB: Sathaq Worm
 -  Élémentaire de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 172 (15d12+75)

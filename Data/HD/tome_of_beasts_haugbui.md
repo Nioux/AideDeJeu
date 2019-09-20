@@ -4,7 +4,8 @@
 
 # Haugbui
 
-- Source: (LDM p235)
+- Source: (LDM p235)(TOB p247)
+- TOB: Haugbui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)

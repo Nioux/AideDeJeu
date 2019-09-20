@@ -4,7 +4,8 @@
 
 # Mahoru
 
-- Source: (LDM p278)
+- Source: (LDM p278)(TOB p281)
+- TOB: Mahoru
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 91 (14d8+28)

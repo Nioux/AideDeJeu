@@ -4,7 +4,8 @@
 
 # Sarcoptère
 
-- Source: (LDM p355)
+- Source: (LDM p355)(TOB p203)
+- TOB: Flutterflesh
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 187 (22d10+66)

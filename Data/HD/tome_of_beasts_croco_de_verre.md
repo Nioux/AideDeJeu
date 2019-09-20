@@ -4,7 +4,8 @@
 
 # Croco De Verre
 
-- Source: (LDM p72)
+- Source: (LDM p72)(TOB p228)
+- TOB: Glass Gator
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d10+7)

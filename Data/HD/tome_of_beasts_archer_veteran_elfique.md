@@ -4,7 +4,8 @@
 
 # Archer Vétéran Elfique
 
-- Source: (LDM p418)
+- Source: (LDM p418)(TOB p422)
+- TOB: Elvish Veteran Archer
 -  Humanoïde (elfe) de taille Moyenne (M), chaotique bon ou chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 77 (14d8 + 14)

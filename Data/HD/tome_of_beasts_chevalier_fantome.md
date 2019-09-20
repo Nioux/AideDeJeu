@@ -4,7 +4,8 @@
 
 # Chevalier Fantôme
 
-- Source: (LDM p421)
+- Source: (LDM p421)(TOB p423)
+- TOB: Ghost Knight
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (demi-plate)
 - **Points de vie** 97 (15d8 + 30)

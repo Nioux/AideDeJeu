@@ -4,7 +4,8 @@
 
 # Assoiffeur Gris
 
-- Source: (LDM p33)
+- Source: (LDM p33)(TOB p238)
+- TOB: Gray Thirster
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13
 - **Points de vie** 39 (6d8+12)

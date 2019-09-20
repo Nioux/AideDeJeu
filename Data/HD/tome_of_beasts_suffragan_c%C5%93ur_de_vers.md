@@ -4,7 +4,8 @@
 
 # Suffragan Cœur-De-Vers
 
-- Source: (LDM p376)
+- Source: (LDM p376)(TOB p410)
+- TOB: Wormhearted Suffragan
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 97 (13d8+39)

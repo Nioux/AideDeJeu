@@ -4,7 +4,8 @@
 
 # Ychen Bannog
 
-- Source: (LDM p413)
+- Source: (LDM p413)(TOB p413)
+- TOB: Ychen Bannog
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (14d20+84)

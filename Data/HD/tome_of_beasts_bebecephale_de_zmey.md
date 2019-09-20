@@ -4,7 +4,8 @@
 
 # Bébécéphale De Zmey
 
-- Source: (LDM p416)
+- Source: (LDM p416)(TOB p416)
+- TOB: Zmey Headling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8 + 42), régénération 5/round

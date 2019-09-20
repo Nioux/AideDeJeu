@@ -4,7 +4,8 @@
 
 # Canitaupe Juggernaut
 
-- Source: (LDM p54)
+- Source: (LDM p54)(TOB p121)
+- TOB: Dogmole Juggernaut
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure de chaînes)
 - **Points de vie** 126 (12d10+60)

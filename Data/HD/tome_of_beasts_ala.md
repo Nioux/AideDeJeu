@@ -4,7 +4,7 @@
 
 # Ala
 
-- Source: (LDM p13)
+- Source: (LDM p11)(TOB p13)
 - TOB: Ala
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)

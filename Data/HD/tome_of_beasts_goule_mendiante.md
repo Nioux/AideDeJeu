@@ -4,7 +4,8 @@
 
 # Goule Mendiante
 
-- Source: (LDM p223)
+- Source: (LDM p223)(TOB p213)
+- TOB: Beggar Ghoul
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)

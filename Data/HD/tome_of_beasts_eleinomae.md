@@ -4,7 +4,8 @@
 
 # Eleinomae
 
-- Source: (LDM p164)
+- Source: (LDM p164)(TOB p168)
+- TOB: Eleinomae
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 18
 - **Points de vie** 112 (15d8+45)

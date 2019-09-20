@@ -4,7 +4,8 @@
 
 # Dryade Épine-Du-Crépuscule
 
-- Source: (LDM p159)
+- Source: (LDM p159)(TOB p160)
+- TOB: Duskthorn Dryad
 -  Fée de taille Moyenne (M), chaotique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
@@ -38,10 +39,7 @@
 
 ## ACTIONS
 
-**_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible.
-7 (1d4+5) dégâts perforants.
+**_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible. 7 (1d4+5) dégâts perforants.
 
-**_Arc long._** Attaque d'arme à distance:
-+7 pour toucher, portée 45/180 m, une cible. Touché:
-9 (1d8+5) dégâts perforants.
+**_Arc long._** Attaque d'arme à distance: +7 pour toucher, portée 45/180 m, une cible. Touché: 9 (1d8+5) dégâts perforants.
 

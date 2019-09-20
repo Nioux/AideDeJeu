@@ -4,7 +4,8 @@
 
 # Crabe Garrotteur
 
-- Source: (LDM p70)
+- Source: (LDM p70)(TOB p208)
+- TOB: Garroter Crab
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 18 (4d4+8)

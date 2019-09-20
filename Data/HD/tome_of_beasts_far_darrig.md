@@ -4,7 +4,8 @@
 
 # Far Darrig
 
-- Source: (LDM p177)
+- Source: (LDM p177)(TOB p179)
+- TOB: Far Darrig
 -  Fée de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 104 (16d6+48)

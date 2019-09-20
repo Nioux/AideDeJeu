@@ -4,7 +4,8 @@
 
 # Férocien
 
-- Source: (LDM p195)
+- Source: (LDM p195)(TOB p338)
+- TOB: Savager
 -  Bête de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (1d10+60)

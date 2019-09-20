@@ -4,7 +4,8 @@
 
 # Archer-Pillard D'Élite Tosculi
 
-- Source: (LDM p387)
+- Source: (LDM p387)(TOB p386)
+- TOB: Tosculi Elite Bow Raider
 -  Humanoïde (tosculi) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d8+39)

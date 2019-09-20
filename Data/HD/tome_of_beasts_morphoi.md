@@ -4,7 +4,8 @@
 
 # Morphoï
 
-- Source: (LDM p311)
+- Source: (LDM p311)(TOB p297)
+- TOB: Morphoi
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 13 (parfois plus avec une armure)
 - **Points de vie** 33 (6d8+6)

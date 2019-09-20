@@ -4,7 +4,8 @@
 
 # Le Roi Baigné de Lune
 
-- Source: (LDM p188)
+- Source: (LDM p188)(TOB p190)
+- TOB: Moonlit King
 -  Fée de taille Moyenne (M), neutre bonne
 - **Classe d'armure** 17 (demi-plate)
 - **Points de vie** 170 (20d8+80)

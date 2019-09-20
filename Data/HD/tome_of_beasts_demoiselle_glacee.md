@@ -4,7 +4,8 @@
 
 # Demoiselle Glacée
 
-- Source: (LDM p75)
+- Source: (LDM p75)(TOB p254)
+- TOB: Ice Maiden
 -  Fée de taille Moyenne (M), loyale mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d8+26)

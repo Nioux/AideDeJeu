@@ -4,7 +4,8 @@
 
 # Dragon Du Vent, Vénérable
 
-- Source: (LDM p138)
+- Source: (LDM p138)(TOB p142)
+- TOB: Wind Dragon, Ancient
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 425 (23d20 +184)

@@ -4,7 +4,8 @@
 
 # Chef Ogre Corrompu
 
-- Source: (LDM p420)
+- Source: (LDM p420)(TOB p423)
+- TOB: Ogre Chieftain, Corrupted
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 127 (15d10 + 45)

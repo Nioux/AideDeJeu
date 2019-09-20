@@ -4,7 +4,8 @@
 
 # Einherjar
 
-- Source: (LDM p163)
+- Source: (LDM p163)(TOB p167)
+- TOB: Einherjar
 -  Humanoïde de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (cotte de mailles et bouclier)
 - **Points de vie** 119 (14d8+56)

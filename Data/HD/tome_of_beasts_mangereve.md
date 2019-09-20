@@ -4,7 +4,8 @@
 
 # Mangerêve
 
-- Source: (LDM p284)
+- Source: (LDM p284)(TOB p158)
+- TOB: Dream Eater
 -  Fiélon de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)

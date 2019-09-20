@@ -4,7 +4,8 @@
 
 # Fangeux
 
-- Source: (LDM p176)
+- Source: (LDM p176)(TOB p292)
+- TOB: Miremal
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d6+5)

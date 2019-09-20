@@ -4,7 +4,8 @@
 
 # Mangedestin
 
-- Source: (LDM p282)
+- Source: (LDM p282)(TOB p180)
+- TOB: Fate Eater
 -  Aberration de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 182 (28d8+56)

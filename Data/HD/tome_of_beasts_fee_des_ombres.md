@@ -4,7 +4,8 @@
 
 # Fée des ombres
 
-- Source: (LDM p166)
+- Source: (LDM p166)(TOB p171)
+- TOB: Shadow Fey
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 31 (7d8)

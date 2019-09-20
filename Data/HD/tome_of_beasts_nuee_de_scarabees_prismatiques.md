@@ -4,7 +4,8 @@
 
 # Nuée De Scarabées Prismatiques
 
-- Source: (LDM p330)
+- Source: (LDM p330)(TOB p375)
+- TOB: Prismatic Beetle Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 38 (7d8+7)

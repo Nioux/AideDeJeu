@@ -4,7 +4,8 @@
 
 # Araignée De Leng
 
-- Source: (LDM p24)
+- Source: (LDM p24)(TOB p365)
+- TOB: Spider of Leng
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 144 (17d10+51)

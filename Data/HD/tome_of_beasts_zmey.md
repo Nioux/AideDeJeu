@@ -4,7 +4,8 @@
 
 # Zmey
 
-- Source: (LDM p416)
+- Source: (LDM p416)(TOB p416)
+- TOB: Zmey
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 189 (18d12+72)

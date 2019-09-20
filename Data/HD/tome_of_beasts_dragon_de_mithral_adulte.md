@@ -4,7 +4,8 @@
 
 # Dragon De Mithral, Adulte
 
-- Source: (LDM p130)
+- Source: (LDM p130)(TOB p133)
+- TOB: Adult Mithral Dragon
 -  Dragon de Très Grande taille (TG), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)

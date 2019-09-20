@@ -4,7 +4,8 @@
 
 # Primate Blanc
 
-- Source: (LDM p341)
+- Source: (LDM p341)(TOB p408)
+- TOB: White Ape
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)

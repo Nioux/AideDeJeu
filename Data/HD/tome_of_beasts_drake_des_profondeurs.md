@@ -4,7 +4,8 @@
 
 # Drake Des Profondeurs
 
-- Source: (LDM p154)
+- Source: (LDM p154)(TOB p152)
+- TOB: Deep Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (20d10+40)

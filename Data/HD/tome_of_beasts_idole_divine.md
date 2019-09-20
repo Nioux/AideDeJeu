@@ -4,7 +4,8 @@
 
 # Idole Divine
 
-- Source: (LDM p248)
+- Source: (LDM p248)(TOB p255)
+- TOB: Idolic Deity
 -  Créature artificielle de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 90 (12d6+48)

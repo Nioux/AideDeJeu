@@ -4,7 +4,8 @@
 
 # Chapeau Rouge
 
-- Source: (LDM p55)
+- Source: (LDM p55)(TOB p325)
+- TOB: Redcap
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)

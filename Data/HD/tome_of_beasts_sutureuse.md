@@ -4,7 +4,8 @@
 
 # Sutureuse
 
-- Source: (LDM p377)
+- Source: (LDM p377)(TOB p372)
+- TOB: Suturefly
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 7 (3d4)

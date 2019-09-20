@@ -4,7 +4,8 @@
 
 # Xanka
 
-- Source: (LDM p411)
+- Source: (LDM p411)(TOB p411)
+- TOB: Xanka
 -  Créature artificielle de Petite taille (P), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 18 (4d6+4)

@@ -4,7 +4,8 @@
 
 # Golem Trésor
 
-- Source: (LDM p216)
+- Source: (LDM p216)(TOB p234)
+- TOB: Hoard Golem
 -  Créature artificielle de Très Grande taille (TG), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (14d12+70)

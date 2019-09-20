@@ -4,7 +4,8 @@
 
 # Gardien
 
-- Source: (LDM p169)
+- Source: (LDM p169)(TOB p174)
+- TOB: Guardian
 -  Humanoïde (elfe) de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 110 (13d10+39)

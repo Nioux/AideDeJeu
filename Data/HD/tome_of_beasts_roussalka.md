@@ -4,7 +4,8 @@
 
 # Roussalka
 
-- Source: (LDM p353)
+- Source: (LDM p353)(TOB p331)
+- TOB: Rusalka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 88 (16d8+16)

@@ -4,7 +4,8 @@
 
 # Dragonette Lanterne
 
-- Source: (LDM p148)
+- Source: (LDM p148)(TOB p270)
+- TOB: Lantern Dragonette
 -  Dragon de Très Petite taille (TP), loyal neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d4+8)

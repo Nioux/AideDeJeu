@@ -4,7 +4,8 @@
 
 # Tophet
 
-- Source: (LDM p384)
+- Source: (LDM p384)(TOB p383)
+- TOB: Tophet
 -  Créature artificielle de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 184 (16d12+80)

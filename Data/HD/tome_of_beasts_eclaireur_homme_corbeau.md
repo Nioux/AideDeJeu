@@ -4,7 +4,8 @@
 
 # Éclaireur Homme-Corbeau
 
-- Source: (LDM p242)
+- Source: (LDM p242)(TOB p322)
+- TOB: Ravenfolk Scout
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 21 (6d8 – 6)

@@ -4,7 +4,8 @@
 
 # Dragon Des Cavernes, Dragonnet
 
-- Source: (LDM p135)
+- Source: (LDM p135)(TOB p127)
+- TOB: Cave Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 75 (10d8+30)

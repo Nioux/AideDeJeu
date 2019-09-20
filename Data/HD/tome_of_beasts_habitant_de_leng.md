@@ -4,7 +4,8 @@
 
 # Habitant De Leng
 
-- Source: (LDM p233)
+- Source: (LDM p233)(TOB p204)
+- TOB: Folk of Leng
 -  Humanoïde de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 68 (8d8+32)

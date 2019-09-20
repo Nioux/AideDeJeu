@@ -4,7 +4,8 @@
 
 # Titan Antique
 
-- Source: (LDM p381)
+- Source: (LDM p381)(TOB p380)
+- TOB: Ancient Titan
 -  Céleste de taille Gigantesque (titan) (Gig), neutre bon
 - **Classe d'armure** 15 (cuirasse)
 - **Points de vie** 198 (12d20+72)

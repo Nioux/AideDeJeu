@@ -4,7 +4,8 @@
 
 # Dullahan
 
-- Source: (LDM p160)
+- Source: (LDM p160)(TOB p161)
+- TOB: Dullahan
 -  Fée de Grande taille (G), loyale mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 178 (17d10+85)

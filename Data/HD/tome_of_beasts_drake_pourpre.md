@@ -4,7 +4,8 @@
 
 # Drake Pourpre
 
-- Source: (LDM p156)
+- Source: (LDM p156)(TOB p151)
+- TOB: Crimson Drake
 -  Dragon de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 54 (12d4+24)

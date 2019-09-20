@@ -4,7 +4,8 @@
 
 # Colonne Possédée
 
-- Source: (LDM p66)
+- Source: (LDM p66)(TOB p314)
+- TOB: Possessed Pillar
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)

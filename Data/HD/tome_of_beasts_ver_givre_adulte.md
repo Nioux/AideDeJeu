@@ -4,7 +4,8 @@
 
 # Ver Givré Adulte
 
-- Source: (LDM p399)
+- Source: (LDM p399)(TOB p327)
+- TOB: Adult Rime Worm
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (10d10+50)

@@ -4,7 +4,8 @@
 
 # Mirageur
 
-- Source: (LDM p304)
+- Source: (LDM p304)(TOB p291)
+- TOB: Mirager
 -  Fée (métamorphe) de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d8+24)

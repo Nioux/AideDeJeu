@@ -4,7 +4,8 @@
 
 # Nain Loup Ravageur
 
-- Source: (LDM p424)
+- Source: (LDM p424)(TOB p426)
+- TOB: Wolf Reaver Dwarf
 -  Humanoïde de taille Moyenne (nain) (M), chaotique
 - **Classe d'armure** 16 (chemise de mailles, bouclier)
 - **Points de vie** 76 (9d8 + 36)

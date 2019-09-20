@@ -4,7 +4,8 @@
 
 # Urochar (Guetteur Étrangleur)
 
-- Source: (LDM p391)
+- Source: (LDM p391)(TOB p393)
+- TOB: Urochar (Strangling Watcher)
 -  Aberration de Très Grande taille (TG), chaotique mauvaise
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)

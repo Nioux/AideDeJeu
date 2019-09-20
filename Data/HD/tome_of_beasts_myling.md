@@ -4,7 +4,8 @@
 
 # Myling
 
-- Source: (LDM p314)
+- Source: (LDM p314)(TOB p301)
+- TOB: Myling
 -  Mort-vivant de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d6+10)

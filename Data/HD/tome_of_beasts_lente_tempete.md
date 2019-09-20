@@ -4,7 +4,8 @@
 
 # Lente Tempête
 
-- Source: (LDM p265)
+- Source: (LDM p265)(TOB p353)
+- TOB: Slow Storm
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19
 - **Points de vie** 225 (18d12+108)

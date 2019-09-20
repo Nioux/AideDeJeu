@@ -4,7 +4,8 @@
 
 # Doppelrat
 
-- Source: (LDM p124)
+- Source: (LDM p124)(TOB p123)
+- TOB: Doppelrat
 -  Créature monstrueuse de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)

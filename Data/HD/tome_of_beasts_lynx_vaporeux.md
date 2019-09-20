@@ -4,7 +4,8 @@
 
 # Lynx Vaporeux
 
-- Source: (LDM p277)
+- Source: (LDM p277)(TOB p398)
+- TOB: Vapor Lynx
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 127 (15d10+45)

@@ -4,7 +4,8 @@
 
 # Thuellai
 
-- Source: (LDM p380)
+- Source: (LDM p380)(TOB p379)
+- TOB: Thuellai
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 17
 - **Points de vie** 149 (13d12+65)

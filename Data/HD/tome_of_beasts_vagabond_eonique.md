@@ -4,7 +4,8 @@
 
 # Vagabond Éonique
 
-- Source: (LDM p394)
+- Source: (LDM p394)(TOB p177)
+- TOB: Eonic Drifter
 -  Humanoïde (humain) de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 65 (10d8+20)

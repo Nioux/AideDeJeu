@@ -4,7 +4,8 @@
 
 # Araignée Voleuse
 
-- Source: (LDM p28)
+- Source: (LDM p28)(TOB p366)
+- TOB: Spider Thief
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 54 (12d6+12)

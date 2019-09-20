@@ -4,7 +4,8 @@
 
 # Nuée De Scarabées Manavores
 
-- Source: (LDM p328)
+- Source: (LDM p328)(TOB p374)
+- TOB: Manabane Scarab Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)

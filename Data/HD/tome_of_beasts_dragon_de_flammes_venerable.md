@@ -4,7 +4,8 @@
 
 # Dragon De Flammes, Vénérable
 
-- Source: (LDM p128)
+- Source: (LDM p128)(TOB p128)
+- TOB: Ancient Flame Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)

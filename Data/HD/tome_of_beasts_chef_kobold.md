@@ -4,7 +4,8 @@
 
 # Chef Kobold
 
-- Source: (LDM p256)
+- Source: (LDM p256)(TOB p263)
+- TOB: Kobold Chieftain
 -  Humanoïde (kobold) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 17 (armure de cuir clouté et bouclier)
 - **Points de vie** 82 (15d6+30)

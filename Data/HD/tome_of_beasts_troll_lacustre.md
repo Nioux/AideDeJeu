@@ -4,7 +4,8 @@
 
 # Troll Lacustre
 
-- Source: (LDM p388)
+- Source: (LDM p388)(TOB p389)
+- TOB: Lake Troll
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)

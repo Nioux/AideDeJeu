@@ -4,7 +4,8 @@
 
 # Vipère De Zanskaran
 
-- Source: (LDM p361)
+- Source: (LDM p361)(TOB p354)
+- TOB: Zanskaran Viper
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 38 (4d10+16)

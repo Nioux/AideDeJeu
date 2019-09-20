@@ -4,7 +4,8 @@
 
 # Mimique Des Dunes
 
-- Source: (LDM p303)
+- Source: (LDM p303)(TOB p162)
+- TOB: Dune Mimic
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 168 (16d12+64)

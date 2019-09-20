@@ -4,7 +4,8 @@
 
 # Stryx
 
-- Source: (LDM p373)
+- Source: (LDM p373)(TOB p369)
+- TOB: Stryx
 -  Créature monstrueuse de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 10 (4d4)

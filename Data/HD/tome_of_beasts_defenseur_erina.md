@@ -4,7 +4,8 @@
 
 # Défenseur Erina
 
-- Source: (LDM p172)
+- Source: (LDM p172)(TOB p178)
+- TOB: Erina Defender
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 44 (8d6+16)

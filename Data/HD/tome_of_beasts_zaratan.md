@@ -4,7 +4,8 @@
 
 # Zaratan
 
-- Source: (LDM p414)
+- Source: (LDM p414)(TOB p414)
+- TOB: Zaratan
 -  Créature monstrueuse (titan) de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 507 (26d20+234)

@@ -4,7 +4,8 @@
 
 # Nuée De Danseflammes
 
-- Source: (LDM p326)
+- Source: (LDM p326)(TOB p373)
+- TOB: Fire Dancer Swarm
 -  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d8+36)

@@ -4,7 +4,8 @@
 
 # Saccageur Relevé
 
-- Source: (LDM p354)
+- Source: (LDM p354)(TOB p328)
+- TOB: Risen Reaver
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 168 (16d10+80)

@@ -4,7 +4,8 @@
 
 # Enchanteresse
 
-- Source: (LDM p168)
+- Source: (LDM p168)(TOB p172)
+- TOB: Enchantress
 -  Humanoïde (fée des ombres) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 123 (19d8+38)

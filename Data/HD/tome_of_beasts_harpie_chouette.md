@@ -4,7 +4,8 @@
 
 # Harpie Chouette
 
-- Source: (LDM p234)
+- Source: (LDM p234)(TOB p246)
+- TOB: Owl Harpy
 -  Créature monstrueuse de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 14
 - **Points de vie** 112 (15d8+45)

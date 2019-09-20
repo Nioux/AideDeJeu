@@ -4,7 +4,8 @@
 
 # Squelette En Mâchoires De Requin
 
-- Source: (LDM p372)
+- Source: (LDM p372)(TOB p350)
+- TOB: Sharkjaw Skeleton
 -  Mort-vivant de Grande taille (G), loyal mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)

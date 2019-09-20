@@ -4,7 +4,8 @@
 
 # Wampus Féline
 
-- Source: (LDM p409)
+- Source: (LDM p409)(TOB p405)
+- TOB: Wampus Cat
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 58 (9d8+18)

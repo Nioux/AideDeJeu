@@ -4,7 +4,8 @@
 
 # Drake De Corail
 
-- Source: (LDM p150)
+- Source: (LDM p150)(TOB p150)
+- TOB: Coral Drake
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 127 (15d8+60)

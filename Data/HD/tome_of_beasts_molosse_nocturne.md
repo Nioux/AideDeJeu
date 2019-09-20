@@ -4,7 +4,8 @@
 
 # Molosse Nocturne
 
-- Source: (LDM p306)
+- Source: (LDM p306)(TOB p251)
+- TOB: Hound of the night
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)

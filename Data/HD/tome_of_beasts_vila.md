@@ -4,7 +4,8 @@
 
 # Vila
 
-- Source: (LDM p407)
+- Source: (LDM p407)(TOB p400)
+- TOB: Vila
 -  Fée de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 15
 - **Points de vie** 77 (14d8+14)

@@ -4,7 +4,8 @@
 
 # Guenaude Rouge
 
-- Source: (LDM p230)
+- Source: (LDM p230)(TOB p244)
+- TOB: Red Hag
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 119 (14d8+56)

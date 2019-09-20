@@ -4,7 +4,8 @@
 
 # Gug
 
-- Source: (LDM p232)
+- Source: (LDM p232)(TOB p241)
+- TOB: Gug
 -  Géant de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 270 (20d12+140)

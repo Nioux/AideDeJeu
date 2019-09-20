@@ -4,7 +4,8 @@
 
 # Belle Noyée
 
-- Source: (LDM p39)
+- Source: (LDM p39)(TOB p159)
+- TOB: Drowned Maiden
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (20d8)

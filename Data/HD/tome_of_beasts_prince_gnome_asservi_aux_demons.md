@@ -4,7 +4,8 @@
 
 # Prince Gnome Asservi Aux Démons
 
-- Source: (LDM p424)
+- Source: (LDM p424)(TOB p420)
+- TOB: Devilbound Gnomish Prince
 -  Humanoïde de Petite taille (gnome) (P), mauvais
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 104 (19d6 + 38)

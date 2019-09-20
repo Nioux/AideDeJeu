@@ -4,7 +4,8 @@
 
 # Vidien
 
-- Source: (LDM p404)
+- Source: (LDM p404)(TOB p404)
+- TOB: Voidling
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 16
 - **Points de vie** 110 (20d10)

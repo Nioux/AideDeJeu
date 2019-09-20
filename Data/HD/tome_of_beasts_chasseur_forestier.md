@@ -4,7 +4,8 @@
 
 # Chasseur forestier
 
-- Source: (LDM p166)
+- Source: (LDM p166)(TOB p173)
+- TOB: Forest Hunter
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 104 (19d8+19)

@@ -4,7 +4,8 @@
 
 # Faux-Bourdon Tosculi
 
-- Source: (LDM p387)
+- Source: (LDM p387)(TOB p386)
+- TOB: Tosculi Drone
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d6+8)

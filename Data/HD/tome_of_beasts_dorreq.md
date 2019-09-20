@@ -4,7 +4,8 @@
 
 # Dorreq
 
-- Source: (LDM p125)
+- Source: (LDM p125)(TOB p124)
+- TOB: Dorreq
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (17d8+17)

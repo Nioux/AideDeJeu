@@ -4,7 +4,8 @@
 
 # Drake De Rouille
 
-- Source: (LDM p152)
+- Source: (LDM p152)(TOB p155)
+- TOB: Rust Drake
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (19d8+76)

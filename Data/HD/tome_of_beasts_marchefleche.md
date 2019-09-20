@@ -4,7 +4,8 @@
 
 # Marcheflèche
 
-- Source: (LDM p288)
+- Source: (LDM p288)(TOB p367)
+- TOB: Spire Walker
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 38 (11d4+22)

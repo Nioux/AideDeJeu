@@ -4,7 +4,8 @@
 
 # Kongamato
 
-- Source: (LDM p258)
+- Source: (LDM p258)(TOB p265)
+- TOB: Kongamato
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)

@@ -4,7 +4,8 @@
 
 # Drake De Papier
 
-- Source: (LDM p151)
+- Source: (LDM p151)(TOB p154)
+- TOB: Paper Drake
 -  Dragon de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d6+36)

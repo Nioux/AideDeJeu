@@ -4,7 +4,8 @@
 
 # Dragon Marin, Dragonnet
 
-- Source: (LDM p144)
+- Source: (LDM p144)(TOB p136)
+- TOB: Sea Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)

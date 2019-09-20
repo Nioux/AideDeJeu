@@ -10,7 +10,7 @@
 
 Quand votre personnage part à l’aventure et surmonte des défis, il ou elle gagne de l’expérience, représentée par des points d’expérience. Un personnage qui atteint un nombre déterminé de points d’expérience obtient de nouvelles capacités. Cette progression est appelée gagner un niveau.
 
-Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa classe. Certaines de ces aptitudes vous permettent d’augmenter vos valeurs de caracté ristiques, en augmentant soit les valeurs de deux caractéristiques d’un point chacune, soit la valeur d’une seule caractéristique de deux points. Notez que vous ne pouvez pas augmenter vos caractéristique au dessus de 20 par ce biais. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.
+Quand votre personnage gagne un niveau, il a souvent accès à des aptitudes supplémentaires détaillées dans la description de sa classe. Certaines de ces aptitudes vous permettent d’augmenter vos valeurs de caractéristiques, en augmentant soit les valeurs de deux caractéristiques d’un point chacune, soit la valeur d’une seule caractéristique de deux points. Notez que vous ne pouvez pas augmenter vos caractéristiques au dessus de 20 par ce biais. En plus de cela, le bonus de maîtrise de chaque personnage augmente à certains niveaux.
 
 À chaque fois que vous gagnez un niveau, vous gagnez un dé de vie supplémentaire. Lancez ce dé de vie, ajoutez- y votre modificateur de Constitution, et ajoutez le total à votre maximum de points de vie. Alternativement, vous pouvez choisir la valeur fixe indiquée pour votre classe, qui correspond au résultat moyen d'un jet de dé (arrondi à l'entier supérieur).
 

@@ -4,7 +4,8 @@
 
 # Vil Barbier
 
-- Source: (LDM p406)
+- Source: (LDM p406)(TOB p401)
+- TOB: Vile Barber
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 15 (armure de cuir)
 - **Points de vie** 28 (8d6)

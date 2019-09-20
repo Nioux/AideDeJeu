@@ -4,7 +4,8 @@
 
 # Nuée De Sluaghs
 
-- Source: (LDM p331)
+- Source: (LDM p331)(TOB p376)
+- TOB: Sluagh Swarm
 -  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 54 (12d8)

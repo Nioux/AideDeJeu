@@ -4,7 +4,8 @@
 
 # Araignée Des Sables
 
-- Source: (LDM p25)
+- Source: (LDM p25)(TOB p364)
+- TOB: Sand Spider
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d10+28)

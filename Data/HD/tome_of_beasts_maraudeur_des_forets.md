@@ -4,7 +4,8 @@
 
 # Maraudeur Des Forêts
 
-- Source: (LDM p286)
+- Source: (LDM p286)(TOB p205)
+- TOB: Forest Marauder
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 114 (12d10 +48)

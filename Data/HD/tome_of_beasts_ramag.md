@@ -4,7 +4,8 @@
 
 # Ramag
 
-- Source: (LDM p346)
+- Source: (LDM p346)(TOB p317)
+- TOB: Ramag
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d8)

@@ -4,7 +4,8 @@
 
 # Gypsosphinx
 
-- Source: (LDM p369)
+- Source: (LDM p369)(TOB p359)
+- TOB: Gypsosphinx
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 171 (18d10+72)

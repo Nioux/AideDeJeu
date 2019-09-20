@@ -4,7 +4,8 @@
 
 # Guenaude Des Sables
 
-- Source: (LDM p228)
+- Source: (LDM p228)(TOB p245)
+- TOB: Sanf Hag
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)

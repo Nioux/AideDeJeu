@@ -4,7 +4,8 @@
 
 # Bête D'Ombre
 
-- Source: (LDM p41)
+- Source: (LDM p41)(TOB p345)
+- TOB: Shadow Beast
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14
 - **Points de vie** 135 (18d8+54)

@@ -4,7 +4,8 @@
 
 # Nichny
 
-- Source: (LDM p318)
+- Source: (LDM p318)(TOB p303)
+- TOB: Nichny
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)

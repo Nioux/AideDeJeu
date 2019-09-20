@@ -4,7 +4,8 @@
 
 # Golem Oculaire
 
-- Source: (LDM p214)
+- Source: (LDM p214)(TOB p233)
+- TOB: Eye Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 157 (15d10+75)

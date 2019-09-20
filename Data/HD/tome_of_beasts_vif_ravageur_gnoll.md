@@ -4,7 +4,8 @@
 
 # Vif Ravageur Gnoll
 
-- Source: (LDM p405)
+- Source: (LDM p405)(TOB p230)
+- TOB: Gnoll Havoc Runner
 -  Humanoïde (gnoll) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 58 (9d8+18)

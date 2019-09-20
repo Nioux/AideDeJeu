@@ -4,8 +4,9 @@
 
 # Chef De Meute Nkosi
 
-- Source: (LDM p319)
--  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
+- Source: (LDM p319)(TOB p306)
+- TOB: Nkosi Pridelord
+-  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 93 (17d8+17)
 - **Vitesse** 9m

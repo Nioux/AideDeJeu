@@ -4,7 +4,8 @@
 
 # Ovasis
 
-- Source: (LDM p336)
+- Source: (LDM p336)(TOB p310)
+- TOB: Oozasis
 -  Vase de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 7
 - **Points de vie** 217 (14d20+70)

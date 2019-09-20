@@ -4,7 +4,8 @@
 
 # Roi Des Rats
 
-- Source: (LDM p352)
+- Source: (LDM p352)(TOB 318)
+- TOB: Rat King
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76 (9d8+36)

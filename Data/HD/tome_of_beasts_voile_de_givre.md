@@ -4,7 +4,8 @@
 
 # Voile-De-Givre
 
-- Source: (LDM p408)
+- Source: (LDM p408)(TOB p207)
+- TOB: Frostveil
 -  Plante de taille Moyenne (M), non-alignée
 - **Classe d'armure** 16
 - **Points de vie** 67 (9d8+27)

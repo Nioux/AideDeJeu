@@ -4,7 +4,8 @@
 
 # Gobelin Poussiéreux
 
-- Source: (LDM p211)
+- Source: (LDM p211)(TOB p232)
+- TOB: Dust Goblin
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)

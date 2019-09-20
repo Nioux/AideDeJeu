@@ -4,7 +4,8 @@
 
 # Arbre Feuilledragon
 
-- Source: (LDM p29)
+- Source: (LDM p29)(TOB p147)
+- TOB: Dragonleaf Tree
 -  Plante de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 152 (16d10+64)

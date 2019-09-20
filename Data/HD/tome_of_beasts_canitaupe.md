@@ -4,7 +4,8 @@
 
 # Canitaupe
 
-- Source: (LDM p53)
+- Source: (LDM p53)(TOB p120)
+- TOB: Dogmole
 -  Bête de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 71 (11d8+22)

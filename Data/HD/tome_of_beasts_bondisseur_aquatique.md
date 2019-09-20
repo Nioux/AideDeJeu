@@ -4,7 +4,8 @@
 
 # Bondisseur Aquatique
 
-- Source: (LDM p44)
+- Source: (LDM p44)(TOB p406)
+- TOB: Water Leaper
 -  Créature monstrueuse de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 97 (13d10+26)

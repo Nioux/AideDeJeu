@@ -4,7 +4,8 @@
 
 # Fraughashar
 
-- Source: (LDM p200)
+- Source: (LDM p200)(TOB p206)
+- TOB: Fraughashar
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 18 (4d6+4)

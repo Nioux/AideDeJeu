@@ -4,7 +4,8 @@
 
 # Vésiculose
 
-- Source: (LDM p403)
+- Source: (LDM p403)(TOB p399)
+- TOB: Vesiculosa
 -  Plante de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 203 (14d20+56)

@@ -4,7 +4,8 @@
 
 # Variante : Sorcier Vampire
 
-- Source: (LDM p426)
+- Source: (LDM p426)(TOB p426)
+- TOB: Variant: Vampire Warlock
 
 Le sorcier vampire n'est pas sujet à défense d'entrer ni blessé par l'eau courante, faiblesses des vampires ordinaires, et subit 10 dégâts radiants au lieu de 20 s'il est exposé à la lumière du jour.
 

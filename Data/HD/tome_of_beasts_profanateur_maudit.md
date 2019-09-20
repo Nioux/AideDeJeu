@@ -4,7 +4,8 @@
 
 # Profanateur Maudit
 
-- Source: (LDM p342)
+- Source: (LDM p342)(TOB p12)
+- TOB: Accursed Defiler
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 12
 - **Points de vie** 75 (10d8+30)

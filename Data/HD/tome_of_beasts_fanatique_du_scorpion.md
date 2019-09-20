@@ -4,7 +4,8 @@
 
 # Fanatique Du Scorpion
 
-- Source: (LDM p422)
+- Source: (LDM p422)(TOB p425)
+- TOB: Scorpion Cultist
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 19 (3d8 + 6)

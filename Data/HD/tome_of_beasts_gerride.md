@@ -4,7 +4,8 @@
 
 # Gerridé
 
-- Source: (LDM p210)
+- Source: (LDM p210)(TOB p212)
+- TOB: Gerridae
 -  Fée de Grande taille (G), neutre
 - **Classe d'armure** 14
 - **Points de vie** 77 (9d10+27)

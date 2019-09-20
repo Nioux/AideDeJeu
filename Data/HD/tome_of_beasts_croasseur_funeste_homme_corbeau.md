@@ -4,7 +4,8 @@
 
 # Croasseur Funeste Homme-Corbeau
 
-- Source: (LDM p241)
+- Source: (LDM p241)(TOB p324)
+- TOB: Ravenfolk Doom Croaker
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 88 (16d8+16)

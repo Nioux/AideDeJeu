@@ -4,7 +4,8 @@
 
 # Silhouette De Sable
 
-- Source: (LDM p366)
+- Source: (LDM p366)(TOB p332)
+- TOB: Sand Silhouette
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)

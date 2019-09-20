@@ -4,7 +4,8 @@
 
 # Fils De Fenris
 
-- Source: (LDM p197)
+- Source: (LDM p197)(TOB p355)
+- TOB: Son of Fenris
 -  Créature monstrueuse de Très Grande taille (TG), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)

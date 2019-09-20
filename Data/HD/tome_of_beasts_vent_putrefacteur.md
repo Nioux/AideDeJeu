@@ -4,7 +4,8 @@
 
 # Vent Putréfacteur
 
-- Source: (LDM p398)
+- Source: (LDM p398)(TOB p330)
+- TOB: Rotting Wind
 -  Mort-vivant de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d10+22)

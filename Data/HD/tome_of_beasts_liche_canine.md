@@ -4,7 +4,8 @@
 
 # Liche Canine
 
-- Source: (LDM p268)
+- Source: (LDM p268)(TOB p274)
+- TOB: Lich Hound
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 119 (14d8+56)

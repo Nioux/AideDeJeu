@@ -4,7 +4,8 @@
 
 # Drake De Cendres
 
-- Source: (LDM p149)
+- Source: (LDM p149)(TOB p149)
+- TOB: Ash Drake
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 117 (18d6+54)

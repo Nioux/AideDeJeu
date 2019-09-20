@@ -4,7 +4,8 @@
 
 # Bouffon Macabre
 
-- Source: (LDM p49)
+- Source: (LDM p49)(TOB p240)
+- TOB: Grim Jester
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -28,6 +29,14 @@
 **À volonté:** déguisement, graisse, blessure, bouche magique, pas brumeux
 
 **3/jour chacun:** contagion, image miroir
+
+**1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
+
+**_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
+
+**_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
+
+**_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
 
 ## ACTIONS
 

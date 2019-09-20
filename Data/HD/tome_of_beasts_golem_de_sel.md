@@ -4,7 +4,8 @@
 
 # Golem De Sel
 
-- Source: (LDM p213)
+- Source: (LDM p213)(TOB p235)
+- TOB: Salt Golem
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (11d10+55)
 - **Vitesse** 6 m

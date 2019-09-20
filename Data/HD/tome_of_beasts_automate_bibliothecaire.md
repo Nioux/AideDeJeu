@@ -4,7 +4,8 @@
 
 # Automate Bibliothécaire
 
-- Source: (LDM p34)
+- Source: (LDM p34)(TOB p273)
+- TOB: Library Automaton
 -  Créature artificielle de Petite taille (P), loyale neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)

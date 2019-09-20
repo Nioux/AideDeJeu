@@ -4,7 +4,8 @@
 
 # Titan Dégénéré
 
-- Source: (LDM p382)
+- Source: (LDM p382)(TOB p381)
+- TOB: Degenerate Titan
 -  Géant de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 12 (manteau renforcé rudimentaire)
 - **Points de vie** 161 (14d12+70)

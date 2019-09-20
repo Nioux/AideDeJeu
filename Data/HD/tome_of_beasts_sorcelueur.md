@@ -4,7 +4,8 @@
 
 # Sorcelueur
 
-- Source: (LDM p367)
+- Source: (LDM p367)(TOB p409)
+- TOB: Witchlight
 -  Créature artificielle de Très Petite taille (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 10 (4d4)

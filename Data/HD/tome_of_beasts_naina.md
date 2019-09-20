@@ -4,7 +4,8 @@
 
 # Naïna
 
-- Source: (LDM p315)
+- Source: (LDM p315)(TOB p302)
+- TOB: Naina
 -  Dragon (métamorphe) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
@@ -44,11 +45,9 @@
 
 **_Attaques multiples._** La naïna fait deux attaques de griffes et une attaque de morsure.
 
-**_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-24(3d12+5) dégâts perforants.
+**_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts perforants.
 
-**_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-24(3d12+5) dégâts tranchants.
+**_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts tranchants.
 
 **_Souffle empoisonné (Recharge 5-6)._** Sous forme de drake uniquement, la naïna souffle un cône de gaz empoisonné, paralysant ou somnifère.
 

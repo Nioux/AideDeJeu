@@ -4,7 +4,8 @@
 
 # Lindwurm
 
-- Source: (LDM p272)
+- Source: (LDM p272)(TOB p276)
+- TOB: Lindwurm
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 136 (16d10+48)

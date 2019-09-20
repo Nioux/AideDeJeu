@@ -4,7 +4,8 @@
 
 # Médazur À Défenses
 
-- Source: (LDM p298)
+- Source: (LDM p298)(TOB p391)
+- TOB: Tusked Skyfish
 -  Aberration de Grande taille (G), loyale bonne
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d10+36)

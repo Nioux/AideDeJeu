@@ -4,7 +4,8 @@
 
 # Felforgé
 
-- Source: (LDM p194)
+- Source: (LDM p194)(TOB p182)
+- TOB: Fellforged
 -  Créature artificielle de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 135 (18d8+54)

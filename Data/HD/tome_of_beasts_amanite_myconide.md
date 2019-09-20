@@ -4,7 +4,8 @@
 
 # Amanite Myconide
 
-- Source: (LDM p14)
+- Source: (LDM p14)(TOB p300)
+- TOB: Deathcap Myconid
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)

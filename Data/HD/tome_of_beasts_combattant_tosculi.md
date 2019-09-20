@@ -4,7 +4,8 @@
 
 # Combattant Tosculi
 
-- Source: (LDM p387)
+- Source: (LDM p387)(TOB p386)
+- TOB: Tosculi Warrior
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 58 (9d6+27)

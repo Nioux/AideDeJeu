@@ -4,7 +4,8 @@
 
 # Mbielu
 
-- Source: (LDM p117)
+- Source: (LDM p117)(TOB p114)
+- TOB: Mbielu
 -  Bête de Très Grande taille (TG), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d12+30)

@@ -4,7 +4,8 @@
 
 # Écornifleur Erina
 
-- Source: (LDM p172)
+- Source: (LDM p172)(TOB p178)
+- TOB: Erina Scrounger
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 22 (4d6+8)

@@ -4,7 +4,8 @@
 
 # Millitaure
 
-- Source: (LDM p301)
+- Source: (LDM p301)(TOB p288)
+- TOB: Millitaur
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (10d10+30)

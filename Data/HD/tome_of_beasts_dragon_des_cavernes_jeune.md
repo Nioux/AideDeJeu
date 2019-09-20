@@ -4,7 +4,8 @@
 
 # Dragon Des Cavernes, Jeune
 
-- Source: (LDM p135)
+- Source: (LDM p135)(TOB p127)
+- TOB: Young Cave Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)

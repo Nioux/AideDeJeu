@@ -4,7 +4,8 @@
 
 # Combattant Homme-Corbeau
 
-- Source: (LDM p240)
+- Source: (LDM p240)(TOB p323)
+- TOB: Ravenfolk Warrior
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)

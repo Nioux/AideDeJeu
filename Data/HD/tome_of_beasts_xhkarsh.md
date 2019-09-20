@@ -4,7 +4,8 @@
 
 # Xhkarsh
 
-- Source: (LDM p412)
+- Source: (LDM p412)(TOB p412)
+- TOB: Xhkarsh
 -  Aberration de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 19 (armure naturelle et mystique)
 - **Points de vie** 133 (14d10 + 56)

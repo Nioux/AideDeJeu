@@ -4,7 +4,8 @@
 
 # Squelette De Troll Des Lianes
 
-- Source: (LDM p371)
+- Source: (LDM p371)(TOB p351)
+- TOB: Vine Troll Skeleton
 -  Plante de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 119 (14d10+42)

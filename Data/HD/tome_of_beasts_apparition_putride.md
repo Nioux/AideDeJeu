@@ -4,7 +4,8 @@
 
 # Apparition Putride
 
-- Source: (LDM p22)
+- Source: (LDM p22)(TOB p315)
+- TOB: Putrid Haunt
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)

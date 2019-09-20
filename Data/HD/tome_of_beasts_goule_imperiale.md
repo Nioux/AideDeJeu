@@ -4,7 +4,8 @@
 
 # Goule Impériale
 
-- Source: (LDM p222)
+- Source: (LDM p222)(TOB p220)
+- TOB: Ghoul, Imperial
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 93 (17d8+17)

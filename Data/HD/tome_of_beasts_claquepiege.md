@@ -4,7 +4,8 @@
 
 # Claquepiège
 
-- Source: (LDM p64)
+- Source: (LDM p64)(TOB p229)
+- TOB: Gnarljak
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 16
 - **Points de vie** 63 (14d6+14)

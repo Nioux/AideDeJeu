@@ -4,7 +4,8 @@
 
 # Mimique Carte
 
-- Source: (LDM p302)
+- Source: (LDM p302)(TOB p289)
+- TOB: Map Mimic
 -  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 32 (5d8+10)

@@ -4,7 +4,8 @@
 
 # Homme-Rat
 
-- Source: (LDM p245)
+- Source: (LDM p245)(TOB p320)
+- TOB: Ratfolk
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 7 (2d6)

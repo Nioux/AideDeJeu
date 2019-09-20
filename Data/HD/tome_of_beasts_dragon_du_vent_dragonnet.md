@@ -4,7 +4,8 @@
 
 # Dragon Du Vent, Dragonnet
 
-- Source: (LDM p137)
+- Source: (LDM p137)(TOB p145)
+- TOB: Wind Dragon, Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 45 (7d8+14)

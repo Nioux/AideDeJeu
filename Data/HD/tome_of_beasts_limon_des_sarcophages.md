@@ -4,7 +4,8 @@
 
 # Limon Des Sarcophages
 
-- Source: (LDM p270)
+- Source: (LDM p270)(TOB p336)
+- TOB: Sarcophagus Slime
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 11
 - **Points de vie** 102 (12d8+48)

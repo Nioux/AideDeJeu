@@ -4,7 +4,8 @@
 
 # Seigneur Des Lianes
 
-- Source: (LDM p358)
+- Source: (LDM p358)(TOB p402)
+- TOB: Vine Lord
 -  Plante de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8+42)

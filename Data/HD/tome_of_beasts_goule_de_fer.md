@@ -4,7 +4,8 @@
 
 # Goule De Fer
 
-- Source: (LDM p218)
+- Source: (LDM p218)(TOB p221)
+- TOB: Ghoul, Iron
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 143 (22d8+44)

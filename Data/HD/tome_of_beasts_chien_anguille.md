@@ -4,7 +4,8 @@
 
 # Chien-Anguille
 
-- Source: (LDM p59)
+- Source: (LDM p59)(TOB p166)
+- TOB: Eel Hound
 -  Fée de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 77 (14d8+14)

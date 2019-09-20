@@ -4,7 +4,8 @@
 
 # Kot Bayun
 
-- Source: (LDM p261)
+- Source: (LDM p261)(TOB p268)
+- TOB: Kot Bayun
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15
 - **Points de vie** 44 (8d8+8)

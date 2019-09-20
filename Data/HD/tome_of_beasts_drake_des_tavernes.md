@@ -4,7 +4,8 @@
 
 # Drake Des Tavernes
 
-- Source: (LDM p155)
+- Source: (LDM p155)(TOB p148)
+- TOB: Alehouse Drake
 -  Dragon de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 65 (10d4+40)

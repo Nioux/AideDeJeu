@@ -4,7 +4,8 @@
 
 # La Reine des Sorcières
 
-- Source: (LDM p184)
+- Source: (LDM p184)(TOB p194)
+- TOB: Queen of Witches
 -  Fée de Grande taille (G), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 123 (13d10+52)

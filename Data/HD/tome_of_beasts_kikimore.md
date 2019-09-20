@@ -4,7 +4,8 @@
 
 # Kikimore
 
-- Source: (LDM p253)
+- Source: (LDM p253)(TOB p260)
+- TOB: Kikimora
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 65 (10d8+20)

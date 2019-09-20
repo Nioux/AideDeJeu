@@ -4,7 +4,8 @@
 
 # Pombero
 
-- Source: (LDM p339)
+- Source: (LDM p339)(TOB p313)
+- TOB: Pombero
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)

@@ -4,7 +4,8 @@
 
 # Templier Mécaforgé
 
-- Source: (LDM p379)
+- Source: (LDM p379)(TOB p210)
+- TOB: Gearforged Templar
 -  Humanoïde de taille Moyenne (mécaforgé) (M), loyal neutre
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 71 (11d8+22)

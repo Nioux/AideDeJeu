@@ -4,7 +4,8 @@
 
 # Larve De Krake
 
-- Source: (LDM p262)
+- Source: (LDM p262)(TOB p269)
+- TOB: Krake Spawn
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 150 (12d12+72)

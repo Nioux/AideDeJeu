@@ -4,7 +4,8 @@
 
 # Dragon De Flammes, Adulte
 
-- Source: (LDM p126)
+- Source: (LDM p126)(TOB p129)
+- TOB: Adult Flame Dragon
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)

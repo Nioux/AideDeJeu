@@ -4,7 +4,8 @@
 
 # Géant Jotun
 
-- Source: (LDM p206)
+- Source: (LDM p206)(TOB p226)
+- TOB: Jotun Giant
 -  Géant de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 407 (22d20+176)

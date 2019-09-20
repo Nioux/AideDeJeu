@@ -499,7 +499,7 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ala
-  Source: (LDM p13)
+  Source: (LDM p11)(TOB p13)
   AltName: Ala
   Type: Fée
   Size: M
@@ -528,7 +528,7 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p13)<!--/Source-->
+      - Source: <!--Source-->(LDM p11)(TOB p13)<!--/Source-->
 
 
 
@@ -640,7 +640,7 @@ SubItems:
 
 
 
-    Source: (LDM p13)
+    Source: (LDM p11)(TOB p13)
 
     AltName: Ala
 
@@ -1167,7 +1167,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Amanite Myconide
-  Source: (LDM p14)
+  Source: (LDM p14)(TOB p300)
+  AltName: Deathcap Myconid
   Type: Plante
   Size: M
   Alignment: neutre mauvaise
@@ -1192,7 +1193,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p14)<!--/Source-->
+      - Source: <!--Source-->(LDM p14)(TOB p300)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Deathcap Myconid<!--/AltName-->
 
 
 
@@ -1282,7 +1287,9 @@ SubItems:
 
 
 
-    Source: (LDM p14)
+    Source: (LDM p14)(TOB p300)
+
+    AltName: Deathcap Myconid
 
     Type: Plante
 
@@ -2401,7 +2408,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Apparition Putride
-  Source: (LDM p22)
+  Source: (LDM p22)(TOB p315)
+  AltName: Putrid Haunt
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -2429,7 +2437,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p22)<!--/Source-->
+      - Source: <!--Source-->(LDM p22)(TOB p315)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Putrid Haunt<!--/AltName-->
 
 
 
@@ -2519,7 +2531,9 @@ SubItems:
 
 
 
-    Source: (LDM p22)
+    Source: (LDM p22)(TOB p315)
+
+    AltName: Putrid Haunt
 
     Type: Mort-vivant
 
@@ -2548,7 +2562,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée À Lignes Rouges
-  Source: (LDM p23)
+  Source: (LDM p23)(TOB p363)
+  AltName: Red-Banded Line Spider
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -2576,7 +2591,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p23)<!--/Source-->
+      - Source: <!--Source-->(LDM p23)(TOB p363)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Red-Banded Line Spider<!--/AltName-->
 
 
 
@@ -2666,7 +2685,9 @@ SubItems:
 
 
 
-    Source: (LDM p23)
+    Source: (LDM p23)(TOB p363)
+
+    AltName: Red-Banded Line Spider
 
     Type: Bête
 
@@ -2695,7 +2716,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée De Leng
-  Source: (LDM p24)
+  Source: (LDM p24)(TOB p365)
+  AltName: Spider of Leng
   Type: Aberration
   Size: G
   Alignment: chaotique mauvaise
@@ -2724,7 +2746,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p24)<!--/Source-->
+      - Source: <!--Source-->(LDM p24)(TOB p365)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spider of Leng<!--/AltName-->
 
 
 
@@ -2872,7 +2898,9 @@ SubItems:
 
 
 
-    Source: (LDM p24)
+    Source: (LDM p24)(TOB p365)
+
+    AltName: Spider of Leng
 
     Type: Aberration
 
@@ -2903,7 +2931,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée Des Sables
-  Source: (LDM p25)
+  Source: (LDM p25)(TOB p364)
+  AltName: Sand Spider
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -2929,7 +2958,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p25)<!--/Source-->
+      - Source: <!--Source-->(LDM p25)(TOB p364)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sand Spider<!--/AltName-->
 
 
 
@@ -3029,7 +3062,9 @@ SubItems:
 
 
 
-    Source: (LDM p25)
+    Source: (LDM p25)(TOB p364)
+
+    AltName: Sand Spider
 
     Type: Bête
 
@@ -3054,7 +3089,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée J'Ba Fofi
-  Source: (LDM p26)
+  Source: (LDM p26)(TOB p362)
+  AltName: J'Ba Fofi Spider
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -3079,7 +3115,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p26)<!--/Source-->
+      - Source: <!--Source-->(LDM p26)(TOB p362)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->J'Ba Fofi Spider<!--/AltName-->
 
 
 
@@ -3169,7 +3209,9 @@ SubItems:
 
 
 
-    Source: (LDM p26)
+    Source: (LDM p26)(TOB p362)
+
+    AltName: J'Ba Fofi Spider
 
     Type: Bête
 
@@ -3192,7 +3234,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée Marchespectre
-  Source: (LDM p27)
+  Source: (LDM p27)(TOB p361)
+  AltName: Ghostwalk Spider
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
@@ -3222,7 +3265,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p27)<!--/Source-->
+      - Source: <!--Source-->(LDM p27)(TOB p361)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ghostwalk Spider<!--/AltName-->
 
 
 
@@ -3344,7 +3391,9 @@ SubItems:
 
 
 
-    Source: (LDM p27)
+    Source: (LDM p27)(TOB p361)
+
+    AltName: Ghostwalk Spider
 
     Type: Créature monstrueuse
 
@@ -3377,7 +3426,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Araignée Voleuse
-  Source: (LDM p28)
+  Source: (LDM p28)(TOB p366)
+  AltName: Spider Thief
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
@@ -3406,7 +3456,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p28)<!--/Source-->
+      - Source: <!--Source-->(LDM p28)(TOB p366)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spider Thief<!--/AltName-->
 
 
 
@@ -3512,7 +3566,9 @@ SubItems:
 
 
 
-    Source: (LDM p28)
+    Source: (LDM p28)(TOB p366)
+
+    AltName: Spider Thief
 
     Type: Créature artificielle
 
@@ -3543,7 +3599,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Arbre Feuilledragon
-  Source: (LDM p29)
+  Source: (LDM p29)(TOB p147)
+  AltName: Dragonleaf Tree
   Type: Plante
   Size: G
   Alignment: non alignée
@@ -3570,7 +3627,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p29)<!--/Source-->
+      - Source: <!--Source-->(LDM p29)(TOB p147)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dragonleaf Tree<!--/AltName-->
 
 
 
@@ -3662,7 +3723,9 @@ SubItems:
 
 
 
-    Source: (LDM p29)
+    Source: (LDM p29)(TOB p147)
+
+    AltName: Dragonleaf Tree
 
     Type: Plante
 
@@ -3689,7 +3752,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Arbre Pare-Fées
-  Source: (LDM p30)
+  Source: (LDM p30)(TOB p200)
+  AltName: Feyward Tree
   Type: Créature artificielle
   Size: TG
   Alignment: non-alignée
@@ -3718,7 +3782,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p30)<!--/Source-->
+      - Source: <!--Source-->(LDM p30)(TOB p200)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Feyward Tree<!--/AltName-->
 
 
 
@@ -3836,7 +3904,9 @@ SubItems:
 
 
 
-    Source: (LDM p30)
+    Source: (LDM p30)(TOB p200)
+
+    AltName: Feyward Tree
 
     Type: Créature artificielle
 
@@ -4190,7 +4260,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Assoiffeur Gris
-  Source: (LDM p33)
+  Source: (LDM p33)(TOB p238)
+  AltName: Gray Thirster
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -4219,7 +4290,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p33)<!--/Source-->
+      - Source: <!--Source-->(LDM p33)(TOB p238)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gray Thirster<!--/AltName-->
 
 
 
@@ -4319,7 +4394,9 @@ SubItems:
 
 
 
-    Source: (LDM p33)
+    Source: (LDM p33)(TOB p238)
+
+    AltName: Gray Thirster
 
     Type: Mort-vivant
 
@@ -4350,7 +4427,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Automate Bibliothécaire
-  Source: (LDM p34)
+  Source: (LDM p34)(TOB p273)
+  AltName: Library Automaton
   Type: Créature artificielle
   Size: P
   Alignment: loyale neutre
@@ -4378,7 +4456,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p34)<!--/Source-->
+      - Source: <!--Source-->(LDM p34)(TOB p273)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Library Automaton<!--/AltName-->
 
 
 
@@ -4462,7 +4544,9 @@ SubItems:
 
 
 
-    Source: (LDM p34)
+    Source: (LDM p34)(TOB p273)
+
+    AltName: Library Automaton
 
     Type: Créature artificielle
 
@@ -5130,7 +5214,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Belle Noyée
-  Source: (LDM p39)
+  Source: (LDM p39)(TOB p159)
+  AltName: Drowned Maiden
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -5159,7 +5244,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p39)<!--/Source-->
+      - Source: <!--Source-->(LDM p39)(TOB p159)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Drowned Maiden<!--/AltName-->
 
 
 
@@ -5277,7 +5366,9 @@ SubItems:
 
 
 
-    Source: (LDM p39)
+    Source: (LDM p39)(TOB p159)
+
+    AltName: Drowned Maiden
 
     Type: Mort-vivant
 
@@ -5456,7 +5547,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bête D'Ombre
-  Source: (LDM p41)
+  Source: (LDM p41)(TOB p345)
+  AltName: Shadow Beast
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -5483,7 +5575,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p41)<!--/Source-->
+      - Source: <!--Source-->(LDM p41)(TOB p345)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shadow Beast<!--/AltName-->
 
 
 
@@ -5605,7 +5701,9 @@ SubItems:
 
 
 
-    Source: (LDM p41)
+    Source: (LDM p41)(TOB p345)
+
+    AltName: Shadow Beast
 
     Type: Fée
 
@@ -5942,7 +6040,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bondisseur Aquatique
-  Source: (LDM p44)
+  Source: (LDM p44)(TOB p406)
+  AltName: Water Leaper
   Type: Créature monstrueuse
   Size: G
   Alignment: non alignée
@@ -5967,7 +6066,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p44)<!--/Source-->
+      - Source: <!--Source-->(LDM p44)(TOB p406)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Water Leaper<!--/AltName-->
 
 
 
@@ -6063,7 +6166,9 @@ SubItems:
 
 
 
-    Source: (LDM p44)
+    Source: (LDM p44)(TOB p406)
+
+    AltName: Water Leaper
 
     Type: Créature monstrueuse
 
@@ -6659,30 +6764,6 @@ SubItems:
 
 
 
-
-
-      **1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
-
-
-
-
-
-      **_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
-
-
-
-
-
-      **_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
-
-
-
-
-
-      **_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
-
-
-
     Source: (LDM p48)(TOB p44)
 
     AltName: Bouda
@@ -6718,7 +6799,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bouffon Macabre
-  Source: (LDM p49)
+  Source: (LDM p49)(TOB p240)
+  AltName: Grim Jester
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -6748,7 +6830,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p49)<!--/Source-->
+      - Source: <!--Source-->(LDM p49)(TOB p240)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Grim Jester<!--/AltName-->
 
 
 
@@ -6836,6 +6922,30 @@ SubItems:
 
 
 
+      **1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
+
+
+
+
+
+      **_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
+
+
+
+
+
+      **_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
+
+
+
+
+
+      **_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
+
+
+
+
+
       ## ACTIONS
 
 
@@ -6864,7 +6974,9 @@ SubItems:
 
 
 
-    Source: (LDM p49)
+    Source: (LDM p49)(TOB p240)
+
+    AltName: Grim Jester
 
     Type: Mort-vivant
 
@@ -7463,7 +7575,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Canitaupe
-  Source: (LDM p53)
+  Source: (LDM p53)(TOB p120)
+  AltName: Dogmole
   Type: Bête
   Size: M
   Alignment: neutre
@@ -7488,7 +7601,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p53)<!--/Source-->
+      - Source: <!--Source-->(LDM p53)(TOB p120)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dogmole<!--/AltName-->
 
 
 
@@ -7572,7 +7689,9 @@ SubItems:
 
 
 
-    Source: (LDM p53)
+    Source: (LDM p53)(TOB p120)
+
+    AltName: Dogmole
 
     Type: Bête
 
@@ -7595,7 +7714,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Canitaupe Juggernaut
-  Source: (LDM p54)
+  Source: (LDM p54)(TOB p121)
+  AltName: Dogmole Juggernaut
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
@@ -7621,7 +7741,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p54)<!--/Source-->
+      - Source: <!--Source-->(LDM p54)(TOB p121)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dogmole Juggernaut<!--/AltName-->
 
 
 
@@ -7721,7 +7845,9 @@ SubItems:
 
 
 
-    Source: (LDM p54)
+    Source: (LDM p54)(TOB p121)
+
+    AltName: Dogmole Juggernaut
 
     Type: Créature monstrueuse
 
@@ -7746,7 +7872,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chapeau Rouge
-  Source: (LDM p55)
+  Source: (LDM p55)(TOB p325)
+  AltName: Redcap
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -7775,7 +7902,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p55)<!--/Source-->
+      - Source: <!--Source-->(LDM p55)(TOB p325)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Redcap<!--/AltName-->
 
 
 
@@ -7881,7 +8012,9 @@ SubItems:
 
 
 
-    Source: (LDM p55)
+    Source: (LDM p55)(TOB p325)
+
+    AltName: Redcap
 
     Type: Fée
 
@@ -8450,7 +8583,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chien-Anguille
-  Source: (LDM p59)
+  Source: (LDM p59)(TOB p166)
+  AltName: Eel Hound
   Type: Fée
   Size: M
   Alignment: neutre
@@ -8476,7 +8610,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p59)<!--/Source-->
+      - Source: <!--Source-->(LDM p59)(TOB p166)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Eel Hound<!--/AltName-->
 
 
 
@@ -8564,7 +8702,9 @@ SubItems:
 
 
 
-    Source: (LDM p59)
+    Source: (LDM p59)(TOB p166)
+
+    AltName: Eel Hound
 
     Type: Fée
 
@@ -8589,7 +8729,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chien Du Temple
-  Source: (LDM p60)
+  Source: (LDM p60)(TOB p378)
+  AltName: Temple Dog
   Type: Céleste
   Size: M
   Alignment: bon
@@ -8617,7 +8758,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p60)<!--/Source-->
+      - Source: <!--Source-->(LDM p60)(TOB p378)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Temple Dog<!--/AltName-->
 
 
 
@@ -8713,7 +8858,9 @@ SubItems:
 
 
 
-    Source: (LDM p60)
+    Source: (LDM p60)(TOB p378)
+
+    AltName: Temple Dog
 
     Type: Céleste
 
@@ -8742,7 +8889,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chiot Mastodonte
-  Source: (LDM p61)
+  Source: (LDM p61)(TOB p252)
+  AltName: Hulking Whelp
   Type: Fée (métamorphe)
   Size: P/TG
   Alignment: chaotique neutre
@@ -8768,7 +8916,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p61)<!--/Source-->
+      - Source: <!--Source-->(LDM p61)(TOB p252)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Hulking Whelp<!--/AltName-->
 
 
 
@@ -8868,7 +9020,9 @@ SubItems:
 
 
 
-    Source: (LDM p61)
+    Source: (LDM p61)(TOB p252)
+
+    AltName: Hulking Whelp
 
     Type: Fée (métamorphe)
 
@@ -9205,7 +9359,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Claquepiège
-  Source: (LDM p64)
+  Source: (LDM p64)(TOB p229)
+  AltName: Gnarljak
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
@@ -9235,7 +9390,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p64)<!--/Source-->
+      - Source: <!--Source-->(LDM p64)(TOB p229)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gnarljak<!--/AltName-->
 
 
 
@@ -9321,7 +9480,9 @@ SubItems:
 
 
 
-    Source: (LDM p64)
+    Source: (LDM p64)(TOB p229)
+
+    AltName: Gnarljak
 
     Type: Créature artificielle
 
@@ -9526,7 +9687,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Colonne Possédée
-  Source: (LDM p66)
+  Source: (LDM p66)(TOB p314)
+  AltName: Possessed Pillar
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
@@ -9553,7 +9715,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p66)<!--/Source-->
+      - Source: <!--Source-->(LDM p66)(TOB p314)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Possessed Pillar<!--/AltName-->
 
 
 
@@ -9657,7 +9823,9 @@ SubItems:
 
 
 
-    Source: (LDM p66)
+    Source: (LDM p66)(TOB p314)
+
+    AltName: Possessed Pillar
 
     Type: Créature artificielle
 
@@ -9888,7 +10056,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Coquicape
-  Source: (LDM p68)
+  Source: (LDM p68)(TOB p346)
+  AltName: Shellycoat
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -9915,7 +10084,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p68)<!--/Source-->
+      - Source: <!--Source-->(LDM p68)(TOB p346)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shellycoat<!--/AltName-->
 
 
 
@@ -10031,7 +10204,9 @@ SubItems:
 
 
 
-    Source: (LDM p68)
+    Source: (LDM p68)(TOB p346)
+
+    AltName: Shellycoat
 
     Type: Fée
 
@@ -10212,7 +10387,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Crabe Garrotteur
-  Source: (LDM p70)
+  Source: (LDM p70)(TOB p208)
+  AltName: Garroter Crab
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -10239,7 +10415,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p70)<!--/Source-->
+      - Source: <!--Source-->(LDM p70)(TOB p208)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Garroter Crab<!--/AltName-->
 
 
 
@@ -10313,7 +10493,9 @@ SubItems:
 
 
 
-    Source: (LDM p70)
+    Source: (LDM p70)(TOB p208)
+
+    AltName: Garroter Crab
 
     Type: Bête
 
@@ -10505,7 +10687,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Croco De Verre
-  Source: (LDM p72)
+  Source: (LDM p72)(TOB p228)
+  AltName: Glass Gator
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -10531,7 +10714,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p72)<!--/Source-->
+      - Source: <!--Source-->(LDM p72)(TOB p228)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Glass Gator<!--/AltName-->
 
 
 
@@ -10637,7 +10824,9 @@ SubItems:
 
 
 
-    Source: (LDM p72)
+    Source: (LDM p72)(TOB p228)
+
+    AltName: Glass Gator
 
     Type: Bête
 
@@ -10994,7 +11183,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Demoiselle Glacée
-  Source: (LDM p75)
+  Source: (LDM p75)(TOB p254)
+  AltName: Ice Maiden
   Type: Fée
   Size: M
   Alignment: loyale mauvaise
@@ -11024,7 +11214,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p75)<!--/Source-->
+      - Source: <!--Source-->(LDM p75)(TOB p254)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ice Maiden<!--/AltName-->
 
 
 
@@ -11194,7 +11388,9 @@ SubItems:
 
 
 
-    Source: (LDM p75)
+    Source: (LDM p75)(TOB p254)
+
+    AltName: Ice Maiden
 
     Type: Fée
 
@@ -11618,7 +11814,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Démon De Sève
-  Source: (LDM p78)
+  Source: (LDM p78)(TOB p335)
+  AltName: Sap Demon
   Type: Vase
   Size: P
   Alignment: chaotique mauvaise
@@ -11646,7 +11843,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p78)<!--/Source-->
+      - Source: <!--Source-->(LDM p78)(TOB p335)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sap Demon<!--/AltName-->
 
 
 
@@ -11742,7 +11943,9 @@ SubItems:
 
 
 
-    Source: (LDM p78)
+    Source: (LDM p78)(TOB p335)
+
+    AltName: Sap Demon
 
     Type: Vase
 
@@ -14788,7 +14991,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dévoreur D'Âmes
-  Source: (LDM p96)
+  Source: (LDM p96)(TOB p356)
+  AltName: Soul Eater
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -14818,7 +15022,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p96)<!--/Source-->
+      - Source: <!--Source-->(LDM p96)(TOB p356)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Soul Eater<!--/AltName-->
 
 
 
@@ -14922,7 +15130,9 @@ SubItems:
 
 
 
-    Source: (LDM p96)
+    Source: (LDM p96)(TOB p356)
+
+    AltName: Soul Eater
 
     Type: Fiélon
 
@@ -18194,7 +18404,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mbielu
-  Source: (LDM p117)
+  Source: (LDM p117)(TOB p114)
+  AltName: Mbielu
   Type: Bête
   Size: TG
   Alignment: non alignée
@@ -18220,7 +18431,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p117)<!--/Source-->
+      - Source: <!--Source-->(LDM p117)(TOB p114)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mbielu<!--/AltName-->
 
 
 
@@ -18302,7 +18517,9 @@ SubItems:
 
 
 
-    Source: (LDM p117)
+    Source: (LDM p117)(TOB p114)
+
+    AltName: Mbielu
 
     Type: Bête
 
@@ -18327,7 +18544,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ngobou
-  Source: (LDM p118)
+  Source: (LDM p118)(TOB p115)
+  AltName: Ngobou
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -18353,7 +18571,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p118)<!--/Source-->
+      - Source: <!--Source-->(LDM p118)(TOB p115)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ngobou<!--/AltName-->
 
 
 
@@ -18441,7 +18663,9 @@ SubItems:
 
 
 
-    Source: (LDM p118)
+    Source: (LDM p118)(TOB p115)
+
+    AltName: Ngobou
 
     Type: Bête
 
@@ -18466,7 +18690,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Spinosaure
-  Source: (LDM p119)
+  Source: (LDM p119)(TOB p116)
+  AltName: Spinosaurus
   Type: Bête
   Size: Gig
   Alignment: non alignée
@@ -18492,7 +18717,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p119)<!--/Source-->
+      - Source: <!--Source-->(LDM p119)(TOB p116)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spinosaurus<!--/AltName-->
 
 
 
@@ -18622,7 +18851,9 @@ SubItems:
 
 
 
-    Source: (LDM p119)
+    Source: (LDM p119)(TOB p116)
+
+    AltName: Spinosaurus
 
     Type: Bête
 
@@ -18647,7 +18878,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Jeune Spinosaure
-  Source: (LDM p120)
+  Source: (LDM p120)(TOB p117)
+  AltName: Young Spinosaurus
   Type: Bête
   Size: TG
   Alignment: non alignée
@@ -18673,7 +18905,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p120)<!--/Source-->
+      - Source: <!--Source-->(LDM p120)(TOB p117)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Young Spinosaurus<!--/AltName-->
 
 
 
@@ -18755,7 +18991,9 @@ SubItems:
 
 
 
-    Source: (LDM p120)
+    Source: (LDM p120)(TOB p117)
+
+    AltName: Young Spinosaurus
 
     Type: Bête
 
@@ -18780,7 +19018,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dipsa
-  Source: (LDM p121)
+  Source: (LDM p121)(TOB p118)
+  AltName: Dipsa
   Type: Vase
   Size: TP
   Alignment: non alignée
@@ -18808,7 +19047,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p121)<!--/Source-->
+      - Source: <!--Source-->(LDM p121)(TOB p118)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dipsa<!--/AltName-->
 
 
 
@@ -18898,7 +19141,9 @@ SubItems:
 
 
 
-    Source: (LDM p121)
+    Source: (LDM p121)(TOB p118)
+
+    AltName: Dipsa
 
     Type: Vase
 
@@ -18927,7 +19172,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dissimortuum
-  Source: (LDM p122)
+  Source: (LDM p122)(TOB p119)
+  AltName: Dissimortuum
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -18956,7 +19202,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p122)<!--/Source-->
+      - Source: <!--Source-->(LDM p122)(TOB p119)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dissimortuum<!--/AltName-->
 
 
 
@@ -19050,7 +19300,9 @@ SubItems:
 
 
 
-    Source: (LDM p122)
+    Source: (LDM p122)(TOB p119)
+
+    AltName: Dissimortuum
 
     Type: Mort-vivant
 
@@ -19081,7 +19333,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Domovoï
-  Source: (LDM p123)
+  Source: (LDM p123)(TOB p122)
+  AltName: Domovoi
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -19108,7 +19361,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p123)<!--/Source-->
+      - Source: <!--Source-->(LDM p123)(TOB p122)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Domovoi<!--/AltName-->
 
 
 
@@ -19200,7 +19457,9 @@ SubItems:
 
 
 
-    Source: (LDM p123)
+    Source: (LDM p123)(TOB p122)
+
+    AltName: Domovoi
 
     Type: Fée
 
@@ -19227,7 +19486,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Doppelrat
-  Source: (LDM p124)
+  Source: (LDM p124)(TOB p123)
+  AltName: Doppelrat
   Type: Créature monstrueuse
   Size: TP
   Alignment: non alignée
@@ -19254,7 +19514,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p124)<!--/Source-->
+      - Source: <!--Source-->(LDM p124)(TOB p123)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Doppelrat<!--/AltName-->
 
 
 
@@ -19340,7 +19604,9 @@ SubItems:
 
 
 
-    Source: (LDM p124)
+    Source: (LDM p124)(TOB p123)
+
+    AltName: Doppelrat
 
     Type: Créature monstrueuse
 
@@ -19367,7 +19633,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dorreq
-  Source: (LDM p125)
+  Source: (LDM p125)(TOB p124)
+  AltName: Dorreq
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -19395,7 +19662,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p125)<!--/Source-->
+      - Source: <!--Source-->(LDM p125)(TOB p124)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dorreq<!--/AltName-->
 
 
 
@@ -19503,7 +19774,9 @@ SubItems:
 
 
 
-    Source: (LDM p125)
+    Source: (LDM p125)(TOB p124)
+
+    AltName: Dorreq
 
     Type: Aberration
 
@@ -19532,7 +19805,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Flammes, Adulte
-  Source: (LDM p126)
+  Source: (LDM p126)(TOB p129)
+  AltName: Adult Flame Dragon
   Type: Dragon
   Size: TG
   Alignment: chaotique mauvais
@@ -19560,7 +19834,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p126)<!--/Source-->
+      - Source: <!--Source-->(LDM p126)(TOB p129)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Adult Flame Dragon<!--/AltName-->
 
 
 
@@ -19716,7 +19994,9 @@ SubItems:
 
 
 
-    Source: (LDM p126)
+    Source: (LDM p126)(TOB p129)
+
+    AltName: Adult Flame Dragon
 
     Type: Dragon
 
@@ -19745,7 +20025,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Flammes, Dragonnet
-  Source: (LDM p127)
+  Source: (LDM p127)(TOB p131)
+  AltName: Flame Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
@@ -19773,7 +20054,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p127)<!--/Source-->
+      - Source: <!--Source-->(LDM p127)(TOB p131)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Flame Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -19857,7 +20142,9 @@ SubItems:
 
 
 
-    Source: (LDM p127)
+    Source: (LDM p127)(TOB p131)
+
+    AltName: Flame Dragon Wyrmling
 
     Type: Dragon
 
@@ -19886,7 +20173,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Flammes, Jeune
-  Source: (LDM p128)
+  Source: (LDM p128)(TOB p130)
+  AltName: Young Flame Dragon
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
@@ -19914,7 +20202,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p128)<!--/Source-->
+      - Source: <!--Source-->(LDM p128)(TOB p130)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Young Flame Dragon<!--/AltName-->
 
 
 
@@ -20016,7 +20308,9 @@ SubItems:
 
 
 
-    Source: (LDM p128)
+    Source: (LDM p128)(TOB p130)
+
+    AltName: Young Flame Dragon
 
     Type: Dragon
 
@@ -20045,7 +20339,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Flammes, Vénérable
-  Source: (LDM p128)
+  Source: (LDM p128)(TOB p128)
+  AltName: Ancient Flame Dragon
   Type: Dragon
   Size: Gig
   Alignment: chaotique mauvais
@@ -20073,7 +20368,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p128)<!--/Source-->
+      - Source: <!--Source-->(LDM p128)(TOB p128)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ancient Flame Dragon<!--/AltName-->
 
 
 
@@ -20229,7 +20528,9 @@ SubItems:
 
 
 
-    Source: (LDM p128)
+    Source: (LDM p128)(TOB p128)
+
+    AltName: Ancient Flame Dragon
 
     Type: Dragon
 
@@ -20339,7 +20640,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Mithral, Adulte
-  Source: (LDM p130)
+  Source: (LDM p130)(TOB p133)
+  AltName: Adult Mithral Dragon
   Type: Dragon
   Size: TG
   Alignment: neutre
@@ -20369,7 +20671,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p130)<!--/Source-->
+      - Source: <!--Source-->(LDM p130)(TOB p133)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Adult Mithral Dragon<!--/AltName-->
 
 
 
@@ -20563,7 +20869,9 @@ SubItems:
 
 
 
-    Source: (LDM p130)
+    Source: (LDM p130)(TOB p133)
+
+    AltName: Adult Mithral Dragon
 
     Type: Dragon
 
@@ -20596,7 +20904,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Mithral, Jeune
-  Source: (LDM p131)
+  Source: (LDM p131)(TOB p134)
+  AltName: Young Mithral Dragon
   Type: Dragon
   Size: M
   Alignment: neutre
@@ -20626,7 +20935,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p131)<!--/Source-->
+      - Source: <!--Source-->(LDM p131)(TOB p134)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Young Mithral Dragon<!--/AltName-->
 
 
 
@@ -20742,7 +21055,9 @@ SubItems:
 
 
 
-    Source: (LDM p131)
+    Source: (LDM p131)(TOB p134)
+
+    AltName: Young Mithral Dragon
 
     Type: Dragon
 
@@ -20775,7 +21090,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon De Mithral, Vénérable
-  Source: (LDM p131)
+  Source: (LDM p131)(TOB p132)
+  AltName: Ancient Mithral Dragon
   Type: Dragon
   Size: Gig
   Alignment: neutre
@@ -20805,7 +21121,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p131)<!--/Source-->
+      - Source: <!--Source-->(LDM p131)(TOB p132)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ancient Mithral Dragon<!--/AltName-->
 
 
 
@@ -21039,7 +21359,9 @@ SubItems:
 
 
 
-    Source: (LDM p131)
+    Source: (LDM p131)(TOB p132)
+
+    AltName: Ancient Mithral Dragon
 
     Type: Dragon
 
@@ -21153,7 +21475,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Des Cavernes, Adulte
-  Source: (LDM p133)
+  Source: (LDM p133)(TOB p125)
+  AltName: Adult Cave Dragon
   Type: Dragon
   Size: TG
   Alignment: neutre mauvais
@@ -21182,7 +21505,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p133)<!--/Source-->
+      - Source: <!--Source-->(LDM p133)(TOB p125)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Adult Cave Dragon<!--/AltName-->
 
 
 
@@ -21384,7 +21711,9 @@ SubItems:
 
 
 
-    Source: (LDM p133)
+    Source: (LDM p133)(TOB p125)
+
+    AltName: Adult Cave Dragon
 
     Type: Dragon
 
@@ -21415,7 +21744,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Des Cavernes, Dragonnet
-  Source: (LDM p135)
+  Source: (LDM p135)(TOB p127)
+  AltName: Cave Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
@@ -21444,7 +21774,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p135)<!--/Source-->
+      - Source: <!--Source-->(LDM p135)(TOB p127)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Cave Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -21550,7 +21884,9 @@ SubItems:
 
 
 
-    Source: (LDM p135)
+    Source: (LDM p135)(TOB p127)
+
+    AltName: Cave Dragon Wyrmling
 
     Type: Dragon
 
@@ -21581,7 +21917,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Des Cavernes, Jeune
-  Source: (LDM p135)
+  Source: (LDM p135)(TOB p127)
+  AltName: Young Cave Dragon
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
@@ -21610,7 +21947,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p135)<!--/Source-->
+      - Source: <!--Source-->(LDM p135)(TOB p127)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Young Cave Dragon<!--/AltName-->
 
 
 
@@ -21746,7 +22087,9 @@ SubItems:
 
 
 
-    Source: (LDM p135)
+    Source: (LDM p135)(TOB p127)
+
+    AltName: Young Cave Dragon
 
     Type: Dragon
 
@@ -21777,7 +22120,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vent, Adulte
-  Source: (LDM p136)
+  Source: (LDM p136)(TOB p143)
+  AltName: Wind Dragon, Adult
   Type: Dragon
   Size: TG
   Alignment: chaotique neutre
@@ -21806,7 +22150,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p136)<!--/Source-->
+      - Source: <!--Source-->(LDM p136)(TOB p143)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wind Dragon, Adult<!--/AltName-->
 
 
 
@@ -22000,7 +22348,9 @@ SubItems:
 
 
 
-    Source: (LDM p136)
+    Source: (LDM p136)(TOB p143)
+
+    AltName: Wind Dragon, Adult
 
     Type: Dragon
 
@@ -22031,7 +22381,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vent, Dragonnet
-  Source: (LDM p137)
+  Source: (LDM p137)(TOB p145)
+  AltName: Wind Dragon, Wyrmling
   Type: Dragon
   Size: M
   Alignment: chaotique neutre
@@ -22060,7 +22411,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p137)<!--/Source-->
+      - Source: <!--Source-->(LDM p137)(TOB p145)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wind Dragon, Wyrmling<!--/AltName-->
 
 
 
@@ -22148,7 +22503,9 @@ SubItems:
 
 
 
-    Source: (LDM p137)
+    Source: (LDM p137)(TOB p145)
+
+    AltName: Wind Dragon, Wyrmling
 
     Type: Dragon
 
@@ -22179,7 +22536,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vent, Jeune
-  Source: (LDM p137)
+  Source: (LDM p137)(TOB p144)
+  AltName: Wind Dragon, Young
   Type: Dragon
   Size: G
   Alignment: chaotique neutre
@@ -22208,7 +22566,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p137)<!--/Source-->
+      - Source: <!--Source-->(LDM p137)(TOB p144)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wind Dragon, Young<!--/AltName-->
 
 
 
@@ -22332,7 +22694,9 @@ SubItems:
 
 
 
-    Source: (LDM p137)
+    Source: (LDM p137)(TOB p144)
+
+    AltName: Wind Dragon, Young
 
     Type: Dragon
 
@@ -22363,7 +22727,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vent, Vénérable
-  Source: (LDM p138)
+  Source: (LDM p138)(TOB p142)
+  AltName: Wind Dragon, Ancient
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
@@ -22393,7 +22758,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p138)<!--/Source-->
+      - Source: <!--Source-->(LDM p138)(TOB p142)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wind Dragon, Ancient<!--/AltName-->
 
 
 
@@ -22587,7 +22956,9 @@ SubItems:
 
 
 
-    Source: (LDM p138)
+    Source: (LDM p138)(TOB p142)
+
+    AltName: Wind Dragon, Ancient
 
     Type: Dragon
 
@@ -22665,7 +23036,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vide, Adulte
-  Source: (LDM p140)
+  Source: (LDM p140)(TOB p139)
+  AltName: Adult Void Dragon
   Type: Dragon
   Size: TG
   Alignment: chaotique neutre
@@ -22694,7 +23066,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p140)<!--/Source-->
+      - Source: <!--Source-->(LDM p140)(TOB p139)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Adult Void Dragon<!--/AltName-->
 
 
 
@@ -22890,7 +23266,9 @@ SubItems:
 
 
 
-    Source: (LDM p140)
+    Source: (LDM p140)(TOB p139)
+
+    AltName: Adult Void Dragon
 
     Type: Dragon
 
@@ -22921,7 +23299,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vide, Dragonnet
-  Source: (LDM p141)
+  Source: (LDM p141)(TOB p140)
+  AltName: Void Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: chaotique neutre
@@ -22949,7 +23328,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p141)<!--/Source-->
+      - Source: <!--Source-->(LDM p141)(TOB p140)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Void Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -23069,7 +23452,9 @@ SubItems:
 
 
 
-    Source: (LDM p141)
+    Source: (LDM p141)(TOB p140)
+
+    AltName: Void Dragon Wyrmling
 
     Type: Dragon
 
@@ -23098,7 +23483,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vide, Jeune
-  Source: (LDM p141)
+  Source: (LDM p141)(TOB p140)
+  AltName: Young Void Dragon
   Type: Dragon
   Size: G
   Alignment: chaotique neutre
@@ -23127,7 +23513,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p141)<!--/Source-->
+      - Source: <!--Source-->(LDM p141)(TOB p140)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Young Void Dragon<!--/AltName-->
 
 
 
@@ -23263,7 +23653,9 @@ SubItems:
 
 
 
-    Source: (LDM p141)
+    Source: (LDM p141)(TOB p140)
+
+    AltName: Young Void Dragon
 
     Type: Dragon
 
@@ -23294,7 +23686,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Du Vide, Vénérable
-  Source: (LDM p142)
+  Source: (LDM p142)(TOB p138)
+  AltName: Ancient Void Dragon
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
@@ -23323,7 +23716,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p142)<!--/Source-->
+      - Source: <!--Source-->(LDM p142)(TOB p138)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ancient Void Dragon<!--/AltName-->
 
 
 
@@ -23525,7 +23922,9 @@ SubItems:
 
 
 
-    Source: (LDM p142)
+    Source: (LDM p142)(TOB p138)
+
+    AltName: Ancient Void Dragon
 
     Type: Dragon
 
@@ -23637,7 +24036,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Marin, Adulte
-  Source: (LDM p144)
+  Source: (LDM p144)(TOB p135)
+  AltName: Adult Sea Dragon
   Type: Dragon
   Size: TG
   Alignment: neutre mauvais
@@ -23665,7 +24065,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p144)<!--/Source-->
+      - Source: <!--Source-->(LDM p144)(TOB p135)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Adult Sea Dragon<!--/AltName-->
 
 
 
@@ -23821,7 +24225,9 @@ SubItems:
 
 
 
-    Source: (LDM p144)
+    Source: (LDM p144)(TOB p135)
+
+    AltName: Adult Sea Dragon
 
     Type: Dragon
 
@@ -23850,7 +24256,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Marin, Dragonnet
-  Source: (LDM p144)
+  Source: (LDM p144)(TOB p136)
+  AltName: Sea Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
@@ -23878,7 +24285,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p144)<!--/Source-->
+      - Source: <!--Source-->(LDM p144)(TOB p136)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sea Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -23962,7 +24373,9 @@ SubItems:
 
 
 
-    Source: (LDM p144)
+    Source: (LDM p144)(TOB p136)
+
+    AltName: Sea Dragon Wyrmling
 
     Type: Dragon
 
@@ -23991,7 +24404,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Marin, Jeune
-  Source: (LDM p145)
+  Source: (LDM p145)(TOB p136)
+  AltName: Young Sea Dragon
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
@@ -24019,7 +24433,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p145)<!--/Source-->
+      - Source: <!--Source-->(LDM p145)(TOB p136)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Young Sea Dragon<!--/AltName-->
 
 
 
@@ -24127,7 +24545,9 @@ SubItems:
 
 
 
-    Source: (LDM p145)
+    Source: (LDM p145)(TOB p136)
+
+    AltName: Young Sea Dragon
 
     Type: Dragon
 
@@ -24156,7 +24576,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragon Marin, Vénérable
-  Source: (LDM p145)
+  Source: (LDM p145)(TOB p135)
+  AltName: Ancient Sea Dragon
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
@@ -24184,7 +24605,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p145)<!--/Source-->
+      - Source: <!--Source-->(LDM p145)(TOB p135)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ancient Sea Dragon<!--/AltName-->
 
 
 
@@ -24340,7 +24765,9 @@ SubItems:
 
 
 
-    Source: (LDM p145)
+    Source: (LDM p145)(TOB p135)
+
+    AltName: Ancient Sea Dragon
 
     Type: Dragon
 
@@ -24450,7 +24877,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Murène Dragon
-  Source: (LDM p147)
+  Source: (LDM p147)(TOB p146)
+  AltName: Dragon Eel
   Type: Dragon
   Size: TG
   Alignment: neutre
@@ -24479,7 +24907,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p147)<!--/Source-->
+      - Source: <!--Source-->(LDM p147)(TOB p146)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dragon Eel<!--/AltName-->
 
 
 
@@ -24591,7 +25023,9 @@ SubItems:
 
 
 
-    Source: (LDM p147)
+    Source: (LDM p147)(TOB p146)
+
+    AltName: Dragon Eel
 
     Type: Dragon
 
@@ -24622,7 +25056,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dragonette Lanterne
-  Source: (LDM p148)
+  Source: (LDM p148)(TOB p270)
+  AltName: Lantern Dragonette
   Type: Dragon
   Size: TP
   Alignment: loyal neutre
@@ -24650,7 +25085,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p148)<!--/Source-->
+      - Source: <!--Source-->(LDM p148)(TOB p270)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lantern Dragonette<!--/AltName-->
 
 
 
@@ -24746,7 +25185,9 @@ SubItems:
 
 
 
-    Source: (LDM p148)
+    Source: (LDM p148)(TOB p270)
+
+    AltName: Lantern Dragonette
 
     Type: Dragon
 
@@ -24775,7 +25216,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake De Cendres
-  Source: (LDM p149)
+  Source: (LDM p149)(TOB p149)
+  AltName: Ash Drake
   Type: Dragon
   Size: P
   Alignment: neutre mauvais
@@ -24804,7 +25246,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p149)<!--/Source-->
+      - Source: <!--Source-->(LDM p149)(TOB p149)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ash Drake<!--/AltName-->
 
 
 
@@ -24904,7 +25350,9 @@ SubItems:
 
 
 
-    Source: (LDM p149)
+    Source: (LDM p149)(TOB p149)
+
+    AltName: Ash Drake
 
     Type: Dragon
 
@@ -24935,7 +25383,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake De Corail
-  Source: (LDM p150)
+  Source: (LDM p150)(TOB p150)
+  AltName: Coral Drake
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
@@ -24964,7 +25413,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p150)<!--/Source-->
+      - Source: <!--Source-->(LDM p150)(TOB p150)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Coral Drake<!--/AltName-->
 
 
 
@@ -25076,7 +25529,9 @@ SubItems:
 
 
 
-    Source: (LDM p150)
+    Source: (LDM p150)(TOB p150)
+
+    AltName: Coral Drake
 
     Type: Dragon
 
@@ -25107,7 +25562,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake De Papier
-  Source: (LDM p151)
+  Source: (LDM p151)(TOB p154)
+  AltName: Paper Drake
   Type: Dragon
   Size: P
   Alignment: neutre
@@ -25133,7 +25589,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p151)<!--/Source-->
+      - Source: <!--Source-->(LDM p151)(TOB p154)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Paper Drake<!--/AltName-->
 
 
 
@@ -25227,7 +25687,9 @@ SubItems:
 
 
 
-    Source: (LDM p151)
+    Source: (LDM p151)(TOB p154)
+
+    AltName: Paper Drake
 
     Type: Dragon
 
@@ -25252,7 +25714,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake De Rouille
-  Source: (LDM p152)
+  Source: (LDM p152)(TOB p155)
+  AltName: Rust Drake
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
@@ -25281,7 +25744,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p152)<!--/Source-->
+      - Source: <!--Source-->(LDM p152)(TOB p155)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rust Drake<!--/AltName-->
 
 
 
@@ -25385,7 +25852,9 @@ SubItems:
 
 
 
-    Source: (LDM p152)
+    Source: (LDM p152)(TOB p155)
+
+    AltName: Rust Drake
 
     Type: Dragon
 
@@ -25416,7 +25885,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ancien Drake Des Ombres
-  Source: (LDM p153)
+  Source: (LDM p153)(TOB p153)
+  AltName: Elder Shadow Drake
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
@@ -25446,7 +25916,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p153)<!--/Source-->
+      - Source: <!--Source-->(LDM p153)(TOB p153)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Elder Shadow Drake<!--/AltName-->
 
 
 
@@ -25562,7 +26036,9 @@ SubItems:
 
 
 
-    Source: (LDM p153)
+    Source: (LDM p153)(TOB p153)
+
+    AltName: Elder Shadow Drake
 
     Type: Dragon
 
@@ -25595,7 +26071,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake Des Profondeurs
-  Source: (LDM p154)
+  Source: (LDM p154)(TOB p152)
+  AltName: Deep Drake
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
@@ -25624,7 +26101,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p154)<!--/Source-->
+      - Source: <!--Source-->(LDM p154)(TOB p152)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Deep Drake<!--/AltName-->
 
 
 
@@ -25730,7 +26211,9 @@ SubItems:
 
 
 
-    Source: (LDM p154)
+    Source: (LDM p154)(TOB p152)
+
+    AltName: Deep Drake
 
     Type: Dragon
 
@@ -25761,7 +26244,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake Des Tavernes
-  Source: (LDM p155)
+  Source: (LDM p155)(TOB p148)
+  AltName: Alehouse Drake
   Type: Dragon
   Size: TP
   Alignment: chaotique neutre
@@ -25789,7 +26273,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p155)<!--/Source-->
+      - Source: <!--Source-->(LDM p155)(TOB p148)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Alehouse Drake<!--/AltName-->
 
 
 
@@ -25909,7 +26397,9 @@ SubItems:
 
 
 
-    Source: (LDM p155)
+    Source: (LDM p155)(TOB p148)
+
+    AltName: Alehouse Drake
 
     Type: Dragon
 
@@ -25938,7 +26428,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake Pourpre
-  Source: (LDM p156)
+  Source: (LDM p156)(TOB p151)
+  AltName: Crimson Drake
   Type: Dragon
   Size: TP
   Alignment: chaotique mauvais
@@ -25967,7 +26458,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p156)<!--/Source-->
+      - Source: <!--Source-->(LDM p156)(TOB p151)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Crimson Drake<!--/AltName-->
 
 
 
@@ -26067,7 +26562,9 @@ SubItems:
 
 
 
-    Source: (LDM p156)
+    Source: (LDM p156)(TOB p151)
+
+    AltName: Crimson Drake
 
     Type: Dragon
 
@@ -26098,7 +26595,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drake Stellaire
-  Source: (LDM p157)
+  Source: (LDM p157)(TOB p157)
+  AltName: Star Drake
   Type: Dragon
   Size: G
   Alignment: neutre
@@ -26127,7 +26625,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p157)<!--/Source-->
+      - Source: <!--Source-->(LDM p157)(TOB p157)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Star Drake<!--/AltName-->
 
 
 
@@ -26305,7 +26807,9 @@ SubItems:
 
 
 
-    Source: (LDM p157)
+    Source: (LDM p157)(TOB p157)
+
+    AltName: Star Drake
 
     Type: Dragon
 
@@ -26336,7 +26840,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Drakon
-  Source: (LDM p158)
+  Source: (LDM p158)(TOB p157)
+  AltName: Drakon
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -26364,7 +26869,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p158)<!--/Source-->
+      - Source: <!--Source-->(LDM p158)(TOB p157)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Drakon<!--/AltName-->
 
 
 
@@ -26460,7 +26969,9 @@ SubItems:
 
 
 
-    Source: (LDM p158)
+    Source: (LDM p158)(TOB p157)
+
+    AltName: Drakon
 
     Type: Bête
 
@@ -26489,7 +27000,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dryade Épine-Du-Crépuscule
-  Source: (LDM p159)
+  Source: (LDM p159)(TOB p160)
+  AltName: Duskthorn Dryad
   Type: Fée
   Size: M
   Alignment: chaotique
@@ -26516,7 +27028,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p159)<!--/Source-->
+      - Source: <!--Source-->(LDM p159)(TOB p160)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Duskthorn Dryad<!--/AltName-->
 
 
 
@@ -26628,29 +27144,19 @@ SubItems:
 
 
 
-      **_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible.
-
-
-
-      7 (1d4+5) dégâts perforants.
+      **_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible. 7 (1d4+5) dégâts perforants.
 
 
 
 
 
-      **_Arc long._** Attaque d'arme à distance:
+      **_Arc long._** Attaque d'arme à distance: +7 pour toucher, portée 45/180 m, une cible. Touché: 9 (1d8+5) dégâts perforants.
 
 
 
-      +7 pour toucher, portée 45/180 m, une cible. Touché:
+    Source: (LDM p159)(TOB p160)
 
-
-
-      9 (1d8+5) dégâts perforants.
-
-
-
-    Source: (LDM p159)
+    AltName: Duskthorn Dryad
 
     Type: Fée
 
@@ -26677,7 +27183,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Dullahan
-  Source: (LDM p160)
+  Source: (LDM p160)(TOB p161)
+  AltName: Dullahan
   Type: Fée
   Size: G
   Alignment: loyale mauvaise
@@ -26706,7 +27213,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p160)<!--/Source-->
+      - Source: <!--Source-->(LDM p160)(TOB p161)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dullahan<!--/AltName-->
 
 
 
@@ -26848,7 +27359,9 @@ SubItems:
 
 
 
-    Source: (LDM p160)
+    Source: (LDM p160)(TOB p161)
+
+    AltName: Dullahan
 
     Type: Fée
 
@@ -26879,7 +27392,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Eala
-  Source: (LDM p161)
+  Source: (LDM p161)(TOB p163)
+  AltName: Eala
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
@@ -26906,7 +27420,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p161)<!--/Source-->
+      - Source: <!--Source-->(LDM p161)(TOB p163)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Eala<!--/AltName-->
 
 
 
@@ -26998,7 +27516,9 @@ SubItems:
 
 
 
-    Source: (LDM p161)
+    Source: (LDM p161)(TOB p163)
+
+    AltName: Eala
 
     Type: Créature monstrueuse
 
@@ -27025,7 +27545,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Edimmu
-  Source: (LDM p162)
+  Source: (LDM p162)(TOB p165)
+  AltName: Edimmu
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -27053,7 +27574,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p162)<!--/Source-->
+      - Source: <!--Source-->(LDM p162)(TOB p165)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Edimmu<!--/AltName-->
 
 
 
@@ -27137,7 +27662,9 @@ SubItems:
 
 
 
-    Source: (LDM p162)
+    Source: (LDM p162)(TOB p165)
+
+    AltName: Edimmu
 
     Type: Mort-vivant
 
@@ -27166,7 +27693,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Einherjar
-  Source: (LDM p163)
+  Source: (LDM p163)(TOB p167)
+  AltName: Einherjar
   Type: Humanoïde
   Size: M
   Alignment: chaotique neutre
@@ -27193,7 +27721,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p163)<!--/Source-->
+      - Source: <!--Source-->(LDM p163)(TOB p167)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Einherjar<!--/AltName-->
 
 
 
@@ -27323,7 +27855,9 @@ SubItems:
 
 
 
-    Source: (LDM p163)
+    Source: (LDM p163)(TOB p167)
+
+    AltName: Einherjar
 
     Type: Humanoïde
 
@@ -27350,7 +27884,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Eleinomae
-  Source: (LDM p164)
+  Source: (LDM p164)(TOB p168)
+  AltName: Eleinomae
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -27377,7 +27912,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p164)<!--/Source-->
+      - Source: <!--Source-->(LDM p164)(TOB p168)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Eleinomae<!--/AltName-->
 
 
 
@@ -27493,7 +28032,9 @@ SubItems:
 
 
 
-    Source: (LDM p164)
+    Source: (LDM p164)(TOB p168)
+
+    AltName: Eleinomae
 
     Type: Fée
 
@@ -27520,7 +28061,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fée des ombres
-  Source: (LDM p166)
+  Source: (LDM p166)(TOB p171)
+  AltName: Shadow Fey
   Type: Humanoïde (elfe)
   Size: M
   Alignment: loyal mauvais
@@ -27546,7 +28088,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p166)<!--/Source-->
+      - Source: <!--Source-->(LDM p166)(TOB p171)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shadow Fey<!--/AltName-->
 
 
 
@@ -27646,7 +28192,9 @@ SubItems:
 
 
 
-    Source: (LDM p166)
+    Source: (LDM p166)(TOB p171)
+
+    AltName: Shadow Fey
 
     Type: Humanoïde (elfe)
 
@@ -27671,7 +28219,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chasseur forestier
-  Source: (LDM p166)
+  Source: (LDM p166)(TOB p173)
+  AltName: Forest Hunter
   Type: Humanoïde (elfe)
   Size: M
   Alignment: loyal mauvais
@@ -27698,7 +28247,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p166)<!--/Source-->
+      - Source: <!--Source-->(LDM p166)(TOB p173)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Forest Hunter<!--/AltName-->
 
 
 
@@ -27814,7 +28367,9 @@ SubItems:
 
 
 
-    Source: (LDM p166)
+    Source: (LDM p166)(TOB p173)
+
+    AltName: Forest Hunter
 
     Type: Humanoïde (elfe)
 
@@ -27841,7 +28396,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Duelliste
-  Source: (LDM p167)
+  Source: (LDM p167)(TOB p171)
+  AltName: Duelist
   Type: Humanoïde (elfe)
   Size: M
   Alignment: loyal mauvais
@@ -27868,7 +28424,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p167)<!--/Source-->
+      - Source: <!--Source-->(LDM p167)(TOB p171)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Duelist<!--/AltName-->
 
 
 
@@ -27990,7 +28550,9 @@ SubItems:
 
 
 
-    Source: (LDM p167)
+    Source: (LDM p167)(TOB p171)
+
+    AltName: Duelist
 
     Type: Humanoïde (elfe)
 
@@ -28017,7 +28579,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Enchanteresse
-  Source: (LDM p168)
+  Source: (LDM p168)(TOB p172)
+  AltName: Enchantress
   Type: Humanoïde (fée des ombres)
   Size: M
   Alignment: loyal mauvais
@@ -28044,7 +28607,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p168)<!--/Source-->
+      - Source: <!--Source-->(LDM p168)(TOB p172)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Enchantress<!--/AltName-->
 
 
 
@@ -28202,7 +28769,9 @@ SubItems:
 
 
 
-    Source: (LDM p168)
+    Source: (LDM p168)(TOB p172)
+
+    AltName: Enchantress
 
     Type: Humanoïde (fée des ombres)
 
@@ -28229,7 +28798,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gardien
-  Source: (LDM p169)
+  Source: (LDM p169)(TOB p174)
+  AltName: Guardian
   Type: Humanoïde (elfe)
   Size: G
   Alignment: neutre mauvais
@@ -28257,7 +28827,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p169)<!--/Source-->
+      - Source: <!--Source-->(LDM p169)(TOB p174)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Guardian<!--/AltName-->
 
 
 
@@ -28389,7 +28963,9 @@ SubItems:
 
 
 
-    Source: (LDM p169)
+    Source: (LDM p169)(TOB p174)
+
+    AltName: Guardian
 
     Type: Humanoïde (elfe)
 
@@ -28727,7 +29303,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Écornifleur Erina
-  Source: (LDM p172)
+  Source: (LDM p172)(TOB p178)
+  AltName: Erina Scrounger
   Type: Humanoïde (erina)
   Size: P
   Alignment: neutre
@@ -28753,7 +29330,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p172)<!--/Source-->
+      - Source: <!--Source-->(LDM p172)(TOB p178)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Erina Scrounger<!--/AltName-->
 
 
 
@@ -28841,7 +29422,9 @@ SubItems:
 
 
 
-    Source: (LDM p172)
+    Source: (LDM p172)(TOB p178)
+
+    AltName: Erina Scrounger
 
     Type: Humanoïde (erina)
 
@@ -28866,7 +29449,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Défenseur Erina
-  Source: (LDM p172)
+  Source: (LDM p172)(TOB p178)
+  AltName: Erina Defender
   Type: Humanoïde (erina)
   Size: P
   Alignment: neutre
@@ -28893,7 +29477,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p172)<!--/Source-->
+      - Source: <!--Source-->(LDM p172)(TOB p178)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Erina Defender<!--/AltName-->
 
 
 
@@ -29003,7 +29591,9 @@ SubItems:
 
 
 
-    Source: (LDM p172)
+    Source: (LDM p172)(TOB p178)
+
+    AltName: Erina Defender
 
     Type: Humanoïde (erina)
 
@@ -29030,7 +29620,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Esclave Putresprit
-  Source: (LDM p173)
+  Source: (LDM p173)(TOB p290)
+  AltName: Mindrot Thrall
   Type: Plante
   Size: M
   Alignment: neutre
@@ -29059,7 +29650,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p173)<!--/Source-->
+      - Source: <!--Source-->(LDM p173)(TOB p290)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mindrot Thrall<!--/AltName-->
 
 
 
@@ -29159,7 +29754,9 @@ SubItems:
 
 
 
-    Source: (LDM p173)
+    Source: (LDM p173)(TOB p290)
+
+    AltName: Mindrot Thrall
 
     Type: Plante
 
@@ -29190,7 +29787,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Esprit Du Feu
-  Source: (LDM p174)
+  Source: (LDM p174)(TOB p202)
+  AltName: Firegeist
   Type: Élémentaire
   Size: P
   Alignment: neutre mauvais
@@ -29218,7 +29816,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p174)<!--/Source-->
+      - Source: <!--Source-->(LDM p174)(TOB p202)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Firegeist<!--/AltName-->
 
 
 
@@ -29326,7 +29928,9 @@ SubItems:
 
 
 
-    Source: (LDM p174)
+    Source: (LDM p174)(TOB p202)
+
+    AltName: Firegeist
 
     Type: Élémentaire
 
@@ -29355,7 +29959,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Étincelle
-  Source: (LDM p175)
+  Source: (LDM p175)(TOB p357)
+  AltName: Spark
   Type: Élémentaire
   Size: TP
   Alignment: chaotique neutre
@@ -29384,7 +29989,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p175)<!--/Source-->
+      - Source: <!--Source-->(LDM p175)(TOB p357)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spark<!--/AltName-->
 
 
 
@@ -29484,7 +30093,9 @@ SubItems:
 
 
 
-    Source: (LDM p175)
+    Source: (LDM p175)(TOB p357)
+
+    AltName: Spark
 
     Type: Élémentaire
 
@@ -29515,7 +30126,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fangeux
-  Source: (LDM p176)
+  Source: (LDM p176)(TOB p292)
+  AltName: Miremal
   Type: Fée
   Size: P
   Alignment: chaotique mauvaise
@@ -29541,7 +30153,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p176)<!--/Source-->
+      - Source: <!--Source-->(LDM p176)(TOB p292)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Miremal<!--/AltName-->
 
 
 
@@ -29653,7 +30269,9 @@ SubItems:
 
 
 
-    Source: (LDM p176)
+    Source: (LDM p176)(TOB p292)
+
+    AltName: Miremal
 
     Type: Fée
 
@@ -29678,7 +30296,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Far Darrig
-  Source: (LDM p177)
+  Source: (LDM p177)(TOB p179)
+  AltName: Far Darrig
   Type: Fée
   Size: P
   Alignment: neutre
@@ -29705,7 +30324,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p177)<!--/Source-->
+      - Source: <!--Source-->(LDM p177)(TOB p179)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Far Darrig<!--/AltName-->
 
 
 
@@ -29815,7 +30438,9 @@ SubItems:
 
 
 
-    Source: (LDM p177)
+    Source: (LDM p177)(TOB p179)
+
+    AltName: Far Darrig
 
     Type: Fée
 
@@ -29842,7 +30467,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: La Reine de la Nuit et de la Magie
-  Source: (LDM p180)
+  Source: (LDM p180)(TOB p192)
+  AltName: Queen of Night and Magic
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -29872,7 +30498,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p180)<!--/Source-->
+      - Source: <!--Source-->(LDM p180)(TOB p192)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Queen of Night and Magic<!--/AltName-->
 
 
 
@@ -30120,7 +30750,9 @@ SubItems:
 
 
 
-    Source: (LDM p180)
+    Source: (LDM p180)(TOB p192)
+
+    AltName: Queen of Night and Magic
 
     Type: Fée
 
@@ -30234,7 +30866,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: La Reine des Neiges
-  Source: (LDM p182)
+  Source: (LDM p182)(TOB p198)
+  AltName: Snow Queen
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -30264,7 +30897,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p182)<!--/Source-->
+      - Source: <!--Source-->(LDM p182)(TOB p198)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Snow Queen<!--/AltName-->
 
 
 
@@ -30452,7 +31089,9 @@ SubItems:
 
 
 
-    Source: (LDM p182)
+    Source: (LDM p182)(TOB p198)
+
+    AltName: Snow Queen
 
     Type: Fée
 
@@ -30566,7 +31205,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: La Reine des Sorcières
-  Source: (LDM p184)
+  Source: (LDM p184)(TOB p194)
+  AltName: Queen of Witches
   Type: Fée
   Size: G
   Alignment: neutre
@@ -30596,7 +31236,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p184)<!--/Source-->
+      - Source: <!--Source-->(LDM p184)(TOB p194)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Queen of Witches<!--/AltName-->
 
 
 
@@ -30778,7 +31422,9 @@ SubItems:
 
 
 
-    Source: (LDM p184)
+    Source: (LDM p184)(TOB p194)
+
+    AltName: Queen of Witches
 
     Type: Fée
 
@@ -30892,7 +31538,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Le Grand Veneur
-  Source: (LDM p186)
+  Source: (LDM p186)(TOB p188)
+  AltName: Lord of the Hunt
   Type: Fée
   Size: M
   Alignment: loyale neutre
@@ -30922,7 +31569,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p186)<!--/Source-->
+      - Source: <!--Source-->(LDM p186)(TOB p188)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lord of the Hunt<!--/AltName-->
 
 
 
@@ -31104,7 +31755,9 @@ SubItems:
 
 
 
-    Source: (LDM p186)
+    Source: (LDM p186)(TOB p188)
+
+    AltName: Lord of the Hunt
 
     Type: Fée
 
@@ -31218,7 +31871,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Le Roi Baigné de Lune
-  Source: (LDM p188)
+  Source: (LDM p188)(TOB p190)
+  AltName: Moonlit King
   Type: Fée
   Size: M
   Alignment: neutre bonne
@@ -31248,7 +31902,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p188)<!--/Source-->
+      - Source: <!--Source-->(LDM p188)(TOB p190)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Moonlit King<!--/AltName-->
 
 
 
@@ -31442,7 +32100,9 @@ SubItems:
 
 
 
-    Source: (LDM p188)
+    Source: (LDM p188)(TOB p190)
+
+    AltName: Moonlit King
 
     Type: Fée
 
@@ -31556,7 +32216,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Le Roi des Ours
-  Source: (LDM p190)
+  Source: (LDM p190)(TOB p186)
+  AltName: Bear King
   Type: Fée (métamorphe)
   Size: M
   Alignment: loyale neutre
@@ -31586,7 +32247,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p190)<!--/Source-->
+      - Source: <!--Source-->(LDM p190)(TOB p186)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bear King<!--/AltName-->
 
 
 
@@ -31750,7 +32415,9 @@ SubItems:
 
 
 
-    Source: (LDM p190)
+    Source: (LDM p190)(TOB p186)
+
+    AltName: Bear King
 
     Type: Fée (métamorphe)
 
@@ -31864,7 +32531,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Le Roi des Rivières
-  Source: (LDM p192)
+  Source: (LDM p192)(TOB p196)
+  AltName: River King
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -31894,7 +32562,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p192)<!--/Source-->
+      - Source: <!--Source-->(LDM p192)(TOB p196)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->River King<!--/AltName-->
 
 
 
@@ -32082,7 +32754,9 @@ SubItems:
 
 
 
-    Source: (LDM p192)
+    Source: (LDM p192)(TOB p196)
+
+    AltName: River King
 
     Type: Fée
 
@@ -32196,7 +32870,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Felforgé
-  Source: (LDM p194)
+  Source: (LDM p194)(TOB p182)
+  AltName: Fellforged
   Type: Créature artificielle
   Size: M
   Alignment: loyal mauvais
@@ -32225,7 +32900,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p194)<!--/Source-->
+      - Source: <!--Source-->(LDM p194)(TOB p182)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fellforged<!--/AltName-->
 
 
 
@@ -32331,7 +33010,9 @@ SubItems:
 
 
 
-    Source: (LDM p194)
+    Source: (LDM p194)(TOB p182)
+
+    AltName: Fellforged
 
     Type: Créature artificielle
 
@@ -32362,7 +33043,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Férocien
-  Source: (LDM p195)
+  Source: (LDM p195)(TOB p338)
+  AltName: Savager
   Type: Bête
   Size: G
   Alignment: neutre mauvaise
@@ -32390,7 +33072,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p195)<!--/Source-->
+      - Source: <!--Source-->(LDM p195)(TOB p338)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Savager<!--/AltName-->
 
 
 
@@ -32486,7 +33172,9 @@ SubItems:
 
 
 
-    Source: (LDM p195)
+    Source: (LDM p195)(TOB p338)
+
+    AltName: Savager
 
     Type: Bête
 
@@ -32515,7 +33203,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fext
-  Source: (LDM p196)
+  Source: (LDM p196)(TOB p183)
+  AltName: Fext
   Type: Mort-vivant
   Size: M
   Alignment: n'importe quel alignement
@@ -32544,7 +33233,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p196)<!--/Source-->
+      - Source: <!--Source-->(LDM p196)(TOB p183)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fext<!--/AltName-->
 
 
 
@@ -32674,7 +33367,9 @@ SubItems:
 
 
 
-    Source: (LDM p196)
+    Source: (LDM p196)(TOB p183)
+
+    AltName: Fext
 
     Type: Mort-vivant
 
@@ -32705,7 +33400,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fils De Fenris
-  Source: (LDM p197)
+  Source: (LDM p197)(TOB p355)
+  AltName: Son of Fenris
   Type: Créature monstrueuse
   Size: TG
   Alignment: chaotique mauvaise
@@ -32735,7 +33431,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p197)<!--/Source-->
+      - Source: <!--Source-->(LDM p197)(TOB p355)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Son of Fenris<!--/AltName-->
 
 
 
@@ -32911,7 +33611,9 @@ SubItems:
 
 
 
-    Source: (LDM p197)
+    Source: (LDM p197)(TOB p355)
+
+    AltName: Son of Fenris
 
     Type: Créature monstrueuse
 
@@ -32944,7 +33646,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Forgepeur
-  Source: (LDM p198)
+  Source: (LDM p198)(TOB p181)
+  AltName: Fear Smith
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -32973,7 +33676,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p198)<!--/Source-->
+      - Source: <!--Source-->(LDM p198)(TOB p181)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fear Smith<!--/AltName-->
 
 
 
@@ -33101,7 +33808,9 @@ SubItems:
 
 
 
-    Source: (LDM p198)
+    Source: (LDM p198)(TOB p181)
+
+    AltName: Fear Smith
 
     Type: Fée
 
@@ -33404,7 +34113,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fraughashar
-  Source: (LDM p200)
+  Source: (LDM p200)(TOB p206)
+  AltName: Fraughashar
   Type: Fée
   Size: P
   Alignment: neutre mauvaise
@@ -33431,7 +34141,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p200)<!--/Source-->
+      - Source: <!--Source-->(LDM p200)(TOB p206)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fraughashar<!--/AltName-->
 
 
 
@@ -33523,7 +34237,9 @@ SubItems:
 
 
 
-    Source: (LDM p200)
+    Source: (LDM p200)(TOB p206)
+
+    AltName: Fraughashar
 
     Type: Fée
 
@@ -33550,7 +34266,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gardien Spectral
-  Source: (LDM p201)
+  Source: (LDM p201)(TOB p358)
+  AltName: Spectral Guardian
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -33579,7 +34296,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p201)<!--/Source-->
+      - Source: <!--Source-->(LDM p201)(TOB p358)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spectral Guardian<!--/AltName-->
 
 
 
@@ -33733,7 +34454,9 @@ SubItems:
 
 
 
-    Source: (LDM p201)
+    Source: (LDM p201)(TOB p358)
+
+    AltName: Spectral Guardian
 
     Type: Mort-vivant
 
@@ -33764,7 +34487,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gbahali (Postosuchus)
-  Source: (LDM p202)
+  Source: (LDM p202)(TOB p209)
+  AltName: Gbahali (Postosuchus)
   Type: Bête
   Size: TG
   Alignment: non-alignée
@@ -33790,7 +34514,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p202)<!--/Source-->
+      - Source: <!--Source-->(LDM p202)(TOB p209)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gbahali (Postosuchus)<!--/AltName-->
 
 
 
@@ -33886,7 +34614,9 @@ SubItems:
 
 
 
-    Source: (LDM p202)
+    Source: (LDM p202)(TOB p209)
+
+    AltName: Gbahali (Postosuchus)
 
     Type: Bête
 
@@ -33911,7 +34641,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Géant Du Désert
-  Source: (LDM p203)
+  Source: (LDM p203)(TOB p222)
+  AltName: Desert Giant
   Type: Géant
   Size: TG
   Alignment: neutre
@@ -33936,7 +34667,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p203)<!--/Source-->
+      - Source: <!--Source-->(LDM p203)(TOB p222)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Desert Giant<!--/AltName-->
 
 
 
@@ -34024,7 +34759,9 @@ SubItems:
 
 
 
-    Source: (LDM p203)
+    Source: (LDM p203)(TOB p222)
+
+    AltName: Desert Giant
 
     Type: Géant
 
@@ -34047,7 +34784,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Hraesvelgr Le Mangeur De Cadavres
-  Source: (LDM p204)
+  Source: (LDM p204)(TOB p224)
+  AltName: Hraesvelgr the Corpse Swallower
   Type: Géant (métamorphe (TG), titan)
   Size: TGTG
   Alignment: neutre
@@ -34077,7 +34815,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p204)<!--/Source-->
+      - Source: <!--Source-->(LDM p204)(TOB p224)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Hraesvelgr the Corpse Swallower<!--/AltName-->
 
 
 
@@ -34253,7 +34995,9 @@ SubItems:
 
 
 
-    Source: (LDM p204)
+    Source: (LDM p204)(TOB p224)
+
+    AltName: Hraesvelgr the Corpse Swallower
 
     Type: Géant (métamorphe (TG), titan)
 
@@ -34367,7 +35111,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Géant Jotun
-  Source: (LDM p206)
+  Source: (LDM p206)(TOB p226)
+  AltName: Jotun Giant
   Type: Géant
   Size: Gig
   Alignment: chaotique neutre
@@ -34395,7 +35140,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p206)<!--/Source-->
+      - Source: <!--Source-->(LDM p206)(TOB p226)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Jotun Giant<!--/AltName-->
 
 
 
@@ -34575,7 +35324,9 @@ SubItems:
 
 
 
-    Source: (LDM p206)
+    Source: (LDM p206)(TOB p226)
+
+    AltName: Jotun Giant
 
     Type: Géant
 
@@ -34604,7 +35355,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Géant Obèse
-  Source: (LDM p207)
+  Source: (LDM p207)(TOB p223)
+  AltName: Flab Giant
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
@@ -34633,7 +35385,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p207)<!--/Source-->
+      - Source: <!--Source-->(LDM p207)(TOB p223)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Flab Giant<!--/AltName-->
 
 
 
@@ -34727,7 +35483,9 @@ SubItems:
 
 
 
-    Source: (LDM p207)
+    Source: (LDM p207)(TOB p223)
+
+    AltName: Flab Giant
 
     Type: Géant
 
@@ -34758,7 +35516,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Géant Thursir
-  Source: (LDM p208)
+  Source: (LDM p208)(TOB p227)
+  AltName: Thursir Giant
   Type: Géant
   Size: G
   Alignment: neutre mauvais (50 %) ou loyal mauvais (50 %)
@@ -34785,7 +35544,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p208)<!--/Source-->
+      - Source: <!--Source-->(LDM p208)(TOB p227)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Thursir Giant<!--/AltName-->
 
 
 
@@ -34877,7 +35640,9 @@ SubItems:
 
 
 
-    Source: (LDM p208)
+    Source: (LDM p208)(TOB p227)
+
+    AltName: Thursir Giant
 
     Type: Géant
 
@@ -34904,7 +35669,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Génie Al-Aeshma
-  Source: (LDM p209)
+  Source: (LDM p209)(TOB p211)
+  AltName: Al-Aeshma Genie
   Type: Élémentaire
   Size: G
   Alignment: chaotique mauvais
@@ -34931,7 +35697,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p209)<!--/Source-->
+      - Source: <!--Source-->(LDM p209)(TOB p211)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Al-Aeshma Genie<!--/AltName-->
 
 
 
@@ -35065,7 +35835,9 @@ SubItems:
 
 
 
-    Source: (LDM p209)
+    Source: (LDM p209)(TOB p211)
+
+    AltName: Al-Aeshma Genie
 
     Type: Élémentaire
 
@@ -35092,7 +35864,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gerridé
-  Source: (LDM p210)
+  Source: (LDM p210)(TOB p212)
+  AltName: Gerridae
   Type: Fée
   Size: G
   Alignment: neutre
@@ -35117,7 +35890,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p210)<!--/Source-->
+      - Source: <!--Source-->(LDM p210)(TOB p212)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gerridae<!--/AltName-->
 
 
 
@@ -35201,7 +35978,9 @@ SubItems:
 
 
 
-    Source: (LDM p210)
+    Source: (LDM p210)(TOB p212)
+
+    AltName: Gerridae
 
     Type: Fée
 
@@ -35224,7 +36003,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gobelin Poussiéreux
-  Source: (LDM p211)
+  Source: (LDM p211)(TOB p232)
+  AltName: Dust Goblin
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
@@ -35251,7 +36031,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p211)<!--/Source-->
+      - Source: <!--Source-->(LDM p211)(TOB p232)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dust Goblin<!--/AltName-->
 
 
 
@@ -35331,7 +36115,9 @@ SubItems:
 
 
 
-    Source: (LDM p211)
+    Source: (LDM p211)(TOB p232)
+
+    AltName: Dust Goblin
 
     Type: Humanoïde (gobelinoïde)
 
@@ -35358,7 +36144,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem À Vapeur
-  Source: (LDM p212)
+  Source: (LDM p212)(TOB p237)
+  AltName: Steam Golem
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -35385,7 +36172,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p212)<!--/Source-->
+      - Source: <!--Source-->(LDM p212)(TOB p237)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Steam Golem<!--/AltName-->
 
 
 
@@ -35513,7 +36304,9 @@ SubItems:
 
 
 
-    Source: (LDM p212)
+    Source: (LDM p212)(TOB p237)
+
+    AltName: Steam Golem
 
     Type: Créature artificielle
 
@@ -35540,7 +36333,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem De Sel
-  Source: (LDM p213)
+  Source: (LDM p213)(TOB p235)
+  AltName: Salt Golem
   ArmorClass: 17 (armure naturelle)
   HitPoints: 110 (11d10+55)
   Speed: 6 m
@@ -35565,7 +36359,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p213)<!--/Source-->
+      - Source: <!--Source-->(LDM p213)(TOB p235)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Salt Golem<!--/AltName-->
 
 
 
@@ -35663,7 +36461,9 @@ SubItems:
 
 
 
-    Source: (LDM p213)
+    Source: (LDM p213)(TOB p235)
+
+    AltName: Salt Golem
 
     ArmorClass: 17 (armure naturelle)
 
@@ -35686,7 +36486,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem Oculaire
-  Source: (LDM p214)
+  Source: (LDM p214)(TOB p233)
+  AltName: Eye Golem
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -35714,7 +36515,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p214)<!--/Source-->
+      - Source: <!--Source-->(LDM p214)(TOB p233)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Eye Golem<!--/AltName-->
 
 
 
@@ -35828,7 +36633,9 @@ SubItems:
 
 
 
-    Source: (LDM p214)
+    Source: (LDM p214)(TOB p233)
+
+    AltName: Eye Golem
 
     Type: Créature artificielle
 
@@ -35857,7 +36664,11 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem Smaragdin
-  Source: (LDM p215)
+  Source: (LDM p215)(TOB p236)
+  AltName: Smaragdine Golem
+  Type: Créature artificielle
+  Size: G
+  Alignment: non-alignée
   ArmorClass: 17 (armure naturelle)
   HitPoints: 231 (22d10+110)
   Speed: 9m
@@ -35881,7 +36692,15 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p215)<!--/Source-->
+      - Source: <!--Source-->(LDM p215)(TOB p236)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Smaragdine Golem<!--/AltName-->
+
+
+
+      -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 
 
 
@@ -35981,7 +36800,15 @@ SubItems:
 
 
 
-    Source: (LDM p215)
+    Source: (LDM p215)(TOB p236)
+
+    AltName: Smaragdine Golem
+
+    Type: Créature artificielle
+
+    Size: G
+
+    Alignment: non-alignée
 
     ArmorClass: 17 (armure naturelle)
 
@@ -36002,7 +36829,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Golem Trésor
-  Source: (LDM p216)
+  Source: (LDM p216)(TOB p234)
+  AltName: Hoard Golem
   Type: Créature artificielle
   Size: TG
   Alignment: non-alignée
@@ -36031,7 +36859,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p216)<!--/Source-->
+      - Source: <!--Source-->(LDM p216)(TOB p234)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Hoard Golem<!--/AltName-->
 
 
 
@@ -36143,7 +36975,9 @@ SubItems:
 
 
 
-    Source: (LDM p216)
+    Source: (LDM p216)(TOB p234)
+
+    AltName: Hoard Golem
 
     Type: Créature artificielle
 
@@ -36174,7 +37008,11 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule Darakhule
-  Source: (LDM p217)
+  Source: (LDM p217)(TOB p216)
+  AltName: Ghoul, Darakhul
+  Type: Mort-vivant
+  Size: M
+  Alignment: neutre mauvais
   ArmorClass: 16 (armure d'écailles ; 18 avec bouclier)
   HitPoints: 78 (12d8+24)
   Speed: 9m
@@ -36200,9 +37038,17 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p217)<!--/Source-->
+      - Source: <!--Source-->(LDM p217)(TOB p216)<!--/Source-->
 
-        Mort-vivant de taille Moyenne, neutre mauvais
+
+
+      - TOB: <!--AltName-->Ghoul, Darakhul<!--/AltName-->
+
+
+
+      -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
 
       - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles ; 18 avec bouclier)<!--/ArmorClass-->
 
@@ -36314,7 +37160,15 @@ SubItems:
 
 
 
-    Source: (LDM p217)
+    Source: (LDM p217)(TOB p216)
+
+    AltName: Ghoul, Darakhul
+
+    Type: Mort-vivant
+
+    Size: M
+
+    Alignment: neutre mauvais
 
     ArmorClass: 16 (armure d'écailles ; 18 avec bouclier)
 
@@ -36339,7 +37193,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule De Fer
-  Source: (LDM p218)
+  Source: (LDM p218)(TOB p221)
+  AltName: Ghoul, Iron
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -36366,7 +37221,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p218)<!--/Source-->
+      - Source: <!--Source-->(LDM p218)(TOB p221)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ghoul, Iron<!--/AltName-->
 
 
 
@@ -36464,7 +37323,9 @@ SubItems:
 
 
 
-    Source: (LDM p218)
+    Source: (LDM p218)(TOB p221)
+
+    AltName: Ghoul, Iron
 
     Type: Mort-vivant
 
@@ -36491,7 +37352,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Empereur Des Goules
-  Source: (LDM p219)
+  Source: (LDM p219)(TOB p218)
+  AltName: Emperor of the Ghouls
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -36521,7 +37383,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p219)<!--/Source-->
+      - Source: <!--Source-->(LDM p219)(TOB p218)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Emperor of the Ghouls<!--/AltName-->
 
 
 
@@ -36751,7 +37617,9 @@ SubItems:
 
 
 
-    Source: (LDM p219)
+    Source: (LDM p219)(TOB p218)
+
+    AltName: Emperor of the Ghouls
 
     Type: Mort-vivant
 
@@ -36865,7 +37733,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule Impériale
-  Source: (LDM p222)
+  Source: (LDM p222)(TOB p220)
+  AltName: Ghoul, Imperial
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -36892,7 +37761,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p222)<!--/Source-->
+      - Source: <!--Source-->(LDM p222)(TOB p220)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ghoul, Imperial<!--/AltName-->
 
 
 
@@ -36984,7 +37857,9 @@ SubItems:
 
 
 
-    Source: (LDM p222)
+    Source: (LDM p222)(TOB p220)
+
+    AltName: Ghoul, Imperial
 
     Type: Mort-vivant
 
@@ -37011,7 +37886,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule Mendiante
-  Source: (LDM p223)
+  Source: (LDM p223)(TOB p213)
+  AltName: Beggar Ghoul
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -37038,7 +37914,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p223)<!--/Source-->
+      - Source: <!--Source-->(LDM p223)(TOB p213)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Beggar Ghoul<!--/AltName-->
 
 
 
@@ -37124,7 +38004,9 @@ SubItems:
 
 
 
-    Source: (LDM p223)
+    Source: (LDM p223)(TOB p213)
+
+    AltName: Beggar Ghoul
 
     Type: Mort-vivant
 
@@ -37151,7 +38033,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Goule Poudre D'Os
-  Source: (LDM p224)
+  Source: (LDM p224)(TOB p214)
+  AltName: Bonepowder Ghoul
   Type: Mort-vivant
   Size: P
   Alignment: neutre mauvais
@@ -37181,7 +38064,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p224)<!--/Source-->
+      - Source: <!--Source-->(LDM p224)(TOB p214)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bonepowder Ghoul<!--/AltName-->
 
 
 
@@ -37315,7 +38202,9 @@ SubItems:
 
 
 
-    Source: (LDM p224)
+    Source: (LDM p224)(TOB p214)
+
+    AltName: Bonepowder Ghoul
 
     Type: Mort-vivant
 
@@ -37547,7 +38436,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gremlin Rhumé
-  Source: (LDM p227)
+  Source: (LDM p227)(TOB p239)
+  AltName: Rum Gremlin
   Type: Fée
   Size: TP
   Alignment: chaotique mauvaise
@@ -37574,7 +38464,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p227)<!--/Source-->
+      - Source: <!--Source-->(LDM p227)(TOB p239)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rum Gremlin<!--/AltName-->
 
 
 
@@ -37684,7 +38578,9 @@ SubItems:
 
 
 
-    Source: (LDM p227)
+    Source: (LDM p227)(TOB p239)
+
+    AltName: Rum Gremlin
 
     Type: Fée
 
@@ -37711,7 +38607,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Guenaude Des Sables
-  Source: (LDM p228)
+  Source: (LDM p228)(TOB p245)
+  AltName: Sanf Hag
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -37737,7 +38634,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p228)<!--/Source-->
+      - Source: <!--Source-->(LDM p228)(TOB p245)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sanf Hag<!--/AltName-->
 
 
 
@@ -37855,7 +38756,9 @@ SubItems:
 
 
 
-    Source: (LDM p228)
+    Source: (LDM p228)(TOB p245)
+
+    AltName: Sanf Hag
 
     Type: Créature monstrueuse
 
@@ -37880,7 +38783,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Guenaude Miroir
-  Source: (LDM p229)
+  Source: (LDM p229)(TOB p229)
+  AltName: Mirror Hag
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -37907,7 +38811,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p229)<!--/Source-->
+      - Source: <!--Source-->(LDM p229)(TOB p229)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mirror Hag<!--/AltName-->
 
 
 
@@ -38023,7 +38931,9 @@ SubItems:
 
 
 
-    Source: (LDM p229)
+    Source: (LDM p229)(TOB p229)
+
+    AltName: Mirror Hag
 
     Type: Fée
 
@@ -38050,7 +38960,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Guenaude Rouge
-  Source: (LDM p230)
+  Source: (LDM p230)(TOB p244)
+  AltName: Red Hag
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -38077,7 +38988,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p230)<!--/Source-->
+      - Source: <!--Source-->(LDM p230)(TOB p244)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Red Hag<!--/AltName-->
 
 
 
@@ -38205,7 +39120,9 @@ SubItems:
 
 
 
-    Source: (LDM p230)
+    Source: (LDM p230)(TOB p244)
+
+    AltName: Red Hag
 
     Type: Fée
 
@@ -38232,7 +39149,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Guenaude Sanglante
-  Source: (LDM p231)
+  Source: (LDM p231)(TOB p242)
+  AltName: Blood Hag
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -38260,7 +39178,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p231)<!--/Source-->
+      - Source: <!--Source-->(LDM p231)(TOB p242)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Blood Hag<!--/AltName-->
 
 
 
@@ -38414,7 +39336,9 @@ SubItems:
 
 
 
-    Source: (LDM p231)
+    Source: (LDM p231)(TOB p242)
+
+    AltName: Blood Hag
 
     Type: Fée
 
@@ -38443,7 +39367,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gug
-  Source: (LDM p232)
+  Source: (LDM p232)(TOB p241)
+  AltName: Gug
   Type: Géant
   Size: TG
   Alignment: neutre mauvais
@@ -38472,7 +39397,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p232)<!--/Source-->
+      - Source: <!--Source-->(LDM p232)(TOB p241)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gug<!--/AltName-->
 
 
 
@@ -38608,7 +39537,9 @@ SubItems:
 
 
 
-    Source: (LDM p232)
+    Source: (LDM p232)(TOB p241)
+
+    AltName: Gug
 
     Type: Géant
 
@@ -38639,7 +39570,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Habitant De Leng
-  Source: (LDM p233)
+  Source: (LDM p233)(TOB p204)
+  AltName: Folk of Leng
   Type: Humanoïde
   Size: M
   Alignment: neutre mauvais
@@ -38669,7 +39601,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p233)<!--/Source-->
+      - Source: <!--Source-->(LDM p233)(TOB p204)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Folk of Leng<!--/AltName-->
 
 
 
@@ -38803,7 +39739,9 @@ SubItems:
 
 
 
-    Source: (LDM p233)
+    Source: (LDM p233)(TOB p204)
+
+    AltName: Folk of Leng
 
     Type: Humanoïde
 
@@ -38836,7 +39774,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Harpie Chouette
-  Source: (LDM p234)
+  Source: (LDM p234)(TOB p246)
+  AltName: Owl Harpy
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre mauvaise
@@ -38863,7 +39802,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p234)<!--/Source-->
+      - Source: <!--Source-->(LDM p234)(TOB p246)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Owl Harpy<!--/AltName-->
 
 
 
@@ -38973,7 +39916,9 @@ SubItems:
 
 
 
-    Source: (LDM p234)
+    Source: (LDM p234)(TOB p246)
+
+    AltName: Owl Harpy
 
     Type: Créature monstrueuse
 
@@ -39000,7 +39945,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Haugbui
-  Source: (LDM p235)
+  Source: (LDM p235)(TOB p247)
+  AltName: Haugbui
   Type: Mort-vivant
   Size: M
   Alignment: loyal neutre
@@ -39030,7 +39976,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p235)<!--/Source-->
+      - Source: <!--Source-->(LDM p235)(TOB p247)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Haugbui<!--/AltName-->
 
 
 
@@ -39194,7 +40144,9 @@ SubItems:
 
 
 
-    Source: (LDM p235)
+    Source: (LDM p235)(TOB p247)
+
+    AltName: Haugbui
 
     Type: Mort-vivant
 
@@ -39227,7 +40179,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Héraut Des Ténèbres
-  Source: (LDM p236)
+  Source: (LDM p236)(TOB p249)
+  AltName: Herald of Darkness
   Type: Fiélon
   Size: G
   Alignment: neutre mauvais
@@ -39257,7 +40210,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p236)<!--/Source-->
+      - Source: <!--Source-->(LDM p236)(TOB p249)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Herald of Darkness<!--/AltName-->
 
 
 
@@ -39381,7 +40338,9 @@ SubItems:
 
 
 
-    Source: (LDM p236)
+    Source: (LDM p236)(TOB p249)
+
+    AltName: Herald of Darkness
 
     Type: Fiélon
 
@@ -39414,7 +40373,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Héraut Du Sang
-  Source: (LDM p237)
+  Source: (LDM p237)(TOB p248)
+  AltName: Herald of Blood
   Type: Fiélon
   Size: TG
   Alignment: neutre mauvais
@@ -39444,7 +40404,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p237)<!--/Source-->
+      - Source: <!--Source-->(LDM p237)(TOB p248)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Herald of Blood<!--/AltName-->
 
 
 
@@ -39592,7 +40556,9 @@ SubItems:
 
 
 
-    Source: (LDM p237)
+    Source: (LDM p237)(TOB p248)
+
+    AltName: Herald of Blood
 
     Type: Fiélon
 
@@ -39625,7 +40591,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Escarmoucheur Homme-Cafard
-  Source: (LDM p238)
+  Source: (LDM p238)(TOB p329)
+  AltName: Roachling Skirmisher
   Type: Humanoïde (homme-cafard)
   Size: P
   Alignment: chaotique neutre
@@ -39652,7 +40619,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p238)<!--/Source-->
+      - Source: <!--Source-->(LDM p238)(TOB p329)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Roachling Skirmisher<!--/AltName-->
 
 
 
@@ -39738,7 +40709,9 @@ SubItems:
 
 
 
-    Source: (LDM p238)
+    Source: (LDM p238)(TOB p329)
+
+    AltName: Roachling Skirmisher
 
     Type: Humanoïde (homme-cafard)
 
@@ -39765,7 +40738,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Seigneur Homme-Cafard
-  Source: (LDM p238)
+  Source: (LDM p238)(TOB p329)
+  AltName: Roachling Lord
   Type: Humanoïde (homme-cafard)
   Size: P
   Alignment: chaotique neutre
@@ -39792,7 +40766,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p238)<!--/Source-->
+      - Source: <!--Source-->(LDM p238)(TOB p329)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Roachling Lord<!--/AltName-->
 
 
 
@@ -39884,7 +40862,9 @@ SubItems:
 
 
 
-    Source: (LDM p238)
+    Source: (LDM p238)(TOB p329)
+
+    AltName: Roachling Lord
 
     Type: Humanoïde (homme-cafard)
 
@@ -39911,7 +40891,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Chèvre
-  Source: (LDM p239)
+  Source: (LDM p239)(TOB p231)
+  AltName: Goat-Man
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -39940,7 +40921,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p239)<!--/Source-->
+      - Source: <!--Source-->(LDM p239)(TOB p231)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Goat-Man<!--/AltName-->
 
 
 
@@ -40034,7 +41019,9 @@ SubItems:
 
 
 
-    Source: (LDM p239)
+    Source: (LDM p239)(TOB p231)
+
+    AltName: Goat-Man
 
     Type: Créature monstrueuse
 
@@ -40065,7 +41052,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Combattant Homme-Corbeau
-  Source: (LDM p240)
+  Source: (LDM p240)(TOB p323)
+  AltName: Ravenfolk Warrior
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
@@ -40092,7 +41080,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p240)<!--/Source-->
+      - Source: <!--Source-->(LDM p240)(TOB p323)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ravenfolk Warrior<!--/AltName-->
 
 
 
@@ -40226,7 +41218,9 @@ SubItems:
 
 
 
-    Source: (LDM p240)
+    Source: (LDM p240)(TOB p323)
+
+    AltName: Ravenfolk Warrior
 
     Type: Humanoïde (kenku)
 
@@ -40253,7 +41247,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Croasseur Funeste Homme-Corbeau
-  Source: (LDM p241)
+  Source: (LDM p241)(TOB p324)
+  AltName: Ravenfolk Doom Croaker
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
@@ -40280,7 +41275,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p241)<!--/Source-->
+      - Source: <!--Source-->(LDM p241)(TOB p324)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ravenfolk Doom Croaker<!--/AltName-->
 
 
 
@@ -40396,7 +41395,9 @@ SubItems:
 
 
 
-    Source: (LDM p241)
+    Source: (LDM p241)(TOB p324)
+
+    AltName: Ravenfolk Doom Croaker
 
     Type: Humanoïde (kenku)
 
@@ -40423,7 +41424,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Éclaireur Homme-Corbeau
-  Source: (LDM p242)
+  Source: (LDM p242)(TOB p322)
+  AltName: Ravenfolk Scout
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
@@ -40450,7 +41452,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p242)<!--/Source-->
+      - Source: <!--Source-->(LDM p242)(TOB p322)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ravenfolk Scout<!--/AltName-->
 
 
 
@@ -40548,7 +41554,9 @@ SubItems:
 
 
 
-    Source: (LDM p242)
+    Source: (LDM p242)(TOB p322)
+
+    AltName: Ravenfolk Scout
 
     Type: Humanoïde (kenku)
 
@@ -40575,7 +41583,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Lémurien
-  Source: (LDM p243)
+  Source: (LDM p243)(TOB p271)
+  AltName: Lemurfolk
   Type: Humanoïde (homme-lémurien)
   Size: P
   Alignment: neutre
@@ -40601,7 +41610,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p243)<!--/Source-->
+      - Source: <!--Source-->(LDM p243)(TOB p271)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lemurfolk<!--/AltName-->
 
 
 
@@ -40683,7 +41696,9 @@ SubItems:
 
 
 
-    Source: (LDM p243)
+    Source: (LDM p243)(TOB p271)
+
+    AltName: Lemurfolk
 
     Type: Humanoïde (homme-lémurien)
 
@@ -40708,7 +41723,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Lémurien Fourrure Grise
-  Source: (LDM p243)
+  Source: (LDM p243)(TOB p271)
+  AltName: Lemurfolk Greyfur
   Type: Humanoïde (homme-lémurien)
   Size: P
   Alignment: neutre
@@ -40734,7 +41750,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p243)<!--/Source-->
+      - Source: <!--Source-->(LDM p243)(TOB p271)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lemurfolk Greyfur<!--/AltName-->
 
 
 
@@ -40846,7 +41866,9 @@ SubItems:
 
 
 
-    Source: (LDM p243)
+    Source: (LDM p243)(TOB p271)
+
+    AltName: Lemurfolk Greyfur
 
     Type: Humanoïde (homme-lémurien)
 
@@ -41016,7 +42038,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Homme-Rat
-  Source: (LDM p245)
+  Source: (LDM p245)(TOB p320)
+  AltName: Ratfolk
   Type: Humanoïde (homme-rat)
   Size: P
   Alignment: neutre
@@ -41042,7 +42065,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p245)<!--/Source-->
+      - Source: <!--Source-->(LDM p245)(TOB p320)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ratfolk<!--/AltName-->
 
 
 
@@ -41124,7 +42151,9 @@ SubItems:
 
 
 
-    Source: (LDM p245)
+    Source: (LDM p245)(TOB p320)
+
+    AltName: Ratfolk
 
     Type: Humanoïde (homme-rat)
 
@@ -41149,7 +42178,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Roublard Homme-Rat
-  Source: (LDM p245)
+  Source: (LDM p245)(TOB p320)
+  AltName: Ratfolk Rogue
   Type: Humanoïde (homme-rat)
   Size: P
   Alignment: neutre
@@ -41175,7 +42205,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p245)<!--/Source-->
+      - Source: <!--Source-->(LDM p245)(TOB p320)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ratfolk Rogue<!--/AltName-->
 
 
 
@@ -41275,7 +42309,9 @@ SubItems:
 
 
 
-    Source: (LDM p245)
+    Source: (LDM p245)(TOB p320)
+
+    AltName: Ratfolk Rogue
 
     Type: Humanoïde (homme-rat)
 
@@ -41300,7 +42336,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Horakh
-  Source: (LDM p246)
+  Source: (LDM p246)(TOB p250)
+  AltName: Horakh
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
@@ -41327,7 +42364,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p246)<!--/Source-->
+      - Source: <!--Source-->(LDM p246)(TOB p250)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Horakh<!--/AltName-->
 
 
 
@@ -41425,7 +42466,9 @@ SubItems:
 
 
 
-    Source: (LDM p246)
+    Source: (LDM p246)(TOB p250)
+
+    AltName: Horakh
 
     Type: Créature monstrueuse
 
@@ -41452,7 +42495,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Hundun
-  Source: (LDM p247)
+  Source: (LDM p247)(TOB p253)
+  AltName: Hundun
   Type: Céleste
   Size: G
   Alignment: chaotique bon
@@ -41482,7 +42526,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p247)<!--/Source-->
+      - Source: <!--Source-->(LDM p247)(TOB p253)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Hundun<!--/AltName-->
 
 
 
@@ -41652,7 +42700,9 @@ SubItems:
 
 
 
-    Source: (LDM p247)
+    Source: (LDM p247)(TOB p253)
+
+    AltName: Hundun
 
     Type: Céleste
 
@@ -41685,7 +42735,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Idole Divine
-  Source: (LDM p248)
+  Source: (LDM p248)(TOB p255)
+  AltName: Idolic Deity
   Type: Créature artificielle
   Size: P
   Alignment: neutre mauvaise
@@ -41716,7 +42767,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p248)<!--/Source-->
+      - Source: <!--Source-->(LDM p248)(TOB p255)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Idolic Deity<!--/AltName-->
 
 
 
@@ -41830,7 +42885,9 @@ SubItems:
 
 
 
-    Source: (LDM p248)
+    Source: (LDM p248)(TOB p255)
+
+    AltName: Idolic Deity
 
     Type: Créature artificielle
 
@@ -41865,7 +42922,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Imy-Ut Ushabti
-  Source: (LDM p249)
+  Source: (LDM p249)(TOB p256)
+  AltName: Imy-Ut Ushabti
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
@@ -41894,7 +42952,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p249)<!--/Source-->
+      - Source: <!--Source-->(LDM p249)(TOB p256)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Imy-Ut Ushabti<!--/AltName-->
 
 
 
@@ -41994,7 +43056,9 @@ SubItems:
 
 
 
-    Source: (LDM p249)
+    Source: (LDM p249)(TOB p256)
+
+    AltName: Imy-Ut Ushabti
 
     Type: Créature monstrueuse
 
@@ -42025,7 +43089,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Isonade
-  Source: (LDM p250)
+  Source: (LDM p250)(TOB p257)
+  AltName: Isonade
   Type: Créature monstrueuse
   Size: Gig
   Alignment: chaotique neutre
@@ -42053,7 +43118,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p250)<!--/Source-->
+      - Source: <!--Source-->(LDM p250)(TOB p257)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Isonade<!--/AltName-->
 
 
 
@@ -42191,7 +43260,9 @@ SubItems:
 
 
 
-    Source: (LDM p250)
+    Source: (LDM p250)(TOB p257)
+
+    AltName: Isonade
 
     Type: Créature monstrueuse
 
@@ -42220,7 +43291,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Jaculus
-  Source: (LDM p251)
+  Source: (LDM p251)(TOB p258)
+  AltName: Jaculus
   Type: Dragon
   Size: P
   Alignment: neutre mauvais
@@ -42248,7 +43320,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p251)<!--/Source-->
+      - Source: <!--Source-->(LDM p251)(TOB p258)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Jaculus<!--/AltName-->
 
 
 
@@ -42338,7 +43414,9 @@ SubItems:
 
 
 
-    Source: (LDM p251)
+    Source: (LDM p251)(TOB p258)
+
+    AltName: Jaculus
 
     Type: Dragon
 
@@ -42367,7 +43445,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Kalke
-  Source: (LDM p252)
+  Source: (LDM p252)(TOB p259)
+  AltName: Kalke
   Type: Fiélon
   Size: P
   Alignment: neutre mauvais
@@ -42393,7 +43472,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p252)<!--/Source-->
+      - Source: <!--Source-->(LDM p252)(TOB p259)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kalke<!--/AltName-->
 
 
 
@@ -42475,7 +43558,9 @@ SubItems:
 
 
 
-    Source: (LDM p252)
+    Source: (LDM p252)(TOB p259)
+
+    AltName: Kalke
 
     Type: Fiélon
 
@@ -42500,7 +43585,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Kikimore
-  Source: (LDM p253)
+  Source: (LDM p253)(TOB p260)
+  AltName: Kikimora
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -42527,7 +43613,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p253)<!--/Source-->
+      - Source: <!--Source-->(LDM p253)(TOB p260)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kikimora<!--/AltName-->
 
 
 
@@ -42637,7 +43727,9 @@ SubItems:
 
 
 
-    Source: (LDM p253)
+    Source: (LDM p253)(TOB p260)
+
+    AltName: Kikimora
 
     Type: Fée
 
@@ -42664,7 +43756,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Alchimiste Kobold
-  Source: (LDM p254)
+  Source: (LDM p254)(TOB p261)
+  AltName: Kobold Alchemist
   Type: Humanoïde (kobold)
   Size: P
   Alignment: loyal neutre
@@ -42693,7 +43786,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p254)<!--/Source-->
+      - Source: <!--Source-->(LDM p254)(TOB p261)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kobold Alchemist<!--/AltName-->
 
 
 
@@ -42811,7 +43908,9 @@ SubItems:
 
 
 
-    Source: (LDM p254)
+    Source: (LDM p254)(TOB p261)
+
+    AltName: Kobold Alchemist
 
     Type: Humanoïde (kobold)
 
@@ -42842,7 +43941,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chef Kobold
-  Source: (LDM p256)
+  Source: (LDM p256)(TOB p263)
+  AltName: Kobold Chieftain
   Type: Humanoïde (kobold)
   Size: P
   Alignment: loyal mauvais
@@ -42870,7 +43970,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p256)<!--/Source-->
+      - Source: <!--Source-->(LDM p256)(TOB p263)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kobold Chieftain<!--/AltName-->
 
 
 
@@ -42984,7 +44088,9 @@ SubItems:
 
 
 
-    Source: (LDM p256)
+    Source: (LDM p256)(TOB p263)
+
+    AltName: Kobold Chieftain
 
     Type: Humanoïde (kobold)
 
@@ -43013,7 +44119,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Forgepiège Kobold
-  Source: (LDM p257)
+  Source: (LDM p257)(TOB p264)
+  AltName: Kobold Trapsmith
   Type: Humanoïde
   Size: P
   Alignment: loyal neutre
@@ -43039,7 +44146,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p257)<!--/Source-->
+      - Source: <!--Source-->(LDM p257)(TOB p264)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kobold Trapsmith<!--/AltName-->
 
 
 
@@ -43145,7 +44256,9 @@ SubItems:
 
 
 
-    Source: (LDM p257)
+    Source: (LDM p257)(TOB p264)
+
+    AltName: Kobold Trapsmith
 
     Type: Humanoïde
 
@@ -43170,7 +44283,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Kongamato
-  Source: (LDM p258)
+  Source: (LDM p258)(TOB p265)
+  AltName: Kongamato
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -43196,7 +44310,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p258)<!--/Source-->
+      - Source: <!--Source-->(LDM p258)(TOB p265)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kongamato<!--/AltName-->
 
 
 
@@ -43290,7 +44408,9 @@ SubItems:
 
 
 
-    Source: (LDM p258)
+    Source: (LDM p258)(TOB p265)
+
+    AltName: Kongamato
 
     Type: Bête
 
@@ -43315,7 +44435,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Koschei
-  Source: (LDM p259)
+  Source: (LDM p259)(TOB p266)
+  AltName: Koschei
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -43345,7 +44466,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p259)<!--/Source-->
+      - Source: <!--Source-->(LDM p259)(TOB p266)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Koschei<!--/AltName-->
 
 
 
@@ -43515,7 +44640,9 @@ SubItems:
 
 
 
-    Source: (LDM p259)
+    Source: (LDM p259)(TOB p266)
+
+    AltName: Koschei
 
     Type: Fiélon
 
@@ -43629,7 +44756,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Kot Bayun
-  Source: (LDM p261)
+  Source: (LDM p261)(TOB p268)
+  AltName: Kot Bayun
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
@@ -43655,7 +44783,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p261)<!--/Source-->
+      - Source: <!--Source-->(LDM p261)(TOB p268)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Kot Bayun<!--/AltName-->
 
 
 
@@ -43761,7 +44893,9 @@ SubItems:
 
 
 
-    Source: (LDM p261)
+    Source: (LDM p261)(TOB p268)
+
+    AltName: Kot Bayun
 
     Type: Créature monstrueuse
 
@@ -43786,7 +44920,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Larve De Krake
-  Source: (LDM p262)
+  Source: (LDM p262)(TOB p269)
+  AltName: Krake Spawn
   Type: Créature monstrueuse
   Size: TG
   Alignment: neutre mauvaise
@@ -43814,7 +44949,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p262)<!--/Source-->
+      - Source: <!--Source-->(LDM p262)(TOB p269)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Krake Spawn<!--/AltName-->
 
 
 
@@ -43946,7 +45085,9 @@ SubItems:
 
 
 
-    Source: (LDM p262)
+    Source: (LDM p262)(TOB p269)
+
+    AltName: Krake Spawn
 
     Type: Créature monstrueuse
 
@@ -43975,7 +45116,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Larve Stellaire De Cthulhu
-  Source: (LDM p263)
+  Source: (LDM p263)(TOB p368)
+  AltName: Star Spawn of Cthulhu
   Type: Fiélon
   Size: G
   Alignment: chaotique mauvais
@@ -44005,7 +45147,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p263)<!--/Source-->
+      - Source: <!--Source-->(LDM p263)(TOB p368)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Star Spawn of Cthulhu<!--/AltName-->
 
 
 
@@ -44121,31 +45267,9 @@ SubItems:
 
 
 
+    Source: (LDM p263)(TOB p368)
 
-
-      ## ACTIONS
-
-
-
-
-
-      **_Attaques multiples._** Le léchy fait deux attaques de gourdin.
-
-
-
-
-
-      **_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
-
-
-
-
-
-      **_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
-
-
-
-    Source: (LDM p263)
+    AltName: Star Spawn of Cthulhu
 
     Type: Fiélon
 
@@ -44178,7 +45302,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Léchy
-  Source: (LDM p264)
+  Source: (LDM p264)(TOB p272)
+  AltName: Leshy
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
@@ -44204,7 +45329,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p264)<!--/Source-->
+      - Source: <!--Source-->(LDM p264)(TOB p272)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Leshy<!--/AltName-->
 
 
 
@@ -44286,7 +45415,33 @@ SubItems:
 
 
 
-    Source: (LDM p264)
+
+
+      ## ACTIONS
+
+
+
+
+
+      **_Attaques multiples._** Le léchy fait deux attaques de gourdin.
+
+
+
+
+
+      **_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
+
+
+
+
+
+      **_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
+
+
+
+    Source: (LDM p264)(TOB p272)
+
+    AltName: Leshy
 
     Type: Créature monstrueuse
 
@@ -44311,7 +45466,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lente Tempête
-  Source: (LDM p265)
+  Source: (LDM p265)(TOB p353)
+  AltName: Slow Storm
   Type: Élémentaire
   Size: TG
   Alignment: chaotique neutre
@@ -44340,7 +45496,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p265)<!--/Source-->
+      - Source: <!--Source-->(LDM p265)(TOB p353)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Slow Storm<!--/AltName-->
 
 
 
@@ -44482,7 +45642,9 @@ SubItems:
 
 
 
-    Source: (LDM p265)
+    Source: (LDM p265)(TOB p353)
+
+    AltName: Slow Storm
 
     Type: Élémentaire
 
@@ -44717,7 +45879,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Liche Canine
-  Source: (LDM p268)
+  Source: (LDM p268)(TOB p274)
+  AltName: Lich Hound
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -44747,7 +45910,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p268)<!--/Source-->
+      - Source: <!--Source-->(LDM p268)(TOB p274)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lich Hound<!--/AltName-->
 
 
 
@@ -44851,7 +46018,9 @@ SubItems:
 
 
 
-    Source: (LDM p268)
+    Source: (LDM p268)(TOB p274)
+
+    AltName: Lich Hound
 
     Type: Mort-vivant
 
@@ -44884,7 +46053,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Likho
-  Source: (LDM p269)
+  Source: (LDM p269)(TOB p275)
+  AltName: Likho
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -44911,7 +46081,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p269)<!--/Source-->
+      - Source: <!--Source-->(LDM p269)(TOB p275)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Likho<!--/AltName-->
 
 
 
@@ -45027,7 +46201,9 @@ SubItems:
 
 
 
-    Source: (LDM p269)
+    Source: (LDM p269)(TOB p275)
+
+    AltName: Likho
 
     Type: Créature monstrueuse
 
@@ -45054,7 +46230,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Limon Des Sarcophages
-  Source: (LDM p270)
+  Source: (LDM p270)(TOB p336)
+  AltName: Sarcophagus Slime
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -45084,7 +46261,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p270)<!--/Source-->
+      - Source: <!--Source-->(LDM p270)(TOB p336)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sarcophagus Slime<!--/AltName-->
 
 
 
@@ -45188,7 +46369,9 @@ SubItems:
 
 
 
-    Source: (LDM p270)
+    Source: (LDM p270)(TOB p336)
+
+    AltName: Sarcophagus Slime
 
     Type: Mort-vivant
 
@@ -45221,7 +46404,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Linceul
-  Source: (LDM p271)
+  Source: (LDM p271)(TOB p348)
+  AltName: Shroud
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -45251,7 +46435,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p271)<!--/Source-->
+      - Source: <!--Source-->(LDM p271)(TOB p348)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shroud<!--/AltName-->
 
 
 
@@ -45355,7 +46543,9 @@ SubItems:
 
 
 
-    Source: (LDM p271)
+    Source: (LDM p271)(TOB p348)
+
+    AltName: Shroud
 
     Type: Mort-vivant
 
@@ -45388,7 +46578,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lindwurm
-  Source: (LDM p272)
+  Source: (LDM p272)(TOB p276)
+  AltName: Lindwurm
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
@@ -45417,7 +46608,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p272)<!--/Source-->
+      - Source: <!--Source-->(LDM p272)(TOB p276)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lindwurm<!--/AltName-->
 
 
 
@@ -45529,7 +46724,9 @@ SubItems:
 
 
 
-    Source: (LDM p272)
+    Source: (LDM p272)(TOB p276)
+
+    AltName: Lindwurm
 
     Type: Dragon
 
@@ -45560,7 +46757,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Liosalfar
-  Source: (LDM p273)
+  Source: (LDM p273)(TOB p277)
+  AltName: Liosalfar
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -45590,7 +46788,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p273)<!--/Source-->
+      - Source: <!--Source-->(LDM p273)(TOB p277)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Liosalfar<!--/AltName-->
 
 
 
@@ -45730,7 +46932,9 @@ SubItems:
 
 
 
-    Source: (LDM p273)
+    Source: (LDM p273)(TOB p277)
+
+    AltName: Liosalfar
 
     Type: Élémentaire
 
@@ -45763,7 +46967,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Locus Élémentaire
-  Source: (LDM p274)
+  Source: (LDM p274)(TOB p169)
+  AltName: Elemental Locus
   Type: Élémentaire
   Size: Gig
   Alignment: neutre
@@ -45793,7 +46998,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p274)<!--/Source-->
+      - Source: <!--Source-->(LDM p274)(TOB p169)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Elemental Locus<!--/AltName-->
 
 
 
@@ -45909,7 +47118,9 @@ SubItems:
 
 
 
-    Source: (LDM p274)
+    Source: (LDM p274)(TOB p169)
+
+    AltName: Elemental Locus
 
     Type: Élémentaire
 
@@ -45942,7 +47153,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lorelei
-  Source: (LDM p275)
+  Source: (LDM p275)(TOB p279)
+  AltName: Lorelei
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -45969,7 +47181,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p275)<!--/Source-->
+      - Source: <!--Source-->(LDM p275)(TOB p279)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lorelei<!--/AltName-->
 
 
 
@@ -46107,7 +47323,9 @@ SubItems:
 
 
 
-    Source: (LDM p275)
+    Source: (LDM p275)(TOB p279)
+
+    AltName: Lorelei
 
     Type: Fée
 
@@ -46134,7 +47352,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Loxoda
-  Source: (LDM p276)
+  Source: (LDM p276)(TOB p280)
+  AltName: Loxoda
   Type: Créature monstrueuse
   Size: TG
   Alignment: neutre mauvaise
@@ -46160,7 +47379,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p276)<!--/Source-->
+      - Source: <!--Source-->(LDM p276)(TOB p280)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Loxoda<!--/AltName-->
 
 
 
@@ -46248,7 +47471,9 @@ SubItems:
 
 
 
-    Source: (LDM p276)
+    Source: (LDM p276)(TOB p280)
+
+    AltName: Loxoda
 
     Type: Créature monstrueuse
 
@@ -46273,7 +47498,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Lynx Vaporeux
-  Source: (LDM p277)
+  Source: (LDM p277)(TOB p398)
+  AltName: Vapor Lynx
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique neutre
@@ -46299,7 +47525,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p277)<!--/Source-->
+      - Source: <!--Source-->(LDM p277)(TOB p398)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vapor Lynx<!--/AltName-->
 
 
 
@@ -46399,7 +47629,9 @@ SubItems:
 
 
 
-    Source: (LDM p277)
+    Source: (LDM p277)(TOB p398)
+
+    AltName: Vapor Lynx
 
     Type: Créature monstrueuse
 
@@ -46424,7 +47656,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mahoru
-  Source: (LDM p278)
+  Source: (LDM p278)(TOB p281)
+  AltName: Mahoru
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -46450,7 +47683,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p278)<!--/Source-->
+      - Source: <!--Source-->(LDM p278)(TOB p281)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mahoru<!--/AltName-->
 
 
 
@@ -46586,7 +47823,9 @@ SubItems:
 
 
 
-    Source: (LDM p278)
+    Source: (LDM p278)(TOB p281)
+
+    AltName: Mahoru
 
     Type: Créature monstrueuse
 
@@ -46611,7 +47850,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mallqui
-  Source: (LDM p279)
+  Source: (LDM p279)(TOB p282)
+  AltName: Mallqui
   Type: Mort-vivant
   Size: M
   Alignment: loyal neutre
@@ -46641,7 +47881,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p279)<!--/Source-->
+      - Source: <!--Source-->(LDM p279)(TOB p282)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mallqui<!--/AltName-->
 
 
 
@@ -46781,7 +48025,9 @@ SubItems:
 
 
 
-    Source: (LDM p279)
+    Source: (LDM p279)(TOB p282)
+
+    AltName: Mallqui
 
     Type: Mort-vivant
 
@@ -46814,7 +48060,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Malphas (Corbeau De Tempête)
-  Source: (LDM p280)
+  Source: (LDM p280)(TOB p283)
+  AltName: Malphas (Storm Crow)
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -46841,7 +48088,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p280)<!--/Source-->
+      - Source: <!--Source-->(LDM p280)(TOB p283)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Malphas (Storm Crow)<!--/AltName-->
 
 
 
@@ -46963,7 +48214,9 @@ SubItems:
 
 
 
-    Source: (LDM p280)
+    Source: (LDM p280)(TOB p283)
+
+    AltName: Malphas (Storm Crow)
 
     Type: Fée
 
@@ -46990,7 +48243,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mamura
-  Source: (LDM p281)
+  Source: (LDM p281)(TOB p284)
+  AltName: Mamura
   Type: Aberration (fée)
   Size: P
   Alignment: neutre mauvaise.
@@ -47018,7 +48272,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p281)<!--/Source-->
+      - Source: <!--Source-->(LDM p281)(TOB p284)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mamura<!--/AltName-->
 
 
 
@@ -47132,7 +48390,9 @@ SubItems:
 
 
 
-    Source: (LDM p281)
+    Source: (LDM p281)(TOB p284)
+
+    AltName: Mamura
 
     Type: Aberration (fée)
 
@@ -47161,7 +48421,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mangedestin
-  Source: (LDM p282)
+  Source: (LDM p282)(TOB p180)
+  AltName: Fate Eater
   Type: Aberration
   Size: M
   Alignment: neutre
@@ -47189,7 +48450,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p282)<!--/Source-->
+      - Source: <!--Source-->(LDM p282)(TOB p180)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fate Eater<!--/AltName-->
 
 
 
@@ -47317,7 +48582,9 @@ SubItems:
 
 
 
-    Source: (LDM p282)
+    Source: (LDM p282)(TOB p180)
+
+    AltName: Fate Eater
 
     Type: Aberration
 
@@ -47346,7 +48613,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mangepoussière (Yakat-Shi)
-  Source: (LDM p283)
+  Source: (LDM p283)(TOB p164)
+  AltName: Eater of Dust (Yakat-Shi)
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -47376,7 +48644,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p283)<!--/Source-->
+      - Source: <!--Source-->(LDM p283)(TOB p164)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Eater of Dust (Yakat-Shi)<!--/AltName-->
 
 
 
@@ -47498,7 +48770,9 @@ SubItems:
 
 
 
-    Source: (LDM p283)
+    Source: (LDM p283)(TOB p164)
+
+    AltName: Eater of Dust (Yakat-Shi)
 
     Type: Aberration
 
@@ -47531,7 +48805,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mangerêve
-  Source: (LDM p284)
+  Source: (LDM p284)(TOB p158)
+  AltName: Dream Eater
   Type: Fiélon
   Size: M
   Alignment: loyal mauvais
@@ -47560,7 +48835,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p284)<!--/Source-->
+      - Source: <!--Source-->(LDM p284)(TOB p158)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dream Eater<!--/AltName-->
 
 
 
@@ -47690,7 +48969,9 @@ SubItems:
 
 
 
-    Source: (LDM p284)
+    Source: (LDM p284)(TOB p158)
+
+    AltName: Dream Eater
 
     Type: Fiélon
 
@@ -47721,7 +49002,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Manteau Vide
-  Source: (LDM p285)
+  Source: (LDM p285)(TOB p176)
+  AltName: Empty Cloak
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
@@ -47752,7 +49034,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p285)<!--/Source-->
+      - Source: <!--Source-->(LDM p285)(TOB p176)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Empty Cloak<!--/AltName-->
 
 
 
@@ -47866,7 +49152,9 @@ SubItems:
 
 
 
-    Source: (LDM p285)
+    Source: (LDM p285)(TOB p176)
+
+    AltName: Empty Cloak
 
     Type: Créature artificielle
 
@@ -47901,7 +49189,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Maraudeur Des Forêts
-  Source: (LDM p286)
+  Source: (LDM p286)(TOB p205)
+  AltName: Forest Marauder
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
@@ -47927,7 +49216,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p286)<!--/Source-->
+      - Source: <!--Source-->(LDM p286)(TOB p205)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Forest Marauder<!--/AltName-->
 
 
 
@@ -48009,7 +49302,9 @@ SubItems:
 
 
 
-    Source: (LDM p286)
+    Source: (LDM p286)(TOB p205)
+
+    AltName: Forest Marauder
 
     Type: Géant
 
@@ -48034,7 +49329,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Marchand De Sable
-  Source: (LDM p287)
+  Source: (LDM p287)(TOB p333)
+  AltName: Sandman
   Type: Céleste
   Size: M
   Alignment: chaotique neutre
@@ -48063,7 +49359,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p287)<!--/Source-->
+      - Source: <!--Source-->(LDM p287)(TOB p333)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sandman<!--/AltName-->
 
 
 
@@ -48191,7 +49491,9 @@ SubItems:
 
 
 
-    Source: (LDM p287)
+    Source: (LDM p287)(TOB p333)
+
+    AltName: Sandman
 
     Type: Céleste
 
@@ -48222,7 +49524,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Marcheflèche
-  Source: (LDM p288)
+  Source: (LDM p288)(TOB p367)
+  AltName: Spire Walker
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -48250,7 +49553,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p288)<!--/Source-->
+      - Source: <!--Source-->(LDM p288)(TOB p367)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Spire Walker<!--/AltName-->
 
 
 
@@ -48358,7 +49665,9 @@ SubItems:
 
 
 
-    Source: (LDM p288)
+    Source: (LDM p288)(TOB p367)
+
+    AltName: Spire Walker
 
     Type: Fée
 
@@ -48387,7 +49696,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mavka
-  Source: (LDM p289)
+  Source: (LDM p289)(TOB p286)
+  AltName: Mavka
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -48416,7 +49726,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p289)<!--/Source-->
+      - Source: <!--Source-->(LDM p289)(TOB p286)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mavka<!--/AltName-->
 
 
 
@@ -48540,7 +49854,9 @@ SubItems:
 
 
 
-    Source: (LDM p289)
+    Source: (LDM p289)(TOB p286)
+
+    AltName: Mavka
 
     Type: Mort-vivant
 
@@ -49775,7 +51091,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mèche Vivante
-  Source: (LDM p297)
+  Source: (LDM p297)(TOB p278)
+  AltName: Living Wick
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
@@ -49803,7 +51120,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p297)<!--/Source-->
+      - Source: <!--Source-->(LDM p297)(TOB p278)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Living Wick<!--/AltName-->
 
 
 
@@ -49899,7 +51220,9 @@ SubItems:
 
 
 
-    Source: (LDM p297)
+    Source: (LDM p297)(TOB p278)
+
+    AltName: Living Wick
 
     Type: Créature artificielle
 
@@ -49928,7 +51251,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Médazur À Défenses
-  Source: (LDM p298)
+  Source: (LDM p298)(TOB p391)
+  AltName: Tusked Skyfish
   Type: Aberration
   Size: G
   Alignment: loyale bonne
@@ -49954,7 +51278,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p298)<!--/Source-->
+      - Source: <!--Source-->(LDM p298)(TOB p391)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tusked Skyfish<!--/AltName-->
 
 
 
@@ -50042,7 +51370,9 @@ SubItems:
 
 
 
-    Source: (LDM p298)
+    Source: (LDM p298)(TOB p391)
+
+    AltName: Tusked Skyfish
 
     Type: Aberration
 
@@ -50067,7 +51397,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mélasse
-  Source: (LDM p299)
+  Source: (LDM p299)(TOB p387)
+  AltName: Treacle
   Type: Vase
   Size: TP
   Alignment: non alignée
@@ -50093,7 +51424,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p299)<!--/Source-->
+      - Source: <!--Source-->(LDM p299)(TOB p387)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Treacle<!--/AltName-->
 
 
 
@@ -50175,7 +51510,9 @@ SubItems:
 
 
 
-    Source: (LDM p299)
+    Source: (LDM p299)(TOB p387)
+
+    AltName: Treacle
 
     Type: Vase
 
@@ -50200,7 +51537,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mi-Go
-  Source: (LDM p300)
+  Source: (LDM p300)(TOB p287)
+  AltName: Mi-Go
   Type: Plante
   Size: M
   Alignment: neutre mauvaise
@@ -50228,7 +51566,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p300)<!--/Source-->
+      - Source: <!--Source-->(LDM p300)(TOB p287)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mi-Go<!--/AltName-->
 
 
 
@@ -50340,7 +51682,9 @@ SubItems:
 
 
 
-    Source: (LDM p300)
+    Source: (LDM p300)(TOB p287)
+
+    AltName: Mi-Go
 
     Type: Plante
 
@@ -50369,7 +51713,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Millitaure
-  Source: (LDM p301)
+  Source: (LDM p301)(TOB p288)
+  AltName: Millitaur
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
@@ -50397,7 +51742,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p301)<!--/Source-->
+      - Source: <!--Source-->(LDM p301)(TOB p288)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Millitaur<!--/AltName-->
 
 
 
@@ -50475,7 +51824,9 @@ SubItems:
 
 
 
-    Source: (LDM p301)
+    Source: (LDM p301)(TOB p288)
+
+    AltName: Millitaur
 
     Type: Créature monstrueuse
 
@@ -50504,7 +51855,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mimique Carte
-  Source: (LDM p302)
+  Source: (LDM p302)(TOB p289)
+  AltName: Map Mimic
   Type: Créature monstrueuse (métamorphe)
   Size: TP
   Alignment: neutre
@@ -50531,7 +51883,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p302)<!--/Source-->
+      - Source: <!--Source-->(LDM p302)(TOB p289)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Map Mimic<!--/AltName-->
 
 
 
@@ -50623,7 +51979,9 @@ SubItems:
 
 
 
-    Source: (LDM p302)
+    Source: (LDM p302)(TOB p289)
+
+    AltName: Map Mimic
 
     Type: Créature monstrueuse (métamorphe)
 
@@ -50650,7 +52008,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mimique Des Dunes
-  Source: (LDM p303)
+  Source: (LDM p303)(TOB p162)
+  AltName: Dune Mimic
   Type: Créature monstrueuse (métamorphe)
   Size: TG
   Alignment: neutre
@@ -50678,7 +52037,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p303)<!--/Source-->
+      - Source: <!--Source-->(LDM p303)(TOB p162)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dune Mimic<!--/AltName-->
 
 
 
@@ -50786,7 +52149,9 @@ SubItems:
 
 
 
-    Source: (LDM p303)
+    Source: (LDM p303)(TOB p162)
+
+    AltName: Dune Mimic
 
     Type: Créature monstrueuse (métamorphe)
 
@@ -50815,7 +52180,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mirageur
-  Source: (LDM p304)
+  Source: (LDM p304)(TOB p291)
+  AltName: Mirager
   Type: Fée (métamorphe)
   Size: M
   Alignment: neutre mauvaise
@@ -50841,7 +52207,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p304)<!--/Source-->
+      - Source: <!--Source-->(LDM p304)(TOB p291)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mirager<!--/AltName-->
 
 
 
@@ -50953,7 +52323,9 @@ SubItems:
 
 
 
-    Source: (LDM p304)
+    Source: (LDM p304)(TOB p291)
+
+    AltName: Mirager
 
     Type: Fée (métamorphe)
 
@@ -50978,7 +52350,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mngwa
-  Source: (LDM p305)
+  Source: (LDM p305)(TOB p293)
+  AltName: Mngwa
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -51004,7 +52377,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p305)<!--/Source-->
+      - Source: <!--Source-->(LDM p305)(TOB p293)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mngwa<!--/AltName-->
 
 
 
@@ -51110,7 +52487,9 @@ SubItems:
 
 
 
-    Source: (LDM p305)
+    Source: (LDM p305)(TOB p293)
+
+    AltName: Mngwa
 
     Type: Aberration
 
@@ -51135,7 +52514,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Molosse Nocturne
-  Source: (LDM p306)
+  Source: (LDM p306)(TOB p251)
+  AltName: Hound of the night
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -51164,7 +52544,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p306)<!--/Source-->
+      - Source: <!--Source-->(LDM p306)(TOB p251)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Hound of the night<!--/AltName-->
 
 
 
@@ -51268,7 +52652,9 @@ SubItems:
 
 
 
-    Source: (LDM p306)
+    Source: (LDM p306)(TOB p251)
+
+    AltName: Hound of the night
 
     Type: Créature monstrueuse
 
@@ -51299,7 +52685,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Momie Venimeuse
-  Source: (LDM p307)
+  Source: (LDM p307)(TOB p299)
+  AltName: Venomous Mummy
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -51329,7 +52716,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p307)<!--/Source-->
+      - Source: <!--Source-->(LDM p307)(TOB p299)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Venomous Mummy<!--/AltName-->
 
 
 
@@ -51421,7 +52812,9 @@ SubItems:
 
 
 
-    Source: (LDM p307)
+    Source: (LDM p307)(TOB p299)
+
+    AltName: Venomous Mummy
 
     Type: Mort-vivant
 
@@ -51454,7 +52847,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Champion Monolithique
-  Source: (LDM p308)
+  Source: (LDM p308)(TOB p294)
+  AltName: Monolith Champion
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -51481,7 +52875,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p308)<!--/Source-->
+      - Source: <!--Source-->(LDM p308)(TOB p294)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Monolith Champion<!--/AltName-->
 
 
 
@@ -51573,7 +52971,9 @@ SubItems:
 
 
 
-    Source: (LDM p308)
+    Source: (LDM p308)(TOB p294)
+
+    AltName: Monolith Champion
 
     Type: Créature artificielle
 
@@ -51600,7 +53000,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Valet Monolithique
-  Source: (LDM p309)
+  Source: (LDM p309)(TOB p295)
+  AltName: Monolith Footman
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -51627,7 +53028,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p309)<!--/Source-->
+      - Source: <!--Source-->(LDM p309)(TOB p295)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Monolith Footman<!--/AltName-->
 
 
 
@@ -51719,7 +53124,9 @@ SubItems:
 
 
 
-    Source: (LDM p309)
+    Source: (LDM p309)(TOB p295)
+
+    AltName: Monolith Footman
 
     Type: Créature artificielle
 
@@ -51925,7 +53332,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Morphoï
-  Source: (LDM p311)
+  Source: (LDM p311)(TOB p297)
+  AltName: Morphoi
   Type: Plante (métamorphe)
   Size: M
   Alignment: chaotique mauvaise
@@ -51950,7 +53358,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p311)<!--/Source-->
+      - Source: <!--Source-->(LDM p311)(TOB p297)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Morphoi<!--/AltName-->
 
 
 
@@ -52040,7 +53452,9 @@ SubItems:
 
 
 
-    Source: (LDM p311)
+    Source: (LDM p311)(TOB p297)
+
+    AltName: Morphoi
 
     Type: Plante (métamorphe)
 
@@ -52390,7 +53804,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Myling
-  Source: (LDM p314)
+  Source: (LDM p314)(TOB p301)
+  AltName: Myling
   Type: Mort-vivant
   Size: P
   Alignment: chaotique mauvais
@@ -52419,7 +53834,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p314)<!--/Source-->
+      - Source: <!--Source-->(LDM p314)(TOB p301)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Myling<!--/AltName-->
 
 
 
@@ -52513,7 +53932,9 @@ SubItems:
 
 
 
-    Source: (LDM p314)
+    Source: (LDM p314)(TOB p301)
+
+    AltName: Myling
 
     Type: Mort-vivant
 
@@ -52544,7 +53965,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Naïna
-  Source: (LDM p315)
+  Source: (LDM p315)(TOB p302)
+  AltName: Naina
   Type: Dragon (métamorphe)
   Size: G
   Alignment: loyal mauvais
@@ -52573,7 +53995,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p315)<!--/Source-->
+      - Source: <!--Source-->(LDM p315)(TOB p302)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Naina<!--/AltName-->
 
 
 
@@ -52705,21 +54131,13 @@ SubItems:
 
 
 
-      **_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-
-
-
-      24(3d12+5) dégâts perforants.
+      **_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts perforants.
 
 
 
 
 
-      **_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-
-
-
-      24(3d12+5) dégâts tranchants.
+      **_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts tranchants.
 
 
 
@@ -52747,7 +54165,9 @@ SubItems:
 
 
 
-    Source: (LDM p315)
+    Source: (LDM p315)(TOB p302)
+
+    AltName: Naina
 
     Type: Dragon (métamorphe)
 
@@ -52778,7 +54198,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nécrophage Masqué
-  Source: (LDM p316)
+  Source: (LDM p316)(TOB p285)
+  AltName: Mask Wight
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -52808,7 +54229,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p316)<!--/Source-->
+      - Source: <!--Source-->(LDM p316)(TOB p285)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mask Wight<!--/AltName-->
 
 
 
@@ -52940,7 +54365,9 @@ SubItems:
 
 
 
-    Source: (LDM p316)
+    Source: (LDM p316)(TOB p285)
+
+    AltName: Mask Wight
 
     Type: Mort-vivant
 
@@ -53113,7 +54540,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nichny
-  Source: (LDM p318)
+  Source: (LDM p318)(TOB p303)
+  AltName: Nichny
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -53143,7 +54571,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p318)<!--/Source-->
+      - Source: <!--Source-->(LDM p318)(TOB p303)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Nichny<!--/AltName-->
 
 
 
@@ -53283,7 +54715,9 @@ SubItems:
 
 
 
-    Source: (LDM p318)
+    Source: (LDM p318)(TOB p303)
+
+    AltName: Nichny
 
     Type: Fée
 
@@ -53316,9 +54750,11 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nkosi
-  Source: (LDM p319)
+  Source: (LDM p319)(TOB p306)
+  AltName: Nkosi
   Type: Humanoïde
-  Size: MM
+  Size: M
+  Alignment: loyal neutre
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 11 (2d8+2)
   Speed: 9m
@@ -53341,11 +54777,15 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p319)<!--/Source-->
+      - Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
 
 
 
-      -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe (<!--Size-->M<!--/Size-->), nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
+      - TOB: <!--AltName-->Nkosi<!--/AltName-->
+
+
+
+      -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 
 
 
@@ -53435,11 +54875,15 @@ SubItems:
 
 
 
-    Source: (LDM p319)
+    Source: (LDM p319)(TOB p306)
+
+    AltName: Nkosi
 
     Type: Humanoïde
 
-    Size: MM
+    Size: M
+
+    Alignment: loyal neutre
 
     ArmorClass: 15 (armure de cuir clouté)
 
@@ -53458,9 +54902,11 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chef De Meute Nkosi
-  Source: (LDM p319)
+  Source: (LDM p319)(TOB p306)
+  AltName: Nkosi Pridelord
   Type: Humanoïde
-  Size: MM
+  Size: M
+  Alignment: loyal neutre
   ArmorClass: 16 (armure de cuir clouté)
   HitPoints: 93 (17d8+17)
   Speed: 9m
@@ -53483,11 +54929,15 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p319)<!--/Source-->
+      - Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
 
 
 
-      -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe (<!--Size-->M<!--/Size-->), nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
+      - TOB: <!--AltName-->Nkosi Pridelord<!--/AltName-->
+
+
+
+      -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 
 
 
@@ -53595,11 +55045,15 @@ SubItems:
 
 
 
-    Source: (LDM p319)
+    Source: (LDM p319)(TOB p306)
+
+    AltName: Nkosi Pridelord
 
     Type: Humanoïde
 
-    Size: MM
+    Size: M
+
+    Alignment: loyal neutre
 
     ArmorClass: 16 (armure de cuir clouté)
 
@@ -53618,7 +55072,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Autruche de guerre
-  Source: (LDM p320)
+  Source: (LDM p320)(TOB p307)
+  AltName: War Ostrich
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -53643,7 +55098,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p320)<!--/Source-->
+      - Source: <!--Source-->(LDM p320)(TOB p307)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->War Ostrich<!--/AltName-->
 
 
 
@@ -53705,7 +55164,9 @@ SubItems:
 
 
 
-    Source: (LDM p320)
+    Source: (LDM p320)(TOB p307)
+
+    AltName: War Ostrich
 
     Type: Bête
 
@@ -53728,7 +55189,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Noctegarm
-  Source: (LDM p322)
+  Source: (LDM p322)(TOB p305)
+  AltName: Nightgarm
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique mauvaise
@@ -53756,7 +55218,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p322)<!--/Source-->
+      - Source: <!--Source-->(LDM p322)(TOB p305)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Nightgarm<!--/AltName-->
 
 
 
@@ -53864,7 +55330,9 @@ SubItems:
 
 
 
-    Source: (LDM p322)
+    Source: (LDM p322)(TOB p305)
+
+    AltName: Nightgarm
 
     Type: Créature monstrueuse
 
@@ -53893,7 +55361,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Factice noctegarm
-  Source: (LDM p322)
+  Source: (LDM p322)(TOB p305)
+  AltName: Nightgarm Falseman
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -53913,7 +55382,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p322)<!--/Source-->
+      - Source: <!--Source-->(LDM p322)(TOB p305)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Nightgarm Falseman<!--/AltName-->
 
 
 
@@ -53937,7 +55410,9 @@ SubItems:
 
 
 
-    Source: (LDM p322)
+    Source: (LDM p322)(TOB p305)
+
+    AltName: Nightgarm Falseman
 
     Type: Créature monstrueuse
 
@@ -53950,7 +55425,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Noctin
-  Source: (LDM p323)
+  Source: (LDM p323)(TOB p308)
+  AltName: Noctiny
   Type: Humanoïde (noctin)
   Size: M
   Alignment: neutre mauvais
@@ -53976,7 +55452,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p323)<!--/Source-->
+      - Source: <!--Source-->(LDM p323)(TOB p308)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Noctiny<!--/AltName-->
 
 
 
@@ -54082,7 +55562,9 @@ SubItems:
 
 
 
-    Source: (LDM p323)
+    Source: (LDM p323)(TOB p308)
+
+    AltName: Noctiny
 
     Type: Humanoïde (noctin)
 
@@ -54107,7 +55589,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée D'Esprits Lupins
-  Source: (LDM p324)
+  Source: (LDM p324)(TOB p377)
+  AltName: Wolf Spirit Swarm
   Type: Nuée
   Size: G
   Alignment: neutre
@@ -54137,7 +55620,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p324)<!--/Source-->
+      - Source: <!--Source-->(LDM p324)(TOB p377)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wolf Spirit Swarm<!--/AltName-->
 
 
 
@@ -54241,7 +55728,9 @@ SubItems:
 
 
 
-    Source: (LDM p324)
+    Source: (LDM p324)(TOB p377)
+
+    AltName: Wolf Spirit Swarm
 
     Type: Nuée
 
@@ -54274,7 +55763,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée D'Yeux
-  Source: (LDM p325)
+  Source: (LDM p325)(TOB p309)
+  AltName: Oculo Swarm
   Type: Nuée
   Size: G
   Alignment: neutre
@@ -54302,7 +55792,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p325)<!--/Source-->
+      - Source: <!--Source-->(LDM p325)(TOB p309)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Oculo Swarm<!--/AltName-->
 
 
 
@@ -54386,7 +55880,9 @@ SubItems:
 
 
 
-    Source: (LDM p325)
+    Source: (LDM p325)(TOB p309)
+
+    AltName: Oculo Swarm
 
     Type: Nuée
 
@@ -54415,7 +55911,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Danseflammes
-  Source: (LDM p326)
+  Source: (LDM p326)(TOB p373)
+  AltName: Fire Dancer Swarm
   Type: Nuée
   Size: TP
   Alignment: neutre
@@ -54443,7 +55940,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p326)<!--/Source-->
+      - Source: <!--Source-->(LDM p326)(TOB p373)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Fire Dancer Swarm<!--/AltName-->
 
 
 
@@ -54539,7 +56040,9 @@ SubItems:
 
 
 
-    Source: (LDM p326)
+    Source: (LDM p326)(TOB p373)
+
+    AltName: Fire Dancer Swarm
 
     Type: Nuée
 
@@ -54874,7 +56377,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Scarabées Manavores
-  Source: (LDM p328)
+  Source: (LDM p328)(TOB p374)
+  AltName: Manabane Scarab Swarm
   Type: Nuée
   Size: TP
   Alignment: non-alignée
@@ -54902,7 +56406,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p328)<!--/Source-->
+      - Source: <!--Source-->(LDM p328)(TOB p374)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Manabane Scarab Swarm<!--/AltName-->
 
 
 
@@ -54998,7 +56506,9 @@ SubItems:
 
 
 
-    Source: (LDM p328)
+    Source: (LDM p328)(TOB p374)
+
+    AltName: Manabane Scarab Swarm
 
     Type: Nuée
 
@@ -55141,7 +56651,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Scarabées Prismatiques
-  Source: (LDM p330)
+  Source: (LDM p330)(TOB p375)
+  AltName: Prismatic Beetle Swarm
   Type: Nuée
   Size: TP
   Alignment: non-alignée
@@ -55169,7 +56680,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p330)<!--/Source-->
+      - Source: <!--Source-->(LDM p330)(TOB p375)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Prismatic Beetle Swarm<!--/AltName-->
 
 
 
@@ -55257,7 +56772,9 @@ SubItems:
 
 
 
-    Source: (LDM p330)
+    Source: (LDM p330)(TOB p375)
+
+    AltName: Prismatic Beetle Swarm
 
     Type: Nuée
 
@@ -55286,7 +56803,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Sluaghs
-  Source: (LDM p331)
+  Source: (LDM p331)(TOB p376)
+  AltName: Sluagh Swarm
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
@@ -55315,7 +56833,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p331)<!--/Source-->
+      - Source: <!--Source-->(LDM p331)(TOB p376)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sluagh Swarm<!--/AltName-->
 
 
 
@@ -55409,7 +56931,9 @@ SubItems:
 
 
 
-    Source: (LDM p331)
+    Source: (LDM p331)(TOB p376)
+
+    AltName: Sluagh Swarm
 
     Type: Nuée
 
@@ -55621,7 +57145,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Œil D'Émeraude
-  Source: (LDM p333)
+  Source: (LDM p333)(TOB p175)
+  AltName: Emerald Eye
   Type: Créature artificielle
   Size: TP
   Alignment: chaotique mauvais
@@ -55651,7 +57176,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p333)<!--/Source-->
+      - Source: <!--Source-->(LDM p333)(TOB p175)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Emerald Eye<!--/AltName-->
 
 
 
@@ -55761,7 +57290,9 @@ SubItems:
 
 
 
-    Source: (LDM p333)
+    Source: (LDM p333)(TOB p175)
+
+    AltName: Emerald Eye
 
     Type: Créature artificielle
 
@@ -55794,7 +57325,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Oiseau De Feu
-  Source: (LDM p334)
+  Source: (LDM p334)(TOB p201)
+  AltName: Firebird
   Type: Céleste
   Size: P
   Alignment: neutre bon
@@ -55824,7 +57356,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p334)<!--/Source-->
+      - Source: <!--Source-->(LDM p334)(TOB p201)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Firebird<!--/AltName-->
 
 
 
@@ -55952,7 +57488,9 @@ SubItems:
 
 
 
-    Source: (LDM p334)
+    Source: (LDM p334)(TOB p201)
+
+    AltName: Firebird
 
     Type: Céleste
 
@@ -55985,7 +57523,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ostinato
-  Source: (LDM p335)
+  Source: (LDM p335)(TOB p335)
+  AltName: Ostinato
   Type: Aberration
   Size: M
   Alignment: chaotique neutre
@@ -56015,7 +57554,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p335)<!--/Source-->
+      - Source: <!--Source-->(LDM p335)(TOB p335)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ostinato<!--/AltName-->
 
 
 
@@ -56131,7 +57674,9 @@ SubItems:
 
 
 
-    Source: (LDM p335)
+    Source: (LDM p335)(TOB p335)
+
+    AltName: Ostinato
 
     Type: Aberration
 
@@ -56164,7 +57709,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ovasis
-  Source: (LDM p336)
+  Source: (LDM p336)(TOB p310)
+  AltName: Oozasis
   Type: Vase
   Size: Gig
   Alignment: non alignée
@@ -56195,7 +57741,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p336)<!--/Source-->
+      - Source: <!--Source-->(LDM p336)(TOB p310)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Oozasis<!--/AltName-->
 
 
 
@@ -56315,7 +57865,9 @@ SubItems:
 
 
 
-    Source: (LDM p336)
+    Source: (LDM p336)(TOB p310)
+
+    AltName: Oozasis
 
     Type: Vase
 
@@ -56507,7 +58059,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Piège Caustique
-  Source: (LDM p338)
+  Source: (LDM p338)(TOB p296)
+  AltName: Mordant Snare
   Type: Aberration
   Size: Gig
   Alignment: chaotique mauvaise
@@ -56536,7 +58089,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p338)<!--/Source-->
+      - Source: <!--Source-->(LDM p338)(TOB p296)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Mordant Snare<!--/AltName-->
 
 
 
@@ -56654,7 +58211,9 @@ SubItems:
 
 
 
-    Source: (LDM p338)
+    Source: (LDM p338)(TOB p296)
+
+    AltName: Mordant Snare
 
     Type: Aberration
 
@@ -56685,7 +58244,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Pombero
-  Source: (LDM p339)
+  Source: (LDM p339)(TOB p313)
+  AltName: Pombero
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -56711,7 +58271,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p339)<!--/Source-->
+      - Source: <!--Source-->(LDM p339)(TOB p313)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Pombero<!--/AltName-->
 
 
 
@@ -56817,7 +58381,9 @@ SubItems:
 
 
 
-    Source: (LDM p339)
+    Source: (LDM p339)(TOB p313)
+
+    AltName: Pombero
 
     Type: Fée
 
@@ -56842,7 +58408,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Pourceau Des Failles
-  Source: (LDM p340)
+  Source: (LDM p340)(TOB p326)
+  AltName: Rift Swine
   Type: Aberration
   Size: G
   Alignment: chaotique neutre
@@ -56868,7 +58435,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p340)<!--/Source-->
+      - Source: <!--Source-->(LDM p340)(TOB p326)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rift Swine<!--/AltName-->
 
 
 
@@ -56982,7 +58553,9 @@ SubItems:
 
 
 
-    Source: (LDM p340)
+    Source: (LDM p340)(TOB p326)
+
+    AltName: Rift Swine
 
     Type: Aberration
 
@@ -57007,7 +58580,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Primate Blanc
-  Source: (LDM p341)
+  Source: (LDM p341)(TOB p408)
+  AltName: White Ape
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
@@ -57033,7 +58607,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p341)<!--/Source-->
+      - Source: <!--Source-->(LDM p341)(TOB p408)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->White Ape<!--/AltName-->
 
 
 
@@ -57121,7 +58699,9 @@ SubItems:
 
 
 
-    Source: (LDM p341)
+    Source: (LDM p341)(TOB p408)
+
+    AltName: White Ape
 
     Type: Créature monstrueuse
 
@@ -57146,7 +58726,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Profanateur Maudit
-  Source: (LDM p342)
+  Source: (LDM p342)(TOB p12)
+  AltName: Accursed Defiler
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -57175,7 +58756,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p342)<!--/Source-->
+      - Source: <!--Source-->(LDM p342)(TOB p12)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Accursed Defiler<!--/AltName-->
 
 
 
@@ -57275,7 +58860,9 @@ SubItems:
 
 
 
-    Source: (LDM p342)
+    Source: (LDM p342)(TOB p12)
+
+    AltName: Accursed Defiler
 
     Type: Mort-vivant
 
@@ -57872,7 +59459,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Qwyllion
-  Source: (LDM p345)
+  Source: (LDM p345)(TOB p316)
+  AltName: Qwyllion
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -57900,7 +59488,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p345)<!--/Source-->
+      - Source: <!--Source-->(LDM p345)(TOB p316)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Qwyllion<!--/AltName-->
 
 
 
@@ -58008,7 +59600,9 @@ SubItems:
 
 
 
-    Source: (LDM p345)
+    Source: (LDM p345)(TOB p316)
+
+    AltName: Qwyllion
 
     Type: Aberration
 
@@ -58037,7 +59631,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ramag
-  Source: (LDM p346)
+  Source: (LDM p346)(TOB p317)
+  AltName: Ramag
   Type: Humanoïde (ramag)
   Size: M
   Alignment: neutre
@@ -58063,7 +59658,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p346)<!--/Source-->
+      - Source: <!--Source-->(LDM p346)(TOB p317)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ramag<!--/AltName-->
 
 
 
@@ -58139,7 +59738,9 @@ SubItems:
 
 
 
-    Source: (LDM p346)
+    Source: (LDM p346)(TOB p317)
+
+    AltName: Ramag
 
     Type: Humanoïde (ramag)
 
@@ -58164,7 +59765,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ratatosk
-  Source: (LDM p347)
+  Source: (LDM p347)(TOB p319)
+  AltName: Ratatosk
   Type: Céleste
   Size: TP
   Alignment: chaotique neutre
@@ -58192,7 +59794,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p347)<!--/Source-->
+      - Source: <!--Source-->(LDM p347)(TOB p319)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ratatosk<!--/AltName-->
 
 
 
@@ -58312,7 +59918,9 @@ SubItems:
 
 
 
-    Source: (LDM p347)
+    Source: (LDM p347)(TOB p319)
+
+    AltName: Ratatosk
 
     Type: Céleste
 
@@ -58341,7 +59949,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ravageur Trollien
-  Source: (LDM p348)
+  Source: (LDM p348)(TOB p390)
+  AltName: Trollkin Reaver
   Type: Humanoïde (trollien)
   Size: M
   Alignment: neutre
@@ -58368,7 +59977,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p348)<!--/Source-->
+      - Source: <!--Source-->(LDM p348)(TOB p390)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Trollkin Reaver<!--/AltName-->
 
 
 
@@ -58478,7 +60091,9 @@ SubItems:
 
 
 
-    Source: (LDM p348)
+    Source: (LDM p348)(TOB p390)
+
+    AltName: Trollkin Reaver
 
     Type: Humanoïde (trollien)
 
@@ -58505,7 +60120,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ravenala
-  Source: (LDM p349)
+  Source: (LDM p349)(TOB p321)
+  AltName: Ravenala
   Type: Plante
   Size: G
   Alignment: non alignée
@@ -58534,7 +60150,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p349)<!--/Source-->
+      - Source: <!--Source-->(LDM p349)(TOB p321)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ravenala<!--/AltName-->
 
 
 
@@ -58658,7 +60278,9 @@ SubItems:
 
 
 
-    Source: (LDM p349)
+    Source: (LDM p349)(TOB p321)
+
+    AltName: Ravenala
 
     Type: Plante
 
@@ -58689,7 +60311,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Rôdeur Des Quais
-  Source: (LDM p350)
+  Source: (LDM p350)(TOB p407)
+  AltName: Wharfling
   Type: Bête
   Size: TP
   Alignment: non alignée
@@ -58715,7 +60338,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p350)<!--/Source-->
+      - Source: <!--Source-->(LDM p350)(TOB p407)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wharfling<!--/AltName-->
 
 
 
@@ -58785,7 +60412,9 @@ SubItems:
 
 
 
-    Source: (LDM p350)
+    Source: (LDM p350)(TOB p407)
+
+    AltName: Wharfling
 
     Type: Bête
 
@@ -58810,7 +60439,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nuée De Rôdeurs Des Quais
-  Source: (LDM p350)
+  Source: (LDM p350)(TOB p407)
+  AltName: Wharfling Swarm
   Type: Nuée
   Size: TP
   Alignment: non alignée
@@ -58838,7 +60468,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p350)<!--/Source-->
+      - Source: <!--Source-->(LDM p350)(TOB p407)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wharfling Swarm<!--/AltName-->
 
 
 
@@ -58928,7 +60562,9 @@ SubItems:
 
 
 
-    Source: (LDM p350)
+    Source: (LDM p350)(TOB p407)
+
+    AltName: Wharfling Swarm
 
     Type: Nuée
 
@@ -58957,7 +60593,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Rôdeur Moussu
-  Source: (LDM p351)
+  Source: (LDM p351)(TOB p298)
+  AltName: Moss Lurker
   Type: Humanoïde
   Size: P
   Alignment: chaotique neutre
@@ -58986,7 +60623,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p351)<!--/Source-->
+      - Source: <!--Source-->(LDM p351)(TOB p298)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Moss Lurker<!--/AltName-->
 
 
 
@@ -59104,7 +60745,9 @@ SubItems:
 
 
 
-    Source: (LDM p351)
+    Source: (LDM p351)(TOB p298)
+
+    AltName: Moss Lurker
 
     Type: Humanoïde
 
@@ -59135,7 +60778,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Roi Des Rats
-  Source: (LDM p352)
+  Source: (LDM p352)(TOB 318)
+  AltName: Rat King
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
@@ -59164,7 +60808,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p352)<!--/Source-->
+      - Source: <!--Source-->(LDM p352)(TOB 318)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rat King<!--/AltName-->
 
 
 
@@ -59276,7 +60924,9 @@ SubItems:
 
 
 
-    Source: (LDM p352)
+    Source: (LDM p352)(TOB 318)
+
+    AltName: Rat King
 
     Type: Créature monstrueuse
 
@@ -59307,7 +60957,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Roussalka
-  Source: (LDM p353)
+  Source: (LDM p353)(TOB p331)
+  AltName: Rusalka
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -59334,7 +60985,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p353)<!--/Source-->
+      - Source: <!--Source-->(LDM p353)(TOB p331)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rusalka<!--/AltName-->
 
 
 
@@ -59438,7 +61093,9 @@ SubItems:
 
 
 
-    Source: (LDM p353)
+    Source: (LDM p353)(TOB p331)
+
+    AltName: Rusalka
 
     Type: Mort-vivant
 
@@ -59465,7 +61122,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Saccageur Relevé
-  Source: (LDM p354)
+  Source: (LDM p354)(TOB p328)
+  AltName: Risen Reaver
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -59492,7 +61150,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p354)<!--/Source-->
+      - Source: <!--Source-->(LDM p354)(TOB p328)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Risen Reaver<!--/AltName-->
 
 
 
@@ -59590,7 +61252,9 @@ SubItems:
 
 
 
-    Source: (LDM p354)
+    Source: (LDM p354)(TOB p328)
+
+    AltName: Risen Reaver
 
     Type: Mort-vivant
 
@@ -59617,7 +61281,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sarcoptère
-  Source: (LDM p355)
+  Source: (LDM p355)(TOB p203)
+  AltName: Flutterflesh
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -59648,7 +61313,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p355)<!--/Source-->
+      - Source: <!--Source-->(LDM p355)(TOB p203)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Flutterflesh<!--/AltName-->
 
 
 
@@ -59774,7 +61443,9 @@ SubItems:
 
 
 
-    Source: (LDM p355)
+    Source: (LDM p355)(TOB p203)
+
+    AltName: Flutterflesh
 
     Type: Mort-vivant
 
@@ -59809,7 +61480,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Scheznyki
-  Source: (LDM p356)
+  Source: (LDM p356)(TOB p339)
+  AltName: Scheznyki
   Type: Fée
   Size: P
   Alignment: chaotique mauvaise
@@ -59836,7 +61508,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p356)<!--/Source-->
+      - Source: <!--Source-->(LDM p356)(TOB p339)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Scheznyki<!--/AltName-->
 
 
 
@@ -59952,7 +61628,9 @@ SubItems:
 
 
 
-    Source: (LDM p356)
+    Source: (LDM p356)(TOB p339)
+
+    AltName: Scheznyki
 
     Type: Fée
 
@@ -59979,7 +61657,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Scorpion Nocturne
-  Source: (LDM p357)
+  Source: (LDM p357)(TOB p340)
+  AltName: Night Scorpion
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -60004,7 +61683,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p357)<!--/Source-->
+      - Source: <!--Source-->(LDM p357)(TOB p340)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Night Scorpion<!--/AltName-->
 
 
 
@@ -60076,7 +61759,9 @@ SubItems:
 
 
 
-    Source: (LDM p357)
+    Source: (LDM p357)(TOB p340)
+
+    AltName: Night Scorpion
 
     Type: Bête
 
@@ -60099,7 +61784,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Scorpion Stygien À Large Queue
-  Source: (LDM p357)
+  Source: (LDM p357)(TOB p340)
+  AltName: Stygian Fat-Tailed Scorpion
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -60124,7 +61810,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p357)<!--/Source-->
+      - Source: <!--Source-->(LDM p357)(TOB p340)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Stygian Fat-Tailed Scorpion<!--/AltName-->
 
 
 
@@ -60196,7 +61886,9 @@ SubItems:
 
 
 
-    Source: (LDM p357)
+    Source: (LDM p357)(TOB p340)
+
+    AltName: Stygian Fat-Tailed Scorpion
 
     Type: Bête
 
@@ -60219,7 +61911,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Seigneur Des Lianes
-  Source: (LDM p358)
+  Source: (LDM p358)(TOB p402)
+  AltName: Vine Lord
   Type: Plante
   Size: M
   Alignment: loyale neutre
@@ -60247,7 +61940,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p358)<!--/Source-->
+      - Source: <!--Source-->(LDM p358)(TOB p402)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vine Lord<!--/AltName-->
 
 
 
@@ -60367,7 +62064,9 @@ SubItems:
 
 
 
-    Source: (LDM p358)
+    Source: (LDM p358)(TOB p402)
+
+    AltName: Vine Lord
 
     Type: Plante
 
@@ -60396,7 +62095,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Marionnette Des Lianes
-  Source: (LDM p359)
+  Source: (LDM p359)(TOB p403)
+  AltName: Tendril Puppet
   Type: Plante
   Size: M
   Alignment: loyale neutre
@@ -60423,7 +62123,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p359)<!--/Source-->
+      - Source: <!--Source-->(LDM p359)(TOB p403)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tendril Puppet<!--/AltName-->
 
 
 
@@ -60521,7 +62225,9 @@ SubItems:
 
 
 
-    Source: (LDM p359)
+    Source: (LDM p359)(TOB p403)
+
+    AltName: Tendril Puppet
 
     Type: Plante
 
@@ -60548,7 +62254,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sélang
-  Source: (LDM p360)
+  Source: (LDM p360)(TOB p341)
+  AltName: Selang
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -60577,7 +62284,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p360)<!--/Source-->
+      - Source: <!--Source-->(LDM p360)(TOB p341)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Selang<!--/AltName-->
 
 
 
@@ -60695,7 +62406,9 @@ SubItems:
 
 
 
-    Source: (LDM p360)
+    Source: (LDM p360)(TOB p341)
+
+    AltName: Selang
 
     Type: Fée
 
@@ -60726,7 +62439,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vipère Du Marais
-  Source: (LDM p361)
+  Source: (LDM p361)(TOB p354)
+  AltName: Swamp Adder
   Type: Bête
   Size: P
   Alignment: non-alignée
@@ -60751,7 +62465,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p361)<!--/Source-->
+      - Source: <!--Source-->(LDM p361)(TOB p354)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Swamp Adder<!--/AltName-->
 
 
 
@@ -60817,7 +62535,9 @@ SubItems:
 
 
 
-    Source: (LDM p361)
+    Source: (LDM p361)(TOB p354)
+
+    AltName: Swamp Adder
 
     Type: Bête
 
@@ -60840,7 +62560,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vipère De Zanskaran
-  Source: (LDM p361)
+  Source: (LDM p361)(TOB p354)
+  AltName: Zanskaran Viper
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -60865,7 +62586,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p361)<!--/Source-->
+      - Source: <!--Source-->(LDM p361)(TOB p354)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Zanskaran Viper<!--/AltName-->
 
 
 
@@ -60925,7 +62650,9 @@ SubItems:
 
 
 
-    Source: (LDM p361)
+    Source: (LDM p361)(TOB p354)
+
+    AltName: Zanskaran Viper
 
     Type: Bête
 
@@ -60948,7 +62675,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Serpopard
-  Source: (LDM p362)
+  Source: (LDM p362)(TOB p342)
+  AltName: Serpopard
   Type: Bête
   Size: G
   Alignment: non-alignée
@@ -60976,7 +62704,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p362)<!--/Source-->
+      - Source: <!--Source-->(LDM p362)(TOB p342)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Serpopard<!--/AltName-->
 
 
 
@@ -61072,7 +62804,9 @@ SubItems:
 
 
 
-    Source: (LDM p362)
+    Source: (LDM p362)(TOB p342)
+
+    AltName: Serpopard
 
     Type: Bête
 
@@ -61101,7 +62835,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Shabti
-  Source: (LDM p363)
+  Source: (LDM p363)(TOB p343)
+  AltName: Shabti
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
@@ -61128,7 +62863,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p363)<!--/Source-->
+      - Source: <!--Source-->(LDM p363)(TOB p343)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shabti<!--/AltName-->
 
 
 
@@ -61232,7 +62971,9 @@ SubItems:
 
 
 
-    Source: (LDM p363)
+    Source: (LDM p363)(TOB p343)
+
+    AltName: Shabti
 
     Type: Créature artificielle
 
@@ -61259,7 +63000,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Shadhavar
-  Source: (LDM p364)
+  Source: (LDM p364)(TOB p344)
+  AltName: Shadhavar
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
@@ -61285,7 +63027,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p364)<!--/Source-->
+      - Source: <!--Source-->(LDM p364)(TOB p344)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shadhavar<!--/AltName-->
 
 
 
@@ -61397,7 +63143,9 @@ SubItems:
 
 
 
-    Source: (LDM p364)
+    Source: (LDM p364)(TOB p344)
+
+    AltName: Shadhavar
 
     Type: Créature monstrueuse
 
@@ -61422,7 +63170,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Shoggoth
-  Source: (LDM p365)
+  Source: (LDM p365)(TOB p347)
+  AltName: Shoggoth
   Type: Aberration
   Size: TG
   Alignment: chaotique neutre
@@ -61451,7 +63200,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p365)<!--/Source-->
+      - Source: <!--Source-->(LDM p365)(TOB p347)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Shoggoth<!--/AltName-->
 
 
 
@@ -61569,7 +63322,9 @@ SubItems:
 
 
 
-    Source: (LDM p365)
+    Source: (LDM p365)(TOB p347)
+
+    AltName: Shoggoth
 
     Type: Aberration
 
@@ -61600,7 +63355,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Silhouette De Sable
-  Source: (LDM p366)
+  Source: (LDM p366)(TOB p332)
+  AltName: Sand Silhouette
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -61628,7 +63384,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p366)<!--/Source-->
+      - Source: <!--Source-->(LDM p366)(TOB p332)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sand Silhouette<!--/AltName-->
 
 
 
@@ -61742,7 +63502,9 @@ SubItems:
 
 
 
-    Source: (LDM p366)
+    Source: (LDM p366)(TOB p332)
+
+    AltName: Sand Silhouette
 
     Type: Mort-vivant
 
@@ -61771,7 +63533,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sorcelueur
-  Source: (LDM p367)
+  Source: (LDM p367)(TOB p409)
+  AltName: Witchlight
   Type: Créature artificielle
   Size: TP
   Alignment: neutre
@@ -61799,7 +63562,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p367)<!--/Source-->
+      - Source: <!--Source-->(LDM p367)(TOB p409)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Witchlight<!--/AltName-->
 
 
 
@@ -61895,7 +63662,9 @@ SubItems:
 
 
 
-    Source: (LDM p367)
+    Source: (LDM p367)(TOB p409)
+
+    AltName: Witchlight
 
     Type: Créature artificielle
 
@@ -61924,7 +63693,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sorcière De L'Écheveau
-  Source: (LDM p368)
+  Source: (LDM p368)(TOB p349)
+  AltName: Skein Witch
   Type: Céleste
   Size: M
   Alignment: neutre
@@ -61953,7 +63723,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p368)<!--/Source-->
+      - Source: <!--Source-->(LDM p368)(TOB p349)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Skein Witch<!--/AltName-->
 
 
 
@@ -62071,7 +63845,9 @@ SubItems:
 
 
 
-    Source: (LDM p368)
+    Source: (LDM p368)(TOB p349)
+
+    AltName: Skein Witch
 
     Type: Céleste
 
@@ -62102,7 +63878,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Gypsosphinx
-  Source: (LDM p369)
+  Source: (LDM p369)(TOB p359)
+  AltName: Gypsosphinx
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
@@ -62131,7 +63908,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p369)<!--/Source-->
+      - Source: <!--Source-->(LDM p369)(TOB p359)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gypsosphinx<!--/AltName-->
 
 
 
@@ -62315,7 +64096,9 @@ SubItems:
 
 
 
-    Source: (LDM p369)
+    Source: (LDM p369)(TOB p359)
+
+    AltName: Gypsosphinx
 
     Type: Créature monstrueuse
 
@@ -62346,7 +64129,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Squelette De Troll Des Lianes
-  Source: (LDM p371)
+  Source: (LDM p371)(TOB p351)
+  AltName: Vine Troll Skeleton
   Type: Plante
   Size: G
   Alignment: non-alignée
@@ -62375,7 +64159,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p371)<!--/Source-->
+      - Source: <!--Source-->(LDM p371)(TOB p351)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vine Troll Skeleton<!--/AltName-->
 
 
 
@@ -62469,7 +64257,9 @@ SubItems:
 
 
 
-    Source: (LDM p371)
+    Source: (LDM p371)(TOB p351)
+
+    AltName: Vine Troll Skeleton
 
     Type: Plante
 
@@ -62500,7 +64290,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Squelette En Mâchoires De Requin
-  Source: (LDM p372)
+  Source: (LDM p372)(TOB p350)
+  AltName: Sharkjaw Skeleton
   Type: Mort-vivant
   Size: G
   Alignment: loyal mauvais
@@ -62529,7 +64320,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p372)<!--/Source-->
+      - Source: <!--Source-->(LDM p372)(TOB p350)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sharkjaw Skeleton<!--/AltName-->
 
 
 
@@ -62617,7 +64412,9 @@ SubItems:
 
 
 
-    Source: (LDM p372)
+    Source: (LDM p372)(TOB p350)
+
+    AltName: Sharkjaw Skeleton
 
     Type: Mort-vivant
 
@@ -62648,7 +64445,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Stryx
-  Source: (LDM p373)
+  Source: (LDM p373)(TOB p369)
+  AltName: Stryx
   Type: Créature monstrueuse
   Size: TP
   Alignment: neutre
@@ -62674,7 +64472,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p373)<!--/Source-->
+      - Source: <!--Source-->(LDM p373)(TOB p369)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Stryx<!--/AltName-->
 
 
 
@@ -62780,7 +64582,9 @@ SubItems:
 
 
 
-    Source: (LDM p373)
+    Source: (LDM p373)(TOB p369)
+
+    AltName: Stryx
 
     Type: Créature monstrueuse
 
@@ -62805,7 +64609,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Stuhac
-  Source: (LDM p374)
+  Source: (LDM p374)(TOB p370)
+  AltName: Stuhac
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -62835,7 +64640,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p374)<!--/Source-->
+      - Source: <!--Source-->(LDM p374)(TOB p370)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Stuhac<!--/AltName-->
 
 
 
@@ -62951,7 +64760,9 @@ SubItems:
 
 
 
-    Source: (LDM p374)
+    Source: (LDM p374)(TOB p370)
+
+    AltName: Stuhac
 
     Type: Fiélon
 
@@ -62984,7 +64795,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Subek
-  Source: (LDM p375)
+  Source: (LDM p375)(TOB p371)
+  AltName: Subek
   Type: Humanoïde
   Size: G
   Alignment: loyal neutre
@@ -63010,7 +64822,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p375)<!--/Source-->
+      - Source: <!--Source-->(LDM p375)(TOB p371)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Subek<!--/AltName-->
 
 
 
@@ -63110,7 +64926,9 @@ SubItems:
 
 
 
-    Source: (LDM p375)
+    Source: (LDM p375)(TOB p371)
+
+    AltName: Subek
 
     Type: Humanoïde
 
@@ -63135,7 +64953,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Suffragan Cœur-De-Vers
-  Source: (LDM p376)
+  Source: (LDM p376)(TOB p410)
+  AltName: Wormhearted Suffragan
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -63163,7 +64982,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p376)<!--/Source-->
+      - Source: <!--Source-->(LDM p376)(TOB p410)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wormhearted Suffragan<!--/AltName-->
 
 
 
@@ -63271,7 +65094,9 @@ SubItems:
 
 
 
-    Source: (LDM p376)
+    Source: (LDM p376)(TOB p410)
+
+    AltName: Wormhearted Suffragan
 
     Type: Mort-vivant
 
@@ -63300,7 +65125,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sutureuse
-  Source: (LDM p377)
+  Source: (LDM p377)(TOB p372)
+  AltName: Suturefly
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -63326,7 +65152,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p377)<!--/Source-->
+      - Source: <!--Source-->(LDM p377)(TOB p372)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Suturefly<!--/AltName-->
 
 
 
@@ -63402,7 +65232,9 @@ SubItems:
 
 
 
-    Source: (LDM p377)
+    Source: (LDM p377)(TOB p372)
+
+    AltName: Suturefly
 
     Type: Bête
 
@@ -63427,7 +65259,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Sylvanien Pleureur
-  Source: (LDM p378)
+  Source: (LDM p378)(TOB p388)
+  AltName: Weeping Treant
   Type: Plante
   Size: TG
   Alignment: neutre
@@ -63454,7 +65287,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p378)<!--/Source-->
+      - Source: <!--Source-->(LDM p378)(TOB p388)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Weeping Treant<!--/AltName-->
 
 
 
@@ -63552,7 +65389,9 @@ SubItems:
 
 
 
-    Source: (LDM p378)
+    Source: (LDM p378)(TOB p388)
+
+    AltName: Weeping Treant
 
     Type: Plante
 
@@ -63579,7 +65418,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Templier Mécaforgé
-  Source: (LDM p379)
+  Source: (LDM p379)(TOB p210)
+  AltName: Gearforged Templar
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -63608,7 +65448,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p379)<!--/Source-->
+      - Source: <!--Source-->(LDM p379)(TOB p210)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gearforged Templar<!--/AltName-->
 
 
 
@@ -63726,7 +65570,9 @@ SubItems:
 
 
 
-    Source: (LDM p379)
+    Source: (LDM p379)(TOB p210)
+
+    AltName: Gearforged Templar
 
     Type: Humanoïde
 
@@ -63757,7 +65603,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Thuellai
-  Source: (LDM p380)
+  Source: (LDM p380)(TOB p379)
+  AltName: Thuellai
   Type: Élémentaire
   Size: TG
   Alignment: chaotique neutre
@@ -63788,7 +65635,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p380)<!--/Source-->
+      - Source: <!--Source-->(LDM p380)(TOB p379)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Thuellai<!--/AltName-->
 
 
 
@@ -63940,7 +65791,9 @@ SubItems:
 
 
 
-    Source: (LDM p380)
+    Source: (LDM p380)(TOB p379)
+
+    AltName: Thuellai
 
     Type: Élémentaire
 
@@ -63975,7 +65828,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Titan Antique
-  Source: (LDM p381)
+  Source: (LDM p381)(TOB p380)
+  AltName: Ancient Titan
   Type: Céleste
   Size: Gig
   Alignment: neutre bon
@@ -64003,7 +65857,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p381)<!--/Source-->
+      - Source: <!--Source-->(LDM p381)(TOB p380)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ancient Titan<!--/AltName-->
 
 
 
@@ -64117,7 +65975,9 @@ SubItems:
 
 
 
-    Source: (LDM p381)
+    Source: (LDM p381)(TOB p380)
+
+    AltName: Ancient Titan
 
     Type: Céleste
 
@@ -64146,7 +66006,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Titan Dégénéré
-  Source: (LDM p382)
+  Source: (LDM p382)(TOB p381)
+  AltName: Degenerate Titan
   Type: Géant
   Size: TG
   Alignment: chaotique mauvais
@@ -64172,7 +66033,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p382)<!--/Source-->
+      - Source: <!--Source-->(LDM p382)(TOB p381)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Degenerate Titan<!--/AltName-->
 
 
 
@@ -64266,7 +66131,9 @@ SubItems:
 
 
 
-    Source: (LDM p382)
+    Source: (LDM p382)(TOB p381)
+
+    AltName: Degenerate Titan
 
     Type: Géant
 
@@ -64291,7 +66158,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Titanoboa
-  Source: (LDM p383)
+  Source: (LDM p383)(TOB p382)
+  AltName: Titanoboa
   Type: Bête
   Size: Gig
   Alignment: non alignée
@@ -64318,7 +66186,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p383)<!--/Source-->
+      - Source: <!--Source-->(LDM p383)(TOB p382)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Titanoboa<!--/AltName-->
 
 
 
@@ -64410,7 +66282,9 @@ SubItems:
 
 
 
-    Source: (LDM p383)
+    Source: (LDM p383)(TOB p382)
+
+    AltName: Titanoboa
 
     Type: Bête
 
@@ -64437,7 +66311,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Tophet
-  Source: (LDM p384)
+  Source: (LDM p384)(TOB p383)
+  AltName: Tophet
   Type: Créature artificielle
   Size: TG
   Alignment: neutre mauvaise
@@ -64467,7 +66342,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p384)<!--/Source-->
+      - Source: <!--Source-->(LDM p384)(TOB p383)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tophet<!--/AltName-->
 
 
 
@@ -64571,7 +66450,9 @@ SubItems:
 
 
 
-    Source: (LDM p384)
+    Source: (LDM p384)(TOB p383)
+
+    AltName: Tophet
 
     Type: Créature artificielle
 
@@ -64604,7 +66485,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Reine Du Nid Tosculie
-  Source: (LDM p386)
+  Source: (LDM p386)(TOB p385)
+  AltName: Tosculi Hive-Queen
   Type: Créature monstrueuse
   Size: G
   Alignment: loyale mauvaise
@@ -64633,7 +66515,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p386)<!--/Source-->
+      - Source: <!--Source-->(LDM p386)(TOB p385)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tosculi Hive-Queen<!--/AltName-->
 
 
 
@@ -64775,7 +66661,9 @@ SubItems:
 
 
 
-    Source: (LDM p386)
+    Source: (LDM p386)(TOB p385)
+
+    AltName: Tosculi Hive-Queen
 
     Type: Créature monstrueuse
 
@@ -64887,7 +66775,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Archer-Pillard D'Élite Tosculi
-  Source: (LDM p387)
+  Source: (LDM p387)(TOB p386)
+  AltName: Tosculi Elite Bow Raider
   Type: Humanoïde (tosculi)
   Size: M
   Alignment: loyal mauvais
@@ -64913,7 +66802,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p387)<!--/Source-->
+      - Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tosculi Elite Bow Raider<!--/AltName-->
 
 
 
@@ -65013,7 +66906,9 @@ SubItems:
 
 
 
-    Source: (LDM p387)
+    Source: (LDM p387)(TOB p386)
+
+    AltName: Tosculi Elite Bow Raider
 
     Type: Humanoïde (tosculi)
 
@@ -65038,7 +66933,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Combattant Tosculi
-  Source: (LDM p387)
+  Source: (LDM p387)(TOB p386)
+  AltName: Tosculi Warrior
   Type: Créature monstrueuse
   Size: P
   Alignment: loyale mauvaise
@@ -65063,7 +66959,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p387)<!--/Source-->
+      - Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tosculi Warrior<!--/AltName-->
 
 
 
@@ -65153,7 +67053,9 @@ SubItems:
 
 
 
-    Source: (LDM p387)
+    Source: (LDM p387)(TOB p386)
+
+    AltName: Tosculi Warrior
 
     Type: Créature monstrueuse
 
@@ -65176,7 +67078,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Faux-Bourdon Tosculi
-  Source: (LDM p387)
+  Source: (LDM p387)(TOB p386)
+  AltName: Tosculi Drone
   Type: Créature monstrueuse
   Size: P
   Alignment: loyale mauvaise
@@ -65201,7 +67104,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p387)<!--/Source-->
+      - Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Tosculi Drone<!--/AltName-->
 
 
 
@@ -65279,7 +67186,9 @@ SubItems:
 
 
 
-    Source: (LDM p387)
+    Source: (LDM p387)(TOB p386)
+
+    AltName: Tosculi Drone
 
     Type: Créature monstrueuse
 
@@ -65302,7 +67211,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Troll Lacustre
-  Source: (LDM p388)
+  Source: (LDM p388)(TOB p389)
+  AltName: Lake Troll
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
@@ -65328,7 +67238,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p388)<!--/Source-->
+      - Source: <!--Source-->(LDM p388)(TOB p389)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Lake Troll<!--/AltName-->
 
 
 
@@ -65422,7 +67336,9 @@ SubItems:
 
 
 
-    Source: (LDM p388)
+    Source: (LDM p388)(TOB p389)
+
+    AltName: Lake Troll
 
     Type: Géant
 
@@ -65619,7 +67535,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Uraeus
-  Source: (LDM p390)
+  Source: (LDM p390)(TOB p392)
+  AltName: Uraeus
   Type: Céleste
   Size: TP
   Alignment: loyal neutre
@@ -65648,7 +67565,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p390)<!--/Source-->
+      - Source: <!--Source-->(LDM p390)(TOB p392)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Uraeus<!--/AltName-->
 
 
 
@@ -65754,7 +67675,9 @@ SubItems:
 
 
 
-    Source: (LDM p390)
+    Source: (LDM p390)(TOB p392)
+
+    AltName: Uraeus
 
     Type: Céleste
 
@@ -65785,7 +67708,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Urochar (Guetteur Étrangleur)
-  Source: (LDM p391)
+  Source: (LDM p391)(TOB p393)
+  AltName: Urochar (Strangling Watcher)
   Type: Aberration
   Size: TG
   Alignment: chaotique mauvaise
@@ -65815,7 +67739,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p391)<!--/Source-->
+      - Source: <!--Source-->(LDM p391)(TOB p393)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Urochar (Strangling Watcher)<!--/AltName-->
 
 
 
@@ -65979,7 +67907,9 @@ SubItems:
 
 
 
-    Source: (LDM p391)
+    Source: (LDM p391)(TOB p393)
+
+    AltName: Urochar (Strangling Watcher)
 
     Type: Aberration
 
@@ -66012,7 +67942,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ushabti
-  Source: (LDM p392)
+  Source: (LDM p392)(TOB p394)
+  AltName: Ushabti
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
@@ -66041,7 +67972,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p392)<!--/Source-->
+      - Source: <!--Source-->(LDM p392)(TOB p394)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ushabti<!--/AltName-->
 
 
 
@@ -66159,7 +68094,9 @@ SubItems:
 
 
 
-    Source: (LDM p392)
+    Source: (LDM p392)(TOB p394)
+
+    AltName: Ushabti
 
     Type: Créature artificielle
 
@@ -66190,7 +68127,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vættir
-  Source: (LDM p393)
+  Source: (LDM p393)(TOP p395)
+  AltName: Vættir
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -66218,7 +68156,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p393)<!--/Source-->
+      - Source: <!--Source-->(LDM p393)(TOP p395)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vættir<!--/AltName-->
 
 
 
@@ -66356,7 +68298,9 @@ SubItems:
 
 
 
-    Source: (LDM p393)
+    Source: (LDM p393)(TOP p395)
+
+    AltName: Vættir
 
     Type: Mort-vivant
 
@@ -66385,7 +68329,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vagabond Éonique
-  Source: (LDM p394)
+  Source: (LDM p394)(TOB p177)
+  AltName: Eonic Drifter
   Type: Humanoïde (humain)
   Size: M
   Alignment: chaotique neutre
@@ -66411,7 +68356,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p394)<!--/Source-->
+      - Source: <!--Source-->(LDM p394)(TOB p177)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Eonic Drifter<!--/AltName-->
 
 
 
@@ -66493,7 +68442,9 @@ SubItems:
 
 
 
-    Source: (LDM p394)
+    Source: (LDM p394)(TOB p177)
+
+    AltName: Eonic Drifter
 
     Type: Humanoïde (humain)
 
@@ -66518,7 +68469,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Valkyrie
-  Source: (LDM p395)
+  Source: (LDM p395)(TOB p396)
+  AltName: Valkyrie
   Type: Céleste
   Size: M
   Alignment: neutre
@@ -66548,7 +68500,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p395)<!--/Source-->
+      - Source: <!--Source-->(LDM p395)(TOB p396)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Valkyrie<!--/AltName-->
 
 
 
@@ -66712,7 +68668,9 @@ SubItems:
 
 
 
-    Source: (LDM p395)
+    Source: (LDM p395)(TOB p396)
+
+    AltName: Valkyrie
 
     Type: Céleste
 
@@ -66745,7 +68703,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vampire Umbral
-  Source: (LDM p396)
+  Source: (LDM p396)(TOB p397)
+  AltName: Umbral Vampire
   Type: Fiélon
   Size: M
   Alignment: chaotique mauvais
@@ -66775,7 +68734,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p396)<!--/Source-->
+      - Source: <!--Source-->(LDM p396)(TOB p397)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Umbral Vampire<!--/AltName-->
 
 
 
@@ -66897,7 +68860,9 @@ SubItems:
 
 
 
-    Source: (LDM p396)
+    Source: (LDM p396)(TOB p397)
+
+    AltName: Umbral Vampire
 
     Type: Fiélon
 
@@ -66930,7 +68895,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vase Corruptrice
-  Source: (LDM p397)
+  Source: (LDM p397)(TOB p311)
+  AltName: Corrupting Ooze
   Type: Vase
   Size: G
   Alignment: neutre mauvaise
@@ -66959,7 +68925,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p397)<!--/Source-->
+      - Source: <!--Source-->(LDM p397)(TOB p311)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Corrupting Ooze<!--/AltName-->
 
 
 
@@ -67047,7 +69017,9 @@ SubItems:
 
 
 
-    Source: (LDM p397)
+    Source: (LDM p397)(TOB p311)
+
+    AltName: Corrupting Ooze
 
     Type: Vase
 
@@ -67078,7 +69050,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vent Putréfacteur
-  Source: (LDM p398)
+  Source: (LDM p398)(TOB p330)
+  AltName: Rotting Wind
   Type: Mort-vivant
   Size: G
   Alignment: neutre mauvais
@@ -67106,7 +69079,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p398)<!--/Source-->
+      - Source: <!--Source-->(LDM p398)(TOB p330)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rotting Wind<!--/AltName-->
 
 
 
@@ -67196,7 +69173,9 @@ SubItems:
 
 
 
-    Source: (LDM p398)
+    Source: (LDM p398)(TOB p330)
+
+    AltName: Rotting Wind
 
     Type: Mort-vivant
 
@@ -67225,7 +69204,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ver Givré Adulte
-  Source: (LDM p399)
+  Source: (LDM p399)(TOB p327)
+  AltName: Adult Rime Worm
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -67252,7 +69232,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p399)<!--/Source-->
+      - Source: <!--Source-->(LDM p399)(TOB p327)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Adult Rime Worm<!--/AltName-->
 
 
 
@@ -67350,7 +69334,9 @@ SubItems:
 
 
 
-    Source: (LDM p399)
+    Source: (LDM p399)(TOB p327)
+
+    AltName: Adult Rime Worm
 
     Type: Élémentaire
 
@@ -67377,7 +69363,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Larve De Ver Givré
-  Source: (LDM p399)
+  Source: (LDM p399)(TOB p327)
+  AltName: Rime Worm Grub
   Type: Élémentaire
   Size: M
   Alignment: neutre
@@ -67404,7 +69391,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p399)<!--/Source-->
+      - Source: <!--Source-->(LDM p399)(TOB p327)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Rime Worm Grub<!--/AltName-->
 
 
 
@@ -67496,7 +69487,9 @@ SubItems:
 
 
 
-    Source: (LDM p399)
+    Source: (LDM p399)(TOB p327)
+
+    AltName: Rime Worm Grub
 
     Type: Élémentaire
 
@@ -67688,7 +69681,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ver Sathaq
-  Source: (LDM p401)
+  Source: (LDM p401)(TOB p337)
+  AltName: Sathaq Worm
   Type: Élémentaire
   Size: TG
   Alignment: neutre mauvais
@@ -67718,7 +69712,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p401)<!--/Source-->
+      - Source: <!--Source-->(LDM p401)(TOB p337)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sathaq Worm<!--/AltName-->
 
 
 
@@ -67816,7 +69814,9 @@ SubItems:
 
 
 
-    Source: (LDM p401)
+    Source: (LDM p401)(TOB p337)
+
+    AltName: Sathaq Worm
 
     Type: Élémentaire
 
@@ -67849,7 +69849,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Verminhantée
-  Source: (LDM p402)
+  Source: (LDM p402)(TOB p352)
+  AltName: Skitterhaunt
   Type: Vase
   Size: G
   Alignment: non-alignée
@@ -67876,7 +69877,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p402)<!--/Source-->
+      - Source: <!--Source-->(LDM p402)(TOB p352)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Skitterhaunt<!--/AltName-->
 
 
 
@@ -67974,7 +69979,9 @@ SubItems:
 
 
 
-    Source: (LDM p402)
+    Source: (LDM p402)(TOB p352)
+
+    AltName: Skitterhaunt
 
     Type: Vase
 
@@ -68001,7 +70008,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vésiculose
-  Source: (LDM p403)
+  Source: (LDM p403)(TOB p399)
+  AltName: Vesiculosa
   Type: Plante
   Size: Gig
   Alignment: non alignée
@@ -68029,7 +70037,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p403)<!--/Source-->
+      - Source: <!--Source-->(LDM p403)(TOB p399)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vesiculosa<!--/AltName-->
 
 
 
@@ -68147,7 +70159,9 @@ SubItems:
 
 
 
-    Source: (LDM p403)
+    Source: (LDM p403)(TOB p399)
+
+    AltName: Vesiculosa
 
     Type: Plante
 
@@ -68176,7 +70190,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vidien
-  Source: (LDM p404)
+  Source: (LDM p404)(TOB p404)
+  AltName: Voidling
   Type: Aberration
   Size: G
   Alignment: chaotique mauvaise
@@ -68205,7 +70220,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p404)<!--/Source-->
+      - Source: <!--Source-->(LDM p404)(TOB p404)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Voidling<!--/AltName-->
 
 
 
@@ -68335,7 +70354,9 @@ SubItems:
 
 
 
-    Source: (LDM p404)
+    Source: (LDM p404)(TOB p404)
+
+    AltName: Voidling
 
     Type: Aberration
 
@@ -68366,7 +70387,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vif Ravageur Gnoll
-  Source: (LDM p405)
+  Source: (LDM p405)(TOB p230)
+  AltName: Gnoll Havoc Runner
   Type: Humanoïde (gnoll)
   Size: M
   Alignment: chaotique mauvais
@@ -68392,7 +70414,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p405)<!--/Source-->
+      - Source: <!--Source-->(LDM p405)(TOB p230)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Gnoll Havoc Runner<!--/AltName-->
 
 
 
@@ -68486,7 +70512,9 @@ SubItems:
 
 
 
-    Source: (LDM p405)
+    Source: (LDM p405)(TOB p230)
+
+    AltName: Gnoll Havoc Runner
 
     Type: Humanoïde (gnoll)
 
@@ -68511,7 +70539,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vil Barbier
-  Source: (LDM p406)
+  Source: (LDM p406)(TOB p401)
+  AltName: Vile Barber
   Type: Fée
   Size: P
   Alignment: chaotique mauvaise
@@ -68539,7 +70568,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p406)<!--/Source-->
+      - Source: <!--Source-->(LDM p406)(TOB p401)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vile Barber<!--/AltName-->
 
 
 
@@ -68659,7 +70692,9 @@ SubItems:
 
 
 
-    Source: (LDM p406)
+    Source: (LDM p406)(TOB p401)
+
+    AltName: Vile Barber
 
     Type: Fée
 
@@ -68688,7 +70723,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Vila
-  Source: (LDM p407)
+  Source: (LDM p407)(TOB p400)
+  AltName: Vila
   Type: Fée
   Size: M
   Alignment: loyale neutre
@@ -68716,7 +70752,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p407)<!--/Source-->
+      - Source: <!--Source-->(LDM p407)(TOB p400)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Vila<!--/AltName-->
 
 
 
@@ -68848,7 +70888,9 @@ SubItems:
 
 
 
-    Source: (LDM p407)
+    Source: (LDM p407)(TOB p400)
+
+    AltName: Vila
 
     Type: Fée
 
@@ -68877,7 +70919,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Voile-De-Givre
-  Source: (LDM p408)
+  Source: (LDM p408)(TOB p207)
+  AltName: Frostveil
   Type: Plante
   Size: M
   Alignment: non-alignée
@@ -68907,7 +70950,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p408)<!--/Source-->
+      - Source: <!--Source-->(LDM p408)(TOB p207)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Frostveil<!--/AltName-->
 
 
 
@@ -69023,7 +71070,9 @@ SubItems:
 
 
 
-    Source: (LDM p408)
+    Source: (LDM p408)(TOB p207)
+
+    AltName: Frostveil
 
     Type: Plante
 
@@ -69056,7 +71105,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Wampus Féline
-  Source: (LDM p409)
+  Source: (LDM p409)(TOB p405)
+  AltName: Wampus Cat
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
@@ -69082,7 +71132,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p409)<!--/Source-->
+      - Source: <!--Source-->(LDM p409)(TOB p405)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wampus Cat<!--/AltName-->
 
 
 
@@ -69182,7 +71236,9 @@ SubItems:
 
 
 
-    Source: (LDM p409)
+    Source: (LDM p409)(TOB p405)
+
+    AltName: Wampus Cat
 
     Type: Créature monstrueuse
 
@@ -69207,7 +71263,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Wyrm Des Sables
-  Source: (LDM p410)
+  Source: (LDM p410)(TOB p334)
+  AltName: Sandwyrm
   Type: Dragon
   Size: G
   Alignment: non-aligné
@@ -69232,7 +71289,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p410)<!--/Source-->
+      - Source: <!--Source-->(LDM p410)(TOB p334)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Sandwyrm<!--/AltName-->
 
 
 
@@ -69316,7 +71377,9 @@ SubItems:
 
 
 
-    Source: (LDM p410)
+    Source: (LDM p410)(TOB p334)
+
+    AltName: Sandwyrm
 
     Type: Dragon
 
@@ -69339,7 +71402,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Xanka
-  Source: (LDM p411)
+  Source: (LDM p411)(TOB p411)
+  AltName: Xanka
   Type: Créature artificielle
   Size: P
   Alignment: non alignée
@@ -69365,7 +71429,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p411)<!--/Source-->
+      - Source: <!--Source-->(LDM p411)(TOB p411)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Xanka<!--/AltName-->
 
 
 
@@ -69441,7 +71509,9 @@ SubItems:
 
 
 
-    Source: (LDM p411)
+    Source: (LDM p411)(TOB p411)
+
+    AltName: Xanka
 
     Type: Créature artificielle
 
@@ -69466,7 +71536,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Xhkarsh
-  Source: (LDM p412)
+  Source: (LDM p412)(TOB p412)
+  AltName: Xhkarsh
   Type: Aberration
   Size: G
   Alignment: neutre mauvaise
@@ -69493,7 +71564,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p412)<!--/Source-->
+      - Source: <!--Source-->(LDM p412)(TOB p412)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Xhkarsh<!--/AltName-->
 
 
 
@@ -69585,7 +71660,9 @@ SubItems:
 
 
 
-    Source: (LDM p412)
+    Source: (LDM p412)(TOB p412)
+
+    AltName: Xhkarsh
 
     Type: Aberration
 
@@ -69612,7 +71689,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Ychen Bannog
-  Source: (LDM p413)
+  Source: (LDM p413)(TOB p413)
+  AltName: Ychen Bannog
   Type: Bête
   Size: Gig
   Alignment: non alignée
@@ -69639,7 +71717,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p413)<!--/Source-->
+      - Source: <!--Source-->(LDM p413)(TOB p413)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ychen Bannog<!--/AltName-->
 
 
 
@@ -69743,7 +71825,9 @@ SubItems:
 
 
 
-    Source: (LDM p413)
+    Source: (LDM p413)(TOB p413)
+
+    AltName: Ychen Bannog
 
     Type: Bête
 
@@ -69770,7 +71854,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Zaratan
-  Source: (LDM p414)
+  Source: (LDM p414)(TOB p414)
+  AltName: Zaratan
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: non alignée
@@ -69799,7 +71884,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p414)<!--/Source-->
+      - Source: <!--Source-->(LDM p414)(TOB p414)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Zaratan<!--/AltName-->
 
 
 
@@ -69941,7 +72030,9 @@ SubItems:
 
 
 
-    Source: (LDM p414)
+    Source: (LDM p414)(TOB p414)
+
+    AltName: Zaratan
 
     Type: Créature monstrueuse (titan)
 
@@ -69972,7 +72063,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Zimwi
-  Source: (LDM p415)
+  Source: (LDM p415)(TOB p415)
+  AltName: Zimwi
   Type: Géant
   Size: M
   Alignment: chaotique mauvais
@@ -69998,7 +72090,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p415)<!--/Source-->
+      - Source: <!--Source-->(LDM p415)(TOB p415)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Zimwi<!--/AltName-->
 
 
 
@@ -70074,7 +72170,9 @@ SubItems:
 
 
 
-    Source: (LDM p415)
+    Source: (LDM p415)(TOB p415)
+
+    AltName: Zimwi
 
     Type: Géant
 
@@ -70099,7 +72197,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Zmey
-  Source: (LDM p416)
+  Source: (LDM p416)(TOB p416)
+  AltName: Zmey
   Type: Dragon
   Size: TG
   Alignment: chaotique mauvais
@@ -70128,7 +72227,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p416)<!--/Source-->
+      - Source: <!--Source-->(LDM p416)(TOB p416)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Zmey<!--/AltName-->
 
 
 
@@ -70294,7 +72397,9 @@ SubItems:
 
 
 
-    Source: (LDM p416)
+    Source: (LDM p416)(TOB p416)
+
+    AltName: Zmey
 
     Type: Dragon
 
@@ -70325,7 +72430,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Bébécéphale De Zmey
-  Source: (LDM p416)
+  Source: (LDM p416)(TOB p416)
+  AltName: Zmey Headling
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
@@ -70352,7 +72458,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p416)<!--/Source-->
+      - Source: <!--Source-->(LDM p416)(TOB p416)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Zmey Headling<!--/AltName-->
 
 
 
@@ -70450,7 +72560,9 @@ SubItems:
 
 
 
-    Source: (LDM p416)
+    Source: (LDM p416)(TOB p416)
+
+    AltName: Zmey Headling
 
     Type: Dragon
 
@@ -70477,7 +72589,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Archer Vétéran Elfique
-  Source: (LDM p418)
+  Source: (LDM p418)(TOB p422)
+  AltName: Elvish Veteran Archer
   Type: Humanoïde (elfe)
   Size: M
   Alignment: chaotique bon ou chaotique neutre
@@ -70503,7 +72616,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p418)<!--/Source-->
+      - Source: <!--Source-->(LDM p418)(TOB p422)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Elvish Veteran Archer<!--/AltName-->
 
 
 
@@ -70621,7 +72738,9 @@ SubItems:
 
 
 
-    Source: (LDM p418)
+    Source: (LDM p418)(TOB p422)
+
+    AltName: Elvish Veteran Archer
 
     Type: Humanoïde (elfe)
 
@@ -70646,7 +72765,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Capitaine Du Guet
-  Source: (LDM p418)
+  Source: (LDM p418)(TOB p419)
+  AltName: City Watch Captain
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -70672,7 +72792,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p418)<!--/Source-->
+      - Source: <!--Source-->(LDM p418)(TOB p419)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->City Watch Captain<!--/AltName-->
 
 
 
@@ -70772,7 +72896,9 @@ SubItems:
 
 
 
-    Source: (LDM p418)
+    Source: (LDM p418)(TOB p419)
+
+    AltName: City Watch Captain
 
     Type: Humanoïde
 
@@ -70797,7 +72923,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chef Du Culte De L'Ordre D'Émeraude
-  Source: (LDM p419)
+  Source: (LDM p419)(TOB p421)
+  AltName: Emerald Order Cult Leader
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -70825,7 +72952,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p419)<!--/Source-->
+      - Source: <!--Source-->(LDM p419)(TOB p421)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Emerald Order Cult Leader<!--/AltName-->
 
 
 
@@ -70981,7 +73112,9 @@ SubItems:
 
 
 
-    Source: (LDM p419)
+    Source: (LDM p419)(TOB p421)
+
+    AltName: Emerald Order Cult Leader
 
     Type: Humanoïde
 
@@ -71010,7 +73143,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chef Ogre Corrompu
-  Source: (LDM p420)
+  Source: (LDM p420)(TOB p423)
+  AltName: Ogre Chieftain, Corrupted
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
@@ -71036,7 +73170,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p420)<!--/Source-->
+      - Source: <!--Source-->(LDM p420)(TOB p423)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ogre Chieftain, Corrupted<!--/AltName-->
 
 
 
@@ -71160,7 +73298,9 @@ SubItems:
 
 
 
-    Source: (LDM p420)
+    Source: (LDM p420)(TOB p423)
+
+    AltName: Ogre Chieftain, Corrupted
 
     Type: Géant
 
@@ -71185,7 +73325,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Chevalier Fantôme
-  Source: (LDM p421)
+  Source: (LDM p421)(TOB p423)
+  AltName: Ghost Knight
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -71214,7 +73355,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p421)<!--/Source-->
+      - Source: <!--Source-->(LDM p421)(TOB p423)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Ghost Knight<!--/AltName-->
 
 
 
@@ -71338,7 +73483,9 @@ SubItems:
 
 
 
-    Source: (LDM p421)
+    Source: (LDM p421)(TOB p423)
+
+    AltName: Ghost Knight
 
     Type: Mort-vivant
 
@@ -71369,7 +73516,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Commandant Des Chevaliers Noirs
-  Source: (LDM p422)
+  Source: (LDM p422)(TOB p418)
+  AltName: Black Knight Commander
   Type: Humanoïde
   Size: M
   Alignment: loyal mauvais
@@ -71396,7 +73544,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p422)<!--/Source-->
+      - Source: <!--Source-->(LDM p422)(TOB p418)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Black Knight Commander<!--/AltName-->
 
 
 
@@ -71500,7 +73652,9 @@ SubItems:
 
 
 
-    Source: (LDM p422)
+    Source: (LDM p422)(TOB p418)
+
+    AltName: Black Knight Commander
 
     Type: Humanoïde
 
@@ -71527,7 +73681,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Fanatique Du Scorpion
-  Source: (LDM p422)
+  Source: (LDM p422)(TOB p425)
+  AltName: Scorpion Cultist
   Type: Humanoïde
   Size: M
   Alignment: neutre
@@ -71554,7 +73709,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p422)<!--/Source-->
+      - Source: <!--Source-->(LDM p422)(TOB p425)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Scorpion Cultist<!--/AltName-->
 
 
 
@@ -71640,7 +73799,9 @@ SubItems:
 
 
 
-    Source: (LDM p422)
+    Source: (LDM p422)(TOB p425)
+
+    AltName: Scorpion Cultist
 
     Type: Humanoïde
 
@@ -71667,7 +73828,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Mage Des Anneaux Nains
-  Source: (LDM p423)
+  Source: (LDM p423)(TOB p420)
+  AltName: Dwarven Ringmage
   Type: Humanoïde
   Size: M
   Alignment: au choix
@@ -71695,7 +73857,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p423)<!--/Source-->
+      - Source: <!--Source-->(LDM p423)(TOB p420)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Dwarven Ringmage<!--/AltName-->
 
 
 
@@ -71833,7 +73999,9 @@ SubItems:
 
 
 
-    Source: (LDM p423)
+    Source: (LDM p423)(TOB p420)
+
+    AltName: Dwarven Ringmage
 
     Type: Humanoïde
 
@@ -71862,7 +74030,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Nain Loup Ravageur
-  Source: (LDM p424)
+  Source: (LDM p424)(TOB p426)
+  AltName: Wolf Reaver Dwarf
   Type: Humanoïde
   Size: M
   Alignment: chaotique
@@ -71888,7 +74057,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p424)<!--/Source-->
+      - Source: <!--Source-->(LDM p424)(TOB p426)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Wolf Reaver Dwarf<!--/AltName-->
 
 
 
@@ -71994,7 +74167,9 @@ SubItems:
 
 
 
-    Source: (LDM p424)
+    Source: (LDM p424)(TOB p426)
+
+    AltName: Wolf Reaver Dwarf
 
     Type: Humanoïde
 
@@ -72019,7 +74194,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Prince Gnome Asservi Aux Démons
-  Source: (LDM p424)
+  Source: (LDM p424)(TOB p420)
+  AltName: Devilbound Gnomish Prince
   Type: Humanoïde
   Size: P
   Alignment: mauvais
@@ -72048,7 +74224,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p424)<!--/Source-->
+      - Source: <!--Source-->(LDM p424)(TOB p420)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Devilbound Gnomish Prince<!--/AltName-->
 
 
 
@@ -72118,7 +74298,9 @@ SubItems:
 
 
 
-    Source: (LDM p424)
+    Source: (LDM p424)(TOB p420)
+
+    AltName: Devilbound Gnomish Prince
 
     Type: Humanoïde
 
@@ -72149,7 +74331,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: Seigneur Des Bandits
-  Source: (LDM p425)
+  Source: (LDM p425)(TOB p418)
+  AltName: Bandit Lord
   Type: Humanoïde
   Size: M
   Alignment: tout
@@ -72176,7 +74359,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p425)<!--/Source-->
+      - Source: <!--Source-->(LDM p425)(TOB p418)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Bandit Lord<!--/AltName-->
 
 
 
@@ -72352,7 +74539,9 @@ SubItems:
 
 
 
-    Source: (LDM p425)
+    Source: (LDM p425)(TOB p418)
+
+    AltName: Bandit Lord
 
     Type: Humanoïde
 
@@ -72379,7 +74568,8 @@ SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
   Name: 'Variante : Sorcier Vampire'
-  Source: (LDM p426)
+  Source: (LDM p426)(TOB p426)
+  AltName: 'Variant: Vampire Warlock'
   Id: tome_of_beasts.md#variante--sorcier-vampire
   ParentLink: tome_of_beasts.md#livre-des-monstres
   ParentName: Livre des monstres
@@ -72395,7 +74585,11 @@ SubItems:
 
 
 
-      - Source: <!--Source-->(LDM p426)<!--/Source-->
+      - Source: <!--Source-->(LDM p426)(TOB p426)<!--/Source-->
+
+
+
+      - TOB: <!--AltName-->Variant: Vampire Warlock<!--/AltName-->
 
 
 
@@ -72495,7 +74689,9 @@ SubItems:
 
 
 
-    Source: (LDM p426)
+    Source: (LDM p426)(TOB p426)
+
+    AltName: 'Variant: Vampire Warlock'
 
 Id: tome_of_beasts.md#livre-des-monstres
 RootId: tome_of_beasts.md
@@ -72641,7 +74837,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Ala
 
-- Source: (LDM p13)
+- Source: (LDM p11)(TOB p13)
 - TOB: Ala
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
@@ -72797,7 +74993,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Amanite Myconide
 
-- Source: (LDM p14)
+- Source: (LDM p14)(TOB p300)
+- TOB: Deathcap Myconid
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -73087,7 +75284,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Apparition Putride
 
-- Source: (LDM p22)
+- Source: (LDM p22)(TOB p315)
+- TOB: Putrid Haunt
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)
@@ -73120,7 +75318,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Araignée À Lignes Rouges
 
-- Source: (LDM p23)
+- Source: (LDM p23)(TOB p363)
+- TOB: Red-Banded Line Spider
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 2 (1d4)
@@ -73153,7 +75352,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Araignée De Leng
 
-- Source: (LDM p24)
+- Source: (LDM p24)(TOB p365)
+- TOB: Spider of Leng
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 144 (17d10+51)
@@ -73205,7 +75405,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Araignée Des Sables
 
-- Source: (LDM p25)
+- Source: (LDM p25)(TOB p364)
+- TOB: Sand Spider
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d10+28)
@@ -73242,7 +75443,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Araignée J'Ba Fofi
 
-- Source: (LDM p26)
+- Source: (LDM p26)(TOB p362)
+- TOB: J'Ba Fofi Spider
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
@@ -73276,7 +75478,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Araignée Marchespectre
 
-- Source: (LDM p27)
+- Source: (LDM p27)(TOB p361)
+- TOB: Ghostwalk Spider
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 119 (14d10+42)
@@ -73319,7 +75522,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Araignée Voleuse
 
-- Source: (LDM p28)
+- Source: (LDM p28)(TOB p366)
+- TOB: Spider Thief
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 54 (12d6+12)
@@ -73357,7 +75561,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Arbre Feuilledragon
 
-- Source: (LDM p29)
+- Source: (LDM p29)(TOB p147)
+- TOB: Dragonleaf Tree
 -  Plante de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
@@ -73391,7 +75596,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Arbre Pare-Fées
 
-- Source: (LDM p30)
+- Source: (LDM p30)(TOB p200)
+- TOB: Feyward Tree
 -  Créature artificielle de Très Grande taille (TG), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 94 (9d12+36)
@@ -73510,7 +75716,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Assoiffeur Gris
 
-- Source: (LDM p33)
+- Source: (LDM p33)(TOB p238)
+- TOB: Gray Thirster
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13
 - **Points de vie** 39 (6d8+12)
@@ -73546,7 +75753,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Automate Bibliothécaire
 
-- Source: (LDM p34)
+- Source: (LDM p34)(TOB p273)
+- TOB: Library Automaton
 -  Créature artificielle de Petite taille (P), loyale neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
@@ -73722,7 +75930,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Belle Noyée
 
-- Source: (LDM p39)
+- Source: (LDM p39)(TOB p159)
+- TOB: Drowned Maiden
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (20d8)
@@ -73796,7 +76005,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Bête D'Ombre
 
-- Source: (LDM p41)
+- Source: (LDM p41)(TOB p345)
+- TOB: Shadow Beast
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14
 - **Points de vie** 135 (18d8+54)
@@ -73914,7 +76124,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # Bondisseur Aquatique
 
-- Source: (LDM p44)
+- Source: (LDM p44)(TOB p406)
+- TOB: Water Leaper
 -  Créature monstrueuse de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 97 (13d10+26)
@@ -74092,21 +76303,14 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 **_Engloutissement vorace._** Un bouda dévore les organes d'un cadavre dans l'emplacement occupé par ce dernier. Le bouda gagne une quantité de points de vie temporaires égale au nombre de DV de la créature morte pour une durée de 1heure. Les organes qu'il a dévorés à l'aide de ce pouvoir n'existent plus et la créature ne peut être ramenée à la vie à l'aide de sorts ou d'effets magiques qui nécessitent d'avoir un cadavre à peu près intact à disposition.
 
-**1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
-
-**_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
-
-**_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
-
-**_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
-
 > [Livre des monstres](tome_of_beasts.md)
 
 ---
 
 # Bouffon Macabre
 
-- Source: (LDM p49)
+- Source: (LDM p49)(TOB p240)
+- TOB: Grim Jester
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -74130,6 +76334,14 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 **À volonté:** déguisement, graisse, blessure, bouche magique, pas brumeux
 
 **3/jour chacun:** contagion, image miroir
+
+**1/jour chacun:** boule de feu à explosion retardée, doigt de mort, tromperie, apparence trompeuse
+
+**_Dernier rire._** À moins que le bouffon macabre ne périsse d'une manière qui amuse le dieu de la mort qui l'a créé, il se relève 1d20 jours plus tard là où le dieu le décide.
+
+**_Se moquer des mourants._** Les jets de sauvegarde contre la mort effectués dans un rayon de 18 mètres autour du bouffon sont désavantagés.
+
+**_Résistance contre le renvoi._** Le bouffon est avantagé sur les jets de sauvegarde contre les effets renvoyant les morts-vivants.
 
 ## ACTIONS
 
@@ -74281,7 +76493,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Canitaupe
 
-- Source: (LDM p53)
+- Source: (LDM p53)(TOB p120)
+- TOB: Dogmole
 -  Bête de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
@@ -74313,7 +76526,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Canitaupe Juggernaut
 
-- Source: (LDM p54)
+- Source: (LDM p54)(TOB p121)
+- TOB: Dogmole Juggernaut
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure de chaînes)
 - **Points de vie** 126 (12d10+60)
@@ -74350,7 +76564,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chapeau Rouge
 
-- Source: (LDM p55)
+- Source: (LDM p55)(TOB p325)
+- TOB: Redcap
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
@@ -74518,7 +76733,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chien-Anguille
 
-- Source: (LDM p59)
+- Source: (LDM p59)(TOB p166)
+- TOB: Eel Hound
 -  Fée de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
@@ -74551,7 +76767,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chien Du Temple
 
-- Source: (LDM p60)
+- Source: (LDM p60)(TOB p378)
+- TOB: Temple Dog
 -  Céleste de taille Moyenne (M), bon
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 97 (15d8+30)
@@ -74586,7 +76803,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Chiot Mastodonte
 
-- Source: (LDM p61)
+- Source: (LDM p61)(TOB p252)
+- TOB: Hulking Whelp
 -  Fée (métamorphe) de Petite/Très Grande taille (P/TG), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 94 (9d12+36)
@@ -74695,7 +76913,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Claquepiège
 
-- Source: (LDM p64)
+- Source: (LDM p64)(TOB p229)
+- TOB: Gnarljak
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 16
 - **Points de vie** 63 (14d6+14)
@@ -74766,7 +76985,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Colonne Possédée
 
-- Source: (LDM p66)
+- Source: (LDM p66)(TOB p314)
+- TOB: Possessed Pillar
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
@@ -74852,7 +77072,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Coquicape
 
-- Source: (LDM p68)
+- Source: (LDM p68)(TOB p346)
+- TOB: Shellycoat
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -74930,7 +77151,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Crabe Garrotteur
 
-- Source: (LDM p70)
+- Source: (LDM p70)(TOB p208)
+- TOB: Garroter Crab
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 18 (4d4+8)
@@ -74997,7 +77219,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # Croco De Verre
 
-- Source: (LDM p72)
+- Source: (LDM p72)(TOB p228)
+- TOB: Glass Gator
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d10+7)
@@ -75117,7 +77340,8 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 
 # Demoiselle Glacée
 
-- Source: (LDM p75)
+- Source: (LDM p75)(TOB p254)
+- TOB: Ice Maiden
 -  Fée de taille Moyenne (M), loyale mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d8+26)
@@ -75265,7 +77489,8 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 
 # Démon De Sève
 
-- Source: (LDM p78)
+- Source: (LDM p78)(TOB p335)
+- TOB: Sap Demon
 -  Vase de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 13 (naturelle)
 - **Points de vie** 67 (15d6+15)
@@ -76058,7 +78283,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # Dévoreur D'Âmes
 
-- Source: (LDM p96)
+- Source: (LDM p96)(TOB p356)
+- TOB: Soul Eater
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16
 - **Points de vie** 104 (16d8+32)
@@ -76895,7 +79121,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Mbielu
 
-- Source: (LDM p117)
+- Source: (LDM p117)(TOB p114)
+- TOB: Mbielu
 -  Bête de Très Grande taille (TG), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
@@ -76926,7 +79153,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Ngobou
 
-- Source: (LDM p118)
+- Source: (LDM p118)(TOB p115)
+- TOB: Ngobou
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -76959,7 +79187,8 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 # Spinosaure
 
-- Source: (LDM p119)
+- Source: (LDM p119)(TOB p116)
+- TOB: Spinosaurus
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
@@ -77006,7 +79235,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Jeune Spinosaure
 
-- Source: (LDM p120)
+- Source: (LDM p120)(TOB p117)
+- TOB: Young Spinosaurus
 -  Bête de Très Grande taille (TG), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
@@ -77037,7 +79267,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Dipsa
 
-- Source: (LDM p121)
+- Source: (LDM p121)(TOB p118)
+- TOB: Dipsa
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15
 - **Points de vie** 27 (6d4+12)
@@ -77070,7 +79301,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Dissimortuum
 
-- Source: (LDM p122)
+- Source: (LDM p122)(TOB p119)
+- TOB: Dissimortuum
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
@@ -77104,7 +79336,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Domovoï
 
-- Source: (LDM p123)
+- Source: (LDM p123)(TOB p122)
+- TOB: Domovoi
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
@@ -77138,7 +79371,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Doppelrat
 
-- Source: (LDM p124)
+- Source: (LDM p124)(TOB p123)
+- TOB: Doppelrat
 -  Créature monstrueuse de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
@@ -77170,7 +79404,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Dorreq
 
-- Source: (LDM p125)
+- Source: (LDM p125)(TOB p124)
+- TOB: Dorreq
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (17d8+17)
@@ -77209,7 +79444,8 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 
 # Dragon De Flammes, Adulte
 
-- Source: (LDM p126)
+- Source: (LDM p126)(TOB p129)
+- TOB: Adult Flame Dragon
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
@@ -77264,7 +79500,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Flammes, Dragonnet
 
-- Source: (LDM p127)
+- Source: (LDM p127)(TOB p131)
+- TOB: Flame Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -77295,7 +79532,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Flammes, Jeune
 
-- Source: (LDM p128)
+- Source: (LDM p128)(TOB p130)
+- TOB: Young Flame Dragon
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (17d10+68)
@@ -77332,7 +79570,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Flammes, Vénérable
 
-- Source: (LDM p128)
+- Source: (LDM p128)(TOB p128)
+- TOB: Ancient Flame Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
@@ -77415,7 +79654,8 @@ Si le dragon meurt, les disputes et malentendus se dissipent immédiatement et l
 
 # Dragon De Mithral, Adulte
 
-- Source: (LDM p130)
+- Source: (LDM p130)(TOB p133)
+- TOB: Adult Mithral Dragon
 -  Dragon de Très Grande taille (TG), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
@@ -77482,7 +79722,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Mithral, Jeune
 
-- Source: (LDM p131)
+- Source: (LDM p131)(TOB p134)
+- TOB: Young Mithral Dragon
 -  Dragon de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 92 (16d8+20)
@@ -77523,7 +79764,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon De Mithral, Vénérable
 
-- Source: (LDM p131)
+- Source: (LDM p131)(TOB p132)
+- TOB: Ancient Mithral Dragon
 -  Dragon de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
@@ -77631,7 +79873,8 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 
 # Dragon Des Cavernes, Adulte
 
-- Source: (LDM p133)
+- Source: (LDM p133)(TOB p125)
+- TOB: Adult Cave Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
@@ -77701,7 +79944,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Des Cavernes, Dragonnet
 
-- Source: (LDM p135)
+- Source: (LDM p135)(TOB p127)
+- TOB: Cave Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -77739,7 +79983,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Des Cavernes, Jeune
 
-- Source: (LDM p135)
+- Source: (LDM p135)(TOB p127)
+- TOB: Young Cave Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -77787,7 +80032,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vent, Adulte
 
-- Source: (LDM p136)
+- Source: (LDM p136)(TOB p143)
+- TOB: Wind Dragon, Adult
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 237 (19d12+114)
@@ -77854,7 +80100,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vent, Dragonnet
 
-- Source: (LDM p137)
+- Source: (LDM p137)(TOB p145)
+- TOB: Wind Dragon, Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 45 (7d8+14)
@@ -77886,7 +80133,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vent, Jeune
 
-- Source: (LDM p137)
+- Source: (LDM p137)(TOB p144)
+- TOB: Wind Dragon, Young
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (16d10+62)
@@ -77930,7 +80178,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vent, Vénérable
 
-- Source: (LDM p138)
+- Source: (LDM p138)(TOB p142)
+- TOB: Wind Dragon, Ancient
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 425 (23d20 +184)
@@ -78013,7 +80262,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vide, Adulte
 
-- Source: (LDM p140)
+- Source: (LDM p140)(TOB p139)
+- TOB: Adult Void Dragon
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 229 (17d12+119)
@@ -78081,7 +80331,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vide, Dragonnet
 
-- Source: (LDM p141)
+- Source: (LDM p141)(TOB p140)
+- TOB: Void Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
@@ -78124,7 +80375,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vide, Jeune
 
-- Source: (LDM p141)
+- Source: (LDM p141)(TOB p140)
+- TOB: Young Void Dragon
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -78172,7 +80424,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Du Vide, Vénérable
 
-- Source: (LDM p142)
+- Source: (LDM p142)(TOB p138)
+- TOB: Ancient Void Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 448 (23d20+207)
@@ -78270,7 +80523,8 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 
 # Dragon Marin, Adulte
 
-- Source: (LDM p144)
+- Source: (LDM p144)(TOB p135)
+- TOB: Adult Sea Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
@@ -78325,7 +80579,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Marin, Dragonnet
 
-- Source: (LDM p144)
+- Source: (LDM p144)(TOB p136)
+- TOB: Sea Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
@@ -78356,7 +80611,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Marin, Jeune
 
-- Source: (LDM p145)
+- Source: (LDM p145)(TOB p136)
+- TOB: Young Sea Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
@@ -78395,7 +80651,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 
 # Dragon Marin, Vénérable
 
-- Source: (LDM p145)
+- Source: (LDM p145)(TOB p135)
+- TOB: Ancient Sea Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
@@ -78478,7 +80735,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # Murène Dragon
 
-- Source: (LDM p147)
+- Source: (LDM p147)(TOB p146)
+- TOB: Dragon Eel
 -  Dragon de Très Grande taille (TG), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)
@@ -78518,7 +80776,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # Dragonette Lanterne
 
-- Source: (LDM p148)
+- Source: (LDM p148)(TOB p270)
+- TOB: Lantern Dragonette
 -  Dragon de Très Petite taille (TP), loyal neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d4+8)
@@ -78553,7 +80812,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # Drake De Cendres
 
-- Source: (LDM p149)
+- Source: (LDM p149)(TOB p149)
+- TOB: Ash Drake
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 117 (18d6+54)
@@ -78589,7 +80849,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # Drake De Corail
 
-- Source: (LDM p150)
+- Source: (LDM p150)(TOB p150)
+- TOB: Coral Drake
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 127 (15d8+60)
@@ -78629,7 +80890,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # Drake De Papier
 
-- Source: (LDM p151)
+- Source: (LDM p151)(TOB p154)
+- TOB: Paper Drake
 -  Dragon de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d6+36)
@@ -78664,7 +80926,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # Drake De Rouille
 
-- Source: (LDM p152)
+- Source: (LDM p152)(TOB p155)
+- TOB: Rust Drake
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (19d8+76)
@@ -78701,7 +80964,8 @@ ou une magie comparable.
 
 # Ancien Drake Des Ombres
 
-- Source: (LDM p153)
+- Source: (LDM p153)(TOB p153)
+- TOB: Elder Shadow Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -78742,7 +81006,8 @@ ou une magie comparable.
 
 # Drake Des Profondeurs
 
-- Source: (LDM p154)
+- Source: (LDM p154)(TOB p152)
+- TOB: Deep Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (20d10+40)
@@ -78780,7 +81045,8 @@ ou une magie comparable.
 
 # Drake Des Tavernes
 
-- Source: (LDM p155)
+- Source: (LDM p155)(TOB p148)
+- TOB: Alehouse Drake
 -  Dragon de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 65 (10d4+40)
@@ -78823,7 +81089,8 @@ ou une magie comparable.
 
 # Drake Pourpre
 
-- Source: (LDM p156)
+- Source: (LDM p156)(TOB p151)
+- TOB: Crimson Drake
 -  Dragon de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 54 (12d4+24)
@@ -78859,7 +81126,8 @@ ou une magie comparable.
 
 # Drake Stellaire
 
-- Source: (LDM p157)
+- Source: (LDM p157)(TOB p157)
+- TOB: Star Drake
 -  Dragon de Grande taille (G), neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 189 (18d10+90)
@@ -78921,7 +81189,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Drakon
 
-- Source: (LDM p158)
+- Source: (LDM p158)(TOB p157)
+- TOB: Drakon
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d10+28)
@@ -78956,7 +81225,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Dryade Épine-Du-Crépuscule
 
-- Source: (LDM p159)
+- Source: (LDM p159)(TOB p160)
+- TOB: Duskthorn Dryad
 -  Fée de taille Moyenne (M), chaotique
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
@@ -78990,12 +81260,9 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 ## ACTIONS
 
-**_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible.
-7 (1d4+5) dégâts perforants.
+**_Dague._** Attaque d'arme au corps à corps ou à distance: +7 pour toucher, allonge 1,50m ou portée 6/18 m, une cible. 7 (1d4+5) dégâts perforants.
 
-**_Arc long._** Attaque d'arme à distance:
-+7 pour toucher, portée 45/180 m, une cible. Touché:
-9 (1d8+5) dégâts perforants.
+**_Arc long._** Attaque d'arme à distance: +7 pour toucher, portée 45/180 m, une cible. Touché: 9 (1d8+5) dégâts perforants.
 
 > [Livre des monstres](tome_of_beasts.md)
 
@@ -79003,7 +81270,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Dullahan
 
-- Source: (LDM p160)
+- Source: (LDM p160)(TOB p161)
+- TOB: Dullahan
 -  Fée de Grande taille (G), loyale mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -79053,7 +81321,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Eala
 
-- Source: (LDM p161)
+- Source: (LDM p161)(TOB p163)
+- TOB: Eala
 -  Créature monstrueuse de Petite taille (P), non-alignée
 - **Classe d'armure** 15 (naturelle)
 - **Points de vie** 40 (9d6+9)
@@ -79087,7 +81356,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Edimmu
 
-- Source: (LDM p162)
+- Source: (LDM p162)(TOB p165)
+- TOB: Edimmu
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15
 - **Points de vie** 75 (10d8+30)
@@ -79118,7 +81388,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Einherjar
 
-- Source: (LDM p163)
+- Source: (LDM p163)(TOB p167)
+- TOB: Einherjar
 -  Humanoïde de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (cotte de mailles et bouclier)
 - **Points de vie** 119 (14d8+56)
@@ -79164,7 +81435,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Eleinomae
 
-- Source: (LDM p164)
+- Source: (LDM p164)(TOB p168)
+- TOB: Eleinomae
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 18
 - **Points de vie** 112 (15d8+45)
@@ -79206,7 +81478,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Fée des ombres
 
-- Source: (LDM p166)
+- Source: (LDM p166)(TOB p171)
+- TOB: Shadow Fey
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 31 (7d8)
@@ -79243,7 +81516,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Chasseur forestier
 
-- Source: (LDM p166)
+- Source: (LDM p166)(TOB p173)
+- TOB: Forest Hunter
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 104 (19d8+19)
@@ -79285,7 +81559,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Duelliste
 
-- Source: (LDM p167)
+- Source: (LDM p167)(TOB p171)
+- TOB: Duelist
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (armure de cuir clouté)
 - **Points de vie** 117 (18d8+36)
@@ -79329,7 +81604,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Enchanteresse
 
-- Source: (LDM p168)
+- Source: (LDM p168)(TOB p172)
+- TOB: Enchantress
 -  Humanoïde (fée des ombres) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 123 (19d8+38)
@@ -79385,7 +81661,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Gardien
 
-- Source: (LDM p169)
+- Source: (LDM p169)(TOB p174)
+- TOB: Guardian
 -  Humanoïde (elfe) de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 110 (13d10+39)
@@ -79504,7 +81781,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Écornifleur Erina
 
-- Source: (LDM p172)
+- Source: (LDM p172)(TOB p178)
+- TOB: Erina Scrounger
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 22 (4d6+8)
@@ -79537,7 +81815,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Défenseur Erina
 
-- Source: (LDM p172)
+- Source: (LDM p172)(TOB p178)
+- TOB: Erina Defender
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 44 (8d6+16)
@@ -79577,7 +81856,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Esclave Putresprit
 
-- Source: (LDM p173)
+- Source: (LDM p173)(TOB p290)
+- TOB: Mindrot Thrall
 -  Plante de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
@@ -79613,7 +81893,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Esprit Du Feu
 
-- Source: (LDM p174)
+- Source: (LDM p174)(TOB p202)
+- TOB: Firegeist
 -  Élémentaire de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 87 (25d6)
@@ -79652,7 +81933,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Étincelle
 
-- Source: (LDM p175)
+- Source: (LDM p175)(TOB p357)
+- TOB: Spark
 -  Élémentaire de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d4+52)
@@ -79688,7 +81970,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Fangeux
 
-- Source: (LDM p176)
+- Source: (LDM p176)(TOB p292)
+- TOB: Miremal
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d6+5)
@@ -79729,7 +82012,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # Far Darrig
 
-- Source: (LDM p177)
+- Source: (LDM p177)(TOB p179)
+- TOB: Far Darrig
 -  Fée de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 104 (16d6+48)
@@ -79769,7 +82053,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # La Reine de la Nuit et de la Magie
 
-- Source: (LDM p180)
+- Source: (LDM p180)(TOB p192)
+- TOB: Queen of Night and Magic
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 180 (24d8+72)
@@ -79882,7 +82167,8 @@ Si la Reine de la Nuit et de la Magie meurt, les conditions redeviennent normale
 
 # La Reine des Neiges
 
-- Source: (LDM p182)
+- Source: (LDM p182)(TOB p198)
+- TOB: Snow Queen
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 123 (19d8+38)
@@ -79975,7 +82261,8 @@ Si la Reine des Neiges meurt, les conditions redeviennent normales dans la zone 
 
 # La Reine des Sorcières
 
-- Source: (LDM p184)
+- Source: (LDM p184)(TOB p194)
+- TOB: Queen of Witches
 -  Fée de Grande taille (G), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 123 (13d10+52)
@@ -80066,7 +82353,8 @@ Si Nicnevin meurt, les conditions de la zone qui entoure son antre redeviennent 
 
 # Le Grand Veneur
 
-- Source: (LDM p186)
+- Source: (LDM p186)(TOB p188)
+- TOB: Lord of the Hunt
 -  Fée de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 229 (27d8+108)
@@ -80157,7 +82445,8 @@ Quand le Grand Veneur meurt ou lève le camp, la région qui entoure celui-ci re
 
 # Le Roi Baigné de Lune
 
-- Source: (LDM p188)
+- Source: (LDM p188)(TOB p190)
+- TOB: Moonlit King
 -  Fée de taille Moyenne (M), neutre bonne
 - **Classe d'armure** 17 (demi-plate)
 - **Points de vie** 170 (20d8+80)
@@ -80252,7 +82541,8 @@ Si le Roi Baigné de Lune meurt, les conditions redeviennent normales dans la zo
 
 # Le Roi des Ours
 
-- Source: (LDM p190)
+- Source: (LDM p190)(TOB p186)
+- TOB: Bear King
 -  Fée (métamorphe) de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 133 (14d8+70)
@@ -80337,7 +82627,8 @@ Si le Roi des Ours meurt, les conditions redeviennent normales dans la zone qui 
 
 # Le Roi des Rivières
 
-- Source: (LDM p192)
+- Source: (LDM p192)(TOB p196)
+- TOB: River King
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d8+80)
@@ -80430,7 +82721,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # Felforgé
 
-- Source: (LDM p194)
+- Source: (LDM p194)(TOB p182)
+- TOB: Fellforged
 -  Créature artificielle de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
@@ -80468,7 +82760,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # Férocien
 
-- Source: (LDM p195)
+- Source: (LDM p195)(TOB p338)
+- TOB: Savager
 -  Bête de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (1d10+60)
@@ -80503,7 +82796,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # Fext
 
-- Source: (LDM p196)
+- Source: (LDM p196)(TOB p183)
+- TOB: Fext
 -  Mort-vivant de taille Moyenne (M), n'importe quel alignement
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (11d8+11)
@@ -80549,7 +82843,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # Fils De Fenris
 
-- Source: (LDM p197)
+- Source: (LDM p197)(TOB p355)
+- TOB: Son of Fenris
 -  Créature monstrueuse de Très Grande taille (TG), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
@@ -80610,7 +82905,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # Forgepeur
 
-- Source: (LDM p198)
+- Source: (LDM p198)(TOB p181)
+- TOB: Fear Smith
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 123 (19d8+38)
@@ -80719,7 +83015,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Fraughashar
 
-- Source: (LDM p200)
+- Source: (LDM p200)(TOB p206)
+- TOB: Fraughashar
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 18 (4d6+4)
@@ -80753,7 +83050,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # Gardien Spectral
 
-- Source: (LDM p201)
+- Source: (LDM p201)(TOB p358)
+- TOB: Spectral Guardian
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 110 (13d8+52)
@@ -80807,7 +83105,8 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 # Gbahali (Postosuchus)
 
-- Source: (LDM p202)
+- Source: (LDM p202)(TOB p209)
+- TOB: Gbahali (Postosuchus)
 -  Bête de Très Grande taille (TG), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d12+48)
@@ -80842,7 +83141,8 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 # Géant Du Désert
 
-- Source: (LDM p203)
+- Source: (LDM p203)(TOB p222)
+- TOB: Desert Giant
 -  Géant de Très Grande taille (TG), neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
@@ -80875,7 +83175,8 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 
 # Hraesvelgr Le Mangeur De Cadavres
 
-- Source: (LDM p204)
+- Source: (LDM p204)(TOB p224)
+- TOB: Hraesvelgr the Corpse Swallower
 -  Géant (métamorphe (TG), titan) de Très Grande taille (TG), neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 241 (12d12+105)
@@ -80964,7 +83265,8 @@ Si Hraesvelgr meurt, les conditions redeviennent normales dans la zone qui entou
 
 # Géant Jotun
 
-- Source: (LDM p206)
+- Source: (LDM p206)(TOB p226)
+- TOB: Jotun Giant
 -  Géant de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 407 (22d20+176)
@@ -81027,7 +83329,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Géant Obèse
 
-- Source: (LDM p207)
+- Source: (LDM p207)(TOB p223)
+- TOB: Flab Giant
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -81061,7 +83364,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Géant Thursir
 
-- Source: (LDM p208)
+- Source: (LDM p208)(TOB p227)
+- TOB: Thursir Giant
 -  Géant de Grande taille (G), neutre mauvais (50 %) ou loyal mauvais (50 %)
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 114 (12d10+48)
@@ -81095,7 +83399,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Génie Al-Aeshma
 
-- Source: (LDM p209)
+- Source: (LDM p209)(TOB p211)
+- TOB: Al-Aeshma Genie
 -  Élémentaire de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 172 (15d10+90)
@@ -81143,7 +83448,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Gerridé
 
-- Source: (LDM p210)
+- Source: (LDM p210)(TOB p212)
+- TOB: Gerridae
 -  Fée de Grande taille (G), neutre
 - **Classe d'armure** 14
 - **Points de vie** 77 (9d10+27)
@@ -81175,7 +83481,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Gobelin Poussiéreux
 
-- Source: (LDM p211)
+- Source: (LDM p211)(TOB p232)
+- TOB: Dust Goblin
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
@@ -81205,7 +83512,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem À Vapeur
 
-- Source: (LDM p212)
+- Source: (LDM p212)(TOB p237)
+- TOB: Steam Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 171 (18d10+72)
@@ -81251,7 +83559,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem De Sel
 
-- Source: (LDM p213)
+- Source: (LDM p213)(TOB p235)
+- TOB: Salt Golem
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (11d10+55)
 - **Vitesse** 6 m
@@ -81287,7 +83596,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem Oculaire
 
-- Source: (LDM p214)
+- Source: (LDM p214)(TOB p233)
+- TOB: Eye Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -81328,7 +83638,9 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem Smaragdin
 
-- Source: (LDM p215)
+- Source: (LDM p215)(TOB p236)
+- TOB: Smaragdine Golem
+-  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
 - **Vitesse** 9m
@@ -81365,7 +83677,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Golem Trésor
 
-- Source: (LDM p216)
+- Source: (LDM p216)(TOB p234)
+- TOB: Hoard Golem
 -  Créature artificielle de Très Grande taille (TG), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (14d12+70)
@@ -81405,8 +83718,9 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Goule Darakhule
 
-- Source: (LDM p217)
-  Mort-vivant de taille Moyenne, neutre mauvais
+- Source: (LDM p217)(TOB p216)
+- TOB: Ghoul, Darakhul
+-  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m
@@ -81447,7 +83761,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Goule De Fer
 
-- Source: (LDM p218)
+- Source: (LDM p218)(TOB p221)
+- TOB: Ghoul, Iron
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 143 (22d8+44)
@@ -81483,7 +83798,8 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 
 # Empereur Des Goules
 
-- Source: (LDM p219)
+- Source: (LDM p219)(TOB p218)
+- TOB: Emperor of the Ghouls
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 204 (24d8+96)
@@ -81590,7 +83906,8 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # Goule Impériale
 
-- Source: (LDM p222)
+- Source: (LDM p222)(TOB p220)
+- TOB: Ghoul, Imperial
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 93 (17d8+17)
@@ -81624,7 +83941,8 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # Goule Mendiante
 
-- Source: (LDM p223)
+- Source: (LDM p223)(TOB p213)
+- TOB: Beggar Ghoul
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
@@ -81656,7 +83974,8 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 
 # Goule Poudre D'Os
 
-- Source: (LDM p224)
+- Source: (LDM p224)(TOB p214)
+- TOB: Bonepowder Ghoul
 -  Mort-vivant de Petite taille (P), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 195 (26d6+104)
@@ -81754,7 +84073,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Gremlin Rhumé
 
-- Source: (LDM p227)
+- Source: (LDM p227)(TOB p239)
+- TOB: Rum Gremlin
 -  Fée de Très Petite taille  (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
@@ -81794,7 +84114,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Guenaude Des Sables
 
-- Source: (LDM p228)
+- Source: (LDM p228)(TOB p245)
+- TOB: Sanf Hag
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
@@ -81837,7 +84158,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Guenaude Miroir
 
-- Source: (LDM p229)
+- Source: (LDM p229)(TOB p229)
+- TOB: Mirror Hag
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
@@ -81879,7 +84201,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Guenaude Rouge
 
-- Source: (LDM p230)
+- Source: (LDM p230)(TOB p244)
+- TOB: Red Hag
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 119 (14d8+56)
@@ -81925,7 +84248,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Guenaude Sanglante
 
-- Source: (LDM p231)
+- Source: (LDM p231)(TOB p242)
+- TOB: Blood Hag
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 178 (21d8+84)
@@ -81979,7 +84303,8 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 # Gug
 
-- Source: (LDM p232)
+- Source: (LDM p232)(TOB p241)
+- TOB: Gug
 -  Géant de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 270 (20d12+140)
@@ -82027,7 +84352,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # Habitant De Leng
 
-- Source: (LDM p233)
+- Source: (LDM p233)(TOB p204)
+- TOB: Folk of Leng
 -  Humanoïde de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 68 (8d8+32)
@@ -82074,7 +84400,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # Harpie Chouette
 
-- Source: (LDM p234)
+- Source: (LDM p234)(TOB p246)
+- TOB: Owl Harpy
 -  Créature monstrueuse de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 14
 - **Points de vie** 112 (15d8+45)
@@ -82114,7 +84441,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # Haugbui
 
-- Source: (LDM p235)
+- Source: (LDM p235)(TOB p247)
+- TOB: Haugbui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -82171,7 +84499,8 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 # Héraut Des Ténèbres
 
-- Source: (LDM p236)
+- Source: (LDM p236)(TOB p249)
+- TOB: Herald of Darkness
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 105 (10d10+50)
@@ -82214,7 +84543,8 @@ jets de sauvegarde physiques, peut traverser n'importe quel fossé ou ouverture,
 
 # Héraut Du Sang
 
-- Source: (LDM p237)
+- Source: (LDM p237)(TOB p248)
+- TOB: Herald of Blood
 -  Fiélon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 115 (10d12+50)
@@ -82265,7 +84595,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # Escarmoucheur Homme-Cafard
 
-- Source: (LDM p238)
+- Source: (LDM p238)(TOB p329)
+- TOB: Roachling Skirmisher
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
@@ -82297,7 +84628,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # Seigneur Homme-Cafard
 
-- Source: (LDM p238)
+- Source: (LDM p238)(TOB p329)
+- TOB: Roachling Lord
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 63 (14d6+14)
@@ -82331,7 +84663,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # Homme-Chèvre
 
-- Source: (LDM p239)
+- Source: (LDM p239)(TOB p231)
+- TOB: Goat-Man
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
@@ -82365,7 +84698,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # Combattant Homme-Corbeau
 
-- Source: (LDM p240)
+- Source: (LDM p240)(TOB p323)
+- TOB: Ravenfolk Warrior
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)
@@ -82413,7 +84747,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Croasseur Funeste Homme-Corbeau
 
-- Source: (LDM p241)
+- Source: (LDM p241)(TOB p324)
+- TOB: Ravenfolk Doom Croaker
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 88 (16d8+16)
@@ -82455,7 +84790,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Éclaireur Homme-Corbeau
 
-- Source: (LDM p242)
+- Source: (LDM p242)(TOB p322)
+- TOB: Ravenfolk Scout
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 21 (6d8 – 6)
@@ -82491,7 +84827,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Lémurien
 
-- Source: (LDM p243)
+- Source: (LDM p243)(TOB p271)
+- TOB: Lemurfolk
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 14 (4d6)
@@ -82522,7 +84859,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Lémurien Fourrure Grise
 
-- Source: (LDM p243)
+- Source: (LDM p243)(TOB p271)
+- TOB: Lemurfolk Greyfur
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Classe d'armure** 13 (16 avec armure du mage )
 - **Points de vie** 67 (15d6+15)
@@ -82598,7 +84936,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Homme-Rat
 
-- Source: (LDM p245)
+- Source: (LDM p245)(TOB p320)
+- TOB: Ratfolk
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 7 (2d6)
@@ -82629,7 +84968,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Roublard Homme-Rat
 
-- Source: (LDM p245)
+- Source: (LDM p245)(TOB p320)
+- TOB: Ratfolk Rogue
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 18 (4d6+4)
@@ -82666,7 +85006,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Horakh
 
-- Source: (LDM p246)
+- Source: (LDM p246)(TOB p250)
+- TOB: Horakh
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (19d8+76)
@@ -82702,7 +85043,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Hundun
 
-- Source: (LDM p247)
+- Source: (LDM p247)(TOB p253)
+- TOB: Hundun
 -  Céleste de Grande taille (G), chaotique bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -82759,7 +85101,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Idole Divine
 
-- Source: (LDM p248)
+- Source: (LDM p248)(TOB p255)
+- TOB: Idolic Deity
 -  Créature artificielle de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 90 (12d6+48)
@@ -82799,7 +85142,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Imy-Ut Ushabti
 
-- Source: (LDM p249)
+- Source: (LDM p249)(TOB p256)
+- TOB: Imy-Ut Ushabti
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 97 (15d8+30)
@@ -82835,7 +85179,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Isonade
 
-- Source: (LDM p250)
+- Source: (LDM p250)(TOB p257)
+- TOB: Isonade
 -  Créature monstrueuse de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 222 (12d20+96)
@@ -82884,7 +85229,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Jaculus
 
-- Source: (LDM p251)
+- Source: (LDM p251)(TOB p258)
+- TOB: Jaculus
 -  Dragon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 65 (10d6+30)
@@ -82917,7 +85263,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Kalke
 
-- Source: (LDM p252)
+- Source: (LDM p252)(TOB p259)
+- TOB: Kalke
 -  Fiélon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
@@ -82948,7 +85295,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Kikimore
 
-- Source: (LDM p253)
+- Source: (LDM p253)(TOB p260)
+- TOB: Kikimora
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
@@ -82988,7 +85336,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Alchimiste Kobold
 
-- Source: (LDM p254)
+- Source: (LDM p254)(TOB p261)
+- TOB: Kobold Alchemist
 -  Humanoïde (kobold) de Petite taille (P), loyal neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 44 (8d6+16)
@@ -83030,7 +85379,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Chef Kobold
 
-- Source: (LDM p256)
+- Source: (LDM p256)(TOB p263)
+- TOB: Kobold Chieftain
 -  Humanoïde (kobold) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 17 (armure de cuir clouté et bouclier)
 - **Points de vie** 82 (15d6+30)
@@ -83071,7 +85421,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Forgepiège Kobold
 
-- Source: (LDM p257)
+- Source: (LDM p257)(TOB p264)
+- TOB: Kobold Trapsmith
 -  Humanoïde de Petite taille (P), loyal neutre
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 36 (8d6+8)
@@ -83110,7 +85461,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Kongamato
 
-- Source: (LDM p258)
+- Source: (LDM p258)(TOB p265)
+- TOB: Kongamato
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)
@@ -83145,7 +85497,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # Koschei
 
-- Source: (LDM p259)
+- Source: (LDM p259)(TOB p266)
+- TOB: Koschei
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
@@ -83232,7 +85585,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Kot Bayun
 
-- Source: (LDM p261)
+- Source: (LDM p261)(TOB p268)
+- TOB: Kot Bayun
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15
 - **Points de vie** 44 (8d8+8)
@@ -83271,7 +85625,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Larve De Krake
 
-- Source: (LDM p262)
+- Source: (LDM p262)(TOB p269)
+- TOB: Krake Spawn
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 150 (12d12+72)
@@ -83318,7 +85673,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Larve Stellaire De Cthulhu
 
-- Source: (LDM p263)
+- Source: (LDM p263)(TOB p368)
+- TOB: Star Spawn of Cthulhu
 -  Fiélon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)
@@ -83353,21 +85709,14 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 **_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
 
-## ACTIONS
-
-**_Attaques multiples._** Le léchy fait deux attaques de gourdin.
-
-**_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
-
-**_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
-
 > [Livre des monstres](tome_of_beasts.md)
 
 ---
 
 # Léchy
 
-- Source: (LDM p264)
+- Source: (LDM p264)(TOB p272)
+- TOB: Leshy
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 84 (13d8+26)
@@ -83392,13 +85741,22 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 **_Imitation._** Le léchy peut imiter les cris et les voix de toutes les créatures qu'il a entendues. Pour cela, il doit faire un test de Charisme (Supercherie). Si l'auditeur réussit un test de Sagesse (Perspicacité) ou d'Intelligence (Nature) (au choix du MJ), il comprend qu'il s'agit d'une imitation. Le léchy est avantagé sur le test s'il imite un type général
 
+## ACTIONS
+
+**_Attaques multiples._** Le léchy fait deux attaques de gourdin.
+
+**_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
+
+**_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
+
 > [Livre des monstres](tome_of_beasts.md)
 
 ---
 
 # Lente Tempête
 
-- Source: (LDM p265)
+- Source: (LDM p265)(TOB p353)
+- TOB: Slow Storm
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19
 - **Points de vie** 225 (18d12+108)
@@ -83496,7 +85854,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Liche Canine
 
-- Source: (LDM p268)
+- Source: (LDM p268)(TOB p274)
+- TOB: Lich Hound
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 119 (14d8+56)
@@ -83533,7 +85892,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Likho
 
-- Source: (LDM p269)
+- Source: (LDM p269)(TOB p275)
+- TOB: Likho
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -83575,7 +85935,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Limon Des Sarcophages
 
-- Source: (LDM p270)
+- Source: (LDM p270)(TOB p336)
+- TOB: Sarcophagus Slime
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 11
 - **Points de vie** 102 (12d8+48)
@@ -83612,7 +85973,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Linceul
 
-- Source: (LDM p271)
+- Source: (LDM p271)(TOB p348)
+- TOB: Shroud
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d8)
@@ -83649,7 +86011,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Lindwurm
 
-- Source: (LDM p272)
+- Source: (LDM p272)(TOB p276)
+- TOB: Lindwurm
 -  Dragon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 136 (16d10+48)
@@ -83689,7 +86052,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Liosalfar
 
-- Source: (LDM p273)
+- Source: (LDM p273)(TOB p277)
+- TOB: Liosalfar
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 17
 - **Points de vie** 110 (20d10)
@@ -83738,7 +86102,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Locus Élémentaire
 
-- Source: (LDM p274)
+- Source: (LDM p274)(TOB p169)
+- TOB: Elemental Locus
 -  Élémentaire de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 290 (20d20+80)
@@ -83779,7 +86144,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # Lorelei
 
-- Source: (LDM p275)
+- Source: (LDM p275)(TOB p279)
+- TOB: Lorelei
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 76 (9d8+36)
@@ -83828,7 +86194,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Loxoda
 
-- Source: (LDM p276)
+- Source: (LDM p276)(TOB p280)
+- TOB: Loxoda
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 147 (14d12+56)
@@ -83861,7 +86228,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Lynx Vaporeux
 
-- Source: (LDM p277)
+- Source: (LDM p277)(TOB p398)
+- TOB: Vapor Lynx
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
@@ -83898,7 +86266,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Mahoru
 
-- Source: (LDM p278)
+- Source: (LDM p278)(TOB p281)
+- TOB: Mahoru
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 91 (14d8+28)
@@ -83944,7 +86313,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Mallqui
 
-- Source: (LDM p279)
+- Source: (LDM p279)(TOB p282)
+- TOB: Mallqui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
@@ -83993,7 +86363,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Malphas (Corbeau De Tempête)
 
-- Source: (LDM p280)
+- Source: (LDM p280)(TOB p283)
+- TOB: Malphas (Storm Crow)
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 120 (16d8+48)
@@ -84037,7 +86408,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Mamura
 
-- Source: (LDM p281)
+- Source: (LDM p281)(TOB p284)
+- TOB: Mamura
 -  Aberration (fée) de Petite taille (P), neutre mauvaise.
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d6+52)
@@ -84078,7 +86450,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # Mangedestin
 
-- Source: (LDM p282)
+- Source: (LDM p282)(TOB p180)
+- TOB: Fate Eater
 -  Aberration de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 182 (28d8+56)
@@ -84122,7 +86495,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Mangepoussière (Yakat-Shi)
 
-- Source: (LDM p283)
+- Source: (LDM p283)(TOB p164)
+- TOB: Eater of Dust (Yakat-Shi)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 114 (12d8+60)
@@ -84165,7 +86539,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Mangerêve
 
-- Source: (LDM p284)
+- Source: (LDM p284)(TOB p158)
+- TOB: Dream Eater
 -  Fiélon de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -84211,7 +86586,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Manteau Vide
 
-- Source: (LDM p285)
+- Source: (LDM p285)(TOB p176)
+- TOB: Empty Cloak
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d8)
@@ -84251,7 +86627,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Maraudeur Des Forêts
 
-- Source: (LDM p286)
+- Source: (LDM p286)(TOB p205)
+- TOB: Forest Marauder
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 114 (12d10 +48)
@@ -84282,7 +86659,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Marchand De Sable
 
-- Source: (LDM p287)
+- Source: (LDM p287)(TOB p333)
+- TOB: Sandman
 -  Céleste de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 82 (11d8+33)
@@ -84327,7 +86705,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Marcheflèche
 
-- Source: (LDM p288)
+- Source: (LDM p288)(TOB p367)
+- TOB: Spire Walker
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 38 (11d4+22)
@@ -84366,7 +86745,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Mavka
 
-- Source: (LDM p289)
+- Source: (LDM p289)(TOB p286)
+- TOB: Mavka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d8+80)
@@ -84682,7 +87062,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Mèche Vivante
 
-- Source: (LDM p297)
+- Source: (LDM p297)(TOB p278)
+- TOB: Living Wick
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)
@@ -84717,7 +87098,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Médazur À Défenses
 
-- Source: (LDM p298)
+- Source: (LDM p298)(TOB p391)
+- TOB: Tusked Skyfish
 -  Aberration de Grande taille (G), loyale bonne
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
@@ -84750,7 +87132,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Mélasse
 
-- Source: (LDM p299)
+- Source: (LDM p299)(TOB p387)
+- TOB: Treacle
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (4d4+12)
@@ -84781,7 +87164,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # Mi-Go
 
-- Source: (LDM p300)
+- Source: (LDM p300)(TOB p287)
+- TOB: Mi-Go
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76 (8d8+40)
@@ -84821,7 +87205,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Millitaure
 
-- Source: (LDM p301)
+- Source: (LDM p301)(TOB p288)
+- TOB: Millitaur
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -84850,7 +87235,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Mimique Carte
 
-- Source: (LDM p302)
+- Source: (LDM p302)(TOB p289)
+- TOB: Map Mimic
 -  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
@@ -84884,7 +87270,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Mimique Des Dunes
 
-- Source: (LDM p303)
+- Source: (LDM p303)(TOB p162)
+- TOB: Dune Mimic
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
@@ -84923,7 +87310,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Mirageur
 
-- Source: (LDM p304)
+- Source: (LDM p304)(TOB p291)
+- TOB: Mirager
 -  Fée (métamorphe) de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d8+24)
@@ -84964,7 +87352,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Mngwa
 
-- Source: (LDM p305)
+- Source: (LDM p305)(TOB p293)
+- TOB: Mngwa
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16
 - **Points de vie** 91 (14d8+28)
@@ -85003,7 +87392,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # Molosse Nocturne
 
-- Source: (LDM p306)
+- Source: (LDM p306)(TOB p251)
+- TOB: Hound of the night
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)
@@ -85040,7 +87430,8 @@ dépassent leurs compétences.
 
 # Momie Venimeuse
 
-- Source: (LDM p307)
+- Source: (LDM p307)(TOB p299)
+- TOB: Venomous Mummy
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
@@ -85073,7 +87464,8 @@ dépassent leurs compétences.
 
 # Champion Monolithique
 
-- Source: (LDM p308)
+- Source: (LDM p308)(TOB p294)
+- TOB: Monolith Champion
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
@@ -85107,7 +87499,8 @@ dépassent leurs compétences.
 
 # Valet Monolithique
 
-- Source: (LDM p309)
+- Source: (LDM p309)(TOB p295)
+- TOB: Monolith Footman
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 60 (8d10+16)
@@ -85182,7 +87575,8 @@ dépassent leurs compétences.
 
 # Morphoï
 
-- Source: (LDM p311)
+- Source: (LDM p311)(TOB p297)
+- TOB: Morphoi
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 13 (parfois plus avec une armure)
 - **Points de vie** 33 (6d8+6)
@@ -85289,7 +87683,8 @@ dépassent leurs compétences.
 
 # Myling
 
-- Source: (LDM p314)
+- Source: (LDM p314)(TOB p301)
+- TOB: Myling
 -  Mort-vivant de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
@@ -85323,7 +87718,8 @@ dépassent leurs compétences.
 
 # Naïna
 
-- Source: (LDM p315)
+- Source: (LDM p315)(TOB p302)
+- TOB: Naina
 -  Dragon (métamorphe) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
@@ -85363,11 +87759,9 @@ dépassent leurs compétences.
 
 **_Attaques multiples._** La naïna fait deux attaques de griffes et une attaque de morsure.
 
-**_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-24(3d12+5) dégâts perforants.
+**_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts perforants.
 
-**_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-24(3d12+5) dégâts tranchants.
+**_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts tranchants.
 
 **_Souffle empoisonné (Recharge 5-6)._** Sous forme de drake uniquement, la naïna souffle un cône de gaz empoisonné, paralysant ou somnifère.
 
@@ -85383,7 +87777,8 @@ dépassent leurs compétences.
 
 # Nécrophage Masqué
 
-- Source: (LDM p316)
+- Source: (LDM p316)(TOB p285)
+- TOB: Mask Wight
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d8 +126)
@@ -85461,7 +87856,8 @@ dépassent leurs compétences.
 
 # Nichny
 
-- Source: (LDM p318)
+- Source: (LDM p318)(TOB p303)
+- TOB: Nichny
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
@@ -85510,8 +87906,9 @@ dépassent leurs compétences.
 
 # Nkosi
 
-- Source: (LDM p319)
--  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
+- Source: (LDM p319)(TOB p306)
+- TOB: Nkosi
+-  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9m
@@ -85545,8 +87942,9 @@ dépassent leurs compétences.
 
 # Chef De Meute Nkosi
 
-- Source: (LDM p319)
--  Humanoïde de taille Moyenne (métamorphe (M), nkosi) (M), loyal neutre
+- Source: (LDM p319)(TOB p306)
+- TOB: Nkosi Pridelord
+-  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 93 (17d8+17)
 - **Vitesse** 9m
@@ -85586,7 +87984,8 @@ dépassent leurs compétences.
 
 # Autruche de guerre
 
-- Source: (LDM p320)
+- Source: (LDM p320)(TOB p307)
+- TOB: War Ostrich
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 11
 - **Points de vie** 42 (5d10+15)
@@ -85611,7 +88010,8 @@ dépassent leurs compétences.
 
 # Noctegarm
 
-- Source: (LDM p322)
+- Source: (LDM p322)(TOB p305)
+- TOB: Nightgarm
 -  Créature monstrueuse de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -85650,7 +88050,8 @@ dépassent leurs compétences.
 
 # Factice noctegarm
 
-- Source: (LDM p322)
+- Source: (LDM p322)(TOB p305)
+- TOB: Nightgarm Falseman
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Vulnérabilité aux dégâts** radiants; aux armes en argent
 
@@ -85664,7 +88065,8 @@ dépassent leurs compétences.
 
 # Noctin
 
-- Source: (LDM p323)
+- Source: (LDM p323)(TOB p308)
+- TOB: Noctiny
 -  Humanoïde (noctin) de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 52 (8d8+16)
@@ -85703,7 +88105,8 @@ dépassent leurs compétences.
 
 # Nuée D'Esprits Lupins
 
-- Source: (LDM p324)
+- Source: (LDM p324)(TOB p377)
+- TOB: Wolf Spirit Swarm
 -  Nuée de Grande taille de morts-vivants de taille Moyenne (G), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (15d10+15)
@@ -85740,7 +88143,8 @@ dépassent leurs compétences.
 
 # Nuée D'Yeux
 
-- Source: (LDM p325)
+- Source: (LDM p325)(TOB p309)
+- TOB: Oculo Swarm
 -  Nuée de Grande taille d'aberrations de taille Minuscule (G), neutre
 - **Classe d'armure** 15
 - **Points de vie** 110 (13d10+39)
@@ -85771,7 +88175,8 @@ dépassent leurs compétences.
 
 # Nuée De Danseflammes
 
-- Source: (LDM p326)
+- Source: (LDM p326)(TOB p373)
+- TOB: Fire Dancer Swarm
 -  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d8+36)
@@ -85876,7 +88281,8 @@ dépassent leurs compétences.
 
 # Nuée De Scarabées Manavores
 
-- Source: (LDM p328)
+- Source: (LDM p328)(TOB p374)
+- TOB: Manabane Scarab Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -85937,7 +88343,8 @@ dépassent leurs compétences.
 
 # Nuée De Scarabées Prismatiques
 
-- Source: (LDM p330)
+- Source: (LDM p330)(TOB p375)
+- TOB: Prismatic Beetle Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 38 (7d8+7)
@@ -85969,7 +88376,8 @@ dépassent leurs compétences.
 
 # Nuée De Sluaghs
 
-- Source: (LDM p331)
+- Source: (LDM p331)(TOB p376)
+- TOB: Sluagh Swarm
 -  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 54 (12d8)
@@ -86042,7 +88450,8 @@ dépassent leurs compétences.
 
 # Œil D'Émeraude
 
-- Source: (LDM p333)
+- Source: (LDM p333)(TOB p175)
+- TOB: Emerald Eye
 -  Créature artificielle de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d4+24)
@@ -86081,7 +88490,8 @@ dépassent leurs compétences.
 
 # Oiseau De Feu
 
-- Source: (LDM p334)
+- Source: (LDM p334)(TOB p201)
+- TOB: Firebird
 -  Céleste de Petite taille (P), neutre bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 99 (18d6+36)
@@ -86126,7 +88536,8 @@ dépassent leurs compétences.
 
 # Ostinato
 
-- Source: (LDM p335)
+- Source: (LDM p335)(TOB p335)
+- TOB: Ostinato
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15
 - **Points de vie** 39 (6d8+12)
@@ -86167,7 +88578,8 @@ dépassent leurs compétences.
 
 # Ovasis
 
-- Source: (LDM p336)
+- Source: (LDM p336)(TOB p310)
+- TOB: Oozasis
 -  Vase de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 7
 - **Points de vie** 217 (14d20+70)
@@ -86245,7 +88657,8 @@ dépassent leurs compétences.
 
 # Piège Caustique
 
-- Source: (LDM p338)
+- Source: (LDM p338)(TOB p296)
+- TOB: Mordant Snare
 -  Aberration de taille Gigantesque (Gig), chaotique mauvaise
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 264 (16d20+96)
@@ -86287,7 +88700,8 @@ dépassent leurs compétences.
 
 # Pombero
 
-- Source: (LDM p339)
+- Source: (LDM p339)(TOB p313)
+- TOB: Pombero
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
@@ -86326,7 +88740,8 @@ dépassent leurs compétences.
 
 # Pourceau Des Failles
 
-- Source: (LDM p340)
+- Source: (LDM p340)(TOB p326)
+- TOB: Rift Swine
 -  Aberration de Grande taille (G), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -86366,7 +88781,8 @@ dépassent leurs compétences.
 
 # Primate Blanc
 
-- Source: (LDM p341)
+- Source: (LDM p341)(TOB p408)
+- TOB: White Ape
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -86399,7 +88815,8 @@ dépassent leurs compétences.
 
 # Profanateur Maudit
 
-- Source: (LDM p342)
+- Source: (LDM p342)(TOB p12)
+- TOB: Accursed Defiler
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 12
 - **Points de vie** 75 (10d8+30)
@@ -86569,7 +88986,8 @@ dépassent leurs compétences.
 
 # Qwyllion
 
-- Source: (LDM p345)
+- Source: (LDM p345)(TOB p316)
+- TOB: Qwyllion
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
@@ -86608,7 +89026,8 @@ dépassent leurs compétences.
 
 # Ramag
 
-- Source: (LDM p346)
+- Source: (LDM p346)(TOB p317)
+- TOB: Ramag
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d8)
@@ -86637,7 +89056,8 @@ dépassent leurs compétences.
 
 # Ratatosk
 
-- Source: (LDM p347)
+- Source: (LDM p347)(TOB p319)
+- TOB: Ratatosk
 -  Céleste de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 42 (12d4+12)
@@ -86680,7 +89100,8 @@ dépassent leurs compétences.
 
 # Ravageur Trollien
 
-- Source: (LDM p348)
+- Source: (LDM p348)(TOB p390)
+- TOB: Trollkin Reaver
 -  Humanoïde (trollien) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 82 (11d8+33)
@@ -86720,7 +89141,8 @@ dépassent leurs compétences.
 
 # Ravenala
 
-- Source: (LDM p349)
+- Source: (LDM p349)(TOB p321)
+- TOB: Ravenala
 -  Plante de Grande taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
@@ -86764,7 +89186,8 @@ dépassent leurs compétences.
 
 # Rôdeur Des Quais
 
-- Source: (LDM p350)
+- Source: (LDM p350)(TOB p407)
+- TOB: Wharfling
 -  Bête de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13
 - **Points de vie** 6 (4d4 - 4)
@@ -86791,7 +89214,8 @@ dépassent leurs compétences.
 
 # Nuée De Rôdeurs Des Quais
 
-- Source: (LDM p350)
+- Source: (LDM p350)(TOB p407)
+- TOB: Wharfling Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 63 (14d10 - 14)
@@ -86824,7 +89248,8 @@ dépassent leurs compétences.
 
 # Rôdeur Moussu
 
-- Source: (LDM p351)
+- Source: (LDM p351)(TOB p298)
+- TOB: Moss Lurker
 -  Humanoïde de Petite taille (P), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
@@ -86866,7 +89291,8 @@ dépassent leurs compétences.
 
 # Roi Des Rats
 
-- Source: (LDM p352)
+- Source: (LDM p352)(TOB 318)
+- TOB: Rat King
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
@@ -86906,7 +89332,8 @@ dépassent leurs compétences.
 
 # Roussalka
 
-- Source: (LDM p353)
+- Source: (LDM p353)(TOB p331)
+- TOB: Rusalka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 88 (16d8+16)
@@ -86944,7 +89371,8 @@ dépassent leurs compétences.
 
 # Saccageur Relevé
 
-- Source: (LDM p354)
+- Source: (LDM p354)(TOB p328)
+- TOB: Risen Reaver
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 168 (16d10+80)
@@ -86980,7 +89408,8 @@ dépassent leurs compétences.
 
 # Sarcoptère
 
-- Source: (LDM p355)
+- Source: (LDM p355)(TOB p203)
+- TOB: Flutterflesh
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 187 (22d10+66)
@@ -87024,7 +89453,8 @@ dépassent leurs compétences.
 
 # Scheznyki
 
-- Source: (LDM p356)
+- Source: (LDM p356)(TOB p339)
+- TOB: Scheznyki
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d6+72)
@@ -87066,7 +89496,8 @@ dépassent leurs compétences.
 
 # Scorpion Nocturne
 
-- Source: (LDM p357)
+- Source: (LDM p357)(TOB p340)
+- TOB: Night Scorpion
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
@@ -87094,7 +89525,8 @@ dépassent leurs compétences.
 
 # Scorpion Stygien À Large Queue
 
-- Source: (LDM p357)
+- Source: (LDM p357)(TOB p340)
+- TOB: Stygian Fat-Tailed Scorpion
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 10 (4d4)
@@ -87122,7 +89554,8 @@ dépassent leurs compétences.
 
 # Seigneur Des Lianes
 
-- Source: (LDM p358)
+- Source: (LDM p358)(TOB p402)
+- TOB: Vine Lord
 -  Plante de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
@@ -87165,7 +89598,8 @@ dépassent leurs compétences.
 
 # Marionnette Des Lianes
 
-- Source: (LDM p359)
+- Source: (LDM p359)(TOB p403)
+- TOB: Tendril Puppet
 -  Plante de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 34 (4d8+16)
@@ -87201,7 +89635,8 @@ dépassent leurs compétences.
 
 # Sélang
 
-- Source: (LDM p360)
+- Source: (LDM p360)(TOB p341)
+- TOB: Selang
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
@@ -87243,7 +89678,8 @@ dépassent leurs compétences.
 
 # Vipère Du Marais
 
-- Source: (LDM p361)
+- Source: (LDM p361)(TOB p354)
+- TOB: Swamp Adder
 -  Bête de Petite taille (P), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 18 (4d6+4)
@@ -87269,7 +89705,8 @@ dépassent leurs compétences.
 
 # Vipère De Zanskaran
 
-- Source: (LDM p361)
+- Source: (LDM p361)(TOB p354)
+- TOB: Zanskaran Viper
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 38 (4d10+16)
@@ -87293,7 +89730,8 @@ dépassent leurs compétences.
 
 # Serpopard
 
-- Source: (LDM p362)
+- Source: (LDM p362)(TOB p342)
+- TOB: Serpopard
 -  Bête de Grande taille (G), non-alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -87328,7 +89766,8 @@ dépassent leurs compétences.
 
 # Shabti
 
-- Source: (LDM p363)
+- Source: (LDM p363)(TOB p343)
+- TOB: Shabti
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -87366,7 +89805,8 @@ dépassent leurs compétences.
 
 # Shadhavar
 
-- Source: (LDM p364)
+- Source: (LDM p364)(TOB p344)
+- TOB: Shadhavar
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (naturelle)
 - **Points de vie** 97 (13d10+26)
@@ -87407,7 +89847,8 @@ dépassent leurs compétences.
 
 # Shoggoth
 
-- Source: (LDM p365)
+- Source: (LDM p365)(TOB p347)
+- TOB: Shoggoth
 -  Aberration de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 387 (25d12+225)
@@ -87449,7 +89890,8 @@ dépassent leurs compétences.
 
 # Silhouette De Sable
 
-- Source: (LDM p366)
+- Source: (LDM p366)(TOB p332)
+- TOB: Sand Silhouette
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
@@ -87490,7 +89932,8 @@ dépassent leurs compétences.
 
 # Sorcelueur
 
-- Source: (LDM p367)
+- Source: (LDM p367)(TOB p409)
+- TOB: Witchlight
 -  Créature artificielle de Très Petite taille (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 10 (4d4)
@@ -87525,7 +89968,8 @@ dépassent leurs compétences.
 
 # Sorcière De L'Écheveau
 
-- Source: (LDM p368)
+- Source: (LDM p368)(TOB p349)
+- TOB: Skein Witch
 -  Céleste de taille Moyenne (M), neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 162 (25d8+50)
@@ -87567,7 +90011,8 @@ dépassent leurs compétences.
 
 # Gypsosphinx
 
-- Source: (LDM p369)
+- Source: (LDM p369)(TOB p359)
+- TOB: Gypsosphinx
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 171 (18d10+72)
@@ -87631,7 +90076,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Squelette De Troll Des Lianes
 
-- Source: (LDM p371)
+- Source: (LDM p371)(TOB p351)
+- TOB: Vine Troll Skeleton
 -  Plante de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
@@ -87665,7 +90111,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Squelette En Mâchoires De Requin
 
-- Source: (LDM p372)
+- Source: (LDM p372)(TOB p350)
+- TOB: Sharkjaw Skeleton
 -  Mort-vivant de Grande taille (G), loyal mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
@@ -87697,7 +90144,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Stryx
 
-- Source: (LDM p373)
+- Source: (LDM p373)(TOB p369)
+- TOB: Stryx
 -  Créature monstrueuse de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 10 (4d4)
@@ -87736,7 +90184,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Stuhac
 
-- Source: (LDM p374)
+- Source: (LDM p374)(TOB p370)
+- TOB: Stuhac
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 190 (20d8+100)
@@ -87777,7 +90226,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Subek
 
-- Source: (LDM p375)
+- Source: (LDM p375)(TOB p371)
+- TOB: Subek
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76(8d10+32)
@@ -87814,7 +90264,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Suffragan Cœur-De-Vers
 
-- Source: (LDM p376)
+- Source: (LDM p376)(TOB p410)
+- TOB: Wormhearted Suffragan
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 97 (13d8+39)
@@ -87853,7 +90304,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Sutureuse
 
-- Source: (LDM p377)
+- Source: (LDM p377)(TOB p372)
+- TOB: Suturefly
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 14
 - **Points de vie** 7 (3d4)
@@ -87882,7 +90334,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Sylvanien Pleureur
 
-- Source: (LDM p378)
+- Source: (LDM p378)(TOB p388)
+- TOB: Weeping Treant
 -  Plante de Très Grande taille (TG), neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
@@ -87918,7 +90371,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Templier Mécaforgé
 
-- Source: (LDM p379)
+- Source: (LDM p379)(TOB p210)
+- TOB: Gearforged Templar
 -  Humanoïde de taille Moyenne (mécaforgé) (M), loyal neutre
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 71 (11d8+22)
@@ -87960,7 +90414,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Thuellai
 
-- Source: (LDM p380)
+- Source: (LDM p380)(TOB p379)
+- TOB: Thuellai
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 17
 - **Points de vie** 149 (13d12+65)
@@ -88011,7 +90466,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Titan Antique
 
-- Source: (LDM p381)
+- Source: (LDM p381)(TOB p380)
+- TOB: Ancient Titan
 -  Céleste de taille Gigantesque (titan) (Gig), neutre bon
 - **Classe d'armure** 15 (cuirasse)
 - **Points de vie** 198 (12d20+72)
@@ -88052,7 +90508,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Titan Dégénéré
 
-- Source: (LDM p382)
+- Source: (LDM p382)(TOB p381)
+- TOB: Degenerate Titan
 -  Géant de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 12 (manteau renforcé rudimentaire)
 - **Points de vie** 161 (14d12+70)
@@ -88087,7 +90544,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Titanoboa
 
-- Source: (LDM p383)
+- Source: (LDM p383)(TOB p382)
+- TOB: Titanoboa
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 232 (15d20+75)
@@ -88121,7 +90579,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Tophet
 
-- Source: (LDM p384)
+- Source: (LDM p384)(TOB p383)
+- TOB: Tophet
 -  Créature artificielle de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
@@ -88158,7 +90617,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Reine Du Nid Tosculie
 
-- Source: (LDM p386)
+- Source: (LDM p386)(TOB p385)
+- TOB: Tosculi Hive-Queen
 -  Créature monstrueuse de Grande taille (G), loyale mauvaise
 - **Classe d'armure** 17
 - **Points de vie** 157 (15d10+75)
@@ -88235,7 +90695,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Archer-Pillard D'Élite Tosculi
 
-- Source: (LDM p387)
+- Source: (LDM p387)(TOB p386)
+- TOB: Tosculi Elite Bow Raider
 -  Humanoïde (tosculi) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
@@ -88272,7 +90733,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Combattant Tosculi
 
-- Source: (LDM p387)
+- Source: (LDM p387)(TOB p386)
+- TOB: Tosculi Warrior
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 58 (9d6+27)
@@ -88306,7 +90768,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Faux-Bourdon Tosculi
 
-- Source: (LDM p387)
+- Source: (LDM p387)(TOB p386)
+- TOB: Tosculi Drone
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d6+8)
@@ -88336,7 +90799,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Troll Lacustre
 
-- Source: (LDM p388)
+- Source: (LDM p388)(TOB p389)
+- TOB: Lake Troll
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
@@ -88411,7 +90875,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Uraeus
 
-- Source: (LDM p390)
+- Source: (LDM p390)(TOB p392)
+- TOB: Uraeus
 -  Céleste de Très Petite taille (TP), loyal neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 40 (9d4+18)
@@ -88449,7 +90914,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # Urochar (Guetteur Étrangleur)
 
-- Source: (LDM p391)
+- Source: (LDM p391)(TOB p393)
+- TOB: Urochar (Strangling Watcher)
 -  Aberration de Très Grande taille (TG), chaotique mauvaise
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
@@ -88506,7 +90972,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Ushabti
 
-- Source: (LDM p392)
+- Source: (LDM p392)(TOB p394)
+- TOB: Ushabti
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 105 (10d10+50)
@@ -88548,7 +91015,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Vættir
 
-- Source: (LDM p393)
+- Source: (LDM p393)(TOP p395)
+- TOB: Vættir
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 120 (16d8+48)
@@ -88597,7 +91065,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Vagabond Éonique
 
-- Source: (LDM p394)
+- Source: (LDM p394)(TOB p177)
+- TOB: Eonic Drifter
 -  Humanoïde (humain) de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 65 (10d8+20)
@@ -88628,7 +91097,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # Valkyrie
 
-- Source: (LDM p395)
+- Source: (LDM p395)(TOB p396)
+- TOB: Valkyrie
 -  Céleste de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (cotte de mailles) ou 18 (cotte de mailles et bouclier)
 - **Points de vie** 112 (15d8+45)
@@ -88685,7 +91155,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Vampire Umbral
 
-- Source: (LDM p396)
+- Source: (LDM p396)(TOB p397)
+- TOB: Umbral Vampire
 -  Fiélon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 84 (13d8+26)
@@ -88728,7 +91199,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Vase Corruptrice
 
-- Source: (LDM p397)
+- Source: (LDM p397)(TOB p311)
+- TOB: Corrupting Ooze
 -  Vase de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 115 (10d10+60)
@@ -88760,7 +91232,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Vent Putréfacteur
 
-- Source: (LDM p398)
+- Source: (LDM p398)(TOB p330)
+- TOB: Rotting Wind
 -  Mort-vivant de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d10+22)
@@ -88793,7 +91266,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Ver Givré Adulte
 
-- Source: (LDM p399)
+- Source: (LDM p399)(TOB p327)
+- TOB: Adult Rime Worm
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (10d10+50)
@@ -88829,7 +91303,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Larve De Ver Givré
 
-- Source: (LDM p399)
+- Source: (LDM p399)(TOB p327)
+- TOB: Rime Worm Grub
 -  Élémentaire de taille Moyenne (M), neutre
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
@@ -88902,7 +91377,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Ver Sathaq
 
-- Source: (LDM p401)
+- Source: (LDM p401)(TOB p337)
+- TOB: Sathaq Worm
 -  Élémentaire de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
@@ -88937,7 +91413,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Verminhantée
 
-- Source: (LDM p402)
+- Source: (LDM p402)(TOB p352)
+- TOB: Skitterhaunt
 -  Vase de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
@@ -88973,7 +91450,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # Vésiculose
 
-- Source: (LDM p403)
+- Source: (LDM p403)(TOB p399)
+- TOB: Vesiculosa
 -  Plante de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 203 (14d20+56)
@@ -89015,7 +91493,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Vidien
 
-- Source: (LDM p404)
+- Source: (LDM p404)(TOB p404)
+- TOB: Voidling
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 16
 - **Points de vie** 110 (20d10)
@@ -89061,7 +91540,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Vif Ravageur Gnoll
 
-- Source: (LDM p405)
+- Source: (LDM p405)(TOB p230)
+- TOB: Gnoll Havoc Runner
 -  Humanoïde (gnoll) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 58 (9d8+18)
@@ -89096,7 +91576,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Vil Barbier
 
-- Source: (LDM p406)
+- Source: (LDM p406)(TOB p401)
+- TOB: Vile Barber
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 15 (armure de cuir)
 - **Points de vie** 28 (8d6)
@@ -89139,7 +91620,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Vila
 
-- Source: (LDM p407)
+- Source: (LDM p407)(TOB p400)
+- TOB: Vila
 -  Fée de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 15
 - **Points de vie** 77 (14d8+14)
@@ -89186,7 +91668,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Voile-De-Givre
 
-- Source: (LDM p408)
+- Source: (LDM p408)(TOB p207)
+- TOB: Frostveil
 -  Plante de taille Moyenne (M), non-alignée
 - **Classe d'armure** 16
 - **Points de vie** 67 (9d8+27)
@@ -89227,7 +91710,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Wampus Féline
 
-- Source: (LDM p409)
+- Source: (LDM p409)(TOB p405)
+- TOB: Wampus Cat
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 58 (9d8+18)
@@ -89264,7 +91748,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Wyrm Des Sables
 
-- Source: (LDM p410)
+- Source: (LDM p410)(TOB p334)
+- TOB: Sandwyrm
 -  Dragon de Grande taille (G), non-aligné
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
@@ -89296,7 +91781,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Xanka
 
-- Source: (LDM p411)
+- Source: (LDM p411)(TOB p411)
+- TOB: Xanka
 -  Créature artificielle de Petite taille (P), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 18 (4d6+4)
@@ -89325,7 +91811,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Xhkarsh
 
-- Source: (LDM p412)
+- Source: (LDM p412)(TOB p412)
+- TOB: Xhkarsh
 -  Aberration de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 19 (armure naturelle et mystique)
 - **Points de vie** 133 (14d10 + 56)
@@ -89359,7 +91846,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Ychen Bannog
 
-- Source: (LDM p413)
+- Source: (LDM p413)(TOB p413)
+- TOB: Ychen Bannog
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
@@ -89397,7 +91885,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Zaratan
 
-- Source: (LDM p414)
+- Source: (LDM p414)(TOB p414)
+- TOB: Zaratan
 -  Créature monstrueuse (titan) de taille Gigantesque (Gig), non alignée
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 507 (26d20+234)
@@ -89447,7 +91936,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Zimwi
 
-- Source: (LDM p415)
+- Source: (LDM p415)(TOB p415)
+- TOB: Zimwi
 -  Géant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
@@ -89476,7 +91966,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # Zmey
 
-- Source: (LDM p416)
+- Source: (LDM p416)(TOB p416)
+- TOB: Zmey
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 189 (18d12+72)
@@ -89534,7 +92025,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Bébécéphale De Zmey
 
-- Source: (LDM p416)
+- Source: (LDM p416)(TOB p416)
+- TOB: Zmey Headling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8 + 42), régénération 5/round
@@ -89570,7 +92062,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Archer Vétéran Elfique
 
-- Source: (LDM p418)
+- Source: (LDM p418)(TOB p422)
+- TOB: Elvish Veteran Archer
 -  Humanoïde (elfe) de taille Moyenne (M), chaotique bon ou chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 77 (14d8 + 14)
@@ -89613,7 +92106,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Capitaine Du Guet
 
-- Source: (LDM p418)
+- Source: (LDM p418)(TOB p419)
+- TOB: City Watch Captain
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal neutre
 - **Classe d'armure** 17 (armure d'écailles)
 - **Points de vie** 91 (14d8 + 28)
@@ -89650,7 +92144,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Chef Du Culte De L'Ordre D'Émeraude
 
-- Source: (LDM p419)
+- Source: (LDM p419)(TOB p421)
+- TOB: Emerald Order Cult Leader
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal neutre
 - **Classe d'armure** 14 (cuirasse)
 - **Points de vie** 117 (18d8 + 36)
@@ -89705,7 +92200,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Chef Ogre Corrompu
 
-- Source: (LDM p420)
+- Source: (LDM p420)(TOB p423)
+- TOB: Ogre Chieftain, Corrupted
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 127 (15d10 + 45)
@@ -89750,7 +92246,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Chevalier Fantôme
 
-- Source: (LDM p421)
+- Source: (LDM p421)(TOB p423)
+- TOB: Ghost Knight
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (demi-plate)
 - **Points de vie** 97 (15d8 + 30)
@@ -89794,7 +92291,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Commandant Des Chevaliers Noirs
 
-- Source: (LDM p422)
+- Source: (LDM p422)(TOB p418)
+- TOB: Black Knight Commander
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal mauvais
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 78 (12d8 + 24)
@@ -89832,7 +92330,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Fanatique Du Scorpion
 
-- Source: (LDM p422)
+- Source: (LDM p422)(TOB p425)
+- TOB: Scorpion Cultist
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 19 (3d8 + 6)
@@ -89864,7 +92363,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Mage Des Anneaux Nains
 
-- Source: (LDM p423)
+- Source: (LDM p423)(TOB p420)
+- TOB: Dwarven Ringmage
 -  Humanoïde de taille Moyenne (nain) (M), au choix
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 82 (15d8 + 15)
@@ -89913,7 +92413,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Nain Loup Ravageur
 
-- Source: (LDM p424)
+- Source: (LDM p424)(TOB p426)
+- TOB: Wolf Reaver Dwarf
 -  Humanoïde de taille Moyenne (nain) (M), chaotique
 - **Classe d'armure** 16 (chemise de mailles, bouclier)
 - **Points de vie** 76 (9d8 + 36)
@@ -89952,7 +92453,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Prince Gnome Asservi Aux Démons
 
-- Source: (LDM p424)
+- Source: (LDM p424)(TOB p420)
+- TOB: Devilbound Gnomish Prince
 -  Humanoïde de Petite taille (gnome) (P), mauvais
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 104 (19d6 + 38)
@@ -89978,7 +92480,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Seigneur Des Bandits
 
-- Source: (LDM p425)
+- Source: (LDM p425)(TOB p418)
+- TOB: Bandit Lord
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), tout
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 91 (14d8 + 28)
@@ -90040,7 +92543,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # Variante : Sorcier Vampire
 
-- Source: (LDM p426)
+- Source: (LDM p426)(TOB p426)
+- TOB: Variant: Vampire Warlock
 
 Le sorcier vampire n'est pas sujet à défense d'entrer ni blessé par l'eau courante, faiblesses des vampires ordinaires, et subit 10 dégâts radiants au lieu de 20 s'il est exposé à la lumière du jour.
 

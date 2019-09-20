@@ -4,7 +4,8 @@
 
 # Dragon De Flammes, Dragonnet
 
-- Source: (LDM p127)
+- Source: (LDM p127)(TOB p131)
+- TOB: Flame Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
