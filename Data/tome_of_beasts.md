@@ -13202,7 +13202,7 @@ dépassent leurs compétences.
 
 - Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
 - TOB: <!--AltName-->Nkosi<!--/AltName-->
--  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
+-  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13238,7 +13238,7 @@ dépassent leurs compétences.
 
 - Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
 - TOB: <!--AltName-->Nkosi Pridelord<!--/AltName-->
--  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
+-  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (17d8+17)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
