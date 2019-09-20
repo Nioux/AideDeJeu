@@ -132,7 +132,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Ala<!--/Name-->
 
-- Source: <!--Source-->(LDM p13)<!--/Source-->
+- Source: <!--Source-->(LDM p11)(TOB p13)<!--/Source-->
 - TOB: <!--AltName-->Ala<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -288,7 +288,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Amanite Myconide<!--/Name-->
 
-- Source: <!--Source-->(LDM p14)<!--/Source-->
+- Source: <!--Source-->(LDM p14)(TOB p300)<!--/Source-->
+- TOB: <!--AltName-->Deathcap Myconid<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
@@ -578,7 +579,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Apparition Putride<!--/Name-->
 
-- Source: <!--Source-->(LDM p22)<!--/Source-->
+- Source: <!--Source-->(LDM p22)(TOB p315)<!--/Source-->
+- TOB: <!--AltName-->Putrid Haunt<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
@@ -611,7 +613,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Araignée À Lignes Rouges<!--/Name-->
 
-- Source: <!--Source-->(LDM p23)<!--/Source-->
+- Source: <!--Source-->(LDM p23)(TOB p363)<!--/Source-->
+- TOB: <!--AltName-->Red-Banded Line Spider<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -644,7 +647,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Araignée De Leng<!--/Name-->
 
-- Source: <!--Source-->(LDM p24)<!--/Source-->
+- Source: <!--Source-->(LDM p24)(TOB p365)<!--/Source-->
+- TOB: <!--AltName-->Spider of Leng<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->144 (17d10+51)<!--/HitPoints-->
@@ -696,7 +700,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Araignée Des Sables<!--/Name-->
 
-- Source: <!--Source-->(LDM p25)<!--/Source-->
+- Source: <!--Source-->(LDM p25)(TOB p364)<!--/Source-->
+- TOB: <!--AltName-->Sand Spider<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d10+28)<!--/HitPoints-->
@@ -733,7 +738,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Araignée J'Ba Fofi<!--/Name-->
 
-- Source: <!--Source-->(LDM p26)<!--/Source-->
+- Source: <!--Source-->(LDM p26)(TOB p362)<!--/Source-->
+- TOB: <!--AltName-->J'Ba Fofi Spider<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d10+20)<!--/HitPoints-->
@@ -767,7 +773,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Araignée Marchespectre<!--/Name-->
 
-- Source: <!--Source-->(LDM p27)<!--/Source-->
+- Source: <!--Source-->(LDM p27)(TOB p361)<!--/Source-->
+- TOB: <!--AltName-->Ghostwalk Spider<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
@@ -810,7 +817,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Araignée Voleuse<!--/Name-->
 
-- Source: <!--Source-->(LDM p28)<!--/Source-->
+- Source: <!--Source-->(LDM p28)(TOB p366)<!--/Source-->
+- TOB: <!--AltName-->Spider Thief<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d6+12)<!--/HitPoints-->
@@ -1040,7 +1048,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Automate Bibliothécaire<!--/Name-->
 
-- Source: <!--Source-->(LDM p34)<!--/Source-->
+- Source: <!--Source-->(LDM p34)(TOB p273)<!--/Source-->
+- TOB: <!--AltName-->Library Automaton<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -1291,7 +1300,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Bête D'Ombre<!--/Name-->
 
-- Source: <!--Source-->(LDM p41)<!--/Source-->
+- Source: <!--Source-->(LDM p41)(TOB p345)<!--/Source-->
+- TOB: <!--AltName-->Shadow Beast<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d8+54)<!--/HitPoints-->
@@ -1409,7 +1419,8 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 # <!--Name-->Bondisseur Aquatique<!--/Name-->
 
-- Source: <!--Source-->(LDM p44)<!--/Source-->
+- Source: <!--Source-->(LDM p44)(TOB p406)<!--/Source-->
+- TOB: <!--AltName-->Water Leaper<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d10+26)<!--/HitPoints-->
@@ -1848,7 +1859,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chapeau Rouge<!--/Name-->
 
-- Source: <!--Source-->(LDM p55)<!--/Source-->
+- Source: <!--Source-->(LDM p55)(TOB p325)<!--/Source-->
+- TOB: <!--AltName-->Redcap<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
@@ -2050,7 +2062,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Chien Du Temple<!--/Name-->
 
-- Source: <!--Source-->(LDM p60)<!--/Source-->
+- Source: <!--Source-->(LDM p60)(TOB p378)<!--/Source-->
+- TOB: <!--AltName-->Temple Dog<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (15d8+30)<!--/HitPoints-->
@@ -2267,7 +2280,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Colonne Possédée<!--/Name-->
 
-- Source: <!--Source-->(LDM p66)<!--/Source-->
+- Source: <!--Source-->(LDM p66)(TOB p314)<!--/Source-->
+- TOB: <!--AltName-->Possessed Pillar<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
@@ -2353,7 +2367,8 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 
 # <!--Name-->Coquicape<!--/Name-->
 
-- Source: <!--Source-->(LDM p68)<!--/Source-->
+- Source: <!--Source-->(LDM p68)(TOB p346)<!--/Source-->
+- TOB: <!--AltName-->Shellycoat<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -2620,7 +2635,8 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 
 # <!--Name-->Demoiselle Glacée<!--/Name-->
 
-- Source: <!--Source-->(LDM p75)<!--/Source-->
+- Source: <!--Source-->(LDM p75)(TOB p254)<!--/Source-->
+- TOB: <!--AltName-->Ice Maiden<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d8+26)<!--/HitPoints-->
@@ -2768,7 +2784,8 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 
 # <!--Name-->Démon De Sève<!--/Name-->
 
-- Source: <!--Source-->(LDM p78)<!--/Source-->
+- Source: <!--Source-->(LDM p78)(TOB p335)<!--/Source-->
+- TOB: <!--AltName-->Sap Demon<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (15d6+15)<!--/HitPoints-->
@@ -3561,7 +3578,8 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 # <!--Name-->Dévoreur D'Âmes<!--/Name-->
 
-- Source: <!--Source-->(LDM p96)<!--/Source-->
+- Source: <!--Source-->(LDM p96)(TOB p356)<!--/Source-->
+- TOB: <!--AltName-->Soul Eater<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (16d8+32)<!--/HitPoints-->
@@ -6053,7 +6071,8 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 
 # <!--Name-->Dragonette Lanterne<!--/Name-->
 
-- Source: <!--Source-->(LDM p148)<!--/Source-->
+- Source: <!--Source-->(LDM p148)(TOB p270)<!--/Source-->
+- TOB: <!--AltName-->Lantern Dragonette<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->28 (8d4+8)<!--/HitPoints-->
@@ -7132,7 +7151,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Esclave Putresprit<!--/Name-->
 
-- Source: <!--Source-->(LDM p173)<!--/Source-->
+- Source: <!--Source-->(LDM p173)(TOB p290)<!--/Source-->
+- TOB: <!--AltName-->Mindrot Thrall<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d8+33)<!--/HitPoints-->
@@ -7208,7 +7228,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Étincelle<!--/Name-->
 
-- Source: <!--Source-->(LDM p175)<!--/Source-->
+- Source: <!--Source-->(LDM p175)(TOB p357)<!--/Source-->
+- TOB: <!--AltName-->Spark<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d4+52)<!--/HitPoints-->
@@ -7244,7 +7265,8 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 # <!--Name-->Fangeux<!--/Name-->
 
-- Source: <!--Source-->(LDM p176)<!--/Source-->
+- Source: <!--Source-->(LDM p176)(TOB p292)<!--/Source-->
+- TOB: <!--AltName-->Miremal<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d6+5)<!--/HitPoints-->
@@ -8033,7 +8055,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # <!--Name-->Férocien<!--/Name-->
 
-- Source: <!--Source-->(LDM p195)<!--/Source-->
+- Source: <!--Source-->(LDM p195)(TOB p338)<!--/Source-->
+- TOB: <!--AltName-->Savager<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->115 (1d10+60)<!--/HitPoints-->
@@ -8115,7 +8138,8 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 
 # <!--Name-->Fils De Fenris<!--/Name-->
 
-- Source: <!--Source-->(LDM p197)<!--/Source-->
+- Source: <!--Source-->(LDM p197)(TOB p355)<!--/Source-->
+- TOB: <!--AltName-->Son of Fenris<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->175 (14d12+84)<!--/HitPoints-->
@@ -8321,7 +8345,8 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 
 # <!--Name-->Gardien Spectral<!--/Name-->
 
-- Source: <!--Source-->(LDM p201)<!--/Source-->
+- Source: <!--Source-->(LDM p201)(TOB p358)<!--/Source-->
+- TOB: <!--AltName-->Spectral Guardian<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d8+52)<!--/HitPoints-->
@@ -9864,7 +9889,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # <!--Name-->Escarmoucheur Homme-Cafard<!--/Name-->
 
-- Source: <!--Source-->(LDM p238)<!--/Source-->
+- Source: <!--Source-->(LDM p238)(TOB p329)<!--/Source-->
+- TOB: <!--AltName-->Roachling Skirmisher<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-cafard)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -9896,7 +9922,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # <!--Name-->Seigneur Homme-Cafard<!--/Name-->
 
-- Source: <!--Source-->(LDM p238)<!--/Source-->
+- Source: <!--Source-->(LDM p238)(TOB p329)<!--/Source-->
+- TOB: <!--AltName-->Roachling Lord<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-cafard)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d6+14)<!--/HitPoints-->
@@ -9965,7 +9992,8 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 
 # <!--Name-->Combattant Homme-Corbeau<!--/Name-->
 
-- Source: <!--Source-->(LDM p240)<!--/Source-->
+- Source: <!--Source-->(LDM p240)(TOB p323)<!--/Source-->
+- TOB: <!--AltName-->Ravenfolk Warrior<!--/AltName-->
 -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
@@ -10013,7 +10041,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Croasseur Funeste Homme-Corbeau<!--/Name-->
 
-- Source: <!--Source-->(LDM p241)<!--/Source-->
+- Source: <!--Source-->(LDM p241)(TOB p324)<!--/Source-->
+- TOB: <!--AltName-->Ravenfolk Doom Croaker<!--/AltName-->
 -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->88 (16d8+16)<!--/HitPoints-->
@@ -10055,7 +10084,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Éclaireur Homme-Corbeau<!--/Name-->
 
-- Source: <!--Source-->(LDM p242)<!--/Source-->
+- Source: <!--Source-->(LDM p242)(TOB p322)<!--/Source-->
+- TOB: <!--AltName-->Ravenfolk Scout<!--/AltName-->
 -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->21 (6d8 – 6)<!--/HitPoints-->
@@ -10091,7 +10121,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Homme-Lémurien<!--/Name-->
 
-- Source: <!--Source-->(LDM p243)<!--/Source-->
+- Source: <!--Source-->(LDM p243)(TOB p271)<!--/Source-->
+- TOB: <!--AltName-->Lemurfolk<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-lémurien)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->14 (4d6)<!--/HitPoints-->
@@ -10122,7 +10153,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Homme-Lémurien Fourrure Grise<!--/Name-->
 
-- Source: <!--Source-->(LDM p243)<!--/Source-->
+- Source: <!--Source-->(LDM p243)(TOB p271)<!--/Source-->
+- TOB: <!--AltName-->Lemurfolk Greyfur<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-lémurien)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (16 avec armure du mage )<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (15d6+15)<!--/HitPoints-->
@@ -10198,7 +10230,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Homme-Rat<!--/Name-->
 
-- Source: <!--Source-->(LDM p245)<!--/Source-->
+- Source: <!--Source-->(LDM p245)(TOB p320)<!--/Source-->
+- TOB: <!--AltName-->Ratfolk<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-rat)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -10229,7 +10262,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Roublard Homme-Rat<!--/Name-->
 
-- Source: <!--Source-->(LDM p245)<!--/Source-->
+- Source: <!--Source-->(LDM p245)(TOB p320)<!--/Source-->
+- TOB: <!--AltName-->Ratfolk Rogue<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-rat)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
@@ -10303,7 +10337,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Hundun<!--/Name-->
 
-- Source: <!--Source-->(LDM p247)<!--/Source-->
+- Source: <!--Source-->(LDM p247)(TOB p253)<!--/Source-->
+- TOB: <!--AltName-->Hundun<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d10+54)<!--/HitPoints-->
@@ -10360,7 +10395,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Idole Divine<!--/Name-->
 
-- Source: <!--Source-->(LDM p248)<!--/Source-->
+- Source: <!--Source-->(LDM p248)(TOB p255)<!--/Source-->
+- TOB: <!--AltName-->Idolic Deity<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d6+48)<!--/HitPoints-->
@@ -10400,7 +10436,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Imy-Ut Ushabti<!--/Name-->
 
-- Source: <!--Source-->(LDM p249)<!--/Source-->
+- Source: <!--Source-->(LDM p249)(TOB p256)<!--/Source-->
+- TOB: <!--AltName-->Imy-Ut Ushabti<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (15d8+30)<!--/HitPoints-->
@@ -10436,7 +10473,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Isonade<!--/Name-->
 
-- Source: <!--Source-->(LDM p250)<!--/Source-->
+- Source: <!--Source-->(LDM p250)(TOB p257)<!--/Source-->
+- TOB: <!--AltName-->Isonade<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->222 (12d20+96)<!--/HitPoints-->
@@ -10485,7 +10523,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Jaculus<!--/Name-->
 
-- Source: <!--Source-->(LDM p251)<!--/Source-->
+- Source: <!--Source-->(LDM p251)(TOB p258)<!--/Source-->
+- TOB: <!--AltName-->Jaculus<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d6+30)<!--/HitPoints-->
@@ -10518,7 +10557,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Kalke<!--/Name-->
 
-- Source: <!--Source-->(LDM p252)<!--/Source-->
+- Source: <!--Source-->(LDM p252)(TOB p259)<!--/Source-->
+- TOB: <!--AltName-->Kalke<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d6+2)<!--/HitPoints-->
@@ -10549,7 +10589,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Kikimore<!--/Name-->
 
-- Source: <!--Source-->(LDM p253)<!--/Source-->
+- Source: <!--Source-->(LDM p253)(TOB p260)<!--/Source-->
+- TOB: <!--AltName-->Kikimora<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
@@ -10589,7 +10630,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Alchimiste Kobold<!--/Name-->
 
-- Source: <!--Source-->(LDM p254)<!--/Source-->
+- Source: <!--Source-->(LDM p254)(TOB p261)<!--/Source-->
+- TOB: <!--AltName-->Kobold Alchemist<!--/AltName-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d6+16)<!--/HitPoints-->
@@ -10631,7 +10673,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Chef Kobold<!--/Name-->
 
-- Source: <!--Source-->(LDM p256)<!--/Source-->
+- Source: <!--Source-->(LDM p256)(TOB p263)<!--/Source-->
+- TOB: <!--AltName-->Kobold Chieftain<!--/AltName-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure de cuir clouté et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (15d6+30)<!--/HitPoints-->
@@ -10672,7 +10715,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Forgepiège Kobold<!--/Name-->
 
-- Source: <!--Source-->(LDM p257)<!--/Source-->
+- Source: <!--Source-->(LDM p257)(TOB p264)<!--/Source-->
+- TOB: <!--AltName-->Kobold Trapsmith<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d6+8)<!--/HitPoints-->
@@ -10711,7 +10755,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Kongamato<!--/Name-->
 
-- Source: <!--Source-->(LDM p258)<!--/Source-->
+- Source: <!--Source-->(LDM p258)(TOB p265)<!--/Source-->
+- TOB: <!--AltName-->Kongamato<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d10+30)<!--/HitPoints-->
@@ -10746,7 +10791,8 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 # <!--Name-->Koschei<!--/Name-->
 
-- Source: <!--Source-->(LDM p259)<!--/Source-->
+- Source: <!--Source-->(LDM p259)(TOB p266)<!--/Source-->
+- TOB: <!--AltName-->Koschei<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d8+54)<!--/HitPoints-->
@@ -10833,7 +10879,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Kot Bayun<!--/Name-->
 
-- Source: <!--Source-->(LDM p261)<!--/Source-->
+- Source: <!--Source-->(LDM p261)(TOB p268)<!--/Source-->
+- TOB: <!--AltName-->Kot Bayun<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
@@ -10872,7 +10919,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Larve De Krake<!--/Name-->
 
-- Source: <!--Source-->(LDM p262)<!--/Source-->
+- Source: <!--Source-->(LDM p262)(TOB p269)<!--/Source-->
+- TOB: <!--AltName-->Krake Spawn<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->150 (12d12+72)<!--/HitPoints-->
@@ -10919,7 +10967,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Larve Stellaire De Cthulhu<!--/Name-->
 
-- Source: <!--Source-->(LDM p263)<!--/Source-->
+- Source: <!--Source-->(LDM p263)(TOB p368)<!--/Source-->
+- TOB: <!--AltName-->Star Spawn of Cthulhu<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->187 (15d10+105)<!--/HitPoints-->
@@ -10954,21 +11003,14 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 **_Pas dimensionnel._** _Attaque d'arme au corps à corps :_ +12 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d20+7) dégâts contondants et la cible doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi elle est téléportée ailleurs, comme avec de créature (le croassement du corbeau, le rugissement de l'ours) et non la voix d'un individu spécifique.
 
-## ACTIONS
-
-**_Attaques multiples._** Le léchy fait deux attaques de gourdin.
-
-**_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
-
-**_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
-
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
 # <!--Name-->Léchy<!--/Name-->
 
-- Source: <!--Source-->(LDM p264)<!--/Source-->
+- Source: <!--Source-->(LDM p264)(TOB p272)<!--/Source-->
+- TOB: <!--AltName-->Leshy<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d8+26)<!--/HitPoints-->
@@ -10993,13 +11035,22 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 **_Imitation._** Le léchy peut imiter les cris et les voix de toutes les créatures qu'il a entendues. Pour cela, il doit faire un test de Charisme (Supercherie). Si l'auditeur réussit un test de Sagesse (Perspicacité) ou d'Intelligence (Nature) (au choix du MJ), il comprend qu'il s'agit d'une imitation. Le léchy est avantagé sur le test s'il imite un type général
 
+## ACTIONS
+
+**_Attaques multiples._** Le léchy fait deux attaques de gourdin.
+
+**_Changement de taille._** Le léchy semble changer de taille et devenir aussi grand qu'un chêne (Gigantesque) ou aussi petit qu'un brin d'herbe (Minuscule). Ce n'est qu'une illusion, ses statistiques ne changent donc pas.
+
+**_Gourdin._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 6 (1d6+3) dégâts contondants.
+
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
 # <!--Name-->Lente Tempête<!--/Name-->
 
-- Source: <!--Source-->(LDM p265)<!--/Source-->
+- Source: <!--Source-->(LDM p265)(TOB p353)<!--/Source-->
+- TOB: <!--AltName-->Slow Storm<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->225 (18d12+108)<!--/HitPoints-->
@@ -11097,7 +11148,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Liche Canine<!--/Name-->
 
-- Source: <!--Source-->(LDM p268)<!--/Source-->
+- Source: <!--Source-->(LDM p268)(TOB p274)<!--/Source-->
+- TOB: <!--AltName-->Lich Hound<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d8+56)<!--/HitPoints-->
@@ -11134,7 +11186,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Likho<!--/Name-->
 
-- Source: <!--Source-->(LDM p269)<!--/Source-->
+- Source: <!--Source-->(LDM p269)(TOB p275)<!--/Source-->
+- TOB: <!--AltName-->Likho<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
@@ -11176,7 +11229,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Limon Des Sarcophages<!--/Name-->
 
-- Source: <!--Source-->(LDM p270)<!--/Source-->
+- Source: <!--Source-->(LDM p270)(TOB p336)<!--/Source-->
+- TOB: <!--AltName-->Sarcophagus Slime<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
@@ -11213,7 +11267,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Linceul<!--/Name-->
 
-- Source: <!--Source-->(LDM p271)<!--/Source-->
+- Source: <!--Source-->(LDM p271)(TOB p348)<!--/Source-->
+- TOB: <!--AltName-->Shroud<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
@@ -11250,7 +11305,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Lindwurm<!--/Name-->
 
-- Source: <!--Source-->(LDM p272)<!--/Source-->
+- Source: <!--Source-->(LDM p272)(TOB p276)<!--/Source-->
+- TOB: <!--AltName-->Lindwurm<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d10+48)<!--/HitPoints-->
@@ -11290,7 +11346,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Liosalfar<!--/Name-->
 
-- Source: <!--Source-->(LDM p273)<!--/Source-->
+- Source: <!--Source-->(LDM p273)(TOB p277)<!--/Source-->
+- TOB: <!--AltName-->Liosalfar<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (20d10)<!--/HitPoints-->
@@ -11381,7 +11438,8 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 
 # <!--Name-->Lorelei<!--/Name-->
 
-- Source: <!--Source-->(LDM p275)<!--/Source-->
+- Source: <!--Source-->(LDM p275)(TOB p279)<!--/Source-->
+- TOB: <!--AltName-->Lorelei<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (18 avec armure du mage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
@@ -11430,7 +11488,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Loxoda<!--/Name-->
 
-- Source: <!--Source-->(LDM p276)<!--/Source-->
+- Source: <!--Source-->(LDM p276)(TOB p280)<!--/Source-->
+- TOB: <!--AltName-->Loxoda<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->147 (14d12+56)<!--/HitPoints-->
@@ -11463,7 +11522,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Lynx Vaporeux<!--/Name-->
 
-- Source: <!--Source-->(LDM p277)<!--/Source-->
+- Source: <!--Source-->(LDM p277)(TOB p398)<!--/Source-->
+- TOB: <!--AltName-->Vapor Lynx<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10+45)<!--/HitPoints-->
@@ -11500,7 +11560,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Mahoru<!--/Name-->
 
-- Source: <!--Source-->(LDM p278)<!--/Source-->
+- Source: <!--Source-->(LDM p278)(TOB p281)<!--/Source-->
+- TOB: <!--AltName-->Mahoru<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8+28)<!--/HitPoints-->
@@ -11546,7 +11607,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Mallqui<!--/Name-->
 
-- Source: <!--Source-->(LDM p279)<!--/Source-->
+- Source: <!--Source-->(LDM p279)(TOB p282)<!--/Source-->
+- TOB: <!--AltName-->Mallqui<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
@@ -11595,7 +11657,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Malphas (Corbeau De Tempête)<!--/Name-->
 
-- Source: <!--Source-->(LDM p280)<!--/Source-->
+- Source: <!--Source-->(LDM p280)(TOB p283)<!--/Source-->
+- TOB: <!--AltName-->Malphas (Storm Crow)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
@@ -11639,7 +11702,8 @@ dès qu'elle est en contact avec une étendue d'eau.
 
 # <!--Name-->Mamura<!--/Name-->
 
-- Source: <!--Source-->(LDM p281)<!--/Source-->
+- Source: <!--Source-->(LDM p281)(TOB p284)<!--/Source-->
+- TOB: <!--AltName-->Mamura<!--/AltName-->
 -  <!--Type-->Aberration (fée)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise.<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d6+52)<!--/HitPoints-->
@@ -11889,7 +11953,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Marchand De Sable<!--/Name-->
 
-- Source: <!--Source-->(LDM p287)<!--/Source-->
+- Source: <!--Source-->(LDM p287)(TOB p333)<!--/Source-->
+- TOB: <!--AltName-->Sandman<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d8+33)<!--/HitPoints-->
@@ -11934,7 +11999,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Marcheflèche<!--/Name-->
 
-- Source: <!--Source-->(LDM p288)<!--/Source-->
+- Source: <!--Source-->(LDM p288)(TOB p367)<!--/Source-->
+- TOB: <!--AltName-->Spire Walker<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (11d4+22)<!--/HitPoints-->
@@ -11973,7 +12039,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Mavka<!--/Name-->
 
-- Source: <!--Source-->(LDM p289)<!--/Source-->
+- Source: <!--Source-->(LDM p289)(TOB p286)<!--/Source-->
+- TOB: <!--AltName-->Mavka<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->170 (20d8+80)<!--/HitPoints-->
@@ -12289,7 +12356,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Mèche Vivante<!--/Name-->
 
-- Source: <!--Source-->(LDM p297)<!--/Source-->
+- Source: <!--Source-->(LDM p297)(TOB p278)<!--/Source-->
+- TOB: <!--AltName-->Living Wick<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->28 (8d6)<!--/HitPoints-->
@@ -12324,7 +12392,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Médazur À Défenses<!--/Name-->
 
-- Source: <!--Source-->(LDM p298)<!--/Source-->
+- Source: <!--Source-->(LDM p298)(TOB p391)<!--/Source-->
+- TOB: <!--AltName-->Tusked Skyfish<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale bonne<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
@@ -12357,7 +12426,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Mélasse<!--/Name-->
 
-- Source: <!--Source-->(LDM p299)<!--/Source-->
+- Source: <!--Source-->(LDM p299)(TOB p387)<!--/Source-->
+- TOB: <!--AltName-->Treacle<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d4+12)<!--/HitPoints-->
@@ -12388,7 +12458,8 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 
 # <!--Name-->Mi-Go<!--/Name-->
 
-- Source: <!--Source-->(LDM p300)<!--/Source-->
+- Source: <!--Source-->(LDM p300)(TOB p287)<!--/Source-->
+- TOB: <!--AltName-->Mi-Go<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (8d8+40)<!--/HitPoints-->
@@ -12428,7 +12499,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # <!--Name-->Millitaure<!--/Name-->
 
-- Source: <!--Source-->(LDM p301)<!--/Source-->
+- Source: <!--Source-->(LDM p301)(TOB p288)<!--/Source-->
+- TOB: <!--AltName-->Millitaur<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
@@ -12457,7 +12529,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # <!--Name-->Mimique Carte<!--/Name-->
 
-- Source: <!--Source-->(LDM p302)<!--/Source-->
+- Source: <!--Source-->(LDM p302)(TOB p289)<!--/Source-->
+- TOB: <!--AltName-->Map Mimic<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
@@ -12531,7 +12604,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # <!--Name-->Mirageur<!--/Name-->
 
-- Source: <!--Source-->(LDM p304)<!--/Source-->
+- Source: <!--Source-->(LDM p304)(TOB p291)<!--/Source-->
+- TOB: <!--AltName-->Mirager<!--/AltName-->
 -  <!--Type-->Fée (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
@@ -12572,7 +12646,8 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 
 # <!--Name-->Mngwa<!--/Name-->
 
-- Source: <!--Source-->(LDM p305)<!--/Source-->
+- Source: <!--Source-->(LDM p305)(TOB p293)<!--/Source-->
+- TOB: <!--AltName-->Mngwa<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8+28)<!--/HitPoints-->
@@ -12649,7 +12724,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Momie Venimeuse<!--/Name-->
 
-- Source: <!--Source-->(LDM p307)<!--/Source-->
+- Source: <!--Source-->(LDM p307)(TOB p299)<!--/Source-->
+- TOB: <!--AltName-->Venomous Mummy<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
@@ -12682,7 +12758,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Champion Monolithique<!--/Name-->
 
-- Source: <!--Source-->(LDM p308)<!--/Source-->
+- Source: <!--Source-->(LDM p308)(TOB p294)<!--/Source-->
+- TOB: <!--AltName-->Monolith Champion<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
@@ -12716,7 +12793,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Valet Monolithique<!--/Name-->
 
-- Source: <!--Source-->(LDM p309)<!--/Source-->
+- Source: <!--Source-->(LDM p309)(TOB p295)<!--/Source-->
+- TOB: <!--AltName-->Monolith Footman<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (8d10+16)<!--/HitPoints-->
@@ -12791,7 +12869,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Morphoï<!--/Name-->
 
-- Source: <!--Source-->(LDM p311)<!--/Source-->
+- Source: <!--Source-->(LDM p311)(TOB p297)<!--/Source-->
+- TOB: <!--AltName-->Morphoi<!--/AltName-->
 -  <!--Type-->Plante (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (parfois plus avec une armure)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
@@ -12898,7 +12977,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Myling<!--/Name-->
 
-- Source: <!--Source-->(LDM p314)<!--/Source-->
+- Source: <!--Source-->(LDM p314)(TOB p301)<!--/Source-->
+- TOB: <!--AltName-->Myling<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d6+10)<!--/HitPoints-->
@@ -12932,7 +13012,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Naïna<!--/Name-->
 
-- Source: <!--Source-->(LDM p315)<!--/Source-->
+- Source: <!--Source-->(LDM p315)(TOB p302)<!--/Source-->
+- TOB: <!--AltName-->Naina<!--/AltName-->
 -  <!--Type-->Dragon (métamorphe)<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (22d10+110)<!--/HitPoints-->
@@ -12972,11 +13053,9 @@ dépassent leurs compétences.
 
 **_Attaques multiples._** La naïna fait deux attaques de griffes et une attaque de morsure.
 
-**_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-24(3d12+5) dégâts perforants. 
+**_Morsure (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts perforants. 
 
-**_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché:
-24(3d12+5) dégâts tranchants. 
+**_Griffes (forme de drake uniquement)._** _Attaque d'arme au corps à corps :_ +9 pour toucher, allonge 1,50 m, une cible. Touché: 24(3d12+5) dégâts tranchants. 
 
 **_Souffle empoisonné (Recharge 5-6)._** Sous forme de drake uniquement, la naïna souffle un cône de gaz empoisonné, paralysant ou somnifère.
 
@@ -12992,7 +13071,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nécrophage Masqué<!--/Name-->
 
-- Source: <!--Source-->(LDM p316)<!--/Source-->
+- Source: <!--Source-->(LDM p316)(TOB p285)<!--/Source-->
+- TOB: <!--AltName-->Mask Wight<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->207 (18d8 +126)<!--/HitPoints-->
@@ -13070,7 +13150,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nichny<!--/Name-->
 
-- Source: <!--Source-->(LDM p318)<!--/Source-->
+- Source: <!--Source-->(LDM p318)(TOB p303)<!--/Source-->
+- TOB: <!--AltName-->Nichny<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -13119,8 +13200,9 @@ dépassent leurs compétences.
 
 # <!--Name-->Nkosi<!--/Name-->
 
-- Source: <!--Source-->(LDM p319)<!--/Source-->
--  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe (<!--Size-->M<!--/Size-->), nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
+- Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
+- TOB: <!--AltName-->Nkosi<!--/AltName-->
+-  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13154,8 +13236,9 @@ dépassent leurs compétences.
 
 # <!--Name-->Chef De Meute Nkosi<!--/Name-->
 
-- Source: <!--Source-->(LDM p319)<!--/Source-->
--  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe (<!--Size-->M<!--/Size-->), nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
+- Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
+- TOB: <!--AltName-->Nkosi Pridelord<!--/AltName-->
+-  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), loyal neutre
 - **Classe d'armure** <!--ArmorClass-->16 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (17d8+17)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13195,7 +13278,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Autruche de guerre<!--/Name-->
 
-- Source: <!--Source-->(LDM p320)<!--/Source-->
+- Source: <!--Source-->(LDM p320)(TOB p307)<!--/Source-->
+- TOB: <!--AltName-->War Ostrich<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (5d10+15)<!--/HitPoints-->
@@ -13220,7 +13304,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Noctegarm<!--/Name-->
 
-- Source: <!--Source-->(LDM p322)<!--/Source-->
+- Source: <!--Source-->(LDM p322)(TOB p305)<!--/Source-->
+- TOB: <!--AltName-->Nightgarm<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
@@ -13259,7 +13344,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Factice noctegarm<!--/Name-->
 
-- Source: <!--Source-->(LDM p322)<!--/Source-->
+- Source: <!--Source-->(LDM p322)(TOB p305)<!--/Source-->
+- TOB: <!--AltName-->Nightgarm Falseman<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Vulnérabilité aux dégâts** <!--DamageVulnerabilities-->radiants; aux armes en argent<!--/DamageVulnerabilities-->
 
@@ -13273,7 +13359,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Noctin<!--/Name-->
 
-- Source: <!--Source-->(LDM p323)<!--/Source-->
+- Source: <!--Source-->(LDM p323)(TOB p308)<!--/Source-->
+- TOB: <!--AltName-->Noctiny<!--/AltName-->
 -  <!--Type-->Humanoïde (noctin)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
@@ -13312,7 +13399,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée D'Esprits Lupins<!--/Name-->
 
-- Source: <!--Source-->(LDM p324)<!--/Source-->
+- Source: <!--Source-->(LDM p324)(TOB p377)<!--/Source-->
+- TOB: <!--AltName-->Wolf Spirit Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille de morts-vivants de taille Moyenne (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (15d10+15)<!--/HitPoints-->
@@ -13349,7 +13437,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée D'Yeux<!--/Name-->
 
-- Source: <!--Source-->(LDM p325)<!--/Source-->
+- Source: <!--Source-->(LDM p325)(TOB p309)<!--/Source-->
+- TOB: <!--AltName-->Oculo Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille d'aberrations de taille Minuscule (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
@@ -13380,7 +13469,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Danseflammes<!--/Name-->
 
-- Source: <!--Source-->(LDM p326)<!--/Source-->
+- Source: <!--Source-->(LDM p326)(TOB p373)<!--/Source-->
+- TOB: <!--AltName-->Fire Dancer Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne d'élémentaires de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
@@ -13485,7 +13575,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Scarabées Manavores<!--/Name-->
 
-- Source: <!--Source-->(LDM p328)<!--/Source-->
+- Source: <!--Source-->(LDM p328)(TOB p374)<!--/Source-->
+- TOB: <!--AltName-->Manabane Scarab Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -13546,7 +13637,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Scarabées Prismatiques<!--/Name-->
 
-- Source: <!--Source-->(LDM p330)<!--/Source-->
+- Source: <!--Source-->(LDM p330)(TOB p375)<!--/Source-->
+- TOB: <!--AltName-->Prismatic Beetle Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (7d8+7)<!--/HitPoints-->
@@ -13578,7 +13670,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Sluaghs<!--/Name-->
 
-- Source: <!--Source-->(LDM p331)<!--/Source-->
+- Source: <!--Source-->(LDM p331)(TOB p376)<!--/Source-->
+- TOB: <!--AltName-->Sluagh Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de fées de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d8)<!--/HitPoints-->
@@ -13737,7 +13830,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Ostinato<!--/Name-->
 
-- Source: <!--Source-->(LDM p335)<!--/Source-->
+- Source: <!--Source-->(LDM p335)(TOB p335)<!--/Source-->
+- TOB: <!--AltName-->Ostinato<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d8+12)<!--/HitPoints-->
@@ -13778,7 +13872,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Ovasis<!--/Name-->
 
-- Source: <!--Source-->(LDM p336)<!--/Source-->
+- Source: <!--Source-->(LDM p336)(TOB p310)<!--/Source-->
+- TOB: <!--AltName-->Oozasis<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->217 (14d20+70)<!--/HitPoints-->
@@ -13856,7 +13951,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Piège Caustique<!--/Name-->
 
-- Source: <!--Source-->(LDM p338)<!--/Source-->
+- Source: <!--Source-->(LDM p338)(TOB p296)<!--/Source-->
+- TOB: <!--AltName-->Mordant Snare<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->264 (16d20+96)<!--/HitPoints-->
@@ -13898,7 +13994,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Pombero<!--/Name-->
 
-- Source: <!--Source-->(LDM p339)<!--/Source-->
+- Source: <!--Source-->(LDM p339)(TOB p313)<!--/Source-->
+- TOB: <!--AltName-->Pombero<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
@@ -13937,7 +14034,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Pourceau Des Failles<!--/Name-->
 
-- Source: <!--Source-->(LDM p340)<!--/Source-->
+- Source: <!--Source-->(LDM p340)(TOB p326)<!--/Source-->
+- TOB: <!--AltName-->Rift Swine<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
@@ -13977,7 +14075,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Primate Blanc<!--/Name-->
 
-- Source: <!--Source-->(LDM p341)<!--/Source-->
+- Source: <!--Source-->(LDM p341)(TOB p408)<!--/Source-->
+- TOB: <!--AltName-->White Ape<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
@@ -14010,7 +14109,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Profanateur Maudit<!--/Name-->
 
-- Source: <!--Source-->(LDM p342)<!--/Source-->
+- Source: <!--Source-->(LDM p342)(TOB p12)<!--/Source-->
+- TOB: <!--AltName-->Accursed Defiler<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
@@ -14180,7 +14280,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Qwyllion<!--/Name-->
 
-- Source: <!--Source-->(LDM p345)<!--/Source-->
+- Source: <!--Source-->(LDM p345)(TOB p316)<!--/Source-->
+- TOB: <!--AltName-->Qwyllion<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d8+52)<!--/HitPoints-->
@@ -14219,7 +14320,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Ramag<!--/Name-->
 
-- Source: <!--Source-->(LDM p346)<!--/Source-->
+- Source: <!--Source-->(LDM p346)(TOB p317)<!--/Source-->
+- TOB: <!--AltName-->Ramag<!--/AltName-->
 -  <!--Type-->Humanoïde (ramag)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
@@ -14248,7 +14350,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Ratatosk<!--/Name-->
 
-- Source: <!--Source-->(LDM p347)<!--/Source-->
+- Source: <!--Source-->(LDM p347)(TOB p319)<!--/Source-->
+- TOB: <!--AltName-->Ratatosk<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (12d4+12)<!--/HitPoints-->
@@ -14291,7 +14394,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Ravageur Trollien<!--/Name-->
 
-- Source: <!--Source-->(LDM p348)<!--/Source-->
+- Source: <!--Source-->(LDM p348)(TOB p390)<!--/Source-->
+- TOB: <!--AltName-->Trollkin Reaver<!--/AltName-->
 -  <!--Type-->Humanoïde (trollien)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d8+33)<!--/HitPoints-->
@@ -14331,7 +14435,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Ravenala<!--/Name-->
 
-- Source: <!--Source-->(LDM p349)<!--/Source-->
+- Source: <!--Source-->(LDM p349)(TOB p321)<!--/Source-->
+- TOB: <!--AltName-->Ravenala<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
@@ -14375,7 +14480,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Rôdeur Des Quais<!--/Name-->
 
-- Source: <!--Source-->(LDM p350)<!--/Source-->
+- Source: <!--Source-->(LDM p350)(TOB p407)<!--/Source-->
+- TOB: <!--AltName-->Wharfling<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->6 (4d4 - 4)<!--/HitPoints-->
@@ -14402,7 +14508,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Nuée De Rôdeurs Des Quais<!--/Name-->
 
-- Source: <!--Source-->(LDM p350)<!--/Source-->
+- Source: <!--Source-->(LDM p350)(TOB p407)<!--/Source-->
+- TOB: <!--AltName-->Wharfling Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d10 - 14)<!--/HitPoints-->
@@ -14435,7 +14542,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Rôdeur Moussu<!--/Name-->
 
-- Source: <!--Source-->(LDM p351)<!--/Source-->
+- Source: <!--Source-->(LDM p351)(TOB p298)<!--/Source-->
+- TOB: <!--AltName-->Moss Lurker<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d6+10)<!--/HitPoints-->
@@ -14477,7 +14585,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Roi Des Rats<!--/Name-->
 
-- Source: <!--Source-->(LDM p352)<!--/Source-->
+- Source: <!--Source-->(LDM p352)(TOB 318)<!--/Source-->
+- TOB: <!--AltName-->Rat King<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
@@ -14517,7 +14626,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Roussalka<!--/Name-->
 
-- Source: <!--Source-->(LDM p353)<!--/Source-->
+- Source: <!--Source-->(LDM p353)(TOB p331)<!--/Source-->
+- TOB: <!--AltName-->Rusalka<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->88 (16d8+16)<!--/HitPoints-->
@@ -14555,7 +14665,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Saccageur Relevé<!--/Name-->
 
-- Source: <!--Source-->(LDM p354)<!--/Source-->
+- Source: <!--Source-->(LDM p354)(TOB p328)<!--/Source-->
+- TOB: <!--AltName-->Risen Reaver<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d10+80)<!--/HitPoints-->
@@ -14636,7 +14747,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Scheznyki<!--/Name-->
 
-- Source: <!--Source-->(LDM p356)<!--/Source-->
+- Source: <!--Source-->(LDM p356)(TOB p339)<!--/Source-->
+- TOB: <!--AltName-->Scheznyki<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d6+72)<!--/HitPoints-->
@@ -14678,7 +14790,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Scorpion Nocturne<!--/Name-->
 
-- Source: <!--Source-->(LDM p357)<!--/Source-->
+- Source: <!--Source-->(LDM p357)(TOB p340)<!--/Source-->
+- TOB: <!--AltName-->Night Scorpion<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d10+24)<!--/HitPoints-->
@@ -14706,7 +14819,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Scorpion Stygien À Large Queue<!--/Name-->
 
-- Source: <!--Source-->(LDM p357)<!--/Source-->
+- Source: <!--Source-->(LDM p357)(TOB p340)<!--/Source-->
+- TOB: <!--AltName-->Stygian Fat-Tailed Scorpion<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (4d4)<!--/HitPoints-->
@@ -14734,7 +14848,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Seigneur Des Lianes<!--/Name-->
 
-- Source: <!--Source-->(LDM p358)<!--/Source-->
+- Source: <!--Source-->(LDM p358)(TOB p402)<!--/Source-->
+- TOB: <!--AltName-->Vine Lord<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
@@ -14777,7 +14892,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Marionnette Des Lianes<!--/Name-->
 
-- Source: <!--Source-->(LDM p359)<!--/Source-->
+- Source: <!--Source-->(LDM p359)(TOB p403)<!--/Source-->
+- TOB: <!--AltName-->Tendril Puppet<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->34 (4d8+16)<!--/HitPoints-->
@@ -14813,7 +14929,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Sélang<!--/Name-->
 
-- Source: <!--Source-->(LDM p360)<!--/Source-->
+- Source: <!--Source-->(LDM p360)(TOB p341)<!--/Source-->
+- TOB: <!--AltName-->Selang<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
@@ -14855,7 +14972,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Vipère Du Marais<!--/Name-->
 
-- Source: <!--Source-->(LDM p361)<!--/Source-->
+- Source: <!--Source-->(LDM p361)(TOB p354)<!--/Source-->
+- TOB: <!--AltName-->Swamp Adder<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
@@ -14881,7 +14999,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Vipère De Zanskaran<!--/Name-->
 
-- Source: <!--Source-->(LDM p361)<!--/Source-->
+- Source: <!--Source-->(LDM p361)(TOB p354)<!--/Source-->
+- TOB: <!--AltName-->Zanskaran Viper<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (4d10+16)<!--/HitPoints-->
@@ -14905,7 +15024,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Serpopard<!--/Name-->
 
-- Source: <!--Source-->(LDM p362)<!--/Source-->
+- Source: <!--Source-->(LDM p362)(TOB p342)<!--/Source-->
+- TOB: <!--AltName-->Serpopard<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
@@ -14940,7 +15060,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Shabti<!--/Name-->
 
-- Source: <!--Source-->(LDM p363)<!--/Source-->
+- Source: <!--Source-->(LDM p363)(TOB p343)<!--/Source-->
+- TOB: <!--AltName-->Shabti<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
@@ -14978,7 +15099,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Shadhavar<!--/Name-->
 
-- Source: <!--Source-->(LDM p364)<!--/Source-->
+- Source: <!--Source-->(LDM p364)(TOB p344)<!--/Source-->
+- TOB: <!--AltName-->Shadhavar<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d10+26)<!--/HitPoints-->
@@ -15019,7 +15141,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Shoggoth<!--/Name-->
 
-- Source: <!--Source-->(LDM p365)<!--/Source-->
+- Source: <!--Source-->(LDM p365)(TOB p347)<!--/Source-->
+- TOB: <!--AltName-->Shoggoth<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->387 (25d12+225)<!--/HitPoints-->
@@ -15061,7 +15184,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Silhouette De Sable<!--/Name-->
 
-- Source: <!--Source-->(LDM p366)<!--/Source-->
+- Source: <!--Source-->(LDM p366)(TOB p332)<!--/Source-->
+- TOB: <!--AltName-->Sand Silhouette<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
@@ -15102,7 +15226,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Sorcelueur<!--/Name-->
 
-- Source: <!--Source-->(LDM p367)<!--/Source-->
+- Source: <!--Source-->(LDM p367)(TOB p409)<!--/Source-->
+- TOB: <!--AltName-->Witchlight<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (4d4)<!--/HitPoints-->
@@ -15137,7 +15262,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Sorcière De L'Écheveau<!--/Name-->
 
-- Source: <!--Source-->(LDM p368)<!--/Source-->
+- Source: <!--Source-->(LDM p368)(TOB p349)<!--/Source-->
+- TOB: <!--AltName-->Skein Witch<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->162 (25d8+50)<!--/HitPoints-->
@@ -15179,7 +15305,8 @@ dépassent leurs compétences.
 
 # <!--Name-->Gypsosphinx<!--/Name-->
 
-- Source: <!--Source-->(LDM p369)<!--/Source-->
+- Source: <!--Source-->(LDM p369)(TOB p359)<!--/Source-->
+- TOB: <!--AltName-->Gypsosphinx<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->171 (18d10+72)<!--/HitPoints-->
@@ -15243,7 +15370,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Squelette De Troll Des Lianes<!--/Name-->
 
-- Source: <!--Source-->(LDM p371)<!--/Source-->
+- Source: <!--Source-->(LDM p371)(TOB p351)<!--/Source-->
+- TOB: <!--AltName-->Vine Troll Skeleton<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
@@ -15277,7 +15405,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Squelette En Mâchoires De Requin<!--/Name-->
 
-- Source: <!--Source-->(LDM p372)<!--/Source-->
+- Source: <!--Source-->(LDM p372)(TOB p350)<!--/Source-->
+- TOB: <!--AltName-->Sharkjaw Skeleton<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
@@ -15309,7 +15438,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Stryx<!--/Name-->
 
-- Source: <!--Source-->(LDM p373)<!--/Source-->
+- Source: <!--Source-->(LDM p373)(TOB p369)<!--/Source-->
+- TOB: <!--AltName-->Stryx<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (4d4)<!--/HitPoints-->
@@ -15348,7 +15478,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Stuhac<!--/Name-->
 
-- Source: <!--Source-->(LDM p374)<!--/Source-->
+- Source: <!--Source-->(LDM p374)(TOB p370)<!--/Source-->
+- TOB: <!--AltName-->Stuhac<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->190 (20d8+100)<!--/HitPoints-->
@@ -15389,7 +15520,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Subek<!--/Name-->
 
-- Source: <!--Source-->(LDM p375)<!--/Source-->
+- Source: <!--Source-->(LDM p375)(TOB p371)<!--/Source-->
+- TOB: <!--AltName-->Subek<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Grande taille (subek) (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76(8d10+32)<!--/HitPoints-->
@@ -15426,7 +15558,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Suffragan Cœur-De-Vers<!--/Name-->
 
-- Source: <!--Source-->(LDM p376)<!--/Source-->
+- Source: <!--Source-->(LDM p376)(TOB p410)<!--/Source-->
+- TOB: <!--AltName-->Wormhearted Suffragan<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d8+39)<!--/HitPoints-->
@@ -15465,7 +15598,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Sutureuse<!--/Name-->
 
-- Source: <!--Source-->(LDM p377)<!--/Source-->
+- Source: <!--Source-->(LDM p377)(TOB p372)<!--/Source-->
+- TOB: <!--AltName-->Suturefly<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (3d4)<!--/HitPoints-->
@@ -15494,7 +15628,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Sylvanien Pleureur<!--/Name-->
 
-- Source: <!--Source-->(LDM p378)<!--/Source-->
+- Source: <!--Source-->(LDM p378)(TOB p388)<!--/Source-->
+- TOB: <!--AltName-->Weeping Treant<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d12+40)<!--/HitPoints-->
@@ -15573,7 +15708,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Thuellai<!--/Name-->
 
-- Source: <!--Source-->(LDM p380)<!--/Source-->
+- Source: <!--Source-->(LDM p380)(TOB p379)<!--/Source-->
+- TOB: <!--AltName-->Thuellai<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->149 (13d12+65)<!--/HitPoints-->
@@ -15624,7 +15760,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Titan Antique<!--/Name-->
 
-- Source: <!--Source-->(LDM p381)<!--/Source-->
+- Source: <!--Source-->(LDM p381)(TOB p380)<!--/Source-->
+- TOB: <!--AltName-->Ancient Titan<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Gigantesque (titan) (<!--Size-->Gig<!--/Size-->), <!--Alignment-->neutre bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->198 (12d20+72)<!--/HitPoints-->
@@ -15665,7 +15802,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Titan Dégénéré<!--/Name-->
 
-- Source: <!--Source-->(LDM p382)<!--/Source-->
+- Source: <!--Source-->(LDM p382)(TOB p381)<!--/Source-->
+- TOB: <!--AltName-->Degenerate Titan<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12 (manteau renforcé rudimentaire)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (14d12+70)<!--/HitPoints-->
@@ -15700,7 +15838,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Titanoboa<!--/Name-->
 
-- Source: <!--Source-->(LDM p383)<!--/Source-->
+- Source: <!--Source-->(LDM p383)(TOB p382)<!--/Source-->
+- TOB: <!--AltName-->Titanoboa<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->232 (15d20+75)<!--/HitPoints-->
@@ -15734,7 +15873,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Tophet<!--/Name-->
 
-- Source: <!--Source-->(LDM p384)<!--/Source-->
+- Source: <!--Source-->(LDM p384)(TOB p383)<!--/Source-->
+- TOB: <!--AltName-->Tophet<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->184 (16d12+80)<!--/HitPoints-->
@@ -15771,7 +15911,8 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Reine Du Nid Tosculie<!--/Name-->
 
-- Source: <!--Source-->(LDM p386)<!--/Source-->
+- Source: <!--Source-->(LDM p386)(TOB p385)<!--/Source-->
+- TOB: <!--AltName-->Tosculi Hive-Queen<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
@@ -15848,7 +15989,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Archer-Pillard D'Élite Tosculi<!--/Name-->
 
-- Source: <!--Source-->(LDM p387)<!--/Source-->
+- Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
+- TOB: <!--AltName-->Tosculi Elite Bow Raider<!--/AltName-->
 -  <!--Type-->Humanoïde (tosculi)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d8+39)<!--/HitPoints-->
@@ -15885,7 +16027,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Combattant Tosculi<!--/Name-->
 
-- Source: <!--Source-->(LDM p387)<!--/Source-->
+- Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
+- TOB: <!--AltName-->Tosculi Warrior<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d6+27)<!--/HitPoints-->
@@ -15919,7 +16062,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Faux-Bourdon Tosculi<!--/Name-->
 
-- Source: <!--Source-->(LDM p387)<!--/Source-->
+- Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
+- TOB: <!--AltName-->Tosculi Drone<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
@@ -15949,7 +16093,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Troll Lacustre<!--/Name-->
 
-- Source: <!--Source-->(LDM p388)<!--/Source-->
+- Source: <!--Source-->(LDM p388)(TOB p389)<!--/Source-->
+- TOB: <!--AltName-->Lake Troll<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
@@ -16024,7 +16169,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Uraeus<!--/Name-->
 
-- Source: <!--Source-->(LDM p390)<!--/Source-->
+- Source: <!--Source-->(LDM p390)(TOB p392)<!--/Source-->
+- TOB: <!--AltName-->Uraeus<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->40 (9d4+18)<!--/HitPoints-->
@@ -16062,7 +16208,8 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 # <!--Name-->Urochar (Guetteur Étrangleur)<!--/Name-->
 
-- Source: <!--Source-->(LDM p391)<!--/Source-->
+- Source: <!--Source-->(LDM p391)(TOB p393)<!--/Source-->
+- TOB: <!--AltName-->Urochar (Strangling Watcher)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->256 (19d12+133)<!--/HitPoints-->
@@ -16119,7 +16266,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Ushabti<!--/Name-->
 
-- Source: <!--Source-->(LDM p392)<!--/Source-->
+- Source: <!--Source-->(LDM p392)(TOB p394)<!--/Source-->
+- TOB: <!--AltName-->Ushabti<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d10+50)<!--/HitPoints-->
@@ -16161,7 +16309,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Vættir<!--/Name-->
 
-- Source: <!--Source-->(LDM p393)<!--/Source-->
+- Source: <!--Source-->(LDM p393)(TOP p395)<!--/Source-->
+- TOB: <!--AltName-->Vættir<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
@@ -16242,7 +16391,8 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 # <!--Name-->Valkyrie<!--/Name-->
 
-- Source: <!--Source-->(LDM p395)<!--/Source-->
+- Source: <!--Source-->(LDM p395)(TOB p396)<!--/Source-->
+- TOB: <!--AltName-->Valkyrie<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (cotte de mailles) ou 18 (cotte de mailles et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
@@ -16299,7 +16449,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Vampire Umbral<!--/Name-->
 
-- Source: <!--Source-->(LDM p396)<!--/Source-->
+- Source: <!--Source-->(LDM p396)(TOB p397)<!--/Source-->
+- TOB: <!--AltName-->Umbral Vampire<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d8+26)<!--/HitPoints-->
@@ -16342,7 +16493,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Vase Corruptrice<!--/Name-->
 
-- Source: <!--Source-->(LDM p397)<!--/Source-->
+- Source: <!--Source-->(LDM p397)(TOB p311)<!--/Source-->
+- TOB: <!--AltName-->Corrupting Ooze<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->115 (10d10+60)<!--/HitPoints-->
@@ -16374,7 +16526,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Vent Putréfacteur<!--/Name-->
 
-- Source: <!--Source-->(LDM p398)<!--/Source-->
+- Source: <!--Source-->(LDM p398)(TOB p330)<!--/Source-->
+- TOB: <!--AltName-->Rotting Wind<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d10+22)<!--/HitPoints-->
@@ -16407,7 +16560,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Ver Givré Adulte<!--/Name-->
 
-- Source: <!--Source-->(LDM p399)<!--/Source-->
+- Source: <!--Source-->(LDM p399)(TOB p327)<!--/Source-->
+- TOB: <!--AltName-->Adult Rime Worm<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d10+50)<!--/HitPoints-->
@@ -16443,7 +16597,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Larve De Ver Givré<!--/Name-->
 
-- Source: <!--Source-->(LDM p399)<!--/Source-->
+- Source: <!--Source-->(LDM p399)(TOB p327)<!--/Source-->
+- TOB: <!--AltName-->Rime Worm Grub<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
@@ -16516,7 +16671,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Ver Sathaq<!--/Name-->
 
-- Source: <!--Source-->(LDM p401)<!--/Source-->
+- Source: <!--Source-->(LDM p401)(TOB p337)<!--/Source-->
+- TOB: <!--AltName-->Sathaq Worm<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->172 (15d12+75)<!--/HitPoints-->
@@ -16551,7 +16707,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Verminhantée<!--/Name-->
 
-- Source: <!--Source-->(LDM p402)<!--/Source-->
+- Source: <!--Source-->(LDM p402)(TOB p352)<!--/Source-->
+- TOB: <!--AltName-->Skitterhaunt<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
@@ -16587,7 +16744,8 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 # <!--Name-->Vésiculose<!--/Name-->
 
-- Source: <!--Source-->(LDM p403)<!--/Source-->
+- Source: <!--Source-->(LDM p403)(TOB p399)<!--/Source-->
+- TOB: <!--AltName-->Vesiculosa<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->203 (14d20+56)<!--/HitPoints-->
@@ -16629,7 +16787,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Vidien<!--/Name-->
 
-- Source: <!--Source-->(LDM p404)<!--/Source-->
+- Source: <!--Source-->(LDM p404)(TOB p404)<!--/Source-->
+- TOB: <!--AltName-->Voidling<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (20d10)<!--/HitPoints-->
@@ -16711,7 +16870,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Vil Barbier<!--/Name-->
 
-- Source: <!--Source-->(LDM p406)<!--/Source-->
+- Source: <!--Source-->(LDM p406)(TOB p401)<!--/Source-->
+- TOB: <!--AltName-->Vile Barber<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->28 (8d6)<!--/HitPoints-->
@@ -16754,7 +16914,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Vila<!--/Name-->
 
-- Source: <!--Source-->(LDM p407)<!--/Source-->
+- Source: <!--Source-->(LDM p407)(TOB p400)<!--/Source-->
+- TOB: <!--AltName-->Vila<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8+14)<!--/HitPoints-->
@@ -16843,7 +17004,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Wampus Féline<!--/Name-->
 
-- Source: <!--Source-->(LDM p409)<!--/Source-->
+- Source: <!--Source-->(LDM p409)(TOB p405)<!--/Source-->
+- TOB: <!--AltName-->Wampus Cat<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
@@ -16880,7 +17042,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Wyrm Des Sables<!--/Name-->
 
-- Source: <!--Source-->(LDM p410)<!--/Source-->
+- Source: <!--Source-->(LDM p410)(TOB p334)<!--/Source-->
+- TOB: <!--AltName-->Sandwyrm<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-aligné<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
@@ -16912,7 +17075,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Xanka<!--/Name-->
 
-- Source: <!--Source-->(LDM p411)<!--/Source-->
+- Source: <!--Source-->(LDM p411)(TOB p411)<!--/Source-->
+- TOB: <!--AltName-->Xanka<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
@@ -16941,7 +17105,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Xhkarsh<!--/Name-->
 
-- Source: <!--Source-->(LDM p412)<!--/Source-->
+- Source: <!--Source-->(LDM p412)(TOB p412)<!--/Source-->
+- TOB: <!--AltName-->Xhkarsh<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle et mystique)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
@@ -16975,7 +17140,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Ychen Bannog<!--/Name-->
 
-- Source: <!--Source-->(LDM p413)<!--/Source-->
+- Source: <!--Source-->(LDM p413)(TOB p413)<!--/Source-->
+- TOB: <!--AltName-->Ychen Bannog<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (14d20+84)<!--/HitPoints-->
@@ -17013,7 +17179,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Zaratan<!--/Name-->
 
-- Source: <!--Source-->(LDM p414)<!--/Source-->
+- Source: <!--Source-->(LDM p414)(TOB p414)<!--/Source-->
+- TOB: <!--AltName-->Zaratan<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->25 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->507 (26d20+234)<!--/HitPoints-->
@@ -17063,7 +17230,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Zimwi<!--/Name-->
 
-- Source: <!--Source-->(LDM p415)<!--/Source-->
+- Source: <!--Source-->(LDM p415)(TOB p415)<!--/Source-->
+- TOB: <!--AltName-->Zimwi<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
@@ -17092,7 +17260,8 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 
 # <!--Name-->Zmey<!--/Name-->
 
-- Source: <!--Source-->(LDM p416)<!--/Source-->
+- Source: <!--Source-->(LDM p416)(TOB p416)<!--/Source-->
+- TOB: <!--AltName-->Zmey<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->189 (18d12+72)<!--/HitPoints-->
@@ -17150,7 +17319,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Bébécéphale De Zmey<!--/Name-->
 
-- Source: <!--Source-->(LDM p416)<!--/Source-->
+- Source: <!--Source-->(LDM p416)(TOB p416)<!--/Source-->
+- TOB: <!--AltName-->Zmey Headling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8 + 42), régénération 5/round<!--/HitPoints-->
@@ -17186,7 +17356,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Archer Vétéran Elfique<!--/Name-->
 
-- Source: <!--Source-->(LDM p418)<!--/Source-->
+- Source: <!--Source-->(LDM p418)(TOB p422)<!--/Source-->
+- TOB: <!--AltName-->Elvish Veteran Archer<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique bon ou chaotique neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8 + 14)<!--/HitPoints-->
@@ -17229,7 +17400,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Capitaine Du Guet<!--/Name-->
 
-- Source: <!--Source-->(LDM p418)<!--/Source-->
+- Source: <!--Source-->(LDM p418)(TOB p419)<!--/Source-->
+- TOB: <!--AltName-->City Watch Captain<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (n'importe quelle race) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure d'écailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8 + 28)<!--/HitPoints-->
@@ -17266,7 +17438,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Chef Du Culte De L'Ordre D'Émeraude<!--/Name-->
 
-- Source: <!--Source-->(LDM p419)<!--/Source-->
+- Source: <!--Source-->(LDM p419)(TOB p421)<!--/Source-->
+- TOB: <!--AltName-->Emerald Order Cult Leader<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (n'importe quelle race) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->117 (18d8 + 36)<!--/HitPoints-->
@@ -17321,7 +17494,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Chef Ogre Corrompu<!--/Name-->
 
-- Source: <!--Source-->(LDM p420)<!--/Source-->
+- Source: <!--Source-->(LDM p420)(TOB p423)<!--/Source-->
+- TOB: <!--AltName-->Ogre Chieftain, Corrupted<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (clibanion)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10 + 45)<!--/HitPoints-->
@@ -17366,7 +17540,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Chevalier Fantôme<!--/Name-->
 
-- Source: <!--Source-->(LDM p421)<!--/Source-->
+- Source: <!--Source-->(LDM p421)(TOB p423)<!--/Source-->
+- TOB: <!--AltName-->Ghost Knight<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (demi-plate)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (15d8 + 30)<!--/HitPoints-->
@@ -17410,7 +17585,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Commandant Des Chevaliers Noirs<!--/Name-->
 
-- Source: <!--Source-->(LDM p422)<!--/Source-->
+- Source: <!--Source-->(LDM p422)(TOB p418)<!--/Source-->
+- TOB: <!--AltName-->Black Knight Commander<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (n'importe quelle race) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8 + 24)<!--/HitPoints-->
@@ -17448,7 +17624,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Fanatique Du Scorpion<!--/Name-->
 
-- Source: <!--Source-->(LDM p422)<!--/Source-->
+- Source: <!--Source-->(LDM p422)(TOB p425)<!--/Source-->
+- TOB: <!--AltName-->Scorpion Cultist<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (n'importe quelle race) (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->19 (3d8 + 6)<!--/HitPoints-->
@@ -17480,7 +17657,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Mage Des Anneaux Nains<!--/Name-->
 
-- Source: <!--Source-->(LDM p423)<!--/Source-->
+- Source: <!--Source-->(LDM p423)(TOB p420)<!--/Source-->
+- TOB: <!--AltName-->Dwarven Ringmage<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (nain) (<!--Size-->M<!--/Size-->), <!--Alignment-->au choix<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (15d8 + 15)<!--/HitPoints-->
@@ -17529,7 +17707,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Nain Loup Ravageur<!--/Name-->
 
-- Source: <!--Source-->(LDM p424)<!--/Source-->
+- Source: <!--Source-->(LDM p424)(TOB p426)<!--/Source-->
+- TOB: <!--AltName-->Wolf Reaver Dwarf<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (nain) (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (chemise de mailles, bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8 + 36)<!--/HitPoints-->
@@ -17568,7 +17747,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Prince Gnome Asservi Aux Démons<!--/Name-->
 
-- Source: <!--Source-->(LDM p424)<!--/Source-->
+- Source: <!--Source-->(LDM p424)(TOB p420)<!--/Source-->
+- TOB: <!--AltName-->Devilbound Gnomish Prince<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (gnome) (<!--Size-->P<!--/Size-->), <!--Alignment-->mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12 (15 avec armure du mage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (19d6 + 38)<!--/HitPoints-->
@@ -17594,7 +17774,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Seigneur Des Bandits<!--/Name-->
 
-- Source: <!--Source-->(LDM p425)<!--/Source-->
+- Source: <!--Source-->(LDM p425)(TOB p418)<!--/Source-->
+- TOB: <!--AltName-->Bandit Lord<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (n'importe quelle race) (<!--Size-->M<!--/Size-->), <!--Alignment-->tout<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8 + 28)<!--/HitPoints-->
@@ -17656,7 +17837,8 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 
 # <!--Name-->Variante : Sorcier Vampire<!--/Name-->
 
-- Source: <!--Source-->(LDM p426)<!--/Source-->
+- Source: <!--Source-->(LDM p426)(TOB p426)<!--/Source-->
+- TOB: <!--AltName-->Variant: Vampire Warlock<!--/AltName-->
 
 Le sorcier vampire n'est pas sujet à défense d'entrer ni blessé par l'eau courante, faiblesses des vampires ordinaires, et subit 10 dégâts radiants au lieu de 20 s'il est exposé à la lumière du jour.
 
