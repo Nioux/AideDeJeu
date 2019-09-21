@@ -60,7 +60,18 @@ namespace AideDeJeu.ViewModels
                 _CancellationTokenSource = new CancellationTokenSource();
                 OnPropertyChanged(nameof(Speaking));
                 OnPropertyChanged(nameof(NotSpeaking));
-                await Xamarin.Essentials.TextToSpeech.SpeakAsync(md, _CancellationTokenSource.Token);
+                var options = new Xamarin.Essentials.SpeechOptions();
+                var locales = (await Xamarin.Essentials.TextToSpeech.GetLocalesAsync()).ToList();
+                if (item.Id.Contains("_vo.md"))
+                {
+                    options.Locale = locales.FirstOrDefault(l => l.Language.StartsWith("en"));
+                }
+                else
+                {
+                    options.Locale = locales.FirstOrDefault(l => l.Language.StartsWith("fr"));
+                }
+            
+                await Xamarin.Essentials.TextToSpeech.SpeakAsync(md, options, _CancellationTokenSource.Token);
             }
             catch (Exception ex)
             {
