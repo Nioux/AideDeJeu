@@ -357,6 +357,7 @@ namespace AideDeJeuCmd
                 Console.WriteLine("o : check orphan links");
                 Console.WriteLine("p : test pdf");
                 Console.WriteLine("h : extract html");
+                Console.WriteLine("y : extract yaml");
                 Console.WriteLine("q : quitter");
                 var key = Console.ReadKey(true);
                 switch (key.KeyChar)
@@ -381,9 +382,24 @@ namespace AideDeJeuCmd
                         await ExtractHtmlAsync();
                         Console.WriteLine("/ extract html");
                         break;
+                    case 'y':
+                        Console.WriteLine("> extract yaml");
+                        await ExtractYamlAsync();
+                        Console.WriteLine("/ extract yaml");
+                        break;
                     case 'q':
                         return;
                 }
+            }
+        }
+
+        static async Task ExtractYamlAsync()
+        {
+            var deserializer = new YamlDotNet.Serialization.Deserializer();
+            using (var reader = new StreamReader(@"..\..\..\..\..\Ignore\Index Bestiaires H&D.yaml"))
+            {
+                var truc = deserializer.Deserialize(reader);
+                Debug.WriteLine(true);
             }
         }
 
