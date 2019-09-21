@@ -393,19 +393,5 @@ namespace AideDeJeu.ViewModels
 
         }
 
-        private Command<Item> _SpeakItemCommand = null;
-        public Command<Item> SpeakItemCommand
-        {
-            get
-            {
-                return _SpeakItemCommand ?? (_SpeakItemCommand = new Command<Item>(async (item) => await ExecuteSpeakItemommandAsync(item)));
-            }
-        }
-
-        public async Task ExecuteSpeakItemommandAsync(Item item)
-        {
-            var md = item.Markdown;
-            await Xamarin.Essentials.TextToSpeech.SpeakAsync(md);
-        }
     }
 }

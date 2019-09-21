@@ -200,6 +200,16 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private SpeechViewModel _Speech = null;
+        public SpeechViewModel Speech
+        {
+            get
+            {
+                return _Speech ?? (_Speech = new SpeechViewModel());
+            }
+        }
+
+
         public MainViewModel()
         {
         }

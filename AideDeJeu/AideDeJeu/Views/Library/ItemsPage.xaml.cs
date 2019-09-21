@@ -46,5 +46,10 @@ namespace AideDeJeu.Views.Library
             if (e.Item == null) return;
             ((ListView)sender).SelectedItem = null;
         }
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            Main.Speech.ExecuteCancelSpeakCommand();
+        }
     }
 }

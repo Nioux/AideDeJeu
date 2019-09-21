@@ -60,6 +60,12 @@ namespace AideDeJeu.Views.Library
             //BindingContext = viewModel;
         }
 
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            Main.Speech.ExecuteCancelSpeakCommand();
+        }
+
         async Task InitDBEngineAsync()
         {
             await Task.Delay(1000).ConfigureAwait(false);
