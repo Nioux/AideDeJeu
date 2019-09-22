@@ -395,10 +395,34 @@ namespace AideDeJeuCmd
 
         static async Task ExtractYamlAsync()
         {
+            var tomeOfBeasts = await LoadStringAsync(@"..\..\..\..\..\Data\tome_of_beasts.md");
+            var monstersHD = await LoadStringAsync(@"..\..\..\..\..\Data\monsters_hd.md");
             var deserializer = new YamlDotNet.Serialization.Deserializer();
             using (var reader = new StreamReader(@"..\..\..\..\..\Ignore\Index Bestiaires H&D.yaml"))
             {
-                var truc = deserializer.Deserialize(reader);
+                var terrains = deserializer.Deserialize(reader) as Dictionary<object, object>;
+                foreach(var terrain in terrains)
+                {
+                    var terrainName = terrain.Key as string;
+                    var monsters = terrain.Value as List<object>;
+                    foreach(var monster in monsters)
+                    {
+                        var monsterName = monster as string;
+                        if (tomeOfBeasts.Contains($"<!--Name-->{monsterName}<!--/Name-->", StringComparison.CurrentCultureIgnoreCase))
+                        {
+                            Debug.WriteLine($"TOB : {terrainName} => {monsterName}");
+                        }
+                        else if (monstersHD.Contains($"<!--Name-->{monsterName}<!--/Name-->", StringComparison.CurrentCultureIgnoreCase))
+                        {
+                            Debug.WriteLine($"CEO : {terrainName} => {monsterName}");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"{terrainName} => {monsterName}");
+                        }
+                    }
+
+                }
                 Debug.WriteLine(true);
             }
         }

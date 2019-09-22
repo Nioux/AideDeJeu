@@ -674,7 +674,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 **3/jour chacun:** bouclier, silence
 
-**1/jour chacun:** œil magique, confusion, motif hypnotique, peau de pierre
+**1/jour chacun:** oeil magique, confusion, motif hypnotique, peau de pierre
 
 **_Sang empoisonné._** Si un assaillant touche une araignée de Leng avec une attaque de corps à corps alors qu'il est à 1,50 mètre d'elle ou moins, il doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi il subit 7 (2d6) dégâts de poison et se trouve empoisonné jusqu'au début de son tour suivant.
 
@@ -2685,7 +2685,7 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 
 **_Enchevêtrement glacé._** La neige et la glace gênent les mouvements de ses adversaires comme le sort enchevêtrement (DD 17).
 
-**_Baiser du cœur gelé._** Une demoiselle glacée peut embrasser un individu consentant, ce qui gèle le cœur du malheureux. Il tombe sous l'effet d'un sort de dominer, son alignement devient LM et il est immunisé contre le froid. La demoiselle glacée peut avoir jusqu'à trois serviteurs de ce type à la fois. On peut briser l'effet avec dissipation de la magie (DD 17), restauration supérieure ou si quelqu'un qui aime la cible l'embrasse.
+**_Baiser du coeur gelé._** Une demoiselle glacée peut embrasser un individu consentant, ce qui gèle le coeur du malheureux. Il tombe sous l'effet d'un sort de dominer, son alignement devient LM et il est immunisé contre le froid. La demoiselle glacée peut avoir jusqu'à trois serviteurs de ce type à la fois. On peut briser l'effet avec dissipation de la magie (DD 17), restauration supérieure ou si quelqu'un qui aime la cible l'embrasse.
 
 **_Explosion de cécité des neiges._** Dans un environnement enneigé, la demoiselle glacée peut tenter d'aveugler toutes les créatures dans un rayon de 9 mètres autour d'elle. Celles qui ratent un jet de sauvegarde de Charisme DD 17 sont aveuglées pendant 1 heure. Les cibles immunisées contre les dégâts de froid le sont aussi contre cet effet.
 
@@ -2951,7 +2951,7 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 
 **_Morsure._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 18 (2d12+5).
 
-**_Rayon de vol d'ombre (Recharge 5-6)._** Un psoglav peut émettre un rayon depuis son œil unique. Une cible qui se trouve à 18mètres du psoglav est automatiquement touchée par ce rayon. La cible se trouve repoussée de 6 mètres en arrière et doit réussir un jet de sauvegarde de Dextérité DD 15 ou être également jetée à terre. L'ombre de la cible reste dans l'emplacement qu'elle occupait à l'origine et se comporte comme une ombre morte-vivante sous le contrôle du démon psoglav. Si la créature touchée par le rayon de vol d'ombre fuit le combat, elle se trouve dépourvue d'ombre naturelle pendant 1d12 jours, qui est le temps qu'il faut à l'ombre morte-vivante pour se dissiper et que l'ombre naturelle de la créature réapparaisse. Si sa créature d'origine meurt lors de la rencontre, l'ombre morte-vivante lui dérobe son corps. Dans ce cas, l'alignement de la créature devient maléfique et elle passe sous le contrôle du psoglav. La créature regagne son ombre naturelle immédiatement après que l'ombre morte-vivante soit tuée. Une créature ne peut se faire voler son ombre par le rayon de vol d'ombre qu'une seule fois par jour, même si elle est touchée par les rayons de deux psoglavs différents. Cependant, elle est repoussée en arrière chaque fois qu'un rayon la touche.
+**_Rayon de vol d'ombre (Recharge 5-6)._** Un psoglav peut émettre un rayon depuis son oeil unique. Une cible qui se trouve à 18mètres du psoglav est automatiquement touchée par ce rayon. La cible se trouve repoussée de 6 mètres en arrière et doit réussir un jet de sauvegarde de Dextérité DD 15 ou être également jetée à terre. L'ombre de la cible reste dans l'emplacement qu'elle occupait à l'origine et se comporte comme une ombre morte-vivante sous le contrôle du démon psoglav. Si la créature touchée par le rayon de vol d'ombre fuit le combat, elle se trouve dépourvue d'ombre naturelle pendant 1d12 jours, qui est le temps qu'il faut à l'ombre morte-vivante pour se dissiper et que l'ombre naturelle de la créature réapparaisse. Si sa créature d'origine meurt lors de la rencontre, l'ombre morte-vivante lui dérobe son corps. Dans ce cas, l'alignement de la créature devient maléfique et elle passe sous le contrôle du psoglav. La créature regagne son ombre naturelle immédiatement après que l'ombre morte-vivante soit tuée. Une créature ne peut se faire voler son ombre par le rayon de vol d'ombre qu'une seule fois par jour, même si elle est touchée par les rayons de deux psoglavs différents. Cependant, elle est repoussée en arrière chaque fois qu'un rayon la touche.
 
 <!--/MonsterItem-->
 
@@ -3227,7 +3227,7 @@ Si Alquam meurt, les conditions de la zone qui entoure son antre redeviennent no
 
 **_Don du vampirisme._** Camazotz peut décider de faire revenir ceux qu'il a tués en réduisant leur Force à 0 sous forme de vampires. Ils se relèvent au bout de 1d4 jours, et sont alors sous le contrôle permanent de Camazotz jusqu'à ce que celui-ci décide de leur rendre leur libre arbitre. Camazotz ne peut pas avoir plus de dix vampires sous son contrôle.
 
-**_Enveloppe de chaleur._** Camazotz est empreint du cœur des volcans. Une créature qui frappe Camazotz avec une arme sans allonge ou à mains nues subit automatiquement 7 (2d6) dégâts de feu.
+**_Enveloppe de chaleur._** Camazotz est empreint du coeur des volcans. Une créature qui frappe Camazotz avec une arme sans allonge ou à mains nues subit automatiquement 7 (2d6) dégâts de feu.
 
 **_Incantation innée._** La caractéristique d'incantation innée de Camazotz est le Charisme (DD du jet de sauvegarde contre les sorts 22, +14 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -3539,7 +3539,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Savant Fœtal Derro<!--/Name-->
+# <!--Name-->Savant Foetal Derro<!--/Name-->
 
 - Source: <!--Source-->(LDM p95)(TOB p92)<!--/Source-->
 - TOB: <!--AltName-->Derro Fetal Savant<!--/AltName-->
@@ -3562,15 +3562,15 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 
 ## ACTIONS
 
-**_Babillage._** La vue de potentiels hôtes excite tellement un savant fœtal qu'il babille et glousse d'un air à la fois enfantin et dément, ce qui déclenche un effet de folie. Toutes les créatures saines d'esprit qui commencent leur tour dans un rayon de 18mètres autour d'un savant fœtal doivent réussir un jet de sauvegarde de Charisme DD13 ou être affectées par un effet de confusion (comme le sort) pendant 1d4rounds. Il s'agit d'un effet psychique. Les créatures qui ont réussi leur jet de sauvegarde ne peuvent pas être affectées par le babillage de ce savant fœtal pendant les prochaines 24 heures. Un savant fœtal ne peut pas faire cette action quand il utilise son pouvoir échange d'âme.
+**_Babillage._** La vue de potentiels hôtes excite tellement un savant foetal qu'il babille et glousse d'un air à la fois enfantin et dément, ce qui déclenche un effet de folie. Toutes les créatures saines d'esprit qui commencent leur tour dans un rayon de 18mètres autour d'un savant foetal doivent réussir un jet de sauvegarde de Charisme DD13 ou être affectées par un effet de confusion (comme le sort) pendant 1d4rounds. Il s'agit d'un effet psychique. Les créatures qui ont réussi leur jet de sauvegarde ne peuvent pas être affectées par le babillage de ce savant foetal pendant les prochaines 24 heures. Un savant foetal ne peut pas faire cette action quand il utilise son pouvoir échange d'âme.
 
-**_Échange d'âmes._** Par une action, un savant fœtal peut tenter de prendre le contrôle d'une créature qu'il voit et qui se trouve dans un rayon de 27 mètres en la forçant à interchanger leurs âmes, comme s'il utilisait le sort possession en utilisant son propre corps comme réceptacle. Le savant fœtal peut utiliser ce pouvoir à volonté, mais il ne peut échanger son âme qu'avec une créature à la fois. La victime peut résister à l'attaque si elle réussit un jet de sauvegarde de Charisme DD13. Sur une réussite, la créature est immunisée contre l'échange d'âmes de ce savant fœtal pendant 24 heures. Sur un échec, le savant fœtal prend le contrôle du corps de la cible et attaque ses proches ennemis avec férocité, les yeux luisants d'un éclat surnaturel. Par une action, le savant fœtal peut quitter le corps de son hôte pour reprendre possession du sien s'il se trouve à portée ; l'âme de la victime retourne alors dans son corps d'origine. Si le corps de l'hôte ou du savant fœtal atteint 0 point de vie quand les deux se trouvent à 27 mètres l'un de l'autre, les deux âmes retournent à leur corps d'origine et la créature à 0point de vie est mourante : elle doit alors faire des jets de sauvegarde contre la mort normalement jusqu'à ce qu'elle meurt, qu'elle soit stabilisée ou regagne des points de vie. Si le corps de l'hôte ou du savant fœtal est tué pendant qu'ils se trouvent à plus de 27mètres l'un de l'autre, leurs âmes ne peuvent pas retourner dans leurs corps respectifs et ils meurent tous les deux. Tant que son âme est emprisonnée dans le corps chétif du savant fœtal, la victime est paralysée et sans défense.
+**_Échange d'âmes._** Par une action, un savant foetal peut tenter de prendre le contrôle d'une créature qu'il voit et qui se trouve dans un rayon de 27 mètres en la forçant à interchanger leurs âmes, comme s'il utilisait le sort possession en utilisant son propre corps comme réceptacle. Le savant foetal peut utiliser ce pouvoir à volonté, mais il ne peut échanger son âme qu'avec une créature à la fois. La victime peut résister à l'attaque si elle réussit un jet de sauvegarde de Charisme DD13. Sur une réussite, la créature est immunisée contre l'échange d'âmes de ce savant foetal pendant 24 heures. Sur un échec, le savant foetal prend le contrôle du corps de la cible et attaque ses proches ennemis avec férocité, les yeux luisants d'un éclat surnaturel. Par une action, le savant foetal peut quitter le corps de son hôte pour reprendre possession du sien s'il se trouve à portée ; l'âme de la victime retourne alors dans son corps d'origine. Si le corps de l'hôte ou du savant foetal atteint 0 point de vie quand les deux se trouvent à 27 mètres l'un de l'autre, les deux âmes retournent à leur corps d'origine et la créature à 0point de vie est mourante : elle doit alors faire des jets de sauvegarde contre la mort normalement jusqu'à ce qu'elle meurt, qu'elle soit stabilisée ou regagne des points de vie. Si le corps de l'hôte ou du savant foetal est tué pendant qu'ils se trouvent à plus de 27mètres l'un de l'autre, leurs âmes ne peuvent pas retourner dans leurs corps respectifs et ils meurent tous les deux. Tant que son âme est emprisonnée dans le corps chétif du savant foetal, la victime est paralysée et sans défense.
 
-**_Cage enchantée._** La cage de fer dans laquelle se trouve un savant fœtal lui confère un abri. La cage (CA 19, 10 pv) est considérée comme un objet équipé quand elle est portée par un derro et elle ne peut pas être directement ciblée par une attaque. En outre, la cage protège son occupant de 20 niveaux de sorts de sorts de niveau 4 ou inférieur. Elle ne confère cependant aucune protection aux créatures hors de la cage. Les sorts de niveau 5 ou supérieur fonctionnent normalement contre la cage et son occupant. Une fois que la cage a protégé son occupant contre 20 niveaux de sorts ou plus, elle devient non magique. Si elle est exposée à la lumière directe du soleil pendant un temps cumulé d'une heure, elle est détruite.
+**_Cage enchantée._** La cage de fer dans laquelle se trouve un savant foetal lui confère un abri. La cage (CA 19, 10 pv) est considérée comme un objet équipé quand elle est portée par un derro et elle ne peut pas être directement ciblée par une attaque. En outre, la cage protège son occupant de 20 niveaux de sorts de sorts de niveau 4 ou inférieur. Elle ne confère cependant aucune protection aux créatures hors de la cage. Les sorts de niveau 5 ou supérieur fonctionnent normalement contre la cage et son occupant. Une fois que la cage a protégé son occupant contre 20 niveaux de sorts ou plus, elle devient non magique. Si elle est exposée à la lumière directe du soleil pendant un temps cumulé d'une heure, elle est détruite.
 
-**_Folie._** La folie particulière d'un savant fœtal derro lui confère une immunité contre les effets psychiques. Il n'est possible de lui rendre sa santé mentale que par un sort de souhait ou une magie comparable. Un savant fœtal derro qui a retrouvé sa santé mentale gagne 4 points de Sagesse et perd 6 points de Charisme.
+**_Folie._** La folie particulière d'un savant foetal derro lui confère une immunité contre les effets psychiques. Il n'est possible de lui rendre sa santé mentale que par un sort de souhait ou une magie comparable. Un savant foetal derro qui a retrouvé sa santé mentale gagne 4 points de Sagesse et perd 6 points de Charisme.
 
-**_Vulnérable à la lumière du soleil._** Un savant fœtal derro subit une réduction de 1 point de Constitution par heure pendant laquelle il est exposé au soleil. Il meurt si son score de Constitution atteint0. Il récupère ses points de Constitution au rythme de 1/jour pour chaque jour passé sous terre ou protégé du soleil d'une autre manière.
+**_Vulnérable à la lumière du soleil._** Un savant foetal derro subit une réduction de 1 point de Constitution par heure pendant laquelle il est exposé au soleil. Il meurt si son score de Constitution atteint0. Il récupère ses points de Constitution au rythme de 1/jour pour chaque jour passé sous terre ou protégé du soleil d'une autre manière.
 
 <!--/MonsterItem-->
 
@@ -3901,7 +3901,7 @@ Si Mammon meurt, les conditions de la zone qui entoure son antre redeviennent no
 
 **Niveau 5 (3 emplacements)** : dominer un humanoïde, coercition mystique, modification de mémoire, passe-muraille
 
-**Niveau 6 (2 emplacements)** : mauvais œil, protections et sceaux, suggestion de groupe
+**Niveau 6 (2 emplacements)** : mauvais oeil, protections et sceaux, suggestion de groupe
 
 **Niveau 7 (2 emplacements)** : cage de force, changement de plan
 
@@ -4395,7 +4395,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 
 **3/jour chacun:** champ antimagie, chaîne d'éclairs, contacter un autre plan, mur de feu, porte dimensionnelle
 
-**1/jour chacun:** mauvais œil, prémonition, trouver un chemin
+**1/jour chacun:** mauvais oeil, prémonition, trouver un chemin
 
 ## ACTIONS
 
@@ -7340,7 +7340,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 
 **_Coutille en ramure._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m ou 3 m, une cible. Touché: 7 (1d10+2) dégâts tranchants et la cible doit réussir un jet de sauvegarde de Force DD13 ou soit être désarmée, soit tomber à terre. Le far darrig assaillant choisit l'effet à sa guise.
 
-**_Manœuvres de coutille enchantée._** Par une action bonus, un far darrig peut agrandir ou rétrécir magiquement sa coutille en ramure afin de lui donner une allonge 1,50 m ou de 3 m.
+**_Manoeuvres de coutille enchantée._** Par une action bonus, un far darrig peut agrandir ou rétrécir magiquement sa coutille en ramure afin de lui donner une allonge 1,50 m ou de 3 m.
 
 <!--/MonsterItem-->
 
@@ -8219,10 +8219,10 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 - **Langues** <!--Languages-->commun, elfique, sylvestre<!--/Languages-->
 - **Dangerosité** <!--Challenge-->10 (5 900 PX)<!--/Challenge-->
 
-**_Regard de distorsion._** Ceux qui croisent le regard d'un forgepeur ont l'impression que le monde se déforme et que le sol s'incline sous leurs pieds. Quand une créature qui peut voir l'œil d'un forgepeur commence son tour dans un rayon de 9 mètres de celui- ci, elle doit réussir un jet de sauvegarde de Sagesse DD 16 ou se trouver désorientée. Tant qu'elle est désorientée, la créature tombe à terre à chaque fois qu'elle tente de se déplacer ou qu'elle fait l'action se précipiter ou se désengager. Afin de se remettre de cet état, la créature doit commencer son tour hors de la zone d'effet du regard et réussir un jet de sauvegarde de Sagesse DD 16. Pour pouvoir utiliser ce pouvoir, un forgepeur ne doit pas être neutralisé et doit voir la créature qu'il cible. Une créature qui n'est pas surprise peut détourner le regard au début de son tour pour éviter d'être affectée. Dans ce cas, elle n'a pas besoin de faire de
+**_Regard de distorsion._** Ceux qui croisent le regard d'un forgepeur ont l'impression que le monde se déforme et que le sol s'incline sous leurs pieds. Quand une créature qui peut voir l'oeil d'un forgepeur commence son tour dans un rayon de 9 mètres de celui- ci, elle doit réussir un jet de sauvegarde de Sagesse DD 16 ou se trouver désorientée. Tant qu'elle est désorientée, la créature tombe à terre à chaque fois qu'elle tente de se déplacer ou qu'elle fait l'action se précipiter ou se désengager. Afin de se remettre de cet état, la créature doit commencer son tour hors de la zone d'effet du regard et réussir un jet de sauvegarde de Sagesse DD 16. Pour pouvoir utiliser ce pouvoir, un forgepeur ne doit pas être neutralisé et doit voir la créature qu'il cible. Une créature qui n'est pas surprise peut détourner le regard au début de son tour pour éviter d'être affectée. Dans ce cas, elle n'a pas besoin de faire de
 jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considérer le forgepeur comme invisible. Si la créature décide de regarde le forgepeur lors de son tour, elle doit immédiatement faire le jet de sauvegarde.
 
-**_Œil caché._** Le forgepeur est avantagé lors de ses jets de sauvegarde contre l'état aveuglé.
+**_Oeil caché._** Le forgepeur est avantagé lors de ses jets de sauvegarde contre l'état aveuglé.
 
 **_Incantation innée._** La caractéristique d'incantation innée d'un forgepeur est le Charisme (DD du jet de sauvegarde contre les sorts 16). Il peut lancer les sorts suivants de manière innée, sans composantes verbales ou matérielles :
 
@@ -9583,9 +9583,9 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 
 **1.** Étouffé par le sang . La bouche de la cible se remplit de sang, l'empêchant de parler ou lancer un sort à composante verbale pendant 1 minute.
 
-**2. Œil sanglant** . Les yeux de la cible s'emplissent de larmes de sang. Elle est aveugle pendant 1 minute.
+**2. Oeil sanglant** . Les yeux de la cible s'emplissent de larmes de sang. Elle est aveugle pendant 1 minute.
 
-**3.** Battements de tonnerre . La cible n'entend plus que le flot du sang et les battements de son cœur. Elle est sourde pendant 1minute.
+**3.** Battements de tonnerre . La cible n'entend plus que le flot du sang et les battements de son coeur. Elle est sourde pendant 1minute.
 
 **4.** Rupture artérielle . La victime subit 7 (2d6) dégâts tranchants tandis que ses veines et artères se déchirent. La cible répète le jet de sauvegarde au début de chacun de ses tours. Sur un échec, elle subit 3 (1d6) dégâts nécrotiques, mais sur un succès, elle met fin à l'effet.
 
@@ -9727,7 +9727,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 **_Ténèbres flottantes._** Une harpie chouette en vol stationnaire peut laisser tomber une fine poussière magique de ses ailes sur une créature située à 6 mètres ou moins, directement sous elle. Cette créature doit réussir un jet de sauvegarde de Constitution DD 15 ou tomber inconsciente et empoisonnée pendant 10 minutes. Elle se réveille si elle subit des dégâts ou si une créature utilise son action pour la réveiller. Le réveil ne dissipe pas le poison.
 
-**_Chant attirant._** La harpie chouette entonne une mélodie magique. Tous les humanoïdes et les géants dans un rayon de 90 mètres qui entendent le chant doivent réussir un jet de sauvegarde de Sagesse DD 15 ou être charmés jusqu'à la fin de la chanson. La harpie doit utiliser une action bonus lors des tours suivants pour continuer de chanter. Elle peut arrêter à tout moment. Le chant se termine si la harpie est neutralisée. Tant que la cible est charmée par la harpie, elle est neutralisée et ignore le chant des autres harpies. Si elle s'éloigne à plus de 1,50 mètre de la harpie, elle doit se déplacer à sa vitesse maximale (en se précipitant si nécessaire) en empruntant l'itinéraire le plus court pour se rendre à 1,50 mètre ou moins de la harpie. Elle ne manœuvre pas de manière à éviter les attaques d'opportunité, mais peut refaire le jet de sauvegarde à chaque fois qu'elle subit des dégâts émanant d'une source autre que la harpie. Elle répète le jet de sauvegarde avant d'entrer sur un terrain dangereux (de la lave ou une fosse par exemple) si l'itinéraire le plus direct comporte une zone dangereuse. Elle le répète aussi à la fin de chacun de ses tours. Un jet de sauvegarde réussi met un terme à l'effet sur la créature et l'immunise contre le chant de cette harpie pendant 24 heures.
+**_Chant attirant._** La harpie chouette entonne une mélodie magique. Tous les humanoïdes et les géants dans un rayon de 90 mètres qui entendent le chant doivent réussir un jet de sauvegarde de Sagesse DD 15 ou être charmés jusqu'à la fin de la chanson. La harpie doit utiliser une action bonus lors des tours suivants pour continuer de chanter. Elle peut arrêter à tout moment. Le chant se termine si la harpie est neutralisée. Tant que la cible est charmée par la harpie, elle est neutralisée et ignore le chant des autres harpies. Si elle s'éloigne à plus de 1,50 mètre de la harpie, elle doit se déplacer à sa vitesse maximale (en se précipitant si nécessaire) en empruntant l'itinéraire le plus court pour se rendre à 1,50 mètre ou moins de la harpie. Elle ne manoeuvre pas de manière à éviter les attaques d'opportunité, mais peut refaire le jet de sauvegarde à chaque fois qu'elle subit des dégâts émanant d'une source autre que la harpie. Elle répète le jet de sauvegarde avant d'entrer sur un terrain dangereux (de la lave ou une fosse par exemple) si l'itinéraire le plus direct comporte une zone dangereuse. Elle le répète aussi à la fin de chacun de ses tours. Un jet de sauvegarde réussi met un terme à l'effet sur la créature et l'immunise contre le chant de cette harpie pendant 24 heures.
 
 <!--/MonsterItem-->
 
@@ -9775,7 +9775,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 
 **_Résistance légendaire (3/jour)._** Si l'haugbui rate un jet de sauvegarde, il peut choisir à la place de le réussir.
 
-**_Scrutation sépulcrale (1/jour)._** Un œil magique invisible se crée, sous le contrôle de l'haugbui, ce qui lui permet de surveiller son territoire sans quitter son tumulus. L'œil se déplace à la vitesse de la pensée et peut s'éloigner jusqu'à 7,5 kilomètres de l'haugbui. Ce dernier voit, entend et peut utiliser ses capacités d'incantation innées comme s'il se trouvait à la place de l'œil. Celui-ci se repère avec un test de Sagesse (Perception) DD 18 et se dissipe comme un sort de niveau 3. Les sorts bloquant les sorts de scrutation fonctionnent aussi contre la scrutation sépulcrale. Tant que l'œil n'est pas dissipé ou révoqué par son créateur, il dure jusqu'à 12 heures. L'haugbui ne peut en créer qu'un par période de 24 heures.
+**_Scrutation sépulcrale (1/jour)._** Un oeil magique invisible se crée, sous le contrôle de l'haugbui, ce qui lui permet de surveiller son territoire sans quitter son tumulus. L'oeil se déplace à la vitesse de la pensée et peut s'éloigner jusqu'à 7,5 kilomètres de l'haugbui. Ce dernier voit, entend et peut utiliser ses capacités d'incantation innées comme s'il se trouvait à la place de l'oeil. Celui-ci se repère avec un test de Sagesse (Perception) DD 18 et se dissipe comme un sort de niveau 3. Les sorts bloquant les sorts de scrutation fonctionnent aussi contre la scrutation sépulcrale. Tant que l'oeil n'est pas dissipé ou révoqué par son créateur, il dure jusqu'à 12 heures. L'haugbui ne peut en créer qu'un par période de 24 heures.
 
 **_Sensibilité à la lumière du soleil._** Un haugbui est désavantagé lors de ses jets d'attaque et de Sagesse (Perception) basés sur la vue s'il est exposé à la lumière du soleil.
 
@@ -10329,7 +10329,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 
 **_Griffes._** _Attaque d'arme au corps à corps :_ +8 pour toucher, allonge 1,50 m, une cible. Touché: 17 (3d8+4) dégâts perforants. Si les deux attaques touchent une même cible de taille Moyenne ou inférieure au cours du même tour, cette cible est empoignée (évasion DD 14).
 
-**_Implantation d'œuf._** Si l'attaque de morsure du horakh réduit une cible empoignée à 0 point de vie ou s'il mord une cible déjà à 0 point de vie, il implante un œuf dans son orbite. L'œuf grossit pendant 2 semaines avant d'éclore. Si la victime est encore en vie lors de l'implantation, elle perd 1d2 Constitution toutes les 24heures et elle est désavantagée lors des jets d'attaque et des tests de caractéristique. Au bout d'une semaine, elle est neutralisée et aveuglée. Quand l'œuf éclot au bout de 2 semaines, un horakh immature sort du crâne de la victime, lui infligeant 1d10 dégâts contondants, 1d10 dégâts perforants et 1d10 dégâts tranchants. Restauration inférieure permet de tuer l'œuf lors de l'incubation.
+**_Implantation d'oeuf._** Si l'attaque de morsure du horakh réduit une cible empoignée à 0 point de vie ou s'il mord une cible déjà à 0 point de vie, il implante un oeuf dans son orbite. L'oeuf grossit pendant 2 semaines avant d'éclore. Si la victime est encore en vie lors de l'implantation, elle perd 1d2 Constitution toutes les 24heures et elle est désavantagée lors des jets d'attaque et des tests de caractéristique. Au bout d'une semaine, elle est neutralisée et aveuglée. Quand l'oeuf éclot au bout de 2 semaines, un horakh immature sort du crâne de la victime, lui infligeant 1d10 dégâts contondants, 1d10 dégâts perforants et 1d10 dégâts tranchants. Restauration inférieure permet de tuer l'oeuf lors de l'incubation.
 
 <!--/MonsterItem-->
 
@@ -10811,7 +10811,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - **Langues** <!--Languages-->abyssal, céleste, commun, infernal, nain<!--/Languages-->
 - **Dangerosité** <!--Challenge-->17 (18 000PX)<!--/Challenge-->
 
-**_Âme cachée._** Une créature tenant l'œuf contenant l'âme de Koschei peut utiliser son action pour donner des ordres au fiélon comme s'il avait été la cible de dominer un monstre et avait raté son jet de sauvegarde. Tant que son âme est dans l'aiguille, Koschei ne peut pas mourir définitivement. S'il périt, son corps se reforme dans son antre dans les 1d10 jours. Si l'aiguille est cassée, Koschei peut se faire tuer comme n'importe qui.
+**_Âme cachée._** Une créature tenant l'oeuf contenant l'âme de Koschei peut utiliser son action pour donner des ordres au fiélon comme s'il avait été la cible de dominer un monstre et avait raté son jet de sauvegarde. Tant que son âme est dans l'aiguille, Koschei ne peut pas mourir définitivement. S'il périt, son corps se reforme dans son antre dans les 1d10 jours. Si l'aiguille est cassée, Koschei peut se faire tuer comme n'importe qui.
 
 **_Incantation innée._** Koschei utilise le Charisme comme caractéristique d'incantation innée (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 
@@ -13736,13 +13736,13 @@ dépassent leurs compétences.
 
 **_Os tourbillonnants._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 0m, une créature dans le même emplacement que la nuée. Touché: 31 (5d8+9) dégâts contondants, perforants ou tranchants (inclus le pouvoir spécial Force des os).
 
-**_Étreinte de la mort (Recharge 5–6)._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 0m, une créature dans le même emplacement que la nuée. Touché: la cible est empoignée (évasion DD16) et se trouve enveloppée dans la nuée osseuse. Tant que la créature se trouve ainsi empoignée, la nuée peut la faire se déplacer, lors du tour de la créature ou à n'importe quel autre moment auquel la créature ne devrait pas sinon pouvoir se déplacer. Toute attaque qui cible la nuée osseuse mais qui n'est pas une attaque de zone a 50% de risques de toucher à la place la créature qui se trouve empoignée au cœur de l'étreinte de la mort.
+**_Étreinte de la mort (Recharge 5–6)._** _Attaque d'arme au corps à corps :_ +10 pour toucher, allonge 0m, une créature dans le même emplacement que la nuée. Touché: la cible est empoignée (évasion DD16) et se trouve enveloppée dans la nuée osseuse. Tant que la créature se trouve ainsi empoignée, la nuée peut la faire se déplacer, lors du tour de la créature ou à n'importe quel autre moment auquel la créature ne devrait pas sinon pouvoir se déplacer. Toute attaque qui cible la nuée osseuse mais qui n'est pas une attaque de zone a 50% de risques de toucher à la place la créature qui se trouve empoignée au coeur de l'étreinte de la mort.
 
 <!--/MonsterItem-->
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Œil D'Émeraude<!--/Name-->
+# <!--Name-->Oeil D'Émeraude<!--/Name-->
 
 - Source: <!--Source-->(LDM p333)(TOB p175)<!--/Source-->
 - TOB: <!--AltName-->Emerald Eye<!--/AltName-->
@@ -13764,19 +13764,19 @@ dépassent leurs compétences.
 - **Langues** <!--Languages-->commun, draconique; télépathie 75 m<!--/Languages-->
 - **Dangerosité** <!--Challenge-->1 (200 PX)<!--/Challenge-->
 
-**_Lié._** Un œil d'émeraude ne peut pas se déplacer à plus de 7,50m de la créature à laquelle il est lié psychiquement. Au moment de sa création, il est lié à son créateur. Une fois libéré, il peut cependant se lier à une autre créature en utilisant l'action lier.
+**_Lié._** Un oeil d'émeraude ne peut pas se déplacer à plus de 7,50m de la créature à laquelle il est lié psychiquement. Au moment de sa création, il est lié à son créateur. Une fois libéré, il peut cependant se lier à une autre créature en utilisant l'action lier.
 
-**_Forme immuable._** Un œil d'émeraude est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
+**_Forme immuable._** Un oeil d'émeraude est immunisé contre tous les sorts et effets susceptibles de modifier sa forme.
 
 ## ACTIONS
 
 **_Entaille._** _Attaque d'arme au corps à corps :_ +4 pour toucher, allonge 1,50 m, une cible. Touché: 14 (5d4+2) dégâts tranchants.
 
-**_Attraction (recharge 5-6)._** Un œil d'émeraude peut contraindre une créature de se déplacer vers une personne ou un objet spécifique. Si la créature échoue à un jet de sauvegarde de Charisme DD 13, elle ressent l'envie irrésistible de se déplacer vers ce que lui désigne l'œil d'émeraude. La créature ciblée doit se trouver dans un rayon de 7,50 mètres de l'œil d'émeraude quand l'attraction est déclenchée, mais elle peut ensuite quitter librement cette zone d'effet initiale tout en restant sous le contrôle de l'attraction. Du point de vue de la créature, rien ne semble sortir de l'ordinaire et elle ne peut pas consciemment se mettre, elle-même ou ses alliés, en danger pour atteindre l'objet désigné. La créature peut tenter un nouveau jet de sauvegarde de Charisme DD 13 au début de chacun de ses tours et, sur une réussite, l'effet prend fin.
+**_Attraction (recharge 5-6)._** Un oeil d'émeraude peut contraindre une créature de se déplacer vers une personne ou un objet spécifique. Si la créature échoue à un jet de sauvegarde de Charisme DD 13, elle ressent l'envie irrésistible de se déplacer vers ce que lui désigne l'oeil d'émeraude. La créature ciblée doit se trouver dans un rayon de 7,50 mètres de l'oeil d'émeraude quand l'attraction est déclenchée, mais elle peut ensuite quitter librement cette zone d'effet initiale tout en restant sous le contrôle de l'attraction. Du point de vue de la créature, rien ne semble sortir de l'ordinaire et elle ne peut pas consciemment se mettre, elle-même ou ses alliés, en danger pour atteindre l'objet désigné. La créature peut tenter un nouveau jet de sauvegarde de Charisme DD 13 au début de chacun de ses tours et, sur une réussite, l'effet prend fin.
 
-**_Lier (3/jour)._** L'œil d'émeraude peut se lier psychiquement à une créature d'une Intelligence de 6 ou plus. Cette tentative échoue si la cible réussit un jet de sauvegarde de Charisme DD 13. La cible n'a pas conscience d'être ciblée par cet effet, peu importe le résultat de son jet de dé.
+**_Lier (3/jour)._** L'oeil d'émeraude peut se lier psychiquement à une créature d'une Intelligence de 6 ou plus. Cette tentative échoue si la cible réussit un jet de sauvegarde de Charisme DD 13. La cible n'a pas conscience d'être ciblée par cet effet, peu importe le résultat de son jet de dé.
 
-**_Fouet télépathique (3/jour)._** Un œil d'émeraude peut projeter vers une créature humanoïde qui se trouve dans un rayon de 7,50mètres une vague d'émotions et de pulsions qui la submergent et qu'elle a du mal à contrôler. Si la cible échoue à un jet de sauvegarde de Sagesse DD 13, elle se trouve dans l'état étourdi pendant 1 round.
+**_Fouet télépathique (3/jour)._** Un oeil d'émeraude peut projeter vers une créature humanoïde qui se trouve dans un rayon de 7,50mètres une vague d'émotions et de pulsions qui la submergent et qu'elle a du mal à contrôler. Si la cible échoue à un jet de sauvegarde de Sagesse DD 13, elle se trouve dans l'état étourdi pendant 1 round.
 
 <!--/MonsterItem-->
 
@@ -14298,9 +14298,9 @@ dépassent leurs compétences.
 - **Langues** <!--Languages-->commun, gobelin, infernal, sylvestre, langue du Vide<!--/Languages-->
 - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
-**_Perturbateur._** En raison de sa nature écœurante, la qwyllion désavantage les lanceurs de sorts lors de leurs tests de concentration s'ils se trouvent dans les 12 mètres.
+**_Perturbateur._** En raison de sa nature écoeurante, la qwyllion désavantage les lanceurs de sorts lors de leurs tests de concentration s'ils se trouvent dans les 12 mètres.
 
-**_Aura écœurante._** La qwyllion est écœurante de corruption. Une créature qui commence son tour dans un rayon de 6 mètres doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est empoisonnée pendant 1d8 rounds. Si une créature déjà empoisonnée par cet effet rate de nouveau son jet, elle est neutralisée à la place. Si elle rate encore son jet, elle tombe à 0point de vie. Un jet de sauvegarde réussi immunise une créature contre cet effet pendant 24 heures. Une créature que domine la qwyllion est immunisée contre cet effet.
+**_Aura écoeurante._** La qwyllion est écoeurante de corruption. Une créature qui commence son tour dans un rayon de 6 mètres doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est empoisonnée pendant 1d8 rounds. Si une créature déjà empoisonnée par cet effet rate de nouveau son jet, elle est neutralisée à la place. Si elle rate encore son jet, elle tombe à 0point de vie. Un jet de sauvegarde réussi immunise une créature contre cet effet pendant 24 heures. Une créature que domine la qwyllion est immunisée contre cet effet.
 
 ## ACTIONS
 
@@ -15328,7 +15328,7 @@ dépassent leurs compétences.
 
 **_Armes magiques._** Les attaques d'arme du sphinx sont magiques.
 
-**_Vision mystique._** Le gypsosphinx voit la mort arriver et peut prédire la manière dont quelqu'un mourra. Ce pouvoir ne s'accompagne pas du moindre désir de partager cette information. Il est connu pour faire des allusions sur la mort d'une créature, l'asticoter à ce sujet ou même mentir ("Si on se bat, je vais te tuer et manger ton cœur : je l'ai vu" est un de ses coups de bluff favoris).
+**_Vision mystique._** Le gypsosphinx voit la mort arriver et peut prédire la manière dont quelqu'un mourra. Ce pouvoir ne s'accompagne pas du moindre désir de partager cette information. Il est connu pour faire des allusions sur la mort d'une créature, l'asticoter à ce sujet ou même mentir ("Si on se bat, je vais te tuer et manger ton coeur : je l'ai vu" est un de ses coups de bluff favoris).
 
 **_Incantation._** Le sphinx est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer des sorts sans composante matérielle. Voici les sorts de magicien qu'il a préparés :
 
@@ -15389,7 +15389,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Langues** <!--Languages-->—<!--/Languages-->
 - **Dangerosité** <!--Challenge-->9 (5 000PX)<!--/Challenge-->
 
-**_Régénération._** Le squelette de troll des lianes récupère 5 points de vie au début de son tour s'il se trouve à 3 mètres ou moins des lianes de la dryade épine-du-crépuscule et qu'il n'a pas reçu de dégâts d'acide ou de feu depuis son tour précédent. Il meurt seulement s'il commence son tour avec 0 point de vie et ne se régénère pas, ou si la dryade épine-du-crépuscule qui l'a créé meurt, ou si quelqu'un détruit son cœur dans l'arbre de la dryade ou du sylvanien.
+**_Régénération._** Le squelette de troll des lianes récupère 5 points de vie au début de son tour s'il se trouve à 3 mètres ou moins des lianes de la dryade épine-du-crépuscule et qu'il n'a pas reçu de dégâts d'acide ou de feu depuis son tour précédent. Il meurt seulement s'il commence son tour avec 0 point de vie et ne se régénère pas, ou si la dryade épine-du-crépuscule qui l'a créé meurt, ou si quelqu'un détruit son coeur dans l'arbre de la dryade ou du sylvanien.
 
 ## ACTIONS
 
@@ -15556,7 +15556,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Suffragan Cœur-De-Vers<!--/Name-->
+# <!--Name-->Suffragan Coeur-De-Vers<!--/Name-->
 
 - Source: <!--Source-->(LDM p376)(TOB p410)<!--/Source-->
 - TOB: <!--AltName-->Wormhearted Suffragan<!--/AltName-->
@@ -15576,7 +15576,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Langues** <!--Languages-->celles qu'il parlait de son vivant<!--/Languages-->
 - **Dangerosité** <!--Challenge-->5 (1 800PX)<!--/Challenge-->
 
-**_Incantation innée._** Le suffragan cœur-de-vers utilise la Sagesse comme caractéristique d'incantation innée (DDdu jet de sauvegarde contre les sorts 14, +6pour toucher avec les attaques de sort). Il peut lancer les sorts suivants sans composantes matérielles :
+**_Incantation innée._** Le suffragan coeur-de-vers utilise la Sagesse comme caractéristique d'incantation innée (DDdu jet de sauvegarde contre les sorts 14, +6pour toucher avec les attaques de sort). Il peut lancer les sorts suivants sans composantes matérielles :
 
 **À volonté:** détection du mal et du bien, injonction
 
@@ -15588,7 +15588,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 ## ACTIONS
 
-**_Attaques multiples._** Le suffragan cœur-de-vers peut faire deux attaques d'infestation d'helminthes ou lancer un sort et faire une attaque d'infestation d'helminthes
+**_Attaques multiples._** Le suffragan coeur-de-vers peut faire deux attaques d'infestation d'helminthes ou lancer un sort et faire une attaque d'infestation d'helminthes
 
 **_Infestation d'helminthes._** _Attaque d'arme au corps à corps :_ +5 pour toucher, allonge 1,50 m, une cible. Touché: 7(2d6) dégâts contondants plus 10 (3d6) dégâts nécrotiques. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est affectée par une infestation d'helminthes (vers parasites). Une créature affectée ne peut plus récupérer de points de vie et son maximum de points de vie diminue de 10 (3d6) par tranche de 24 heures écoulées. Si l'infestation réduit le maximum de points de vie de la cible à 0, elle meurt. L'infestation persiste jusqu'à ce qu'elle soit éliminée par n'importe quelle magie guérissant les maladies.
 
@@ -15893,7 +15893,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - **Langue** <!--Languages-->commun<!--/Languages-->
 - **Dangerosité** <!--Challenge-->8 (3 900PX)<!--/Challenge-->
 
-**_Cœur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.
+**_Coeur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.
 
 **_Ventre brûlant._** Les créatures jetées dans le ventre brûlant d'un tophet subissent 21 (6d6) dégâts de feu au début de chaque tour du tophet. Il faut dépenser 3 mètres de déplacement et réussir un test de Dextérité (Acrobaties) DD16 pour fuir la panse de la bête.
 
@@ -15944,7 +15944,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 
 **_Poussière scintillante._** La reine du nid génère un nuage de particules dorées scintillantes dans un rayon de 9mètres. Chaque créature (autre qu'un tosculi) qui se trouve dans cette zone doit réussir un jet de sauvegarde de Constitution DD17, sans quoi elle est aveuglée pendant 1 minute. Une cible aveuglée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
 
-**_Implantation d'œuf._** La reine du nid plante un œuf dans une créature neutralisée située dans un rayon de 1,50mètre autour d'elle, à condition qu'il ne s'agisse pas d'un mort-vivant ou d'une créature artificielle. La victime est empoisonnée, paralysée et n'a pas besoin de boire ni manger jusqu'à ce que l'œuf éclose ou soit retiré. L'œuf éclos en 1d6 semaines et la larve tosculie tue l'hôte. On peut retirer l'œuf implanté en réussissant un jet de Sagesse (Médecine) DD20 ou avec un sort ou un effet magique soignant les maladies.
+**_Implantation d'oeuf._** La reine du nid plante un oeuf dans une créature neutralisée située dans un rayon de 1,50mètre autour d'elle, à condition qu'il ne s'agisse pas d'un mort-vivant ou d'une créature artificielle. La victime est empoisonnée, paralysée et n'a pas besoin de boire ni manger jusqu'à ce que l'oeuf éclose ou soit retiré. L'oeuf éclos en 1d6 semaines et la larve tosculie tue l'hôte. On peut retirer l'oeuf implanté en réussissant un jet de Sagesse (Médecine) DD20 ou avec un sort ou un effet magique soignant les maladies.
 
 ## ACTIONS LÉGENDAIRES.
 
@@ -16236,7 +16236,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 
 **3/jour chacun:** assassin imaginaire, flou, fusion dans la pierre
 
-**1/jour chacun:** invisibilité supérieure, mauvais œil, tentacules noirs
+**1/jour chacun:** invisibilité supérieure, mauvais oeil, tentacules noirs
 
 **_Pattes d'araignée._** Le guetteur peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.
 
