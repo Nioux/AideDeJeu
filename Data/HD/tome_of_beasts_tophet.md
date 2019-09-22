@@ -24,7 +24,7 @@
 - **Langue** commun
 - **Dangerosité** 8 (3 900PX)
 
-**_Cœur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.
+**_Coeur enflammé._** Le feu intérieur du tophet s'allume ou s'éteint à volonté. Il dégage une telle chaleur que toutes les créatures qui se trouvent dans un rayon de 9 mètres autour de lui bénéficient de la résistance aux dégâts de froid.
 
 **_Ventre brûlant._** Les créatures jetées dans le ventre brûlant d'un tophet subissent 21 (6d6) dégâts de feu au début de chaque tour du tophet. Il faut dépenser 3 mètres de déplacement et réussir un test de Dextérité (Acrobaties) DD16 pour fuir la panse de la bête.
 

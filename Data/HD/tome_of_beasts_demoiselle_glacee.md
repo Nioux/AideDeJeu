@@ -54,7 +54,7 @@
 
 **_Enchevêtrement glacé._** La neige et la glace gênent les mouvements de ses adversaires comme le sort enchevêtrement (DD 17).
 
-**_Baiser du cœur gelé._** Une demoiselle glacée peut embrasser un individu consentant, ce qui gèle le cœur du malheureux. Il tombe sous l'effet d'un sort de dominer, son alignement devient LM et il est immunisé contre le froid. La demoiselle glacée peut avoir jusqu'à trois serviteurs de ce type à la fois. On peut briser l'effet avec dissipation de la magie (DD 17), restauration supérieure ou si quelqu'un qui aime la cible l'embrasse.
+**_Baiser du coeur gelé._** Une demoiselle glacée peut embrasser un individu consentant, ce qui gèle le coeur du malheureux. Il tombe sous l'effet d'un sort de dominer, son alignement devient LM et il est immunisé contre le froid. La demoiselle glacée peut avoir jusqu'à trois serviteurs de ce type à la fois. On peut briser l'effet avec dissipation de la magie (DD 17), restauration supérieure ou si quelqu'un qui aime la cible l'embrasse.
 
 **_Explosion de cécité des neiges._** Dans un environnement enneigé, la demoiselle glacée peut tenter d'aveugler toutes les créatures dans un rayon de 9 mètres autour d'elle. Celles qui ratent un jet de sauvegarde de Charisme DD 17 sont aveuglées pendant 1 heure. Les cibles immunisées contre les dégâts de froid le sont aussi contre cet effet.
 

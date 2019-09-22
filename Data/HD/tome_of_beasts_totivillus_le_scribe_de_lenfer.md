@@ -42,7 +42,7 @@
 
 **Niveau 5 (3 emplacements)** : dominer un humanoïde, coercition mystique, modification de mémoire, passe-muraille
 
-**Niveau 6 (2 emplacements)** : mauvais œil, protections et sceaux, suggestion de groupe
+**Niveau 6 (2 emplacements)** : mauvais oeil, protections et sceaux, suggestion de groupe
 
 **Niveau 7 (2 emplacements)** : cage de force, changement de plan
 

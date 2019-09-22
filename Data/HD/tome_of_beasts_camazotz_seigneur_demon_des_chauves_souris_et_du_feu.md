@@ -33,7 +33,7 @@
 
 **_Don du vampirisme._** Camazotz peut décider de faire revenir ceux qu'il a tués en réduisant leur Force à 0 sous forme de vampires. Ils se relèvent au bout de 1d4 jours, et sont alors sous le contrôle permanent de Camazotz jusqu'à ce que celui-ci décide de leur rendre leur libre arbitre. Camazotz ne peut pas avoir plus de dix vampires sous son contrôle.
 
-**_Enveloppe de chaleur._** Camazotz est empreint du cœur des volcans. Une créature qui frappe Camazotz avec une arme sans allonge ou à mains nues subit automatiquement 7 (2d6) dégâts de feu.
+**_Enveloppe de chaleur._** Camazotz est empreint du coeur des volcans. Une créature qui frappe Camazotz avec une arme sans allonge ou à mains nues subit automatiquement 7 (2d6) dégâts de feu.
 
 **_Incantation innée._** La caractéristique d'incantation innée de Camazotz est le Charisme (DD du jet de sauvegarde contre les sorts 22, +14 pour toucher avec les attaques de sort). Il peut lancer les sorts suivants de manière innée, sans composantes matérielles:
 

@@ -37,7 +37,7 @@
 
 **_Poussière scintillante._** La reine du nid génère un nuage de particules dorées scintillantes dans un rayon de 9mètres. Chaque créature (autre qu'un tosculi) qui se trouve dans cette zone doit réussir un jet de sauvegarde de Constitution DD17, sans quoi elle est aveuglée pendant 1 minute. Une cible aveuglée refait le jet de sauvegarde à la fin de chacun de ses tours et met un terme à l'effet si elle le réussit.
 
-**_Implantation d'œuf._** La reine du nid plante un œuf dans une créature neutralisée située dans un rayon de 1,50mètre autour d'elle, à condition qu'il ne s'agisse pas d'un mort-vivant ou d'une créature artificielle. La victime est empoisonnée, paralysée et n'a pas besoin de boire ni manger jusqu'à ce que l'œuf éclose ou soit retiré. L'œuf éclos en 1d6 semaines et la larve tosculie tue l'hôte. On peut retirer l'œuf implanté en réussissant un jet de Sagesse (Médecine) DD20 ou avec un sort ou un effet magique soignant les maladies.
+**_Implantation d'oeuf._** La reine du nid plante un oeuf dans une créature neutralisée située dans un rayon de 1,50mètre autour d'elle, à condition qu'il ne s'agisse pas d'un mort-vivant ou d'une créature artificielle. La victime est empoisonnée, paralysée et n'a pas besoin de boire ni manger jusqu'à ce que l'oeuf éclose ou soit retiré. L'oeuf éclos en 1d6 semaines et la larve tosculie tue l'hôte. On peut retirer l'oeuf implanté en réussissant un jet de Sagesse (Médecine) DD20 ou avec un sort ou un effet magique soignant les maladies.
 
 ## ACTIONS LÉGENDAIRES.
 

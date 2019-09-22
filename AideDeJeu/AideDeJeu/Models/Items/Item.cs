@@ -130,9 +130,11 @@ namespace AideDeJeuLib
         public virtual string ParentLink { get; set; }
 
         [DataMember(Name = "Item_Name", Order = 3)]
+        [Indexed]
         public virtual string Name { get; set; }
 
         [DataMember(Name = "Item_ParentName", Order = 4)]
+        [Indexed]
         public virtual string ParentName { get; set; }
 
         [YamlIgnore]
@@ -163,6 +165,7 @@ namespace AideDeJeuLib
         [DataMember(Name = "Item_NameLevel", Order = 5)]
         public virtual int NameLevel { get; set; }
         [DataMember(Name = "Item_AltName", Order = 6)]
+        [Indexed]
         public virtual string AltName { get; set; }
 
         [YamlIgnore]
@@ -190,6 +193,7 @@ namespace AideDeJeuLib
             }
         }
         [DataMember(Name = "Item_Source", Order = 7)]
+        [Indexed]
         public virtual string Source { get; set; }
 
         [YamlIgnore]

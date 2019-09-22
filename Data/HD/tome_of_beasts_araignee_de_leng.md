@@ -31,7 +31,7 @@
 
 **3/jour chacun:** bouclier, silence
 
-**1/jour chacun:** œil magique, confusion, motif hypnotique, peau de pierre
+**1/jour chacun:** oeil magique, confusion, motif hypnotique, peau de pierre
 
 **_Sang empoisonné._** Si un assaillant touche une araignée de Leng avec une attaque de corps à corps alors qu'il est à 1,50 mètre d'elle ou moins, il doit réussir un jet de sauvegarde de Dextérité DD 15, sans quoi il subit 7 (2d6) dégâts de poison et se trouve empoisonné jusqu'au début de son tour suivant.
 

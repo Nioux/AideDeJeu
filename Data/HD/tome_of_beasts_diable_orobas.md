@@ -42,7 +42,7 @@
 
 **3/jour chacun:** champ antimagie, chaîne d'éclairs, contacter un autre plan, mur de feu, porte dimensionnelle
 
-**1/jour chacun:** mauvais œil, prémonition, trouver un chemin
+**1/jour chacun:** mauvais oeil, prémonition, trouver un chemin
 
 ## ACTIONS
 

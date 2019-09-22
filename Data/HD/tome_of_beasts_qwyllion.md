@@ -22,9 +22,9 @@
 - **Langues** commun, gobelin, infernal, sylvestre, langue du Vide
 - **Dangerosité** 8 (3 900PX)
 
-**_Perturbateur._** En raison de sa nature écœurante, la qwyllion désavantage les lanceurs de sorts lors de leurs tests de concentration s'ils se trouvent dans les 12 mètres.
+**_Perturbateur._** En raison de sa nature écoeurante, la qwyllion désavantage les lanceurs de sorts lors de leurs tests de concentration s'ils se trouvent dans les 12 mètres.
 
-**_Aura écœurante._** La qwyllion est écœurante de corruption. Une créature qui commence son tour dans un rayon de 6 mètres doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est empoisonnée pendant 1d8 rounds. Si une créature déjà empoisonnée par cet effet rate de nouveau son jet, elle est neutralisée à la place. Si elle rate encore son jet, elle tombe à 0point de vie. Un jet de sauvegarde réussi immunise une créature contre cet effet pendant 24 heures. Une créature que domine la qwyllion est immunisée contre cet effet.
+**_Aura écoeurante._** La qwyllion est écoeurante de corruption. Une créature qui commence son tour dans un rayon de 6 mètres doit réussir un jet de sauvegarde de Constitution DD 14, sans quoi elle est empoisonnée pendant 1d8 rounds. Si une créature déjà empoisonnée par cet effet rate de nouveau son jet, elle est neutralisée à la place. Si elle rate encore son jet, elle tombe à 0point de vie. Un jet de sauvegarde réussi immunise une créature contre cet effet pendant 24 heures. Une créature que domine la qwyllion est immunisée contre cet effet.
 
 ## ACTIONS
 

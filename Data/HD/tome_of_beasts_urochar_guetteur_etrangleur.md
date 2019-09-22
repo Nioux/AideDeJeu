@@ -32,7 +32,7 @@
 
 **3/jour chacun:** assassin imaginaire, flou, fusion dans la pierre
 
-**1/jour chacun:** invisibilité supérieure, mauvais œil, tentacules noirs
+**1/jour chacun:** invisibilité supérieure, mauvais oeil, tentacules noirs
 
 **_Pattes d'araignée._** Le guetteur peut escalader n'importe quelle surface, y compris marcher au plafond, sans faire de test de caractéristique.
 

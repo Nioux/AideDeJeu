@@ -45,9 +45,9 @@
 
 **1.** Étouffé par le sang . La bouche de la cible se remplit de sang, l'empêchant de parler ou lancer un sort à composante verbale pendant 1 minute.
 
-**2. Œil sanglant** . Les yeux de la cible s'emplissent de larmes de sang. Elle est aveugle pendant 1 minute.
+**2. Oeil sanglant** . Les yeux de la cible s'emplissent de larmes de sang. Elle est aveugle pendant 1 minute.
 
-**3.** Battements de tonnerre . La cible n'entend plus que le flot du sang et les battements de son cœur. Elle est sourde pendant 1minute.
+**3.** Battements de tonnerre . La cible n'entend plus que le flot du sang et les battements de son coeur. Elle est sourde pendant 1minute.
 
 **4.** Rupture artérielle . La victime subit 7 (2d6) dégâts tranchants tandis que ses veines et artères se déchirent. La cible répète le jet de sauvegarde au début de chacun de ses tours. Sur un échec, elle subit 3 (1d6) dégâts nécrotiques, mais sur un succès, elle met fin à l'effet.
 

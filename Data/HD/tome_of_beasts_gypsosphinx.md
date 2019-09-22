@@ -27,7 +27,7 @@
 
 **_Armes magiques._** Les attaques d'arme du sphinx sont magiques.
 
-**_Vision mystique._** Le gypsosphinx voit la mort arriver et peut prédire la manière dont quelqu'un mourra. Ce pouvoir ne s'accompagne pas du moindre désir de partager cette information. Il est connu pour faire des allusions sur la mort d'une créature, l'asticoter à ce sujet ou même mentir ("Si on se bat, je vais te tuer et manger ton cœur : je l'ai vu" est un de ses coups de bluff favoris).
+**_Vision mystique._** Le gypsosphinx voit la mort arriver et peut prédire la manière dont quelqu'un mourra. Ce pouvoir ne s'accompagne pas du moindre désir de partager cette information. Il est connu pour faire des allusions sur la mort d'une créature, l'asticoter à ce sujet ou même mentir ("Si on se bat, je vais te tuer et manger ton coeur : je l'ai vu" est un de ses coups de bluff favoris).
 
 **_Incantation._** Le sphinx est un lanceur de sorts de niveau 9. Il utilise l'Intelligence comme caractéristique d'incantation (DD du jet de sauvegarde contre les sorts 17, +9 pour toucher avec les attaques de sort). Il peut lancer des sorts sans composante matérielle. Voici les sorts de magicien qu'il a préparés :
 
