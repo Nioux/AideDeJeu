@@ -1,37 +1,38 @@
 ﻿---
 !MonsterItems
+Family: MonsterVO
 Types: Humanoid|Aberration|Beast|Celestial|Construct|Dragon|Elemental|Fey|Fiend|Giant|Monstrosity|Ooze|Plant|Undead
 Challenges: 0 (0 XP)|1/8 (25 XP)|1/4 (50 XP)|1/2 (100 XP)|1 (200 XP)|2 (450 XP)|3 (700 XP)|4 (1100 XP)|5 (1800 XP)|6 (2300 XP)|7 (2900 XP)|8 (3900 XP)|9 (5000 XP)|10 (5900 XP)|11 (7200 XP)|12 (8400 XP)|13 (10000 XP)|14 (11500 XP)|15 (13000 XP)|16 (15000 XP)|17 (18000 XP)|18 (20000 XP)|19 (22000 XP)|20 (25000 XP)|21 (33000 XP)|22 (41000 XP)|23 (50000 XP)|24 (62000 XP)|30 (155000 XP)
 Sizes: Tiny|Small|Medium|Large|Huge|Gargantuan
 Sources: SRD
-Family: MonsterVO
+Name: Monsters, NPC and Animals
 SubItems:
 - !MonsterItem
   Family: MonsterVO
+  Name: Aboleth
+  Source: (SRD p261)
+  AltName: '[Aboleth](hd_monsters_aboleth.md)'
   Type: aberration
   Size: Large
   Alignment: lawful evil
   ArmorClass: 17 (natural armor)
   HitPoints: 135 (18d10 + 36)
   Speed: 10 ft., swim 40 ft.
+  SavingThrows: Con +6, Int +8, Wis +6
+  Skills: History +12, Perception +10
+  Senses: darkvision 120 ft., passive Perception 20
+  Languages: Deep Speech, telepathy 120 ft.
+  Challenge: 10 (5900 XP)
   Strength: 21 (+5)
   Dexterity: ' 9 (-1)'
   Constitution: 15 (+2)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Con +6, Int +8, Wis +6
-  Skills: History +12, Perception +10
-  Senses: darkvision 120 ft., passive Perception 20
-  Languages: Deep Speech, telepathy 120 ft.
-  Challenge: 10 (5900 XP)
   Id: monsters_vo.md#aboleth
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Aboleth
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Aboleth](hd_monsters_aboleth.md)'
-  Source: (SRD p261)
   AttributesDictionary: >+
     Name: Aboleth
 
@@ -2043,29 +2044,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Acolyte
+  Source: (SRD p395)
+  AltName: '[Acolyte](hd_monsters_acolyte.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 10
   HitPoints: 9 (2d8)
   Speed: 30 ft.
+  Skills: Medicine +4, Religion +2
+  Senses: passive Perception 12
+  Languages: any one language (usually Common)
+  Challenge: 1/4 (50 XP)
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 14 (+2)
   Charisma: 11 (+0)
-  Skills: Medicine +4, Religion +2
-  Senses: passive Perception 12
-  Languages: any one language (usually Common)
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#acolyte
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Acolyte
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Acolyte](hd_monsters_acolyte.md)'
-  Source: (SRD p395)
   AttributesDictionary: >+
     Name: Acolyte
 
@@ -2213,29 +2214,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Eagle
+  Source: (SRD p371)
+  AltName: '[Aigle](hd_monsters_aigle.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 10 ft., fly 60 ft.
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 6 (-2)'
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 7 (-2)'
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#eagle
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Eagle
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Aigle](hd_monsters_aigle.md)'
-  Source: (SRD p371)
   AttributesDictionary: >+
     Name: Eagle
 
@@ -2371,29 +2372,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Eagle
+  Source: (SRD p375)
+  AltName: '[Aigle géant](hd_monsters_aigle_geant.md)'
   Type: beast
   Size: Large
   Alignment: neutral good
   ArmorClass: 13
   HitPoints: 26 (4d10 + 4)
   Speed: 10 ft., fly 80 ft.
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: Giant Eagle understands Common and Auran but can't speak them
+  Challenge: 1 (200 XP)
   Strength: 16 (+3)
   Dexterity: 17 (+3)
   Constitution: 13 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: Giant Eagle understands Common and Auran but can't speak them
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#giant-eagle
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Eagle
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Aigle géant](hd_monsters_aigle_geant.md)'
-  Source: (SRD p375)
   AttributesDictionary: >+
     Name: Giant Eagle
 
@@ -2547,18 +2548,15 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Androsphinx
+  Source: (SRD p347)
+  AltName: '[Androsphinx](hd_monsters_androsphinx.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful neutral
   ArmorClass: 17 (natural armor)
   HitPoints: 199 (19d10 + 95)
   Speed: 40 ft., fly 60 ft.
-  Strength: 22 (+6)
-  Dexterity: 10 (+0)
-  Constitution: 20 (+5)
-  Intelligence: 16 (+3)
-  Wisdom: 18 (+4)
-  Charisma: 23 (+6)
   SavingThrows: Dex +6, Con +11, Int +9, Wis +10
   Skills: Arcana +9, Perception +10, Religion +15
   DamageImmunities: psychic; bludgeoning, piercing and slashing from nonmagical attacks
@@ -2566,13 +2564,16 @@ SubItems:
   Senses: truesight 120 ft., passive Perception 20
   Languages: Common, Sphinx
   Challenge: 17 (18000 XP)
+  Strength: 22 (+6)
+  Dexterity: 10 (+0)
+  Constitution: 20 (+5)
+  Intelligence: 16 (+3)
+  Wisdom: 18 (+4)
+  Charisma: 23 (+6)
   Id: monsters_vo.md#androsphinx
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Androsphinx
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Androsphinx](hd_monsters_androsphinx.md)'
-  Source: (SRD p347)
   AttributesDictionary: >+
     Name: Androsphinx
 
@@ -2840,28 +2841,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ankheg
+  Source: (SRD p264)
+  AltName: '[Ankheg](hd_monsters_ankheg.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 14 (natural armor), 11 while prone
   HitPoints: 39 (6d10 + 6)
   Speed: 30 ft., burrow 10 ft.
+  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 17 (+3)
   Dexterity: 11 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#ankheg
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ankheg
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ankheg](hd_monsters_ankheg.md)'
-  Source: (SRD p264)
   AttributesDictionary: >+
     Name: Ankheg
 
@@ -2985,29 +2986,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Spider
+  Source: (SRD p389)
+  AltName: '[Araignée](hd_monsters_araignee.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 1 (1d4 - 1)
   Speed: 20 ft., climb 20 ft.
+  Skills: Stealth +4
+  Senses: darkvision 30 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 14 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 2 (-4)'
-  Skills: Stealth +4
-  Senses: darkvision 30 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#spider
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Spider
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée](hd_monsters_araignee.md)'
-  Source: (SRD p389)
   AttributesDictionary: >+
     Name: Spider
 
@@ -3155,29 +3156,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Phase Spider
+  Source: (SRD p385)
+  AltName: '[Araignée de phase](hd_monsters_araignee_de_phase.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 32 (5d10 + 5)
   Speed: 30 ft., climb 30 ft.
+  Skills: Stealth +6
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 3 (700 XP)
   Strength: 15 (+2)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Skills: Stealth +6
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#phase-spider
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Phase Spider
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée de phase](hd_monsters_araignee_de_phase.md)'
-  Source: (SRD p385)
   AttributesDictionary: >+
     Name: Phase Spider
 
@@ -3325,29 +3326,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Spider
+  Source: (SRD p379)
+  AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 26 (4d10 + 4)
   Speed: 30 ft., climb 30 ft.
+  Skills: Stealth +7
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 14 (+2)
   Dexterity: 16 (+3)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 4 (-3)'
-  Skills: Stealth +7
-  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#giant-spider
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Spider
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée géante](hd_monsters_araignee_geante.md)'
-  Source: (SRD p379)
   AttributesDictionary: >+
     Name: Giant Spider
 
@@ -3507,29 +3508,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Wolf Spider
+  Source: (SRD p381)
+  AltName: '[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 11 (2d8 + 2)
   Speed: 40 ft., climb 40 ft.
+  Skills: Perception +3, Stealth +7
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 12 (+1)
   Dexterity: 16 (+3)
   Constitution: 13 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Skills: Perception +3, Stealth +7
-  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-wolf-spider
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Wolf Spider
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)'
-  Source: (SRD p381)
   AttributesDictionary: >+
     Name: Giant Wolf Spider
 
@@ -3677,29 +3678,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Awakened Tree
+  Source: (SRD p366)
+  AltName: '[Arbre éveillé](hd_monsters_arbre_eveille.md)'
   Type: plant
   Size: Huge
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 59 (7d12 + 14)
   Speed: 20 ft.
+  DamageResistances: bludgeoning, piercing
+  Senses: passive Perception 10
+  Languages: one language known by its creator
+  Challenge: 2 (450 XP)
   Strength: 19 (+4)
   Dexterity: ' 6 (-2)'
   Constitution: 15 (+2)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  DamageResistances: bludgeoning, piercing
-  Senses: passive Perception 10
-  Languages: one language known by its creator
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#awakened-tree
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Awakened Tree
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Arbre éveillé](hd_monsters_arbre_eveille.md)'
-  Source: (SRD p366)
   AttributesDictionary: >+
     Name: Awakened Tree
 
@@ -3839,29 +3840,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Awakened Shrub
+  Source: (SRD p366)
+  AltName: '[Arbuste éveillé](hd_monsters_arbuste_eveille.md)'
   Type: plant
   Size: Small
   Alignment: unaligned
   ArmorClass: 9
   HitPoints: 10 (3d6)
   Speed: 20 ft.
+  DamageResistances: piercing
+  Senses: passive Perception 10
+  Languages: one language known by its creator
+  Challenge: 0 (10 XP)
   Strength: ' 3 (-4)'
   Dexterity: ' 8 (-1)'
   Constitution: 11 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  DamageResistances: piercing
-  Senses: passive Perception 10
-  Languages: one language known by its creator
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#awakened-shrub
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Awakened Shrub
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Arbuste éveillé](hd_monsters_arbuste_eveille.md)'
-  Source: (SRD p366)
   AttributesDictionary: >+
     Name: Awakened Shrub
 
@@ -4001,31 +4002,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Archmage
+  Source: (SRD p395)
+  AltName: '[Archimage](hd_monsters_archimage.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 12 (15 with
   HitPoints: 99 (18d8 + 18)
   Speed: 30 ft.
-  Strength: 10 (+0)
-  Dexterity: 14 (+2)
-  Constitution: 12 (+1)
-  Intelligence: 20 (+5)
-  Wisdom: 15 (+2)
-  Charisma: 16 (+3)
   SavingThrows: Int +9, Wis +6
   Skills: Arcana +13, History +13
   DamageResistances: damage from spells; nonmagical bludgeoning, piercing, and slashing (from
   Senses: passive Perception 12
   Languages: any six languages
   Challenge: 12 (8400 XP)
+  Strength: 10 (+0)
+  Dexterity: 14 (+2)
+  Constitution: 12 (+1)
+  Intelligence: 20 (+5)
+  Wisdom: 15 (+2)
+  Charisma: 16 (+3)
   Id: monsters_vo.md#archmage
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Archmage
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Archimage](hd_monsters_archimage.md)'
-  Source: (SRD p395)
   AttributesDictionary: >+
     Name: Archmage
 
@@ -4245,30 +4246,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Animated Armor
+  Source: (SRD p263)
+  AltName: '[Armure animée](hd_monsters_armure_animee.md)'
   Type: construct
   Size: Medium
   Alignment: unaligned
   ArmorClass: 18 (natural armor)
   HitPoints: 33 (6d8 + 6)
   Speed: 25 ft.
+  DamageImmunities: poison, psychic
+  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 14 (+2)
   Dexterity: 11 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  DamageImmunities: poison, psychic
-  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
-  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#animated-armor
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Animated Armor
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Armure animée](hd_monsters_armure_animee.md)'
-  Source: (SRD p263)
   AttributesDictionary: >+
     Name: Animated Armor
 
@@ -4422,31 +4423,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Assassin
+  Source: (SRD p396)
+  AltName: '[Assassin](hd_monsters_assassin.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
   ArmorClass: 15 (studded leather)
   HitPoints: 78 (12d8 + 24)
   Speed: 30 ft.
-  Strength: 11 (+0)
-  Dexterity: 16 (+3)
-  Constitution: 14 (+2)
-  Intelligence: 13 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 10 (+0)
   SavingThrows: Dex +6, Int +4
   Skills: Acrobatics +6, Deception +3, Perception +3, Stealth +9
   DamageResistances: poison
   Senses: passive Perception 13
   Languages: Thieves' cant plus any two languages
   Challenge: 8 (3900 XP)
+  Strength: 11 (+0)
+  Dexterity: 16 (+3)
+  Constitution: 14 (+2)
+  Intelligence: 13 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 10 (+0)
   Id: monsters_vo.md#assassin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Assassin
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Assassin](hd_monsters_assassin.md)'
-  Source: (SRD p396)
   AttributesDictionary: >+
     Name: Assassin
 
@@ -4624,31 +4625,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Azer
+  Source: (SRD p265)
+  AltName: '[Azer](hd_monsters_azer.md)'
   Type: elemental
   Size: Medium
   Alignment: lawful neutral
   ArmorClass: 17 (natural armor, shield)
   HitPoints: 39 (6d8 + 12)
   Speed: 30 ft.
-  Strength: 17 (+3)
-  Dexterity: 12 (+1)
-  Constitution: 15 (+2)
-  Intelligence: 12 (+1)
-  Wisdom: 13 (+1)
-  Charisma: 10 (+0)
   SavingThrows: Con +4
   DamageImmunities: fire, poison
   ConditionImmunities: poisoned
   Senses: passive Perception 11
   Languages: Ignan
   Challenge: 2 (450 XP)
+  Strength: 17 (+3)
+  Dexterity: 12 (+1)
+  Constitution: 15 (+2)
+  Intelligence: 12 (+1)
+  Wisdom: 13 (+1)
+  Charisma: 10 (+0)
   Id: monsters_vo.md#azer
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Azer
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Azer](hd_monsters_azer.md)'
-  Source: (SRD p265)
   AttributesDictionary: >+
     Name: Azer
 
@@ -4808,28 +4809,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Baboon
+  Source: (SRD p367)
+  AltName: '[Babouin](hd_monsters_babouin.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 30 ft., climb 30 ft.
+  Senses: passive Perception 11
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 8 (-1)'
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 4 (-3)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: passive Perception 11
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#baboon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Baboon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Babouin](hd_monsters_babouin.md)'
-  Source: (SRD p367)
   AttributesDictionary: >+
     Name: Baboon
 
@@ -4959,29 +4960,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gibbering Mouther
+  Source: (SRD p314)
+  AltName: '[Babélien](hd_monsters_babelien.md)'
   Type: aberration
   Size: Medium
   Alignment: neutral
   ArmorClass: 9
   HitPoints: 67 (9d8 + 27)
   Speed: 10 ft., swim 10 ft.
+  ConditionImmunities: prone
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 10 (+0)
   Dexterity: ' 8 (-1)'
   Constitution: 16 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  ConditionImmunities: prone
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#gibbering-mouther
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gibbering Mouther
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Babélien](hd_monsters_babelien.md)'
-  Source: (SRD p314)
   AttributesDictionary: >+
     Name: Gibbering Mouther
 
@@ -5141,32 +5142,32 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Balor
+  Source: (SRD p270)
+  AltName: '[Balor](hd_monsters_balor.md)'
   Type: fiend (demon)
   Size: Huge
   Alignment: chaotic evil
   ArmorClass: 19 (natural armor)
   HitPoints: 262 (21d12 + 126)
   Speed: 40 ft., fly 80 ft.
+  SavingThrows: Str +14, Con +12, Wis +9, Cha +12
+  DamageResistances: cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: truesight 120 ft., passive Perception 13
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 19 (22000 XP)
   Strength: 26 (+8)
   Dexterity: 15 (+2)
   Constitution: 22 (+6)
   Intelligence: 20 (+5)
   Wisdom: 16 (+3)
   Charisma: 22 (+6)
-  SavingThrows: Str +14, Con +12, Wis +9, Cha +12
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 13
-  Languages: Abyssal, telepathy 120 ft.
-  Challenge: 19 (22000 XP)
   Id: monsters_vo.md#balor
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Balor
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Balor](hd_monsters_balor.md)'
-  Source: (SRD p270)
   AttributesDictionary: >+
     Name: Balor
 
@@ -5362,28 +5363,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bandit
+  Source: (SRD p396)
+  AltName: '[Bandit](hd_monsters_bandit.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-lawful alignment
   ArmorClass: 12 (leather armor)
   HitPoints: 11 (2d8 + 2)
   Speed: 30 ft.
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 1/8 (25 XP)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Senses: passive Perception 10
-  Languages: any one language (usually Common)
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#bandit
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bandit
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Bandit](hd_monsters_bandit.md)'
-  Source: (SRD p396)
   AttributesDictionary: >+
     Name: Bandit
 
@@ -5513,30 +5514,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bandit Captain
+  Source: (SRD p397)
+  AltName: '[Capitaine Bandit](hd_monsters_capitaine_bandit.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-lawful alignment
   ArmorClass: 15 (studded leather)
   HitPoints: 65 (10d8 + 20)
   Speed: 30 ft.
+  SavingThrows: Str +4, Dex +5, Wis +2
+  Skills: Athletics +4, Deception +4
+  Senses: passive Perception 10
+  Languages: any two languages
+  Challenge: 2 (450 XP)
   Strength: 15 (+2)
   Dexterity: 16 (+3)
   Constitution: 14 (+2)
   Intelligence: 14 (+2)
   Wisdom: 11 (+0)
   Charisma: 14 (+2)
-  SavingThrows: Str +4, Dex +5, Wis +2
-  Skills: Athletics +4, Deception +4
-  Senses: passive Perception 10
-  Languages: any two languages
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#bandit-captain
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bandit Captain
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Capitaine Bandit](hd_monsters_capitaine_bandit.md)'
-  Source: (SRD p397)
   AttributesDictionary: >+
     Name: Bandit Captain
 
@@ -5696,28 +5697,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Basilisk
+  Source: (SRD p265)
+  AltName: '[Basilic](hd_monsters_basilic.md)'
   Type: monstrosity
   Size: Medium
   Alignment: unaligned
   ArmorClass: 15 (natural armor)
   HitPoints: 52 (8d8 + 16)
   Speed: 20 ft.
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 3 (700 XP)
   Strength: 16 (+3)
   Dexterity: ' 8 (-1)'
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 7 (-2)'
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#basilisk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Basilisk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Basilic](hd_monsters_basilic.md)'
-  Source: (SRD p265)
   AttributesDictionary: >+
     Name: Basilisk
 
@@ -5847,28 +5848,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Axe Beak
+  Source: (SRD p366)
+  AltName: '[Bec de hache](hd_monsters_bec_de_hache.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 19 (3d10 + 3)
   Speed: 50 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 14 (+2)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#axe-beak
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Axe Beak
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Bec de hache](hd_monsters_bec_de_hache.md)'
-  Source: (SRD p366)
   AttributesDictionary: >+
     Name: Axe Beak
 
@@ -5986,29 +5987,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Weasel
+  Source: (SRD p392)
+  AltName: '[Belette](hd_monsters_belette.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 1 (1d4 - 1)
   Speed: 30 ft.
+  Skills: Perception +3, Stealth +5
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 3 (-4)'
   Dexterity: 16 (+3)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 3 (-4)'
-  Skills: Perception +3, Stealth +5
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#weasel
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Weasel
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Belette](hd_monsters_belette.md)'
-  Source: (SRD p392)
   AttributesDictionary: >+
     Name: Weasel
 
@@ -6144,29 +6145,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Weasel
+  Source: (SRD p381)
+  AltName: '[Belette géante](hd_monsters_belette_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 9 (2d8)
   Speed: 40 ft.
+  Skills: Perception +3, Stealth +5
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 10 (+0)
   Intelligence: ' 4 (-3)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Skills: Perception +3, Stealth +5
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#giant-weasel
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Weasel
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Belette géante](hd_monsters_belette_geante.md)'
-  Source: (SRD p381)
   AttributesDictionary: >+
     Name: Giant Weasel
 
@@ -6302,28 +6303,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Berserker
+  Source: (SRD p397)
+  AltName: '[Berserker](hd_monsters_berserker.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any chaotic alignment
   ArmorClass: 13 (hide armor)
   HitPoints: 67 (9d8 + 27)
   Speed: 30 ft.
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 2 (450 XP)
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: ' 9 (-1)'
   Wisdom: 11 (+0)
   Charisma: ' 9 (-1)'
-  Senses: passive Perception 10
-  Languages: any one language (usually Common)
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#berserker
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Berserker
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Berserker](hd_monsters_berserker.md)'
-  Source: (SRD p397)
   AttributesDictionary: >+
     Name: Berserker
 
@@ -6453,28 +6454,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Badger
+  Source: (SRD p367)
+  AltName: '[Blaireau](hd_monsters_blaireau.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 3 (1d4 + 1)
   Speed: 20 ft., burrow 5 ft.
+  Senses: darkvision 30 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 4 (-3)'
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: darkvision 30 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#badger
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Badger
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blaireau](hd_monsters_blaireau.md)'
-  Source: (SRD p367)
   AttributesDictionary: >+
     Name: Badger
 
@@ -6604,28 +6605,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Badger
+  Source: (SRD p373)
+  AltName: '[Blaireau géant](hd_monsters_blaireau_geant.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 13 (2d8 + 4)
   Speed: 30 ft., burrow 10 ft.
+  Senses: darkvision 30 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 13 (+1)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: darkvision 30 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-badger
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Badger
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blaireau géant](hd_monsters_blaireau_geant.md)'
-  Source: (SRD p373)
   AttributesDictionary: >+
     Name: Giant Badger
 
@@ -6773,31 +6774,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ghast
+  Source: (SRD p311)
+  AltName: '[Blême](monsters_hd.md#blême)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 13
   HitPoints: 36 (8d8)
   Speed: 30 ft.
+  DamageResistances: necrotic
+  DamageImmunities: poison
+  ConditionImmunities: charmed, exhaustion, poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Common
+  Challenge: 2 (450 XP)
   Strength: 16 (+3)
   Dexterity: 17 (+3)
   Constitution: 10 (+0)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  DamageImmunities: poison
-  ConditionImmunities: charmed, exhaustion, poisoned
-  DamageResistances: necrotic
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Common
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#ghast
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ghast
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Blême](monsters_hd.md#blême)'
-  Source: (SRD p311)
   AttributesDictionary: >+
     Name: Ghast
 
@@ -6963,29 +6964,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bulette
+  Source: (SRD p266)
+  AltName: '[Bulette](hd_monsters_bulette.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 17 (natural armor)
   HitPoints: 94 (9d10 + 45)
   Speed: 40 ft., burrow 40 ft.
+  Skills: Perception +6
+  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 19 (+4)
   Dexterity: 11 (+0)
   Constitution: 21 (+5)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: Perception +6
-  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 16
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#bulette
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bulette
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Bulette](hd_monsters_bulette.md)'
-  Source: (SRD p266)
   AttributesDictionary: >+
     Name: Bulette
 
@@ -7127,30 +7128,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Behir
+  Source: (SRD p265)
+  AltName: '[Béhir](hd_monsters_behir.md)'
   Type: monstrosity
   Size: Huge
   Alignment: neutral evil
   ArmorClass: 17 (natural armor)
   HitPoints: 168 (16d12 + 64)
   Speed: 50 ft., climb 40 ft.
+  Skills: Perception +6, Stealth +7
+  DamageImmunities: lightning
+  Senses: darkvision 90 ft., passive Perception 16
+  Languages: Draconic
+  Challenge: 11 (7200 XP)
   Strength: 23 (+6)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: ' 7 (-2)'
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: Perception +6, Stealth +7
-  DamageImmunities: lightning
-  Senses: darkvision 90 ft., passive Perception 16
-  Languages: Draconic
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#behir
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Behir
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Béhir](hd_monsters_behir.md)'
-  Source: (SRD p265)
   AttributesDictionary: >+
     Name: Behir
 
@@ -7310,28 +7311,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Centaur
+  AltName: '[Centaure](hd_monsters_centaure.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral good
   ArmorClass: 12
   HitPoints: 45 (6d10 + 12)
   Speed: 50 ft.
+  Skills: Athletics +6, Perception +3, Survival +3
+  Senses: passive Perception 13
+  Languages: Elvish, Sylvan
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 9 (-1)'
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: Athletics +6, Perception +3, Survival +3
-  Senses: passive Perception 13
-  Languages: Elvish, Sylvan
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#centaur
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Centaur
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Centaure](hd_monsters_centaure.md)'
   AttributesDictionary: >+
     Name: Centaur
 
@@ -7491,28 +7492,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Jackal
+  AltName: '[Chacal](hd_monsters_chacal.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 40 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 8 (-1)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#jackal
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Jackal
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chacal](hd_monsters_chacal.md)'
   AttributesDictionary: >+
     Name: Jackal
 
@@ -7648,27 +7649,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Camel
+  AltName: '[Chameau](hd_monsters_chameau.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 9
   HitPoints: 15 (2d10 + 4)
   Speed: 50 ft.
+  Senses: passive Perception 9
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: 16 (+3)
   Dexterity: ' 8 (-1)'
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 9
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#camel
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Camel
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chameau](hd_monsters_chameau.md)'
   AttributesDictionary: >+
     Name: Camel
 
@@ -7780,28 +7781,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Cat
+  AltName: '[Chat](hd_monsters_chat.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 2 (1d4)
   Speed: 40 ft., climb 30 ft.
+  Skills: Perception +3, Stealth +4
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 3 (-4)'
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3, Stealth +4
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#cat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Cat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chat](hd_monsters_chat.md)'
   AttributesDictionary: >+
     Name: Cat
 
@@ -7931,27 +7932,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bat
+  AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 1 (1d4 - 1)
   Speed: 5 ft., fly 30 ft.
+  Senses: blindsight 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 15 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Senses: blindsight 60 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#bat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chauve-souris](hd_monsters_chauve_souris.md)'
   AttributesDictionary: >+
     Name: Bat
 
@@ -8081,27 +8082,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Bat
+  AltName: '[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 22 (4d10)
   Speed: 10 ft., fly 60 ft.
+  Senses: blindsight 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 15 (+2)
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: blindsight 60 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-bat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Bat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)'
   AttributesDictionary: >+
     Name: Giant Bat
 
@@ -8231,27 +8232,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Warhorse
+  AltName: '[Cheval de guerre](hd_monsters_cheval_de_guerre.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 19 (3d10 + 3)
   Speed: 60 ft.
+  Senses: passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Senses: passive Perception 11
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#warhorse
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Warhorse
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cheval de guerre](hd_monsters_cheval_de_guerre.md)'
   AttributesDictionary: >+
     Name: Warhorse
 
@@ -8375,27 +8376,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Riding Horse
+  AltName: '[Cheval de selle](hd_monsters_cheval_de_selle.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 13 (2d10 + 2)
   Speed: 60 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 16 (+3)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#riding-horse
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Riding Horse
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cheval de selle](hd_monsters_cheval_de_selle.md)'
   AttributesDictionary: >+
     Name: Riding Horse
 
@@ -8507,27 +8508,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Draft Horse
+  AltName: '[Cheval de trait](hd_monsters_cheval_de_trait.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 19 (3d10 + 3)
   Speed: 40 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 18 (+4)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#draft-horse
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Draft Horse
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cheval de trait](hd_monsters_cheval_de_trait.md)'
   AttributesDictionary: >+
     Name: Draft Horse
 
@@ -8639,28 +8640,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Knight
+  AltName: '[Chevalier](hd_monsters_chevalier.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 18 (plate)
   HitPoints: 52 (8d8 + 16)
   Speed: 30 ft.
+  SavingThrows: Con +4, Wis +2
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 3 (700 XP)
   Strength: 16 (+3)
   Dexterity: 11 (+0)
   Constitution: 14 (+2)
   Intelligence: 11 (+0)
   Wisdom: 11 (+0)
   Charisma: 15 (+2)
-  SavingThrows: Con +4, Wis +2
-  Senses: passive Perception 10
-  Languages: any one language (usually Common)
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#knight
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Knight
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chevalier](hd_monsters_chevalier.md)'
   AttributesDictionary: >+
     Name: Knight
 
@@ -8826,27 +8827,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Deer
+  AltName: '[Chevreuil](hd_monsters_chevreuil.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 4 (1d8)
   Speed: 50 ft.
+  Senses: passive Perception 12
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 12
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#deer
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Deer
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chevreuil](hd_monsters_chevreuil.md)'
   AttributesDictionary: >+
     Name: Deer
 
@@ -8958,28 +8959,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Death Dog
+  AltName: '[Chien du trépas](hd_monsters_chien_du_trepas.md)'
   Type: monstrosity
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 12
   HitPoints: 39 (6d8 + 12)
   Speed: 40 ft.
+  Skills: Perception +5, Stealth +4
+  Senses: darkvision 120 ft., passive Perception 15
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +5, Stealth +4
-  Senses: darkvision 120 ft., passive Perception 15
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#death-dog
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Death Dog
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chien du trépas](hd_monsters_chien_du_trepas.md)'
   AttributesDictionary: >+
     Name: Death Dog
 
@@ -9115,28 +9116,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Blink Dog
+  AltName: '[Chien esquiveur](hd_monsters_chien_esquiveur.md)'
   Type: fey
   Size: Medium
   Alignment: lawful good
   ArmorClass: 13
   HitPoints: 22 (4d8 + 4)
   Speed: 40 ft.
+  Skills: Perception +3, Stealth +5
+  Senses: passive Perception 13
+  Languages: Blink Dog understands Sylvan but can't speak it
+  Challenge: 1/4 (50 XP)
   Strength: 12 (+1)
   Dexterity: 17 (+3)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: Perception +3, Stealth +5
-  Senses: passive Perception 13
-  Languages: Blink Dog understands Sylvan but can't speak it
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#blink-dog
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Blink Dog
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chien esquiveur](hd_monsters_chien_esquiveur.md)'
   AttributesDictionary: >+
     Name: Blink Dog
 
@@ -9272,28 +9273,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Chimera
+  AltName: '[Chimère](hd_monsters_chimere.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 14 (natural armor)
   HitPoints: 114 (12d10 + 48)
   Speed: 30 ft., fly 60 ft.
+  Skills: Perception +8
+  Senses: darkvision 60 ft., passive Perception 18
+  Languages: understands Draconic but can't speak
+  Challenge: 6 (2300 XP)
   Strength: 19 (+4)
   Dexterity: 11 (+0)
   Constitution: 19 (+4)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +8
-  Senses: darkvision 60 ft., passive Perception 18
-  Languages: understands Draconic but can't speak
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#chimera
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Chimera
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chimère](hd_monsters_chimere.md)'
   AttributesDictionary: >+
     Name: Chimera
 
@@ -9447,28 +9448,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Owl
+  AltName: '[Chouette](hd_monsters_chouette.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 1 (1d4 - 1)
   Speed: 5 ft., fly 60 ft.
+  Skills: Perception +3, Stealth +3
+  Senses: darkvision 120 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 3 (-4)'
   Dexterity: 13 (+1)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3, Stealth +3
-  Senses: darkvision 120 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#owl
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Owl
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chouette](hd_monsters_chouette.md)'
   AttributesDictionary: >+
     Name: Owl
 
@@ -9604,28 +9605,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Owl
+  AltName: '[Chouette géante](hd_monsters_chouette_geante.md)'
   Type: beast
   Size: Large
   Alignment: neutral
   ArmorClass: 12
   HitPoints: 19 (3d10 + 3)
   Speed: 5 ft., fly 60 ft.
+  Skills: Perception +5, Stealth +4
+  Senses: darkvision 120 ft., passive Perception 15
+  Languages: Giant Owl understands Common, Elvish, and
+  Challenge: 1/4 (50 XP)
   Strength: 13 (+1)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 13 (+1)
   Charisma: 10 (+0)
-  Skills: Perception +5, Stealth +4
-  Senses: darkvision 120 ft., passive Perception 15
-  Languages: Giant Owl understands Common, Elvish, and
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-owl
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Owl
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chouette géante](hd_monsters_chouette_geante.md)'
   AttributesDictionary: >+
     Name: Giant Owl
 
@@ -9761,30 +9762,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Chuul
+  AltName: '[Chuul](hd_monsters_chuul.md)'
   Type: aberration
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 16 (natural armor)
   HitPoints: 93 (11d10 + 33)
   Speed: 30 ft., swim 30 ft.
-  Strength: 19 (+4)
-  Dexterity: 10 (+0)
-  Constitution: 16 (+3)
-  Intelligence: ' 5 (-3)'
-  Wisdom: 11 (+0)
-  Charisma: ' 5 (-3)'
   Skills: Perception +4
   DamageImmunities: poison
   ConditionImmunities: poisoned
   Senses: darkvision 60 ft., passive Perception 14
   Languages: understands Deep Speech but can't speak
   Challenge: 4 (1100 XP)
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 16 (+3)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 11 (+0)
+  Charisma: ' 5 (-3)'
   Id: monsters_vo.md#chuul
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Chuul
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chuul](hd_monsters_chuul.md)'
   AttributesDictionary: >+
     Name: Chuul
 
@@ -9944,27 +9945,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Goat
+  AltName: '[Chèvre](hd_monsters_chevre.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 4 (1d8)
   Speed: 40 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: 12 (+1)
   Dexterity: 10 (+0)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#goat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Goat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chèvre](hd_monsters_chevre.md)'
   AttributesDictionary: >+
     Name: Goat
 
@@ -10094,27 +10095,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Goat
+  AltName: '[Chèvre géante](hd_monsters_chevre_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 19 (3d10 + 3)
   Speed: 40 ft.
+  Senses: passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 17 (+3)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: passive Perception 11
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#giant-goat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Goat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Chèvre géante](hd_monsters_chevre_geante.md)'
   AttributesDictionary: >+
     Name: Giant Goat
 
@@ -10244,27 +10245,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Cockatrice
+  AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
   Type: monstrosity
   Size: Small
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 27 (6d6 + 6)
   Speed: 20 ft., fly 40 ft.
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: ' 6 (-2)'
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 5 (-3)'
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#cockatrice
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Cockatrice
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cockatrice](hd_monsters_cockatrice.md)'
   AttributesDictionary: >+
     Name: Cockatrice
 
@@ -10376,28 +10377,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Raven
+  AltName: '[Corbeau](hd_monsters_corbeau.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 1 (1d4 - 1)
   Speed: 10 ft., fly 50 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 14 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#raven
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Raven
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Corbeau](hd_monsters_corbeau.md)'
   AttributesDictionary: >+
     Name: Raven
 
@@ -10527,30 +10528,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Couatl
+  AltName: '[Couatl](hd_monsters_couatl.md)'
   Type: celestial
   Size: Medium
   Alignment: lawful good
   ArmorClass: 19 (natural armor)
   HitPoints: 97 (13d8 + 39)
   Speed: 30 ft., fly 90 ft.
+  SavingThrows: Con +5, Wis +7, Cha +6
+  DamageResistances: radiant
+  DamageImmunities: psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+  Senses: truesight 120 ft., passive Perception 15
+  Languages: all, telepathy 120 ft.
+  Challenge: 4 (1100 XP)
   Strength: 16 (+3)
   Dexterity: 20 (+5)
   Constitution: 17 (+3)
   Intelligence: 18 (+4)
   Wisdom: 20 (+5)
   Charisma: 18 (+4)
-  SavingThrows: Con +5, Wis +7, Cha +6
-  DamageImmunities: psychic; bludgeoning, piercing, and slashing from nonmagical attacks
-  DamageResistances: radiant
-  Senses: truesight 120 ft., passive Perception 15
-  Languages: all, telepathy 120 ft.
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#couatl
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Couatl
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Couatl](hd_monsters_couatl.md)'
   AttributesDictionary: >+
     Name: Couatl
 
@@ -10740,28 +10741,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Crab
+  AltName: '[Crabe](hd_monsters_crabe.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 2 (1d4)
   Speed: 20 ft., swim 20 ft.
+  Skills: Stealth +2
+  Senses: blindsight 30 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 2 (-4)'
-  Skills: Stealth +2
-  Senses: blindsight 30 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#crab
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Crab
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crabe](hd_monsters_crabe.md)'
   AttributesDictionary: >+
     Name: Crab
 
@@ -10891,28 +10892,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Crab
+  AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 15 (natural armor)
   HitPoints: 13 (3d8)
   Speed: 30 ft., swim 30 ft.
+  Skills: Stealth +4
+  Senses: blindsight 30 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: 13 (+1)
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 3 (-4)'
-  Skills: Stealth +4
-  Senses: blindsight 30 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#giant-crab
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Crab
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crabe géant](hd_monsters_crabe_geant.md)'
   AttributesDictionary: >+
     Name: Giant Crab
 
@@ -11042,27 +11043,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Toad
+  AltName: '[Crapaud géant](hd_monsters_crapaud_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 39 (6d10 + 6)
   Speed: 20 ft., swim 40 ft.
+  Senses: darkvision 30 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 15 (+2)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: darkvision 30 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#giant-toad
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Toad
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crapaud géant](hd_monsters_crapaud_geant.md)'
   AttributesDictionary: >+
     Name: Giant Toad
 
@@ -11198,28 +11199,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Shrieker
+  AltName: '[Criard](hd_monsters_criard.md)'
   Type: plant
   Size: Medium
   Alignment: unaligned
   ArmorClass: 5
   HitPoints: 13 (3d8)
   Speed: 0 ft.
+  ConditionImmunities: blinded, deafened, frightened
+  Senses: blindsight 30 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 1 (-5)'
   Dexterity: ' 1 (-5)'
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  ConditionImmunities: blinded, deafened, frightened
-  Senses: blindsight 30 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#shrieker
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Shrieker
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Criard](hd_monsters_criard.md)'
   AttributesDictionary: >+
     Name: Shrieker
 
@@ -11343,28 +11344,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Crocodile
+  AltName: '[Crocodile](hd_monsters_crocodile.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 19 (3d10 + 3)
   Speed: 20 ft., swim 30 ft.
+  Skills: Stealth +2
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: Stealth +2
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#crocodile
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Crocodile
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crocodile](hd_monsters_crocodile.md)'
   AttributesDictionary: >+
     Name: Crocodile
 
@@ -11494,28 +11495,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Crocodile
+  AltName: '[Crocodile géant](hd_monsters_crocodile_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 85 (9d12 + 27)
   Speed: 30 ft., swim 50 ft.
+  Skills: Stealth +5
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 21 (+5)
   Dexterity: ' 9 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Skills: Stealth +5
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#giant-crocodile
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Crocodile
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Crocodile géant](hd_monsters_crocodile_geant.md)'
   AttributesDictionary: >+
     Name: Giant Crocodile
 
@@ -11663,28 +11664,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gelatinous Cube
+  AltName: '[Cube gélatineux](hd_monsters_cube_gelatineux.md)'
   Type: ooze
   Size: Large
   Alignment: unaligned
   ArmorClass: 6
   HitPoints: 84 (8d10 + 40)
   Speed: 15 ft.
+  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
+  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 8
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 14 (+2)
   Dexterity: ' 3 (-4)'
   Constitution: 20 (+5)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 1 (-5)'
-  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
-  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 8
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#gelatinous-cube
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gelatinous Cube
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Cube gélatineux](hd_monsters_cube_gelatineux.md)'
   AttributesDictionary: >+
     Name: Gelatinous Cube
 
@@ -11826,28 +11827,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Nightmare
+  AltName: '[Destrier noir](hd_monsters_destrier_noir.md)'
   Type: fiend
   Size: Large
   Alignment: neutral evil
   ArmorClass: 13 (natural armor)
   HitPoints: 68 (8d10 + 24)
   Speed: 60 ft., fly 90 ft.
+  DamageImmunities: fire
+  Senses: passive Perception 11
+  Languages: understands Abyssal, Common, and Infernal but can't speak
+  Challenge: 3 (700 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  DamageImmunities: fire
-  Senses: passive Perception 11
-  Languages: understands Abyssal, Common, and Infernal but can't speak
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#nightmare
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Nightmare
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Destrier noir](hd_monsters_destrier_noir.md)'
   AttributesDictionary: >+
     Name: Nightmare
 
@@ -11989,32 +11990,32 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Barbed Devil
+  AltName: '[Diable barbelé](hd_monsters_diable_barbele.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 15 (natural armor)
   HitPoints: 110 (13d8 + 52)
   Speed: 30 ft.
+  SavingThrows: Str +6, Con +7, Wis +5, Cha +5
+  Skills: Deception +5, Insight +5, Perception +8
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 18
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 5 (1800 XP)
   Strength: 16 (+3)
   Dexterity: 17 (+3)
   Constitution: 18 (+4)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  SavingThrows: Str +6, Con +7, Wis +5, Cha +5
-  Skills: Deception +5, Insight +5, Perception +8
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 120 ft., passive Perception 18
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#barbed-devil
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Barbed Devil
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable barbelé](hd_monsters_diable_barbele.md)'
   AttributesDictionary: >+
     Name: Barbed Devil
 
@@ -12210,31 +12211,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bearded Devil
+  AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 13 (natural armor)
   HitPoints: 52 (8d8 + 16)
   Speed: 30 ft.
+  SavingThrows: Str +5, Con +4, Wis +2
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 3 (700 XP)
   Strength: 16 (+3)
   Dexterity: 15 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 9 (-1)'
   Wisdom: 11 (+0)
   Charisma: 11 (+0)
-  SavingThrows: Str +5, Con +4, Wis +2
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 120 ft., passive Perception 10
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#bearded-devil
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bearded Devil
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable barbu](hd_monsters_diable_barbu.md)'
   AttributesDictionary: >+
     Name: Bearded Devil
 
@@ -12412,31 +12413,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Horned Devil
+  AltName: '[Diable cornu](hd_monsters_diable_cornu.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
   ArmorClass: 18 (natural armor)
   HitPoints: 178 (17d10 + 85)
   Speed: 20 ft., fly 60 ft.
+  SavingThrows: Str +10, Dex +7, Wis +7, Cha +7
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 13
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 11 (7200 XP)
   Strength: 22 (+6)
   Dexterity: 17 (+3)
   Constitution: 21 (+5)
   Intelligence: 12 (+1)
   Wisdom: 16 (+3)
   Charisma: 17 (+3)
-  SavingThrows: Str +10, Dex +7, Wis +7, Cha +7
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-  Senses: darkvision 120 ft., passive Perception 13
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#horned-devil
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Horned Devil
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable cornu](hd_monsters_diable_cornu.md)'
   AttributesDictionary: >+
     Name: Horned Devil
 
@@ -12620,31 +12621,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Chain Devil
+  AltName: '[Diable des chaînes](hd_monsters_diable_des_chaines.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 16 (natural armor)
   HitPoints: 85 (10d8 + 40)
   Speed: 30 ft.
+  SavingThrows: Con +7, Wis +4, Cha +5
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 8 (3900 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 18 (+4)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  SavingThrows: Con +7, Wis +4, Cha +5
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 120 ft., passive Perception 11
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 8 (3900 XP)
   Id: monsters_vo.md#chain-devil
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Chain Devil
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable des chaînes](hd_monsters_diable_des_chaines.md)'
   AttributesDictionary: >+
     Name: Chain Devil
 
@@ -12822,31 +12823,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ice Devil
+  AltName: '[Diable gelé](hd_monsters_diable_gele.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
   ArmorClass: 18 (natural armor)
   HitPoints: 180 (19d10 + 76)
   Speed: 40 ft.
+  SavingThrows: Dex +7, Con +9, Wis +7, Cha +9
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: cold, fire, poison
+  ConditionImmunities: poisoned
+  Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 12
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 14 (11500 XP)
   Strength: 21 (+5)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: 18 (+4)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Dex +7, Con +9, Wis +7, Cha +9
-  DamageImmunities: cold, fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 12
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 14 (11500 XP)
   Id: monsters_vo.md#ice-devil
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ice Devil
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable gelé](hd_monsters_diable_gele.md)'
   AttributesDictionary: >+
     Name: Ice Devil
 
@@ -13036,32 +13037,32 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bone Devil
+  AltName: '[Diable osseux](hd_monsters_diable_osseux.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
   ArmorClass: 19 (natural armor)
   HitPoints: 142 (15d10 + 60)
   Speed: 40 ft., fly 40 ft.
+  SavingThrows: Int +5, Wis +6, Cha +7
+  Skills: Deception +7, Insight +6
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 12
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 9 (5000 XP)
   Strength: 18 (+4)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Int +5, Wis +6, Cha +7
-  Skills: Deception +7, Insight +6
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 120 ft., passive Perception 12
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 9 (5000 XP)
   Id: monsters_vo.md#bone-devil
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bone Devil
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diable osseux](hd_monsters_diable_osseux.md)'
   AttributesDictionary: >+
     Name: Bone Devil
 
@@ -13239,31 +13240,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Imp
+  AltName: '[Diablotin](hd_monsters_diablotin.md)'
   Type: fiend (devil
   Size: Tiny
   Alignment: shapechanger), lawful evil
   ArmorClass: 13
   HitPoints: 10 (3d4 + 3)
   Speed: 20 ft., fly 40 ft.
+  Skills: Deception +4, Insight +3, Persuasion +4, Stealth +5
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Infernal, Common
+  Challenge: 1 (200 XP)
   Strength: ' 6 (-2)'
   Dexterity: 17 (+3)
   Constitution: 13 (+1)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  Skills: Deception +4, Insight +3, Persuasion +4, Stealth +5
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 120 ft., passive Perception 11
-  Languages: Infernal, Common
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#imp
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Imp
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diablotin](hd_monsters_diablotin.md)'
   AttributesDictionary: >+
     Name: Imp
 
@@ -13429,31 +13430,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Pit Fiend
+  AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
   Type: fiend (devil)
   Size: Large
   Alignment: lawful evil
   ArmorClass: 19 (natural armor)
   HitPoints: 300 (24d10 + 168)
   Speed: 30 ft., fly 60 ft.
+  SavingThrows: Dex +8, Con +13, Wis +10
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: truesight 120 ft., passive Perception 14
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 20 (25000 XP)
   Strength: 26 (+8)
   Dexterity: 14 (+2)
   Constitution: 24 (+7)
   Intelligence: 22 (+6)
   Wisdom: 18 (+4)
   Charisma: 24 (+7)
-  SavingThrows: Dex +8, Con +13, Wis +10
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: truesight 120 ft., passive Perception 14
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 20 (25000 XP)
   Id: monsters_vo.md#pit-fiend
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Pit Fiend
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Diantrefosse](hd_monsters_diantrefosse.md)'
   AttributesDictionary: >+
     Name: Pit Fiend
 
@@ -13673,29 +13674,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Djinni
+  AltName: '[Djinn](hd_monsters_djinn.md)'
   Type: elemental
   Size: Large
   Alignment: chaotic good
   ArmorClass: 17 (natural armor)
   HitPoints: 161 (14d10 + 84)
   Speed: 30 ft., fly 90 ft.
+  SavingThrows: Dex +6, Wis +7, Cha +9
+  DamageImmunities: lightning, thunder
+  Senses: darkvision 120 ft., passive Perception 13
+  Languages: Auran
+  Challenge: 11 (7200 XP)
   Strength: 21 (+5)
   Dexterity: 15 (+2)
   Constitution: 22 (+6)
   Intelligence: 15 (+2)
   Wisdom: 16 (+3)
   Charisma: 20 (+5)
-  SavingThrows: Dex +6, Wis +7, Cha +9
-  DamageImmunities: lightning, thunder
-  Senses: darkvision 120 ft., passive Perception 13
-  Languages: Auran
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#djinni
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Djinni
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Djinn](hd_monsters_djinn.md)'
   AttributesDictionary: >+
     Name: Djinni
 
@@ -13867,29 +13868,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Doppelganger
+  AltName: '[Doppleganger](hd_monsters_doppleganger.md)'
   Type: monstrosity (shapechanger)
   Size: Medium
   Alignment: neutral
   ArmorClass: 14
   HitPoints: 52 (8d8 + 16)
   Speed: 30 ft.
+  Skills: Deception +6, Insight +3
+  ConditionImmunities: charmed
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: Common
+  Challenge: 3 (700 XP)
   Strength: 11 (+0)
   Dexterity: 18 (+4)
   Constitution: 14 (+2)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  Skills: Deception +6, Insight +3
-  ConditionImmunities: charmed
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: Common
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#doppelganger
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Doppelganger
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Doppleganger](hd_monsters_doppleganger.md)'
   AttributesDictionary: >+
     Name: Doppelganger
 
@@ -14049,30 +14050,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult White Dragon
+  AltName: '[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic evil
   ArmorClass: 18 (natural armor)
   HitPoints: 200 (16d12 + 96)
   Speed: 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
-  Strength: 22 (+6)
-  Dexterity: 10 (+0)
-  Constitution: 22 (+6)
-  Intelligence: ' 8 (-1)'
-  Wisdom: 12 (+1)
-  Charisma: 12 (+1)
   SavingThrows: Dex +5, Con +11, Wis +6, Cha +6
   Skills: Perception +11, Stealth +5
   DamageImmunities: cold
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 21
   Languages: Common, Draconic
   Challenge: 13 (10000 XP)
+  Strength: 22 (+6)
+  Dexterity: 10 (+0)
+  Constitution: 22 (+6)
+  Intelligence: ' 8 (-1)'
+  Wisdom: 12 (+1)
+  Charisma: 12 (+1)
   Id: monsters_vo.md#adult-white-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult White Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)'
   AttributesDictionary: >+
     Name: Adult White Dragon
 
@@ -14292,30 +14293,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient White Dragon
+  AltName: '[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic evil
   ArmorClass: 20 (natural armor)
   HitPoints: 333 (18d20 + 144)
   Speed: 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 26 (+8)
-  Dexterity: 10 (+0)
-  Constitution: 26 (+8)
-  Intelligence: 10 (+0)
-  Wisdom: 13 (+1)
-  Charisma: 14 (+2)
   SavingThrows: Dex +6, Con +14, Wis +7, Cha +8
   Skills: Perception +13, Stealth +6
   DamageImmunities: cold
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 23
   Languages: Common, Draconic
   Challenge: 20 (25000 XP)
+  Strength: 26 (+8)
+  Dexterity: 10 (+0)
+  Constitution: 26 (+8)
+  Intelligence: 10 (+0)
+  Wisdom: 13 (+1)
+  Charisma: 14 (+2)
   Id: monsters_vo.md#ancient-white-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient White Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient White Dragon
 
@@ -14535,30 +14536,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young White Dragon
+  AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 17 (natural armor)
   HitPoints: 133 (14d10 + 56)
   Speed: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
-  Strength: 18 (+4)
-  Dexterity: 10 (+0)
-  Constitution: 18 (+4)
-  Intelligence: ' 6 (-2)'
-  Wisdom: 11 (+0)
-  Charisma: 12 (+1)
   SavingThrows: Dex +3, Con +7, Wis +3, Cha +4
   Skills: Perception +6, Stealth +3
   DamageImmunities: cold
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 16
   Languages: Common, Draconic
   Challenge: 6 (2300 XP)
+  Strength: 18 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 18 (+4)
+  Intelligence: ' 6 (-2)'
+  Wisdom: 11 (+0)
+  Charisma: 12 (+1)
   Id: monsters_vo.md#young-white-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young White Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)'
   AttributesDictionary: >+
     Name: Young White Dragon
 
@@ -14724,30 +14725,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: White Dragon Wyrmling
+  AltName: '[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 16 (natural armor)
   HitPoints: 32 (5d8 + 10)
   Speed: 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
-  Strength: 14 (+2)
-  Dexterity: 10 (+0)
-  Constitution: 14 (+2)
-  Intelligence: ' 5 (-3)'
-  Wisdom: 10 (+0)
-  Charisma: 11 (+0)
   SavingThrows: Dex +2, Con +4, Wis +2, Cha +2
   Skills: Perception +4, Stealth +2
   DamageImmunities: cold
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 2 (450 XP)
+  Strength: 14 (+2)
+  Dexterity: 10 (+0)
+  Constitution: 14 (+2)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 10 (+0)
+  Charisma: 11 (+0)
   Id: monsters_vo.md#white-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: White Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)'
   AttributesDictionary: >+
     Name: White Dragon Wyrmling
 
@@ -14883,30 +14884,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Blue Dragon
+  AltName: '[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: lawful evil
   ArmorClass: 19 (natural armor)
   HitPoints: 225 (18d12 + 108)
   Speed: 40 ft., burrow 30 ft., fly 80 ft.
-  Strength: 25 (+7)
-  Dexterity: 10 (+0)
-  Constitution: 23 (+6)
-  Intelligence: 16 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 19 (+4)
   SavingThrows: Dex +5, Con +11, Wis +7, Cha +9
   Skills: Perception +12, Stealth +5
   DamageImmunities: lightning
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 22
   Languages: Common, Draconic
   Challenge: 16 (15000 XP)
+  Strength: 25 (+7)
+  Dexterity: 10 (+0)
+  Constitution: 23 (+6)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#adult-blue-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Blue Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Blue Dragon
 
@@ -15120,30 +15121,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Blue Dragon
+  AltName: '[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: lawful evil
   ArmorClass: 22 (natural armor)
   HitPoints: 481 (26d20 + 208)
   Speed: 40 ft., burrow 40 ft., fly 80 ft.
-  Strength: 29 (+9)
-  Dexterity: 10 (+0)
-  Constitution: 27 (+8)
-  Intelligence: 18 (+4)
-  Wisdom: 17 (+3)
-  Charisma: 21 (+5)
   SavingThrows: Dex +7, Con +15, Wis +10, Cha +12
   Skills: Perception +17, Stealth +7
   DamageImmunities: lightning
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 27
   Languages: Common, Draconic
   Challenge: 23 (50000 XP)
+  Strength: 29 (+9)
+  Dexterity: 10 (+0)
+  Constitution: 27 (+8)
+  Intelligence: 18 (+4)
+  Wisdom: 17 (+3)
+  Charisma: 21 (+5)
   Id: monsters_vo.md#ancient-blue-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Blue Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Blue Dragon
 
@@ -15357,30 +15358,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Blue Dragon
+  AltName: '[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)'
   Type: dragon
   Size: Large
   Alignment: lawful evil
   ArmorClass: 18 (natural armor)
   HitPoints: 152 (16d10 + 64)
   Speed: 40 ft., burrow 20 ft., fly 80 ft.
-  Strength: 21 (+5)
-  Dexterity: 10 (+0)
-  Constitution: 19 (+4)
-  Intelligence: 14 (+2)
-  Wisdom: 13 (+1)
-  Charisma: 17 (+3)
   SavingThrows: Dex +4, Con +8, Wis +5, Cha +7
   Skills: Perception +9, Stealth +4
   DamageImmunities: lightning
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 19
   Languages: Common, Draconic
   Challenge: 9 (5000 XP)
+  Strength: 21 (+5)
+  Dexterity: 10 (+0)
+  Constitution: 19 (+4)
+  Intelligence: 14 (+2)
+  Wisdom: 13 (+1)
+  Charisma: 17 (+3)
   Id: monsters_vo.md#young-blue-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Blue Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)'
   AttributesDictionary: >+
     Name: Young Blue Dragon
 
@@ -15534,30 +15535,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Blue Dragon Wyrmling
+  AltName: '[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)'
   Type: dragon
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 17 (natural armor)
   HitPoints: 52 (8d8 + 16)
   Speed: 30 ft., burrow 15 ft., fly 60 ft.
-  Strength: 17 (+3)
-  Dexterity: 10 (+0)
-  Constitution: 15 (+2)
-  Intelligence: 12 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 15 (+2)
   SavingThrows: Dex +2, Con +4, Wis +2, Cha +4
   Skills: Perception +4, Stealth +2
   DamageImmunities: lightning
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 3 (700 XP)
+  Strength: 17 (+3)
+  Dexterity: 10 (+0)
+  Constitution: 15 (+2)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#blue-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Blue Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)'
   AttributesDictionary: >+
     Name: Blue Dragon Wyrmling
 
@@ -15693,30 +15694,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Brass Dragon
+  AltName: "[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)"
   Type: dragon
   Size: Huge
   Alignment: chaotic good
   ArmorClass: 18 (natural armor)
   HitPoints: 172 (15d12 + 75)
   Speed: 40 ft., burrow 30 ft., fly 80 ft.
-  Strength: 23 (+6)
-  Dexterity: 10 (+0)
-  Constitution: 21 (+5)
-  Intelligence: 14 (+2)
-  Wisdom: 13 (+1)
-  Charisma: 17 (+3)
   SavingThrows: Dex +5, Con +10, Wis +6, Cha +8
   Skills: History +7, Perception +11, Persuasion +8, Stealth +5
   DamageImmunities: fire
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 21
   Languages: Common, Draconic
   Challenge: 13 (10000 XP)
+  Strength: 23 (+6)
+  Dexterity: 10 (+0)
+  Constitution: 21 (+5)
+  Intelligence: 14 (+2)
+  Wisdom: 13 (+1)
+  Charisma: 17 (+3)
   Id: monsters_vo.md#adult-brass-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Brass Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)"
   AttributesDictionary: >+
     Name: Adult Brass Dragon
 
@@ -15942,30 +15943,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Brass Dragon
+  AltName: "[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)"
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic good
   ArmorClass: 20 (natural armor)
   HitPoints: 297 (17d20 + 119)
   Speed: 40 ft., burrow 40 ft., fly 80 ft.
-  Strength: 27 (+8)
-  Dexterity: 10 (+0)
-  Constitution: 25 (+7)
-  Intelligence: 16 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 19 (+4)
   SavingThrows: Dex +6, Con +13, Wis +8, Cha +10
   Skills: History +9, Perception +14, Persuasion +10, Stealth +6
   DamageImmunities: fire
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 24
   Languages: Common, Draconic
   Challenge: 20 (25000 XP)
+  Strength: 27 (+8)
+  Dexterity: 10 (+0)
+  Constitution: 25 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#ancient-brass-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Brass Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)"
   AttributesDictionary: >+
     Name: Ancient Brass Dragon
 
@@ -16197,30 +16198,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Brass Dragon
+  AltName: "[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)"
   Type: dragon
   Size: Large
   Alignment: chaotic good
   ArmorClass: 17 (natural armor)
   HitPoints: 110 (13d10 + 39)
   Speed: 40 ft., burrow 20 ft., fly 80 ft.
-  Strength: 19 (+4)
-  Dexterity: 10 (+0)
-  Constitution: 17 (+3)
-  Intelligence: 12 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 15 (+2)
   SavingThrows: Dex +3, Con +6, Wis +3, Cha +5
   Skills: Perception +6, Persuasion +5, Stealth +3
   DamageImmunities: fire
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 16
   Languages: Common, Draconic
   Challenge: 6 (2300 XP)
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#young-brass-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Brass Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)"
   AttributesDictionary: >+
     Name: Young Brass Dragon
 
@@ -16386,30 +16387,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Brass Dragon Wyrmling
+  AltName: "[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)"
   Type: dragon
   Size: Medium
   Alignment: chaotic good
   ArmorClass: 16 (natural armor)
   HitPoints: 16 (3d8 + 3)
   Speed: 30 ft., burrow 15 ft., fly 60 ft.
-  Strength: 15 (+2)
-  Dexterity: 10 (+0)
-  Constitution: 13 (+1)
-  Intelligence: 10 (+0)
-  Wisdom: 11 (+0)
-  Charisma: 13 (+1)
   SavingThrows: Dex +2, Con +3, Wis +2, Cha +3
   Skills: Perception +4, Stealth +2
   DamageImmunities: fire
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 1 (200 XP)
+  Strength: 15 (+2)
+  Dexterity: 10 (+0)
+  Constitution: 13 (+1)
+  Intelligence: 10 (+0)
+  Wisdom: 11 (+0)
+  Charisma: 13 (+1)
   Id: monsters_vo.md#brass-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Brass Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)"
   AttributesDictionary: >+
     Name: Brass Dragon Wyrmling
 
@@ -16557,30 +16558,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Silver Dragon
+  AltName: "[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)"
   Type: dragon
   Size: Huge
   Alignment: lawful good
   ArmorClass: 19 (natural armor)
   HitPoints: 243 (18d12 + 126)
   Speed: 40 ft., fly 80 ft.
-  Strength: 27 (+8)
-  Dexterity: 10 (+0)
-  Constitution: 25 (+7)
-  Intelligence: 16 (+3)
-  Wisdom: 13 (+1)
-  Charisma: 21 (+5)
   SavingThrows: Dex +5, Con +12, Wis +6, Cha +10
   Skills: Arcana +8, History +8, Perception +11, Stealth +5
   DamageImmunities: cold
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 21
   Languages: Common, Draconic
   Challenge: 16 (15000 XP)
+  Strength: 27 (+8)
+  Dexterity: 10 (+0)
+  Constitution: 25 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 21 (+5)
   Id: monsters_vo.md#adult-silver-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Silver Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)"
   AttributesDictionary: >+
     Name: Adult Silver Dragon
 
@@ -16812,30 +16813,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Silver Dragon
+  AltName: "[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)"
   Type: dragon
   Size: Gargantuan
   Alignment: lawful good
   ArmorClass: 22 (natural armor)
   HitPoints: 487 (25d20 + 225)
   Speed: 40 ft., fly 80 ft.
-  Strength: 30 (+10)
-  Dexterity: 10 (+0)
-  Constitution: 29 (+9)
-  Intelligence: 18 (+4)
-  Wisdom: 15 (+2)
-  Charisma: 23 (+6)
   SavingThrows: Dex +7, Con +16, Wis +9, Cha +13
   Skills: Arcana +11, History +11, Perception +16, Stealth +7
   DamageImmunities: cold
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 26
   Languages: Common, Draconic
   Challenge: 23 (50000 XP)
+  Strength: 30 (+10)
+  Dexterity: 10 (+0)
+  Constitution: 29 (+9)
+  Intelligence: 18 (+4)
+  Wisdom: 15 (+2)
+  Charisma: 23 (+6)
   Id: monsters_vo.md#ancient-silver-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Silver Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)"
   AttributesDictionary: >+
     Name: Ancient Silver Dragon
 
@@ -17067,30 +17068,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Silver Dragon
+  AltName: "[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)"
   Type: dragon
   Size: Large
   Alignment: lawful good
   ArmorClass: 18 (natural armor)
   HitPoints: 168 (16d10 + 80)
   Speed: 40 ft., fly 80 ft.
-  Strength: 23 (+6)
-  Dexterity: 10 (+0)
-  Constitution: 21 (+5)
-  Intelligence: 14 (+2)
-  Wisdom: 11 (+0)
-  Charisma: 19 (+4)
   SavingThrows: Dex +4, Con +9, Wis +4, Cha +8
   Skills: Arcana +6, History +6, Perception +8, Stealth +4
   DamageImmunities: cold
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 18
   Languages: Common, Draconic
   Challenge: 9 (5000 XP)
+  Strength: 23 (+6)
+  Dexterity: 10 (+0)
+  Constitution: 21 (+5)
+  Intelligence: 14 (+2)
+  Wisdom: 11 (+0)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#young-silver-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Silver Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)"
   AttributesDictionary: >+
     Name: Young Silver Dragon
 
@@ -17256,30 +17257,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Silver Dragon Wyrmling
+  AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
   Type: dragon
   Size: Medium
   Alignment: lawful good
   ArmorClass: 17 (natural armor)
   HitPoints: 45 (6d8 + 18)
   Speed: 30 ft., fly 60 ft.
-  Strength: 19 (+4)
-  Dexterity: 10 (+0)
-  Constitution: 17 (+3)
-  Intelligence: 12 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 15 (+2)
   SavingThrows: Dex +2, Con +5, Wis +2, Cha +4
   Skills: Perception +4, Stealth +2
   DamageImmunities: cold
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 2 (450 XP)
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#silver-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Silver Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)"
   AttributesDictionary: >+
     Name: Silver Dragon Wyrmling
 
@@ -17427,30 +17428,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Gold Dragon
+  AltName: "[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)"
   Type: dragon
   Size: Huge
   Alignment: lawful good
   ArmorClass: 19 (natural armor)
   HitPoints: 256 (19d12 + 133)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 27 (+8)
-  Dexterity: 14 (+2)
-  Constitution: 25 (+7)
-  Intelligence: 16 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 24 (+7)
   SavingThrows: Dex +8, Con +13, Wis +8, Cha +13
   Skills: Insight +8, Perception +14, Persuasion +13, Stealth +8
   DamageImmunities: fire
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 24
   Languages: Common, Draconic
   Challenge: 17 (18000 XP)
+  Strength: 27 (+8)
+  Dexterity: 14 (+2)
+  Constitution: 25 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 24 (+7)
   Id: monsters_vo.md#adult-gold-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Gold Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)"
   AttributesDictionary: >+
     Name: Adult Gold Dragon
 
@@ -17688,30 +17689,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Gold Dragon
+  AltName: "[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)"
   Type: dragon
   Size: Gargantuan
   Alignment: lawful good
   ArmorClass: 22 (natural armor)
   HitPoints: 546 (28d20 + 252)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 30 (+10)
-  Dexterity: 14 (+2)
-  Constitution: 29 (+9)
-  Intelligence: 18 (+4)
-  Wisdom: 17 (+3)
-  Charisma: 28 (+9)
   SavingThrows: Dex +9, Con +16, Wis +10, Cha +16
   Skills: Insight +10, Perception +17, Persuasion +16, Stealth +9
   DamageImmunities: fire
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 27
   Languages: Common, Draconic
   Challenge: 24 (62000 XP)
+  Strength: 30 (+10)
+  Dexterity: 14 (+2)
+  Constitution: 29 (+9)
+  Intelligence: 18 (+4)
+  Wisdom: 17 (+3)
+  Charisma: 28 (+9)
   Id: monsters_vo.md#ancient-gold-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Gold Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)"
   AttributesDictionary: >+
     Name: Ancient Gold Dragon
 
@@ -17949,30 +17950,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Gold Dragon
+  AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
   Type: dragon
   Size: Large
   Alignment: lawful good
   ArmorClass: 18 (natural armor)
   HitPoints: 178 (17d10 + 85)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 23 (+6)
-  Dexterity: 14 (+2)
-  Constitution: 21 (+5)
-  Intelligence: 16 (+3)
-  Wisdom: 13 (+1)
-  Charisma: 20 (+5)
   SavingThrows: Dex +6, Con +9, Wis +5, Cha +9
   Skills: Insight +5, Perception +9, Persuasion +9, Stealth +6
   DamageImmunities: fire
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 19
   Languages: Common, Draconic
   Challenge: 10 (5900 XP)
+  Strength: 23 (+6)
+  Dexterity: 14 (+2)
+  Constitution: 21 (+5)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 20 (+5)
   Id: monsters_vo.md#young-gold-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Gold Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)"
   AttributesDictionary: >+
     Name: Young Gold Dragon
 
@@ -18150,30 +18151,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gold Dragon Wyrmling
+  AltName: "[Dragonnet d'or](hd_monsters_dragonnet_dor.md)"
   Type: dragon
   Size: Medium
   Alignment: lawful good
   ArmorClass: 17 (natural armor)
   HitPoints: 60 (8d8 + 24)
   Speed: 30 ft., fly 60 ft., swim 30 ft.
-  Strength: 19 (+4)
-  Dexterity: 14 (+2)
-  Constitution: 17 (+3)
-  Intelligence: 14 (+2)
-  Wisdom: 11 (+0)
-  Charisma: 16 (+3)
   SavingThrows: Dex +4, Con +5, Wis +2, Cha +5
   Skills: Perception +4, Stealth +4
   DamageImmunities: fire
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 3 (700 XP)
+  Strength: 19 (+4)
+  Dexterity: 14 (+2)
+  Constitution: 17 (+3)
+  Intelligence: 14 (+2)
+  Wisdom: 11 (+0)
+  Charisma: 16 (+3)
   Id: monsters_vo.md#gold-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gold Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Dragonnet d'or](hd_monsters_dragonnet_dor.md)"
   AttributesDictionary: >+
     Name: Gold Dragon Wyrmling
 
@@ -18333,30 +18334,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Bronze Dragon
+  AltName: '[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: lawful good
   ArmorClass: 19 (natural armor)
   HitPoints: 212 (17d12 + 102)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 25 (+7)
-  Dexterity: 10 (+0)
-  Constitution: 23 (+6)
-  Intelligence: 16 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 19 (+4)
   SavingThrows: Dex +5, Con +11, Wis +7, Cha +9
   Skills: Insight +7, Perception +12, Stealth +5
   DamageImmunities: lightning
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 22
   Languages: Common, Draconic
   Challenge: 15 (13000 XP)
+  Strength: 25 (+7)
+  Dexterity: 10 (+0)
+  Constitution: 23 (+6)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#adult-bronze-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Bronze Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Bronze Dragon
 
@@ -18594,30 +18595,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Bronze Dragon
+  AltName: '[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: lawful good
   ArmorClass: 22 (natural armor)
   HitPoints: 444 (24d20 + 192)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 29 (+9)
-  Dexterity: 10 (+0)
-  Constitution: 27 (+8)
-  Intelligence: 18 (+4)
-  Wisdom: 17 (+3)
-  Charisma: 21 (+5)
   SavingThrows: Dex +7, Con +15, Wis +10, Cha +12
   Skills: Insight +10, Perception +17, Stealth +7
   DamageImmunities: lightning
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 27
   Languages: Common, Draconic
   Challenge: 22 (41000 XP)
+  Strength: 29 (+9)
+  Dexterity: 10 (+0)
+  Constitution: 27 (+8)
+  Intelligence: 18 (+4)
+  Wisdom: 17 (+3)
+  Charisma: 21 (+5)
   Id: monsters_vo.md#ancient-bronze-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Bronze Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Bronze Dragon
 
@@ -18855,30 +18856,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Bronze Dragon
+  AltName: '[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)'
   Type: dragon
   Size: Large
   Alignment: lawful good
   ArmorClass: 18 (natural armor)
   HitPoints: 142 (15d10 + 60)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 21 (+5)
-  Dexterity: 10 (+0)
-  Constitution: 19 (+4)
-  Intelligence: 14 (+2)
-  Wisdom: 13 (+1)
-  Charisma: 17 (+3)
   SavingThrows: Dex +3, Con +7, Wis +4, Cha +6
   Skills: Insight +4, Perception +7, Stealth +3
   DamageImmunities: lightning
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 17
   Languages: Common, Draconic
   Challenge: 8 (3900 XP)
+  Strength: 21 (+5)
+  Dexterity: 10 (+0)
+  Constitution: 19 (+4)
+  Intelligence: 14 (+2)
+  Wisdom: 13 (+1)
+  Charisma: 17 (+3)
   Id: monsters_vo.md#young-bronze-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Bronze Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)'
   AttributesDictionary: >+
     Name: Young Bronze Dragon
 
@@ -19056,30 +19057,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bronze Dragon Wyrmling
+  AltName: '[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)'
   Type: dragon
   Size: Medium
   Alignment: lawful good
   ArmorClass: 17 (natural armor)
   HitPoints: 32 (5d8 + 10)
   Speed: 30 ft., fly 60 ft., swim 30 ft.
-  Strength: 17 (+3)
-  Dexterity: 10 (+0)
-  Constitution: 15 (+2)
-  Intelligence: 12 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 15 (+2)
   SavingThrows: Dex +2, Con +4, Wis +2, Cha +4
   Skills: Perception +4, Stealth +2
   DamageImmunities: lightning
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 2 (450 XP)
+  Strength: 17 (+3)
+  Dexterity: 10 (+0)
+  Constitution: 15 (+2)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#bronze-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bronze Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)'
   AttributesDictionary: >+
     Name: Bronze Dragon Wyrmling
 
@@ -19239,30 +19240,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Copper Dragon
+  AltName: '[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic good
   ArmorClass: 18 (natural armor)
   HitPoints: 184 (16d12 + 80)
   Speed: 40 ft., climb 40 ft., fly 80 ft.
-  Strength: 23 (+6)
-  Dexterity: 12 (+1)
-  Constitution: 21 (+5)
-  Intelligence: 18 (+4)
-  Wisdom: 15 (+2)
-  Charisma: 17 (+3)
   SavingThrows: Dex +6, Con +10, Wis +7, Cha +8
   Skills: Deception +8, Perception +12, Stealth +6
   DamageImmunities: acid
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 22
   Languages: Common, Draconic
   Challenge: 14 (11500 XP)
+  Strength: 23 (+6)
+  Dexterity: 12 (+1)
+  Constitution: 21 (+5)
+  Intelligence: 18 (+4)
+  Wisdom: 15 (+2)
+  Charisma: 17 (+3)
   Id: monsters_vo.md#adult-copper-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Copper Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Copper Dragon
 
@@ -19488,30 +19489,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Copper Dragon
+  AltName: '[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic good
   ArmorClass: 21 (natural armor)
   HitPoints: 350 (20d20 + 140)
   Speed: 40 ft., climb 40 ft., fly 80 ft.
-  Strength: 27 (+8)
-  Dexterity: 12 (+1)
-  Constitution: 25 (+7)
-  Intelligence: 20 (+5)
-  Wisdom: 17 (+3)
-  Charisma: 19 (+4)
   SavingThrows: Dex +8, Con +14, Wis +10, Cha +11
   Skills: Deception +11, Perception +17, Stealth +8
   DamageImmunities: acid
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 27
   Languages: Common, Draconic
   Challenge: 21 (33000 XP)
+  Strength: 27 (+8)
+  Dexterity: 12 (+1)
+  Constitution: 25 (+7)
+  Intelligence: 20 (+5)
+  Wisdom: 17 (+3)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#ancient-copper-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Copper Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Copper Dragon
 
@@ -19743,30 +19744,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Copper Dragon
+  AltName: '[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic good
   ArmorClass: 17 (natural armor)
   HitPoints: 119 (14d10 + 42)
   Speed: 40 ft., climb 40 ft., fly 80 ft.
-  Strength: 19 (+4)
-  Dexterity: 12 (+1)
-  Constitution: 17 (+3)
-  Intelligence: 16 (+3)
-  Wisdom: 13 (+1)
-  Charisma: 15 (+2)
   SavingThrows: Dex +4, Con +6, Wis +4, Cha +5
   Skills: Deception +5, Perception +7, Stealth +4
   DamageImmunities: acid
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 17
   Languages: Common, Draconic
   Challenge: 7 (2900 XP)
+  Strength: 19 (+4)
+  Dexterity: 12 (+1)
+  Constitution: 17 (+3)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#young-copper-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Copper Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)'
   AttributesDictionary: >+
     Name: Young Copper Dragon
 
@@ -19932,30 +19933,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Copper Dragon Wyrmling
+  AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic good
   ArmorClass: 16 (natural armor)
   HitPoints: 22 (4d8 + 4)
   Speed: 30 ft., climb 30 ft., fly 60 ft.
-  Strength: 15 (+2)
-  Dexterity: 12 (+1)
-  Constitution: 13 (+1)
-  Intelligence: 14 (+2)
-  Wisdom: 11 (+0)
-  Charisma: 13 (+1)
   SavingThrows: Dex +3, Con +3, Wis +2, Cha +3
   Skills: Perception +4, Stealth +3
   DamageImmunities: acid
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 1 (200 XP)
+  Strength: 15 (+2)
+  Dexterity: 12 (+1)
+  Constitution: 13 (+1)
+  Intelligence: 14 (+2)
+  Wisdom: 11 (+0)
+  Charisma: 13 (+1)
   Id: monsters_vo.md#copper-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Copper Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)'
   AttributesDictionary: >+
     Name: Copper Dragon Wyrmling
 
@@ -20103,30 +20104,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Black Dragon
+  AltName: '[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic evil
   ArmorClass: 19 (natural armor)
   HitPoints: 195 (17d12 + 85)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 23 (+6)
-  Dexterity: 14 (+2)
-  Constitution: 21 (+5)
-  Intelligence: 14 (+2)
-  Wisdom: 13 (+1)
-  Charisma: 17 (+3)
   SavingThrows: Dex +7, Con +10, Wis +6, Cha +8
   Skills: Perception +11, Stealth +7
   DamageImmunities: acid
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 21
   Languages: Common, Draconic
   Challenge: 14 (11500 XP)
+  Strength: 23 (+6)
+  Dexterity: 14 (+2)
+  Constitution: 21 (+5)
+  Intelligence: 14 (+2)
+  Wisdom: 13 (+1)
+  Charisma: 17 (+3)
   Id: monsters_vo.md#adult-black-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Black Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Black Dragon
 
@@ -20346,30 +20347,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Black Dragon
+  AltName: '[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic evil
   ArmorClass: 22 (natural armor)
   HitPoints: 367 (21d20 + 147)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 27 (+8)
-  Dexterity: 14 (+2)
-  Constitution: 25 (+7)
-  Intelligence: 16 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 19 (+4)
   SavingThrows: Dex +9, Con +14, Wis +9, Cha +11
   Skills: Perception +16, Stealth +9
   DamageImmunities: acid
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 26
   Languages: Common, Draconic
   Challenge: 21 (33000 XP)
+  Strength: 27 (+8)
+  Dexterity: 14 (+2)
+  Constitution: 25 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#ancient-black-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Black Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Black Dragon
 
@@ -20589,30 +20590,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Black Dragon
+  AltName: '[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 18 (natural armor)
   HitPoints: 127 (15d10 + 45)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 19 (+4)
-  Dexterity: 14 (+2)
-  Constitution: 17 (+3)
-  Intelligence: 12 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 15 (+2)
   SavingThrows: Dex +5, Con +6, Wis +3, Cha +5
   Skills: Perception +6, Stealth +5
   DamageImmunities: acid
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 16
   Languages: Common, Draconic
   Challenge: 7 (2900 XP)
+  Strength: 19 (+4)
+  Dexterity: 14 (+2)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#young-black-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Black Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)'
   AttributesDictionary: >+
     Name: Young Black Dragon
 
@@ -20778,30 +20779,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Black Dragon Wyrmling
+  AltName: '[Dragonnet noir](hd_monsters_dragonnet_noir.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 17 (natural armor)
   HitPoints: 33 (6d8 + 6)
   Speed: 30 ft., fly 60 ft., swim 30 ft.
-  Strength: 15 (+2)
-  Dexterity: 14 (+2)
-  Constitution: 13 (+1)
-  Intelligence: 10 (+0)
-  Wisdom: 11 (+0)
-  Charisma: 13 (+1)
   SavingThrows: Dex +4, Con +3, Wis +2, Cha +3
   Skills: Perception +4, Stealth +4
   DamageImmunities: acid
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 2 (450 XP)
+  Strength: 15 (+2)
+  Dexterity: 14 (+2)
+  Constitution: 13 (+1)
+  Intelligence: 10 (+0)
+  Wisdom: 11 (+0)
+  Charisma: 13 (+1)
   Id: monsters_vo.md#black-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Black Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet noir](hd_monsters_dragonnet_noir.md)'
   AttributesDictionary: >+
     Name: Black Dragon Wyrmling
 
@@ -20949,30 +20950,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Red Dragon
+  AltName: '[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: chaotic evil
   ArmorClass: 19 (natural armor)
   HitPoints: 256 (19d12 + 133)
   Speed: 40 ft., climb 40 ft., fly 80 ft.
-  Strength: 27 (+8)
-  Dexterity: 10 (+0)
-  Constitution: 25 (+7)
-  Intelligence: 16 (+3)
-  Wisdom: 13 (+1)
-  Charisma: 21 (+5)
   SavingThrows: Dex +6, Con +13, Wis +7, Cha +11
   Skills: Perception +13, Stealth +6
   DamageImmunities: fire
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 23
   Languages: Common, Draconic
   Challenge: 17 (18000 XP)
+  Strength: 27 (+8)
+  Dexterity: 10 (+0)
+  Constitution: 25 (+7)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 21 (+5)
   Id: monsters_vo.md#adult-red-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Red Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Red Dragon
 
@@ -21186,30 +21187,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Red Dragon
+  AltName: '[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: chaotic evil
   ArmorClass: 22 (natural armor)
   HitPoints: 546 (28d20 + 252)
   Speed: 40 ft., climb 40 ft., fly 80 ft.
-  Strength: 30 (+10)
-  Dexterity: 10 (+0)
-  Constitution: 29 (+9)
-  Intelligence: 18 (+4)
-  Wisdom: 15 (+2)
-  Charisma: 23 (+6)
   SavingThrows: Dex +7, Con +16, Wis +9, Cha +13
   Skills: Perception +16, Stealth +7
   DamageImmunities: fire
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 26
   Languages: Common, Draconic
   Challenge: 24 (62000 XP)
+  Strength: 30 (+10)
+  Dexterity: 10 (+0)
+  Constitution: 29 (+9)
+  Intelligence: 18 (+4)
+  Wisdom: 15 (+2)
+  Charisma: 23 (+6)
   Id: monsters_vo.md#ancient-red-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Red Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Red Dragon
 
@@ -21423,30 +21424,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Red Dragon
+  AltName: '[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)'
   Type: dragon
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 18 (natural armor)
   HitPoints: 178 (17d10 + 85)
   Speed: 40 ft., climb 40 ft., fly 80 ft.
-  Strength: 23 (+6)
-  Dexterity: 10 (+0)
-  Constitution: 21 (+5)
-  Intelligence: 14 (+2)
-  Wisdom: 11 (+0)
-  Charisma: 19 (+4)
   SavingThrows: Dex +4, Con +9, Wis +4, Cha +8
   Skills: Perception +8, Stealth +4
   DamageImmunities: fire
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 18
   Languages: Common, Draconic
   Challenge: 10 (5900 XP)
+  Strength: 23 (+6)
+  Dexterity: 10 (+0)
+  Constitution: 21 (+5)
+  Intelligence: 14 (+2)
+  Wisdom: 11 (+0)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#young-red-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Red Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)'
   AttributesDictionary: >+
     Name: Young Red Dragon
 
@@ -21600,30 +21601,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Red Dragon Wyrmling
+  AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
   Type: dragon
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 17 (natural armor)
   HitPoints: 75 (10d8 + 30)
   Speed: 30 ft., climb 30 ft., fly 60 ft.
-  Strength: 19 (+4)
-  Dexterity: 10 (+0)
-  Constitution: 17 (+3)
-  Intelligence: 12 (+1)
-  Wisdom: 11 (+0)
-  Charisma: 15 (+2)
   SavingThrows: Dex +2, Con +5, Wis +2, Cha +4
   Skills: Perception +4, Stealth +2
   DamageImmunities: fire
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 4 (1100 XP)
+  Strength: 19 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 12 (+1)
+  Wisdom: 11 (+0)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#red-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Red Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)'
   AttributesDictionary: >+
     Name: Red Dragon Wyrmling
 
@@ -21759,18 +21760,14 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Adult Green Dragon
+  AltName: '[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)'
   Type: dragon
   Size: Huge
   Alignment: lawful evil
   ArmorClass: 19 (natural armor)
   HitPoints: 207 (18d12 + 90)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 23 (+6)
-  Dexterity: 12 (+1)
-  Constitution: 21 (+5)
-  Intelligence: 18 (+4)
-  Wisdom: 15 (+2)
-  Charisma: 17 (+3)
   SavingThrows: Dex +6, Con +10, Wis +7, Cha +8
   Skills: Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
   DamageImmunities: poison
@@ -21778,12 +21775,16 @@ SubItems:
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 22
   Languages: Common, Draconic
   Challenge: 15 (13000 XP)
+  Strength: 23 (+6)
+  Dexterity: 12 (+1)
+  Constitution: 21 (+5)
+  Intelligence: 18 (+4)
+  Wisdom: 15 (+2)
+  Charisma: 17 (+3)
   Id: monsters_vo.md#adult-green-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Adult Green Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)'
   AttributesDictionary: >+
     Name: Adult Green Dragon
 
@@ -22009,18 +22010,14 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ancient Green Dragon
+  AltName: '[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: lawful evil
   ArmorClass: 21 (natural armor)
   HitPoints: 385 (22d20 + 154)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 27 (+8)
-  Dexterity: 12 (+1)
-  Constitution: 25 (+7)
-  Intelligence: 20 (+5)
-  Wisdom: 17 (+3)
-  Charisma: 19 (+4)
   SavingThrows: Dex +8, Con +14, Wis +10, Cha +11
   Skills: Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
   DamageImmunities: poison
@@ -22028,12 +22025,16 @@ SubItems:
   Senses: blindsight 60 ft., darkvision 120 ft., passive Perception 27
   Languages: Common, Draconic
   Challenge: 22 (41000 XP)
+  Strength: 27 (+8)
+  Dexterity: 12 (+1)
+  Constitution: 25 (+7)
+  Intelligence: 20 (+5)
+  Wisdom: 17 (+3)
+  Charisma: 19 (+4)
   Id: monsters_vo.md#ancient-green-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ancient Green Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)'
   AttributesDictionary: >+
     Name: Ancient Green Dragon
 
@@ -22259,18 +22260,14 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Young Green Dragon
+  AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
   Type: dragon
   Size: Large
   Alignment: lawful evil
   ArmorClass: 18 (natural armor)
   HitPoints: 136 (16d10 + 48)
   Speed: 40 ft., fly 80 ft., swim 40 ft.
-  Strength: 19 (+4)
-  Dexterity: 12 (+1)
-  Constitution: 17 (+3)
-  Intelligence: 16 (+3)
-  Wisdom: 13 (+1)
-  Charisma: 15 (+2)
   SavingThrows: Dex +4, Con +6, Wis +4, Cha +5
   Skills: Deception +5, Perception +7, Stealth +4
   DamageImmunities: poison
@@ -22278,12 +22275,16 @@ SubItems:
   Senses: blindsight 30 ft., darkvision 120 ft., passive Perception 17
   Languages: Common, Draconic
   Challenge: 8 (3900 XP)
+  Strength: 19 (+4)
+  Dexterity: 12 (+1)
+  Constitution: 17 (+3)
+  Intelligence: 16 (+3)
+  Wisdom: 13 (+1)
+  Charisma: 15 (+2)
   Id: monsters_vo.md#young-green-dragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Young Green Dragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)'
   AttributesDictionary: >+
     Name: Young Green Dragon
 
@@ -22455,18 +22456,14 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Green Dragon Wyrmling
+  AltName: '[Dragonnet vert](hd_monsters_dragonnet_vert.md)'
   Type: dragon
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 17 (natural armor)
   HitPoints: 38 (7d8 + 7)
   Speed: 30 ft., fly 60 ft., swim 30 ft.
-  Strength: 15 (+2)
-  Dexterity: 12 (+1)
-  Constitution: 13 (+1)
-  Intelligence: 14 (+2)
-  Wisdom: 11 (+0)
-  Charisma: 13 (+1)
   SavingThrows: Dex +3, Con +3, Wis +2, Cha +3
   Skills: Perception +4, Stealth +3
   DamageImmunities: poison
@@ -22474,12 +22471,16 @@ SubItems:
   Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 14
   Languages: Draconic
   Challenge: 2 (450 XP)
+  Strength: 15 (+2)
+  Dexterity: 12 (+1)
+  Constitution: 13 (+1)
+  Intelligence: 14 (+2)
+  Wisdom: 11 (+0)
+  Charisma: 13 (+1)
   Id: monsters_vo.md#green-dragon-wyrmling
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Green Dragon Wyrmling
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragonnet vert](hd_monsters_dragonnet_vert.md)'
   AttributesDictionary: >+
     Name: Green Dragon Wyrmling
 
@@ -22633,29 +22634,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Dragon Turtle
+  AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
   Type: dragon
   Size: Gargantuan
   Alignment: neutral
   ArmorClass: 20 (natural armor)
   HitPoints: 341 (22d20 + 110)
   Speed: 20 ft., swim 40 ft.
+  SavingThrows: Dex +6, Con +11, Wis +7
+  DamageResistances: fire
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Aquan, Draconic
+  Challenge: 17 (18000 XP)
   Strength: 25 (+7)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  SavingThrows: Dex +6, Con +11, Wis +7
-  DamageResistances: fire
-  Senses: darkvision 120 ft., passive Perception 11
-  Languages: Aquan, Draconic
-  Challenge: 17 (18000 XP)
   Id: monsters_vo.md#dragon-turtle
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Dragon Turtle
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dragon-tortue](hd_monsters_dragon_tortue.md)'
   AttributesDictionary: >+
     Name: Dragon Turtle
 
@@ -22827,30 +22828,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Dretch
+  AltName: '[Dretch](hd_monsters_dretch.md)'
   Type: fiend (demon)
   Size: Small
   Alignment: chaotic evil
   ArmorClass: 11 (natural armor)
   HitPoints: 18 (4d6 + 4)
   Speed: 20 ft.
+  DamageResistances: cold, fire, lightning
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
+  Challenge: 1/4 (50 XP)
   Strength: 11 (+0)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 5 (-3)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 3 (-4)'
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#dretch
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Dretch
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dretch](hd_monsters_dretch.md)'
   AttributesDictionary: >+
     Name: Dretch
 
@@ -23004,28 +23005,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Drider
+  AltName: '[Drider](hd_monsters_drider.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 19 (natural armor)
   HitPoints: 123 (13d10 + 52)
   Speed: 30 ft., climb 30 ft.
+  Skills: Perception +5, Stealth +9
+  Senses: darkvision 120 ft., passive Perception 15
+  Languages: Elvish, Undercommon
+  Challenge: 6 (2300 XP)
   Strength: 16 (+3)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
-  Skills: Perception +5, Stealth +9
-  Senses: darkvision 120 ft., passive Perception 15
-  Languages: Elvish, Undercommon
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#drider
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Drider
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Drider](hd_monsters_drider.md)'
   AttributesDictionary: >+
     Name: Drider
 
@@ -23221,28 +23222,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Drow
+  AltName: '[Drow](hd_monsters_drow.md)'
   Type: humanoid (elf)
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 15 (chain shirt)
   HitPoints: 13 (3d8)
   Speed: 30 ft.
+  Skills: Perception +2, Stealth +4
+  Senses: darkvision 120 ft., passive Perception 12
+  Languages: Elvish, Undercommon
+  Challenge: 1/4 (50 XP)
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: 11 (+0)
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  Skills: Perception +2, Stealth +4
-  Senses: darkvision 120 ft., passive Perception 12
-  Languages: Elvish, Undercommon
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#drow
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Drow
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Drow](hd_monsters_drow.md)'
   AttributesDictionary: >+
     Name: Drow
 
@@ -23408,28 +23409,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Druid
+  AltName: '[Druide](hd_monsters_druide.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 11 (16 with
   HitPoints: 27 (5d8 + 5)
   Speed: 30 ft.
+  Skills: Medicine +4, Nature +3, Perception +4
+  Senses: passive Perception 14
+  Languages: Druidic plus any two languages
+  Challenge: 2 (450 XP)
   Strength: 10 (+0)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: 12 (+1)
   Wisdom: 15 (+2)
   Charisma: 11 (+0)
-  Skills: Medicine +4, Nature +3, Perception +4
-  Senses: passive Perception 14
-  Languages: Druidic plus any two languages
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#druid
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Druid
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Druide](hd_monsters_druide.md)'
   AttributesDictionary: >+
     Name: Druid
 
@@ -23577,28 +23578,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Dryad
+  AltName: '[Dryade](hd_monsters_dryade.md)'
   Type: fey
   Size: Medium
   Alignment: neutral
   ArmorClass: 11 (16 with
   HitPoints: 22 (5d8)
   Speed: 30 ft.
+  Skills: Perception +4, Stealth +5
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Elvish, Sylvan
+  Challenge: 1 (200 XP)
   Strength: 10 (+0)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: 14 (+2)
   Wisdom: 15 (+2)
   Charisma: 18 (+4)
-  Skills: Perception +4, Stealth +5
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Elvish, Sylvan
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#dryad
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Dryad
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Dryade](hd_monsters_dryade.md)'
   AttributesDictionary: >+
     Name: Dryad
 
@@ -23770,28 +23771,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Duergar
+  AltName: '[Duergar](hd_monsters_duergar.md)'
   Type: humanoid (dwarf)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 16 (scale mail, shield)
   HitPoints: 26 (4d8 + 8)
   Speed: 25 ft.
+  DamageResistances: poison
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: Dwarvish, Undercommon
+  Challenge: 1 (200 XP)
   Strength: 14 (+2)
   Dexterity: 11 (+0)
   Constitution: 14 (+2)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  DamageResistances: poison
-  Senses: darkvision 120 ft., passive Perception 10
-  Languages: Dwarvish, Undercommon
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#duergar
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Duergar
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Duergar](hd_monsters_duergar.md)'
   AttributesDictionary: >+
     Name: Duergar
 
@@ -23951,31 +23952,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Deva
+  AltName: '[Déva](hd_monsters_deva.md)'
   Type: celestial
   Size: Medium
   Alignment: lawful good
   ArmorClass: 17 (natural armor)
   HitPoints: 136 (16d8 + 64)
   Speed: 30 ft., fly 90 ft.
+  SavingThrows: Wis +9, Cha +9
+  Skills: Insight +9, Perception +9
+  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: charmed, exhaustion, frightened
+  Senses: darkvision 120 ft., passive Perception 19
+  Languages: all, telepathy 120 ft.
+  Challenge: 10 (5900 XP)
   Strength: 18 (+4)
   Dexterity: 18 (+4)
   Constitution: 18 (+4)
   Intelligence: 17 (+3)
   Wisdom: 20 (+5)
   Charisma: 20 (+5)
-  SavingThrows: Wis +9, Cha +9
-  Skills: Insight +9, Perception +9
-  ConditionImmunities: charmed, exhaustion, frightened
-  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 120 ft., passive Perception 19
-  Languages: all, telepathy 120 ft.
-  Challenge: 10 (5900 XP)
   Id: monsters_vo.md#deva
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Deva
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Déva](hd_monsters_deva.md)'
   AttributesDictionary: >+
     Name: Deva
 
@@ -24165,28 +24166,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Priest
+  AltName: '[Ecclésiastique](hd_monsters_ecclesiastique.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 13 (chain shirt)
   HitPoints: 27 (5d8 + 5)
   Speed: 25 ft.
+  Skills: Medicine +7, Persuasion +3, Religion +4
+  Senses: passive Perception 13
+  Languages: any two languages
+  Challenge: 2 (450 XP)
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: 13 (+1)
   Wisdom: 16 (+3)
   Charisma: 13 (+1)
-  Skills: Medicine +7, Persuasion +3, Religion +4
-  Senses: passive Perception 13
-  Languages: any two languages
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#priest
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Priest
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ecclésiastique](hd_monsters_ecclesiastique.md)'
   AttributesDictionary: >+
     Name: Priest
 
@@ -24346,28 +24347,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Roper
+  AltName: '[Enlaceur](hd_monsters_enlaceur.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral evil
   ArmorClass: 20 (natural armor)
   HitPoints: 93 (11d10 + 33)
   Speed: 10 ft., climb 10 ft.
+  Skills: Perception +6, Stealth +5
+  Senses: darkvision 60 ft., passive Perception 16
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 16 (+3)
   Charisma: ' 6 (-2)'
-  Skills: Perception +6, Stealth +5
-  Senses: darkvision 60 ft., passive Perception 16
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#roper
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Roper
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Enlaceur](hd_monsters_enlaceur.md)'
   AttributesDictionary: >+
     Name: Roper
 
@@ -24533,28 +24534,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Spy
+  AltName: '[Espion](hd_monsters_espion.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 12
   HitPoints: 27 (6d8)
   Speed: 30 ft.
+  Skills: Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
+  Senses: passive Perception 16
+  Languages: any two languages
+  Challenge: 1 (200 XP)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  Skills: Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
-  Senses: passive Perception 16
-  Languages: any two languages
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#spy
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Spy
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Espion](hd_monsters_espion.md)'
   AttributesDictionary: >+
     Name: Spy
 
@@ -24708,28 +24709,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Sprite
+  AltName: '[Esprit follet](hd_monsters_esprit_follet.md)'
   Type: fey
   Size: Tiny
   Alignment: neutral good
   ArmorClass: 15 (leather armor)
   HitPoints: 2 (1d4)
   Speed: 10 ft., fly 40 ft.
+  Skills: Perception +3, Stealth +8
+  Senses: passive Perception 13
+  Languages: Common, Elvish, Sylvan
+  Challenge: 1/4 (50 XP)
   Strength: ' 3 (-4)'
   Dexterity: 18 (+4)
   Constitution: 10 (+0)
   Intelligence: 14 (+2)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: Perception +3, Stealth +8
-  Senses: passive Perception 13
-  Languages: Common, Elvish, Sylvan
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#sprite
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Sprite
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Esprit follet](hd_monsters_esprit_follet.md)'
   AttributesDictionary: >+
     Name: Sprite
 
@@ -24871,28 +24872,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ettercap
+  AltName: '[Ettercap](hd_monsters_ettercap.md)'
   Type: monstrosity
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 13 (natural armor)
   HitPoints: 44 (8d8 + 8)
   Speed: 30 ft., climb 30 ft.
+  Skills: Perception +3, Stealth +4, Survival +3
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 14 (+2)
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +3, Stealth +4, Survival +3
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#ettercap
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ettercap
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ettercap](hd_monsters_ettercap.md)'
   AttributesDictionary: >+
     Name: Ettercap
 
@@ -25064,28 +25065,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ettin
+  AltName: '[Ettin](hd_monsters_ettin.md)'
   Type: giant
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 12 (natural armor)
   HitPoints: 85 (10d10 + 30)
   Speed: 40 ft.
+  Skills: Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Giant, Orc
+  Challenge: 4 (1100 XP)
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Skills: Perception +4
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Giant, Orc
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#ettin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ettin
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ettin](hd_monsters_ettin.md)'
   AttributesDictionary: >+
     Name: Ettin
 
@@ -25239,28 +25240,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Cult Fanatic
+  AltName: '[Fanatique de secte](hd_monsters_fanatique_de_secte.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
   ArmorClass: 13 (leather armor)
   HitPoints: 33 (6d8 + 6)
   Speed: 30 ft.
+  Skills: Deception +4, Persuasion +4, Religion +2
+  Senses: passive Perception 11
+  Languages: any one language (usually Common)
+  Challenge: 2 (450 XP)
   Strength: 11 (+0)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 14 (+2)
-  Skills: Deception +4, Persuasion +4, Religion +2
-  Senses: passive Perception 11
-  Languages: any one language (usually Common)
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#cult-fanatic
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Cult Fanatic
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Fanatique de secte](hd_monsters_fanatique_de_secte.md)'
   AttributesDictionary: >+
     Name: Cult Fanatic
 
@@ -25420,30 +25421,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ghost
+  AltName: '[Fantôme](hd_monsters_fantome.md)'
   Type: undead
   Size: Medium
   Alignment: any alignment
   ArmorClass: 11
   HitPoints: 45 (10d8)
   Speed: 0 ft., fly 40 ft. (hover)
+  DamageResistances: acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: cold, necrotic, poison
+  ConditionImmunities: charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: the languages it knew in life
+  Challenge: 4 (1100 XP)
   Strength: ' 7 (-2)'
   Dexterity: 13 (+1)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 17 (+3)
-  DamageImmunities: cold, necrotic, poison
-  ConditionImmunities: charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-  DamageResistances: acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: the languages it knew in life
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#ghost
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ghost
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Fantôme](hd_monsters_fantome.md)'
   AttributesDictionary: >+
     Name: Ghost
 
@@ -25609,28 +25610,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hawk
+  AltName: '[Faucon](hd_monsters_faucon.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 1 (1d4 - 1)
   Speed: 10 ft., fly 60 ft.
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 5 (-3)'
   Dexterity: 16 (+3)
   Constitution: ' 8 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 6 (-2)'
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#hawk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hawk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Faucon](hd_monsters_faucon.md)'
   AttributesDictionary: >+
     Name: Hawk
 
@@ -25760,28 +25761,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Blood Hawk
+  AltName: '[Faucon de sang](hd_monsters_faucon_de_sang.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 10 ft., fly 60 ft.
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 5 (-3)'
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#blood-hawk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Blood Hawk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Faucon de sang](hd_monsters_faucon_de_sang.md)'
   AttributesDictionary: >+
     Name: Blood Hawk
 
@@ -25917,30 +25918,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Will-o'-Wisp
+  AltName: '[Feu follet](hd_monsters_feu_follet.md)'
   Type: undead
   Size: Tiny
   Alignment: chaotic evil
   ArmorClass: 19
   HitPoints: 22 (9d4)
   Speed: 0 ft., fly 50 ft. (hover)
+  DamageResistances: acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: lightning, poison
+  ConditionImmunities: exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+  Senses: darkvision 120 ft., passive Perception 12
+  Languages: the languages it knew in life
+  Challenge: 2 (450 XP)
   Strength: ' 1 (-5)'
   Dexterity: 28 (+9)
   Constitution: 10 (+0)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 11 (+0)
-  DamageImmunities: lightning, poison
-  ConditionImmunities: exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
-  DamageResistances: acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 120 ft., passive Perception 12
-  Languages: the languages it knew in life
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#will-o-wisp
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Will-o'-Wisp
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Feu follet](hd_monsters_feu_follet.md)'
   AttributesDictionary: >+
     Name: Will-o'-Wisp
 
@@ -26106,28 +26107,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Guard
+  AltName: '[Garde](hd_monsters_garde.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 16 (chain shirt, shield)
   HitPoints: 11 (2d8 + 2)
   Speed: 30 ft.
+  Skills: Perception +2
+  Senses: passive Perception 12
+  Languages: any one language (usually Common)
+  Challenge: 1/8 (25 XP)
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: Perception +2
-  Senses: passive Perception 12
-  Languages: any one language (usually Common)
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#guard
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Guard
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Garde](hd_monsters_garde.md)'
   AttributesDictionary: >+
     Name: Guard
 
@@ -26245,29 +26246,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Shield Guardian
+  AltName: '[Garde animé](hd_monsters_garde_anime.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
   ArmorClass: 17 (natural armor)
   HitPoints: 142 (15d10 + 60)
   Speed: 30 ft.
+  DamageImmunities: poison
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, poisoned
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 10
+  Languages: understands commands given in any language but can't speak
+  Challenge: 7 (2900 XP)
   Strength: 18 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 18 (+4)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  DamageImmunities: poison
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, poisoned
-  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 10
-  Languages: understands commands given in any language but can't speak
-  Challenge: 7 (2900 XP)
   Id: monsters_vo.md#shield-guardian
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Shield Guardian
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Garde animé](hd_monsters_garde_anime.md)'
   AttributesDictionary: >+
     Name: Shield Guardian
 
@@ -26433,30 +26434,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gargoyle
+  AltName: '[Gargouille](hd_monsters_gargouille.md)'
   Type: elemental
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 15 (natural armor)
   HitPoints: 52 (7d8 + 21)
   Speed: 30 ft., fly 60 ft.
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, petrified, poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Terran
+  Challenge: 2 (450 XP)
   Strength: 15 (+2)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, petrified, poisoned
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Terran
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#gargoyle
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gargoyle
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gargouille](hd_monsters_gargouille.md)'
   AttributesDictionary: >+
     Name: Gargoyle
 
@@ -26616,30 +26617,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ochre Jelly
+  AltName: '[Gelée ocre](hd_monsters_gelee_ocre.md)'
   Type: ooze
   Size: Large
   Alignment: unaligned
   ArmorClass: 8
   HitPoints: 45 (6d10 + 12)
   Speed: 10 ft., climb 10 ft.
+  DamageResistances: acid
+  DamageImmunities: lightning, slashing
+  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
+  Senses: blindsight 60 ft. ([blind] beyond this radius), passive Perception 8
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 15 (+2)
   Dexterity: ' 6 (-2)'
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 1 (-5)'
-  DamageImmunities: lightning, slashing
-  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
-  DamageResistances: acid
-  Senses: blindsight 60 ft. ([blind] beyond this radius), passive Perception 8
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#ochre-jelly
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ochre Jelly
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gelée ocre](hd_monsters_gelee_ocre.md)'
   AttributesDictionary: >+
     Name: Ochre Jelly
 
@@ -26799,31 +26800,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Glabrezu
+  AltName: '[Glabrezu](hd_monsters_glabrezu.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 17 (natural armor)
   HitPoints: 157 (15d10 + 75)
   Speed: 40 ft.
+  SavingThrows: Str +9, Con +9, Wis +7, Cha +7
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: truesight 120 ft., passive Perception 13
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 9 (5000 XP)
   Strength: 20 (+5)
   Dexterity: 15 (+2)
   Constitution: 21 (+5)
   Intelligence: 19 (+4)
   Wisdom: 17 (+3)
   Charisma: 16 (+3)
-  SavingThrows: Str +9, Con +9, Wis +7, Cha +7
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 13
-  Languages: Abyssal, telepathy 120 ft.
-  Challenge: 9 (5000 XP)
   Id: monsters_vo.md#glabrezu
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Glabrezu
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Glabrezu](hd_monsters_glabrezu.md)'
   AttributesDictionary: >+
     Name: Glabrezu
 
@@ -27007,29 +27008,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gladiator
+  AltName: '[Gladiateur](hd_monsters_gladiateur.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 16 (studded leather, shield)
   HitPoints: 112 (15d8 + 45)
   Speed: 30 ft.
+  SavingThrows: Str +7, Dex +5, Con +6
+  Skills: Athletics +10, Intimidation +5
+  Senses: passive Perception 11
+  Languages: any one language (usually Common)
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Str +7, Dex +5, Con +6
-  Skills: Athletics +10, Intimidation +5
-  Senses: passive Perception 11
-  Languages: any one language (usually Common)
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#gladiator
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gladiator
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gladiateur](hd_monsters_gladiateur.md)'
   AttributesDictionary: >+
     Name: Gladiator
 
@@ -27201,27 +27202,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gnoll
+  AltName: '[Gnoll](hd_monsters_gnoll.md)'
   Type: humanoid (gnoll)
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 15 (hide armor, shield)
   HitPoints: 22 (5d8)
   Speed: 30 ft.
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Gnoll
+  Challenge: 1/2 (100 XP)
   Strength: 14 (+2)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Gnoll
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#gnoll
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gnoll
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gnoll](hd_monsters_gnoll.md)'
   AttributesDictionary: >+
     Name: Gnoll
 
@@ -27369,28 +27370,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Deep Gnome (Svirfneblin)
+  AltName: '[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)'
   Type: humanoid (gnome)
   Size: Small
   Alignment: neutral good
   ArmorClass: 15 (chain shirt)
   HitPoints: 16 (3d6 + 6)
   Speed: 20 ft.
+  Skills: Investigation +3, Perception +2, Stealth +4
+  Senses: darkvision 120 ft., passive Perception 12
+  Languages: Gnomish, Terran, Undercommon
+  Challenge: 1/2 (100 XP)
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: 12 (+1)
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Skills: Investigation +3, Perception +2, Stealth +4
-  Senses: darkvision 120 ft., passive Perception 12
-  Languages: Gnomish, Terran, Undercommon
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#deep-gnome-svirfneblin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Deep Gnome (Svirfneblin)
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)'
   AttributesDictionary: >+
     Name: Deep Gnome (Svirfneblin)
 
@@ -27556,28 +27557,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Goblin
+  AltName: '[Gobelin](hd_monsters_gobelin.md)'
   Type: humanoid (goblinoid)
   Size: Small
   Alignment: neutral evil
   ArmorClass: 15 (leather armor, shield)
   HitPoints: 7 (2d6)
   Speed: 30 ft.
+  Skills: Stealth +6
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: Common, Goblin
+  Challenge: 1/4 (50 XP)
   Strength: ' 8 (-1)'
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: ' 8 (-1)'
   Charisma: ' 8 (-1)'
-  Skills: Stealth +6
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: Common, Goblin
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#goblin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Goblin
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gobelin](hd_monsters_gobelin.md)'
   AttributesDictionary: >+
     Name: Goblin
 
@@ -27719,28 +27720,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Bugbear
+  AltName: '[Gobelours](hd_monsters_gobelours.md)'
   Type: humanoid (goblinoid)
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 16 (hide armor, shield)
   HitPoints: 27 (5d8 + 5)
   Speed: 30 ft.
+  Skills: Stealth +6, Survival +2
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Common, Goblin
+  Challenge: 1 (200 XP)
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 11 (+0)
   Charisma: ' 9 (-1)'
-  Skills: Stealth +6, Survival +2
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Common, Goblin
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#bugbear
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Bugbear
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gobelours](hd_monsters_gobelours.md)'
   AttributesDictionary: >+
     Name: Bugbear
 
@@ -27888,29 +27889,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Clay Golem
+  AltName: "[Golem d'argile](hd_monsters_golem_dargile.md)"
   Type: construct
   Size: Large
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 133 (14d10 + 56)
   Speed: 20 ft.
+  DamageImmunities: acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: understands the languages of its creator but can't speak
+  Challenge: 9 (5000 XP)
   Strength: 20 (+5)
   Dexterity: ' 9 (-1)'
   Constitution: 18 (+4)
   Intelligence: ' 3 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 1 (-5)'
-  DamageImmunities: acid, poison, psychic; bludgeoning, piercing and slashing from nonmagical attacks that aren't adamantine
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: understands the languages of its creator but can't speak
-  Challenge: 9 (5000 XP)
   Id: monsters_vo.md#clay-golem
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Clay Golem
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Golem d'argile](hd_monsters_golem_dargile.md)"
   AttributesDictionary: >+
     Name: Clay Golem
 
@@ -28082,29 +28083,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Flesh Golem
+  AltName: '[Golem de chair](hd_monsters_golem_de_chair.md)'
   Type: construct
   Size: Medium
   Alignment: neutral
   ArmorClass: 9
   HitPoints: 93 (11d8 + 44)
   Speed: 30 ft.
+  DamageImmunities: lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: understands the languages of its creator but can't speak
+  Challenge: 5 (1800 XP)
   Strength: 19 (+4)
   Dexterity: ' 9 (-1)'
   Constitution: 18 (+4)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  DamageImmunities: lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: understands the languages of its creator but can't speak
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#flesh-golem
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Flesh Golem
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Golem de chair](hd_monsters_golem_de_chair.md)'
   AttributesDictionary: >+
     Name: Flesh Golem
 
@@ -28276,29 +28277,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Iron Golem
+  AltName: '[Golem de fer](hd_monsters_golem_de_fer.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
   ArmorClass: 20 (natural armor)
   HitPoints: 210 (20d10 + 100)
   Speed: 30 ft.
+  DamageImmunities: fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: understands the languages of its creator but can't speak
+  Challenge: 16 (15000 XP)
   Strength: 24 (+7)
   Dexterity: ' 9 (-1)'
   Constitution: 20 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 1 (-5)'
-  DamageImmunities: fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-  Senses: darkvision 120 ft., passive Perception 10
-  Languages: understands the languages of its creator but can't speak
-  Challenge: 16 (15000 XP)
   Id: monsters_vo.md#iron-golem
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Iron Golem
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Golem de fer](hd_monsters_golem_de_fer.md)'
   AttributesDictionary: >+
     Name: Iron Golem
 
@@ -28476,29 +28477,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Stone Golem
+  AltName: '[Golem de pierre](hd_monsters_golem_de_pierre.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
   ArmorClass: 17 (natural armor)
   HitPoints: 178 (17d10 + 85)
   Speed: 30 ft.
+  DamageImmunities: poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: understands the languages of its creator but can't speak
+  Challenge: 10 (5900 XP)
   Strength: 22 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 20 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 1 (-5)'
-  DamageImmunities: poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-  Senses: darkvision 120 ft., passive Perception 10
-  Languages: understands the languages of its creator but can't speak
-  Challenge: 10 (5900 XP)
   Id: monsters_vo.md#stone-golem
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Stone Golem
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Golem de pierre](hd_monsters_golem_de_pierre.md)'
   AttributesDictionary: >+
     Name: Stone Golem
 
@@ -28658,29 +28659,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gorgon
+  AltName: '[Gorgone](hd_monsters_gorgone.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 19 (natural armor)
   HitPoints: 114 (12d10 + 48)
   Speed: 40 ft.
+  Skills: Perception +4
+  ConditionImmunities: petrified
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 20 (+5)
   Dexterity: 11 (+0)
   Constitution: 18 (+4)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +4
-  ConditionImmunities: petrified
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#gorgon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gorgon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gorgone](hd_monsters_gorgone.md)'
   AttributesDictionary: >+
     Name: Gorgon
 
@@ -28834,29 +28835,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ghoul
+  AltName: '[Goule](hd_monsters_goule.md)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 30 ft.
+  DamageImmunities: poison
+  ConditionImmunities: charmed, exhaustion, poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Common
+  Challenge: 1 (200 XP)
   Strength: 13 (+1)
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  DamageImmunities: poison
-  ConditionImmunities: charmed, exhaustion, poisoned
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Common
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#ghoul
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ghoul
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Goule](hd_monsters_goule.md)'
   AttributesDictionary: >+
     Name: Ghoul
 
@@ -28992,28 +28993,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ape
+  AltName: '[Grand singe](hd_monsters_grand_singe.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 19 (3d8 + 6)
   Speed: 30 ft., climb 30 ft.
+  Skills: Athletics +5, Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 16 (+3)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Athletics +5, Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#ape
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ape
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grand singe](hd_monsters_grand_singe.md)'
   AttributesDictionary: >+
     Name: Ape
 
@@ -29149,28 +29150,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Frog
+  AltName: '[Grenouille](hd_monsters_grenouille.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 1 (1d4 - 1)
   Speed: 20 ft., swim 20 ft.
+  Skills: Perception +1, Stealth +3
+  Senses: darkvision 30 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 0 (0 XP)
   Strength: ' 1 (-5)'
   Dexterity: 13 (+1)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 3 (-4)'
-  Skills: Perception +1, Stealth +3
-  Senses: darkvision 30 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 0 (0 XP)
   Id: monsters_vo.md#frog
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Frog
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grenouille](hd_monsters_grenouille.md)'
   AttributesDictionary: >+
     Name: Frog
 
@@ -29288,28 +29289,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Frog
+  AltName: '[Grenouille géante](hd_monsters_grenouille_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 18 (4d8)
   Speed: 30 ft., swim 30 ft.
+  Skills: Perception +2, Stealth +3
+  Senses: darkvision 30 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 12 (+1)
   Dexterity: 13 (+1)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Skills: Perception +2, Stealth +3
-  Senses: darkvision 30 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-frog
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Frog
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grenouille géante](hd_monsters_grenouille_geante.md)'
   AttributesDictionary: >+
     Name: Giant Frog
 
@@ -29451,28 +29452,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Grick
+  AltName: '[Grick](hd_monsters_grick.md)'
   Type: monstrosity
   Size: Medium
   Alignment: neutral
   ArmorClass: 14 (natural armor)
   HitPoints: 27 (6d8)
   Speed: 30 ft., climb 30 ft.
+  DamageResistances: bludgeoning, piercing, and slashing damage from nonmagical attacks
+  Senses: darkvision 60 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 14 (+2)
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 5 (-3)'
-  DamageResistances: bludgeoning, piercing, and slashing damage from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#grick
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Grick
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Grick](hd_monsters_grick.md)'
   AttributesDictionary: >+
     Name: Grick
 
@@ -29620,28 +29621,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Griffon
+  AltName: '[Griffon](hd_monsters_griffon.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 59 (7d10 + 21)
   Speed: 30 ft., fly 80 ft.
+  Skills: Perception +5
+  Senses: darkvision 60 ft., passive Perception 15
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +5
-  Senses: darkvision 60 ft., passive Perception 15
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#griffon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Griffon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Griffon](hd_monsters_griffon.md)'
   AttributesDictionary: >+
     Name: Griffon
 
@@ -29789,27 +29790,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Sea Hag
+  AltName: '[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)'
   Type: fey
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 14 (natural armor)
   HitPoints: 52 (7d8 + 21)
   Speed: 30 ft., swim 40 ft.
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: Aquan, Common, Giant
+  Challenge: 2 (450 XP)
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: Aquan, Common, Giant
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#sea-hag
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Sea Hag
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)'
   AttributesDictionary: >+
     Name: Sea Hag
 
@@ -29951,30 +29952,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Night Hag
+  AltName: '[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)'
   Type: fiend
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 17 (natural armor)
   HitPoints: 112 (15d8 + 45)
   Speed: 30 ft.
+  Skills: Deception +7, Insight +6, Perception +6, Stealth +6
+  DamageResistances: cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+  ConditionImmunities: charmed
+  Senses: darkvision 120 ft., passive Perception 16
+  Languages: Abyssal, Common, Infernal, Primordial
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 16 (+3)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  Skills: Deception +7, Insight +6, Perception +6, Stealth +6
-  ConditionImmunities: charmed
-  DamageResistances: cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-  Senses: darkvision 120 ft., passive Perception 16
-  Languages: Abyssal, Common, Infernal, Primordial
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#night-hag
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Night Hag
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)'
   AttributesDictionary: >+
     Name: Night Hag
 
@@ -30152,28 +30153,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Green Hag
+  AltName: '[Guenaude verte](hd_monsters_guenaude_verte.md)'
   Type: fey
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 17 (natural armor)
   HitPoints: 82 (11d8 + 33)
   Speed: 30 ft.
+  Skills: Arcana +3, Deception +4, Perception +4, Stealth +3
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Common, Draconic, Sylvan
+  Challenge: 3 (700 XP)
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: 13 (+1)
   Wisdom: 14 (+2)
   Charisma: 14 (+2)
-  Skills: Arcana +3, Deception +4, Perception +4, Stealth +3
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Common, Draconic, Sylvan
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#green-hag
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Green Hag
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guenaude verte](hd_monsters_guenaude_verte.md)'
   AttributesDictionary: >+
     Name: Green Hag
 
@@ -30333,27 +30334,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Tribal Warrior
+  AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 12 (hide armor)
   HitPoints: 11 (2d8 + 2)
   Speed: 30 ft.
+  Senses: passive Perception 10
+  Languages: any one language
+  Challenge: 1/8 (25 XP)
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 11 (+0)
   Charisma: ' 8 (-1)'
-  Senses: passive Perception 10
-  Languages: any one language
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#tribal-warrior
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Tribal Warrior
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guerrier tribal](hd_monsters_guerrier_tribal.md)'
   AttributesDictionary: >+
     Name: Tribal Warrior
 
@@ -30477,27 +30478,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Wasp
+  AltName: '[Guêpe géante](hd_monsters_guepe_geante.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 10 ft., fly 50 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#giant-wasp
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Wasp
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Guêpe géante](hd_monsters_guepe_geante.md)'
   AttributesDictionary: >+
     Name: Giant Wasp
 
@@ -30609,31 +30610,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gynosphinx
+  AltName: '[Gynosphinx](hd_monsters_gynosphinx.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful neutral
   ArmorClass: 17 (natural armor)
   HitPoints: 136 (16d10 + 48)
   Speed: 40 ft., fly 60 ft.
+  Skills: Arcana +12, History +12, Perception +8, Religion +8
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: psychic
+  ConditionImmunities: charmed, frightened
+  Senses: truesight 120 ft., passive Perception 18
+  Languages: Common, Sphinx
+  Challenge: 11 (7200 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 18 (+4)
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
-  Skills: Arcana +12, History +12, Perception +8, Religion +8
-  DamageImmunities: psychic
-  ConditionImmunities: charmed, frightened
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 18
-  Languages: Common, Sphinx
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#gynosphinx
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gynosphinx
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Gynosphinx](hd_monsters_gynosphinx.md)'
   AttributesDictionary: >+
     Name: Gynosphinx
 
@@ -30865,28 +30866,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hill Giant
+  AltName: '[Géant des collines](hd_monsters_geant_des_collines.md)'
   Type: giant
   Size: Huge
   Alignment: chaotic evil
   ArmorClass: 13 (natural armor)
   HitPoints: 105 (10d12 + 40)
   Speed: 40 ft.
+  Skills: Perception +2
+  Senses: passive Perception 12
+  Languages: Giant
+  Challenge: 5 (1800 XP)
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 19 (+4)
   Intelligence: ' 5 (-3)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 6 (-2)'
-  Skills: Perception +2
-  Senses: passive Perception 12
-  Languages: Giant
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#hill-giant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hill Giant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des collines](hd_monsters_geant_des_collines.md)'
   AttributesDictionary: >+
     Name: Hill Giant
 
@@ -31022,29 +31023,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Cloud Giant
+  AltName: '[Géant des nuages](hd_monsters_geant_des_nuages.md)'
   Type: giant
   Size: Huge
   Alignment: neutral good (50 %) or neutral evil (50 %)
   ArmorClass: 14 (natural armor)
   HitPoints: 200 (16d12 + 96)
   Speed: 40 ft.
+  SavingThrows: Con +10, Wis +7, Cha +7
+  Skills: Insight +7, Perception +7
+  Senses: passive Perception 17
+  Languages: Common, Giant
+  Challenge: 9 (5000 XP)
   Strength: 27 (+8)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: 12 (+1)
   Wisdom: 16 (+3)
   Charisma: 16 (+3)
-  SavingThrows: Con +10, Wis +7, Cha +7
-  Skills: Insight +7, Perception +7
-  Senses: passive Perception 17
-  Languages: Common, Giant
-  Challenge: 9 (5000 XP)
   Id: monsters_vo.md#cloud-giant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Cloud Giant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des nuages](hd_monsters_geant_des_nuages.md)'
   AttributesDictionary: >+
     Name: Cloud Giant
 
@@ -31222,29 +31223,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Stone Giant
+  AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
   Type: giant
   Size: Huge
   Alignment: neutral
   ArmorClass: 17 (natural armor)
   HitPoints: 126 (11d12 + 55)
   Speed: 40 ft.
+  SavingThrows: Dex +5, Con +8, Wis +4
+  Skills: Athletics +12, Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Giant
+  Challenge: 7 (2900 XP)
   Strength: 23 (+6)
   Dexterity: 15 (+2)
   Constitution: 20 (+5)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: ' 9 (-1)'
-  SavingThrows: Dex +5, Con +8, Wis +4
-  Skills: Athletics +12, Perception +4
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Giant
-  Challenge: 7 (2900 XP)
   Id: monsters_vo.md#stone-giant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Stone Giant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des pierres](hd_monsters_geant_des_pierres.md)'
   AttributesDictionary: >+
     Name: Stone Giant
 
@@ -31404,31 +31405,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Storm Giant
+  AltName: '[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)'
   Type: giant
   Size: Huge
   Alignment: chaotic good
   ArmorClass: 16 (scale mail)
   HitPoints: 230 (20d12 + 100)
   Speed: 50 ft., swim 50 ft.
+  SavingThrows: Str +14, Con +10, Wis +9, Cha +9
+  Skills: Arcana +8, Athletics +14, History +8, Perception +9
+  DamageResistances: cold
+  DamageImmunities: lightning, thunder
+  Senses: passive Perception 19
+  Languages: Common, Giant
+  Challenge: 13 (10000 XP)
   Strength: 29 (+9)
   Dexterity: 14 (+2)
   Constitution: 20 (+5)
   Intelligence: 16 (+3)
   Wisdom: 18 (+4)
   Charisma: 18 (+4)
-  SavingThrows: Str +14, Con +10, Wis +9, Cha +9
-  Skills: Arcana +8, Athletics +14, History +8, Perception +9
-  DamageImmunities: lightning, thunder
-  DamageResistances: cold
-  Senses: passive Perception 19
-  Languages: Common, Giant
-  Challenge: 13 (10000 XP)
   Id: monsters_vo.md#storm-giant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Storm Giant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)'
   AttributesDictionary: >+
     Name: Storm Giant
 
@@ -31618,30 +31619,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Fire Giant
+  AltName: '[Géant du feu](hd_monsters_geant_du_feu.md)'
   Type: giant
   Size: Huge
   Alignment: lawful evil
   ArmorClass: 18 (plate)
   HitPoints: 162 (13d12 + 78)
   Speed: 30 ft.
-  Strength: 25 (+7)
-  Dexterity: ' 9 (-1)'
-  Constitution: 23 (+6)
-  Intelligence: 10 (+0)
-  Wisdom: 14 (+2)
-  Charisma: 13 (+1)
   SavingThrows: Dex +3, Con +10, Cha +5
   Skills: Athletics +11, Perception +6
   DamageImmunities: fire
   Senses: passive Perception 16
   Languages: Giant
   Challenge: 9 (5000 XP)
+  Strength: 25 (+7)
+  Dexterity: ' 9 (-1)'
+  Constitution: 23 (+6)
+  Intelligence: 10 (+0)
+  Wisdom: 14 (+2)
+  Charisma: 13 (+1)
   Id: monsters_vo.md#fire-giant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Fire Giant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant du feu](hd_monsters_geant_du_feu.md)'
   AttributesDictionary: >+
     Name: Fire Giant
 
@@ -31789,30 +31790,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Frost Giant
+  AltName: '[Géant du givre](hd_monsters_geant_du_givre.md)'
   Type: giant
   Size: Huge
   Alignment: neutral evil
   ArmorClass: 15 (patchwork armor)
   HitPoints: 138 (12d12 + 60)
   Speed: 40 ft.
-  Strength: 23 (+6)
-  Dexterity: ' 9 (-1)'
-  Constitution: 21 (+5)
-  Intelligence: ' 9 (-1)'
-  Wisdom: 10 (+0)
-  Charisma: 12 (+1)
   SavingThrows: Con +8, Wis +3, Cha +4
   Skills: Athletics +9, Perception +3
   DamageImmunities: cold
   Senses: passive Perception 13
   Languages: Giant
   Challenge: 8 (3900 XP)
+  Strength: 23 (+6)
+  Dexterity: ' 9 (-1)'
+  Constitution: 21 (+5)
+  Intelligence: ' 9 (-1)'
+  Wisdom: 10 (+0)
+  Charisma: 12 (+1)
   Id: monsters_vo.md#frost-giant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Frost Giant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Géant du givre](hd_monsters_geant_du_givre.md)'
   AttributesDictionary: >+
     Name: Frost Giant
 
@@ -31960,27 +31961,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Harpy
+  AltName: '[Harpie](hd_monsters_harpie.md)'
   Type: monstrosity
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 11
   HitPoints: 38 (7d8 + 7)
   Speed: 20 ft., fly 40 ft.
+  Senses: passive Perception 10
+  Languages: Common
+  Challenge: 1 (200 XP)
   Strength: 12 (+1)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: 13 (+1)
-  Senses: passive Perception 10
-  Languages: Common
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#harpy
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Harpy
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Harpie](hd_monsters_harpie.md)'
   AttributesDictionary: >+
     Name: Harpy
 
@@ -32116,31 +32117,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hezrou
+  AltName: '[Hezrou](hd_monsters_hezrou.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 16 (natural armor)
   HitPoints: 136 (13d10 + 65)
   Speed: 30 ft.
+  SavingThrows: Str +7, Con +8, Wis +4
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 8 (3900 XP)
   Strength: 19 (+4)
   Dexterity: 17 (+3)
   Constitution: 20 (+5)
   Intelligence: ' 5 (-3)'
   Wisdom: 12 (+1)
   Charisma: 13 (+1)
-  SavingThrows: Str +7, Con +8, Wis +4
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 120 ft., passive Perception 11
-  Languages: Abyssal, telepathy 120 ft.
-  Challenge: 8 (3900 XP)
   Id: monsters_vo.md#hezrou
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hezrou
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hezrou](hd_monsters_hezrou.md)'
   AttributesDictionary: >+
     Name: Hezrou
 
@@ -32312,28 +32313,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Owlbear
+  AltName: '[Hibours](hd_monsters_hibours.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 59 (7d10 + 21)
   Speed: 40 ft.
+  Skills: Perception +3
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 3 (700 XP)
   Strength: 20 (+5)
   Dexterity: 12 (+1)
   Constitution: 17 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#owlbear
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Owlbear
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hibours](hd_monsters_hibours.md)'
   AttributesDictionary: >+
     Name: Owlbear
 
@@ -32481,27 +32482,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Sea Horse
+  AltName: '[Hippocampe](hd_monsters_hippocampe.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 1 (1d4 - 1)
   Speed: 0 ft., swim 20 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 0 (0 XP)
   Strength: ' 1 (-5)'
   Dexterity: 12 (+1)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 2 (-4)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 0 (0 XP)
   Id: monsters_vo.md#sea-horse
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Sea Horse
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hippocampe](hd_monsters_hippocampe.md)'
   AttributesDictionary: >+
     Name: Sea Horse
 
@@ -32607,27 +32608,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Sea Horse
+  AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 16 (3d10)
   Speed: 0 ft., swim 40 ft.
+  Senses: passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 11
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#giant-sea-horse
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Sea Horse
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hippocampe géant](hd_monsters_hippocampe_geant.md)'
   AttributesDictionary: >+
     Name: Giant Sea Horse
 
@@ -32757,28 +32758,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hippogriff
+  AltName: '[Hippogriffe](hd_monsters_hippogriffe.md)'
   Type: monstrosity
   Size: Large
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 19 (3d10 + 3)
   Speed: 40 ft., fly 60 ft.
+  Skills: Perception +5
+  Senses: passive Perception 15
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 17 (+3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +5
-  Senses: passive Perception 15
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#hippogriff
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hippogriff
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hippogriffe](hd_monsters_hippogriffe.md)'
   AttributesDictionary: >+
     Name: Hippogriff
 
@@ -32926,27 +32927,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hobgoblin
+  AltName: '[Hobgobelin](hd_monsters_hobgobelin.md)'
   Type: humanoid (goblinoid)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 18 (chain mail, shield)
   HitPoints: 11 (2d8 + 2)
   Speed: 30 ft.
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Common, Goblin
+  Challenge: 1/2 (100 XP)
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Common, Goblin
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#hobgoblin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hobgoblin
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hobgobelin](hd_monsters_hobgobelin.md)'
   AttributesDictionary: >+
     Name: Hobgoblin
 
@@ -33082,28 +33083,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Lizardfolk
+  AltName: '[Homme-lézard](hd_monsters_homme_lezard.md)'
   Type: humanoid (lizardfolk)
   Size: Medium
   Alignment: neutral
   ArmorClass: 15 (natural armor, shield)
   HitPoints: 22 (4d8 + 4)
   Speed: 30 ft., swim 30 ft.
+  Skills: Perception +3, Stealth +4, Survival +5
+  Senses: passive Perception 13
+  Languages: Draconic
+  Challenge: 1/2 (100 XP)
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3, Stealth +4, Survival +5
-  Senses: passive Perception 13
-  Languages: Draconic
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#lizardfolk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Lizardfolk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Homme-lézard](hd_monsters_homme_lezard.md)'
   AttributesDictionary: >+
     Name: Lizardfolk
 
@@ -33275,28 +33276,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Merfolk
+  AltName: '[Homme-poisson](hd_monsters_homme_poisson.md)'
   Type: humanoid (merfolk)
   Size: Medium
   Alignment: neutral
   ArmorClass: 11
   HitPoints: 11 (2d8 + 2)
   Speed: 10 ft., swim 40 ft.
+  Skills: Perception +2
+  Senses: passive Perception 12
+  Languages: Aquan, Common
+  Challenge: 1/8 (25 XP)
   Strength: 10 (+0)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 11 (+0)
   Charisma: 12 (+1)
-  Skills: Perception +2
-  Senses: passive Perception 12
-  Languages: Aquan, Common
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#merfolk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Merfolk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Homme-poisson](hd_monsters_homme_poisson.md)'
   AttributesDictionary: >+
     Name: Merfolk
 
@@ -33426,29 +33427,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Homunculus
+  AltName: '[Homoncule](hd_monsters_homoncule.md)'
   Type: construct
   Size: Tiny
   Alignment: neutral
   ArmorClass: 13 (natural armor)
   HitPoints: 5 (2d4)
   Speed: 20 ft., fly 40 ft.
+  DamageImmunities: poison
+  ConditionImmunities: charmed, poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: understands the languages of its creator but can't speak
+  Challenge: 0 (10 XP)
   Strength: ' 4 (-3)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  DamageImmunities: poison
-  ConditionImmunities: charmed, poisoned
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: understands the languages of its creator but can't speak
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#homunculus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Homunculus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Homoncule](hd_monsters_homoncule.md)'
   AttributesDictionary: >+
     Name: Homunculus
 
@@ -33584,28 +33585,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hydra
+  AltName: '[Hydre](hd_monsters_hydre.md)'
   Type: monstrosity
   Size: Huge
   Alignment: unaligned
   ArmorClass: 15 (natural armor)
   HitPoints: 172 (15d12 + 75)
   Speed: 30 ft., swim 30 ft.
+  Skills: Perception +6
+  Senses: darkvision 60 ft., passive Perception 16
+  Languages: '-'
+  Challenge: 8 (3900 XP)
   Strength: 20 (+5)
   Dexterity: 12 (+1)
   Constitution: 20 (+5)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  Skills: Perception +6
-  Senses: darkvision 60 ft., passive Perception 16
-  Languages: '-'
-  Challenge: 8 (3900 XP)
   Id: monsters_vo.md#hydra
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hydra
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hydre](hd_monsters_hydre.md)'
   AttributesDictionary: >+
     Name: Hydra
 
@@ -33759,28 +33760,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hyena
+  AltName: '[Hyène](hd_monsters_hyene.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 5 (1d8 + 1)
   Speed: 50 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: 11 (+0)
   Dexterity: 13 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#hyena
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hyena
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hyène](hd_monsters_hyene.md)'
   AttributesDictionary: >+
     Name: Hyena
 
@@ -33910,28 +33911,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Hyena
+  AltName: '[Hyène géante](hd_monsters_hyene_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 45 (6d10 + 12)
   Speed: 50 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 16 (+3)
   Dexterity: 14 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#giant-hyena
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Hyena
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Hyène géante](hd_monsters_hyene_geante.md)'
   AttributesDictionary: >+
     Name: Giant Hyena
 
@@ -34061,27 +34062,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Kobold
+  AltName: '[Kobold](hd_monsters_kobold.md)'
   Type: humanoid (kobold)
   Size: Small
   Alignment: lawful evil
   ArmorClass: 12
   HitPoints: 5 (2d6 - 2)
   Speed: 30 ft.
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: Common, Draconic
+  Challenge: 1/8 (25 XP)
   Strength: ' 7 (-2)'
   Dexterity: 15 (+2)
   Constitution: ' 9 (-1)'
   Intelligence: ' 8 (-1)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 8 (-1)'
-  Senses: darkvision 60 ft., passive Perception 8
-  Languages: Common, Draconic
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#kobold
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Kobold
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Kobold](hd_monsters_kobold.md)'
   AttributesDictionary: >+
     Name: Kobold
 
@@ -34223,30 +34224,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Kraken
+  AltName: '[Kraken](hd_monsters_kraken.md)'
   Type: monstrosity (titan)
   Size: Gargantuan
   Alignment: chaotic evil
   ArmorClass: 18 (natural armor)
   HitPoints: 472 (27d20 + 189)
   Speed: 20 ft., swim 60 ft.
-  Strength: 30 (+10)
-  Dexterity: 11 (+0)
-  Constitution: 25 (+7)
-  Intelligence: 22 (+6)
-  Wisdom: 18 (+4)
-  Charisma: 20 (+5)
   SavingThrows: Str +17, Dex +7, Con +14, Int +13, Wis +11
   DamageImmunities: lightning; bludgeoning, piercing, and slashing from nonmagical attacks
   ConditionImmunities: frightened, paralyzed
   Senses: truesight 120 ft., passive Perception 14
   Languages: understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
   Challenge: 23 (50000 XP)
+  Strength: 30 (+10)
+  Dexterity: 11 (+0)
+  Constitution: 25 (+7)
+  Intelligence: 22 (+6)
+  Wisdom: 18 (+4)
+  Charisma: 20 (+5)
   Id: monsters_vo.md#kraken
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Kraken
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Kraken](hd_monsters_kraken.md)'
   AttributesDictionary: >+
     Name: Kraken
 
@@ -34460,28 +34461,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Lamia
+  AltName: '[Lamie](hd_monsters_lamie.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 13 (natural armor)
   HitPoints: 97 (13d10 + 26)
   Speed: 30 ft.
+  Skills: Deception +7, Insight +4, Stealth +3
+  Senses: darkvision 60 ft., passive Perception 12
+  Languages: Abyssal, Common
+  Challenge: 4 (1100 XP)
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 15 (+2)
   Intelligence: 14 (+2)
   Wisdom: 15 (+2)
   Charisma: 16 (+3)
-  Skills: Deception +7, Insight +4, Stealth +3
-  Senses: darkvision 60 ft., passive Perception 12
-  Languages: Abyssal, Common
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#lamia
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Lamia
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lamie](hd_monsters_lamie.md)'
   AttributesDictionary: >+
     Name: Lamia
 
@@ -34659,32 +34660,32 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Lich
+  AltName: '[Liche](hd_monsters_liche.md)'
   Type: undead
   Size: Medium
   Alignment: any evil alignment
   ArmorClass: 17 (natural armor)
   HitPoints: 135 (18d8 + 54)
   Speed: 30 ft.
+  SavingThrows: Con +10, Int +12, Wis +9
+  Skills: Arcana +18, History +12, Insight +9, Perception +9
+  DamageResistances: cold, lightning, necrotic
+  DamageImmunities: poison; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, poisoned
+  Senses: truesight 120 ft., passive Perception 19
+  Languages: Common plus up to five other languages
+  Challenge: 21 (33000 XP)
   Strength: 11 (+0)
   Dexterity: 16 (+3)
   Constitution: 16 (+3)
   Intelligence: 20 (+5)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Con +10, Int +12, Wis +9
-  Skills: Arcana +18, History +12, Insight +9, Perception +9
-  DamageImmunities: poison; bludgeoning, piercing, and slashing from nonmagical attacks
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, poisoned
-  DamageResistances: cold, lightning, necrotic
-  Senses: truesight 120 ft., passive Perception 19
-  Languages: Common plus up to five other languages
-  Challenge: 21 (33000 XP)
   Id: monsters_vo.md#lich
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Lich
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Liche](hd_monsters_liche.md)'
   AttributesDictionary: >+
     Name: Lich
 
@@ -34952,29 +34953,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Unicorn
+  AltName: '[Licorne](hd_monsters_licorne.md)'
   Type: celestial
   Size: Large
   Alignment: lawful good
   ArmorClass: 12
   HitPoints: 67 (9d10 + 18)
   Speed: 50 ft.
+  DamageImmunities: poison
+  ConditionImmunities: charmed, paralyzed, poisoned
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: Celestial, Elvish, Sylvan, telepathy 60 ft.
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 11 (+0)
   Wisdom: 17 (+3)
   Charisma: 16 (+3)
-  DamageImmunities: poison
-  ConditionImmunities: charmed, paralyzed, poisoned
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: Celestial, Elvish, Sylvan, telepathy 60 ft.
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#unicorn
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Unicorn
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Licorne](hd_monsters_licorne.md)'
   AttributesDictionary: >+
     Name: Unicorn
 
@@ -35200,28 +35201,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Lion
+  AltName: '[Lion](hd_monsters_lion.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 26 (4d10 + 4)
   Speed: 50 ft.
+  Skills: Perception +3, Stealth +6
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +3, Stealth +6
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#lion
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Lion
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lion](hd_monsters_lion.md)'
   AttributesDictionary: >+
     Name: Lion
 
@@ -35381,28 +35382,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Wolf
+  AltName: '[Loup](hd_monsters_loup.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 11 (2d8 + 2)
   Speed: 40 ft.
+  Skills: Perception +3, Stealth +4
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 12 (+1)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +3, Stealth +4
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#wolf
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Wolf
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup](hd_monsters_loup.md)'
   AttributesDictionary: >+
     Name: Wolf
 
@@ -35538,29 +35539,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Winter Wolf
+  AltName: '[Loup arctique](hd_monsters_loup_arctique.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral evil
   ArmorClass: 13 (natural armor)
   HitPoints: 75 (10d10 + 20)
   Speed: 50 ft.
+  Skills: Perception +5, Stealth +3
+  DamageImmunities: cold
+  Senses: passive Perception 15
+  Languages: Common, Giant, Winter Wolf
+  Challenge: 3 (700 XP)
   Strength: 18 (+4)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +5, Stealth +3
-  DamageImmunities: cold
-  Senses: passive Perception 15
-  Languages: Common, Giant, Winter Wolf
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#winter-wolf
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Winter Wolf
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup arctique](hd_monsters_loup_arctique.md)'
   AttributesDictionary: >+
     Name: Winter Wolf
 
@@ -35714,28 +35715,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Dire Wolf
+  AltName: '[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 37 (5d10 + 10)
   Speed: 50 ft.
+  Skills: Perception +3, Stealth +4
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3, Stealth +4
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#dire-wolf
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Dire Wolf
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)'
   AttributesDictionary: >+
     Name: Dire Wolf
 
@@ -35871,29 +35872,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Werewolf
+  AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), chaotic evil
   ArmorClass: 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
   HitPoints: 58 (9d8 + 18)
   Speed: 30 ft. (40 ft. in wolf form)
+  Skills: Perception +4, Stealth +3
+  DamageImmunities: bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
+  Senses: passive Perception 14
+  Languages: Common (can't speak in wolf form)
+  Challenge: 3 (700 XP)
   Strength: 15 (+2)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: Perception +4, Stealth +3
-  DamageImmunities: bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
-  Senses: passive Perception 14
-  Languages: Common (can't speak in wolf form)
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#werewolf
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Werewolf
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Loup-garou](hd_monsters_loup_garou.md)'
   AttributesDictionary: >+
     Name: Werewolf
 
@@ -36065,30 +36066,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Lemure
+  AltName: '[Lémure](hd_monsters_lemure.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 7
   HitPoints: 13 (3d8)
   Speed: 15 ft.
+  DamageResistances: cold
+  DamageImmunities: fire, poison
+  ConditionImmunities: charmed, frightened, poisoned
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: understands Infernal but can't speak
+  Challenge: 0 (10 XP)
   Strength: 10 (+0)
   Dexterity: ' 5 (-3)'
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 11 (+0)
   Charisma: ' 3 (-4)'
-  DamageImmunities: fire, poison
-  ConditionImmunities: charmed, frightened, poisoned
-  DamageResistances: cold
-  Senses: darkvision 120 ft., passive Perception 10
-  Languages: understands Infernal but can't speak
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#lemure
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Lemure
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lémure](hd_monsters_lemure.md)'
   AttributesDictionary: >+
     Name: Lemure
 
@@ -36236,27 +36237,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Lizard
+  AltName: '[Lézard](hd_monsters_lezard.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 2 (1d4)
   Speed: 20 ft., climb 20 ft.
+  Senses: darkvision 30 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 3 (-4)'
-  Senses: darkvision 30 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#lizard
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Lizard
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lézard](hd_monsters_lezard.md)'
   AttributesDictionary: >+
     Name: Lizard
 
@@ -36368,27 +36369,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Lizard
+  AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 19 (3d10 + 3)
   Speed: 30 ft., climb 30 ft.
+  Senses: darkvision 30 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 15 (+2)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: darkvision 30 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-lizard
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Lizard
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Lézard géant](hd_monsters_lezard_geant.md)'
   AttributesDictionary: >+
     Name: Giant Lizard
 
@@ -36500,29 +36501,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mage
+  AltName: '[Mage](hd_monsters_mage.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 12 (15 with
   HitPoints: 40 (9d8)
   Speed: 30 ft.
+  SavingThrows: Int +6, Wis +4
+  Skills: Arcana +6, History +6
+  Senses: passive Perception 11
+  Languages: any four languages
+  Challenge: 6 (2300 XP)
   Strength: ' 9 (-1)'
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: 17 (+3)
   Wisdom: 12 (+1)
   Charisma: 11 (+0)
-  SavingThrows: Int +6, Wis +4
-  Skills: Arcana +6, History +6
-  Senses: passive Perception 11
-  Languages: any four languages
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#mage
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mage
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mage](hd_monsters_mage.md)'
   AttributesDictionary: >+
     Name: Mage
 
@@ -36694,29 +36695,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Magmin
+  AltName: '[Magmatique](hd_monsters_magmatique.md)'
   Type: elemental
   Size: Small
   Alignment: chaotic neutral
   ArmorClass: 14 (natural armor)
   HitPoints: 9 (2d6 + 2)
   Speed: 30 ft.
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: fire
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Ignan
+  Challenge: 1/2 (100 XP)
   Strength: ' 7 (-2)'
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 8 (-1)'
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  DamageImmunities: fire
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Ignan
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#magmin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Magmin
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Magmatique](hd_monsters_magmatique.md)'
   AttributesDictionary: >+
     Name: Magmin
 
@@ -36858,28 +36859,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Thug
+  AltName: '[Malfrat](hd_monsters_malfrat.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
   ArmorClass: 11 (leather armor)
   HitPoints: 32 (5d8 + 10)
   Speed: 30 ft.
+  Skills: Intimidation +2
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 1/2 (100 XP)
   Strength: 15 (+2)
   Dexterity: 11 (+0)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Skills: Intimidation +2
-  Senses: passive Perception 10
-  Languages: any one language (usually Common)
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#thug
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Thug
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Malfrat](hd_monsters_malfrat.md)'
   AttributesDictionary: >+
     Name: Thug
 
@@ -37027,27 +37028,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mammoth
+  AltName: '[Mammouth](hd_monsters_mammouth.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 126 (11d12 + 55)
   Speed: 40 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 6 (2300 XP)
   Strength: 24 (+7)
   Dexterity: ' 9 (-1)'
   Constitution: 21 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 6 (-2)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#mammoth
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mammoth
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mammouth](hd_monsters_mammouth.md)'
   AttributesDictionary: >+
     Name: Mammoth
 
@@ -37183,28 +37184,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Darkmantle
+  AltName: '[Mante obscure](hd_monsters_mante_obscure.md)'
   Type: monstrosity
   Size: Small
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 22 (5d6 + 5)
   Speed: 10 ft., fly 30 ft.
+  Skills: Stealth +3
+  Senses: blindsight 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: Stealth +3
-  Senses: blindsight 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#darkmantle
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Darkmantle
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mante obscure](hd_monsters_mante_obscure.md)'
   AttributesDictionary: >+
     Name: Darkmantle
 
@@ -37346,28 +37347,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Cloaker
+  AltName: '[Manteleur](hd_monsters_manteleur.md)'
   Type: aberration
   Size: Large
   Alignment: chaotic neutral
   ArmorClass: 14 (natural armor)
   HitPoints: 78 (12d10 + 12)
   Speed: 10 ft., fly 40 ft.
+  Skills: Stealth +5
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: Deep Speech, Undercommon
+  Challenge: 8 (3900 XP)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: 13 (+1)
   Wisdom: 12 (+1)
   Charisma: 14 (+2)
-  Skills: Stealth +5
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: Deep Speech, Undercommon
-  Challenge: 8 (3900 XP)
   Id: monsters_vo.md#cloaker
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Cloaker
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Manteleur](hd_monsters_manteleur.md)'
   AttributesDictionary: >+
     Name: Cloaker
 
@@ -37539,27 +37540,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Manticore
+  AltName: '[Manticore](hd_monsters_manticore.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful evil
   ArmorClass: 14 (natural armor)
   HitPoints: 68 (8d10 + 24)
   Speed: 30 ft., fly 50 ft.
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: Common
+  Challenge: 3 (700 XP)
   Strength: 17 (+3)
   Dexterity: 16 (+3)
   Constitution: 17 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: Common
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#manticore
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Manticore
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Manticore](hd_monsters_manticore.md)'
   AttributesDictionary: >+
     Name: Manticore
 
@@ -37713,31 +37714,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Marilith
+  AltName: '[Marilith](hd_monsters_marilith.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 18 (natural armor)
   HitPoints: 189 (18d10 + 90)
   Speed: 40 ft.
+  SavingThrows: Str +9, Con +10, Wis +8, Cha +10
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: truesight 120 ft., passive Perception 13
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 16 (15000 XP)
   Strength: 18 (+4)
   Dexterity: 20 (+5)
   Constitution: 20 (+5)
   Intelligence: 18 (+4)
   Wisdom: 16 (+3)
   Charisma: 20 (+5)
-  SavingThrows: Str +9, Con +10, Wis +8, Cha +10
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 13
-  Languages: Abyssal, telepathy 120 ft.
-  Challenge: 16 (15000 XP)
   Id: monsters_vo.md#marilith
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Marilith
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Marilith](hd_monsters_marilith.md)'
   AttributesDictionary: >+
     Name: Marilith
 
@@ -37933,28 +37934,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Cultist
+  AltName: '[Membre de secte](hd_monsters_membre_de_secte.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any non-good alignment
   ArmorClass: 12 (leather armor)
   HitPoints: 9 (2d8)
   Speed: 30 ft.
+  Skills: Deception +2, Religion +2
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 1/8 (25 XP)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: Deception +2, Religion +2
-  Senses: passive Perception 10
-  Languages: any one language (usually Common)
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#cultist
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Cultist
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Membre de secte](hd_monsters_membre_de_secte.md)'
   AttributesDictionary: >+
     Name: Cultist
 
@@ -38084,27 +38085,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Merrow
+  AltName: '[Merrow](hd_monsters_merrow.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 13 (natural armor)
   HitPoints: 45 (6d10 + 12)
   Speed: 10 ft., swim 40 ft.
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Abyssal, Aquan
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 8 (-1)'
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Abyssal, Aquan
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#merrow
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Merrow
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Merrow](hd_monsters_merrow.md)'
   AttributesDictionary: >+
     Name: Merrow
 
@@ -38258,27 +38259,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Centipede
+  AltName: '[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 4 (1d6 + 1)
   Speed: 30 ft., climb 30 ft.
+  Senses: blindsight 30 ft., passive Perception 8
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: ' 5 (-3)'
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 3 (-4)'
-  Senses: blindsight 30 ft., passive Perception 8
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-centipede
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Centipede
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)'
   AttributesDictionary: >+
     Name: Giant Centipede
 
@@ -38390,30 +38391,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mimic
+  AltName: '[Mimique](hd_monsters_mimique.md)'
   Type: monstrosity (shapechanger)
   Size: Medium
   Alignment: neutral
   ArmorClass: 12 (natural armor)
   HitPoints: 58 (9d8 + 18)
   Speed: 15 ft.
-  Strength: 17 (+3)
-  Dexterity: 12 (+1)
-  Constitution: 15 (+2)
-  Intelligence: ' 5 (-3)'
-  Wisdom: 13 (+1)
-  Charisma: ' 8 (-1)'
   Skills: Stealth +5
   DamageImmunities: acid
   ConditionImmunities: prone
   Senses: darkvision 60 ft., passive Perception 11
   Languages: '-'
   Challenge: 2 (450 XP)
+  Strength: 17 (+3)
+  Dexterity: 12 (+1)
+  Constitution: 15 (+2)
+  Intelligence: ' 5 (-3)'
+  Wisdom: 13 (+1)
+  Charisma: ' 8 (-1)'
   Id: monsters_vo.md#mimic
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mimic
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mimique](hd_monsters_mimique.md)'
   AttributesDictionary: >+
     Name: Mimic
 
@@ -38585,28 +38586,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Minotaur
+  AltName: '[Minotaure](hd_monsters_minotaure.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 14 (natural armor)
   HitPoints: 76 (9d10 + 27)
   Speed: 40 ft.
+  Skills: Perception +7
+  Senses: darkvision 60 ft., passive Perception 17
+  Languages: Abyssal
+  Challenge: 3 (700 XP)
   Strength: 18 (+4)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 16 (+3)
   Charisma: ' 9 (-1)'
-  Skills: Perception +7
-  Senses: darkvision 60 ft., passive Perception 17
-  Languages: Abyssal
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#minotaur
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Minotaur
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Minotaure](hd_monsters_minotaure.md)'
   AttributesDictionary: >+
     Name: Minotaur
 
@@ -38760,28 +38761,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Violet Fungus
+  AltName: '[Moisissure violette](hd_monsters_moisissure_violette.md)'
   Type: plant
   Size: Medium
   Alignment: unaligned
   ArmorClass: 5
   HitPoints: 18 (4d8)
   Speed: 5 ft.
+  ConditionImmunities: blinded, deafened, frightened
+  Senses: blindsight 30 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: ' 3 (-4)'
   Dexterity: ' 1 (-5)'
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  ConditionImmunities: blinded, deafened, frightened
-  Senses: blindsight 30 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#violet-fungus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Violet Fungus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Moisissure violette](hd_monsters_moisissure_violette.md)'
   AttributesDictionary: >+
     Name: Violet Fungus
 
@@ -38917,28 +38918,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mastiff
+  AltName: '[Mastiff](hd_monsters_mastiff.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 5 (1d8 + 1)
   Speed: 40 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: 13 (+1)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#mastiff
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mastiff
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mastiff](hd_monsters_mastiff.md)'
   AttributesDictionary: >+
     Name: Mastiff
 
@@ -39068,29 +39069,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hell Hound
+  AltName: '[Molosse infernal](hd_monsters_molosse_infernal.md)'
   Type: fiend
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 15 (natural armor)
   HitPoints: 45 (7d8 + 14)
   Speed: 50 ft.
+  Skills: Perception +5
+  DamageImmunities: fire
+  Senses: darkvision 60 ft., passive Perception 15
+  Languages: understands Infernal but can't speak it
+  Challenge: 3 (700 XP)
   Strength: 17 (+3)
   Dexterity: 12 (+1)
   Constitution: 14 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +5
-  DamageImmunities: fire
-  Senses: darkvision 60 ft., passive Perception 15
-  Languages: understands Infernal but can't speak it
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#hell-hound
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hell Hound
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Molosse infernal](hd_monsters_molosse_infernal.md)'
   AttributesDictionary: >+
     Name: Hell Hound
 
@@ -39244,31 +39245,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mummy
+  AltName: '[Momie](hd_monsters_momie.md)'
   Type: undead
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 11 (natural armor)
   HitPoints: 58 (9d8 + 18)
   Speed: 20 ft.
+  SavingThrows: Wis +2
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: necrotic, poison
+  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: the languages it knew in life
+  Challenge: 3 (700 XP)
   Strength: 16 (+3)
   Dexterity: ' 8 (-1)'
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  SavingThrows: Wis +2
-  DamageImmunities: necrotic, poison
-  ConditionImmunities: charmed, exhaustion, frightened, paralyzed, poisoned
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: the languages it knew in life
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#mummy
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mummy
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Momie](hd_monsters_momie.md)'
   AttributesDictionary: >+
     Name: Mummy
 
@@ -39420,18 +39421,14 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mummy Lord
+  AltName: '[Momie auguste](hd_monsters_momie_auguste.md)'
   Type: undead
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 17 (natural armor)
   HitPoints: 97 (13d8 + 39)
   Speed: 20 ft.
-  Strength: 18 (+4)
-  Dexterity: 10 (+0)
-  Constitution: 17 (+3)
-  Intelligence: 11 (+0)
-  Wisdom: 18 (+4)
-  Charisma: 16 (+3)
   SavingThrows: Con +8, Int +5, Wis +9, Cha +8
   Skills: History +5, Religion +5
   DamageImmunities: necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -39439,12 +39436,16 @@ SubItems:
   Senses: darkvision 60 ft., passive Perception 14
   Languages: the languages it knew in life
   Challenge: 15 (13000 XP)
+  Strength: 18 (+4)
+  Dexterity: 10 (+0)
+  Constitution: 17 (+3)
+  Intelligence: 11 (+0)
+  Wisdom: 18 (+4)
+  Charisma: 16 (+3)
   Id: monsters_vo.md#mummy-lord
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mummy Lord
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Momie auguste](hd_monsters_momie_auguste.md)'
   AttributesDictionary: >+
     Name: Mummy Lord
 
@@ -39704,27 +39705,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Mule
+  AltName: '[Mule](hd_monsters_mule.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 11 (2d8 + 2)
   Speed: 40 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: 14 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#mule
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Mule
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Mule](hd_monsters_mule.md)'
   AttributesDictionary: >+
     Name: Mule
 
@@ -39854,28 +39855,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Medusa
+  AltName: '[Méduse](hd_monsters_meduse.md)'
   Type: monstrosity
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 15 (natural armor)
   HitPoints: 127 (17d8 + 51)
   Speed: 30 ft.
+  Skills: Deception +5, Insight +4, Perception +4, Stealth +5
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Common
+  Challenge: 6 (2300 XP)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  Skills: Deception +5, Insight +4, Perception +4, Stealth +5
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Common
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#medusa
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Medusa
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méduse](hd_monsters_meduse.md)'
   AttributesDictionary: >+
     Name: Medusa
 
@@ -40035,30 +40036,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ice Mephit
+  AltName: '[Méphite de glace](hd_monsters_mephite_de_glace.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
   ArmorClass: 11
   HitPoints: 21 (6d6)
   Speed: 30 ft., fly 30 ft.
-  Strength: ' 7 (-2)'
-  Dexterity: 13 (+1)
-  Constitution: 10 (+0)
-  Intelligence: ' 9 (-1)'
-  Wisdom: 11 (+0)
-  Charisma: 12 (+1)
   Skills: Perception +2, Stealth +3
   DamageImmunities: cold, poison
   ConditionImmunities: poisoned
   Senses: darkvision 60 ft., passive Perception 12
   Languages: Aquan, Auran
   Challenge: 1/2 (100 XP)
+  Strength: ' 7 (-2)'
+  Dexterity: 13 (+1)
+  Constitution: 10 (+0)
+  Intelligence: ' 9 (-1)'
+  Wisdom: 11 (+0)
+  Charisma: 12 (+1)
   Id: monsters_vo.md#ice-mephit
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ice Mephit
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de glace](hd_monsters_mephite_de_glace.md)'
   AttributesDictionary: >+
     Name: Ice Mephit
 
@@ -40222,30 +40223,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Magma Mephit
+  AltName: '[Méphite de magma](hd_monsters_mephite_de_magma.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
   ArmorClass: 11
   HitPoints: 22 (5d6 + 5)
   Speed: 30 ft., fly 30 ft.
-  Strength: ' 8 (-1)'
-  Dexterity: 12 (+1)
-  Constitution: 12 (+1)
-  Intelligence: ' 7 (-2)'
-  Wisdom: 10 (+0)
-  Charisma: 10 (+0)
   Skills: Stealth +3
   DamageImmunities: fire, poison
   ConditionImmunities: poisoned
   Senses: darkvision 60 ft., passive Perception 10
   Languages: Ignan, Terran
   Challenge: 1/2 (100 XP)
+  Strength: ' 8 (-1)'
+  Dexterity: 12 (+1)
+  Constitution: 12 (+1)
+  Intelligence: ' 7 (-2)'
+  Wisdom: 10 (+0)
+  Charisma: 10 (+0)
   Id: monsters_vo.md#magma-mephit
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Magma Mephit
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de magma](hd_monsters_mephite_de_magma.md)'
   AttributesDictionary: >+
     Name: Magma Mephit
 
@@ -40409,30 +40410,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Dust Mephit
+  AltName: '[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
   ArmorClass: 12
   HitPoints: 17 (5d6)
   Speed: 30 ft., fly 30 ft.
-  Strength: ' 5 (-3)'
-  Dexterity: 14 (+2)
-  Constitution: 10 (+0)
-  Intelligence: ' 9 (-1)'
-  Wisdom: 11 (+0)
-  Charisma: 10 (+0)
   Skills: Perception +2, Stealth +4
   DamageImmunities: poison
   ConditionImmunities: poisoned
   Senses: darkvision 60 ft., passive Perception 12
   Languages: Auran, Terran
   Challenge: 1/2 (100 XP)
+  Strength: ' 5 (-3)'
+  Dexterity: 14 (+2)
+  Constitution: 10 (+0)
+  Intelligence: ' 9 (-1)'
+  Wisdom: 11 (+0)
+  Charisma: 10 (+0)
   Id: monsters_vo.md#dust-mephit
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Dust Mephit
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)'
   AttributesDictionary: >+
     Name: Dust Mephit
 
@@ -40590,29 +40591,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Steam Mephit
+  AltName: '[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)'
   Type: elemental
   Size: Small
   Alignment: neutral evil
   ArmorClass: 10
   HitPoints: 21 (6d6)
   Speed: 30 ft., fly 30 ft.
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Aquan, Ignan
+  Challenge: 1/4 (50 XP)
   Strength: ' 5 (-3)'
   Dexterity: 11 (+0)
   Constitution: 10 (+0)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Aquan, Ignan
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#steam-mephit
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Steam Mephit
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)'
   AttributesDictionary: >+
     Name: Steam Mephit
 
@@ -40760,30 +40761,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Spirit Naga
+  AltName: '[Naga corrupteur](hd_monsters_naga_corrupteur.md)'
   Type: monstrosity
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 15 (natural armor)
   HitPoints: 75 (10d10 + 20)
   Speed: 40 ft.
-  Strength: 18 (+4)
-  Dexterity: 17 (+3)
-  Constitution: 14 (+2)
-  Intelligence: 16 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 16 (+3)
   SavingThrows: Dex +6, Con +5, Wis +5, Cha +6
   DamageImmunities: poison
   ConditionImmunities: charmed, poisoned
   Senses: darkvision 60 ft., passive Perception 12
   Languages: Abyssal, Common
   Challenge: 8 (3900 XP)
+  Strength: 18 (+4)
+  Dexterity: 17 (+3)
+  Constitution: 14 (+2)
+  Intelligence: 16 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 16 (+3)
   Id: monsters_vo.md#spirit-naga
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Spirit Naga
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Naga corrupteur](hd_monsters_naga_corrupteur.md)'
   AttributesDictionary: >+
     Name: Spirit Naga
 
@@ -40967,30 +40968,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Guardian Naga
+  AltName: '[Naga gardien](hd_monsters_naga_gardien.md)'
   Type: monstrosity
   Size: Large
   Alignment: lawful good
   ArmorClass: 18 (natural armor)
   HitPoints: 127 (15d10 + 45)
   Speed: 40 ft.
-  Strength: 19 (+4)
-  Dexterity: 18 (+4)
-  Constitution: 16 (+3)
-  Intelligence: 16 (+3)
-  Wisdom: 19 (+4)
-  Charisma: 18 (+4)
   SavingThrows: Dex +8, Con +7, Int +7, Wis +8, Cha +8
   DamageImmunities: poison
   ConditionImmunities: charmed, poisoned
   Senses: darkvision 60 ft., passive Perception 14
   Languages: Celestial, Common
   Challenge: 10 (5900 XP)
+  Strength: 19 (+4)
+  Dexterity: 18 (+4)
+  Constitution: 16 (+3)
+  Intelligence: 16 (+3)
+  Wisdom: 19 (+4)
+  Charisma: 18 (+4)
   Id: monsters_vo.md#guardian-naga
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Guardian Naga
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Naga gardien](hd_monsters_naga_gardien.md)'
   AttributesDictionary: >+
     Name: Guardian Naga
 
@@ -41192,31 +41193,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Nalfeshnee
+  AltName: '[Nalfeshnie](hd_monsters_nalfeshnie.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 18 (natural armor)
   HitPoints: 184 (16d10 + 96)
   Speed: 20 ft., fly 30 ft.
+  SavingThrows: Con +11, Int +9, Wis +6, Cha +7
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: truesight 120 ft., passive Perception 11
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 13 (10000 XP)
   Strength: 21 (+5)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: 19 (+4)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Con +11, Int +9, Wis +6, Cha +7
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 11
-  Languages: Abyssal, telepathy 120 ft.
-  Challenge: 13 (10000 XP)
   Id: monsters_vo.md#nalfeshnee
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Nalfeshnee
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nalfeshnie](hd_monsters_nalfeshnie.md)'
   AttributesDictionary: >+
     Name: Nalfeshnee
 
@@ -41394,28 +41395,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Noble
+  AltName: '[Noble](hd_monsters_noble.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 15 (breastplate)
   HitPoints: 9 (2d8)
   Speed: 30 ft.
+  Skills: Deception +5, Insight +4, Persuasion +5
+  Senses: passive Perception 12
+  Languages: any two languages
+  Challenge: 1/8 (25 XP)
   Strength: 11 (+0)
   Dexterity: 12 (+1)
   Constitution: 11 (+0)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 16 (+3)
-  Skills: Deception +5, Insight +4, Persuasion +5
-  Senses: passive Perception 12
-  Languages: any two languages
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#noble
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Noble
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Noble](hd_monsters_noble.md)'
   AttributesDictionary: >+
     Name: Noble
 
@@ -41545,29 +41546,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Swarm of Insects
+  AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 22 (5d8)
   Speed: 20 ft., climb 20 ft.
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+  Senses: blindsight 10 ft., passive Perception 8
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: ' 3 (-4)'
   Dexterity: 13 (+1)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 1 (-5)'
-  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-  DamageResistances: bludgeoning, piercing, slashing
-  Senses: blindsight 10 ft., passive Perception 8
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#swarm-of-insects
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Swarm of Insects
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)"
   AttributesDictionary: >+
     Name: Swarm of Insects
 
@@ -41703,29 +41704,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Swarm of Bats
+  AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 0 ft., fly 30 ft.
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+  Senses: blindsight 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: ' 5 (-3)'
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-  DamageResistances: bludgeoning, piercing, slashing
-  Senses: blindsight 60 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#swarm-of-bats
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Swarm of Bats
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)'
   AttributesDictionary: >+
     Name: Swarm of Bats
 
@@ -41873,30 +41874,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Swarm of Ravens
+  AltName: '[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 24 (7d8 - 7)
   Speed: 10 ft., fly 50 ft.
+  Skills: Perception +5
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+  Senses: passive Perception 15
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: ' 8 (-1)'
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +5
-  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-  DamageResistances: bludgeoning, piercing, slashing
-  Senses: passive Perception 15
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#swarm-of-ravens
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Swarm of Ravens
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)'
   AttributesDictionary: >+
     Name: Swarm of Ravens
 
@@ -42038,29 +42039,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Swarm of Quippers
+  AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 28 (8d8 - 8)
   Speed: 0 ft., swim 40 ft.
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 13 (+1)
   Dexterity: 16 (+3)
   Constitution: ' 9 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 2 (-4)'
-  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-  DamageResistances: bludgeoning, piercing, slashing
-  Senses: darkvision 60 ft., passive Perception 8
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#swarm-of-quippers
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Swarm of Quippers
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)'
   AttributesDictionary: >+
     Name: Swarm of Quippers
 
@@ -42208,29 +42209,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Swarm of Rats
+  AltName: '[Nuée de rats](hd_monsters_nuee_de_rats.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 24 (7d8 - 7)
   Speed: 30 ft.
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+  Senses: darkvision 30 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: ' 9 (-1)'
   Dexterity: 11 (+0)
   Constitution: ' 9 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-  DamageResistances: bludgeoning, piercing, slashing
-  Senses: darkvision 30 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#swarm-of-rats
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Swarm of Rats
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de rats](hd_monsters_nuee_de_rats.md)'
   AttributesDictionary: >+
     Name: Swarm of Rats
 
@@ -42372,29 +42373,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Swarm of Poisonous Snakes
+  AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
   Type: swarm of Tiny beasts
   Size: Medium
   Alignment: unaligned
   ArmorClass: 14
   HitPoints: 36 (8d8)
   Speed: 30 ft., swim 30 ft.
+  DamageResistances: bludgeoning, piercing, slashing
+  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+  Senses: blindsight 10 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: ' 8 (-1)'
   Dexterity: 18 (+4)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  ConditionImmunities: charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-  DamageResistances: bludgeoning, piercing, slashing
-  Senses: blindsight 10 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#swarm-of-poisonous-snakes
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Swarm of Poisonous Snakes
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)'
   AttributesDictionary: >+
     Name: Swarm of Poisonous Snakes
 
@@ -42530,31 +42531,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Wight
+  AltName: '[Nécrophage](hd_monsters_necrophage.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 14 (studded leather)
   HitPoints: 45 (6d8 + 18)
   Speed: 30 ft.
+  Skills: Perception +3, Stealth +4
+  DamageResistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, poisoned
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: the languages it knew in life
+  Challenge: 3 (700 XP)
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 15 (+2)
-  Skills: Perception +3, Stealth +4
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, poisoned
-  DamageResistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: the languages it knew in life
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#wight
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Wight
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Nécrophage](hd_monsters_necrophage.md)'
   AttributesDictionary: >+
     Name: Wight
 
@@ -42732,27 +42733,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ogre
+  AltName: '[Ogre](hd_monsters_ogre.md)'
   Type: giant
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 11 (hide armor)
   HitPoints: 59 (7d10 + 21)
   Speed: 40 ft.
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: Common, Giant
+  Challenge: 2 (450 XP)
   Strength: 19 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 7 (-2)'
-  Senses: darkvision 60 ft., passive Perception 8
-  Languages: Common, Giant
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#ogre
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ogre
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ogre](hd_monsters_ogre.md)'
   AttributesDictionary: >+
     Name: Ogre
 
@@ -42876,31 +42877,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Shadow
+  AltName: '[Ombre](hd_monsters_ombre.md)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 12
   HitPoints: 16 (3d8 + 3)
   Speed: 40 ft.
+  Skills: Stealth +4 (+6 in dim light or darkness)
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: necrotic, poison
+  ConditionImmunities: exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: ' 6 (-2)'
   Dexterity: 14 (+2)
   Constitution: 13 (+1)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Skills: Stealth +4 (+6 in dim light or darkness)
-  DamageImmunities: necrotic, poison
-  ConditionImmunities: exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#shadow
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Shadow
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ombre](hd_monsters_ombre.md)'
   AttributesDictionary: >+
     Name: Shadow
 
@@ -43064,29 +43065,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Oni
+  AltName: '[Oni](hd_monsters_oni.md)'
   Type: giant
   Size: Large
   Alignment: lawful evil
   ArmorClass: 16 (chain mail)
   HitPoints: 110 (13d10 + 39)
   Speed: 30 ft., fly 30 ft.
+  SavingThrows: Dex +3, Con +6, Wis +4, Cha +5
+  Skills: Arcana +5, Deception +8, Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Common, Giant
+  Challenge: 7 (2900 XP)
   Strength: 19 (+4)
   Dexterity: 11 (+0)
   Constitution: 16 (+3)
   Intelligence: 14 (+2)
   Wisdom: 12 (+1)
   Charisma: 15 (+2)
-  SavingThrows: Dex +3, Con +6, Wis +4, Cha +5
-  Skills: Arcana +5, Deception +8, Perception +4
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Common, Giant
-  Challenge: 7 (2900 XP)
   Id: monsters_vo.md#oni
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Oni
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Oni](hd_monsters_oni.md)'
   AttributesDictionary: >+
     Name: Oni
 
@@ -43270,28 +43271,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Orc
+  AltName: '[Orc](hd_monsters_orc.md)'
   Type: humanoid (orc)
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 13 (hide armor)
   HitPoints: 15 (2d8 + 6)
   Speed: 30 ft.
+  Skills: Intimidation +2
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Common, Orc
+  Challenge: 1/2 (100 XP)
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 16 (+3)
   Intelligence: ' 7 (-2)'
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: Intimidation +2
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Common, Orc
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#orc
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Orc
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Orc](hd_monsters_orc.md)'
   AttributesDictionary: >+
     Name: Orc
 
@@ -43433,28 +43434,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Otyugh
+  AltName: '[Otyugh](hd_monsters_otyugh.md)'
   Type: aberration
   Size: Large
   Alignment: neutral
   ArmorClass: 14 (natural armor)
   HitPoints: 114 (12d10 + 48)
   Speed: 30 ft.
+  SavingThrows: Con +7
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Otyugh
+  Challenge: 5 (1800 XP)
   Strength: 16 (+3)
   Dexterity: 11 (+0)
   Constitution: 19 (+4)
   Intelligence: ' 6 (-2)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  SavingThrows: Con +7
-  Senses: darkvision 120 ft., passive Perception 11
-  Languages: Otyugh
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#otyugh
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Otyugh
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Otyugh](hd_monsters_otyugh.md)'
   AttributesDictionary: >+
     Name: Otyugh
 
@@ -43608,28 +43609,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Brown Bear
+  AltName: '[Ours brun](hd_monsters_ours_brun.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 34 (4d10 + 12)
   Speed: 40 ft., climb 30 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#brown-bear
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Brown Bear
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours brun](hd_monsters_ours_brun.md)'
   AttributesDictionary: >+
     Name: Brown Bear
 
@@ -43777,28 +43778,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Black Bear
+  AltName: '[Ours noir](hd_monsters_ours_noir.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 19 (3d8 + 6)
   Speed: 40 ft., climb 30 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 14 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#black-bear
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Black Bear
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours noir](hd_monsters_ours_noir.md)'
   AttributesDictionary: >+
     Name: Black Bear
 
@@ -43946,28 +43947,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Polar Bear
+  AltName: '[Ours polaire](hd_monsters_ours_polaire.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 42 (5d10 + 15)
   Speed: 40 ft., swim 30 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 20 (+5)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#polar-bear
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Polar Bear
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours polaire](hd_monsters_ours_polaire.md)'
   AttributesDictionary: >+
     Name: Polar Bear
 
@@ -44115,29 +44116,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Werebear
+  AltName: '[Ours-garou](hd_monsters_ours_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), neutral good
   ArmorClass: 10 in humanoid form, 11 (natural armor) in bear and hybrid form
   HitPoints: 135 (18d8 + 54)
   Speed: 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
+  Skills: Perception +7
+  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+  Senses: passive Perception 17
+  Languages: Common (can't speak in bear form)
+  Challenge: 5 (1800 XP)
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 17 (+3)
   Intelligence: 11 (+0)
   Wisdom: 12 (+1)
   Charisma: 12 (+1)
-  Skills: Perception +7
-  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-  Senses: passive Perception 17
-  Languages: Common (can't speak in bear form)
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#werebear
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Werebear
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ours-garou](hd_monsters_ours_garou.md)'
   AttributesDictionary: >+
     Name: Werebear
 
@@ -44309,27 +44310,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Rust Monster
+  AltName: '[Oxydeur](hd_monsters_oxydeur.md)'
   Type: monstrosity
   Size: Medium
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 27 (5d8 + 5)
   Speed: 40 ft
+  Senses: darkvision 60 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 13 (+1)
   Dexterity: 12 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 13 (+1)
   Charisma: ' 6 (-2)'
-  Senses: darkvision 60 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#rust-monster
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Rust Monster
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Oxydeur](hd_monsters_oxydeur.md)'
   AttributesDictionary: >+
     Name: Rust Monster
 
@@ -44465,28 +44466,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Panther
+  AltName: '[Panthère](hd_monsters_panthere.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 50 ft., climb 40 ft.
+  Skills: Perception +4, Stealth +6
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 14 (+2)
   Dexterity: 15 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 14 (+2)
   Charisma: ' 7 (-2)'
-  Skills: Perception +4, Stealth +6
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#panther
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Panther
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Panthère](hd_monsters_panthere.md)'
   AttributesDictionary: >+
     Name: Panther
 
@@ -44634,28 +44635,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Octopus
+  AltName: '[Pieuvre](hd_monsters_pieuvre.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 3 (1d6)
   Speed: 5 ft., swim 30 ft.
+  Skills: Perception +2, Stealth +4
+  Senses: darkvision 30 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 4 (-3)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: Perception +2, Stealth +4
-  Senses: darkvision 30 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#octopus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Octopus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pieuvre](hd_monsters_pieuvre.md)'
   AttributesDictionary: >+
     Name: Octopus
 
@@ -44803,28 +44804,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Octopus
+  AltName: '[Pieuvre géante](hd_monsters_pieuvre_geante.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11
   HitPoints: 52 (8d10 + 8)
   Speed: 10 ft., swim 60 ft.
+  Skills: Perception +4, Stealth +5
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 17 (+3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 4 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: Perception +4, Stealth +5
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#giant-octopus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Octopus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pieuvre géante](hd_monsters_pieuvre_geante.md)'
   AttributesDictionary: >+
     Name: Giant Octopus
 
@@ -44972,27 +44973,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Quipper
+  AltName: '[Piranha](hd_monsters_piranha.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 1 (1d4 - 1)
   Speed: 0 ft., swim 40 ft.
+  Senses: darkvision 60 ft., passive Perception 8
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 16 (+3)
   Constitution: ' 9 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 2 (-4)'
-  Senses: darkvision 60 ft., passive Perception 8
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#quipper
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Quipper
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Piranha](hd_monsters_piranha.md)'
   AttributesDictionary: >+
     Name: Quipper
 
@@ -45122,31 +45123,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Planetar
+  AltName: '[Planétar](hd_monsters_planetar.md)'
   Type: celestial
   Size: Large
   Alignment: lawful good
   ArmorClass: 19 (natural armor)
   HitPoints: 200 (16d10 + 112)
   Speed: 40 ft., fly 120 ft.
+  SavingThrows: Con +12, Wis +11, Cha +12
+  Skills: Perception +11
+  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+  ConditionImmunities: charmed, exhaustion, frightened
+  Senses: truesight 120 ft., passive Perception 21
+  Languages: all, telepathy 120 ft.
+  Challenge: 16 (15000 XP)
   Strength: 24 (+7)
   Dexterity: 20 (+5)
   Constitution: 24 (+7)
   Intelligence: 19 (+4)
   Wisdom: 22 (+6)
   Charisma: 25 (+7)
-  SavingThrows: Con +12, Wis +11, Cha +12
-  Skills: Perception +11
-  ConditionImmunities: charmed, exhaustion, frightened
-  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 21
-  Languages: all, telepathy 120 ft.
-  Challenge: 16 (15000 XP)
   Id: monsters_vo.md#planetar
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Planetar
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Planétar](hd_monsters_planetar.md)'
   AttributesDictionary: >+
     Name: Planetar
 
@@ -45342,28 +45343,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Plesiosaurus
+  AltName: '[Plésiosaure](hd_monsters_plesiosaure.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 68 (8d10 + 24)
   Speed: 20 ft., swim 40 ft.
+  Skills: Perception +3, Stealth +4
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Skills: Perception +3, Stealth +4
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#plesiosaurus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Plesiosaurus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Plésiosaure](hd_monsters_plesiosaure.md)'
   AttributesDictionary: >+
     Name: Plesiosaurus
 
@@ -45493,27 +45494,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Pony
+  AltName: '[Poney](hd_monsters_poney.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 11 (2d8 + 2)
   Speed: 40 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 7 (-2)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#pony
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Pony
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Poney](hd_monsters_poney.md)'
   AttributesDictionary: >+
     Name: Pony
 
@@ -45625,29 +45626,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Black Pudding
+  AltName: '[Pouding noir](hd_monsters_pouding_noir.md)'
   Type: ooze
   Size: Large
   Alignment: unaligned
   ArmorClass: 7
   HitPoints: 85 (10d10 + 30)
   Speed: 20 ft., climb 20 ft.
+  DamageImmunities: acid, cold, lightning, slashing
+  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
+  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 8
+  Languages: '-'
+  Challenge: 4 (1100 XP)
   Strength: 16 (+3)
   Dexterity: ' 5 (-3)'
   Constitution: 16 (+3)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 1 (-5)'
-  DamageImmunities: acid, cold, lightning, slashing
-  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
-  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 8
-  Languages: '-'
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#black-pudding
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Black Pudding
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pouding noir](hd_monsters_pouding_noir.md)'
   AttributesDictionary: >+
     Name: Black Pudding
 
@@ -45807,28 +45808,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Pseudodragon
+  AltName: '[Pseudodragon](hd_monsters_pseudodragon.md)'
   Type: dragon
   Size: Tiny
   Alignment: neutral good
   ArmorClass: 13 (natural armor)
   HitPoints: 7 (2d4 + 2)
   Speed: 15 ft., fly 60 ft.
+  Skills: Perception +3, Stealth +4
+  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 13
+  Languages: understands Common and Draconic but can't speak
+  Challenge: 1/4 (50 XP)
   Strength: ' 6 (-2)'
   Dexterity: 15 (+2)
   Constitution: 13 (+1)
   Intelligence: 10 (+0)
   Wisdom: 12 (+1)
   Charisma: 10 (+0)
-  Skills: Perception +3, Stealth +4
-  Senses: blindsight 10 ft., darkvision 60 ft., passive Perception 13
-  Languages: understands Common and Draconic but can't speak
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#pseudodragon
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Pseudodragon
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pseudodragon](hd_monsters_pseudodragon.md)'
   AttributesDictionary: >+
     Name: Pseudodragon
 
@@ -45982,27 +45983,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Fire Beetle
+  AltName: '[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 4 (1d6 + 1)
   Speed: 30 ft.
+  Senses: blindsight 30 ft., passive Perception 8
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 8 (-1)'
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 3 (-4)'
-  Senses: blindsight 30 ft., passive Perception 8
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#giant-fire-beetle
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Fire Beetle
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)'
   AttributesDictionary: >+
     Name: Giant Fire Beetle
 
@@ -46126,29 +46127,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Pegasus
+  AltName: '[Pégase](hd_monsters_pegase.md)'
   Type: celestial
   Size: Large
   Alignment: chaotic good
   ArmorClass: 12
   HitPoints: 59 (7d10 + 21)
   Speed: 60 ft., fly 90 ft.
+  SavingThrows: Dex +4, Wis +4, Cha +3
+  Skills: Perception +6
+  Senses: passive Perception 16
+  Languages: understands Celestial, Common, Elvish, and Sylvan but can't speak
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 15 (+2)
   Charisma: 13 (+1)
-  SavingThrows: Dex +4, Wis +4, Cha +3
-  Skills: Perception +6
-  Senses: passive Perception 16
-  Languages: understands Celestial, Common, Elvish, and Sylvan but can't speak
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#pegasus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Pegasus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Pégase](hd_monsters_pegase.md)'
   AttributesDictionary: >+
     Name: Pegasus
 
@@ -46272,31 +46273,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Quasit
+  AltName: '[Quasit](hd_monsters_quasit.md)'
   Type: fiend (demon
   Size: Tiny
   Alignment: shapechanger), chaotic evil
   ArmorClass: 13
   HitPoints: 7 (3d4)
   Speed: 40 ft.
+  Skills: Stealth +5
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 10
+  Languages: Abyssal, Common
+  Challenge: 1 (200 XP)
   Strength: ' 5 (-3)'
   Dexterity: 17 (+3)
   Constitution: 10 (+0)
   Intelligence: ' 7 (-2)'
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Skills: Stealth +5
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 120 ft., passive Perception 10
-  Languages: Abyssal, Common
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#quasit
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Quasit
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Quasit](hd_monsters_quasit.md)'
   AttributesDictionary: >+
     Name: Quasit
 
@@ -46462,29 +46463,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Rakshasa
+  AltName: '[Rakshasa](hd_monsters_rakshasa.md)'
   Type: fiend
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 16 (natural armor)
   HitPoints: 110 (13d8 + 52)
   Speed: 40 ft.
+  Skills: Deception +10, Insight +8
+  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: Common, Infernal
+  Challenge: 13 (10000 XP)
   Strength: 14 (+2)
   Dexterity: 17 (+3)
   Constitution: 18 (+4)
   Intelligence: 13 (+1)
   Wisdom: 16 (+3)
   Charisma: 20 (+5)
-  Skills: Deception +10, Insight +8
-  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: Common, Infernal
-  Challenge: 13 (10000 XP)
   Id: monsters_vo.md#rakshasa
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Rakshasa
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rakshasa](hd_monsters_rakshasa.md)'
   AttributesDictionary: >+
     Name: Rakshasa
 
@@ -46654,27 +46655,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Rat
+  AltName: '[Rat](hd_monsters_rat.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 1 (1d4 - 1)
   Speed: 20 ft.
+  Senses: darkvision 30 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: ' 9 (-1)'
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Senses: darkvision 30 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#rat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Rat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rat](hd_monsters_rat.md)'
   AttributesDictionary: >+
     Name: Rat
 
@@ -46798,27 +46799,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Rat
+  AltName: '[Rat géant](hd_monsters_rat_geant.md)'
   Type: beast
   Size: Small
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 7 (2d6)
   Speed: 30 ft.
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: ' 7 (-2)'
   Dexterity: 15 (+2)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#giant-rat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Rat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rat géant](hd_monsters_rat_geant.md)'
   AttributesDictionary: >+
     Name: Giant Rat
 
@@ -46948,29 +46949,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Wererat
+  AltName: '[Rat-garou](hd_monsters_rat_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), lawful evil
   ArmorClass: 12
   HitPoints: 33 (6d8 + 6)
   Speed: 30 ft.
+  Skills: Perception +2, Stealth +4
+  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+  Senses: darkvision 60 ft. (rat form only), passive Perception 12
+  Languages: Common (can't speak in rat form)
+  Challenge: 2 (450 XP)
   Strength: 10 (+0)
   Dexterity: 15 (+2)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  Skills: Perception +2, Stealth +4
-  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-  Senses: darkvision 60 ft. (rat form only), passive Perception 12
-  Languages: Common (can't speak in rat form)
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#wererat
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Wererat
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rat-garou](hd_monsters_rat_garou.md)'
   AttributesDictionary: >+
     Name: Wererat
 
@@ -47142,28 +47143,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Reef Shark
+  AltName: '[Requin de récif](hd_monsters_requin_de_recif.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 22 (4d8 + 4)
   Speed: 0 ft., swim 40 ft.
+  Skills: Perception +2
+  Senses: blindsight 30 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 14 (+2)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: Perception +2
-  Senses: blindsight 30 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#reef-shark
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Reef Shark
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Requin de récif](hd_monsters_requin_de_recif.md)'
   AttributesDictionary: >+
     Name: Reef Shark
 
@@ -47299,28 +47300,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Shark
+  AltName: '[Requin géant](hd_monsters_requin_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 126 (11d12 + 55)
   Speed: 0 ft., swim 50 ft.
+  Skills: Perception +3
+  Senses: blindsight 60 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 23 (+6)
   Dexterity: 11 (+0)
   Constitution: 21 (+5)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: Perception +3
-  Senses: blindsight 60 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#giant-shark
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Shark
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Requin géant](hd_monsters_requin_geant.md)'
   AttributesDictionary: >+
     Name: Giant Shark
 
@@ -47456,28 +47457,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Hunter Shark
+  AltName: '[Requin chasseur](hd_monsters_requin_chasseur.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 45 (6d10 + 12)
   Speed: 0 ft., swim 40 ft.
+  Skills: Perception +2
+  Senses: blindsight 30 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 13 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 4 (-3)'
-  Skills: Perception +2
-  Senses: blindsight 30 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#hunter-shark
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Hunter Shark
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Requin chasseur](hd_monsters_requin_chasseur.md)'
   AttributesDictionary: >+
     Name: Hunter Shark
 
@@ -47613,27 +47614,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Rhinoceros
+  AltName: '[Rhinocéros](hd_monsters_rhinoceros.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 45 (6d10 + 12)
   Speed: 40 ft.
+  Senses: passive Perception 11
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 21 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Senses: passive Perception 11
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#rhinoceros
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Rhinoceros
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Rhinocéros](hd_monsters_rhinoceros.md)'
   AttributesDictionary: >+
     Name: Rhinoceros
 
@@ -47757,29 +47758,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Roc
+  AltName: '[Roc](hd_monsters_roc.md)'
   Type: monstrosity
   Size: Gargantuan
   Alignment: unaligned
   ArmorClass: 15 (natural armor)
   HitPoints: 248 (16d20 + 80)
   Speed: 20 ft., fly 120 ft.
+  SavingThrows: Dex +4, Con +9, Wis +4, Cha +3
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 11 (7200 XP)
   Strength: 28 (+9)
   Dexterity: 10 (+0)
   Constitution: 20 (+5)
   Intelligence: ' 3 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 9 (-1)'
-  SavingThrows: Dex +4, Con +9, Wis +4, Cha +3
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#roc
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Roc
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Roc](hd_monsters_roc.md)'
   AttributesDictionary: >+
     Name: Roc
 
@@ -47933,27 +47934,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Commoner
+  AltName: '[Roturier](hd_monsters_roturier.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 10
   HitPoints: 4 (1d8)
   Speed: 30 ft.
+  Senses: passive Perception 10
+  Languages: any one language (usually Common)
+  Challenge: 0 (10 XP)
   Strength: 10 (+0)
   Dexterity: 10 (+0)
   Constitution: 10 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 10 (+0)
-  Senses: passive Perception 10
-  Languages: any one language (usually Common)
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#commoner
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Commoner
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Roturier](hd_monsters_roturier.md)'
   AttributesDictionary: >+
     Name: Commoner
 
@@ -48065,28 +48066,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Remorhaz
+  AltName: '[Remorhaz](hd_monsters_remorhaz.md)'
   Type: monstrosity
   Size: Huge
   Alignment: unaligned
   ArmorClass: 17 (natural armor)
   HitPoints: 195 (17d12 + 85)
   Speed: 30 ft., burrow 20 ft.
+  DamageImmunities: cold, fire
+  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 11 (7200 XP)
   Strength: 24 (+7)
   Dexterity: 13 (+1)
   Constitution: 21 (+5)
   Intelligence: ' 4 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  DamageImmunities: cold, fire
-  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#remorhaz
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Remorhaz
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Remorhaz](hd_monsters_remorhaz.md)'
   AttributesDictionary: >+
     Name: Remorhaz
 
@@ -48222,28 +48223,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Sahuagin
+  AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
   Type: humanoid (sahuagin)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 12 (natural armor)
   HitPoints: 22 (4d8 + 4)
   Speed: 30 ft., swim 40 ft.
+  Skills: Perception +5
+  Senses: darkvision 120 ft., passive Perception 15
+  Languages: Sahuagin
+  Challenge: 1/2 (100 XP)
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: 12 (+1)
   Wisdom: 13 (+1)
   Charisma: ' 9 (-1)'
-  Skills: Perception +5
-  Senses: darkvision 120 ft., passive Perception 15
-  Languages: Sahuagin
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#sahuagin
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Sahuagin
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sahuagin](hd_monsters_sahuagin.md)'
   AttributesDictionary: >+
     Name: Sahuagin
 
@@ -48415,29 +48416,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Salamander
+  AltName: '[Salamandre](hd_monsters_salamandre.md)'
   Type: elemental
   Size: Large
   Alignment: neutral evil
   ArmorClass: 15 (natural armor)
   HitPoints: 90 (12d10 + 24)
   Speed: 30 ft.
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: fire
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Ignan
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 12 (+1)
-  DamageImmunities: fire
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Ignan
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#salamander
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Salamander
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Salamandre](hd_monsters_salamandre.md)'
   AttributesDictionary: >+
     Name: Salamander
 
@@ -48601,27 +48602,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Boar
+  AltName: '[Sanglier](hd_monsters_sanglier.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 11 (2d8 + 2)
   Speed: 40 ft.
+  Senses: passive Perception 9
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 13 (+1)
   Dexterity: 11 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 9
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#boar
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Boar
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sanglier](hd_monsters_sanglier.md)'
   AttributesDictionary: >+
     Name: Boar
 
@@ -48751,27 +48752,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Boar
+  AltName: '[Sanglier géant](hd_monsters_sanglier_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 42 (5d10 + 15)
   Speed: 40 ft.
+  Senses: passive Perception 8
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 7 (-2)'
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 8
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#giant-boar
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Boar
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sanglier géant](hd_monsters_sanglier_geant.md)'
   AttributesDictionary: >+
     Name: Giant Boar
 
@@ -48901,29 +48902,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Wereboar
+  AltName: '[Sanglier-garou](hd_monsters_sanglier_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), neutral evil
   ArmorClass: 10 in humanoid form, 11 (natural armor) in boar or hybrid form
   HitPoints: 78 (12d8 + 24)
   Speed: 30 ft. (40 ft. in boar form)
+  Skills: Perception +2
+  DamageImmunities: bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
+  Senses: passive Perception 12
+  Languages: Common (can't speak in boar form)
+  Challenge: 4 (1100 XP)
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: ' 8 (-1)'
-  Skills: Perception +2
-  DamageImmunities: bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't silvered
-  Senses: passive Perception 12
-  Languages: Common (can't speak in boar form)
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#wereboar
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Wereboar
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sanglier-garou](hd_monsters_sanglier_garou.md)'
   AttributesDictionary: >+
     Name: Wereboar
 
@@ -49089,28 +49090,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Satyr
+  AltName: '[Satyre](hd_monsters_satyre.md)'
   Type: fey
   Size: Medium
   Alignment: chaotic neutral
   ArmorClass: 14 (leather armor)
   HitPoints: 31 (7d8)
   Speed: 40 ft.
+  Skills: Perception +2, Performance +6, Stealth +5
+  Senses: passive Perception 12
+  Languages: Common, Elvish, Sylvan
+  Challenge: 1/2 (100 XP)
   Strength: 12 (+1)
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: 12 (+1)
   Wisdom: 10 (+0)
   Charisma: 14 (+2)
-  Skills: Perception +2, Performance +6, Stealth +5
-  Senses: passive Perception 12
-  Languages: Common, Elvish, Sylvan
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#satyr
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Satyr
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Satyre](hd_monsters_satyre.md)'
   AttributesDictionary: >+
     Name: Satyr
 
@@ -49264,27 +49265,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Scorpion
+  AltName: '[Scorpion](hd_monsters_scorpion.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 11 (natural armor)
   HitPoints: 1 (1d4 - 1)
   Speed: 10 ft.
+  Senses: blindsight 10 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 2 (-4)'
   Dexterity: 11 (+0)
   Constitution: ' 8 (-1)'
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 2 (-4)'
-  Senses: blindsight 10 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#scorpion
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Scorpion
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Scorpion](hd_monsters_scorpion.md)'
   AttributesDictionary: >+
     Name: Scorpion
 
@@ -49396,27 +49397,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Scorpion
+  AltName: '[Scorpion géant](hd_monsters_scorpion_geant.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 15 (natural armor)
   HitPoints: 52 (7d10 + 14)
   Speed: 40 ft.
+  Senses: blindsight 60 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 3 (700 XP)
   Strength: 15 (+2)
   Dexterity: 13 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 3 (-4)'
-  Senses: blindsight 60 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#giant-scorpion
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Scorpion
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Scorpion géant](hd_monsters_scorpion_geant.md)'
   AttributesDictionary: >+
     Name: Giant Scorpion
 
@@ -49546,27 +49547,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Constrictor Snake
+  AltName: '[Serpent constricteur](hd_monsters_serpent_constricteur.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 13 (2d10 + 2)
   Speed: 30 ft., swim 30 ft.
+  Senses: blindsight 10 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 15 (+2)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: blindsight 10 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#constrictor-snake
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Constrictor Snake
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent constricteur](hd_monsters_serpent_constricteur.md)'
   AttributesDictionary: >+
     Name: Constrictor Snake
 
@@ -49690,28 +49691,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Constrictor Snake
+  AltName: '[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 60 (8d12 + 8)
   Speed: 30 ft., swim 30 ft.
+  Skills: Perception +2
+  Senses: blindsight 10 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 19 (+4)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Skills: Perception +2
-  Senses: blindsight 10 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#giant-constrictor-snake
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Constrictor Snake
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)'
   AttributesDictionary: >+
     Name: Giant Constrictor Snake
 
@@ -49841,27 +49842,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Poisonous Snake
+  AltName: '[Serpent venimeux](hd_monsters_serpent_venimeux.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 13
   HitPoints: 2 (1d4)
   Speed: 30 ft., swim 30 ft.
+  Senses: blindsight 10 ft., passive Perception 10
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: ' 2 (-4)'
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Senses: blindsight 10 ft., passive Perception 10
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#poisonous-snake
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Poisonous Snake
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent venimeux](hd_monsters_serpent_venimeux.md)'
   AttributesDictionary: >+
     Name: Poisonous Snake
 
@@ -49973,28 +49974,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Poisonous Snake
+  AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 14
   HitPoints: 11 (2d8 + 2)
   Speed: 30 ft., swim 30 ft.
+  Skills: Perception +2
+  Senses: blindsight 10 ft., passive Perception 12
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 10 (+0)
   Dexterity: 18 (+4)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 3 (-4)'
-  Skills: Perception +2
-  Senses: blindsight 10 ft., passive Perception 12
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#giant-poisonous-snake
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Poisonous Snake
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)'
   AttributesDictionary: >+
     Name: Giant Poisonous Snake
 
@@ -50112,27 +50113,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Flying Snake
+  AltName: '[Serpent volant](hd_monsters_serpent_volant.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 14
   HitPoints: 5 (2d4)
   Speed: 30 ft., fly 60 ft., swim 30 ft.
+  Senses: blindsight 10 ft., passive Perception 11
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: ' 4 (-3)'
   Dexterity: 18 (+4)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 5 (-3)'
-  Senses: blindsight 10 ft., passive Perception 11
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#flying-snake
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Flying Snake
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Serpent volant](hd_monsters_serpent_volant.md)'
   AttributesDictionary: >+
     Name: Flying Snake
 
@@ -50256,28 +50257,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Ape
+  AltName: '[Singe géant](hd_monsters_singe_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 157 (15d12 + 60)
   Speed: 40 ft., climb 40 ft.
+  Skills: Athletics +9, Perception +4
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 7 (2900 XP)
   Strength: 23 (+6)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: ' 7 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Athletics +9, Perception +4
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 7 (2900 XP)
   Id: monsters_vo.md#giant-ape
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Ape
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Singe géant](hd_monsters_singe_geant.md)'
   AttributesDictionary: >+
     Name: Giant Ape
 
@@ -50413,32 +50414,32 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Solar
+  AltName: '[Solar](hd_monsters_solar.md)'
   Type: celestial
   Size: Large
   Alignment: lawful good
   ArmorClass: 21 (natural armor)
   HitPoints: 243 (18d10 + 144)
   Speed: 50 ft., fly 150 ft.
+  SavingThrows: Int +14, Wis +14, Cha +17
+  Skills: Perception +14
+  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: necrotic, poison
+  ConditionImmunities: charmed, exhaustion, frightened, poisoned
+  Senses: truesight 120 ft., passive Perception 24
+  Languages: all, telepathy 120 ft.
+  Challenge: 21 (33000 XP)
   Strength: 26 (+8)
   Dexterity: 22 (+6)
   Constitution: 26 (+8)
   Intelligence: 25 (+7)
   Wisdom: 25 (+7)
   Charisma: 30 (+10)
-  SavingThrows: Int +14, Wis +14, Cha +17
-  Skills: Perception +14
-  DamageImmunities: necrotic, poison
-  ConditionImmunities: charmed, exhaustion, frightened, poisoned
-  DamageResistances: radiant; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: truesight 120 ft., passive Perception 24
-  Languages: all, telepathy 120 ft.
-  Challenge: 21 (33000 XP)
   Id: monsters_vo.md#solar
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Solar
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Solar](hd_monsters_solar.md)'
   AttributesDictionary: >+
     Name: Solar
 
@@ -50688,30 +50689,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Specter
+  AltName: '[Spectre](hd_monsters_spectre.md)'
   Type: undead
   Size: Medium
   Alignment: chaotic evil
   ArmorClass: 12
   HitPoints: 22 (5d8)
   Speed: 0 ft., fly 50 ft. (hover)
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: necrotic, poison
+  ConditionImmunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: understands the languages it knew in life but can't speak
+  Challenge: 1 (200 XP)
   Strength: ' 1 (-5)'
   Dexterity: 14 (+2)
   Constitution: 11 (+0)
   Intelligence: 10 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  DamageImmunities: necrotic, poison
-  ConditionImmunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: understands the languages it knew in life but can't speak
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#specter
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Specter
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Spectre](hd_monsters_spectre.md)'
   AttributesDictionary: >+
     Name: Specter
 
@@ -50859,29 +50860,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Skeleton
+  AltName: '[Squelette](hd_monsters_squelette.md)'
   Type: undead
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 13 (armor scraps)
   HitPoints: 13 (2d8 + 4)
   Speed: 30 ft.
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, poisoned
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: understands the languages it knew in life but can't speak
+  Challenge: 1/4 (50 XP)
   Strength: 10 (+0)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, poisoned
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: understands the languages it knew in life but can't speak
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#skeleton
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Skeleton
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Squelette](hd_monsters_squelette.md)'
   AttributesDictionary: >+
     Name: Skeleton
 
@@ -51021,29 +51022,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Warhorse Skeleton
+  AltName: '[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)'
   Type: undead
   Size: Large
   Alignment: lawful evil
   ArmorClass: 13 (barding scraps)
   HitPoints: 22 (3d10 + 6)
   Speed: 60 ft.
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, poisoned
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 18 (+4)
   Dexterity: 12 (+1)
   Constitution: 15 (+2)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, poisoned
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#warhorse-skeleton
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Warhorse Skeleton
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)'
   AttributesDictionary: >+
     Name: Warhorse Skeleton
 
@@ -51171,29 +51172,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Minotaur Skeleton
+  AltName: '[Squelette minotaure](hd_monsters_squelette_minotaure.md)'
   Type: undead
   Size: Large
   Alignment: lawful evil
   ArmorClass: 12 (natural armor)
   HitPoints: 67 (9d10 + 18)
   Speed: 40 ft.
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, poisoned
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: understands Abyssal but can't speak
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 11 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 5 (-3)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, poisoned
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: understands Abyssal but can't speak
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#minotaur-skeleton
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Minotaur Skeleton
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Squelette minotaure](hd_monsters_squelette_minotaure.md)'
   AttributesDictionary: >+
     Name: Minotaur Skeleton
 
@@ -51345,27 +51346,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Stirge
+  AltName: '[Strige](hd_monsters_strige.md)'
   Type: beast
   Size: Tiny
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 2 (1d4)
   Speed: 10 ft., fly 40 ft.
+  Senses: darkvision 60 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 1/8 (25 XP)
   Strength: ' 4 (-3)'
   Dexterity: 16 (+3)
   Constitution: 11 (+0)
   Intelligence: ' 2 (-4)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 6 (-2)'
-  Senses: darkvision 60 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 1/8 (25 XP)
   Id: monsters_vo.md#stirge
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Stirge
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Strige](hd_monsters_strige.md)'
   AttributesDictionary: >+
     Name: Stirge
 
@@ -51477,29 +51478,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Succubus
+  AltName: '[Succube/Incube](hd_monsters_succubeincube.md)'
   Type: fiend (shapechanger)
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 15 (natural armor)
   HitPoints: 66 (12d8 + 12)
   Speed: 30 ft., fly 60 ft.
+  Skills: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+  DamageResistances: cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+  Senses: darkvision 60 ft., passive Perception 15
+  Languages: Abyssal, Common, Infernal, telepathy 60 ft.
+  Challenge: 4 (1100 XP)
   Strength: ' 8 (-1)'
   Dexterity: 17 (+3)
   Constitution: 13 (+1)
   Intelligence: 15 (+2)
   Wisdom: 12 (+1)
   Charisma: 20 (+5)
-  Skills: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-  DamageResistances: cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 15
-  Languages: Abyssal, Common, Infernal, telepathy 60 ft.
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#succubus
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Succubus
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Succube/Incube](hd_monsters_succubeincube.md)'
   AttributesDictionary: >+
     Name: Succubus
 
@@ -51659,28 +51660,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Treant
+  AltName: '[Sylvanien](hd_monsters_sylvanien.md)'
   Type: plant
   Size: Huge
   Alignment: chaotic good
   ArmorClass: 16 (natural armor)
   HitPoints: 138 (12d12 + 60)
   Speed: 30 ft.
+  DamageResistances: bludgeoning, piercing
+  Senses: passive Perception 13
+  Languages: Common, Druidic, Elvish, Sylvan
+  Challenge: 9 (5000 XP)
   Strength: 23 (+6)
   Dexterity: ' 8 (-1)'
   Constitution: 21 (+5)
   Intelligence: 12 (+1)
   Wisdom: 16 (+3)
   Charisma: 12 (+1)
-  DamageResistances: bludgeoning, piercing
-  Senses: passive Perception 13
-  Languages: Common, Druidic, Elvish, Sylvan
-  Challenge: 9 (5000 XP)
   Id: monsters_vo.md#treant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Treant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Sylvanien](hd_monsters_sylvanien.md)'
   AttributesDictionary: >+
     Name: Treant
 
@@ -51844,29 +51845,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Rug of Smothering
+  AltName: '[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)'
   Type: construct
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 33 (6d10)
   Speed: 10 ft.
+  DamageImmunities: poison, psychic
+  ConditionImmunities: blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 17 (+3)
   Dexterity: 14 (+2)
   Constitution: 10 (+0)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 3 (-4)'
   Charisma: ' 1 (-5)'
-  DamageImmunities: poison, psychic
-  ConditionImmunities: blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 6
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#rug-of-smothering
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Rug of Smothering
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)'
   AttributesDictionary: >+
     Name: Rug of Smothering
 
@@ -52014,30 +52015,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Tarrasque
+  AltName: '[Tarasque](hd_monsters_tarasque.md)'
   Type: monstrosity (titan)
   Size: Gargantuan
   Alignment: unaligned
   ArmorClass: 25 (natural armor)
   HitPoints: 676 (33d20 + 330)
   Speed: 40 ft.
-  Strength: 30 (+10)
-  Dexterity: 11 (+0)
-  Constitution: 30 (+10)
-  Intelligence: ' 3 (-4)'
-  Wisdom: 11 (+0)
-  Charisma: 11 (+0)
   SavingThrows: Int +5, Wis +9, Cha +9
   DamageImmunities: fire, poison; bludgeoning, piercing and slashing from nonmagical attacks
   ConditionImmunities: charmed, frightened, paralyzed, poisoned
   Senses: blindsight 120 ft., passive Perception 10
   Languages: '-'
   Challenge: 30 (155000 XP)
+  Strength: 30 (+10)
+  Dexterity: 11 (+0)
+  Constitution: 30 (+10)
+  Intelligence: ' 3 (-4)'
+  Wisdom: 11 (+0)
+  Charisma: 11 (+0)
   Id: monsters_vo.md#tarrasque
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Tarrasque
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tarasque](hd_monsters_tarasque.md)'
   AttributesDictionary: >+
     Name: Tarrasque
 
@@ -52281,31 +52282,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Shambling Mound
+  AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
   Type: plant
   Size: Large
   Alignment: unaligned
   ArmorClass: 15 (natural armor)
   HitPoints: 136 (16d10 + 48)
   Speed: 20 ft., swim 20 ft.
+  Skills: Stealth +2
+  DamageResistances: cold, fire
+  DamageImmunities: lightning
+  ConditionImmunities: blinded, deafened, exhaustion
+  Senses: blindsight 60 ft. (blind beyond this radius), passive Perception 10
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: ' 8 (-1)'
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  Skills: Stealth +2
-  DamageImmunities: lightning
-  ConditionImmunities: blinded, deafened, exhaustion
-  DamageResistances: cold, fire
-  Senses: blindsight 60 ft. (blind beyond this radius), passive Perception 10
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#shambling-mound
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Shambling Mound
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tertre errant](hd_monsters_tertre_errant.md)'
   AttributesDictionary: >+
     Name: Shambling Mound
 
@@ -52465,28 +52466,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Tiger
+  AltName: '[Tigre](hd_monsters_tigre.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 37 (5d10 + 10)
   Speed: 40 ft.
+  Skills: Perception +3, Stealth +6
+  Senses: darkvision 60 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 1 (200 XP)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 14 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +3, Stealth +6
-  Senses: darkvision 60 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#tiger
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Tiger
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tigre](hd_monsters_tigre.md)'
   AttributesDictionary: >+
     Name: Tiger
 
@@ -52634,28 +52635,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Saber-Toothed Tiger
+  AltName: '[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 12
   HitPoints: 52 (7d10 + 14)
   Speed: 40 ft.
+  Skills: Perception +3, Stealth +6
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 2 (450 XP)
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 15 (+2)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 8 (-1)'
-  Skills: Perception +3, Stealth +6
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#saber-toothed-tiger
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Saber-Toothed Tiger
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)'
   AttributesDictionary: >+
     Name: Saber-Toothed Tiger
 
@@ -52803,29 +52804,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Weretiger
+  AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
   Type: humanoid (human
   Size: Medium
   Alignment: shapechanger), neutral
   ArmorClass: 12
   HitPoints: 120 (16d8 + 48)
   Speed: 30 ft. (40 ft. in tiger form)
+  Skills: Perception +5, Stealth +4
+  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+  Senses: darkvision 60 ft., passive Perception 15
+  Languages: Common (can't speak in tiger form)
+  Challenge: 4 (1100 XP)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 16 (+3)
   Intelligence: 10 (+0)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: Perception +5, Stealth +4
-  DamageImmunities: bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-  Senses: darkvision 60 ft., passive Perception 15
-  Languages: Common (can't speak in tiger form)
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#weretiger
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Weretiger
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tigre-garou](hd_monsters_tigre_garou.md)'
   AttributesDictionary: >+
     Name: Weretiger
 
@@ -53015,29 +53016,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Grimlock
+  AltName: '[Torve](hd_monsters_torve.md)'
   Type: humanoid (grimlock)
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 11
   HitPoints: 11 (2d8 + 2)
   Speed: 30 ft.
+  Skills: Athletics +5, Perception +3, Stealth +3
+  ConditionImmunities: blinded
+  Senses: blindsight 30 ft. or 10 ft. while deafened ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 13
+  Languages: Undercommon
+  Challenge: 1/4 (50 XP)
   Strength: 16 (+3)
   Dexterity: 12 (+1)
   Constitution: 12 (+1)
   Intelligence: ' 9 (-1)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 6 (-2)'
-  Skills: Athletics +5, Perception +3, Stealth +3
-  ConditionImmunities: blinded
-  Senses: blindsight 30 ft. or 10 ft. while deafened ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 13
-  Languages: Undercommon
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#grimlock
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Grimlock
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Torve](hd_monsters_torve.md)'
   AttributesDictionary: >+
     Name: Grimlock
 
@@ -53185,31 +53186,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Invisible Stalker
+  AltName: '[Traqueur invisible](hd_monsters_traqueur_invisible.md)'
   Type: elemental
   Size: Medium
   Alignment: neutral
   ArmorClass: 14
   HitPoints: 104 (16d8 + 32)
   Speed: 50 ft., fly 50 ft. (hover)
+  Skills: Perception +8, Stealth +10
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+  Senses: darkvision 60 ft., passive Perception 18
+  Languages: Auran, understands Common but doesn't speak it
+  Challenge: 6 (2300 XP)
   Strength: 16 (+3)
   Dexterity: 19 (+4)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 15 (+2)
   Charisma: 11 (+0)
-  Skills: Perception +8, Stealth +10
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 18
-  Languages: Auran, understands Common but doesn't speak it
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#invisible-stalker
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Invisible Stalker
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Traqueur invisible](hd_monsters_traqueur_invisible.md)'
   AttributesDictionary: >+
     Name: Invisible Stalker
 
@@ -53369,27 +53370,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Triceratops
+  AltName: '[Tricératops](hd_monsters_triceratops.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 95 (10d12 + 30)
   Speed: 50 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 5 (1800 XP)
   Strength: 22 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 2 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 5 (-3)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#triceratops
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Triceratops
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tricératops](hd_monsters_triceratops.md)'
   AttributesDictionary: >+
     Name: Triceratops
 
@@ -53525,28 +53526,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Troll
+  AltName: '[Troll](hd_monsters_troll.md)'
   Type: giant
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 15 (natural armor)
   HitPoints: 84 (8d10 + 40)
   Speed: 30 ft.
+  Skills: Perception +2
+  Senses: darkvision 60 ft., passive Perception 12
+  Languages: Giant
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: 13 (+1)
   Constitution: 20 (+5)
   Intelligence: ' 7 (-2)'
   Wisdom: ' 9 (-1)'
   Charisma: ' 7 (-2)'
-  Skills: Perception +2
-  Senses: darkvision 60 ft., passive Perception 12
-  Languages: Giant
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#troll
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Troll
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Troll](hd_monsters_troll.md)'
   AttributesDictionary: >+
     Name: Troll
 
@@ -53700,28 +53701,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Tyrannosaurus Rex
+  AltName: '[Tyrannosaure](hd_monsters_tyrannosaure.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 136 (13d12 + 52)
   Speed: 50 ft.
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: '-'
+  Challenge: 8 (3900 XP)
   Strength: 25 (+7)
   Dexterity: 10 (+0)
   Constitution: 19 (+4)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 9 (-1)'
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: '-'
-  Challenge: 8 (3900 XP)
   Id: monsters_vo.md#tyrannosaurus-rex
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Tyrannosaurus Rex
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Tyrannosaure](hd_monsters_tyrannosaure.md)'
   AttributesDictionary: >+
     Name: Tyrannosaurus Rex
 
@@ -53857,30 +53858,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Vampire
+  AltName: '[Vampire](hd_monsters_vampire.md)'
   Type: undead (shapechanger)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 16 (natural armor)
   HitPoints: 144 (17d8 + 68)
   Speed: 30 ft.
-  Strength: 18 (+4)
-  Dexterity: 18 (+4)
-  Constitution: 18 (+4)
-  Intelligence: 17 (+3)
-  Wisdom: 15 (+2)
-  Charisma: 18 (+4)
   SavingThrows: Dex +9, Wis +7, Cha +9
   Skills: Perception +7, Stealth +9
   DamageResistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
   Senses: darkvision 120 ft., passive Perception 17
   Languages: the languages it knew in life
   Challenge: 13 (10000 XP)
+  Strength: 18 (+4)
+  Dexterity: 18 (+4)
+  Constitution: 18 (+4)
+  Intelligence: 17 (+3)
+  Wisdom: 15 (+2)
+  Charisma: 18 (+4)
   Id: monsters_vo.md#vampire
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Vampire
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vampire](hd_monsters_vampire.md)'
   AttributesDictionary: >+
     Name: Vampire
 
@@ -54136,30 +54137,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Vampire Spawn
+  AltName: '[Vampirien](hd_monsters_vampirien.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 15 (natural armor)
   HitPoints: 82 (11d8 + 33)
   Speed: 30 ft.
-  Strength: 16 (+3)
-  Dexterity: 16 (+3)
-  Constitution: 16 (+3)
-  Intelligence: 11 (+0)
-  Wisdom: 10 (+0)
-  Charisma: 12 (+1)
   SavingThrows: Dex +6, Wis +3
   Skills: Perception +3, Stealth +6
   DamageResistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
   Senses: darkvision 60 ft., passive Perception 13
   Languages: the languages it knew in life
   Challenge: 5 (1800 XP)
+  Strength: 16 (+3)
+  Dexterity: 16 (+3)
+  Constitution: 16 (+3)
+  Intelligence: 11 (+0)
+  Wisdom: 10 (+0)
+  Charisma: 12 (+1)
   Id: monsters_vo.md#vampire-spawn
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Vampire Spawn
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vampirien](hd_monsters_vampirien.md)'
   AttributesDictionary: >+
     Name: Vampire Spawn
 
@@ -54355,30 +54356,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Gray Ooze
+  AltName: '[Vase grise](hd_monsters_vase_grise.md)'
   Type: ooze
   Size: Medium
   Alignment: unaligned
   ArmorClass: 8
   HitPoints: 22 (3d8 + 9)
   Speed: 10 ft., climb 10 ft.
+  Skills: Stealth +2
+  DamageResistances: acid, cold, fire
+  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
+  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 8
+  Languages: '-'
+  Challenge: 1/2 (100 XP)
   Strength: 12 (+1)
   Dexterity: ' 6 (-2)'
   Constitution: 16 (+3)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 6 (-2)'
   Charisma: ' 2 (-4)'
-  Skills: Stealth +2
-  ConditionImmunities: blinded, charmed, deafened, exhaustion, frightened, prone
-  DamageResistances: acid, cold, fire
-  Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 8
-  Languages: '-'
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#gray-ooze
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Gray Ooze
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vase grise](hd_monsters_vase_grise.md)'
   AttributesDictionary: >+
     Name: Gray Ooze
 
@@ -54538,28 +54539,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Vulture
+  AltName: '[Vautour](hd_monsters_vautour.md)'
   Type: beast
   Size: Medium
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 5 (1d8 + 1)
   Speed: 10 ft., fly 50 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: '-'
+  Challenge: 0 (10 XP)
   Strength: ' 7 (-2)'
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 4 (-3)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: '-'
-  Challenge: 0 (10 XP)
   Id: monsters_vo.md#vulture
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Vulture
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vautour](hd_monsters_vautour.md)'
   AttributesDictionary: >+
     Name: Vulture
 
@@ -54695,28 +54696,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Vulture
+  AltName: '[Vautour géant](hd_monsters_vautour_geant.md)'
   Type: beast
   Size: Large
   Alignment: neutral evil
   ArmorClass: 10
   HitPoints: 22 (3d10 + 6)
   Speed: 10 ft., fly 60 ft.
+  Skills: Perception +3
+  Senses: passive Perception 13
+  Languages: understands Common but can't speak
+  Challenge: 1 (200 XP)
   Strength: 15 (+2)
   Dexterity: 10 (+0)
   Constitution: 15 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: passive Perception 13
-  Languages: understands Common but can't speak
-  Challenge: 1 (200 XP)
   Id: monsters_vo.md#giant-vulture
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Vulture
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vautour géant](hd_monsters_vautour_geant.md)'
   AttributesDictionary: >+
     Name: Giant Vulture
 
@@ -54870,28 +54871,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Purple Worm
+  AltName: '[Ver pourpre](hd_monsters_ver_pourpre.md)'
   Type: monstrosity
   Size: Gargantuan
   Alignment: unaligned
   ArmorClass: 18 (natural armor)
   HitPoints: 247 (15d20 + 90)
   Speed: 50 ft., burrow 30 ft.
+  SavingThrows: Con +11, Wis +4
+  Senses: blindsight 30 ft., tremorsense 60 ft., passive Perception 9
+  Languages: '-'
+  Challenge: 15 (13000 XP)
   Strength: 28 (+9)
   Dexterity: ' 7 (-2)'
   Constitution: 22 (+6)
   Intelligence: ' 1 (-5)'
   Wisdom: ' 8 (-1)'
   Charisma: ' 4 (-3)'
-  SavingThrows: Con +11, Wis +4
-  Senses: blindsight 30 ft., tremorsense 60 ft., passive Perception 9
-  Languages: '-'
-  Challenge: 15 (13000 XP)
   Id: monsters_vo.md#purple-worm
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Purple Worm
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Ver pourpre](hd_monsters_ver_pourpre.md)'
   AttributesDictionary: >+
     Name: Purple Worm
 
@@ -55039,28 +55040,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Wyvern
+  AltName: '[Vouivre](hd_monsters_vouivre.md)'
   Type: dragon
   Size: Large
   Alignment: unaligned
   ArmorClass: 13 (natural armor)
   HitPoints: 110 (13d10 + 39)
   Speed: 20 ft., fly 80 ft.
+  Skills: Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: '-'
+  Challenge: 6 (2300 XP)
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 16 (+3)
   Intelligence: ' 5 (-3)'
   Wisdom: 12 (+1)
   Charisma: ' 6 (-2)'
-  Skills: Perception +4
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: '-'
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#wyvern
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Wyvern
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vouivre](hd_monsters_vouivre.md)'
   AttributesDictionary: >+
     Name: Wyvern
 
@@ -55208,31 +55209,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Vrock
+  AltName: '[Vrock](hd_monsters_vrock.md)'
   Type: fiend (demon)
   Size: Large
   Alignment: chaotic evil
   ArmorClass: 15 (natural armor)
   HitPoints: 104 (11d10 + 44)
   Speed: 40 ft., fly 60 ft.
+  SavingThrows: Dex +5, Wis +4, Cha +2
+  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: poisoned
+  Senses: darkvision 120 ft., passive Perception 11
+  Languages: Abyssal, telepathy 120 ft.
+  Challenge: 6 (2300 XP)
   Strength: 17 (+3)
   Dexterity: 15 (+2)
   Constitution: 18 (+4)
   Intelligence: ' 8 (-1)'
   Wisdom: 13 (+1)
   Charisma: ' 8 (-1)'
-  SavingThrows: Dex +5, Wis +4, Cha +2
-  DamageImmunities: poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 120 ft., passive Perception 11
-  Languages: Abyssal, telepathy 120 ft.
-  Challenge: 6 (2300 XP)
   Id: monsters_vo.md#vrock
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Vrock
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vrock](hd_monsters_vrock.md)'
   AttributesDictionary: >+
     Name: Vrock
 
@@ -55416,28 +55417,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Veteran
+  AltName: '[Vétéran](hd_monsters_veteran.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 17 (splint)
   HitPoints: 58 (9d8 + 18)
   Speed: 30 ft.
+  Skills: Athletics +5, Perception +2
+  Senses: passive Perception 12
+  Languages: any one language (usually Common)
+  Challenge: 3 (700 XP)
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 14 (+2)
   Intelligence: 10 (+0)
   Wisdom: 11 (+0)
   Charisma: 10 (+0)
-  Skills: Athletics +5, Perception +2
-  Senses: passive Perception 12
-  Languages: any one language (usually Common)
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#veteran
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Veteran
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Vétéran](hd_monsters_veteran.md)'
   AttributesDictionary: >+
     Name: Veteran
 
@@ -55585,28 +55586,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Worg
+  AltName: '[Worg](hd_monsters_worg.md)'
   Type: monstrosity
   Size: Large
   Alignment: neutral evil
   ArmorClass: 13 (natural armor)
   HitPoints: 26 (4d10 + 4)
   Speed: 50 ft.
+  Skills: Perception +4
+  Senses: darkvision 60 ft., passive Perception 14
+  Languages: Goblin, Worg
+  Challenge: 1/2 (100 XP)
   Strength: 16 (+3)
   Dexterity: 13 (+1)
   Constitution: 13 (+1)
   Intelligence: ' 7 (-2)'
   Wisdom: 11 (+0)
   Charisma: ' 8 (-1)'
-  Skills: Perception +4
-  Senses: darkvision 60 ft., passive Perception 14
-  Languages: Goblin, Worg
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#worg
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Worg
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Worg](hd_monsters_worg.md)'
   AttributesDictionary: >+
     Name: Worg
 
@@ -55736,29 +55737,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Xorn
+  AltName: '[Xorn](hd_monsters_xorn.md)'
   Type: elemental
   Size: Medium
   Alignment: neutral
   ArmorClass: 19 (natural armor)
   HitPoints: 73 (7d8 + 42)
   Speed: 20 ft., burrow 20 ft.
+  Skills: Perception +6, Stealth +3
+  DamageResistances: piercing and slashing from nonmagical attacks that aren't adamantine
+  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 16
+  Languages: Terran
+  Challenge: 5 (1800 XP)
   Strength: 17 (+3)
   Dexterity: 10 (+0)
   Constitution: 22 (+6)
   Intelligence: 11 (+0)
   Wisdom: 10 (+0)
   Charisma: 11 (+0)
-  Skills: Perception +6, Stealth +3
-  DamageResistances: piercing and slashing from nonmagical attacks that aren't adamantine
-  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 16
-  Languages: Terran
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#xorn
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Xorn
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Xorn](hd_monsters_xorn.md)'
   AttributesDictionary: >+
     Name: Xorn
 
@@ -55924,30 +55925,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Zombie
+  AltName: '[Zombi](hd_monsters_zombi.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 8
   HitPoints: 22 (3d8 + 9)
   Speed: 20 ft.
-  Strength: 13 (+1)
-  Dexterity: ' 6 (-2)'
-  Constitution: 16 (+3)
-  Intelligence: ' 3 (-4)'
-  Wisdom: ' 6 (-2)'
-  Charisma: ' 5 (-3)'
   SavingThrows: Wis +0
   DamageImmunities: poison
   ConditionImmunities: poisoned
   Senses: darkvision 60 ft., passive Perception 8
   Languages: understands the languages it knew in life but can't speak
   Challenge: 1/4 (50 XP)
+  Strength: 13 (+1)
+  Dexterity: ' 6 (-2)'
+  Constitution: 16 (+3)
+  Intelligence: ' 3 (-4)'
+  Wisdom: ' 6 (-2)'
+  Charisma: ' 5 (-3)'
   Id: monsters_vo.md#zombie
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Zombie
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Zombi](hd_monsters_zombi.md)'
   AttributesDictionary: >+
     Name: Zombie
 
@@ -56089,30 +56090,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Ogre Zombie
+  AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
   Type: undead
   Size: Large
   Alignment: neutral evil
   ArmorClass: 8
   HitPoints: 85 (9d10 + 36)
   Speed: 30 ft.
-  Strength: 19 (+4)
-  Dexterity: ' 6 (-2)'
-  Constitution: 18 (+4)
-  Intelligence: ' 3 (-4)'
-  Wisdom: ' 6 (-2)'
-  Charisma: ' 5 (-3)'
   SavingThrows: Wis +0
   DamageImmunities: poison
   ConditionImmunities: poisoned
   Senses: darkvision 60 ft., passive Perception 8
   Languages: understands Common and Giant but can't speak
   Challenge: 2 (450 XP)
+  Strength: 19 (+4)
+  Dexterity: ' 6 (-2)'
+  Constitution: 18 (+4)
+  Intelligence: ' 3 (-4)'
+  Wisdom: ' 6 (-2)'
+  Charisma: ' 5 (-3)'
   Id: monsters_vo.md#ogre-zombie
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Ogre Zombie
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Zombi ogre](hd_monsters_zombi_ogre.md)'
   AttributesDictionary: >+
     Name: Ogre Zombie
 
@@ -56254,30 +56255,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Wraith
+  AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
   Type: undead
   Size: Medium
   Alignment: neutral evil
   ArmorClass: 13
   HitPoints: 67 (9d8 + 27)
   Speed: 0 ft., fly 60 ft. (hover)
+  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: necrotic, poison
+  ConditionImmunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+  Senses: darkvision 60 ft., passive Perception 12
+  Languages: the languages it knew in life
+  Challenge: 5 (1800 XP)
   Strength: ' 6 (-2)'
   Dexterity: 16 (+3)
   Constitution: 16 (+3)
   Intelligence: 12 (+1)
   Wisdom: 14 (+2)
   Charisma: 15 (+2)
-  DamageImmunities: necrotic, poison
-  ConditionImmunities: charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
-  DamageResistances: acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: darkvision 60 ft., passive Perception 12
-  Languages: the languages it knew in life
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#wraith
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Wraith
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Âme en peine](hd_monsters_ame_en_peine.md)'
   AttributesDictionary: >+
     Name: Wraith
 
@@ -56431,28 +56432,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Scout
+  AltName: '[Éclaireur](hd_monsters_eclaireur.md)'
   Type: humanoid (any race)
   Size: Medium
   Alignment: any alignment
   ArmorClass: 13 (leather armor)
   HitPoints: 16 (3d8 + 3)
   Speed: 30 ft.
+  Skills: Nature +4, Perception +5, Stealth +6, Survival +5
+  Senses: passive Perception 15
+  Languages: any one language (usually Common)
+  Challenge: 1/2 (100 XP)
   Strength: 11 (+0)
   Dexterity: 14 (+2)
   Constitution: 12 (+1)
   Intelligence: 11 (+0)
   Wisdom: 13 (+1)
   Charisma: 11 (+0)
-  Skills: Nature +4, Perception +5, Stealth +6, Survival +5
-  Senses: passive Perception 15
-  Languages: any one language (usually Common)
-  Challenge: 1/2 (100 XP)
   Id: monsters_vo.md#scout
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Scout
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Éclaireur](hd_monsters_eclaireur.md)'
   AttributesDictionary: >+
     Name: Scout
 
@@ -56600,29 +56601,29 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Efreeti
+  AltName: '[Éfrit](hd_monsters_efrit.md)'
   Type: elemental
   Size: Large
   Alignment: lawful evil
   ArmorClass: 17 (natural armor)
   HitPoints: 200 (16d10 + 112)
   Speed: 40 ft., fly 60 ft.
+  SavingThrows: Int +7, Wis +6, Cha +7
+  DamageImmunities: fire
+  Senses: darkvision 120 ft., passive Perception 12
+  Languages: Ignan
+  Challenge: 11 (7200 XP)
   Strength: 22 (+6)
   Dexterity: 12 (+1)
   Constitution: 24 (+7)
   Intelligence: 16 (+3)
   Wisdom: 15 (+2)
   Charisma: 16 (+3)
-  SavingThrows: Int +7, Wis +6, Cha +7
-  DamageImmunities: fire
-  Senses: darkvision 120 ft., passive Perception 12
-  Languages: Ignan
-  Challenge: 11 (7200 XP)
   Id: monsters_vo.md#efreeti
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Efreeti
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Éfrit](hd_monsters_efrit.md)'
   AttributesDictionary: >+
     Name: Efreeti
 
@@ -56800,27 +56801,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Elk
+  AltName: '[Élan](hd_monsters_elan.md)'
   Type: beast
   Size: Large
   Alignment: unaligned
   ArmorClass: 10
   HitPoints: 13 (2d10 + 2)
   Speed: 50 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 1/4 (50 XP)
   Strength: 16 (+3)
   Dexterity: 10 (+0)
   Constitution: 12 (+1)
   Intelligence: ' 2 (-4)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 1/4 (50 XP)
   Id: monsters_vo.md#elk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Elk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élan](hd_monsters_elan.md)'
   AttributesDictionary: >+
     Name: Elk
 
@@ -56956,28 +56957,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Giant Elk
+  AltName: '[Élan géant](hd_monsters_elan_geant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 14 (natural armor)
   HitPoints: 42 (5d12 + 10)
   Speed: 60 ft.
+  Skills: Perception +4
+  Senses: passive Perception 14
+  Languages: Giant Elk understands Common, Elvish, and Sylvan but can't speak them
+  Challenge: 2 (450 XP)
   Strength: 19 (+4)
   Dexterity: 16 (+3)
   Constitution: 14 (+2)
   Intelligence: ' 7 (-2)'
   Wisdom: 14 (+2)
   Charisma: 10 (+0)
-  Skills: Perception +4
-  Senses: passive Perception 14
-  Languages: Giant Elk understands Common, Elvish, and Sylvan but can't speak them
-  Challenge: 2 (450 XP)
   Id: monsters_vo.md#giant-elk
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Giant Elk
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élan géant](hd_monsters_elan_geant.md)'
   AttributesDictionary: >+
     Name: Giant Elk
 
@@ -57119,30 +57120,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Air Elemental
+  AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
   Type: elemental
   Size: Large
   Alignment: neutral
   ArmorClass: 15
   HitPoints: 90 (12d10 + 24)
   Speed: 0 ft., fly 90 ft. (hover)
+  DamageResistances: lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Auran
+  Challenge: 5 (1800 XP)
   Strength: 14 (+2)
   Dexterity: 20 (+5)
   Constitution: 14 (+2)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 6 (-2)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-  DamageResistances: lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Auran
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#air-elemental
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Air Elemental
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)"
   AttributesDictionary: >+
     Name: Air Elemental
 
@@ -57296,30 +57297,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Water Elemental
+  AltName: "[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)"
   Type: elemental
   Size: Large
   Alignment: neutral
   ArmorClass: 14 (natural armor)
   HitPoints: 114 (12d10 + 48)
   Speed: 30 ft., swim 90 ft.
+  DamageResistances: acid; bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Aquan
+  Challenge: 5 (1800 XP)
   Strength: 18 (+4)
   Dexterity: 14 (+2)
   Constitution: 18 (+4)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 8 (-1)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-  DamageResistances: acid; bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Aquan
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#water-elemental
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Water Elemental
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: "[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)"
   AttributesDictionary: >+
     Name: Water Elemental
 
@@ -57479,30 +57480,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Earth Elemental
+  AltName: '[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)'
   Type: elemental
   Size: Large
   Alignment: neutral
   ArmorClass: 17 (natural armor)
   HitPoints: 126 (12d10 + 60)
   Speed: 30 ft., burrow 30 ft.
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: poison
+  ConditionImmunities: exhaustion, paralyzed, petrified, poisoned, unconscious
+  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+  Languages: Terran
+  Challenge: 5 (1800 XP)
   Strength: 20 (+5)
   Dexterity: ' 8 (-1)'
   Constitution: 20 (+5)
   Intelligence: ' 5 (-3)'
   Wisdom: 10 (+0)
   Charisma: ' 5 (-3)'
-  DamageImmunities: poison
-  ConditionImmunities: exhaustion, paralyzed, petrified, poisoned, unconscious
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., tremorsense 60 ft., passive Perception 10
-  Languages: Terran
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#earth-elemental
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Earth Elemental
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)'
   AttributesDictionary: >+
     Name: Earth Elemental
 
@@ -57660,30 +57661,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Fire Elemental
+  AltName: '[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)'
   Type: elemental
   Size: Large
   Alignment: neutral
   ArmorClass: 13
   HitPoints: 102 (12d10 + 36)
   Speed: 50 ft.
+  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
+  DamageImmunities: fire, poison
+  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+  Senses: darkvision 60 ft., passive Perception 10
+  Languages: Ignan
+  Challenge: 5 (1800 XP)
   Strength: 10 (+0)
   Dexterity: 17 (+3)
   Constitution: 16 (+3)
   Intelligence: ' 6 (-2)'
   Wisdom: 10 (+0)
   Charisma: ' 7 (-2)'
-  DamageImmunities: fire, poison
-  ConditionImmunities: exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
-  DamageResistances: bludgeoning, piercing, and slashing from nonmagical attacks
-  Senses: darkvision 60 ft., passive Perception 10
-  Languages: Ignan
-  Challenge: 5 (1800 XP)
   Id: monsters_vo.md#fire-elemental
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Fire Elemental
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)'
   AttributesDictionary: >+
     Name: Fire Elemental
 
@@ -57843,27 +57844,27 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Elephant
+  AltName: '[Éléphant](hd_monsters_elephant.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 76 (8d12 + 24)
   Speed: 40 ft.
+  Senses: passive Perception 10
+  Languages: '-'
+  Challenge: 4 (1100 XP)
   Strength: 22 (+6)
   Dexterity: ' 9 (-1)'
   Constitution: 17 (+3)
   Intelligence: ' 3 (-4)'
   Wisdom: 11 (+0)
   Charisma: ' 6 (-2)'
-  Senses: passive Perception 10
-  Languages: '-'
-  Challenge: 4 (1100 XP)
   Id: monsters_vo.md#elephant
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Elephant
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Éléphant](hd_monsters_elephant.md)'
   AttributesDictionary: >+
     Name: Elephant
 
@@ -57999,28 +58000,28 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Killer Whale
+  AltName: '[Épaulard](hd_monsters_epaulard.md)'
   Type: beast
   Size: Huge
   Alignment: unaligned
   ArmorClass: 12 (natural armor)
   HitPoints: 90 (12d12 + 12)
   Speed: 0 ft., swim 60 ft.
+  Skills: Perception +3
+  Senses: blindsight 120 ft., passive Perception 13
+  Languages: '-'
+  Challenge: 3 (700 XP)
   Strength: 19 (+4)
   Dexterity: 10 (+0)
   Constitution: 13 (+1)
   Intelligence: ' 3 (-4)'
   Wisdom: 12 (+1)
   Charisma: ' 7 (-2)'
-  Skills: Perception +3
-  Senses: blindsight 120 ft., passive Perception 13
-  Languages: '-'
-  Challenge: 3 (700 XP)
   Id: monsters_vo.md#killer-whale
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Killer Whale
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Épaulard](hd_monsters_epaulard.md)'
   AttributesDictionary: >+
     Name: Killer Whale
 
@@ -58162,30 +58163,30 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Flying Sword
+  AltName: '[Épée volante](hd_monsters_epee_volante.md)'
   Type: construct
   Size: Small
   Alignment: unaligned
   ArmorClass: 17 (natural armor)
   HitPoints: 17 (5d6)
   Speed: 0 ft., fly 50 ft. (hover)
-  Strength: 12 (+1)
-  Dexterity: 15 (+2)
-  Constitution: 11 (+0)
-  Intelligence: ' 1 (-5)'
-  Wisdom: ' 5 (-3)'
-  Charisma: ' 1 (-5)'
   SavingThrows: Dex +4
   DamageImmunities: poison, psychic
   ConditionImmunities: blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
   Senses: blindsight 60 ft. ([blind](srd_conditions_blinded.md) beyond this radius), passive Perception 7
   Languages: '-'
   Challenge: 1/4 (50 XP)
+  Strength: 12 (+1)
+  Dexterity: 15 (+2)
+  Constitution: 11 (+0)
+  Intelligence: ' 1 (-5)'
+  Wisdom: ' 5 (-3)'
+  Charisma: ' 1 (-5)'
   Id: monsters_vo.md#flying-sword
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Flying Sword
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Épée volante](hd_monsters_epee_volante.md)'
   AttributesDictionary: >+
     Name: Flying Sword
 
@@ -58333,31 +58334,31 @@ SubItems:
 
 - !MonsterItem
   Family: MonsterVO
+  Name: Erinyes
+  AltName: '[Érinye](hd_monsters_erinye.md)'
   Type: fiend (devil)
   Size: Medium
   Alignment: lawful evil
   ArmorClass: 18 (plate)
   HitPoints: 153 (18d8 + 72)
   Speed: 30 ft., fly 60 ft.
+  SavingThrows: Dex +7, Con +8, Wis +6, Cha +8
+  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+  DamageImmunities: fire, poison
+  ConditionImmunities: poisoned
+  Senses: truesight 120 ft., passive Perception 12
+  Languages: Infernal, telepathy 120 ft.
+  Challenge: 12 (8400 XP)
   Strength: 18 (+4)
   Dexterity: 16 (+3)
   Constitution: 18 (+4)
   Intelligence: 14 (+2)
   Wisdom: 14 (+2)
   Charisma: 18 (+4)
-  SavingThrows: Dex +7, Con +8, Wis +6, Cha +8
-  DamageImmunities: fire, poison
-  ConditionImmunities: poisoned
-  DamageResistances: cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-  Senses: truesight 120 ft., passive Perception 12
-  Languages: Infernal, telepathy 120 ft.
-  Challenge: 12 (8400 XP)
   Id: monsters_vo.md#erinyes
   ParentLink: monsters_vo.md#monsters-npc-and-animals
-  Name: Erinyes
   ParentName: Monsters, NPC and Animals
   NameLevel: 1
-  AltName: '[Érinye](hd_monsters_erinye.md)'
   AttributesDictionary: >+
     Name: Erinyes
 
@@ -58542,7 +58543,6 @@ SubItems:
 Id: monsters_vo.md#monsters-npc-and-animals
 RootId: monsters_vo.md
 ParentLink: index.md
-Name: Monsters, NPC and Animals
 ParentName: SRD
 NameLevel: 1
 AltName: '[Créatures](hd_monsters.md)'
