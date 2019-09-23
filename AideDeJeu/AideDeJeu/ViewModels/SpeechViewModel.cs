@@ -226,10 +226,11 @@ namespace AideDeJeu.ViewModels
                     {
                         var par = blockpar as Markdig.Syntax.ParagraphBlock;
                         var blockPhrase = CreateFormatted(par.Inline);
-                        phrase += blockPhrase;
+                        phrase += blockPhrase + " ";
                     }
-                    table += phrase;
+                    table += phrase + " ";
                 }
+                table += "\n";
             }
 
             return table;
