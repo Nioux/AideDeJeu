@@ -7,6 +7,7 @@
 - Source: (LDM p35)(TOB p31)
 - TOB: Bagiennik
 -  Aberration de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9m, nage 12m

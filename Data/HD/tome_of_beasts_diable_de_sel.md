@@ -7,6 +7,7 @@
 - Source: (LDM p110)(TOB p113)
 - TOB: Salt Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
 - **Vitesse** 9m

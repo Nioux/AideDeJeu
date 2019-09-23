@@ -7,6 +7,7 @@
 - Source: (LDM p29)(TOB p147)
 - TOB: Dragonleaf Tree
 -  Plante de Grande taille (G), non alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 1,50m

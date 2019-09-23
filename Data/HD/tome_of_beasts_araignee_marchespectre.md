@@ -7,6 +7,7 @@
 - Source: (LDM p27)(TOB p361)
 - TOB: Ghostwalk Spider
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
+- **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 15
 - **Points de vie** 119 (14d10+42)
 - **Vitesse** 15 m, escalade 15 m

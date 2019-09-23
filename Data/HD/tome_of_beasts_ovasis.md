@@ -7,6 +7,7 @@
 - Source: (LDM p336)(TOB p310)
 - TOB: Oozasis
 -  Vase de taille Gigantesque (Gig), non alignée
+- **Terrain** Désert chaud, Mangrove / Marécage
 - **Classe d'armure** 7
 - **Points de vie** 217 (14d20+70)
 - **Vitesse** 6 m, escalade 6 m, nage 6 m

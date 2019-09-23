@@ -7,6 +7,7 @@
 - Source: (LDM p392)(TOB p394)
 - TOB: Ushabti
 -  Créature artificielle de Grande taille (G), non alignée
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 105 (10d10+50)
 - **Vitesse** 9m

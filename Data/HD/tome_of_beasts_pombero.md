@@ -7,6 +7,7 @@
 - Source: (LDM p339)(TOB p313)
 - TOB: Pombero
 -  Fée de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9m

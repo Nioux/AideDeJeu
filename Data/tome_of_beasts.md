@@ -92,6 +92,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p9)(TOB p9)<!--/Source-->
 - TOB: <!--AltName-->Nihilethic Zombie<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (3d8+9)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, nage 9m<!--/Speed-->
@@ -221,6 +222,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p13)(TOB p15)<!--/Source-->
 - TOB: <!--AltName-->Alseid<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->49 (9d8+9)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -291,6 +293,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p14)(TOB p300)<!--/Source-->
 - TOB: <!--AltName-->Deathcap Myconid<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -326,6 +329,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p15)(TOB p16)<!--/Source-->
 - TOB: <!--AltName-->Amphiptere<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (8d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, escalade 6 m, vol 18m, nage 6m<!--/Speed-->
@@ -413,6 +417,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p18)(TOB p19)<!--/Source-->
 - TOB: <!--AltName-->Angatra<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d8+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15m<!--/Speed-->
@@ -545,6 +550,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p21)(TOB p24)<!--/Source-->
 - TOB: <!--AltName-->Anubian<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -582,6 +588,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p22)(TOB p315)<!--/Source-->
 - TOB: <!--AltName-->Putrid Haunt<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -650,6 +657,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p24)(TOB p365)<!--/Source-->
 - TOB: <!--AltName-->Spider of Leng<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->144 (17d10+51)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 6 m<!--/Speed-->
@@ -703,6 +711,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p25)(TOB p364)<!--/Source-->
 - TOB: <!--AltName-->Sand Spider<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Littoral, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d10+28)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m 
@@ -741,6 +750,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p26)(TOB p362)<!--/Source-->
 - TOB: <!--AltName-->J'Ba Fofi Spider<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d10+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m<!--/Speed-->
@@ -776,6 +786,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p27)(TOB p361)<!--/Source-->
 - TOB: <!--AltName-->Ghostwalk Spider<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, escalade 15 m<!--/Speed-->
@@ -820,6 +831,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p28)(TOB p366)<!--/Source-->
 - TOB: <!--AltName-->Spider Thief<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d6+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 6 m<!--/Speed-->
@@ -859,6 +871,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p29)(TOB p147)<!--/Source-->
 - TOB: <!--AltName-->Dragonleaf Tree<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50m<!--/Speed-->
@@ -894,6 +907,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p30)(TOB p200)<!--/Source-->
 - TOB: <!--AltName-->Feyward Tree<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->94 (9d12+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -980,6 +994,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p32)(TOB p27)<!--/Source-->
 - TOB: <!--AltName-->Asanbosam<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m, escalade 4,50m<!--/Speed-->
@@ -1014,6 +1029,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p33)(TOB p238)<!--/Source-->
 - TOB: <!--AltName-->Gray Thirster<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->39 (6d8+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -1051,6 +1067,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p34)(TOB p273)<!--/Source-->
 - TOB: <!--AltName-->Library Automaton<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -1083,6 +1100,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p35)(TOB p31)<!--/Source-->
 - TOB: <!--AltName-->Bagiennik<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m, nage 12m<!--/Speed-->
@@ -1151,6 +1169,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p37)(TOB p34)<!--/Source-->
 - TOB: <!--AltName-->Behtu<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d6+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, escalade6m<!--/Speed-->
@@ -1185,6 +1204,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p38)(TOB p35)<!--/Source-->
 - TOB: <!--AltName-->Beli<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d6+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m, vol 9m<!--/Speed-->
@@ -1228,6 +1248,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p39)(TOB p159)<!--/Source-->
 - TOB: <!--AltName-->Drowned Maiden<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (20d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 12 m<!--/Speed-->
@@ -1271,6 +1292,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p40)(TOB p36)<!--/Source-->
 - TOB: <!--AltName-->Bereginyas<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->70 (20d4+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, vol 18m<!--/Speed-->
@@ -1303,6 +1325,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p41)(TOB p345)<!--/Source-->
 - TOB: <!--AltName-->Shadow Beast<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->135 (18d8+54)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 12m (vol stationnaire)<!--/Speed-->
@@ -1348,6 +1371,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p42)(TOB p37)<!--/Source-->
 - TOB: <!--AltName-->Blemmyes<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d10+80)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -1382,6 +1406,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p43)(TOB p38)<!--/Source-->
 - TOB: <!--AltName-->Boloti<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d4+28)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, nage 18m<!--/Speed-->
@@ -1422,6 +1447,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: <!--Source-->(LDM p44)(TOB p406)<!--/Source-->
 - TOB: <!--AltName-->Water Leaper<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d10+26)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 15 m, nage 12 m<!--/Speed-->
@@ -1454,11 +1480,12 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Avatar De Borée<!--/Name-->
+# <!--Name-->Avatar de Borée<!--/Name-->
 
 - Source: <!--Source-->(LDM p45)(TOB p42)<!--/Source-->
 - TOB: <!--AltName-->Avatar of Boreas<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (métamorphe) (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d8+96)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15m, vol 36m<!--/Speed-->
@@ -1704,6 +1731,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p51)(TOB p50)<!--/Source-->
 - TOB: <!--AltName-->Cactid<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76(8d10+32)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50m<!--/Speed-->
@@ -1738,6 +1766,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p52)(TOB p51)<!--/Source-->
 - TOB: <!--AltName-->Cambium<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->264 (23d10+138)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -1791,6 +1820,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p53)(TOB p120)<!--/Source-->
 - TOB: <!--AltName-->Dogmole<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->71 (11d8+22)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 3 m, nage 3 m<!--/Speed-->
@@ -1824,6 +1854,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p54)(TOB p121)<!--/Source-->
 - TOB: <!--AltName-->Dogmole Juggernaut<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de chaînes)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 3 m, nage 3 m<!--/Speed-->
@@ -1862,6 +1893,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p55)(TOB p325)<!--/Source-->
 - TOB: <!--AltName-->Redcap<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -2031,6 +2063,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p59)(TOB p166)<!--/Source-->
 - TOB: <!--AltName-->Eel Hound<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 12 m<!--/Speed-->
@@ -2139,6 +2172,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p62)(TOB p57)<!--/Source-->
 - TOB: <!--AltName-->Chronalmental<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non aligné<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -2211,6 +2245,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p64)(TOB p229)<!--/Source-->
 - TOB: <!--AltName-->Gnarljak<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d6+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -2283,6 +2318,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p66)(TOB p314)<!--/Source-->
 - TOB: <!--AltName-->Possessed Pillar<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -2449,6 +2485,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p70)(TOB p208)<!--/Source-->
 - TOB: <!--AltName-->Garroter Crab<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d4+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 6 m<!--/Speed-->
@@ -2478,6 +2515,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p71)(TOB p40)<!--/Source-->
 - TOB: <!--AltName-->Bone Crab<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d6+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 3m<!--/Speed-->
@@ -2517,6 +2555,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p72)(TOB p228)<!--/Source-->
 - TOB: <!--AltName-->Glass Gator<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (7d10+7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 15 m<!--/Speed-->
@@ -2557,6 +2596,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p73)(TOB p49)<!--/Source-->
 - TOB: <!--AltName-->Burrowling<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (cynome) (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d6+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m, fouissement 3m<!--/Speed-->
@@ -2593,6 +2633,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: <!--Source-->(LDM p74)(TOB p70)<!--/Source-->
 - TOB: <!--AltName-->Dau<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->49 (9d6+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 18 m (vol stationnaire)<!--/Speed-->
@@ -2638,6 +2679,7 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 - Source: <!--Source-->(LDM p75)(TOB p254)<!--/Source-->
 - TOB: <!--AltName-->Ice Maiden<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d8+26)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m<!--/Speed-->
@@ -2787,6 +2829,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 - Source: <!--Source-->(LDM p78)(TOB p335)<!--/Source-->
 - TOB: <!--AltName-->Sap Demon<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (15d6+15)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m<!--/Speed-->
@@ -3495,6 +3538,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 - Source: <!--Source-->(LDM p94)(TOB p93)<!--/Source-->
 - TOB: <!--AltName-->Derro Shadow Antipaladin<!--/AltName-->
 -  <!--Type-->Humanoïde (derro)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (cuirasse et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d6+44)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -3544,6 +3588,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 - Source: <!--Source-->(LDM p95)(TOB p92)<!--/Source-->
 - TOB: <!--AltName-->Derro Fetal Savant<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (cage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->2 (4d4 - 8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m (0 en cage)<!--/Speed-->
@@ -4145,6 +4190,7 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 - Source: <!--Source-->(LDM p110)(TOB p113)<!--/Source-->
 - TOB: <!--AltName-->Salt Devil<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d8+44)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -4419,6 +4465,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 - Source: <!--Source-->(LDM p117)(TOB p114)<!--/Source-->
 - TOB: <!--AltName-->Mbielu<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d12+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 6 m<!--/Speed-->
@@ -4451,6 +4498,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 - Source: <!--Source-->(LDM p118)(TOB p115)<!--/Source-->
 - TOB: <!--AltName-->Ngobou<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -4485,6 +4533,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 - Source: <!--Source-->(LDM p119)(TOB p116)<!--/Source-->
 - TOB: <!--AltName-->Spinosaurus<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (14d20+84)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m, nage 12 m<!--/Speed-->
@@ -4533,6 +4582,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: <!--Source-->(LDM p120)(TOB p117)<!--/Source-->
 - TOB: <!--AltName-->Young Spinosaurus<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d12+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, nage 9 m<!--/Speed-->
@@ -4565,6 +4615,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: <!--Source-->(LDM p121)(TOB p118)<!--/Source-->
 - TOB: <!--AltName-->Dipsa<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d4+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m, nage 6 m<!--/Speed-->
@@ -4634,6 +4685,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: <!--Source-->(LDM p123)(TOB p122)<!--/Source-->
 - TOB: <!--AltName-->Domovoi<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (11d8+44)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -4669,6 +4721,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: <!--Source-->(LDM p124)(TOB p123)<!--/Source-->
 - TOB: <!--AltName-->Doppelrat<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d4+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m, escalade 4,50 m, nage 4,50 m<!--/Speed-->
@@ -4742,6 +4795,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: <!--Source-->(LDM p126)(TOB p129)<!--/Source-->
 - TOB: <!--AltName-->Adult Flame Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->212 (17d12+102)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -4798,6 +4852,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p127)(TOB p131)<!--/Source-->
 - TOB: <!--AltName-->Flame Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 9 m, vol 18 m<!--/Speed-->
@@ -4830,6 +4885,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p128)(TOB p130)<!--/Source-->
 - TOB: <!--AltName-->Young Flame Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (17d10+68)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -4868,6 +4924,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p128)(TOB p128)<!--/Source-->
 - TOB: <!--AltName-->Ancient Flame Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->481 (26d20+208)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, vol 24 m<!--/Speed-->
@@ -4952,6 +5009,7 @@ Si le dragon meurt, les disputes et malentendus se dissipent immédiatement et l
 - Source: <!--Source-->(LDM p130)(TOB p133)<!--/Source-->
 - TOB: <!--AltName-->Adult Mithral Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->184 (16d12+80)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -5020,6 +5078,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p131)(TOB p134)<!--/Source-->
 - TOB: <!--AltName-->Young Mithral Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->92 (16d8+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, vol 18 m<!--/Speed-->
@@ -5062,6 +5121,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p131)(TOB p132)<!--/Source-->
 - TOB: <!--AltName-->Ancient Mithral Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->297 (17d20+119)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -5171,6 +5231,7 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 - Source: <!--Source-->(LDM p133)(TOB p125)<!--/Source-->
 - TOB: <!--AltName-->Adult Cave Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->243 (18d12+126)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, traverser la terre<!--/Speed-->
@@ -5242,6 +5303,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p135)(TOB p127)<!--/Source-->
 - TOB: <!--AltName-->Cave Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m, vol 6 m<!--/Speed-->
@@ -5281,6 +5343,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p135)(TOB p127)<!--/Source-->
 - TOB: <!--AltName-->Young Cave Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 6 m, vol6 m<!--/Speed-->
@@ -5330,6 +5393,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p136)(TOB p143)<!--/Source-->
 - TOB: <!--AltName-->Wind Dragon, Adult<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->237 (19d12+114)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 27 m<!--/Speed-->
@@ -5398,6 +5462,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p137)(TOB p145)<!--/Source-->
 - TOB: <!--AltName-->Wind Dragon, Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (7d8+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m<!--/Speed-->
@@ -5431,6 +5496,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p137)(TOB p144)<!--/Source-->
 - TOB: <!--AltName-->Wind Dragon, Young<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->150 (16d10+62)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 27 m<!--/Speed-->
@@ -5476,6 +5542,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p138)(TOB p142)<!--/Source-->
 - TOB: <!--AltName-->Wind Dragon, Ancient<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->425 (23d20 +184)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 36 m<!--/Speed-->
@@ -5821,6 +5888,7 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 - Source: <!--Source-->(LDM p144)(TOB p135)<!--/Source-->
 - TOB: <!--AltName-->Adult Sea Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->225 (18d12+108)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m, nage 18 m<!--/Speed-->
@@ -5877,6 +5945,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p144)(TOB p136)<!--/Source-->
 - TOB: <!--AltName-->Sea Dragon Wyrmling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->52 (8d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m, nage 12 m<!--/Speed-->
@@ -5909,6 +5978,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p145)(TOB p136)<!--/Source-->
 - TOB: <!--AltName-->Young Sea Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne sous-marine<!--/Terrain-->
+- **Terrain** <!--Terrain-->Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->152 (16d10+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m, nage 15 m<!--/Speed-->
@@ -5949,6 +6020,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: <!--Source-->(LDM p145)(TOB p135)<!--/Source-->
 - TOB: <!--AltName-->Ancient Sea Dragon<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->481 (26d20+208)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 24 m, nage 24 m<!--/Speed-->
@@ -6033,6 +6105,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: <!--Source-->(LDM p147)(TOB p146)<!--/Source-->
 - TOB: <!--AltName-->Dragon Eel<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->230 (20d12+100)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 18 m<!--/Speed-->
@@ -6074,6 +6147,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: <!--Source-->(LDM p148)(TOB p270)<!--/Source-->
 - TOB: <!--AltName-->Lantern Dragonette<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->28 (8d4+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m, vol 12 m (vol stationnaire)<!--/Speed-->
@@ -6110,6 +6184,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: <!--Source-->(LDM p149)(TOB p149)<!--/Source-->
 - TOB: <!--AltName-->Ash Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->117 (18d6+54)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -6147,6 +6222,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: <!--Source-->(LDM p150)(TOB p150)<!--/Source-->
 - TOB: <!--AltName-->Coral Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d8+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 18 m<!--/Speed-->
@@ -6224,6 +6300,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: <!--Source-->(LDM p152)(TOB p155)<!--/Source-->
 - TOB: <!--AltName-->Rust Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (19d8+76)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 1,50 m, vol 30 m<!--/Speed-->
@@ -6262,6 +6339,7 @@ ou une magie comparable.
 - Source: <!--Source-->(LDM p153)(TOB p153)<!--/Source-->
 - TOB: <!--AltName-->Elder Shadow Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 18 m<!--/Speed-->
@@ -6304,6 +6382,7 @@ ou une magie comparable.
 - Source: <!--Source-->(LDM p154)(TOB p152)<!--/Source-->
 - TOB: <!--AltName-->Deep Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->150 (20d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, escalade 9 m, vol 30 m<!--/Speed-->
@@ -6387,6 +6466,7 @@ ou une magie comparable.
 - Source: <!--Source-->(LDM p156)(TOB p151)<!--/Source-->
 - TOB: <!--AltName-->Crimson Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->54 (12d4+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->4,50 m, vol 24 m<!--/Speed-->
@@ -6424,6 +6504,7 @@ ou une magie comparable.
 - Source: <!--Source-->(LDM p157)(TOB p157)<!--/Source-->
 - TOB: <!--AltName-->Star Drake<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->189 (18d10+90)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 30 m<!--/Speed-->
@@ -6487,6 +6568,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p158)(TOB p157)<!--/Source-->
 - TOB: <!--AltName-->Drakon<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d10+28)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m, nage 12 m<!--/Speed-->
@@ -6523,6 +6605,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p159)(TOB p160)<!--/Source-->
 - TOB: <!--AltName-->Duskthorn Dryad<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -6654,6 +6737,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p162)(TOB p165)<!--/Source-->
 - TOB: <!--AltName-->Edimmu<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
@@ -6733,6 +6817,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p164)(TOB p168)<!--/Source-->
 - TOB: <!--AltName-->Eleinomae<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -7007,6 +7092,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p170)(TOB p25)<!--/Source-->
 - TOB: <!--AltName-->Arboreal Grappler<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3m, escalade 12m<!--/Speed-->
@@ -7041,6 +7127,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p171)(TOB p56)<!--/Source-->
 - TOB: <!--AltName-->Child of the Briar<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->50 (20d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 3 m<!--/Speed-->
@@ -7079,6 +7166,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p172)(TOB p178)<!--/Source-->
 - TOB: <!--AltName-->Erina Scrounger<!--/AltName-->
 -  <!--Type-->Humanoïde (erina)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 6m<!--/Speed-->
@@ -7113,6 +7201,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p172)(TOB p178)<!--/Source-->
 - TOB: <!--AltName-->Erina Defender<!--/AltName-->
 -  <!--Type-->Humanoïde (erina)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d6+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 6m<!--/Speed-->
@@ -7268,6 +7357,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p176)(TOB p292)<!--/Source-->
 - TOB: <!--AltName-->Miremal<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (5d6+5)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -7310,6 +7400,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: <!--Source-->(LDM p177)(TOB p179)<!--/Source-->
 - TOB: <!--AltName-->Far Darrig<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->104 (16d6+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -8058,6 +8149,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 - Source: <!--Source-->(LDM p195)(TOB p338)<!--/Source-->
 - TOB: <!--AltName-->Savager<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->115 (1d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 6 m<!--/Speed-->
@@ -8403,6 +8495,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 - Source: <!--Source-->(LDM p202)(TOB p209)<!--/Source-->
 - TOB: <!--AltName-->Gbahali (Postosuchus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d12+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -8438,6 +8531,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 - Source: <!--Source-->(LDM p203)(TOB p222)<!--/Source-->
 - TOB: <!--AltName-->Desert Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->175 (14d12+84)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -8562,6 +8656,7 @@ Si Hraesvelgr meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: <!--Source-->(LDM p206)(TOB p226)<!--/Source-->
 - TOB: <!--AltName-->Jotun Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->407 (22d20+176)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -8626,6 +8721,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: <!--Source-->(LDM p207)(TOB p223)<!--/Source-->
 - TOB: <!--AltName-->Flab Giant<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->110 (13d10+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -8745,6 +8841,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: <!--Source-->(LDM p210)(TOB p212)<!--/Source-->
 - TOB: <!--AltName-->Gerridae<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (9d10+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, escalade 3 m, nage 24 m<!--/Speed-->
@@ -8778,6 +8875,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: <!--Source-->(LDM p211)(TOB p232)<!--/Source-->
 - TOB: <!--AltName-->Dust Goblin<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Caverne aménagée, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->5 (1d6+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -9015,6 +9113,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: <!--Source-->(LDM p217)(TOB p216)<!--/Source-->
 - TOB: <!--AltName-->Ghoul, Darakhul<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles ; 18 avec bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -9058,6 +9157,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: <!--Source-->(LDM p218)(TOB p221)<!--/Source-->
 - TOB: <!--AltName-->Ghoul, Iron<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->143 (22d8+44)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
@@ -9203,6 +9303,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: <!--Source-->(LDM p222)(TOB p220)<!--/Source-->
 - TOB: <!--AltName-->Ghoul, Imperial<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (cuirasse)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (17d8+17)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 4,50 m<!--/Speed-->
@@ -9238,6 +9339,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: <!--Source-->(LDM p223)(TOB p213)<!--/Source-->
 - TOB: <!--AltName-->Beggar Ghoul<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -9271,6 +9373,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: <!--Source-->(LDM p224)(TOB p214)<!--/Source-->
 - TOB: <!--AltName-->Bonepowder Ghoul<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->195 (26d6+104)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -9338,6 +9441,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 - Source: <!--Source-->(LDM p226)(TOB p28)<!--/Source-->
 - TOB: <!--AltName-->Azza Gremlin<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3m, vol 12m (vol stationnaire)<!--/Speed-->
@@ -9411,6 +9515,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 - Source: <!--Source-->(LDM p228)(TOB p245)<!--/Source-->
 - TOB: <!--AltName-->Sanf Hag<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 9 m<!--/Speed-->
@@ -9600,6 +9705,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 - Source: <!--Source-->(LDM p232)(TOB p241)<!--/Source-->
 - TOB: <!--AltName-->Gug<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->270 (20d12+140)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -9697,6 +9803,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 - Source: <!--Source-->(LDM p234)(TOB p246)<!--/Source-->
 - TOB: <!--AltName-->Owl Harpy<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d8+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 24 m (vol stationnaire)<!--/Speed-->
@@ -9892,6 +9999,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: <!--Source-->(LDM p238)(TOB p329)<!--/Source-->
 - TOB: <!--AltName-->Roachling Skirmisher<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-cafard)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50m<!--/Speed-->
@@ -9925,6 +10033,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: <!--Source-->(LDM p238)(TOB p329)<!--/Source-->
 - TOB: <!--AltName-->Roachling Lord<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-cafard)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->63 (14d6+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50m<!--/Speed-->
@@ -9960,6 +10069,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: <!--Source-->(LDM p239)(TOB p231)<!--/Source-->
 - TOB: <!--AltName-->Goat-Man<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d8+20)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -9995,6 +10105,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: <!--Source-->(LDM p240)(TOB p323)<!--/Source-->
 - TOB: <!--AltName-->Ravenfolk Warrior<!--/AltName-->
 -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -10044,6 +10155,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p241)(TOB p324)<!--/Source-->
 - TOB: <!--AltName-->Ravenfolk Doom Croaker<!--/AltName-->
 -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->88 (16d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -10087,6 +10199,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p242)(TOB p322)<!--/Source-->
 - TOB: <!--AltName-->Ravenfolk Scout<!--/AltName-->
 -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->21 (6d8 – 6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -10124,6 +10237,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p243)(TOB p271)<!--/Source-->
 - TOB: <!--AltName-->Lemurfolk<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-lémurien)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->14 (4d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 3 m, vol 12 m<!--/Speed-->
@@ -10156,6 +10270,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p243)(TOB p271)<!--/Source-->
 - TOB: <!--AltName-->Lemurfolk Greyfur<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-lémurien)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (16 avec armure du mage )<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (15d6+15)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 3 m, vol 12 m<!--/Speed-->
@@ -10198,6 +10313,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p244)(TOB p33)<!--/Source-->
 - TOB: <!--AltName-->Bearfold<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-ours)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique bon<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de peau)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -10233,6 +10349,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p245)(TOB p320)<!--/Source-->
 - TOB: <!--AltName-->Ratfolk<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-rat)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50 m, nage 3 m<!--/Speed-->
@@ -10265,6 +10382,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p245)(TOB p320)<!--/Source-->
 - TOB: <!--AltName-->Ratfolk Rogue<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-rat)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->7,50 m, nage 3 m<!--/Speed-->
@@ -10303,6 +10421,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p246)(TOB p250)<!--/Source-->
 - TOB: <!--AltName-->Horakh<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (19d8+76)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 9 m<!--/Speed-->
@@ -10398,6 +10517,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p248)(TOB p255)<!--/Source-->
 - TOB: <!--AltName-->Idolic Deity<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d6+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 9 m<!--/Speed-->
@@ -10476,6 +10596,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p250)(TOB p257)<!--/Source-->
 - TOB: <!--AltName-->Isonade<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->222 (12d20+96)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->nage 30 m<!--/Speed-->
@@ -10526,6 +10647,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p251)(TOB p258)<!--/Source-->
 - TOB: <!--AltName-->Jaculus<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->65 (10d6+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m, vol 3 m<!--/Speed-->
@@ -10633,6 +10755,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p254)(TOB p261)<!--/Source-->
 - TOB: <!--AltName-->Kobold Alchemist<!--/AltName-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d6+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -10676,6 +10799,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p256)(TOB p263)<!--/Source-->
 - TOB: <!--AltName-->Kobold Chieftain<!--/AltName-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure de cuir clouté et bouclier)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (15d6+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -10718,6 +10842,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p257)(TOB p264)<!--/Source-->
 - TOB: <!--AltName-->Kobold Trapsmith<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->36 (8d6+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -10758,6 +10883,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: <!--Source-->(LDM p258)(TOB p265)<!--/Source-->
 - TOB: <!--AltName-->Kongamato<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->112 (15d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -10882,6 +11008,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p261)(TOB p268)<!--/Source-->
 - TOB: <!--AltName-->Kot Bayun<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->44 (8d8+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 6 m<!--/Speed-->
@@ -10922,6 +11049,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p262)(TOB p269)<!--/Source-->
 - TOB: <!--AltName-->Krake Spawn<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->150 (12d12+72)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 9 m<!--/Speed-->
@@ -11012,6 +11140,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p264)(TOB p272)<!--/Source-->
 - TOB: <!--AltName-->Leshy<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d8+26)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -11052,6 +11181,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p265)(TOB p353)<!--/Source-->
 - TOB: <!--AltName-->Slow Storm<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->225 (18d12+108)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
@@ -11189,6 +11319,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p269)(TOB p275)<!--/Source-->
 - TOB: <!--AltName-->Likho<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -11232,6 +11363,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p270)(TOB p336)<!--/Source-->
 - TOB: <!--AltName-->Sarcophagus Slime<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -11308,6 +11440,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p272)(TOB p276)<!--/Source-->
 - TOB: <!--AltName-->Lindwurm<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->136 (16d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 6 m<!--/Speed-->
@@ -11441,6 +11574,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: <!--Source-->(LDM p275)(TOB p279)<!--/Source-->
 - TOB: <!--AltName-->Lorelei<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (18 avec armure du mage)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -11491,6 +11625,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: <!--Source-->(LDM p276)(TOB p280)<!--/Source-->
 - TOB: <!--AltName-->Loxoda<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->147 (14d12+56)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -11525,6 +11660,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: <!--Source-->(LDM p277)(TOB p398)<!--/Source-->
 - TOB: <!--AltName-->Vapor Lynx<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, escalade 9 m<!--/Speed-->
@@ -11563,6 +11699,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: <!--Source-->(LDM p278)(TOB p281)<!--/Source-->
 - TOB: <!--AltName-->Mahoru<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8+28)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 18 m<!--/Speed-->
@@ -11610,6 +11747,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: <!--Source-->(LDM p279)(TOB p282)<!--/Source-->
 - TOB: <!--AltName-->Mallqui<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -11705,6 +11843,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: <!--Source-->(LDM p281)(TOB p284)<!--/Source-->
 - TOB: <!--AltName-->Mamura<!--/AltName-->
 -  <!--Type-->Aberration (fée)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise.<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d6+52)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 9 m<!--/Speed-->
@@ -11836,6 +11975,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: <!--Source-->(LDM p284)(TOB p158)<!--/Source-->
 - TOB: <!--AltName-->Dream Eater<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 6m<!--/Speed-->
@@ -12002,6 +12142,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: <!--Source-->(LDM p288)(TOB p367)<!--/Source-->
 - TOB: <!--AltName-->Spire Walker<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (11d4+22)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -12359,6 +12500,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: <!--Source-->(LDM p297)(TOB p278)<!--/Source-->
 - TOB: <!--AltName-->Living Wick<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->28 (8d6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -12395,6 +12537,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: <!--Source-->(LDM p298)(TOB p391)<!--/Source-->
 - TOB: <!--AltName-->Tusked Skyfish<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale bonne<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->102 (12d10+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 6 m (vol stationnaire)<!--/Speed-->
@@ -12502,6 +12645,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: <!--Source-->(LDM p301)(TOB p288)<!--/Source-->
 - TOB: <!--AltName-->Millitaur<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, fouissement 6 m, escalade 9 m<!--/Speed-->
@@ -12532,6 +12676,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: <!--Source-->(LDM p302)(TOB p289)<!--/Source-->
 - TOB: <!--AltName-->Map Mimic<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->32 (5d8+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 4,50 m<!--/Speed-->
@@ -12567,6 +12712,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: <!--Source-->(LDM p303)(TOB p162)<!--/Source-->
 - TOB: <!--AltName-->Dune Mimic<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->168 (16d12+64)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m<!--/Speed-->
@@ -12607,6 +12753,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: <!--Source-->(LDM p304)(TOB p291)<!--/Source-->
 - TOB: <!--AltName-->Mirager<!--/AltName-->
 -  <!--Type-->Fée (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->78 (12d8+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -12649,6 +12796,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: <!--Source-->(LDM p305)(TOB p293)<!--/Source-->
 - TOB: <!--AltName-->Mngwa<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8+28)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -12727,6 +12875,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p307)(TOB p299)<!--/Source-->
 - TOB: <!--AltName-->Venomous Mummy<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -12872,6 +13021,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p311)(TOB p297)<!--/Source-->
 - TOB: <!--AltName-->Morphoi<!--/AltName-->
 -  <!--Type-->Plante (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (parfois plus avec une armure)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->33 (6d8+6)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -12949,6 +13099,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p313)(TOB p53)<!--/Source-->
 - TOB: <!--AltName-->Cavelight Moss<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, escalade 1,50 m<!--/Speed-->
@@ -13121,6 +13272,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p317)(TOB p52)<!--/Source-->
 - TOB: <!--AltName-->Carrion Beetle<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10+45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m, escalade 3 m<!--/Speed-->
@@ -13203,6 +13355,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
 - TOB: <!--AltName-->Nkosi<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13239,6 +13392,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p319)(TOB p306)<!--/Source-->
 - TOB: <!--AltName-->Nkosi Pridelord<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->93 (17d8+17)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -13281,6 +13435,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p320)(TOB p307)<!--/Source-->
 - TOB: <!--AltName-->War Ostrich<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->42 (5d10+15)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->18 m<!--/Speed-->
@@ -13402,6 +13557,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p324)(TOB p377)<!--/Source-->
 - TOB: <!--AltName-->Wolf Spirit Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille de morts-vivants de taille Moyenne (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (15d10+15)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m, vol 15 m (vol stationnaire)<!--/Speed-->
@@ -13472,6 +13628,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p326)(TOB p373)<!--/Source-->
 - TOB: <!--AltName-->Fire Dancer Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne d'élémentaires de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 9 m (vol stationnaire)<!--/Speed-->
@@ -13503,11 +13660,12 @@ dépassent leurs compétences.
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Nuée De Papillons De Mort<!--/Name-->
+# <!--Name-->Nuée de Papillons de Mort<!--/Name-->
 
 - Source: <!--Source-->(LDM p327)(TOB p71)<!--/Source-->
 - TOB: <!--AltName-->Death Butterfly Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->60 (11d10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 12 m (vol stationnaire)<!--/Speed-->
@@ -13538,11 +13696,12 @@ dépassent leurs compétences.
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Grande Nuée De Papillons De Mort<!--/Name-->
+# <!--Name-->Grande Nuée de Papillons de Mort<!--/Name-->
 
 - Source: <!--Source-->(LDM p327)(TOB p71)<!--/Source-->
 - TOB: <!--AltName-->Greater Death Butterfly Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de Très Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->84 (13d12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->1,50 m, vol 12 m (vol stationnaire)<!--/Speed-->
@@ -13578,6 +13737,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p328)(TOB p374)<!--/Source-->
 - TOB: <!--AltName-->Manabane Scarab Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 1,50 m, escalade 6 m<!--/Speed-->
@@ -13640,6 +13800,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p330)(TOB p375)<!--/Source-->
 - TOB: <!--AltName-->Prismatic Beetle Swarm<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (7d8+7)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 1,50 m, escalade 9 m<!--/Speed-->
@@ -13875,6 +14036,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p336)(TOB p310)<!--/Source-->
 - TOB: <!--AltName-->Oozasis<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->217 (14d20+70)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 6 m, nage 6 m<!--/Speed-->
@@ -13954,6 +14116,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p338)(TOB p296)<!--/Source-->
 - TOB: <!--AltName-->Mordant Snare<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->264 (16d20+96)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, fouissement 6 m<!--/Speed-->
@@ -13997,6 +14160,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p339)(TOB p313)<!--/Source-->
 - TOB: <!--AltName-->Pombero<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14078,6 +14242,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p341)(TOB p408)<!--/Source-->
 - TOB: <!--AltName-->White Ape<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->114 (12d10+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m<!--/Speed-->
@@ -14112,6 +14277,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p342)(TOB p12)<!--/Source-->
 - TOB: <!--AltName-->Accursed Defiler<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->75 (10d8+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14149,6 +14315,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p343)(TOB p73)<!--/Source-->
 - TOB: <!--AltName-->Deep One<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->91 (14d8+28)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -14185,6 +14352,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p343)(TOB p74)<!--/Source-->
 - TOB: <!--AltName-->Deep One Archimandrite<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d10+54)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 12 m<!--/Speed-->
@@ -14236,6 +14404,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p344)(TOB p73)<!--/Source-->
 - TOB: <!--AltName-->Deep One Hybrid Priest<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->120 (16d8+48)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -14323,6 +14492,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p346)(TOB p317)<!--/Source-->
 - TOB: <!--AltName-->Ramag<!--/AltName-->
 -  <!--Type-->Humanoïde (ramag)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14438,6 +14608,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p349)(TOB p321)<!--/Source-->
 - TOB: <!--AltName-->Ravenala<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14545,6 +14716,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p351)(TOB p298)<!--/Source-->
 - TOB: <!--AltName-->Moss Lurker<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (10d6+10)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14588,6 +14760,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p352)(TOB 318)<!--/Source-->
 - TOB: <!--AltName-->Rat King<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76 (9d8+36)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 6 m<!--/Speed-->
@@ -14629,6 +14802,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p353)(TOB p331)<!--/Source-->
 - TOB: <!--AltName-->Rusalka<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->88 (16d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 12 m<!--/Speed-->
@@ -14750,6 +14924,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p356)(TOB p339)<!--/Source-->
 - TOB: <!--AltName-->Scheznyki<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->153 (18d6+72)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, escalade 4,50 m<!--/Speed-->
@@ -14793,6 +14968,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p357)(TOB p340)<!--/Source-->
 - TOB: <!--AltName-->Night Scorpion<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->90 (12d10+24)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -14822,6 +14998,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p357)(TOB p340)<!--/Source-->
 - TOB: <!--AltName-->Stygian Fat-Tailed Scorpion<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (4d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 6 m<!--/Speed-->
@@ -14851,6 +15028,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p358)(TOB p402)<!--/Source-->
 - TOB: <!--AltName-->Vine Lord<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14895,6 +15073,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p359)(TOB p403)<!--/Source-->
 - TOB: <!--AltName-->Tendril Puppet<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir clouté)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->34 (4d8+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -14975,6 +15154,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p361)(TOB p354)<!--/Source-->
 - TOB: <!--AltName-->Swamp Adder<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->18 (4d6+4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -15002,6 +15182,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p361)(TOB p354)<!--/Source-->
 - TOB: <!--AltName-->Zanskaran Viper<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->38 (4d10+16)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, escalade 3 m, nage 9 m<!--/Speed-->
@@ -15027,6 +15208,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p362)(TOB p342)<!--/Source-->
 - TOB: <!--AltName-->Serpopard<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->85 (10d10+30)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, nage 9 m<!--/Speed-->
@@ -15187,6 +15369,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p366)(TOB p332)<!--/Source-->
 - TOB: <!--AltName-->Sand Silhouette<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, fouissement 9 m<!--/Speed-->
@@ -15308,6 +15491,7 @@ dépassent leurs compétences.
 - Source: <!--Source-->(LDM p369)(TOB p359)<!--/Source-->
 - TOB: <!--AltName-->Gypsosphinx<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->171 (18d10+72)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 21 m<!--/Speed-->
@@ -15373,6 +15557,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p371)(TOB p351)<!--/Source-->
 - TOB: <!--AltName-->Vine Troll Skeleton<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->119 (14d10+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -15408,6 +15593,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p372)(TOB p350)<!--/Source-->
 - TOB: <!--AltName-->Sharkjaw Skeleton<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d10+12)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m<!--/Speed-->
@@ -15441,6 +15627,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p373)(TOB p369)<!--/Source-->
 - TOB: <!--AltName-->Stryx<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->10 (4d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 18 m<!--/Speed-->
@@ -15523,6 +15710,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p375)(TOB p371)<!--/Source-->
 - TOB: <!--AltName-->Subek<!--/AltName-->
 -  <!--Type-->Humanoïde<!--/Type--> de Grande taille (subek) (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->76(8d10+32)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 6 m<!--/Speed-->
@@ -15601,6 +15789,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p377)(TOB p372)<!--/Source-->
 - TOB: <!--AltName-->Suturefly<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->7 (3d4)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol 12 m (vol stationnaire)<!--/Speed-->
@@ -15631,6 +15820,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p378)(TOB p388)<!--/Source-->
 - TOB: <!--AltName-->Weeping Treant<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d12+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -15711,6 +15901,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p380)(TOB p379)<!--/Source-->
 - TOB: <!--AltName-->Thuellai<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->149 (13d12+65)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 30 m (vol stationnaire)<!--/Speed-->
@@ -15805,6 +15996,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p382)(TOB p381)<!--/Source-->
 - TOB: <!--AltName-->Degenerate Titan<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (manteau renforcé rudimentaire)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->161 (14d12+70)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->
@@ -15841,6 +16033,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p383)(TOB p382)<!--/Source-->
 - TOB: <!--AltName-->Titanoboa<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->232 (15d20+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 12 m, nage 12 m<!--/Speed-->
@@ -15914,6 +16107,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p386)(TOB p385)<!--/Source-->
 - TOB: <!--AltName-->Tosculi Hive-Queen<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->157 (15d10+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, vol 18 m<!--/Speed-->
@@ -15992,6 +16186,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
 - TOB: <!--AltName-->Tosculi Elite Bow Raider<!--/AltName-->
 -  <!--Type-->Humanoïde (tosculi)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->97 (13d8+39)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 18 m<!--/Speed-->
@@ -16030,6 +16225,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
 - TOB: <!--AltName-->Tosculi Warrior<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d6+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, vol 18 m<!--/Speed-->
@@ -16065,6 +16261,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: <!--Source-->(LDM p387)(TOB p386)<!--/Source-->
 - TOB: <!--AltName-->Tosculi Drone<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->22 (4d6+8)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m<!--/Speed-->
@@ -16096,6 +16293,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: <!--Source-->(LDM p388)(TOB p389)<!--/Source-->
 - TOB: <!--AltName-->Lake Troll<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->126 (12d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, nage 12 m<!--/Speed-->
@@ -16132,6 +16330,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: <!--Source-->(LDM p389)(TOB p47)<!--/Source-->
 - TOB: <!--AltName-->Bukavac<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->199 (21d10+84)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m, nage 6m<!--/Speed-->
@@ -16211,6 +16410,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: <!--Source-->(LDM p391)(TOB p393)<!--/Source-->
 - TOB: <!--AltName-->Urochar (Strangling Watcher)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->256 (19d12+133)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 6 m<!--/Speed-->
@@ -16269,6 +16469,7 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: <!--Source-->(LDM p392)(TOB p394)<!--/Source-->
 - TOB: <!--AltName-->Ushabti<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d10+50)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -16529,6 +16730,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: <!--Source-->(LDM p398)(TOB p330)<!--/Source-->
 - TOB: <!--AltName-->Rotting Wind<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->82 (11d10+22)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, vol 18 m (vol stationnaire)<!--/Speed-->
@@ -16563,6 +16765,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: <!--Source-->(LDM p399)(TOB p327)<!--/Source-->
 - TOB: <!--AltName-->Adult Rime Worm<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (10d10+50)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m, fouissement (neige, glace) 9 m<!--/Speed-->
@@ -16595,11 +16798,12 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 <!--MonsterItem Family="TomeOfBeasts"-->
 
-# <!--Name-->Larve De Ver Givré<!--/Name-->
+# <!--Name-->Larve de Ver Givré<!--/Name-->
 
 - Source: <!--Source-->(LDM p399)(TOB p327)<!--/Source-->
 - TOB: <!--AltName-->Rime Worm Grub<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->45 (6d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 9 m, fouissement (neige, glace) 6 m<!--/Speed-->
@@ -16635,6 +16839,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: <!--Source-->(LDM p400)(TOB p22)<!--/Source-->
 - TOB: <!--AltName-->Angler Worm<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->133 (14d12+42)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6m, escalade 6 m<!--/Speed-->
@@ -16674,6 +16879,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: <!--Source-->(LDM p401)(TOB p337)<!--/Source-->
 - TOB: <!--AltName-->Sathaq Worm<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->172 (15d12+75)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 6 m, nage 6 m<!--/Speed-->
@@ -16710,6 +16916,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: <!--Source-->(LDM p402)(TOB p352)<!--/Source-->
 - TOB: <!--AltName-->Skitterhaunt<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->95 (10d10+40)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -16747,6 +16954,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: <!--Source-->(LDM p403)(TOB p399)<!--/Source-->
 - TOB: <!--AltName-->Vesiculosa<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->203 (14d20+56)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->0 m, fouissement 1,50 m<!--/Speed-->
@@ -16837,6 +17045,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p405)(TOB p230)<!--/Source-->
 - TOB: <!--AltName-->Gnoll Havoc Runner<!--/AltName-->
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -16917,6 +17126,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p407)(TOB p400)<!--/Source-->
 - TOB: <!--AltName-->Vila<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->77 (14d8+14)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9m<!--/Speed-->
@@ -16965,6 +17175,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p408)(TOB p207)<!--/Source-->
 - TOB: <!--AltName-->Frostveil<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->67 (9d8+27)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, vol (variable; voir le trait porté par le vent)<!--/Speed-->
@@ -17007,6 +17218,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p409)(TOB p405)<!--/Source-->
 - TOB: <!--AltName-->Wampus Cat<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->58 (9d8+18)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12 m, escalade 6 m, nage 6 m<!--/Speed-->
@@ -17045,6 +17257,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p410)(TOB p334)<!--/Source-->
 - TOB: <!--AltName-->Sandwyrm<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-aligné<!--/Alignment-->
+- **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->142 (15d10+60)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->6 m, fouissement 12 m<!--/Speed-->
@@ -17143,6 +17356,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p413)(TOB p413)<!--/Source-->
 - TOB: <!--AltName-->Ychen Bannog<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->231 (14d20+84)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->15 m<!--/Speed-->
@@ -17182,6 +17396,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p414)(TOB p414)<!--/Source-->
 - TOB: <!--AltName-->Zaratan<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+- **Terrain** <!--Terrain-->Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->25 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->507 (26d20+234)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->3 m, nage 15 m<!--/Speed-->
@@ -17263,6 +17478,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: <!--Source-->(LDM p416)(TOB p416)<!--/Source-->
 - TOB: <!--AltName-->Zmey<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->189 (18d12+72)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, vol 15 m, nage 9 m<!--/Speed-->
@@ -17322,6 +17538,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - Source: <!--Source-->(LDM p416)(TOB p416)<!--/Source-->
 - TOB: <!--AltName-->Zmey Headling<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->105 (14d8 + 42), régénération 5/round<!--/HitPoints-->
 - **Vitesse** <!--Speed-->9 m, nage 6 m<!--/Speed-->
@@ -17497,6 +17714,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - Source: <!--Source-->(LDM p420)(TOB p423)<!--/Source-->
 - TOB: <!--AltName-->Ogre Chieftain, Corrupted<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+- **Terrain** <!--Terrain-->Collines / Vallées, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (clibanion)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->127 (15d10 + 45)<!--/HitPoints-->
 - **Vitesse** <!--Speed-->12m<!--/Speed-->

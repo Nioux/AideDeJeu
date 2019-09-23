@@ -7,6 +7,7 @@
 - Source: (LDM p128)(TOB p130)
 - TOB: Young Flame Dragon
 -  Dragon de Grande taille (G), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (17d10+68)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

@@ -7,6 +7,7 @@
 - Source: (LDM p153)(TOB p153)
 - TOB: Elder Shadow Drake
 -  Dragon de Grande taille (G), chaotique mauvais
+- **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 6 m, vol 18 m

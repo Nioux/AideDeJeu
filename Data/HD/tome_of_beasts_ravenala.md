@@ -7,6 +7,7 @@
 - Source: (LDM p349)(TOB p321)
 - TOB: Ravenala
 -  Plante de Grande taille (G), non alignée
+- **Terrain** Jungle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 9m

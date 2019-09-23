@@ -7,6 +7,7 @@
 - Source: (LDM p152)(TOB p155)
 - TOB: Rust Drake
 -  Dragon de taille Moyenne (M), chaotique mauvais
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (19d8+76)
 - **Vitesse** 6 m, fouissement 1,50 m, vol 30 m

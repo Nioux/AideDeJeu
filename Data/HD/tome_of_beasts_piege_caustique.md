@@ -7,6 +7,7 @@
 - Source: (LDM p338)(TOB p296)
 - TOB: Mordant Snare
 -  Aberration de taille Gigantesque (Gig), chaotique mauvaise
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 264 (16d20+96)
 - **Vitesse** 3 m, fouissement 6 m

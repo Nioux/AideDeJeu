@@ -7,6 +7,7 @@
 - Source: (LDM p154)(TOB p152)
 - TOB: Deep Drake
 -  Dragon de Grande taille (G), chaotique mauvais
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (20d10+40)
 - **Vitesse** 15 m, escalade 9 m, vol 30 m

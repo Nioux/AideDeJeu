@@ -7,6 +7,7 @@
 - Source: (LDM p341)(TOB p408)
 - TOB: White Ape
 -  Créature monstrueuse de Grande taille (G), neutre
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 12 m, escalade 12 m

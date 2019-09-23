@@ -7,6 +7,7 @@
 - Source: (LDM p328)(TOB p374)
 - TOB: Manabane Scarab Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 6 m, fouissement 1,50 m, escalade 6 m

@@ -7,6 +7,7 @@
 - Source: (LDM p34)(TOB p273)
 - TOB: Library Automaton
 -  Créature artificielle de Petite taille (P), loyale neutre
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9m

@@ -7,6 +7,7 @@
 - Source: (LDM p303)(TOB p162)
 - TOB: Dune Mimic
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
+- **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
 - **Vitesse** 3 m

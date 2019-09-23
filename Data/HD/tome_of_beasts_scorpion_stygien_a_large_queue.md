@@ -7,6 +7,7 @@
 - Source: (LDM p357)(TOB p340)
 - TOB: Stygian Fat-Tailed Scorpion
 -  Bête de Très Petite taille (TP), non-alignée
+- **Terrain** Désert chaud, Caverne aménagée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 10 (4d4)
 - **Vitesse** 9 m, escalade 6 m

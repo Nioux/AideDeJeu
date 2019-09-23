@@ -7,6 +7,7 @@
 - Source: (LDM p118)(TOB p115)
 - TOB: Ngobou
 -  Bête de Grande taille (G), non alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12m

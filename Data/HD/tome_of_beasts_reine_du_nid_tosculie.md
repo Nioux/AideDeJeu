@@ -7,6 +7,7 @@
 - Source: (LDM p386)(TOB p385)
 - TOB: Tosculi Hive-Queen
 -  Créature monstrueuse de Grande taille (G), loyale mauvaise
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17
 - **Points de vie** 157 (15d10+75)
 - **Vitesse** 12 m, vol 18 m

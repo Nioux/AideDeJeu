@@ -7,6 +7,7 @@
 - Source: (LDM p387)(TOB p386)
 - TOB: Tosculi Drone
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m

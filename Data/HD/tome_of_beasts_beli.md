@@ -7,6 +7,7 @@
 - Source: (LDM p38)(TOB p35)
 - TOB: Beli
 -  Fée de Petite taille (P), neutre mauvaise
+- **Terrain** Arctique / Subarctique, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
 - **Vitesse** 9m, vol 9m

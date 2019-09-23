@@ -7,6 +7,7 @@
 - Source: (LDM p317)(TOB p52)
 - TOB: Carrion Beetle
 -  Bête de Grande taille (G), neutre
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 9 m, fouissement 6 m, escalade 3 m

@@ -7,6 +7,7 @@
 - Source: (LDM p305)(TOB p293)
 - TOB: Mngwa
 -  Aberration de taille Moyenne (M), neutre mauvaise
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16
 - **Points de vie** 91 (14d8+28)
 - **Vitesse** 12m

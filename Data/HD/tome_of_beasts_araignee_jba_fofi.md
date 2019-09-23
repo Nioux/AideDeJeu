@@ -7,6 +7,7 @@
 - Source: (LDM p26)(TOB p362)
 - TOB: J'Ba Fofi Spider
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 12 m, escalade 12 m

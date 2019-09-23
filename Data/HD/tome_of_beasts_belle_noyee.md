@@ -7,6 +7,7 @@
 - Source: (LDM p39)(TOB p159)
 - TOB: Drowned Maiden
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (20d8)
 - **Vitesse** 9 m, nage 12 m

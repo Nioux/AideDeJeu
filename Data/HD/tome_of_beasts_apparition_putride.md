@@ -7,6 +7,7 @@
 - Source: (LDM p22)(TOB p315)
 - TOB: Putrid Haunt
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9m

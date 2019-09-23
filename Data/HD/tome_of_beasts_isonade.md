@@ -7,6 +7,7 @@
 - Source: (LDM p250)(TOB p257)
 - TOB: Isonade
 -  Créature monstrueuse de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Littoral
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 222 (12d20+96)
 - **Vitesse** nage 30 m

@@ -7,6 +7,7 @@
 - Source: (LDM p420)(TOB p423)
 - TOB: Ogre Chieftain, Corrupted
 -  Géant de Grande taille (G), chaotique mauvais
+- **Terrain** Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 127 (15d10 + 45)
 - **Vitesse** 12m

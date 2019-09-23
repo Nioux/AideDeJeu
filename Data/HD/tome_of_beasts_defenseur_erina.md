@@ -7,6 +7,7 @@
 - Source: (LDM p172)(TOB p178)
 - TOB: Erina Defender
 -  Humanoïde (erina) de Petite taille (P), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 44 (8d6+16)
 - **Vitesse** 6 m, fouissement 6m

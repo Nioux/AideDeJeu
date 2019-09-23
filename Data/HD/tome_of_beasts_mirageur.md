@@ -7,6 +7,7 @@
 - Source: (LDM p304)(TOB p291)
 - TOB: Mirager
 -  Fée (métamorphe) de taille Moyenne (M), neutre mauvaise
+- **Terrain** Désert chaud
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m

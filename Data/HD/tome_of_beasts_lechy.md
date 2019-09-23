@@ -7,6 +7,7 @@
 - Source: (LDM p264)(TOB p272)
 - TOB: Leshy
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 84 (13d8+26)
 - **Vitesse** 9m

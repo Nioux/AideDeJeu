@@ -7,6 +7,7 @@
 - Source: (LDM p119)(TOB p116)
 - TOB: Spinosaurus
 -  Bête de taille Gigantesque (Gig), non alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
 - **Vitesse** 18 m, nage 12 m

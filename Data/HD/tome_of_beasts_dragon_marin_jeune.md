@@ -7,6 +7,8 @@
 - Source: (LDM p145)(TOB p136)
 - TOB: Young Sea Dragon
 -  Dragon de Grande taille (G), neutre mauvais
+- **Terrain** Caverne sous-marine
+- **Terrain** Mer / Océan
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 12 m, vol 24 m, nage 15 m

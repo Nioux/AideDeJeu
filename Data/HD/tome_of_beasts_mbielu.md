@@ -7,6 +7,7 @@
 - Source: (LDM p117)(TOB p114)
 - TOB: Mbielu
 -  Bête de Très Grande taille (TG), non alignée
+- **Terrain** Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
 - **Vitesse** 9 m, nage 6 m

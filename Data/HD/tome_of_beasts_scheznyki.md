@@ -7,6 +7,7 @@
 - Source: (LDM p356)(TOB p339)
 - TOB: Scheznyki
 -  Fée de Petite taille (P), chaotique mauvaise
+- **Terrain** Collines / Vallées, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d6+72)
 - **Vitesse** 6 m, escalade 4,50 m

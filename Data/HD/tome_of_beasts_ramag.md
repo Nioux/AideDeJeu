@@ -7,6 +7,7 @@
 - Source: (LDM p346)(TOB p317)
 - TOB: Ramag
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9m

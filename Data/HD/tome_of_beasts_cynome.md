@@ -7,6 +7,7 @@
 - Source: (LDM p73)(TOB p49)
 - TOB: Burrowling
 -  Humanoïde de Petite taille (cynome) (P), loyal neutre
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 27 (6d6+6)
 - **Vitesse** 9m, fouissement 3m

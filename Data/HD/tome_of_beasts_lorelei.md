@@ -7,6 +7,7 @@
 - Source: (LDM p275)(TOB p279)
 - TOB: Lorelei
 -  Fée de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Littoral
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 76 (9d8+36)
 - **Vitesse** 9 m, nage 9 m

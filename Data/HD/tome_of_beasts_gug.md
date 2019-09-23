@@ -7,6 +7,7 @@
 - Source: (LDM p232)(TOB p241)
 - TOB: Gug
 -  Géant de Très Grande taille (TG), neutre mauvais
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 270 (20d12+140)
 - **Vitesse** 12m

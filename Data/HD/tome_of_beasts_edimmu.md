@@ -7,6 +7,7 @@
 - Source: (LDM p162)(TOB p165)
 - TOB: Edimmu
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 15
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)

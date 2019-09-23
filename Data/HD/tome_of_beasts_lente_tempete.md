@@ -7,6 +7,7 @@
 - Source: (LDM p265)(TOB p353)
 - TOB: Slow Storm
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 19
 - **Points de vie** 225 (18d12+108)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)

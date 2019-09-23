@@ -2,11 +2,12 @@
 
 ---
 
-# Larve De Ver Givré
+# Larve de Ver Givré
 
 - Source: (LDM p399)(TOB p327)
 - TOB: Rime Worm Grub
 -  Élémentaire de taille Moyenne (M), neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m, nage 9 m, fouissement (neige, glace) 6 m

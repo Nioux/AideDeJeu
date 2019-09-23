@@ -7,6 +7,7 @@
 - Source: (LDM p241)(TOB p324)
 - TOB: Ravenfolk Doom Croaker
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 88 (16d8+16)
 - **Vitesse** 9m

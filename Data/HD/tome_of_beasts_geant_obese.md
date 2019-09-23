@@ -7,6 +7,7 @@
 - Source: (LDM p207)(TOB p223)
 - TOB: Flab Giant
 -  Géant de Grande taille (G), chaotique mauvais
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 6 m

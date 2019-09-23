@@ -7,6 +7,7 @@
 - Source: (LDM p40)(TOB p36)
 - TOB: Bereginyas
 -  Fée de Très Petite taille (TP), neutre mauvaise
+- **Terrain** Montagnes
 - **Classe d'armure** 15
 - **Points de vie** 70 (20d4+20)
 - **Vitesse** 6m, vol 18m

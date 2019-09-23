@@ -7,6 +7,7 @@
 - Source: (LDM p157)(TOB p157)
 - TOB: Star Drake
 -  Dragon de Grande taille (G), neutre
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 189 (18d10+90)
 - **Vitesse** 12 m, vol 30 m

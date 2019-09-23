@@ -7,6 +7,7 @@
 - Source: (LDM p251)(TOB p258)
 - TOB: Jaculus
 -  Dragon de Petite taille (P), neutre mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 65 (10d6+30)
 - **Vitesse** 6 m, escalade 6 m, vol 3 m

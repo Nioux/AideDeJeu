@@ -7,6 +7,7 @@
 - Source: (LDM p239)(TOB p231)
 - TOB: Goat-Man
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
 - **Vitesse** 12m

@@ -7,6 +7,7 @@
 - Source: (LDM p358)(TOB p402)
 - TOB: Vine Lord
 -  Plante de taille Moyenne (M), loyale neutre
+- **Terrain** Jungle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 9m

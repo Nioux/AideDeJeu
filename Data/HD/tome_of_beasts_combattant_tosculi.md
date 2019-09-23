@@ -7,6 +7,7 @@
 - Source: (LDM p387)(TOB p386)
 - TOB: Tosculi Warrior
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15
 - **Points de vie** 58 (9d6+27)
 - **Vitesse** 6 m, vol 18 m

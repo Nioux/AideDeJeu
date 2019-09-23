@@ -7,6 +7,7 @@
 - Source: (LDM p210)(TOB p212)
 - TOB: Gerridae
 -  Fée de Grande taille (G), neutre
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 14
 - **Points de vie** 77 (9d10+27)
 - **Vitesse** 3 m, escalade 3 m, nage 24 m

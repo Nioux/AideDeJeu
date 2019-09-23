@@ -7,6 +7,7 @@
 - Source: (LDM p416)(TOB p416)
 - TOB: Zmey
 -  Dragon de Très Grande taille (TG), chaotique mauvais
+- **Terrain** Bois / Forêt, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 189 (18d12+72)
 - **Vitesse** 9 m, vol 15 m, nage 9 m

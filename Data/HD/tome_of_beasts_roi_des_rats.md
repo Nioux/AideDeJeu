@@ -7,6 +7,7 @@
 - Source: (LDM p352)(TOB 318)
 - TOB: Rat King
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
 - **Vitesse** 9 m, fouissement 6 m

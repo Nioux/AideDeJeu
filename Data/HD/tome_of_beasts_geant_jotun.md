@@ -7,6 +7,7 @@
 - Source: (LDM p206)(TOB p226)
 - TOB: Jotun Giant
 -  Géant de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 407 (22d20+176)
 - **Vitesse** 18 m

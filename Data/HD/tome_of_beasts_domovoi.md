@@ -7,6 +7,7 @@
 - Source: (LDM p123)(TOB p122)
 - TOB: Domovoi
 -  Fée de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
 - **Vitesse** 9m

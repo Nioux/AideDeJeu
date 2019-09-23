@@ -7,6 +7,7 @@
 - Source: (LDM p78)(TOB p335)
 - TOB: Sap Demon
 -  Vase de Petite taille (P), chaotique mauvaise
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (naturelle)
 - **Points de vie** 67 (15d6+15)
 - **Vitesse** 6 m, escalade 6 m

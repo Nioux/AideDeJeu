@@ -7,6 +7,7 @@
 - Source: (LDM p362)(TOB p342)
 - TOB: Serpopard
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12 m, nage 9 m

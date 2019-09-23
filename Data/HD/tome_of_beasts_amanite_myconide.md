@@ -7,6 +7,7 @@
 - Source: (LDM p14)(TOB p300)
 - TOB: Deathcap Myconid
 -  Plante de taille Moyenne (M), neutre mauvaise
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 6 m

@@ -7,6 +7,7 @@
 - Source: (LDM p18)(TOB p19)
 - TOB: Angatra
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
 - **Vitesse** 15m

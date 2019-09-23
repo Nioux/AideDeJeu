@@ -7,6 +7,7 @@
 - Source: (LDM p269)(TOB p275)
 - TOB: Likho
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 12m

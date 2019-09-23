@@ -7,6 +7,7 @@
 - Source: (LDM p133)(TOB p125)
 - TOB: Adult Cave Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
 - **Vitesse** 12 m, escalade 12 m, traverser la terre

@@ -7,6 +7,7 @@
 - Source: (LDM p66)(TOB p314)
 - TOB: Possessed Pillar
 -  Créature artificielle de Grande taille (G), non alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 6 m

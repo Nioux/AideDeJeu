@@ -7,6 +7,7 @@
 - Source: (LDM p372)(TOB p350)
 - TOB: Sharkjaw Skeleton
 -  Mort-vivant de Grande taille (G), loyal mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 9 m, nage 9 m

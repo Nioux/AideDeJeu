@@ -7,6 +7,7 @@
 - Source: (LDM p278)(TOB p281)
 - TOB: Mahoru
 -  Créature monstrueuse de Grande taille (G), non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 91 (14d8+28)
 - **Vitesse** 3 m, nage 18 m

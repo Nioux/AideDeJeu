@@ -7,6 +7,7 @@
 - Source: (LDM p297)(TOB p278)
 - TOB: Living Wick
 -  Créature artificielle de Petite taille (P), non-alignée
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)
 - **Vitesse** 6 m

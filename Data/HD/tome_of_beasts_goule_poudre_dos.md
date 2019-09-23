@@ -7,6 +7,7 @@
 - Source: (LDM p224)(TOB p214)
 - TOB: Bonepowder Ghoul
 -  Mort-vivant de Petite taille (P), neutre mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 195 (26d6+104)
 - **Vitesse** 9m

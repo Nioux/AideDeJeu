@@ -7,6 +7,7 @@
 - Source: (LDM p217)(TOB p216)
 - TOB: Ghoul, Darakhul
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m

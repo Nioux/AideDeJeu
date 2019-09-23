@@ -7,6 +7,7 @@
 - Source: (LDM p136)(TOB p143)
 - TOB: Wind Dragon, Adult
 -  Dragon de Très Grande taille (TG), chaotique neutre
+- **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 237 (19d12+114)
 - **Vitesse** 12 m, vol 27 m

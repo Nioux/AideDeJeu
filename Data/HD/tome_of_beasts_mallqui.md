@@ -7,6 +7,7 @@
 - Source: (LDM p279)(TOB p282)
 - TOB: Mallqui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
 - **Vitesse** 6 m

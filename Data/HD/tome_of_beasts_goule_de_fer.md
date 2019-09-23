@@ -7,6 +7,7 @@
 - Source: (LDM p218)(TOB p221)
 - TOB: Ghoul, Iron
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 143 (22d8+44)
 - **Vitesse** 9 m, fouissement 6 m

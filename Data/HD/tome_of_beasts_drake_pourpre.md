@@ -7,6 +7,7 @@
 - Source: (LDM p156)(TOB p151)
 - TOB: Crimson Drake
 -  Dragon de taille Très Petite (TP), chaotique mauvais
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 54 (12d4+24)
 - **Vitesse** 4,50 m, vol 24 m

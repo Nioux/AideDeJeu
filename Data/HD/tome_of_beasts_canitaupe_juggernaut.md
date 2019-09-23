@@ -7,6 +7,7 @@
 - Source: (LDM p54)(TOB p121)
 - TOB: Dogmole Juggernaut
 -  Créature monstrueuse de Grande taille (G), neutre
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15 (armure de chaînes)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 9 m, fouissement 3 m, nage 3 m

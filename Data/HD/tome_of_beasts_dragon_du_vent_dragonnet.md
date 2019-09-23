@@ -7,6 +7,7 @@
 - Source: (LDM p137)(TOB p145)
 - TOB: Wind Dragon, Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
+- **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14
 - **Points de vie** 45 (7d8+14)
 - **Vitesse** 12 m, vol 24 m

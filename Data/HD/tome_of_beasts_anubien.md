@@ -7,6 +7,7 @@
 - Source: (LDM p21)(TOB p24)
 - TOB: Anubian
 -  Élémentaire de taille Moyenne (M), chaotique mauvais
+- **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 13
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9m

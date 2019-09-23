@@ -7,6 +7,7 @@
 - Source: (LDM p402)(TOB p352)
 - TOB: Skitterhaunt
 -  Vase de Grande taille (G), non-alignée
+- **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 9m

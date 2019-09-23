@@ -7,6 +7,7 @@
 - Source: (LDM p388)(TOB p389)
 - TOB: Lake Troll
 -  Géant de Grande taille (G), chaotique mauvais
+- **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 6 m, nage 12 m

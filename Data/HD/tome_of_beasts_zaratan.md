@@ -7,6 +7,7 @@
 - Source: (LDM p414)(TOB p414)
 - TOB: Zaratan
 -  Créature monstrueuse (titan) de taille Gigantesque (Gig), non alignée
+- **Terrain** Mer / Océan
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 507 (26d20+234)
 - **Vitesse** 3 m, nage 15 m

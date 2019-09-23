@@ -7,6 +7,7 @@
 - Source: (LDM p245)(TOB p320)
 - TOB: Ratfolk
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 7,50 m, nage 3 m

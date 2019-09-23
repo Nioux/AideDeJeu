@@ -7,6 +7,7 @@
 - Source: (LDM p359)(TOB p403)
 - TOB: Tendril Puppet
 -  Plante de taille Moyenne (M), loyale neutre
+- **Terrain** Jungle
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 34 (4d8+16)
 - **Vitesse** 9m

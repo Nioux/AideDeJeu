@@ -7,6 +7,7 @@
 - Source: (LDM p302)(TOB p289)
 - TOB: Map Mimic
 -  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, vol 4,50 m

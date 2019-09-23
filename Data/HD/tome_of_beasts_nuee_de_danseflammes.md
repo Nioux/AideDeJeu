@@ -7,6 +7,7 @@
 - Source: (LDM p326)(TOB p373)
 - TOB: Fire Dancer Swarm
 -  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9 m, vol 9 m (vol stationnaire)

@@ -7,6 +7,7 @@
 - Source: (LDM p130)(TOB p133)
 - TOB: Adult Mithral Dragon
 -  Dragon de Très Grande taille (TG), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
 - **Vitesse** 12 m, vol 24 m

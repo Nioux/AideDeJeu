@@ -7,6 +7,7 @@
 - Source: (LDM p145)(TOB p135)
 - TOB: Ancient Sea Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
 - **Vitesse** 12 m, vol 24 m, nage 24 m

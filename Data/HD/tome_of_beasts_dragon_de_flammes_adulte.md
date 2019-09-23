@@ -7,6 +7,7 @@
 - Source: (LDM p126)(TOB p129)
 - TOB: Adult Flame Dragon
 -  Dragon de Très Grande taille (TG), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

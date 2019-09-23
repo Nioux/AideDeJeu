@@ -7,6 +7,7 @@
 - Source: (LDM p159)(TOB p160)
 - TOB: Duskthorn Dryad
 -  Fée de taille Moyenne (M), chaotique
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
 - **Vitesse** 9m

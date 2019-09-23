@@ -7,6 +7,7 @@
 - Source: (LDM p144)(TOB p135)
 - TOB: Adult Sea Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
 - **Vitesse** 12 m, vol 24 m, nage 18 m

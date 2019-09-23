@@ -7,6 +7,7 @@
 - Source: (LDM p176)(TOB p292)
 - TOB: Miremal
 -  Fée de Petite taille (P), chaotique mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 9 m, nage 9 m

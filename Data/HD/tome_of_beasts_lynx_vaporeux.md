@@ -7,6 +7,7 @@
 - Source: (LDM p277)(TOB p398)
 - TOB: Vapor Lynx
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 15 m, escalade 9 m

@@ -7,6 +7,7 @@
 - Source: (LDM p177)(TOB p179)
 - TOB: Far Darrig
 -  Fée de Petite taille (P), neutre
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 104 (16d6+48)
 - **Vitesse** 6 m

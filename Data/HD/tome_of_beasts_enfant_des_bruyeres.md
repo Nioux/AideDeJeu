@@ -7,6 +7,7 @@
 - Source: (LDM p171)(TOB p56)
 - TOB: Child of the Briar
 -  Plante de Très Petite taille (TP), neutre mauvaise
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 50 (20d4)
 - **Vitesse** 6 m, escalade 3 m

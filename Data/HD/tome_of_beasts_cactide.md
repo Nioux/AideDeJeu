@@ -7,6 +7,7 @@
 - Source: (LDM p51)(TOB p50)
 - TOB: Cactid
 -  Plante de Grande taille (G), non alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76(8d10+32)
 - **Vitesse** 1,50m

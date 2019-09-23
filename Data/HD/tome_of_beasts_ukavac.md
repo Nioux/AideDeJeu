@@ -7,6 +7,7 @@
 - Source: (LDM p389)(TOB p47)
 - TOB: Bukavac
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 199 (21d10+84)
 - **Vitesse** 12m, nage 6m

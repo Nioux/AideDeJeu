@@ -7,6 +7,7 @@
 - Source: (LDM p361)(TOB p354)
 - TOB: Zanskaran Viper
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 38 (4d10+16)
 - **Vitesse** 9 m, escalade 3 m, nage 9 m

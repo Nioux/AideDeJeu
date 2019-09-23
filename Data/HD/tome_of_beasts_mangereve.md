@@ -7,6 +7,7 @@
 - Source: (LDM p284)(TOB p158)
 - TOB: Dream Eater
 -  Fiélon de taille Moyenne (M), loyal mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, vol 6m

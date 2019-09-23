@@ -7,6 +7,7 @@
 - Source: (LDM p158)(TOB p157)
 - TOB: Drakon
 -  Bête de Grande taille (G), non alignée
+- **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d10+28)
 - **Vitesse** 9 m, vol 18 m, nage 12 m

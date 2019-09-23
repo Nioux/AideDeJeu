@@ -7,6 +7,7 @@
 - Source: (LDM p43)(TOB p38)
 - TOB: Boloti
 -  Fée de Très Petite taille (TP), neutre mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15
 - **Points de vie** 63 (14d4+28)
 - **Vitesse** 6m, nage 18m

@@ -7,6 +7,7 @@
 - Source: (LDM p150)(TOB p150)
 - TOB: Coral Drake
 -  Dragon de taille Moyenne (M), neutre mauvais
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 127 (15d8+60)
 - **Vitesse** 9 m, nage 18 m

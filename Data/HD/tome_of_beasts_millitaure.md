@@ -7,6 +7,7 @@
 - Source: (LDM p301)(TOB p288)
 - TOB: Millitaur
 -  Créature monstrueuse de Grande taille (G), neutre
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12 m, fouissement 6 m, escalade 9 m

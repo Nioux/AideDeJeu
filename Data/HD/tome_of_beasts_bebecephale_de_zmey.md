@@ -7,6 +7,7 @@
 - Source: (LDM p416)(TOB p416)
 - TOB: Zmey Headling
 -  Dragon de taille Moyenne (M), chaotique mauvais
+- **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8 + 42), régénération 5/round
 - **Vitesse** 9 m, nage 6 m

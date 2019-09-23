@@ -7,6 +7,7 @@
 - Source: (LDM p127)(TOB p131)
 - TOB: Flame Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m

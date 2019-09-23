@@ -137,9 +137,16 @@
                 <Label>
                     <Label.FormattedText>
                         <FormattedString>
-                            <Span Text="Le contenu provient du DRS de " />
-                            <Span Text="Héros &amp; Dragons" FontAttributes="Bold" />
-                            <Span Text=" et du SRD de la 5è édition" />
+                            <Span Text="Le contenu provient du DRS de Héros &amp; Dragons et du SRD de la 5è édition" />
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+                <Label>
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Le contenu du DRS de Héros &amp; Dragons est également disponible sur " />
+                            <Span Text="https://heros-et-dragons.fr/" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>

@@ -7,6 +7,7 @@
 - Source: (LDM p75)(TOB p254)
 - TOB: Ice Maiden
 -  Fée de taille Moyenne (M), loyale mauvaise
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d8+26)
 - **Vitesse** 9 m

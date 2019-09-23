@@ -7,6 +7,7 @@
 - Source: (LDM p330)(TOB p375)
 - TOB: Prismatic Beetle Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 6 m, fouissement 1,50 m, escalade 9 m

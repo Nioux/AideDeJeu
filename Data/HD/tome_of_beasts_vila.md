@@ -7,6 +7,7 @@
 - Source: (LDM p407)(TOB p400)
 - TOB: Vila
 -  Fée de taille Moyenne (M), loyale neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15
 - **Points de vie** 77 (14d8+14)
 - **Vitesse** 9m

@@ -7,6 +7,7 @@
 - Source: (LDM p262)(TOB p269)
 - TOB: Krake Spawn
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 150 (12d12+72)
 - **Vitesse** 6 m, nage 9 m

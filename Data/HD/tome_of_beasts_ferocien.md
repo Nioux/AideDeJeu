@@ -7,6 +7,7 @@
 - Source: (LDM p195)(TOB p338)
 - TOB: Savager
 -  Bête de Grande taille (G), neutre mauvaise
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (1d10+60)
 - **Vitesse** 12 m, escalade 6 m

@@ -7,6 +7,7 @@
 - Source: (LDM p128)(TOB p128)
 - TOB: Ancient Flame Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m

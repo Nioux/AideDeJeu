@@ -7,6 +7,7 @@
 - Source: (LDM p409)(TOB p405)
 - TOB: Wampus Cat
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 12 m, escalade 6 m, nage 6 m

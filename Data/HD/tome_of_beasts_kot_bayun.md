@@ -7,6 +7,7 @@
 - Source: (LDM p261)(TOB p268)
 - TOB: Kot Bayun
 -  Créature monstrueuse de taille Moyenne (M), neutre
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 12 m, escalade 6 m

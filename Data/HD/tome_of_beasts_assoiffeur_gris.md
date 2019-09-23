@@ -7,6 +7,7 @@
 - Source: (LDM p33)(TOB p238)
 - TOB: Gray Thirster
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 13
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 9m

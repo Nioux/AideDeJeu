@@ -7,6 +7,7 @@
 - Source: (LDM p202)(TOB p209)
 - TOB: Gbahali (Postosuchus)
 -  Bête de Très Grande taille (TG), non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d12+48)
 - **Vitesse** 15 m

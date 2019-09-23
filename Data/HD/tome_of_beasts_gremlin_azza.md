@@ -7,6 +7,7 @@
 - Source: (LDM p226)(TOB p28)
 - TOB: Azza Gremlin
 -  Fée de Petite taille (P), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 14
 - **Points de vie** 7 (2d6)
 - **Vitesse** 3m, vol 12m (vol stationnaire)

@@ -7,6 +7,7 @@
 - Source: (LDM p408)(TOB p207)
 - TOB: Frostveil
 -  Plante de taille Moyenne (M), non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 3 m, vol (variable; voir le trait porté par le vent)

@@ -7,6 +7,7 @@
 - Source: (LDM p343)(TOB p74)
 - TOB: Deep One Archimandrite
 -  Humanoïde de Grande taille (G), chaotique mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
 - **Vitesse** 12 m, nage 12 m

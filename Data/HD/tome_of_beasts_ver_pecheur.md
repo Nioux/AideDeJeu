@@ -7,6 +7,7 @@
 - Source: (LDM p400)(TOB p22)
 - TOB: Angler Worm
 -  Créature monstrueuse de Très Grande taille (TG), non alignée
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d12+42)
 - **Vitesse** 6m, escalade 6 m

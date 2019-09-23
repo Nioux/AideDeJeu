@@ -7,6 +7,7 @@
 - Source: (LDM p42)(TOB p37)
 - TOB: Blemmyes
 -  Créature monstrueuse de Grande taille (G), chaotique mauvais
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
 - **Vitesse** 12m

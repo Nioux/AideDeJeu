@@ -7,6 +7,7 @@
 - Source: (LDM p149)(TOB p149)
 - TOB: Ash Drake
 -  Dragon de Petite taille (P), neutre mauvais
+- **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 117 (18d6+54)
 - **Vitesse** 9 m, vol 18 m

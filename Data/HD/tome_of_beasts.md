@@ -1,18 +1,14 @@
 ﻿---
 !MonsterItems
-Family: TomeOfBeasts
 Types: Humanoïde|Aberration|Bête|Céleste|Créature artificielle|Créature monstrueuse|Dragon|Élémentaire|Fée|Fiélon|Géant|Mort-vivant|Plante|Vase
 Challenges: 0 (0 PX)|1/8 (25 PX)|1/4 (50 PX)|1/2 (100 PX)|1 (200 PX)|2 (450 PX)|3 (700 PX)|4 (1100 PX)|5 (1800 PX)|6 (2300 PX)|7 (2900 PX)|8 (3900 PX)|9 (5000 PX)|10 (5900 PX)|11 (7200 PX)|12 (8400 PX)|13 (10000 PX)|14 (11500 PX)|15 (13000 PX)|16 (15000 PX)|17 (18000 PX)|18 (20000 PX)|19 (22000 PX)|20 (25000 PX)|21 (33000 PX)|22 (41000 PX)|23 (50000 PX)|24 (62000 PX)|30 (155000 PX)
 Sizes: TP|P|M|G|TG|Gig
 Sources: CEO|SRD
 Terrains: Arctique / Subarctique|Bois / Forêt|Collines / Vallées|Désert chaud|Jungle|Littoral|Mangrove / Marécage|Mer / Océan|Montagnes|Plaine / Champs / Prairie / Savane|Plans élémentaires|Caverne aménagée|Caverne naturelle|Caverne sous-marine|Donjon maçonné|Ruines extérieures|Ruines souterraines|Ruines sous-marines
-Name: Livre des monstres
+Family: TomeOfBeasts
 SubItems:
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nihileth
-  Source: (LDM p8)(TOB p8)
-  AltName: Nihileth
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -21,16 +17,19 @@ SubItems:
   Speed: 3m, nage 12m, vol 12m (uniquement sous forme éthérée, vol stationnaire)
   SavingThrows: Con +6, Int +8, Sag +6
   Skills: Histoire +12, Perception +10
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée); contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (seulement sous sa forme éthérée)
   ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre (seulement sous sa forme éthérée); contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 36m, Perception passive 20
   Languages: langue du Vide, télépathie 36m
   Challenge: 12 (8400 PX)
   Id: tome_of_beasts.md#nihileth
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nihileth
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nihileth
+  Source: (LDM p8)(TOB p8)
   AttributesDictionary: >+
     Name: Nihileth
 
@@ -313,26 +312,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Zombi Nihilethique
-  Source: (LDM p9)(TOB p9)
-  AltName: Nihilethic Zombie
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines
   ArmorClass: 9 (armure naturelle)
   HitPoints: 22 (3d8+9)
   Speed: 6m, nage 9m
   SavingThrows: Sag +0
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison; contondants, perforants et tranchants infligés par des armes non magiques (uniquement sous forme éthérée)
   ConditionImmunities: empoisonné
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18m, Perception passive 8
   Languages: comprend la langue du Vide et toutes les langues qu'il connaissait de son vivant mais ne peut pas parler
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#zombi-nihilethique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Zombi Nihilethique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nihilethic Zombie
+  Source: (LDM p9)(TOB p9)
   AttributesDictionary: >+
     Name: Zombi Nihilethique
 
@@ -353,6 +353,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -476,6 +480,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines
+
     ArmorClass: 9 (armure naturelle)
 
     HitPoints: 22 (3d8+9)
@@ -498,9 +504,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ala
-  Source: (LDM p11)(TOB p13)
-  AltName: Ala
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -515,8 +518,11 @@ SubItems:
   Challenge: 8 (3900 PX)
   Id: tome_of_beasts.md#ala
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ala
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ala
+  Source: (LDM p11)(TOB p13)
   AttributesDictionary: >+
     Name: Ala
 
@@ -670,9 +676,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Algorith
-  Source: (LDM p12)(TOB p14)
-  AltName: Algorith
   Type: Créature artificielle
   Size: M
   Alignment: loyal neutre
@@ -681,16 +684,19 @@ SubItems:
   Speed: 12m, vol 12 m
   SavingThrows: Dex +6, Con +8, Sag +7, Cha +8
   Skills: Athletisme +9, Investigation +5, Perception +7, Perspicacité +7
-  DamageResistances: d'acide, de froid, de foudre
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  DamageResistances: d'acide, de froid, de foudre
   Senses: vision dans le noir 18m, Perception passive 17
   Languages: commun, céleste, draconique, infernal
   Challenge: 10 (5900 PX)
   Id: tome_of_beasts.md#algorith
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Algorith
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Algorith
+  Source: (LDM p12)(TOB p14)
   AttributesDictionary: >+
     Name: Algorith
 
@@ -868,12 +874,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Alséide
-  Source: (LDM p13)(TOB p15)
-  AltName: Alseid
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt
   ArmorClass: 14 (armure de cuir)
   HitPoints: 49 (9d8+9)
   Speed: 12m
@@ -883,8 +887,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#alséide
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Alséide
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Alseid
+  Source: (LDM p13)(TOB p15)
   AttributesDictionary: >+
     Name: Alséide
 
@@ -905,6 +912,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -986,6 +997,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 14 (armure de cuir)
 
     HitPoints: 49 (9d8+9)
@@ -1002,9 +1015,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gardienne des bocages Alséide
-  Source: (LDM p13)(TOB p15)
-  AltName: Alseid grovekeeper
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
@@ -1017,8 +1027,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#gardienne-des-bocages-alséide
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gardienne des bocages Alséide
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Alseid grovekeeper
+  Source: (LDM p13)(TOB p15)
   AttributesDictionary: >+
     Name: Gardienne des bocages Alséide
 
@@ -1166,12 +1179,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Amanite Myconide
-  Source: (LDM p14)(TOB p300)
-  AltName: Deathcap Myconid
   Type: Plante
   Size: M
   Alignment: neutre mauvaise
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 90 (12d8+36)
   Speed: 6 m
@@ -1180,8 +1191,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#amanite-myconide
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Amanite Myconide
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Deathcap Myconid
+  Source: (LDM p14)(TOB p300)
   AttributesDictionary: >+
     Name: Amanite Myconide
 
@@ -1202,6 +1216,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -1297,6 +1315,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 90 (12d8+36)
@@ -1311,12 +1331,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Amphiptère
-  Source: (LDM p15)(TOB p16)
-  AltName: Amphiptere
   Type: Bête
   Size: M
   Alignment: non alignée
+  Terrain: Bois / Forêt, Littoral
   ArmorClass: 15 (armure naturelle)
   HitPoints: 60 (8d8+24)
   Speed: 6m, escalade 6 m, vol 18m, nage 6m
@@ -1326,8 +1344,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#amphiptère
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Amphiptère
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Amphiptere
+  Source: (LDM p15)(TOB p16)
   AttributesDictionary: >+
     Name: Amphiptère
 
@@ -1348,6 +1369,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Littoral<!--/Terrain-->
 
 
 
@@ -1441,6 +1466,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Bois / Forêt, Littoral
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 60 (8d8+24)
@@ -1457,9 +1484,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Andrenjinyi
-  Source: (LDM p17)(TOB p17)
-  AltName: Andrenjinyi
   Type: Céleste
   Size: Gig
   Alignment: neutre
@@ -1468,15 +1492,18 @@ SubItems:
   Speed: 18m, fouissement 6m, escalade 6m, nage 18m
   SavingThrows: Con +12, Sag +9, Cha +11
   Skills: Arcanes +5, Perception +9, Religion +5
-  DamageResistances: d'acide, de froid, de feu, de foudre
   DamageImmunities: psychiques
+  DamageResistances: d'acide, de froid, de feu, de foudre
   Senses: vision dans le noir 18m, perception des vibrations 36m, Perception passive 19
   Languages: commun, céleste, géant, sylvestre
   Challenge: 15 (13000 PX)
   Id: tome_of_beasts.md#andrenjinyi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Andrenjinyi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Andrenjinyi
+  Source: (LDM p17)(TOB p17)
   AttributesDictionary: >+
     Name: Andrenjinyi
 
@@ -1672,26 +1699,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Angatra
-  Source: (LDM p18)(TOB p19)
-  AltName: Angatra
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Jungle, Mangrove / Marécage, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 85 (10d8+40)
   Speed: 15m
   Skills: Discrétion +8, Perception +4
-  DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, terrorisé
+  DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18m, Perception passive 14
   Languages: toutes les langues qu'il connaissait de son vivant
   Challenge: 6 (2300 PX)
   Id: tome_of_beasts.md#angatra
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Angatra
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Angatra
+  Source: (LDM p18)(TOB p19)
   AttributesDictionary: >+
     Name: Angatra
 
@@ -1712,6 +1740,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -1811,6 +1843,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Jungle, Mangrove / Marécage, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 85 (10d8+40)
@@ -1833,9 +1867,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ange Enchaîné
-  Source: (LDM p19)(TOB p20)
-  AltName: Angel, Chained
   Type: Céleste
   Size: M
   Alignment: neutre mauvais
@@ -1844,15 +1875,18 @@ SubItems:
   Speed: 9m, vol 18m
   SavingThrows: Dex +6, Sag +7, Cha +8
   Skills: Perception +7
-  DamageResistances: perforants
   DamageImmunities: de feu, radiants
+  DamageResistances: perforants
   Senses: vision dans le noir 60m, Perception passive 17
   Languages: commun, céleste, infernal
   Challenge: 8 (3900 PX)
   Id: tome_of_beasts.md#ange-enchaîné
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ange Enchaîné
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Angel, Chained
+  Source: (LDM p19)(TOB p20)
   AttributesDictionary: >+
     Name: Ange Enchaîné
 
@@ -2006,9 +2040,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ange Fidèle
-  Source: (LDM p20)(TOB p21)
-  AltName: Fidele Angel
   Type: Céleste
   Size: M
   Alignment: loyal bon
@@ -2017,16 +2048,19 @@ SubItems:
   Speed: 12m, vol 12m (forme d'ange), ou 3m, vol 24m (forme d'aigle)
   SavingThrows: Dex +7, Con +5, Int +5, Sag +6, Cha +7
   Skills: Perception +6, Perspicacité +6
-  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d'acide, de froid
   ConditionImmunities: charmé, empoisonné, pétrifié
+  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18m, Perception passive 16
   Languages: commun, céleste, infernal
   Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#ange-fidèle
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ange Fidèle
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fidele Angel
+  Source: (LDM p20)(TOB p21)
   AttributesDictionary: >+
     Name: Ange Fidèle
 
@@ -2240,26 +2274,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Anubien
-  Source: (LDM p21)(TOB p24)
-  AltName: Anubian
   Type: Élémentaire
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Désert chaud, Plans élémentaires
   ArmorClass: 13
   HitPoints: 44 (8d8+8)
   Speed: 9m
   Skills: Discrétion +5 (+7 dans un terrain sablonneux)
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18m, perception des vibrations 9, Perception passive 11
   Languages: primordial
   Challenge: 2 (450 PX)
   Id: tome_of_beasts.md#anubien
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Anubien
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Anubian
+  Source: (LDM p21)(TOB p24)
   AttributesDictionary: >+
     Name: Anubien
 
@@ -2280,6 +2315,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires<!--/Terrain-->
 
 
 
@@ -2385,6 +2424,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Désert chaud, Plans élémentaires
+
     ArmorClass: 13
 
     HitPoints: 44 (8d8+8)
@@ -2407,25 +2448,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Apparition Putride
-  Source: (LDM p22)(TOB p315)
-  AltName: Putrid Haunt
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Mangrove / Marécage
   ArmorClass: 13 (armure naturelle)
   HitPoints: 44 (8d8+8)
   Speed: 9m
-  DamageResistances: contondants et perforants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  DamageResistances: contondants et perforants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: —
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#apparition-putride
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Apparition Putride
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Putrid Haunt
+  Source: (LDM p22)(TOB p315)
   AttributesDictionary: >+
     Name: Apparition Putride
 
@@ -2446,6 +2488,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -2541,6 +2587,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 44 (8d8+8)
@@ -2561,9 +2609,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée À Lignes Rouges
-  Source: (LDM p23)(TOB p363)
-  AltName: Red-Banded Line Spider
   Type: Bête
   Size: TP
   Alignment: non-alignée
@@ -2578,8 +2623,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#araignée-À-lignes-rouges
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée À Lignes Rouges
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Red-Banded Line Spider
+  Source: (LDM p23)(TOB p363)
   AttributesDictionary: >+
     Name: Araignée À Lignes Rouges
 
@@ -2715,26 +2763,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée De Leng
-  Source: (LDM p24)(TOB p365)
-  AltName: Spider of Leng
   Type: Aberration
   Size: G
   Alignment: chaotique mauvaise
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 144 (17d10+51)
   Speed: 9 m, escalade 6 m
   SavingThrows: Dex+6, Con +6, Int +6
   Skills: Athlétisme +5, Perception +3, Discrétion +6
-  DamageResistances: de poison
   ConditionImmunities: charmé, empoisonné, inconscient
+  DamageResistances: de poison
   Senses: vision dans le noir 72 m, Perception passive 13
   Languages: commun, langue du Vide
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#araignée-de-leng
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée De Leng
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spider of Leng
+  Source: (LDM p24)(TOB p365)
   AttributesDictionary: >+
     Name: Araignée De Leng
 
@@ -2755,6 +2804,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -2908,6 +2961,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 144 (17d10+51)
@@ -2930,12 +2985,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée Des Sables
-  Source: (LDM p25)(TOB p364)
-  AltName: Sand Spider
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Littoral, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (14d10+28)
   Speed: 9 m, fouissement 6 m
@@ -2945,8 +2998,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#araignée-des-sables
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée Des Sables
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sand Spider
+  Source: (LDM p25)(TOB p364)
   AttributesDictionary: >+
     Name: Araignée Des Sables
 
@@ -2967,6 +3023,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Littoral, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -3072,6 +3132,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Littoral, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 105 (14d10+28)
@@ -3088,12 +3150,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée J'Ba Fofi
-  Source: (LDM p26)(TOB p362)
-  AltName: J'Ba Fofi Spider
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 18 (armure naturelle)
   HitPoints: 75 (10d10+20)
   Speed: 12 m, escalade 12 m
@@ -3102,8 +3162,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#araignée-jba-fofi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée J'Ba Fofi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: J'Ba Fofi Spider
+  Source: (LDM p26)(TOB p362)
   AttributesDictionary: >+
     Name: Araignée J'Ba Fofi
 
@@ -3124,6 +3187,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -3219,6 +3286,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 75 (10d10+20)
@@ -3233,27 +3302,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée Marchespectre
-  Source: (LDM p27)(TOB p361)
-  AltName: Ghostwalk Spider
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
+  Terrain: Bois / Forêt, Caverne naturelle
   ArmorClass: 15
   HitPoints: 119 (14d10+42)
   Speed: 15 m, escalade 15 m
   SavingThrows: Dex +9, Cha +3
   Skills: Perception +6
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: empoisonnéparalysé, pétrifié, à terre, entravé, étourdi La marchespectre se termine quand l'araignée décide d'y mettre un terme par une action bonus ou quand elle meurt.
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
   Languages: comprend le commun des profondeurs mais ne peut pas parler
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#araignée-marchespectre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée Marchespectre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ghostwalk Spider
+  Source: (LDM p27)(TOB p361)
   AttributesDictionary: >+
     Name: Araignée Marchespectre
 
@@ -3274,6 +3344,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -3401,6 +3475,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Bois / Forêt, Caverne naturelle
+
     ArmorClass: 15
 
     HitPoints: 119 (14d10+42)
@@ -3425,26 +3501,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée Voleuse
-  Source: (LDM p28)(TOB p366)
-  AltName: Spider Thief
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
+  Terrain: Caverne aménagée, Donjon maçonné
   ArmorClass: 13 (armure naturelle)
   HitPoints: 54 (12d6+12)
   Speed: 9 m, escalade 6 m
   Skills: Discrétion +3
-  DamageResistances: de feu
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: de feu
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend le commun mais ne peut pas parler
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#araignée-voleuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée Voleuse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spider Thief
+  Source: (LDM p28)(TOB p366)
   AttributesDictionary: >+
     Name: Araignée Voleuse
 
@@ -3465,6 +3542,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné<!--/Terrain-->
 
 
 
@@ -3576,6 +3657,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Caverne aménagée, Donjon maçonné
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 54 (12d6+12)
@@ -3598,12 +3681,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Arbre Feuilledragon
-  Source: (LDM p29)(TOB p147)
-  AltName: Dragonleaf Tree
   Type: Plante
   Size: G
   Alignment: non alignée
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 1,50m
@@ -3614,8 +3695,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#arbre-feuilledragon
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Arbre Feuilledragon
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dragonleaf Tree
+  Source: (LDM p29)(TOB p147)
   AttributesDictionary: >+
     Name: Arbre Feuilledragon
 
@@ -3636,6 +3720,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -3733,6 +3821,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 152 (16d10+64)
@@ -3751,12 +3841,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Arbre Pare-Fées
-  Source: (LDM p30)(TOB p200)
-  AltName: Feyward Tree
   Type: Créature artificielle
   Size: TG
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Collines / Vallées
   ArmorClass: 17 (armure naturelle)
   HitPoints: 94 (9d12+36)
   Speed: 6 m
@@ -3769,8 +3857,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#arbre-pare-fées
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Arbre Pare-Fées
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Feyward Tree
+  Source: (LDM p30)(TOB p200)
   AttributesDictionary: >+
     Name: Arbre Pare-Fées
 
@@ -3791,6 +3882,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 
 
 
@@ -3914,6 +4009,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Collines / Vallées
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 94 (9d12+36)
@@ -3936,9 +4033,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Aridni
-  Source: (LDM p31)(TOB p26)
-  AltName: Aridni
   Type: Fée
   Size: P
   Alignment: neutre mauvaise
@@ -3952,8 +4046,11 @@ SubItems:
   Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#aridni
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Aridni
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Aridni
+  Source: (LDM p31)(TOB p26)
   AttributesDictionary: >+
     Name: Aridni
 
@@ -4113,12 +4210,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Asanbosam
-  Source: (LDM p32)(TOB p27)
-  AltName: Asanbosam
   Type: Aberration
   Size: G
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 14 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 12m, escalade 4,50m
@@ -4128,8 +4223,11 @@ SubItems:
   Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#asanbosam
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Asanbosam
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Asanbosam
+  Source: (LDM p32)(TOB p27)
   AttributesDictionary: >+
     Name: Asanbosam
 
@@ -4150,6 +4248,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -4243,6 +4345,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 102 (12d10+36)
@@ -4259,26 +4363,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Assoiffeur Gris
-  Source: (LDM p33)(TOB p238)
-  AltName: Gray Thirster
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Désert chaud
   ArmorClass: 13
   HitPoints: 39 (6d8+12)
   Speed: 9m
   Skills: Discrétion +5
-  DamageResistances: contondants et nécrotiques
   DamageImmunities: de feu, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  DamageResistances: contondants et nécrotiques
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: comprend les langues qu'il parlait de son vivant mais ne peut pas parler
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#assoiffeur-gris
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Assoiffeur Gris
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gray Thirster
+  Source: (LDM p33)(TOB p238)
   AttributesDictionary: >+
     Name: Assoiffeur Gris
 
@@ -4299,6 +4404,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -4404,6 +4513,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Désert chaud
+
     ArmorClass: 13
 
     HitPoints: 39 (6d8+12)
@@ -4426,12 +4537,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Automate Bibliothécaire
-  Source: (LDM p34)(TOB p273)
-  AltName: Library Automaton
   Type: Créature artificielle
   Size: P
   Alignment: loyale neutre
+  Terrain: Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 7 (2d6)
   Speed: 9m
@@ -4443,8 +4552,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#automate-bibliothécaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Automate Bibliothécaire
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Library Automaton
+  Source: (LDM p34)(TOB p273)
   AttributesDictionary: >+
     Name: Automate Bibliothécaire
 
@@ -4465,6 +4577,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -4554,6 +4670,8 @@ SubItems:
 
     Alignment: loyale neutre
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 7 (2d6)
@@ -4574,12 +4692,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bagiennik
-  Source: (LDM p35)(TOB p31)
-  AltName: Bagiennik
   Type: Aberration
   Size: M
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 75 (10d8+30)
   Speed: 9m, nage 12m
@@ -4589,8 +4705,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#bagiennik
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bagiennik
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bagiennik
+  Source: (LDM p35)(TOB p31)
   AttributesDictionary: >+
     Name: Bagiennik
 
@@ -4611,6 +4730,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -4698,6 +4821,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt, Jungle, Mangrove / Marécage
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 75 (10d8+30)
@@ -4714,9 +4839,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Beauté Abominable
-  Source: (LDM p36)(TOB p11)
-  AltName: Abominable Beauty
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -4731,8 +4853,11 @@ SubItems:
   Challenge: 11 (7 200 PX)
   Id: tome_of_beasts.md#beauté-abominable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Beauté Abominable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Abominable Beauty
+  Source: (LDM p36)(TOB p11)
   AttributesDictionary: >+
     Name: Beauté Abominable
 
@@ -4874,12 +4999,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Behtu
-  Source: (LDM p37)(TOB p34)
-  AltName: Behtu
   Type: Humanoïde
   Size: P
   Alignment: chaotique mauvais
+  Terrain: Jungle
   ArmorClass: 14 (armure de peau)
   HitPoints: 52 (8d6+24)
   Speed: 6m, escalade6m
@@ -4891,8 +5014,11 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: tome_of_beasts.md#behtu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Behtu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Behtu
+  Source: (LDM p37)(TOB p34)
   AttributesDictionary: >+
     Name: Behtu
 
@@ -4913,6 +5039,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -5008,6 +5138,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Jungle
+
     ArmorClass: 14 (armure de peau)
 
     HitPoints: 52 (8d6+24)
@@ -5028,26 +5160,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Béli
-  Source: (LDM p38)(TOB p35)
-  AltName: Beli
   Type: Fée
   Size: P
   Alignment: neutre mauvaise
+  Terrain: Arctique / Subarctique, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 45 (10d6+10)
   Speed: 9m, vol 9m
   SavingThrows: Dex +5
   Skills: Discrétion +5, Perception +4
+  DamageVulnerabilities: de feu
   DamageImmunities: de froid
   Senses: vision dans le noir 18m, Perception passive 14
   Languages: commun, géant, nain
   Challenge: 2 (450 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#béli
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Béli
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Beli
+  Source: (LDM p38)(TOB p35)
   AttributesDictionary: >+
     Name: Béli
 
@@ -5068,6 +5201,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Montagnes<!--/Terrain-->
 
 
 
@@ -5191,6 +5328,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Arctique / Subarctique, Montagnes
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 45 (10d6+10)
@@ -5213,26 +5352,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Belle Noyée
-  Source: (LDM p39)(TOB p159)
-  AltName: Drowned Maiden
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 90 (20d8)
   Speed: 9 m, nage 12 m
   SavingThrows: Dex +6, Cha +7
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, terrorisé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#belle-noyée
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Belle Noyée
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Drowned Maiden
+  Source: (LDM p39)(TOB p159)
   AttributesDictionary: >+
     Name: Belle Noyée
 
@@ -5253,6 +5393,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -5376,6 +5520,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 90 (20d8)
@@ -5398,12 +5544,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Béreginyas
-  Source: (LDM p40)(TOB p36)
-  AltName: Bereginyas
   Type: Fée
   Size: TP
   Alignment: neutre mauvaise
+  Terrain: Montagnes
   ArmorClass: 15
   HitPoints: 70 (20d4+20)
   Speed: 6m, vol 18m
@@ -5415,8 +5559,11 @@ SubItems:
   Challenge: 4 (1100 PX)
   Id: tome_of_beasts.md#béreginyas
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Béreginyas
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bereginyas
+  Source: (LDM p40)(TOB p36)
   AttributesDictionary: >+
     Name: Béreginyas
 
@@ -5437,6 +5584,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -5526,6 +5677,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Montagnes
+
     ArmorClass: 15
 
     HitPoints: 70 (20d4+20)
@@ -5546,12 +5699,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bête D'Ombre
-  Source: (LDM p41)(TOB p345)
-  AltName: Shadow Beast
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines
   ArmorClass: 14
   HitPoints: 135 (18d8+54)
   Speed: 0 m, vol 12m (vol stationnaire)
@@ -5562,8 +5713,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#bête-dombre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bête D'Ombre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shadow Beast
+  Source: (LDM p41)(TOB p345)
   AttributesDictionary: >+
     Name: Bête D'Ombre
 
@@ -5584,6 +5738,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -5711,6 +5869,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines
+
     ArmorClass: 14
 
     HitPoints: 135 (18d8+54)
@@ -5729,12 +5889,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Blemmyes
-  Source: (LDM p42)(TOB p37)
-  AltName: Blemmyes
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 15 (armure naturelle)
   HitPoints: 168 (16d10+80)
   Speed: 12m
@@ -5744,8 +5902,11 @@ SubItems:
   Challenge: 8 (3900 PX)
   Id: tome_of_beasts.md#blemmyes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Blemmyes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Blemmyes
+  Source: (LDM p42)(TOB p37)
   AttributesDictionary: >+
     Name: Blemmyes
 
@@ -5766,6 +5927,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -5859,6 +6024,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 168 (16d10+80)
@@ -5875,12 +6042,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Boloti
-  Source: (LDM p43)(TOB p38)
-  AltName: Boloti
   Type: Fée
   Size: TP
   Alignment: neutre mauvaise
+  Terrain: Mangrove / Marécage
   ArmorClass: 15
   HitPoints: 63 (14d4+28)
   Speed: 6m, nage 18m
@@ -5890,8 +6055,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#boloti
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Boloti
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Boloti
+  Source: (LDM p43)(TOB p38)
   AttributesDictionary: >+
     Name: Boloti
 
@@ -5912,6 +6080,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -6023,6 +6195,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 15
 
     HitPoints: 63 (14d4+28)
@@ -6039,12 +6213,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bondisseur Aquatique
-  Source: (LDM p44)(TOB p406)
-  AltName: Water Leaper
   Type: Créature monstrueuse
   Size: G
   Alignment: non alignée
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 97 (13d10+26)
   Speed: 1,50 m, vol 15 m, nage 12 m
@@ -6053,8 +6225,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#bondisseur-aquatique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bondisseur Aquatique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Water Leaper
+  Source: (LDM p44)(TOB p406)
   AttributesDictionary: >+
     Name: Bondisseur Aquatique
 
@@ -6075,6 +6250,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -6176,6 +6355,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 97 (13d10+26)
@@ -6190,33 +6371,34 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Avatar De Borée
-  Source: (LDM p45)(TOB p42)
-  AltName: Avatar of Boreas
   Type: Élémentaire
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Arctique / Subarctique
   ArmorClass: 20 (armure naturelle)
   HitPoints: 168 (16d8+96)
   Speed: 15m, vol 36m
   SavingThrows: Dex +12, Sag +10, Cha +11
   Skills: Discrétion +12, Nature +10, Perception +10, Supercherie +11
-  DamageResistances: d'acide
   DamageImmunities: de froid, de foudre, de poison, de tonnerre
   ConditionImmunities: empoisonné, petrifié
+  DamageResistances: d'acide
   Senses: vision dans le noir 18m, vision parfaite 36m, Perception passive 20
   Languages: commun, géant, infernal, nain
   Challenge: 17 (18000 PX)
   Id: tome_of_beasts.md#avatar-de-borée
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Avatar de Borée
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Avatar of Boreas
+  Source: (LDM p45)(TOB p42)
   AttributesDictionary: >+
-    Name: Avatar De Borée
+    Name: Avatar de Borée
 
     Markdown: >+
 
-      # <!--Name-->Avatar De Borée<!--/Name-->
+      # <!--Name-->Avatar de Borée<!--/Name-->
 
 
 
@@ -6231,6 +6413,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (métamorphe) (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -6412,6 +6598,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 168 (16d8+96)
@@ -6436,9 +6624,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Boucca
-  Source: (LDM p47)(TOB p46)
-  AltName: Bucca
   Type: Fée
   Size: TP
   Alignment: neutre mauvaise
@@ -6451,8 +6636,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#boucca
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Boucca
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bucca
+  Source: (LDM p47)(TOB p46)
   AttributesDictionary: >+
     Name: Boucca
 
@@ -6588,9 +6776,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bouda
-  Source: (LDM p48)(TOB p44)
-  AltName: Bouda
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -6599,16 +6784,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+5, Con +7, Sag +4, Cha +5
   Skills: Athlétisme +7, Discrétion +5, Intimidation +5, Perception +4, Supercherie +5
-  DamageResistances: d'acide, de foudre; contondants, perforants, et tranchants infligés par des armes non magiques qui ne sont pas en argent.
   DamageImmunities: de feu, de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  DamageResistances: d'acide, de foudre; contondants, perforants, et tranchants infligés par des armes non magiques qui ne sont pas en argent.
   Senses: vision dans le noir 36m, Perception passive 14
   Languages: commun, céleste, infernal, nurien; télépathie30m
   Challenge: 5 (1800 PX)
   Id: tome_of_beasts.md#bouda
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bouda
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bouda
+  Source: (LDM p48)(TOB p44)
   AttributesDictionary: >+
     Name: Bouda
 
@@ -6798,9 +6986,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bouffon Macabre
-  Source: (LDM p49)(TOB p240)
-  AltName: Grim Jester
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -6809,16 +6994,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+10, Con +8, Cha+9
   Skills: Acrobaties +10, Supercherie +9, Perception +7, Représentation +9, Escamotage +10, Discrétion +10
-  DamageResistances: de froid
   DamageImmunities: nécrotiques, de poison; contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  DamageResistances: de froid
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: abyssal, céleste, commun, gnome ; télépathie 18 m
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#bouffon-macabre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bouffon Macabre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Grim Jester
+  Source: (LDM p49)(TOB p240)
   AttributesDictionary: >+
     Name: Bouffon Macabre
 
@@ -7008,9 +7196,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bouraq
-  Source: (LDM p50)(TOB p48)
-  AltName: Buraq
   Type: Céleste
   Size: M
   Alignment: loyal bon
@@ -7019,15 +7204,18 @@ SubItems:
   Speed: 18m, vol 27m
   SavingThrows: Con +9, Sag +8, Cha +9
   Skills: Histoire +8, Religion +8
-  DamageResistances: radiants; contondants, perforants, et tranchants infligés par des armes non magiques.
   ConditionImmunities: charmé, épuisé, terrorisé
+  DamageResistances: radiants; contondants, perforants, et tranchants infligés par des armes non magiques.
   Senses: vision parfaite 36m, Perception passive 14
   Languages: céleste, commun, primordial, télépathie 36m
   Challenge: 11 (7200 PX)
   Id: tome_of_beasts.md#bouraq
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bouraq
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Buraq
+  Source: (LDM p50)(TOB p48)
   AttributesDictionary: >+
     Name: Bouraq
 
@@ -7205,25 +7393,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Cactide
-  Source: (LDM p51)(TOB p50)
-  AltName: Cactid
   Type: Plante
   Size: G
   Alignment: non alignée
+  Terrain: Désert chaud
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76(8d10+32)
   Speed: 1,50m
-  DamageResistances: contondants et perforants
+  DamageVulnerabilities: de feu
   ConditionImmunities: assourdi et aveuglé
+  DamageResistances: contondants et perforants
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
   Languages: comprend le sylvestre mais ne peut pas parler
   Challenge: 3 (700 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#cactide
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Cactide
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Cactid
+  Source: (LDM p51)(TOB p50)
   AttributesDictionary: >+
     Name: Cactide
 
@@ -7244,6 +7433,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -7339,6 +7532,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Désert chaud
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 76(8d10+32)
@@ -7359,12 +7554,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Cambium
-  Source: (LDM p52)(TOB p51)
-  AltName: Cambium
   Type: Fiélon
   Size: G
   Alignment: neutre mauvais
+  Terrain: Donjon maçonné, Ruines extérieures
   ArmorClass: 19 (armure naturelle)
   HitPoints: 264 (23d10+138)
   Speed: 12m
@@ -7377,8 +7570,11 @@ SubItems:
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#cambium
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Cambium
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Cambium
+  Source: (LDM p52)(TOB p51)
   AttributesDictionary: >+
     Name: Cambium
 
@@ -7399,6 +7595,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -7552,6 +7752,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Donjon maçonné, Ruines extérieures
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 264 (23d10+138)
@@ -7574,12 +7776,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Canitaupe
-  Source: (LDM p53)(TOB p120)
-  AltName: Dogmole
   Type: Bête
   Size: M
   Alignment: neutre
+  Terrain: Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 14 (armure naturelle)
   HitPoints: 71 (11d8+22)
   Speed: 9 m, fouissement 3 m, nage 3 m
@@ -7588,8 +7788,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#canitaupe
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Canitaupe
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dogmole
+  Source: (LDM p53)(TOB p120)
   AttributesDictionary: >+
     Name: Canitaupe
 
@@ -7610,6 +7813,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -7699,6 +7906,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 71 (11d8+22)
@@ -7713,12 +7922,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Canitaupe Juggernaut
-  Source: (LDM p54)(TOB p121)
-  AltName: Dogmole Juggernaut
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle
   ArmorClass: 15 (armure de chaînes)
   HitPoints: 126 (12d10+60)
   Speed: 9 m, fouissement 3 m, nage 3 m
@@ -7728,8 +7935,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#canitaupe-juggernaut
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Canitaupe Juggernaut
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dogmole Juggernaut
+  Source: (LDM p54)(TOB p121)
   AttributesDictionary: >+
     Name: Canitaupe Juggernaut
 
@@ -7750,6 +7960,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -7855,6 +8069,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Collines / Vallées, Montagnes, Caverne naturelle
+
     ArmorClass: 15 (armure de chaînes)
 
     HitPoints: 126 (12d10+60)
@@ -7871,26 +8087,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chapeau Rouge
-  Source: (LDM p55)(TOB p325)
-  AltName: Redcap
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (14d8+42)
   Speed: 12m
   SavingThrows: Con +6
   Skills: Athlétisme +8, Intimidation +5
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, terrorisé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, sylvestre, commun des profondeurs
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#chapeau-rouge
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chapeau Rouge
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Redcap
+  Source: (LDM p55)(TOB p325)
   AttributesDictionary: >+
     Name: Chapeau Rouge
 
@@ -7911,6 +8128,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -8022,6 +8243,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 105 (14d8+42)
@@ -8044,9 +8267,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chat Du Temple De Bastet
-  Source: (LDM p56)(TOB p32)
-  AltName: Bastet Temple Cat
   Type: Créature montrueuse
   Size: P
   Alignment: chaotique neutre
@@ -8059,8 +8279,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#chat-du-temple-de-bastet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chat Du Temple De Bastet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bastet Temple Cat
+  Source: (LDM p56)(TOB p32)
   AttributesDictionary: >+
     Name: Chat Du Temple De Bastet
 
@@ -8220,9 +8443,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chélicère
-  Source: (LDM p57)(TOB p54)
-  AltName: Chelicerae
   Type: Aberration
   Size: G
   Alignment: neutre mauvaise
@@ -8238,8 +8458,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#chélicère
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chélicère
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Chelicerae
+  Source: (LDM p57)(TOB p54)
   AttributesDictionary: >+
     Name: Chélicère
 
@@ -8429,9 +8652,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chernomoï
-  Source: (LDM p58)(TOB p55)
-  AltName: Chernomoi
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -8445,8 +8665,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#chernomoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chernomoï
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Chernomoi
+  Source: (LDM p58)(TOB p55)
   AttributesDictionary: >+
     Name: Chernomoï
 
@@ -8582,12 +8805,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chien-Anguille
-  Source: (LDM p59)(TOB p166)
-  AltName: Eel Hound
   Type: Fée
   Size: M
   Alignment: neutre
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 14 (armure naturelle)
   HitPoints: 77 (14d8+14)
   Speed: 9 m, nage 12 m
@@ -8597,8 +8818,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#chien-anguille
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chien-Anguille
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Eel Hound
+  Source: (LDM p59)(TOB p166)
   AttributesDictionary: >+
     Name: Chien-Anguille
 
@@ -8619,6 +8843,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -8712,6 +8940,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 77 (14d8+14)
@@ -8728,9 +8958,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chien Du Temple
-  Source: (LDM p60)(TOB p378)
-  AltName: Temple Dog
   Type: Céleste
   Size: M
   Alignment: bon
@@ -8745,8 +8972,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#chien-du-temple
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chien Du Temple
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Temple Dog
+  Source: (LDM p60)(TOB p378)
   AttributesDictionary: >+
     Name: Chien Du Temple
 
@@ -8888,9 +9118,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chiot Mastodonte
-  Source: (LDM p61)(TOB p252)
-  AltName: Hulking Whelp
   Type: Fée (métamorphe)
   Size: P/TG
   Alignment: chaotique neutre
@@ -8903,8 +9130,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#chiot-mastodonte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chiot Mastodonte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Hulking Whelp
+  Source: (LDM p61)(TOB p252)
   AttributesDictionary: >+
     Name: Chiot Mastodonte
 
@@ -9046,12 +9276,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chronomentaire
-  Source: (LDM p62)(TOB p57)
-  AltName: Chronalmental
   Type: Élémentaire
   Size: G
   Alignment: non aligné
+  Terrain: Plans élémentaires, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 9m
@@ -9062,8 +9290,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#chronomentaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chronomentaire
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Chronalmental
+  Source: (LDM p62)(TOB p57)
   AttributesDictionary: >+
     Name: Chronomentaire
 
@@ -9084,6 +9315,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -9193,6 +9428,8 @@ SubItems:
 
     Alignment: non aligné
 
+    Terrain: Plans élémentaires, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 152 (16d10+64)
@@ -9211,9 +9448,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Cikavak
-  Source: (LDM p63)(TOB p58)
-  AltName: Cikavak
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -9227,8 +9461,11 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: tome_of_beasts.md#cikavak
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Cikavak
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Cikavak
+  Source: (LDM p63)(TOB p58)
   AttributesDictionary: >+
     Name: Cikavak
 
@@ -9358,27 +9595,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Claquepiège
-  Source: (LDM p64)(TOB p229)
-  AltName: Gnarljak
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
+  Terrain: Donjon maçonné
   ArmorClass: 16
   HitPoints: 63 (14d6+14)
   Speed: 9m
   SavingThrows: Dex+9
   Skills: Perception +5, Discrétion +9
-  DamageResistances: d'acide, de feu, de froid; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison et psychiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: d'acide, de feu, de froid; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 9m, Perception passive 15
   Languages: —
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#claquepiège
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Claquepiège
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gnarljak
+  Source: (LDM p64)(TOB p229)
   AttributesDictionary: >+
     Name: Claquepiège
 
@@ -9399,6 +9637,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 
 
 
@@ -9490,6 +9732,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Donjon maçonné
+
     ArmorClass: 16
 
     HitPoints: 63 (14d6+14)
@@ -9514,9 +9758,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Clurichaun
-  Source: (LDM p65)(TOB p67)
-  AltName: Clurichaun
   Type: Fée
   Size: TP
   Alignment: neutre
@@ -9531,8 +9772,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#clurichaun
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Clurichaun
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clurichaun
+  Source: (LDM p65)(TOB p67)
   AttributesDictionary: >+
     Name: Clurichaun
 
@@ -9686,12 +9930,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Colonne Possédée
-  Source: (LDM p66)(TOB p314)
-  AltName: Possessed Pillar
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
+  Terrain: Désert chaud
   ArmorClass: 14 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 6 m
@@ -9702,8 +9944,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#colonne-possédée
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Colonne Possédée
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Possessed Pillar
+  Source: (LDM p66)(TOB p314)
   AttributesDictionary: >+
     Name: Colonne Possédée
 
@@ -9724,6 +9969,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -9833,6 +10082,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Désert chaud
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 95 (10d10+40)
@@ -9851,9 +10102,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Conglomérat Osseux
-  Source: (LDM p67)(TOB p39)
-  AltName: Bone Collective
   Type: Mort-vivant
   Size: P
   Alignment: chaotique mauvais
@@ -9862,16 +10110,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +8
   Skills: Arcanes +5, Discrétion +11, Perception +3, Supercherie +6
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent.
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: épuisé, empoisonné
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent.
   Senses: vision dans le noir 36m, Perception passive 13
   Languages: commun, darakhul
   Challenge: 8 (3900 PX)
   Id: tome_of_beasts.md#conglomérat-osseux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Conglomérat Osseux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bone Collective
+  Source: (LDM p67)(TOB p39)
   AttributesDictionary: >+
     Name: Conglomérat Osseux
 
@@ -10055,9 +10306,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Coquicape
-  Source: (LDM p68)(TOB p346)
-  AltName: Shellycoat
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -10071,8 +10319,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#coquicape
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Coquicape
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shellycoat
+  Source: (LDM p68)(TOB p346)
   AttributesDictionary: >+
     Name: Coquicape
 
@@ -10232,23 +10483,23 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Couveteux
-  Source: (LDM p69)(TOB p45)
-  AltName: Broodiken
   ArmorClass: 13 (armure naturelle)
   HitPoints: 55 (10d4+30)
   Speed: 6m, escalade 6m
   Skills: Discrétion +6, Perception +4
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques.
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques.
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#couveteux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Couveteux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Broodiken
+  Source: (LDM p69)(TOB p45)
   AttributesDictionary: >+
     Name: Couveteux
 
@@ -10386,12 +10637,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Crabe Garrotteur
-  Source: (LDM p70)(TOB p208)
-  AltName: Garroter Crab
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Littoral, Caverne sous-marine
   ArmorClass: 13 (armure naturelle)
   HitPoints: 18 (4d4+8)
   Speed: 9 m, nage 6 m
@@ -10402,8 +10651,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#crabe-garrotteur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Crabe Garrotteur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Garroter Crab
+  Source: (LDM p70)(TOB p208)
   AttributesDictionary: >+
     Name: Crabe Garrotteur
 
@@ -10424,6 +10676,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -10503,6 +10759,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Caverne sous-marine
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 18 (4d4+8)
@@ -10521,12 +10779,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Crabe Osseux
-  Source: (LDM p71)(TOB p40)
-  AltName: Bone Crab
   Type: Bête
   Size: P
   Alignment: neutre
+  Terrain: Littoral
   ArmorClass: 13 (armure naturelle)
   HitPoints: 33 (6d6+12)
   Speed: 6 m, nage 3m
@@ -10537,8 +10793,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#crabe-osseux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Crabe Osseux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bone Crab
+  Source: (LDM p71)(TOB p40)
   AttributesDictionary: >+
     Name: Crabe Osseux
 
@@ -10559,6 +10818,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -10668,6 +10931,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Littoral
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 33 (6d6+12)
@@ -10686,12 +10951,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Croco De Verre
-  Source: (LDM p72)(TOB p228)
-  AltName: Glass Gator
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
   ArmorClass: 15 (armure naturelle)
   HitPoints: 45 (7d10+7)
   Speed: 9 m, nage 15 m
@@ -10701,8 +10964,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#croco-de-verre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Croco De Verre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Glass Gator
+  Source: (LDM p72)(TOB p228)
   AttributesDictionary: >+
     Name: Croco De Verre
 
@@ -10723,6 +10989,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -10834,6 +11104,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 45 (7d10+7)
@@ -10850,12 +11122,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Cynome
-  Source: (LDM p73)(TOB p49)
-  AltName: Burrowling
   Type: Humanoïde
   Size: P
   Alignment: loyal neutre
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 27 (6d6+6)
   Speed: 9m, fouissement 3m
@@ -10865,8 +11135,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#cynome
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Cynome
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Burrowling
+  Source: (LDM p73)(TOB p49)
   AttributesDictionary: >+
     Name: Cynome
 
@@ -10887,6 +11160,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (cynome) (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -10986,6 +11263,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 27 (6d6+6)
@@ -11002,12 +11281,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dau
-  Source: (LDM p74)(TOB p70)
-  AltName: Dau
   Type: Fée
   Size: P
   Alignment: chaotique neutre
+  Terrain: Désert chaud
   ArmorClass: 13
   HitPoints: 49 (9d6+18)
   Speed: 6 m, vol 18 m (vol stationnaire)
@@ -11017,8 +11294,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#dau
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dau
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dau
+  Source: (LDM p74)(TOB p70)
   AttributesDictionary: >+
     Name: Dau
 
@@ -11039,6 +11319,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -11166,6 +11450,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Désert chaud
+
     ArmorClass: 13
 
     HitPoints: 49 (9d6+18)
@@ -11182,27 +11468,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Demoiselle Glacée
-  Source: (LDM p75)(TOB p254)
-  AltName: Ice Maiden
   Type: Fée
   Size: M
   Alignment: loyale mauvaise
+  Terrain: Arctique / Subarctique
   ArmorClass: 16 (armure naturelle)
   HitPoints: 84 (13d8+26)
   Speed: 9 m
   SavingThrows: Con +5, Cha +9
   Skills: Supercherie +9, Persuasion +9, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de feu
   DamageImmunities: de froid
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, géant, sylvestre
   Challenge: 6 (2 300PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#demoiselle-glacée
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Demoiselle Glacée
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ice Maiden
+  Source: (LDM p75)(TOB p254)
   AttributesDictionary: >+
     Name: Demoiselle Glacée
 
@@ -11223,6 +11510,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -11398,6 +11689,8 @@ SubItems:
 
     Alignment: loyale mauvaise
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 84 (13d8+26)
@@ -11422,9 +11715,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Apau Perape
-  Source: (LDM p76)(TOB p75)
-  AltName: Apau Perape
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -11433,17 +11723,20 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7, Con +7, Sag +4
   Skills: Discrétion +7, Intimidation +5, Perception +4
-  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageVulnerabilities: de froid
   DamageImmunities: de poison
   ConditionImmunities: empoisonné, terrorisé
+  DamageResistances: de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 14
   Languages: infernal, simien, télépathie 36 m
   Challenge: 6 (2 300PX)
-  DamageVulnerabilities: de froid
   Id: tome_of_beasts.md#apau-perape
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Apau Perape
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Apau Perape
+  Source: (LDM p76)(TOB p75)
   AttributesDictionary: >+
     Name: Apau Perape
 
@@ -11633,9 +11926,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Berstuc
-  Source: (LDM p77)(TOB p76)
-  AltName: Berstuc
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -11644,16 +11934,19 @@ SubItems:
   Speed: 12 m, fouissement 6 m
   SavingThrows: For +10, Sag +6, Cha +8
   Skills: Discrétion +4 (+8 en terrain boisé), Nature +10, Supercherie +8, Survie +6
-  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de foudre, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 12
   Languages: abyssal, commun, sylvestre ; télépathie 36 m
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#berstuc
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Berstuc
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Berstuc
+  Source: (LDM p77)(TOB p76)
   AttributesDictionary: >+
     Name: Berstuc
 
@@ -11813,25 +12106,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Démon De Sève
-  Source: (LDM p78)(TOB p335)
-  AltName: Sap Demon
   Type: Vase
   Size: P
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt
   ArmorClass: 13 (naturelle)
   HitPoints: 67 (15d6+15)
   Speed: 6 m, escalade 6 m
-  DamageResistances: perforants et tranchants issus d'armes non magiques
   DamageImmunities: contondants, d'acide, de foudre
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, à terre
+  DamageResistances: perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 27 m (aveugle au-delà de cette distance), Perception passive 12
   Languages: aucune sous sa forme naturelle ; connaît les mêmes que la créature qu'il domine.
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#démon-de-sève
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Démon De Sève
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sap Demon
+  Source: (LDM p78)(TOB p335)
   AttributesDictionary: >+
     Name: Démon De Sève
 
@@ -11852,6 +12146,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -11953,6 +12251,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13 (naturelle)
 
     HitPoints: 67 (15d6+15)
@@ -11973,9 +12273,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Démon Kishi
-  Source: (LDM p79)(TOB p77)
-  AltName: Kishi Demon
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -11984,16 +12281,19 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex+8, Con +7, Sag +3
   Skills: Perception +3, Représentation +9, Supercherie +9
-  DamageResistances: de froid, de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid, de feu, de foudre, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: céleste, commun, draconique, infernal, télépathie 36 m
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#démon-kishi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Démon Kishi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kishi Demon
+  Source: (LDM p79)(TOB p77)
   AttributesDictionary: >+
     Name: Démon Kishi
 
@@ -12199,9 +12499,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Malakbel
-  Source: (LDM p80)(TOB p78)
-  AltName: Malakbel
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -12210,16 +12507,19 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex +7, Sag +7
   Skills: Perception +7
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de feu, radiants, de poison
   ConditionImmunities: aveuglé et empoisonné
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision parfaite 9m, Perception passive 17
   Languages: abyssal ; télépathie 36 m
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#malakbel
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Malakbel
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Malakbel
+  Source: (LDM p80)(TOB p78)
   AttributesDictionary: >+
     Name: Malakbel
 
@@ -12385,9 +12685,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Démon Psoglav
-  Source: (LDM p81)(TOB p79)
-  AltName: Psoglav Demon
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -12396,16 +12693,19 @@ SubItems:
   Speed: 12 m, vol 18 m
   SavingThrows: Dex +9, Con +8, Sag +7, Cha +7
   Skills: Acrobaties +9, Discrétion +9, Intimidation +7, Perception +6
-  DamageResistances: de froid, de foudre
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid, de foudre
   Senses: vision aveugle 9 m, vision dans le noir 18 m, Perception passive 16
   Languages: commun, infernal ; télépathie 18 m
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#démon-psoglav
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Démon Psoglav
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Psoglav Demon
+  Source: (LDM p81)(TOB p79)
   AttributesDictionary: >+
     Name: Démon Psoglav
 
@@ -12571,9 +12871,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Rübezahl
-  Source: (LDM p82)(TOB p80)
-  AltName: Rubezahl
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -12582,16 +12879,19 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex+6, Con +6, Sag +5
   Skills: Perception +5, Supercherie +8, Survie +5
-  DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de foudre, de tonnerre, de poison
   ConditionImmunities: empoisonné, étourdi
+  DamageResistances: de froid, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 15
   Languages: abyssal, commun ; télépathie 36 m
   Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#rübezahl
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Rübezahl
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rubezahl
+  Source: (LDM p82)(TOB p80)
   AttributesDictionary: >+
     Name: Rübezahl
 
@@ -12785,9 +13085,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Akyishigal, seigneur démon des cafards
-  Source: (LDM p84)(TOB p82)
-  AltName: Akyishigal, Demon Lord of Cockroaches
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -12796,16 +13093,19 @@ SubItems:
   Speed: 12 m, fouissement 6 m, escalade12 m, vol 12 m
   SavingThrows: For +9, Dex+7, Con +10, Sag +6, Cha +11
   Skills: Acrobaties +11, Athlétisme +9, Discrétion +11, Perception +6
-  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de froid, de foudre, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: d'acide, de feu; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 16
   Languages: abyssal, commun, draconique, elfe, infernal ; télépathie 18 m
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#akyishigal-seigneur-démon-des-cafards
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Akyishigal, seigneur démon des cafards
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Akyishigal, Demon Lord of Cockroaches
+  Source: (LDM p84)(TOB p82)
   AttributesDictionary: >+
     Name: Akyishigal, seigneur démon des cafards
 
@@ -13013,9 +13313,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Rejeton D'Akyishigal
-  Source: (LDM p85)(TOB p83)
-  AltName: Spawn of Akyishigal
   Type: Fiélon (démon)
   Size: M
   Alignment: chaotique mauvais
@@ -13030,8 +13327,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#rejeton-dakyishigal
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Rejeton D'Akyishigal
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spawn of Akyishigal
+  Source: (LDM p85)(TOB p83)
   AttributesDictionary: >+
     Name: Rejeton D'Akyishigal
 
@@ -13173,9 +13473,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Alquam, seigneur démon de la nuit
-  Source: (LDM p86)(TOB p84)
-  AltName: Alquam, Demon Lord of Night
   Type: Fiélon (démon)
   Size: TG
   Alignment: chaotique mauvais
@@ -13184,16 +13481,19 @@ SubItems:
   Speed: 6 m, vol 30 m
   SavingThrows: Dex+11, Con +13, Sag +12
   Skills: Discrétion +11, Perception +12, Supercherie +10
-  DamageResistances: de feu et de foudre
   DamageImmunities: de froid, de poison; contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: charmé, empoisonné, épuisé, terrorisé
+  DamageResistances: de feu et de foudre
   Senses: vision parfaite 36 m, Perception passive 22
   Languages: toutes ; télépathie 36 m
   Challenge: 21 (33 000 PX)
   Id: tome_of_beasts.md#alquam-seigneur-démon-de-la-nuit
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Alquam, seigneur démon de la nuit
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Alquam, Demon Lord of Night
+  Source: (LDM p86)(TOB p84)
   AttributesDictionary: >+
     Name: Alquam, seigneur démon de la nuit
 
@@ -13520,9 +13820,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Camazotz, seigneur démon des chauves-souris et du feu
-  Source: (LDM p87)(TOB p85)
-  AltName: Camazotz, Demon Lord of Bats and Fire
   Type: Fiélon (démon)
   Size: G
   Alignment: chaotique mauvais
@@ -13531,17 +13828,20 @@ SubItems:
   Speed: 9 m, escalade 9 m, vol 24 m
   SavingThrows: Dex +13, Con +14, Sag +13, Cha +14
   Skills: Acrobaties +13, Athlétisme +17, Intimidation +14, Perception +13, Perspicacité +13, Supercherie +14
-  DamageResistances: d'acide, de foudre; contondants, perforants et tranchants infligés par des armes non magiques
+  DamageVulnerabilities: de froid
   DamageImmunities: de feu, de poison et de foudre
   ConditionImmunities: assourdi, charmé, empoisonné, étourdi, paralysé, pétrifié, terrorisé
+  DamageResistances: d'acide, de foudre; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision aveugle 36 m, vision dans le noir 12 m, Perception passive 23
   Languages: commun, darakhul, derro, draconique, infernal, langue du vide, nain, nurien, primordial ; télépathie 90 m
   Challenge: 22 (62000 PX)
-  DamageVulnerabilities: de froid
   Id: tome_of_beasts.md#camazotz-seigneur-démon-des-chauves-souris-et-du-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Camazotz, seigneur démon des chauves-souris et du feu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Camazotz, Demon Lord of Bats and Fire
+  Source: (LDM p87)(TOB p85)
   AttributesDictionary: >+
     Name: Camazotz, seigneur démon des chauves-souris et du feu
 
@@ -13791,9 +14091,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chauve-Souris De Peau
-  Source: (LDM p89)(TOB p87)
-  AltName: Skin Bat
   Type: Mort-vivant
   Size: P
   Alignment: neutre mauvais
@@ -13807,8 +14104,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#chauve-souris-de-peau
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chauve-Souris De Peau
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Skin Bat
+  Source: (LDM p89)(TOB p87)
   AttributesDictionary: >+
     Name: Chauve-Souris De Peau
 
@@ -13926,9 +14226,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mechuiti, seigneur démon des grands singes
-  Source: (LDM p90)(TOB p88)
-  AltName: Mechuiti, Demon Lord of Apes
   Type: Fiélon (démon)
   Size: Gig
   Alignment: chaotique mauvais
@@ -13937,16 +14234,19 @@ SubItems:
   Speed: 18 m, escalade 18 m
   SavingThrows: For +17, Dex +12,Sag +12
   Skills: Arcanes +12, Intimidation+14, Perception +12, Perspicacité +12, Religion+12
+  DamageVulnerabilities: de froid
   DamageImmunities: d'acide, de feu, de foudre, de poison ; contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: charmé, empoisonné, étourdi, terrorisé
   Senses: vision parfaite 36 m, Perception passive 22
   Languages: céleste, commun, draconique, infernal, primordial ; télépathie 90m
   Challenge: 27 (105000 PX)
-  DamageVulnerabilities: de froid
   Id: tome_of_beasts.md#mechuiti-seigneur-démon-des-grands-singes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mechuiti, seigneur démon des grands singes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mechuiti, Demon Lord of Apes
+  Source: (LDM p90)(TOB p88)
   AttributesDictionary: >+
     Name: Mechuiti, seigneur démon des grands singes
 
@@ -14295,9 +14595,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Qorgeth, seigneur démon du ver insatiable
-  Source: (LDM p92)(TOB p90)
-  AltName: Qorgeth, Demon Lord of the Devouring Worm
   Type: Fiélon (démon)
   Size: Gig
   Alignment: chaotique mauvais
@@ -14306,16 +14603,19 @@ SubItems:
   Speed: 15 m, fouissement 15 m, escalade 9 m
   SavingThrows: Dex +5, Con +15, Sag +11, Cha +11
   Skills: Perception +11
-  DamageResistances: de froid, de feu et de foudre
   DamageImmunities: de poison; contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: aveuglé, charmé, empoisonné, épuisé, terrorisé
+  DamageResistances: de froid, de feu et de foudre
   Senses: vision aveugle 36m, perception des vibrations 36 m, Perception passive 21
   Languages: toutes ; télépathie 36 m
   Challenge: 23 (50000 PX)
   Id: tome_of_beasts.md#qorgeth-seigneur-démon-du-ver-insatiable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Qorgeth, seigneur démon du ver insatiable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Qorgeth, Demon Lord of the Devouring Worm
+  Source: (LDM p92)(TOB p90)
   AttributesDictionary: >+
     Name: Qorgeth, seigneur démon du ver insatiable
 
@@ -14628,12 +14928,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Antipaladin Des Ombres Derro
-  Source: (LDM p94)(TOB p93)
-  AltName: Derro Shadow Antipaladin
   Type: Humanoïde (derro)
   Size: P
   Alignment: chaotique mauvais
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 18 (cuirasse et bouclier)
   HitPoints: 82 (11d6+44)
   Speed: 9m
@@ -14644,8 +14942,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#antipaladin-des-ombres-derro
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Antipaladin Des Ombres Derro
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Derro Shadow Antipaladin
+  Source: (LDM p94)(TOB p93)
   AttributesDictionary: >+
     Name: Antipaladin Des Ombres Derro
 
@@ -14666,6 +14967,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (derro)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -14805,6 +15110,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 18 (cuirasse et bouclier)
 
     HitPoints: 82 (11d6+44)
@@ -14823,12 +15130,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Savant Foetal Derro
-  Source: (LDM p95)(TOB p92)
-  AltName: Derro Fetal Savant
   Type: Humanoïde
   Size: TP
   Alignment: chaotique mauvais
+  Terrain: Donjon maçonné, Ruines souterraines
   ArmorClass: 15 (cage)
   HitPoints: 2 (4d4 - 8)
   Speed: 1,50 m (0 en cage)
@@ -14841,8 +15146,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#savant-foetal-derro
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Savant Foetal Derro
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Derro Fetal Savant
+  Source: (LDM p95)(TOB p92)
   AttributesDictionary: >+
     Name: Savant Foetal Derro
 
@@ -14863,6 +15171,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -14968,6 +15280,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Donjon maçonné, Ruines souterraines
+
     ArmorClass: 15 (cage)
 
     HitPoints: 2 (4d4 - 8)
@@ -14990,9 +15304,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dévoreur D'Âmes
-  Source: (LDM p96)(TOB p356)
-  AltName: Soul Eater
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -15001,16 +15312,19 @@ SubItems:
   Speed: 9 m, vol 30 m
   SavingThrows: Dex+9, Con +5, Cha+3
   Skills: Intimidation +3, Perception +3, Discrétion+9
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: paralysé, empoisonné, étourdi, inconscient
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13 Langue infernal
   Languages: infernal
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#dévoreur-dÂmes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dévoreur D'Âmes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Soul Eater
+  Source: (LDM p96)(TOB p356)
   AttributesDictionary: >+
     Name: Dévoreur D'Âmes
 
@@ -15164,9 +15478,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Arbeyach
-  Source: (LDM p98)(TOB p95)
-  AltName: Arbeyach
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -15175,16 +15486,19 @@ SubItems:
   Speed: 12 m, fouissement 6 m, escalade12 m, vol 24 m (vol stationnaire)
   SavingThrows: Dex +12, Con +14, Sag +12, Cha +14
   Skills: Discrétion +12, Perspicacité +12, Perception+12, Supercherie +14
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: charmé, empoisonné, étourdi, terrorisé
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision parfaite 36 m, Perception passive 22
   Languages: céleste, commun, draconique, infernal ; télépathie 36 m
   Challenge: 21 (33 000 PX)
   Id: tome_of_beasts.md#arbeyach
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Arbeyach
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Arbeyach
+  Source: (LDM p98)(TOB p95)
   AttributesDictionary: >+
     Name: Arbeyach
 
@@ -15422,9 +15736,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Rejeton D'Arbeyach
-  Source: (LDM p100)(TOB p97)
-  AltName: Spawn of Arbeyach
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -15440,8 +15751,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#rejeton-darbeyach
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Rejeton D'Arbeyach
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spawn of Arbeyach
+  Source: (LDM p100)(TOB p97)
   AttributesDictionary: >+
     Name: Rejeton D'Arbeyach
 
@@ -15601,9 +15915,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ia'Affrat
-  Source: (LDM p101)(TOB p98)
-  AltName: Ia'Affrat
   Type: Nuée
   Size: G
   Alignment: loyal mauvais
@@ -15612,16 +15923,19 @@ SubItems:
   Speed: 1,50 m, vol 12 m (vol stationnaire)
   SavingThrows: Dex +10, Con +8, Sag +9, Cha +11
   Skills: Arcanes +10, Perception +9, Perspicacité +9, Persuasion +11, Supercherie +11
+  DamageVulnerabilities: de froid
   DamageImmunities: de feu, de poison ; contondants, perforants et tranchants
   ConditionImmunities: à terre, charmé, empoisonné, entravé, étourdi, paralysé, pétrifié, terrorisé
   Senses: vision aveugle 3m, vision dans le noir 36 m, Perception passive 19
   Languages: commun, draconique, infernal, primordial
   Challenge: 15 (13 000 PX)
-  DamageVulnerabilities: de froid
   Id: tome_of_beasts.md#iaaffrat
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ia'Affrat
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ia'Affrat
+  Source: (LDM p101)(TOB p98)
   AttributesDictionary: >+
     Name: Ia'Affrat
 
@@ -15811,9 +16125,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mammon
-  Source: (LDM p102)(TOB p99)
-  AltName: Mammon
   Type: Fiélon (diable)
   Size: TG
   Alignment: loyal mauvais
@@ -15822,16 +16133,19 @@ SubItems:
   Speed: 15 m
   SavingThrows: Dex +9, Int +14, Sag +13, Cha +16
   Skills: Perception +13, Perspicacité +13, Persuasion +16, Supercherie +16
-  DamageResistances: de froid
   DamageImmunities: de feu, de poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   ConditionImmunities: charmé, empoisonné, épuisé, terrorisé
+  DamageResistances: de froid
   Senses: vision parfaite 36 m, Perception passive 23
   Languages: toutes ; télépathie 36 m
   Challenge: 25 (75000 PX)
   Id: tome_of_beasts.md#mammon
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mammon
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mammon
+  Source: (LDM p102)(TOB p99)
   AttributesDictionary: >+
     Name: Mammon
 
@@ -16138,9 +16452,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Totivillus, le Scribe de l'Enfer
-  Source: (LDM p104)(TOB p101)
-  AltName: Totivillus, Scribe of Hell
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16149,16 +16460,19 @@ SubItems:
   Speed: 12 m, vol 18 m
   SavingThrows: Dex +11, Con +14, Int +15, Sag +13, Cha +11
   Skills: Arcanes +15, Histoire +15, Investigation +15, Perception +13, Religion +15
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision parfaite 9 m, vision dans le noir 18m, Perception passive 23
   Languages: commun, céleste, draconique, infernal, langue du Vide ; télépathie 36 m
   Challenge: 24 (62000 PX)
   Id: tome_of_beasts.md#totivillus-le-scribe-de-lenfer
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Totivillus, le Scribe de l'Enfer
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Totivillus, Scribe of Hell
+  Source: (LDM p104)(TOB p101)
   AttributesDictionary: >+
     Name: Totivillus, le Scribe de l'Enfer
 
@@ -16432,9 +16746,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable Automate
-  Source: (LDM p105)(TOB p102)
-  AltName: Automata Devil
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -16443,16 +16754,19 @@ SubItems:
   Speed: 12m
   SavingThrows: For +11, Dex+7, Con +9, Sag +6, Cha +8
   Skills: Athlétisme +11, Intimidation +8
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m
   Languages: commun, infernal ; télépathie 30 m
   Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#diable-automate
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable Automate
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Automata Devil
+  Source: (LDM p105)(TOB p102)
   AttributesDictionary: >+
     Name: Diable Automate
 
@@ -16646,9 +16960,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chort
-  Source: (LDM p107)(TOB p104)
-  AltName: Chort Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16657,16 +16968,19 @@ SubItems:
   Speed: 9m
   SavingThrows: For +11, Dex+9, Con +12, Int +8, Cha +9
   Skills: Athlétisme +11, Supercherie +9, Perspicacité +9, Perception +9
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de froid, de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m, Perception passive 19
   Languages: céleste, commun, draconique, infernal, primordial ; télépathie (36 m)
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#chort
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chort
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Chort Devil
+  Source: (LDM p107)(TOB p104)
   AttributesDictionary: >+
     Name: Chort
 
@@ -16850,9 +17164,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable Cristallin
-  Source: (LDM p108)(TOB p105)
-  AltName: Crystalline Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -16861,16 +17172,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Sag +4, Cha +5
   Skills: Perspicacité +4, Supercherie +8
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m, Perception passive 11
   Languages: céleste, commun, infernal ; télépathie 36 m
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#diable-cristallin
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable Cristallin
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Crystalline Devil
+  Source: (LDM p108)(TOB p105)
   AttributesDictionary: >+
     Name: Diable Cristallin
 
@@ -17072,9 +17386,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable D'Encre
-  Source: (LDM p109)(TOB p108)
-  AltName: Ink Devil
   Type: Fiélon (diable)
   Size: P
   Alignment: loyal mauvais
@@ -17083,16 +17394,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6
   Skills: Arcanes+9, Discrétion +8, Histoire+9, Supercherie+8
-  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m, Perception passive 9
   Languages: céleste, commun, draconique, infernal ; télépathie 36 m
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#diable-dencre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable D'Encre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ink Devil
+  Source: (LDM p109)(TOB p108)
   AttributesDictionary: >+
     Name: Diable D'Encre
 
@@ -17276,27 +17590,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable De Sel
-  Source: (LDM p110)(TOB p113)
-  AltName: Salt Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
+  Terrain: Désert chaud
   ArmorClass: 13 (armure naturelle)
   HitPoints: 93 (11d8+44)
   Speed: 9m
   SavingThrows: Dex+4, Con +7, Cha+5
   Skills: Discrétion +4, Perception +5
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: céleste, commun, gnoll, infernal ; télépathie 36 m
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#diable-de-sel
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable De Sel
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Salt Devil
+  Source: (LDM p110)(TOB p113)
   AttributesDictionary: >+
     Name: Diable De Sel
 
@@ -17317,6 +17632,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon (diable)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -17456,6 +17775,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Désert chaud
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 93 (11d8+44)
@@ -17480,9 +17801,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable Doré
-  Source: (LDM p111)(TOB p106)
-  AltName: Gilded Devil
   Type: Fiélon (diable)
   Size: M
   Alignment: loyal mauvais
@@ -17491,16 +17809,19 @@ SubItems:
   Speed: 9m
   SavingThrows: For +6, Con +6, Sag +7, Cha +6
   Skills: Escamotage +8, Histoire +5, Perspicacité+10, Persuasion +9, Supercherie +9
-  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m
   Languages: céleste, commun, draconique, infernal ; télépathie 36 m
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#diable-doré
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable Doré
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gilded Devil
+  Source: (LDM p111)(TOB p106)
   AttributesDictionary: >+
     Name: Diable Doré
 
@@ -17752,9 +18073,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Koralk (Diable Moissonneur)
-  Source: (LDM p112)(TOB p108)
-  AltName: Koralk (Harvester Devil)
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -17762,16 +18080,19 @@ SubItems:
   HitPoints: 136 (16d10+48)
   Speed: 12m
   SavingThrows: Con +7, Sag +4, Cha +5
-  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m, Perception passive 10
   Languages: infernal ; télépathie 36 m
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#koralk-diable-moissonneur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Koralk (Diable Moissonneur)
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Koralk (Harvester Devil)
+  Source: (LDM p112)(TOB p108)
   AttributesDictionary: >+
     Name: Koralk (Diable Moissonneur)
 
@@ -17931,9 +18252,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable Lunaire
-  Source: (LDM p114)(TOB p110)
-  AltName: Lunar Devil
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -17942,16 +18260,19 @@ SubItems:
   Speed: 12 m, vol 18 m (vol stationnaire), marche sur la lumière 24 m
   SavingThrows: For +8, Dex+8, Con +8, Sag +5
   Skills: Perception +5
-  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: céleste, draconique, elfique, infernal, sylvestre ; télépathie 36 m
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#diable-lunaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable Lunaire
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lunar Devil
+  Source: (LDM p114)(TOB p110)
   AttributesDictionary: >+
     Name: Diable Lunaire
 
@@ -18165,9 +18486,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Diable Orobas
-  Source: (LDM p115)(TOB p111)
-  AltName: Orobas Devil
   Type: Fiélon (diable)
   Size: G
   Alignment: loyal mauvais
@@ -18176,16 +18494,19 @@ SubItems:
   Speed: 12m
   SavingThrows: For +13, Dex+7, Con +14, Sag +13
   Skills: Histoire +11, Perception +13, Perspicacité +13, Persuasion +10, Supercherie +10
-  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: de feu, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: d'acide, de froid ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision parfaite 27m, Perception passive 23
   Languages: céleste, commun des profondeurs, darakhul, draconique, géant, infernal, langue du Vide; télépathie 30 m
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#diable-orobas
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Diable Orobas
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Orobas Devil
+  Source: (LDM p115)(TOB p111)
   AttributesDictionary: >+
     Name: Diable Orobas
 
@@ -18403,12 +18724,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mbielu
-  Source: (LDM p117)(TOB p114)
-  AltName: Mbielu
   Type: Bête
   Size: TG
   Alignment: non alignée
+  Terrain: Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 95 (10d12+30)
   Speed: 9 m, nage 6 m
@@ -18418,8 +18737,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#mbielu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mbielu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mbielu
+  Source: (LDM p117)(TOB p114)
   AttributesDictionary: >+
     Name: Mbielu
 
@@ -18440,6 +18762,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -18527,6 +18853,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 95 (10d12+30)
@@ -18543,12 +18871,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ngobou
-  Source: (LDM p118)(TOB p115)
-  AltName: Ngobou
   Type: Bête
   Size: G
   Alignment: non alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 85 (10d10+30)
   Speed: 12m
@@ -18558,8 +18884,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#ngobou
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ngobou
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ngobou
+  Source: (LDM p118)(TOB p115)
   AttributesDictionary: >+
     Name: Ngobou
 
@@ -18580,6 +18909,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -18673,6 +19006,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 85 (10d10+30)
@@ -18689,12 +19024,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Spinosaure
-  Source: (LDM p119)(TOB p116)
-  AltName: Spinosaurus
   Type: Bête
   Size: Gig
   Alignment: non alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 231 (14d20+84)
   Speed: 18 m, nage 12 m
@@ -18704,8 +19037,11 @@ SubItems:
   Challenge: 13 (10 000 PX)
   Id: tome_of_beasts.md#spinosaure
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Spinosaure
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spinosaurus
+  Source: (LDM p119)(TOB p116)
   AttributesDictionary: >+
     Name: Spinosaure
 
@@ -18726,6 +19062,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -18861,6 +19201,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 231 (14d20+84)
@@ -18877,12 +19219,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Jeune Spinosaure
-  Source: (LDM p120)(TOB p117)
-  AltName: Young Spinosaurus
   Type: Bête
   Size: TG
   Alignment: non alignée
+  Terrain: Jungle, Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 15 m, nage 9 m
@@ -18892,8 +19232,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#jeune-spinosaure
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Jeune Spinosaure
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Young Spinosaurus
+  Source: (LDM p120)(TOB p117)
   AttributesDictionary: >+
     Name: Jeune Spinosaure
 
@@ -18914,6 +19257,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -19001,6 +19348,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Jungle, Mangrove / Marécage
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 105 (10d12+40)
@@ -19017,25 +19366,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dipsa
-  Source: (LDM p121)(TOB p118)
-  AltName: Dipsa
   Type: Vase
   Size: TP
   Alignment: non alignée
+  Terrain: Mangrove / Marécage
   ArmorClass: 15
   HitPoints: 27 (6d4+12)
   Speed: 6 m, escalade 6 m, nage 6 m
   Skills: Discrétion +7 (+9 en terrain marécageux)
-  DamageResistances: d'acide
   ConditionImmunities: assourdi, à terre, aveuglé, charmé, épuisé, terrorisé
+  DamageResistances: d'acide
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#dipsa
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dipsa
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dipsa
+  Source: (LDM p121)(TOB p118)
   AttributesDictionary: >+
     Name: Dipsa
 
@@ -19056,6 +19406,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -19151,6 +19505,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 15
 
     HitPoints: 27 (6d4+12)
@@ -19171,9 +19527,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dissimortuum
-  Source: (LDM p122)(TOB p119)
-  AltName: Dissimortuum
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -19181,16 +19534,19 @@ SubItems:
   HitPoints: 112 (15d8+45)
   Speed: 9 m, escalade 9 m
   SavingThrows: Con +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: commun
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#dissimortuum
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dissimortuum
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dissimortuum
+  Source: (LDM p122)(TOB p119)
   AttributesDictionary: >+
     Name: Dissimortuum
 
@@ -19332,12 +19688,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Domovoï
-  Source: (LDM p123)(TOB p122)
-  AltName: Domovoi
   Type: Fée
   Size: M
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt, Ruines extérieures
   ArmorClass: 15 (armure naturelle)
   HitPoints: 93 (11d8+44)
   Speed: 9m
@@ -19348,8 +19702,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#domovoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Domovoï
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Domovoi
+  Source: (LDM p123)(TOB p122)
   AttributesDictionary: >+
     Name: Domovoï
 
@@ -19370,6 +19727,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -19467,6 +19828,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt, Ruines extérieures
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 93 (11d8+44)
@@ -19485,12 +19848,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Doppelrat
-  Source: (LDM p124)(TOB p123)
-  AltName: Doppelrat
   Type: Créature monstrueuse
   Size: TP
   Alignment: non alignée
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   ArmorClass: 13
   HitPoints: 22 (5d4+10)
   Speed: 4,50 m, escalade 4,50 m, nage 4,50 m
@@ -19501,8 +19862,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#doppelrat
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Doppelrat
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Doppelrat
+  Source: (LDM p124)(TOB p123)
   AttributesDictionary: >+
     Name: Doppelrat
 
@@ -19523,6 +19887,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -19614,6 +19982,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
+
     ArmorClass: 13
 
     HitPoints: 22 (5d4+10)
@@ -19632,9 +20002,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dorreq
-  Source: (LDM p125)(TOB p124)
-  AltName: Dorreq
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -19649,8 +20016,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#dorreq
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dorreq
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dorreq
+  Source: (LDM p125)(TOB p124)
   AttributesDictionary: >+
     Name: Dorreq
 
@@ -19804,12 +20174,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Flammes, Adulte
-  Source: (LDM p126)(TOB p129)
-  AltName: Adult Flame Dragon
   Type: Dragon
   Size: TG
   Alignment: chaotique mauvais
+  Terrain: Montagnes, Ruines extérieures
   ArmorClass: 19 (armure naturelle)
   HitPoints: 212 (17d12+102)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -19821,8 +20189,11 @@ SubItems:
   Challenge: 16 (15 000 PX)
   Id: tome_of_beasts.md#dragon-de-flammes-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Flammes, Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Adult Flame Dragon
+  Source: (LDM p126)(TOB p129)
   AttributesDictionary: >+
     Name: Dragon De Flammes, Adulte
 
@@ -19843,6 +20214,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -20004,6 +20379,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Montagnes, Ruines extérieures
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 212 (17d12+102)
@@ -20024,12 +20401,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Flammes, Dragonnet
-  Source: (LDM p127)(TOB p131)
-  AltName: Flame Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Montagnes, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 9 m, escalade 9 m, vol 18 m
@@ -20041,8 +20416,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#dragon-de-flammes-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Flammes, Dragonnet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Flame Dragon Wyrmling
+  Source: (LDM p127)(TOB p131)
   AttributesDictionary: >+
     Name: Dragon De Flammes, Dragonnet
 
@@ -20063,6 +20441,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -20152,6 +20534,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Montagnes, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 52 (8d8+16)
@@ -20172,12 +20556,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Flammes, Jeune
-  Source: (LDM p128)(TOB p130)
-  AltName: Young Flame Dragon
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Montagnes, Ruines extérieures
   ArmorClass: 18 (armure naturelle)
   HitPoints: 161 (17d10+68)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -20189,8 +20571,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#dragon-de-flammes-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Flammes, Jeune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Young Flame Dragon
+  Source: (LDM p128)(TOB p130)
   AttributesDictionary: >+
     Name: Dragon De Flammes, Jeune
 
@@ -20211,6 +20596,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -20318,6 +20707,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Montagnes, Ruines extérieures
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 161 (17d10+68)
@@ -20338,12 +20729,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Flammes, Vénérable
-  Source: (LDM p128)(TOB p128)
-  AltName: Ancient Flame Dragon
   Type: Dragon
   Size: Gig
   Alignment: chaotique mauvais
+  Terrain: Montagnes, Ruines extérieures
   ArmorClass: 22 (armure naturelle)
   HitPoints: 481 (26d20+208)
   Speed: 12 m, escalade 12 m, vol 24 m
@@ -20355,8 +20744,11 @@ SubItems:
   Challenge: 24 (62000 PX)
   Id: tome_of_beasts.md#dragon-de-flammes-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Flammes, Vénérable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ancient Flame Dragon
+  Source: (LDM p128)(TOB p128)
   AttributesDictionary: >+
     Name: Dragon De Flammes, Vénérable
 
@@ -20377,6 +20769,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -20538,6 +20934,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Montagnes, Ruines extérieures
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 481 (26d20+208)
@@ -20639,27 +21037,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Mithral, Adulte
-  Source: (LDM p130)(TOB p133)
-  AltName: Adult Mithral Dragon
   Type: Dragon
   Size: TG
   Alignment: neutre
+  Terrain: Montagnes
   ArmorClass: 18 (armure naturelle)
   HitPoints: 184 (16d12+80)
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +9, Con +10, Int +10, Sag +10, Cha +10
   Skills: Athlétisme +13, Histoire +10, Perception +10, Perspicacité +10, Persuasion +10
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d'acide, de tonnerre
   ConditionImmunities: charmé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 20
   Languages: céleste, commun, draconique, primordial
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#dragon-de-mithral-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Mithral, Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Adult Mithral Dragon
+  Source: (LDM p130)(TOB p133)
   AttributesDictionary: >+
     Name: Dragon De Mithral, Adulte
 
@@ -20680,6 +21079,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -20879,6 +21282,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Montagnes
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 184 (16d12+80)
@@ -20903,27 +21308,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Mithral, Jeune
-  Source: (LDM p131)(TOB p134)
-  AltName: Young Mithral Dragon
   Type: Dragon
   Size: M
   Alignment: neutre
+  Terrain: Montagnes
   ArmorClass: 16 (armure naturelle)
   HitPoints: 92 (16d8+20)
   Speed: 15 m, vol 18 m
   SavingThrows: Dex +9, Con +4, Sag +5, Cha +5
   Skills: Acrobaties +6, Perception +5, Perspicacité +5, Persuasion+5
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d'acide, de tonnerre
   ConditionImmunities: charmé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 15
   Languages: céleste, commun, draconique, primordial
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#dragon-de-mithral-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Mithral, Jeune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Young Mithral Dragon
+  Source: (LDM p131)(TOB p134)
   AttributesDictionary: >+
     Name: Dragon De Mithral, Jeune
 
@@ -20944,6 +21350,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -21065,6 +21475,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Montagnes
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 92 (16d8+20)
@@ -21089,27 +21501,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon De Mithral, Vénérable
-  Source: (LDM p131)(TOB p132)
-  AltName: Ancient Mithral Dragon
   Type: Dragon
   Size: Gig
   Alignment: neutre
+  Terrain: Montagnes
   ArmorClass: 20 (armure naturelle)
   HitPoints: 297 (17d20+119)
   Speed: 12 m, vol 24 m
   SavingThrows: Dex +9, Con +13, Int +13, Sag +13, Cha +13
   Skills: Athlétisme +15, Histoire +13, Intimidation +13, Perception +13, Perspicacité +13, Persuasion +13
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: d'acide, de tonnerre
   ConditionImmunities: charmé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision aveugle 18 m, vision dans le noir 36 m, Perception passive 23
   Languages: céleste, commun, draconique, primordial
   Challenge: 18 (20000 PX)
   Id: tome_of_beasts.md#dragon-de-mithral-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon De Mithral, Vénérable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ancient Mithral Dragon
+  Source: (LDM p131)(TOB p132)
   AttributesDictionary: >+
     Name: Dragon De Mithral, Vénérable
 
@@ -21130,6 +21543,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -21369,6 +21786,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Montagnes
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 297 (17d20+119)
@@ -21474,12 +21893,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Des Cavernes, Adulte
-  Source: (LDM p133)(TOB p125)
-  AltName: Adult Cave Dragon
   Type: Dragon
   Size: TG
   Alignment: neutre mauvais
+  Terrain: Caverne aménagée, Caverne naturelle
   ArmorClass: 18 (armure naturelle)
   HitPoints: 243 (18d12+126)
   Speed: 12 m, escalade 12 m, traverser la terre
@@ -21492,8 +21909,11 @@ SubItems:
   Challenge: 16 (15 000 PX)
   Id: tome_of_beasts.md#dragon-des-cavernes-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Des Cavernes, Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Adult Cave Dragon
+  Source: (LDM p133)(TOB p125)
   AttributesDictionary: >+
     Name: Dragon Des Cavernes, Adulte
 
@@ -21514,6 +21934,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -21721,6 +22145,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Caverne aménagée, Caverne naturelle
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 243 (18d12+126)
@@ -21743,12 +22169,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Des Cavernes, Dragonnet
-  Source: (LDM p135)(TOB p127)
-  AltName: Cave Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
+  Terrain: Caverne aménagée, Caverne naturelle
   ArmorClass: 16 (armure naturelle)
   HitPoints: 75 (10d8+30)
   Speed: 9 m, fouissement 6 m, vol 6 m
@@ -21761,8 +22185,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#dragon-des-cavernes-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Des Cavernes, Dragonnet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Cave Dragon Wyrmling
+  Source: (LDM p135)(TOB p127)
   AttributesDictionary: >+
     Name: Dragon Des Cavernes, Dragonnet
 
@@ -21783,6 +22210,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -21894,6 +22325,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Caverne aménagée, Caverne naturelle
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 75 (10d8+30)
@@ -21916,12 +22349,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Des Cavernes, Jeune
-  Source: (LDM p135)(TOB p127)
-  AltName: Young Cave Dragon
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
+  Terrain: Caverne aménagée, Caverne naturelle
   ArmorClass: 17 (armure naturelle)
   HitPoints: 157 (15d10+75)
   Speed: 12 m, fouissement 6 m, vol6 m
@@ -21934,8 +22365,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#dragon-des-cavernes-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Des Cavernes, Jeune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Young Cave Dragon
+  Source: (LDM p135)(TOB p127)
   AttributesDictionary: >+
     Name: Dragon Des Cavernes, Jeune
 
@@ -21956,6 +22390,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -22097,6 +22535,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Caverne aménagée, Caverne naturelle
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 157 (15d10+75)
@@ -22119,12 +22559,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vent, Adulte
-  Source: (LDM p136)(TOB p143)
-  AltName: Wind Dragon, Adult
   Type: Dragon
   Size: TG
   Alignment: chaotique neutre
+  Terrain: Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 19 (armure naturelle)
   HitPoints: 237 (19d12+114)
   Speed: 12 m, vol 27 m
@@ -22137,8 +22575,11 @@ SubItems:
   Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#dragon-du-vent-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vent, Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wind Dragon, Adult
+  Source: (LDM p136)(TOB p143)
   AttributesDictionary: >+
     Name: Dragon Du Vent, Adulte
 
@@ -22159,6 +22600,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -22358,6 +22803,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 237 (19d12+114)
@@ -22380,12 +22827,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vent, Dragonnet
-  Source: (LDM p137)(TOB p145)
-  AltName: Wind Dragon, Wyrmling
   Type: Dragon
   Size: M
   Alignment: chaotique neutre
+  Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 14
   HitPoints: 45 (7d8+14)
   Speed: 12 m, vol 24 m
@@ -22398,8 +22843,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#dragon-du-vent-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vent, Dragonnet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wind Dragon, Wyrmling
+  Source: (LDM p137)(TOB p145)
   AttributesDictionary: >+
     Name: Dragon Du Vent, Dragonnet
 
@@ -22420,6 +22868,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -22513,6 +22965,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 14
 
     HitPoints: 45 (7d8+14)
@@ -22535,12 +22989,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vent, Jeune
-  Source: (LDM p137)(TOB p144)
-  AltName: Wind Dragon, Young
   Type: Dragon
   Size: G
   Alignment: chaotique neutre
+  Terrain: Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 17 (armure naturelle)
   HitPoints: 150 (16d10+62)
   Speed: 12 m, vol 27 m
@@ -22553,8 +23005,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#dragon-du-vent-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vent, Jeune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wind Dragon, Young
+  Source: (LDM p137)(TOB p144)
   AttributesDictionary: >+
     Name: Dragon Du Vent, Jeune
 
@@ -22575,6 +23030,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -22704,6 +23163,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 150 (16d10+62)
@@ -22726,27 +23187,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vent, Vénérable
-  Source: (LDM p138)(TOB p142)
-  AltName: Wind Dragon, Ancient
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
+  Terrain: Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 20 (armure naturelle)
   HitPoints: 425 (23d20 +184)
   Speed: 12 m, vol 36 m
   SavingThrows: Dex +11, Con +15, Sag +10, Cha +12
   Skills: Acrobaties +11, Arcanes +11, Discrétion +11, Intimidation +12, Perception +17
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de foudre, infligés par des armes à distance
   ConditionImmunities: charmé, entravé, épuisé, paralysé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 27
   Languages: commun, draconique, elfique, nain, primordial
   Challenge: 22 (41000 PX)
   Id: tome_of_beasts.md#dragon-du-vent-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vent, Vénérable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wind Dragon, Ancient
+  Source: (LDM p138)(TOB p142)
   AttributesDictionary: >+
     Name: Dragon Du Vent, Vénérable
 
@@ -22767,6 +23229,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -22966,6 +23432,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 425 (23d20 +184)
@@ -23035,9 +23503,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vide, Adulte
-  Source: (LDM p140)(TOB p139)
-  AltName: Adult Void Dragon
   Type: Dragon
   Size: TG
   Alignment: chaotique neutre
@@ -23053,8 +23518,11 @@ SubItems:
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#dragon-du-vide-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vide, Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Adult Void Dragon
+  Source: (LDM p140)(TOB p139)
   AttributesDictionary: >+
     Name: Dragon Du Vide, Adulte
 
@@ -23298,9 +23766,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vide, Dragonnet
-  Source: (LDM p141)(TOB p140)
-  AltName: Void Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: chaotique neutre
@@ -23315,8 +23780,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#dragon-du-vide-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vide, Dragonnet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Void Dragon Wyrmling
+  Source: (LDM p141)(TOB p140)
   AttributesDictionary: >+
     Name: Dragon Du Vide, Dragonnet
 
@@ -23482,9 +23950,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vide, Jeune
-  Source: (LDM p141)(TOB p140)
-  AltName: Young Void Dragon
   Type: Dragon
   Size: G
   Alignment: chaotique neutre
@@ -23500,8 +23965,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#dragon-du-vide-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vide, Jeune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Young Void Dragon
+  Source: (LDM p141)(TOB p140)
   AttributesDictionary: >+
     Name: Dragon Du Vide, Jeune
 
@@ -23685,9 +24153,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Du Vide, Vénérable
-  Source: (LDM p142)(TOB p138)
-  AltName: Ancient Void Dragon
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
@@ -23703,8 +24168,11 @@ SubItems:
   Challenge: 24 (62000 PX)
   Id: tome_of_beasts.md#dragon-du-vide-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Du Vide, Vénérable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ancient Void Dragon
+  Source: (LDM p142)(TOB p138)
   AttributesDictionary: >+
     Name: Dragon Du Vide, Vénérable
 
@@ -24035,12 +24503,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Marin, Adulte
-  Source: (LDM p144)(TOB p135)
-  AltName: Adult Sea Dragon
   Type: Dragon
   Size: TG
   Alignment: neutre mauvais
+  Terrain: Mer / Océan, Caverne sous-marine
   ArmorClass: 19 (armure naturelle)
   HitPoints: 225 (18d12+108)
   Speed: 12 m, vol 24 m, nage 18 m
@@ -24052,8 +24518,11 @@ SubItems:
   Challenge: 16 (15 000 PX)
   Id: tome_of_beasts.md#dragon-marin-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Marin, Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Adult Sea Dragon
+  Source: (LDM p144)(TOB p135)
   AttributesDictionary: >+
     Name: Dragon Marin, Adulte
 
@@ -24074,6 +24543,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -24235,6 +24708,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Mer / Océan, Caverne sous-marine
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 225 (18d12+108)
@@ -24255,12 +24730,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Marin, Dragonnet
-  Source: (LDM p144)(TOB p136)
-  AltName: Sea Dragon Wyrmling
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
+  Terrain: Mer / Océan, Caverne sous-marine
   ArmorClass: 17 (armure naturelle)
   HitPoints: 52 (8d8+16)
   Speed: 9 m, vol 18 m, nage 12 m
@@ -24272,8 +24745,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#dragon-marin-dragonnet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Marin, Dragonnet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sea Dragon Wyrmling
+  Source: (LDM p144)(TOB p136)
   AttributesDictionary: >+
     Name: Dragon Marin, Dragonnet
 
@@ -24294,6 +24770,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -24383,6 +24863,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Mer / Océan, Caverne sous-marine
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 52 (8d8+16)
@@ -24403,12 +24885,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Marin, Jeune
-  Source: (LDM p145)(TOB p136)
-  AltName: Young Sea Dragon
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
+  Terrain: Caverne sous-marineMer / Océan
   ArmorClass: 18 (armure naturelle)
   HitPoints: 152 (16d10+64)
   Speed: 12 m, vol 24 m, nage 15 m
@@ -24420,8 +24900,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#dragon-marin-jeune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Marin, Jeune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Young Sea Dragon
+  Source: (LDM p145)(TOB p136)
   AttributesDictionary: >+
     Name: Dragon Marin, Jeune
 
@@ -24442,6 +24925,14 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne sous-marine<!--/Terrain-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan<!--/Terrain-->
 
 
 
@@ -24555,6 +25046,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Caverne sous-marineMer / Océan
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 152 (16d10+64)
@@ -24575,12 +25068,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragon Marin, Vénérable
-  Source: (LDM p145)(TOB p135)
-  AltName: Ancient Sea Dragon
   Type: Dragon
   Size: Gig
   Alignment: chaotique neutre
+  Terrain: Mer / Océan, Caverne sous-marine
   ArmorClass: 22 (armure naturelle)
   HitPoints: 481 (26d20+208)
   Speed: 12 m, vol 24 m, nage 24 m
@@ -24592,8 +25083,11 @@ SubItems:
   Challenge: 22 (41000 PX)
   Id: tome_of_beasts.md#dragon-marin-vénérable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragon Marin, Vénérable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ancient Sea Dragon
+  Source: (LDM p145)(TOB p135)
   AttributesDictionary: >+
     Name: Dragon Marin, Vénérable
 
@@ -24614,6 +25108,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -24775,6 +25273,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Mer / Océan, Caverne sous-marine
+
     ArmorClass: 22 (armure naturelle)
 
     HitPoints: 481 (26d20+208)
@@ -24876,12 +25376,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Murène Dragon
-  Source: (LDM p147)(TOB p146)
-  AltName: Dragon Eel
   Type: Dragon
   Size: TG
   Alignment: neutre
+  Terrain: Mer / Océan, Caverne sous-marine
   ArmorClass: 18 (armure naturelle)
   HitPoints: 230 (20d12+100)
   Speed: 6 m, nage 18 m
@@ -24894,8 +25392,11 @@ SubItems:
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#murène-dragon
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Murène Dragon
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dragon Eel
+  Source: (LDM p147)(TOB p146)
   AttributesDictionary: >+
     Name: Murène Dragon
 
@@ -24916,6 +25417,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -25033,6 +25538,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Mer / Océan, Caverne sous-marine
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 230 (20d12+100)
@@ -25055,12 +25562,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dragonette Lanterne
-  Source: (LDM p148)(TOB p270)
-  AltName: Lantern Dragonette
   Type: Dragon
   Size: TP
   Alignment: loyal neutre
+  Terrain: Bois / Forêt
   ArmorClass: 13 (armure naturelle)
   HitPoints: 28 (8d4+8)
   Speed: 4,50 m, vol 12 m (vol stationnaire)
@@ -25072,8 +25577,11 @@ SubItems:
   Challenge: 1/2 (50 PX)
   Id: tome_of_beasts.md#dragonette-lanterne
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dragonette Lanterne
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lantern Dragonette
+  Source: (LDM p148)(TOB p270)
   AttributesDictionary: >+
     Name: Dragonette Lanterne
 
@@ -25094,6 +25602,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -25195,6 +25707,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 28 (8d4+8)
@@ -25215,26 +25729,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake De Cendres
-  Source: (LDM p149)(TOB p149)
-  AltName: Ash Drake
   Type: Dragon
   Size: P
   Alignment: neutre mauvais
+  Terrain: Montagnes
   ArmorClass: 16 (armure naturelle)
   HitPoints: 117 (18d6+54)
   Speed: 9 m, vol 18 m
   SavingThrows: Dex +4
   Skills: Discrétion +4
-  DamageResistances: de feu
   ConditionImmunities: inconscient, paralysé
+  DamageResistances: de feu
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, draconique
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#drake-de-cendres
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake De Cendres
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ash Drake
+  Source: (LDM p149)(TOB p149)
   AttributesDictionary: >+
     Name: Drake De Cendres
 
@@ -25255,6 +25770,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -25360,6 +25879,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Montagnes
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 117 (18d6+54)
@@ -25382,26 +25903,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake De Corail
-  Source: (LDM p150)(TOB p150)
-  AltName: Coral Drake
   Type: Dragon
   Size: M
   Alignment: neutre mauvais
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 16 (armure naturelle)
   HitPoints: 127 (15d8+60)
   Speed: 9 m, nage 18 m
   SavingThrows: Dex+6
   Skills: Acrobaties +6, Discrétion +6, Perception +4
-  DamageResistances: de froid
   ConditionImmunities: à terre, empoisonné, inconscient, paralysé
+  DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 17
   Languages: draconique
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#drake-de-corail
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake De Corail
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Coral Drake
+  Source: (LDM p150)(TOB p150)
   AttributesDictionary: >+
     Name: Drake De Corail
 
@@ -25422,6 +25944,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -25539,6 +26065,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 127 (15d8+60)
@@ -25561,9 +26089,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake De Papier
-  Source: (LDM p151)(TOB p154)
-  AltName: Paper Drake
   Type: Dragon
   Size: P
   Alignment: neutre
@@ -25576,8 +26101,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#drake-de-papier
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake De Papier
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Paper Drake
+  Source: (LDM p151)(TOB p154)
   AttributesDictionary: >+
     Name: Drake De Papier
 
@@ -25713,26 +26241,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake De Rouille
-  Source: (LDM p152)(TOB p155)
-  AltName: Rust Drake
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 161 (19d8+76)
   Speed: 6 m, fouissement 1,50 m, vol 30 m
   Skills: Perception +3, Discrétion +5
+  DamageVulnerabilities: d'acide
   DamageImmunities: de poison
   ConditionImmunities: empoisonné et paralysé
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique
   Challenge: 8 (3 900PX)
-  DamageVulnerabilities: d'acide
   Id: tome_of_beasts.md#drake-de-rouille
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake De Rouille
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rust Drake
+  Source: (LDM p152)(TOB p155)
   AttributesDictionary: >+
     Name: Drake De Rouille
 
@@ -25753,6 +26282,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 
 
 
@@ -25862,6 +26395,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 161 (19d8+76)
@@ -25884,27 +26419,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ancien Drake Des Ombres
-  Source: (LDM p153)(TOB p153)
-  AltName: Elder Shadow Drake
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Bois / Forêt, Caverne naturelle, Ruines souterraines
   ArmorClass: 16 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 6 m, vol 18 m
   SavingThrows: Dex+4, Con +7, Cha+4
   Skills: Discrétion +7, Perception +5
+  DamageVulnerabilities: radiants
   DamageImmunities: de froid
   ConditionImmunities: inconscient, paralysé
   Senses: vision dans le noir 36 m, Perception passive 15
   Languages: commun, draconique, umbral
   Challenge: 7 (2 900PX) magique doit commencer et se terminer dans une zone de lumière faible ou de ténèbres, et ces deux zones ne peuvent pas être distantes de plus de 18mètres.
-  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#ancien-drake-des-ombres
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ancien Drake Des Ombres
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Elder Shadow Drake
+  Source: (LDM p153)(TOB p153)
   AttributesDictionary: >+
     Name: Ancien Drake Des Ombres
 
@@ -25925,6 +26461,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -26046,6 +26586,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Bois / Forêt, Caverne naturelle, Ruines souterraines
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 114 (12d10+48)
@@ -26070,12 +26612,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake Des Profondeurs
-  Source: (LDM p154)(TOB p152)
-  AltName: Deep Drake
   Type: Dragon
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 150 (20d10+40)
   Speed: 15 m, escalade 9 m, vol 30 m
@@ -26088,8 +26628,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#drake-des-profondeurs
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake Des Profondeurs
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Deep Drake
+  Source: (LDM p154)(TOB p152)
   AttributesDictionary: >+
     Name: Drake Des Profondeurs
 
@@ -26110,6 +26653,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -26221,6 +26768,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 150 (20d10+40)
@@ -26243,9 +26792,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake Des Tavernes
-  Source: (LDM p155)(TOB p148)
-  AltName: Alehouse Drake
   Type: Dragon
   Size: TP
   Alignment: chaotique neutre
@@ -26260,8 +26806,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#drake-des-tavernes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake Des Tavernes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Alehouse Drake
+  Source: (LDM p155)(TOB p148)
   AttributesDictionary: >+
     Name: Drake Des Tavernes
 
@@ -26427,12 +26976,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake Pourpre
-  Source: (LDM p156)(TOB p151)
-  AltName: Crimson Drake
   Type: Dragon
   Size: TP
   Alignment: chaotique mauvais
+  Terrain: Bois / Forêt
   ArmorClass: 14 (armure naturelle)
   HitPoints: 54 (12d4+24)
   Speed: 4,50 m, vol 24 m
@@ -26445,8 +26992,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#drake-pourpre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake Pourpre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Crimson Drake
+  Source: (LDM p156)(TOB p151)
   AttributesDictionary: >+
     Name: Drake Pourpre
 
@@ -26467,6 +27017,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -26572,6 +27126,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 54 (12d4+24)
@@ -26594,12 +27150,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drake Stellaire
-  Source: (LDM p157)(TOB p157)
-  AltName: Star Drake
   Type: Dragon
   Size: G
   Alignment: neutre
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 19 (armure naturelle)
   HitPoints: 189 (18d10+90)
   Speed: 12 m, vol 30 m
@@ -26612,8 +27166,11 @@ SubItems:
   Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#drake-stellaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drake Stellaire
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Star Drake
+  Source: (LDM p157)(TOB p157)
   AttributesDictionary: >+
     Name: Drake Stellaire
 
@@ -26634,6 +27191,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -26817,6 +27378,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 189 (18d10+90)
@@ -26839,25 +27402,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Drakon
-  Source: (LDM p158)(TOB p157)
-  AltName: Drakon
   Type: Bête
   Size: G
   Alignment: non alignée
+  Terrain: Littoral
   ArmorClass: 16 (armure naturelle)
   HitPoints: 105 (14d10+28)
   Speed: 9 m, vol 18 m, nage 12 m
   Skills: Discrétion +7, Perception +4
-  DamageResistances: d'acide
   ConditionImmunities: paralysé
+  DamageResistances: d'acide
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: —
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#drakon
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Drakon
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Drakon
+  Source: (LDM p158)(TOB p157)
   AttributesDictionary: >+
     Name: Drakon
 
@@ -26878,6 +27442,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -26979,6 +27547,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Littoral
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 105 (14d10+28)
@@ -26999,12 +27569,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dryade Épine-Du-Crépuscule
-  Source: (LDM p159)(TOB p160)
-  AltName: Duskthorn Dryad
   Type: Fée
   Size: M
   Alignment: chaotique
+  Terrain: Bois / Forêt
   ArmorClass: 17 (armure naturelle)
   HitPoints: 77 (14d8+14)
   Speed: 9m
@@ -27015,8 +27583,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#dryade-Épine-du-crépuscule
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dryade Épine-Du-Crépuscule
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Duskthorn Dryad
+  Source: (LDM p159)(TOB p160)
   AttributesDictionary: >+
     Name: Dryade Épine-Du-Crépuscule
 
@@ -27037,6 +27608,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -27164,6 +27739,8 @@ SubItems:
 
     Alignment: chaotique
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 77 (14d8+14)
@@ -27182,9 +27759,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Dullahan
-  Source: (LDM p160)(TOB p161)
-  AltName: Dullahan
   Type: Fée
   Size: G
   Alignment: loyale mauvaise
@@ -27192,16 +27766,19 @@ SubItems:
   HitPoints: 178 (17d10+85)
   Speed: 18 m
   Skills: Intimidation +7, Perception +6, Persuasion +7, Survie+6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques
   ConditionImmunities: charmé, empoisonné, terrorisé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 18 m, Perception passive 16
   Languages: commun, elfique, sylvestre
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#dullahan
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Dullahan
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dullahan
+  Source: (LDM p160)(TOB p161)
   AttributesDictionary: >+
     Name: Dullahan
 
@@ -27391,9 +27968,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Eala
-  Source: (LDM p161)(TOB p163)
-  AltName: Eala
   Type: Créature monstrueuse
   Size: P
   Alignment: non-alignée
@@ -27407,8 +27981,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#eala
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Eala
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Eala
+  Source: (LDM p161)(TOB p163)
   AttributesDictionary: >+
     Name: Eala
 
@@ -27544,25 +28121,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Edimmu
-  Source: (LDM p162)(TOB p165)
-  AltName: Edimmu
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Désert chaud
   ArmorClass: 15
   HitPoints: 75 (10d8+30)
   Speed: 0 m, vol 18 m (vol stationnaire)
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 18 m, Perception passive 11
   Languages: commun mais ne peut pas parler
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#edimmu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Edimmu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Edimmu
+  Source: (LDM p162)(TOB p165)
   AttributesDictionary: >+
     Name: Edimmu
 
@@ -27583,6 +28161,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -27672,6 +28254,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Désert chaud
+
     ArmorClass: 15
 
     HitPoints: 75 (10d8+30)
@@ -27692,9 +28276,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Einherjar
-  Source: (LDM p163)(TOB p167)
-  AltName: Einherjar
   Type: Humanoïde
   Size: M
   Alignment: chaotique neutre
@@ -27708,8 +28289,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#einherjar
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Einherjar
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Einherjar
+  Source: (LDM p163)(TOB p167)
   AttributesDictionary: >+
     Name: Einherjar
 
@@ -27883,12 +28467,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Eleinomae
-  Source: (LDM p164)(TOB p168)
-  AltName: Eleinomae
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Mangrove / Marécage
   ArmorClass: 18
   HitPoints: 112 (15d8+45)
   Speed: 9 m, nage 9 m
@@ -27899,8 +28481,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#eleinomae
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Eleinomae
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Eleinomae
+  Source: (LDM p164)(TOB p168)
   AttributesDictionary: >+
     Name: Eleinomae
 
@@ -27921,6 +28506,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -28042,6 +28631,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 18
 
     HitPoints: 112 (15d8+45)
@@ -28060,9 +28651,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fée des ombres
-  Source: (LDM p166)(TOB p171)
-  AltName: Shadow Fey
   Type: Humanoïde (elfe)
   Size: M
   Alignment: loyal mauvais
@@ -28075,8 +28663,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#fée-des-ombres
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fée des ombres
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shadow Fey
+  Source: (LDM p166)(TOB p171)
   AttributesDictionary: >+
     Name: Fée des ombres
 
@@ -28218,9 +28809,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chasseur forestier
-  Source: (LDM p166)(TOB p173)
-  AltName: Forest Hunter
   Type: Humanoïde (elfe)
   Size: M
   Alignment: loyal mauvais
@@ -28234,8 +28822,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#chasseur-forestier
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chasseur forestier
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Forest Hunter
+  Source: (LDM p166)(TOB p173)
   AttributesDictionary: >+
     Name: Chasseur forestier
 
@@ -28395,9 +28986,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Duelliste
-  Source: (LDM p167)(TOB p171)
-  AltName: Duelist
   Type: Humanoïde (elfe)
   Size: M
   Alignment: loyal mauvais
@@ -28411,8 +28999,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#duelliste
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Duelliste
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Duelist
+  Source: (LDM p167)(TOB p171)
   AttributesDictionary: >+
     Name: Duelliste
 
@@ -28578,9 +29169,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Enchanteresse
-  Source: (LDM p168)(TOB p172)
-  AltName: Enchantress
   Type: Humanoïde (fée des ombres)
   Size: M
   Alignment: loyal mauvais
@@ -28594,8 +29182,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#enchanteresse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Enchanteresse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Enchantress
+  Source: (LDM p168)(TOB p172)
   AttributesDictionary: >+
     Name: Enchanteresse
 
@@ -28797,9 +29388,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gardien
-  Source: (LDM p169)(TOB p174)
-  AltName: Guardian
   Type: Humanoïde (elfe)
   Size: G
   Alignment: neutre mauvais
@@ -28814,8 +29402,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#gardien
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gardien
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Guardian
+  Source: (LDM p169)(TOB p174)
   AttributesDictionary: >+
     Name: Gardien
 
@@ -28993,12 +29584,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Empoigneur Arboricole
-  Source: (LDM p170)(TOB p25)
-  AltName: Arboreal Grappler
   Type: Aberration
   Size: M
   Alignment: neutre mauvais
+  Terrain: Jungle
   ArmorClass: 14 (armure naturelle)
   HitPoints: 90 (12d8+36)
   Speed: 3m, escalade 12m
@@ -29008,8 +29597,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#empoigneur-arboricole
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Empoigneur Arboricole
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Arboreal Grappler
+  Source: (LDM p170)(TOB p25)
   AttributesDictionary: >+
     Name: Empoigneur Arboricole
 
@@ -29030,6 +29622,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -29123,6 +29719,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Jungle
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 90 (12d8+36)
@@ -29139,24 +29737,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Enfant Des Bruyères
-  Source: (LDM p171)(TOB p56)
-  AltName: Child of the Briar
   Type: Plante
   Size: TP
   Alignment: neutre mauvaise
+  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 50 (20d4)
   Speed: 6 m, escalade 3 m
   Skills: Discrétion +7, Perception +4
+  DamageVulnerabilities: de feu
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: cliquebruyère, commun, sylvestre
   Challenge: 1 (200 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#enfant-des-bruyères
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Enfant Des Bruyères
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Child of the Briar
+  Source: (LDM p171)(TOB p56)
   AttributesDictionary: >+
     Name: Enfant Des Bruyères
 
@@ -29177,6 +29776,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -29284,6 +29887,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13
 
     HitPoints: 50 (20d4)
@@ -29302,12 +29907,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Écornifleur Erina
-  Source: (LDM p172)(TOB p178)
-  AltName: Erina Scrounger
   Type: Humanoïde (erina)
   Size: P
   Alignment: neutre
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 12 (armure de cuir)
   HitPoints: 22 (4d6+8)
   Speed: 6 m, fouissement 6m
@@ -29317,8 +29920,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#Écornifleur-erina
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Écornifleur Erina
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Erina Scrounger
+  Source: (LDM p172)(TOB p178)
   AttributesDictionary: >+
     Name: Écornifleur Erina
 
@@ -29339,6 +29945,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (erina)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -29432,6 +30042,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 12 (armure de cuir)
 
     HitPoints: 22 (4d6+8)
@@ -29448,12 +30060,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Défenseur Erina
-  Source: (LDM p172)(TOB p178)
-  AltName: Erina Defender
   Type: Humanoïde (erina)
   Size: P
   Alignment: neutre
+  Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (chemise de mailles)
   HitPoints: 44 (8d6+16)
   Speed: 6 m, fouissement 6m
@@ -29464,8 +30074,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#défenseur-erina
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Défenseur Erina
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Erina Defender
+  Source: (LDM p172)(TOB p178)
   AttributesDictionary: >+
     Name: Défenseur Erina
 
@@ -29486,6 +30099,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (erina)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -29601,6 +30218,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (chemise de mailles)
 
     HitPoints: 44 (8d6+16)
@@ -29619,9 +30238,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Esclave Putresprit
-  Source: (LDM p173)(TOB p290)
-  AltName: Mindrot Thrall
   Type: Plante
   Size: M
   Alignment: neutre
@@ -29629,16 +30245,19 @@ SubItems:
   HitPoints: 82 (11d8+33)
   Speed: 9m
   SavingThrows: Con +5
-  DamageResistances: contondants et perforants issus d'armes non magiques
   DamageImmunities: d'acide, de poison
   ConditionImmunities: charmé, terrorisé, empoisonné
+  DamageResistances: contondants et perforants issus d'armes non magiques
   Senses: perception des vibrations 9 m, Perception passive 12
   Languages: comprend le commun mais ne peut pas parler
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#esclave-putresprit
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Esclave Putresprit
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mindrot Thrall
+  Source: (LDM p173)(TOB p290)
   AttributesDictionary: >+
     Name: Esclave Putresprit
 
@@ -29786,9 +30405,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Esprit Du Feu
-  Source: (LDM p174)(TOB p202)
-  AltName: Firegeist
   Type: Élémentaire
   Size: P
   Alignment: neutre mauvais
@@ -29803,8 +30419,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#esprit-du-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Esprit Du Feu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Firegeist
+  Source: (LDM p174)(TOB p202)
   AttributesDictionary: >+
     Name: Esprit Du Feu
 
@@ -29958,9 +30577,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Étincelle
-  Source: (LDM p175)(TOB p357)
-  AltName: Spark
   Type: Élémentaire
   Size: TP
   Alignment: chaotique neutre
@@ -29968,16 +30584,19 @@ SubItems:
   HitPoints: 84 (13d4+52)
   Speed: 3 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +8
-  DamageResistances: d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de foudre
   ConditionImmunities: épuisé, empoigné, paralysé, empoisonné, à terre, entravé, inconscient
+  DamageResistances: d'acide, de feu, de force, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, primordial
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#Étincelle
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Étincelle
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spark
+  Source: (LDM p175)(TOB p357)
   AttributesDictionary: >+
     Name: Étincelle
 
@@ -30125,12 +30744,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fangeux
-  Source: (LDM p176)(TOB p292)
-  AltName: Miremal
   Type: Fée
   Size: P
   Alignment: chaotique mauvaise
+  Terrain: Mangrove / Marécage
   ArmorClass: 13
   HitPoints: 22 (5d6+5)
   Speed: 9 m, nage 9 m
@@ -30140,8 +30757,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#fangeux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fangeux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Miremal
+  Source: (LDM p176)(TOB p292)
   AttributesDictionary: >+
     Name: Fangeux
 
@@ -30162,6 +30782,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -30279,6 +30903,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 13
 
     HitPoints: 22 (5d6+5)
@@ -30295,12 +30921,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Far Darrig
-  Source: (LDM p177)(TOB p179)
-  AltName: Far Darrig
   Type: Fée
   Size: P
   Alignment: neutre
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 14 (armure de peau)
   HitPoints: 104 (16d6+48)
   Speed: 6 m
@@ -30311,8 +30935,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#far-darrig
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Far Darrig
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Far Darrig
+  Source: (LDM p177)(TOB p179)
   AttributesDictionary: >+
     Name: Far Darrig
 
@@ -30333,6 +30960,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -30448,6 +31079,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 14 (armure de peau)
 
     HitPoints: 104 (16d6+48)
@@ -30466,9 +31099,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: La Reine de la Nuit et de la Magie
-  Source: (LDM p180)(TOB p192)
-  AltName: Queen of Night and Magic
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -30477,16 +31107,19 @@ SubItems:
   Speed: 9 m, vol 18 m (vol stationnaire)
   SavingThrows: Con +10, Sag +11
   Skills: Arcanes +12, Supercherie +15, Intimidation +15, Perception +11, Discrétion +12
-  DamageResistances: de feu et de foudre
   DamageImmunities: de froid ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   ConditionImmunities: charmé, terrorisé
+  DamageResistances: de feu et de foudre
   Senses: vision parfaite 36 m, Perception passive 21
   Languages: céleste, commun, elfique, sylvestre, umbral ; télépathie 36 m
   Challenge: 21 (33 000 PX)
   Id: tome_of_beasts.md#la-reine-de-la-nuit-et-de-la-magie
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: La Reine de la Nuit et de la Magie
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Queen of Night and Magic
+  Source: (LDM p180)(TOB p192)
   AttributesDictionary: >+
     Name: La Reine de la Nuit et de la Magie
 
@@ -30865,9 +31498,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: La Reine des Neiges
-  Source: (LDM p182)(TOB p198)
-  AltName: Snow Queen
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -30876,16 +31506,19 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex+9, Con +7, Cha+9
   Skills: Perception +10, Discrétion +9
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froid
   DamageImmunities: de froid
   ConditionImmunities: charmé, terrorisé, épuisé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froid
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20
   Languages: commun, elfique, géant, sylvestre
   Challenge: 16 (15 000 PX)
   Id: tome_of_beasts.md#la-reine-des-neiges
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: La Reine des Neiges
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Snow Queen
+  Source: (LDM p182)(TOB p198)
   AttributesDictionary: >+
     Name: La Reine des Neiges
 
@@ -31204,9 +31837,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: La Reine des Sorcières
-  Source: (LDM p184)(TOB p194)
-  AltName: Queen of Witches
   Type: Fée
   Size: G
   Alignment: neutre
@@ -31215,16 +31845,19 @@ SubItems:
   Speed: 12 m, vol 15 m (vol stationnaire)
   SavingThrows: Dex+6, Sag +10, Cha+12
   Skills: Arcanes +9, Supercherie +12, Histoire +9, Perspicacité +10, Perception +10
-  DamageResistances: de feu, de froid; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   DamageImmunities: radiants
   ConditionImmunities: aveuglé, charmé, terrorisé
+  DamageResistances: de feu, de froid; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   Senses: vision parfaite 18m, Perception passive 19
   Languages: céleste, commun, draconique, elfique, sylvestre, umbral
   Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#la-reine-des-sorcières
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: La Reine des Sorcières
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Queen of Witches
+  Source: (LDM p184)(TOB p194)
   AttributesDictionary: >+
     Name: La Reine des Sorcières
 
@@ -31537,9 +32170,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Le Grand Veneur
-  Source: (LDM p186)(TOB p188)
-  AltName: Lord of the Hunt
   Type: Fée
   Size: M
   Alignment: loyale neutre
@@ -31548,16 +32178,19 @@ SubItems:
   Speed: 12m
   SavingThrows: For +11, Sag +10, Cha +8
   Skills: Athlétisme +11, Perception +10, Survie +10
-  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   DamageImmunities: de froid, de poison
   ConditionImmunities: épuisé, charmé, terrorisé, empoisonné
+  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 20
   Languages: commun, draconique, elfique, sylvestre
   Challenge: 18 (20000 PX)
   Id: tome_of_beasts.md#le-grand-veneur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Le Grand Veneur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lord of the Hunt
+  Source: (LDM p186)(TOB p188)
   AttributesDictionary: >+
     Name: Le Grand Veneur
 
@@ -31870,9 +32503,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Le Roi Baigné de Lune
-  Source: (LDM p188)(TOB p190)
-  AltName: Moonlit King
   Type: Fée
   Size: M
   Alignment: neutre bonne
@@ -31881,16 +32511,19 @@ SubItems:
   Speed: 15 m
   SavingThrows: Con +10, Sag +10, Cha +11
   Skills: Arcanes +11, Perception +10
-  DamageResistances: acides ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid.
   DamageImmunities: de froid, de feu, de poison
   ConditionImmunities: charmé, terrorisé, empoisonné
+  DamageResistances: acides ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid.
   Senses: vision aveugle 9m, vision dans le noir 36 m, Perception passive 20
   Languages: abyssal, céleste, commun, draconique, elfique, infernal, umbral ; télépathie 30m
   Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#le-roi-baigné-de-lune
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Le Roi Baigné de Lune
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Moonlit King
+  Source: (LDM p188)(TOB p190)
   AttributesDictionary: >+
     Name: Le Roi Baigné de Lune
 
@@ -32215,9 +32848,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Le Roi des Ours
-  Source: (LDM p190)(TOB p186)
-  AltName: Bear King
   Type: Fée (métamorphe)
   Size: M
   Alignment: loyale neutre
@@ -32226,16 +32856,19 @@ SubItems:
   Speed: 12m
   SavingThrows: For +9, Dex +4, Sag +7
   Skills: Athlétisme +9, Intimidation +7, Perception +7
-  DamageResistances: de froid
   DamageImmunities: de poison ; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en fer froid
   ConditionImmunities: empoisonné
+  DamageResistances: de froid
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: commun, elfique, géant, sylvestre
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#le-roi-des-ours
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Le Roi des Ours
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bear King
+  Source: (LDM p190)(TOB p186)
   AttributesDictionary: >+
     Name: Le Roi des Ours
 
@@ -32530,9 +33163,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Le Roi des Rivières
-  Source: (LDM p192)(TOB p196)
-  AltName: River King
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -32541,16 +33171,19 @@ SubItems:
   Speed: 9 m, nage 12 m
   SavingThrows: Dex+8, Con +10, Sag +6
   Skills: Intimidation +8, Nature +7, Perception +6, Discrétion +8
-  DamageResistances: de feu, de froid, de tonnerre ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   DamageImmunities: de foudre
   ConditionImmunities: épuisé
+  DamageResistances: de feu, de froid, de tonnerre ; contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 16
   Languages: commun, élémentaire, elfique, géant
   Challenge: 16 (15 000 PX)
   Id: tome_of_beasts.md#le-roi-des-rivières
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Le Roi des Rivières
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: River King
+  Source: (LDM p192)(TOB p196)
   AttributesDictionary: >+
     Name: Le Roi des Rivières
 
@@ -32869,9 +33502,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Felforgé
-  Source: (LDM p194)(TOB p182)
-  AltName: Fellforged
   Type: Créature artificielle
   Size: M
   Alignment: loyal mauvais
@@ -32879,16 +33509,19 @@ SubItems:
   HitPoints: 135 (18d8+54)
   Speed: 9m
   SavingThrows: For +8
-  DamageResistances: d'acide, de froid, de feu, de foudre
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoisonné
+  DamageResistances: d'acide, de froid, de feu, de foudre
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: celles qu'il parlait de son vivant
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#felforgé
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Felforgé
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fellforged
+  Source: (LDM p194)(TOB p182)
   AttributesDictionary: >+
     Name: Felforgé
 
@@ -33042,25 +33675,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Férocien
-  Source: (LDM p195)(TOB p338)
-  AltName: Savager
   Type: Bête
   Size: G
   Alignment: neutre mauvaise
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 17 (armure naturelle)
   HitPoints: 115 (1d10+60)
   Speed: 12 m, escalade 6 m
   SavingThrows: Dex +5, Con +9
   Skills: Perception +3
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, terrorisé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#férocien
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Férocien
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Savager
+  Source: (LDM p195)(TOB p338)
   AttributesDictionary: >+
     Name: Férocien
 
@@ -33081,6 +33715,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -33182,6 +33820,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 115 (1d10+60)
@@ -33202,9 +33842,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fext
-  Source: (LDM p196)(TOB p183)
-  AltName: Fext
   Type: Mort-vivant
   Size: M
   Alignment: n'importe quel alignement
@@ -33213,15 +33850,18 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6, Sag +4, Cha+7
   Skills: Perception +4
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: les langues parlées par son protecteur
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#fext
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fext
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fext
+  Source: (LDM p196)(TOB p183)
   AttributesDictionary: >+
     Name: Fext
 
@@ -33399,9 +34039,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fils De Fenris
-  Source: (LDM p197)(TOB p355)
-  AltName: Son of Fenris
   Type: Créature monstrueuse
   Size: TG
   Alignment: chaotique mauvaise
@@ -33410,16 +34047,19 @@ SubItems:
   Speed: 18 m, fouissement 4,50 m (9 m dans la glace ou la neige)
   SavingThrows: Dex+7, Con +10, Sag +8
   Skills: Arcanes +7, Intimidation +6, Religion +12
-  DamageResistances: psychiques, radiants
   DamageImmunities: de froid, de foudre, de poison; contondants et perforants infligés par des armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: psychiques, radiants
   Senses: vision parfaite 18 m, perception des vibrations 30 m, Perception passive 14
   Languages: commun, céleste, draconique, elfique, nain, géant, infernal, télépathie 18 m
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#fils-de-fenris
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fils De Fenris
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Son of Fenris
+  Source: (LDM p197)(TOB p355)
   AttributesDictionary: >+
     Name: Fils De Fenris
 
@@ -33645,9 +34285,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Forgepeur
-  Source: (LDM p198)(TOB p181)
-  AltName: Fear Smith
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -33656,15 +34293,18 @@ SubItems:
   Speed: 12 m, escalade 4,50 m
   SavingThrows: Sag +6
   Skills: Intimidation +6, Discrétion +7
-  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   ConditionImmunities: charmé, terrorisé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes qui ne sont pas en fer froid
   Senses: vision aveugle 9m, Perception passive 12
   Languages: commun, elfique, sylvestre
   Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#forgepeur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Forgepeur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fear Smith
+  Source: (LDM p198)(TOB p181)
   AttributesDictionary: >+
     Name: Forgepeur
 
@@ -33840,9 +34480,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fourmi Géante
-  Source: (LDM p199)(TOB p23)
-  AltName: Giant Ant
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -33854,8 +34491,11 @@ SubItems:
   Challenge: 2 (450 PX)
   Id: tome_of_beasts.md#fourmi-géante
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fourmi Géante
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Giant Ant
+  Source: (LDM p199)(TOB p23)
   AttributesDictionary: >+
     Name: Fourmi Géante
 
@@ -33973,9 +34613,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Reine Fourmi Géante
-  Source: (LDM p199)(TOB p23)
-  AltName: Giant Ant Queen
   Type: Bête
   Size: G
   Alignment: non alignée
@@ -33987,8 +34624,11 @@ SubItems:
   Challenge: 4 (1100 PX)
   Id: tome_of_beasts.md#reine-fourmi-géante
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Reine Fourmi Géante
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Giant Ant Queen
+  Source: (LDM p199)(TOB p23)
   AttributesDictionary: >+
     Name: Reine Fourmi Géante
 
@@ -34112,9 +34752,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fraughashar
-  Source: (LDM p200)(TOB p206)
-  AltName: Fraughashar
   Type: Fée
   Size: P
   Alignment: neutre mauvaise
@@ -34128,8 +34765,11 @@ SubItems:
   Challenge: 1/2 (50 PX)
   Id: tome_of_beasts.md#fraughashar
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fraughashar
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fraughashar
+  Source: (LDM p200)(TOB p206)
   AttributesDictionary: >+
     Name: Fraughashar
 
@@ -34265,9 +34905,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gardien Spectral
-  Source: (LDM p201)(TOB p358)
-  AltName: Spectral Guardian
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -34275,16 +34912,19 @@ SubItems:
   HitPoints: 110 (13d8+52)
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +7, Sag +6
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 3 m, vision dans le noir 18 m, Perception passive 13
   Languages: comprend les langues qu'il parlait de son vivant mais ne peut pas parler
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#gardien-spectral
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gardien Spectral
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spectral Guardian
+  Source: (LDM p201)(TOB p358)
   AttributesDictionary: >+
     Name: Gardien Spectral
 
@@ -34486,12 +35126,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gbahali (Postosuchus)
-  Source: (LDM p202)(TOB p209)
-  AltName: Gbahali (Postosuchus)
   Type: Bête
   Size: TG
   Alignment: non-alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 126 (12d12+48)
   Speed: 15 m
@@ -34501,8 +35139,11 @@ SubItems:
   Challenge: 6 (2 300PX)9 (5 000PX)
   Id: tome_of_beasts.md#gbahali-postosuchus
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gbahali (Postosuchus)
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gbahali (Postosuchus)
+  Source: (LDM p202)(TOB p209)
   AttributesDictionary: >+
     Name: Gbahali (Postosuchus)
 
@@ -34523,6 +35164,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -34624,6 +35269,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 126 (12d12+48)
@@ -34640,12 +35287,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Géant Du Désert
-  Source: (LDM p203)(TOB p222)
-  AltName: Desert Giant
   Type: Géant
   Size: TG
   Alignment: neutre
+  Terrain: Désert chaud
   ArmorClass: 17 (armure naturelle)
   HitPoints: 175 (14d12+84)
   Speed: 12m
@@ -34654,8 +35299,11 @@ SubItems:
   DamageImmunities: de feu
   Id: tome_of_beasts.md#géant-du-désert
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Géant Du Désert
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Desert Giant
+  Source: (LDM p203)(TOB p222)
   AttributesDictionary: >+
     Name: Géant Du Désert
 
@@ -34676,6 +35324,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -34769,6 +35421,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Désert chaud
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 175 (14d12+84)
@@ -34783,9 +35437,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Hraesvelgr Le Mangeur De Cadavres
-  Source: (LDM p204)(TOB p224)
-  AltName: Hraesvelgr the Corpse Swallower
   Type: Géant (métamorphe (TG), titan)
   Size: TGTG
   Alignment: neutre
@@ -34794,16 +35445,19 @@ SubItems:
   Speed: 15 m (6 m, vol 36 m sous forme de roc)
   SavingThrows: Dex +6, Int +9, Sag +9, Cha +11
   Skills: Athlétisme +13, Perception +9, Survie +9
-  DamageResistances: de foudre, de tonnerre
   DamageImmunities: de froid, contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: épuisé
+  DamageResistances: de foudre, de tonnerre
   Senses: Perception passive 19
   Languages: aérien, commun, géant (incapable de parler sous forme de roc)
   Challenge: 19 (22 000 PX)
   Id: tome_of_beasts.md#hraesvelgr-le-mangeur-de-cadavres
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Hraesvelgr Le Mangeur De Cadavres
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Hraesvelgr the Corpse Swallower
+  Source: (LDM p204)(TOB p224)
   AttributesDictionary: >+
     Name: Hraesvelgr Le Mangeur De Cadavres
 
@@ -35110,12 +35764,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Géant Jotun
-  Source: (LDM p206)(TOB p226)
-  AltName: Jotun Giant
   Type: Géant
   Size: Gig
   Alignment: chaotique neutre
+  Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
   ArmorClass: 20 (armure naturelle)
   HitPoints: 407 (22d20+176)
   Speed: 18 m
@@ -35127,8 +35779,11 @@ SubItems:
   Challenge: 22 (25 000PX)
   Id: tome_of_beasts.md#géant-jotun
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Géant Jotun
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Jotun Giant
+  Source: (LDM p206)(TOB p226)
   AttributesDictionary: >+
     Name: Géant Jotun
 
@@ -35149,6 +35804,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -35334,6 +35993,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 20 (armure naturelle)
 
     HitPoints: 407 (22d20+176)
@@ -35354,12 +36015,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Géant Obèse
-  Source: (LDM p207)(TOB p223)
-  AltName: Flab Giant
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Collines / Vallées, Montagnes
   ArmorClass: 14 (armure naturelle)
   HitPoints: 110 (13d10+39)
   Speed: 6 m
@@ -35372,8 +36031,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#géant-obèse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Géant Obèse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Flab Giant
+  Source: (LDM p207)(TOB p223)
   AttributesDictionary: >+
     Name: Géant Obèse
 
@@ -35394,6 +36056,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 
 
 
@@ -35493,6 +36159,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Collines / Vallées, Montagnes
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 110 (13d10+39)
@@ -35515,9 +36183,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Géant Thursir
-  Source: (LDM p208)(TOB p227)
-  AltName: Thursir Giant
   Type: Géant
   Size: G
   Alignment: neutre mauvais (50 %) ou loyal mauvais (50 %)
@@ -35531,8 +36196,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#géant-thursir
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Géant Thursir
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Thursir Giant
+  Source: (LDM p208)(TOB p227)
   AttributesDictionary: >+
     Name: Géant Thursir
 
@@ -35668,9 +36336,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Génie Al-Aeshma
-  Source: (LDM p209)(TOB p211)
-  AltName: Al-Aeshma Genie
   Type: Élémentaire
   Size: G
   Alignment: chaotique mauvais
@@ -35684,8 +36349,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#génie-al-aeshma
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Génie Al-Aeshma
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Al-Aeshma Genie
+  Source: (LDM p209)(TOB p211)
   AttributesDictionary: >+
     Name: Génie Al-Aeshma
 
@@ -35863,12 +36531,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gerridé
-  Source: (LDM p210)(TOB p212)
-  AltName: Gerridae
   Type: Fée
   Size: G
   Alignment: neutre
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 14
   HitPoints: 77 (9d10+27)
   Speed: 3 m, escalade 3 m, nage 24 m
@@ -35877,8 +36543,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#gerridé
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gerridé
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gerridae
+  Source: (LDM p210)(TOB p212)
   AttributesDictionary: >+
     Name: Gerridé
 
@@ -35899,6 +36568,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -35988,6 +36661,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 14
 
     HitPoints: 77 (9d10+27)
@@ -36002,12 +36677,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gobelin Poussiéreux
-  Source: (LDM p211)(TOB p232)
-  AltName: Dust Goblin
   Type: Humanoïde (gobelinoïde)
   Size: P
   Alignment: neutre mauvais
+  Terrain: Désert chaud, Caverne aménagée, Ruines extérieures
   ArmorClass: 14 (armure de cuir)
   HitPoints: 5 (1d6+2)
   Speed: 12m
@@ -36018,8 +36691,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#gobelin-poussiéreux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gobelin Poussiéreux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dust Goblin
+  Source: (LDM p211)(TOB p232)
   AttributesDictionary: >+
     Name: Gobelin Poussiéreux
 
@@ -36040,6 +36716,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Caverne aménagée, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -36125,6 +36805,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Désert chaud, Caverne aménagée, Ruines extérieures
+
     ArmorClass: 14 (armure de cuir)
 
     HitPoints: 5 (1d6+2)
@@ -36143,9 +36825,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Golem À Vapeur
-  Source: (LDM p212)(TOB p237)
-  AltName: Steam Golem
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -36159,8 +36838,11 @@ SubItems:
   Challenge: 13 (10 000 PX)
   Id: tome_of_beasts.md#golem-À-vapeur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Golem À Vapeur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Steam Golem
+  Source: (LDM p212)(TOB p237)
   AttributesDictionary: >+
     Name: Golem À Vapeur
 
@@ -36332,9 +37014,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Golem De Sel
-  Source: (LDM p213)(TOB p235)
-  AltName: Salt Golem
   ArmorClass: 17 (armure naturelle)
   HitPoints: 110 (11d10+55)
   Speed: 6 m
@@ -36346,8 +37025,11 @@ SubItems:
   Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#golem-de-sel
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Golem De Sel
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Salt Golem
+  Source: (LDM p213)(TOB p235)
   AttributesDictionary: >+
     Name: Golem De Sel
 
@@ -36485,9 +37167,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Golem Oculaire
-  Source: (LDM p214)(TOB p233)
-  AltName: Eye Golem
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -36502,8 +37181,11 @@ SubItems:
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#golem-oculaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Golem Oculaire
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Eye Golem
+  Source: (LDM p214)(TOB p233)
   AttributesDictionary: >+
     Name: Golem Oculaire
 
@@ -36663,9 +37345,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Golem Smaragdin
-  Source: (LDM p215)(TOB p236)
-  AltName: Smaragdine Golem
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -36679,8 +37358,11 @@ SubItems:
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#golem-smaragdin
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Golem Smaragdin
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Smaragdine Golem
+  Source: (LDM p215)(TOB p236)
   AttributesDictionary: >+
     Name: Golem Smaragdin
 
@@ -36828,9 +37510,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Golem Trésor
-  Source: (LDM p216)(TOB p234)
-  AltName: Hoard Golem
   Type: Créature artificielle
   Size: TG
   Alignment: non-alignée
@@ -36846,8 +37525,11 @@ SubItems:
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#golem-trésor
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Golem Trésor
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Hoard Golem
+  Source: (LDM p216)(TOB p234)
   AttributesDictionary: >+
     Name: Golem Trésor
 
@@ -37007,26 +37689,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Goule Darakhule
-  Source: (LDM p217)(TOB p216)
-  AltName: Ghoul, Darakhul
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 16 (armure d'écailles ; 18 avec bouclier)
   HitPoints: 78 (12d8+24)
   Speed: 9m
   Skills: Supercherie +3, Discrétion +5
-  DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, empoisonné
+  DamageResistances: nécrotiques
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, darakhul
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#goule-darakhule
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Goule Darakhule
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ghoul, Darakhul
+  Source: (LDM p217)(TOB p216)
   AttributesDictionary: >+
     Name: Goule Darakhule
 
@@ -37047,6 +37730,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -37170,6 +37857,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 16 (armure d'écailles ; 18 avec bouclier)
 
     HitPoints: 78 (12d8+24)
@@ -37192,12 +37881,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Goule De Fer
-  Source: (LDM p218)(TOB p221)
-  AltName: Ghoul, Iron
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 16 (cuirasse)
   HitPoints: 143 (22d8+44)
   Speed: 9 m, fouissement 6 m
@@ -37208,8 +37895,11 @@ SubItems:
   Challenge: 5 (2 900PX)
   Id: tome_of_beasts.md#goule-de-fer
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Goule De Fer
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ghoul, Iron
+  Source: (LDM p218)(TOB p221)
   AttributesDictionary: >+
     Name: Goule De Fer
 
@@ -37230,6 +37920,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -37333,6 +38027,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 16 (cuirasse)
 
     HitPoints: 143 (22d8+44)
@@ -37351,9 +38047,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Empereur Des Goules
-  Source: (LDM p219)(TOB p218)
-  AltName: Emperor of the Ghouls
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -37362,16 +38055,19 @@ SubItems:
   Speed: 9 m, fouissement 4,50 m
   SavingThrows: Dex +8, Sag +9
   Skills: Supercherie +11, Perspicacité +9, Perception +9, Persuasion +11
-  DamageResistances: de froid, nécrotiques
   DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  DamageResistances: de froid, nécrotiques
   Senses: vision dans le noir 36 m, Perception passive 19
   Languages: commun, darakhul, draconique, gnoll, commun des profondeurs
   Challenge: 20 (25 000PX)
   Id: tome_of_beasts.md#empereur-des-goules
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Empereur Des Goules
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Emperor of the Ghouls
+  Source: (LDM p219)(TOB p218)
   AttributesDictionary: >+
     Name: Empereur Des Goules
 
@@ -37732,12 +38428,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Goule Impériale
-  Source: (LDM p222)(TOB p220)
-  AltName: Ghoul, Imperial
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 16 (cuirasse)
   HitPoints: 93 (17d8+17)
   Speed: 9 m, fouissement 4,50 m
@@ -37748,8 +38442,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#goule-impériale
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Goule Impériale
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ghoul, Imperial
+  Source: (LDM p222)(TOB p220)
   AttributesDictionary: >+
     Name: Goule Impériale
 
@@ -37770,6 +38467,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -37867,6 +38568,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 16 (cuirasse)
 
     HitPoints: 93 (17d8+17)
@@ -37885,12 +38588,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Goule Mendiante
-  Source: (LDM p223)(TOB p213)
-  AltName: Beggar Ghoul
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 12
   HitPoints: 13 (3d8)
   Speed: 9m
@@ -37901,8 +38602,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#goule-mendiante
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Goule Mendiante
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Beggar Ghoul
+  Source: (LDM p223)(TOB p213)
   AttributesDictionary: >+
     Name: Goule Mendiante
 
@@ -37923,6 +38627,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -38014,6 +38722,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 12
 
     HitPoints: 13 (3d8)
@@ -38032,27 +38742,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Goule Poudre D'Os
-  Source: (LDM p224)(TOB p214)
-  AltName: Bonepowder Ghoul
   Type: Mort-vivant
   Size: P
   Alignment: neutre mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 195 (26d6+104)
   Speed: 9m
   SavingThrows: Dex +9, Con +8, Sag +6, Cha +8
   Skills: Perception +6, Discrétion +9
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, darakhul, draconique, nain
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#goule-poudre-dos
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Goule Poudre D'Os
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bonepowder Ghoul
+  Source: (LDM p224)(TOB p214)
   AttributesDictionary: >+
     Name: Goule Poudre D'Os
 
@@ -38073,6 +38784,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -38212,6 +38927,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 195 (26d6+104)
@@ -38295,12 +39012,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gremlin Azza
-  Source: (LDM p226)(TOB p28)
-  AltName: Azza Gremlin
   Type: Fée
   Size: P
   Alignment: neutre
+  Terrain: Montagnes
   ArmorClass: 14
   HitPoints: 7 (2d6)
   Speed: 3m, vol 12m (vol stationnaire)
@@ -38310,8 +39025,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#gremlin-azza
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gremlin Azza
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Azza Gremlin
+  Source: (LDM p226)(TOB p28)
   AttributesDictionary: >+
     Name: Gremlin Azza
 
@@ -38332,6 +39050,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 
 
 
@@ -38419,6 +39141,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Montagnes
+
     ArmorClass: 14
 
     HitPoints: 7 (2d6)
@@ -38435,9 +39159,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gremlin Rhumé
-  Source: (LDM p227)(TOB p239)
-  AltName: Rum Gremlin
   Type: Fée
   Size: TP
   Alignment: chaotique mauvaise
@@ -38451,8 +39172,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#gremlin-rhumé
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gremlin Rhumé
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rum Gremlin
+  Source: (LDM p227)(TOB p239)
   AttributesDictionary: >+
     Name: Gremlin Rhumé
 
@@ -38606,12 +39330,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Guenaude Des Sables
-  Source: (LDM p228)(TOB p245)
-  AltName: Sanf Hag
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Désert chaud
   ArmorClass: 17 (armure naturelle)
   HitPoints: 112 (15d8+45)
   Speed: 9 m, fouissement 9 m
@@ -38621,8 +39343,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#guenaude-des-sables
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Guenaude Des Sables
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sanf Hag
+  Source: (LDM p228)(TOB p245)
   AttributesDictionary: >+
     Name: Guenaude Des Sables
 
@@ -38643,6 +39368,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -38766,6 +39495,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Désert chaud
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 112 (15d8+45)
@@ -38782,24 +39513,24 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Guenaude Miroir
-  Source: (LDM p229)(TOB p229)
-  AltName: Mirror Hag
   Type: Fée
   Size: M
   Alignment: chaotique neutre
   ArmorClass: 16 (armure naturelle)
   HitPoints: 168 (16d8+96)
   Speed: 9 m, vol 3 m
-  DamageResistances: de tonnerre
   ConditionImmunities: charmé, terrorisé
+  DamageResistances: de tonnerre
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#guenaude-miroir
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Guenaude Miroir
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mirror Hag
+  Source: (LDM p229)(TOB p229)
   AttributesDictionary: >+
     Name: Guenaude Miroir
 
@@ -38959,9 +39690,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Guenaude Rouge
-  Source: (LDM p230)(TOB p244)
-  AltName: Red Hag
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -38975,8 +39703,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#guenaude-rouge
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Guenaude Rouge
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Red Hag
+  Source: (LDM p230)(TOB p244)
   AttributesDictionary: >+
     Name: Guenaude Rouge
 
@@ -39148,9 +39879,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Guenaude Sanglante
-  Source: (LDM p231)(TOB p242)
-  AltName: Blood Hag
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -39165,8 +39893,11 @@ SubItems:
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#guenaude-sanglante
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Guenaude Sanglante
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Blood Hag
+  Source: (LDM p231)(TOB p242)
   AttributesDictionary: >+
     Name: Guenaude Sanglante
 
@@ -39366,12 +40097,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gug
-  Source: (LDM p232)(TOB p241)
-  AltName: Gug
   Type: Géant
   Size: TG
   Alignment: neutre mauvais
+  Terrain: Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 270 (20d12+140)
   Speed: 12m
@@ -39384,8 +40113,11 @@ SubItems:
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#gug
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gug
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gug
+  Source: (LDM p232)(TOB p241)
   AttributesDictionary: >+
     Name: Gug
 
@@ -39406,6 +40138,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 
 
 
@@ -39547,6 +40283,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 270 (20d12+140)
@@ -39569,9 +40307,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Habitant De Leng
-  Source: (LDM p233)(TOB p204)
-  AltName: Folk of Leng
   Type: Humanoïde
   Size: M
   Alignment: neutre mauvais
@@ -39580,16 +40315,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +4, Sag +5
   Skills: Arcanes +4, Supercherie +8, Perception +5
-  DamageResistances: de froid
   DamageImmunities: nécrotiques
   ConditionImmunities: terrorisé
+  DamageResistances: de froid
   Senses: Perception passive 15
   Languages: commun, langue du vide
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#habitant-de-leng
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Habitant De Leng
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Folk of Leng
+  Source: (LDM p233)(TOB p204)
   AttributesDictionary: >+
     Name: Habitant De Leng
 
@@ -39773,24 +40511,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Harpie Chouette
-  Source: (LDM p234)(TOB p246)
-  AltName: Owl Harpy
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre mauvaise
+  Terrain: Désert chaud, Jungle
   ArmorClass: 14
   HitPoints: 112 (15d8+45)
   Speed: 6 m, vol 24 m (vol stationnaire)
   Skills: Représentation +7, Discrétion +6 (+9 en volant)
+  DamageVulnerabilities: de tonnerre
   Senses: vision aveugle 18 m, Perception passive 12
   Languages: commun, abyssal, géant
   Challenge: 5 (1 800PX)
-  DamageVulnerabilities: de tonnerre
   Id: tome_of_beasts.md#harpie-chouette
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Harpie Chouette
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Owl Harpy
+  Source: (LDM p234)(TOB p246)
   AttributesDictionary: >+
     Name: Harpie Chouette
 
@@ -39811,6 +40550,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Jungle<!--/Terrain-->
 
 
 
@@ -39926,6 +40669,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Désert chaud, Jungle
+
     ArmorClass: 14
 
     HitPoints: 112 (15d8+45)
@@ -39944,9 +40689,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Haugbui
-  Source: (LDM p235)(TOB p247)
-  AltName: Haugbui
   Type: Mort-vivant
   Size: M
   Alignment: loyal neutre
@@ -39955,16 +40697,19 @@ SubItems:
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex+8, Con +9, Sag +10
   Skills: Arcanes +7, Histoire +7, Intimidation +8, Perception +10, Religion +12
-  DamageResistances: de froid, de foudre, nécrotiques
   DamageImmunities: de poison; contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  DamageResistances: de froid, de foudre, nécrotiques
   Senses: vision parfaite 18m, Perception passive 20
   Languages: celles qu'il parlait de son vivant ; télépathie à 36 m
   Challenge: 13 (10 000 PX)
   Id: tome_of_beasts.md#haugbui
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Haugbui
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Haugbui
+  Source: (LDM p235)(TOB p247)
   AttributesDictionary: >+
     Name: Haugbui
 
@@ -40178,9 +40923,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Héraut Des Ténèbres
-  Source: (LDM p236)(TOB p249)
-  AltName: Herald of Darkness
   Type: Fiélon
   Size: G
   Alignment: neutre mauvais
@@ -40189,16 +40931,19 @@ SubItems:
   Speed: 9 m, nage 9 m, vol 15 m
   SavingThrows: For +8, Con +8, Cha +8
   Skills: Athlétisme +8, Supercherie +8, Perception +5
-  DamageResistances: contondants, de tonnerre
   DamageImmunities: de froid, de foudre, nécrotiques, de poison
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: contondants, de tonnerre
   Senses: vision dans le noir 60 m, Perception passive 15
   Languages: commun, elfique, gobelin, infernal, sylvestre
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#héraut-des-ténèbres
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Héraut Des Ténèbres
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Herald of Darkness
+  Source: (LDM p236)(TOB p249)
   AttributesDictionary: >+
     Name: Héraut Des Ténèbres
 
@@ -40372,9 +41117,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Héraut Du Sang
-  Source: (LDM p237)(TOB p248)
-  AltName: Herald of Blood
   Type: Fiélon
   Size: TG
   Alignment: neutre mauvais
@@ -40383,16 +41125,19 @@ SubItems:
   Speed: 9 m, nage 9 m, vol 15 m
   SavingThrows: For +10, Con +9, Sag +7
   Skills: Arcanes +6, Perception +7
-  DamageResistances: perforants, de foudre
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: perforants, de foudre
   Senses: vision dans le noir 72 m, Perception passive 17
   Languages: commun, draconique, infernal, langue du Vide
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#héraut-du-sang
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Héraut Du Sang
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Herald of Blood
+  Source: (LDM p237)(TOB p248)
   AttributesDictionary: >+
     Name: Héraut Du Sang
 
@@ -40590,12 +41335,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Escarmoucheur Homme-Cafard
-  Source: (LDM p238)(TOB p329)
-  AltName: Roachling Skirmisher
   Type: Humanoïde (homme-cafard)
   Size: P
   Alignment: chaotique neutre
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 7 (2d6)
   Speed: 7,50m
@@ -40606,8 +41349,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#escarmoucheur-homme-cafard
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Escarmoucheur Homme-Cafard
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Roachling Skirmisher
+  Source: (LDM p238)(TOB p329)
   AttributesDictionary: >+
     Name: Escarmoucheur Homme-Cafard
 
@@ -40628,6 +41374,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-cafard)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -40719,6 +41469,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 7 (2d6)
@@ -40737,12 +41489,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Seigneur Homme-Cafard
-  Source: (LDM p238)(TOB p329)
-  AltName: Roachling Lord
   Type: Humanoïde (homme-cafard)
   Size: P
   Alignment: chaotique neutre
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 63 (14d6+14)
   Speed: 7,50m
@@ -40753,8 +41503,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#seigneur-homme-cafard
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Seigneur Homme-Cafard
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Roachling Lord
+  Source: (LDM p238)(TOB p329)
   AttributesDictionary: >+
     Name: Seigneur Homme-Cafard
 
@@ -40775,6 +41528,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-cafard)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -40872,6 +41629,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 63 (14d6+14)
@@ -40890,26 +41649,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Homme-Chèvre
-  Source: (LDM p239)(TOB p231)
-  AltName: Goat-Man
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt, Collines / Vallées
   ArmorClass: 14 (armure naturelle)
   HitPoints: 65 (10d8+20)
   Speed: 12m
   SavingThrows: Dex+4
   Skills: Acrobaties+4, Athlétisme +6, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   ConditionImmunities: charmé, terrorisé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, géant, trollien, incapable de parler
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#homme-chèvre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Homme-Chèvre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Goat-Man
+  Source: (LDM p239)(TOB p231)
   AttributesDictionary: >+
     Name: Homme-Chèvre
 
@@ -40930,6 +41690,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 
 
 
@@ -41029,6 +41793,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt, Collines / Vallées
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 65 (10d8+20)
@@ -41051,12 +41817,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Combattant Homme-Corbeau
-  Source: (LDM p240)(TOB p323)
-  AltName: Ravenfolk Warrior
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
+  Terrain: Bois / Forêt, Collines / Vallées
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 78 (12d8+24)
   Speed: 9m
@@ -41067,8 +41831,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#combattant-homme-corbeau
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Combattant Homme-Corbeau
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ravenfolk Warrior
+  Source: (LDM p240)(TOB p323)
   AttributesDictionary: >+
     Name: Combattant Homme-Corbeau
 
@@ -41089,6 +41856,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 
 
 
@@ -41228,6 +41999,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées
+
     ArmorClass: 15 (armure de cuir clouté)
 
     HitPoints: 78 (12d8+24)
@@ -41246,12 +42019,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Croasseur Funeste Homme-Corbeau
-  Source: (LDM p241)(TOB p324)
-  AltName: Ravenfolk Doom Croaker
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
+  Terrain: Bois / Forêt, Collines / Vallées
   ArmorClass: 14 (armure de cuir clouté)
   HitPoints: 88 (16d8+16)
   Speed: 9m
@@ -41262,8 +42033,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#croasseur-funeste-homme-corbeau
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Croasseur Funeste Homme-Corbeau
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ravenfolk Doom Croaker
+  Source: (LDM p241)(TOB p324)
   AttributesDictionary: >+
     Name: Croasseur Funeste Homme-Corbeau
 
@@ -41284,6 +42058,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 
 
 
@@ -41405,6 +42183,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées
+
     ArmorClass: 14 (armure de cuir clouté)
 
     HitPoints: 88 (16d8+16)
@@ -41423,12 +42203,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Éclaireur Homme-Corbeau
-  Source: (LDM p242)(TOB p322)
-  AltName: Ravenfolk Scout
   Type: Humanoïde (kenku)
   Size: M
   Alignment: neutre
+  Terrain: Bois / Forêt, Collines / Vallées
   ArmorClass: 14 (armure de cuir clouté)
   HitPoints: 21 (6d8 – 6)
   Speed: 9m
@@ -41439,8 +42217,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#Éclaireur-homme-corbeau
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Éclaireur Homme-Corbeau
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ravenfolk Scout
+  Source: (LDM p242)(TOB p322)
   AttributesDictionary: >+
     Name: Éclaireur Homme-Corbeau
 
@@ -41461,6 +42242,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kenku)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 
 
 
@@ -41564,6 +42349,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées
+
     ArmorClass: 14 (armure de cuir clouté)
 
     HitPoints: 21 (6d8 – 6)
@@ -41582,12 +42369,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Homme-Lémurien
-  Source: (LDM p243)(TOB p271)
-  AltName: Lemurfolk
   Type: Humanoïde (homme-lémurien)
   Size: P
   Alignment: neutre
+  Terrain: Jungle
   ArmorClass: 13
   HitPoints: 14 (4d6)
   Speed: 6 m, escalade 3 m, vol 12 m
@@ -41597,8 +42382,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#homme-lémurien
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Homme-Lémurien
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lemurfolk
+  Source: (LDM p243)(TOB p271)
   AttributesDictionary: >+
     Name: Homme-Lémurien
 
@@ -41619,6 +42407,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-lémurien)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -41706,6 +42498,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Jungle
+
     ArmorClass: 13
 
     HitPoints: 14 (4d6)
@@ -41722,12 +42516,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Homme-Lémurien Fourrure Grise
-  Source: (LDM p243)(TOB p271)
-  AltName: Lemurfolk Greyfur
   Type: Humanoïde (homme-lémurien)
   Size: P
   Alignment: neutre
+  Terrain: Jungle
   ArmorClass: 13 (16 avec armure du mage )
   HitPoints: 67 (15d6+15)
   Speed: 6 m, escalade 3 m, vol 12 m
@@ -41737,8 +42529,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#homme-lémurien-fourrure-grise
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Homme-Lémurien Fourrure Grise
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lemurfolk Greyfur
+  Source: (LDM p243)(TOB p271)
   AttributesDictionary: >+
     Name: Homme-Lémurien Fourrure Grise
 
@@ -41759,6 +42554,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-lémurien)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -41876,6 +42675,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Jungle
+
     ArmorClass: 13 (16 avec armure du mage )
 
     HitPoints: 67 (15d6+15)
@@ -41892,12 +42693,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Homme-Ours
-  Source: (LDM p244)(TOB p33)
-  AltName: Bearfold
   Type: Humanoïde (homme-ours)
   Size: M
   Alignment: chaotique bon
+  Terrain: Bois / Forêt
   ArmorClass: 14 (armure de peau)
   HitPoints: 45 (6d8+18)
   Speed: 12m
@@ -41906,8 +42705,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#homme-ours
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Homme-Ours
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bearfold
+  Source: (LDM p244)(TOB p33)
   AttributesDictionary: >+
     Name: Homme-Ours
 
@@ -41928,6 +42730,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-ours)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique bon<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -42023,6 +42829,8 @@ SubItems:
 
     Alignment: chaotique bon
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 14 (armure de peau)
 
     HitPoints: 45 (6d8+18)
@@ -42037,12 +42845,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Homme-Rat
-  Source: (LDM p245)(TOB p320)
-  AltName: Ratfolk
   Type: Humanoïde (homme-rat)
   Size: P
   Alignment: neutre
+  Terrain: Caverne aménagée
   ArmorClass: 14 (armure de cuir clouté)
   HitPoints: 7 (2d6)
   Speed: 7,50 m, nage 3 m
@@ -42052,8 +42858,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#homme-rat
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Homme-Rat
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ratfolk
+  Source: (LDM p245)(TOB p320)
   AttributesDictionary: >+
     Name: Homme-Rat
 
@@ -42074,6 +42883,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-rat)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -42161,6 +42974,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 14 (armure de cuir clouté)
 
     HitPoints: 7 (2d6)
@@ -42177,12 +42992,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Roublard Homme-Rat
-  Source: (LDM p245)(TOB p320)
-  AltName: Ratfolk Rogue
   Type: Humanoïde (homme-rat)
   Size: P
   Alignment: neutre
+  Terrain: Caverne aménagée
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 18 (4d6+4)
   Speed: 7,50 m, nage 3 m
@@ -42192,8 +43005,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#roublard-homme-rat
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Roublard Homme-Rat
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ratfolk Rogue
+  Source: (LDM p245)(TOB p320)
   AttributesDictionary: >+
     Name: Roublard Homme-Rat
 
@@ -42214,6 +43030,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (homme-rat)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -42319,6 +43139,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 15 (armure de cuir clouté)
 
     HitPoints: 18 (4d6+4)
@@ -42335,12 +43157,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Horakh
-  Source: (LDM p246)(TOB p250)
-  AltName: Horakh
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle
   ArmorClass: 17 (armure naturelle)
   HitPoints: 161 (19d8+76)
   Speed: 12 m, escalade 9 m
@@ -42351,8 +43171,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#horakh
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Horakh
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Horakh
+  Source: (LDM p246)(TOB p250)
   AttributesDictionary: >+
     Name: Horakh
 
@@ -42373,6 +43196,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -42476,6 +43303,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 161 (19d8+76)
@@ -42494,9 +43323,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Hundun
-  Source: (LDM p247)(TOB p253)
-  AltName: Hundun
   Type: Céleste
   Size: G
   Alignment: chaotique bon
@@ -42505,16 +43331,19 @@ SubItems:
   Speed: 12 m, vol 12 m
   SavingThrows: Con +7, Sag +9, Cha +8
   Skills: Athlétisme +9, Perspicacité +9, Perception +9
-  DamageResistances: de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: d'acide et psychiques
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, étourdi, inconscient
+  DamageResistances: de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 18 m, Perception passive 20
   Languages: comprend le céleste et le primordial, mais ne peut pas parler de façon intelligible
   Challenge: 10 (5 900 PX)
   Id: tome_of_beasts.md#hundun
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Hundun
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Hundun
+  Source: (LDM p247)(TOB p253)
   AttributesDictionary: >+
     Name: Hundun
 
@@ -42734,28 +43563,29 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Idole Divine
-  Source: (LDM p248)(TOB p255)
-  AltName: Idolic Deity
   Type: Créature artificielle
   Size: P
   Alignment: neutre mauvaise
+  Terrain: Ruines souterraines
   ArmorClass: 17 (armure naturelle)
   HitPoints: 90 (12d6+48)
   Speed: 0 m, vol 9 m
   SavingThrows: Sag +3
   Skills: Supercherie +8, Discrétion +8 (+11 dans une faible lumière ou les ténèbres)
-  DamageResistances: de froid, contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de feu
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: de froid, contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: télépathie à 18 m
   Challenge: 8 (3 900PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#idole-divine
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Idole Divine
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Idolic Deity
+  Source: (LDM p248)(TOB p255)
   AttributesDictionary: >+
     Name: Idole Divine
 
@@ -42776,6 +43606,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -42895,6 +43729,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 90 (12d6+48)
@@ -42921,9 +43757,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Imy-Ut Ushabti
-  Source: (LDM p249)(TOB p256)
-  AltName: Imy-Ut Ushabti
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
@@ -42931,16 +43764,19 @@ SubItems:
   HitPoints: 97 (15d8+30)
   Speed: 9m
   SavingThrows: Sag +2
-  DamageResistances: contondants
+  DamageVulnerabilities: de feu
   ConditionImmunities: épuisé, terrorisé
+  DamageResistances: contondants
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: commun (ancien nurien)
   Challenge: 3 (700 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#imy-ut-ushabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Imy-Ut Ushabti
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Imy-Ut Ushabti
+  Source: (LDM p249)(TOB p256)
   AttributesDictionary: >+
     Name: Imy-Ut Ushabti
 
@@ -43088,12 +43924,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Isonade
-  Source: (LDM p250)(TOB p257)
-  AltName: Isonade
   Type: Créature monstrueuse
   Size: Gig
   Alignment: chaotique neutre
+  Terrain: Littoral
   ArmorClass: 18 (armure naturelle)
   HitPoints: 222 (12d20+96)
   Speed: nage 30 m
@@ -43105,8 +43939,11 @@ SubItems:
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#isonade
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Isonade
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Isonade
+  Source: (LDM p250)(TOB p257)
   AttributesDictionary: >+
     Name: Isonade
 
@@ -43127,6 +43964,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -43270,6 +44111,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Littoral
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 222 (12d20+96)
@@ -43290,12 +44133,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Jaculus
-  Source: (LDM p251)(TOB p258)
-  AltName: Jaculus
   Type: Dragon
   Size: P
   Alignment: neutre mauvais
+  Terrain: Bois / Forêt, Jungle
   ArmorClass: 18 (armure naturelle)
   HitPoints: 65 (10d6+30)
   Speed: 6 m, escalade 6 m, vol 3 m
@@ -43307,8 +44148,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#jaculus
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Jaculus
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Jaculus
+  Source: (LDM p251)(TOB p258)
   AttributesDictionary: >+
     Name: Jaculus
 
@@ -43329,6 +44173,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 
 
 
@@ -43424,6 +44272,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Bois / Forêt, Jungle
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 65 (10d6+30)
@@ -43444,9 +44294,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Kalke
-  Source: (LDM p252)(TOB p259)
-  AltName: Kalke
   Type: Fiélon
   Size: P
   Alignment: neutre mauvais
@@ -43459,8 +44306,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#kalke
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Kalke
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kalke
+  Source: (LDM p252)(TOB p259)
   AttributesDictionary: >+
     Name: Kalke
 
@@ -43584,9 +44434,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Kikimore
-  Source: (LDM p253)(TOB p260)
-  AltName: Kikimora
   Type: Fée
   Size: M
   Alignment: chaotique neutre
@@ -43600,8 +44447,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#kikimore
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Kikimore
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kikimora
+  Source: (LDM p253)(TOB p260)
   AttributesDictionary: >+
     Name: Kikimore
 
@@ -43755,12 +44605,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Alchimiste Kobold
-  Source: (LDM p254)(TOB p261)
-  AltName: Kobold Alchemist
   Type: Humanoïde (kobold)
   Size: P
   Alignment: loyal neutre
+  Terrain: Caverne aménagée
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 44 (8d6+16)
   Speed: 9m
@@ -43773,8 +44621,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#alchimiste-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Alchimiste Kobold
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kobold Alchemist
+  Source: (LDM p254)(TOB p261)
   AttributesDictionary: >+
     Name: Alchimiste Kobold
 
@@ -43795,6 +44646,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kobold)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -43918,6 +44773,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 15 (armure de cuir clouté)
 
     HitPoints: 44 (8d6+16)
@@ -43940,12 +44797,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chef Kobold
-  Source: (LDM p256)(TOB p263)
-  AltName: Kobold Chieftain
   Type: Humanoïde (kobold)
   Size: P
   Alignment: loyal mauvais
+  Terrain: Caverne aménagée
   ArmorClass: 17 (armure de cuir clouté et bouclier)
   HitPoints: 82 (15d6+30)
   Speed: 9m
@@ -43957,8 +44812,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#chef-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chef Kobold
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kobold Chieftain
+  Source: (LDM p256)(TOB p263)
   AttributesDictionary: >+
     Name: Chef Kobold
 
@@ -43979,6 +44837,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (kobold)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -44098,6 +44960,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 17 (armure de cuir clouté et bouclier)
 
     HitPoints: 82 (15d6+30)
@@ -44118,12 +44982,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Forgepiège Kobold
-  Source: (LDM p257)(TOB p264)
-  AltName: Kobold Trapsmith
   Type: Humanoïde
   Size: P
   Alignment: loyal neutre
+  Terrain: Caverne aménagée
   ArmorClass: 14 (armure de cuir)
   HitPoints: 36 (8d6+8)
   Speed: 9m
@@ -44133,8 +44995,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#forgepiège-kobold
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Forgepiège Kobold
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kobold Trapsmith
+  Source: (LDM p257)(TOB p264)
   AttributesDictionary: >+
     Name: Forgepiège Kobold
 
@@ -44155,6 +45020,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 
 
 
@@ -44266,6 +45135,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Caverne aménagée
+
     ArmorClass: 14 (armure de cuir)
 
     HitPoints: 36 (8d6+8)
@@ -44282,12 +45153,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Kongamato
-  Source: (LDM p258)(TOB p265)
-  AltName: Kongamato
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Littoral, Mer / Océan
   ArmorClass: 16 (armure naturelle)
   HitPoints: 112 (15d10+30)
   Speed: 3 m, vol 18 m
@@ -44297,8 +45166,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#kongamato
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Kongamato
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kongamato
+  Source: (LDM p258)(TOB p265)
   AttributesDictionary: >+
     Name: Kongamato
 
@@ -44319,6 +45191,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 
 
 
@@ -44418,6 +45294,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Littoral, Mer / Océan
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 112 (15d10+30)
@@ -44434,9 +45312,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Koschei
-  Source: (LDM p259)(TOB p266)
-  AltName: Koschei
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -44445,16 +45320,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+7, Sag +7, Cha+11
   Skills: Arcanes +9, Perspicacité +7, Perception +7
-  DamageResistances: de froid, de foudre
   DamageImmunities: nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé
+  DamageResistances: de froid, de foudre
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: abyssal, céleste, commun, infernal, nain
   Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#koschei
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Koschei
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Koschei
+  Source: (LDM p259)(TOB p266)
   AttributesDictionary: >+
     Name: Koschei
 
@@ -44755,12 +45633,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Kot Bayun
-  Source: (LDM p261)(TOB p268)
-  AltName: Kot Bayun
   Type: Créature monstrueuse
   Size: M
   Alignment: neutre
+  Terrain: Collines / Vallées, Montagnes, Caverne naturelle
   ArmorClass: 15
   HitPoints: 44 (8d8+8)
   Speed: 12 m, escalade 6 m
@@ -44770,8 +45646,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#kot-bayun
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Kot Bayun
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Kot Bayun
+  Source: (LDM p261)(TOB p268)
   AttributesDictionary: >+
     Name: Kot Bayun
 
@@ -44792,6 +45671,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -44903,6 +45786,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Collines / Vallées, Montagnes, Caverne naturelle
+
     ArmorClass: 15
 
     HitPoints: 44 (8d8+8)
@@ -44919,12 +45804,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Larve De Krake
-  Source: (LDM p262)(TOB p269)
-  AltName: Krake Spawn
   Type: Créature monstrueuse
   Size: TG
   Alignment: neutre mauvaise
+  Terrain: Mer / Océan, Caverne sous-marine
   ArmorClass: 16 (armure naturelle)
   HitPoints: 150 (12d12+72)
   Speed: 6 m, nage 9 m
@@ -44936,8 +45819,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#larve-de-krake
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Larve De Krake
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Krake Spawn
+  Source: (LDM p262)(TOB p269)
   AttributesDictionary: >+
     Name: Larve De Krake
 
@@ -44958,6 +45844,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -45095,6 +45985,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Mer / Océan, Caverne sous-marine
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 150 (12d12+72)
@@ -45115,9 +46007,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Larve Stellaire De Cthulhu
-  Source: (LDM p263)(TOB p368)
-  AltName: Star Spawn of Cthulhu
   Type: Fiélon
   Size: G
   Alignment: chaotique mauvais
@@ -45126,16 +46015,19 @@ SubItems:
   Speed: 9 m, escalade 9 m, vol 15 m
   SavingThrows: For +12, Con +12, Int +15, Sag +9
   Skills: Arcanes +15, Perception +14
-  DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de froid, de feu, de foudre, de poison et psychiques
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 90 m, Perception passive 24
   Languages: commun, infernal, langue du Vide
   Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#larve-stellaire-de-cthulhu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Larve Stellaire De Cthulhu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Star Spawn of Cthulhu
+  Source: (LDM p263)(TOB p368)
   AttributesDictionary: >+
     Name: Larve Stellaire De Cthulhu
 
@@ -45301,12 +46193,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Léchy
-  Source: (LDM p264)(TOB p272)
-  AltName: Leshy
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt
   ArmorClass: 14 (armure naturelle)
   HitPoints: 84 (13d8+26)
   Speed: 9m
@@ -45316,8 +46206,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#léchy
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Léchy
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Leshy
+  Source: (LDM p264)(TOB p272)
   AttributesDictionary: >+
     Name: Léchy
 
@@ -45338,6 +46231,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -45449,6 +46346,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 84 (13d8+26)
@@ -45465,26 +46364,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Lente Tempête
-  Source: (LDM p265)(TOB p353)
-  AltName: Slow Storm
   Type: Élémentaire
   Size: TG
   Alignment: chaotique neutre
+  Terrain: Plans élémentaires
   ArmorClass: 19
   HitPoints: 225 (18d12+108)
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex +9, Con +11
-  DamageResistances: d'acide, de froid, de feu
   DamageImmunities: de foudre
   ConditionImmunities: à terre
+  DamageResistances: d'acide, de froid, de feu
   Senses: vision aveugle 9 m, vision dans le noir 36 m, Perception passive13
   Languages: commun, primordial
   Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#lente-tempête
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Lente Tempête
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Slow Storm
+  Source: (LDM p265)(TOB p353)
   AttributesDictionary: >+
     Name: Lente Tempête
 
@@ -45505,6 +46405,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -45652,6 +46556,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 19
 
     HitPoints: 225 (18d12+108)
@@ -45674,9 +46580,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Cavalier De Baba Yaga, Base
-  Source: (LDM p267)(TOB p30)
-  AltName: Baba Yaga's Horsemen, Base
   Type: Fée
   Size: M
   Alignment: loyal neutre
@@ -45685,16 +46588,19 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex +4, Sag +8
   Skills: Arcanes +7, Athlétisme +10, Histoire +7, Perception +8
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de foudre, de poison
   ConditionImmunities: empoisonné, épuisé, paralysé
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques
   Senses: Perception passive 18
   Languages: céleste, commun, infernal; télépathie 30m
   Challenge: 11 (7200 PX)
   Id: tome_of_beasts.md#cavalier-de-baba-yaga-base
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Cavalier De Baba Yaga, Base
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Baba Yaga's Horsemen, Base
+  Source: (LDM p267)(TOB p30)
   AttributesDictionary: >+
     Name: Cavalier De Baba Yaga, Base
 
@@ -45878,9 +46784,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Liche Canine
-  Source: (LDM p268)(TOB p274)
-  AltName: Lich Hound
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -45889,16 +46792,19 @@ SubItems:
   Speed: 9 m, vol 15 m
   SavingThrows: Dex+4, Con +4, Cha+3
   Skills: Acrobaties +6, Perception +4
-  DamageResistances: perforants et contondants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: épuisé et empoisonné
+  DamageResistances: perforants et contondants issus d'armes non magiques
   Senses: vision aveugle 30 m, Perception passive 14
   Languages: comprend le darakhul
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#liche-canine
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Liche Canine
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lich Hound
+  Source: (LDM p268)(TOB p274)
   AttributesDictionary: >+
     Name: Liche Canine
 
@@ -46052,12 +46958,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Likho
-  Source: (LDM p269)(TOB p275)
-  AltName: Likho
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt
   ArmorClass: 15 (armure naturelle)
   HitPoints: 90 (12d8+36)
   Speed: 12m
@@ -46068,8 +46972,11 @@ SubItems:
   Challenge: 6 (1 800PX)
   Id: tome_of_beasts.md#likho
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Likho
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Likho
+  Source: (LDM p269)(TOB p275)
   AttributesDictionary: >+
     Name: Likho
 
@@ -46090,6 +46997,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -46211,6 +47122,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 90 (12d8+36)
@@ -46229,27 +47142,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Limon Des Sarcophages
-  Source: (LDM p270)(TOB p336)
-  AltName: Sarcophagus Slime
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 11
   HitPoints: 102 (12d8+48)
   Speed: 6 m
   SavingThrows: Sag +4, Cha +4
   Skills: Discrétion +4
-  DamageResistances: d'acide, nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, empoisonné, à terre
+  DamageResistances: d'acide, nécrotiques
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 11
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#limon-des-sarcophages
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Limon Des Sarcophages
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sarcophagus Slime
+  Source: (LDM p270)(TOB p336)
   AttributesDictionary: >+
     Name: Limon Des Sarcophages
 
@@ -46270,6 +47184,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -46379,6 +47297,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 11
 
     HitPoints: 102 (12d8+48)
@@ -46403,9 +47323,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Linceul
-  Source: (LDM p271)(TOB p348)
-  AltName: Shroud
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -46413,17 +47330,20 @@ SubItems:
   HitPoints: 9 (2d8)
   Speed: 0 m, vol 9 m (vol stationnaire)
   Skills: Discrétion +3
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
+  DamageVulnerabilities: radiants
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: épuisé, terrorisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: commun
   Challenge: 1/8 (25 PX)
-  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#linceul
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Linceul
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shroud
+  Source: (LDM p271)(TOB p348)
   AttributesDictionary: >+
     Name: Linceul
 
@@ -46577,26 +47497,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Lindwurm
-  Source: (LDM p272)(TOB p276)
-  AltName: Lindwurm
   Type: Dragon
   Size: G
   Alignment: neutre mauvais
+  Terrain: Arctique / Subarctique, Littoral
   ArmorClass: 15
   HitPoints: 136 (16d10+48)
   Speed: 12 m, nage 6 m
   SavingThrows: For +7, Dex+8, Con +6
   Skills: Acrobaties +8, Athlétisme +8, Perception +4, Discrétion +9
+  DamageVulnerabilities: de feu
   DamageImmunities: de froid
   ConditionImmunities: paralysé, à terre, inconscient
   Senses: vision dans le noir 18 m, perception des vibrations sur la glace 36 m, Perception passive 14
   Challenge: 5 (1 800PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#lindwurm
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Lindwurm
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lindwurm
+  Source: (LDM p272)(TOB p276)
   AttributesDictionary: >+
     Name: Lindwurm
 
@@ -46617,6 +47538,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique, Littoral<!--/Terrain-->
 
 
 
@@ -46734,6 +47659,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Arctique / Subarctique, Littoral
+
     ArmorClass: 15
 
     HitPoints: 136 (16d10+48)
@@ -46756,9 +47683,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Liosalfar
-  Source: (LDM p273)(TOB p277)
-  AltName: Liosalfar
   Type: Élémentaire
   Size: G
   Alignment: neutre
@@ -46767,16 +47691,19 @@ SubItems:
   Speed: vol 18 m (vol stationnaire)
   SavingThrows: Dex +10, Con +3, Int +7, Sag +7, Cha +4
   Skills: Arcanes +7, Perspicacité +7, Perception +7
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison, psychiques, radiants
   ConditionImmunities: aveuglé, charmé, épuisé (voir le pouvoir forme lumineuse), empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 36 m, vision parfaite 18m, Perception passive 17
   Languages: commun, céleste, élémentaire, elfique, géant
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#liosalfar
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Liosalfar
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Liosalfar
+  Source: (LDM p273)(TOB p277)
   AttributesDictionary: >+
     Name: Liosalfar
 
@@ -46966,9 +47893,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Locus Élémentaire
-  Source: (LDM p274)(TOB p169)
-  AltName: Elemental Locus
   Type: Élémentaire
   Size: Gig
   Alignment: neutre
@@ -46977,16 +47901,19 @@ SubItems:
   Speed: 1,50m
   SavingThrows: Int +6, Sag +6, Cha +6
   Skills: Nature +6, Perception +6
-  DamageResistances: contondants, perforants et tranchants
   DamageImmunities: d'acide, de froid, de feu, de foudre, de poison, de tonnerre ; contondants, perforants et tranchants infligés par des armes non magiques
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 36m, perception des vibrations 36 m, Perception passive 16
   Languages: primordial
   Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#locus-Élémentaire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Locus Élémentaire
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Elemental Locus
+  Source: (LDM p274)(TOB p169)
   AttributesDictionary: >+
     Name: Locus Élémentaire
 
@@ -47152,12 +48079,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Lorelei
-  Source: (LDM p275)(TOB p279)
-  AltName: Lorelei
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Littoral
   ArmorClass: 15 (18 avec armure du mage)
   HitPoints: 76 (9d8+36)
   Speed: 9 m, nage 9 m
@@ -47168,8 +48093,11 @@ SubItems:
   Challenge: 5 (1 100PX)
   Id: tome_of_beasts.md#lorelei
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Lorelei
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lorelei
+  Source: (LDM p275)(TOB p279)
   AttributesDictionary: >+
     Name: Lorelei
 
@@ -47190,6 +48118,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -47333,6 +48265,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Littoral
+
     ArmorClass: 15 (18 avec armure du mage)
 
     HitPoints: 76 (9d8+36)
@@ -47351,12 +48285,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Loxoda
-  Source: (LDM p276)(TOB p280)
-  AltName: Loxoda
   Type: Créature monstrueuse
   Size: TG
   Alignment: neutre mauvaise
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13 (armure naturelle)
   HitPoints: 147 (14d12+56)
   Speed: 12m
@@ -47366,8 +48298,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#loxoda
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Loxoda
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Loxoda
+  Source: (LDM p276)(TOB p280)
   AttributesDictionary: >+
     Name: Loxoda
 
@@ -47388,6 +48323,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -47481,6 +48420,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 147 (14d12+56)
@@ -47497,12 +48438,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Lynx Vaporeux
-  Source: (LDM p277)(TOB p398)
-  AltName: Vapor Lynx
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique neutre
+  Terrain: Mangrove / Marécage
   ArmorClass: 14 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 15 m, escalade 9 m
@@ -47512,8 +48451,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#lynx-vaporeux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Lynx Vaporeux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vapor Lynx
+  Source: (LDM p277)(TOB p398)
   AttributesDictionary: >+
     Name: Lynx Vaporeux
 
@@ -47534,6 +48476,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -47639,6 +48585,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 127 (15d10+45)
@@ -47655,12 +48603,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mahoru
-  Source: (LDM p278)(TOB p281)
-  AltName: Mahoru
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique
   ArmorClass: 15 (armure naturelle)
   HitPoints: 91 (14d8+28)
   Speed: 3 m, nage 18 m
@@ -47670,8 +48616,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#mahoru
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mahoru
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mahoru
+  Source: (LDM p278)(TOB p281)
   AttributesDictionary: >+
     Name: Mahoru
 
@@ -47692,6 +48641,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -47833,6 +48786,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 91 (14d8+28)
@@ -47849,27 +48804,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mallqui
-  Source: (LDM p279)(TOB p282)
-  AltName: Mallqui
   Type: Mort-vivant
   Size: M
   Alignment: loyal neutre
+  Terrain: Arctique / Subarctique
   ArmorClass: 14 (armure naturelle)
   HitPoints: 120 (16d8+48)
   Speed: 6 m
   SavingThrows: Int +3, Cha +5
   Skills: Histoire +3, Perspicacité +6, Religion +3
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: celles qu'il parlait de son vivant
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#mallqui
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mallqui
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mallqui
+  Source: (LDM p279)(TOB p282)
   AttributesDictionary: >+
     Name: Mallqui
 
@@ -47890,6 +48846,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -48035,6 +48995,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 120 (16d8+48)
@@ -48059,9 +49021,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Malphas (Corbeau De Tempête)
-  Source: (LDM p280)(TOB p283)
-  AltName: Malphas (Storm Crow)
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -48075,8 +49034,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#malphas-corbeau-de-tempête
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Malphas (Corbeau De Tempête)
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Malphas (Storm Crow)
+  Source: (LDM p280)(TOB p283)
   AttributesDictionary: >+
     Name: Malphas (Corbeau De Tempête)
 
@@ -48242,12 +49204,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mamura
-  Source: (LDM p281)(TOB p284)
-  AltName: Mamura
   Type: Aberration (fée)
   Size: P
   Alignment: neutre mauvaise.
+  Terrain: Mangrove / Marécage, Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure naturelle)
   HitPoints: 97 (13d6+52)
   Speed: 6 m, vol 9 m
@@ -48259,8 +49219,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#mamura
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mamura
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mamura
+  Source: (LDM p281)(TOB p284)
   AttributesDictionary: >+
     Name: Mamura
 
@@ -48281,6 +49244,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration (fée)<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->neutre mauvaise.<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -48400,6 +49367,8 @@ SubItems:
 
     Alignment: neutre mauvaise.
 
+    Terrain: Mangrove / Marécage, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 97 (13d6+52)
@@ -48420,9 +49389,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mangedestin
-  Source: (LDM p282)(TOB p180)
-  AltName: Fate Eater
   Type: Aberration
   Size: M
   Alignment: neutre
@@ -48437,8 +49403,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#mangedestin
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mangedestin
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fate Eater
+  Source: (LDM p282)(TOB p180)
   AttributesDictionary: >+
     Name: Mangedestin
 
@@ -48612,9 +49581,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mangepoussière (Yakat-Shi)
-  Source: (LDM p283)(TOB p164)
-  AltName: Eater of Dust (Yakat-Shi)
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -48623,16 +49589,19 @@ SubItems:
   Speed: 9m
   SavingThrows: For +9, Con +9, Cha +7
   Skills: Athlétisme +9, Intimidation +7, Perception +6
-  DamageResistances: d'acide, de froid
   DamageImmunities: contondants, perforants, de foudre,de poison et tranchants infligés par des armes non magiques
   ConditionImmunities: aveuglé, empoisonné
+  DamageResistances: d'acide, de froid
   Senses: vision aveugle 18 m, Perception passive 16
   Languages: comprend l'abyssal, le commun, l'infernal, la langue du Vide, mais ne peut pas parler; télépathie 30 m
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#mangepoussière-yakat-shi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mangepoussière (Yakat-Shi)
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Eater of Dust (Yakat-Shi)
+  Source: (LDM p283)(TOB p164)
   AttributesDictionary: >+
     Name: Mangepoussière (Yakat-Shi)
 
@@ -48804,26 +49773,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mangerêve
-  Source: (LDM p284)(TOB p158)
-  AltName: Dream Eater
   Type: Fiélon
   Size: M
   Alignment: loyal mauvais
+  Terrain: Ruines souterraines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 75 (10d8+30)
   Speed: 9 m, vol 6m
   Skills: Perspicacité +4, Persuasion +8, Supercherie +8
-  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: céleste, commun, draconique, infernal ; télépathie 30m
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#mangerêve
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mangerêve
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dream Eater
+  Source: (LDM p284)(TOB p158)
   AttributesDictionary: >+
     Name: Mangerêve
 
@@ -48844,6 +49814,10 @@ SubItems:
 
 
       -  <!--Type-->Fiélon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -48979,6 +49953,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 75 (10d8+30)
@@ -49001,9 +49977,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Manteau Vide
-  Source: (LDM p285)(TOB p176)
-  AltName: Empty Cloak
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
@@ -49012,17 +49985,20 @@ SubItems:
   Speed: 0 m, vol 12 m
   SavingThrows: Dex +4, Con +2
   Skills: Discrétion +4
-  DamageResistances: contondants
+  DamageVulnerabilities: de feu
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: contondants
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend l'elfique et l'umbral mais ne peut pas parler
   Challenge: 1/2 (100 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#manteau-vide
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Manteau Vide
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Empty Cloak
+  Source: (LDM p285)(TOB p176)
   AttributesDictionary: >+
     Name: Manteau Vide
 
@@ -49188,9 +50164,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Maraudeur Des Forêts
-  Source: (LDM p286)(TOB p205)
-  AltName: Forest Marauder
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
@@ -49203,8 +50176,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#maraudeur-des-forêts
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Maraudeur Des Forêts
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Forest Marauder
+  Source: (LDM p286)(TOB p205)
   AttributesDictionary: >+
     Name: Maraudeur Des Forêts
 
@@ -49328,9 +50304,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Marchand De Sable
-  Source: (LDM p287)(TOB p333)
-  AltName: Sandman
   Type: Céleste
   Size: M
   Alignment: chaotique neutre
@@ -49338,16 +50311,19 @@ SubItems:
   HitPoints: 82 (11d8+33)
   Speed: 12m
   SavingThrows: Dex +7, Cha +7
-  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison et psychiques
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné, inconscient
+  DamageResistances: de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision parfaite 18m, Perception passive 12
   Languages: commun, céleste, géant, infernal, umbral
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#marchand-de-sable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Marchand De Sable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sandman
+  Source: (LDM p287)(TOB p333)
   AttributesDictionary: >+
     Name: Marchand De Sable
 
@@ -49523,25 +50499,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Marcheflèche
-  Source: (LDM p288)(TOB p367)
-  AltName: Spire Walker
   Type: Fée
   Size: TP
   Alignment: neutre
+  Terrain: Littoral
   ArmorClass: 16 (armure naturelle)
   HitPoints: 38 (11d4+22)
   Speed: 6 m
   SavingThrows: Dex+7
-  DamageResistances: perforants issus d'armes non magiques
   DamageImmunities: de foudre, de tonnerre
+  DamageResistances: perforants issus d'armes non magiques
   Senses: Perception passive 10
   Languages: commun, sylvestre
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#marcheflèche
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Marcheflèche
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Spire Walker
+  Source: (LDM p288)(TOB p367)
   AttributesDictionary: >+
     Name: Marcheflèche
 
@@ -49562,6 +50539,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -49675,6 +50656,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Littoral
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 38 (11d4+22)
@@ -49695,9 +50678,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mavka
-  Source: (LDM p289)(TOB p286)
-  AltName: Mavka
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -49706,15 +50686,18 @@ SubItems:
   Speed: 9m
   SavingThrows: For +9, Dex+6, Con +8, Cha +8
   Skills: Athlétisme +9, Nature +5, Perception +5
-  DamageResistances: d'acide, de feu, nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de froid, de foudre
+  DamageResistances: d'acide, de feu, nécrotiques ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 27 m, Perception passive 15
   Languages: commun, infernal, sylvestre
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#mavka
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mavka
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mavka
+  Source: (LDM p289)(TOB p286)
   AttributesDictionary: >+
     Name: Mavka
 
@@ -49886,9 +50869,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Abomination Mécanique
-  Source: (LDM p290)(TOB p59)
-  AltName: Clockwork Abomination
   Type: Créature artificielle (diable)
   Size: G
   Alignment: loyal mauvais
@@ -49897,16 +50877,19 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex +4, Con +7
   Skills: Athlétisme +9, Discrétion +4, Perception +4
-  DamageResistances: d'acide, de feu et de froid; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé, paralysé, pétrifié et terrorisé
+  DamageResistances: d'acide, de feu et de froid; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, infernal
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#abomination-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Abomination Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Abomination
+  Source: (LDM p290)(TOB p59)
   AttributesDictionary: >+
     Name: Abomination Mécanique
 
@@ -50078,9 +51061,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Araignée Tisseuse Mécanique
-  Source: (LDM p291)(TOB p66)
-  AltName: Weaving Spider
   Type: Créature artificielle
   Size: TP
   Alignment: non alignée
@@ -50094,8 +51074,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#araignée-tisseuse-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Araignée Tisseuse Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Weaving Spider
+  Source: (LDM p291)(TOB p66)
   AttributesDictionary: >+
     Name: Araignée Tisseuse Mécanique
 
@@ -50237,9 +51220,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chasseur Mécanique
-  Source: (LDM p292)(TOB p63)
-  AltName: Clockwork Huntsman
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -50255,8 +51235,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#chasseur-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chasseur Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Huntsman
+  Source: (LDM p292)(TOB p63)
   AttributesDictionary: >+
     Name: Chasseur Mécanique
 
@@ -50410,9 +51393,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chien Mécanique
-  Source: (LDM p293)(TOB p62)
-  AltName: Clockwork Hound
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -50428,8 +51408,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#chien-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chien Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Hound
+  Source: (LDM p293)(TOB p62)
   AttributesDictionary: >+
     Name: Chien Mécanique
 
@@ -50583,9 +51566,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gendarme Mécanique
-  Source: (LDM p294)(TOB p65)
-  AltName: Clockwork Watchman
   Type: Créature artificielle
   Size: M
   Alignment: non alignée
@@ -50601,8 +51581,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#gendarme-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gendarme Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Watchman
+  Source: (LDM p294)(TOB p65)
   AttributesDictionary: >+
     Name: Gendarme Mécanique
 
@@ -50750,9 +51733,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Myrmidon Mécanique
-  Source: (LDM p295)(TOB p64)
-  AltName: Clockwork Myrmidon
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
@@ -50768,8 +51748,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#myrmidon-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Myrmidon Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Myrmidon
+  Source: (LDM p295)(TOB p64)
   AttributesDictionary: >+
     Name: Myrmidon Mécanique
 
@@ -50935,9 +51918,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Scarabée Mécanique
-  Source: (LDM p296)(TOB p60)
-  AltName: Clockwork Beetle
   Type: Créature artificielle
   Size: TP
   Alignment: non alignée
@@ -50953,8 +51933,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#scarabée-mécanique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Scarabée Mécanique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Beetle
+  Source: (LDM p296)(TOB p60)
   AttributesDictionary: >+
     Name: Scarabée Mécanique
 
@@ -51090,25 +52073,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mèche Vivante
-  Source: (LDM p297)(TOB p278)
-  AltName: Living Wick
   Type: Créature artificielle
   Size: P
   Alignment: non-alignée
+  Terrain: Ruines souterraines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 28 (8d6)
   Speed: 6 m
+  DamageVulnerabilities: de feu
   DamageImmunities: de poison et psychiques
   ConditionImmunities: aveuglé, charmé, assourdi, épuisé, terrorisé, paralysé, pétrifié, empoisonné, inconscient
   Senses: vision 6 m (aveugle au-delà du rayon de sa propre lumière), Perception passive 10
   Languages: partage un lien télépathique avec celui qui a allumé sa mèche.
   Challenge: 1/4 (50 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#mèche-vivante
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mèche Vivante
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Living Wick
+  Source: (LDM p297)(TOB p278)
   AttributesDictionary: >+
     Name: Mèche Vivante
 
@@ -51129,6 +52113,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -51230,6 +52218,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 28 (8d6)
@@ -51250,12 +52240,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Médazur À Défenses
-  Source: (LDM p298)(TOB p391)
-  AltName: Tusked Skyfish
   Type: Aberration
   Size: G
   Alignment: loyale bonne
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 14 (armure naturelle)
   HitPoints: 102 (12d10+36)
   Speed: 1,50 m, vol 6 m (vol stationnaire)
@@ -51265,8 +52253,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#médazur-À-défenses
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Médazur À Défenses
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tusked Skyfish
+  Source: (LDM p298)(TOB p391)
   AttributesDictionary: >+
     Name: Médazur À Défenses
 
@@ -51287,6 +52278,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale bonne<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -51380,6 +52375,8 @@ SubItems:
 
     Alignment: loyale bonne
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 102 (12d10+36)
@@ -51396,9 +52393,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mélasse
-  Source: (LDM p299)(TOB p387)
-  AltName: Treacle
   Type: Vase
   Size: TP
   Alignment: non alignée
@@ -51411,8 +52405,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#mélasse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mélasse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Treacle
+  Source: (LDM p299)(TOB p387)
   AttributesDictionary: >+
     Name: Mélasse
 
@@ -51536,9 +52533,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mi-Go
-  Source: (LDM p300)(TOB p287)
-  AltName: Mi-Go
   Type: Plante
   Size: M
   Alignment: neutre mauvaise
@@ -51553,8 +52547,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#mi-go
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mi-Go
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mi-Go
+  Source: (LDM p300)(TOB p287)
   AttributesDictionary: >+
     Name: Mi-Go
 
@@ -51712,25 +52709,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Millitaure
-  Source: (LDM p301)(TOB p288)
-  AltName: Millitaur
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
+  Terrain: Jungle
   ArmorClass: 14 (armure naturelle)
   HitPoints: 85 (10d10+30)
   Speed: 12 m, fouissement 6 m, escalade 9 m
   Skills: Acrobaties +4
-  DamageResistances: de poison; contondants et tranchants issus d'armes non magiques
   ConditionImmunities: à terre
+  DamageResistances: de poison; contondants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, perception des vibrations 9 m, Perception passive 11
   Languages: commun
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#millitaure
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Millitaure
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Millitaur
+  Source: (LDM p301)(TOB p288)
   AttributesDictionary: >+
     Name: Millitaure
 
@@ -51751,6 +52749,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -51834,6 +52836,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Jungle
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 85 (10d10+30)
@@ -51854,12 +52858,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mimique Carte
-  Source: (LDM p302)(TOB p289)
-  AltName: Map Mimic
   Type: Créature monstrueuse (métamorphe)
   Size: TP
   Alignment: neutre
+  Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 32 (5d8+10)
   Speed: 9 m, vol 4,50 m
@@ -51870,8 +52872,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#mimique-carte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mimique Carte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Map Mimic
+  Source: (LDM p302)(TOB p289)
   AttributesDictionary: >+
     Name: Mimique Carte
 
@@ -51892,6 +52897,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -51989,6 +52998,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Caverne aménagée, Donjon maçonné, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 32 (5d8+10)
@@ -52007,12 +53018,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mimique Des Dunes
-  Source: (LDM p303)(TOB p162)
-  AltName: Dune Mimic
   Type: Créature monstrueuse (métamorphe)
   Size: TG
   Alignment: neutre
+  Terrain: Désert chaud
   ArmorClass: 13 (armure naturelle)
   HitPoints: 168 (16d12+64)
   Speed: 3 m
@@ -52024,8 +53033,11 @@ SubItems:
   Challenge: 8 (5 900 PX)
   Id: tome_of_beasts.md#mimique-des-dunes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mimique Des Dunes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dune Mimic
+  Source: (LDM p303)(TOB p162)
   AttributesDictionary: >+
     Name: Mimique Des Dunes
 
@@ -52046,6 +53058,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -52159,6 +53175,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Désert chaud
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 168 (16d12+64)
@@ -52179,12 +53197,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mirageur
-  Source: (LDM p304)(TOB p291)
-  AltName: Mirager
   Type: Fée (métamorphe)
   Size: M
   Alignment: neutre mauvaise
+  Terrain: Désert chaud
   ArmorClass: 13
   HitPoints: 78 (12d8+24)
   Speed: 9m
@@ -52194,8 +53210,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#mirageur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mirageur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mirager
+  Source: (LDM p304)(TOB p291)
   AttributesDictionary: >+
     Name: Mirageur
 
@@ -52216,6 +53235,10 @@ SubItems:
 
 
       -  <!--Type-->Fée (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -52333,6 +53356,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Désert chaud
+
     ArmorClass: 13
 
     HitPoints: 78 (12d8+24)
@@ -52349,12 +53374,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mngwa
-  Source: (LDM p305)(TOB p293)
-  AltName: Mngwa
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 16
   HitPoints: 91 (14d8+28)
   Speed: 12m
@@ -52364,8 +53387,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#mngwa
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mngwa
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mngwa
+  Source: (LDM p305)(TOB p293)
   AttributesDictionary: >+
     Name: Mngwa
 
@@ -52386,6 +53412,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -52497,6 +53527,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16
 
     HitPoints: 91 (14d8+28)
@@ -52513,9 +53545,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Molosse Nocturne
-  Source: (LDM p306)(TOB p251)
-  AltName: Hound of the night
   Type: Créature monstrueuse
   Size: G
   Alignment: non-alignée
@@ -52524,15 +53553,18 @@ SubItems:
   Speed: 9m
   SavingThrows: Dex+6, Con +5, Sag +5
   Skills: Intimidation +3, Perception +5, Discrétion +6
+  DamageVulnerabilities: de feu
   DamageImmunities: de froid
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: comprend l'elfique et l'umbral mais ne peut pas parler
   Challenge: 5 (1 800PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#molosse-nocturne
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Molosse Nocturne
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Hound of the night
+  Source: (LDM p306)(TOB p251)
   AttributesDictionary: >+
     Name: Molosse Nocturne
 
@@ -52684,27 +53716,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Momie Venimeuse
-  Source: (LDM p307)(TOB p299)
-  AltName: Venomous Mummy
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
+  Terrain: Désert chaud, Ruines souterraines
   ArmorClass: 11 (armure naturelle)
   HitPoints: 58 (9d8+18)
   Speed: 6 m
   SavingThrows: Sag +2
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de feu
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, terrorisé, paralysé, empoisonné
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: celles qu'il parlait de son vivant
   Challenge: 3 (700 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#momie-venimeuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Momie Venimeuse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Venomous Mummy
+  Source: (LDM p307)(TOB p299)
   AttributesDictionary: >+
     Name: Momie Venimeuse
 
@@ -52725,6 +53758,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -52822,6 +53859,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Désert chaud, Ruines souterraines
+
     ArmorClass: 11 (armure naturelle)
 
     HitPoints: 58 (9d8+18)
@@ -52846,9 +53885,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Champion Monolithique
-  Source: (LDM p308)(TOB p294)
-  AltName: Monolith Champion
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -52862,8 +53898,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#champion-monolithique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Champion Monolithique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Monolith Champion
+  Source: (LDM p308)(TOB p294)
   AttributesDictionary: >+
     Name: Champion Monolithique
 
@@ -52999,9 +54038,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Valet Monolithique
-  Source: (LDM p309)(TOB p295)
-  AltName: Monolith Footman
   Type: Créature artificielle
   Size: G
   Alignment: non-alignée
@@ -53015,8 +54051,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#valet-monolithique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Valet Monolithique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Monolith Footman
+  Source: (LDM p309)(TOB p295)
   AttributesDictionary: >+
     Name: Valet Monolithique
 
@@ -53152,9 +54191,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Montagne De Cadavres
-  Source: (LDM p310)(TOB p69)
-  AltName: Corpse Mound
   Type: Mort-vivant
   Size: TG
   Alignment: neutre mauvais
@@ -53162,16 +54198,19 @@ SubItems:
   HitPoints: 207 (18d12+90)
   Speed: 9m
   SavingThrows: Con +9, Int +3, Sag +4
-  DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé et terrorisé
+  DamageResistances: nécrotiques
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: comprend le commun mais ne peut pas parler
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#montagne-de-cadavres
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Montagne De Cadavres
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Corpse Mound
+  Source: (LDM p310)(TOB p69)
   AttributesDictionary: >+
     Name: Montagne De Cadavres
 
@@ -53331,12 +54370,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Morphoï
-  Source: (LDM p311)(TOB p297)
-  AltName: Morphoi
   Type: Plante (métamorphe)
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Littoral
   ArmorClass: 13 (parfois plus avec une armure)
   HitPoints: 33 (6d8+6)
   Speed: 9 m, nage 9 m
@@ -53345,8 +54382,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#morphoï
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Morphoï
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Morphoi
+  Source: (LDM p311)(TOB p297)
   AttributesDictionary: >+
     Name: Morphoï
 
@@ -53367,6 +54407,10 @@ SubItems:
 
 
       -  <!--Type-->Plante (métamorphe)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -53462,6 +54506,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Littoral
+
     ArmorClass: 13 (parfois plus avec une armure)
 
     HitPoints: 33 (6d8+6)
@@ -53476,9 +54522,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mort Follet
-  Source: (LDM p312)(TOB p72)
-  AltName: Deathwisp
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -53487,16 +54530,19 @@ SubItems:
   Speed: 0 m, vol 18 m (vol stationnaire)
   SavingThrows: Dex+8, Con +6, Sag +6
   Skills: Discrétion +8, Perception +6
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre; contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: celles qu'il parlait de son vivant
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#mort-follet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mort Follet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Deathwisp
+  Source: (LDM p312)(TOB p72)
   AttributesDictionary: >+
     Name: Mort Follet
 
@@ -53662,24 +54708,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mousse Luminescente Des Cavernes
-  Source: (LDM p313)(TOB p53)
-  AltName: Cavelight Moss
   Type: Plante
   Size: G
   Alignment: neutre
+  Terrain: Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 1,50 m, escalade 1,50 m
-  DamageResistances: d'acide, de froid, de feu ; tranchants infligés par des armes non magiques
   ConditionImmunities: assourdi, à terre, charmé, étourdi, inconscient, paralysé et terrorisé
+  DamageResistances: d'acide, de froid, de feu ; tranchants infligés par des armes non magiques
   Senses: perception des vibrations 18 m, Perception passive 11
   Languages: —
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#mousse-luminescente-des-cavernes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mousse Luminescente Des Cavernes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Cavelight Moss
+  Source: (LDM p313)(TOB p53)
   AttributesDictionary: >+
     Name: Mousse Luminescente Des Cavernes
 
@@ -53700,6 +54747,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 
 
 
@@ -53785,6 +54836,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Caverne naturelle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 95 (10d10+40)
@@ -53803,9 +54856,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Myling
-  Source: (LDM p314)(TOB p301)
-  AltName: Myling
   Type: Mort-vivant
   Size: P
   Alignment: chaotique mauvais
@@ -53813,16 +54863,19 @@ SubItems:
   HitPoints: 45 (10d6+10)
   Speed: 9 m, fouissement 3 m
   Skills: Discrétion +4
-  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, terrorisé, empoisonné, étourdi, inconscient
+  DamageResistances: contondants, perforants et tranchants infligés par des armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#myling
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Myling
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Myling
+  Source: (LDM p314)(TOB p301)
   AttributesDictionary: >+
     Name: Myling
 
@@ -53964,9 +55017,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Naïna
-  Source: (LDM p315)(TOB p302)
-  AltName: Naina
   Type: Dragon (métamorphe)
   Size: G
   Alignment: loyal mauvais
@@ -53975,15 +55025,18 @@ SubItems:
   Speed: 12 m, vol 36 m
   SavingThrows: Dex +7, Con +9, Int +6, Sag +8, Cha +8
   Skills: Arcanes +6, Escamotage +7, Perception +8, Perspicacité +8, Persuasion +8, Supercherie +8
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: empoisonné, inconscient, paralysé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 18
   Languages: commun, darakhul, draconique, elfique, sylvestre
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#naïna
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Naïna
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Naina
+  Source: (LDM p315)(TOB p302)
   AttributesDictionary: >+
     Name: Naïna
 
@@ -54197,9 +55250,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nécrophage Masqué
-  Source: (LDM p316)(TOB p285)
-  AltName: Mask Wight
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
@@ -54207,17 +55257,20 @@ SubItems:
   HitPoints: 207 (18d8 +126)
   Speed: 12m
   SavingThrows: For +11, Dex+9, Con +12, Int +7, Sag +8, Cha +9
-  DamageResistances: d'acide, de feu, de foudre, de froid; contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: radiants
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, empoisonné, étourdi, inconscient
+  DamageResistances: d'acide, de feu, de foudre, de froid; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 36 m, vision parfaite 9 m, Perception passive 13
   Languages: commun, géant, infernal
   Challenge: 13 (10 000 PX)
-  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#nécrophage-masqué
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nécrophage Masqué
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mask Wight
+  Source: (LDM p316)(TOB p285)
   AttributesDictionary: >+
     Name: Nécrophage Masqué
 
@@ -54399,12 +55452,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nécrophore
-  Source: (LDM p317)(TOB p52)
-  AltName: Carrion Beetle
   Type: Bête
   Size: G
   Alignment: neutre
+  Terrain: Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 127 (15d10+45)
   Speed: 9 m, fouissement 6 m, escalade 3 m
@@ -54414,8 +55465,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#nécrophore
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nécrophore
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Carrion Beetle
+  Source: (LDM p317)(TOB p52)
   AttributesDictionary: >+
     Name: Nécrophore
 
@@ -54436,6 +55490,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 
 
 
@@ -54523,6 +55581,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Caverne naturelle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 127 (15d10+45)
@@ -54539,9 +55599,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nichny
-  Source: (LDM p318)(TOB p303)
-  AltName: Nichny
   Type: Fée
   Size: M
   Alignment: neutre mauvaise
@@ -54550,16 +55607,19 @@ SubItems:
   Speed: 9 m, escalade 9 m
   SavingThrows: Dex+7
   Skills: Acrobaties +7, Perception +7, Perspicacité +7
-  DamageResistances: d'acide, de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, inconscient, paralysé, terrorisé
+  DamageResistances: d'acide, de froid, de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 17
   Languages: elfique, primordial, sylvestre, langue du Vide
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#nichny
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nichny
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nichny
+  Source: (LDM p318)(TOB p303)
   AttributesDictionary: >+
     Name: Nichny
 
@@ -54749,12 +55809,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nkosi
-  Source: (LDM p319)(TOB p306)
-  AltName: Nkosi
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure de cuir clouté)
   HitPoints: 11 (2d8+2)
   Speed: 9m
@@ -54764,8 +55822,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#nkosi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nkosi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nkosi
+  Source: (LDM p319)(TOB p306)
   AttributesDictionary: >+
     Name: Nkosi
 
@@ -54786,6 +55847,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -54885,6 +55950,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure de cuir clouté)
 
     HitPoints: 11 (2d8+2)
@@ -54901,12 +55968,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chef De Meute Nkosi
-  Source: (LDM p319)(TOB p306)
-  AltName: Nkosi Pridelord
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure de cuir clouté)
   HitPoints: 93 (17d8+17)
   Speed: 9m
@@ -54916,8 +55981,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#chef-de-meute-nkosi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chef De Meute Nkosi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nkosi Pridelord
+  Source: (LDM p319)(TOB p306)
   AttributesDictionary: >+
     Name: Chef De Meute Nkosi
 
@@ -54938,6 +56006,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (métamorphe, nkosi) (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -55055,6 +56127,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16 (armure de cuir clouté)
 
     HitPoints: 93 (17d8+17)
@@ -55071,12 +56145,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Autruche de guerre
-  Source: (LDM p320)(TOB p307)
-  AltName: War Ostrich
   Type: Bête
   Size: G
   Alignment: non alignée
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 11
   HitPoints: 42 (5d10+15)
   Speed: 18 m
@@ -55085,8 +56157,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#autruche-de-guerre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Autruche de guerre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: War Ostrich
+  Source: (LDM p320)(TOB p307)
   AttributesDictionary: >+
     Name: Autruche de guerre
 
@@ -55107,6 +56182,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -55174,6 +56253,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 11
 
     HitPoints: 42 (5d10+15)
@@ -55188,9 +56269,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Noctegarm
-  Source: (LDM p322)(TOB p305)
-  AltName: Nightgarm
   Type: Créature monstrueuse
   Size: G
   Alignment: chaotique mauvaise
@@ -55198,15 +56276,18 @@ SubItems:
   HitPoints: 114 (12d10+48)
   Speed: 6 m (bipède), 12 m (quadrupède)
   Skills: Discrétion +5, Perception +5
+  DamageVulnerabilities: radiants ; aux armes en argent
   DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: commun, géant, gobelin, télépathie à 60 m (avec les factices uniquement)
   Challenge: 6 (2 300PX)
-  DamageVulnerabilities: radiants ; aux armes en argent
   Id: tome_of_beasts.md#noctegarm
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Noctegarm
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nightgarm
+  Source: (LDM p322)(TOB p305)
   AttributesDictionary: >+
     Name: Noctegarm
 
@@ -55360,17 +56441,17 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Factice noctegarm
-  Source: (LDM p322)(TOB p305)
-  AltName: Nightgarm Falseman
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
   DamageVulnerabilities: radiants; aux armes en argent
   Id: tome_of_beasts.md#factice-noctegarm
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Factice noctegarm
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Nightgarm Falseman
+  Source: (LDM p322)(TOB p305)
   AttributesDictionary: >+
     Name: Factice noctegarm
 
@@ -55424,9 +56505,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Noctin
-  Source: (LDM p323)(TOB p308)
-  AltName: Noctiny
   Type: Humanoïde (noctin)
   Size: M
   Alignment: neutre mauvais
@@ -55439,8 +56517,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#noctin
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Noctin
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Noctiny
+  Source: (LDM p323)(TOB p308)
   AttributesDictionary: >+
     Name: Noctin
 
@@ -55588,27 +56669,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée D'Esprits Lupins
-  Source: (LDM p324)(TOB p377)
-  AltName: Wolf Spirit Swarm
   Type: Nuée
   Size: G
   Alignment: neutre
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure naturelle)
   HitPoints: 97 (15d10+15)
   Speed: 15 m, vol 15 m (vol stationnaire)
   SavingThrows: For +5, Dex +6
   Skills: Perception +3, Discrétion +6
-  DamageResistances: nécrotiques, contondants, perforants et tranchants
   DamageImmunities: de froid
   ConditionImmunities: épuisé, terrorisé, paralysé, pétrifié, empoisonné
+  DamageResistances: nécrotiques, contondants, perforants et tranchants
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: comprend le commun
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#nuée-desprits-lupins
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée D'Esprits Lupins
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wolf Spirit Swarm
+  Source: (LDM p324)(TOB p377)
   AttributesDictionary: >+
     Name: Nuée D'Esprits Lupins
 
@@ -55629,6 +56711,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de Grande taille de morts-vivants de taille Moyenne (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -55738,6 +56824,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 97 (15d10+15)
@@ -55762,9 +56850,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée D'Yeux
-  Source: (LDM p325)(TOB p309)
-  AltName: Oculo Swarm
   Type: Nuée
   Size: G
   Alignment: neutre
@@ -55772,15 +56857,18 @@ SubItems:
   HitPoints: 110 (13d10+39)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
   Skills: Discrétion +7, Intuition+6, Perception +6
-  DamageResistances: contondants, perforants et tranchants
   ConditionImmunities: à terre, charmé, pétrifié, entravé, étourdi, paralysé, terrorisé
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: comprend le commun, mais ne peut pas parler
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#nuée-dyeux
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée D'Yeux
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Oculo Swarm
+  Source: (LDM p325)(TOB p309)
   AttributesDictionary: >+
     Name: Nuée D'Yeux
 
@@ -55910,25 +56998,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Danseflammes
-  Source: (LDM p326)(TOB p373)
-  AltName: Fire Dancer Swarm
   Type: Nuée
   Size: TP
   Alignment: neutre
+  Terrain: Plans élémentaires
   ArmorClass: 15
   HitPoints: 90 (12d8+36)
   Speed: 9 m, vol 9 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de feu, de poison
   ConditionImmunities: épuisé, empoigné, paralysé, pétrifié, empoisonné, à terre, entravé, étourdi, inconscient
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 10
   Languages: igné
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#nuée-de-danseflammes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée De Danseflammes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Fire Dancer Swarm
+  Source: (LDM p326)(TOB p373)
   AttributesDictionary: >+
     Name: Nuée De Danseflammes
 
@@ -55949,6 +57038,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille Moyenne d'élémentaires de taille Très Petite (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 
 
 
@@ -56050,6 +57143,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Plans élémentaires
+
     ArmorClass: 15
 
     HitPoints: 90 (12d8+36)
@@ -56070,30 +57165,31 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Papillons De Mort
-  Source: (LDM p327)(TOB p71)
-  AltName: Death Butterfly Swarm
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 60 (11d10)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants
+  DamageVulnerabilities: de feu, de froid
   ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 11
   Challenge: 4 (1 100PX)
-  DamageVulnerabilities: de feu, de froid
   Id: tome_of_beasts.md#nuée-de-papillons-de-mort
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée de Papillons de Mort
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Death Butterfly Swarm
+  Source: (LDM p327)(TOB p71)
   AttributesDictionary: >+
-    Name: Nuée De Papillons De Mort
+    Name: Nuée de Papillons de Mort
 
     Markdown: >+
 
-      # <!--Name-->Nuée De Papillons De Mort<!--/Name-->
+      # <!--Name-->Nuée de Papillons de Mort<!--/Name-->
 
 
 
@@ -56108,6 +57204,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -56205,6 +57305,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 60 (11d10)
@@ -56223,30 +57325,31 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Grande Nuée De Papillons De Mort
-  Source: (LDM p327)(TOB p71)
-  AltName: Greater Death Butterfly Swarm
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
+  Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 84 (13d12)
   Speed: 1,50 m, vol 12 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants
+  DamageVulnerabilities: de feu, de froid
   ConditionImmunities: à terre, charmé, entravé, paralysé, pétrifié, terrorisé
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 12
   Challenge: 6 (2 300PX)
-  DamageVulnerabilities: de feu, de froid
   Id: tome_of_beasts.md#grande-nuée-de-papillons-de-mort
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Grande Nuée de Papillons de Mort
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Greater Death Butterfly Swarm
+  Source: (LDM p327)(TOB p71)
   AttributesDictionary: >+
-    Name: Grande Nuée De Papillons De Mort
+    Name: Grande Nuée de Papillons de Mort
 
     Markdown: >+
 
-      # <!--Name-->Grande Nuée De Papillons De Mort<!--/Name-->
+      # <!--Name-->Grande Nuée de Papillons de Mort<!--/Name-->
 
 
 
@@ -56261,6 +57364,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de Très Grande taille de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -56358,6 +57465,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Bois / Forêt, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 84 (13d12)
@@ -56376,25 +57485,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Scarabées Manavores
-  Source: (LDM p328)(TOB p374)
-  AltName: Manabane Scarab Swarm
   Type: Nuée
   Size: TP
   Alignment: non-alignée
+  Terrain: Désert chaud
   ArmorClass: 15 (armure naturelle)
   HitPoints: 75 (10d8+30)
   Speed: 6 m, fouissement 1,50 m, escalade 6 m
   Skills: Perception +3, Discrétion +5
-  DamageResistances: contondants, perforants et tranchants
   ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision aveugle 3 m, vision dans le noir 9 m, perception des vibrations 9 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#nuée-de-scarabées-manavores
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée De Scarabées Manavores
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Manabane Scarab Swarm
+  Source: (LDM p328)(TOB p374)
   AttributesDictionary: >+
     Name: Nuée De Scarabées Manavores
 
@@ -56415,6 +57525,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -56516,6 +57630,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 75 (10d8+30)
@@ -56536,21 +57652,21 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Scarabées Mécaniques
-  Source: (LDM p329)(TOB p61)
-  AltName: Clockwork Beetle Swarm
   Type: Grande nuée
   Size: TP
   Alignment: neutre
   ArmorClass: 14 (armure naturelle)
   HitPoints: 52 (8d10+8)
   Speed: 9 m, vol 15 m
-  DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de feu, de poison et psychiques
+  DamageResistances: contondants, perforants et tranchants
   Id: tome_of_beasts.md#nuée-de-scarabées-mécaniques
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée De Scarabées Mécaniques
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Clockwork Beetle Swarm
+  Source: (LDM p329)(TOB p61)
   AttributesDictionary: >+
     Name: Nuée De Scarabées Mécaniques
 
@@ -56650,25 +57766,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Scarabées Prismatiques
-  Source: (LDM p330)(TOB p375)
-  AltName: Prismatic Beetle Swarm
   Type: Nuée
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 38 (7d8+7)
   Speed: 6 m, fouissement 1,50 m, escalade 9 m
   Skills: Perception +3, Discrétion +5
-  DamageResistances: contondants, perforants et tranchants
   ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision aveugle 3 m, vision dans le noir 9 m, Perception passive 13
   Languages: —
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#nuée-de-scarabées-prismatiques
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée De Scarabées Prismatiques
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Prismatic Beetle Swarm
+  Source: (LDM p330)(TOB p375)
   AttributesDictionary: >+
     Name: Nuée De Scarabées Prismatiques
 
@@ -56689,6 +57806,10 @@ SubItems:
 
 
       -  <!--Type-->Nuée<!--/Type--> de taille Moyenne de bêtes de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -56782,6 +57903,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13
 
     HitPoints: 38 (7d8+7)
@@ -56802,9 +57925,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Sluaghs
-  Source: (LDM p331)(TOB p376)
-  AltName: Sluagh Swarm
   Type: Nuée
   Size: TP
   Alignment: chaotique mauvaise
@@ -56812,16 +57932,19 @@ SubItems:
   HitPoints: 54 (12d8)
   Speed: 9 m, vol 15 m
   Skills: Discrétion +5
-  DamageResistances: de froid ; contondants, perforants et tranchants
+  DamageVulnerabilities: de feu
   ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
+  DamageResistances: de froid ; contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, sylvestre
   Challenge: 3 (700 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#nuée-de-sluaghs
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée De Sluaghs
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sluagh Swarm
+  Source: (LDM p331)(TOB p376)
   AttributesDictionary: >+
     Name: Nuée De Sluaghs
 
@@ -56963,9 +58086,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée Osseuse
-  Source: (LDM p332)(TOB p41)
-  AltName: Bone Swarm
   Type: Nuée
   Size: G
   Alignment: chaotique mauvais
@@ -56974,17 +58094,20 @@ SubItems:
   Speed: 6m, vol 18m
   SavingThrows: Dex +8, Sag +6, Cha +9
   Skills: Acrobatics +8, Discrétion +8, Perception +6
-  DamageResistances: perforants et tranchants infligés par des armes non magiques
+  DamageVulnerabilities: contondants
   DamageImmunities: de poison
   ConditionImmunities: à terre, charmé, empoisonné, entravé, épuisé, étourdi, paralysé, terrorisé
+  DamageResistances: perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18m, Perception passive 16
   Languages: commun, langue du Vide
   Challenge: 10 (5 900 PX)
-  DamageVulnerabilities: contondants
   Id: tome_of_beasts.md#nuée-osseuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée Osseuse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bone Swarm
+  Source: (LDM p332)(TOB p41)
   AttributesDictionary: >+
     Name: Nuée Osseuse
 
@@ -57144,9 +58267,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Oeil D'Émeraude
-  Source: (LDM p333)(TOB p175)
-  AltName: Emerald Eye
   Type: Créature artificielle
   Size: TP
   Alignment: chaotique mauvais
@@ -57155,16 +58275,19 @@ SubItems:
   Speed: 0 m, vol 9 m (vol stationnaire)
   SavingThrows: Dex+4, Con +4, Int +4
   Skills: Acrobaties +4, Arcanes +4, Supercherie +5, Histoire+4, Perception +3, Persuasion +5, Religion +4
-  DamageResistances: de froid, de feu ; dégâts perforants
   DamageImmunities: de poison
   ConditionImmunities: aveuglé, assourdi, épuisé, paralysé, pétrifié, empoisonné, à terre, inconscient
+  DamageResistances: de froid, de feu ; dégâts perforants
   Senses: vision aveugle 18 m
   Languages: commun, draconique; télépathie 75 m
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#oeil-dÉmeraude
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Oeil D'Émeraude
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Emerald Eye
+  Source: (LDM p333)(TOB p175)
   AttributesDictionary: >+
     Name: Oeil D'Émeraude
 
@@ -57324,9 +58447,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Oiseau De Feu
-  Source: (LDM p334)(TOB p201)
-  AltName: Firebird
   Type: Céleste
   Size: P
   Alignment: neutre bon
@@ -57335,16 +58455,19 @@ SubItems:
   Speed: 6 m, vol 30 m
   SavingThrows: Dex +6, Con +4, Int +5, Sag +4, Cha +7
   Skills: Acrobaties +6, Arcanes +5, Perspicacité +4, Médecine +4, Nature +5, Perception +7, Religion +5
-  DamageResistances: de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de feu
   ConditionImmunities: charmé, terrorisé, invisible
+  DamageResistances: de foudre ; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision parfaite 18 m, Perception passive 17
   Languages: céleste, commun, elfique, primordial, sylvestre
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#oiseau-de-feu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Oiseau De Feu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Firebird
+  Source: (LDM p334)(TOB p201)
   AttributesDictionary: >+
     Name: Oiseau De Feu
 
@@ -57522,9 +58645,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ostinato
-  Source: (LDM p335)(TOB p335)
-  AltName: Ostinato
   Type: Aberration
   Size: M
   Alignment: chaotique neutre
@@ -57532,17 +58652,20 @@ SubItems:
   HitPoints: 39 (6d8+12)
   Speed: vol 15 m (vol stationnaire)
   Skills: Perception +3
-  DamageResistances: d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de tonnerre
   DamageImmunities: de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, épuisé, entravé, inconscient, paralysé, pétrifié
+  DamageResistances: d'acide, de froid et de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: télépathie à 60 m
   Challenge: 4 (1 100PX) de Charisme. Elle est désavantagée sur les jets de sauvegarde de Sagesse et ne peut pas se concentrer sur un sort ou un effet pendant plus d'un tour. Elle fait un test de Sagesse (Perspicacité) DD 13 toutes les 24 heures. Si elle le réussit, elle comprend que la musique qu'elle entend émane d'une entité extérieure. La symbiose auditive persiste jusqu'à ce que la cible tombe à 0point de vie, que l'ostinato y mette un terme par une action bonus ou que l'ostinato se fasse chasser par dissipation du mal et du bien ou une magie similaire. Quand la symbiose auditive se termine, l'ostinato surgit dans une explosion sonore et apparaît dans un emplacement inoccupé dans un rayon de 1,50mètre autour de la cible. Toutes les créatures dans un rayon de 18mètres, y compris la cible originelle, subissent 21 (6d6)dégâts de tonnerre, ou moitié moins si elles réussissent un jet de sauvegarde de Constitution DD 13. La cible est immunisée contre la symbiose auditive de l'ostinato pendant 24 heures si elle réussit le jet de sauvegarde ou une fois la symbiose terminée.
-  DamageVulnerabilities: de tonnerre
   Id: tome_of_beasts.md#ostinato
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ostinato
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ostinato
+  Source: (LDM p335)(TOB p335)
   AttributesDictionary: >+
     Name: Ostinato
 
@@ -57708,28 +58831,29 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ovasis
-  Source: (LDM p336)(TOB p310)
-  AltName: Oozasis
   Type: Vase
   Size: Gig
   Alignment: non alignée
+  Terrain: Désert chaud, Mangrove / Marécage
   ArmorClass: 7
   HitPoints: 217 (14d20+70)
   Speed: 6 m, escalade 6 m, nage 6 m
   SavingThrows: Int +5, Sag +10, Cha +8
   Skills: Histoire +5, Perception +10, Perspicacité +10, Supercherie +8
-  DamageResistances: de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de tonnerre
   DamageImmunities: d'acide
   ConditionImmunities: aveuglé, assourdi, à terre, charmé, épuisé, terrorisé
+  DamageResistances: de feu, de foudre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), perception des vibrations 36 m, Perception passive 20
   Languages: comprend toutes les langues, mais ne peut pas parler, télépathie à 36 m
   Challenge: 9 (5 000PX)
-  DamageVulnerabilities: de tonnerre
   Id: tome_of_beasts.md#ovasis
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ovasis
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Oozasis
+  Source: (LDM p336)(TOB p310)
   AttributesDictionary: >+
     Name: Ovasis
 
@@ -57750,6 +58874,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -57875,6 +59003,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Désert chaud, Mangrove / Marécage
+
     ArmorClass: 7
 
     HitPoints: 217 (14d20+70)
@@ -57901,24 +59031,24 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Pavenuée
-  Source: (LDM p337)(TOB p68)
-  AltName: Cobbleswarm
   Type: Nuée
   Size: G
   Alignment: non alignée
   ArmorClass: 15 (armure naturelle)
   HitPoints: 36 (8d8)
   Speed: 9m
-  DamageResistances: contondants, perforants et tranchants
   ConditionImmunities: à terre, charmé, étourdi, paralysé, pétrifié et terrorisé
+  DamageResistances: contondants, perforants et tranchants
   Senses: Perception passive 11
   Languages: —
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#pavenuée
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Pavenuée
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Cobbleswarm
+  Source: (LDM p337)(TOB p68)
   AttributesDictionary: >+
     Name: Pavenuée
 
@@ -58058,26 +59188,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Piège Caustique
-  Source: (LDM p338)(TOB p296)
-  AltName: Mordant Snare
   Type: Aberration
   Size: Gig
   Alignment: chaotique mauvaise
+  Terrain: Ruines souterraines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 264 (16d20+96)
   Speed: 3 m, fouissement 6 m
   Skills: Supercherie +8
-  DamageResistances: contondants issus d'armes non magiques
   DamageImmunities: d'acide
   ConditionImmunities: à terre
+  DamageResistances: contondants issus d'armes non magiques
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 12
   Languages: commun, primordial
   Challenge: 15 (13 000 PX)
   Id: tome_of_beasts.md#piège-caustique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Piège Caustique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Mordant Snare
+  Source: (LDM p338)(TOB p296)
   AttributesDictionary: >+
     Name: Piège Caustique
 
@@ -58098,6 +59229,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -58221,6 +59356,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 264 (16d20+96)
@@ -58243,12 +59380,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Pombero
-  Source: (LDM p339)(TOB p313)
-  AltName: Pombero
   Type: Fée
   Size: M
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt
   ArmorClass: 15 (armure naturelle)
   HitPoints: 90 (12d8+36)
   Speed: 9m
@@ -58258,8 +59393,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#pombero
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Pombero
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Pombero
+  Source: (LDM p339)(TOB p313)
   AttributesDictionary: >+
     Name: Pombero
 
@@ -58280,6 +59418,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -58391,6 +59533,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 90 (12d8+36)
@@ -58407,9 +59551,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Pourceau Des Failles
-  Source: (LDM p340)(TOB p326)
-  AltName: Rift Swine
   Type: Aberration
   Size: G
   Alignment: chaotique neutre
@@ -58422,8 +59563,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#pourceau-des-failles
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Pourceau Des Failles
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rift Swine
+  Source: (LDM p340)(TOB p326)
   AttributesDictionary: >+
     Name: Pourceau Des Failles
 
@@ -58579,12 +59723,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Primate Blanc
-  Source: (LDM p341)(TOB p408)
-  AltName: White Ape
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 14 (armure naturelle)
   HitPoints: 114 (12d10+48)
   Speed: 12 m, escalade 12 m
@@ -58594,8 +59736,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#primate-blanc
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Primate Blanc
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: White Ape
+  Source: (LDM p341)(TOB p408)
   AttributesDictionary: >+
     Name: Primate Blanc
 
@@ -58616,6 +59761,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -58709,6 +59858,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 114 (12d10+48)
@@ -58725,26 +59876,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Profanateur Maudit
-  Source: (LDM p342)(TOB p12)
-  AltName: Accursed Defiler
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Désert chaud
   ArmorClass: 12
   HitPoints: 75 (10d8+30)
   Speed: 9m
   Skills: Discrétion +4, Perception +4
-  DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, épuisé, terrorisé, empoisonné
+  DamageResistances: nécrotiques; contondants, perforants et tranchants infligés par des armes non magiques
   Senses: vision dans le noir 18m, Perception passive 14
   Languages: comprend une langue ancienne, mais ne peut pas parler
   Challenge: 4 (1100 PX)
   Id: tome_of_beasts.md#profanateur-maudit
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Profanateur Maudit
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Accursed Defiler
+  Source: (LDM p342)(TOB p12)
   AttributesDictionary: >+
     Name: Profanateur Maudit
 
@@ -58765,6 +59917,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -58870,6 +60026,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Désert chaud
+
     ArmorClass: 12
 
     HitPoints: 75 (10d8+30)
@@ -58892,25 +60050,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Profond
-  Source: (LDM p343)(TOB p73)
-  AltName: Deep One
   Type: Humanoïde
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 13 (armure naturelle)
   HitPoints: 91 (14d8+28)
   Speed: 9 m, nage 9 m
   SavingThrows: For +5, Con +4, Cha +3
+  DamageVulnerabilities: de feu
   DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 9
   Languages: commun, langue du Vide
   Challenge: 2 (450PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#profond
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Profond
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Deep One
+  Source: (LDM p343)(TOB p73)
   AttributesDictionary: >+
     Name: Profond
 
@@ -58931,6 +60090,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -59032,6 +60195,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 91 (14d8+28)
@@ -59052,26 +60217,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Archimandrite Profond
-  Source: (LDM p343)(TOB p74)
-  AltName: Deep One Archimandrite
   Type: Humanoïde
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 15 (armure naturelle)
   HitPoints: 153 (18d10+54)
   Speed: 12 m, nage 12 m
   SavingThrows: Dex +5, Sag +6, Cha +7
   Skills: Arcanes +4, Perception+6
+  DamageVulnerabilities: de feu
   DamageResistances: de froid, de tonnerre
   Senses: vision dans le noir 72 m, Perception passive 16
   Languages: commun, langue du Vide
   Challenge: 8 (3 900PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#archimandrite-profond
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Archimandrite Profond
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Deep One Archimandrite
+  Source: (LDM p343)(TOB p74)
   AttributesDictionary: >+
     Name: Archimandrite Profond
 
@@ -59092,6 +60258,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -59239,6 +60409,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 153 (18d10+54)
@@ -59261,26 +60433,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Prêtre Profond Hybride
-  Source: (LDM p344)(TOB p73)
-  AltName: Deep One Hybrid Priest
   Type: Humanoïde
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 120 (16d8+48)
   Speed: 9 m, nage 9 m
   SavingThrows: Con +5, Sag +3, Cha +4
   Skills: Athlétisme +6, Perception +3, Supercherie +4
+  DamageVulnerabilities: de feu
   DamageResistances: de froid
   Senses: vision dans le noir 36 m, Perception passive 13
   Languages: commun, langue du Vide
   Challenge: 4 (1 100PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#prêtre-profond-hybride
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Prêtre Profond Hybride
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Deep One Hybrid Priest
+  Source: (LDM p344)(TOB p73)
   AttributesDictionary: >+
     Name: Prêtre Profond Hybride
 
@@ -59301,6 +60474,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 
 
 
@@ -59436,6 +60613,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 120 (16d8+48)
@@ -59458,9 +60637,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Qwyllion
-  Source: (LDM p345)(TOB p316)
-  AltName: Qwyllion
   Type: Aberration
   Size: M
   Alignment: neutre mauvaise
@@ -59475,8 +60651,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#qwyllion
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Qwyllion
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Qwyllion
+  Source: (LDM p345)(TOB p316)
   AttributesDictionary: >+
     Name: Qwyllion
 
@@ -59630,12 +60809,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ramag
-  Source: (LDM p346)(TOB p317)
-  AltName: Ramag
   Type: Humanoïde (ramag)
   Size: M
   Alignment: neutre
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 13 (armure de cuir)
   HitPoints: 27 (6d8)
   Speed: 9m
@@ -59645,8 +60822,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#ramag
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ramag
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ramag
+  Source: (LDM p346)(TOB p317)
   AttributesDictionary: >+
     Name: Ramag
 
@@ -59667,6 +60847,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (ramag)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -59748,6 +60932,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13 (armure de cuir)
 
     HitPoints: 27 (6d8)
@@ -59764,9 +60950,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ratatosk
-  Source: (LDM p347)(TOB p319)
-  AltName: Ratatosk
   Type: Céleste
   Size: TP
   Alignment: chaotique neutre
@@ -59781,8 +60964,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#ratatosk
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ratatosk
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ratatosk
+  Source: (LDM p347)(TOB p319)
   AttributesDictionary: >+
     Name: Ratatosk
 
@@ -59948,9 +61134,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ravageur Trollien
-  Source: (LDM p348)(TOB p390)
-  AltName: Trollkin Reaver
   Type: Humanoïde (trollien)
   Size: M
   Alignment: neutre
@@ -59964,8 +61147,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#ravageur-trollien
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ravageur Trollien
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Trollkin Reaver
+  Source: (LDM p348)(TOB p390)
   AttributesDictionary: >+
     Name: Ravageur Trollien
 
@@ -60119,26 +61305,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ravenala
-  Source: (LDM p349)(TOB p321)
-  AltName: Ravenala
   Type: Plante
   Size: G
   Alignment: non alignée
+  Terrain: Jungle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 126 (12d10+60)
   Speed: 9m
   SavingThrows: Sag +6, Cha +4
-  DamageResistances: contondants et perforants
+  DamageVulnerabilities: de feu, de froid
   ConditionImmunities: assourdi et aveuglé
+  DamageResistances: contondants et perforants
   Senses: Perception passive 13
   Languages: commun, druidique, elfique, sylvestre
   Challenge: 5 (1 800PX)
-  DamageVulnerabilities: de feu, de froid
   Id: tome_of_beasts.md#ravenala
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ravenala
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ravenala
+  Source: (LDM p349)(TOB p321)
   AttributesDictionary: >+
     Name: Ravenala
 
@@ -60159,6 +61346,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -60288,6 +61479,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Jungle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 126 (12d10+60)
@@ -60310,9 +61503,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Rôdeur Des Quais
-  Source: (LDM p350)(TOB p407)
-  AltName: Wharfling
   Type: Bête
   Size: TP
   Alignment: non alignée
@@ -60325,8 +61515,11 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: tome_of_beasts.md#rôdeur-des-quais
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Rôdeur Des Quais
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wharfling
+  Source: (LDM p350)(TOB p407)
   AttributesDictionary: >+
     Name: Rôdeur Des Quais
 
@@ -60438,9 +61631,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nuée De Rôdeurs Des Quais
-  Source: (LDM p350)(TOB p407)
-  AltName: Wharfling Swarm
   Type: Nuée
   Size: TP
   Alignment: non alignée
@@ -60448,15 +61638,18 @@ SubItems:
   HitPoints: 63 (14d10 - 14)
   Speed: 9 m, escalade 9 m, nage 6 m
   Skills: Escamotage +5, Perception +3
-  DamageResistances: contondants, perforants et tranchants
   ConditionImmunities: charmé, terrorisé, paralysé, pétrifié, à terre, entravé, étourdi
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: —
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#nuée-de-rôdeurs-des-quais
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nuée De Rôdeurs Des Quais
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wharfling Swarm
+  Source: (LDM p350)(TOB p407)
   AttributesDictionary: >+
     Name: Nuée De Rôdeurs Des Quais
 
@@ -60592,12 +61785,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Rôdeur Moussu
-  Source: (LDM p351)(TOB p298)
-  AltName: Moss Lurker
   Type: Humanoïde
   Size: P
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle
   ArmorClass: 15 (armure naturelle)
   HitPoints: 45 (10d6+10)
   Speed: 9m
@@ -60610,8 +61801,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#rôdeur-moussu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Rôdeur Moussu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Moss Lurker
+  Source: (LDM p351)(TOB p298)
   AttributesDictionary: >+
     Name: Rôdeur Moussu
 
@@ -60632,6 +61826,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -60755,6 +61953,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 45 (10d6+10)
@@ -60777,26 +61977,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Roi Des Rats
-  Source: (LDM p352)(TOB 318)
-  AltName: Rat King
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique mauvaise
+  Terrain: Caverne aménagée, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 76 (9d8+36)
   Speed: 9 m, fouissement 6 m
   Skills: Discrétion +6
-  DamageResistances: contondants, perforants et tranchants
   DamageImmunities: de poison
   ConditionImmunities: à terre, charmé, entravé, étourdi, paralysé, pétrifié, terrorisé
+  DamageResistances: contondants, perforants et tranchants
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: commun, argot des voleurs
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#roi-des-rats
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Roi Des Rats
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rat King
+  Source: (LDM p352)(TOB 318)
   AttributesDictionary: >+
     Name: Roi Des Rats
 
@@ -60817,6 +62018,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -60934,6 +62139,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Caverne aménagée, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 76 (9d8+36)
@@ -60956,12 +62163,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Roussalka
-  Source: (LDM p353)(TOB p331)
-  AltName: Rusalka
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Littoral
   ArmorClass: 14 (armure naturelle)
   HitPoints: 88 (16d8+16)
   Speed: 9 m, nage 12 m
@@ -60972,8 +62177,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#roussalka
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Roussalka
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rusalka
+  Source: (LDM p353)(TOB p331)
   AttributesDictionary: >+
     Name: Roussalka
 
@@ -60994,6 +62202,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral<!--/Terrain-->
 
 
 
@@ -61103,6 +62315,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Littoral
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 88 (16d8+16)
@@ -61121,9 +62335,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Saccageur Relevé
-  Source: (LDM p354)(TOB p328)
-  AltName: Risen Reaver
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -61137,8 +62348,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#saccageur-relevé
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Saccageur Relevé
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Risen Reaver
+  Source: (LDM p354)(TOB p328)
   AttributesDictionary: >+
     Name: Saccageur Relevé
 
@@ -61280,9 +62494,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Sarcoptère
-  Source: (LDM p355)(TOB p203)
-  AltName: Flutterflesh
   Type: Mort-vivant
   Size: G
   Alignment: chaotique mauvais
@@ -61291,17 +62502,20 @@ SubItems:
   Speed: 3 m, vol 18 m
   SavingThrows: For +4, Dex +8
   Skills: Supercherie +4, Perception +5, Discrétion +8
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: radiants
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, paralysé, épuisé, empoisonné, étourdi, inconscient
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 72 m, Perception passive 15
   Languages: commun, darakhul
   Challenge: 12 (8 400 PX)
-  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#sarcoptère
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Sarcoptère
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Flutterflesh
+  Source: (LDM p355)(TOB p203)
   AttributesDictionary: >+
     Name: Sarcoptère
 
@@ -61479,12 +62693,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Scheznyki
-  Source: (LDM p356)(TOB p339)
-  AltName: Scheznyki
   Type: Fée
   Size: P
   Alignment: chaotique mauvaise
+  Terrain: Collines / Vallées, Ruines souterraines
   ArmorClass: 16 (armure naturelle)
   HitPoints: 153 (18d6+72)
   Speed: 6 m, escalade 4,50 m
@@ -61495,8 +62707,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#scheznyki
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Scheznyki
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Scheznyki
+  Source: (LDM p356)(TOB p339)
   AttributesDictionary: >+
     Name: Scheznyki
 
@@ -61517,6 +62732,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -61638,6 +62857,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Collines / Vallées, Ruines souterraines
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 153 (18d6+72)
@@ -61656,12 +62877,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Scorpion Nocturne
-  Source: (LDM p357)(TOB p340)
-  AltName: Night Scorpion
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines
   ArmorClass: 14 (armure naturelle)
   HitPoints: 90 (12d10+24)
   Speed: 12m
@@ -61670,8 +62889,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#scorpion-nocturne
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Scorpion Nocturne
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Night Scorpion
+  Source: (LDM p357)(TOB p340)
   AttributesDictionary: >+
     Name: Scorpion Nocturne
 
@@ -61692,6 +62914,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -61769,6 +62995,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 90 (12d10+24)
@@ -61783,12 +63011,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Scorpion Stygien À Large Queue
-  Source: (LDM p357)(TOB p340)
-  AltName: Stygian Fat-Tailed Scorpion
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Désert chaud, Caverne aménagée
   ArmorClass: 14 (armure naturelle)
   HitPoints: 10 (4d4)
   Speed: 9 m, escalade 6 m
@@ -61797,8 +63023,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#scorpion-stygien-À-large-queue
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Scorpion Stygien À Large Queue
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Stygian Fat-Tailed Scorpion
+  Source: (LDM p357)(TOB p340)
   AttributesDictionary: >+
     Name: Scorpion Stygien À Large Queue
 
@@ -61819,6 +63048,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Caverne aménagée<!--/Terrain-->
 
 
 
@@ -61896,6 +63129,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Caverne aménagée
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 10 (4d4)
@@ -61910,25 +63145,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Seigneur Des Lianes
-  Source: (LDM p358)(TOB p402)
-  AltName: Vine Lord
   Type: Plante
   Size: M
   Alignment: loyale neutre
+  Terrain: Jungle
   ArmorClass: 16 (armure naturelle)
   HitPoints: 105 (14d8+42)
   Speed: 9m
   SavingThrows: Con +6, Sag +6, Cha +7
+  DamageVulnerabilities: de feu
   ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 13
   Languages: commun
   Challenge: 7 (2 900PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#seigneur-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Seigneur Des Lianes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vine Lord
+  Source: (LDM p358)(TOB p402)
   AttributesDictionary: >+
     Name: Seigneur Des Lianes
 
@@ -61949,6 +63185,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -62074,6 +63314,8 @@ SubItems:
 
     Alignment: loyale neutre
 
+    Terrain: Jungle
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 105 (14d8+42)
@@ -62094,24 +63336,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Marionnette Des Lianes
-  Source: (LDM p359)(TOB p403)
-  AltName: Tendril Puppet
   Type: Plante
   Size: M
   Alignment: loyale neutre
+  Terrain: Jungle
   ArmorClass: 13 (armure de cuir clouté)
   HitPoints: 34 (4d8+16)
   Speed: 9m
+  DamageVulnerabilities: de feu
   ConditionImmunities: assourdi et aveuglé
   Senses: vision aveugle 9m (aveugle au-delà de cette distance), Perception passive 8
   Languages: —
   Challenge: 2 (450PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#marionnette-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Marionnette Des Lianes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tendril Puppet
+  Source: (LDM p359)(TOB p403)
   AttributesDictionary: >+
     Name: Marionnette Des Lianes
 
@@ -62132,6 +63375,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -62235,6 +63482,8 @@ SubItems:
 
     Alignment: loyale neutre
 
+    Terrain: Jungle
+
     ArmorClass: 13 (armure de cuir clouté)
 
     HitPoints: 34 (4d8+16)
@@ -62253,9 +63502,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Sélang
-  Source: (LDM p360)(TOB p341)
-  AltName: Selang
   Type: Fée
   Size: M
   Alignment: chaotique mauvaise
@@ -62264,15 +63510,18 @@ SubItems:
   Speed: 12m
   SavingThrows: Dex+4, Con +6, Cha+6
   Skills: Perception +6, Discrétion +8
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: d'acide, de foudre
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 16
   Languages: commun, elfique, sylvestre, langue du Vide
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#sélang
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Sélang
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Selang
+  Source: (LDM p360)(TOB p341)
   AttributesDictionary: >+
     Name: Sélang
 
@@ -62438,12 +63687,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vipère Du Marais
-  Source: (LDM p361)(TOB p354)
-  AltName: Swamp Adder
   Type: Bête
   Size: P
   Alignment: non-alignée
+  Terrain: Mangrove / Marécage
   ArmorClass: 13
   HitPoints: 18 (4d6+4)
   Speed: 9m
@@ -62452,8 +63699,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#vipère-du-marais
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vipère Du Marais
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Swamp Adder
+  Source: (LDM p361)(TOB p354)
   AttributesDictionary: >+
     Name: Vipère Du Marais
 
@@ -62474,6 +63724,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -62545,6 +63799,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 13
 
     HitPoints: 18 (4d6+4)
@@ -62559,12 +63815,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vipère De Zanskaran
-  Source: (LDM p361)(TOB p354)
-  AltName: Zanskaran Viper
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Collines / Vallées
   ArmorClass: 14 (armure naturelle)
   HitPoints: 38 (4d10+16)
   Speed: 9 m, escalade 3 m, nage 9 m
@@ -62573,8 +63827,11 @@ SubItems:
   Challenge: 1 (100 PX)
   Id: tome_of_beasts.md#vipère-de-zanskaran
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vipère De Zanskaran
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Zanskaran Viper
+  Source: (LDM p361)(TOB p354)
   AttributesDictionary: >+
     Name: Vipère De Zanskaran
 
@@ -62595,6 +63852,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 
 
 
@@ -62660,6 +63921,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 38 (4d10+16)
@@ -62674,25 +63937,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Serpopard
-  Source: (LDM p362)(TOB p342)
-  AltName: Serpopard
   Type: Bête
   Size: G
   Alignment: non-alignée
+  Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
   ArmorClass: 15 (armure naturelle)
   HitPoints: 85 (10d10+30)
   Speed: 12 m, nage 9 m
   Skills: Perception +3, Discrétion +5 (+7 dans le sable ou les marais)
-  DamageResistances: de poison
   ConditionImmunities: empoisonné
+  DamageResistances: de poison
   Senses: vision dans le noir 18 m, Perception passive13
   Languages: —
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#serpopard
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Serpopard
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Serpopard
+  Source: (LDM p362)(TOB p342)
   AttributesDictionary: >+
     Name: Serpopard
 
@@ -62713,6 +63977,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -62814,6 +64082,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Collines / Vallées, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 85 (10d10+30)
@@ -62834,9 +64104,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Shabti
-  Source: (LDM p363)(TOB p343)
-  AltName: Shabti
   Type: Créature artificielle
   Size: M
   Alignment: non-alignée
@@ -62850,8 +64117,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#shabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Shabti
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shabti
+  Source: (LDM p363)(TOB p343)
   AttributesDictionary: >+
     Name: Shabti
 
@@ -62999,9 +64269,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Shadhavar
-  Source: (LDM p364)(TOB p344)
-  AltName: Shadhavar
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre
@@ -63014,8 +64281,11 @@ SubItems:
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#shadhavar
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Shadhavar
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shadhavar
+  Source: (LDM p364)(TOB p344)
   AttributesDictionary: >+
     Name: Shadhavar
 
@@ -63169,9 +64439,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Shoggoth
-  Source: (LDM p365)(TOB p347)
-  AltName: Shoggoth
   Type: Aberration
   Size: TG
   Alignment: chaotique neutre
@@ -63179,16 +64446,19 @@ SubItems:
   HitPoints: 387 (25d12+225)
   Speed: 15 m, escalade 9 m, nage 9 m
   Skills: Perception +9
-  DamageResistances: de feu, contondants et perforants
   DamageImmunities: de froid, de tonnerre, tranchants
   ConditionImmunities: aveuglé, assourdi, à terre, étourdi, inconscient
+  DamageResistances: de feu, contondants et perforants
   Senses: vision dans le noir 36 m, perception des vibrations 18m, Perception passive 19
   Languages: langue du Vide
   Challenge: 19 (22 000 PX)
   Id: tome_of_beasts.md#shoggoth
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Shoggoth
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Shoggoth
+  Source: (LDM p365)(TOB p347)
   AttributesDictionary: >+
     Name: Shoggoth
 
@@ -63354,25 +64624,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Silhouette De Sable
-  Source: (LDM p366)(TOB p332)
-  AltName: Sand Silhouette
   Type: Mort-vivant
   Size: M
   Alignment: neutre mauvais
+  Terrain: Désert chaud
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (14d8+42)
   Speed: 9 m, fouissement 9 m
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: charmé, épuisé, empoigné, terrifié, paralysé, pétrifié, empoisonné, à terre, entravé, inconscient
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 11
   Languages: celles qu'elle parlait de son vivant
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#silhouette-de-sable
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Silhouette De Sable
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sand Silhouette
+  Source: (LDM p366)(TOB p332)
   AttributesDictionary: >+
     Name: Silhouette De Sable
 
@@ -63393,6 +64664,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -63512,6 +64787,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Désert chaud
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 105 (14d8+42)
@@ -63532,9 +64809,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Sorcelueur
-  Source: (LDM p367)(TOB p409)
-  AltName: Witchlight
   Type: Créature artificielle
   Size: TP
   Alignment: neutre
@@ -63549,8 +64823,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#sorcelueur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Sorcelueur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Witchlight
+  Source: (LDM p367)(TOB p409)
   AttributesDictionary: >+
     Name: Sorcelueur
 
@@ -63692,9 +64969,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Sorcière De L'Écheveau
-  Source: (LDM p368)(TOB p349)
-  AltName: Skein Witch
   Type: Céleste
   Size: M
   Alignment: neutre
@@ -63703,15 +64977,18 @@ SubItems:
   Speed: 9 m, vol 9m
   SavingThrows: Int +8, Sag +10, Cha +10
   Skills: Histoire +8, Perspicacité +15, Perception +15
-  DamageResistances: radiants
   DamageImmunities: de feu, de foudre, psychiques
+  DamageResistances: radiants
   Senses: vision parfaite 18m, Perception passive 25
   Languages: céleste, télépathie (30 m)
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#sorcière-de-lÉcheveau
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Sorcière De L'Écheveau
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Skein Witch
+  Source: (LDM p368)(TOB p349)
   AttributesDictionary: >+
     Name: Sorcière De L'Écheveau
 
@@ -63877,26 +65154,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Gypsosphinx
-  Source: (LDM p369)(TOB p359)
-  AltName: Gypsosphinx
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 17 (armure naturelle)
   HitPoints: 171 (18d10+72)
   Speed: 12 m, vol 21 m
   Skills: Arcanes +9, Histoire +9, Perception +9, Religion +9
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: psychiques, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision parfaite 27 m, Perception passive 19
   Languages: abyssal, commun, darakhul, sphinx
   Challenge: 14 (11 500 PX)
   Id: tome_of_beasts.md#gypsosphinx
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Gypsosphinx
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gypsosphinx
+  Source: (LDM p369)(TOB p359)
   AttributesDictionary: >+
     Name: Gypsosphinx
 
@@ -63917,6 +65195,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -64106,6 +65388,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 171 (18d10+72)
@@ -64128,26 +65412,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Squelette De Troll Des Lianes
-  Source: (LDM p371)(TOB p351)
-  AltName: Vine Troll Skeleton
   Type: Plante
   Size: G
   Alignment: non-alignée
+  Terrain: Bois / Forêt
   ArmorClass: 16 (armure naturelle)
   HitPoints: 119 (14d10+42)
   Speed: 9m
   SavingThrows: Con +12
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: assourdi, épuisé et empoisonné
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 12
   Languages: —
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#squelette-de-troll-des-lianes
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Squelette De Troll Des Lianes
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vine Troll Skeleton
+  Source: (LDM p371)(TOB p351)
   AttributesDictionary: >+
     Name: Squelette De Troll Des Lianes
 
@@ -64168,6 +65453,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -64267,6 +65556,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 119 (14d10+42)
@@ -64289,26 +65580,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Squelette En Mâchoires De Requin
-  Source: (LDM p372)(TOB p350)
-  AltName: Sharkjaw Skeleton
   Type: Mort-vivant
   Size: G
   Alignment: loyal mauvais
+  Terrain: Littoral, Mer / Océan, Caverne sous-marine
   ArmorClass: 13 (armure naturelle)
   HitPoints: 45 (6d10+12)
   Speed: 9 m, nage 9 m
   Skills: Perception +1, Discrétion +2
+  DamageVulnerabilities: contondants
   DamageImmunities: de froid, nécrotiques, de poison
   ConditionImmunities: épuisé et empoisonné
   Senses: vision dans le noir 18 m, ouïe fine 9 m, Perception passive 11
   Languages: comprend les langues de son créateur mais ne peut pas parler
   Challenge: 1 (200 PX)
-  DamageVulnerabilities: contondants
   Id: tome_of_beasts.md#squelette-en-mâchoires-de-requin
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Squelette En Mâchoires De Requin
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sharkjaw Skeleton
+  Source: (LDM p372)(TOB p350)
   AttributesDictionary: >+
     Name: Squelette En Mâchoires De Requin
 
@@ -64329,6 +65621,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -64422,6 +65718,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Littoral, Mer / Océan, Caverne sous-marine
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 45 (6d10+12)
@@ -64444,12 +65742,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Stryx
-  Source: (LDM p373)(TOB p369)
-  AltName: Stryx
   Type: Créature monstrueuse
   Size: TP
   Alignment: neutre
+  Terrain: Bois / Forêt
   ArmorClass: 13
   HitPoints: 10 (4d4)
   Speed: 3 m, vol 18 m
@@ -64459,8 +65755,11 @@ SubItems:
   Challenge: 1/8 (25 PX)
   Id: tome_of_beasts.md#stryx
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Stryx
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Stryx
+  Source: (LDM p373)(TOB p369)
   AttributesDictionary: >+
     Name: Stryx
 
@@ -64481,6 +65780,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -64592,6 +65895,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 13
 
     HitPoints: 10 (4d4)
@@ -64608,9 +65913,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Stuhac
-  Source: (LDM p374)(TOB p370)
-  AltName: Stuhac
   Type: Fiélon
   Size: M
   Alignment: neutre mauvais
@@ -64619,16 +65921,19 @@ SubItems:
   Speed: 12 m, escalade 12 m
   SavingThrows: For +11, Dex+9, Con +10, Cha +7
   Skills: Supercherie +12
-  DamageResistances: d'acide, de feu; contondants et perforants issus d'armes non magiques
   DamageImmunities: de froid, de poison
   ConditionImmunities: empoisonné
+  DamageResistances: d'acide, de feu; contondants et perforants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, infernal ; télépathie 30 m
   Challenge: 13 (10 000 PX)
   Id: tome_of_beasts.md#stuhac
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Stuhac
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Stuhac
+  Source: (LDM p374)(TOB p370)
   AttributesDictionary: >+
     Name: Stuhac
 
@@ -64794,12 +66099,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Subek
-  Source: (LDM p375)(TOB p371)
-  AltName: Subek
   Type: Humanoïde
   Size: G
   Alignment: loyal neutre
+  Terrain: Littoral, Mangrove / Marécage
   ArmorClass: 17 (armure naturelle)
   HitPoints: 76(8d10+32)
   Speed: 9 m, nage 6 m
@@ -64809,8 +66112,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#subek
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Subek
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Subek
+  Source: (LDM p375)(TOB p371)
   AttributesDictionary: >+
     Name: Subek
 
@@ -64831,6 +66137,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde<!--/Type--> de Grande taille (subek) (<!--Size-->G<!--/Size-->), <!--Alignment-->loyal neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -64936,6 +66246,8 @@ SubItems:
 
     Alignment: loyal neutre
 
+    Terrain: Littoral, Mangrove / Marécage
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 76(8d10+32)
@@ -64952,9 +66264,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Suffragan Coeur-De-Vers
-  Source: (LDM p376)(TOB p410)
-  AltName: Wormhearted Suffragan
   Type: Mort-vivant
   Size: M
   Alignment: chaotique mauvais
@@ -64962,15 +66271,18 @@ SubItems:
   HitPoints: 97 (13d8+39)
   Speed: 9 m
   Skills: Médecine +6, Religion +3
+  DamageVulnerabilities: radiants
   DamageResistances: nécrotiques; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: celles qu'il parlait de son vivant
   Challenge: 5 (1 800PX)
-  DamageVulnerabilities: radiants
   Id: tome_of_beasts.md#suffragan-coeur-de-vers
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Suffragan Coeur-De-Vers
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wormhearted Suffragan
+  Source: (LDM p376)(TOB p410)
   AttributesDictionary: >+
     Name: Suffragan Coeur-De-Vers
 
@@ -65124,12 +66436,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Sutureuse
-  Source: (LDM p377)(TOB p372)
-  AltName: Suturefly
   Type: Bête
   Size: TP
   Alignment: non-alignée
+  Terrain: Bois / Forêt, Mangrove / Marécage
   ArmorClass: 14
   HitPoints: 7 (3d4)
   Speed: 3 m, vol 12 m (vol stationnaire)
@@ -65139,8 +66449,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#sutureuse
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Sutureuse
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Suturefly
+  Source: (LDM p377)(TOB p372)
   AttributesDictionary: >+
     Name: Sutureuse
 
@@ -65161,6 +66474,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de Très Petite taille (<!--Size-->TP<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -65242,6 +66559,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Bois / Forêt, Mangrove / Marécage
+
     ArmorClass: 14
 
     HitPoints: 7 (3d4)
@@ -65258,24 +66577,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Sylvanien Pleureur
-  Source: (LDM p378)(TOB p388)
-  AltName: Weeping Treant
   Type: Plante
   Size: TG
   Alignment: neutre
+  Terrain: Bois / Forêt
   ArmorClass: 17 (armure naturelle)
   HitPoints: 105 (10d12+40)
   Speed: 9m
+  DamageVulnerabilities: de feu
   DamageResistances: contondants et perforants
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, druidique, elfique, sylvestre
   Challenge: 6 (2 300PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#sylvanien-pleureur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Sylvanien Pleureur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Weeping Treant
+  Source: (LDM p378)(TOB p388)
   AttributesDictionary: >+
     Name: Sylvanien Pleureur
 
@@ -65296,6 +66616,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -65399,6 +66723,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 105 (10d12+40)
@@ -65417,9 +66743,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Templier Mécaforgé
-  Source: (LDM p379)(TOB p210)
-  AltName: Gearforged Templar
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -65427,16 +66750,19 @@ SubItems:
   HitPoints: 71 (11d8+22)
   Speed: 9m
   SavingThrows: Dex +2, Con +5
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, terrorisé, épuisé, empoisonné
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: Perception passive 13
   Languages: commun
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#templier-mécaforgé
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Templier Mécaforgé
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gearforged Templar
+  Source: (LDM p379)(TOB p210)
   AttributesDictionary: >+
     Name: Templier Mécaforgé
 
@@ -65602,28 +66928,29 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Thuellai
-  Source: (LDM p380)(TOB p379)
-  AltName: Thuellai
   Type: Élémentaire
   Size: TG
   Alignment: chaotique neutre
+  Terrain: Arctique / Subarctique
   ArmorClass: 17
   HitPoints: 149 (13d12+65)
   Speed: 0 m, vol 30 m (vol stationnaire)
   SavingThrows: Int +4, Sag +4, Cha +6
   Skills: Perception +4
-  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de feu
   DamageImmunities: de poison
   ConditionImmunities: à terre, épuisé, empoigné, empoisonné, entravé, inconscient, paralysé, pétrifié
+  DamageResistances: de foudre, de tonnerre ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 14
   Languages: commun, nain, primordial
   Challenge: 10 (5 900 PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#thuellai
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Thuellai
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Thuellai
+  Source: (LDM p380)(TOB p379)
   AttributesDictionary: >+
     Name: Thuellai
 
@@ -65644,6 +66971,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -65801,6 +67132,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 17
 
     HitPoints: 149 (13d12+65)
@@ -65827,9 +67160,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Titan Antique
-  Source: (LDM p381)(TOB p380)
-  AltName: Ancient Titan
   Type: Céleste
   Size: Gig
   Alignment: neutre bon
@@ -65844,8 +67174,11 @@ SubItems:
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#titan-antique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Titan Antique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ancient Titan
+  Source: (LDM p381)(TOB p380)
   AttributesDictionary: >+
     Name: Titan Antique
 
@@ -66005,12 +67338,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Titan Dégénéré
-  Source: (LDM p382)(TOB p381)
-  AltName: Degenerate Titan
   Type: Géant
   Size: TG
   Alignment: chaotique mauvais
+  Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 12 (manteau renforcé rudimentaire)
   HitPoints: 161 (14d12+70)
   Speed: 12m
@@ -66020,8 +67351,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#titan-dégénéré
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Titan Dégénéré
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Degenerate Titan
+  Source: (LDM p382)(TOB p381)
   AttributesDictionary: >+
     Name: Titan Dégénéré
 
@@ -66042,6 +67376,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -66141,6 +67479,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 12 (manteau renforcé rudimentaire)
 
     HitPoints: 161 (14d12+70)
@@ -66157,12 +67497,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Titanoboa
-  Source: (LDM p383)(TOB p382)
-  AltName: Titanoboa
   Type: Bête
   Size: Gig
   Alignment: non alignée
+  Terrain: Jungle
   ArmorClass: 14 (armure naturelle)
   HitPoints: 232 (15d20+75)
   Speed: 12 m, escalade 12 m, nage 12 m
@@ -66173,8 +67511,11 @@ SubItems:
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#titanoboa
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Titanoboa
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Titanoboa
+  Source: (LDM p383)(TOB p382)
   AttributesDictionary: >+
     Name: Titanoboa
 
@@ -66195,6 +67536,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 
 
 
@@ -66292,6 +67637,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Jungle
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 232 (15d20+75)
@@ -66310,9 +67657,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Tophet
-  Source: (LDM p384)(TOB p383)
-  AltName: Tophet
   Type: Créature artificielle
   Size: TG
   Alignment: neutre mauvaise
@@ -66321,16 +67665,19 @@ SubItems:
   Speed: 9m
   SavingThrows: For +10, Con +8, Dex +3
   Skills: Perception +3
-  DamageResistances: nécrotiques
   DamageImmunities: de feu, de froid, de poison
   ConditionImmunities: empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  DamageResistances: nécrotiques
   Senses: vision dans le noir 60 m, Perception passive 13
   Languages: commun
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#tophet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Tophet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tophet
+  Source: (LDM p384)(TOB p383)
   AttributesDictionary: >+
     Name: Tophet
 
@@ -66484,12 +67831,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Reine Du Nid Tosculie
-  Source: (LDM p386)(TOB p385)
-  AltName: Tosculi Hive-Queen
   Type: Créature monstrueuse
   Size: G
   Alignment: loyale mauvaise
+  Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 17
   HitPoints: 157 (15d10+75)
   Speed: 12 m, vol 18 m
@@ -66502,8 +67847,11 @@ SubItems:
   Challenge: 12 (8 400 PX)
   Id: tome_of_beasts.md#reine-du-nid-tosculie
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Reine Du Nid Tosculie
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tosculi Hive-Queen
+  Source: (LDM p386)(TOB p385)
   AttributesDictionary: >+
     Name: Reine Du Nid Tosculie
 
@@ -66524,6 +67872,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -66671,6 +68023,8 @@ SubItems:
 
     Alignment: loyale mauvaise
 
+    Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 17
 
     HitPoints: 157 (15d10+75)
@@ -66774,12 +68128,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Archer-Pillard D'Élite Tosculi
-  Source: (LDM p387)(TOB p386)
-  AltName: Tosculi Elite Bow Raider
   Type: Humanoïde (tosculi)
   Size: M
   Alignment: loyal mauvais
+  Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 16 (armure naturelle)
   HitPoints: 97 (13d8+39)
   Speed: 9 m, vol 18 m
@@ -66789,8 +68141,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#archer-pillard-dÉlite-tosculi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Archer-Pillard D'Élite Tosculi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tosculi Elite Bow Raider
+  Source: (LDM p387)(TOB p386)
   AttributesDictionary: >+
     Name: Archer-Pillard D'Élite Tosculi
 
@@ -66811,6 +68166,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (tosculi)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyal mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -66916,6 +68275,8 @@ SubItems:
 
     Alignment: loyal mauvais
 
+    Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 97 (13d8+39)
@@ -66932,12 +68293,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Combattant Tosculi
-  Source: (LDM p387)(TOB p386)
-  AltName: Tosculi Warrior
   Type: Créature monstrueuse
   Size: P
   Alignment: loyale mauvaise
+  Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 15
   HitPoints: 58 (9d6+27)
   Speed: 6 m, vol 18 m
@@ -66946,8 +68305,11 @@ SubItems:
   Challenge: 2 (700 PX)
   Id: tome_of_beasts.md#combattant-tosculi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Combattant Tosculi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tosculi Warrior
+  Source: (LDM p387)(TOB p386)
   AttributesDictionary: >+
     Name: Combattant Tosculi
 
@@ -66968,6 +68330,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -67063,6 +68429,8 @@ SubItems:
 
     Alignment: loyale mauvaise
 
+    Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15
 
     HitPoints: 58 (9d6+27)
@@ -67077,12 +68445,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Faux-Bourdon Tosculi
-  Source: (LDM p387)(TOB p386)
-  AltName: Tosculi Drone
   Type: Créature monstrueuse
   Size: P
   Alignment: loyale mauvaise
+  Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 13
   HitPoints: 22 (4d6+8)
   Speed: 6 m
@@ -67091,8 +68457,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#faux-bourdon-tosculi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Faux-Bourdon Tosculi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Tosculi Drone
+  Source: (LDM p387)(TOB p386)
   AttributesDictionary: >+
     Name: Faux-Bourdon Tosculi
 
@@ -67113,6 +68482,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Petite taille (<!--Size-->P<!--/Size-->), <!--Alignment-->loyale mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -67196,6 +68569,8 @@ SubItems:
 
     Alignment: loyale mauvaise
 
+    Terrain: Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 13
 
     HitPoints: 22 (4d6+8)
@@ -67210,12 +68585,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Troll Lacustre
-  Source: (LDM p388)(TOB p389)
-  AltName: Lake Troll
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Littoral, Mangrove / Marécage
   ArmorClass: 15 (armure naturelle)
   HitPoints: 126 (12d10+60)
   Speed: 6 m, nage 12 m
@@ -67225,8 +68598,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#troll-lacustre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Troll Lacustre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Lake Troll
+  Source: (LDM p388)(TOB p389)
   AttributesDictionary: >+
     Name: Troll Lacustre
 
@@ -67247,6 +68623,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -67346,6 +68726,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Littoral, Mangrove / Marécage
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 126 (12d10+60)
@@ -67362,12 +68744,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ukavac
-  Source: (LDM p389)(TOB p47)
-  AltName: Bukavac
   Type: Créature monstrueuse
   Size: G
   Alignment: neutre mauvaise
+  Terrain: Mangrove / Marécage
   ArmorClass: 16 (armure naturelle)
   HitPoints: 199 (21d10+84)
   Speed: 12m, nage 6m
@@ -67379,8 +68759,11 @@ SubItems:
   Challenge: 9 (5000 PX)
   Id: tome_of_beasts.md#ukavac
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ukavac
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bukavac
+  Source: (LDM p389)(TOB p47)
   AttributesDictionary: >+
     Name: Ukavac
 
@@ -67401,6 +68784,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -67514,6 +68901,8 @@ SubItems:
 
     Alignment: neutre mauvaise
 
+    Terrain: Mangrove / Marécage
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 199 (21d10+84)
@@ -67534,9 +68923,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Uraeus
-  Source: (LDM p390)(TOB p392)
-  AltName: Uraeus
   Type: Céleste
   Size: TP
   Alignment: loyal neutre
@@ -67544,16 +68930,19 @@ SubItems:
   HitPoints: 40 (9d4+18)
   Speed: 9 m, vol 18 m
   Skills: Perception +4
-  DamageResistances: de feu ; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de poison
   ConditionImmunities: épuisé
+  DamageResistances: de feu ; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 3 m, Perception passive 14
   Languages: comprend le céleste et le commun, mais ne peut pas parler
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#uraeus
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Uraeus
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Uraeus
+  Source: (LDM p390)(TOB p392)
   AttributesDictionary: >+
     Name: Uraeus
 
@@ -67707,27 +69096,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Urochar (Guetteur Étrangleur)
-  Source: (LDM p391)(TOB p393)
-  AltName: Urochar (Strangling Watcher)
   Type: Aberration
   Size: TG
   Alignment: chaotique mauvaise
+  Terrain: Caverne naturelle, Ruines souterraines
   ArmorClass: 19 (armure naturelle)
   HitPoints: 256 (19d12+133)
   Speed: 12 m, escalade 6 m
   SavingThrows: Dex +8, Con +13, Sag +8, Cha +11
   Skills: Discrétion +8, Perception +8
-  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
   DamageImmunities: de tonnerre
   ConditionImmunities: terrorisé
+  DamageResistances: de froid, de foudre ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
   Senses: vision parfaite 36 m, Perception passive 18
   Languages: comprend le darakhul et la langue du Vide
   Challenge: 17 (18 000PX)
   Id: tome_of_beasts.md#urochar-guetteur-Étrangleur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Urochar (Guetteur Étrangleur)
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Urochar (Strangling Watcher)
+  Source: (LDM p391)(TOB p393)
   AttributesDictionary: >+
     Name: Urochar (Guetteur Étrangleur)
 
@@ -67748,6 +69138,10 @@ SubItems:
 
 
       -  <!--Type-->Aberration<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvaise<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 
 
 
@@ -67917,6 +69311,8 @@ SubItems:
 
     Alignment: chaotique mauvaise
 
+    Terrain: Caverne naturelle, Ruines souterraines
+
     ArmorClass: 19 (armure naturelle)
 
     HitPoints: 256 (19d12+133)
@@ -67941,12 +69337,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ushabti
-  Source: (LDM p392)(TOB p394)
-  AltName: Ushabti
   Type: Créature artificielle
   Size: G
   Alignment: non alignée
+  Terrain: Ruines souterraines
   ArmorClass: 18 (armure naturelle)
   HitPoints: 105 (10d10+50)
   Speed: 9m
@@ -67959,8 +69353,11 @@ SubItems:
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#ushabti
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ushabti
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ushabti
+  Source: (LDM p392)(TOB p394)
   AttributesDictionary: >+
     Name: Ushabti
 
@@ -67981,6 +69378,10 @@ SubItems:
 
 
       -  <!--Type-->Créature artificielle<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Ruines souterraines<!--/Terrain-->
 
 
 
@@ -68104,6 +69505,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Ruines souterraines
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 105 (10d10+50)
@@ -68126,9 +69529,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vaettir
-  Source: (LDM p393)(TOP p395)
-  AltName: Vaettir
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -68143,8 +69543,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#vaettir
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vaettir
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vaettir
+  Source: (LDM p393)(TOP p395)
   AttributesDictionary: >+
     Name: Vaettir
 
@@ -68328,9 +69731,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vagabond Éonique
-  Source: (LDM p394)(TOB p177)
-  AltName: Eonic Drifter
   Type: Humanoïde (humain)
   Size: M
   Alignment: chaotique neutre
@@ -68343,8 +69743,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#vagabond-Éonique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vagabond Éonique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Eonic Drifter
+  Source: (LDM p394)(TOB p177)
   AttributesDictionary: >+
     Name: Vagabond Éonique
 
@@ -68468,9 +69871,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Valkyrie
-  Source: (LDM p395)(TOB p396)
-  AltName: Valkyrie
   Type: Céleste
   Size: M
   Alignment: neutre
@@ -68479,16 +69879,19 @@ SubItems:
   Speed: 9 m, vol 9m
   SavingThrows: For +12, Dex +12, Con +11, Int +5, Sag +8, Cha +12
   Skills: Perception +8
-  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre
   DamageImmunities: contondants, perforants et tranchants issus d'armes non magiques
   ConditionImmunities: terrorisé
+  DamageResistances: d'acide, de froid, de feu, de foudre, de tonnerre
   Senses: vision parfaite 18m, Perception passive 18
   Languages: commun, géant, nain, voir don des langues
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#valkyrie
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Valkyrie
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Valkyrie
+  Source: (LDM p395)(TOB p396)
   AttributesDictionary: >+
     Name: Valkyrie
 
@@ -68702,9 +70105,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vampire Umbral
-  Source: (LDM p396)(TOB p397)
-  AltName: Umbral Vampire
   Type: Fiélon
   Size: M
   Alignment: chaotique mauvais
@@ -68713,16 +70113,19 @@ SubItems:
   Speed: 0 m, vol 12m (vol stationnaire)
   SavingThrows: Dex +7, Cha +7
   Skills: Discrétion +7, Perception +5
-  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: de froid, nécrotiques, de poison
   ConditionImmunities: à terre, empoigné, empoisonné, entravé, épuisé, paralysé, pétrifié
+  DamageResistances: d'acide, de feu, de foudre, de tonnerre; contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision dans le noir 18 m, Perception passive 15
   Languages: commun, langue du Vide, umbral
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#vampire-umbral
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vampire Umbral
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Umbral Vampire
+  Source: (LDM p396)(TOB p397)
   AttributesDictionary: >+
     Name: Vampire Umbral
 
@@ -68894,9 +70297,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vase Corruptrice
-  Source: (LDM p397)(TOB p311)
-  AltName: Corrupting Ooze
   Type: Vase
   Size: G
   Alignment: neutre mauvaise
@@ -68904,16 +70304,19 @@ SubItems:
   HitPoints: 115 (10d10+60)
   Speed: 6 m, nage 9 m
   Skills: Discrétion +3
-  DamageResistances: tranchants, contondants
   DamageImmunities: d'acide, de feu et de poison
   ConditionImmunities: empoisonné, épuisé, paralysé, pétrifié, terrorisé
+  DamageResistances: tranchants, contondants
   Senses: vision dans le noir 18 m, perception des vibrations 18m, Perception passive 5
   Languages: —
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#vase-corruptrice
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vase Corruptrice
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Corrupting Ooze
+  Source: (LDM p397)(TOB p311)
   AttributesDictionary: >+
     Name: Vase Corruptrice
 
@@ -69049,25 +70452,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vent Putréfacteur
-  Source: (LDM p398)(TOB p330)
-  AltName: Rotting Wind
   Type: Mort-vivant
   Size: G
   Alignment: neutre mauvais
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
   ArmorClass: 15
   HitPoints: 82 (11d10+22)
   Speed: 0 m, vol 18 m (vol stationnaire)
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   DamageImmunities: nécrotiques, de poison
   ConditionImmunities: à terre, charmé, empoigné, empoisonné, entravé, épuisé, inconscient, paralysé, pétrifié, terrifié
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques
   Senses: vision aveugle 18 m (aveugle au-delà de cette distance), Perception passive 10
   Languages: —
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#vent-putréfacteur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vent Putréfacteur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rotting Wind
+  Source: (LDM p398)(TOB p330)
   AttributesDictionary: >+
     Name: Vent Putréfacteur
 
@@ -69088,6 +70492,10 @@ SubItems:
 
 
       -  <!--Type-->Mort-vivant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -69183,6 +70591,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane
+
     ArmorClass: 15
 
     HitPoints: 82 (11d10+22)
@@ -69203,12 +70613,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ver Givré Adulte
-  Source: (LDM p399)(TOB p327)
-  AltName: Adult Rime Worm
   Type: Élémentaire
   Size: G
   Alignment: neutre
+  Terrain: Arctique / Subarctique
   ArmorClass: 15 (armure naturelle)
   HitPoints: 105 (10d10+50)
   Speed: 9 m, nage 9 m, fouissement (neige, glace) 9 m
@@ -69219,8 +70627,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#ver-givré-adulte
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ver Givré Adulte
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Adult Rime Worm
+  Source: (LDM p399)(TOB p327)
   AttributesDictionary: >+
     Name: Ver Givré Adulte
 
@@ -69241,6 +70652,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -69344,6 +70759,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 105 (10d10+50)
@@ -69362,12 +70779,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Larve De Ver Givré
-  Source: (LDM p399)(TOB p327)
-  AltName: Rime Worm Grub
   Type: Élémentaire
   Size: M
   Alignment: neutre
+  Terrain: Arctique / Subarctique
   ArmorClass: 13 (armure naturelle)
   HitPoints: 45 (6d8+18)
   Speed: 9 m, nage 9 m, fouissement (neige, glace) 6 m
@@ -69378,14 +70793,17 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#larve-de-ver-givré
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Larve de Ver Givré
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Rime Worm Grub
+  Source: (LDM p399)(TOB p327)
   AttributesDictionary: >+
-    Name: Larve De Ver Givré
+    Name: Larve de Ver Givré
 
     Markdown: >+
 
-      # <!--Name-->Larve De Ver Givré<!--/Name-->
+      # <!--Name-->Larve de Ver Givré<!--/Name-->
 
 
 
@@ -69400,6 +70818,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -69497,6 +70919,8 @@ SubItems:
 
     Alignment: neutre
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 13 (armure naturelle)
 
     HitPoints: 45 (6d8+18)
@@ -69515,12 +70939,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ver Pêcheur
-  Source: (LDM p400)(TOB p22)
-  AltName: Angler Worm
   Type: Créature monstrueuse
   Size: TG
   Alignment: non alignée
+  Terrain: Caverne naturelle
   ArmorClass: 14 (armure naturelle)
   HitPoints: 133 (14d12+42)
   Speed: 6m, escalade 6 m
@@ -69531,8 +70953,11 @@ SubItems:
   Challenge: 4 (1100 PX)
   Id: tome_of_beasts.md#ver-pêcheur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ver Pêcheur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Angler Worm
+  Source: (LDM p400)(TOB p22)
   AttributesDictionary: >+
     Name: Ver Pêcheur
 
@@ -69553,6 +70978,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 
 
 
@@ -69662,6 +71091,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Caverne naturelle
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 133 (14d12+42)
@@ -69680,27 +71111,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ver Sathaq
-  Source: (LDM p401)(TOB p337)
-  AltName: Sathaq Worm
   Type: Élémentaire
   Size: TG
   Alignment: neutre mauvais
+  Terrain: Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle
   ArmorClass: 16 (armure naturelle)
   HitPoints: 172 (15d12+75)
   Speed: 6 m, fouissement 6 m, nage 6 m
   Skills: Perception +5, Discrétion +2 (+6 dans le sable, la boue ou les terrains rocheux)
-  DamageResistances: de feu, contondants, perforants et tranchants issus d'armes non magiques
+  DamageVulnerabilities: de tonnerre
   DamageImmunities: d'acide, de poison
   ConditionImmunities: épuisé, paralysé, pétrifié, empoisonné, inconscient
+  DamageResistances: de feu, contondants, perforants et tranchants issus d'armes non magiques
   Senses: perception des vibrations 18 m, Perception passive 15
   Languages: comprend le profond et le terreux mais ne peut pas parler
   Challenge: 10 (5 900 PX)
-  DamageVulnerabilities: de tonnerre
   Id: tome_of_beasts.md#ver-sathaq
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ver Sathaq
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sathaq Worm
+  Source: (LDM p401)(TOB p337)
   AttributesDictionary: >+
     Name: Ver Sathaq
 
@@ -69721,6 +71153,10 @@ SubItems:
 
 
       -  <!--Type-->Élémentaire<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->neutre mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -69824,6 +71260,8 @@ SubItems:
 
     Alignment: neutre mauvais
 
+    Terrain: Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 172 (15d12+75)
@@ -69848,12 +71286,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Verminhantée
-  Source: (LDM p402)(TOB p352)
-  AltName: Skitterhaunt
   Type: Vase
   Size: G
   Alignment: non-alignée
+  Terrain: Désert chaud, Caverne naturelle
   ArmorClass: 14 (armure naturelle)
   HitPoints: 95 (10d10+40)
   Speed: 9m
@@ -69864,8 +71300,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#verminhantée
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Verminhantée
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Skitterhaunt
+  Source: (LDM p402)(TOB p352)
   AttributesDictionary: >+
     Name: Verminhantée
 
@@ -69886,6 +71325,10 @@ SubItems:
 
 
       -  <!--Type-->Vase<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 
 
 
@@ -69989,6 +71432,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Désert chaud, Caverne naturelle
+
     ArmorClass: 14 (armure naturelle)
 
     HitPoints: 95 (10d10+40)
@@ -70007,25 +71452,26 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vésiculose
-  Source: (LDM p403)(TOB p399)
-  AltName: Vesiculosa
   Type: Plante
   Size: Gig
   Alignment: non alignée
+  Terrain: Désert chaud
   ArmorClass: 15 (armure naturelle)
   HitPoints: 203 (14d20+56)
   Speed: 0 m, fouissement 1,50 m
   Skills: Perception +6
-  DamageResistances: de feu, contondants et perforants
   ConditionImmunities: aveuglé, assourdi, à terre, charmé, terrorisé
+  DamageResistances: de feu, contondants et perforants
   Senses: perception des vibrations 18 m, Perception passive 16
   Languages: —
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#vésiculose
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vésiculose
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vesiculosa
+  Source: (LDM p403)(TOB p399)
   AttributesDictionary: >+
     Name: Vésiculose
 
@@ -70046,6 +71492,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -70169,6 +71619,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Désert chaud
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 203 (14d20+56)
@@ -70189,9 +71641,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vidien
-  Source: (LDM p404)(TOB p404)
-  AltName: Voidling
   Type: Aberration
   Size: G
   Alignment: chaotique mauvaise
@@ -70207,8 +71656,11 @@ SubItems:
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#vidien
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vidien
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Voidling
+  Source: (LDM p404)(TOB p404)
   AttributesDictionary: >+
     Name: Vidien
 
@@ -70386,12 +71838,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vif Ravageur Gnoll
-  Source: (LDM p405)(TOB p230)
-  AltName: Gnoll Havoc Runner
   Type: Humanoïde (gnoll)
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
   ArmorClass: 15 (chemise de mailles)
   HitPoints: 58 (9d8+18)
   Speed: 9m
@@ -70401,8 +71851,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#vif-ravageur-gnoll
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vif Ravageur Gnoll
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Gnoll Havoc Runner
+  Source: (LDM p405)(TOB p230)
   AttributesDictionary: >+
     Name: Vif Ravageur Gnoll
 
@@ -70423,6 +71876,10 @@ SubItems:
 
 
       -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -70522,6 +71979,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
+
     ArmorClass: 15 (chemise de mailles)
 
     HitPoints: 58 (9d8+18)
@@ -70538,9 +71997,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vil Barbier
-  Source: (LDM p406)(TOB p401)
-  AltName: Vile Barber
   Type: Fée
   Size: P
   Alignment: chaotique mauvaise
@@ -70548,15 +72004,18 @@ SubItems:
   HitPoints: 28 (8d6)
   Speed: 9m
   Skills: Athlétisme +3, Discrétion +6
-  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas plaquées argent ou faite de fer froid
   ConditionImmunities: terrorisé
+  DamageResistances: contondants, perforants et tranchants issus d'armes non magiques qui ne sont pas plaquées argent ou faite de fer froid
   Senses: vision dans le noir 18 m, Perception passive 9
   Languages: commun, gobelin, sylvestre, umbral
   Challenge: 2 (450PX)
   Id: tome_of_beasts.md#vil-barbier
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vil Barbier
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vile Barber
+  Source: (LDM p406)(TOB p401)
   AttributesDictionary: >+
     Name: Vil Barbier
 
@@ -70722,12 +72181,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Vila
-  Source: (LDM p407)(TOB p400)
-  AltName: Vila
   Type: Fée
   Size: M
   Alignment: loyale neutre
+  Terrain: Bois / Forêt
   ArmorClass: 15
   HitPoints: 77 (14d8+14)
   Speed: 9m
@@ -70739,8 +72196,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#vila
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Vila
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Vila
+  Source: (LDM p407)(TOB p400)
   AttributesDictionary: >+
     Name: Vila
 
@@ -70761,6 +72221,10 @@ SubItems:
 
 
       -  <!--Type-->Fée<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->loyale neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 
 
 
@@ -70898,6 +72362,8 @@ SubItems:
 
     Alignment: loyale neutre
 
+    Terrain: Bois / Forêt
+
     ArmorClass: 15
 
     HitPoints: 77 (14d8+14)
@@ -70918,27 +72384,28 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Voile-De-Givre
-  Source: (LDM p408)(TOB p207)
-  AltName: Frostveil
   Type: Plante
   Size: M
   Alignment: non-alignée
+  Terrain: Arctique / Subarctique
   ArmorClass: 16
   HitPoints: 67 (9d8+27)
   Speed: 3 m, vol (variable; voir le trait porté par le vent)
   Skills: Discrétion +7
-  DamageResistances: contondants et perforants issus d'armes non magiques
+  DamageVulnerabilities: de feu
   DamageImmunities: de froid
   ConditionImmunities: aveuglé, charmé, assourdi, terrorisé, à terre
+  DamageResistances: contondants et perforants issus d'armes non magiques
   Senses: vision aveugle 30 m, Perception passive 10
   Languages: —
   Challenge: 4 (1 100PX)
-  DamageVulnerabilities: de feu
   Id: tome_of_beasts.md#voile-de-givre
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Voile-De-Givre
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Frostveil
+  Source: (LDM p408)(TOB p207)
   AttributesDictionary: >+
     Name: Voile-De-Givre
 
@@ -70959,6 +72426,10 @@ SubItems:
 
 
       -  <!--Type-->Plante<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->non-alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 
 
 
@@ -71080,6 +72551,8 @@ SubItems:
 
     Alignment: non-alignée
 
+    Terrain: Arctique / Subarctique
+
     ArmorClass: 16
 
     HitPoints: 67 (9d8+27)
@@ -71104,12 +72577,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Wampus Féline
-  Source: (LDM p409)(TOB p405)
-  AltName: Wampus Cat
   Type: Créature monstrueuse
   Size: M
   Alignment: chaotique neutre
+  Terrain: Bois / Forêt, Collines / Vallées
   ArmorClass: 14
   HitPoints: 58 (9d8+18)
   Speed: 12 m, escalade 6 m, nage 6 m
@@ -71119,8 +72590,11 @@ SubItems:
   Challenge: 1 (200 PX)
   Id: tome_of_beasts.md#wampus-féline
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Wampus Féline
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wampus Cat
+  Source: (LDM p409)(TOB p405)
   AttributesDictionary: >+
     Name: Wampus Féline
 
@@ -71141,6 +72615,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique neutre<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées<!--/Terrain-->
 
 
 
@@ -71246,6 +72724,8 @@ SubItems:
 
     Alignment: chaotique neutre
 
+    Terrain: Bois / Forêt, Collines / Vallées
+
     ArmorClass: 14
 
     HitPoints: 58 (9d8+18)
@@ -71262,12 +72742,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Wyrm Des Sables
-  Source: (LDM p410)(TOB p334)
-  AltName: Sandwyrm
   Type: Dragon
   Size: G
   Alignment: non-aligné
+  Terrain: Désert chaud
   ArmorClass: 15 (armure naturelle)
   HitPoints: 142 (15d10+60)
   Speed: 6 m, fouissement 12 m
@@ -71276,8 +72754,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#wyrm-des-sables
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Wyrm Des Sables
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Sandwyrm
+  Source: (LDM p410)(TOB p334)
   AttributesDictionary: >+
     Name: Wyrm Des Sables
 
@@ -71298,6 +72779,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->non-aligné<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 
 
 
@@ -71387,6 +72872,8 @@ SubItems:
 
     Alignment: non-aligné
 
+    Terrain: Désert chaud
+
     ArmorClass: 15 (armure naturelle)
 
     HitPoints: 142 (15d10+60)
@@ -71401,9 +72888,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Xanka
-  Source: (LDM p411)(TOB p411)
-  AltName: Xanka
   Type: Créature artificielle
   Size: P
   Alignment: non alignée
@@ -71416,8 +72900,11 @@ SubItems:
   Challenge: 1/4 (50 PX)
   Id: tome_of_beasts.md#xanka
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Xanka
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Xanka
+  Source: (LDM p411)(TOB p411)
   AttributesDictionary: >+
     Name: Xanka
 
@@ -71535,9 +73022,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Xhkarsh
-  Source: (LDM p412)(TOB p412)
-  AltName: Xhkarsh
   Type: Aberration
   Size: G
   Alignment: neutre mauvaise
@@ -71551,8 +73035,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#xhkarsh
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Xhkarsh
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Xhkarsh
+  Source: (LDM p412)(TOB p412)
   AttributesDictionary: >+
     Name: Xhkarsh
 
@@ -71688,24 +73175,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Ychen Bannog
-  Source: (LDM p413)(TOB p413)
-  AltName: Ychen Bannog
   Type: Bête
   Size: Gig
   Alignment: non alignée
+  Terrain: Plaine / Champs / Prairie / Savane
   ArmorClass: 17 (armure naturelle)
   HitPoints: 231 (14d20+84)
   Speed: 15 m
-  DamageResistances: contondants
   ConditionImmunities: épuisé
+  DamageResistances: contondants
   Senses: Perception passive 11
   Languages: —
   Challenge: 11 (7 200PX)
   Id: tome_of_beasts.md#ychen-bannog
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Ychen Bannog
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ychen Bannog
+  Source: (LDM p413)(TOB p413)
   AttributesDictionary: >+
     Name: Ychen Bannog
 
@@ -71726,6 +73214,10 @@ SubItems:
 
 
       -  <!--Type-->Bête<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 
 
 
@@ -71835,6 +73327,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Plaine / Champs / Prairie / Savane
+
     ArmorClass: 17 (armure naturelle)
 
     HitPoints: 231 (14d20+84)
@@ -71853,26 +73347,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Zaratan
-  Source: (LDM p414)(TOB p414)
-  AltName: Zaratan
   Type: Créature monstrueuse (titan)
   Size: Gig
   Alignment: non alignée
+  Terrain: Mer / Océan
   ArmorClass: 25 (armure naturelle)
   HitPoints: 507 (26d20+234)
   Speed: 3 m, nage 15 m
   SavingThrows: Int +8, Sag +8, Cha +8
-  DamageResistances: de feu, de foudre, de tonnerre; contondants, perforants, tranchants
   DamageImmunities: de froid, de poison
   ConditionImmunities: empoisonné, paralysé, terrorisé
+  DamageResistances: de feu, de foudre, de tonnerre; contondants, perforants, tranchants
   Senses: vision aveugle 36 m, Perception passive 10
   Languages: aquatique
   Challenge: 26 (90 000PX)
   Id: tome_of_beasts.md#zaratan
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Zaratan
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Zaratan
+  Source: (LDM p414)(TOB p414)
   AttributesDictionary: >+
     Name: Zaratan
 
@@ -71893,6 +73388,10 @@ SubItems:
 
 
       -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille Gigantesque (<!--Size-->Gig<!--/Size-->), <!--Alignment-->non alignée<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Mer / Océan<!--/Terrain-->
 
 
 
@@ -72040,6 +73539,8 @@ SubItems:
 
     Alignment: non alignée
 
+    Terrain: Mer / Océan
+
     ArmorClass: 25 (armure naturelle)
 
     HitPoints: 507 (26d20+234)
@@ -72062,9 +73563,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Zimwi
-  Source: (LDM p415)(TOB p415)
-  AltName: Zimwi
   Type: Géant
   Size: M
   Alignment: chaotique mauvais
@@ -72077,8 +73575,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#zimwi
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Zimwi
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Zimwi
+  Source: (LDM p415)(TOB p415)
   AttributesDictionary: >+
     Name: Zimwi
 
@@ -72196,26 +73697,27 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Zmey
-  Source: (LDM p416)(TOB p416)
-  AltName: Zmey
   Type: Dragon
   Size: TG
   Alignment: chaotique mauvais
+  Terrain: Bois / Forêt, Caverne sous-marine
   ArmorClass: 18 (armure naturelle)
   HitPoints: 189 (18d12+72)
   Speed: 9 m, vol 15 m, nage 9 m
   SavingThrows: Con +9, Sag +8, Cha +6
   Skills: Perception +8
-  DamageResistances: de froid, de feu
   ConditionImmunities: inconscient, paralysé
+  DamageResistances: de froid, de feu
   Senses: vision dans le noir 18 m, vision dans le noir 27 m, Perception passive 18
   Languages: commun, draconique, elfique, sylvestre
   Challenge: 14 (11 500PX)
   Id: tome_of_beasts.md#zmey
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Zmey
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Zmey
+  Source: (LDM p416)(TOB p416)
   AttributesDictionary: >+
     Name: Zmey
 
@@ -72236,6 +73738,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de Très Grande taille (<!--Size-->TG<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Caverne sous-marine<!--/Terrain-->
 
 
 
@@ -72407,6 +73913,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Bois / Forêt, Caverne sous-marine
+
     ArmorClass: 18 (armure naturelle)
 
     HitPoints: 189 (18d12+72)
@@ -72429,24 +73937,25 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Bébécéphale De Zmey
-  Source: (LDM p416)(TOB p416)
-  AltName: Zmey Headling
   Type: Dragon
   Size: M
   Alignment: chaotique mauvais
+  Terrain: Bois / Forêt, Mangrove / Marécage
   ArmorClass: 16 (armure naturelle)
   HitPoints: 105 (14d8 + 42), régénération 5/round
   Speed: 9 m, nage 6 m
-  DamageResistances: de froid, de feu
   ConditionImmunities: inconscient, paralysé
+  DamageResistances: de froid, de feu
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun, draconique, sylvestre
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#bébécéphale-de-zmey
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Bébécéphale De Zmey
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Zmey Headling
+  Source: (LDM p416)(TOB p416)
   AttributesDictionary: >+
     Name: Bébécéphale De Zmey
 
@@ -72467,6 +73976,10 @@ SubItems:
 
 
       -  <!--Type-->Dragon<!--/Type--> de taille Moyenne (<!--Size-->M<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 
 
 
@@ -72570,6 +74083,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Bois / Forêt, Mangrove / Marécage
+
     ArmorClass: 16 (armure naturelle)
 
     HitPoints: 105 (14d8 + 42), régénération 5/round
@@ -72588,9 +74103,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Archer Vétéran Elfique
-  Source: (LDM p418)(TOB p422)
-  AltName: Elvish Veteran Archer
   Type: Humanoïde (elfe)
   Size: M
   Alignment: chaotique bon ou chaotique neutre
@@ -72603,8 +74115,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#archer-vétéran-elfique
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Archer Vétéran Elfique
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Elvish Veteran Archer
+  Source: (LDM p418)(TOB p422)
   AttributesDictionary: >+
     Name: Archer Vétéran Elfique
 
@@ -72764,9 +74279,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Capitaine Du Guet
-  Source: (LDM p418)(TOB p419)
-  AltName: City Watch Captain
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -72779,8 +74291,11 @@ SubItems:
   Challenge: 4 (450PX)
   Id: tome_of_beasts.md#capitaine-du-guet
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Capitaine Du Guet
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: City Watch Captain
+  Source: (LDM p418)(TOB p419)
   AttributesDictionary: >+
     Name: Capitaine Du Guet
 
@@ -72922,9 +74437,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chef Du Culte De L'Ordre D'Émeraude
-  Source: (LDM p419)(TOB p421)
-  AltName: Emerald Order Cult Leader
   Type: Humanoïde
   Size: M
   Alignment: loyal neutre
@@ -72939,8 +74451,11 @@ SubItems:
   Challenge: 8 (3 900PX)
   Id: tome_of_beasts.md#chef-du-culte-de-lordre-dÉmeraude
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chef Du Culte De L'Ordre D'Émeraude
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Emerald Order Cult Leader
+  Source: (LDM p419)(TOB p421)
   AttributesDictionary: >+
     Name: Chef Du Culte De L'Ordre D'Émeraude
 
@@ -73142,12 +74657,10 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chef Ogre Corrompu
-  Source: (LDM p420)(TOB p423)
-  AltName: Ogre Chieftain, Corrupted
   Type: Géant
   Size: G
   Alignment: chaotique mauvais
+  Terrain: Collines / Vallées, Ruines extérieures
   ArmorClass: 17 (clibanion)
   HitPoints: 127 (15d10 + 45)
   Speed: 12m
@@ -73157,8 +74670,11 @@ SubItems:
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#chef-ogre-corrompu
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chef Ogre Corrompu
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ogre Chieftain, Corrupted
+  Source: (LDM p420)(TOB p423)
   AttributesDictionary: >+
     Name: Chef Ogre Corrompu
 
@@ -73179,6 +74695,10 @@ SubItems:
 
 
       -  <!--Type-->Géant<!--/Type--> de Grande taille (<!--Size-->G<!--/Size-->), <!--Alignment-->chaotique mauvais<!--/Alignment-->
+
+
+
+      - **Terrain** <!--Terrain-->Collines / Vallées, Ruines extérieures<!--/Terrain-->
 
 
 
@@ -73308,6 +74828,8 @@ SubItems:
 
     Alignment: chaotique mauvais
 
+    Terrain: Collines / Vallées, Ruines extérieures
+
     ArmorClass: 17 (clibanion)
 
     HitPoints: 127 (15d10 + 45)
@@ -73324,9 +74846,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Chevalier Fantôme
-  Source: (LDM p421)(TOB p423)
-  AltName: Ghost Knight
   Type: Mort-vivant
   Size: M
   Alignment: loyal mauvais
@@ -73334,16 +74853,19 @@ SubItems:
   HitPoints: 97 (15d8 + 30)
   Speed: 9m
   Skills: Athlétisme +6, Discrétion +5, Dressage +3, Perception +3
-  DamageResistances: nécrotiques
   DamageImmunities: de poison
   ConditionImmunities: charmé, empoisonné, épuisé
+  DamageResistances: nécrotiques
   Senses: vision dans le noir 18 m, Perception passive 13
   Languages: commun
   Challenge: 6 (2 300PX)
   Id: tome_of_beasts.md#chevalier-fantôme
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Chevalier Fantôme
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Ghost Knight
+  Source: (LDM p421)(TOB p423)
   AttributesDictionary: >+
     Name: Chevalier Fantôme
 
@@ -73515,9 +75037,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Commandant Des Chevaliers Noirs
-  Source: (LDM p422)(TOB p418)
-  AltName: Black Knight Commander
   Type: Humanoïde
   Size: M
   Alignment: loyal mauvais
@@ -73531,8 +75050,11 @@ SubItems:
   Challenge: 5 (1 800PX)
   Id: tome_of_beasts.md#commandant-des-chevaliers-noirs
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Commandant Des Chevaliers Noirs
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Black Knight Commander
+  Source: (LDM p422)(TOB p418)
   AttributesDictionary: >+
     Name: Commandant Des Chevaliers Noirs
 
@@ -73680,9 +75202,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Fanatique Du Scorpion
-  Source: (LDM p422)(TOB p425)
-  AltName: Scorpion Cultist
   Type: Humanoïde
   Size: M
   Alignment: neutre
@@ -73696,8 +75215,11 @@ SubItems:
   Challenge: 1/2 (100 PX)
   Id: tome_of_beasts.md#fanatique-du-scorpion
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Fanatique Du Scorpion
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Scorpion Cultist
+  Source: (LDM p422)(TOB p425)
   AttributesDictionary: >+
     Name: Fanatique Du Scorpion
 
@@ -73827,9 +75349,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Mage Des Anneaux Nains
-  Source: (LDM p423)(TOB p420)
-  AltName: Dwarven Ringmage
   Type: Humanoïde
   Size: M
   Alignment: au choix
@@ -73844,8 +75363,11 @@ SubItems:
   Challenge: 7 (2 900PX)
   Id: tome_of_beasts.md#mage-des-anneaux-nains
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Mage Des Anneaux Nains
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Dwarven Ringmage
+  Source: (LDM p423)(TOB p420)
   AttributesDictionary: >+
     Name: Mage Des Anneaux Nains
 
@@ -74029,9 +75551,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Nain Loup Ravageur
-  Source: (LDM p424)(TOB p426)
-  AltName: Wolf Reaver Dwarf
   Type: Humanoïde
   Size: M
   Alignment: chaotique
@@ -74044,8 +75563,11 @@ SubItems:
   Challenge: 3 (700 PX)
   Id: tome_of_beasts.md#nain-loup-ravageur
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Nain Loup Ravageur
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Wolf Reaver Dwarf
+  Source: (LDM p424)(TOB p426)
   AttributesDictionary: >+
     Name: Nain Loup Ravageur
 
@@ -74193,9 +75715,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Prince Gnome Asservi Aux Démons
-  Source: (LDM p424)(TOB p420)
-  AltName: Devilbound Gnomish Prince
   Type: Humanoïde
   Size: P
   Alignment: mauvais
@@ -74204,15 +75723,18 @@ SubItems:
   Speed: 7,50m
   SavingThrows: Con +6, Int +7, Cha +10
   Skills: Arcanes +7, Histoire +7, Persuasion +10, Supercherie+10
-  DamageResistances: de froid, de feu, de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
   ConditionImmunities: empoisonné
+  DamageResistances: de froid, de feu, de poison ; contondants, perforants et tranchants venant d'armes non magiques qui ne sont pas en argent
   Senses: vision dans le noir 18 m, Perception passive 11
   Languages: commun, infernal, gnome
   Challenge: 9 (5 000PX)
   Id: tome_of_beasts.md#prince-gnome-asservi-aux-démons
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Prince Gnome Asservi Aux Démons
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Devilbound Gnomish Prince
+  Source: (LDM p424)(TOB p420)
   AttributesDictionary: >+
     Name: Prince Gnome Asservi Aux Démons
 
@@ -74330,9 +75852,6 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: Seigneur Des Bandits
-  Source: (LDM p425)(TOB p418)
-  AltName: Bandit Lord
   Type: Humanoïde
   Size: M
   Alignment: tout
@@ -74346,8 +75865,11 @@ SubItems:
   Challenge: 4 (1 100PX)
   Id: tome_of_beasts.md#seigneur-des-bandits
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: Seigneur Des Bandits
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: Bandit Lord
+  Source: (LDM p425)(TOB p418)
   AttributesDictionary: >+
     Name: Seigneur Des Bandits
 
@@ -74567,13 +76089,13 @@ SubItems:
 
 - !MonsterItem
   Family: TomeOfBeasts
-  Name: 'Variante : Sorcier Vampire'
-  Source: (LDM p426)(TOB p426)
-  AltName: 'Variant: Vampire Warlock'
   Id: tome_of_beasts.md#variante--sorcier-vampire
   ParentLink: tome_of_beasts.md#livre-des-monstres
+  Name: 'Variante : Sorcier Vampire'
   ParentName: Livre des monstres
   NameLevel: 1
+  AltName: 'Variant: Vampire Warlock'
+  Source: (LDM p426)(TOB p426)
   AttributesDictionary: >+
     Name: 'Variante : Sorcier Vampire'
 
@@ -74695,6 +76217,7 @@ SubItems:
 
 Id: tome_of_beasts.md#livre-des-monstres
 RootId: tome_of_beasts.md
+Name: Livre des monstres
 NameLevel: 1
 AttributesDictionary: >+
   Name: Livre des monstres
@@ -74797,6 +76320,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p9)(TOB p9)
 - TOB: Nihilethic Zombie
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
+- **Terrain** Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 9 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 6m, nage 9m
@@ -74926,6 +76450,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p13)(TOB p15)
 - TOB: Alseid
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 49 (9d8+9)
 - **Vitesse** 12m
@@ -74996,6 +76521,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p14)(TOB p300)
 - TOB: Deathcap Myconid
 -  Plante de taille Moyenne (M), neutre mauvaise
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 6 m
@@ -75031,6 +76557,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p15)(TOB p16)
 - TOB: Amphiptere
 -  Bête de taille Moyenne (M), non alignée
+- **Terrain** Bois / Forêt, Littoral
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
 - **Vitesse** 6m, escalade 6 m, vol 18m, nage 6m
@@ -75118,6 +76645,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p18)(TOB p19)
 - TOB: Angatra
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Jungle, Mangrove / Marécage, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 85 (10d8+40)
 - **Vitesse** 15m
@@ -75250,6 +76778,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p21)(TOB p24)
 - TOB: Anubian
 -  Élémentaire de taille Moyenne (M), chaotique mauvais
+- **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 13
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9m
@@ -75287,6 +76816,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p22)(TOB p315)
 - TOB: Putrid Haunt
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 9m
@@ -75355,6 +76885,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p24)(TOB p365)
 - TOB: Spider of Leng
 -  Aberration de Grande taille (G), chaotique mauvaise
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 144 (17d10+51)
 - **Vitesse** 9 m, escalade 6 m
@@ -75408,6 +76939,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p25)(TOB p364)
 - TOB: Sand Spider
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Désert chaud, Littoral, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d10+28)
 - **Vitesse** 9 m, fouissement 6 m
@@ -75446,6 +76978,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p26)(TOB p362)
 - TOB: J'Ba Fofi Spider
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 75 (10d10+20)
 - **Vitesse** 12 m, escalade 12 m
@@ -75481,6 +77014,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p27)(TOB p361)
 - TOB: Ghostwalk Spider
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
+- **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 15
 - **Points de vie** 119 (14d10+42)
 - **Vitesse** 15 m, escalade 15 m
@@ -75525,6 +77059,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p28)(TOB p366)
 - TOB: Spider Thief
 -  Créature artificielle de Petite taille (P), non-alignée
+- **Terrain** Caverne aménagée, Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 54 (12d6+12)
 - **Vitesse** 9 m, escalade 6 m
@@ -75564,6 +77099,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p29)(TOB p147)
 - TOB: Dragonleaf Tree
 -  Plante de Grande taille (G), non alignée
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 1,50m
@@ -75599,6 +77135,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p30)(TOB p200)
 - TOB: Feyward Tree
 -  Créature artificielle de Très Grande taille (TG), non-alignée
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 94 (9d12+36)
 - **Vitesse** 6 m
@@ -75685,6 +77222,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p32)(TOB p27)
 - TOB: Asanbosam
 -  Aberration de Grande taille (G), chaotique mauvaise
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 12m, escalade 4,50m
@@ -75719,6 +77257,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p33)(TOB p238)
 - TOB: Gray Thirster
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 13
 - **Points de vie** 39 (6d8+12)
 - **Vitesse** 9m
@@ -75756,6 +77295,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p34)(TOB p273)
 - TOB: Library Automaton
 -  Créature artificielle de Petite taille (P), loyale neutre
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 9m
@@ -75788,6 +77328,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p35)(TOB p31)
 - TOB: Bagiennik
 -  Aberration de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9m, nage 12m
@@ -75856,6 +77397,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p37)(TOB p34)
 - TOB: Behtu
 -  Humanoïde de Petite taille (P), chaotique mauvais
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 52 (8d6+24)
 - **Vitesse** 6m, escalade6m
@@ -75890,6 +77432,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p38)(TOB p35)
 - TOB: Beli
 -  Fée de Petite taille (P), neutre mauvaise
+- **Terrain** Arctique / Subarctique, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
 - **Vitesse** 9m, vol 9m
@@ -75933,6 +77476,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p39)(TOB p159)
 - TOB: Drowned Maiden
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (20d8)
 - **Vitesse** 9 m, nage 12 m
@@ -75976,6 +77520,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p40)(TOB p36)
 - TOB: Bereginyas
 -  Fée de Très Petite taille (TP), neutre mauvaise
+- **Terrain** Montagnes
 - **Classe d'armure** 15
 - **Points de vie** 70 (20d4+20)
 - **Vitesse** 6m, vol 18m
@@ -76008,6 +77553,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p41)(TOB p345)
 - TOB: Shadow Beast
 -  Fée de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 14
 - **Points de vie** 135 (18d8+54)
 - **Vitesse** 0 m, vol 12m (vol stationnaire)
@@ -76053,6 +77599,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p42)(TOB p37)
 - TOB: Blemmyes
 -  Créature monstrueuse de Grande taille (G), chaotique mauvais
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
 - **Vitesse** 12m
@@ -76087,6 +77634,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p43)(TOB p38)
 - TOB: Boloti
 -  Fée de Très Petite taille (TP), neutre mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15
 - **Points de vie** 63 (14d4+28)
 - **Vitesse** 6m, nage 18m
@@ -76127,6 +77675,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 - Source: (LDM p44)(TOB p406)
 - TOB: Water Leaper
 -  Créature monstrueuse de Grande taille (G), non alignée
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 97 (13d10+26)
 - **Vitesse** 1,50 m, vol 15 m, nage 12 m
@@ -76159,11 +77708,12 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 
 ---
 
-# Avatar De Borée
+# Avatar de Borée
 
 - Source: (LDM p45)(TOB p42)
 - TOB: Avatar of Boreas
 -  Élémentaire de taille Moyenne (métamorphe) (M), chaotique mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
 - **Vitesse** 15m, vol 36m
@@ -76409,6 +77959,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p51)(TOB p50)
 - TOB: Cactid
 -  Plante de Grande taille (G), non alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76(8d10+32)
 - **Vitesse** 1,50m
@@ -76443,6 +77994,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p52)(TOB p51)
 - TOB: Cambium
 -  Fiélon de Grande taille (G), neutre mauvais
+- **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 264 (23d10+138)
 - **Vitesse** 12m
@@ -76496,6 +78048,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p53)(TOB p120)
 - TOB: Dogmole
 -  Bête de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
 - **Vitesse** 9 m, fouissement 3 m, nage 3 m
@@ -76529,6 +78082,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p54)(TOB p121)
 - TOB: Dogmole Juggernaut
 -  Créature monstrueuse de Grande taille (G), neutre
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15 (armure de chaînes)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 9 m, fouissement 3 m, nage 3 m
@@ -76567,6 +78121,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p55)(TOB p325)
 - TOB: Redcap
 -  Fée de taille Moyenne (M), neutre mauvaise
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 12m
@@ -76736,6 +78291,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p59)(TOB p166)
 - TOB: Eel Hound
 -  Fée de taille Moyenne (M), neutre
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
 - **Vitesse** 9 m, nage 12 m
@@ -76844,6 +78400,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p62)(TOB p57)
 - TOB: Chronalmental
 -  Élémentaire de Grande taille (G), non aligné
+- **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 9m
@@ -76916,6 +78473,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p64)(TOB p229)
 - TOB: Gnarljak
 -  Créature artificielle de Petite taille (P), non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 16
 - **Points de vie** 63 (14d6+14)
 - **Vitesse** 9m
@@ -76988,6 +78546,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p66)(TOB p314)
 - TOB: Possessed Pillar
 -  Créature artificielle de Grande taille (G), non alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 6 m
@@ -77154,6 +78713,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p70)(TOB p208)
 - TOB: Garroter Crab
 -  Bête de Très Petite taille (TP), non-alignée
+- **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 18 (4d4+8)
 - **Vitesse** 9 m, nage 6 m
@@ -77183,6 +78743,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p71)(TOB p40)
 - TOB: Bone Crab
 -  Bête de Petite taille (P), neutre
+- **Terrain** Littoral
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 33 (6d6+12)
 - **Vitesse** 6 m, nage 3m
@@ -77222,6 +78783,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p72)(TOB p228)
 - TOB: Glass Gator
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d10+7)
 - **Vitesse** 9 m, nage 15 m
@@ -77262,6 +78824,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p73)(TOB p49)
 - TOB: Burrowling
 -  Humanoïde de Petite taille (cynome) (P), loyal neutre
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 27 (6d6+6)
 - **Vitesse** 9m, fouissement 3m
@@ -77298,6 +78861,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 - Source: (LDM p74)(TOB p70)
 - TOB: Dau
 -  Fée de Petite taille (P), chaotique neutre
+- **Terrain** Désert chaud
 - **Classe d'armure** 13
 - **Points de vie** 49 (9d6+18)
 - **Vitesse** 6 m, vol 18 m (vol stationnaire)
@@ -77343,6 +78907,7 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 - Source: (LDM p75)(TOB p254)
 - TOB: Ice Maiden
 -  Fée de taille Moyenne (M), loyale mauvaise
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d8+26)
 - **Vitesse** 9 m
@@ -77492,6 +79057,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 - Source: (LDM p78)(TOB p335)
 - TOB: Sap Demon
 -  Vase de Petite taille (P), chaotique mauvaise
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (naturelle)
 - **Points de vie** 67 (15d6+15)
 - **Vitesse** 6 m, escalade 6 m
@@ -78200,6 +79766,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 - Source: (LDM p94)(TOB p93)
 - TOB: Derro Shadow Antipaladin
 -  Humanoïde (derro) de Petite taille (P), chaotique mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 18 (cuirasse et bouclier)
 - **Points de vie** 82 (11d6+44)
 - **Vitesse** 9m
@@ -78249,6 +79816,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 - Source: (LDM p95)(TOB p92)
 - TOB: Derro Fetal Savant
 -  Humanoïde de Très Petite taille (TP), chaotique mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 15 (cage)
 - **Points de vie** 2 (4d4 - 8)
 - **Vitesse** 1,50 m (0 en cage)
@@ -78850,6 +80418,7 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 - Source: (LDM p110)(TOB p113)
 - TOB: Salt Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
 - **Vitesse** 9m
@@ -79124,6 +80693,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 - Source: (LDM p117)(TOB p114)
 - TOB: Mbielu
 -  Bête de Très Grande taille (TG), non alignée
+- **Terrain** Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d12+30)
 - **Vitesse** 9 m, nage 6 m
@@ -79156,6 +80726,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 - Source: (LDM p118)(TOB p115)
 - TOB: Ngobou
 -  Bête de Grande taille (G), non alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12m
@@ -79190,6 +80761,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 - Source: (LDM p119)(TOB p116)
 - TOB: Spinosaurus
 -  Bête de taille Gigantesque (Gig), non alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
 - **Vitesse** 18 m, nage 12 m
@@ -79238,6 +80810,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: (LDM p120)(TOB p117)
 - TOB: Young Spinosaurus
 -  Bête de Très Grande taille (TG), non alignée
+- **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
 - **Vitesse** 15 m, nage 9 m
@@ -79270,6 +80843,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: (LDM p121)(TOB p118)
 - TOB: Dipsa
 -  Vase de Très Petite taille (TP), non alignée
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15
 - **Points de vie** 27 (6d4+12)
 - **Vitesse** 6 m, escalade 6 m, nage 6 m
@@ -79339,6 +80913,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: (LDM p123)(TOB p122)
 - TOB: Domovoi
 -  Fée de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
 - **Vitesse** 9m
@@ -79374,6 +80949,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: (LDM p124)(TOB p123)
 - TOB: Doppelrat
 -  Créature monstrueuse de Très Petite taille (TP), non alignée
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
 - **Vitesse** 4,50 m, escalade 4,50 m, nage 4,50 m
@@ -79447,6 +81023,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 - Source: (LDM p126)(TOB p129)
 - TOB: Adult Flame Dragon
 -  Dragon de Très Grande taille (TG), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 212 (17d12+102)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -79503,6 +81080,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p127)(TOB p131)
 - TOB: Flame Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, escalade 9 m, vol 18 m
@@ -79535,6 +81113,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p128)(TOB p130)
 - TOB: Young Flame Dragon
 -  Dragon de Grande taille (G), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (17d10+68)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -79573,6 +81152,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p128)(TOB p128)
 - TOB: Ancient Flame Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique mauvais
+- **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
 - **Vitesse** 12 m, escalade 12 m, vol 24 m
@@ -79657,6 +81237,7 @@ Si le dragon meurt, les disputes et malentendus se dissipent immédiatement et l
 - Source: (LDM p130)(TOB p133)
 - TOB: Adult Mithral Dragon
 -  Dragon de Très Grande taille (TG), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
 - **Vitesse** 12 m, vol 24 m
@@ -79725,6 +81306,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p131)(TOB p134)
 - TOB: Young Mithral Dragon
 -  Dragon de taille Moyenne (M), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 92 (16d8+20)
 - **Vitesse** 15 m, vol 18 m
@@ -79767,6 +81349,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p131)(TOB p132)
 - TOB: Ancient Mithral Dragon
 -  Dragon de taille Gigantesque (Gig), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
 - **Vitesse** 12 m, vol 24 m
@@ -79876,6 +81459,7 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 - Source: (LDM p133)(TOB p125)
 - TOB: Adult Cave Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 243 (18d12+126)
 - **Vitesse** 12 m, escalade 12 m, traverser la terre
@@ -79947,6 +81531,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p135)(TOB p127)
 - TOB: Cave Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, fouissement 6 m, vol 6 m
@@ -79986,6 +81571,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p135)(TOB p127)
 - TOB: Young Cave Dragon
 -  Dragon de Grande taille (G), neutre mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
 - **Vitesse** 12 m, fouissement 6 m, vol6 m
@@ -80035,6 +81621,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p136)(TOB p143)
 - TOB: Wind Dragon, Adult
 -  Dragon de Très Grande taille (TG), chaotique neutre
+- **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 237 (19d12+114)
 - **Vitesse** 12 m, vol 27 m
@@ -80103,6 +81690,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p137)(TOB p145)
 - TOB: Wind Dragon, Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
+- **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14
 - **Points de vie** 45 (7d8+14)
 - **Vitesse** 12 m, vol 24 m
@@ -80136,6 +81724,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p137)(TOB p144)
 - TOB: Wind Dragon, Young
 -  Dragon de Grande taille (G), chaotique neutre
+- **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (16d10+62)
 - **Vitesse** 12 m, vol 27 m
@@ -80181,6 +81770,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p138)(TOB p142)
 - TOB: Wind Dragon, Ancient
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 425 (23d20 +184)
 - **Vitesse** 12 m, vol 36 m
@@ -80526,6 +82116,7 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 - Source: (LDM p144)(TOB p135)
 - TOB: Adult Sea Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 225 (18d12+108)
 - **Vitesse** 12 m, vol 24 m, nage 18 m
@@ -80582,6 +82173,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p144)(TOB p136)
 - TOB: Sea Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 52 (8d8+16)
 - **Vitesse** 9 m, vol 18 m, nage 12 m
@@ -80614,6 +82206,8 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p145)(TOB p136)
 - TOB: Young Sea Dragon
 -  Dragon de Grande taille (G), neutre mauvais
+- **Terrain** Caverne sous-marine
+- **Terrain** Mer / Océan
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d10+64)
 - **Vitesse** 12 m, vol 24 m, nage 15 m
@@ -80654,6 +82248,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 - Source: (LDM p145)(TOB p135)
 - TOB: Ancient Sea Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 481 (26d20+208)
 - **Vitesse** 12 m, vol 24 m, nage 24 m
@@ -80738,6 +82333,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: (LDM p147)(TOB p146)
 - TOB: Dragon Eel
 -  Dragon de Très Grande taille (TG), neutre
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)
 - **Vitesse** 6 m, nage 18 m
@@ -80779,6 +82375,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: (LDM p148)(TOB p270)
 - TOB: Lantern Dragonette
 -  Dragon de Très Petite taille (TP), loyal neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d4+8)
 - **Vitesse** 4,50 m, vol 12 m (vol stationnaire)
@@ -80815,6 +82412,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: (LDM p149)(TOB p149)
 - TOB: Ash Drake
 -  Dragon de Petite taille (P), neutre mauvais
+- **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 117 (18d6+54)
 - **Vitesse** 9 m, vol 18 m
@@ -80852,6 +82450,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: (LDM p150)(TOB p150)
 - TOB: Coral Drake
 -  Dragon de taille Moyenne (M), neutre mauvais
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 127 (15d8+60)
 - **Vitesse** 9 m, nage 18 m
@@ -80929,6 +82528,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 - Source: (LDM p152)(TOB p155)
 - TOB: Rust Drake
 -  Dragon de taille Moyenne (M), chaotique mauvais
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (19d8+76)
 - **Vitesse** 6 m, fouissement 1,50 m, vol 30 m
@@ -80967,6 +82567,7 @@ ou une magie comparable.
 - Source: (LDM p153)(TOB p153)
 - TOB: Elder Shadow Drake
 -  Dragon de Grande taille (G), chaotique mauvais
+- **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 6 m, vol 18 m
@@ -81009,6 +82610,7 @@ ou une magie comparable.
 - Source: (LDM p154)(TOB p152)
 - TOB: Deep Drake
 -  Dragon de Grande taille (G), chaotique mauvais
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (20d10+40)
 - **Vitesse** 15 m, escalade 9 m, vol 30 m
@@ -81092,6 +82694,7 @@ ou une magie comparable.
 - Source: (LDM p156)(TOB p151)
 - TOB: Crimson Drake
 -  Dragon de taille Très Petite (TP), chaotique mauvais
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 54 (12d4+24)
 - **Vitesse** 4,50 m, vol 24 m
@@ -81129,6 +82732,7 @@ ou une magie comparable.
 - Source: (LDM p157)(TOB p157)
 - TOB: Star Drake
 -  Dragon de Grande taille (G), neutre
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 189 (18d10+90)
 - **Vitesse** 12 m, vol 30 m
@@ -81192,6 +82796,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p158)(TOB p157)
 - TOB: Drakon
 -  Bête de Grande taille (G), non alignée
+- **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d10+28)
 - **Vitesse** 9 m, vol 18 m, nage 12 m
@@ -81228,6 +82833,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p159)(TOB p160)
 - TOB: Duskthorn Dryad
 -  Fée de taille Moyenne (M), chaotique
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
 - **Vitesse** 9m
@@ -81359,6 +82965,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p162)(TOB p165)
 - TOB: Edimmu
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 15
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)
@@ -81438,6 +83045,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p164)(TOB p168)
 - TOB: Eleinomae
 -  Fée de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 18
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m, nage 9 m
@@ -81712,6 +83320,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p170)(TOB p25)
 - TOB: Arboreal Grappler
 -  Aberration de taille Moyenne (M), neutre mauvais
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 3m, escalade 12m
@@ -81746,6 +83355,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p171)(TOB p56)
 - TOB: Child of the Briar
 -  Plante de Très Petite taille (TP), neutre mauvaise
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 50 (20d4)
 - **Vitesse** 6 m, escalade 3 m
@@ -81784,6 +83394,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p172)(TOB p178)
 - TOB: Erina Scrounger
 -  Humanoïde (erina) de Petite taille (P), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12 (armure de cuir)
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m, fouissement 6m
@@ -81818,6 +83429,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p172)(TOB p178)
 - TOB: Erina Defender
 -  Humanoïde (erina) de Petite taille (P), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 44 (8d6+16)
 - **Vitesse** 6 m, fouissement 6m
@@ -81973,6 +83585,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p176)(TOB p292)
 - TOB: Miremal
 -  Fée de Petite taille (P), chaotique mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d6+5)
 - **Vitesse** 9 m, nage 9 m
@@ -82015,6 +83628,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 - Source: (LDM p177)(TOB p179)
 - TOB: Far Darrig
 -  Fée de Petite taille (P), neutre
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 104 (16d6+48)
 - **Vitesse** 6 m
@@ -82763,6 +84377,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 - Source: (LDM p195)(TOB p338)
 - TOB: Savager
 -  Bête de Grande taille (G), neutre mauvaise
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (1d10+60)
 - **Vitesse** 12 m, escalade 6 m
@@ -83108,6 +84723,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 - Source: (LDM p202)(TOB p209)
 - TOB: Gbahali (Postosuchus)
 -  Bête de Très Grande taille (TG), non-alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d12+48)
 - **Vitesse** 15 m
@@ -83144,6 +84760,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 - Source: (LDM p203)(TOB p222)
 - TOB: Desert Giant
 -  Géant de Très Grande taille (TG), neutre
+- **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
 - **Vitesse** 12m
@@ -83268,6 +84885,7 @@ Si Hraesvelgr meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: (LDM p206)(TOB p226)
 - TOB: Jotun Giant
 -  Géant de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 407 (22d20+176)
 - **Vitesse** 18 m
@@ -83332,6 +84950,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: (LDM p207)(TOB p223)
 - TOB: Flab Giant
 -  Géant de Grande taille (G), chaotique mauvais
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
 - **Vitesse** 6 m
@@ -83451,6 +85070,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: (LDM p210)(TOB p212)
 - TOB: Gerridae
 -  Fée de Grande taille (G), neutre
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 14
 - **Points de vie** 77 (9d10+27)
 - **Vitesse** 3 m, escalade 3 m, nage 24 m
@@ -83484,6 +85104,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: (LDM p211)(TOB p232)
 - TOB: Dust Goblin
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
+- **Terrain** Désert chaud, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
 - **Vitesse** 12m
@@ -83721,6 +85342,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: (LDM p217)(TOB p216)
 - TOB: Ghoul, Darakhul
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m
@@ -83764,6 +85386,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 - Source: (LDM p218)(TOB p221)
 - TOB: Ghoul, Iron
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 143 (22d8+44)
 - **Vitesse** 9 m, fouissement 6 m
@@ -83909,6 +85532,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: (LDM p222)(TOB p220)
 - TOB: Ghoul, Imperial
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 93 (17d8+17)
 - **Vitesse** 9 m, fouissement 4,50 m
@@ -83944,6 +85568,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: (LDM p223)(TOB p213)
 - TOB: Beggar Ghoul
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 12
 - **Points de vie** 13 (3d8)
 - **Vitesse** 9m
@@ -83977,6 +85602,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 - Source: (LDM p224)(TOB p214)
 - TOB: Bonepowder Ghoul
 -  Mort-vivant de Petite taille (P), neutre mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 195 (26d6+104)
 - **Vitesse** 9m
@@ -84044,6 +85670,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 - Source: (LDM p226)(TOB p28)
 - TOB: Azza Gremlin
 -  Fée de Petite taille (P), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 14
 - **Points de vie** 7 (2d6)
 - **Vitesse** 3m, vol 12m (vol stationnaire)
@@ -84117,6 +85744,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 - Source: (LDM p228)(TOB p245)
 - TOB: Sanf Hag
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m, fouissement 9 m
@@ -84306,6 +85934,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 - Source: (LDM p232)(TOB p241)
 - TOB: Gug
 -  Géant de Très Grande taille (TG), neutre mauvais
+- **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 270 (20d12+140)
 - **Vitesse** 12m
@@ -84403,6 +86032,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 - Source: (LDM p234)(TOB p246)
 - TOB: Owl Harpy
 -  Créature monstrueuse de taille Moyenne (M), neutre mauvaise
+- **Terrain** Désert chaud, Jungle
 - **Classe d'armure** 14
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 6 m, vol 24 m (vol stationnaire)
@@ -84598,6 +86228,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: (LDM p238)(TOB p329)
 - TOB: Roachling Skirmisher
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 7,50m
@@ -84631,6 +86262,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: (LDM p238)(TOB p329)
 - TOB: Roachling Lord
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 63 (14d6+14)
 - **Vitesse** 7,50m
@@ -84666,6 +86298,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: (LDM p239)(TOB p231)
 - TOB: Goat-Man
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
 - **Vitesse** 12m
@@ -84701,6 +86334,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 - Source: (LDM p240)(TOB p323)
 - TOB: Ravenfolk Warrior
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m
@@ -84750,6 +86384,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p241)(TOB p324)
 - TOB: Ravenfolk Doom Croaker
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 88 (16d8+16)
 - **Vitesse** 9m
@@ -84793,6 +86428,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p242)(TOB p322)
 - TOB: Ravenfolk Scout
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 21 (6d8 – 6)
 - **Vitesse** 9m
@@ -84830,6 +86466,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p243)(TOB p271)
 - TOB: Lemurfolk
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
+- **Terrain** Jungle
 - **Classe d'armure** 13
 - **Points de vie** 14 (4d6)
 - **Vitesse** 6 m, escalade 3 m, vol 12 m
@@ -84862,6 +86499,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p243)(TOB p271)
 - TOB: Lemurfolk Greyfur
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
+- **Terrain** Jungle
 - **Classe d'armure** 13 (16 avec armure du mage )
 - **Points de vie** 67 (15d6+15)
 - **Vitesse** 6 m, escalade 3 m, vol 12 m
@@ -84904,6 +86542,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p244)(TOB p33)
 - TOB: Bearfold
 -  Humanoïde (homme-ours) de taille Moyenne (M), chaotique bon
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 12m
@@ -84939,6 +86578,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p245)(TOB p320)
 - TOB: Ratfolk
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 7,50 m, nage 3 m
@@ -84971,6 +86611,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p245)(TOB p320)
 - TOB: Ratfolk Rogue
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 7,50 m, nage 3 m
@@ -85009,6 +86650,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p246)(TOB p250)
 - TOB: Horakh
 -  Créature monstrueuse de taille Moyenne (M), neutre
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 161 (19d8+76)
 - **Vitesse** 12 m, escalade 9 m
@@ -85104,6 +86746,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p248)(TOB p255)
 - TOB: Idolic Deity
 -  Créature artificielle de Petite taille (P), neutre mauvaise
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 90 (12d6+48)
 - **Vitesse** 0 m, vol 9 m
@@ -85182,6 +86825,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p250)(TOB p257)
 - TOB: Isonade
 -  Créature monstrueuse de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Littoral
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 222 (12d20+96)
 - **Vitesse** nage 30 m
@@ -85232,6 +86876,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p251)(TOB p258)
 - TOB: Jaculus
 -  Dragon de Petite taille (P), neutre mauvais
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 65 (10d6+30)
 - **Vitesse** 6 m, escalade 6 m, vol 3 m
@@ -85339,6 +86984,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p254)(TOB p261)
 - TOB: Kobold Alchemist
 -  Humanoïde (kobold) de Petite taille (P), loyal neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 44 (8d6+16)
 - **Vitesse** 9m
@@ -85382,6 +87028,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p256)(TOB p263)
 - TOB: Kobold Chieftain
 -  Humanoïde (kobold) de Petite taille (P), loyal mauvais
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 17 (armure de cuir clouté et bouclier)
 - **Points de vie** 82 (15d6+30)
 - **Vitesse** 9m
@@ -85424,6 +87071,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p257)(TOB p264)
 - TOB: Kobold Trapsmith
 -  Humanoïde de Petite taille (P), loyal neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 36 (8d6+8)
 - **Vitesse** 9m
@@ -85464,6 +87112,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 - Source: (LDM p258)(TOB p265)
 - TOB: Kongamato
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)
 - **Vitesse** 3 m, vol 18 m
@@ -85588,6 +87237,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p261)(TOB p268)
 - TOB: Kot Bayun
 -  Créature monstrueuse de taille Moyenne (M), neutre
+- **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15
 - **Points de vie** 44 (8d8+8)
 - **Vitesse** 12 m, escalade 6 m
@@ -85628,6 +87278,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p262)(TOB p269)
 - TOB: Krake Spawn
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 150 (12d12+72)
 - **Vitesse** 6 m, nage 9 m
@@ -85718,6 +87369,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p264)(TOB p272)
 - TOB: Leshy
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 84 (13d8+26)
 - **Vitesse** 9m
@@ -85758,6 +87410,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p265)(TOB p353)
 - TOB: Slow Storm
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 19
 - **Points de vie** 225 (18d12+108)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)
@@ -85895,6 +87548,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p269)(TOB p275)
 - TOB: Likho
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 12m
@@ -85938,6 +87592,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p270)(TOB p336)
 - TOB: Sarcophagus Slime
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 11
 - **Points de vie** 102 (12d8+48)
 - **Vitesse** 6 m
@@ -86014,6 +87669,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p272)(TOB p276)
 - TOB: Lindwurm
 -  Dragon de Grande taille (G), neutre mauvais
+- **Terrain** Arctique / Subarctique, Littoral
 - **Classe d'armure** 15
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 12 m, nage 6 m
@@ -86147,6 +87803,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 - Source: (LDM p275)(TOB p279)
 - TOB: Lorelei
 -  Fée de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Littoral
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 76 (9d8+36)
 - **Vitesse** 9 m, nage 9 m
@@ -86197,6 +87854,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: (LDM p276)(TOB p280)
 - TOB: Loxoda
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 147 (14d12+56)
 - **Vitesse** 12m
@@ -86231,6 +87889,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: (LDM p277)(TOB p398)
 - TOB: Vapor Lynx
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 15 m, escalade 9 m
@@ -86269,6 +87928,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: (LDM p278)(TOB p281)
 - TOB: Mahoru
 -  Créature monstrueuse de Grande taille (G), non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 91 (14d8+28)
 - **Vitesse** 3 m, nage 18 m
@@ -86316,6 +87976,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: (LDM p279)(TOB p282)
 - TOB: Mallqui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
 - **Vitesse** 6 m
@@ -86411,6 +88072,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 - Source: (LDM p281)(TOB p284)
 - TOB: Mamura
 -  Aberration (fée) de Petite taille (P), neutre mauvaise.
+- **Terrain** Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d6+52)
 - **Vitesse** 6 m, vol 9 m
@@ -86542,6 +88204,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: (LDM p284)(TOB p158)
 - TOB: Dream Eater
 -  Fiélon de taille Moyenne (M), loyal mauvais
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, vol 6m
@@ -86708,6 +88371,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: (LDM p288)(TOB p367)
 - TOB: Spire Walker
 -  Fée de Très Petite taille (TP), neutre
+- **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 38 (11d4+22)
 - **Vitesse** 6 m
@@ -87065,6 +88729,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: (LDM p297)(TOB p278)
 - TOB: Living Wick
 -  Créature artificielle de Petite taille (P), non-alignée
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d6)
 - **Vitesse** 6 m
@@ -87101,6 +88766,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 - Source: (LDM p298)(TOB p391)
 - TOB: Tusked Skyfish
 -  Aberration de Grande taille (G), loyale bonne
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 1,50 m, vol 6 m (vol stationnaire)
@@ -87208,6 +88874,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: (LDM p301)(TOB p288)
 - TOB: Millitaur
 -  Créature monstrueuse de Grande taille (G), neutre
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12 m, fouissement 6 m, escalade 9 m
@@ -87238,6 +88905,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: (LDM p302)(TOB p289)
 - TOB: Map Mimic
 -  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 32 (5d8+10)
 - **Vitesse** 9 m, vol 4,50 m
@@ -87273,6 +88941,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: (LDM p303)(TOB p162)
 - TOB: Dune Mimic
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
+- **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 168 (16d12+64)
 - **Vitesse** 3 m
@@ -87313,6 +88982,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: (LDM p304)(TOB p291)
 - TOB: Mirager
 -  Fée (métamorphe) de taille Moyenne (M), neutre mauvaise
+- **Terrain** Désert chaud
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m
@@ -87355,6 +89025,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 - Source: (LDM p305)(TOB p293)
 - TOB: Mngwa
 -  Aberration de taille Moyenne (M), neutre mauvaise
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16
 - **Points de vie** 91 (14d8+28)
 - **Vitesse** 12m
@@ -87433,6 +89104,7 @@ dépassent leurs compétences.
 - Source: (LDM p307)(TOB p299)
 - TOB: Venomous Mummy
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
+- **Terrain** Désert chaud, Ruines souterraines
 - **Classe d'armure** 11 (armure naturelle)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 6 m
@@ -87578,6 +89250,7 @@ dépassent leurs compétences.
 - Source: (LDM p311)(TOB p297)
 - TOB: Morphoi
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Littoral
 - **Classe d'armure** 13 (parfois plus avec une armure)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m, nage 9 m
@@ -87655,6 +89328,7 @@ dépassent leurs compétences.
 - Source: (LDM p313)(TOB p53)
 - TOB: Cavelight Moss
 -  Plante de Grande taille (G), neutre
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 1,50 m, escalade 1,50 m
@@ -87827,6 +89501,7 @@ dépassent leurs compétences.
 - Source: (LDM p317)(TOB p52)
 - TOB: Carrion Beetle
 -  Bête de Grande taille (G), neutre
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 127 (15d10+45)
 - **Vitesse** 9 m, fouissement 6 m, escalade 3 m
@@ -87909,6 +89584,7 @@ dépassent leurs compétences.
 - Source: (LDM p319)(TOB p306)
 - TOB: Nkosi
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9m
@@ -87945,6 +89621,7 @@ dépassent leurs compétences.
 - Source: (LDM p319)(TOB p306)
 - TOB: Nkosi Pridelord
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 93 (17d8+17)
 - **Vitesse** 9m
@@ -87987,6 +89664,7 @@ dépassent leurs compétences.
 - Source: (LDM p320)(TOB p307)
 - TOB: War Ostrich
 -  Bête de Grande taille (G), non alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
 - **Points de vie** 42 (5d10+15)
 - **Vitesse** 18 m
@@ -88108,6 +89786,7 @@ dépassent leurs compétences.
 - Source: (LDM p324)(TOB p377)
 - TOB: Wolf Spirit Swarm
 -  Nuée de Grande taille de morts-vivants de taille Moyenne (G), neutre
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (15d10+15)
 - **Vitesse** 15 m, vol 15 m (vol stationnaire)
@@ -88178,6 +89857,7 @@ dépassent leurs compétences.
 - Source: (LDM p326)(TOB p373)
 - TOB: Fire Dancer Swarm
 -  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
+- **Terrain** Plans élémentaires
 - **Classe d'armure** 15
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9 m, vol 9 m (vol stationnaire)
@@ -88209,11 +89889,12 @@ dépassent leurs compétences.
 
 ---
 
-# Nuée De Papillons De Mort
+# Nuée de Papillons de Mort
 
 - Source: (LDM p327)(TOB p71)
 - TOB: Death Butterfly Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (11d10)
 - **Vitesse** 1,50 m, vol 12 m (vol stationnaire)
@@ -88244,11 +89925,12 @@ dépassent leurs compétences.
 
 ---
 
-# Grande Nuée De Papillons De Mort
+# Grande Nuée de Papillons de Mort
 
 - Source: (LDM p327)(TOB p71)
 - TOB: Greater Death Butterfly Swarm
 -  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 84 (13d12)
 - **Vitesse** 1,50 m, vol 12 m (vol stationnaire)
@@ -88284,6 +89966,7 @@ dépassent leurs compétences.
 - Source: (LDM p328)(TOB p374)
 - TOB: Manabane Scarab Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 6 m, fouissement 1,50 m, escalade 6 m
@@ -88346,6 +90029,7 @@ dépassent leurs compétences.
 - Source: (LDM p330)(TOB p375)
 - TOB: Prismatic Beetle Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 38 (7d8+7)
 - **Vitesse** 6 m, fouissement 1,50 m, escalade 9 m
@@ -88581,6 +90265,7 @@ dépassent leurs compétences.
 - Source: (LDM p336)(TOB p310)
 - TOB: Oozasis
 -  Vase de taille Gigantesque (Gig), non alignée
+- **Terrain** Désert chaud, Mangrove / Marécage
 - **Classe d'armure** 7
 - **Points de vie** 217 (14d20+70)
 - **Vitesse** 6 m, escalade 6 m, nage 6 m
@@ -88660,6 +90345,7 @@ dépassent leurs compétences.
 - Source: (LDM p338)(TOB p296)
 - TOB: Mordant Snare
 -  Aberration de taille Gigantesque (Gig), chaotique mauvaise
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 264 (16d20+96)
 - **Vitesse** 3 m, fouissement 6 m
@@ -88703,6 +90389,7 @@ dépassent leurs compétences.
 - Source: (LDM p339)(TOB p313)
 - TOB: Pombero
 -  Fée de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 9m
@@ -88784,6 +90471,7 @@ dépassent leurs compétences.
 - Source: (LDM p341)(TOB p408)
 - TOB: White Ape
 -  Créature monstrueuse de Grande taille (G), neutre
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
 - **Vitesse** 12 m, escalade 12 m
@@ -88818,6 +90506,7 @@ dépassent leurs compétences.
 - Source: (LDM p342)(TOB p12)
 - TOB: Accursed Defiler
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 12
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9m
@@ -88855,6 +90544,7 @@ dépassent leurs compétences.
 - Source: (LDM p343)(TOB p73)
 - TOB: Deep One
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 91 (14d8+28)
 - **Vitesse** 9 m, nage 9 m
@@ -88891,6 +90581,7 @@ dépassent leurs compétences.
 - Source: (LDM p343)(TOB p74)
 - TOB: Deep One Archimandrite
 -  Humanoïde de Grande taille (G), chaotique mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
 - **Vitesse** 12 m, nage 12 m
@@ -88942,6 +90633,7 @@ dépassent leurs compétences.
 - Source: (LDM p344)(TOB p73)
 - TOB: Deep One Hybrid Priest
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 120 (16d8+48)
 - **Vitesse** 9 m, nage 9 m
@@ -89029,6 +90721,7 @@ dépassent leurs compétences.
 - Source: (LDM p346)(TOB p317)
 - TOB: Ramag
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 27 (6d8)
 - **Vitesse** 9m
@@ -89144,6 +90837,7 @@ dépassent leurs compétences.
 - Source: (LDM p349)(TOB p321)
 - TOB: Ravenala
 -  Plante de Grande taille (G), non alignée
+- **Terrain** Jungle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 9m
@@ -89251,6 +90945,7 @@ dépassent leurs compétences.
 - Source: (LDM p351)(TOB p298)
 - TOB: Moss Lurker
 -  Humanoïde de Petite taille (P), chaotique neutre
+- **Terrain** Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
 - **Vitesse** 9m
@@ -89294,6 +90989,7 @@ dépassent leurs compétences.
 - Source: (LDM p352)(TOB 318)
 - TOB: Rat King
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
 - **Vitesse** 9 m, fouissement 6 m
@@ -89335,6 +91031,7 @@ dépassent leurs compétences.
 - Source: (LDM p353)(TOB p331)
 - TOB: Rusalka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
+- **Terrain** Littoral
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 88 (16d8+16)
 - **Vitesse** 9 m, nage 12 m
@@ -89456,6 +91153,7 @@ dépassent leurs compétences.
 - Source: (LDM p356)(TOB p339)
 - TOB: Scheznyki
 -  Fée de Petite taille (P), chaotique mauvaise
+- **Terrain** Collines / Vallées, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d6+72)
 - **Vitesse** 6 m, escalade 4,50 m
@@ -89499,6 +91197,7 @@ dépassent leurs compétences.
 - Source: (LDM p357)(TOB p340)
 - TOB: Night Scorpion
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
 - **Vitesse** 12m
@@ -89528,6 +91227,7 @@ dépassent leurs compétences.
 - Source: (LDM p357)(TOB p340)
 - TOB: Stygian Fat-Tailed Scorpion
 -  Bête de Très Petite taille (TP), non-alignée
+- **Terrain** Désert chaud, Caverne aménagée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 10 (4d4)
 - **Vitesse** 9 m, escalade 6 m
@@ -89557,6 +91257,7 @@ dépassent leurs compétences.
 - Source: (LDM p358)(TOB p402)
 - TOB: Vine Lord
 -  Plante de taille Moyenne (M), loyale neutre
+- **Terrain** Jungle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 9m
@@ -89601,6 +91302,7 @@ dépassent leurs compétences.
 - Source: (LDM p359)(TOB p403)
 - TOB: Tendril Puppet
 -  Plante de taille Moyenne (M), loyale neutre
+- **Terrain** Jungle
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 34 (4d8+16)
 - **Vitesse** 9m
@@ -89681,6 +91383,7 @@ dépassent leurs compétences.
 - Source: (LDM p361)(TOB p354)
 - TOB: Swamp Adder
 -  Bête de Petite taille (P), non-alignée
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 9m
@@ -89708,6 +91411,7 @@ dépassent leurs compétences.
 - Source: (LDM p361)(TOB p354)
 - TOB: Zanskaran Viper
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 38 (4d10+16)
 - **Vitesse** 9 m, escalade 3 m, nage 9 m
@@ -89733,6 +91437,7 @@ dépassent leurs compétences.
 - Source: (LDM p362)(TOB p342)
 - TOB: Serpopard
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
 - **Vitesse** 12 m, nage 9 m
@@ -89893,6 +91598,7 @@ dépassent leurs compétences.
 - Source: (LDM p366)(TOB p332)
 - TOB: Sand Silhouette
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 9 m, fouissement 9 m
@@ -90014,6 +91720,7 @@ dépassent leurs compétences.
 - Source: (LDM p369)(TOB p359)
 - TOB: Gypsosphinx
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 171 (18d10+72)
 - **Vitesse** 12 m, vol 21 m
@@ -90079,6 +91786,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p371)(TOB p351)
 - TOB: Vine Troll Skeleton
 -  Plante de Grande taille (G), non-alignée
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 119 (14d10+42)
 - **Vitesse** 9m
@@ -90114,6 +91822,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p372)(TOB p350)
 - TOB: Sharkjaw Skeleton
 -  Mort-vivant de Grande taille (G), loyal mauvais
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d10+12)
 - **Vitesse** 9 m, nage 9 m
@@ -90147,6 +91856,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p373)(TOB p369)
 - TOB: Stryx
 -  Créature monstrueuse de Très Petite taille (TP), neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13
 - **Points de vie** 10 (4d4)
 - **Vitesse** 3 m, vol 18 m
@@ -90229,6 +91939,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p375)(TOB p371)
 - TOB: Subek
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
+- **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76(8d10+32)
 - **Vitesse** 9 m, nage 6 m
@@ -90307,6 +92018,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p377)(TOB p372)
 - TOB: Suturefly
 -  Bête de Très Petite taille (TP), non-alignée
+- **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 14
 - **Points de vie** 7 (3d4)
 - **Vitesse** 3 m, vol 12 m (vol stationnaire)
@@ -90337,6 +92049,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p378)(TOB p388)
 - TOB: Weeping Treant
 -  Plante de Très Grande taille (TG), neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 105 (10d12+40)
 - **Vitesse** 9m
@@ -90417,6 +92130,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p380)(TOB p379)
 - TOB: Thuellai
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17
 - **Points de vie** 149 (13d12+65)
 - **Vitesse** 0 m, vol 30 m (vol stationnaire)
@@ -90511,6 +92225,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p382)(TOB p381)
 - TOB: Degenerate Titan
 -  Géant de Très Grande taille (TG), chaotique mauvais
+- **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 12 (manteau renforcé rudimentaire)
 - **Points de vie** 161 (14d12+70)
 - **Vitesse** 12m
@@ -90547,6 +92262,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p383)(TOB p382)
 - TOB: Titanoboa
 -  Bête de taille Gigantesque (Gig), non alignée
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 232 (15d20+75)
 - **Vitesse** 12 m, escalade 12 m, nage 12 m
@@ -90620,6 +92336,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p386)(TOB p385)
 - TOB: Tosculi Hive-Queen
 -  Créature monstrueuse de Grande taille (G), loyale mauvaise
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17
 - **Points de vie** 157 (15d10+75)
 - **Vitesse** 12 m, vol 18 m
@@ -90698,6 +92415,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: (LDM p387)(TOB p386)
 - TOB: Tosculi Elite Bow Raider
 -  Humanoïde (tosculi) de taille Moyenne (M), loyal mauvais
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
 - **Vitesse** 9 m, vol 18 m
@@ -90736,6 +92454,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: (LDM p387)(TOB p386)
 - TOB: Tosculi Warrior
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15
 - **Points de vie** 58 (9d6+27)
 - **Vitesse** 6 m, vol 18 m
@@ -90771,6 +92490,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: (LDM p387)(TOB p386)
 - TOB: Tosculi Drone
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
 - **Points de vie** 22 (4d6+8)
 - **Vitesse** 6 m
@@ -90802,6 +92522,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: (LDM p388)(TOB p389)
 - TOB: Lake Troll
 -  Géant de Grande taille (G), chaotique mauvais
+- **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 126 (12d10+60)
 - **Vitesse** 6 m, nage 12 m
@@ -90838,6 +92559,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: (LDM p389)(TOB p47)
 - TOB: Bukavac
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 199 (21d10+84)
 - **Vitesse** 12m, nage 6m
@@ -90917,6 +92639,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 - Source: (LDM p391)(TOB p393)
 - TOB: Urochar (Strangling Watcher)
 -  Aberration de Très Grande taille (TG), chaotique mauvaise
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
 - **Vitesse** 12 m, escalade 6 m
@@ -90975,6 +92698,7 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 - Source: (LDM p392)(TOB p394)
 - TOB: Ushabti
 -  Créature artificielle de Grande taille (G), non alignée
+- **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 105 (10d10+50)
 - **Vitesse** 9m
@@ -91235,6 +92959,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: (LDM p398)(TOB p330)
 - TOB: Rotting Wind
 -  Mort-vivant de Grande taille (G), neutre mauvais
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d10+22)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)
@@ -91269,6 +92994,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: (LDM p399)(TOB p327)
 - TOB: Adult Rime Worm
 -  Élémentaire de Grande taille (G), neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (10d10+50)
 - **Vitesse** 9 m, nage 9 m, fouissement (neige, glace) 9 m
@@ -91301,11 +93027,12 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 
 ---
 
-# Larve De Ver Givré
+# Larve de Ver Givré
 
 - Source: (LDM p399)(TOB p327)
 - TOB: Rime Worm Grub
 -  Élémentaire de taille Moyenne (M), neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
 - **Vitesse** 9 m, nage 9 m, fouissement (neige, glace) 6 m
@@ -91341,6 +93068,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: (LDM p400)(TOB p22)
 - TOB: Angler Worm
 -  Créature monstrueuse de Très Grande taille (TG), non alignée
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 133 (14d12+42)
 - **Vitesse** 6m, escalade 6 m
@@ -91380,6 +93108,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: (LDM p401)(TOB p337)
 - TOB: Sathaq Worm
 -  Élémentaire de Très Grande taille (TG), neutre mauvais
+- **Terrain** Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 172 (15d12+75)
 - **Vitesse** 6 m, fouissement 6 m, nage 6 m
@@ -91416,6 +93145,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: (LDM p402)(TOB p352)
 - TOB: Skitterhaunt
 -  Vase de Grande taille (G), non-alignée
+- **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 9m
@@ -91453,6 +93183,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 - Source: (LDM p403)(TOB p399)
 - TOB: Vesiculosa
 -  Plante de taille Gigantesque (Gig), non alignée
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 203 (14d20+56)
 - **Vitesse** 0 m, fouissement 1,50 m
@@ -91543,6 +93274,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p405)(TOB p230)
 - TOB: Gnoll Havoc Runner
 -  Humanoïde (gnoll) de taille Moyenne (M), chaotique mauvais
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 9m
@@ -91623,6 +93355,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p407)(TOB p400)
 - TOB: Vila
 -  Fée de taille Moyenne (M), loyale neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 15
 - **Points de vie** 77 (14d8+14)
 - **Vitesse** 9m
@@ -91671,6 +93404,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p408)(TOB p207)
 - TOB: Frostveil
 -  Plante de taille Moyenne (M), non-alignée
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16
 - **Points de vie** 67 (9d8+27)
 - **Vitesse** 3 m, vol (variable; voir le trait porté par le vent)
@@ -91713,6 +93447,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p409)(TOB p405)
 - TOB: Wampus Cat
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14
 - **Points de vie** 58 (9d8+18)
 - **Vitesse** 12 m, escalade 6 m, nage 6 m
@@ -91751,6 +93486,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p410)(TOB p334)
 - TOB: Sandwyrm
 -  Dragon de Grande taille (G), non-aligné
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
 - **Vitesse** 6 m, fouissement 12 m
@@ -91849,6 +93585,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p413)(TOB p413)
 - TOB: Ychen Bannog
 -  Bête de taille Gigantesque (Gig), non alignée
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (14d20+84)
 - **Vitesse** 15 m
@@ -91888,6 +93625,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p414)(TOB p414)
 - TOB: Zaratan
 -  Créature monstrueuse (titan) de taille Gigantesque (Gig), non alignée
+- **Terrain** Mer / Océan
 - **Classe d'armure** 25 (armure naturelle)
 - **Points de vie** 507 (26d20+234)
 - **Vitesse** 3 m, nage 15 m
@@ -91969,6 +93707,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 - Source: (LDM p416)(TOB p416)
 - TOB: Zmey
 -  Dragon de Très Grande taille (TG), chaotique mauvais
+- **Terrain** Bois / Forêt, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 189 (18d12+72)
 - **Vitesse** 9 m, vol 15 m, nage 9 m
@@ -92028,6 +93767,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - Source: (LDM p416)(TOB p416)
 - TOB: Zmey Headling
 -  Dragon de taille Moyenne (M), chaotique mauvais
+- **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 105 (14d8 + 42), régénération 5/round
 - **Vitesse** 9 m, nage 6 m
@@ -92203,6 +93943,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 - Source: (LDM p420)(TOB p423)
 - TOB: Ogre Chieftain, Corrupted
 -  Géant de Grande taille (G), chaotique mauvais
+- **Terrain** Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 17 (clibanion)
 - **Points de vie** 127 (15d10 + 45)
 - **Vitesse** 12m

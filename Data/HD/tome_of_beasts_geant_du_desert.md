@@ -7,6 +7,7 @@
 - Source: (LDM p203)(TOB p222)
 - TOB: Desert Giant
 -  Géant de Très Grande taille (TG), neutre
+- **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
 - **Vitesse** 12m

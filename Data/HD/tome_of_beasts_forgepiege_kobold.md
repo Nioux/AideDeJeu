@@ -7,6 +7,7 @@
 - Source: (LDM p257)(TOB p264)
 - TOB: Kobold Trapsmith
 -  Humanoïde de Petite taille (P), loyal neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 36 (8d6+8)
 - **Vitesse** 9m

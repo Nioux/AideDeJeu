@@ -7,6 +7,7 @@
 - Source: (LDM p245)(TOB p320)
 - TOB: Ratfolk Rogue
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
+- **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 18 (4d6+4)
 - **Vitesse** 7,50 m, nage 3 m

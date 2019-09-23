@@ -7,6 +7,7 @@
 - Source: (LDM p64)(TOB p229)
 - TOB: Gnarljak
 -  Créature artificielle de Petite taille (P), non-alignée
+- **Terrain** Donjon maçonné
 - **Classe d'armure** 16
 - **Points de vie** 63 (14d6+14)
 - **Vitesse** 9m

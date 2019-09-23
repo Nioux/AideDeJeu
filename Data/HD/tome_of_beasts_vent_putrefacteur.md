@@ -7,6 +7,7 @@
 - Source: (LDM p398)(TOB p330)
 - TOB: Rotting Wind
 -  Mort-vivant de Grande taille (G), neutre mauvais
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d10+22)
 - **Vitesse** 0 m, vol 18 m (vol stationnaire)

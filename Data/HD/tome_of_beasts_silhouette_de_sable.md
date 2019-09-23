@@ -7,6 +7,7 @@
 - Source: (LDM p366)(TOB p332)
 - TOB: Sand Silhouette
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (14d8+42)
 - **Vitesse** 9 m, fouissement 9 m

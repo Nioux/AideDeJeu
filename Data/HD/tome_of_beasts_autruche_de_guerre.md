@@ -7,6 +7,7 @@
 - Source: (LDM p320)(TOB p307)
 - TOB: War Ostrich
 -  Bête de Grande taille (G), non alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
 - **Points de vie** 42 (5d10+15)
 - **Vitesse** 18 m

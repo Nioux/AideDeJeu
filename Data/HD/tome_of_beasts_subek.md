@@ -7,6 +7,7 @@
 - Source: (LDM p375)(TOB p371)
 - TOB: Subek
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
+- **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76(8d10+32)
 - **Vitesse** 9 m, nage 6 m

@@ -7,6 +7,7 @@
 - Source: (LDM p44)(TOB p406)
 - TOB: Water Leaper
 -  Créature monstrueuse de Grande taille (G), non alignée
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 97 (13d10+26)
 - **Vitesse** 1,50 m, vol 15 m, nage 12 m

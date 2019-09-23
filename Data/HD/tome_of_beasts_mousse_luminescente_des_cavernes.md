@@ -7,6 +7,7 @@
 - Source: (LDM p313)(TOB p53)
 - TOB: Cavelight Moss
 -  Plante de Grande taille (G), neutre
+- **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
 - **Vitesse** 1,50 m, escalade 1,50 m

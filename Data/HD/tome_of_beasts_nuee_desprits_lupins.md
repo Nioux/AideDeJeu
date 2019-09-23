@@ -7,6 +7,7 @@
 - Source: (LDM p324)(TOB p377)
 - TOB: Wolf Spirit Swarm
 -  Nuée de Grande taille de morts-vivants de taille Moyenne (G), neutre
+- **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (15d10+15)
 - **Vitesse** 15 m, vol 15 m (vol stationnaire)

@@ -7,6 +7,7 @@
 - Source: (LDM p72)(TOB p228)
 - TOB: Glass Gator
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (7d10+7)
 - **Vitesse** 9 m, nage 15 m

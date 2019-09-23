@@ -7,6 +7,7 @@
 - Source: (LDM p242)(TOB p322)
 - TOB: Ravenfolk Scout
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 21 (6d8 – 6)
 - **Vitesse** 9m

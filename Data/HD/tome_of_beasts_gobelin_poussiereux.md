@@ -7,6 +7,7 @@
 - Source: (LDM p211)(TOB p232)
 - TOB: Dust Goblin
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
+- **Terrain** Désert chaud, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 14 (armure de cuir)
 - **Points de vie** 5 (1d6+2)
 - **Vitesse** 12m

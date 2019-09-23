@@ -7,6 +7,7 @@
 - Source: (LDM p342)(TOB p12)
 - TOB: Accursed Defiler
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
+- **Terrain** Désert chaud
 - **Classe d'armure** 12
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9m

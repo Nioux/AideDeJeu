@@ -398,6 +398,7 @@ namespace AideDeJeuCmd
             var tomeOfBeasts = await LoadStringAsync(@"..\..\..\..\..\Data\tome_of_beasts.md");
             var monstersHD = await LoadStringAsync(@"..\..\..\..\..\Data\monsters_hd.md");
             var deserializer = new YamlDotNet.Serialization.Deserializer();
+            var terrainLines = new Dictionary<string, string>();
             using (var reader = new StreamReader(@"..\..\..\..\..\Ignore\Index Bestiaires H&D.yaml"))
             {
                 var terrains = deserializer.Deserialize(reader) as Dictionary<object, object>;
@@ -411,6 +412,16 @@ namespace AideDeJeuCmd
                         if (tomeOfBeasts.Contains($"<!--Name-->{monsterName}<!--/Name-->", StringComparison.CurrentCultureIgnoreCase))
                         {
                             Debug.WriteLine($"TOB : {terrainName} => {monsterName}");
+                            if(terrainLines.ContainsKey(monsterName))
+                            {
+                                terrainLines[monsterName] += ", ";
+                            }
+                            else
+                            {
+                                terrainLines[monsterName] = "";
+                            }
+                            terrainLines[monsterName] += terrainName;
+                            
                         }
                         else if (monstersHD.Contains($"<!--Name-->{monsterName}<!--/Name-->", StringComparison.CurrentCultureIgnoreCase))
                         {
@@ -424,7 +435,25 @@ namespace AideDeJeuCmd
 
                 }
                 Debug.WriteLine(true);
+                foreach(var terrainLine in terrainLines)
+                {
+                    var monsterName = terrainLine.Key;
+                    var terrainName = terrainLine.Value;
+                    tomeOfBeasts = Regex.Replace(
+                        tomeOfBeasts,
+                        Regex.Escape($"<!--Name-->{monsterName}<!--/Name-->") + "\n\n- Source:.*?\n- TOB:.*?\n-  <!--Type-->.*?\n",
+                        delegate (Match match)
+                        {
+                            //var ret = $"<!--Name-->{monsterName}<!--/Name-->" + $"\n\n{match.Groups[1]}\n{match.Groups[2]}\n" + terrainName;
+                            var ret = $"{match.Groups[0]}- **Terrain** <!--Terrain-->{terrainName}<!--/Terrain-->\n";
+                            return ret;
+                        },
+                        //terrainName, 
+                        RegexOptions.IgnoreCase);
+
+                }
             }
+            await SaveStringAsync(@"..\..\..\..\..\Data\tome_of_beasts_bis.md", tomeOfBeasts);
         }
 
         static async Task ExtractHtmlAsync()

@@ -7,6 +7,7 @@
 - Source: (LDM p137)(TOB p144)
 - TOB: Wind Dragon, Young
 -  Dragon de Grande taille (G), chaotique neutre
+- **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 150 (16d10+62)
 - **Vitesse** 12 m, vol 27 m

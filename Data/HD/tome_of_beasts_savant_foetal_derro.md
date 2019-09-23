@@ -7,6 +7,7 @@
 - Source: (LDM p95)(TOB p92)
 - TOB: Derro Fetal Savant
 -  Humanoïde de Très Petite taille (TP), chaotique mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 15 (cage)
 - **Points de vie** 2 (4d4 - 8)
 - **Vitesse** 1,50 m (0 en cage)

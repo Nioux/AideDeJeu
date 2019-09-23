@@ -7,6 +7,7 @@
 - Source: (LDM p131)(TOB p134)
 - TOB: Young Mithral Dragon
 -  Dragon de taille Moyenne (M), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 92 (16d8+20)
 - **Vitesse** 15 m, vol 18 m

@@ -7,6 +7,7 @@
 - Source: (LDM p59)(TOB p166)
 - TOB: Eel Hound
 -  Fée de taille Moyenne (M), neutre
+- **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 77 (14d8+14)
 - **Vitesse** 9 m, nage 12 m

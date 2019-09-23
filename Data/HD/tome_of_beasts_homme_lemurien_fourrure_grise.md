@@ -7,6 +7,7 @@
 - Source: (LDM p243)(TOB p271)
 - TOB: Lemurfolk Greyfur
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
+- **Terrain** Jungle
 - **Classe d'armure** 13 (16 avec armure du mage )
 - **Points de vie** 67 (15d6+15)
 - **Vitesse** 6 m, escalade 3 m, vol 12 m

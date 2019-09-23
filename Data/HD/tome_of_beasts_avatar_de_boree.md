@@ -2,11 +2,12 @@
 
 ---
 
-# Avatar De Borée
+# Avatar de Borée
 
 - Source: (LDM p45)(TOB p42)
 - TOB: Avatar of Boreas
 -  Élémentaire de taille Moyenne (métamorphe) (M), chaotique mauvais
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
 - **Vitesse** 15m, vol 36m

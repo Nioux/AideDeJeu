@@ -7,6 +7,7 @@
 - Source: (LDM p131)(TOB p132)
 - TOB: Ancient Mithral Dragon
 -  Dragon de taille Gigantesque (Gig), neutre
+- **Terrain** Montagnes
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 297 (17d20+119)
 - **Vitesse** 12 m, vol 24 m

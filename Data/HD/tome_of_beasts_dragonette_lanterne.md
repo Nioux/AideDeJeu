@@ -7,6 +7,7 @@
 - Source: (LDM p148)(TOB p270)
 - TOB: Lantern Dragonette
 -  Dragon de Très Petite taille (TP), loyal neutre
+- **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 28 (8d4+8)
 - **Vitesse** 4,50 m, vol 12 m (vol stationnaire)

@@ -7,6 +7,7 @@
 - Source: (LDM p234)(TOB p246)
 - TOB: Owl Harpy
 -  Créature monstrueuse de taille Moyenne (M), neutre mauvaise
+- **Terrain** Désert chaud, Jungle
 - **Classe d'armure** 14
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 6 m, vol 24 m (vol stationnaire)

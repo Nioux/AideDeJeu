@@ -7,6 +7,7 @@
 - Source: (LDM p399)(TOB p327)
 - TOB: Adult Rime Worm
 -  Élémentaire de Grande taille (G), neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 105 (10d10+50)
 - **Vitesse** 9 m, nage 9 m, fouissement (neige, glace) 9 m

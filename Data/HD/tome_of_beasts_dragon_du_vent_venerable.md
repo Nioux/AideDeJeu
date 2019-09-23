@@ -7,6 +7,7 @@
 - Source: (LDM p138)(TOB p142)
 - TOB: Wind Dragon, Ancient
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
+- **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 425 (23d20 +184)
 - **Vitesse** 12 m, vol 36 m

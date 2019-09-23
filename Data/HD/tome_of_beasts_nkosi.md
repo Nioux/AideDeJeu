@@ -7,6 +7,7 @@
 - Source: (LDM p319)(TOB p306)
 - TOB: Nkosi
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
+- **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 11 (2d8+2)
 - **Vitesse** 9m

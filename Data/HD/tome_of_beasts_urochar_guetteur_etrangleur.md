@@ -7,6 +7,7 @@
 - Source: (LDM p391)(TOB p393)
 - TOB: Urochar (Strangling Watcher)
 -  Aberration de Très Grande taille (TG), chaotique mauvaise
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 256 (19d12+133)
 - **Vitesse** 12 m, escalade 6 m

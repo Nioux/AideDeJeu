@@ -7,6 +7,7 @@
 - Source: (LDM p387)(TOB p386)
 - TOB: Tosculi Elite Bow Raider
 -  Humanoïde (tosculi) de taille Moyenne (M), loyal mauvais
+- **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 97 (13d8+39)
 - **Vitesse** 9 m, vol 18 m

@@ -7,6 +7,7 @@
 - Source: (LDM p24)(TOB p365)
 - TOB: Spider of Leng
 -  Aberration de Grande taille (G), chaotique mauvaise
+- **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 144 (17d10+51)
 - **Vitesse** 9 m, escalade 6 m

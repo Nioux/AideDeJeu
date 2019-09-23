@@ -7,6 +7,7 @@
 - Source: (LDM p170)(TOB p25)
 - TOB: Arboreal Grappler
 -  Aberration de taille Moyenne (M), neutre mauvais
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d8+36)
 - **Vitesse** 3m, escalade 12m

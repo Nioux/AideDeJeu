@@ -7,6 +7,7 @@
 - Source: (LDM p240)(TOB p323)
 - TOB: Ravenfolk Warrior
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 78 (12d8+24)
 - **Vitesse** 9m

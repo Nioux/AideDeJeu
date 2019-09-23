@@ -7,6 +7,7 @@
 - Source: (LDM p124)(TOB p123)
 - TOB: Doppelrat
 -  Créature monstrueuse de Très Petite taille (TP), non alignée
+- **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
 - **Vitesse** 4,50 m, escalade 4,50 m, nage 4,50 m

@@ -7,6 +7,7 @@
 - Source: (LDM p410)(TOB p334)
 - TOB: Sandwyrm
 -  Dragon de Grande taille (G), non-aligné
+- **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 142 (15d10+60)
 - **Vitesse** 6 m, fouissement 12 m

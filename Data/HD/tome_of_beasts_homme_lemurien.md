@@ -7,6 +7,7 @@
 - Source: (LDM p243)(TOB p271)
 - TOB: Lemurfolk
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
+- **Terrain** Jungle
 - **Classe d'armure** 13
 - **Points de vie** 14 (4d6)
 - **Vitesse** 6 m, escalade 3 m, vol 12 m

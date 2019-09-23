@@ -7,6 +7,7 @@
 - Source: (LDM p272)(TOB p276)
 - TOB: Lindwurm
 -  Dragon de Grande taille (G), neutre mauvais
+- **Terrain** Arctique / Subarctique, Littoral
 - **Classe d'armure** 15
 - **Points de vie** 136 (16d10+48)
 - **Vitesse** 12 m, nage 6 m

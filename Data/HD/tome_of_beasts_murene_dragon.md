@@ -7,6 +7,7 @@
 - Source: (LDM p147)(TOB p146)
 - TOB: Dragon Eel
 -  Dragon de Très Grande taille (TG), neutre
+- **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 230 (20d12+100)
 - **Vitesse** 6 m, nage 18 m

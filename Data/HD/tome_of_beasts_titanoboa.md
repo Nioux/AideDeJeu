@@ -7,6 +7,7 @@
 - Source: (LDM p383)(TOB p382)
 - TOB: Titanoboa
 -  Bête de taille Gigantesque (Gig), non alignée
+- **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 232 (15d20+75)
 - **Vitesse** 12 m, escalade 12 m, nage 12 m

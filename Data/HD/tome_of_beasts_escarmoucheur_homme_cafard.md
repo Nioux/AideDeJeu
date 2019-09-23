@@ -7,6 +7,7 @@
 - Source: (LDM p238)(TOB p329)
 - TOB: Roachling Skirmisher
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 7 (2d6)
 - **Vitesse** 7,50m

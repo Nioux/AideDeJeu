@@ -7,6 +7,7 @@
 - Source: (LDM p369)(TOB p359)
 - TOB: Gypsosphinx
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 171 (18d10+72)
 - **Vitesse** 12 m, vol 21 m

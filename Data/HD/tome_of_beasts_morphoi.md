@@ -7,6 +7,7 @@
 - Source: (LDM p311)(TOB p297)
 - TOB: Morphoi
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Littoral
 - **Classe d'armure** 13 (parfois plus avec une armure)
 - **Points de vie** 33 (6d8+6)
 - **Vitesse** 9 m, nage 9 m

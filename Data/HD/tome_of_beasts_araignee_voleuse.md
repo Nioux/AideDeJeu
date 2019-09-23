@@ -7,6 +7,7 @@
 - Source: (LDM p28)(TOB p366)
 - TOB: Spider Thief
 -  Créature artificielle de Petite taille (P), non-alignée
+- **Terrain** Caverne aménagée, Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 54 (12d6+12)
 - **Vitesse** 9 m, escalade 6 m

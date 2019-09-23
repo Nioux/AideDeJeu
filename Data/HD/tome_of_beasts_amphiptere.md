@@ -7,6 +7,7 @@
 - Source: (LDM p15)(TOB p16)
 - TOB: Amphiptere
 -  Bête de taille Moyenne (M), non alignée
+- **Terrain** Bois / Forêt, Littoral
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 60 (8d8+24)
 - **Vitesse** 6m, escalade 6 m, vol 18m, nage 6m

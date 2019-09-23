@@ -7,6 +7,7 @@
 - Source: (LDM p228)(TOB p245)
 - TOB: Sanf Hag
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
 - **Vitesse** 9 m, fouissement 9 m

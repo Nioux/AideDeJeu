@@ -7,6 +7,7 @@
 - Source: (LDM p9)(TOB p9)
 - TOB: Nihilethic Zombie
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
+- **Terrain** Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 9 (armure naturelle)
 - **Points de vie** 22 (3d8+9)
 - **Vitesse** 6m, nage 9m

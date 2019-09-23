@@ -7,6 +7,7 @@
 - Source: (LDM p53)(TOB p120)
 - TOB: Dogmole
 -  Bête de taille Moyenne (M), neutre
+- **Terrain** Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
 - **Vitesse** 9 m, fouissement 3 m, nage 3 m

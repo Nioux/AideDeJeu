@@ -7,6 +7,7 @@
 - Source: (LDM p32)(TOB p27)
 - TOB: Asanbosam
 -  Aberration de Grande taille (G), chaotique mauvaise
+- **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
 - **Vitesse** 12m, escalade 4,50m

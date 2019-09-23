@@ -7,6 +7,7 @@
 - Source: (LDM p74)(TOB p70)
 - TOB: Dau
 -  Fée de Petite taille (P), chaotique neutre
+- **Terrain** Désert chaud
 - **Classe d'armure** 13
 - **Points de vie** 49 (9d6+18)
 - **Vitesse** 6 m, vol 18 m (vol stationnaire)

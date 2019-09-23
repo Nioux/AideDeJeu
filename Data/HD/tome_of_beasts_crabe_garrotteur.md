@@ -7,6 +7,7 @@
 - Source: (LDM p70)(TOB p208)
 - TOB: Garroter Crab
 -  Bête de Très Petite taille (TP), non-alignée
+- **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 18 (4d4+8)
 - **Vitesse** 9 m, nage 6 m

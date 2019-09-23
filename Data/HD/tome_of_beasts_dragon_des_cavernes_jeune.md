@@ -7,6 +7,7 @@
 - Source: (LDM p135)(TOB p127)
 - TOB: Young Cave Dragon
 -  Dragon de Grande taille (G), neutre mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
 - **Vitesse** 12 m, fouissement 6 m, vol6 m

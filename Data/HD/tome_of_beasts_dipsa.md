@@ -7,6 +7,7 @@
 - Source: (LDM p121)(TOB p118)
 - TOB: Dipsa
 -  Vase de Très Petite taille (TP), non alignée
+- **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15
 - **Points de vie** 27 (6d4+12)
 - **Vitesse** 6 m, escalade 6 m, nage 6 m

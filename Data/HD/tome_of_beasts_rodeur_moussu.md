@@ -7,6 +7,7 @@
 - Source: (LDM p351)(TOB p298)
 - TOB: Moss Lurker
 -  Humanoïde de Petite taille (P), chaotique neutre
+- **Terrain** Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
 - **Vitesse** 9m

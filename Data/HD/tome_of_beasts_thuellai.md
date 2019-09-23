@@ -7,6 +7,7 @@
 - Source: (LDM p380)(TOB p379)
 - TOB: Thuellai
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
+- **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17
 - **Points de vie** 149 (13d12+65)
 - **Vitesse** 0 m, vol 30 m (vol stationnaire)

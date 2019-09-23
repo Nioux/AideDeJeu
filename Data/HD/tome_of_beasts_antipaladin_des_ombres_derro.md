@@ -7,6 +7,7 @@
 - Source: (LDM p94)(TOB p93)
 - TOB: Derro Shadow Antipaladin
 -  Humanoïde (derro) de Petite taille (P), chaotique mauvais
+- **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 18 (cuirasse et bouclier)
 - **Points de vie** 82 (11d6+44)
 - **Vitesse** 9m

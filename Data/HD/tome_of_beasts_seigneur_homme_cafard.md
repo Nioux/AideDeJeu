@@ -7,6 +7,7 @@
 - Source: (LDM p238)(TOB p329)
 - TOB: Roachling Lord
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
+- **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 63 (14d6+14)
 - **Vitesse** 7,50m

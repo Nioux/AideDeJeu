@@ -7,6 +7,7 @@
 - Source: (LDM p41)(TOB p345)
 - TOB: Shadow Beast
 -  Fée de taille Moyenne (M), chaotique mauvaise
+- **Terrain** Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 14
 - **Points de vie** 135 (18d8+54)
 - **Vitesse** 0 m, vol 12m (vol stationnaire)

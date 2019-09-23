@@ -7,6 +7,7 @@
 - Source: (LDM p357)(TOB p340)
 - TOB: Night Scorpion
 -  Bête de Grande taille (G), non-alignée
+- **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 90 (12d10+24)
 - **Vitesse** 12m

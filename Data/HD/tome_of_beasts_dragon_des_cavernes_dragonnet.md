@@ -7,6 +7,7 @@
 - Source: (LDM p135)(TOB p127)
 - TOB: Cave Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
+- **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
 - **Vitesse** 9 m, fouissement 6 m, vol 6 m
