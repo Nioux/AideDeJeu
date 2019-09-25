@@ -133,6 +133,17 @@ namespace AideDeJeuLib
         [Indexed]
         public virtual string Name { get; set; }
 
+        [DataMember]
+        [Indexed]
+        public virtual string NormalizedName
+        {
+            get
+            {
+                return Helpers.RemoveDiacritics(Name);
+            }
+            private set { }
+        }
+
         [DataMember(Name = "Item_ParentName", Order = 4)]
         [Indexed]
         public virtual string ParentName { get; set; }
@@ -168,8 +179,9 @@ namespace AideDeJeuLib
         [Indexed]
         public virtual string AltName { get; set; }
 
+        [DataMember]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         [YamlIgnore]
-        [IgnoreDataMember]
         public virtual string AltNameText
         {
             get
@@ -191,7 +203,20 @@ namespace AideDeJeuLib
                     return AltName ?? string.Empty;
                 }
             }
+            private set { }
         }
+
+        [DataMember]
+        [Indexed]
+        public virtual string NormalizedAltName
+        {
+            get
+            {
+                return Helpers.RemoveDiacritics(AltNameText) ?? string.Empty;
+            }
+            private set { }
+        }
+
         [DataMember(Name = "Item_Source", Order = 7)]
         [Indexed]
         public virtual string Source { get; set; }

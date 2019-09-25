@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SQLite;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -9,6 +10,8 @@ namespace AideDeJeuLib
 
     public class FilteredItems : Items
     {
+        [DataMember]
+        [Indexed]
         public string Family { get; set; }
 
         public List<KeyValuePair<string, string>> Split(string collapsed)

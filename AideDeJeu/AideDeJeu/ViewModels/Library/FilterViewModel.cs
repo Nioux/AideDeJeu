@@ -1,7 +1,9 @@
 ﻿using AideDeJeu.Tools;
 using AideDeJeuLib;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -52,6 +54,8 @@ namespace AideDeJeu.ViewModels.Library
         {
             return string.IsNullOrEmpty(filterValue) || (itemValue != null && itemValue.ToLower().Equals(filterValue.ToLower()));
         }
+
+        //Expression<Func<Item, bool>> funcPred = p => p.JobTitle == "Design Engineer";
 
         public bool MatchRange(string itemValue, string filterMinValue, string filterMaxValue, IComparer<string> comparer)
         {
@@ -425,14 +429,35 @@ namespace AideDeJeu.ViewModels.Library
                 await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
+                    //Expression<Func<MonsterItem, bool>> funcSize = m => true;
+                    //if (!string.IsNullOrEmpty(size))
+                    //{
+                    //    funcSize = m => m.Size == size;
+                    //}
+                    //Expression<Func<MonsterItem, bool>> funcFamily = m => Expression.Equal( m.Family, Expression.Constant(this.Family));
+                    //var funcAll = Expression.AndAlso(funcSize.Body, funcFamily.Body);
+                    //var lambdaAll = Expression.Lambda<Func<MonsterItem, bool>>(funcAll, funcSize.Parameters[0]);
+                    //return context.Monsters.Where(lambdaAll).ToList();
                     return context.Monsters.Where(monster =>
-                        MatchEquals(monster.Family, this.Family) &&
-                        MatchContains(monster.Type, type) &&
-                        MatchEquals(monster.Size, size) &&
-                        MatchContains(monster.Terrain, terrain) &&
-                        MatchRange(monster.Challenge, minChallenge, maxChallenge, challengeComparer) &&
-                        MatchSearch(monster) 
-                    ).OrderBy(monster => Helpers.RemoveDiacritics(monster.Name)).ToList();
+                        (string.IsNullOrEmpty(this.Family) || (monster.Family != null && monster.Family.ToLower().Equals(this.Family.ToLower()))) &&
+                        (string.IsNullOrEmpty(size) || (monster.Size != null && monster.Size.ToLower().Equals(size.ToLower()))) &&
+                        (string.IsNullOrEmpty(type) || (monster.Type != null && monster.Type.ToLower().Contains(type.ToLower()))) &&
+                        (string.IsNullOrEmpty(terrain) || (monster.Terrain != null && monster.Terrain.ToLower().Contains(terrain.ToLower()))) &&
+                        (
+                            (string.IsNullOrEmpty(minChallenge) || monster.XP >= MonsterItem.ChallengeToXP(minChallenge)) &&
+                            (string.IsNullOrEmpty(maxChallenge) || monster.XP <= MonsterItem.ChallengeToXP(maxChallenge))
+                        ) &&
+                        (
+                            monster.NormalizedName.ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower()) ||
+                            monster.NormalizedAltName.ToLower().Contains(Helpers.RemoveDiacritics(SearchText ?? string.Empty).ToLower())
+                        )
+                    //MatchEquals(monster.Family, this.Family) &&
+                    //MatchContains(monster.Type, type) &&
+                    //MatchEquals(monster.Size, size) &&
+                    //MatchContains(monster.Terrain, terrain) &&
+                    //MatchRange(monster.Challenge, minChallenge, maxChallenge, challengeComparer) &&
+                    //MatchSearch(monster) 
+                    ).OrderBy(monster => monster.NormalizedName).ToList();
                 }
             }
             catch

@@ -44,5 +44,23 @@ namespace AideDeJeuLib
         public string Languages { get; set; }
         [Indexed]
         public string Challenge { get; set; }
+        [Indexed]
+        public int XP
+        {
+            get
+            {
+                return ChallengeToXP(Challenge);
+            }
+            private set { }
+        }
+
+        public static int ChallengeToXP(string challenge)
+        {
+            if (string.IsNullOrEmpty(challenge)) return 0;
+            var regex = new Regex(@"\((?<xp>\d?\d?\d?\s?\d?\d?\d??) (PX|XP)\)");
+            int xp = 0;
+            int.TryParse(regex.Match(challenge).Groups["xp"].Value.Replace(" ", ""), out xp);
+            return xp;
+        }
     }
 }

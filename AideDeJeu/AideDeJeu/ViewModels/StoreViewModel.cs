@@ -689,7 +689,9 @@ namespace AideDeJeu.ViewModels
 
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
-                optionsBuilder.UseSqlite($"Data Source='{DbPath}'");
+                optionsBuilder
+                    .UseSqlite($"Data Source='{DbPath}'");
+                    //.ConfigureWarnings(warnings => warnings.Throw(Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.QueryClientEvaluationWarning));
             }
 
             protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -707,7 +709,7 @@ namespace AideDeJeu.ViewModels
 
                 modelBuilder.Entity<AlignmentItem>();
                 modelBuilder.Entity<GenericItem>();
-                modelBuilder.Entity<MonsterItem>();
+                modelBuilder.Entity<MonsterItem>().HasIndex(i => new { i.Id, i.Family, i.Type, i.Size, i.Terrain, i.Challenge, i.XP, i.Name, i.AltNameText, i.NormalizedName, i.NormalizedAltName });
                 modelBuilder.Entity<MonsterItems>();
                 modelBuilder.Entity<SpellItem>();
                 modelBuilder.Entity<SpellItems>();
