@@ -1,13 +1,105 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Shell xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:local="clr-namespace:AideDeJeu.Views"
-             x:Class="AideDeJeu.Views.MainShell">
-    <ShellItem>
+       xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
+       xmlns:library="clr-namespace:AideDeJeu.Views.Library"
+       x:Class="AideDeJeu.Views.MainShell">
+
+    <ShellItem Title="Accueil">
+        <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
+    </ShellItem>
+    <ShellItem Title="Personnages" FlyoutIcon="battle_axe.png">
+        <ShellContent Title="Personnages"  ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
+    </ShellItem>
+    <ShellItem Title="Dés" FlyoutIcon="d20.png">
+        <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
+    </ShellItem>
+    <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png" Route="data">
+        <ShellContent Title="Bibliothèque" Icon="spell_book.png" Route="item" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </ShellItem>
+    <!--<FlyoutItem Title="Héros &amp; Dragons">
+        <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Manuel des règles">
+        <ShellContent Title="Manuel des règles" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Cadre de campagne">
+        <ShellContent Title="Cadre de campagne" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Créatures et oppositions">
+        <ShellContent Title="Créatures et oppositions" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Les Cinq Royaumes" Route="data">
+        <ShellContent Title="Les Cinq Royaumes" Route="l5r_index_hd.md" ContentTemplate="{DataTemplate library:ItemPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Livre des monstres">
+        <ShellContent Title="Livre des monstres" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Monstrueusement Mignons">
+        <ShellContent Title="Monstrueusement Mignons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="Joan of Arc">
+        <ShellContent Title="Joan of Arc"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>
+    <FlyoutItem Title="SRD">
+        <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    </FlyoutItem>-->
+    <ShellItem Title="Les Cinq Royaumes">
+        <ShellSection>
+            <ShellContent Title="test1">
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <library:ItemsPage>
+                            <x:Arguments>
+                                <x:String>l5r_index_hd.md</x:String>
+                            </x:Arguments>
+                        </library:ItemsPage>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
+            <ShellContent Title="test2">
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <library:ItemsPage>
+                            <x:Arguments>
+                                <x:String>l5r_index_hd.md</x:String>
+                            </x:Arguments>
+                        </library:ItemsPage>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
+            <ShellContent Title="test3">
+                <ShellContent.ContentTemplate>
+                    <DataTemplate>
+                        <library:ItemsPage>
+                            <x:Arguments>
+                                <x:String>l5r_index_hd.md</x:String>
+                            </x:Arguments>
+                        </library:ItemsPage>
+                    </DataTemplate>
+                </ShellContent.ContentTemplate>
+            </ShellContent>
+        </ShellSection>
+    </ShellItem>
+    <!--Command="{Binding ShellNavigateCommand}"
+              CommandParameter="//data/item?path=l5r_index_hd.md"
+              />-->
+    <ShellItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
+        <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
+    </ShellItem>
+    <!--<ShellItem Text="Test">
+        
+    </ShellItem>-->
+    <!--Command="{Binding ShellNavigateCommand}"
+              CommandParameter="//data/item?path=l5r_index_hd.md"
+              />-->
+    <!--<ShellItem>
         <ShellSection>
             <ShellContent>
                 <local:MainPage/>
             </ShellContent>
         </ShellSection>
-    </ShellItem>
+    </ShellItem>-->
+
 </Shell>

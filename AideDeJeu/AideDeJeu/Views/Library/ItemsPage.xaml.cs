@@ -34,6 +34,12 @@ namespace AideDeJeu.Views.Library
 
             //mdMarkdown.NavigateToLink = async (s) => await itemsViewModel.Main.Navigator.NavigateToLinkAsync(s);
         }
+
+        public ItemsPage(string id)
+        {
+            InitializeComponent();
+
+        }
         public ItemsPage()
         {
             InitializeComponent();
