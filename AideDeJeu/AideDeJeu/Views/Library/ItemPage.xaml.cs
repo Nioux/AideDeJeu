@@ -49,10 +49,10 @@ namespace AideDeJeu.Views.Library
 
         public ItemPage(string id)
         {
-            Path = id;
             BindingContext = this;
             InitializeComponent();
-            LoadPageAsync();
+            Path = id;
+            //LoadPageAsync();
         }
 
         protected override void OnAppearing()
@@ -78,7 +78,7 @@ namespace AideDeJeu.Views.Library
         private async Task LoadPageAsync()
         {
             var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
-            var match = regex.Match(Path);
+            var match = regex.Match(Uri.UnescapeDataString(Path));
             var file = match.Groups["file"].Value;
             var anchor = match.Groups["anchor"].Value;
             var with = match.Groups["with"].Value;
@@ -126,13 +126,13 @@ namespace AideDeJeu.Views.Library
 
             backingStore = value;
             onChanged?.Invoke();
-            OnPropertyChanged(propertyName);
+            CallOnPropertyChanged(propertyName);
             return true;
         }
 
         #region INotifyPropertyChanged
         public event PropertyChangedEventHandler PropertyChanged;
-        protected void OnPropertyChanged([CallerMemberName] string propertyName = "")
+        protected void CallOnPropertyChanged([CallerMemberName] string propertyName = "")
         {
             var changed = PropertyChanged;
             if (changed == null)

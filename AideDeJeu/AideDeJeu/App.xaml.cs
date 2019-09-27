@@ -4,6 +4,7 @@ using AideDeJeu.ViewModels.Library;
 using AideDeJeu.ViewModels.PlayerCharacter;
 using AideDeJeu.Views;
 using AideDeJeuLib;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
