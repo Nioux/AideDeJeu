@@ -33,6 +33,8 @@ namespace AideDeJeu
             //var mainNavigationPage = new MainNavigationPage();
             //vm.Navigator = new Navigator(mainNavigationPage.Navigation);
             vm.Navigator = new Navigator(null);
+
+            Routing.RegisterRoute("item", typeof(Views.Library.ItemPage));
             //MainPage = mainNavigationPage;
             //mainNavigationPage.Navigation.PushAsync(new MainPage());
 

@@ -15,8 +15,8 @@
     <ShellItem Title="Dés" FlyoutIcon="d20.png">
         <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
     </ShellItem>
-    <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png" Route="data">
-        <ShellContent Title="Bibliothèque" Icon="spell_book.png" Route="item" ContentTemplate="{DataTemplate library:ItemPage}" />
+    <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png">
+        <ShellContent Title="Bibliothèque" Icon="spell_book.png" ContentTemplate="{DataTemplate library:ItemPage}" />
     </ShellItem>
     <!--<FlyoutItem Title="Héros &amp; Dragons">
         <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />

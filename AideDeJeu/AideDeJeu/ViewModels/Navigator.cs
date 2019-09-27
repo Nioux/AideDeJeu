@@ -239,7 +239,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task NavigateToLinkAsync(string s)
         {
-            await Shell.Current.GoToAsync($"//data/item?path={s}");
+            await Shell.Current.GoToAsync($"item?path={s}");
             return;
             if (s != null)
             {
