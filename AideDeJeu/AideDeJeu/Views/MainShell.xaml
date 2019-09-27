@@ -16,7 +16,7 @@
         <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
     </ShellItem>
     <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png" Route="data">
-        <ShellContent Title="Bibliothèque" Icon="spell_book.png" Route="item" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+        <ShellContent Title="Bibliothèque" Icon="spell_book.png" Route="item" ContentTemplate="{DataTemplate library:ItemPage}" />
     </ShellItem>
     <!--<FlyoutItem Title="Héros &amp; Dragons">
         <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
@@ -45,42 +45,96 @@
     <FlyoutItem Title="SRD">
         <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
     </FlyoutItem>-->
+    <ShellItem Title="Manuel des Règles">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_mdr.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Cadre de Campagne">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_cdc.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Créatures et Oppositions">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_ceo.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
     <ShellItem Title="Les Cinq Royaumes">
-        <ShellSection>
-            <ShellContent Title="test1">
-                <ShellContent.ContentTemplate>
-                    <DataTemplate>
-                        <library:ItemsPage>
-                            <x:Arguments>
-                                <x:String>l5r_index_hd.md</x:String>
-                            </x:Arguments>
-                        </library:ItemsPage>
-                    </DataTemplate>
-                </ShellContent.ContentTemplate>
-            </ShellContent>
-            <ShellContent Title="test2">
-                <ShellContent.ContentTemplate>
-                    <DataTemplate>
-                        <library:ItemsPage>
-                            <x:Arguments>
-                                <x:String>l5r_index_hd.md</x:String>
-                            </x:Arguments>
-                        </library:ItemsPage>
-                    </DataTemplate>
-                </ShellContent.ContentTemplate>
-            </ShellContent>
-            <ShellContent Title="test3">
-                <ShellContent.ContentTemplate>
-                    <DataTemplate>
-                        <library:ItemsPage>
-                            <x:Arguments>
-                                <x:String>l5r_index_hd.md</x:String>
-                            </x:Arguments>
-                        </library:ItemsPage>
-                    </DataTemplate>
-                </ShellContent.ContentTemplate>
-            </ShellContent>
-        </ShellSection>
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>l5r_index_hd.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Livre des Monstres">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>tome_of_beasts.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Monstrueusement Mignons">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>baby_bestiary.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="SRD">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_srd.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
     </ShellItem>
     <!--Command="{Binding ShellNavigateCommand}"
               CommandParameter="//data/item?path=l5r_index_hd.md"

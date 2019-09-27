@@ -239,6 +239,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task NavigateToLinkAsync(string s)
         {
+            await Shell.Current.GoToAsync($"//data/item?path={s}");
+            return;
             if (s != null)
             {
                 var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");

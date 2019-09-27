@@ -29,11 +29,12 @@ namespace AideDeJeu
             var bgtan = (Color)Resources["HDWhite"];
 
 
-            //MainPage = new MainShell();
-            var mainNavigationPage = new MainNavigationPage();
-            vm.Navigator = new Navigator(mainNavigationPage.Navigation);
-            MainPage = mainNavigationPage;
-            mainNavigationPage.Navigation.PushAsync(new MainPage());
+            MainPage = new MainShell();
+            //var mainNavigationPage = new MainNavigationPage();
+            //vm.Navigator = new Navigator(mainNavigationPage.Navigation);
+            vm.Navigator = new Navigator(null);
+            //MainPage = mainNavigationPage;
+            //mainNavigationPage.Navigation.PushAsync(new MainPage());
 
         }
 
