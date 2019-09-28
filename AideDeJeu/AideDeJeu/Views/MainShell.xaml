@@ -151,6 +151,12 @@
             </ShellContent.ContentTemplate>
         </ShellContent>
     </ShellItem>
+    <ShellItem Title="Favoris">
+        <ShellContent Title="Favoris"  ContentTemplate="{DataTemplate library:BookmarksPage}" FlyoutIcon="stars_stack.png" />
+    </ShellItem>
+    <ShellItem Title="Recherche">
+        <ShellContent Title="Recherche"  ContentTemplate="{DataTemplate library:DeepSearchPage}"  FlyoutIcon="crystal_ball.png" />
+    </ShellItem>
     <!--Command="{Binding ShellNavigateCommand}"
               CommandParameter="//data/item?path=l5r_index_hd.md"
               />-->
