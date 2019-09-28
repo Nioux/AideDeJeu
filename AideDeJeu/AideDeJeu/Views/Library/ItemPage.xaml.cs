@@ -55,13 +55,13 @@ namespace AideDeJeu.Views.Library
             //LoadPageAsync();
         }
 
-        protected override void OnAppearing()
-        {
-            base.OnAppearing();
-            LoadPageAsync();
-        }
+        //protected override void OnAppearing()
+        //{
+        //    base.OnAppearing();
+        //    LoadPageAsync();
+        //}
 
-        private string _Path { get; set; } = "index.md";
+        private string _Path { get; set; } = null; //"index.md";
         public string Path
         {
             get
@@ -77,6 +77,7 @@ namespace AideDeJeu.Views.Library
 
         private async Task LoadPageAsync()
         {
+            if (Path == null) return;
             var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
             var match = regex.Match(Uri.UnescapeDataString(Path));
             var file = match.Groups["file"].Value;
