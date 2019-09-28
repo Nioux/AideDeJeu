@@ -33,7 +33,7 @@ namespace AideDeJeu
             MainPage = new MainShell();
             //var mainNavigationPage = new MainNavigationPage();
             //vm.Navigator = new Navigator(mainNavigationPage.Navigation);
-            vm.Navigator = new Navigator(null);
+            vm.Navigator = new Navigator(Shell.Current.Navigation);
 
             Routing.RegisterRoute("item", typeof(Views.Library.ItemPage));
             //MainPage = mainNavigationPage;
