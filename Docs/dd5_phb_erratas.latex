@@ -22,7 +22,7 @@
 \usepackage{lipsum}
 \usepackage{listings}
 \usepackage{soul}
-\usepackage{dnd}
+\usepackage[bg=print]{dnd}
 
 \lstset{%
   basicstyle=\ttfamily,
@@ -35,7 +35,15 @@
 % Your content goes here
 
 % Comment this out if you're using the article class.
-\chapter{Erratas du Player's Handbook v1.03}
+\chapter{Erratas du Player's Handbook v2.0}
+
+\nopagebreak
+\subsection{Page 15 - Gauche}
+\subsubsection{Après le niveau 1}
+Lancez ce dé de vie, ajoutez votre modificateur de Constitution au résultat et ajoutez le total \underline{(minimum 1)} à votre maximum de points de vie.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
 
 \nopagebreak
 \subsection{Page 20 - Droite}
@@ -90,6 +98,30 @@
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 53 - Gauche}
+\subsubsection{Emplacements de sorts}
+Vous trouverez dans le tableau d'évolution du barde le nombre d'emplacements de sorts que vous avez et qui vous permettent de lancer des sorts \underline{de barde} de niveau 1 ou supérieur. 
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 54 - Droite}
+\subsection{Secrets magiques}
+Choisissez deux sorts de n'importe quelle\underline{s} classe\underline{s}, y compris celle-ci. 
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 58 - Gauche}
+\subsubsection{Préparer et lancer des sorts}
+Le tableau d'évolution du clerc vous indique le nombre d'emplacements de sorts dont vous disposez pour lancer des sorts \underline{de clerc} de niveau 1 et plus.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 59 - Droite}
 \header{Sorts du domaine de la guerre}
 \begin{dndtable}[>{\hsize=0.75\hsize}Y >{\hsize=1.25\hsize}X]
@@ -122,6 +154,14 @@ Quand vous lancez \underline{les dés} pour infliger des dégâts de foudre ou d
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 66 - Gauche}
+\subsubsection{Préparer et lancer des sorts}
+Le tableau d'évolution du druide vous indique le nombre d'emplacements de sorts dont vous disposez pour lancer vos sorts \underline{de druide} de niveau 1 et plus.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 66 - Droite}
 \header{Formes sauvages}
 \begin{dndtable}[>{\hsize=0.5\hsize}Y >{\hsize=0.5\hsize}Y >{\hsize=2\hsize}X >{\hsize=1\hsize}X]
@@ -136,6 +176,14 @@ Quand vous lancez \underline{les dés} pour infliger des dégâts de foudre ou d
 \begin{paperbox}{Les druides et les dieux}
 ... Dans les \textit{Royaumes Oubliés} par exemple, un cercle regroupe généralement des druides dévoués à Sylvanus, \underline{Mailikki}, Eldath, Chauntéa et même aux sévères dieux de la fureur comme Talos, Malar, Aurile et Umberlie. ...
 \end{paperbox}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 72 - Gauche}
+\subsubsection{Emplacements de sorts}
+Vous trouverez dans le tableau d'évolution du barde le nombre d'emplacements de sorts dont vous disposez pour lancer des sorts \underline{d'ensorceleur} de niveau 1 ou supérieur.
+\newline
+\textit{(errata officiel du PH 2.0)}
 \pagebreak[0]
 
 \nopagebreak
@@ -154,6 +202,14 @@ Un pic de magie sauvage ne peut se produire qu'une seule fois par tour.
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 79 - Droite}
+\subsubsection{Incantation}
+Le tableau d'incantation du chevalier occulte indique le nombre d'emplacements de sorts dont vous disposez pour lancer les sorts \underline{de magicien} de niveau 1 ou plus.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 80 - Droite}
 \textit{\textbf{Dés de supériorité.}} Vous récupérez tous les dés dépensés lorsque vous terminez \underline{un court repos ou} un long repos.
 \pagebreak[0]
@@ -165,6 +221,9 @@ Un pic de magie sauvage ne peut se produire qu'une seule fois par tour.
 \newline
 \textit{\textbf{Fente.}} 
 \st{Quand vous touchez une creature avec une attaque armee} Lorsque vous effectuez un jet d'attaque avec une arme de mêlée durant votre tour
+\newline
+\textit{\textbf{Grande amplitude d'attaque.}} 
+Quand vous touchez une creature avec une \st{attaque armee} \underline{attaque de corps à corps}
 \pagebreak[0]
 
 \nopagebreak
@@ -198,6 +257,32 @@ L'objet invoqué disparaît également s'il inflige des dégâts.
 \nopagebreak
 \subsection{Page 95 - Gauche}
 \textit{\textbf{Fouet aqueux.}} Vous pouvez dépenser 2 points de ki par une action \st{bonus} pour créer un fouet constitué d'eau qui tire et pousse une créature afin de la déséquilibrer.
+\newline
+\textit{\textbf{Harmonisation élémentaire.}} Vous pouvez utiliser votre action pour contrôler brièvement les forces élémentaires \st{voisines} à 9 mètres de vous et générer l'effet de votre choix parmi les suivants. \textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 98 - Droite}
+\subsubsection{Préparer et lancer des sorts}
+Le tableau d'évolution du druide vous indique le nombre d'emplacements de sorts dont vous disposez pour lancer vos sorts \underline{de paladin} de niveau 1 et plus.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 99 - Gauche}
+\subsection{Châtiment divin}
+Les dégâts subis sont augmentés d'1d8 supplémentaire si la cible est un mort-vivant ou un fiélon \underline{jusqu'à un maximum de 6d8}.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 99 - Droite}
+\subsection{Châtiment divin amélioré}
+\st{Si vous utilisez aussi votre aptitude chatiment divin lors de l'attaque, vous additionnez ces degats aux degats supplementaires de votre chatiment divin.}
+\newline
+\textit{(errata officiel du PH 2.0)}
 \pagebreak[0]
 
 \nopagebreak
@@ -207,9 +292,46 @@ L'objet invoqué disparaît également s'il inflige des dégâts.
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 105 - Droite}
+\subsubsection{Emplacements de sorts}
+Vous trouverez dans le tableau d'évolution du rôdeur le nombre d'emplacements de sorts que vous avez et qui vous permettent de lancer des sorts \underline{de rôdeur} de niveau 1 ou supérieur.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 107 - Droite}
 \subsubsection{Compagnon du rôdeur}
-Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosité de 1/4 ou moins
+Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosité de 1/4 ou moins...
+\newline
+\underline{Si vous êtes neutralisé ou absent, la bête peut} 
+\underline{agir d'elle-même, se concentrer sur votre}
+\underline{protection ou sa sienne. La bête n'a jamais}
+\underline{besoin d'un ordre pour utiliser sa réaction,}
+\underline{comme pour effectuer une attaque d'opportunité.}
+\newline
+... Elle agit à son tour à votre initiative \st{mais n'entreprend aucune action a moins que vous ne le lui ordonniez} ...
+\newline
+Vous pouvez utiliser votre action pour lui ordonner oralement d'exécuter l'action attaquer, se précipiter, se désengager, \st{esquiver} ou aider.
+\newline
+... \underline{Si vous ne donnez aucun ordre, la bête}
+\underline{effectue l'action esquiver.}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\subsubsection{Entraînement exceptionnel}
+À partir du niveau 7, à votre tour et quand votre compagnon animal n'attaque pas, vous pouvez utiliser une action bonus pour lui ordonner d'entreprendre à son tour l'action se précipiter, se désengager, \st{esquiver} ou aider. \underline{De plus, les attaques de la bête sont maintenant}
+\underline{considérées comme magiques pour outrepasser} 
+\underline{la résistance et l'immunité aux attaques et} \underline{dégâts non magiques.}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 111 - Droite}
+\subsubsection{Incantation}
+Le tableau d'incantation de l'arnaqueur arcanique indique le nombre d'emplacements de sorts dont vous disposez pour lancer les sorts \underline{de magicien} de niveau 1 ou plus.
+\newline
+\textit{(errata officiel du PH 2.0)}
 \pagebreak[0]
 
 \nopagebreak
@@ -226,6 +348,8 @@ Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosi
 ... Consultez le chapitre 10 pour connaître les règles générales régissant les incantations et le chapitre 11 pour obtenir la liste des sorts du \st{barde} \underline{sorcier}.
 
 \subsubsection{Emplacements de sorts}
+Pour lancer un de vos sorts de sorcier de niveau 1 \st{ou superieur} \underline{à 5}, vous devez dépenser un emplacement de sort.\textit{(errata officiel du PH 2.0)}
+\newline
 ... Pour lancer le sort de niveau 1 \st{vague tonnante} \underline{carreau ensorcelé}, vous devez utiliser un de ces emplacements de sort et vous le lancez comme un sort de niveau 3.
 \pagebreak[0]
 
@@ -281,6 +405,20 @@ Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosi
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 149}
+\header{Armes}
+\begin{dndtable}[>{\hsize=2\hsize}X >{\hsize=0.75\hsize}Y >{\hsize=1\hsize}X >{\hsize=0.75\hsize}Y >{\hsize=0.75\hsize}Y]
+   	\textbf{Nom} & \textbf{...} & \textbf{Poids} & \textbf{...} \\
+   	... & ... & ... & ... \\
+    Épée courte & ... & \st{0,5} \underline{1} kg & ... \\
+    Marteau de guerre & ... & \st{0,5} \underline{1} kg & ... \\
+    Pic de guerre & ... & \st{0,5} \underline{1} kg & ... \\
+    Rapière & ... & \st{0,5} \underline{1} kg & ... \\
+   	... & ... & ... & ... 
+\end{dndtable}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 151 - Droite}
 \begin{paperbox}{Paquetages d'équipement}
 \textbf{\textit{Paquetage d'ecclésiastique (19 po).}} ... 2 jours de \st{raton} \underline{rations} et une outre.
@@ -292,6 +430,13 @@ Choisissez une bête de \underline{taille Moyenne} au maximum et d'une dangerosi
 \textbf{\textit{Matériel d'escalade}}
 \newline
 apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 159 - Gauche}
+\begin{paperbox}{Autosuffisance}
+... vous pouvez gagner de quoi mener un train de vie \st{pauvre} \underline{modeste}.
+\end{paperbox}
 \pagebreak[0]
 
 \nopagebreak
@@ -314,9 +459,16 @@ apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
 \subsection{Explorateur de donjons}
 \begin{itemize}
   \item \st{Vous pouvez chercher des pieges en vous deplacant a un rythme normal et non lent.}
-\end{itemize}
-
+\newline
 \textit{(Sage Advice Compendium v2.2)}
+\end{itemize}
+\begin{itemize}
+  \item \underline{Vous déplacer à un rythme normal n'impose}
+  \underline{pas un malus de -5 à votre score de}
+  \underline{Sagesse passive (Perception).}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\end{itemize}
 \pagebreak[0]
 
 \nopagebreak
@@ -333,13 +485,31 @@ apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
 \subsection{Sentinelle}
 \begin{itemize}
   \item Vous pouvez effectuer des attaques d'opportunité contre les créatures \st{situees a 1,50 metres ou moins de vous,} même si elles utilisent l'action se désengager avant de quitter votre zone d'allonge.
-\end{itemize}
+  \newline
 \textit{(errata officiel du PH 1.22)}
+\end{itemize}
+
+\subsection{Spécialiste des armes d'hast}
+\begin{itemize}
+  \item Quand vous effectuez l'action attaquer et que vous attaquez avec une coutille, une hallebarde, \st{ou} un bâton \underline{ou une lance} uniquement, vous pouvez utiliser une action bonus pour effectuer une attaque au corps à corps avec l'autre extrémité de l'arme.
+  \newline
+\textit{(errata officiel du PH 2.0)}
+  \item Lorsque vous maniez une coutille, une hallebarde, une pique, \st{ou} un bâton \underline{ou une lance}, vous pouvez effectuer des attaques d'opportunité contre les créatures qui entrent dans votre zone d'allonge.
+  \newline
+\textit{(errata officiel du PH 2.0)}
+\end{itemize}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 173 - Droite}
+\subsubsection{Avantages et désavantages}
+Quand vous êtes avantagé ou désavantagé et qu'un élément du jeu, comme le trait chanceux du halfelin, vous permet de relancer ou remplacer le d20, vous ne pouvez relancer \underline{ou remplacer} qu'un seul des deux dés.
 \pagebreak[0]
 
 \nopagebreak
 \subsection{Page 174 - Gauche}
-... lors de certains tests de caractéristiques. \st{caracteristiques.}
+\subsubsection{Bonus de maîtrise}
+permet de doubler le bonus de maîtrise lors de certains tests de caractéristiques. \st{caracteristiques.}
 \pagebreak[0]
 
 \nopagebreak
@@ -348,7 +518,15 @@ apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
 ...
 \newline
 Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir \underline{clairement} et vous révélez votre cachette si vous faites du bruit, en criant un avertissement ou en renversant un vase, par exemple.
+\newline
+\textbf{\textit{Perception passive.}} ... avec la valeur passive de Sagesse \st{(Discretion)} \underline{(Perception)} de cette créature
+\newline
 \end{paperbox}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 181 - Droite}
+\textbf{\textit{Montures et véhicules.}} De nombreux animaux peuvent se \st{deplacent} \underline{déplacer} bien plus rapidement ...
 \pagebreak[0]
 
 \nopagebreak
@@ -362,6 +540,68 @@ Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir \underl
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 191 - Droite}
+\subsubsection{Emplacement}
+Si \st{cinq} \underline{quatre} créatures de taille G entourent une créature de taille Moyenne ou plus petite, il ne reste plus assez de place pour qui que ce soit d'autre.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 195 - Droite}
+\subsubsection{Empoignade}
+... qu'elle préfère utiliser). \underline{Vous réussissez automatiquement si votre cible}
+\underline{est neutralisée.} Si vous réussissez ...
+\newline
+\textit{(errata officiel du PH 2.0)}
+\subsubsection{Bousculer une créature}
+\st{Si vous remportez l'opposition, vous pouvez faire tomber votre cible a terre ou la repousser a 1,50 metre de vous.}
+\newline
+\underline{Vous réussissez automatiquement si la cible}
+\underline{est neutralisée. Si vous réussissez, vous pouvez}
+\underline{faire tomber votre cible à terre ou la repousser à}
+\underline{1,50 mètre de vous.}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 205 - Gauche}
+\subsubsection{Combiner les effets magiques}
+en revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. \underline{Ou l'effet le plus récent s'applique si les effets}
+\underline{sont aussi puissants et que les durées se} 
+\underline{superposent.}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+
+
+\nopagebreak
+\subsection{Page 214 - Droite}
+\subsubsection{Appel de la foudre}
+Un nuage orageux apparaît sous forme d'un cylindre de 3 mètres de haut pour 18 mètres de rayon, centré sur un point situé dans votre champ de vision et \st{a 30 metres} \underline{à portée} directement au-dessus de vous.
+\newline
+Quand vous lancez le sort, vous devez choisir un point situé \st{a portee} \underline{sous le nuage} et dans votre champ de vision.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 215 - Droite}
+\subsubsection{Arme spirituelle}
+\textbf{\textit{À plus haut niveau.}} 
+... les dégâts augmentent de 1d8 \st{par niveau} \underline{tous les 2 niveaux} au delà du 2e.
+
+\subsubsection{Asperssion acide}
+Choisissez une créature \underline{que vous pouvez voir} à portée, ou deux créatures \underline{que vous pouvez voir} à portée situées à 1,50 mètre ou moins l'une de l'autre.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+
+
+\nopagebreak
 \subsection{Page 220 - Droite}
 \subsubsection{Contact glacial}
 (dans l'ordre alphabétique devrait être p 227)
@@ -371,6 +611,51 @@ Vous ne pouvez pas vous cacher d'une créature qui peut déjà vous voir \underl
 \subsection{Page 222 - Gauche}
 \subsubsection{Chaîne d'éclairs}
 \textbf{Portée :} \underline{45 mètres}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 227}
+\subsubsection{Contagion}
+\st{Si vous touchez, vous lui inoculez une maladie de votre choix, a selectionner parmi celles decrites plus loin.
+La cible doit faire un jet de sauvegarde de Constitution a la fin de ses tours. Une fois qu'elle en a rate trois, la maladie fait effet pendant toute la duree du sort et la creature n'a plus a faire de jet de sauvegarde. Si elle reussit trois jets de sauvegarde, elle guerit de sa maladie et le sort se termine.}
+\underline{Si vous touchez, la cible est empoisonnée.}
+\underline{À la fin de chacun des tours de la cible}
+\underline{empoisonnée, la cible doit faire un jet de}
+\underline{sauvegarde de Constitution. Si la cible réussit}
+\underline{trois de ces jets de sauvegarde, elle n'est plus}
+\underline{empoisonnée et le sort prend fin. Si la cible rate}
+\underline{trois de ces jets de sauvegarde, la cible n'est}
+\underline{plus empoisonnée, mais choisit l'une des}
+\underline{maladies ci-dessous. La cible est affectée par}
+\underline{la maladie choisiependant la durée du sort.}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 229 - Droite}
+\subsubsection{Couleurs dansantes}
+Chaque créature affectée, en commençant par celle qui possède actuellement le moins de points de vie, est aveuglée jusqu'à la fin \st{du sort} \underline{de votre prochain tour}.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 232 - Gauche}
+\subsubsection{Désintégration}
+\st{Si ces degats la reduisent a 0 point de vie, elle est desintegree.}
+\underline{La cible est désintégrée si ces dégâts la}
+\underline{réduisent à 0 point de vie.}
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 239 - Droite}
+\subsubsection{Festin des héros}
+Douze créatures au maximum\underline{, vous y compris,} peuvent vous accompagner lors de ce repas.
+\newline
+\textit{(errata officiel du PH 2.0)}
 \pagebreak[0]
 
 \nopagebreak
@@ -390,9 +675,39 @@ Lorsque vous lancez ce sort, vous tracez un glyphe qui libèrera plus tard un ef
 \pagebreak[0]
 
 \nopagebreak
+\subsection{Page 253 - Gauche}
+\subsubsection{Lenteur}
+Une créature affectée par ce sort fait un nouveau jet de sauvegarde de Sagesse à la fin de \st{son tour} \underline{chacun de ses tours}.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 253 - Droite}
+\subsubsection{Lévitation}
+Une créature ou un objet \underline{non tenu} situé à portée et dans votre champ de vision s'élève à la verticale à une hauteur de 6 mètres et reste suspendu là pendant toute la duée du sort.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
 \subsection{Page 256 - Droite}
 \subsubsection{Mains brûlantes}
 \textbf{Portée :} \st{contact} \underline{personnelle} (cône de 4,50 mètres)
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 258}
+\subsubsection{Métamorphose suprême}
+\underline{Ce sort ne peut pas affecter une créature qui a}
+\underline{0 point de vie.}
+
+Vous transformez la créature en une autre créature, la créature en un objet \underline{non magique} ou l'objet en une créature.
+
+Si vous transformez une créature en objet, tous les objets qu'elle porte et transporte se métaporphosent avec elle \underline{si les objets ne sont pas plus grands que la}
+\underline{taille de la créature}.
+\newline
+\textit{(errata officiel du PH 2.0)}
 \pagebreak[0]
 
 \nopagebreak
@@ -442,14 +757,132 @@ Si la créature était un mort-vivant, elle revient sous la forme qu'elle avait 
 \textit{(errata officiel du PH 1.22)}
 \pagebreak[0]
 
+
+\nopagebreak
+\subsection{Page 277 - Gauche}
+\subsubsection{Sanctuaire}
+... faire un jet de sauvegarde \underline{de Sagesse}.
+
+Ce sort se termine si la créature protégée attaque, \st{ou} lance un sort affectant une créature ennemie \underline{ou inflige des dégâts à une autre créature}.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+
+\nopagebreak
+\subsection{Page 278 - Droite}
+\subsubsection{Serviteur invisible}
+Ce sort crée une force invisible \underline{de taille Moyenne}, dépourvue de forme et d'intellect, mais capable d'accomplir des tâches simples sur votre ordre jusqu'à la fin du sort.
+\newline
+\textit{(errata officiel du PH 2.0)}
+
+\subsubsection{Simulacre}
+En dehors de cela, il utilise toutes les statistiques de la créature qu'il représente\underline{, excepté que c'est une créature}
+\underline{artificielle}.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 283 - Droite}
+\subsubsection{Tempête de neige}
+Si une créature \st{se concentre} \underline{commence son tour} dans la zone d'effet du sort \underline{et se concentre}, elle doit faire un jet de sauvegarde de Constitution contre le DD du jet de sauvegarde de votre sort.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 284 - Gauche}
+\subsubsection{Tempête vengeresse}
+À chaque round où vous continuez à vous concentrer sur ce sort, il génère des effets \st{supplementaires} \underline{différents} à votre tour.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 285 - Droite}
+\subsubsection{Trait de feu}
+Faites \st{une attaque de contact a distance} \underline{un jet d'attaque de sort} contre la cible.
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 287 - Droite}
+\subsubsection{Trouver une monture}
+Vous pouvez communiquer par télépathie \st{avec votre monture tant qu'elle} \underline{l'un avec l'autre tant que votre monture} se trouve dans un rayon de 1,5 kilomètre.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 291 - Droite}
+\begin{paperbox}{L'épuisement}
+...
+\newline
+De plus, être rappelé à la vie réduit le niveau d'épuisement d'une créature de 1.
+\newline
+\textit{(errata officiel du PH 2.0)}
+\end{paperbox}
+\pagebreak[0]
+
+
 \nopagebreak
 \subsection{Page 304 - Gauche}
 \begin{monsterbox}{Aigle géant}
-  \begin{hangingpar}
     \textit{Bête de taille \underline{Grande}, Neutre Bon}
-  \end{hangingpar}
 \end{monsterbox}
 \pagebreak[0]
+
+
+\nopagebreak
+\subsection{Page 306 - Gauche}
+\begin{monsterbox}{Diablotin}
+...
+
+\textbf{Résistance aux dégâts} de froid ; contondants, perforants et tranchants infligés par des attaques non-magiques qui ne sont pas \underline{infligées par des armes} en argent
+
+\textit{(errata officiel du PH 2.0)}
+\end{monsterbox}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 308 - Droite}
+\begin{monsterbox}{Ours brun}
+...
+
+\textbf{\textit{Morsure.}} ... \st{+5} \underline{+6} pour toucher
+\newline
+\textbf{\textit{Griffes.}} ... \st{+5} \underline{+6} pour toucher
+
+\textit{(errata officiel du PH 2.0)}
+\end{monsterbox}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 309 - Gauche}
+\begin{monsterbox}{Ours noir}
+...
+
+\textbf{\textit{Morsure.}} ... \st{+3} \underline{+4} pour toucher
+\newline
+\textbf{\textit{Griffes.}} ... \st{+3} \underline{+4} pour toucher
+
+\textit{(errata officiel du PH 2.0)}
+\end{monsterbox}
+\pagebreak[0]
+
+\begin{monsterbox}{Panthère}
+    \textit{Bête de taille \st{Grande} \underline{Moyenne}, non-alignée}
+
+\end{monsterbox}
+
+\nopagebreak
+\subsection{Page 314}
+\subsubsection{Colonne 3}
+
+épuisement, 181, \st{199} \underline{185}, 291
+
+\pagebreak[0]
+
 
 \nopagebreak
 \subsection{Page 316}
@@ -464,6 +897,8 @@ repos, \st{86} \underline{186}
 
 \subsubsection{Colonne 5}
 vision dans le noir, \st{183, 199} \underline{185}
+\newline
+vision parfaite, \st{199} \underline{185}
 \pagebreak[0]
 
 \nopagebreak
@@ -472,11 +907,14 @@ vision dans le noir, \st{183, 199} \underline{185}
 
 \textbf{DD5 :} Wizards of the Coast, Gale Force Nine, Black Book Editions
 
-\textbf{Liste des erratas :} Toute la dream team qui a alimenté la liste sur le forum BBE, ainsi que les correcteurs / traducteurs pour leurs ajustements / précisions, ainsi que les forumeurs d'AideDD ;-)
+\textbf{Liste des erratas :} Tous les forumeurs qui ont alimenté la sheet sur le forum BBE, ainsi que les correcteurs / traducteurs pour leurs ajustements / précisions.
 
-\textbf{Sort ajouté :} Le sort de clerc manquant a été copié sur celui du forum du site AideDD
+https://www.black-book-editions.fr/
 
 \textbf{Template LaTeX :} evanbergeron https://github.com/evanbergeron/DND-5e-LaTeX-Template
+
+\textbf{Overleaf :}
+https://www.overleaf.com/
 
 \textbf{Formatage des erratas :} Moi ;-)
 \pagebreak[0]
