@@ -35,14 +35,14 @@
 % Your content goes here
 
 % Comment this out if you're using the article class.
-\chapter{Erratas du Player's Handbook v2.0}
+\chapter{Erratas du Player's Handbook v2.01}
 
 \nopagebreak
 \subsection{Page 15 - Gauche}
 \subsubsection{Après le niveau 1}
 Lancez ce dé de vie, ajoutez votre modificateur de Constitution au résultat et ajoutez le total \underline{(minimum 1)} à votre maximum de points de vie.
 \newline
-\textit{(errata officiel du PH 2.0)}
+\textit{(errata officiel du PH 2.01)}
 \pagebreak[0]
 
 \nopagebreak
@@ -61,6 +61,14 @@ Lancez ce dé de vie, ajoutez votre modificateur de Constitution au résultat et
 \textbf{Augmentation de caractéristiques.}
 \newline
 \textit{(doit être en gras)}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 30 - Gauche}
+\subsection{Traits des nains}
+\textbf{\textit{Entraînement aux armes naines.}}
+\newline
+Vous maîtrisez les haches \st{de guerre} \underline{d'arme}, ...
 \pagebreak[0]
 
 \nopagebreak
@@ -176,6 +184,12 @@ Le tableau d'évolution du druide vous indique le nombre d'emplacements de sorts
 \begin{paperbox}{Les druides et les dieux}
 ... Dans les \textit{Royaumes Oubliés} par exemple, un cercle regroupe généralement des druides dévoués à Sylvanus, \underline{Mailikki}, Eldath, Chauntéa et même aux sévères dieux de la fureur comme Talos, Malar, Aurile et Umberlie. ...
 \end{paperbox}
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 71 - Droite}
+\subsubsection{Maîtrises}
+\textbf{Compétences : } choisissez deux compétences parmi les suivantes : Arcanes, Intimidation, \underline{Perspicacité,} Persuasion, Religion et Supercherie
 \pagebreak[0]
 
 \nopagebreak
@@ -745,6 +759,13 @@ Vous prononcez une parole divine, empreinte de la puissance qui a façonné le m
   \item 20 points de vie ou moins: morte sur-le-champ.
 \end{itemize}
 Quels que soient ses points de vie, si un céleste, un élémentaire, une fée ou un fielon rate son jet de sauvegarde, il est immédiatement renvoyé sur son plan natal (s'il ne s'y trouve pas déjà). Il ne peut pas revenir sur votre propre plan pendant les 24 heures qui suivent, à moins d'user d'un \textit{souhait}. 
+\pagebreak[0]
+
+\nopagebreak
+\subsection{Page 272 - Gauche}
+\subsubsection{Purification de la nourriture et de l'eau}
+\textit{Transmutation de niveau 1 \underline{(rituel)}}
+
 \pagebreak[0]
 
 \nopagebreak
