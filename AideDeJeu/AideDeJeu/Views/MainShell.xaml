@@ -5,6 +5,23 @@
        xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
        xmlns:library="clr-namespace:AideDeJeu.Views.Library"
        x:Class="AideDeJeu.Views.MainShell">
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Color x:Key="NavigationPrimary">#2196F3</Color>
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.BackgroundColor" Value="#ffff00" />
+                <Setter Property="Shell.ForegroundColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="Red" />
+                <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
+                <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
+                <Setter Property="Shell.TabBarBackgroundColor" Value="{StaticResource HDRed}" />
+                <Setter Property="Shell.TabBarForegroundColor" Value="{StaticResource HDWhite}"/>
+                <Setter Property="Shell.TabBarUnselectedColor" Value="#95FFFFFF"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="Red"/>
+            </Style>
+            <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
+        </ResourceDictionary>
+    </Shell.Resources>
     <Shell.FlyoutHeader>
         <Label Text="{Binding HeaderTitle}" />
     </Shell.FlyoutHeader>
