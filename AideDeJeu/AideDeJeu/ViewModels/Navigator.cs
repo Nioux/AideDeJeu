@@ -239,6 +239,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task NavigateToLinkAsync(string s)
         {
+            await Navigation.PushAsync(new ItemPage(s), true);//.GoToAsync($"item?path={Uri.EscapeDataString(s)}");
+            return;
             if (s != null)
             {
                 var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");

@@ -4,6 +4,7 @@ using AideDeJeu.ViewModels.Library;
 using AideDeJeu.ViewModels.PlayerCharacter;
 using AideDeJeu.Views;
 using AideDeJeuLib;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
@@ -29,11 +30,14 @@ namespace AideDeJeu
             var bgtan = (Color)Resources["HDWhite"];
 
 
-            //MainPage = new MainShell();
-            var mainNavigationPage = new MainNavigationPage();
-            vm.Navigator = new Navigator(mainNavigationPage.Navigation);
-            MainPage = mainNavigationPage;
-            mainNavigationPage.Navigation.PushAsync(new MainPage());
+            MainPage = new MainShell();
+            //var mainNavigationPage = new MainNavigationPage();
+            //vm.Navigator = new Navigator(mainNavigationPage.Navigation);
+            vm.Navigator = new Navigator(Shell.Current.Navigation);
+
+            Routing.RegisterRoute("item", typeof(Views.Library.ItemPage));
+            //MainPage = mainNavigationPage;
+            //mainNavigationPage.Navigation.PushAsync(new MainPage());
 
         }
 

@@ -4,7 +4,33 @@
        xmlns:local="clr-namespace:AideDeJeu.Views"
        xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
        xmlns:library="clr-namespace:AideDeJeu.Views.Library"
-       x:Class="AideDeJeu.Views.MainShell">
+       x:Class="AideDeJeu.Views.MainShell"
+       BackgroundColor="{DynamicResource HDWhite}"
+       FlyoutBackgroundColor="{DynamicResource HDWhite}"
+       Shell.ForegroundColor="{DynamicResource HDRed}"
+       Shell.TitleColor="{DynamicResource HDBlack}"
+       Shell.UnselectedColor="{DynamicResource HDLightGrey}"
+       >
+    <Shell.Resources>
+        <ResourceDictionary>
+            <Color x:Key="NavigationPrimary">#2196F3</Color>
+            <Style x:Key="BaseStyle" TargetType="Element">
+                <Setter Property="Shell.BackgroundColor" Value="#ffff00" />
+                <Setter Property="Shell.ForegroundColor" Value="White" />
+                <Setter Property="Shell.TitleColor" Value="Red" />
+                <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
+                <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
+                <Setter Property="Shell.TabBarBackgroundColor" Value="Yellow" />
+                <Setter Property="Shell.TabBarForegroundColor" Value="Blue"/>
+                <Setter Property="Shell.TabBarUnselectedColor" Value="#95FFFFFF"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="Violet"/>
+            </Style>
+            <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
+        </ResourceDictionary>
+    </Shell.Resources>
+    <Shell.FlyoutHeader>
+        <Label Text="{Binding HeaderTitle}" />
+    </Shell.FlyoutHeader>
 
     <ShellItem Title="Accueil">
         <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
@@ -15,8 +41,20 @@
     <ShellItem Title="Dés" FlyoutIcon="d20.png">
         <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
     </ShellItem>
-    <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png" Route="data">
-        <ShellContent Title="Bibliothèque" Icon="spell_book.png" Route="item" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
+    <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png">
+        <!--<ShellContent Title="Bibliothèque" Icon="spell_book.png" ContentTemplate="{DataTemplate library:ItemPage}" />-->
+        <ShellContent Title="Bibliothèque" Icon="spell_book.png">
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+
     </ShellItem>
     <!--<FlyoutItem Title="Héros &amp; Dragons">
         <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
@@ -45,42 +83,102 @@
     <FlyoutItem Title="SRD">
         <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
     </FlyoutItem>-->
+    <ShellItem Title="Manuel des Règles">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_mdr.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Cadre de Campagne">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_cdc.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Créatures et Oppositions">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_ceo.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
     <ShellItem Title="Les Cinq Royaumes">
-        <ShellSection>
-            <ShellContent Title="test1">
-                <ShellContent.ContentTemplate>
-                    <DataTemplate>
-                        <library:ItemsPage>
-                            <x:Arguments>
-                                <x:String>l5r_index_hd.md</x:String>
-                            </x:Arguments>
-                        </library:ItemsPage>
-                    </DataTemplate>
-                </ShellContent.ContentTemplate>
-            </ShellContent>
-            <ShellContent Title="test2">
-                <ShellContent.ContentTemplate>
-                    <DataTemplate>
-                        <library:ItemsPage>
-                            <x:Arguments>
-                                <x:String>l5r_index_hd.md</x:String>
-                            </x:Arguments>
-                        </library:ItemsPage>
-                    </DataTemplate>
-                </ShellContent.ContentTemplate>
-            </ShellContent>
-            <ShellContent Title="test3">
-                <ShellContent.ContentTemplate>
-                    <DataTemplate>
-                        <library:ItemsPage>
-                            <x:Arguments>
-                                <x:String>l5r_index_hd.md</x:String>
-                            </x:Arguments>
-                        </library:ItemsPage>
-                    </DataTemplate>
-                </ShellContent.ContentTemplate>
-            </ShellContent>
-        </ShellSection>
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>l5r_index_hd.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Livre des Monstres">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>tome_of_beasts.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Monstrueusement Mignons">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>baby_bestiary.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="SRD">
+        <ShellContent>
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index_srd.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+    </ShellItem>
+    <ShellItem Title="Favoris">
+        <ShellContent Title="Favoris"  ContentTemplate="{DataTemplate library:BookmarksPage}" FlyoutIcon="stars_stack.png" />
+    </ShellItem>
+    <ShellItem Title="Recherche">
+        <ShellContent Title="Recherche"  ContentTemplate="{DataTemplate library:DeepSearchPage}"  FlyoutIcon="crystal_ball.png" />
     </ShellItem>
     <!--Command="{Binding ShellNavigateCommand}"
               CommandParameter="//data/item?path=l5r_index_hd.md"
