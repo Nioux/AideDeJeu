@@ -4,7 +4,13 @@
        xmlns:local="clr-namespace:AideDeJeu.Views"
        xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
        xmlns:library="clr-namespace:AideDeJeu.Views.Library"
-       x:Class="AideDeJeu.Views.MainShell">
+       x:Class="AideDeJeu.Views.MainShell"
+       BackgroundColor="{DynamicResource HDWhite}"
+       FlyoutBackgroundColor="{DynamicResource HDWhite}"
+       Shell.ForegroundColor="{DynamicResource HDRed}"
+       Shell.TitleColor="{DynamicResource HDBlack}"
+       Shell.UnselectedColor="{DynamicResource HDLightGrey}"
+       >
     <Shell.Resources>
         <ResourceDictionary>
             <Color x:Key="NavigationPrimary">#2196F3</Color>
@@ -14,10 +20,10 @@
                 <Setter Property="Shell.TitleColor" Value="Red" />
                 <Setter Property="Shell.DisabledColor" Value="#B4FFFFFF" />
                 <Setter Property="Shell.UnselectedColor" Value="#95FFFFFF" />
-                <Setter Property="Shell.TabBarBackgroundColor" Value="{StaticResource HDRed}" />
-                <Setter Property="Shell.TabBarForegroundColor" Value="{StaticResource HDWhite}"/>
+                <Setter Property="Shell.TabBarBackgroundColor" Value="Yellow" />
+                <Setter Property="Shell.TabBarForegroundColor" Value="Blue"/>
                 <Setter Property="Shell.TabBarUnselectedColor" Value="#95FFFFFF"/>
-                <Setter Property="Shell.TabBarTitleColor" Value="Red"/>
+                <Setter Property="Shell.TabBarTitleColor" Value="Violet"/>
             </Style>
             <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
         </ResourceDictionary>
