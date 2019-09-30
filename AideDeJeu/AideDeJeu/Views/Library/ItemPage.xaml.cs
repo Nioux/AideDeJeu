@@ -28,8 +28,8 @@ namespace AideDeJeu.Views.Library
             }
         }
 
-        private ItemDetailViewModel _Item = null;
-        public ItemDetailViewModel Item
+        private ItemViewModel _Item = null;
+        public ItemViewModel Item
         {
             get
             {
@@ -99,8 +99,19 @@ namespace AideDeJeu.Views.Library
             {
                 var items = item; // as Items;
                 var filterViewModel = items.GetNewFilterViewModel();
-                var itemsViewModel = new ItemDetailViewModel() { Item = items };
+                var itemsViewModel = new ItemViewModel() { Item = items, AllItems = items, Filter = filterViewModel };
                 this.Item = itemsViewModel;
+                itemsViewModel.LoadItemsCommand.Execute(null);
+                if (!string.IsNullOrEmpty(with))
+                {
+                    var swith = with.Split('_');
+                    for (int i = 0; i < swith.Length / 2; i++)
+                    {
+                        var key = swith[i * 2 + 0];
+                        var val = swith[i * 2 + 1];
+                        filterViewModel.FilterWith(key, val);
+                    }
+                }
                 //SwitchToMainTab();
                 //if (filterViewModel == null)
                 //{
@@ -117,6 +128,13 @@ namespace AideDeJeu.Views.Library
                 //await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
             }
         }
+
+        private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+            if (e.Item == null) return;
+            ((ListView)sender).SelectedItem = null;
+        }
+
 
         protected bool SetProperty<T>(ref T backingStore, T value,
             [CallerMemberName]string propertyName = "",

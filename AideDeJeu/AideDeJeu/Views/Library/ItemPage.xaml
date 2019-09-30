@@ -11,6 +11,7 @@
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
@@ -18,13 +19,32 @@
         <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand}" CommandParameter="{Binding Item.Markdown}" />
     </ContentPage.ToolbarItems>
     <Grid>
-        <ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
+        <!--<ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
             <mdview:MarkdownView 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
                 Markdown="{Binding Item.Item.Markdown}" 
                 NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
                 />
-        </ScrollView>
+        </ScrollView>-->
+        <ListView Grid.Column="0" Grid.Row="0" x:Name="ItemsListView" ItemsSource="{Binding Item.Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding Item.SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+            <ListView.Header>
+                <mdview:MarkdownView 
+                Theme="{StaticResource MonsterMarkdownTheme}" 
+                Markdown="{Binding Item.Item.Markdown}" 
+                NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
+                />
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10" Orientation="Vertical">
+                            <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=2}" />
+                            <Label Text="{Binding AltNameText}" LineBreakMode="WordWrap" TextColor="{StaticResource HDLightGrey}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=4}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
         <ActivityIndicator 
             VerticalOptions="StartAndExpand"
             HorizontalOptions="End"
