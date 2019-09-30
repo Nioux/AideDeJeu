@@ -16,7 +16,7 @@ namespace AideDeJeu
     public partial class App : Application
 	{
 
-		public App ()
+		public App (string search = null)
 		{
 			InitializeComponent();
 
@@ -38,6 +38,10 @@ namespace AideDeJeu
             Routing.RegisterRoute("item", typeof(Views.Library.ItemPage));
             //MainPage = mainNavigationPage;
             //mainNavigationPage.Navigation.PushAsync(new MainPage());
+            if (search != null)
+            {
+                Shell.Current.Navigation.PushAsync(new Views.Library.DeepSearchPage());
+            }
 
         }
 

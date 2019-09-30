@@ -30,6 +30,18 @@ namespace AideDeJeu.Views.Library
             BindingContext = new DeepSearchViewModel();
 		}
 
+        public DeepSearchPage(string search = null)
+        {
+            InitializeComponent();
+
+            BindingContext = new DeepSearchViewModel();
+
+            if (search != null)
+            {
+                (BindingContext as DeepSearchViewModel).ExecuteSearchCommandAsync(search);
+            }
+        }
+
         private async void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
             var searchedItem = e.Item as SearchedItem;

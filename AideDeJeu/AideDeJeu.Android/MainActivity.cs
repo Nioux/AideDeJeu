@@ -11,8 +11,9 @@ using System.Diagnostics;
 
 namespace AideDeJeu.Droid
 {
+    [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
     //[Activity(Label = "Aide de Jeu", Icon = "@drawable/black_book", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
-    [Activity(Label = "Beta Haches & Dés", Icon = "@drawable/battle_axe", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Beta Haches & Dés", Icon = "@drawable/battle_axe", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)
@@ -21,6 +22,9 @@ namespace AideDeJeu.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(bundle);
+
+            // Application Level Assistance
+            //Application.RegisterOnProvideAssistDataListener(new AndroidListener());
 
             AppDomain.CurrentDomain.UnhandledException += CurrentDomainOnUnhandledException;
             TaskScheduler.UnobservedTaskException += TaskSchedulerOnUnobservedTaskException;
@@ -38,7 +42,35 @@ namespace AideDeJeu.Droid
 
             DisplayCrashReport();
 
+            //// Verify the action and get the query
+            //if (Android.Content.Intent.ActionSearch == Intent.Action)
+            //{
+            //    var query = Intent.GetStringExtra(SearchManager.Query);
+            //}
+
+
+
             LoadApplication(new App());
+        }
+
+        protected override void OnNewIntent(Android.Content.Intent intent)
+        {
+            base.OnNewIntent(intent);
+            Intent = intent;
+        }
+
+        protected override void OnPostResume()
+        {
+            base.OnPostResume();
+            if (Intent.Extras != null)
+            {
+                string search = Intent.Extras.GetString("search");
+                if (!string.IsNullOrEmpty(search))
+                {
+                    Xamarin.Forms.Shell.Current.Navigation.PushAsync(new Views.Library.DeepSearchPage(search));
+                }
+                Intent.RemoveExtra("search");
+            }
         }
 
         public override void OnBackPressed()
@@ -125,6 +157,42 @@ namespace AideDeJeu.Droid
                 .Show();
         }
 
+    }
+
+    [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
+    //[Activity(Label = "Aide de Jeu", Icon = "@drawable/black_book", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Name = "com.nioux.aidedejeu.SearchActivity")]
+    public class SearchActivity : Android.App.Activity // global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
+    {
+        protected override void OnCreate(Bundle bundle)
+        {
+            base.OnCreate(bundle);
+
+            // Application Level Assistance
+            //Application.RegisterOnProvideAssistDataListener(new AndroidListener());
+
+            // Android.Content.Intent.ActionSearch.Equals
+            // Verify the action and get the query
+            if ("com.google.android.gms.actions.SEARCH_ACTION".Equals(Intent.Action))
+            {
+                var query = Intent.GetStringExtra(SearchManager.Query);
+                System.Diagnostics.Debug.WriteLine(query);
+
+                var intent = new Android.Content.Intent(Android.App.Application.Context, typeof(MainActivity));
+                intent.AddFlags(Android.Content.ActivityFlags.NewTask);
+                intent.PutExtra("search", query);
+                intent.AddFlags(Android.Content.ActivityFlags.ReorderToFront);
+                Android.App.Application.Context.StartActivity(intent);
+            }
+            this.FinishActivity(0);
+        }
+    }
+    public class AndroidListener : Java.Lang.Object, Application.IOnProvideAssistDataListener
+    {
+        public void OnProvideAssistData(Android.App.Activity activity, Bundle data) 
+        {
+            System.Diagnostics.Debug.WriteLine("OnProvideAssistData");
+        }
     }
 }
 
