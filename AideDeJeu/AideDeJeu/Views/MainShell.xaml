@@ -4,6 +4,7 @@
        xmlns:local="clr-namespace:AideDeJeu.Views"
        xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
        xmlns:library="clr-namespace:AideDeJeu.Views.Library"
+       xmlns:tools="clr-namespace:AideDeJeu.Tools"
        x:Class="AideDeJeu.Views.MainShell"
        BackgroundColor="{DynamicResource HDWhite}"
        FlyoutBackgroundColor="{DynamicResource HDWhite}"
@@ -12,6 +13,11 @@
        Shell.UnselectedColor="{DynamicResource HDLightGrey}"
        >
     <Shell.Resources>
+        <ResourceDictionary>
+            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+            <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
+        </ResourceDictionary>
         <ResourceDictionary>
             <Color x:Key="NavigationPrimary">#2196F3</Color>
             <Style x:Key="BaseStyle" TargetType="Element">
@@ -34,6 +40,34 @@
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Route}" />
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Content.BindingContext.Item.Title}" />
             <Label Text="{Binding Main.CurrentItem.Item.Name}" />
+            <!--<CollectionView IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" >
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                                    <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
+                                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>-->
+            <ListView BackgroundColor="Red" IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}"  SelectionMode="None" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                                    <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
+                                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </Shell.FlyoutHeader>
 

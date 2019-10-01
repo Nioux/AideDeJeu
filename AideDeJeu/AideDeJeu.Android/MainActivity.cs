@@ -30,6 +30,7 @@ namespace AideDeJeu.Droid
             TaskScheduler.UnobservedTaskException += TaskSchedulerOnUnobservedTaskException;
 
             Xamarin.Essentials.Platform.Init(this, bundle);
+            Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
             Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
             Rg.Plugins.Popup.Popup.Init(this, bundle);

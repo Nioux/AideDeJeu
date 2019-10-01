@@ -146,7 +146,11 @@ namespace AideDeJeu.Views.Library
         private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {
             if (e.Item == null) return;
-            ((ListView)sender).SelectedItem = null;
+            var lv = sender as ListView;
+            if (lv != null)
+            {
+                lv.SelectedItem = null;
+            }
         }
 
 
