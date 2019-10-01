@@ -29,19 +29,23 @@
         </ResourceDictionary>
     </Shell.Resources>
     <Shell.FlyoutHeader>
-        <Label Text="{Binding HeaderTitle}" />
+        <StackLayout>
+            <Label Text="{Binding HeaderTitle}" />
+            <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Route}" />
+            <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Content.BindingContext.Item.Title}" />
+        </StackLayout>
     </Shell.FlyoutHeader>
 
-    <ShellItem Title="Accueil">
+    <FlyoutItem Title="Accueil">
         <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
-    </ShellItem>
-    <ShellItem Title="Personnages" FlyoutIcon="battle_axe.png">
+    </FlyoutItem>
+    <FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
         <ShellContent Title="Personnages"  ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
-    </ShellItem>
-    <ShellItem Title="Dés" FlyoutIcon="d20.png">
+    </FlyoutItem>
+    <FlyoutItem Title="Dés" FlyoutIcon="d20.png">
         <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
-    </ShellItem>
-    <ShellItem Title="Bibliothèque" FlyoutIcon="spell_book.png">
+    </FlyoutItem>
+    <FlyoutItem Title="Bibliothèque" FlyoutIcon="spell_book.png">
         <!--<ShellContent Title="Bibliothèque" Icon="spell_book.png" ContentTemplate="{DataTemplate library:ItemPage}" />-->
         <ShellContent Title="Bibliothèque" Icon="spell_book.png">
             <ShellContent.ContentTemplate>
@@ -55,7 +59,7 @@
             </ShellContent.ContentTemplate>
         </ShellContent>
 
-    </ShellItem>
+    </FlyoutItem>
     <!--<FlyoutItem Title="Héros &amp; Dragons">
         <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
     </FlyoutItem>
@@ -83,7 +87,7 @@
     <FlyoutItem Title="SRD">
         <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
     </FlyoutItem>-->
-    <ShellItem Title="Manuel des Règles">
+    <FlyoutItem Title="Manuel des Règles">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -95,8 +99,8 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="Cadre de Campagne">
+    </FlyoutItem>
+    <FlyoutItem Title="Cadre de Campagne">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -108,8 +112,8 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="Créatures et Oppositions">
+    </FlyoutItem>
+    <FlyoutItem Title="Créatures et Oppositions">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -121,8 +125,8 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="Les Cinq Royaumes">
+    </FlyoutItem>
+    <FlyoutItem Title="Les Cinq Royaumes">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -134,8 +138,8 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="Livre des Monstres">
+    </FlyoutItem>
+    <FlyoutItem Title="Livre des Monstres">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -147,8 +151,8 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="Monstrueusement Mignons">
+    </FlyoutItem>
+    <FlyoutItem Title="Monstrueusement Mignons">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -160,8 +164,8 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="SRD">
+    </FlyoutItem>
+    <FlyoutItem Title="SRD">
         <ShellContent>
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -173,19 +177,19 @@
                 </DataTemplate>
             </ShellContent.ContentTemplate>
         </ShellContent>
-    </ShellItem>
-    <ShellItem Title="Favoris">
+    </FlyoutItem>
+    <FlyoutItem Title="Favoris">
         <ShellContent Title="Favoris"  ContentTemplate="{DataTemplate library:BookmarksPage}" FlyoutIcon="stars_stack.png" />
-    </ShellItem>
-    <ShellItem Title="Recherche">
+    </FlyoutItem>
+    <FlyoutItem Title="Recherche">
         <ShellContent Title="Recherche"  ContentTemplate="{DataTemplate library:DeepSearchPage}"  FlyoutIcon="crystal_ball.png" />
-    </ShellItem>
+    </FlyoutItem>
     <!--Command="{Binding ShellNavigateCommand}"
               CommandParameter="//data/item?path=l5r_index_hd.md"
               />-->
-    <ShellItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
+    <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
         <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
-    </ShellItem>
+    </FlyoutItem>
     <!--<ShellItem Text="Test">
         
     </ShellItem>-->

@@ -342,7 +342,7 @@ namespace AideDeJeu.ViewModels
                 };
 
             // Push the page to Navigation Stack
-            await PopupNavigation.Instance.PushAsync(popup);
+            await PopupNavigation.Instance.PushAsync(popup, true);
 
             // await for the user to enter the text input
             var result = await popup.PageClosedTask;

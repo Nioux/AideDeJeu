@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Input;
@@ -156,6 +157,51 @@ namespace AideDeJeu.ViewModels.Library
             cancellationTokenSource?.Cancel();
             cancellationTokenSource = new CancellationTokenSource();
             await LoadItemsAsync(cancellationTokenSource.Token);
+        }
+
+
+        public async Task LoadPageAsync(string path)
+        {
+            var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
+            var match = regex.Match(Uri.UnescapeDataString(path));
+            var file = match.Groups["file"].Value;
+            var anchor = match.Groups["anchor"].Value;
+            var with = match.Groups["with"].Value;
+            Item item = null;
+            try
+            {
+                Main.IsBusy = true;
+                Main.IsLoading = true;
+                item = await Task.Run(async () => await Main.Store.GetItemFromDataAsync(file, anchor));
+
+                if (item != null)
+                {
+                    var filterViewModel = item.GetNewFilterViewModel();
+                    Item = item;
+                    AllItems = item;
+                    Filter = filterViewModel;
+                    await ExecuteLoadItemsCommandAsync();
+                    if (!string.IsNullOrEmpty(with))
+                    {
+                        var swith = with.Split('_');
+                        for (int i = 0; i < swith.Length / 2; i++)
+                        {
+                            var key = swith[i * 2 + 0];
+                            var val = swith[i * 2 + 1];
+                            filterViewModel.FilterWith(key, val);
+                        }
+                    }
+                }
+                else
+                {
+                    //await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
+                }
+            }
+            finally
+            {
+                Main.IsBusy = false;
+                Main.IsLoading = false;
+            }
         }
 
     }

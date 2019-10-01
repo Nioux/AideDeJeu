@@ -67,7 +67,7 @@ namespace AideDeJeu.Droid
                 string search = Intent.Extras.GetString("search");
                 if (!string.IsNullOrEmpty(search))
                 {
-                    Xamarin.Forms.Shell.Current.Navigation.PushAsync(new Views.Library.DeepSearchPage(search));
+                    Xamarin.Forms.Shell.Current.Navigation.PushAsync(new Views.Library.DeepSearchPage(search), true);
                 }
                 Intent.RemoveExtra("search");
             }
@@ -157,6 +157,34 @@ namespace AideDeJeu.Droid
                 .Show();
         }
 
+        public override void OnProvideAssistContent(Android.App.Assist.AssistContent outContent)
+        {
+            base.OnProvideAssistContent(outContent);
+
+            outContent.WebUri = Android.Net.Uri.Parse("https://heros-et-dragons.fr/");
+            // Provide some JSON 
+            string structuredJson = new Org.Json.JSONObject()
+                .Put("@type", "Book")
+                .Put("author", "Lewis Carroll")
+                .Put("name", "Alice in Wonderland")
+                .Put("description",
+                    "This is an 1865 novel about a girl named Alice, " +
+                    "who falls through a rabbit hole and " +
+                    "enters a fantasy world."
+                ).ToString();
+                //.Put("@type", "MusicRecording")
+                //.Put("@id", "https://example.com/music/recording")
+                //.Put("name", "Album Title")
+                //.ToString();
+
+            outContent.StructuredData = structuredJson;
+        }
+
+        public override void OnProvideAssistData(Bundle data)
+        {
+            base.OnProvideAssistData(data);
+        }
+
     }
 
     [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
@@ -187,12 +215,12 @@ namespace AideDeJeu.Droid
             this.FinishActivity(0);
         }
     }
-    public class AndroidListener : Java.Lang.Object, Application.IOnProvideAssistDataListener
-    {
-        public void OnProvideAssistData(Android.App.Activity activity, Bundle data) 
-        {
-            System.Diagnostics.Debug.WriteLine("OnProvideAssistData");
-        }
-    }
+    //public class AndroidListener : Java.Lang.Object, Application.IOnProvideAssistDataListener
+    //{
+    //    public void OnProvideAssistData(Android.App.Activity activity, Bundle data) 
+    //    {
+    //        System.Diagnostics.Debug.WriteLine("OnProvideAssistData");
+    //    }
+    //}
 }
 

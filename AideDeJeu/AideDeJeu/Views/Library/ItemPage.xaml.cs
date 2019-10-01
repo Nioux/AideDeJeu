@@ -28,7 +28,7 @@ namespace AideDeJeu.Views.Library
             }
         }
 
-        private ItemViewModel _Item = null;
+        private ItemViewModel _Item = new ItemViewModel();
         public ItemViewModel Item
         {
             get
@@ -71,7 +71,10 @@ namespace AideDeJeu.Views.Library
             set
             {
                 _Path = value;
-                LoadPageAsync();
+                if (Path != null)
+                {
+                    Item?.LoadPageAsync(Path);
+                }
             }
         }
 

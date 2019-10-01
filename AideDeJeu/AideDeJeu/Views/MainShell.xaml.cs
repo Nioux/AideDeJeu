@@ -48,13 +48,34 @@ namespace AideDeJeu.Views
         protected override void OnNavigated(ShellNavigatedEventArgs args)
         {
             base.OnNavigated(args);
-            Debug.WriteLine(this.CurrentItem.CurrentItem.CurrentItem);
-            HeaderTitle = this.CurrentItem.CurrentItem.CurrentItem.Route;
+            Debug.WriteLine(this.CurrentItem?.CurrentItem?.CurrentItem);
+            HeaderTitle = this.CurrentItem?.CurrentItem?.CurrentItem?.Route;
+            var content = this.CurrentItem?.CurrentItem?.CurrentItem?.Content;
+            Debug.WriteLine(content);
+
+            this.CurrentItem.CurrentItem.CurrentItem.PropertyChanged += CurrentItem_PropertyChanged;
+            this.CurrentItem.CurrentItem.CurrentItem.Appearing += CurrentItem_Appearing;
+            this.CurrentItem.CurrentItem.CurrentItem.BindingContextChanged += CurrentItem_BindingContextChanged;
+        }
+
+        private void CurrentItem_BindingContextChanged(object sender, EventArgs e)
+        {
+            Debug.WriteLine(e.ToString());
+        }
+
+        private void CurrentItem_Appearing(object sender, EventArgs e)
+        {
+            Debug.WriteLine(e.ToString());
+        }
+
+        private void CurrentItem_PropertyChanged(object sender, PropertyChangedEventArgs e)
+        {
+            Debug.WriteLine(e.PropertyName);
         }
 
         protected bool SetProperty<T>(ref T backingStore, T value,
-    [CallerMemberName]string propertyName = "",
-    Action onChanged = null)
+            [CallerMemberName]string propertyName = "",
+            Action onChanged = null)
         {
             if (EqualityComparer<T>.Default.Equals(backingStore, value))
                 return false;

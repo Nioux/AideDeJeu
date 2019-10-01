@@ -40,7 +40,7 @@ namespace AideDeJeu
             //mainNavigationPage.Navigation.PushAsync(new MainPage());
             if (search != null)
             {
-                Shell.Current.Navigation.PushAsync(new Views.Library.DeepSearchPage());
+                Shell.Current.Navigation.PushAsync(new Views.Library.DeepSearchPage(), true);
             }
 
         }
