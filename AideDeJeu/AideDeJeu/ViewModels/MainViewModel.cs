@@ -213,5 +213,18 @@ namespace AideDeJeu.ViewModels
         public MainViewModel()
         {
         }
+
+        private Library.ItemViewModel _CurrentItem = null;
+        public Library.ItemViewModel CurrentItem
+        {
+            get
+            {
+                return _CurrentItem;
+            }
+            set
+            {
+                SetProperty(ref _CurrentItem, value);
+            }
+        }
     }
 }

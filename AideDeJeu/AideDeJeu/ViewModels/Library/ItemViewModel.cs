@@ -21,6 +21,7 @@ namespace AideDeJeu.ViewModels.Library
             set
             {
                 SetProperty(ref _Item, value);
+                Title = _Item?.Name;
             }
         }
 

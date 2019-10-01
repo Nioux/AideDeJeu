@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AideDeJeu.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -19,6 +20,14 @@ namespace AideDeJeu.Views
         {
             InitializeComponent();
             BindingContext = this;
+        }
+
+        public MainViewModel Main
+        {
+            get
+            {
+                return DependencyService.Get<MainViewModel>();
+            }
         }
 
         public ICommand ShellNavigateCommand

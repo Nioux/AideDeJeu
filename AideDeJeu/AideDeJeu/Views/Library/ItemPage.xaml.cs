@@ -61,6 +61,17 @@ namespace AideDeJeu.Views.Library
         //    LoadPageAsync();
         //}
 
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            Main.CurrentItem = Item;
+        }
+
+        protected override void OnDisappearing()
+        {
+            base.OnDisappearing();
+            Main.CurrentItem = null;
+        }
         private string _Path { get; set; } = null; //"index.md";
         public string Path
         {
@@ -78,59 +89,59 @@ namespace AideDeJeu.Views.Library
             }
         }
 
-        private async Task LoadPageAsync()
-        {
-            if (Path == null) return;
-            var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
-            var match = regex.Match(Uri.UnescapeDataString(Path));
-            var file = match.Groups["file"].Value;
-            var anchor = match.Groups["anchor"].Value;
-            var with = match.Groups["with"].Value;
-            Item item = null;
-            try
-            {
-                Main.IsBusy = true;
-                Main.IsLoading = true;
-                item = await Task.Run(async () => await Main.Store.GetItemFromDataAsync(file, anchor));
-            }
-            finally
-            {
-                Main.IsBusy = false;
-                Main.IsLoading = false;
-            }
-            if (item != null)
-            {
-                var items = item; // as Items;
-                var filterViewModel = items.GetNewFilterViewModel();
-                var itemsViewModel = new ItemViewModel() { Item = items, AllItems = items, Filter = filterViewModel };
-                this.Item = itemsViewModel;
-                itemsViewModel.LoadItemsCommand.Execute(null);
-                if (!string.IsNullOrEmpty(with))
-                {
-                    var swith = with.Split('_');
-                    for (int i = 0; i < swith.Length / 2; i++)
-                    {
-                        var key = swith[i * 2 + 0];
-                        var val = swith[i * 2 + 1];
-                        filterViewModel.FilterWith(key, val);
-                    }
-                }
-                //SwitchToMainTab();
-                //if (filterViewModel == null)
-                //{
-                //    await GotoItemsPageAsync(itemsViewModel);
-                //}
-                //else
-                //{
-                //    await GotoFilteredItemsPageAsync(itemsViewModel);
-                //}
+        //private async Task LoadPageAsync()
+        //{
+        //    if (Path == null) return;
+        //    var regex = new Regex("/?(?<file>.*?)(_with_(?<with>.*))?\\.md(#(?<anchor>.*))?");
+        //    var match = regex.Match(Uri.UnescapeDataString(Path));
+        //    var file = match.Groups["file"].Value;
+        //    var anchor = match.Groups["anchor"].Value;
+        //    var with = match.Groups["with"].Value;
+        //    Item item = null;
+        //    try
+        //    {
+        //        Main.IsBusy = true;
+        //        Main.IsLoading = true;
+        //        item = await Task.Run(async () => await Main.Store.GetItemFromDataAsync(file, anchor));
+        //    }
+        //    finally
+        //    {
+        //        Main.IsBusy = false;
+        //        Main.IsLoading = false;
+        //    }
+        //    if (item != null)
+        //    {
+        //        var items = item; // as Items;
+        //        var filterViewModel = items.GetNewFilterViewModel();
+        //        var itemsViewModel = new ItemViewModel() { Item = items, AllItems = items, Filter = filterViewModel };
+        //        this.Item = itemsViewModel;
+        //        itemsViewModel.LoadItemsCommand.Execute(null);
+        //        if (!string.IsNullOrEmpty(with))
+        //        {
+        //            var swith = with.Split('_');
+        //            for (int i = 0; i < swith.Length / 2; i++)
+        //            {
+        //                var key = swith[i * 2 + 0];
+        //                var val = swith[i * 2 + 1];
+        //                filterViewModel.FilterWith(key, val);
+        //            }
+        //        }
+        //        //SwitchToMainTab();
+        //        //if (filterViewModel == null)
+        //        //{
+        //        //    await GotoItemsPageAsync(itemsViewModel);
+        //        //}
+        //        //else
+        //        //{
+        //        //    await GotoFilteredItemsPageAsync(itemsViewModel);
+        //        //}
 
-            }
-            else
-            {
-                //await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
-            }
-        }
+        //    }
+        //    else
+        //    {
+        //        //await App.Current.MainPage.DisplayAlert("Lien invalide", s, "OK");
+        //    }
+        //}
 
         private void ItemsListView_ItemTapped(object sender, ItemTappedEventArgs e)
         {

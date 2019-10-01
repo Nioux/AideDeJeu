@@ -33,6 +33,7 @@
             <Label Text="{Binding HeaderTitle}" />
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Route}" />
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Content.BindingContext.Item.Title}" />
+            <Label Text="{Binding Main.CurrentItem.Item.Name}" />
         </StackLayout>
     </Shell.FlyoutHeader>
 
