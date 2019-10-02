@@ -11,7 +11,7 @@
        Shell.ForegroundColor="{DynamicResource HDRed}"
        Shell.TitleColor="{DynamicResource HDBlack}"
        Shell.UnselectedColor="{DynamicResource HDLightGrey}"
-       FlyoutHeaderBehavior="CollapseOnScroll"
+       FlyoutHeaderBehavior="Scroll"
        >
     <Shell.Resources>
         <ResourceDictionary>
@@ -43,19 +43,19 @@
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Content.BindingContext.Item.Title}" />
             <Label Text="{Binding Main.CurrentItem.Item.Name}" />-->
         <!--<CollectionView IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" >-->
-        <ScrollView>
-            <StackLayout>
+        <!--<ScrollView>
+            <StackLayout>-->
                 <StackLayout BindableLayout.ItemsSource="{Binding Main.CurrentItem.Filter.Filters}">
                     <BindableLayout.ItemTemplate>
                         <DataTemplate>
                             <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
-                                <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
+                                <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading4}" />
                                 <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
                             </StackLayout>
                         </DataTemplate>
                     </BindableLayout.ItemTemplate>
                 </StackLayout>
-                <Button Visual="Material" Text="Accueil" Command="{Binding NavigateToHomeCommand}" />
+                <!--<Button Visual="Material" Text="Accueil" Command="{Binding NavigateToHomeCommand}" />
                 <Button Visual="Material" Text="Personnages" Command="{Binding NavigateToPCCommand}" />
                 <Button Visual="Material" Text="Dés" Command="{Binding NavigateToDicesCommand}" />
                 <Button Visual="Material" Text="Manuel des Règles" Command="{Binding NavigateToItemCommand}" CommandParameter="index_mdr.md"/>
@@ -69,7 +69,7 @@
                 <Button Visual="Material" Text="Recherche" Command="{Binding NavigateToDeepSearchCommand}" />
                 <Button Visual="Material" Text="A propos de..." Command="{Binding NavigateToAboutCommand}" />
             </StackLayout>
-        </ScrollView>
+        </ScrollView>-->
         <!--<CollectionView BackgroundColor="Yellow" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" Header="{Binding}" Footer="{Binding}" EmptyView="{Binding}">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
@@ -89,7 +89,19 @@
             <CollectionView.FooterTemplate>
                 <DataTemplate>
                     <StackLayout BackgroundColor="Blue">
-                        <Button Visual="Material" Text="Accueil" Command="{Binding ShellNavigateCommand}" CommandParameter="index.md"/>
+                        <Button Visual="Material" Text="Accueil" Command="{Binding NavigateToHomeCommand}" />
+                        <Button Visual="Material" Text="Personnages" Command="{Binding NavigateToPCCommand}" />
+                        <Button Visual="Material" Text="Dés" Command="{Binding NavigateToDicesCommand}" />
+                        <Button Visual="Material" Text="Manuel des Règles" Command="{Binding NavigateToItemCommand}" CommandParameter="index_mdr.md"/>
+                        <Button Visual="Material" Text="Cadre de Campagne" Command="{Binding NavigateToItemCommand}" CommandParameter="index_cdc.md"/>
+                        <Button Visual="Material" Text="Créatures et Oppositions" Command="{Binding NavigateToItemCommand}" CommandParameter="index_ceo.md"/>
+                        <Button Visual="Material" Text="Les Cinq Royaumes" Command="{Binding NavigateToItemCommand}" CommandParameter="l5r_index_hd.md"/>
+                        <Button Visual="Material" Text="Livre des Monstres" Command="{Binding NavigateToItemCommand}" CommandParameter="tome_of_beasts.md"/>
+                        <Button Visual="Material" Text="Monstrueusement Mignons" Command="{Binding NavigateToItemCommand}" CommandParameter="baby_bestiary.md"/>
+                        <Button Visual="Material" Text="SRD" Command="{Binding NavigateToItemCommand}" CommandParameter="index_srd.md"/>
+                        <Button Visual="Material" Text="Favoris" Command="{Binding NavigateToBookmarksCommand}" />
+                        <Button Visual="Material" Text="Recherche" Command="{Binding NavigateToDeepSearchCommand}" />
+                        <Button Visual="Material" Text="A propos de..." Command="{Binding NavigateToAboutCommand}" />
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.FooterTemplate>
@@ -121,7 +133,7 @@
     <FlyoutItem Title="Accueil">
         <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
     </FlyoutItem>
-    <!--<FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
+    <FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
         <ShellContent Title="Personnages"  ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
     </FlyoutItem>
     <FlyoutItem Title="Dés" FlyoutIcon="d20.png">
@@ -240,6 +252,6 @@
     </FlyoutItem>
     <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
         <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
-    </FlyoutItem>-->
+    </FlyoutItem>
 
 </Shell>
