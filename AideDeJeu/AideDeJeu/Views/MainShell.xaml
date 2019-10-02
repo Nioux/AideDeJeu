@@ -35,23 +35,53 @@
         </ResourceDictionary>
     </Shell.Resources>
     <Shell.FlyoutHeader>
-        <!--<StackLayout>
-            <Label Text="{Binding HeaderTitle}" />
+        <!--<StackLayout>-->
+        <!--<Label Text="{Binding HeaderTitle}" />
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Route}" />
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Content.BindingContext.Item.Title}" />
             <Label Text="{Binding Main.CurrentItem.Item.Name}" />-->
-            <!--<CollectionView IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" >-->
-        <CollectionView IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" HeightRequest="100">
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
-                                <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
-                                    <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
-                                    <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
-                                </StackLayout>
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-            </CollectionView>
-            <!--<ListView BackgroundColor="Red" IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}"  SelectionMode="None" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
+        <!--<CollectionView IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" >-->
+        <CollectionView BackgroundColor="Yellow" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                        <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
+                        <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+            <CollectionView.Header>
+                <StackLayout></StackLayout>
+            </CollectionView.Header>
+            <CollectionView.HeaderTemplate>
+                <DataTemplate>
+                    <StackLayout BackgroundColor="Red">
+                        <Button Text="Accueil Header" Command="{Binding ShellNavigateCommand}" CommandParameter="//data/item?path=l5r_index_hd.md"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.HeaderTemplate>
+            <CollectionView.Footer>
+                <StackLayout></StackLayout>
+            </CollectionView.Footer>
+            <CollectionView.FooterTemplate>
+                <DataTemplate>
+                    <StackLayout BackgroundColor="Blue">
+                        <Button Text="Accueil Footer" Command="{Binding ShellNavigateCommand}" CommandParameter="//data/item?path=l5r_index_hd.md"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.FooterTemplate>
+            <CollectionView.EmptyView>
+                <StackLayout></StackLayout>
+            </CollectionView.EmptyView>
+            <CollectionView.EmptyViewTemplate>
+                <DataTemplate>
+                    <StackLayout BackgroundColor="Green">
+                        <Button Text="Accueil Empty" Command="{Binding ShellNavigateCommand}" CommandParameter="//data/item?path=l5r_index_hd.md"/>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.EmptyViewTemplate>
+        </CollectionView>
+        <!--<ListView BackgroundColor="Red" IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}"  SelectionMode="None" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
