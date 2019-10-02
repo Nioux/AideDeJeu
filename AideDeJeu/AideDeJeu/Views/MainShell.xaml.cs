@@ -30,16 +30,95 @@ namespace AideDeJeu.Views
             }
         }
 
-        public ICommand ShellNavigateCommand
+        public ICommand NavigateToItemCommand
         {
             get
             {
-                return new Command<string>(async (path) => await ExecuteShellNavigateCommandAsync(path));
+                return new Command<string>(async (path) => await ExecuteNavigateToItemCommandAsync(path));
             }
         }
-        private async Task ExecuteShellNavigateCommandAsync(string path)
+        private async Task ExecuteNavigateToItemCommandAsync(string path)
         {
-            await Shell.Current.GoToAsync(path);
+            await Navigation.PushAsync(new Library.ItemPage(path), true);
+            this.FlyoutIsPresented = false;
+        }
+
+        public ICommand NavigateToHomeCommand
+        {
+            get
+            {
+                return new Command(async() => await ExecuteNavigateToHomeCommandAsync());
+            }
+        }
+        private async Task ExecuteNavigateToHomeCommandAsync()
+        {
+            await Navigation.PushAsync(new MainPage(), true);
+            this.FlyoutIsPresented = false;
+        }
+
+        public ICommand NavigateToPCCommand
+        {
+            get
+            {
+                return new Command(async () => await ExecuteNavigateToPCCommandAsync());
+            }
+        }
+        private async Task ExecuteNavigateToPCCommandAsync()
+        {
+            await Navigation.PushAsync(new PlayerCharacter.PlayerCharacterEditorPage(), true);
+            this.FlyoutIsPresented = false;
+        }
+
+        public ICommand NavigateToDicesCommand
+        {
+            get
+            {
+                return new Command(async () => await ExecuteNavigateToDicesCommandAsync());
+            }
+        }
+        private async Task ExecuteNavigateToDicesCommandAsync()
+        {
+            await Navigation.PushAsync(new DicesPage(), true);
+            this.FlyoutIsPresented = false;
+        }
+
+        public ICommand NavigateToBookmarksCommand
+        {
+            get
+            {
+                return new Command(async () => await ExecuteNavigateToBookmarksCommandAsync());
+            }
+        }
+        private async Task ExecuteNavigateToBookmarksCommandAsync()
+        {
+            await Navigation.PushAsync(new Library.BookmarksPage(), true);
+            this.FlyoutIsPresented = false;
+        }
+
+        public ICommand NavigateToDeepSearchCommand
+        {
+            get
+            {
+                return new Command(async () => await ExecuteNavigateToDeepSearchCommandAsync());
+            }
+        }
+        private async Task ExecuteNavigateToDeepSearchCommandAsync()
+        {
+            await Navigation.PushAsync(new Library.DeepSearchPage(), true);
+            this.FlyoutIsPresented = false;
+        }
+
+        public ICommand NavigateToAboutCommand
+        {
+            get
+            {
+                return new Command(async () => await ExecuteNavigateToAboutCommandAsync());
+            }
+        }
+        private async Task ExecuteNavigateToAboutCommandAsync()
+        {
+            await Navigation.PushAsync(new AboutPage(), true);
+            this.FlyoutIsPresented = false;
         }
 
         private string _HeaderTitle = string.Empty;

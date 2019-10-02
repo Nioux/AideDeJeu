@@ -11,6 +11,7 @@
        Shell.ForegroundColor="{DynamicResource HDRed}"
        Shell.TitleColor="{DynamicResource HDBlack}"
        Shell.UnselectedColor="{DynamicResource HDLightGrey}"
+       FlyoutHeaderBehavior="CollapseOnScroll"
        >
     <Shell.Resources>
         <ResourceDictionary>
@@ -34,6 +35,7 @@
             <Style TargetType="TabBar" BasedOn="{StaticResource BaseStyle}" />
         </ResourceDictionary>
     </Shell.Resources>
+
     <Shell.FlyoutHeader>
         <!--<StackLayout>-->
         <!--<Label Text="{Binding HeaderTitle}" />
@@ -41,7 +43,34 @@
             <Label Text="{Binding CurrentItem.CurrentItem.CurrentItem.Content.BindingContext.Item.Title}" />
             <Label Text="{Binding Main.CurrentItem.Item.Name}" />-->
         <!--<CollectionView IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" >-->
-        <CollectionView BackgroundColor="Yellow" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}">
+        <ScrollView>
+            <StackLayout>
+                <StackLayout BindableLayout.ItemsSource="{Binding Main.CurrentItem.Filter.Filters}">
+                    <BindableLayout.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
+                                <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading3}" />
+                                <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
+                            </StackLayout>
+                        </DataTemplate>
+                    </BindableLayout.ItemTemplate>
+                </StackLayout>
+                <Button Visual="Material" Text="Accueil" Command="{Binding NavigateToHomeCommand}" />
+                <Button Visual="Material" Text="Personnages" Command="{Binding NavigateToPCCommand}" />
+                <Button Visual="Material" Text="Dés" Command="{Binding NavigateToDicesCommand}" />
+                <Button Visual="Material" Text="Manuel des Règles" Command="{Binding NavigateToItemCommand}" CommandParameter="index_mdr.md"/>
+                <Button Visual="Material" Text="Cadre de Campagne" Command="{Binding NavigateToItemCommand}" CommandParameter="index_cdc.md"/>
+                <Button Visual="Material" Text="Créatures et Oppositions" Command="{Binding NavigateToItemCommand}" CommandParameter="index_ceo.md"/>
+                <Button Visual="Material" Text="Les Cinq Royaumes" Command="{Binding NavigateToItemCommand}" CommandParameter="l5r_index_hd.md"/>
+                <Button Visual="Material" Text="Livre des Monstres" Command="{Binding NavigateToItemCommand}" CommandParameter="tome_of_beasts.md"/>
+                <Button Visual="Material" Text="Monstrueusement Mignons" Command="{Binding NavigateToItemCommand}" CommandParameter="baby_bestiary.md"/>
+                <Button Visual="Material" Text="SRD" Command="{Binding NavigateToItemCommand}" CommandParameter="index_srd.md"/>
+                <Button Visual="Material" Text="Favoris" Command="{Binding NavigateToBookmarksCommand}" />
+                <Button Visual="Material" Text="Recherche" Command="{Binding NavigateToDeepSearchCommand}" />
+                <Button Visual="Material" Text="A propos de..." Command="{Binding NavigateToAboutCommand}" />
+            </StackLayout>
+        </ScrollView>
+        <!--<CollectionView BackgroundColor="Yellow" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" Header="{Binding}" Footer="{Binding}" EmptyView="{Binding}">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
@@ -50,9 +79,6 @@
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
-            <CollectionView.Header>
-                <StackLayout></StackLayout>
-            </CollectionView.Header>
             <CollectionView.HeaderTemplate>
                 <DataTemplate>
                     <StackLayout BackgroundColor="Red">
@@ -60,27 +86,21 @@
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.HeaderTemplate>
-            <CollectionView.Footer>
-                <StackLayout></StackLayout>
-            </CollectionView.Footer>
             <CollectionView.FooterTemplate>
                 <DataTemplate>
                     <StackLayout BackgroundColor="Blue">
-                        <Button Text="Accueil Footer" Command="{Binding ShellNavigateCommand}" CommandParameter="//data/item?path=l5r_index_hd.md"/>
+                        <Button Visual="Material" Text="Accueil" Command="{Binding ShellNavigateCommand}" CommandParameter="index.md"/>
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.FooterTemplate>
-            <CollectionView.EmptyView>
-                <StackLayout></StackLayout>
-            </CollectionView.EmptyView>
             <CollectionView.EmptyViewTemplate>
                 <DataTemplate>
                     <StackLayout BackgroundColor="Green">
-                        <Button Text="Accueil Empty" Command="{Binding ShellNavigateCommand}" CommandParameter="//data/item?path=l5r_index_hd.md"/>
+                        <Button Text="Accueil Empty" Command="{Binding Main.Navigator.NavigateToLinkCommand}" CommandParameter="l5r_index_hd.md"/>
                     </StackLayout>
                 </DataTemplate>
             </CollectionView.EmptyViewTemplate>
-        </CollectionView>
+        </CollectionView>-->
         <!--<ListView BackgroundColor="Red" IsVisible="{Binding Main.CurrentItem.Filter, Converter={StaticResource NullToFalseConverter}}"  SelectionMode="None" ItemsSource="{Binding Main.CurrentItem.Filter.Filters}" HasUnevenRows="True" RowHeight="-1" SeparatorVisibility="None" IsPullToRefreshEnabled="False" HorizontalOptions="FillAndExpand" VerticalOptions="Start">
                 <ListView.ItemTemplate>
                     <DataTemplate>
@@ -101,14 +121,13 @@
     <FlyoutItem Title="Accueil">
         <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
     </FlyoutItem>
-    <FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
+    <!--<FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
         <ShellContent Title="Personnages"  ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
     </FlyoutItem>
     <FlyoutItem Title="Dés" FlyoutIcon="d20.png">
         <ShellContent Title="Dés"  ContentTemplate="{DataTemplate local:DicesPage}" />
     </FlyoutItem>
     <FlyoutItem Title="Bibliothèque" FlyoutIcon="spell_book.png">
-        <!--<ShellContent Title="Bibliothèque" Icon="spell_book.png" ContentTemplate="{DataTemplate library:ItemPage}" />-->
         <ShellContent Title="Bibliothèque" Icon="spell_book.png">
             <ShellContent.ContentTemplate>
                 <DataTemplate>
@@ -122,33 +141,6 @@
         </ShellContent>
 
     </FlyoutItem>
-    <!--<FlyoutItem Title="Héros &amp; Dragons">
-        <ShellContent Title="Héros &amp; Dragons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Manuel des règles">
-        <ShellContent Title="Manuel des règles" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Cadre de campagne">
-        <ShellContent Title="Cadre de campagne" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Créatures et oppositions">
-        <ShellContent Title="Créatures et oppositions" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Les Cinq Royaumes" Route="data">
-        <ShellContent Title="Les Cinq Royaumes" Route="l5r_index_hd.md" ContentTemplate="{DataTemplate library:ItemPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Livre des monstres">
-        <ShellContent Title="Livre des monstres" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Monstrueusement Mignons">
-        <ShellContent Title="Monstrueusement Mignons" ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="Joan of Arc">
-        <ShellContent Title="Joan of Arc"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>
-    <FlyoutItem Title="SRD">
-        <ShellContent Title="SRD"  ContentTemplate="{DataTemplate library:ItemDetailPage}" />
-    </FlyoutItem>-->
     <FlyoutItem Title="Manuel des Règles">
         <ShellContent>
             <ShellContent.ContentTemplate>
@@ -246,24 +238,8 @@
     <FlyoutItem Title="Recherche">
         <ShellContent Title="Recherche"  ContentTemplate="{DataTemplate library:DeepSearchPage}"  FlyoutIcon="crystal_ball.png" />
     </FlyoutItem>
-    <!--Command="{Binding ShellNavigateCommand}"
-              CommandParameter="//data/item?path=l5r_index_hd.md"
-              />-->
     <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
         <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
-    </FlyoutItem>
-    <!--<ShellItem Text="Test">
-        
-    </ShellItem>-->
-    <!--Command="{Binding ShellNavigateCommand}"
-              CommandParameter="//data/item?path=l5r_index_hd.md"
-              />-->
-    <!--<ShellItem>
-        <ShellSection>
-            <ShellContent>
-                <local:MainPage/>
-            </ShellContent>
-        </ShellSection>
-    </ShellItem>-->
+    </FlyoutItem>-->
 
 </Shell>
