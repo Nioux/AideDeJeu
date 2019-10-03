@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="38" android:versionName="1.38">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="39" android:versionName="1.39">
 	<uses-sdk android:targetSdkVersion="28" />
 	<application android:label="Beta Haches &amp; Dés">
 		<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.fileprovider" android:exported="false" android:grantUriPermissions="true">
 			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
 		</provider>
-    <activity android:name=".SearchActivity">
-      <intent-filter>
-        <action android:name="com.google.android.gms.actions.SEARCH_ACTION"/>
-        <category android:name="android.intent.category.DEFAULT"/>
-      </intent-filter>
-    </activity>
+		<activity android:name=".SearchActivity">
+			<intent-filter>
+				<action android:name="com.google.android.gms.actions.SEARCH_ACTION" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
 	</application>
 </manifest>
