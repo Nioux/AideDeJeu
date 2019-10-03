@@ -7,7 +7,7 @@
 
 # <!--Name-->Dextérité<!--/Name-->
 
-- AltName: <!--AltName-->Dexterity (SRD p80)<!--/AltName-->
+- Alias: <!--AltName-->Dexterity (SRD p80)<!--/AltName-->
 - Source: <!--Source-->(MDR p263)<!--/Source-->
 
 La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.

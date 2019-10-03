@@ -7,7 +7,7 @@
 
 # <!--Name-->Langues<!--/Name-->
 
-- AltName: <!--AltName-->Languages (SRD p59)<!--/AltName-->
+- Alias: <!--AltName-->Languages (SRD p59)<!--/AltName-->
 - Source: <!--Source-->(MDR p75)<!--/Source-->
 
 La race d'un personnage détermine la langue qu'il parle par défaut et son historique peut lui permettre de parler une ou deux langues supplémentaires au choix. Ces langues doivent être notées sur la fiche de personnage.

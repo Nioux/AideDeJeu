@@ -8,7 +8,7 @@
 # <!--Name-->Créatures<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Monsters](monsters_vo.md)<!--/AltName-->
+- Alias: <!--AltName-->[Monsters](monsters_vo.md)<!--/AltName-->
 
 
 <!--MonsterItem Family="MonsterHD"-->
@@ -16,7 +16,7 @@
 # <!--Name-->Aboleth<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Aboleth](monsters_vo.md#aboleth)<!--/AltName-->
+- Alias: <!--AltName-->[Aboleth](monsters_vo.md#aboleth)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -128,7 +128,7 @@ Chaque fois que la cible [charmée] subit des dégâts, elle peut retenter le [j
 # <!--Name-->Âme-en-peine<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Wraith](monsters_vo.md#wraith)<!--/AltName-->
+- Alias: <!--AltName-->[Wraith](monsters_vo.md#wraith)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -211,7 +211,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 # <!--Name-->Déva<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Deva](monsters_vo.md#deva)<!--/AltName-->
+- Alias: <!--AltName-->[Deva](monsters_vo.md#deva)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -264,7 +264,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 # <!--Name-->Planétar<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Planetar](monsters_vo.md#planetar)<!--/AltName-->
+- Alias: <!--AltName-->[Planetar](monsters_vo.md#planetar)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -317,7 +317,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 # <!--Name-->Solar<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Solar](monsters_vo.md#solar)<!--/AltName-->
+- Alias: <!--AltName-->[Solar](monsters_vo.md#solar)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
@@ -389,7 +389,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 # <!--Name-->Ankheg<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ankheg](monsters_vo.md#ankheg)<!--/AltName-->
+- Alias: <!--AltName-->[Ankheg](monsters_vo.md#ankheg)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle), 11 quand il est [à terre]<!--/ArmorClass-->
@@ -420,7 +420,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 # <!--Name-->Azer<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Azer](monsters_vo.md#azer)<!--/AltName-->
+- Alias: <!--AltName-->[Azer](monsters_vo.md#azer)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires, Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle, bouclier)<!--/ArmorClass-->
@@ -460,7 +460,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 # <!--Name-->Babélien<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gibbering Mouther](monsters_vo.md#gibbering-mouther)<!--/AltName-->
+- Alias: <!--AltName-->[Gibbering Mouther](monsters_vo.md#gibbering-mouther)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
@@ -500,7 +500,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 # <!--Name-->Basilic<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Basilisk](monsters_vo.md#basilisk)<!--/AltName-->
+- Alias: <!--AltName-->[Basilisk](monsters_vo.md#basilisk)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -540,7 +540,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 # <!--Name-->Béhir<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Behir](monsters_vo.md#behir)<!--/AltName-->
+- Alias: <!--AltName-->[Behir](monsters_vo.md#behir)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -583,7 +583,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 # <!--Name-->Bulette<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bulette](monsters_vo.md#bulette)<!--/AltName-->
+- Alias: <!--AltName-->[Bulette](monsters_vo.md#bulette)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -621,7 +621,7 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde] de [Force] ou de 
 # <!--Name-->Centaure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Centaur](monsters_vo.md#centaur)<!--/AltName-->
+- Alias: <!--AltName-->[Centaur](monsters_vo.md#centaur)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -704,7 +704,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 # <!--Name-->Criard<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Shrieker](monsters_vo.md#shrieker)<!--/AltName-->
+- Alias: <!--AltName-->[Shrieker](monsters_vo.md#shrieker)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->
@@ -736,7 +736,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 # <!--Name-->Moisissure violette<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Violet Fungus](monsters_vo.md#violet-fungus)<!--/AltName-->
+- Alias: <!--AltName-->[Violet Fungus](monsters_vo.md#violet-fungus)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->
@@ -772,7 +772,7 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 # <!--Name-->Chimère<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Chimera](monsters_vo.md#chimera)<!--/AltName-->
+- Alias: <!--AltName-->[Chimera](monsters_vo.md#chimera)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -814,7 +814,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 # <!--Name-->Chuul<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Chuul](monsters_vo.md#chuul)<!--/AltName-->
+- Alias: <!--AltName-->[Chuul](monsters_vo.md#chuul)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -858,7 +858,7 @@ La cible est [paralysée] tant que ce poison fait effet. Elle peut retenter le [
 # <!--Name-->Cockatrice<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Cockatrice](monsters_vo.md#cockatrice)<!--/AltName-->
+- Alias: <!--AltName-->[Cockatrice](monsters_vo.md#cockatrice)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -887,7 +887,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 # <!--Name-->Couatl<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Couatl](monsters_vo.md#couatl)<!--/AltName-->
+- Alias: <!--AltName-->[Couatl](monsters_vo.md#couatl)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -987,7 +987,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 # <!--Name-->Balor<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Balor](monsters_vo.md#balor)<!--/AltName-->
+- Alias: <!--AltName-->[Balor](monsters_vo.md#balor)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -1038,7 +1038,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 # <!--Name-->Dretch<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Dretch](monsters_vo.md#dretch)<!--/AltName-->
+- Alias: <!--AltName-->[Dretch](monsters_vo.md#dretch)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -1078,7 +1078,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 # <!--Name-->Glabrezu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Glabrezu](monsters_vo.md#glabrezu)<!--/AltName-->
+- Alias: <!--AltName-->[Glabrezu](monsters_vo.md#glabrezu)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -1127,7 +1127,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 # <!--Name-->Hezrou<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hezrou](monsters_vo.md#hezrou)<!--/AltName-->
+- Alias: <!--AltName-->[Hezrou](monsters_vo.md#hezrou)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -1174,7 +1174,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 # <!--Name-->Marilith<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Marilith](monsters_vo.md#marilith)<!--/AltName-->
+- Alias: <!--AltName-->[Marilith](monsters_vo.md#marilith)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -1229,7 +1229,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 # <!--Name-->Nalfeshnie<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Nalfeshnee](monsters_vo.md#nalfeshnee)<!--/AltName-->
+- Alias: <!--AltName-->[Nalfeshnee](monsters_vo.md#nalfeshnee)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -1280,7 +1280,7 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 # <!--Name-->Quasit<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Quasit](monsters_vo.md#quasit)<!--/AltName-->
+- Alias: <!--AltName-->[Quasit](monsters_vo.md#quasit)<!--/AltName-->
 -  <!--Type-->Fiélon (démon, métamorphe)<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -1327,7 +1327,7 @@ La cible peut retenter le [jet de sauvegarde] à la fin de chacun de ses tours e
 # <!--Name-->Vrock<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Vrock](monsters_vo.md#vrock)<!--/AltName-->
+- Alias: <!--AltName-->[Vrock](monsters_vo.md#vrock)<!--/AltName-->
 -  <!--Type-->Fiélon (démon)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -1376,7 +1376,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 # <!--Name-->Destrier noir<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Nightmare](monsters_vo.md#nightmare)<!--/AltName-->
+- Alias: <!--AltName-->[Nightmare](monsters_vo.md#nightmare)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -1490,7 +1490,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 # <!--Name-->Diable barbelé<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Barbed Devil](monsters_vo.md#barbed-devil)<!--/AltName-->
+- Alias: <!--AltName-->[Barbed Devil](monsters_vo.md#barbed-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -1542,7 +1542,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 # <!--Name-->Diable barbu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bearded Devil](monsters_vo.md#bearded-devil)<!--/AltName-->
+- Alias: <!--AltName-->[Bearded Devil](monsters_vo.md#bearded-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -1589,7 +1589,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 # <!--Name-->Diable cornu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Horned Devil](monsters_vo.md#horned-devil)<!--/AltName-->
+- Alias: <!--AltName-->[Horned Devil](monsters_vo.md#horned-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -1638,7 +1638,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 # <!--Name-->Diable gelé<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ice Devil](monsters_vo.md#ice-devil)<!--/AltName-->
+- Alias: <!--AltName-->[Ice Devil](monsters_vo.md#ice-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -1701,7 +1701,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 # <!--Name-->Diable des chaînes<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Chain Devil](monsters_vo.md#chain-devil)<!--/AltName-->
+- Alias: <!--AltName-->[Chain Devil](monsters_vo.md#chain-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -1752,7 +1752,7 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde] de [S
 # <!--Name-->Diable osseux<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bone Devil](monsters_vo.md#bone-devil)<!--/AltName-->
+- Alias: <!--AltName-->[Bone Devil](monsters_vo.md#bone-devil)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -1798,7 +1798,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 # <!--Name-->Diablotin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Imp](monsters_vo.md#imp)<!--/AltName-->
+- Alias: <!--AltName-->[Imp](monsters_vo.md#imp)<!--/AltName-->
 -  <!--Type-->Fiélon (diable, métamorphe)<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -1843,7 +1843,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 # <!--Name-->Diantrefosse<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Pit Fiend](monsters_vo.md#pit-fiend)<!--/AltName-->
+- Alias: <!--AltName-->[Pit Fiend](monsters_vo.md#pit-fiend)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -1904,7 +1904,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 # <!--Name-->Érinye<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Erinyes](monsters_vo.md#erinyes)<!--/AltName-->
+- Alias: <!--AltName-->[Erinyes](monsters_vo.md#erinyes)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
@@ -1953,7 +1953,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 # <!--Name-->Lémure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Lemure](monsters_vo.md#lemure)<!--/AltName-->
+- Alias: <!--AltName-->[Lemure](monsters_vo.md#lemure)<!--/AltName-->
 -  <!--Type-->Fiélon (diable)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
@@ -2036,7 +2036,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 # <!--Name-->Plésiosaure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Plesiosaurus](monsters_vo.md#plesiosaurus)<!--/AltName-->
+- Alias: <!--AltName-->[Plesiosaurus](monsters_vo.md#plesiosaurus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -2070,7 +2070,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 # <!--Name-->Tricératops<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Triceratops](monsters_vo.md#triceratops)<!--/AltName-->
+- Alias: <!--AltName-->[Triceratops](monsters_vo.md#triceratops)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -2107,7 +2107,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 # <!--Name-->Tyrannosaure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)<!--/AltName-->
+- Alias: <!--AltName-->[Tyrannosaurus Rex](monsters_vo.md#tyrannosaurus-rex)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -2143,7 +2143,7 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 # <!--Name-->Doppleganger<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Doppelganger](monsters_vo.md#doppelganger)<!--/AltName-->
+- Alias: <!--AltName-->[Doppelganger](monsters_vo.md#doppelganger)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
@@ -2188,7 +2188,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 # <!--Name-->Dragon blanc vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient White Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient White Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
@@ -2250,7 +2250,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon blanc adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult White Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult White Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -2312,7 +2312,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon blanc<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young White Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young White Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -2356,7 +2356,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 # <!--Name-->Dragonnet blanc<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[White Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[White Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -2390,7 +2390,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 # <!--Name-->Dragon bleu vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Blue Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Blue Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
@@ -2450,7 +2450,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon bleu adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Blue Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Blue Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -2510,7 +2510,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon bleu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Blue Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Blue Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -2550,7 +2550,7 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 # <!--Name-->Dragonnet bleu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Blue Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Blue Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -2584,7 +2584,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 # <!--Name-->Dragon noir vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Black Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Black Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
@@ -2644,7 +2644,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon noir adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Black Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Black Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -2706,7 +2706,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon noir<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Black Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Black Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -2750,7 +2750,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 # <!--Name-->Dragonnet noir<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Black Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Black Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -2788,7 +2788,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 # <!--Name-->Dragon rouge vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Red Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Red Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
@@ -2848,7 +2848,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon rouge adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Red Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Red Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -2908,7 +2908,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon rouge<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Red Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Red Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -2948,7 +2948,7 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 # <!--Name-->Dragonnet rouge<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Red Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Red Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -2982,7 +2982,7 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 # <!--Name-->Dragon vert vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Green Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Green Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
@@ -3047,7 +3047,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon vert adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Green Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Green Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -3110,7 +3110,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon vert<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Green Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Green Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -3155,7 +3155,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 # <!--Name-->Dragonnet vert<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Green Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Green Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -3194,7 +3194,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 # <!--Name-->Dragon d'airain vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Brass Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Brass Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
@@ -3264,7 +3264,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon d'airain adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Brass Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Brass Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -3328,7 +3328,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon d'airain<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Brass Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Brass Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -3372,7 +3372,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 # <!--Name-->Dragonnet d'airain<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Brass Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Brass Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -3410,7 +3410,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 # <!--Name-->Dragon d'argent vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Silver Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Silver Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
@@ -3478,7 +3478,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon d'argent adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Silver Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Silver Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -3548,7 +3548,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon d'argent<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Silver Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Silver Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -3592,7 +3592,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 # <!--Name-->Dragonnet d'argent<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Silver Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Silver Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -3630,7 +3630,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 # <!--Name-->Dragon de bronze vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Bronze Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Bronze Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
@@ -3700,7 +3700,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon de bronze adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Bronze Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Bronze Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -3772,7 +3772,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon de bronze<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Bronze Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Bronze Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -3820,7 +3820,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 # <!--Name-->Dragonnet de bronze<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bronze Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Bronze Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -3862,7 +3862,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 # <!--Name-->Dragon de cuivre vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Copper Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Copper Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->21 (armure naturelle)<!--/ArmorClass-->
@@ -3934,7 +3934,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon de cuivre adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Copper Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Copper Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -4000,7 +4000,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon de cuivre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Copper Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Copper Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -4048,7 +4048,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 # <!--Name-->Dragonnet de cuivre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Copper Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Copper Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -4086,7 +4086,7 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 # <!--Name-->Dragon d'or vénérable<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ancient Gold Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Ancient Gold Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->22 (armure naturelle)<!--/ArmorClass-->
@@ -4156,7 +4156,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Dragon d'or adulte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Adult Gold Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Adult Gold Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -4228,7 +4228,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Jeune dragon d'or<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Young Gold Dragon]<!--/AltName-->
+- Alias: <!--AltName-->[Young Gold Dragon]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -4276,7 +4276,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 # <!--Name-->Dragonnet d'or<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gold Dragon Wyrmling]<!--/AltName-->
+- Alias: <!--AltName-->[Gold Dragon Wyrmling]<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -4318,7 +4318,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 # <!--Name-->Dragon-tortue<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Dragon Turtle](monsters_vo.md#dragon-turtle)<!--/AltName-->
+- Alias: <!--AltName-->[Dragon Turtle](monsters_vo.md#dragon-turtle)<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
@@ -4408,7 +4408,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # <!--Name-->Drider<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Drider](monsters_vo.md#drider)<!--/AltName-->
+- Alias: <!--AltName-->[Drider](monsters_vo.md#drider)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -4464,7 +4464,7 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 # <!--Name-->Drow<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Drow](monsters_vo.md#drow)<!--/AltName-->
+- Alias: <!--AltName-->[Drow](monsters_vo.md#drow)<!--/AltName-->
 -  <!--Type-->Humanoïde (elfe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
@@ -4578,7 +4578,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # <!--Name-->Dryade<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Dryad](monsters_vo.md#dryad)<!--/AltName-->
+- Alias: <!--AltName-->[Dryad](monsters_vo.md#dryad)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (16 avec peau d'écorce)<!--/ArmorClass-->
@@ -4630,7 +4630,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 # <!--Name-->Duergar<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Duergar](monsters_vo.md#duergar)<!--/AltName-->
+- Alias: <!--AltName-->[Duergar](monsters_vo.md#duergar)<!--/AltName-->
 -  <!--Type-->Humanoïde (nain)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles, bouclier)<!--/ArmorClass-->
@@ -4676,7 +4676,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 # <!--Name-->Élémentaire de l'air<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Air Elemental](monsters_vo.md#air-elemental)<!--/AltName-->
+- Alias: <!--AltName-->[Air Elemental](monsters_vo.md#air-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15<!--/ArmorClass-->
@@ -4720,7 +4720,7 @@ Si le [jet de sauvegarde] est réussi, la cible subit la moitié des dégâts co
 # <!--Name-->Élémentaire de l'eau<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Water Elemental](monsters_vo.md#water-elemental)<!--/AltName-->
+- Alias: <!--AltName-->[Water Elemental](monsters_vo.md#water-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -4764,7 +4764,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 # <!--Name-->Élémentaire du feu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Fire Elemental](monsters_vo.md#fire-elemental)<!--/AltName-->
+- Alias: <!--AltName-->[Fire Elemental](monsters_vo.md#fire-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -4806,7 +4806,7 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 # <!--Name-->Élémentaire de la terre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Earth Elemental](monsters_vo.md#earth-elemental)<!--/AltName-->
+- Alias: <!--AltName-->[Earth Elemental](monsters_vo.md#earth-elemental)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -4847,7 +4847,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 # <!--Name-->Enlaceur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Roper](monsters_vo.md#roper)<!--/AltName-->
+- Alias: <!--AltName-->[Roper](monsters_vo.md#roper)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
@@ -4895,7 +4895,7 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 # <!--Name-->Esprit follet<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Sprite](monsters_vo.md#sprite)<!--/AltName-->
+- Alias: <!--AltName-->[Sprite](monsters_vo.md#sprite)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bonne<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir)<!--/ArmorClass-->
@@ -4933,7 +4933,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 # <!--Name-->Ettercap<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ettercap](monsters_vo.md#ettercap)<!--/AltName-->
+- Alias: <!--AltName-->[Ettercap](monsters_vo.md#ettercap)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -4981,7 +4981,7 @@ _Touché :_ la créature est [entravée] par la toile. Par une action, la créat
 # <!--Name-->Ettin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ettin](monsters_vo.md#ettin)<!--/AltName-->
+- Alias: <!--AltName-->[Ettin](monsters_vo.md#ettin)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -5023,7 +5023,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 # <!--Name-->Fantôme<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ghost](monsters_vo.md#ghost)<!--/AltName-->
+- Alias: <!--AltName-->[Ghost](monsters_vo.md#ghost)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -5071,7 +5071,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 # <!--Name-->Feu follet<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Will-o'-Wisp](monsters_vo.md#will-o-wisp)<!--/AltName-->
+- Alias: <!--AltName-->[Will-o'-Wisp](monsters_vo.md#will-o-wisp)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19<!--/ArmorClass-->
@@ -5115,7 +5115,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 # <!--Name-->Garde animé<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Shield Guardian](monsters_vo.md#shield-guardian)<!--/AltName-->
+- Alias: <!--AltName-->[Shield Guardian](monsters_vo.md#shield-guardian)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -5160,7 +5160,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # <!--Name-->Gargouille<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gargoyle](monsters_vo.md#gargoyle)<!--/AltName-->
+- Alias: <!--AltName-->[Gargoyle](monsters_vo.md#gargoyle)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -5202,7 +5202,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Géant des collines<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hill Giant](monsters_vo.md#hill-giant)<!--/AltName-->
+- Alias: <!--AltName-->[Hill Giant](monsters_vo.md#hill-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -5238,7 +5238,7 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 # <!--Name-->Géant des nuages<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Cloud Giant](monsters_vo.md#cloud-giant)<!--/AltName-->
+- Alias: <!--AltName-->[Cloud Giant](monsters_vo.md#cloud-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Bon (50 %) ou Neutre Mauvais (50 %)<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -5287,7 +5287,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 # <!--Name-->Géant des pierres<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Stone Giant](monsters_vo.md#stone-giant)<!--/AltName-->
+- Alias: <!--AltName-->[Stone Giant](monsters_vo.md#stone-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -5328,7 +5328,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 # <!--Name-->Géant des tempêtes<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Storm Giant](monsters_vo.md#storm-giant)<!--/AltName-->
+- Alias: <!--AltName-->[Storm Giant](monsters_vo.md#storm-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure d'écailles)<!--/ArmorClass-->
@@ -5379,7 +5379,7 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 # <!--Name-->Géant du feu<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Fire Giant](monsters_vo.md#fire-giant)<!--/AltName-->
+- Alias: <!--AltName-->[Fire Giant](monsters_vo.md#fire-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
@@ -5417,7 +5417,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 # <!--Name-->Géant du givre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Frost Giant](monsters_vo.md#frost-giant)<!--/AltName-->
+- Alias: <!--AltName-->[Frost Giant](monsters_vo.md#frost-giant)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure composite)<!--/ArmorClass-->
@@ -5455,7 +5455,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 # <!--Name-->Djinn<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Djinni](monsters_vo.md#djinni)<!--/AltName-->
+- Alias: <!--AltName-->[Djinni](monsters_vo.md#djinni)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -5506,7 +5506,7 @@ Si le test est réussi, la créature n'est plus [entravée] et se déplace vers 
 # <!--Name-->Éfrit<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Efreeti](monsters_vo.md#efreeti)<!--/AltName-->
+- Alias: <!--AltName-->[Efreeti](monsters_vo.md#efreeti)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -5555,7 +5555,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 # <!--Name-->Gnoll<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gnoll](monsters_vo.md#gnoll)<!--/AltName-->
+- Alias: <!--AltName-->[Gnoll](monsters_vo.md#gnoll)<!--/AltName-->
 -  <!--Type-->Humanoïde (gnoll)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de peau, bouclier)<!--/ArmorClass-->
@@ -5640,7 +5640,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # <!--Name-->Gnome des profondeurs (svirfneblin)<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)<!--/AltName-->
+- Alias: <!--AltName-->[Deep Gnome (Svirfneblin)](monsters_vo.md#deep-gnome-svirfneblin)<!--/AltName-->
 -  <!--Type-->Humanoïde (gnome)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (chemise de mailles)<!--/ArmorClass-->
@@ -5686,7 +5686,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # <!--Name-->Gobelin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Goblin](monsters_vo.md#goblin)<!--/AltName-->
+- Alias: <!--AltName-->[Goblin](monsters_vo.md#goblin)<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir, bouclier)<!--/ArmorClass-->
@@ -5867,7 +5867,7 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 # <!--Name-->Gobelours<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bugbear](monsters_vo.md#bugbear)<!--/AltName-->
+- Alias: <!--AltName-->[Bugbear](monsters_vo.md#bugbear)<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de peau, bouclier)<!--/ArmorClass-->
@@ -5954,7 +5954,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 # <!--Name-->Golem d'argile<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Clay Golem](monsters_vo.md#clay-golem)<!--/AltName-->
+- Alias: <!--AltName-->[Clay Golem](monsters_vo.md#clay-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -6005,7 +6005,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 # <!--Name-->Golem de chair<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Flesh Golem](monsters_vo.md#flesh-golem)<!--/AltName-->
+- Alias: <!--AltName-->[Flesh Golem](monsters_vo.md#flesh-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
@@ -6062,7 +6062,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # <!--Name-->Golem de fer<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Iron Golem](monsters_vo.md#iron-golem)<!--/AltName-->
+- Alias: <!--AltName-->[Iron Golem](monsters_vo.md#iron-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->20 (armure naturelle)<!--/ArmorClass-->
@@ -6111,7 +6111,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 # <!--Name-->Golem de pierre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Stone Golem](monsters_vo.md#stone-golem)<!--/AltName-->
+- Alias: <!--AltName-->[Stone Golem](monsters_vo.md#stone-golem)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -6154,7 +6154,7 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 # <!--Name-->Gorgone<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gorgon](monsters_vo.md#gorgon)<!--/AltName-->
+- Alias: <!--AltName-->[Gorgon](monsters_vo.md#gorgon)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -6197,7 +6197,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 # <!--Name-->Goule<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ghoul](monsters_vo.md#ghoul)<!--/AltName-->
+- Alias: <!--AltName-->[Ghoul](monsters_vo.md#ghoul)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -6232,7 +6232,7 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 # <!--Name-->Goule Blême<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ghast](monsters_vo.md#ghast)<!--/AltName-->
+- Alias: <!--AltName-->[Ghast](monsters_vo.md#ghast)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -6274,7 +6274,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 # <!--Name-->Grick<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Grick](monsters_vo.md#grick)<!--/AltName-->
+- Alias: <!--AltName-->[Grick](monsters_vo.md#grick)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -6314,7 +6314,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 # <!--Name-->Griffon<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Griffon](monsters_vo.md#griffon)<!--/AltName-->
+- Alias: <!--AltName-->[Griffon](monsters_vo.md#griffon)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -6354,7 +6354,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 # <!--Name-->Guenaude aquatique<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Sea Hag](monsters_vo.md#sea-hag)<!--/AltName-->
+- Alias: <!--AltName-->[Sea Hag](monsters_vo.md#sea-hag)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -6397,7 +6397,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Guenaude nocturne<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Night Hag](monsters_vo.md#night-hag)<!--/AltName-->
+- Alias: <!--AltName-->[Night Hag](monsters_vo.md#night-hag)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -6447,7 +6447,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 # <!--Name-->Guenaude verte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Green Hag](monsters_vo.md#green-hag)<!--/AltName-->
+- Alias: <!--AltName-->[Green Hag](monsters_vo.md#green-hag)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -6495,7 +6495,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 # <!--Name-->Harpie<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Harpy](monsters_vo.md#harpy)<!--/AltName-->
+- Alias: <!--AltName-->[Harpy](monsters_vo.md#harpy)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -6538,7 +6538,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 # <!--Name-->Hibours<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Owlbear](monsters_vo.md#owlbear)<!--/AltName-->
+- Alias: <!--AltName-->[Owlbear](monsters_vo.md#owlbear)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -6578,7 +6578,7 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 # <!--Name-->Hippogriffe<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hippogriff](monsters_vo.md#hippogriff)<!--/AltName-->
+- Alias: <!--AltName-->[Hippogriff](monsters_vo.md#hippogriff)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -6618,7 +6618,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Hobgobelin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hobgoblin](monsters_vo.md#hobgoblin)<!--/AltName-->
+- Alias: <!--AltName-->[Hobgoblin](monsters_vo.md#hobgoblin)<!--/AltName-->
 -  <!--Type-->Humanoïde (gobelinoïde)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (bouclier, cotte de mailles)<!--/ArmorClass-->
@@ -6695,7 +6695,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 # <!--Name-->Homme-lézard<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Lizardfolk](monsters_vo.md#lizardfolk)<!--/AltName-->
+- Alias: <!--AltName-->[Lizardfolk](monsters_vo.md#lizardfolk)<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-lézard)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle, bouclier)<!--/ArmorClass-->
@@ -6790,7 +6790,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 # <!--Name-->Homme-poisson<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Merfolk](monsters_vo.md#merfolk)<!--/AltName-->
+- Alias: <!--AltName-->[Merfolk](monsters_vo.md#merfolk)<!--/AltName-->
 -  <!--Type-->Humanoïde (homme-poisson)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -6824,7 +6824,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 # <!--Name-->Homoncule<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Homunculus](monsters_vo.md#homunculus)<!--/AltName-->
+- Alias: <!--AltName-->[Homunculus](monsters_vo.md#homunculus)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -6859,7 +6859,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 # <!--Name-->Hydre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hydra](monsters_vo.md#hydra)<!--/AltName-->
+- Alias: <!--AltName-->[Hydra](monsters_vo.md#hydra)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -6905,7 +6905,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 # <!--Name-->Kobold<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Kobold](monsters_vo.md#kobold)<!--/AltName-->
+- Alias: <!--AltName-->[Kobold](monsters_vo.md#kobold)<!--/AltName-->
 -  <!--Type-->Humanoïde (kobold)<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -6986,7 +6986,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 # <!--Name-->Kraken<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Kraken](monsters_vo.md#kraken)<!--/AltName-->
+- Alias: <!--AltName-->[Kraken](monsters_vo.md#kraken)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -7048,7 +7048,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Lamie<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Lamia](monsters_vo.md#lamia)<!--/AltName-->
+- Alias: <!--AltName-->[Lamia](monsters_vo.md#lamia)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -7098,7 +7098,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 # <!--Name-->Liche<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Lich](monsters_vo.md#lich)<!--/AltName-->
+- Alias: <!--AltName-->[Lich](monsters_vo.md#lich)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->alignement Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -7173,7 +7173,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 # <!--Name-->Licorne<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Unicorn](monsters_vo.md#unicorn)<!--/AltName-->
+- Alias: <!--AltName-->[Unicorn](monsters_vo.md#unicorn)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -7238,7 +7238,7 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 # <!--Name-->Loup-garou<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Werewolf](monsters_vo.md#werewolf)<!--/AltName-->
+- Alias: <!--AltName-->[Werewolf](monsters_vo.md#werewolf)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup<!--/ArmorClass-->
@@ -7285,7 +7285,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 # <!--Name-->Ours-garou<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Werebear](monsters_vo.md#werebear)<!--/AltName-->
+- Alias: <!--AltName-->[Werebear](monsters_vo.md#werebear)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours<!--/ArmorClass-->
@@ -7332,7 +7332,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 # <!--Name-->Rat-garou<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Wererat](monsters_vo.md#wererat)<!--/AltName-->
+- Alias: <!--AltName-->[Wererat](monsters_vo.md#wererat)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -7379,7 +7379,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 # <!--Name-->Sanglier-garou<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Wereboar](monsters_vo.md#wereboar)<!--/AltName-->
+- Alias: <!--AltName-->[Wereboar](monsters_vo.md#wereboar)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier<!--/ArmorClass-->
@@ -7424,7 +7424,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 # <!--Name-->Tigre-garou<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Weretiger](monsters_vo.md#weretiger)<!--/AltName-->
+- Alias: <!--AltName-->[Weretiger](monsters_vo.md#weretiger)<!--/AltName-->
 -  <!--Type-->Humanoïde (humain, métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -7477,7 +7477,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 # <!--Name-->Magmatique<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Magmin](monsters_vo.md#magmin)<!--/AltName-->
+- Alias: <!--AltName-->[Magmin](monsters_vo.md#magmin)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -7518,7 +7518,7 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 # <!--Name-->Manteleur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Cloaker](monsters_vo.md#cloaker)<!--/AltName-->
+- Alias: <!--AltName-->[Cloaker](monsters_vo.md#cloaker)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -7572,7 +7572,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 # <!--Name-->Mante obscure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Darkmantle](monsters_vo.md#darkmantle)<!--/AltName-->
+- Alias: <!--AltName-->[Darkmantle](monsters_vo.md#darkmantle)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -7616,7 +7616,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 # <!--Name-->Manticore<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Manticore](monsters_vo.md#manticore)<!--/AltName-->
+- Alias: <!--AltName-->[Manticore](monsters_vo.md#manticore)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -7659,7 +7659,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 # <!--Name-->Méduse<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Medusa](monsters_vo.md#medusa)<!--/AltName-->
+- Alias: <!--AltName-->[Medusa](monsters_vo.md#medusa)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -7707,7 +7707,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Méphite de glace<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ice Mephit](monsters_vo.md#ice-mephit)<!--/AltName-->
+- Alias: <!--AltName-->[Ice Mephit](monsters_vo.md#ice-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -7752,7 +7752,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 # <!--Name-->Méphite de magma<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Magma Mephit](monsters_vo.md#magma-mephit)<!--/AltName-->
+- Alias: <!--AltName-->[Magma Mephit](monsters_vo.md#magma-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -7795,7 +7795,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 # <!--Name-->Méphite de poussière<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Dust Mephit](monsters_vo.md#dust-mephit)<!--/AltName-->
+- Alias: <!--AltName-->[Dust Mephit](monsters_vo.md#dust-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -7838,7 +7838,7 @@ Une créature peut retenter le [jet de sauvegarde] à la fin de chacun de ses to
 # <!--Name-->Méphite de vapeur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Steam Mephit](monsters_vo.md#steam-mephit)<!--/AltName-->
+- Alias: <!--AltName-->[Steam Mephit](monsters_vo.md#steam-mephit)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Plans élémentaires, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -7879,7 +7879,7 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde] d
 # <!--Name-->Merrow<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Merrow](monsters_vo.md#merrow)<!--/AltName-->
+- Alias: <!--AltName-->[Merrow](monsters_vo.md#merrow)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -7924,7 +7924,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 # <!--Name-->Mimique<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mimic](monsters_vo.md#mimic)<!--/AltName-->
+- Alias: <!--AltName-->[Mimic](monsters_vo.md#mimic)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -7972,7 +7972,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 # <!--Name-->Minotaure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Minotaur](monsters_vo.md#minotaur)<!--/AltName-->
+- Alias: <!--AltName-->[Minotaur](monsters_vo.md#minotaur)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -8016,7 +8016,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 # <!--Name-->Molosse infernal<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hell Hound](monsters_vo.md#hell-hound)<!--/AltName-->
+- Alias: <!--AltName-->[Hell Hound](monsters_vo.md#hell-hound)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -8055,7 +8055,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 # <!--Name-->Momie<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mummy](monsters_vo.md#mummy)<!--/AltName-->
+- Alias: <!--AltName-->[Mummy](monsters_vo.md#mummy)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -8095,7 +8095,7 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde] de [Sa
 # <!--Name-->Momie auguste<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mummy Lord](monsters_vo.md#mummy-lord)<!--/AltName-->
+- Alias: <!--AltName-->[Mummy Lord](monsters_vo.md#mummy-lord)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -8175,7 +8175,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 # <!--Name-->Naga corrupteur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Spirit Naga](monsters_vo.md#spirit-naga)<!--/AltName-->
+- Alias: <!--AltName-->[Spirit Naga](monsters_vo.md#spirit-naga)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -8225,7 +8225,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 # <!--Name-->Naga gardien<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Guardian Naga](monsters_vo.md#guardian-naga)<!--/AltName-->
+- Alias: <!--AltName-->[Guardian Naga](monsters_vo.md#guardian-naga)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -8281,7 +8281,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 # <!--Name-->Nécrophage<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Wight](monsters_vo.md#wight)<!--/AltName-->
+- Alias: <!--AltName-->[Wight](monsters_vo.md#wight)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir clouté)<!--/ArmorClass-->
@@ -8330,7 +8330,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 # <!--Name-->Armure animée<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Animated Armor](monsters_vo.md#animated-armor)<!--/AltName-->
+- Alias: <!--AltName-->[Animated Armor](monsters_vo.md#animated-armor)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -8369,7 +8369,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 # <!--Name-->Épée volante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Flying Sword](monsters_vo.md#flying-sword)<!--/AltName-->
+- Alias: <!--AltName-->[Flying Sword](monsters_vo.md#flying-sword)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -8407,7 +8407,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 # <!--Name-->Tapis étrangleur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Rug of Smothering](monsters_vo.md#rug-of-smothering)<!--/AltName-->
+- Alias: <!--AltName-->[Rug of Smothering](monsters_vo.md#rug-of-smothering)<!--/AltName-->
 -  <!--Type-->Créature artificielle<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -8450,7 +8450,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 # <!--Name-->Ogre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ogre](monsters_vo.md#ogre)<!--/AltName-->
+- Alias: <!--AltName-->[Ogre](monsters_vo.md#ogre)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure de peau)<!--/ArmorClass-->
@@ -8483,7 +8483,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # <!--Name-->Ombre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Shadow](monsters_vo.md#shadow)<!--/AltName-->
+- Alias: <!--AltName-->[Shadow](monsters_vo.md#shadow)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -8527,7 +8527,7 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 # <!--Name-->Oni<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Oni](monsters_vo.md#oni)<!--/AltName-->
+- Alias: <!--AltName-->[Oni](monsters_vo.md#oni)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (cotte de mailles)<!--/ArmorClass-->
@@ -8658,7 +8658,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 # <!--Name-->Otyugh<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Otyugh](monsters_vo.md#otyugh)<!--/AltName-->
+- Alias: <!--AltName-->[Otyugh](monsters_vo.md#otyugh)<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -8704,7 +8704,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 # <!--Name-->Oxydeur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Rust Monster](monsters_vo.md#rust-monster)<!--/AltName-->
+- Alias: <!--AltName-->[Rust Monster](monsters_vo.md#rust-monster)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -8797,7 +8797,7 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 # <!--Name-->Pégase<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Pegasus](monsters_vo.md#pegasus)<!--/AltName-->
+- Alias: <!--AltName-->[Pegasus](monsters_vo.md#pegasus)<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -8828,7 +8828,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # <!--Name-->Pseudodragon<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Pseudodragon](monsters_vo.md#pseudodragon)<!--/AltName-->
+- Alias: <!--AltName-->[Pseudodragon](monsters_vo.md#pseudodragon)<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -8870,7 +8870,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # <!--Name-->Rakshasa<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Rakshasa](monsters_vo.md#rakshasa)<!--/AltName-->
+- Alias: <!--AltName-->[Rakshasa](monsters_vo.md#rakshasa)<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -8957,7 +8957,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 # <!--Name-->Roc<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Roc](monsters_vo.md#roc)<!--/AltName-->
+- Alias: <!--AltName-->[Roc](monsters_vo.md#roc)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -8998,7 +8998,7 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée] (évasio
 # <!--Name-->Sahuagin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Sahuagin](monsters_vo.md#sahuagin)<!--/AltName-->
+- Alias: <!--AltName-->[Sahuagin](monsters_vo.md#sahuagin)<!--/AltName-->
 -  <!--Type-->Humanoïde (sahuagin)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -9105,7 +9105,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 # <!--Name-->Salamandre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Salamander](monsters_vo.md#salamander)<!--/AltName-->
+- Alias: <!--AltName-->[Salamander](monsters_vo.md#salamander)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -9149,7 +9149,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 # <!--Name-->Satyre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Satyr](monsters_vo.md#satyr)<!--/AltName-->
+- Alias: <!--AltName-->[Satyr](monsters_vo.md#satyr)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure de cuir)<!--/ArmorClass-->
@@ -9285,7 +9285,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 # <!--Name-->Spectre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Specter](monsters_vo.md#specter)<!--/AltName-->
+- Alias: <!--AltName-->[Specter](monsters_vo.md#specter)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -9323,7 +9323,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 # <!--Name-->Androsphinx<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Androsphinx](monsters_vo.md#androsphinx)<!--/AltName-->
+- Alias: <!--AltName-->[Androsphinx](monsters_vo.md#androsphinx)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -9398,7 +9398,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Gynosphinx<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gynosphinx](monsters_vo.md#gynosphinx)<!--/AltName-->
+- Alias: <!--AltName-->[Gynosphinx](monsters_vo.md#gynosphinx)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
@@ -9463,7 +9463,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # <!--Name-->Squelette<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Skeleton](monsters_vo.md#skeleton)<!--/AltName-->
+- Alias: <!--AltName-->[Skeleton](monsters_vo.md#skeleton)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (débris d'armure)<!--/ArmorClass-->
@@ -9499,7 +9499,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Squelette cheval de guerre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)<!--/AltName-->
+- Alias: <!--AltName-->[Warhorse Skeleton](monsters_vo.md#warhorse-skeleton)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (débris de barde)<!--/ArmorClass-->
@@ -9531,7 +9531,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # <!--Name-->Squelette minotaure<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)<!--/AltName-->
+- Alias: <!--AltName-->[Minotaur Skeleton](monsters_vo.md#minotaur-skeleton)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -9571,7 +9571,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 # <!--Name-->Strige<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Stirge](monsters_vo.md#stirge)<!--/AltName-->
+- Alias: <!--AltName-->[Stirge](monsters_vo.md#stirge)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -9604,7 +9604,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 # <!--Name-->Succube/Incube<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Succubus](monsters_vo.md#succubus)<!--/AltName-->
+- Alias: <!--AltName-->[Succubus](monsters_vo.md#succubus)<!--/AltName-->
 -  <!--Type-->Fiélon (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -9651,7 +9651,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 # <!--Name-->Sylvanien<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Treant](monsters_vo.md#treant)<!--/AltName-->
+- Alias: <!--AltName-->[Treant](monsters_vo.md#treant)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->Chaotique Bonne<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -9696,7 +9696,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 # <!--Name-->Tarasque<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Tarrasque](monsters_vo.md#tarrasque)<!--/AltName-->
+- Alias: <!--AltName-->[Tarrasque](monsters_vo.md#tarrasque)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse (titan)<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->25 (armure naturelle)<!--/ArmorClass-->
@@ -9846,7 +9846,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # <!--Name-->Tertre errant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Shambling Mound](monsters_vo.md#shambling-mound)<!--/AltName-->
+- Alias: <!--AltName-->[Shambling Mound](monsters_vo.md#shambling-mound)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -9887,7 +9887,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # <!--Name-->Torve<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Grimlock](monsters_vo.md#grimlock)<!--/AltName-->
+- Alias: <!--AltName-->[Grimlock](monsters_vo.md#grimlock)<!--/AltName-->
 -  <!--Type-->Humanoïde (torve)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -9926,7 +9926,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 # <!--Name-->Traqueur invisible<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Invisible Stalker](monsters_vo.md#invisible-stalker)<!--/AltName-->
+- Alias: <!--AltName-->[Invisible Stalker](monsters_vo.md#invisible-stalker)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
@@ -9966,7 +9966,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 # <!--Name-->Troll<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Troll](monsters_vo.md#troll)<!--/AltName-->
+- Alias: <!--AltName-->[Troll](monsters_vo.md#troll)<!--/AltName-->
 -  <!--Type-->Géant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -10008,7 +10008,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 # <!--Name-->Vampire<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Vampire](monsters_vo.md#vampire)<!--/AltName-->
+- Alias: <!--AltName-->[Vampire](monsters_vo.md#vampire)<!--/AltName-->
 -  <!--Type-->Mort-vivant (métamorphe)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -10094,7 +10094,7 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 # <!--Name-->Vampirien<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Vampire Spawn](monsters_vo.md#vampire-spawn)<!--/AltName-->
+- Alias: <!--AltName-->[Vampire Spawn](monsters_vo.md#vampire-spawn)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -10150,7 +10150,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 # <!--Name-->Cube gélatineux<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gelatinous Cube](monsters_vo.md#gelatinous-cube)<!--/AltName-->
+- Alias: <!--AltName-->[Gelatinous Cube](monsters_vo.md#gelatinous-cube)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Donjon maçonné, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->6<!--/ArmorClass-->
@@ -10202,7 +10202,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 # <!--Name-->Gelée ocre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ochre Jelly](monsters_vo.md#ochre-jelly)<!--/AltName-->
+- Alias: <!--AltName-->[Ochre Jelly](monsters_vo.md#ochre-jelly)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
@@ -10244,7 +10244,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 # <!--Name-->Pouding noir<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Black Pudding](monsters_vo.md#black-pudding)<!--/AltName-->
+- Alias: <!--AltName-->[Black Pudding](monsters_vo.md#black-pudding)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Donjon maçonné<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->7<!--/ArmorClass-->
@@ -10289,7 +10289,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 # <!--Name-->Vase grise<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gray Ooze](monsters_vo.md#gray-ooze)<!--/AltName-->
+- Alias: <!--AltName-->[Gray Ooze](monsters_vo.md#gray-ooze)<!--/AltName-->
 -  <!--Type-->Vase<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
@@ -10333,7 +10333,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 # <!--Name-->Ver pourpre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Purple Worm](monsters_vo.md#purple-worm)<!--/AltName-->
+- Alias: <!--AltName-->[Purple Worm](monsters_vo.md#purple-worm)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->Gig<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (armure naturelle)<!--/ArmorClass-->
@@ -10377,7 +10377,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées] par lui et pe
 # <!--Name-->Vouivre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Wyvern](monsters_vo.md#wyvern)<!--/AltName-->
+- Alias: <!--AltName-->[Wyvern](monsters_vo.md#wyvern)<!--/AltName-->
 -  <!--Type-->Dragon<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -10417,7 +10417,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 # <!--Name-->Xorn<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Xorn](monsters_vo.md#xorn)<!--/AltName-->
+- Alias: <!--AltName-->[Xorn](monsters_vo.md#xorn)<!--/AltName-->
 -  <!--Type-->Élémentaire<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Plans élémentaires<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->19 (armure naturelle)<!--/ArmorClass-->
@@ -10465,7 +10465,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 # <!--Name-->Zombi<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Zombie](monsters_vo.md#zombie)<!--/AltName-->
+- Alias: <!--AltName-->[Zombie](monsters_vo.md#zombie)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
@@ -10501,7 +10501,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 # <!--Name-->Zombi ogre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ogre Zombie](monsters_vo.md#ogre-zombie)<!--/AltName-->
+- Alias: <!--AltName-->[Ogre Zombie](monsters_vo.md#ogre-zombie)<!--/AltName-->
 -  <!--Type-->Mort-vivant<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->8<!--/ArmorClass-->
@@ -10537,7 +10537,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # <!--Name-->Aigle<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Eagle](monsters_vo.md#eagle)<!--/AltName-->
+- Alias: <!--AltName-->[Eagle](monsters_vo.md#eagle)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -10571,7 +10571,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 # <!--Name-->Aigle géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Eagle](monsters_vo.md#giant-eagle)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Eagle](monsters_vo.md#giant-eagle)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -10611,7 +10611,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Araignée<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Spider](monsters_vo.md#spider)<!--/AltName-->
+- Alias: <!--AltName-->[Spider](monsters_vo.md#spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -10649,7 +10649,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 # <!--Name-->Araignée de phase<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Phase Spider](monsters_vo.md#phase-spider)<!--/AltName-->
+- Alias: <!--AltName-->[Phase Spider](monsters_vo.md#phase-spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -10687,7 +10687,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 # <!--Name-->Araignée géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Spider](monsters_vo.md#giant-spider)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Spider](monsters_vo.md#giant-spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne naturelle, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -10729,7 +10729,7 @@ _Touché :_ la cible est [entravée] par la toile. Par une action, la cible [ent
 # <!--Name-->Araignée-loup géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Wolf Spider](monsters_vo.md#giant-wolf-spider)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -10767,7 +10767,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 # <!--Name-->Arbre éveillé<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Awakened Tree](monsters_vo.md#awakened-tree)<!--/AltName-->
+- Alias: <!--AltName-->[Awakened Tree](monsters_vo.md#awakened-tree)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -10802,7 +10802,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 # <!--Name-->Arbuste éveillé<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Awakened Shrub](monsters_vo.md#awakened-shrub)<!--/AltName-->
+- Alias: <!--AltName-->[Awakened Shrub](monsters_vo.md#awakened-shrub)<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
@@ -10837,7 +10837,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 # <!--Name-->Babouin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Baboon](monsters_vo.md#baboon)<!--/AltName-->
+- Alias: <!--AltName-->[Baboon](monsters_vo.md#baboon)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -10870,7 +10870,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 # <!--Name-->Bec de hache<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Axe Beak](monsters_vo.md#axe-beak)<!--/AltName-->
+- Alias: <!--AltName-->[Axe Beak](monsters_vo.md#axe-beak)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -10899,7 +10899,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 # <!--Name-->Belette<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Weasel](monsters_vo.md#weasel)<!--/AltName-->
+- Alias: <!--AltName-->[Weasel](monsters_vo.md#weasel)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -10933,7 +10933,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Belette géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Weasel](monsters_vo.md#giant-weasel)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Weasel](monsters_vo.md#giant-weasel)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -10967,7 +10967,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # <!--Name-->Blaireau<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Badger](monsters_vo.md#badger)<!--/AltName-->
+- Alias: <!--AltName-->[Badger](monsters_vo.md#badger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -11000,7 +11000,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Blaireau géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Badger](monsters_vo.md#giant-badger)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Badger](monsters_vo.md#giant-badger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -11039,7 +11039,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 # <!--Name-->Chacal<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Jackal](monsters_vo.md#jackal)<!--/AltName-->
+- Alias: <!--AltName-->[Jackal](monsters_vo.md#jackal)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -11075,7 +11075,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 # <!--Name-->Chameau<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Camel](monsters_vo.md#camel)<!--/AltName-->
+- Alias: <!--AltName-->[Camel](monsters_vo.md#camel)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->9<!--/ArmorClass-->
@@ -11104,7 +11104,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 # <!--Name-->Chat<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Cat](monsters_vo.md#cat)<!--/AltName-->
+- Alias: <!--AltName-->[Cat](monsters_vo.md#cat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -11138,7 +11138,7 @@ _Touché :_ 1 dégât tranchant.
 # <!--Name-->Chauve-souris<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bat](monsters_vo.md#bat)<!--/AltName-->
+- Alias: <!--AltName-->[Bat](monsters_vo.md#bat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -11173,7 +11173,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Chauve-souris géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Bat](monsters_vo.md#giant-bat)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Bat](monsters_vo.md#giant-bat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -11208,7 +11208,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Cheval de guerre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Warhorse](monsters_vo.md#warhorse)<!--/AltName-->
+- Alias: <!--AltName-->[Warhorse](monsters_vo.md#warhorse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -11318,7 +11318,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # <!--Name-->Cheval de selle<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Riding Horse](monsters_vo.md#riding-horse)<!--/AltName-->
+- Alias: <!--AltName-->[Riding Horse](monsters_vo.md#riding-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -11347,7 +11347,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 # <!--Name-->Cheval de trait<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Draft Horse](monsters_vo.md#draft-horse)<!--/AltName-->
+- Alias: <!--AltName-->[Draft Horse](monsters_vo.md#draft-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -11376,7 +11376,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 # <!--Name-->Chèvre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Goat](monsters_vo.md#goat)<!--/AltName-->
+- Alias: <!--AltName-->[Goat](monsters_vo.md#goat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -11411,7 +11411,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 # <!--Name-->Chèvre géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Goat](monsters_vo.md#giant-goat)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Goat](monsters_vo.md#giant-goat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -11446,7 +11446,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 # <!--Name-->Chevreuil<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Deer](monsters_vo.md#deer)<!--/AltName-->
+- Alias: <!--AltName-->[Deer](monsters_vo.md#deer)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -11475,7 +11475,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 # <!--Name-->Chien du trépas<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Death Dog](monsters_vo.md#death-dog)<!--/AltName-->
+- Alias: <!--AltName-->[Death Dog](monsters_vo.md#death-dog)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -11511,7 +11511,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 # <!--Name-->Chien esquiveur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Blink Dog](monsters_vo.md#blink-dog)<!--/AltName-->
+- Alias: <!--AltName-->[Blink Dog](monsters_vo.md#blink-dog)<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -11547,7 +11547,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 # <!--Name-->Chouette<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Owl](monsters_vo.md#owl)<!--/AltName-->
+- Alias: <!--AltName-->[Owl](monsters_vo.md#owl)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -11583,7 +11583,7 @@ _Touché :_ 1 dégât tranchant.
 # <!--Name-->Chouette géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Owl](monsters_vo.md#giant-owl)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Owl](monsters_vo.md#giant-owl)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->neutre<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -11619,7 +11619,7 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 # <!--Name-->Corbeau<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Raven](monsters_vo.md#raven)<!--/AltName-->
+- Alias: <!--AltName-->[Raven](monsters_vo.md#raven)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -11653,7 +11653,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Crabe<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Crab](monsters_vo.md#crab)<!--/AltName-->
+- Alias: <!--AltName-->[Crab](monsters_vo.md#crab)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -11687,7 +11687,7 @@ _Touché :_ 1 dégât contondant.
 # <!--Name-->Crabe géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Crab](monsters_vo.md#giant-crab)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Crab](monsters_vo.md#giant-crab)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -11721,7 +11721,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée] (évasion 
 # <!--Name-->Crapaud géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Toad](monsters_vo.md#giant-toad)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Toad](monsters_vo.md#giant-toad)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -11760,7 +11760,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 # <!--Name-->Crocodile<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Crocodile](monsters_vo.md#crocodile)<!--/AltName-->
+- Alias: <!--AltName-->[Crocodile](monsters_vo.md#crocodile)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -11794,7 +11794,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée] (évasio
 # <!--Name-->Crocodile géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Crocodile](monsters_vo.md#giant-crocodile)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Crocodile](monsters_vo.md#giant-crocodile)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -11834,7 +11834,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 # <!--Name-->Élan<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Elk](monsters_vo.md#elk)<!--/AltName-->
+- Alias: <!--AltName-->[Elk](monsters_vo.md#elk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -11871,7 +11871,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 # <!--Name-->Élan géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Elk](monsters_vo.md#giant-elk)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Elk](monsters_vo.md#giant-elk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -11909,7 +11909,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 # <!--Name-->Éléphant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Elephant](monsters_vo.md#elephant)<!--/AltName-->
+- Alias: <!--AltName-->[Elephant](monsters_vo.md#elephant)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Jungle, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -11946,7 +11946,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 # <!--Name-->Épaulard<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Killer Whale](monsters_vo.md#killer-whale)<!--/AltName-->
+- Alias: <!--AltName-->[Killer Whale](monsters_vo.md#killer-whale)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -11984,7 +11984,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 # <!--Name-->Faucon<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hawk](monsters_vo.md#hawk)<!--/AltName-->
+- Alias: <!--AltName-->[Hawk](monsters_vo.md#hawk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -12018,7 +12018,7 @@ _Touché :_ 1 dégât tranchant.
 # <!--Name-->Faucon de sang<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Blood Hawk](monsters_vo.md#blood-hawk)<!--/AltName-->
+- Alias: <!--AltName-->[Blood Hawk](monsters_vo.md#blood-hawk)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Littoral<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12054,7 +12054,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # <!--Name-->Grand singe<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Ape](monsters_vo.md#ape)<!--/AltName-->
+- Alias: <!--AltName-->[Ape](monsters_vo.md#ape)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12090,7 +12090,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 # <!--Name-->Grenouille<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Frog](monsters_vo.md#frog)<!--/AltName-->
+- Alias: <!--AltName-->[Frog](monsters_vo.md#frog)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -12120,7 +12120,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 # <!--Name-->Grenouille géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Frog](monsters_vo.md#giant-frog)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Frog](monsters_vo.md#giant-frog)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -12160,7 +12160,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée] (évasion
 # <!--Name-->Guêpe géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Wasp](monsters_vo.md#giant-wasp)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Wasp](monsters_vo.md#giant-wasp)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12261,7 +12261,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Hippocampe<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Sea Horse](monsters_vo.md#sea-horse)<!--/AltName-->
+- Alias: <!--AltName-->[Sea Horse](monsters_vo.md#sea-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -12288,7 +12288,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Hippocampe géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Sea Horse](monsters_vo.md#giant-sea-horse)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Sea Horse](monsters_vo.md#giant-sea-horse)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -12323,7 +12323,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 # <!--Name-->Hyène<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hyena](monsters_vo.md#hyena)<!--/AltName-->
+- Alias: <!--AltName-->[Hyena](monsters_vo.md#hyena)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -12357,7 +12357,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 # <!--Name-->Hyène géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Hyena](monsters_vo.md#giant-hyena)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Hyena](monsters_vo.md#giant-hyena)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12391,7 +12391,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 # <!--Name-->Lézard<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Lizard](monsters_vo.md#lizard)<!--/AltName-->
+- Alias: <!--AltName-->[Lizard](monsters_vo.md#lizard)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -12420,7 +12420,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Lézard géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Lizard](monsters_vo.md#giant-lizard)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Lizard](monsters_vo.md#giant-lizard)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -12449,7 +12449,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # <!--Name-->Lion<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Lion](monsters_vo.md#lion)<!--/AltName-->
+- Alias: <!--AltName-->[Lion](monsters_vo.md#lion)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12491,7 +12491,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 # <!--Name-->Loup<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Wolf](monsters_vo.md#wolf)<!--/AltName-->
+- Alias: <!--AltName-->[Wolf](monsters_vo.md#wolf)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -12527,7 +12527,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 # <!--Name-->Loup arctique<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Winter Wolf](monsters_vo.md#winter-wolf)<!--/AltName-->
+- Alias: <!--AltName-->[Winter Wolf](monsters_vo.md#winter-wolf)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -12570,7 +12570,7 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde] de 
 # <!--Name-->Loup sanguinaire<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Dire Wolf](monsters_vo.md#dire-wolf)<!--/AltName-->
+- Alias: <!--AltName-->[Dire Wolf](monsters_vo.md#dire-wolf)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
@@ -12606,7 +12606,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 # <!--Name-->Mammouth<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mammoth](monsters_vo.md#mammoth)<!--/AltName-->
+- Alias: <!--AltName-->[Mammoth](monsters_vo.md#mammoth)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -12643,7 +12643,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 # <!--Name-->Mastiff<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mastiff](monsters_vo.md#mastiff)<!--/AltName-->
+- Alias: <!--AltName-->[Mastiff](monsters_vo.md#mastiff)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12677,7 +12677,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 # <!--Name-->Mille-pattes géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Centipede](monsters_vo.md#giant-centipede)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Centipede](monsters_vo.md#giant-centipede)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Jungle, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -12706,7 +12706,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 # <!--Name-->Mule<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mule](monsters_vo.md#mule)<!--/AltName-->
+- Alias: <!--AltName-->[Mule](monsters_vo.md#mule)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -12741,7 +12741,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 # <!--Name-->Nuée de chauve-souris<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Swarm of Bats](monsters_vo.md#swarm-of-bats)<!--/AltName-->
+- Alias: <!--AltName-->[Swarm of Bats](monsters_vo.md#swarm-of-bats)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12780,7 +12780,7 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 # <!--Name-->Nuée de corbeaux<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)<!--/AltName-->
+- Alias: <!--AltName-->[Swarm of Ravens](monsters_vo.md#swarm-of-ravens)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -12816,7 +12816,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 # <!--Name-->Nuée de piranhas<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)<!--/AltName-->
+- Alias: <!--AltName-->[Swarm of Quippers](monsters_vo.md#swarm-of-quippers)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -12855,7 +12855,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 # <!--Name-->Nuée de rats<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Swarm of Rats](monsters_vo.md#swarm-of-rats)<!--/AltName-->
+- Alias: <!--AltName-->[Swarm of Rats](monsters_vo.md#swarm-of-rats)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -12892,7 +12892,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 # <!--Name-->Nuée de serpents venimeux<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)<!--/AltName-->
+- Alias: <!--AltName-->[Swarm of Poisonous Snakes](monsters_vo.md#swarm-of-poisonous-snakes)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
@@ -12927,7 +12927,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 # <!--Name-->Nuée d'insectes<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Swarm of Insects](monsters_vo.md#swarm-of-insects)<!--/AltName-->
+- Alias: <!--AltName-->[Swarm of Insects](monsters_vo.md#swarm-of-insects)<!--/AltName-->
 -  <!--Type-->Nuée<!--/Type--> de taille <!--Size-->M composée de bêtes de taille TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -12979,7 +12979,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 # <!--Name-->Ours brun<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Brown Bear](monsters_vo.md#brown-bear)<!--/AltName-->
+- Alias: <!--AltName-->[Brown Bear](monsters_vo.md#brown-bear)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Littoral, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -13019,7 +13019,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 # <!--Name-->Ours noir<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Black Bear](monsters_vo.md#black-bear)<!--/AltName-->
+- Alias: <!--AltName-->[Black Bear](monsters_vo.md#black-bear)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -13059,7 +13059,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Ours polaire<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Polar Bear](monsters_vo.md#polar-bear)<!--/AltName-->
+- Alias: <!--AltName-->[Polar Bear](monsters_vo.md#polar-bear)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Bois / Forêt<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -13099,7 +13099,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 # <!--Name-->Panthère<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Panther](monsters_vo.md#panther)<!--/AltName-->
+- Alias: <!--AltName-->[Panther](monsters_vo.md#panther)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13139,7 +13139,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Pieuvre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Octopus](monsters_vo.md#octopus)<!--/AltName-->
+- Alias: <!--AltName-->[Octopus](monsters_vo.md#octopus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13179,7 +13179,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée] (évasion DD 10). 
 # <!--Name-->Pieuvre géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Octopus](monsters_vo.md#giant-octopus)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Octopus](monsters_vo.md#giant-octopus)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -13221,7 +13221,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée] et la pieuvre ne pe
 # <!--Name-->Piranha<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Quipper](monsters_vo.md#quipper)<!--/AltName-->
+- Alias: <!--AltName-->[Quipper](monsters_vo.md#quipper)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -13256,7 +13256,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Poney<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Pony](monsters_vo.md#pony)<!--/AltName-->
+- Alias: <!--AltName-->[Pony](monsters_vo.md#pony)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -13285,7 +13285,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 # <!--Name-->Punaise de feu géante<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Fire Beetle](monsters_vo.md#giant-fire-beetle)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -13318,7 +13318,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 # <!--Name-->Rat<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Rat](monsters_vo.md#rat)<!--/AltName-->
+- Alias: <!--AltName-->[Rat](monsters_vo.md#rat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -13351,7 +13351,7 @@ _Touché :_ 1 dégât perforant.
 # <!--Name-->Rat géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Rat](monsters_vo.md#giant-rat)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Rat](monsters_vo.md#giant-rat)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage, Caverne aménagée<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13394,7 +13394,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 # <!--Name-->Requin chasseur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Hunter Shark](monsters_vo.md#hunter-shark)<!--/AltName-->
+- Alias: <!--AltName-->[Hunter Shark](monsters_vo.md#hunter-shark)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -13430,7 +13430,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 # <!--Name-->Requin de récif<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Reef Shark](monsters_vo.md#reef-shark)<!--/AltName-->
+- Alias: <!--AltName-->[Reef Shark](monsters_vo.md#reef-shark)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Littoral, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -13466,7 +13466,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # <!--Name-->Requin géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Shark](monsters_vo.md#giant-shark)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Shark](monsters_vo.md#giant-shark)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -13502,7 +13502,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 # <!--Name-->Rhinocéros<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Rhinoceros](monsters_vo.md#rhinoceros)<!--/AltName-->
+- Alias: <!--AltName-->[Rhinoceros](monsters_vo.md#rhinoceros)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -13537,7 +13537,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 # <!--Name-->Sanglier<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Boar](monsters_vo.md#boar)<!--/AltName-->
+- Alias: <!--AltName-->[Boar](monsters_vo.md#boar)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -13572,7 +13572,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 # <!--Name-->Sanglier géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Boar](monsters_vo.md#giant-boar)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Boar](monsters_vo.md#giant-boar)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Jungle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure naturelle)<!--/ArmorClass-->
@@ -13607,7 +13607,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Scorpion<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Scorpion](monsters_vo.md#scorpion)<!--/AltName-->
+- Alias: <!--AltName-->[Scorpion](monsters_vo.md#scorpion)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure naturelle)<!--/ArmorClass-->
@@ -13636,7 +13636,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 # <!--Name-->Scorpion géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Scorpion](monsters_vo.md#giant-scorpion)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Scorpion](monsters_vo.md#giant-scorpion)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -13671,7 +13671,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée] (évasio
 # <!--Name-->Serpent constricteur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Constrictor Snake](monsters_vo.md#constrictor-snake)<!--/AltName-->
+- Alias: <!--AltName-->[Constrictor Snake](monsters_vo.md#constrictor-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13704,7 +13704,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Serpent constricteur géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Constrictor Snake](monsters_vo.md#giant-constrictor-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13738,7 +13738,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 # <!--Name-->Serpent venimeux<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Poisonous Snake](monsters_vo.md#poisonous-snake)<!--/AltName-->
+- Alias: <!--AltName-->[Poisonous Snake](monsters_vo.md#poisonous-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -13767,7 +13767,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 # <!--Name-->Serpent venimeux géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Poisonous Snake](monsters_vo.md#giant-poisonous-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Caverne sous-marine<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
@@ -13799,7 +13799,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde] raté et la
 # <!--Name-->Serpent volant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Flying Snake](monsters_vo.md#flying-snake)<!--/AltName-->
+- Alias: <!--AltName-->[Flying Snake](monsters_vo.md#flying-snake)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->14<!--/ArmorClass-->
@@ -13832,7 +13832,7 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 # <!--Name-->Singe géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Ape](monsters_vo.md#giant-ape)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Ape](monsters_vo.md#giant-ape)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->TG<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13868,7 +13868,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 # <!--Name-->Tigre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Tiger](monsters_vo.md#tiger)<!--/AltName-->
+- Alias: <!--AltName-->[Tiger](monsters_vo.md#tiger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Arctique / Subarctique, Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13908,7 +13908,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 # <!--Name-->Tigre à dents de sabre<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)<!--/AltName-->
+- Alias: <!--AltName-->[Saber-Toothed Tiger](monsters_vo.md#saber-toothed-tiger)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Désert chaud, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -13948,7 +13948,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 # <!--Name-->Vautour<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Vulture](monsters_vo.md#vulture)<!--/AltName-->
+- Alias: <!--AltName-->[Vulture](monsters_vo.md#vulture)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non-alignée<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -13984,7 +13984,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 # <!--Name-->Vautour géant<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Giant Vulture](monsters_vo.md#giant-vulture)<!--/AltName-->
+- Alias: <!--AltName-->[Giant Vulture](monsters_vo.md#giant-vulture)<!--/AltName-->
 -  <!--Type-->Bête<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -14026,7 +14026,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 # <!--Name-->Worg<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Worg](monsters_vo.md#worg)<!--/AltName-->
+- Alias: <!--AltName-->[Worg](monsters_vo.md#worg)<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -14060,7 +14060,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 # <!--Name-->Acolyte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Acolyte](monsters_vo.md#acolyte)<!--/AltName-->
+- Alias: <!--AltName-->[Acolyte](monsters_vo.md#acolyte)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -14098,7 +14098,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 # <!--Name-->Archimage<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Archmage](monsters_vo.md#archmage)<!--/AltName-->
+- Alias: <!--AltName-->[Archmage](monsters_vo.md#archmage)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (15 avec armure du mage)<!--/ArmorClass-->
@@ -14160,7 +14160,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # <!--Name-->Assassin<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Assassin](monsters_vo.md#assassin)<!--/AltName-->
+- Alias: <!--AltName-->[Assassin](monsters_vo.md#assassin)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
@@ -14206,7 +14206,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 # <!--Name-->Bandit<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bandit](monsters_vo.md#bandit)<!--/AltName-->
+- Alias: <!--AltName-->[Bandit](monsters_vo.md#bandit)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Loyal<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
@@ -14239,7 +14239,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 # <!--Name-->Berserker<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Berserker](monsters_vo.md#berserker)<!--/AltName-->
+- Alias: <!--AltName-->[Berserker](monsters_vo.md#berserker)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement Chaotique<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de peau)<!--/ArmorClass-->
@@ -14272,7 +14272,7 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 # <!--Name-->Capitaine bandit<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Bandit Captain](monsters_vo.md#bandit-captain)<!--/AltName-->
+- Alias: <!--AltName-->[Bandit Captain](monsters_vo.md#bandit-captain)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Loyal<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure de cuir clouté)<!--/ArmorClass-->
@@ -14313,7 +14313,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # <!--Name-->Chevalier<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Knight](monsters_vo.md#knight)<!--/AltName-->
+- Alias: <!--AltName-->[Knight](monsters_vo.md#knight)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->18 (harnois)<!--/ArmorClass-->
@@ -14359,7 +14359,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # <!--Name-->Druide<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Druid](monsters_vo.md#druid)<!--/AltName-->
+- Alias: <!--AltName-->[Druid](monsters_vo.md#druid)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (16 avec peau d'écorce)<!--/ArmorClass-->
@@ -14399,7 +14399,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 # <!--Name-->Ecclésiastique<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Priest](monsters_vo.md#priest)<!--/AltName-->
+- Alias: <!--AltName-->[Priest](monsters_vo.md#priest)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (chemise de mailles)<!--/ArmorClass-->
@@ -14445,7 +14445,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 # <!--Name-->Éclaireur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Scout](monsters_vo.md#scout)<!--/AltName-->
+- Alias: <!--AltName-->[Scout](monsters_vo.md#scout)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
@@ -14485,7 +14485,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Espion<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Spy](monsters_vo.md#spy)<!--/AltName-->
+- Alias: <!--AltName-->[Spy](monsters_vo.md#spy)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -14527,7 +14527,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # <!--Name-->Fanatique de secte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Cult Fanatic](monsters_vo.md#cult-fanatic)<!--/AltName-->
+- Alias: <!--AltName-->[Cult Fanatic](monsters_vo.md#cult-fanatic)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure de cuir)<!--/ArmorClass-->
@@ -14571,7 +14571,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # <!--Name-->Garde<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Guard](monsters_vo.md#guard)<!--/AltName-->
+- Alias: <!--AltName-->[Guard](monsters_vo.md#guard)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (bouclier, chemise de mailles)<!--/ArmorClass-->
@@ -14601,7 +14601,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 # <!--Name-->Gladiateur<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Gladiator](monsters_vo.md#gladiator)<!--/AltName-->
+- Alias: <!--AltName-->[Gladiator](monsters_vo.md#gladiator)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure de cuir clouté, bouclier)<!--/ArmorClass-->
@@ -14650,7 +14650,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 # <!--Name-->Guerrier tribal<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Tribal Warrior](monsters_vo.md#tribal-warrior)<!--/AltName-->
+- Alias: <!--AltName-->[Tribal Warrior](monsters_vo.md#tribal-warrior)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de peau)<!--/ArmorClass-->
@@ -14683,7 +14683,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 # <!--Name-->Mage<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Mage](monsters_vo.md#mage)<!--/AltName-->
+- Alias: <!--AltName-->[Mage](monsters_vo.md#mage)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (15 avec armure du mage)<!--/ArmorClass-->
@@ -14730,7 +14730,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # <!--Name-->Malfrat<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Thug](monsters_vo.md#thug)<!--/AltName-->
+- Alias: <!--AltName-->[Thug](monsters_vo.md#thug)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->11 (armure de cuir)<!--/ArmorClass-->
@@ -14772,7 +14772,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 # <!--Name-->Membre de secte<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Cultist](monsters_vo.md#cultist)<!--/AltName-->
+- Alias: <!--AltName-->[Cultist](monsters_vo.md#cultist)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement autre que Bon<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12 (armure de cuir)<!--/ArmorClass-->
@@ -14806,7 +14806,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 # <!--Name-->Noble<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Noble](monsters_vo.md#noble)<!--/AltName-->
+- Alias: <!--AltName-->[Noble](monsters_vo.md#noble)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (cuirasse)<!--/ArmorClass-->
@@ -14840,7 +14840,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 # <!--Name-->Roturier<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Commoner](monsters_vo.md#commoner)<!--/AltName-->
+- Alias: <!--AltName-->[Commoner](monsters_vo.md#commoner)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->n'importe quel alignement<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -14869,7 +14869,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 # <!--Name-->Vétéran<!--/Name-->
 
 - Source: <!--Source-->(CEO p)(SRD p)<!--/Source-->
-- SRD: <!--AltName-->[Veteran](monsters_vo.md#veteran)<!--/AltName-->
+- Alias: <!--AltName-->[Veteran](monsters_vo.md#veteran)<!--/AltName-->
 -  <!--Type-->Humanoïde (n'importe quelle race)<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->alignement quelconque<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->17 (clibanion)<!--/ArmorClass-->

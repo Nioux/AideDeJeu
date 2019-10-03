@@ -7,7 +7,7 @@
 
 # <!--Name-->Dévot<!--/Name-->
 
-- AltName: <!--AltName-->Acolyte (SRD p60)<!--/AltName-->
+- Alias: <!--AltName-->Acolyte (SRD p60)<!--/AltName-->
 - Source: <!--Source-->(MDR p81)<!--/Source-->
 
 <!--Description-->
@@ -28,7 +28,7 @@ Choisissez un dieu, un panthéon de dieux ou un être semi-divin parmi la liste 
 
 #### <!--Name-->Aptitude : Refuge du pèlerin<!--/Name-->
 
-- AltName: <!--AltName-->Feature: Shelter of the Faithful (SRD p61)<!--/AltName-->
+- Alias: <!--AltName-->Feature: Shelter of the Faithful (SRD p61)<!--/AltName-->
 - Source: <!--Source-->(MDR p82)<!--/Source-->
 
 <!--Description-->
@@ -45,7 +45,7 @@ Vous pouvez être lié à un temple spécifique dédié à votre déité ou votr
 
 #### <!--Name-->Personnalités suggérées<!--/Name-->
 
-- AltName: <!--AltName-->Feature: Suggested Characteristics (SRD p61)<!--/AltName-->
+- Alias: <!--AltName-->Feature: Suggested Characteristics (SRD p61)<!--/AltName-->
 - Source: <!--Source-->(MDR p82)<!--/Source-->
 
 <!--Description-->
@@ -58,7 +58,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### <!--Name-->Trait de personnalité<!--/Name-->
 
-- AltName: <!--AltName-->Feature: Personality Trait (SRD p61)<!--/AltName-->
+- Alias: <!--AltName-->Feature: Personality Trait (SRD p61)<!--/AltName-->
 - Source: <!--Source-->(MDR p82)<!--/Source-->
 
 <!--Table-->
@@ -82,7 +82,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### <!--Name-->Idéal<!--/Name-->
 
-- AltName: <!--AltName-->Ideal  (SRD p61)<!--/AltName-->
+- Alias: <!--AltName-->Ideal  (SRD p61)<!--/AltName-->
 - Source: <!--Source-->(MDR p83)<!--/Source-->
 
 <!--Table-->
@@ -104,7 +104,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### <!--Name-->Lien<!--/Name-->
 
-- AltName: <!--AltName-->Bond  (SRD p61)<!--/AltName-->
+- Alias: <!--AltName-->Bond  (SRD p61)<!--/AltName-->
 - Source: <!--Source-->(MDR p83)<!--/Source-->
 
 <!--Table-->
@@ -126,7 +126,7 @@ La personnalité des acolytes est façonnée par leurs expériences dans les tem
 
 ##### <!--Name-->Défaut<!--/Name-->
 
-- AltName: <!--AltName-->Flaw  (SRD p61)<!--/AltName-->
+- Alias: <!--AltName-->Flaw  (SRD p61)<!--/AltName-->
 - Source: <!--Source-->(MDR p83)<!--/Source-->
 
 <!--Table-->

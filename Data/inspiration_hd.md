@@ -7,7 +7,7 @@
 
 # <!--Name-->Inspiration<!--/Name-->
 
-- AltName: <!--AltName-->Inspiration (SRD p59)<!--/AltName-->
+- Alias: <!--AltName-->Inspiration (SRD p59)<!--/AltName-->
 - Source: <!--Source-->(MDR p76)<!--/Source-->
 
 L'inspiration est une règle que le maître du donjon peut utiliser pour récompenser un joueur qui interprète son personnage de manière particulièrement juste, en restant fidèle à ses traits de personnalité, ses idéaux, ses liens et ses défauts. L'inspiration vous permet par exemple d'exploiter la compassion dont fait preuve votre personnage pour les plus démunis pour avoir un ascendant lors d'une négociation avec le prince mendiant, ou encore d'utiliser votre promesse de défendre votre village natal pour vous délivrer des effets d'un sort qui vous a été lancé.

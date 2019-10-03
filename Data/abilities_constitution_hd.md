@@ -7,7 +7,7 @@
 
 # <!--Name-->Constitution<!--/Name-->
 
-- AltName: <!--AltName-->Constitution (SRD p81)<!--/AltName-->
+- Alias: <!--AltName-->Constitution (SRD p81)<!--/AltName-->
 - Source: <!--Source-->(MDR p264)<!--/Source-->
 
 La Constitution représente la santé, l'endurance et la force vitale.

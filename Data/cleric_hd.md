@@ -7,7 +7,7 @@
 
 # <!--Name-->Clerc<!--/Name-->
 
-- AltName: <!--AltName-->Cleric (SRD p15)<!--/AltName-->
+- Alias: <!--AltName-->Cleric (SRD p15)<!--/AltName-->
 - Source: <!--Source-->(MDR p129)<!--/Source-->
 
 <!--Description-->

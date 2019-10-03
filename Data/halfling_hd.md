@@ -7,7 +7,7 @@
 
 # <!--Name-->Halfelin<!--/Name-->
 
-- AltName: <!--AltName-->Halfling (SRD p4)<!--/AltName-->
+- Alias: <!--AltName-->Halfling (SRD p4)<!--/AltName-->
 - Source: <!--Source-->(MDR p52)<!--/Source-->
 
 ## Traits des halfelins
@@ -40,7 +40,7 @@ Un halfelin possède de nombreux traits en commun avec tous les autres halfelins
 
 ## <!--Name-->Halfelin pied-léger<!--/Name-->
 
-- AltName: <!--AltName-->Lightfoot (SRD p5)<!--/AltName-->
+- Alias: <!--AltName-->Lightfoot (SRD p5)<!--/AltName-->
 - Source: <!--Source-->(MDR p52)<!--/Source-->
 
 <!--Description-->

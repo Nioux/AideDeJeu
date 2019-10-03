@@ -7,7 +7,7 @@
 
 # <!--Name-->Sagesse<!--/Name-->
 
-- AltName: <!--AltName-->Wisdom (SRD p82)<!--/AltName-->
+- Alias: <!--AltName-->Wisdom (SRD p82)<!--/AltName-->
 - Source: <!--Source-->(MDR p265)<!--/Source-->
 
 La Sagesse représente votre sensibilité au monde qui vous entoure, votre perspicacité et votre intuition.

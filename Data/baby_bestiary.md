@@ -9,6 +9,8 @@
 
 Voir [Aboleth](monsters_hd.md#aboleth)
 
+- Source: <!--Source-->(MM p14)(BB2 p14)<!--/Source-->
+- Alias: <!--AltName-->Aboleth Spawn<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Loyal Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Mer / Océan, Ruines sous-marines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -49,6 +51,8 @@ _Touché :_ 6 (2d4+1) dégâts contondants. Si la cible est une créature, elle 
 
 # <!--Name-->Ancien dieu, rejeton<!--/Name-->
 
+- Source: <!--Source-->(MM p16)(BB2 p28)<!--/Source-->
+- Alias: <!--AltName-->Elder Godspawn<!--/AltName-->
 -  <!--Type-->Fiélon (titan)<!--/Type--> de taille <!--Size-->G<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->17 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->100 (8d10+56)<!--/HitPoints-->
@@ -94,6 +98,8 @@ _Touché :_ 15 (3d6+5) dégâts perforants et la cible est empoignée (évasion 
 
 # <!--Name-->Archon canin, chiot<!--/Name-->
 
+- Source: <!--Source-->(MM p18)(BB2 p38)<!--/Source-->
+- Alias: <!--AltName-->Hound Archon Pup<!--/AltName-->
 -  <!--Type-->Céleste<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->16 (3d6+6)<!--/HitPoints-->
@@ -138,6 +144,8 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 # <!--Name-->Baku, éléphanteau<!--/Name-->
 
+- Source: <!--Source-->(MM p20)(BB2 p16)<!--/Source-->
+- Alias: <!--AltName-->Baku Calf<!--/AltName-->
 -  <!--Type-->Aberration<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Neutre<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->11 (2d8+2)<!--/HitPoints-->
@@ -177,6 +185,8 @@ _Touché :_ 5 (1d6+2) dégâts psychiques.
 
 Voir [Balor](monsters_hd.md#balor)
 
+- Source: <!--Source-->(MM p22)(BB2 p18)<!--/Source-->
+- Alias: <!--AltName-->Balrog Emberling<!--/AltName-->
 -  <!--Type-->Fiélon<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain--><!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -247,8 +257,10 @@ Voir [Basilic](monsters_hd.md#basilic)
 
 <!--MonsterItem Family="BabyBestiary"-->
 
-# <!--Name-->Beithir<!--/Name-->
+# <!--Name-->Beithir, Lézardeau<!--/Name-->
 
+- Source: <!--Source-->(MM p26)(BB2 p20)<!--/Source-->
+- Alias: <!--AltName-->Beithir Hatchling<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Classe d'armure** <!--ArmorClass-->14 (armure naturelle)<!--/ArmorClass-->
 - **Points de vie** <!--HitPoints-->43 (5d8+20)<!--/HitPoints-->
@@ -286,6 +298,8 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 Voir [Bulette](monsters_hd.md#bulette)
 
+- Source: <!--Source-->(MM p28)(BB1 p16)<!--/Source-->
+- Alias: <!--AltName-->Bulette Billy<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Collines / Vallées, Caverne naturelle<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->15 (armure naturelle)<!--/ArmorClass-->
@@ -318,6 +332,8 @@ Voir [Bulette](monsters_hd.md#bulette)
 
 Voir [Centaure](monsters_hd.md#centaure)
 
+- Source: <!--Source-->(MM p30)(BB1 p18)<!--/Source-->
+- Alias: <!--AltName-->Centaur Foal<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Désert chaud, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -354,6 +370,8 @@ _Touché :_ selon arme.
 
 Voir [Cerbère](monsters_hd.md#cerbère)
 
+- Source: <!--Source-->(MM p32)(BB1 p20)<!--/Source-->
+- Alias: <!--AltName-->Cerberus Puppy<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Neutre Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Jungle, Montagnes<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -390,6 +408,8 @@ Voir [Cerbère](monsters_hd.md#cerbère)
 
 Voir [Chien esquiveur](monsters_hd.md#chien-esquiveur)
 
+- Source: <!--Source-->(MM p34)(BB1 p14)<!--/Source-->
+- Alias: <!--AltName-->Blink Puppy<!--/AltName-->
 -  <!--Type-->Fée<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -426,6 +446,8 @@ _Touché :_ 1 dégât perforant.
 
 Voir [Chimère](monsters_hd.md#chimère)
 
+- Source: <!--Source-->(MM p36)(BB1 p22)<!--/Source-->
+- Alias: <!--AltName-->Chimera Cub<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->M<!--/Size-->, <!--Alignment-->Chaotique Mauvais<!--/Alignment-->
 - **Terrain** <!--Terrain-->Bois / Forêt, Montagnes, Ruines extérieures<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13 (armure naturelle)<!--/ArmorClass-->
@@ -468,6 +490,8 @@ _Touché :_ 6 (2d4+1) dégâts perforants.
 
 Voir [Cockatrice](monsters_hd.md#cockatrice)
 
+- Source: <!--Source-->(MM p38)(BB1 p24)<!--/Source-->
+- Alias: <!--AltName-->Cockatrice Chick<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->TP<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Terrain** <!--Terrain-->Collines / Vallées, Plaine / Champs / Prairie / Savane<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -496,6 +520,8 @@ _Touché :_ 1 dégât perforant et la cible doit réussir un jet de sauvegarde d
 
 Voir [Couatl](monsters_hd.md#couatl)
 
+- Source: <!--Source-->(MM p40)(BB1 p26)<!--/Source-->
+- Alias: <!--AltName-->Couatl Neonate<!--/AltName-->
 -  <!--Type-->Créature monstrueuse<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->Loyal Bon<!--/Alignment-->
 - **Terrain** <!--Terrain-->Jungle, Mangrove / Marécage<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->16 (armure naturelle)<!--/ArmorClass-->
@@ -539,6 +565,8 @@ _Touché :_ 2 (1d6-1) dégâts perforants et la cible doit réussir un jet de sa
 
 Voir [Criard](monsters_hd.md#criard)
 
+- Source: <!--Source-->(MM p42)(BB2 p76)<!--/Source-->
+- Alias: <!--AltName-->Shrieker Button<!--/AltName-->
 -  <!--Type-->Plante<!--/Type--> de taille <!--Size-->P<!--/Size-->, <!--Alignment-->non aligné<!--/Alignment-->
 - **Terrain** <!--Terrain-->Caverne aménagée, Caverne naturelle, Ruines souterraines<!--/Terrain-->
 - **Classe d'armure** <!--ArmorClass-->5<!--/ArmorClass-->

@@ -7,7 +7,7 @@
 
 # <!--Name-->Voie du berserker<!--/Name-->
 
-- AltName: <!--AltName-->Wisdom (SRD p9)<!--/AltName-->
+- Alias: <!--AltName-->Wisdom (SRD p9)<!--/AltName-->
 - Source: <!--Source-->(MDR p116)<!--/Source-->
 
 Pour certains barbares, la rage est un moyen d'atteindre leur but, et ce but est la violence. Animé par une furie débridée, le berserker suit une voie sanglante.

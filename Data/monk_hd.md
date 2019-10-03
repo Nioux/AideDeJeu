@@ -7,7 +7,7 @@
 
 # <!--Name-->Moine<!--/Name-->
 
-- AltName: <!--AltName-->Monk (SRD p26)<!--/AltName-->
+- Alias: <!--AltName-->Monk (SRD p26)<!--/AltName-->
 - Source: <!--Source-->(MDR p176)<!--/Source-->
 
 <!--Description-->

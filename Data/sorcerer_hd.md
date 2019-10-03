@@ -7,7 +7,7 @@
 
 # <!--Name-->Ensorceleur<!--/Name-->
 
-- AltName: <!--AltName-->Sorcerer (SRD p41)<!--/AltName-->
+- Alias: <!--AltName-->Sorcerer (SRD p41)<!--/AltName-->
 - Source: <!--Source-->(MDR p152)<!--/Source-->
 
 <!--Description-->

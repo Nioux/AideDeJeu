@@ -7,7 +7,7 @@
 
 # <!--Name-->Objets magiques intelligents<!--/Name-->
 
-- AltName: <!--AltName-->Sentient Magic Items (SRD p251)<!--/AltName-->
+- Alias: <!--AltName-->Sentient Magic Items (SRD p251)<!--/AltName-->
 - Source: <!--Source-->(CDC p189)<!--/Source-->
 
 

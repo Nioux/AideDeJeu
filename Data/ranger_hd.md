@@ -7,7 +7,7 @@
 
 # <!--Name-->Rôdeur<!--/Name-->
 
-- AltName: <!--AltName-->Ranger (SRD p35)<!--/AltName-->
+- Alias: <!--AltName-->Ranger (SRD p35)<!--/AltName-->
 - Source: <!--Source-->(MDR p194)<!--/Source-->
 
 <!--Description-->

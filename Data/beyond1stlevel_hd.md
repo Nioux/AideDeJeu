@@ -5,7 +5,7 @@
 
 ---
 
-- AltName: <!--AltName-->Beyond 1st Level (SRD p56)<!--/AltName-->
+- Alias: <!--AltName-->Beyond 1st Level (SRD p56)<!--/AltName-->
 - Source: <!--Source-->(MDR p32)<!--/Source-->
 
 # <!--Name-->Au-delà du niveau 1<!--/Name-->

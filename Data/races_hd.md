@@ -7,14 +7,14 @@
 
 # <!--Name-->Races<!--/Name-->
 
-- SRD: <!--AltName-->Races<!--/AltName-->
+- Alias: <!--AltName-->Races<!--/AltName-->
 - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
 
 <!--GenericItem-->
 
 ### <!--Name-->Traits raciaux<!--/Name-->
 
-- SRD: <!--AltName-->Racial Traits<!--/AltName-->
+- Alias: <!--AltName-->Racial Traits<!--/AltName-->
 - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
 
 Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.
@@ -23,7 +23,7 @@ Chaque race possède des traits raciaux communs à tous ses membres. Vous pourre
 
 #### <!--Name-->Augmentation de caractéristiques<!--/Name-->
 
-- SRD: <!--AltName-->Ability Score Increase<!--/AltName-->
+- Alias: <!--AltName-->Ability Score Increase<!--/AltName-->
 - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
 
 Chaque race accorde un bonus à une ou plusieurs caractéristiques du personnage.
@@ -34,7 +34,7 @@ Chaque race accorde un bonus à une ou plusieurs caractéristiques du personnage
 
 #### <!--Name-->Âge<!--/Name-->
 
-- SRD: <!--AltName-->Age<!--/AltName-->
+- Alias: <!--AltName-->Age<!--/AltName-->
 - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
 
 Cette entrée indique l’âge à partir duquel un individu est considéré comme un adulte ainsi que la longévité moyenne des représentants de cette race. Cette information peut vous aider à choisir l’âge de votre personnage au début du jeu. Vous êtes libre de lui donner l’âge de votre choix. Ce dernier peut expliquer la répartition de vos valeurs de caractéristiques. Par exemple, si vous jouez un personnage jeune ou très vieux, votre âge pourra expliquer des valeurs de Force et Constitution particulièrement basses, et un âge avancé pourra justifier de bonnes valeurs d’Intelligence et de Sagesse.
@@ -45,7 +45,7 @@ Cette entrée indique l’âge à partir duquel un individu est considéré comm
 
 #### <!--Name-->Alignement<!--/Name-->
 
-- SRD: <!--AltName-->Alignment<!--/AltName-->
+- Alias: <!--AltName-->Alignment<!--/AltName-->
 - Source: <!--Source-->(MDR p36)(SRD p3)<!--/Source-->
 
 La plupart des races tendent naturellement vers un alignement donné, mentionné dans cette entrée. L’alignement est indiqué à titre informatif et les joueurs ne sont pas obligés de l’adopter, mais si vous vous demandez pourquoi votre nain est d’alignement Chaotique, en rébellion par rapport à une société naine plutôt Loyale, par exemple, cela peut vous aider à mieux déterminer son comportement.
@@ -56,7 +56,7 @@ La plupart des races tendent naturellement vers un alignement donné, mentionné
 
 #### <!--Name-->Taille<!--/Name-->
 
-- SRD: <!--AltName-->Size<!--/AltName-->
+- Alias: <!--AltName-->Size<!--/AltName-->
 - Source: <!--Source-->(MDR p37)(SRD p3)<!--/Source-->
 
 Les personnages de la plupart des races sont de taille moyenne, une catégorie qui regroupe les créatures qui se situent entre 1,20 mètre et 2,40 mètres. Les membres de certaines races sont de taille petite (60 centimètres à 1,20 mètre), ce qui signifie que certaines règles du jeu ne les affecteront pas de la même manière que les autres. La règle la plus importante pour les petites créatures est qu’elles ont des difficultés à manier les armes lourdes, comme cela est expliqué au chapitre 5, Équipement, page 227.
@@ -67,7 +67,7 @@ Les personnages de la plupart des races sont de taille moyenne, une catégorie q
 
 #### <!--Name-->Vitesse<!--/Name-->
 
-- SRD: <!--AltName-->Speed<!--/AltName-->
+- Alias: <!--AltName-->Speed<!--/AltName-->
 - Source: <!--Source-->(MDR p37)(SRD p3)<!--/Source-->
 
 Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voyagez (voir le chapitre 8, Partir à l’aventure, pages 269-281) ou quand vous combattez (voir le chapitre 9, Combattre, pages 282-295).
@@ -78,7 +78,7 @@ Votre vitesse correspond à la distance que vous pouvez parcourir quand vous voy
 
 #### <!--Name-->Langues<!--/Name-->
 
-- SRD: <!--AltName-->Languages<!--/AltName-->
+- Alias: <!--AltName-->Languages<!--/AltName-->
 - Source: <!--Source-->(MDR p37)(SRD p3)<!--/Source-->
 
 Le fait d’appartenir à une race donnée vous permet de parler, lire et écrire certaines langues.
@@ -89,7 +89,7 @@ Le fait d’appartenir à une race donnée vous permet de parler, lire et écrir
 
 #### <!--Name-->Peuples<!--/Name-->
 
-- SRD: <!--AltName-->Subraces<!--/AltName-->
+- Alias: <!--AltName-->Subraces<!--/AltName-->
 - Source: <!--Source-->(MDR p37)(SRD p3)<!--/Source-->
 
 Certaines races se divisent en plusieurs peuples avec des différences culturelles et parfois physiques. Les membres de chaque peuple possèdent les traits de la race dont ils sont issus, ainsi que ceux du peuple auquel ils appartiennent. Les relations entre les diverses populations d’une même race peuvent varier énormément d’une race ou d’un monde à l’autre.
@@ -101,49 +101,49 @@ Certaines races se divisent en plusieurs peuples avec des différences culturell
 <!--LinkItem-->
 
 ## <!--NameLink-->[Demi-elfe]<!--/NameLink-->
-- SRD: <!--AltName-->[Half-Elf](#)<!--/AltName-->
+- Alias: <!--AltName-->[Half-Elf](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Demi-orc]<!--/NameLink-->
-- SRD: <!--AltName-->[Half-Orc](#)<!--/AltName-->
+- Alias: <!--AltName-->[Half-Orc](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Elfe]<!--/NameLink-->
-- SRD: <!--AltName-->[Elf](#)<!--/AltName-->
+- Alias: <!--AltName-->[Elf](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Gnome]<!--/NameLink-->
-- SRD: <!--AltName-->[Gnome](#)<!--/AltName-->
+- Alias: <!--AltName-->[Gnome](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Halfelin]<!--/NameLink-->
-- SRD: <!--AltName-->[Halfling](#)<!--/AltName-->
+- Alias: <!--AltName-->[Halfling](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Humain]<!--/NameLink-->
-- SRD: <!--AltName-->[Human](#)<!--/AltName-->
+- Alias: <!--AltName-->[Human](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Nain]<!--/NameLink-->
-- SRD: <!--AltName-->[Dwarf](#)<!--/AltName-->
+- Alias: <!--AltName-->[Dwarf](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
@@ -174,14 +174,14 @@ Certaines races se divisent en plusieurs peuples avec des différences culturell
 <!--LinkItem-->
 
 ## <!--NameLink-->[Sangdragon]<!--/NameLink-->
-- SRD: <!--AltName-->[Dragonborn](#)<!--/AltName-->
+- Alias: <!--AltName-->[Dragonborn](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Tieffelin]<!--/NameLink-->
-- SRD: <!--AltName-->[Tiefling](#)<!--/AltName-->
+- Alias: <!--AltName-->[Tiefling](#)<!--/AltName-->
 
 <!--/LinkItem-->
 

@@ -7,7 +7,7 @@
 
 # <!--Name-->Druide<!--/Name-->
 
-- AltName: <!--AltName-->Druid (SRD p17)<!--/AltName-->
+- Alias: <!--AltName-->Druid (SRD p17)<!--/AltName-->
 - Source: <!--Source-->(MDR p142)<!--/Source-->
 
 <!--Description-->

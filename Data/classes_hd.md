@@ -10,84 +10,84 @@
 <!--LinkItem-->
 
 ## <!--NameLink-->[Barbare]<!--/NameLink-->
-- AltName: <!--AltName-->[Barbarian](#)<!--/AltName-->
+- Alias: <!--AltName-->[Barbarian](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Barde]<!--/NameLink-->
-- AltName: <!--AltName-->[Bard](#)<!--/AltName-->
+- Alias: <!--AltName-->[Bard](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Clerc]<!--/NameLink-->
-- AltName: <!--AltName-->[Cleric](#)<!--/AltName-->
+- Alias: <!--AltName-->[Cleric](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Druide]<!--/NameLink-->
-- AltName: <!--AltName-->[Druid](#)<!--/AltName-->
+- Alias: <!--AltName-->[Druid](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Ensorceleur]<!--/NameLink-->
-- AltName: <!--AltName-->[Sorcerer](#)<!--/AltName-->
+- Alias: <!--AltName-->[Sorcerer](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Guerrier]<!--/NameLink-->
-- AltName: <!--AltName-->[Fighter](#)<!--/AltName-->
+- Alias: <!--AltName-->[Fighter](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Magicien]<!--/NameLink-->
-- AltName: <!--AltName-->[Wizard](#)<!--/AltName-->
+- Alias: <!--AltName-->[Wizard](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Moine]<!--/NameLink-->
-- AltName: <!--AltName-->[Monk](#)<!--/AltName-->
+- Alias: <!--AltName-->[Monk](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Paladin]<!--/NameLink-->
-- AltName: <!--AltName-->[Paladin](#)<!--/AltName-->
+- Alias: <!--AltName-->[Paladin](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Rôdeur]<!--/NameLink-->
-- AltName: <!--AltName-->[Ranger](#)<!--/AltName-->
+- Alias: <!--AltName-->[Ranger](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Roublard]<!--/NameLink-->
-- AltName: <!--AltName-->[Rogue](#)<!--/AltName-->
+- Alias: <!--AltName-->[Rogue](#)<!--/AltName-->
 
 <!--/LinkItem-->
 
 <!--LinkItem-->
 
 ## <!--NameLink-->[Sorcier]<!--/NameLink-->
-- AltName: <!--AltName-->[Warlock](#)<!--/AltName-->
+- Alias: <!--AltName-->[Warlock](#)<!--/AltName-->
 
 <!--/LinkItem-->
 

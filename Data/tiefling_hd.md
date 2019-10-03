@@ -7,7 +7,7 @@
 
 # <!--Name-->Tieffelin<!--/Name-->
 
-- AltName: <!--AltName-->Tiefling (SRD p7)<!--/AltName-->
+- Alias: <!--AltName-->Tiefling (SRD p7)<!--/AltName-->
 - Source: <!--Source-->(MDR p71)<!--/Source-->
 
 ## Traits des tieffelins

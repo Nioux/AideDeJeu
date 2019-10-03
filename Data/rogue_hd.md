@@ -7,7 +7,7 @@
 
 # <!--Name-->Roublard<!--/Name-->
 
-- AltName: <!--AltName-->Rogue (SRD p39)<!--/AltName-->
+- Alias: <!--AltName-->Rogue (SRD p39)<!--/AltName-->
 - Source: <!--Source-->(MDR p202)<!--/Source-->
 
 <!--Description-->

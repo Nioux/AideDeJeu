@@ -7,7 +7,7 @@
 
 # <!--Name-->Pacte<!--/Name-->
 
-- AltName: <!--AltName-->Pact Boon (SRD p47)<!--/AltName-->
+- Alias: <!--AltName-->Pact Boon (SRD p47)<!--/AltName-->
 - Source: <!--Source-->(MDR p211)<!--/Source-->
 
 Au niveau 3, votre protecteur d'outre-monde vous accorde un cadeau en récompense de vos loyaux services.

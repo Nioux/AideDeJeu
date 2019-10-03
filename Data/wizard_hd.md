@@ -7,7 +7,7 @@
 
 # <!--Name-->Magicien<!--/Name-->
 
-- AltName: <!--AltName-->Wizard (SRD p52)<!--/AltName-->
+- Alias: <!--AltName-->Wizard (SRD p52)<!--/AltName-->
 - Source: <!--Source-->(MDR p166)<!--/Source-->
 
 <!--Description-->

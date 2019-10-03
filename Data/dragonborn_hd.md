@@ -7,7 +7,7 @@
 
 # <!--Name-->Sangdragon<!--/Name-->
 
-- AltName: <!--AltName-->Dragonborn (SRD p5)<!--/AltName-->
+- Alias: <!--AltName-->Dragonborn (SRD p5)<!--/AltName-->
 - Source: <!--Source-->(MDR p69)<!--/Source-->
 
 ## Traits des sangdragons

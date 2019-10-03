@@ -7,7 +7,7 @@
 
 # <!--Name-->Elfe<!--/Name-->
 
-- AltName: <!--AltName-->Elf (SRD p4)<!--/AltName-->
+- Alias: <!--AltName-->Elf (SRD p4)<!--/AltName-->
 - Source: <!--Source-->(MDR p44)<!--/Source-->
 
 ## Traits des elfes
@@ -42,7 +42,7 @@ Votre personnage elfe possède un ensemble de qualités naturelles qui sont le f
 
 ## <!--Name-->Elfe d'aether<!--/Name-->
 
-- AltName: <!--AltName-->High Elf (SRD p4)<!--/AltName-->
+- Alias: <!--AltName-->High Elf (SRD p4)<!--/AltName-->
 - Source: <!--Source-->(MDR p45)<!--/Source-->
 
 <!--Description-->

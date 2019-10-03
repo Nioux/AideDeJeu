@@ -7,7 +7,7 @@
 
 # <!--Name-->Artefacts<!--/Name-->
 
-- AltName: <!--AltName-->Artifacts (SRD p252)<!--/AltName-->
+- Alias: <!--AltName-->Artifacts (SRD p252)<!--/AltName-->
 - Source: <!--Source-->(CDC p191)<!--/Source-->
 
 <!--GenericItem-->
@@ -95,7 +95,7 @@ Faite d’acajou serti d’or, cette lyre à onze cordes était l’instrument d
 
 ## <!--Name-->ORBE DES DRAGONS<!--/Name-->
 
-- AltName: <!--AltName-->Orb of Dragonkind (SRD p252)<!--/AltName-->
+- Alias: <!--AltName-->Orb of Dragonkind (SRD p252)<!--/AltName-->
 - Source: <!--Source-->(CDC p192)<!--/Source-->
 
 #### Objet merveilleux, artefact (harmonisation requise)

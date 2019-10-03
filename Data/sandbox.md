@@ -51,13 +51,13 @@ specialDelivery: >
 
 # <!--Name-->Sandbox<!--/Name-->
 
-- SRD: <!--AltName-->Races<!--/AltName-->
+- Alias: <!--AltName-->Races<!--/AltName-->
 - Book: <!--Book-->(MDR p36)(SRD p3)<!--/Book-->
 
 <!--SpellItem-->
 
 # <!--Name-->Agrandir/rétrécir<!--/Name-->
-- SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
+- Alias: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
 - Book: <!--Book-->(MDR p36)(SRD p3)<!--/Book-->
 -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
@@ -83,7 +83,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 # <!--Name-->Agrandir/rétrécir<!--/Name-->
 
-- SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
+- Alias: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
 -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
 
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->
@@ -109,7 +109,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 # <!--Name-->Agrandir/rétrécir<!--/Name-->
 
-- SRD: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
+- Alias: <!--AltName-->[Enlarge/Reduce](spells_vo.md#enlargereduce)<!--/AltName-->
 
 -  <!--Type-->Transmutation<!--/Type--> de niveau <!--Level-->2<!--/Level-->
 - **Temps d'incantation :** <!--CastingTime-->1 action<!--/CastingTime-->

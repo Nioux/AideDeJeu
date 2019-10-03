@@ -7,7 +7,7 @@
 
 # <!--Name-->Paladin<!--/Name-->
 
-- AltName: <!--AltName-->Paladin (SRD p30)<!--/AltName-->
+- Alias: <!--AltName-->Paladin (SRD p30)<!--/AltName-->
 - Source: <!--Source-->(MDR p183)<!--/Source-->
 
 <!--Description-->

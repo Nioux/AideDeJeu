@@ -7,7 +7,7 @@
 
 # <!--Name-->Chasseur<!--/Name-->
 
-- AltName: <!--AltName-->Hunter (SRD p37)<!--/AltName-->
+- Alias: <!--AltName-->Hunter (SRD p37)<!--/AltName-->
 - Source: <!--Source-->(MDR p198)<!--/Source-->
 
 Adopter l'archétype du chasseur signifie accepter votre place comme rempart entre la civilisation et les terreurs qui hantent la nature. En suivant la voie du chasseur, vous apprenez des techniques spécifiques vous permettant d'affronter diverses menaces, que ce soient des ogres déchaînés, des hordes d'orcs, d'immenses géants ou de terrifiants dragons.

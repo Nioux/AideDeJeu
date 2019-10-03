@@ -7,14 +7,14 @@
 
 # <!--Name-->Combattre<!--/Name-->
 
-- AltName: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p283)<!--/Source-->
 
 <!--GenericItem-->
 
 ## <!--Name-->Ordre de combat<!--/Name-->
 
-- AltName: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->The Order of Combat (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p284)<!--/Source-->
 
 Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tourbillon de violence constitué de coups, de feintes, de parades, de sorts qui fusent entre des adversaires toujours en mouvement. Dans le cadre du jeu, le chaos du combat est organisé en un cycle de rounds et de tours. Un round est une période de 6 secondes dans le monde du jeu. Pendant un round, chaque créature qui participe au combat se voit attribuer un tour. L'ordre des tours de toutes les créatures présentes est déterminé au début du combat par les jets d'initiative. Une fois que chaque créature a agi lors de son tour, si aucun des camps n'a vaincu l'autre et si aucun des camps ne souhaite rompre l'affrontement, le combat continue pendant un nouveau round.
@@ -25,7 +25,7 @@ Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tour
 
 ### <!--Name-->Les étapes du combat<!--/Name-->
 
-- AltName: <!--AltName-->Combat Step by Step (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->Combat Step by Step (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p284)<!--/Source-->
 
 1. Surprise. Le MJ détermine si l'une des créatures qui prend part au combat est surprise.
@@ -41,7 +41,7 @@ Un combat typique est la rencontre brutale de deux camps qui s'opposent. Un tour
 
 ### <!--Name-->Surprise<!--/Name-->
 
-- AltName: <!--AltName-->Surprise (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->Surprise (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p284)<!--/Source-->
 
 Les héros rampent sans un bruit dans les hautes herbes. Ils ont mis de la graisse sur leurs visages et sur leurs lames. Les guerriers ont laissé leurs amures de métal non loin de là. La nuit est parfaitement noire. Tout proches, les esclavagistes fêtent le butin de la journée autour d'un feu de camp. Ils n'ont aucune conscience du danger qui les guette… L'assassin, qui a bu une potion d'invisibilité, se place juste à côté du clerc et tire sa dague. Aucun héros ne l'a senti passer… Dans chacune de ces situations, l'un des deux partis est surpris par l'autre.
@@ -56,7 +56,7 @@ Si vous êtes surpris, vous ne pouvez pas bouger ou accomplir d'action lors de v
 
 ### <!--Name-->Initiative<!--/Name-->
 
-- AltName: <!--AltName-->Initiative (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->Initiative (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p284)<!--/Source-->
 
 L'initiative permet de déterminer l'ordre des tours pendant un combat. Au début du combat, chaque par- ticipant fait un test de Dextérité afin de déterminer son rang dans l'ordre d'initiative. Le MJ lance un seul dé pour un groupe de créatures identiques, de sorte que tous les membres de ce groupe agissent en même temps.
@@ -71,7 +71,7 @@ En cas d'égalité, s'il s'agit de créatures contrôlées par le MJ, ce dernier
 
 ### <!--Name-->Votre tour<!--/Name-->
 
-- AltName: <!--AltName-->Your Turn (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->Your Turn (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p285)<!--/Source-->
 
 Pendant votre tour, vous pouvez vous déplacer d'une distance égale à votre vitesse et accomplir une action.
@@ -90,7 +90,7 @@ Vous pouvez décider de ne pas vous déplacer, ne pas agir, ou même de ne rien 
 
 #### <!--Name-->Action bonus<!--/Name-->
 
-- AltName: <!--AltName-->Bonus Actions (SRD p90)<!--/AltName-->
+- Alias: <!--AltName-->Bonus Actions (SRD p90)<!--/AltName-->
 - Source: <!--Source-->(MDR p285)<!--/Source-->
 
 Plusieurs aptitudes de classes, sorts et autres capacités vous permettent d'accomplir une action supplémentaire lors de votre tour. L'aptitude ruse, par exemple, permet à un roublard d'accomplir une action bonus. Vous ne pouvez accomplir d'action bonus que si une capacité spéciale, un sort ou une aptitude stipule que vous pouvez « accomplir quelque chose comme action bonus ». Si ce n'est pas le cas, vous ne pouvez pas accomplir d'action bonus.
@@ -105,7 +105,7 @@ Vous devez attendre votre tour pour accomplir une action bonus, sauf si celle-ci
 
 #### <!--Name-->Autres activités pendant votre tour<!--/Name-->
 
-- AltName: <!--AltName-->Other Activity on Your Turn (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Other Activity on Your Turn (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p285)<!--/Source-->
 
 Pendant votre tour, vous pouvez faire de nombreuses choses qui ne vous demandent pas de vous déplacer ni d'utiliser une action.
@@ -126,7 +126,7 @@ Le MJ peut vous demander d'utiliser une action pour n'importe quelle activité q
 
 ### <!--Name-->Réaction<!--/Name-->
 
-- AltName: <!--AltName-->Reactions (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Reactions (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p285)<!--/Source-->
 
 Certaines capacités spéciales, sorts ou situations permettent à votre personnage d'accomplir une action spéciale appelée une réaction. Une réaction est une réponse instantanée déclenchée par un stimulus qui peut se produire pendant votre tour ou celui de quelqu'un d'autre. Le type de réaction le plus courant est l'attaque d'opportunité, décrite plus loin dans ce chapitre.
@@ -139,7 +139,7 @@ Quand vous réagissez, vous ne pouvez pas réagir de nouveau avant le début de 
 
 ## <!--Name-->Déplacement et position<!--/Name-->
 
-- AltName: <!--AltName-->Movement and Position (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Movement and Position (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Au cours d'un combat, les héros et leurs adversaires sont constamment en mouvement et utilisent souvent leur déplacement ou leur position pour tenter de prendre le dessus sur leurs ennemis.
@@ -154,7 +154,7 @@ Dans le cadre de votre mouvement, vous pouvez sauter, escalader et nager. Ces di
 
 #### <!--Name-->Fragmenter votre mouvement<!--/Name-->
 
-- AltName: <!--AltName-->Breaking Up Your Move (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Breaking Up Your Move (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une partie de votre déplacement avant votre action et le reste après celle-ci. Par exemple, si votre vitesse est de 9 mètres, vous pouvez vous déplacer de 3 mètres, faire une action, puis parcourir les 6 mètres restant.
@@ -165,7 +165,7 @@ Pendant votre tour, vous pouvez fragmenter votre déplacement et utiliser une pa
 
 #### <!--Name-->Se déplacer entre des attaques<!--/Name-->
 
-- AltName: <!--AltName-->Moving between Attacks (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Moving between Attacks (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Si vous utilisez une action qui vous permet de porter plusieurs attaques avec une arme, vous pouvez fragmenter encore plus votre déplacement et vous déplacer entre ces attaques. Par exemple, un guerrier qui peut porter deux attaques grâce à l'aptitude attaque supplémentaire et qui a une vitesse de 7,50 mètres peut se déplacer de 3 mètres, porter sa première attaque, se déplacer de 4,50 mètres supplémentaires et porter sa seconde attaque.
@@ -176,7 +176,7 @@ Si vous utilisez une action qui vous permet de porter plusieurs attaques avec un
 
 #### <!--Name-->Utiliser différentes vitesses<!--/Name-->
 
-- AltName: <!--AltName-->Using Different Speeds (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Using Different Speeds (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Si vous avez la capacité de vous déplacer à plusieurs vitesses, comme une vitesse au sol et une vitesse en vol, par exemple, vous pouvez alterner les deux lors de votre déplacement. À chaque fois que vous passez d'un type de vitesse à l'autre, vous devez soustraire la distance que vous avez déjà parcourue de la nouvelle jauge de vitesse. Le résultat indique quelle distance vous pouvez encore parcourir. Si ce résultat est de 0 ou moins, vous ne pouvez plus vous déplacer pendant ce tour.
@@ -189,7 +189,7 @@ Par exemple, si votre vitesse est de 9 mètres et qu'un magicien vous a lancé u
 
 ### <!--Name-->Terrain difficile<!--/Name-->
 
-- AltName: <!--AltName-->Difficult Terrain (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Difficult Terrain (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Un combat se déroule rarement sur le sol d'une pièce vide ou dans une plaine bien dégagée. Que ce soit sur le sol irrégulier d'une caverne, au milieu d'une forêt envahie de bruyères, ou dans un escalier glissant, un champ de bataille est généralement un terrain difficile.
@@ -204,7 +204,7 @@ Des meubles bas, des gravats, des buissons, des escaliers raides, de la neige ou
 
 ### <!--Name-->Être à terre<!--/Name-->
 
-- AltName: <!--AltName-->Being Prone (SRD p91)<!--/AltName-->
+- Alias: <!--AltName-->Being Prone (SRD p91)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Il n'est pas rare que des combattants se trouvent au sol, allongés par terre, qu'ils aient été renversés ou qu'ils se soient eux-mêmes jetés au sol. Dans le cadre du jeu, on dit qu'ils sont à terre, un état décrit à la page 301 du chapitre 10, Gérer la santé.
@@ -221,7 +221,7 @@ Pour vous déplacer quand vous êtes à terre, vous devez ramper ou utiliser une
 
 ### <!--Name-->Interagir avec les objets alentours<!--/Name-->
 
-- AltName: <!--AltName-->Interacting with Objects Around You (SRD p92)<!--/AltName-->
+- Alias: <!--AltName-->Interacting with Objects Around You (SRD p92)<!--/AltName-->
 - Source: <!--Source-->(MDR p287)<!--/Source-->
 
 Voici quelques exemples de ce que vous pouvez accomplir librement, en même temps que votre déplacement ou que votre action. Pour rappel, vous ne pouvez interagir librement qu'avec un seul objet par tour de jeu. Interagir avec deux objets vous oblige à utiliser votre action.
@@ -254,7 +254,7 @@ Voici quelques exemples de ce que vous pouvez accomplir librement, en même temp
 
 ### <!--Name-->Se déplacer au milieu d'autres créatures<!--/Name-->
 
-- AltName: <!--AltName-->Moving Around Other Creatures (SRD p92)<!--/AltName-->
+- Alias: <!--AltName-->Moving Around Other Creatures (SRD p92)<!--/AltName-->
 - Source: <!--Source-->(MDR p286)<!--/Source-->
 
 Vous pouvez traverser l'emplacement d'une créature qui ne vous est pas hostile. En revanche, vous ne pouvez traverser l'emplacement occupé par une créature hostile que si celle-ci fait deux tailles de plus ou de moins que vous. N'oubliez pas que l'emplacement oc- cupé par une autre créature est considéré comme un terrain difficile.
@@ -269,7 +269,7 @@ Si vous vous mettez hors de portée de la capacité d'allonge d'une créature pe
 
 #### <!--Name-->Déplacement en vol<!--/Name-->
 
-- AltName: <!--AltName-->Flying Movement (SRD p92)<!--/AltName-->
+- Alias: <!--AltName-->Flying Movement (SRD p92)<!--/AltName-->
 - Source: <!--Source-->(MDR p287)<!--/Source-->
 
 Les créatures volantes bénéficient d'une grande mobilité. En revanche elles doivent également composer avec le risque de tomber. Si une créature volante est jetée à terre, voit sa vitesse réduite à 0 ou se retrouve d'une manière ou d'une autre dans l'incapacité de bouger, elle chute, à moins d'être en mesure de faire du vol stationnaire ou d'être maintenue dans les airs par magie grâce au sort vol, par exemple.
@@ -280,7 +280,7 @@ Les créatures volantes bénéficient d'une grande mobilité. En revanche elles 
 
 ### <!--Name-->Taille des créatures<!--/Name-->
 
-- AltName: <!--AltName-->Creature Size (SRD p92)<!--/AltName-->
+- Alias: <!--AltName-->Creature Size (SRD p92)<!--/AltName-->
 - Source: <!--Source-->(MDR p287)<!--/Source-->
 
 Chaque créature occupe une surface plus ou moins importante en fonction de sa taille. Le tableau des catégories de tailles qui suit indique la taille de la surface occupée et contrôlée en combat par une créature d'une taille donnée. Les objets utilisent parfois les mêmes catégories de taille.
@@ -300,7 +300,7 @@ Chaque créature occupe une surface plus ou moins importante en fonction de sa t
 
 #### <!--Name-->Emplacement<!--/Name-->
 
-- AltName: <!--AltName-->Space (SRD p92)<!--/AltName-->
+- Alias: <!--AltName-->Space (SRD p92)<!--/AltName-->
 - Source: <!--Source-->(MDR p287)<!--/Source-->
 
 L'emplacement d'une créature correspond à la surface qu'elle contrôle lors d'un combat et non à la surface qu'elle occupe réellement. Par exemple, une créature de taille moyenne classique ne fait pas 1,50 mètre de large, mais elle contrôle une surface de 1,50 mètre de côté. Si un hobgobelin de taille moyenne se trouve dans l'embrasure d'une porte de 1,50 mètre de large, les autres créatures ne peuvent passer que si le hobgobelin leur permet.
@@ -315,7 +315,7 @@ Les créatures plus grandes occupent un emplacement plus important. Et le nombre
 
 #### <!--Name-->Se faufiler dans un espace réduit<!--/Name-->
 
-- AltName: <!--AltName-->Squeezing into a Smaller Space (SRD p92)<!--/AltName-->
+- Alias: <!--AltName-->Squeezing into a Smaller Space (SRD p92)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Une créature peut se faufiler dans un espace minimum d'une taille égale à l'espace contrôlé par une créature de la catégorie de taille inférieure à la sienne. Ainsi, une grande créature peut se faufiler dans un passage qui ne fait que 1,50 mètre de large. Mais en se faufilant dans un tel espace, chaque mètre parcouru par la créature lui coûte 1 mètre de déplacement supplémentaire et elle subit un désavantage sur les jets d'attaque et les jets de sauvegarde de Dextérité. À l'inverse, toute créature qui attaque celle qui se faufile obtient l'avantage sur ses jets d'attaque tant que sa cible se trouve dans un espace trop petit pour elle.
@@ -326,7 +326,7 @@ Une créature peut se faufiler dans un espace minimum d'une taille égale à l'e
 
 ## <!--Name-->Actions en combat<!--/Name-->
 
-- AltName: <!--AltName-->Actions in Combat (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Actions in Combat (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Quand vous accomplissez une action lors de votre tour, vous avez le choix entre les actions présentées ci-dessous, une action qui dépend de votre classe ou d'une aptitude particulière, ou, enfin, une action que vous improvisez. De nombreux monstres possèdent des actions qui leurs sont propres et qui sont présentées dans leur profils statistiques.
@@ -339,7 +339,7 @@ Quand vous décrivez une action qui n'est pas présentée dans les règles, c'es
 
 ### <!--Name-->Aider<!--/Name-->
 
-- AltName: <!--AltName-->Help (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Help (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Vous pouvez apporter votre aide à une autre créature pour réaliser une tâche. Quand vous choisissez l'action aider, la créature que vous aidez obtient un avantage sur le prochain test de caractéristique qu'elle fait dans le but d'accomplir la tâche pour laquelle vous coopérez, mais seulement si elle fait ce test avant le début de votre prochain tour.
@@ -352,7 +352,7 @@ Vous pouvez aussi aider une créature amicale qui veut attaquer une autre créat
 
 ### <!--Name-->Attaquer<!--/Name-->
 
-- AltName: <!--AltName-->Attack (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Attack (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 L'action de combat la plus courante est attaquer, que ce soit en frappant avec une épée, en tirant une flèche avec un arc ou en combattant à mains nues.
@@ -367,7 +367,7 @@ Certaines aptitudes, comme l'attaque supplémentaire du guerrier, permettent à 
 
 ### <!--Name-->Chercher<!--/Name-->
 
-- AltName: <!--AltName-->Search (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Search (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Quand vous choisissez l'action chercher, toute votre attention est tournée vers l'objet de votre recherche. En fonction de ce que vous cherchez, le MJ peut vous demander de faire un test de Sagesse (Perception) ou un d'Intelligence (Investigation).
@@ -378,7 +378,7 @@ Quand vous choisissez l'action chercher, toute votre attention est tournée vers
 
 ### <!--Name-->Esquiver<!--/Name-->
 
-- AltName: <!--AltName-->Dodge (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Dodge (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Quand vous choisissez l'action esquiver, votre unique objectif est d'éviter les attaques. Jusqu'au début de votre tour suivant, tout jet d'attaque qui vous prend pour cible subit un désavantage si vous pouvez voir l'attaquant, et vous bénéficiez d'un avantage pour tout jet de sauvegarde de Dextérité. Vous perdez les bénéfices de cette action si vous êtes neutralisé (voir page 302) ou si votre vitesse est réduite à 0.
@@ -389,7 +389,7 @@ Quand vous choisissez l'action esquiver, votre unique objectif est d'éviter les
 
 ### <!--Name-->Lancer un sort<!--/Name-->
 
-- AltName: <!--AltName-->Cast a Spell (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Cast a Spell (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux monstres, ont accès à des sorts qu'ils peuvent utiliser avec une redoutable efficacité en combat. À chaque sort correspond un temps d'incantation : le descriptif du sort indique si le lancement du sort nécessite d'utiliser une action ou une réaction, ou doit être préparé pendant plusieurs minutes ou heures. Lancer un sort n'est donc pas nécessairement une action. La plupart des sorts ont un temps d'incantation d'une action, un lanceur de sort utilisera à ce moment une action de combat pour lancer un tel sort.
@@ -400,7 +400,7 @@ Les lanceurs de sort, comme les magiciens et les clercs ainsi que de nombreux mo
 
 ### <!--Name-->Se cacher<!--/Name-->
 
-- AltName: <!--AltName-->Hide (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Hide (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Quand vous choisissez l'action se cacher, vous devez faire un test de Dextérité (Discrétion) pour tenter de vous cacher en suivant les règles appropriées. Si vous réussissez, vous gagnez certains des bénéfices associés à cet état, tels qu'ils sont décrits dans la section Attaquants et cibles invisibles.
@@ -411,7 +411,7 @@ Quand vous choisissez l'action se cacher, vous devez faire un test de Dextérit�
 
 ### <!--Name-->Se désengager<!--/Name-->
 
-- AltName: <!--AltName-->Disengage (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Disengage (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p288)<!--/Source-->
 
 Si vous choisissez l'action se désengager, vous pouvez vous déplacer sans risquer de créer des attaques d'opportunités jusqu'à la fin du tour.
@@ -422,7 +422,7 @@ Si vous choisissez l'action se désengager, vous pouvez vous déplacer sans risq
 
 ### <!--Name-->Se précipiter<!--/Name-->
 
-- AltName: <!--AltName-->Dash (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Dash (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p290)<!--/Source-->
 
 Quand vous choisissez l'action se précipiter, la distance que vous pouvez parcourir est augmentée jusqu'à la fin du tour. Ce bonus de déplacement est égal à votre vitesse, après avoir appliqué tous les modificateurs éventuels. Donc si votre vitesse est de 9 mètres, par exemple, si vous utilisez l'action se précipiter, vous pourrez parcourir 18 mètres lors de votre tour.
@@ -435,7 +435,7 @@ Tout effet qui a une incidence positive ou négative sur votre vitesse a le mêm
 
 ### <!--Name-->Se tenir prêt<!--/Name-->
 
-- AltName: <!--AltName-->Ready (SRD p93)<!--/AltName-->
+- Alias: <!--AltName-->Ready (SRD p93)<!--/AltName-->
 - Source: <!--Source-->(MDR p290)<!--/Source-->
 
 Il peut vous arriver de vouloir surprendre un ennemi ou attendre une configuration particulière avant d'agir. Pour cela, vous devez choisir l'action se tenir prêt pendant votre tour. Cette action vous permet d'utiliser votre réaction avant le début de votre prochain tour.
@@ -452,7 +452,7 @@ De la même manière, quand vous choisissez l'action se tenir prêt avec un sort
 
 ### <!--Name-->Utiliser un objet<!--/Name-->
 
-- AltName: <!--AltName-->Use an Object (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Use an Object (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p290)<!--/Source-->
 
 Normalement, vous interagissez avec un objet en faisant quelque chose d'autre, par exemple quand vous dégainez votre épée dans le cadre de l'action attaquer. Quand un objet nécessite une action pour que vous puissiez l'utiliser, vous choisissez l'action utiliser un objet. Cette action se montre aussi pratique quand vous voulez interagir avec plus d'un objet pendant votre tour.
@@ -473,7 +473,7 @@ Dans Héros & Dragons, la seule limite au jeu est votre imagination. Les précé
 
 ## <!--Name-->Porter une attaque<!--/Name-->
 
-- AltName: <!--AltName-->Making an Attack (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Making an Attack (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p290)<!--/Source-->
 
 Que vous portiez une attaque avec une arme de corpsà- corps, une arme à distance ou que vous fassiez un jet d'attaque dans le cadre d'un sort, cette attaque se décompose ainsi :
@@ -490,7 +490,7 @@ Si vous vous demandez si une action que vous êtes en train de faire peut être 
 
 ### <!--Name-->Jets d'attaque<!--/Name-->
 
-- AltName: <!--AltName-->Attack Rolls (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Attack Rolls (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p290)<!--/Source-->
 
 Quand vous faites une attaque, votre jet d'attaque permet de déterminer si vous touchez votre cible ou non. Pour faire un jet d'attaque, lancez un d20 et ajoutez les modificateurs appropriés. Si le total du dé et des modificateurs est supérieur ou égal à la classe d'armure (CA) de votre cible, votre attaque est réussie. La CA d'un personnage est déterminée au moment de sa création, tandis que la CA d'un monstre est indiquée dans ses statistiques.
@@ -501,7 +501,7 @@ Quand vous faites une attaque, votre jet d'attaque permet de déterminer si vous
 
 #### <!--Name-->Modificateurs du jet<!--/Name-->
 
-- AltName: <!--AltName-->Modifiers to the Roll (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Modifiers to the Roll (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p290)<!--/Source-->
 
 Quand un joueur fait un jet d'attaque, les deux modificateurs les plus courants sont un modificateur de caractéristique et le bonus de maîtrise du personnage. Quand un monstre porte une attaque, il faut appliquer les modificateurs indiqués dans ses statistiques.
@@ -518,7 +518,7 @@ Bonus de maîtrise. Quand vous faites une attaque en utilisant une arme que vous
 
 #### <!--Name-->Faire 1 ou 20<!--/Name-->
 
-- AltName: <!--AltName-->Rolling 1 or 20 (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Rolling 1 or 20 (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p291)<!--/Source-->
 
 Parfois, le destin se montre particulièrement cruel ou clément envers un combattant. Et donc, un novice va parfois réussir une attaque très improbable et le vétéran confirmé va rater un coup tout fait.
@@ -533,7 +533,7 @@ Si le d20 lancé pour un jet d'attaque donne un résultat de 1, l'attaque échou
 
 ### <!--Name-->Attaquants et cibles invisibles<!--/Name-->
 
-- AltName: <!--AltName-->Unseen Attackers and Targets (SRD p94)<!--/AltName-->
+- Alias: <!--AltName-->Unseen Attackers and Targets (SRD p94)<!--/AltName-->
 - Source: <!--Source-->(MDR p291)<!--/Source-->
 
 Les combattants essaient souvent d'échapper à la vigilance de leurs ennemis en se cachant, en lançant un sort d'invisibilité ou en se fondant dans les ténèbres.
@@ -548,7 +548,7 @@ Quand une créature ne peut pas vous voir, vous bénéficiez d'un avantage quand
 
 ### <!--Name-->Attaque à distance<!--/Name-->
 
-- AltName: <!--AltName-->Ranged Attacks (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Ranged Attacks (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p291)<!--/Source-->
 
 Vous faites une attaque à distance quand vous utilisez une arme ou un projectile quelconque qui permet de toucher un ennemi qui se trouve à distance, comme un arc, une arbalète ou une hachette que vous lancez. Un monstre qui projette des épines avec sa queue fait lui aussi une attaque à distance. De nombreux sorts sont également considérés comme des attaques à distance.
@@ -559,7 +559,7 @@ Vous faites une attaque à distance quand vous utilisez une arme ou un projectil
 
 #### <!--Name-->Portée<!--/Name-->
 
-- AltName: <!--AltName-->Range (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Range (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p291)<!--/Source-->
 
 Vous ne pouvez faire d'attaque à distance que contre des cibles qui se trouvent à une portée spécifique.
@@ -574,7 +574,7 @@ Certaines attaques à distance, comme celles faites avec un arc long ou un arc c
 
 #### <!--Name-->Attaque à distance dans un combat au corps-à-corps<!--/Name-->
 
-- AltName: <!--AltName-->Ranged Attacks in Close Combat (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Ranged Attacks in Close Combat (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p291)<!--/Source-->
 
 Il est plus difficile de faire une attaque à distance si un ennemi est à côté de vous. Quand vous faites une attaque à distance en utilisant une arme, un sort, ou par un autre moyen, vous subissez un désavantage sur votre jet d'attaque si vous vous trouvez dans un rayon de 1,50 mètre d'une créature hostile qui se trouve dans votre champ de vision et qui n'est pas neutralisée.
@@ -585,7 +585,7 @@ Il est plus difficile de faire une attaque à distance si un ennemi est à côt�
 
 ### <!--Name-->Attaque de corps-à-corps<!--/Name-->
 
-- AltName: <!--AltName-->Melee Attacks (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Melee Attacks (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p291)<!--/Source-->
 
 Une attaque de corps-à-corps vous permet d'attaquer un ennemi qui se trouve à la portée de votre allonge. Une attaque de corps-à-corps est généralement portée avec une arme tenue à une ou deux mains, comme une épée, un marteau de guerre ou une hache. Les monstres peuvent également attaquer en frappant avec leurs griffes, leurs cornes, leurs dents, leurs tentacules ou tout autre membre. Il existe aussi quelques sorts qui permettent de porter une attaque de corps-à-corps.
@@ -600,7 +600,7 @@ Quand vous êtes au corps-à-corps, vous pouvez aussi porter une attaque à main
 
 #### <!--Name-->Attaque d'opportunité<!--/Name-->
 
-- AltName: <!--AltName-->Opportunity Attacks (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Opportunity Attacks (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p292)<!--/Source-->
 
 Au coeur d'un combat, chacun reste à l'affût d'une chance de frapper un ennemi qui baisse sa garde parce qu'il est en train de fuir ou de passer devant soi. Une telle attaque est appelée une attaque d'opportunité.
@@ -615,7 +615,7 @@ Vous pouvez éviter de provoquer une attaque d'opportunité en utilisant l'actio
 
 #### <!--Name-->Combat à deux armes<!--/Name-->
 
-- AltName: <!--AltName-->Two-Weapon Fighting (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Two-Weapon Fighting (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p292)<!--/Source-->
 
 Quand vous choisissez l'action attaquer et que vous utilisez pour attaquer une arme de corps-à-corps légère que vous tenez dans une main, vous pouvez utiliser une action bonus pour attaquer avec une autre arme légère de corps-à-corps que vous tenez dans votre autre main. Vous n'ajoutez pas votre modificateur de caractéristique aux dégâts de cette attaque bonus, sauf si ce modificateur est négatif.
@@ -628,7 +628,7 @@ Si l'une ou l'autre des deux armes possède la propriété lancer, vous pouvez l
 
 #### <!--Name-->Opposition en combat<!--/Name-->
 
-- AltName: <!--AltName-->Contests in Combat (SRD p96)<!--/AltName-->
+- Alias: <!--AltName-->Contests in Combat (SRD p96)<!--/AltName-->
 - Source: <!--Source-->(MDR p292)<!--/Source-->
 
 Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures à celles de votre ennemi. Une telle compétition est représentée par une opposition. Cette section présente les oppositions les plus courantes en combat qui nécessitent d'utiliser une action : empoigner ou bousculer une créature. Le MJ peut s'inspirer de ces règles pour improviser d'autres oppositions.
@@ -639,7 +639,7 @@ Au cours d'une bataille, vos prouesses ne valent que si elles sont supérieures 
 
 #### <!--Name-->Empoignade<!--/Name-->
 
-- AltName: <!--AltName-->Grappling (SRD p95)<!--/AltName-->
+- Alias: <!--AltName-->Grappling (SRD p95)<!--/AltName-->
 - Source: <!--Source-->(MDR p292)<!--/Source-->
 
 Quand vous tentez d'empoigner une créature ou de lutter avec elle, vous utilisez l'action attaquer pour faire une attaque de corps-à-corps spéciale appelée empoignade. Si vous avez la possibilité de faire plusieurs attaques pendant votre action attaquer, l'empoignade remplace l'une d'entre elle.
@@ -656,7 +656,7 @@ Déplacer une créature empoignée. Quand vous vous déplacez, vous pouvez traî
 
 #### <!--Name-->Bousculer une créature<!--/Name-->
 
-- AltName: <!--AltName-->Shoving a Creature (SRD p96)<!--/AltName-->
+- Alias: <!--AltName-->Shoving a Creature (SRD p96)<!--/AltName-->
 - Source: <!--Source-->(MDR p292)<!--/Source-->
 
 Vous pouvez utiliser l'action attaquer pour porter une attaque de corps-à-corps spéciale consistant à bousculer une créature, soit pour la faire tomber à terre, soit pour la repousser loin de vous. Si vous pouvez accomplir plusieurs attaques pendant votre action attaquer, cette attaque spéciale remplace l'une d'entre elles.
@@ -669,7 +669,7 @@ La cible ne doit pas faire plus d'une taille de plus que vous et doit se trouver
 
 ## <!--Name-->Abri<!--/Name-->
 
-- AltName: <!--AltName-->Cover (SRD p96)<!--/AltName-->
+- Alias: <!--AltName-->Cover (SRD p96)<!--/AltName-->
 - Source: <!--Source-->(MDR p293)<!--/Source-->
 
 Les murs, les arbres, les créatures, et d'autres obstacles constituent pendant un combat autant d'abris potentiels qui rendent une cible plus difficile à blesser. Une cible ne bénéficie d'un abri que si une attaque ou un autre effet provient depuis l'autre côté de ce qui sert d'abri.
@@ -688,7 +688,7 @@ Une cible qui bénéficie d'un abri total ne peut pas être ciblée directement 
 
 ## <!--Name-->Dégâts<!--/Name-->
 
-- AltName: <!--AltName-->Hit Points (SRD p96)<!--/AltName-->
+- Alias: <!--AltName-->Hit Points (SRD p96)<!--/AltName-->
 - Source: <!--Source-->(MDR p293)<!--/Source-->
 
 Lorsqu'une attaque est réussie, la créature ciblée subit des dégâts. Certaines capacités ou un coup critique peuvent altérer la quantité de dégâts infligés.
@@ -699,7 +699,7 @@ Lorsqu'une attaque est réussie, la créature ciblée subit des dégâts. Certai
 
 ### <!--Name-->Jets de dégâts<!--/Name-->
 
-- AltName: <!--AltName-->Damage Rolls (SRD p96)<!--/AltName-->
+- Alias: <!--AltName-->Damage Rolls (SRD p96)<!--/AltName-->
 - Source: <!--Source-->(MDR p293)<!--/Source-->
 
 Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés sont décrits dans la rubrique correspondante. Quand vous lancez un ou plusieurs dés de dégâts, vous devez ajouter tous les modificateurs, puis infliger ces dégâts à votre cible. Les armes magiques, les capacités spéciales et d'autres facteurs peuvent infliger des dégâts bonus. Il est également possible qu'un malus vous fasse infliger un nombre de dégâts égal à 0, mais vous ne pouvez jamais infliger de dégâts négatifs.
@@ -714,7 +714,7 @@ Si un sort ou un effet inflige des dégâts à plus d'une créature au même mom
 
 #### <!--Name-->Coups critiques<!--/Name-->
 
-- AltName: <!--AltName-->Critical Hits (SRD p96)<!--/AltName-->
+- Alias: <!--AltName-->Critical Hits (SRD p96)<!--/AltName-->
 - Source: <!--Source-->(MDR p293)<!--/Source-->
 
 Si vous réussissez un coup critique contre une cible, vous pouvez lancer des dés de dégâts supplémentaires. Lancez l'ensemble des dés de dégâts deux fois et additionnez- les, puis ajoutez à ce total les modificateurs. Pour simplifier les choses, vous pouvez lancer tous les dés de dégâts à la fois.
@@ -727,7 +727,7 @@ Par exemple, si vous réussissez un coup critique avec une dague, vous devez lan
 
 #### <!--Name-->Types de dégâts<!--/Name-->
 
-- AltName: <!--AltName-->Damage Types (SRD p97)<!--/AltName-->
+- Alias: <!--AltName-->Damage Types (SRD p97)<!--/AltName-->
 - Source: <!--Source-->(MDR p294)<!--/Source-->
 
 Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui infligent différents types de dégâts. Les types de dégâts eux-mêmes n'ont pas de règle de fonctionnement spécifique, mais ils sont liés à d'autres règles, comme la résistance aux dégâts.
@@ -766,7 +766,7 @@ Tranchant. Les épées, les haches et les griffes des monstres infligent des dé
 
 ### <!--Name-->Résistance et vulnérabilité aux dégâts<!--/Name-->
 
-- AltName: <!--AltName-->Damage Resistance and Vulnerability (SRD p97)<!--/AltName-->
+- Alias: <!--AltName-->Damage Resistance and Vulnerability (SRD p97)<!--/AltName-->
 - Source: <!--Source-->(MDR p294)<!--/Source-->
 
 Certaines créatures sont particulièrement difficiles ou faciles à blesser selon qu'on leur inflige certains types de dégâts. Il en va de même pour certains objets.
@@ -784,7 +784,7 @@ Si une créature ou un objet possède plusieurs fois une résistance ou une vuln
 
 ### <!--Name-->Assommer une créature<!--/Name-->
 
-- AltName: <!--AltName-->Knocking a Creature Out (SRD p98)<!--/AltName-->
+- Alias: <!--AltName-->Knocking a Creature Out (SRD p98)<!--/AltName-->
 - Source: <!--Source-->(MDR p294)<!--/Source-->
 
 Parfois, un attaquant souhaite neutraliser une ennemi plutôt que le tuer. Quand il réussit à faire tomber cette créature à 0 point de vie suite à une attaque de corps-àcorps, il a la possibilité de l'assommer. L'attaquant peut faire ce choix au moment d'infliger les dégâts. La créature est inconsciente et est considérée comme stabilisée.
@@ -795,7 +795,7 @@ Parfois, un attaquant souhaite neutraliser une ennemi plutôt que le tuer. Quand
 
 ## <!--Name-->Combat monté<!--/Name-->
 
-- AltName: <!--AltName-->Mounted Combat (SRD p99)<!--/AltName-->
+- Alias: <!--AltName-->Mounted Combat (SRD p99)<!--/AltName-->
 - Source: <!--Source-->(MDR p295)<!--/Source-->
 
 Un chevalier qui charge en plein coeur de la bataille sur son cheval de guerre, un magicien qui lance des sorts monté sur un griffon ou un clerc qui traverse le ciel à dos de pégase, tous ces héros bénéficient de la vitesse et de la mobilité de leur monture.
@@ -808,7 +808,7 @@ Une créature consentante qui fait au minimum une taille de plus qu'un personnag
 
 ### <!--Name-->Monter et descendre de sa monture<!--/Name-->
 
-- AltName: <!--AltName-->Mounting and Dismounting (SRD p99)<!--/AltName-->
+- Alias: <!--AltName-->Mounting and Dismounting (SRD p99)<!--/AltName-->
 - Source: <!--Source-->(MDR p295)<!--/Source-->
 
 Au cours de votre déplacement, vous pouvez descendre de votre monture ou monter sur celle-ci si elle se trouve dans un rayon de 1,50 mètre de vous. Vous ne pouvez accomplir ce déplacement spécial qu'une fois par tour et il vous coûte la moitié de votre vitesse. Par exemple, si votre vitesse est de 9 mètres, vous devez utiliser 4,50 mètres de votre jauge de déplacement pour monter à cheval. Vous ne pourrez par monter à cheval s'il vous reste moins de 4,50 mètres ou si votre vitesse est réduite à 0.
@@ -823,7 +823,7 @@ Si votre monture est jetée à terre, vous pouvez utiliser votre réaction pour 
 
 ### <!--Name-->Contrôler sa monture<!--/Name-->
 
-- AltName: <!--AltName-->Controlling a Mount (SRD p99)<!--/AltName-->
+- Alias: <!--AltName-->Controlling a Mount (SRD p99)<!--/AltName-->
 - Source: <!--Source-->(MDR p295)<!--/Source-->
 
 Tant que vous êtes sur le dos de votre monture, vous avez deux options : soit vous pouvez contrôler vousmême votre monture, soit vous la laissez agir à sa guise. Les créatures intelligentes, comme les dragons, restent toujours libres de leurs actions.
@@ -840,7 +840,7 @@ Dans tous les cas, si votre monture provoque une attaque d'opportunité pendant 
 
 ## <!--Name-->Combat sous-marin<!--/Name-->
 
-- AltName: <!--AltName-->Underwater Combat (SRD p99)<!--/AltName-->
+- Alias: <!--AltName-->Underwater Combat (SRD p99)<!--/AltName-->
 - Source: <!--Source-->(MDR p295)<!--/Source-->
 
 Quand les aventuriers poursuivent des sahuagins jusqu'à leur repaire sous-marin, affrontent des requins au coeur d'une épave antique ou se trouvent dans une salle de donjon inondée, ils sont contraints de se battre dans un environnement difficile. Sous l'eau, les règles suivantes s'appliquent.

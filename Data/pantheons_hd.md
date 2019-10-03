@@ -7,7 +7,7 @@
 
 # <!--Name-->Panthéons historiques et fantastiques<!--/Name-->
 
-- AltName: <!--AltName-->Pantheons<!--/AltName-->
+- Alias: <!--AltName-->Pantheons<!--/AltName-->
 - Source: <!--Source-->(MDR p413)(SRD p360)<!--/Source-->
 
 Les panthéons celtique, égyptien, grec et nordique sont des interprétations fantastiques des religions historiques de l’aube de la civilisation occidentale. Ils présentent des divinités parfaitement adaptées au jeu, séparées de leur contexte historique dans le monde réel et réunies dans des panthéons servant les besoins du jeu.
@@ -16,7 +16,7 @@ Les panthéons celtique, égyptien, grec et nordique sont des interprétations f
 
 ### <!--Name-->Le panthéon celtique<!--/Name-->
 
-- AltName: <!--AltName-->The Celtic Pantheon<!--/AltName-->
+- Alias: <!--AltName-->The Celtic Pantheon<!--/AltName-->
 - Source: <!--Source-->(MDR p413)(SRD p360)<!--/Source-->
 
 On dit que chaque âme recèle une fibre sauvage, qui vibre à l’appel d’une chouette la nuit, à l’écoute du vent dans la pinède, à la vue du rouge inattendu d’une branche de houx dans un chêne. C’est là que résident les dieux celtiques. Ils sont nés de la source et du ruisseau, tirent leur puissance du chêne et de la beauté des bois et des landes. Ces dieux sont apparus lorsque le premier forestier a osé mettre un nom sur le visage deviné dans l’écorce d’un arbre et sur la voix perçue dans le babil d’un ruisseau.
@@ -29,7 +29,7 @@ Les dieux celtiques ont autant de druides que de clercs à leur service, car ils
 
 #### <!--Name-->Les divinités celtiques<!--/Name-->
 
-- AltName: <!--AltName-->Celtic Deities<!--/AltName-->
+- Alias: <!--AltName-->Celtic Deities<!--/AltName-->
 - Source: <!--Source-->(MDR p414)(SRD p360)<!--/Source-->
 
 |Divinité|Alignement|Domaines suggérés|Symbole|
@@ -56,7 +56,7 @@ Les dieux celtiques ont autant de druides que de clercs à leur service, car ils
 
 ### <!--Name-->Le panthéon grec<!--/Name-->
 
-- AltName: <!--AltName-->Pantheons<!--/AltName-->
+- Alias: <!--AltName-->Pantheons<!--/AltName-->
 - Source: <!--Source-->(MDR p413)(SRD p360)<!--/Source-->
 
 Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des vagues sur le rivage et le fracas du tonnerre sur les pics enveloppés de nuées d’orage. Les bois grouillants de gibier et les collines arides couvertes d’oliviers portent les traces de leur passage. Leur présence résonne dans chaque aspect de la nature et ils se sont aussi taillé une place dans le coeur des humains.
@@ -67,7 +67,7 @@ Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des
 
 #### <!--Name-->Les divinités grecques<!--/Name-->
 
-- AltName: <!--AltName-->Greek Deities<!--/AltName-->
+- Alias: <!--AltName-->Greek Deities<!--/AltName-->
 - Source: <!--Source-->(MDR p414)(SRD p361)<!--/Source-->
 
 |Divinité|Alignement|Domaines suggérés|Symbole|
@@ -99,7 +99,7 @@ Les dieux de l’Olympe font connaître leur présence dans le doux clapotis des
 
 ### <!--Name-->Le panthéon égyptien<!--/Name-->
 
-- AltName: <!--AltName-->Pantheons <!--/AltName-->
+- Alias: <!--AltName-->Pantheons <!--/AltName-->
 - Source: <!--Source-->(MDR p413)(SRD p360)<!--/Source-->
 
 Ces dieux forment une jeune dynastie au sein d’une antique famille divine, héritiers chargés de régner sur le cosmos et de veiller au maintien du principe divin de Ma’at, l’ordre fondamental de la vérité, la justice, la loi et l’ordre, qui définit la place logique et méritée des dieux, des pharaons mortels et des hommes et femmes ordinaires au sein de l’univers.
@@ -112,7 +112,7 @@ Le panthéon égyptien est assez inhabituel en ce qu’il a trois dieux responsa
 
 #### <!--Name-->Les divinités égyptiennes<!--/Name-->
 
-- AltName: <!--AltName-->Egyptian Deities<!--/AltName-->
+- Alias: <!--AltName-->Egyptian Deities<!--/AltName-->
 - Source: <!--Source-->(MDR p415)(SRD p361)<!--/Source-->
 
 |Divinité|Alignement|Domaines suggérés|Symbole|
@@ -139,7 +139,7 @@ Le panthéon égyptien est assez inhabituel en ce qu’il a trois dieux responsa
 
 ### <!--Name-->Le panthéon nordique<!--/Name-->
 
-- AltName: <!--AltName-->Pantheons <!--/AltName-->
+- Alias: <!--AltName-->Pantheons <!--/AltName-->
 - Source: <!--Source-->(MDR p413)(SRD p360)<!--/Source-->
 
 Là où le paysage plonge depuis les collines enneigées vers des fjords glacés, là où les drakkars sont tirés sur la plage, là où les glaciers avancent à chaque automne et reculent à chaque printemps… Là se trouve la terre des vikings, le foyer du panthéon nordique. Il y règne un climat brutal qui engendre un mode de vie brutal. Pour survivre, les guerriers de ces contrées ont dû s’adapter aux rudes conditions climatiques, mais ils ne se sont pas laissé pervertir par les besoins de leur environnement. Étant donné qu’ils sont contraints de recourir au pillage pour se nourrir et s’enrichir, il est même étonnant qu’ils aient si bien tourné. Les pouvoirs de leurs dieux reflètent leur besoin d’un dirigeant fort et d’actions décisives et ils voient leurs divinités dans chaque méandre d’une rivière, les entendent dans le fracas du tonnerre et le grondement des glaciers, et les sentent dans la fumée d’une maison de bois en flammes.
@@ -152,7 +152,7 @@ Le panthéon nordique comprend deux grandes familles, les ases (les divinités d
 
 #### <!--Name-->Les divinités nordiques<!--/Name-->
 
-- AltName: <!--AltName-->Norse Deities<!--/AltName-->
+- Alias: <!--AltName-->Norse Deities<!--/AltName-->
 - Source: <!--Source-->(MDR p415)(SRD p361)<!--/Source-->
 
 |Divinité|Alignement|Domaines suggérés|Symbole|

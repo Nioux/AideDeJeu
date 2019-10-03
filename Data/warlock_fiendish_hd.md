@@ -7,7 +7,7 @@
 
 # <!--Name-->Le fiélon<!--/Name-->
 
-- AltName: <!--AltName-->The Fiend (SRD p50)<!--/AltName-->
+- Alias: <!--AltName-->The Fiend (SRD p50)<!--/AltName-->
 - Source: <!--Source-->(MDR p215)<!--/Source-->
 
 Vous avez passé un pacte avec un fiélon des plans inférieurs, un être qui vit pour faire le mal, même si vous êtes opposé à ses ambitions. De tels êtres désirent la corruption ou la destruction de toutes choses, vous compris. Parmi les fiélons assez puissants pour forger un pacte, on trouve des seigneurs démons comme Orcus ou Baphomet, des archidiables comme Asmodée, Méphistophélès ou Bélial, des diantrefosses et des balors particulièrement puissants, ainsi que des ultroloths et autres seigneurs yugoloths.

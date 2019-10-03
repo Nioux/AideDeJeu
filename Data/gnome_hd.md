@@ -7,7 +7,7 @@
 
 # <!--Name-->Gnome<!--/Name-->
 
-- AltName: <!--AltName-->Gnome (SRD p6)<!--/AltName-->
+- Alias: <!--AltName-->Gnome (SRD p6)<!--/AltName-->
 - Source: <!--Source-->(MDR p48)<!--/Source-->
 
 ## Traits des gnomes
@@ -38,7 +38,7 @@ Un personnage gnome partage de nombreux traits avec tous les autres gnomes.
 
 ## <!--Name-->Gnome des roches<!--/Name-->
 
-- AltName: <!--AltName-->Rock Gnome (SRD p6)<!--/AltName-->
+- Alias: <!--AltName-->Rock Gnome (SRD p6)<!--/AltName-->
 - Source: <!--Source-->(MDR p48)<!--/Source-->
 
 <!--Description-->

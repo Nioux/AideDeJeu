@@ -1,5 +1,5 @@
 Avatar de la mort
-- AltName: <!--AltName-->Avatar of Death (SRD p218)<!--/AltName-->
+- Alias: <!--AltName-->Avatar of Death (SRD p218)<!--/AltName-->
 - Source: <!--Source-->(CDC p158)<!--/Source-->
 Mort-vivant de taille M, neutre mauvais
 Classe d’armure 20
@@ -25,7 +25,7 @@ Moisson de la faucheuse. L’avatar traverse une créature située dans un rayon
 
 
 Mouche d’ébène
-- AltName: <!--AltName-->Giant Fly (SRD p222)<!--/AltName-->
+- Alias: <!--AltName-->Giant Fly (SRD p222)<!--/AltName-->
 - Source: <!--Source-->(CDC p166)<!--/Source-->
 Bête de taille G, non-alignée
 Classe d’armure 11

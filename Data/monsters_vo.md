@@ -6,13 +6,13 @@
 ---
 
 # <!--Name-->Monsters, NPC and Animals<!--/Name-->
-- CEO: <!--AltName-->[Créatures](monsters_hd.md)<!--/AltName-->
+- Alias: <!--AltName-->[Créatures](monsters_hd.md)<!--/AltName-->
 
 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Aboleth<!--/Name-->
-- CEO: <!--AltName-->[Aboleth]<!--/AltName-->
+- Alias: <!--AltName-->[Aboleth]<!--/AltName-->
 - Source: <!--Source-->(SRD p261)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
@@ -69,7 +69,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Acolyte<!--/Name-->
-- CEO: <!--AltName-->[Acolyte]<!--/AltName-->
+- Alias: <!--AltName-->[Acolyte]<!--/AltName-->
 - Source: <!--Source-->(SRD p395)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -107,7 +107,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Eagle<!--/Name-->
-- CEO: <!--AltName-->[Aigle]<!--/AltName-->
+- Alias: <!--AltName-->[Aigle]<!--/AltName-->
 - Source: <!--Source-->(SRD p371)<!--/Source-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -141,7 +141,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Eagle<!--/Name-->
-- CEO: <!--AltName-->[Aigle géant]<!--/AltName-->
+- Alias: <!--AltName-->[Aigle géant]<!--/AltName-->
 - Source: <!--Source-->(SRD p375)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -182,7 +182,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Androsphinx<!--/Name-->
-- CEO: <!--AltName-->[Androsphinx]<!--/AltName-->
+- Alias: <!--AltName-->[Androsphinx]<!--/AltName-->
 - Source: <!--Source-->(SRD p347)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
@@ -257,7 +257,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ankheg<!--/Name-->
-- CEO: <!--AltName-->[Ankheg]<!--/AltName-->
+- Alias: <!--AltName-->[Ankheg]<!--/AltName-->
 - Source: <!--Source-->(SRD p264)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor), 11 while prone<!--/ArmorClass-->
@@ -289,7 +289,7 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Spider<!--/Name-->
-- CEO: <!--AltName-->[Araignée]<!--/AltName-->
+- Alias: <!--AltName-->[Araignée]<!--/AltName-->
 - Source: <!--Source-->(SRD p389)<!--/Source-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -327,7 +327,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Phase Spider<!--/Name-->
-- CEO: <!--AltName-->[Araignée de phase]<!--/AltName-->
+- Alias: <!--AltName-->[Araignée de phase]<!--/AltName-->
 - Source: <!--Source-->(SRD p385)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
@@ -365,7 +365,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Spider<!--/Name-->
-- CEO: <!--AltName-->[Araignée géante]<!--/AltName-->
+- Alias: <!--AltName-->[Araignée géante]<!--/AltName-->
 - Source: <!--Source-->(SRD p379)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
@@ -407,7 +407,7 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Wolf Spider<!--/Name-->
-- CEO: <!--AltName-->[Araignée-loup géante]<!--/AltName-->
+- Alias: <!--AltName-->[Araignée-loup géante]<!--/AltName-->
 - Source: <!--Source-->(SRD p381)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -445,7 +445,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Awakened Tree<!--/Name-->
-- CEO: <!--AltName-->[Arbre éveillé]<!--/AltName-->
+- Alias: <!--AltName-->[Arbre éveillé]<!--/AltName-->
 - Source: <!--Source-->(SRD p366)<!--/Source-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
@@ -480,7 +480,7 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Awakened Shrub<!--/Name-->
-- CEO: <!--AltName-->[Arbuste éveillé]<!--/AltName-->
+- Alias: <!--AltName-->[Arbuste éveillé]<!--/AltName-->
 - Source: <!--Source-->(SRD p366)<!--/Source-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
@@ -515,7 +515,7 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Archmage<!--/Name-->
-- CEO: <!--AltName-->[Archimage]<!--/AltName-->
+- Alias: <!--AltName-->[Archimage]<!--/AltName-->
 - Source: <!--Source-->(SRD p395)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (15 with<!--/ArmorClass-->
@@ -575,7 +575,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Animated Armor<!--/Name-->
-- CEO: <!--AltName-->[Armure animée]<!--/AltName-->
+- Alias: <!--AltName-->[Armure animée]<!--/AltName-->
 - Source: <!--Source-->(SRD p263)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
@@ -614,7 +614,7 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Assassin<!--/Name-->
-- CEO: <!--AltName-->[Assassin]<!--/AltName-->
+- Alias: <!--AltName-->[Assassin]<!--/AltName-->
 - Source: <!--Source-->(SRD p396)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (studded leather)<!--/ArmorClass-->
@@ -660,7 +660,7 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Azer<!--/Name-->
-- CEO: <!--AltName-->[Azer]<!--/AltName-->
+- Alias: <!--AltName-->[Azer]<!--/AltName-->
 - Source: <!--Source-->(SRD p265)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor, shield)<!--/ArmorClass-->
@@ -700,7 +700,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Baboon<!--/Name-->
-- CEO: <!--AltName-->[Babouin]<!--/AltName-->
+- Alias: <!--AltName-->[Babouin]<!--/AltName-->
 - Source: <!--Source-->(SRD p367)<!--/Source-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
@@ -733,7 +733,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gibbering Mouther<!--/Name-->
-- CEO: <!--AltName-->[Babélien]<!--/AltName-->
+- Alias: <!--AltName-->[Babélien]<!--/AltName-->
 - Source: <!--Source-->(SRD p314)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
@@ -775,7 +775,7 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Balor<!--/Name-->
-- CEO: <!--AltName-->[Balor]<!--/AltName-->
+- Alias: <!--AltName-->[Balor]<!--/AltName-->
 - Source: <!--Source-->(SRD p270)<!--/Source-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
@@ -826,7 +826,7 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bandit<!--/Name-->
-- CEO: <!--AltName-->[Bandit]<!--/AltName-->
+- Alias: <!--AltName-->[Bandit]<!--/AltName-->
 - Source: <!--Source-->(SRD p396)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (leather armor)<!--/ArmorClass-->
@@ -859,7 +859,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bandit Captain<!--/Name-->
-- CEO: <!--AltName-->[Capitaine Bandit]<!--/AltName-->
+- Alias: <!--AltName-->[Capitaine Bandit]<!--/AltName-->
 - Source: <!--Source-->(SRD p397)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-lawful alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (studded leather)<!--/ArmorClass-->
@@ -902,7 +902,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Basilisk<!--/Name-->
-- CEO: <!--AltName-->[Basilic]<!--/AltName-->
+- Alias: <!--AltName-->[Basilic]<!--/AltName-->
 - Source: <!--Source-->(SRD p265)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
@@ -935,7 +935,7 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Axe Beak<!--/Name-->
-- CEO: <!--AltName-->[Bec de hache]<!--/AltName-->
+- Alias: <!--AltName-->[Bec de hache]<!--/AltName-->
 - Source: <!--Source-->(SRD p366)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
@@ -964,7 +964,7 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Weasel<!--/Name-->
-- CEO: <!--AltName-->[Belette]<!--/AltName-->
+- Alias: <!--AltName-->[Belette]<!--/AltName-->
 - Source: <!--Source-->(SRD p392)<!--/Source-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -998,7 +998,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Weasel<!--/Name-->
-- CEO: <!--AltName-->[Belette géante]<!--/AltName-->
+- Alias: <!--AltName-->[Belette géante]<!--/AltName-->
 - Source: <!--Source-->(SRD p381)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -1032,7 +1032,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Berserker<!--/Name-->
-- CEO: <!--AltName-->[Berserker]<!--/AltName-->
+- Alias: <!--AltName-->[Berserker]<!--/AltName-->
 - Source: <!--Source-->(SRD p397)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any chaotic alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (hide armor)<!--/ArmorClass-->
@@ -1065,7 +1065,7 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Badger<!--/Name-->
-- CEO: <!--AltName-->[Blaireau]<!--/AltName-->
+- Alias: <!--AltName-->[Blaireau]<!--/AltName-->
 - Source: <!--Source-->(SRD p367)<!--/Source-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -1098,7 +1098,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Badger<!--/Name-->
-- CEO: <!--AltName-->[Blaireau géant]<!--/AltName-->
+- Alias: <!--AltName-->[Blaireau géant]<!--/AltName-->
 - Source: <!--Source-->(SRD p373)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
@@ -1137,7 +1137,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ghast<!--/Name-->
-- CEO: <!--AltName-->[Blême]<!--/AltName-->
+- Alias: <!--AltName-->[Blême]<!--/AltName-->
 - Source: <!--Source-->(SRD p311)<!--/Source-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
@@ -1180,7 +1180,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bulette<!--/Name-->
-- CEO: <!--AltName-->[Bulette]<!--/AltName-->
+- Alias: <!--AltName-->[Bulette]<!--/AltName-->
 - Source: <!--Source-->(SRD p266)<!--/Source-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
@@ -1216,7 +1216,7 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Behir<!--/Name-->
-- CEO: <!--AltName-->[Béhir]<!--/AltName-->
+- Alias: <!--AltName-->[Béhir]<!--/AltName-->
 - Source: <!--Source-->(SRD p265)<!--/Source-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
@@ -1257,7 +1257,7 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Centaur<!--/Name-->
-- CEO: <!--AltName-->[Centaure]<!--/AltName-->
+- Alias: <!--AltName-->[Centaure]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
@@ -1300,7 +1300,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Jackal<!--/Name-->
-- CEO: <!--AltName-->[Chacal]<!--/AltName-->
+- Alias: <!--AltName-->[Chacal]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
@@ -1335,7 +1335,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Camel<!--/Name-->
-- CEO: <!--AltName-->[Chameau]<!--/AltName-->
+- Alias: <!--AltName-->[Chameau]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->15 (2d10 + 4)<!--/HitPoints-->
@@ -1363,7 +1363,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Cat<!--/Name-->
-- CEO: <!--AltName-->[Chat]<!--/AltName-->
+- Alias: <!--AltName-->[Chat]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -1396,7 +1396,7 @@ _Hit_: 1 slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bat<!--/Name-->
-- CEO: <!--AltName-->[Chauve-souris]<!--/AltName-->
+- Alias: <!--AltName-->[Chauve-souris]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -1430,7 +1430,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Bat<!--/Name-->
-- CEO: <!--AltName-->[Chauve-souris géante]<!--/AltName-->
+- Alias: <!--AltName-->[Chauve-souris géante]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d10)<!--/HitPoints-->
@@ -1464,7 +1464,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Warhorse<!--/Name-->
-- CEO: <!--AltName-->[Cheval de guerre]<!--/AltName-->
+- Alias: <!--AltName-->[Cheval de guerre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -1496,7 +1496,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Riding Horse<!--/Name-->
-- CEO: <!--AltName-->[Cheval de selle]<!--/AltName-->
+- Alias: <!--AltName-->[Cheval de selle]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d10 + 2)<!--/HitPoints-->
@@ -1524,7 +1524,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Draft Horse<!--/Name-->
-- CEO: <!--AltName-->[Cheval de trait]<!--/AltName-->
+- Alias: <!--AltName-->[Cheval de trait]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -1552,7 +1552,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Knight<!--/Name-->
-- CEO: <!--AltName-->[Chevalier]<!--/AltName-->
+- Alias: <!--AltName-->[Chevalier]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (plate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
@@ -1597,7 +1597,7 @@ _Hit_: 5 (1d10) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Deer<!--/Name-->
-- CEO: <!--AltName-->[Chevreuil]<!--/AltName-->
+- Alias: <!--AltName-->[Chevreuil]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
@@ -1625,7 +1625,7 @@ _Hit_: 2 (1d4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Death Dog<!--/Name-->
-- CEO: <!--AltName-->[Chien du trépas]<!--/AltName-->
+- Alias: <!--AltName-->[Chien du trépas]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->39 (6d8 + 12)<!--/HitPoints-->
@@ -1660,7 +1660,7 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Blink Dog<!--/Name-->
-- CEO: <!--AltName-->[Chien esquiveur]<!--/AltName-->
+- Alias: <!--AltName-->[Chien esquiveur]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
@@ -1695,7 +1695,7 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Chimera<!--/Name-->
-- CEO: <!--AltName-->[Chimère]<!--/AltName-->
+- Alias: <!--AltName-->[Chimère]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
@@ -1736,7 +1736,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Owl<!--/Name-->
-- CEO: <!--AltName-->[Chouette]<!--/AltName-->
+- Alias: <!--AltName-->[Chouette]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -1771,7 +1771,7 @@ _Hit_: 1 slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Owl<!--/Name-->
-- CEO: <!--AltName-->[Chouette géante]<!--/AltName-->
+- Alias: <!--AltName-->[Chouette géante]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -1806,7 +1806,7 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Chuul<!--/Name-->
-- CEO: <!--AltName-->[Chuul]<!--/AltName-->
+- Alias: <!--AltName-->[Chuul]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->93 (11d10 + 33)<!--/HitPoints-->
@@ -1847,7 +1847,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Goat<!--/Name-->
-- CEO: <!--AltName-->[Chèvre]<!--/AltName-->
+- Alias: <!--AltName-->[Chèvre]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
@@ -1881,7 +1881,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Goat<!--/Name-->
-- CEO: <!--AltName-->[Chèvre géante]<!--/AltName-->
+- Alias: <!--AltName-->[Chèvre géante]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -1915,7 +1915,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Cockatrice<!--/Name-->
-- CEO: <!--AltName-->[Cockatrice]<!--/AltName-->
+- Alias: <!--AltName-->[Cockatrice]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (6d6 + 6)<!--/HitPoints-->
@@ -1943,7 +1943,7 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Raven<!--/Name-->
-- CEO: <!--AltName-->[Corbeau]<!--/AltName-->
+- Alias: <!--AltName-->[Corbeau]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -1976,7 +1976,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Couatl<!--/Name-->
-- CEO: <!--AltName-->[Couatl]<!--/AltName-->
+- Alias: <!--AltName-->[Couatl]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->97 (13d8 + 39)<!--/HitPoints-->
@@ -2027,7 +2027,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Crab<!--/Name-->
-- CEO: <!--AltName-->[Crabe]<!--/AltName-->
+- Alias: <!--AltName-->[Crabe]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -2060,7 +2060,7 @@ _Hit_: 1 bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Crab<!--/Name-->
-- CEO: <!--AltName-->[Crabe géant]<!--/AltName-->
+- Alias: <!--AltName-->[Crabe géant]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -2093,7 +2093,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Toad<!--/Name-->
-- CEO: <!--AltName-->[Crapaud géant]<!--/AltName-->
+- Alias: <!--AltName-->[Crapaud géant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->39 (6d10 + 6)<!--/HitPoints-->
@@ -2129,7 +2129,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Shrieker<!--/Name-->
-- CEO: <!--AltName-->[Criard]<!--/AltName-->
+- Alias: <!--AltName-->[Criard]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->5<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -2160,7 +2160,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Crocodile<!--/Name-->
-- CEO: <!--AltName-->[Crocodile]<!--/AltName-->
+- Alias: <!--AltName-->[Crocodile]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -2193,7 +2193,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Crocodile<!--/Name-->
-- CEO: <!--AltName-->[Crocodile géant]<!--/AltName-->
+- Alias: <!--AltName-->[Crocodile géant]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (9d12 + 27)<!--/HitPoints-->
@@ -2233,7 +2233,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gelatinous Cube<!--/Name-->
-- CEO: <!--AltName-->[Cube gélatineux]<!--/AltName-->
+- Alias: <!--AltName-->[Cube gélatineux]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->6<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->84 (8d10 + 40)<!--/HitPoints-->
@@ -2271,7 +2271,7 @@ _Hit_: 10 (3d6) acid damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Nightmare<!--/Name-->
-- CEO: <!--AltName-->[Destrier noir]<!--/AltName-->
+- Alias: <!--AltName-->[Destrier noir]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
@@ -2308,7 +2308,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Barbed Devil<!--/Name-->
-- CEO: <!--AltName-->[Diable barbelé]<!--/AltName-->
+- Alias: <!--AltName-->[Diable barbelé]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d8 + 52)<!--/HitPoints-->
@@ -2359,7 +2359,7 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bearded Devil<!--/Name-->
-- CEO: <!--AltName-->[Diable barbu]<!--/AltName-->
+- Alias: <!--AltName-->[Diable barbu]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
@@ -2405,7 +2405,7 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Horned Devil<!--/Name-->
-- CEO: <!--AltName-->[Diable cornu]<!--/AltName-->
+- Alias: <!--AltName-->[Diable cornu]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
@@ -2453,7 +2453,7 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Chain Devil<!--/Name-->
-- CEO: <!--AltName-->[Diable des chaînes]<!--/AltName-->
+- Alias: <!--AltName-->[Diable des chaînes]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (10d8 + 40)<!--/HitPoints-->
@@ -2499,7 +2499,7 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ice Devil<!--/Name-->
-- CEO: <!--AltName-->[Diable gelé]<!--/AltName-->
+- Alias: <!--AltName-->[Diable gelé]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->180 (19d10 + 76)<!--/HitPoints-->
@@ -2549,7 +2549,7 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bone Devil<!--/Name-->
-- CEO: <!--AltName-->[Diable osseux]<!--/AltName-->
+- Alias: <!--AltName-->[Diable osseux]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->142 (15d10 + 60)<!--/HitPoints-->
@@ -2594,7 +2594,7 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Imp<!--/Name-->
-- CEO: <!--AltName-->[Diablotin]<!--/AltName-->
+- Alias: <!--AltName-->[Diablotin]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->fiend (devil<!--/Type-->, <!--Alignment-->shapechanger), lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->10 (3d4 + 3)<!--/HitPoints-->
@@ -2636,7 +2636,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Pit Fiend<!--/Name-->
-- CEO: <!--AltName-->[Diantrefosse]<!--/AltName-->
+- Alias: <!--AltName-->[Diantrefosse]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->300 (24d10 + 168)<!--/HitPoints-->
@@ -2696,7 +2696,7 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Djinni<!--/Name-->
-- CEO: <!--AltName-->[Djinn]<!--/AltName-->
+- Alias: <!--AltName-->[Djinn]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->161 (14d10 + 84)<!--/HitPoints-->
@@ -2742,7 +2742,7 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Doppelganger<!--/Name-->
-- CEO: <!--AltName-->[Doppleganger]<!--/AltName-->
+- Alias: <!--AltName-->[Doppleganger]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity (shapechanger)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
@@ -2784,7 +2784,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult White Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon blanc adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon blanc adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d12 + 96)<!--/HitPoints-->
@@ -2845,7 +2845,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient White Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon blanc vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon blanc vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->333 (18d20 + 144)<!--/HitPoints-->
@@ -2906,7 +2906,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young White Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon blanc]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon blanc]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
@@ -2949,7 +2949,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->White Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet blanc]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet blanc]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d8 + 10)<!--/HitPoints-->
@@ -2982,7 +2982,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Blue Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon bleu adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon bleu adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->225 (18d12 + 108)<!--/HitPoints-->
@@ -3041,7 +3041,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Blue Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon bleu vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon bleu vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->481 (26d20 + 208)<!--/HitPoints-->
@@ -3100,7 +3100,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Blue Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon bleu]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon bleu]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->152 (16d10 + 64)<!--/HitPoints-->
@@ -3139,7 +3139,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Blue Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet bleu]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet bleu]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d8 + 16)<!--/HitPoints-->
@@ -3172,7 +3172,7 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Brass Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon d'airain adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon d'airain adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->172 (15d12 + 75)<!--/HitPoints-->
@@ -3235,7 +3235,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Brass Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon d'airain vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon d'airain vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->297 (17d20 + 119)<!--/HitPoints-->
@@ -3300,7 +3300,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Brass Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon d'airain]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon d'airain]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
@@ -3343,7 +3343,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Brass Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet d'airain]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet d'airain]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
@@ -3380,7 +3380,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Silver Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon d'argent adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon d'argent adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->243 (18d12 + 126)<!--/HitPoints-->
@@ -3445,7 +3445,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Silver Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon d'argent vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon d'argent vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->487 (25d20 + 225)<!--/HitPoints-->
@@ -3510,7 +3510,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Silver Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon d'argent]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon d'argent]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->168 (16d10 + 80)<!--/HitPoints-->
@@ -3553,7 +3553,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Silver Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet d'argent]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet d'argent]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
@@ -3590,7 +3590,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Gold Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon d'or adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon d'or adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->256 (19d12 + 133)<!--/HitPoints-->
@@ -3657,7 +3657,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Gold Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon d'or vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon d'or vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->546 (28d20 + 252)<!--/HitPoints-->
@@ -3724,7 +3724,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Gold Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon d'or]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon d'or]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
@@ -3771,7 +3771,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gold Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet d'or]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet d'or]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->60 (8d8 + 24)<!--/HitPoints-->
@@ -3812,7 +3812,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Bronze Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon de bronze adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon de bronze adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->212 (17d12 + 102)<!--/HitPoints-->
@@ -3879,7 +3879,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Bronze Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon de bronze vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon de bronze vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->444 (24d20 + 192)<!--/HitPoints-->
@@ -3946,7 +3946,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Bronze Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon de bronze]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon de bronze]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->142 (15d10 + 60)<!--/HitPoints-->
@@ -3993,7 +3993,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bronze Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet de bronze]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet de bronze]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d8 + 10)<!--/HitPoints-->
@@ -4034,7 +4034,7 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Copper Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon de cuivre adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon de cuivre adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->184 (16d12 + 80)<!--/HitPoints-->
@@ -4097,7 +4097,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Copper Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon de cuivre vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon de cuivre vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->21 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->350 (20d20 + 140)<!--/HitPoints-->
@@ -4162,7 +4162,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Copper Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon de cuivre]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon de cuivre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->119 (14d10 + 42)<!--/HitPoints-->
@@ -4205,7 +4205,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Copper Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet de cuivre]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet de cuivre]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
@@ -4242,7 +4242,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Black Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon noir adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon noir adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->195 (17d12 + 85)<!--/HitPoints-->
@@ -4303,7 +4303,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Black Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon noir vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon noir vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->367 (21d20 + 147)<!--/HitPoints-->
@@ -4364,7 +4364,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Black Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon noir]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon noir]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->127 (15d10 + 45)<!--/HitPoints-->
@@ -4407,7 +4407,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Black Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet noir]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet noir]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
@@ -4444,7 +4444,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Red Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon rouge adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon rouge adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->256 (19d12 + 133)<!--/HitPoints-->
@@ -4503,7 +4503,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Red Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon rouge vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon rouge vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->22 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->546 (28d20 + 252)<!--/HitPoints-->
@@ -4562,7 +4562,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Red Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon rouge]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon rouge]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
@@ -4601,7 +4601,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Red Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet rouge]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet rouge]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->75 (10d8 + 30)<!--/HitPoints-->
@@ -4634,7 +4634,7 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Adult Green Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon vert adulte]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon vert adulte]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->207 (18d12 + 90)<!--/HitPoints-->
@@ -4696,7 +4696,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ancient Green Dragon<!--/Name-->
-- CEO: <!--AltName-->[Dragon vert vénérable]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon vert vénérable]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->21 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->385 (22d20 + 154)<!--/HitPoints-->
@@ -4758,7 +4758,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Young Green Dragon<!--/Name-->
-- CEO: <!--AltName-->[Jeune dragon vert]<!--/AltName-->
+- Alias: <!--AltName-->[Jeune dragon vert]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
@@ -4802,7 +4802,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Green Dragon Wyrmling<!--/Name-->
-- CEO: <!--AltName-->[Dragonnet vert]<!--/AltName-->
+- Alias: <!--AltName-->[Dragonnet vert]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->38 (7d8 + 7)<!--/HitPoints-->
@@ -4840,7 +4840,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Dragon Turtle<!--/Name-->
-- CEO: <!--AltName-->[Dragon-tortue]<!--/AltName-->
+- Alias: <!--AltName-->[Dragon-tortue]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->341 (22d20 + 110)<!--/HitPoints-->
@@ -4886,7 +4886,7 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Dretch<!--/Name-->
-- CEO: <!--AltName-->[Dretch]<!--/AltName-->
+- Alias: <!--AltName-->[Dretch]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->18 (4d6 + 4)<!--/HitPoints-->
@@ -4925,7 +4925,7 @@ _Hit_: 5 (2d4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Drider<!--/Name-->
-- CEO: <!--AltName-->[Drider]<!--/AltName-->
+- Alias: <!--AltName-->[Drider]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->123 (13d10 + 52)<!--/HitPoints-->
@@ -4980,7 +4980,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Drow<!--/Name-->
-- CEO: <!--AltName-->[Drow]<!--/AltName-->
+- Alias: <!--AltName-->[Drow]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (elf)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (chain shirt)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -5025,7 +5025,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Druid<!--/Name-->
-- CEO: <!--AltName-->[Druide]<!--/AltName-->
+- Alias: <!--AltName-->[Druide]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (16 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
@@ -5064,7 +5064,7 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Dryad<!--/Name-->
-- CEO: <!--AltName-->[Dryade]<!--/AltName-->
+- Alias: <!--AltName-->[Dryade]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (16 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
@@ -5111,7 +5111,7 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Duergar<!--/Name-->
-- CEO: <!--AltName-->[Duergar]<!--/AltName-->
+- Alias: <!--AltName-->[Duergar]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (dwarf)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (scale mail, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d8 + 8)<!--/HitPoints-->
@@ -5154,7 +5154,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Deva<!--/Name-->
-- CEO: <!--AltName-->[Déva]<!--/AltName-->
+- Alias: <!--AltName-->[Déva]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d8 + 64)<!--/HitPoints-->
@@ -5204,7 +5204,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Priest<!--/Name-->
-- CEO: <!--AltName-->[Ecclésiastique]<!--/AltName-->
+- Alias: <!--AltName-->[Ecclésiastique]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (chain shirt)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
@@ -5247,7 +5247,7 @@ _Hit_: 3 (1d6) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Roper<!--/Name-->
-- CEO: <!--AltName-->[Enlaceur]<!--/AltName-->
+- Alias: <!--AltName-->[Enlaceur]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->93 (11d10 + 33)<!--/HitPoints-->
@@ -5292,7 +5292,7 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Spy<!--/Name-->
-- CEO: <!--AltName-->[Espion]<!--/AltName-->
+- Alias: <!--AltName-->[Espion]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
@@ -5333,7 +5333,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Sprite<!--/Name-->
-- CEO: <!--AltName-->[Esprit follet]<!--/AltName-->
+- Alias: <!--AltName-->[Esprit follet]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -5370,7 +5370,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ettercap<!--/Name-->
-- CEO: <!--AltName-->[Ettercap]<!--/AltName-->
+- Alias: <!--AltName-->[Ettercap]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->44 (8d8 + 8)<!--/HitPoints-->
@@ -5417,7 +5417,7 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ettin<!--/Name-->
-- CEO: <!--AltName-->[Ettin]<!--/AltName-->
+- Alias: <!--AltName-->[Ettin]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (10d10 + 30)<!--/HitPoints-->
@@ -5458,7 +5458,7 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Cult Fanatic<!--/Name-->
-- CEO: <!--AltName-->[Fanatique de secte]<!--/AltName-->
+- Alias: <!--AltName-->[Fanatique de secte]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
@@ -5501,7 +5501,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ghost<!--/Name-->
-- CEO: <!--AltName-->[Fantôme]<!--/AltName-->
+- Alias: <!--AltName-->[Fantôme]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (10d8)<!--/HitPoints-->
@@ -5544,7 +5544,7 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hawk<!--/Name-->
-- CEO: <!--AltName-->[Faucon]<!--/AltName-->
+- Alias: <!--AltName-->[Faucon]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -5577,7 +5577,7 @@ _Hit_: 1 slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Blood Hawk<!--/Name-->
-- CEO: <!--AltName-->[Faucon de sang]<!--/AltName-->
+- Alias: <!--AltName-->[Faucon de sang]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -5612,7 +5612,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Will-o'-Wisp<!--/Name-->
-- CEO: <!--AltName-->[Feu follet]<!--/AltName-->
+- Alias: <!--AltName-->[Feu follet]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (9d4)<!--/HitPoints-->
@@ -5655,7 +5655,7 @@ _Hit_: 9 (2d8) lightning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Guard<!--/Name-->
-- CEO: <!--AltName-->[Garde]<!--/AltName-->
+- Alias: <!--AltName-->[Garde]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (chain shirt, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -5684,7 +5684,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Shield Guardian<!--/Name-->
-- CEO: <!--AltName-->[Garde animé]<!--/AltName-->
+- Alias: <!--AltName-->[Garde animé]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->142 (15d10 + 60)<!--/HitPoints-->
@@ -5728,7 +5728,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gargoyle<!--/Name-->
-- CEO: <!--AltName-->[Gargouille]<!--/AltName-->
+- Alias: <!--AltName-->[Gargouille]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d8 + 21)<!--/HitPoints-->
@@ -5769,7 +5769,7 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ochre Jelly<!--/Name-->
-- CEO: <!--AltName-->[Gelée ocre]<!--/AltName-->
+- Alias: <!--AltName-->[Gelée ocre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
@@ -5810,7 +5810,7 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Glabrezu<!--/Name-->
-- CEO: <!--AltName-->[Glabrezu]<!--/AltName-->
+- Alias: <!--AltName-->[Glabrezu]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->157 (15d10 + 75)<!--/HitPoints-->
@@ -5858,7 +5858,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gladiator<!--/Name-->
-- CEO: <!--AltName-->[Gladiateur]<!--/AltName-->
+- Alias: <!--AltName-->[Gladiateur]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (studded leather, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->112 (15d8 + 45)<!--/HitPoints-->
@@ -5904,7 +5904,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gnoll<!--/Name-->
-- CEO: <!--AltName-->[Gnoll]<!--/AltName-->
+- Alias: <!--AltName-->[Gnoll]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (gnoll)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (hide armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
@@ -5944,7 +5944,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Deep Gnome (Svirfneblin)<!--/Name-->
-- CEO: <!--AltName-->[Gnome des profondeurs (svirfneblin)]<!--/AltName-->
+- Alias: <!--AltName-->[Gnome des profondeurs (svirfneblin)]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (gnome)<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (chain shirt)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d6 + 6)<!--/HitPoints-->
@@ -5989,7 +5989,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Goblin<!--/Name-->
-- CEO: <!--AltName-->[Gobelin]<!--/AltName-->
+- Alias: <!--AltName-->[Gobelin]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (leather armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -6026,7 +6026,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Bugbear<!--/Name-->
-- CEO: <!--AltName-->[Gobelours]<!--/AltName-->
+- Alias: <!--AltName-->[Gobelours]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (hide armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
@@ -6065,7 +6065,7 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Clay Golem<!--/Name-->
-- CEO: <!--AltName-->[Golem d'argile]<!--/AltName-->
+- Alias: <!--AltName-->[Golem d'argile]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->133 (14d10 + 56)<!--/HitPoints-->
@@ -6111,7 +6111,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Flesh Golem<!--/Name-->
-- CEO: <!--AltName-->[Golem de chair]<!--/AltName-->
+- Alias: <!--AltName-->[Golem de chair]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->9<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->93 (11d8 + 44)<!--/HitPoints-->
@@ -6157,7 +6157,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Iron Golem<!--/Name-->
-- CEO: <!--AltName-->[Golem de fer]<!--/AltName-->
+- Alias: <!--AltName-->[Golem de fer]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->20 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->210 (20d10 + 100)<!--/HitPoints-->
@@ -6205,7 +6205,7 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Stone Golem<!--/Name-->
-- CEO: <!--AltName-->[Golem de pierre]<!--/AltName-->
+- Alias: <!--AltName-->[Golem de pierre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->178 (17d10 + 85)<!--/HitPoints-->
@@ -6247,7 +6247,7 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gorgon<!--/Name-->
-- CEO: <!--AltName-->[Gorgone]<!--/AltName-->
+- Alias: <!--AltName-->[Gorgone]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
@@ -6287,7 +6287,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ghoul<!--/Name-->
-- CEO: <!--AltName-->[Goule]<!--/AltName-->
+- Alias: <!--AltName-->[Goule]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
@@ -6321,7 +6321,7 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ape<!--/Name-->
-- CEO: <!--AltName-->[Grand singe]<!--/AltName-->
+- Alias: <!--AltName-->[Grand singe]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d8 + 6)<!--/HitPoints-->
@@ -6356,7 +6356,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Frog<!--/Name-->
-- CEO: <!--AltName-->[Grenouille]<!--/AltName-->
+- Alias: <!--AltName-->[Grenouille]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -6385,7 +6385,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Frog<!--/Name-->
-- CEO: <!--AltName-->[Grenouille géante]<!--/AltName-->
+- Alias: <!--AltName-->[Grenouille géante]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->18 (4d8)<!--/HitPoints-->
@@ -6422,7 +6422,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Grick<!--/Name-->
-- CEO: <!--AltName-->[Grick]<!--/AltName-->
+- Alias: <!--AltName-->[Grick]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (6d8)<!--/HitPoints-->
@@ -6461,7 +6461,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Griffon<!--/Name-->
-- CEO: <!--AltName-->[Griffon]<!--/AltName-->
+- Alias: <!--AltName-->[Griffon]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
@@ -6500,7 +6500,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Sea Hag<!--/Name-->
-- CEO: <!--AltName-->[Guenaude aquatique]<!--/AltName-->
+- Alias: <!--AltName-->[Guenaude aquatique]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d8 + 21)<!--/HitPoints-->
@@ -6538,7 +6538,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Night Hag<!--/Name-->
-- CEO: <!--AltName-->[Guenaude nocturne]<!--/AltName-->
+- Alias: <!--AltName-->[Guenaude nocturne]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->112 (15d8 + 45)<!--/HitPoints-->
@@ -6585,7 +6585,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Green Hag<!--/Name-->
-- CEO: <!--AltName-->[Guenaude verte]<!--/AltName-->
+- Alias: <!--AltName-->[Guenaude verte]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->82 (11d8 + 33)<!--/HitPoints-->
@@ -6628,7 +6628,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Tribal Warrior<!--/Name-->
-- CEO: <!--AltName-->[Guerrier tribal]<!--/AltName-->
+- Alias: <!--AltName-->[Guerrier tribal]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -6660,7 +6660,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Wasp<!--/Name-->
-- CEO: <!--AltName-->[Guêpe géante]<!--/AltName-->
+- Alias: <!--AltName-->[Guêpe géante]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -6688,7 +6688,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gynosphinx<!--/Name-->
-- CEO: <!--AltName-->[Gynosphinx]<!--/AltName-->
+- Alias: <!--AltName-->[Gynosphinx]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
@@ -6752,7 +6752,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hill Giant<!--/Name-->
-- CEO: <!--AltName-->[Géant des collines]<!--/AltName-->
+- Alias: <!--AltName-->[Géant des collines]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->105 (10d12 + 40)<!--/HitPoints-->
@@ -6787,7 +6787,7 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Cloud Giant<!--/Name-->
-- CEO: <!--AltName-->[Géant des nuages]<!--/AltName-->
+- Alias: <!--AltName-->[Géant des nuages]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral good (50 %) or neutral evil (50 %)<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d12 + 96)<!--/HitPoints-->
@@ -6835,7 +6835,7 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Stone Giant<!--/Name-->
-- CEO: <!--AltName-->[Géant des pierres]<!--/AltName-->
+- Alias: <!--AltName-->[Géant des pierres]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
@@ -6877,7 +6877,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Storm Giant<!--/Name-->
-- CEO: <!--AltName-->[Géant des tempêtes]<!--/AltName-->
+- Alias: <!--AltName-->[Géant des tempêtes]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (scale mail)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->230 (20d12 + 100)<!--/HitPoints-->
@@ -6927,7 +6927,7 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Fire Giant<!--/Name-->
-- CEO: <!--AltName-->[Géant du feu]<!--/AltName-->
+- Alias: <!--AltName-->[Géant du feu]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (plate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->162 (13d12 + 78)<!--/HitPoints-->
@@ -6964,7 +6964,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Frost Giant<!--/Name-->
-- CEO: <!--AltName-->[Géant du givre]<!--/AltName-->
+- Alias: <!--AltName-->[Géant du givre]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (patchwork armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->138 (12d12 + 60)<!--/HitPoints-->
@@ -7001,7 +7001,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Harpy<!--/Name-->
-- CEO: <!--AltName-->[Harpie]<!--/AltName-->
+- Alias: <!--AltName-->[Harpie]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->38 (7d8 + 7)<!--/HitPoints-->
@@ -7037,7 +7037,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hezrou<!--/Name-->
-- CEO: <!--AltName-->[Hezrou]<!--/AltName-->
+- Alias: <!--AltName-->[Hezrou]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (13d10 + 65)<!--/HitPoints-->
@@ -7081,7 +7081,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Owlbear<!--/Name-->
-- CEO: <!--AltName-->[Hibours]<!--/AltName-->
+- Alias: <!--AltName-->[Hibours]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
@@ -7120,7 +7120,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Sea Horse<!--/Name-->
-- CEO: <!--AltName-->[Hippocampe]<!--/AltName-->
+- Alias: <!--AltName-->[Hippocampe]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -7146,7 +7146,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Sea Horse<!--/Name-->
-- CEO: <!--AltName-->[Hippocampe géant]<!--/AltName-->
+- Alias: <!--AltName-->[Hippocampe géant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d10)<!--/HitPoints-->
@@ -7180,7 +7180,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hippogriff<!--/Name-->
-- CEO: <!--AltName-->[Hippogriffe]<!--/AltName-->
+- Alias: <!--AltName-->[Hippogriffe]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -7219,7 +7219,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hobgoblin<!--/Name-->
-- CEO: <!--AltName-->[Hobgobelin]<!--/AltName-->
+- Alias: <!--AltName-->[Hobgobelin]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (goblinoid)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (chain mail, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -7255,7 +7255,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Lizardfolk<!--/Name-->
-- CEO: <!--AltName-->[Homme-lézard]<!--/AltName-->
+- Alias: <!--AltName-->[Homme-lézard]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (lizardfolk)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor, shield)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
@@ -7302,7 +7302,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Merfolk<!--/Name-->
-- CEO: <!--AltName-->[Homme-poisson]<!--/AltName-->
+- Alias: <!--AltName-->[Homme-poisson]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (merfolk)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -7335,7 +7335,7 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Homunculus<!--/Name-->
-- CEO: <!--AltName-->[Homoncule]<!--/AltName-->
+- Alias: <!--AltName-->[Homoncule]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
@@ -7369,7 +7369,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hydra<!--/Name-->
-- CEO: <!--AltName-->[Hydre]<!--/AltName-->
+- Alias: <!--AltName-->[Hydre]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->172 (15d12 + 75)<!--/HitPoints-->
@@ -7410,7 +7410,7 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hyena<!--/Name-->
-- CEO: <!--AltName-->[Hyène]<!--/AltName-->
+- Alias: <!--AltName-->[Hyène]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (1d8 + 1)<!--/HitPoints-->
@@ -7443,7 +7443,7 @@ _Hit_: 3 (1d6) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Hyena<!--/Name-->
-- CEO: <!--AltName-->[Hyène géante]<!--/AltName-->
+- Alias: <!--AltName-->[Hyène géante]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
@@ -7476,7 +7476,7 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Kobold<!--/Name-->
-- CEO: <!--AltName-->[Kobold]<!--/AltName-->
+- Alias: <!--AltName-->[Kobold]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->humanoid (kobold)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (2d6 - 2)<!--/HitPoints-->
@@ -7514,7 +7514,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Kraken<!--/Name-->
-- CEO: <!--AltName-->[Kraken]<!--/AltName-->
+- Alias: <!--AltName-->[Kraken]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity (titan)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->472 (27d20 + 189)<!--/HitPoints-->
@@ -7573,7 +7573,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Lamia<!--/Name-->
-- CEO: <!--AltName-->[Lamie]<!--/AltName-->
+- Alias: <!--AltName-->[Lamie]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->97 (13d10 + 26)<!--/HitPoints-->
@@ -7622,7 +7622,7 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Lich<!--/Name-->
-- CEO: <!--AltName-->[Liche]<!--/AltName-->
+- Alias: <!--AltName-->[Liche]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->any evil alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->135 (18d8 + 54)<!--/HitPoints-->
@@ -7697,7 +7697,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Unicorn<!--/Name-->
-- CEO: <!--AltName-->[Licorne]<!--/AltName-->
+- Alias: <!--AltName-->[Licorne]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d10 + 18)<!--/HitPoints-->
@@ -7761,7 +7761,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Lion<!--/Name-->
-- CEO: <!--AltName-->[Lion]<!--/AltName-->
+- Alias: <!--AltName-->[Lion]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
@@ -7804,7 +7804,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Wolf<!--/Name-->
-- CEO: <!--AltName-->[Loup]<!--/AltName-->
+- Alias: <!--AltName-->[Loup]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -7839,7 +7839,7 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Winter Wolf<!--/Name-->
-- CEO: <!--AltName-->[Loup arctique]<!--/AltName-->
+- Alias: <!--AltName-->[Loup arctique]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->75 (10d10 + 20)<!--/HitPoints-->
@@ -7879,7 +7879,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Dire Wolf<!--/Name-->
-- CEO: <!--AltName-->[Loup sanguinaire]<!--/AltName-->
+- Alias: <!--AltName-->[Loup sanguinaire]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->37 (5d10 + 10)<!--/HitPoints-->
@@ -7914,7 +7914,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Werewolf<!--/Name-->
-- CEO: <!--AltName-->[Loup-garou]<!--/AltName-->
+- Alias: <!--AltName-->[Loup-garou]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 in humanoid form, 12 (natural armor) in wolf or hybrid form<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
@@ -7960,7 +7960,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Lemure<!--/Name-->
-- CEO: <!--AltName-->[Lémure]<!--/AltName-->
+- Alias: <!--AltName-->[Lémure]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -7997,7 +7997,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Lizard<!--/Name-->
-- CEO: <!--AltName-->[Lézard]<!--/AltName-->
+- Alias: <!--AltName-->[Lézard]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -8025,7 +8025,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Lizard<!--/Name-->
-- CEO: <!--AltName-->[Lézard géant]<!--/AltName-->
+- Alias: <!--AltName-->[Lézard géant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d10 + 3)<!--/HitPoints-->
@@ -8053,7 +8053,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mage<!--/Name-->
-- CEO: <!--AltName-->[Mage]<!--/AltName-->
+- Alias: <!--AltName-->[Mage]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (15 with<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->40 (9d8)<!--/HitPoints-->
@@ -8099,7 +8099,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Magmin<!--/Name-->
-- CEO: <!--AltName-->[Magmatique]<!--/AltName-->
+- Alias: <!--AltName-->[Magmatique]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d6 + 2)<!--/HitPoints-->
@@ -8135,7 +8135,7 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Thug<!--/Name-->
-- CEO: <!--AltName-->[Malfrat]<!--/AltName-->
+- Alias: <!--AltName-->[Malfrat]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->32 (5d8 + 10)<!--/HitPoints-->
@@ -8174,7 +8174,7 @@ _Hit_: 5 (1d10) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mammoth<!--/Name-->
-- CEO: <!--AltName-->[Mammouth]<!--/AltName-->
+- Alias: <!--AltName-->[Mammouth]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
@@ -8210,7 +8210,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Darkmantle<!--/Name-->
-- CEO: <!--AltName-->[Mante obscure]<!--/AltName-->
+- Alias: <!--AltName-->[Mante obscure]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d6 + 5)<!--/HitPoints-->
@@ -8247,7 +8247,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Cloaker<!--/Name-->
-- CEO: <!--AltName-->[Manteleur]<!--/AltName-->
+- Alias: <!--AltName-->[Manteleur]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->78 (12d10 + 12)<!--/HitPoints-->
@@ -8294,7 +8294,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Manticore<!--/Name-->
-- CEO: <!--AltName-->[Manticore]<!--/AltName-->
+- Alias: <!--AltName-->[Manticore]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
@@ -8336,7 +8336,7 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Marilith<!--/Name-->
-- CEO: <!--AltName-->[Marilith]<!--/AltName-->
+- Alias: <!--AltName-->[Marilith]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->189 (18d10 + 90)<!--/HitPoints-->
@@ -8388,7 +8388,7 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Cultist<!--/Name-->
-- CEO: <!--AltName-->[Membre de secte]<!--/AltName-->
+- Alias: <!--AltName-->[Membre de secte]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any non-good alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
@@ -8420,7 +8420,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Merrow<!--/Name-->
-- CEO: <!--AltName-->[Merrow]<!--/AltName-->
+- Alias: <!--AltName-->[Merrow]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
@@ -8462,7 +8462,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Centipede<!--/Name-->
-- CEO: <!--AltName-->[Mille-pattes géant]<!--/AltName-->
+- Alias: <!--AltName-->[Mille-pattes géant]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d6 + 1)<!--/HitPoints-->
@@ -8490,7 +8490,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mimic<!--/Name-->
-- CEO: <!--AltName-->[Mimique]<!--/AltName-->
+- Alias: <!--AltName-->[Mimique]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity (shapechanger)<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
@@ -8535,7 +8535,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Minotaur<!--/Name-->
-- CEO: <!--AltName-->[Minotaure]<!--/AltName-->
+- Alias: <!--AltName-->[Minotaure]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->76 (9d10 + 27)<!--/HitPoints-->
@@ -8576,7 +8576,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Violet Fungus<!--/Name-->
-- CEO: <!--AltName-->[Moisissure violette]<!--/AltName-->
+- Alias: <!--AltName-->[Moisissure violette]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->5<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->18 (4d8)<!--/HitPoints-->
@@ -8611,7 +8611,7 @@ _Hit_: 4 (1d8) necrotic damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mastiff<!--/Name-->
-- CEO: <!--AltName-->[Mastiff]<!--/AltName-->
+- Alias: <!--AltName-->[Mastiff]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (1d8 + 1)<!--/HitPoints-->
@@ -8644,7 +8644,7 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hell Hound<!--/Name-->
-- CEO: <!--AltName-->[Molosse infernal]<!--/AltName-->
+- Alias: <!--AltName-->[Molosse infernal]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (7d8 + 14)<!--/HitPoints-->
@@ -8684,7 +8684,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mummy<!--/Name-->
-- CEO: <!--AltName-->[Momie]<!--/AltName-->
+- Alias: <!--AltName-->[Momie]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
@@ -8721,7 +8721,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mummy Lord<!--/Name-->
-- CEO: <!--AltName-->[Momie auguste]<!--/AltName-->
+- Alias: <!--AltName-->[Momie auguste]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->97 (13d8 + 39)<!--/HitPoints-->
@@ -8794,7 +8794,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Mule<!--/Name-->
-- CEO: <!--AltName-->[Mule]<!--/AltName-->
+- Alias: <!--AltName-->[Mule]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -8828,7 +8828,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Medusa<!--/Name-->
-- CEO: <!--AltName-->[Méduse]<!--/AltName-->
+- Alias: <!--AltName-->[Méduse]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->127 (17d8 + 51)<!--/HitPoints-->
@@ -8872,7 +8872,7 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ice Mephit<!--/Name-->
-- CEO: <!--AltName-->[Méphite de glace]<!--/AltName-->
+- Alias: <!--AltName-->[Méphite de glace]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
@@ -8914,7 +8914,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Magma Mephit<!--/Name-->
-- CEO: <!--AltName-->[Méphite de magma]<!--/AltName-->
+- Alias: <!--AltName-->[Méphite de magma]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d6 + 5)<!--/HitPoints-->
@@ -8956,7 +8956,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Dust Mephit<!--/Name-->
-- CEO: <!--AltName-->[Méphite de poussière]<!--/AltName-->
+- Alias: <!--AltName-->[Méphite de poussière]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
@@ -8996,7 +8996,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Steam Mephit<!--/Name-->
-- CEO: <!--AltName-->[Méphite de vapeur]<!--/AltName-->
+- Alias: <!--AltName-->[Méphite de vapeur]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->21 (6d6)<!--/HitPoints-->
@@ -9034,7 +9034,7 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Spirit Naga<!--/Name-->
-- CEO: <!--AltName-->[Naga corrupteur]<!--/AltName-->
+- Alias: <!--AltName-->[Naga corrupteur]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->75 (10d10 + 20)<!--/HitPoints-->
@@ -9083,7 +9083,7 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Guardian Naga<!--/Name-->
-- CEO: <!--AltName-->[Naga gardien]<!--/AltName-->
+- Alias: <!--AltName-->[Naga gardien]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->127 (15d10 + 45)<!--/HitPoints-->
@@ -9138,7 +9138,7 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Nalfeshnee<!--/Name-->
-- CEO: <!--AltName-->[Nalfeshnie]<!--/AltName-->
+- Alias: <!--AltName-->[Nalfeshnie]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->184 (16d10 + 96)<!--/HitPoints-->
@@ -9184,7 +9184,7 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Noble<!--/Name-->
-- CEO: <!--AltName-->[Noble]<!--/AltName-->
+- Alias: <!--AltName-->[Noble]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (breastplate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->9 (2d8)<!--/HitPoints-->
@@ -9217,7 +9217,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Swarm of Insects<!--/Name-->
-- CEO: <!--AltName-->[Nuée d'insectes]<!--/AltName-->
+- Alias: <!--AltName-->[Nuée d'insectes]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
@@ -9251,7 +9251,7 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Swarm of Bats<!--/Name-->
-- CEO: <!--AltName-->[Nuée de chauve-souris]<!--/AltName-->
+- Alias: <!--AltName-->[Nuée de chauve-souris]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
@@ -9289,7 +9289,7 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Swarm of Ravens<!--/Name-->
-- CEO: <!--AltName-->[Nuée de corbeaux]<!--/AltName-->
+- Alias: <!--AltName-->[Nuée de corbeaux]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->24 (7d8 - 7)<!--/HitPoints-->
@@ -9324,7 +9324,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Swarm of Quippers<!--/Name-->
-- CEO: <!--AltName-->[Nuée de piranhas]<!--/AltName-->
+- Alias: <!--AltName-->[Nuée de piranhas]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->28 (8d8 - 8)<!--/HitPoints-->
@@ -9362,7 +9362,7 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Swarm of Rats<!--/Name-->
-- CEO: <!--AltName-->[Nuée de rats]<!--/AltName-->
+- Alias: <!--AltName-->[Nuée de rats]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->24 (7d8 - 7)<!--/HitPoints-->
@@ -9398,7 +9398,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Swarm of Poisonous Snakes<!--/Name-->
-- CEO: <!--AltName-->[Nuée de serpents venimeux]<!--/AltName-->
+- Alias: <!--AltName-->[Nuée de serpents venimeux]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->swarm of Tiny beasts<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->36 (8d8)<!--/HitPoints-->
@@ -9432,7 +9432,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Wight<!--/Name-->
-- CEO: <!--AltName-->[Nécrophage]<!--/AltName-->
+- Alias: <!--AltName-->[Nécrophage]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (studded leather)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d8 + 18)<!--/HitPoints-->
@@ -9478,7 +9478,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ogre<!--/Name-->
-- CEO: <!--AltName-->[Ogre]<!--/AltName-->
+- Alias: <!--AltName-->[Ogre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
@@ -9510,7 +9510,7 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Shadow<!--/Name-->
-- CEO: <!--AltName-->[Ombre]<!--/AltName-->
+- Alias: <!--AltName-->[Ombre]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
@@ -9551,7 +9551,7 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Oni<!--/Name-->
-- CEO: <!--AltName-->[Oni]<!--/AltName-->
+- Alias: <!--AltName-->[Oni]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (chain mail)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
@@ -9601,7 +9601,7 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Orc<!--/Name-->
-- CEO: <!--AltName-->[Orc]<!--/AltName-->
+- Alias: <!--AltName-->[Orc]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (orc)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (hide armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->15 (2d8 + 6)<!--/HitPoints-->
@@ -9638,7 +9638,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Otyugh<!--/Name-->
-- CEO: <!--AltName-->[Otyugh]<!--/AltName-->
+- Alias: <!--AltName-->[Otyugh]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->aberration<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
@@ -9679,7 +9679,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Brown Bear<!--/Name-->
-- CEO: <!--AltName-->[Ours brun]<!--/AltName-->
+- Alias: <!--AltName-->[Ours brun]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->34 (4d10 + 12)<!--/HitPoints-->
@@ -9718,7 +9718,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Black Bear<!--/Name-->
-- CEO: <!--AltName-->[Ours noir]<!--/AltName-->
+- Alias: <!--AltName-->[Ours noir]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->19 (3d8 + 6)<!--/HitPoints-->
@@ -9757,7 +9757,7 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Polar Bear<!--/Name-->
-- CEO: <!--AltName-->[Ours polaire]<!--/AltName-->
+- Alias: <!--AltName-->[Ours polaire]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->42 (5d10 + 15)<!--/HitPoints-->
@@ -9796,7 +9796,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Werebear<!--/Name-->
-- CEO: <!--AltName-->[Ours-garou]<!--/AltName-->
+- Alias: <!--AltName-->[Ours-garou]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10 in humanoid form, 11 (natural armor) in bear and hybrid form<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->135 (18d8 + 54)<!--/HitPoints-->
@@ -9842,7 +9842,7 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Rust Monster<!--/Name-->
-- CEO: <!--AltName-->[Oxydeur]<!--/AltName-->
+- Alias: <!--AltName-->[Oxydeur]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->27 (5d8 + 5)<!--/HitPoints-->
@@ -9878,7 +9878,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Panther<!--/Name-->
-- CEO: <!--AltName-->[Panthère]<!--/AltName-->
+- Alias: <!--AltName-->[Panthère]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (3d8)<!--/HitPoints-->
@@ -9917,7 +9917,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Octopus<!--/Name-->
-- CEO: <!--AltName-->[Pieuvre]<!--/AltName-->
+- Alias: <!--AltName-->[Pieuvre]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->3 (1d6)<!--/HitPoints-->
@@ -9956,7 +9956,7 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Octopus<!--/Name-->
-- CEO: <!--AltName-->[Pieuvre géante]<!--/AltName-->
+- Alias: <!--AltName-->[Pieuvre géante]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (8d10 + 8)<!--/HitPoints-->
@@ -9995,7 +9995,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Quipper<!--/Name-->
-- CEO: <!--AltName-->[Piranha]<!--/AltName-->
+- Alias: <!--AltName-->[Piranha]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -10029,7 +10029,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Planetar<!--/Name-->
-- CEO: <!--AltName-->[Planétar]<!--/AltName-->
+- Alias: <!--AltName-->[Planétar]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d10 + 112)<!--/HitPoints-->
@@ -10081,7 +10081,7 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Plesiosaurus<!--/Name-->
-- CEO: <!--AltName-->[Plésiosaure]<!--/AltName-->
+- Alias: <!--AltName-->[Plésiosaure]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->68 (8d10 + 24)<!--/HitPoints-->
@@ -10114,7 +10114,7 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Pony<!--/Name-->
-- CEO: <!--AltName-->[Poney]<!--/AltName-->
+- Alias: <!--AltName-->[Poney]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -10142,7 +10142,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Black Pudding<!--/Name-->
-- CEO: <!--AltName-->[Pouding noir]<!--/AltName-->
+- Alias: <!--AltName-->[Pouding noir]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->7<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (10d10 + 30)<!--/HitPoints-->
@@ -10184,7 +10184,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Pseudodragon<!--/Name-->
-- CEO: <!--AltName-->[Pseudodragon]<!--/AltName-->
+- Alias: <!--AltName-->[Pseudodragon]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->neutral good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d4 + 2)<!--/HitPoints-->
@@ -10226,7 +10226,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Fire Beetle<!--/Name-->
-- CEO: <!--AltName-->[Punaise de feu géante]<!--/AltName-->
+- Alias: <!--AltName-->[Punaise de feu géante]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d6 + 1)<!--/HitPoints-->
@@ -10258,7 +10258,7 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Pegasus<!--/Name-->
-- CEO: <!--AltName-->[Pégase]<!--/AltName-->
+- Alias: <!--AltName-->[Pégase]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->59 (7d10 + 21)<!--/HitPoints-->
@@ -10288,7 +10288,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Quasit<!--/Name-->
-- CEO: <!--AltName-->[Quasit]<!--/AltName-->
+- Alias: <!--AltName-->[Quasit]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->fiend (demon<!--/Type-->, <!--Alignment-->shapechanger), chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (3d4)<!--/HitPoints-->
@@ -10330,7 +10330,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Rakshasa<!--/Name-->
-- CEO: <!--AltName-->[Rakshasa]<!--/AltName-->
+- Alias: <!--AltName-->[Rakshasa]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d8 + 52)<!--/HitPoints-->
@@ -10375,7 +10375,7 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Rat<!--/Name-->
-- CEO: <!--AltName-->[Rat]<!--/AltName-->
+- Alias: <!--AltName-->[Rat]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -10407,7 +10407,7 @@ _Hit_: 1 piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Rat<!--/Name-->
-- CEO: <!--AltName-->[Rat géant]<!--/AltName-->
+- Alias: <!--AltName-->[Rat géant]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->7 (2d6)<!--/HitPoints-->
@@ -10441,7 +10441,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Wererat<!--/Name-->
-- CEO: <!--AltName-->[Rat-garou]<!--/AltName-->
+- Alias: <!--AltName-->[Rat-garou]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d8 + 6)<!--/HitPoints-->
@@ -10487,7 +10487,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Reef Shark<!--/Name-->
-- CEO: <!--AltName-->[Requin de récif]<!--/AltName-->
+- Alias: <!--AltName-->[Requin de récif]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
@@ -10522,7 +10522,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Shark<!--/Name-->
-- CEO: <!--AltName-->[Requin géant]<!--/AltName-->
+- Alias: <!--AltName-->[Requin géant]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (11d12 + 55)<!--/HitPoints-->
@@ -10557,7 +10557,7 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Hunter Shark<!--/Name-->
-- CEO: <!--AltName-->[Requin chasseur]<!--/AltName-->
+- Alias: <!--AltName-->[Requin chasseur]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
@@ -10592,7 +10592,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Rhinoceros<!--/Name-->
-- CEO: <!--AltName-->[Rhinocéros]<!--/AltName-->
+- Alias: <!--AltName-->[Rhinocéros]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->45 (6d10 + 12)<!--/HitPoints-->
@@ -10624,7 +10624,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Roc<!--/Name-->
-- CEO: <!--AltName-->[Roc]<!--/AltName-->
+- Alias: <!--AltName-->[Roc]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->248 (16d20 + 80)<!--/HitPoints-->
@@ -10664,7 +10664,7 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Commoner<!--/Name-->
-- CEO: <!--AltName-->[Roturier]<!--/AltName-->
+- Alias: <!--AltName-->[Roturier]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->4 (1d8)<!--/HitPoints-->
@@ -10692,7 +10692,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Remorhaz<!--/Name-->
-- CEO: <!--AltName-->[Remorhaz]<!--/AltName-->
+- Alias: <!--AltName-->[Remorhaz]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->195 (17d12 + 85)<!--/HitPoints-->
@@ -10727,7 +10727,7 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Sahuagin<!--/Name-->
-- CEO: <!--AltName-->[Sahuagin]<!--/AltName-->
+- Alias: <!--AltName-->[Sahuagin]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (sahuagin)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (4d8 + 4)<!--/HitPoints-->
@@ -10774,7 +10774,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Salamander<!--/Name-->
-- CEO: <!--AltName-->[Salamandre]<!--/AltName-->
+- Alias: <!--AltName-->[Salamandre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->90 (12d10 + 24)<!--/HitPoints-->
@@ -10817,7 +10817,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Boar<!--/Name-->
-- CEO: <!--AltName-->[Sanglier]<!--/AltName-->
+- Alias: <!--AltName-->[Sanglier]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -10851,7 +10851,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Boar<!--/Name-->
-- CEO: <!--AltName-->[Sanglier géant]<!--/AltName-->
+- Alias: <!--AltName-->[Sanglier géant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->42 (5d10 + 15)<!--/HitPoints-->
@@ -10885,7 +10885,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Wereboar<!--/Name-->
-- CEO: <!--AltName-->[Sanglier-garou]<!--/AltName-->
+- Alias: <!--AltName-->[Sanglier-garou]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10 in humanoid form, 11 (natural armor) in boar or hybrid form<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->78 (12d8 + 24)<!--/HitPoints-->
@@ -10929,7 +10929,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Satyr<!--/Name-->
-- CEO: <!--AltName-->[Satyre]<!--/AltName-->
+- Alias: <!--AltName-->[Satyre]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fey<!--/Type-->, <!--Alignment-->chaotic neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->31 (7d8)<!--/HitPoints-->
@@ -10970,7 +10970,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Scorpion<!--/Name-->
-- CEO: <!--AltName-->[Scorpion]<!--/AltName-->
+- Alias: <!--AltName-->[Scorpion]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->1 (1d4 - 1)<!--/HitPoints-->
@@ -10998,7 +10998,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Scorpion<!--/Name-->
-- CEO: <!--AltName-->[Scorpion géant]<!--/AltName-->
+- Alias: <!--AltName-->[Scorpion géant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d10 + 14)<!--/HitPoints-->
@@ -11032,7 +11032,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Constrictor Snake<!--/Name-->
-- CEO: <!--AltName-->[Serpent constricteur]<!--/AltName-->
+- Alias: <!--AltName-->[Serpent constricteur]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d10 + 2)<!--/HitPoints-->
@@ -11064,7 +11064,7 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Constrictor Snake<!--/Name-->
-- CEO: <!--AltName-->[Serpent constricteur géant]<!--/AltName-->
+- Alias: <!--AltName-->[Serpent constricteur géant]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->60 (8d12 + 8)<!--/HitPoints-->
@@ -11097,7 +11097,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Poisonous Snake<!--/Name-->
-- CEO: <!--AltName-->[Serpent venimeux]<!--/AltName-->
+- Alias: <!--AltName-->[Serpent venimeux]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -11125,7 +11125,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Poisonous Snake<!--/Name-->
-- CEO: <!--AltName-->[Serpent venimeux géant]<!--/AltName-->
+- Alias: <!--AltName-->[Serpent venimeux géant]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -11154,7 +11154,7 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Flying Snake<!--/Name-->
-- CEO: <!--AltName-->[Serpent volant]<!--/AltName-->
+- Alias: <!--AltName-->[Serpent volant]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (2d4)<!--/HitPoints-->
@@ -11186,7 +11186,7 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Ape<!--/Name-->
-- CEO: <!--AltName-->[Singe géant]<!--/AltName-->
+- Alias: <!--AltName-->[Singe géant]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->157 (15d12 + 60)<!--/HitPoints-->
@@ -11221,7 +11221,7 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Solar<!--/Name-->
-- CEO: <!--AltName-->[Solar]<!--/AltName-->
+- Alias: <!--AltName-->[Solar]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->celestial<!--/Type-->, <!--Alignment-->lawful good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->21 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->243 (18d10 + 144)<!--/HitPoints-->
@@ -11290,7 +11290,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Specter<!--/Name-->
-- CEO: <!--AltName-->[Spectre]<!--/AltName-->
+- Alias: <!--AltName-->[Spectre]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (5d8)<!--/HitPoints-->
@@ -11327,7 +11327,7 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Skeleton<!--/Name-->
-- CEO: <!--AltName-->[Squelette]<!--/AltName-->
+- Alias: <!--AltName-->[Squelette]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (armor scraps)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d8 + 4)<!--/HitPoints-->
@@ -11362,7 +11362,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Warhorse Skeleton<!--/Name-->
-- CEO: <!--AltName-->[Squelette cheval de guerre]<!--/AltName-->
+- Alias: <!--AltName-->[Squelette cheval de guerre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (barding scraps)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d10 + 6)<!--/HitPoints-->
@@ -11393,7 +11393,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Minotaur Skeleton<!--/Name-->
-- CEO: <!--AltName-->[Squelette minotaure]<!--/AltName-->
+- Alias: <!--AltName-->[Squelette minotaure]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d10 + 18)<!--/HitPoints-->
@@ -11432,7 +11432,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Stirge<!--/Name-->
-- CEO: <!--AltName-->[Strige]<!--/AltName-->
+- Alias: <!--AltName-->[Strige]<!--/AltName-->
 -  <!--Size-->Tiny<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->2 (1d4)<!--/HitPoints-->
@@ -11460,7 +11460,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Succubus<!--/Name-->
-- CEO: <!--AltName-->[Succube/Incube]<!--/AltName-->
+- Alias: <!--AltName-->[Succube/Incube]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (shapechanger)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->66 (12d8 + 12)<!--/HitPoints-->
@@ -11502,7 +11502,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Treant<!--/Name-->
-- CEO: <!--AltName-->[Sylvanien]<!--/AltName-->
+- Alias: <!--AltName-->[Sylvanien]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->chaotic good<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->138 (12d12 + 60)<!--/HitPoints-->
@@ -11546,7 +11546,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Rug of Smothering<!--/Name-->
-- CEO: <!--AltName-->[Tapis étrangleur]<!--/AltName-->
+- Alias: <!--AltName-->[Tapis étrangleur]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->33 (6d10)<!--/HitPoints-->
@@ -11584,7 +11584,7 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Tarrasque<!--/Name-->
-- CEO: <!--AltName-->[Tarasque]<!--/AltName-->
+- Alias: <!--AltName-->[Tarasque]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity (titan)<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->25 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->676 (33d20 + 330)<!--/HitPoints-->
@@ -11653,7 +11653,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Shambling Mound<!--/Name-->
-- CEO: <!--AltName-->[Tertre errant]<!--/AltName-->
+- Alias: <!--AltName-->[Tertre errant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->plant<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (16d10 + 48)<!--/HitPoints-->
@@ -11693,7 +11693,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Tiger<!--/Name-->
-- CEO: <!--AltName-->[Tigre]<!--/AltName-->
+- Alias: <!--AltName-->[Tigre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->37 (5d10 + 10)<!--/HitPoints-->
@@ -11732,7 +11732,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Saber-Toothed Tiger<!--/Name-->
-- CEO: <!--AltName-->[Tigre à dents de sabre]<!--/AltName-->
+- Alias: <!--AltName-->[Tigre à dents de sabre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->52 (7d10 + 14)<!--/HitPoints-->
@@ -11771,7 +11771,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Weretiger<!--/Name-->
-- CEO: <!--AltName-->[Tigre-garou]<!--/AltName-->
+- Alias: <!--AltName-->[Tigre-garou]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (human<!--/Type-->, <!--Alignment-->shapechanger), neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->120 (16d8 + 48)<!--/HitPoints-->
@@ -11823,7 +11823,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Grimlock<!--/Name-->
-- CEO: <!--AltName-->[Torve]<!--/AltName-->
+- Alias: <!--AltName-->[Torve]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (grimlock)<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->11<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->11 (2d8 + 2)<!--/HitPoints-->
@@ -11861,7 +11861,7 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Invisible Stalker<!--/Name-->
-- CEO: <!--AltName-->[Traqueur invisible]<!--/AltName-->
+- Alias: <!--AltName-->[Traqueur invisible]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->104 (16d8 + 32)<!--/HitPoints-->
@@ -11901,7 +11901,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Triceratops<!--/Name-->
-- CEO: <!--AltName-->[Tricératops]<!--/AltName-->
+- Alias: <!--AltName-->[Tricératops]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->95 (10d12 + 30)<!--/HitPoints-->
@@ -11937,7 +11937,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Troll<!--/Name-->
-- CEO: <!--AltName-->[Troll]<!--/AltName-->
+- Alias: <!--AltName-->[Troll]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->giant<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->84 (8d10 + 40)<!--/HitPoints-->
@@ -11978,7 +11978,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Tyrannosaurus Rex<!--/Name-->
-- CEO: <!--AltName-->[Tyrannosaure]<!--/AltName-->
+- Alias: <!--AltName-->[Tyrannosaure]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->136 (13d12 + 52)<!--/HitPoints-->
@@ -12013,7 +12013,7 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Vampire<!--/Name-->
-- CEO: <!--AltName-->[Vampire]<!--/AltName-->
+- Alias: <!--AltName-->[Vampire]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead (shapechanger)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->16 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->144 (17d8 + 68)<!--/HitPoints-->
@@ -12086,7 +12086,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Vampire Spawn<!--/Name-->
-- CEO: <!--AltName-->[Vampirien]<!--/AltName-->
+- Alias: <!--AltName-->[Vampirien]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->82 (11d8 + 33)<!--/HitPoints-->
@@ -12139,7 +12139,7 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Gray Ooze<!--/Name-->
-- CEO: <!--AltName-->[Vase grise]<!--/AltName-->
+- Alias: <!--AltName-->[Vase grise]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->ooze<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d8 + 9)<!--/HitPoints-->
@@ -12180,7 +12180,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Vulture<!--/Name-->
-- CEO: <!--AltName-->[Vautour]<!--/AltName-->
+- Alias: <!--AltName-->[Vautour]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->5 (1d8 + 1)<!--/HitPoints-->
@@ -12215,7 +12215,7 @@ _Hit_: 2 (1d4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Vulture<!--/Name-->
-- CEO: <!--AltName-->[Vautour géant]<!--/AltName-->
+- Alias: <!--AltName-->[Vautour géant]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d10 + 6)<!--/HitPoints-->
@@ -12256,7 +12256,7 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Purple Worm<!--/Name-->
-- CEO: <!--AltName-->[Ver pourpre]<!--/AltName-->
+- Alias: <!--AltName-->[Ver pourpre]<!--/AltName-->
 -  <!--Size-->Gargantuan<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->247 (15d20 + 90)<!--/HitPoints-->
@@ -12295,7 +12295,7 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Wyvern<!--/Name-->
-- CEO: <!--AltName-->[Vouivre]<!--/AltName-->
+- Alias: <!--AltName-->[Vouivre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->dragon<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->110 (13d10 + 39)<!--/HitPoints-->
@@ -12334,7 +12334,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Vrock<!--/Name-->
-- CEO: <!--AltName-->[Vrock]<!--/AltName-->
+- Alias: <!--AltName-->[Vrock]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->fiend (demon)<!--/Type-->, <!--Alignment-->chaotic evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->104 (11d10 + 44)<!--/HitPoints-->
@@ -12382,7 +12382,7 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Veteran<!--/Name-->
-- CEO: <!--AltName-->[Vétéran]<!--/AltName-->
+- Alias: <!--AltName-->[Vétéran]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (splint)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->58 (9d8 + 18)<!--/HitPoints-->
@@ -12421,7 +12421,7 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Worg<!--/Name-->
-- CEO: <!--AltName-->[Worg]<!--/AltName-->
+- Alias: <!--AltName-->[Worg]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->monstrosity<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->26 (4d10 + 4)<!--/HitPoints-->
@@ -12454,7 +12454,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Xorn<!--/Name-->
-- CEO: <!--AltName-->[Xorn]<!--/AltName-->
+- Alias: <!--AltName-->[Xorn]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->19 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->73 (7d8 + 42)<!--/HitPoints-->
@@ -12499,7 +12499,7 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Zombie<!--/Name-->
-- CEO: <!--AltName-->[Zombi]<!--/AltName-->
+- Alias: <!--AltName-->[Zombi]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->22 (3d8 + 9)<!--/HitPoints-->
@@ -12534,7 +12534,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Ogre Zombie<!--/Name-->
-- CEO: <!--AltName-->[Zombi ogre]<!--/AltName-->
+- Alias: <!--AltName-->[Zombi ogre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->8<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->85 (9d10 + 36)<!--/HitPoints-->
@@ -12569,7 +12569,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Wraith<!--/Name-->
-- CEO: <!--AltName-->[Âme en peine]<!--/AltName-->
+- Alias: <!--AltName-->[Âme en peine]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->undead<!--/Type-->, <!--Alignment-->neutral evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->67 (9d8 + 27)<!--/HitPoints-->
@@ -12608,7 +12608,7 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Scout<!--/Name-->
-- CEO: <!--AltName-->[Éclaireur]<!--/AltName-->
+- Alias: <!--AltName-->[Éclaireur]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->humanoid (any race)<!--/Type-->, <!--Alignment-->any alignment<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13 (leather armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->16 (3d8 + 3)<!--/HitPoints-->
@@ -12647,7 +12647,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Efreeti<!--/Name-->
-- CEO: <!--AltName-->[Éfrit]<!--/AltName-->
+- Alias: <!--AltName-->[Éfrit]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->200 (16d10 + 112)<!--/HitPoints-->
@@ -12695,7 +12695,7 @@ _Hit_: 17 (5d6) fire damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Elk<!--/Name-->
-- CEO: <!--AltName-->[Élan]<!--/AltName-->
+- Alias: <!--AltName-->[Élan]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->10<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->13 (2d10 + 2)<!--/HitPoints-->
@@ -12731,7 +12731,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Giant Elk<!--/Name-->
-- CEO: <!--AltName-->[Élan géant]<!--/AltName-->
+- Alias: <!--AltName-->[Élan géant]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->42 (5d12 + 10)<!--/HitPoints-->
@@ -12768,7 +12768,7 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Air Elemental<!--/Name-->
-- CEO: <!--AltName-->[Élémentaire de l'air]<!--/AltName-->
+- Alias: <!--AltName-->[Élémentaire de l'air]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->15<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->90 (12d10 + 24)<!--/HitPoints-->
@@ -12807,7 +12807,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Water Elemental<!--/Name-->
-- CEO: <!--AltName-->[Élémentaire de l'eau]<!--/AltName-->
+- Alias: <!--AltName-->[Élémentaire de l'eau]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->14 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->114 (12d10 + 48)<!--/HitPoints-->
@@ -12848,7 +12848,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Earth Elemental<!--/Name-->
-- CEO: <!--AltName-->[Élémentaire de la terre]<!--/AltName-->
+- Alias: <!--AltName-->[Élémentaire de la terre]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->126 (12d10 + 60)<!--/HitPoints-->
@@ -12888,7 +12888,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Fire Elemental<!--/Name-->
-- CEO: <!--AltName-->[Élémentaire du feu]<!--/AltName-->
+- Alias: <!--AltName-->[Élémentaire du feu]<!--/AltName-->
 -  <!--Size-->Large<!--/Size--> <!--Type-->elemental<!--/Type-->, <!--Alignment-->neutral<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->13<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->102 (12d10 + 36)<!--/HitPoints-->
@@ -12929,7 +12929,7 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Elephant<!--/Name-->
-- CEO: <!--AltName-->[Éléphant]<!--/AltName-->
+- Alias: <!--AltName-->[Éléphant]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->76 (8d12 + 24)<!--/HitPoints-->
@@ -12965,7 +12965,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Killer Whale<!--/Name-->
-- CEO: <!--AltName-->[Épaulard]<!--/AltName-->
+- Alias: <!--AltName-->[Épaulard]<!--/AltName-->
 -  <!--Size-->Huge<!--/Size--> <!--Type-->beast<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->12 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->90 (12d12 + 12)<!--/HitPoints-->
@@ -13002,7 +13002,7 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Flying Sword<!--/Name-->
-- CEO: <!--AltName-->[Épée volante]<!--/AltName-->
+- Alias: <!--AltName-->[Épée volante]<!--/AltName-->
 -  <!--Size-->Small<!--/Size--> <!--Type-->construct<!--/Type-->, <!--Alignment-->unaligned<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->17 (natural armor)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->17 (5d6)<!--/HitPoints-->
@@ -13039,7 +13039,7 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 <!--MonsterItem Family="MonsterVO"-->
 
 # <!--Name-->Erinyes<!--/Name-->
-- CEO: <!--AltName-->[Érinye]<!--/AltName-->
+- Alias: <!--AltName-->[Érinye]<!--/AltName-->
 -  <!--Size-->Medium<!--/Size--> <!--Type-->fiend (devil)<!--/Type-->, <!--Alignment-->lawful evil<!--/Alignment-->
 - **Armor Class** <!--ArmorClass-->18 (plate)<!--/ArmorClass-->
 - **Hit Points** <!--HitPoints-->153 (18d8 + 72)<!--/HitPoints-->

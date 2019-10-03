@@ -7,7 +7,7 @@
 
 # <!--Name-->Serment de dévotion<!--/Name-->
 
-- AltName: <!--AltName-->Oath of Devotion (SRD p32)<!--/AltName-->
+- Alias: <!--AltName-->Oath of Devotion (SRD p32)<!--/AltName-->
 - Source: <!--Source-->(MDR p186)<!--/Source-->
 
 Le serment de dévotion engage un paladin à suivre les idéaux de justice, de vertu et d'ordre les plus élevés.

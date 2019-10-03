@@ -7,7 +7,7 @@
 
 ## <!--Name-->Dégâts et guérison <!--/Name-->
 
-- AltName: <!--AltName-->Damage and Healing<!--/AltName-->
+- Alias: <!--AltName-->Damage and Healing<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p96)<!--/Source-->
 
 Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d’un dragon, les griffes d’un troll, le poison d’un ennemi, un carreau d’arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.
@@ -16,7 +16,7 @@ Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et d
 
 ### <!--Name-->Points de vie<!--/Name-->
 
-- AltName: <!--AltName-->Hit Points<!--/AltName-->
+- Alias: <!--AltName-->Hit Points<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p96)<!--/Source-->
 
 Les points de vie représentent une combinaison de résistance mentale et physique, de volonté de vivre et de chance. Plus une créature a de points de vie, plus elle est difficile à tuer. Les créatures avec peu de points de vie sont plus fragiles.
@@ -31,7 +31,7 @@ Quand une créature subit des dégâts, ceux-ci sont ôtés de son total actuel 
 
 ### <!--Name-->Soins<!--/Name-->
 
-- AltName: <!--AltName-->Healing<!--/AltName-->
+- Alias: <!--AltName-->Healing<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p97)<!--/Source-->
 
 Les dégâts ne sont pas permanents, à moins bien sûr qu’ils ne provoquent la mort d’une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points de vie d’une créature, et des méthodes magiques – comme le sort soin des blessures ou une potion de soins – peuvent soigner les dégâts en un instant.
@@ -46,7 +46,7 @@ Une créature morte ne peut pas regagner de point de vie avant d’avoir été r
 
 ### <!--Name-->Tomber à 0 point de vie<!--/Name-->
 
-- AltName: <!--AltName-->Dropping to 0 Hit Points<!--/AltName-->
+- Alias: <!--AltName-->Dropping to 0 Hit Points<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p97)<!--/Source-->
 
 Quand vous atteignez 0 point de vie, vous pouvez soit mourir, soit perdre conscience. Les différents cas de figure sont expliqués dans les sections ci-dessous.
@@ -57,7 +57,7 @@ Quand vous atteignez 0 point de vie, vous pouvez soit mourir, soit perdre consci
 
 #### <!--Name-->Mort instantanée<!--/Name-->
 
-- AltName: <!--AltName-->Instant Death<!--/AltName-->
+- Alias: <!--AltName-->Instant Death<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p98)<!--/Source-->
 
 Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose terrible arrive, il faut que les dégâts vous fassent tomber à 0 point de vie et que le reliquat des dégâts infligés par l’attaque soit supérieur ou égal à votre maximum de points de vie.
@@ -70,7 +70,7 @@ Par exemple, une clerc a un nombre de points de vie maximum de 12. Il lui reste 
 
 #### <!--Name-->Perdre conscience<!--/Name-->
 
-- AltName: <!--AltName-->Falling Unconscious<!--/AltName-->
+- Alias: <!--AltName-->Falling Unconscious<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p98)<!--/Source-->
 
 Si les dégâts que vous subissez vous font tomber à 0 point de vie mais ne vous tuent pas, vous êtes inconscient (voir la section États spéciaux page 301). Vous ne pouvez reprendre conscience que si vous regagnez des points de vie.
@@ -81,7 +81,7 @@ Si les dégâts que vous subissez vous font tomber à 0 point de vie mais ne vou
 
 #### <!--Name-->Jets de sauvegarde contre la mort<!--/Name-->
 
-- AltName: <!--AltName-->Death Saving Throws<!--/AltName-->
+- Alias: <!--AltName-->Death Saving Throws<!--/AltName-->
 - Source: <!--Source-->(MDR p298)(SRD p98)<!--/Source-->
 
 À chaque fois que vous commencez votre tour de jeu à 0 point de vie, vous devez faire un jet de sauvegarde spécial appelé jet de sauvegarde contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un jet de sauvegarde.
@@ -98,7 +98,7 @@ Dégâts à 0 point de vie. Si vous subissez des dégâts alors que vous êtes d
 
 #### <!--Name-->Stabiliser une créature<!--/Name-->
 
-- AltName: <!--AltName-->Stabilizing a Creature<!--/AltName-->
+- Alias: <!--AltName-->Stabilizing a Creature<!--/AltName-->
 - Source: <!--Source-->(MDR p299)(SRD p98)<!--/Source-->
 
 Le meilleur moyen de sauver une créature qui se trouve à 0 point de vie est de la soigner. S’il n’est pas possible de la soigner, elle peut être stabilisée afin de lui éviter de mourir des suites d’un échec à son jet de sauvegarde contre la mort.
@@ -113,7 +113,7 @@ Une créature stabilisée n’a pas besoin de faire de jet de sauvegarde contre 
 
 #### <!--Name-->Les monstres et la mort<!--/Name-->
 
-- AltName: <!--AltName-->Monsters and Death<!--/AltName-->
+- Alias: <!--AltName-->Monsters and Death<!--/AltName-->
 - Source: <!--Source-->(MDR p299)(SRD p98)<!--/Source-->
 
 La plupart des MJ font mourir les monstres dès qu’ils atteignent 0 point de vie plutôt que de les considérer comme inconscients et de faire pour eux des jets de sauvegarde contre la mort.
@@ -126,7 +126,7 @@ Les principaux adversaires et personnages nonjoueurs spéciaux constituent une e
 
 ### <!--Name-->Points de vie temporaires<!--/Name-->
 
-- AltName: <!--AltName-->Temporary Hit Points<!--/AltName-->
+- Alias: <!--AltName-->Temporary Hit Points<!--/AltName-->
 - Source: <!--Source-->(MDR p299)(SRD p98)<!--/Source-->
 
 Certains sorts et capacités spéciales confèrent des points de vie temporaires à une créature. Ces points de vie temporaires ne sont pas réellement des points de vie, mais plutôt une protection contre les dégâts, une réserve de points de vie qui évite à un personnage de subir véritablement des dégâts.

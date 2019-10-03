@@ -7,7 +7,7 @@
 
 # <!--Name-->Sorcier<!--/Name-->
 
-- AltName: <!--AltName-->Warlock (SRD p46)<!--/AltName-->
+- Alias: <!--AltName-->Warlock (SRD p46)<!--/AltName-->
 - Source: <!--Source-->(MDR p209)<!--/Source-->
 
 <!--Description-->

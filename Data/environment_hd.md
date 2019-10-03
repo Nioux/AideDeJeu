@@ -7,7 +7,7 @@
 
 # <!--Name-->L’environnement<!--/Name-->
 
-- AltName: <!--AltName-->The Environment (SRD p86)<!--/AltName-->
+- Alias: <!--AltName-->The Environment (SRD p86)<!--/AltName-->
 - Source: <!--Source-->(MDR p274)<!--/Source-->
 
 Par définition, l’aventure rime avec l’exploration d’endroits dangereux et mystérieux. Les règles présentées dans cette section traitent des principales manières dont les aventuriers interagissent avec leur environnement dans ce genre de situations très particulières.

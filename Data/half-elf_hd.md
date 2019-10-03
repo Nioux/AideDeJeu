@@ -7,7 +7,7 @@
 
 # <!--Name-->Demi-elfe<!--/Name-->
 
-- AltName: <!--AltName-->Half-Elf (SRD p6)<!--/AltName-->
+- Alias: <!--AltName-->Half-Elf (SRD p6)<!--/AltName-->
 - Source: <!--Source-->(MDR p39)<!--/Source-->
 
 ## Traits des demi-elfes

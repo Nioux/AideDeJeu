@@ -7,7 +7,7 @@
 
 # <!--Name-->Barde<!--/Name-->
 
-- AltName: <!--AltName-->Bard (SRD p11)<!--/AltName-->
+- Alias: <!--AltName-->Bard (SRD p11)<!--/AltName-->
 - Source: <!--Source-->(MDR p121)<!--/Source-->
 
 <!--Description-->

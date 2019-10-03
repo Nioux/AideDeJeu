@@ -7,7 +7,7 @@
 
 # <!--Name-->Armes<!--/Name-->
 
-- AltName: <!--AltName-->Weapons (SRD p64)<!--/AltName-->
+- Alias: <!--AltName-->Weapons (SRD p64)<!--/AltName-->
 - Source: <!--Source-->(MDR p226)<!--/Source-->
 
 Votre classe vous donne la maîtrise de certaines armes, qui sont représentatives de cette classe, et des outils que vous êtes susceptible d'utiliser. Que vous préfériez manier l'épée longue ou l'arc long, c'est finalement votre capacité à manier votre arme avec efficacité qui peut vous permettre de survivre à une aventure.
@@ -18,7 +18,7 @@ Le tableau des armes vous présente les armes les plus couramment rencontrées d
 
 ### <!--Name-->Maîtrise des armes<!--/Name-->
 
-- AltName: <!--AltName-->Weapon Proficiency (SRD p64)<!--/AltName-->
+- Alias: <!--AltName-->Weapon Proficiency (SRD p64)<!--/AltName-->
 - Source: <!--Source-->(MDR p226)<!--/Source-->
 
 Votre race, votre classe et vos dons peuvent vous donner la maîtrise de certaines armes ou catégories d'armes. On trouve deux types d'armes : les armes courantes et les armes de guerre. La plupart des gens maîtrisent les armes courantes. On trouve parmi celles-ci les gourdins et les masses, ainsi que toutes les armes que l'on trouve couramment chez les gens du peuple. Les armes de guerre, notamment les épées, les haches et les armes d'hast, demandent d'avoir reçu un entraînement spécifique pour les manier efficacement. La plupart des guerriers utilisent des armes de guerre, car c'est avec ces armes qu'ils peuvent profiter pleinement de leur entraînement et de leur style de combat.
@@ -31,7 +31,7 @@ Maîtriser une arme vous permet d'ajouter votre bonus de maîtrise au jet d'atta
 
 ### <!--Name-->Propriétés des armes<!--/Name-->
 
-- AltName: <!--AltName-->Weapon Properties (SRD p64)<!--/AltName-->
+- Alias: <!--AltName-->Weapon Properties (SRD p64)<!--/AltName-->
 - Source: <!--Source-->(MDR p226)<!--/Source-->
 
 De nombreuses armes ont des propriétés spéciales liées à leur utilisation, ainsi que vous pourrez le voir dans le tableau des armes.
@@ -42,7 +42,7 @@ De nombreuses armes ont des propriétés spéciales liées à leur utilisation, 
 
 ##### <!--Name-->À deux mains<!--/Name-->
 
-- AltName: <!--AltName-->Two-Handed (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Two-Handed (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p226)<!--/Source-->
 
 Vous devez manier cette arme à deux mains pour effectuer une attaque.
@@ -53,7 +53,7 @@ Vous devez manier cette arme à deux mains pour effectuer une attaque.
 
 ##### <!--Name-->Allonge<!--/Name-->
 
-- AltName: <!--AltName-->Reach (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Reach (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p226)<!--/Source-->
 
 Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand vous l'utilisez et quand vous déterminez votre allonge pour effectuer une attaque d'opportunité.
@@ -64,7 +64,7 @@ Ce type d'arme vous permet de gagner 1,50 mètre d'allonge supplémentaire quand
 
 ##### <!--Name-->Chargement<!--/Name-->
 
-- AltName: <!--AltName-->Loading (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Loading (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p226)<!--/Source-->
 
 Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu'une seule fois quand vous utilisez une action, une action bonus ou une réaction, peu importe le nombre d'attaques que vous pouvez normalement faire.
@@ -75,7 +75,7 @@ Cette arme nécessite un temps de chargement long qui ne vous permet de tirer qu
 
 ##### <!--Name-->Finesse<!--/Name-->
 
-- AltName: <!--AltName-->Finesse (SRD p64)<!--/AltName-->
+- Alias: <!--AltName-->Finesse (SRD p64)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez choisir d'ajouter votre modificateur de Force ou de Dextérité aux jets d'attaques et de dégâts. Par contre, vous devez utiliser le même modificateur pour les deux jets.
@@ -86,7 +86,7 @@ Quand vous attaquez avec une arme dotée de la propriété finesse, vous pouvez 
 
 ##### <!--Name-->Lancer<!--/Name-->
 
-- AltName: <!--AltName-->Thrown (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Thrown (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une attaque à distance. S'il s'agit d'une arme de corps-à-corps, vous utilisez le même modificateur de caractéristique que pour le jet d'attaque et de dégâts d'une attaque de corps-à-corps avec cette arme. Par exemple, si vous lancez une hachette, vous utilisez votre Force ; si vous lancez une dague, vous avez le choix entre utiliser votre Force ou votre Dextérité, dans la mesure où la dague possède aussi la propriété finesse.
@@ -97,7 +97,7 @@ Si une arme possède la propriété lancer, vous pouvez la lancer pour faire une
 
 ##### <!--Name-->Légère<!--/Name-->
 
-- AltName: <!--AltName-->Light (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Light (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Une arme légère est petite et facile à manier, ce qui la rend idéale pour le combat à deux armes.
@@ -108,7 +108,7 @@ Une arme légère est petite et facile à manier, ce qui la rend idéale pour le
 
 ##### <!--Name-->Lourde<!--/Name-->
 
-- AltName: <!--AltName-->Heavy (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Heavy (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Les créatures de petite taille subissent un désavantage sur les jets d'attaque quand elles manient des armes lourdes. La taille et le poids de celles-ci les leur rendent en effet difficiles à manier.
@@ -119,7 +119,7 @@ Les créatures de petite taille subissent un désavantage sur les jets d'attaque
 
 ##### <!--Name-->Munitions<!--/Name-->
 
-- AltName: <!--AltName-->Ammunition (SRD p64)<!--/AltName-->
+- Alias: <!--AltName-->Ammunition (SRD p64)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Vous ne pouvez utiliser une arme qui a la propriété munitions pour faire une attaque à distance que si vous avez les munitions nécessaires pour tirer avec cette arme. Chaque fois que vous attaquez avec cette arme, vous utilisez une munition. Sortir la munition en question d'un carquois, d'une boîte ou d'un quelconque étui fait partie de l'attaque (vous avez besoin d'une main libre pour charger une arme à une main). À la fin de la bataille, vous pouvez récupérer la moitié des munitions que vous avez utilisées en prenant 1 minute pour fouiller le champ de bataille.
@@ -132,7 +132,7 @@ Si vous utilisez une arme qui a la propriété munitions pour faire une attaque 
 
 ##### <!--Name-->Polyvalente<!--/Name-->
 
-- AltName: <!--AltName-->Versatile (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Versatile (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Une telle arme peut être utilisée avec une ou deux mains. À côté de la propriété, une valeur est indiquée entre parenthèses : il s'agit des dégâts infligés quand l'arme est tenue à deux mains.
@@ -143,7 +143,7 @@ Une telle arme peut être utilisée avec une ou deux mains. À côté de la prop
 
 ##### <!--Name-->Portée<!--/Name-->
 
-- AltName: <!--AltName-->Range (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Range (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p227)<!--/Source-->
 
 Une arme qui peut être utilisée pour faire des attaques à distance affiche une portée indiquée entre parenthèses après la propriété munitions ou lancer. La portée consiste en deux nombres. Le premier indique la portée normale de l'arme en mètres et le second indique sa portée longue. Quand vous attaquez une cible qui se trouve hors de la portée normale de votre arme, vous subissez un désavantage sur le jet d'attaque. Vous ne pouvez pas attaquer une cible qui se trouve au-delà de la portée longue de votre arme.
@@ -154,7 +154,7 @@ Une arme qui peut être utilisée pour faire des attaques à distance affiche un
 
 ##### <!--Name-->Spéciale<!--/Name-->
 
-- AltName: <!--AltName-->Special (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Special (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p228)<!--/Source-->
 
 Une arme qui possède la propriété spéciale utilise des règles de fonctionnement spécifiques qui sont expliquées dans la description de l'arme (voir la section Armes spéciales plus loin dans ce chapitre).
@@ -165,7 +165,7 @@ Une arme qui possède la propriété spéciale utilise des règles de fonctionne
 
 #### <!--Name-->Armes improvisées<!--/Name-->
 
-- AltName: <!--AltName-->Improvised Weapons (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Improvised Weapons (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p228)<!--/Source-->
 
 Il peut arriver que les personnages n'aient pas leurs armes avec eux et doivent se contenter de ce qu'ils ont sous la main. Une arme improvisée peut être n'importe quel objet que vous pouvez tenir à une ou [deux mains], comme un éclat de verre, un pied de table, une poêle, une roue de chariot ou un cadavre de gobelin.
@@ -180,7 +180,7 @@ Un objet qui ne ressemble à aucune arme inflige 1d4 dégâts (le MJ décide d'u
 
 #### <!--Name-->Armes en argent<!--/Name-->
 
-- AltName: <!--AltName-->Silvered Weapons (SRD p65)<!--/AltName-->
+- Alias: <!--AltName-->Silvered Weapons (SRD p65)<!--/AltName-->
 - Source: <!--Source-->(MDR p228)<!--/Source-->
 
 Certains monstres qui possèdent une immunité ou une résistance aux armes non-magiques sont vulnérables aux armes en argent. Les aventuriers prudents n'hésitent donc pas à dépenser quelques pièces supplémentaires pour plaquer leurs armes avec de l'argent. Un personnage peut plaquer une arme unique ou dix munitions avec de l'argent pour 100 po. Ce tarif prend en compte non seulement le prix de l'argent, mais aussi celui de l'expertise nécessaire pour plaquer l'argent sur une arme sans lui faire perdre en efficacité.

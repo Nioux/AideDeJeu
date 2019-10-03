@@ -7,7 +7,7 @@
 
 # <!--Name-->Guerrier<!--/Name-->
 
-- AltName: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
+- Alias: <!--AltName-->Fighter (SRD p24)<!--/AltName-->
 - Source: <!--Source-->(MDR p160)<!--/Source-->
 
 <!--Description-->

@@ -7,7 +7,7 @@
 
 # <!--Name-->Demi-orc<!--/Name-->
 
-- AltName: <!--AltName-->Half-Orc (SRD p7)<!--/AltName-->
+- Alias: <!--AltName-->Half-Orc (SRD p7)<!--/AltName-->
 - Source: <!--Source-->(MDR p41)<!--/Source-->
 
 ## Traits des demi-orcs

@@ -7,7 +7,7 @@
 
 # <!--Name-->Barbare<!--/Name-->
 
-- AltName: <!--AltName-->Barbarian (SRD p8)<!--/AltName-->
+- Alias: <!--AltName-->Barbarian (SRD p8)<!--/AltName-->
 - Source: <!--Source-->(MDR p114)<!--/Source-->
 
 <!--Description-->

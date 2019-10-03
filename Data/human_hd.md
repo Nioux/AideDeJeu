@@ -7,7 +7,7 @@
 
 # <!--Name-->Humain<!--/Name-->
 
-- AltName: <!--AltName-->Human (SRD p5)<!--/AltName-->
+- Alias: <!--AltName-->Human (SRD p5)<!--/AltName-->
 - Source: <!--Source-->(MDR p54)<!--/Source-->
 
 ## Traits des humains

@@ -7,7 +7,7 @@
 
 # <!--Name-->Alignement<!--/Name-->
 
-- AltName: <!--AltName-->Alignment (SRD p58)<!--/AltName-->
+- Alias: <!--AltName-->Alignment (SRD p58)<!--/AltName-->
 - Source: <!--Source-->(MDR p75)<!--/Source-->
 
 <!--Description-->
