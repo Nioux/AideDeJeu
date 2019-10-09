@@ -132,8 +132,8 @@
     <Reference Include="Remotion.Linq, Version=2.1.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Remotion.Linq.2.1.1\lib\net45\Remotion.Linq.dll</HintPath>
     </Reference>
-    <Reference Include="Rg.Plugins.Popup, Version=1.1.5.188, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Rg.Plugins.Popup.1.1.5.188\lib\netstandard1.0\Rg.Plugins.Popup.dll</HintPath>
+    <Reference Include="Rg.Plugins.Popup, Version=1.2.0.223, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Rg.Plugins.Popup.1.2.0.223\lib\netstandard1.0\Rg.Plugins.Popup.dll</HintPath>
     </Reference>
     <Reference Include="SkiaSharp, Version=1.68.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <HintPath>..\..\packages\SkiaSharp.1.68.0\lib\net45\SkiaSharp.dll</HintPath>
@@ -255,8 +255,8 @@
     <Reference Include="XamiTextSharpLGPLv2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\XamiTextSharpLGPLv2.1.0.0\lib\netstandard2.0\XamiTextSharpLGPLv2.dll</HintPath>
     </Reference>
-    <Reference Include="YamlDotNet, Version=6.0.0.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\YamlDotNet.6.1.2\lib\net45\YamlDotNet.dll</HintPath>
+    <Reference Include="YamlDotNet, Version=7.0.0.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\YamlDotNet.7.0.0\lib\net45\YamlDotNet.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
