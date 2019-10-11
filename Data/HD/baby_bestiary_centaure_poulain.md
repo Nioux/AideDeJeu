@@ -6,6 +6,8 @@
 
 Voir [Centaure](hd_monsters_centaure.md)
 
+- Source: (MM p30)(BB1 p18)
+- Alias: Centaur Foal
 -  Créature monstrueuse de taille M, Neutre Bon
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

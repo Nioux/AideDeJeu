@@ -4,7 +4,7 @@
 
 # Mur de glace
 
-- SRD: [Wall of Ice](srd_spells_wall_of_ice.md)
+- Alias: [Wall of Ice](srd_spells_wall_of_ice.md)
 
 -  Évocation de niveau 6
 

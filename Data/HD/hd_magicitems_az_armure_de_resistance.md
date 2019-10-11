@@ -4,7 +4,7 @@
 
 ### Armure de résistance
 
-- AltName: Armor of Resistance (SRD p208)
+- Alias: Armor of Resistance (SRD p208)
 - Source: (CDC p144)
 -  Armure (légère, intermédiaire ou lourde), rare (harmonisation requise)
 

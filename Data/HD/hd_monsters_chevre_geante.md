@@ -5,7 +5,7 @@
 # Chèvre géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Goat](srd_monsters_giant_goat.md)
+- Alias: [Giant Goat](srd_monsters_giant_goat.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 11 (armure naturelle)

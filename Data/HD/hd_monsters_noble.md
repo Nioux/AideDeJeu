@@ -5,7 +5,7 @@
 # Noble
 
 - Source: (CEO p)(SRD p)
-- SRD: [Noble](srd_monsters_noble.md)
+- Alias: [Noble](srd_monsters_noble.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 15 (cuirasse)

@@ -4,7 +4,7 @@
 
 # Barrière de lames
 
-- SRD: [Blade Barrier](srd_spells_blade_barrier.md)
+- Alias: [Blade Barrier](srd_spells_blade_barrier.md)
 
 -  Évocation de niveau 6
 

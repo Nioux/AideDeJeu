@@ -5,7 +5,7 @@
 # Mamura
 
 - Source: (LDM p281)(TOB p284)
-- TOB: Mamura
+- Alias: Mamura
 -  Aberration (fée) de Petite taille (P), neutre mauvaise.
 - **Terrain** Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)

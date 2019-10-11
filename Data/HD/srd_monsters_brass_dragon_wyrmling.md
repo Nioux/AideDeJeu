@@ -4,7 +4,7 @@
 
 # Brass Dragon Wyrmling
 
-- CEO: [Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)
+- Alias: [Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)
 -  Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 16 (3d8 + 3)

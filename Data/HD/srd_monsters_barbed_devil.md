@@ -4,7 +4,7 @@
 
 # Barbed Devil
 
-- CEO: [Diable barbelé](hd_monsters_diable_barbele.md)
+- Alias: [Diable barbelé](hd_monsters_diable_barbele.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 110 (13d8 + 52)

@@ -5,7 +5,7 @@
 
 # Paladin
 
-- AltName: Paladin (SRD p30)
+- Alias: Paladin (SRD p30)
 - Source: (MDR p183)
 
 En tant que paladin, vous bénéficiez des aptitudes de classe suivantes.

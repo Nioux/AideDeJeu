@@ -4,7 +4,7 @@
 
 # Ettercap
 
-- CEO: [Ettercap](hd_monsters_ettercap.md)
+- Alias: [Ettercap](hd_monsters_ettercap.md)
 -  Medium monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 44 (8d8 + 8)

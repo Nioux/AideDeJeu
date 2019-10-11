@@ -4,7 +4,7 @@
 
 # Désintégration
 
-- SRD: [Disintegrate](srd_spells_disintegrate.md)
+- Alias: [Disintegrate](srd_spells_disintegrate.md)
 
 -  Transmutation de niveau 6
 

@@ -5,7 +5,7 @@
 # Eala
 
 - Source: (LDM p161)(TOB p163)
-- TOB: Eala
+- Alias: Eala
 -  Créature monstrueuse de Petite taille (P), non-alignée
 - **Classe d'armure** 15 (naturelle)
 - **Points de vie** 40 (9d6+9)

@@ -4,7 +4,7 @@
 
 # Arcane Lock
 
-- MDR: [Verrou magique](hd_spells_verrou_magique.md)
+- Alias: [Verrou magique](hd_spells_verrou_magique.md)
 - Source: (SRD p118)
 -  2nd-level abjuration
 - **Casting Time :** 1 action

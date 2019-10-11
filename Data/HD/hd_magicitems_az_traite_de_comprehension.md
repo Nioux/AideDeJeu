@@ -4,7 +4,7 @@
 
 ### Traité de compréhension
 
-- AltName: Tome of Understanding (SRD p247)
+- Alias: Tome of Understanding (SRD p247)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 

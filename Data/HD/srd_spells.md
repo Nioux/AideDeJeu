@@ -34,7 +34,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Aspersion acide](hd_spells_aspersion_acide.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aspersion acide](hd_spells_aspersion_acide.md)<!--/AltName-->
 
 
 
@@ -1521,7 +1521,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Aide](hd_spells_aide.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aide](hd_spells_aide.md)<!--/AltName-->
 
 
 
@@ -1617,7 +1617,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Alarme](hd_spells_alarme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Alarme](hd_spells_alarme.md)<!--/AltName-->
 
 
 
@@ -1714,7 +1714,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Modifier son apparence](hd_spells_modifier_son_apparence.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Modifier son apparence](hd_spells_modifier_son_apparence.md)<!--/AltName-->
 
 
 
@@ -1821,7 +1821,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)<!--/AltName-->
 
 
 
@@ -1917,7 +1917,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Messager animal](hd_spells_messager_animal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Messager animal](hd_spells_messager_animal.md)<!--/AltName-->
 
 
 
@@ -2020,7 +2020,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Formes animales](hd_spells_formes_animales.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Formes animales](hd_spells_formes_animales.md)<!--/AltName-->
 
 
 
@@ -2121,7 +2121,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Animation des morts](hd_spells_animation_des_morts.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animation des morts](hd_spells_animation_des_morts.md)<!--/AltName-->
 
 
 
@@ -2228,7 +2228,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Animation des objets](hd_spells_animation_des_objets.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animation des objets](hd_spells_animation_des_objets.md)<!--/AltName-->
 
 
 
@@ -2371,7 +2371,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Coquille antivie](hd_spells_coquille_antivie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Coquille antivie](hd_spells_coquille_antivie.md)<!--/AltName-->
 
 
 
@@ -2472,7 +2472,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Champ antimagie](hd_spells_champ_antimagie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Champ antimagie](hd_spells_champ_antimagie.md)<!--/AltName-->
 
 
 
@@ -2615,7 +2615,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Répulsion/attirance](hd_spells_repulsionattirance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Répulsion/attirance](hd_spells_repulsionattirance.md)<!--/AltName-->
 
 
 
@@ -2734,7 +2734,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Oeil magique](hd_spells_oeil_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Oeil magique](hd_spells_oeil_magique.md)<!--/AltName-->
 
 
 
@@ -2835,7 +2835,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Verrou magique](hd_spells_verrou_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Verrou magique](hd_spells_verrou_magique.md)<!--/AltName-->
 
 
 
@@ -2930,7 +2930,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Projection astrale](hd_spells_projection_astrale.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Projection astrale](hd_spells_projection_astrale.md)<!--/AltName-->
 
 
 
@@ -3050,7 +3050,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Augure](hd_spells_augure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Augure](hd_spells_augure.md)<!--/AltName-->
 
 
 
@@ -3177,7 +3177,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Éveil](hd_spells_eveil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Éveil](hd_spells_eveil.md)<!--/AltName-->
 
 
 
@@ -3272,7 +3272,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Fléau](hd_spells_fleau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fléau](hd_spells_fleau.md)<!--/AltName-->
 
 
 
@@ -3367,7 +3367,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bannissement](hd_spells_bannissement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bannissement](hd_spells_bannissement.md)<!--/AltName-->
 
 
 
@@ -3474,7 +3474,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Peau d'écorce](hd_spells_peau_decorce.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Peau d'écorce](hd_spells_peau_decorce.md)<!--/AltName-->
 
 
 
@@ -3563,7 +3563,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lueur d'espoir](hd_spells_lueur_despoir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lueur d'espoir](hd_spells_lueur_despoir.md)<!--/AltName-->
 
 
 
@@ -3652,7 +3652,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Jeter une malédiction](hd_spells_jeter_une_malediction.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeter une malédiction](hd_spells_jeter_une_malediction.md)<!--/AltName-->
 
 
 
@@ -3777,7 +3777,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Main magique](hd_spells_main_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Main magique](hd_spells_main_magique.md)<!--/AltName-->
 
 
 
@@ -3908,7 +3908,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Barrière de lames](hd_spells_barriere_de_lames.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Barrière de lames](hd_spells_barriere_de_lames.md)<!--/AltName-->
 
 
 
@@ -4003,7 +4003,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bénédiction](hd_spells_benediction.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bénédiction](hd_spells_benediction.md)<!--/AltName-->
 
 
 
@@ -4098,7 +4098,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Flétrissement](hd_spells_fletrissement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flétrissement](hd_spells_fletrissement.md)<!--/AltName-->
 
 
 
@@ -4199,7 +4199,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Cécité/Surdité](hd_spells_cecitesurdite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cécité/Surdité](hd_spells_cecitesurdite.md)<!--/AltName-->
 
 
 
@@ -4294,7 +4294,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Clignotement](hd_spells_clignotement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Clignotement](hd_spells_clignotement.md)<!--/AltName-->
 
 
 
@@ -4389,7 +4389,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Flou](hd_spells_flou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flou](hd_spells_flou.md)<!--/AltName-->
 
 
 
@@ -4478,7 +4478,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Frappe lumineuse](hd_spells_frappe_lumineuse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Frappe lumineuse](hd_spells_frappe_lumineuse.md)<!--/AltName-->
 
 
 
@@ -4573,7 +4573,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mains brûlantes](hd_spells_mains_brulantes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mains brûlantes](hd_spells_mains_brulantes.md)<!--/AltName-->
 
 
 
@@ -4674,7 +4674,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Appel de la foudre](hd_spells_appel_de_la_foudre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Appel de la foudre](hd_spells_appel_de_la_foudre.md)<!--/AltName-->
 
 
 
@@ -4781,7 +4781,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Apaisement des émotions](hd_spells_apaisement_des_emotions.md)<!--/AltName-->
 
 
 
@@ -4882,7 +4882,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Chaîne d'éclairs](hd_spells_chaine_declairs.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chaîne d'éclairs](hd_spells_chaine_declairs.md)<!--/AltName-->
 
 
 
@@ -4983,7 +4983,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Charme-personne](hd_spells_charme_personne.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Charme-personne](hd_spells_charme_personne.md)<!--/AltName-->
 
 
 
@@ -5078,7 +5078,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contact glacial](hd_spells_contact_glacial.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contact glacial](hd_spells_contact_glacial.md)<!--/AltName-->
 
 
 
@@ -5173,7 +5173,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Cercle de mort](hd_spells_cercle_de_mort.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cercle de mort](hd_spells_cercle_de_mort.md)<!--/AltName-->
 
 
 
@@ -5268,7 +5268,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Clairvoyance](hd_spells_clairvoyance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Clairvoyance](hd_spells_clairvoyance.md)<!--/AltName-->
 
 
 
@@ -5369,7 +5369,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Clone](hd_spells_clone.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Clone](hd_spells_clone.md)<!--/AltName-->
 
 
 
@@ -5470,7 +5470,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Nuage mortel](hd_spells_nuage_mortel.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuage mortel](hd_spells_nuage_mortel.md)<!--/AltName-->
 
 
 
@@ -5577,7 +5577,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Couleurs dansantes](hd_spells_couleurs_dansantes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Couleurs dansantes](hd_spells_couleurs_dansantes.md)<!--/AltName-->
 
 
 
@@ -5678,7 +5678,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Injonction](hd_spells_injonction.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Injonction](hd_spells_injonction.md)<!--/AltName-->
 
 
 
@@ -5810,7 +5810,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Communion](hd_spells_communion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Communion](hd_spells_communion.md)<!--/AltName-->
 
 
 
@@ -5914,7 +5914,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Communion avec la nature](hd_spells_communion_avec_la_nature.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Communion avec la nature](hd_spells_communion_avec_la_nature.md)<!--/AltName-->
 
 
 
@@ -6048,7 +6048,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Compréhension des langues](hd_spells_comprehension_des_langues.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Compréhension des langues](hd_spells_comprehension_des_langues.md)<!--/AltName-->
 
 
 
@@ -6145,7 +6145,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Compulsion](hd_spells_compulsion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Compulsion](hd_spells_compulsion.md)<!--/AltName-->
 
 
 
@@ -6240,7 +6240,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Cône de froid](hd_spells_cone_de_froid.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cône de froid](hd_spells_cone_de_froid.md)<!--/AltName-->
 
 
 
@@ -6341,7 +6341,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Confusion](hd_spells_confusion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Confusion](hd_spells_confusion.md)<!--/AltName-->
 
 
 
@@ -6474,7 +6474,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invoquer des animaux](hd_spells_invoquer_des_animaux.md)<!--/AltName-->
 
 
 
@@ -6599,7 +6599,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invoquer un céleste](hd_spells_invoquer_un_celeste.md)<!--/AltName-->
 
 
 
@@ -6706,7 +6706,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)<!--/AltName-->
 
 
 
@@ -6807,7 +6807,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invoquer une fée](hd_spells_invoquer_une_fee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invoquer une fée](hd_spells_invoquer_une_fee.md)<!--/AltName-->
 
 
 
@@ -6920,7 +6920,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)<!--/AltName-->
 
 
 
@@ -7057,7 +7057,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)<!--/AltName-->
 
 
 
@@ -7195,7 +7195,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)<!--/AltName-->
 
 
 
@@ -7291,7 +7291,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contagion](hd_spells_contagion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contagion](hd_spells_contagion.md)<!--/AltName-->
 
 
 
@@ -7432,7 +7432,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contingence](hd_spells_contingence.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contingence](hd_spells_contingence.md)<!--/AltName-->
 
 
 
@@ -7533,7 +7533,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Flamme éternelle](hd_spells_flamme_eternelle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flamme éternelle](hd_spells_flamme_eternelle.md)<!--/AltName-->
 
 
 
@@ -7622,7 +7622,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contrôle de l'eau](hd_spells_controle_de_leau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contrôle de l'eau](hd_spells_controle_de_leau.md)<!--/AltName-->
 
 
 
@@ -7747,7 +7747,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contrôle du climat](hd_spells_controle_du_climat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contrôle du climat](hd_spells_controle_du_climat.md)<!--/AltName-->
 
 
 
@@ -7954,7 +7954,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contresort](hd_spells_contresort.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contresort](hd_spells_contresort.md)<!--/AltName-->
 
 
 
@@ -8049,7 +8049,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)<!--/AltName-->
 
 
 
@@ -8138,7 +8138,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)<!--/AltName-->
 
 
 
@@ -8245,7 +8245,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)<!--/AltName-->
 
 
 
@@ -8352,7 +8352,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Création](hd_spells_creation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Création](hd_spells_creation.md)<!--/AltName-->
 
 
 
@@ -8489,7 +8489,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Soin des blessures](hd_spells_soin_des_blessures.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Soin des blessures](hd_spells_soin_des_blessures.md)<!--/AltName-->
 
 
 
@@ -8584,7 +8584,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lumières dansantes](hd_spells_lumieres_dansantes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lumières dansantes](hd_spells_lumieres_dansantes.md)<!--/AltName-->
 
 
 
@@ -8679,7 +8679,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Ténèbres](hd_spells_tenebres.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ténèbres](hd_spells_tenebres.md)<!--/AltName-->
 
 
 
@@ -8780,7 +8780,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Vision dans le noir](hd_spells_vision_dans_le_noir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vision dans le noir](hd_spells_vision_dans_le_noir.md)<!--/AltName-->
 
 
 
@@ -8869,7 +8869,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lumière du jour](hd_spells_lumiere_du_jour.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lumière du jour](hd_spells_lumiere_du_jour.md)<!--/AltName-->
 
 
 
@@ -8970,7 +8970,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Protection contre la mort](hd_spells_protection_contre_la_mort.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection contre la mort](hd_spells_protection_contre_la_mort.md)<!--/AltName-->
 
 
 
@@ -9071,7 +9071,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)<!--/AltName-->
 
 
 
@@ -9184,7 +9184,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Demi-plan](hd_spells_demi_plan.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Demi-plan](hd_spells_demi_plan.md)<!--/AltName-->
 
 
 
@@ -9279,7 +9279,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)<!--/AltName-->
 
 
 
@@ -9375,7 +9375,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Détection de la magie](hd_spells_detection_de_la_magie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Détection de la magie](hd_spells_detection_de_la_magie.md)<!--/AltName-->
 
 
 
@@ -9473,7 +9473,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)<!--/AltName-->
 
 
 
@@ -9570,7 +9570,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Détection des pensées](hd_spells_detection_des_pensees.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Détection des pensées](hd_spells_detection_des_pensees.md)<!--/AltName-->
 
 
 
@@ -9683,7 +9683,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)<!--/AltName-->
 
 
 
@@ -9784,7 +9784,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Déguisement](hd_spells_deguisement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Déguisement](hd_spells_deguisement.md)<!--/AltName-->
 
 
 
@@ -9885,7 +9885,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Désintégration](hd_spells_desintegration.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Désintégration](hd_spells_desintegration.md)<!--/AltName-->
 
 
 
@@ -9998,7 +9998,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)<!--/AltName-->
 
 
 
@@ -10105,7 +10105,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)<!--/AltName-->
 
 
 
@@ -10201,7 +10201,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Divination](hd_spells_divination.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Divination](hd_spells_divination.md)<!--/AltName-->
 
 
 
@@ -10304,7 +10304,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Faveur divine](hd_spells_faveur_divine.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Faveur divine](hd_spells_faveur_divine.md)<!--/AltName-->
 
 
 
@@ -10393,7 +10393,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Parole divine](hd_spells_parole_divine.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Parole divine](hd_spells_parole_divine.md)<!--/AltName-->
 
 
 
@@ -10512,7 +10512,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Dominer une bête](hd_spells_dominer_une_bete.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dominer une bête](hd_spells_dominer_une_bete.md)<!--/AltName-->
 
 
 
@@ -10619,7 +10619,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Dominer un monstre](hd_spells_dominer_un_monstre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dominer un monstre](hd_spells_dominer_un_monstre.md)<!--/AltName-->
 
 
 
@@ -10732,7 +10732,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)<!--/AltName-->
 
 
 
@@ -10852,7 +10852,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Convocations instantanées](hd_spells_convocations_instantanees.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Convocations instantanées](hd_spells_convocations_instantanees.md)<!--/AltName-->
 
 
 
@@ -10961,7 +10961,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rêve](hd_spells_reve.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rêve](hd_spells_reve.md)<!--/AltName-->
 
 
 
@@ -11068,7 +11068,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Druidisme](hd_spells_druidisme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Druidisme](hd_spells_druidisme.md)<!--/AltName-->
 
 
 
@@ -11181,7 +11181,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tremblement de terre](hd_spells_tremblement_de_terre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tremblement de terre](hd_spells_tremblement_de_terre.md)<!--/AltName-->
 
 
 
@@ -11306,7 +11306,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Explosion occulte](hd_spells_explosion_occulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Explosion occulte](hd_spells_explosion_occulte.md)<!--/AltName-->
 
 
 
@@ -11401,7 +11401,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)<!--/AltName-->
 
 
 
@@ -11532,7 +11532,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)<!--/AltName-->
 
 
 
@@ -11639,7 +11639,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Enchevêtrement](hd_spells_enchevetrement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Enchevêtrement](hd_spells_enchevetrement.md)<!--/AltName-->
 
 
 
@@ -11740,7 +11740,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Envoûtement](hd_spells_envoutement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Envoûtement](hd_spells_envoutement.md)<!--/AltName-->
 
 
 
@@ -11829,7 +11829,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Forme éthérée](hd_spells_forme_etheree.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Forme éthérée](hd_spells_forme_etheree.md)<!--/AltName-->
 
 
 
@@ -11948,7 +11948,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tentacules noirs](hd_spells_tentacules_noirs.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tentacules noirs](hd_spells_tentacules_noirs.md)<!--/AltName-->
 
 
 
@@ -12049,7 +12049,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Repli expéditif](hd_spells_repli_expeditif.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Repli expéditif](hd_spells_repli_expeditif.md)<!--/AltName-->
 
 
 
@@ -12138,7 +12138,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mauvais oeil](hd_spells_mauvais_oeil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mauvais oeil](hd_spells_mauvais_oeil.md)<!--/AltName-->
 
 
 
@@ -12245,7 +12245,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Fabrication](hd_spells_fabrication.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fabrication](hd_spells_fabrication.md)<!--/AltName-->
 
 
 
@@ -12346,7 +12346,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lueurs féeriques](hd_spells_lueurs_feeriques.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lueurs féeriques](hd_spells_lueurs_feeriques.md)<!--/AltName-->
 
 
 
@@ -12441,7 +12441,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Simulacre de vie](hd_spells_simulacre_de_vie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Simulacre de vie](hd_spells_simulacre_de_vie.md)<!--/AltName-->
 
 
 
@@ -12536,7 +12536,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Peur](hd_spells_peur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Peur](hd_spells_peur.md)<!--/AltName-->
 
 
 
@@ -12625,7 +12625,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Léger comme une plume](hd_spells_leger_comme_une_plume.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Léger comme une plume](hd_spells_leger_comme_une_plume.md)<!--/AltName-->
 
 
 
@@ -12714,7 +12714,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Esprit faible](hd_spells_esprit_faible.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Esprit faible](hd_spells_esprit_faible.md)<!--/AltName-->
 
 
 
@@ -12822,7 +12822,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Appel de familier](hd_spells_appel_de_familier.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Appel de familier](hd_spells_appel_de_familier.md)<!--/AltName-->
 
 
 
@@ -12949,7 +12949,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Trouver une monture](hd_spells_trouver_une_monture.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Trouver une monture](hd_spells_trouver_une_monture.md)<!--/AltName-->
 
 
 
@@ -13062,7 +13062,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Trouver un chemin](hd_spells_trouver_un_chemin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Trouver un chemin](hd_spells_trouver_un_chemin.md)<!--/AltName-->
 
 
 
@@ -13157,7 +13157,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Trouver les pièges](hd_spells_trouver_les_pieges.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Trouver les pièges](hd_spells_trouver_les_pieges.md)<!--/AltName-->
 
 
 
@@ -13252,7 +13252,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Doigt de mort](hd_spells_doigt_de_mort.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Doigt de mort](hd_spells_doigt_de_mort.md)<!--/AltName-->
 
 
 
@@ -13347,7 +13347,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Trait de feu](hd_spells_trait_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Trait de feu](hd_spells_trait_de_feu.md)<!--/AltName-->
 
 
 
@@ -13442,7 +13442,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bouclier de feu](hd_spells_bouclier_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bouclier de feu](hd_spells_bouclier_de_feu.md)<!--/AltName-->
 
 
 
@@ -13543,7 +13543,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tempête de feu](hd_spells_tempete_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tempête de feu](hd_spells_tempete_de_feu.md)<!--/AltName-->
 
 
 
@@ -13638,7 +13638,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Boule de feu](hd_spells_boule_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Boule de feu](hd_spells_boule_de_feu.md)<!--/AltName-->
 
 
 
@@ -13739,7 +13739,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lame de feu](hd_spells_lame_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lame de feu](hd_spells_lame_de_feu.md)<!--/AltName-->
 
 
 
@@ -13846,7 +13846,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Colonne de flamme](hd_spells_colonne_de_flamme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Colonne de flamme](hd_spells_colonne_de_flamme.md)<!--/AltName-->
 
 
 
@@ -13941,7 +13941,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sphère de feu](hd_spells_sphere_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sphère de feu](hd_spells_sphere_de_feu.md)<!--/AltName-->
 
 
 
@@ -14048,7 +14048,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Pétrification](hd_spells_petrification.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pétrification](hd_spells_petrification.md)<!--/AltName-->
 
 
 
@@ -14155,7 +14155,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Vol](hd_spells_vol.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vol](hd_spells_vol.md)<!--/AltName-->
 
 
 
@@ -14250,7 +14250,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nappe de brouillard](hd_spells_nappe_de_brouillard.md)<!--/AltName-->
 
 
 
@@ -14346,7 +14346,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Interdiction](hd_spells_interdiction.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Interdiction](hd_spells_interdiction.md)<!--/AltName-->
 
 
 
@@ -14455,7 +14455,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Cage de force](hd_spells_cage_de_force.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cage de force](hd_spells_cage_de_force.md)<!--/AltName-->
 
 
 
@@ -14574,7 +14574,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Prémonition](hd_spells_premonition.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prémonition](hd_spells_premonition.md)<!--/AltName-->
 
 
 
@@ -14669,7 +14669,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Liberté de mouvement](hd_spells_liberte_de_mouvement.md)<!--/AltName-->
 
 
 
@@ -14764,7 +14764,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Forme gazeuse](hd_spells_forme_gazeuse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Forme gazeuse](hd_spells_forme_gazeuse.md)<!--/AltName-->
 
 
 
@@ -14865,7 +14865,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Portail](hd_spells_portail.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Portail](hd_spells_portail.md)<!--/AltName-->
 
 
 
@@ -14972,7 +14972,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Coercition mystique](hd_spells_coercition_mystique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Coercition mystique](hd_spells_coercition_mystique.md)<!--/AltName-->
 
 
 
@@ -15080,7 +15080,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Doux repos](hd_spells_doux_repos.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Doux repos](hd_spells_doux_repos.md)<!--/AltName-->
 
 
 
@@ -15177,7 +15177,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Insecte géant](hd_spells_insecte_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Insecte géant](hd_spells_insecte_geant.md)<!--/AltName-->
 
 
 
@@ -15284,7 +15284,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bagou](hd_spells_bagou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bagou](hd_spells_bagou.md)<!--/AltName-->
 
 
 
@@ -15373,7 +15373,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)<!--/AltName-->
 
 
 
@@ -15474,7 +15474,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Glyphe de protection](hd_spells_glyphe_de_protection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Glyphe de protection](hd_spells_glyphe_de_protection.md)<!--/AltName-->
 
 
 
@@ -15605,7 +15605,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Baies nourricières](hd_spells_baies_nourricieres.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Baies nourricières](hd_spells_baies_nourricieres.md)<!--/AltName-->
 
 
 
@@ -15700,7 +15700,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Graisse](hd_spells_graisse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Graisse](hd_spells_graisse.md)<!--/AltName-->
 
 
 
@@ -15795,7 +15795,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invisibilité supérieure](hd_spells_invisibilite_superieure.md)<!--/AltName-->
 
 
 
@@ -15884,7 +15884,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Restauration supérieure](hd_spells_restauration_superieure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Restauration supérieure](hd_spells_restauration_superieure.md)<!--/AltName-->
 
 
 
@@ -15997,7 +15997,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Gardien de la foi](hd_spells_gardien_de_la_foi.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gardien de la foi](hd_spells_gardien_de_la_foi.md)<!--/AltName-->
 
 
 
@@ -16092,7 +16092,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Protections et sceaux](hd_spells_protections_et_sceaux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protections et sceaux](hd_spells_protections_et_sceaux.md)<!--/AltName-->
 
 
 
@@ -16259,7 +16259,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Assistance](hd_spells_assistance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Assistance](hd_spells_assistance.md)<!--/AltName-->
 
 
 
@@ -16348,7 +16348,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Balisage](hd_spells_balisage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Balisage](hd_spells_balisage.md)<!--/AltName-->
 
 
 
@@ -16443,7 +16443,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bourrasque](hd_spells_bourrasque.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bourrasque](hd_spells_bourrasque.md)<!--/AltName-->
 
 
 
@@ -16550,7 +16550,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sanctification](hd_spells_sanctification.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanctification](hd_spells_sanctification.md)<!--/AltName-->
 
 
 
@@ -16711,7 +16711,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)<!--/AltName-->
 
 
 
@@ -16806,7 +16806,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Contamination](hd_spells_contamination.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contamination](hd_spells_contamination.md)<!--/AltName-->
 
 
 
@@ -16895,7 +16895,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Hâte](hd_spells_hate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hâte](hd_spells_hate.md)<!--/AltName-->
 
 
 
@@ -16990,7 +16990,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Guérison](hd_spells_guerison.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guérison](hd_spells_guerison.md)<!--/AltName-->
 
 
 
@@ -17085,7 +17085,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mot de guérison](hd_spells_mot_de_guerison.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mot de guérison](hd_spells_mot_de_guerison.md)<!--/AltName-->
 
 
 
@@ -17180,7 +17180,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Chauffer le métal](hd_spells_chauffer_le_metal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chauffer le métal](hd_spells_chauffer_le_metal.md)<!--/AltName-->
 
 
 
@@ -17281,7 +17281,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Représailles infernales](hd_spells_represailles_infernales.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Représailles infernales](hd_spells_represailles_infernales.md)<!--/AltName-->
 
 
 
@@ -17376,7 +17376,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Festin des héros](hd_spells_festin_des_heros.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Festin des héros](hd_spells_festin_des_heros.md)<!--/AltName-->
 
 
 
@@ -17471,7 +17471,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Héroïsme](hd_spells_heroisme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Héroïsme](hd_spells_heroisme.md)<!--/AltName-->
 
 
 
@@ -17566,7 +17566,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)<!--/AltName-->
 
 
 
@@ -17661,7 +17661,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)<!--/AltName-->
 
 
 
@@ -17756,7 +17756,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Aura sacrée](hd_spells_aura_sacree.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aura sacrée](hd_spells_aura_sacree.md)<!--/AltName-->
 
 
 
@@ -17845,7 +17845,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Marque du chasseur](hd_spells_marque_du_chasseur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Marque du chasseur](hd_spells_marque_du_chasseur.md)<!--/AltName-->
 
 
 
@@ -17940,7 +17940,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Motif hypnotique](hd_spells_motif_hypnotique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Motif hypnotique](hd_spells_motif_hypnotique.md)<!--/AltName-->
 
 
 
@@ -18029,7 +18029,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tempête de grêle](hd_spells_tempete_de_grele.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tempête de grêle](hd_spells_tempete_de_grele.md)<!--/AltName-->
 
 
 
@@ -18131,7 +18131,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Identification](hd_spells_identification.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Identification](hd_spells_identification.md)<!--/AltName-->
 
 
 
@@ -18229,7 +18229,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Texte illusoire](hd_spells_texte_illusoire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Texte illusoire](hd_spells_texte_illusoire.md)<!--/AltName-->
 
 
 
@@ -18338,7 +18338,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Emprisonnement](hd_spells_emprisonnement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Emprisonnement](hd_spells_emprisonnement.md)<!--/AltName-->
 
 
 
@@ -18511,7 +18511,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Nuage incendiaire](hd_spells_nuage_incendiaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuage incendiaire](hd_spells_nuage_incendiaire.md)<!--/AltName-->
 
 
 
@@ -18612,7 +18612,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Blessure](hd_spells_blessure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blessure](hd_spells_blessure.md)<!--/AltName-->
 
 
 
@@ -18707,7 +18707,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Fléau d'insectes](hd_spells_fleau_dinsectes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fléau d'insectes](hd_spells_fleau_dinsectes.md)<!--/AltName-->
 
 
 
@@ -18808,7 +18808,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Invisibilité](hd_spells_invisibilite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invisibilité](hd_spells_invisibilite.md)<!--/AltName-->
 
 
 
@@ -18903,7 +18903,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Saut](hd_spells_saut.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Saut](hd_spells_saut.md)<!--/AltName-->
 
 
 
@@ -18992,7 +18992,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Déblocage](hd_spells_deblocage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Déblocage](hd_spells_deblocage.md)<!--/AltName-->
 
 
 
@@ -19099,7 +19099,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Légende](hd_spells_legende.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Légende](hd_spells_legende.md)<!--/AltName-->
 
 
 
@@ -19194,7 +19194,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Coffre secret](hd_spells_coffre_secret.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Coffre secret](hd_spells_coffre_secret.md)<!--/AltName-->
 
 
 
@@ -19296,7 +19296,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Petite hutte](hd_spells_petite_hutte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Petite hutte](hd_spells_petite_hutte.md)<!--/AltName-->
 
 
 
@@ -19399,7 +19399,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Restauration inférieure](hd_spells_restauration_inferieure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Restauration inférieure](hd_spells_restauration_inferieure.md)<!--/AltName-->
 
 
 
@@ -19488,7 +19488,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lévitation](hd_spells_levitation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lévitation](hd_spells_levitation.md)<!--/AltName-->
 
 
 
@@ -19589,7 +19589,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lumière](hd_spells_lumiere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lumière](hd_spells_lumiere.md)<!--/AltName-->
 
 
 
@@ -19684,7 +19684,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Éclair](hd_spells_eclair.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Éclair](hd_spells_eclair.md)<!--/AltName-->
 
 
 
@@ -19786,7 +19786,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)<!--/AltName-->
 
 
 
@@ -19877,7 +19877,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Localiser une créature](hd_spells_localiser_une_creature.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Localiser une créature](hd_spells_localiser_une_creature.md)<!--/AltName-->
 
 
 
@@ -19978,7 +19978,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Localiser un objet](hd_spells_localiser_un_objet.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Localiser un objet](hd_spells_localiser_un_objet.md)<!--/AltName-->
 
 
 
@@ -20079,7 +20079,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Grande foulée](hd_spells_grande_foulee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grande foulée](hd_spells_grande_foulee.md)<!--/AltName-->
 
 
 
@@ -20174,7 +20174,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Armure du mage](hd_spells_armure_du_mage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Armure du mage](hd_spells_armure_du_mage.md)<!--/AltName-->
 
 
 
@@ -20263,7 +20263,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Main du mage](hd_spells_main_du_mage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Main du mage](hd_spells_main_du_mage.md)<!--/AltName-->
 
 
 
@@ -20364,7 +20364,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Cercle magique](hd_spells_cercle_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cercle magique](hd_spells_cercle_magique.md)<!--/AltName-->
 
 
 
@@ -20489,7 +20489,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Possession](hd_spells_possession.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Possession](hd_spells_possession.md)<!--/AltName-->
 
 
 
@@ -20614,7 +20614,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Projectile magique](hd_spells_projectile_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Projectile magique](hd_spells_projectile_magique.md)<!--/AltName-->
 
 
 
@@ -20710,7 +20710,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bouche magique](hd_spells_bouche_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bouche magique](hd_spells_bouche_magique.md)<!--/AltName-->
 
 
 
@@ -20813,7 +20813,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Arme magique](hd_spells_arme_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arme magique](hd_spells_arme_magique.md)<!--/AltName-->
 
 
 
@@ -20908,7 +20908,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Image majeure](hd_spells_image_majeure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Image majeure](hd_spells_image_majeure.md)<!--/AltName-->
 
 
 
@@ -21015,7 +21015,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)<!--/AltName-->
 
 
 
@@ -21110,7 +21110,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Guérison de groupe](hd_spells_guerison_de_groupe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guérison de groupe](hd_spells_guerison_de_groupe.md)<!--/AltName-->
 
 
 
@@ -21199,7 +21199,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)<!--/AltName-->
 
 
 
@@ -21294,7 +21294,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Suggestion de groupe](hd_spells_suggestion_de_groupe.md)<!--/AltName-->
 
 
 
@@ -21407,7 +21407,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Labyrinthe](hd_spells_labyrinthe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Labyrinthe](hd_spells_labyrinthe.md)<!--/AltName-->
 
 
 
@@ -21509,7 +21509,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)<!--/AltName-->
 
 
 
@@ -21612,7 +21612,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Flèche acide](hd_spells_fleche_acide.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flèche acide](hd_spells_fleche_acide.md)<!--/AltName-->
 
 
 
@@ -21707,7 +21707,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Réparation](hd_spells_reparation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Réparation](hd_spells_reparation.md)<!--/AltName-->
 
 
 
@@ -21796,7 +21796,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Message](hd_spells_message.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Message](hd_spells_message.md)<!--/AltName-->
 
 
 
@@ -21891,7 +21891,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Nuée de météores](hd_spells_nuee_de_meteores.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée de météores](hd_spells_nuee_de_meteores.md)<!--/AltName-->
 
 
 
@@ -21986,7 +21986,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Esprit impénétrable](hd_spells_esprit_impenetrable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Esprit impénétrable](hd_spells_esprit_impenetrable.md)<!--/AltName-->
 
 
 
@@ -22075,7 +22075,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Illusion mineure](hd_spells_illusion_mineure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Illusion mineure](hd_spells_illusion_mineure.md)<!--/AltName-->
 
 
 
@@ -22182,7 +22182,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mirage](hd_spells_mirage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mirage](hd_spells_mirage.md)<!--/AltName-->
 
 
 
@@ -22289,7 +22289,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Image miroir](hd_spells_image_miroir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Image miroir](hd_spells_image_miroir.md)<!--/AltName-->
 
 
 
@@ -22402,7 +22402,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tromperie](hd_spells_tromperie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tromperie](hd_spells_tromperie.md)<!--/AltName-->
 
 
 
@@ -22503,7 +22503,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Pas brumeux](hd_spells_pas_brumeux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pas brumeux](hd_spells_pas_brumeux.md)<!--/AltName-->
 
 
 
@@ -22592,7 +22592,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Modification de mémoire](hd_spells_modification_de_memoire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Modification de mémoire](hd_spells_modification_de_memoire.md)<!--/AltName-->
 
 
 
@@ -22711,7 +22711,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rayon de lune](hd_spells_rayon_de_lune.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rayon de lune](hd_spells_rayon_de_lune.md)<!--/AltName-->
 
 
 
@@ -22824,7 +22824,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Chien de garde](hd_spells_chien_de_garde.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chien de garde](hd_spells_chien_de_garde.md)<!--/AltName-->
 
 
 
@@ -22925,7 +22925,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Manoir somptueux](hd_spells_manoir_somptueux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Manoir somptueux](hd_spells_manoir_somptueux.md)<!--/AltName-->
 
 
 
@@ -23026,7 +23026,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sanctuaire privé](hd_spells_sanctuaire_prive.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanctuaire privé](hd_spells_sanctuaire_prive.md)<!--/AltName-->
 
 
 
@@ -23169,7 +23169,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Épée magique](hd_spells_epee_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Épée magique](hd_spells_epee_magique.md)<!--/AltName-->
 
 
 
@@ -23264,7 +23264,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Déplacer la terre](hd_spells_deplacer_la_terre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Déplacer la terre](hd_spells_deplacer_la_terre.md)<!--/AltName-->
 
 
 
@@ -23377,7 +23377,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Non-détection](hd_spells_non_detection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Non-détection](hd_spells_non_detection.md)<!--/AltName-->
 
 
 
@@ -23466,7 +23466,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)<!--/AltName-->
 
 
 
@@ -23573,7 +23573,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sphère glacée](hd_spells_sphere_glacee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sphère glacée](hd_spells_sphere_glacee.md)<!--/AltName-->
 
 
 
@@ -23680,7 +23680,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sphère résiliente](hd_spells_sphere_resiliente.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sphère résiliente](hd_spells_sphere_resiliente.md)<!--/AltName-->
 
 
 
@@ -23787,7 +23787,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Danse irrésistible](hd_spells_danse_irresistible.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Danse irrésistible](hd_spells_danse_irresistible.md)<!--/AltName-->
 
 
 
@@ -23882,7 +23882,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Passage sans trace](hd_spells_passage_sans_trace.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Passage sans trace](hd_spells_passage_sans_trace.md)<!--/AltName-->
 
 
 
@@ -23971,7 +23971,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Passe-muraille](hd_spells_passe_muraille.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Passe-muraille](hd_spells_passe_muraille.md)<!--/AltName-->
 
 
 
@@ -24066,7 +24066,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Assassin imaginaire](hd_spells_assassin_imaginaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Assassin imaginaire](hd_spells_assassin_imaginaire.md)<!--/AltName-->
 
 
 
@@ -24162,7 +24162,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Monture fantôme](hd_spells_monture_fantome.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Monture fantôme](hd_spells_monture_fantome.md)<!--/AltName-->
 
 
 
@@ -24259,7 +24259,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Allié planaire](hd_spells_allie_planaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Allié planaire](hd_spells_allie_planaire.md)<!--/AltName-->
 
 
 
@@ -24384,7 +24384,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Entrave planaire](hd_spells_entrave_planaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Entrave planaire](hd_spells_entrave_planaire.md)<!--/AltName-->
 
 
 
@@ -24485,7 +24485,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Changement de plan](hd_spells_changement_de_plan.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Changement de plan](hd_spells_changement_de_plan.md)<!--/AltName-->
 
 
 
@@ -24586,7 +24586,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Croissance végétale](hd_spells_croissance_vegetale.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Croissance végétale](hd_spells_croissance_vegetale.md)<!--/AltName-->
 
 
 
@@ -24693,7 +24693,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bouffée de poison](hd_spells_bouffee_de_poison.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bouffée de poison](hd_spells_bouffee_de_poison.md)<!--/AltName-->
 
 
 
@@ -24788,7 +24788,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Métamorphose](hd_spells_metamorphose.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Métamorphose](hd_spells_metamorphose.md)<!--/AltName-->
 
 
 
@@ -24901,7 +24901,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)<!--/AltName-->
 
 
 
@@ -24990,7 +24990,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)<!--/AltName-->
 
 
 
@@ -25085,7 +25085,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Prière de soins](hd_spells_priere_de_soins.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prière de soins](hd_spells_priere_de_soins.md)<!--/AltName-->
 
 
 
@@ -25180,7 +25180,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Prestidigitation](hd_spells_prestidigitation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prestidigitation](hd_spells_prestidigitation.md)<!--/AltName-->
 
 
 
@@ -25311,7 +25311,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Embruns prismatiques](hd_spells_embruns_prismatiques.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Embruns prismatiques](hd_spells_embruns_prismatiques.md)<!--/AltName-->
 
 
 
@@ -25448,7 +25448,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur prismatique](hd_spells_mur_prismatique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur prismatique](hd_spells_mur_prismatique.md)<!--/AltName-->
 
 
 
@@ -25603,7 +25603,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Produire une flamme](hd_spells_produire_une_flamme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Produire une flamme](hd_spells_produire_une_flamme.md)<!--/AltName-->
 
 
 
@@ -25704,7 +25704,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Illusion programmée](hd_spells_illusion_programmee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Illusion programmée](hd_spells_illusion_programmee.md)<!--/AltName-->
 
 
 
@@ -25811,7 +25811,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Image projetée](hd_spells_image_projetee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Image projetée](hd_spells_image_projetee.md)<!--/AltName-->
 
 
 
@@ -25918,7 +25918,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection contre les énergies](hd_spells_protection_contre_les_energies.md)<!--/AltName-->
 
 
 
@@ -26007,7 +26007,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)<!--/AltName-->
 
 
 
@@ -26102,7 +26102,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Protection contre le poison](hd_spells_protection_contre_le_poison.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection contre le poison](hd_spells_protection_contre_le_poison.md)<!--/AltName-->
 
 
 
@@ -26198,7 +26198,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)<!--/AltName-->
 
 
 
@@ -26289,7 +26289,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rappel à la vie](hd_spells_rappel_a_la_vie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rappel à la vie](hd_spells_rappel_a_la_vie.md)<!--/AltName-->
 
 
 
@@ -26397,7 +26397,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lien télépathique](hd_spells_lien_telepathique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lien télépathique](hd_spells_lien_telepathique.md)<!--/AltName-->
 
 
 
@@ -26494,7 +26494,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)<!--/AltName-->
 
 
 
@@ -26589,7 +26589,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rayon de givre](hd_spells_rayon_de_givre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rayon de givre](hd_spells_rayon_de_givre.md)<!--/AltName-->
 
 
 
@@ -26684,7 +26684,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Régénération](hd_spells_regeneration.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Régénération](hd_spells_regeneration.md)<!--/AltName-->
 
 
 
@@ -26779,7 +26779,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Réincarnation](hd_spells_reincarnation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Réincarnation](hd_spells_reincarnation.md)<!--/AltName-->
 
 
 
@@ -26952,7 +26952,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lever une malédiction](hd_spells_lever_une_malediction.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lever une malédiction](hd_spells_lever_une_malediction.md)<!--/AltName-->
 
 
 
@@ -27041,7 +27041,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Résistance](hd_spells_resistance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Résistance](hd_spells_resistance.md)<!--/AltName-->
 
 
 
@@ -27130,7 +27130,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Résurrection](hd_spells_resurrection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Résurrection](hd_spells_resurrection.md)<!--/AltName-->
 
 
 
@@ -27243,7 +27243,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)<!--/AltName-->
 
 
 
@@ -27344,7 +27344,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Revigorer](hd_spells_revigorer.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Revigorer](hd_spells_revigorer.md)<!--/AltName-->
 
 
 
@@ -27433,7 +27433,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Corde enchantée](hd_spells_corde_enchantee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Corde enchantée](hd_spells_corde_enchantee.md)<!--/AltName-->
 
 
 
@@ -27540,7 +27540,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Flamme sacrée](hd_spells_flamme_sacree.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flamme sacrée](hd_spells_flamme_sacree.md)<!--/AltName-->
 
 
 
@@ -27635,7 +27635,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sanctuaire](hd_spells_sanctuaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanctuaire](hd_spells_sanctuaire.md)<!--/AltName-->
 
 
 
@@ -27730,7 +27730,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rayon ardent](hd_spells_rayon_ardent.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rayon ardent](hd_spells_rayon_ardent.md)<!--/AltName-->
 
 
 
@@ -27831,7 +27831,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Scrutation](hd_spells_scrutation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scrutation](hd_spells_scrutation.md)<!--/AltName-->
 
 
 
@@ -27970,7 +27970,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Voir l'invisible](hd_spells_voir_linvisible.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Voir l'invisible](hd_spells_voir_linvisible.md)<!--/AltName-->
 
 
 
@@ -28059,7 +28059,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Apparence trompeuse](hd_spells_apparence_trompeuse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Apparence trompeuse](hd_spells_apparence_trompeuse.md)<!--/AltName-->
 
 
 
@@ -28166,7 +28166,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Envoi de message](hd_spells_envoi_de_message.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Envoi de message](hd_spells_envoi_de_message.md)<!--/AltName-->
 
 
 
@@ -28261,7 +28261,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Séquestration](hd_spells_sequestration.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Séquestration](hd_spells_sequestration.md)<!--/AltName-->
 
 
 
@@ -28362,7 +28362,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Changement de forme](hd_spells_changement_de_forme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Changement de forme](hd_spells_changement_de_forme.md)<!--/AltName-->
 
 
 
@@ -28481,7 +28481,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Briser](hd_spells_briser.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Briser](hd_spells_briser.md)<!--/AltName-->
 
 
 
@@ -28582,7 +28582,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bouclier](hd_spells_bouclier.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bouclier](hd_spells_bouclier.md)<!--/AltName-->
 
 
 
@@ -28671,7 +28671,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)<!--/AltName-->
 
 
 
@@ -28760,7 +28760,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Gourdin magique](hd_spells_gourdin_magique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gourdin magique](hd_spells_gourdin_magique.md)<!--/AltName-->
 
 
 
@@ -28849,7 +28849,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Poigne électrique](hd_spells_poigne_electrique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Poigne électrique](hd_spells_poigne_electrique.md)<!--/AltName-->
 
 
 
@@ -28945,7 +28945,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Silence](hd_spells_silence.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Silence](hd_spells_silence.md)<!--/AltName-->
 
 
 
@@ -29042,7 +29042,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Image silencieuse](hd_spells_image_silencieuse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Image silencieuse](hd_spells_image_silencieuse.md)<!--/AltName-->
 
 
 
@@ -29143,7 +29143,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Simulacre](hd_spells_simulacre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Simulacre](hd_spells_simulacre.md)<!--/AltName-->
 
 
 
@@ -29250,7 +29250,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Sommeil](hd_spells_sommeil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sommeil](hd_spells_sommeil.md)<!--/AltName-->
 
 
 
@@ -29357,7 +29357,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tempête de neige](hd_spells_tempete_de_neige.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tempête de neige](hd_spells_tempete_de_neige.md)<!--/AltName-->
 
 
 
@@ -29458,7 +29458,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lenteur](hd_spells_lenteur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lenteur](hd_spells_lenteur.md)<!--/AltName-->
 
 
 
@@ -29565,7 +29565,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Épargner les mourants](hd_spells_epargner_les_mourants.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Épargner les mourants](hd_spells_epargner_les_mourants.md)<!--/AltName-->
 
 
 
@@ -29655,7 +29655,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)<!--/AltName-->
 
 
 
@@ -29746,7 +29746,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Communication avec les morts](hd_spells_communication_avec_les_morts.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Communication avec les morts](hd_spells_communication_avec_les_morts.md)<!--/AltName-->
 
 
 
@@ -29841,7 +29841,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)<!--/AltName-->
 
 
 
@@ -29954,7 +29954,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Pattes d'araignée](hd_spells_pattes_daraignee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pattes d'araignée](hd_spells_pattes_daraignee.md)<!--/AltName-->
 
 
 
@@ -30043,7 +30043,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Croissance d'épines](hd_spells_croissance_depines.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Croissance d'épines](hd_spells_croissance_depines.md)<!--/AltName-->
 
 
 
@@ -30138,7 +30138,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Esprits gardiens](hd_spells_esprits_gardiens.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Esprits gardiens](hd_spells_esprits_gardiens.md)<!--/AltName-->
 
 
 
@@ -30239,7 +30239,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Arme spirituelle](hd_spells_arme_spirituelle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arme spirituelle](hd_spells_arme_spirituelle.md)<!--/AltName-->
 
 
 
@@ -30346,7 +30346,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Nuage puant](hd_spells_nuage_puant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuage puant](hd_spells_nuage_puant.md)<!--/AltName-->
 
 
 
@@ -30447,7 +30447,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)<!--/AltName-->
 
 
 
@@ -30536,7 +30536,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Peau de pierre](hd_spells_peau_de_pierre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Peau de pierre](hd_spells_peau_de_pierre.md)<!--/AltName-->
 
 
 
@@ -30625,7 +30625,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Tempête vengeresse](hd_spells_tempete_vengeresse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tempête vengeresse](hd_spells_tempete_vengeresse.md)<!--/AltName-->
 
 
 
@@ -30744,7 +30744,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Suggestion](hd_spells_suggestion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Suggestion](hd_spells_suggestion.md)<!--/AltName-->
 
 
 
@@ -30851,7 +30851,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Rayon de soleil](hd_spells_rayon_de_soleil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rayon de soleil](hd_spells_rayon_de_soleil.md)<!--/AltName-->
 
 
 
@@ -30952,7 +30952,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Éclat du soleil](hd_spells_eclat_du_soleil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Éclat du soleil](hd_spells_eclat_du_soleil.md)<!--/AltName-->
 
 
 
@@ -31053,7 +31053,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Symbole](hd_spells_symbole.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Symbole](hd_spells_symbole.md)<!--/AltName-->
 
 
 
@@ -31214,7 +31214,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Fou rire](hd_spells_fou_rire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fou rire](hd_spells_fou_rire.md)<!--/AltName-->
 
 
 
@@ -31309,7 +31309,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Télékinésie](hd_spells_telekinesie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Télékinésie](hd_spells_telekinesie.md)<!--/AltName-->
 
 
 
@@ -31416,7 +31416,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Téléportation](hd_spells_teleportation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Téléportation](hd_spells_teleportation.md)<!--/AltName-->
 
 
 
@@ -31615,7 +31615,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cercle de téléportation](hd_spells_cercle_de_teleportation.md)<!--/AltName-->
 
 
 
@@ -31717,7 +31717,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Disque flottant](hd_spells_disque_flottant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Disque flottant](hd_spells_disque_flottant.md)<!--/AltName-->
 
 
 
@@ -31820,7 +31820,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Thaumaturgie](hd_spells_thaumaturgie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Thaumaturgie](hd_spells_thaumaturgie.md)<!--/AltName-->
 
 
 
@@ -31951,7 +31951,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Vague tonnante](hd_spells_vague_tonnante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vague tonnante](hd_spells_vague_tonnante.md)<!--/AltName-->
 
 
 
@@ -32052,7 +32052,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Arrêt du temps](hd_spells_arret_du_temps.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arrêt du temps](hd_spells_arret_du_temps.md)<!--/AltName-->
 
 
 
@@ -32147,7 +32147,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Langues](hd_spells_langues.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Langues](hd_spells_langues.md)<!--/AltName-->
 
 
 
@@ -32236,7 +32236,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Transport végétal](hd_spells_transport_vegetal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Transport végétal](hd_spells_transport_vegetal.md)<!--/AltName-->
 
 
 
@@ -32325,7 +32325,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Passage par les arbres](hd_spells_passage_par_les_arbres.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Passage par les arbres](hd_spells_passage_par_les_arbres.md)<!--/AltName-->
 
 
 
@@ -32420,7 +32420,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Métamorphose suprême](hd_spells_metamorphose_supreme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Métamorphose suprême](hd_spells_metamorphose_supreme.md)<!--/AltName-->
 
 
 
@@ -32557,7 +32557,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Résurrection suprême](hd_spells_resurrection_supreme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Résurrection suprême](hd_spells_resurrection_supreme.md)<!--/AltName-->
 
 
 
@@ -32658,7 +32658,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Vision suprême](hd_spells_vision_supreme.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vision suprême](hd_spells_vision_supreme.md)<!--/AltName-->
 
 
 
@@ -32747,7 +32747,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Viser juste](hd_spells_viser_juste.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Viser juste](hd_spells_viser_juste.md)<!--/AltName-->
 
 
 
@@ -32837,7 +32837,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Serviteur invisible](hd_spells_serviteur_invisible.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Serviteur invisible](hd_spells_serviteur_invisible.md)<!--/AltName-->
 
 
 
@@ -32940,7 +32940,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Caresse du vampire](hd_spells_caresse_du_vampire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Caresse du vampire](hd_spells_caresse_du_vampire.md)<!--/AltName-->
 
 
 
@@ -33035,7 +33035,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Moquerie cruelle](hd_spells_moquerie_cruelle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Moquerie cruelle](hd_spells_moquerie_cruelle.md)<!--/AltName-->
 
 
 
@@ -33130,7 +33130,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur de feu](hd_spells_mur_de_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur de feu](hd_spells_mur_de_feu.md)<!--/AltName-->
 
 
 
@@ -33243,7 +33243,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur de force](hd_spells_mur_de_force.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur de force](hd_spells_mur_de_force.md)<!--/AltName-->
 
 
 
@@ -33338,7 +33338,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur de glace](hd_spells_mur_de_glace.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur de glace](hd_spells_mur_de_glace.md)<!--/AltName-->
 
 
 
@@ -33445,7 +33445,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur de pierre](hd_spells_mur_de_pierre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur de pierre](hd_spells_mur_de_pierre.md)<!--/AltName-->
 
 
 
@@ -33564,7 +33564,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur d'épines](hd_spells_mur_depines.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur d'épines](hd_spells_mur_depines.md)<!--/AltName-->
 
 
 
@@ -33671,7 +33671,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Lien de protection](hd_spells_lien_de_protection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lien de protection](hd_spells_lien_de_protection.md)<!--/AltName-->
 
 
 
@@ -33767,7 +33767,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Respiration aquatique](hd_spells_respiration_aquatique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Respiration aquatique](hd_spells_respiration_aquatique.md)<!--/AltName-->
 
 
 
@@ -33859,7 +33859,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Marche sur l'eau](hd_spells_marche_sur_leau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Marche sur l'eau](hd_spells_marche_sur_leau.md)<!--/AltName-->
 
 
 
@@ -33956,7 +33956,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Toile d'araignée](hd_spells_toile_daraignee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Toile d'araignée](hd_spells_toile_daraignee.md)<!--/AltName-->
 
 
 
@@ -34069,7 +34069,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Étrangeté](hd_spells_etrangete.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Étrangeté](hd_spells_etrangete.md)<!--/AltName-->
 
 
 
@@ -34158,7 +34158,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Marche sur le vent](hd_spells_marche_sur_le_vent.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Marche sur le vent](hd_spells_marche_sur_le_vent.md)<!--/AltName-->
 
 
 
@@ -34253,7 +34253,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mur de vent](hd_spells_mur_de_vent.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mur de vent](hd_spells_mur_de_vent.md)<!--/AltName-->
 
 
 
@@ -34354,7 +34354,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Souhait](hd_spells_souhait.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Souhait](hd_spells_souhait.md)<!--/AltName-->
 
 
 
@@ -34497,7 +34497,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Mot de retour](hd_spells_mot_de_retour.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mot de retour](hd_spells_mot_de_retour.md)<!--/AltName-->
 
 
 
@@ -34592,7 +34592,7 @@ SubItems:
 
 
 
-      - MDR: <!--AltName-->[Zone de vérité](hd_spells_zone_de_verite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Zone de vérité](hd_spells_zone_de_verite.md)<!--/AltName-->
 
 
 
@@ -34692,7 +34692,7 @@ AttributesDictionary: >+
 
 
 
-    - MDR: <!--AltName-->[Sorts](hd_spells.md)<!--/AltName-->
+    - Alias: <!--AltName-->[Sorts](hd_spells.md)<!--/AltName-->
 
 
 
@@ -34707,7 +34707,7 @@ AttributesDictionary: >+
 
 # Acid Splash
 
-- MDR: [Aspersion acide](hd_spells_aspersion_acide.md)
+- Alias: [Aspersion acide](hd_spells_aspersion_acide.md)
 - Source: (SRD p114)
 -  Conjuration cantrip
 - **Casting Time :** 1 action
@@ -35076,7 +35076,7 @@ This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level 
 
 # Aid
 
-- MDR: [Aide](hd_spells_aide.md)
+- Alias: [Aide](hd_spells_aide.md)
 - Source: (SRD p114)
 -  2nd-level abjuration
 - **Casting Time :** 1 action
@@ -35097,7 +35097,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 # Alarm
 
-- MDR: [Alarme](hd_spells_alarme.md)
+- Alias: [Alarme](hd_spells_alarme.md)
 - Source: (SRD p114)
 -  1st-level abjuration (ritual)
 - **Casting Time :** 1 minute
@@ -35118,7 +35118,7 @@ A mental alarm alerts you with a ping in your mind if you are within 1 mile of t
 
 # Alter Self
 
-- MDR: [Modifier son apparence](hd_spells_modifier_son_apparence.md)
+- Alias: [Modifier son apparence](hd_spells_modifier_son_apparence.md)
 - Source: (SRD p114)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -35143,7 +35143,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 # Animal Friendship
 
-- MDR: [Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)
+- Alias: [Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)
 - Source: (SRD p115)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -35164,7 +35164,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 # Animal Messenger
 
-- MDR: [Messager animal](hd_spells_messager_animal.md)
+- Alias: [Messager animal](hd_spells_messager_animal.md)
 - Source: (SRD p115)
 -  2nd-level enchantment (ritual)
 - **Casting Time :** 1 action
@@ -35187,7 +35187,7 @@ When the messenger arrives, it delivers your message to the creature that you de
 
 # Animal Shapes
 
-- MDR: [Formes animales](hd_spells_formes_animales.md)
+- Alias: [Formes animales](hd_spells_formes_animales.md)
 - Source: (SRD p115)
 -  8th-level transmutation
 - **Casting Time :** 1 action
@@ -35210,7 +35210,7 @@ The target's gear melds into the new form. The target can't activate, wield, or 
 
 # Animate Dead
 
-- MDR: [Animation des morts](hd_spells_animation_des_morts.md)
+- Alias: [Animation des morts](hd_spells_animation_des_morts.md)
 - Source: (SRD p115)
 -  3th-level necromancy
 - **Casting Time :** 1 minute
@@ -35235,7 +35235,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 # Animate Objects
 
-- MDR: [Animation des objets](hd_spells_animation_des_objets.md)
+- Alias: [Animation des objets](hd_spells_animation_des_objets.md)
 - Source: (SRD p116)
 -  5th-level transmutation
 - **Casting Time :** 1 action
@@ -35270,7 +35270,7 @@ If you command an object to attack, it can make a single melee attack against a 
 
 # Antilife Shell
 
-- MDR: [Coquille antivie](hd_spells_coquille_antivie.md)
+- Alias: [Coquille antivie](hd_spells_coquille_antivie.md)
 - Source: (SRD p116)
 -  5th-level abjuration
 - **Casting Time :** 1 action
@@ -35293,7 +35293,7 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 # Antimagic Field
 
-- MDR: [Champ antimagie](hd_spells_champ_antimagie.md)
+- Alias: [Champ antimagie](hd_spells_champ_antimagie.md)
 - Source: (SRD p117)
 -  8th-level abjuration
 - **Casting Time :** 1 action
@@ -35330,7 +35330,7 @@ A magic weapon's properties and powers are suppressed if it is used against a ta
 
 # Antipathy/Sympathy
 
-- MDR: [Répulsion/attirance](hd_spells_repulsionattirance.md)
+- Alias: [Répulsion/attirance](hd_spells_repulsionattirance.md)
 - Source: (SRD p117)
 -  8th-level enchantment
 - **Casting Time :** 1 hour
@@ -35359,7 +35359,7 @@ A creature that successfully saves against this effect is immune to it for 1 min
 
 # Arcane Eye
 
-- MDR: [Oeil magique](hd_spells_oeil_magique.md)
+- Alias: [Oeil magique](hd_spells_oeil_magique.md)
 - Source: (SRD p118)
 -  4th-level divination
 - **Casting Time :** 1 action
@@ -35382,7 +35382,7 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 
 # Arcane Lock
 
-- MDR: [Verrou magique](hd_spells_verrou_magique.md)
+- Alias: [Verrou magique](hd_spells_verrou_magique.md)
 - Source: (SRD p118)
 -  2nd-level abjuration
 - **Casting Time :** 1 action
@@ -35403,7 +35403,7 @@ While affected by this spell, the object is more difficult to break or force ope
 
 # Astral Projection
 
-- MDR: [Projection astrale](hd_spells_projection_astrale.md)
+- Alias: [Projection astrale](hd_spells_projection_astrale.md)
 - Source: (SRD p119)
 -  9th-level necromancy
 - **Casting Time :** 1 hour
@@ -35432,7 +35432,7 @@ If you are returned to your body prematurely, your companions remain in their as
 
 # Augury
 
-- MDR: [Augure](hd_spells_augure.md)
+- Alias: [Augure](hd_spells_augure.md)
 - Source: (SRD p120)
 -  2nd-level divination (ritual)
 - **Casting Time :** 1 minute
@@ -35463,7 +35463,7 @@ If you cast the spell two or more times before completing your next long rest, t
 
 # Awaken
 
-- MDR: [Éveil](hd_spells_eveil.md)
+- Alias: [Éveil](hd_spells_eveil.md)
 - Source: (SRD p120)
 -  5th-level transmutation
 - **Casting Time :** 8 hours
@@ -35484,7 +35484,7 @@ The awakened beast or plant is charmed by you for 30 days or until you or your c
 
 # Bane
 
-- MDR: [Fléau](hd_spells_fleau.md)
+- Alias: [Fléau](hd_spells_fleau.md)
 - Source: (SRD p120)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -35505,7 +35505,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 # Banishment
 
-- MDR: [Bannissement](hd_spells_bannissement.md)
+- Alias: [Bannissement](hd_spells_bannissement.md)
 - Source: (SRD p120)
 -  4th-level abjuration
 - **Casting Time :** 1 action
@@ -35530,7 +35530,7 @@ If the target is native to a different plane of existence than the one you're on
 
 # Barkskin
 
-- MDR: [Peau d'écorce](hd_spells_peau_decorce.md)
+- Alias: [Peau d'écorce](hd_spells_peau_decorce.md)
 - Source: (SRD p121)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -35549,7 +35549,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 # Beacon of Hope
 
-- MDR: [Lueur d'espoir](hd_spells_lueur_despoir.md)
+- Alias: [Lueur d'espoir](hd_spells_lueur_despoir.md)
 - Source: (SRD p121)
 -  3th-level abjuration
 - **Casting Time :** 1 action
@@ -35568,7 +35568,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 # Bestow curse
 
-- MDR: [Jeter une malédiction](hd_spells_jeter_une_malediction.md)
+- Alias: [Jeter une malédiction](hd_spells_jeter_une_malediction.md)
 - Source: (SRD p121)
 -  3th-level necromancy
 - **Casting Time :** 1 action
@@ -35599,7 +35599,7 @@ A _[remove curse](spells_vo.hd#remove-curse)_ spell ends this effect. At the DM'
 
 # Arcane Hand
 
-- MDR: [Main magique](hd_spells_main_magique.md)
+- Alias: [Main magique](hd_spells_main_magique.md)
 - Source: (SRD p118)
 -  5th-level evocation
 - **Casting Time :** 1 action
@@ -35632,7 +35632,7 @@ When you cast the spell and as a bonus action on your subsequent turns, you can 
 
 # Blade Barrier
 
-- MDR: [Barrière de lames](hd_spells_barriere_de_lames.md)
+- Alias: [Barrière de lames](hd_spells_barriere_de_lames.md)
 - Source: (SRD p122)
 -  6th-level evocation
 - **Casting Time :** 1 action
@@ -35653,7 +35653,7 @@ When a creature enters the wall's area for the first time on a turn or starts it
 
 # Bless
 
-- MDR: [Bénédiction](hd_spells_benediction.md)
+- Alias: [Bénédiction](hd_spells_benediction.md)
 - Source: (SRD p122)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -35674,7 +35674,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 # Blight
 
-- MDR: [Flétrissement](hd_spells_fletrissement.md)
+- Alias: [Flétrissement](hd_spells_fletrissement.md)
 - Source: (SRD p122)
 -  4th-level necromancy
 - **Casting Time :** 1 action
@@ -35697,7 +35697,7 @@ If you target a nonmagical plant that isn't a creature, such as a tree or shrub,
 
 # Blindness/Deafness
 
-- MDR: [Cécité/Surdité](hd_spells_cecitesurdite.md)
+- Alias: [Cécité/Surdité](hd_spells_cecitesurdite.md)
 - Source: (SRD p122)
 -  2nd-level necromancy
 - **Casting Time :** 1 action
@@ -35718,7 +35718,7 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 
 # Blink
 
-- MDR: [Clignotement](hd_spells_clignotement.md)
+- Alias: [Clignotement](hd_spells_clignotement.md)
 - Source: (SRD p122)
 -  3th-level transmutation
 - **Casting Time :** 1 action
@@ -35739,7 +35739,7 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 # Blur
 
-- MDR: [Flou](hd_spells_flou.md)
+- Alias: [Flou](hd_spells_flou.md)
 - Source: (SRD p123)
 -  2nd-level illusion
 - **Casting Time :** 1 action
@@ -35758,7 +35758,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 # Branding Smite
 
-- MDR: [Frappe lumineuse](hd_spells_frappe_lumineuse.md)
+- Alias: [Frappe lumineuse](hd_spells_frappe_lumineuse.md)
 - Source: (SRD p123)
 -  2nd-level evocation
 - **Casting Time :** 1 bonus action
@@ -35779,7 +35779,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 # Burning Hands
 
-- MDR: [Mains brûlantes](hd_spells_mains_brulantes.md)
+- Alias: [Mains brûlantes](hd_spells_mains_brulantes.md)
 - Source: (SRD p123)
 -  1st-level evocation
 - **Casting Time :** 1 action
@@ -35802,7 +35802,7 @@ The fire ignites any flammable objects in the area that aren't being worn or car
 
 # Call Lightning
 
-- MDR: [Appel de la foudre](hd_spells_appel_de_la_foudre.md)
+- Alias: [Appel de la foudre](hd_spells_appel_de_la_foudre.md)
 - Source: (SRD p123)
 -  3th-level conjuration
 - **Casting Time :** 1 action
@@ -35827,7 +35827,7 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 # Calm Emotions
 
-- MDR: [Apaisement des émotions](hd_spells_apaisement_des_emotions.md)
+- Alias: [Apaisement des émotions](hd_spells_apaisement_des_emotions.md)
 - Source: (SRD p123)
 -  2nd-level enchantment
 - **Casting Time :** 1 action
@@ -35850,7 +35850,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 # Chain Lightning
 
-- MDR: [Chaîne d'éclairs](hd_spells_chaine_declairs.md)
+- Alias: [Chaîne d'éclairs](hd_spells_chaine_declairs.md)
 - Source: (SRD p124)
 -  6th-level evocation
 - **Casting Time :** 1 action
@@ -35873,7 +35873,7 @@ A target must make a Dexterity saving throw. The target takes 10d8 lightning dam
 
 # Charm Person
 
-- MDR: [Charme-personne](hd_spells_charme_personne.md)
+- Alias: [Charme-personne](hd_spells_charme_personne.md)
 - Source: (SRD p124)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -35894,7 +35894,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 # Chill Touch
 
-- MDR: [Contact glacial](hd_spells_contact_glacial.md)
+- Alias: [Contact glacial](hd_spells_contact_glacial.md)
 - Source: (SRD p124)
 -  Necromancy cantrip
 - **Casting Time :** 1 action
@@ -35915,7 +35915,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 # Circle of Death
 
-- MDR: [Cercle de mort](hd_spells_cercle_de_mort.md)
+- Alias: [Cercle de mort](hd_spells_cercle_de_mort.md)
 - Source: (SRD p124)
 -  6th-level necromancy
 - **Casting Time :** 1 action
@@ -35936,7 +35936,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 # Clairvoyance
 
-- MDR: [Clairvoyance](hd_spells_clairvoyance.md)
+- Alias: [Clairvoyance](hd_spells_clairvoyance.md)
 - Source: (SRD p124)
 -  3th-level divination
 - **Casting Time :** 10 minutes
@@ -35959,7 +35959,7 @@ A creature that can see the sensor (such as a creature benefiting from _see invi
 
 # Clone
 
-- MDR: [Clone](hd_spells_clone.md)
+- Alias: [Clone](hd_spells_clone.md)
 - Source: (SRD p125)
 -  8th-level necromancy
 - **Casting Time :** 1 hour
@@ -35982,7 +35982,7 @@ The clone is physically identical to the original and has the same personality, 
 
 # Cloudkill
 
-- MDR: [Nuage mortel](hd_spells_nuage_mortel.md)
+- Alias: [Nuage mortel](hd_spells_nuage_mortel.md)
 - Source: (SRD p125)
 -  5th-level conjuration
 - **Casting Time :** 1 action
@@ -36007,7 +36007,7 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 
 # Color Spray
 
-- MDR: [Couleurs dansantes](hd_spells_couleurs_dansantes.md)
+- Alias: [Couleurs dansantes](hd_spells_couleurs_dansantes.md)
 - Source: (SRD p125)
 -  1st-level illusion
 - **Casting Time :** 1 action
@@ -36030,7 +36030,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 # Command
 
-- MDR: [Injonction](hd_spells_injonction.md)
+- Alias: [Injonction](hd_spells_injonction.md)
 - Source: (SRD p125)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -36063,7 +36063,7 @@ Some typical commands and their effects follow. You might issue a command other 
 
 # Commune
 
-- MDR: [Communion](hd_spells_communion.md)
+- Alias: [Communion](hd_spells_communion.md)
 - Source: (SRD p126)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 minute
@@ -36086,7 +36086,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 # Commune with Nature
 
-- MDR: [Communion avec la nature](hd_spells_communion_avec_la_nature.md)
+- Alias: [Communion avec la nature](hd_spells_communion_avec_la_nature.md)
 - Source: (SRD p126)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 minute
@@ -36119,7 +36119,7 @@ For example, you could determine the location of powerful undead in the area, th
 
 # Comprehend Languages
 
-- MDR: [Compréhension des langues](hd_spells_comprehension_des_langues.md)
+- Alias: [Compréhension des langues](hd_spells_comprehension_des_langues.md)
 - Source: (SRD p126)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action
@@ -36140,7 +36140,7 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 # Compulsion
 
-- MDR: [Compulsion](hd_spells_compulsion.md)
+- Alias: [Compulsion](hd_spells_compulsion.md)
 - Source: (SRD p126)
 -  4th-level enchantment
 - **Casting Time :** 1 action
@@ -36161,7 +36161,7 @@ A target isn't compelled to move into an obviously deadly hazard, such as a fire
 
 # Cone of Cold
 
-- MDR: [Cône de froid](hd_spells_cone_de_froid.md)
+- Alias: [Cône de froid](hd_spells_cone_de_froid.md)
 - Source: (SRD p127)
 -  5th-level evocation
 - **Casting Time :** 1 action
@@ -36184,7 +36184,7 @@ A creature killed by this spell becomes a frozen statue until it thaws.
 
 # Confusion
 
-- MDR: [Confusion](hd_spells_confusion.md)
+- Alias: [Confusion](hd_spells_confusion.md)
 - Source: (SRD p127)
 -  4th-level enchantment
 - **Casting Time :** 1 action
@@ -36216,7 +36216,7 @@ At the end of each of its turns, an affected target can make a Wisdom saving thr
 
 # Conjure Animals
 
-- MDR: [Invoquer des animaux](hd_spells_invoquer_des_animaux.md)
+- Alias: [Invoquer des animaux](hd_spells_invoquer_des_animaux.md)
 - Source: (SRD p127)
 -  3th-level conjuration
 - **Casting Time :** 1 action
@@ -36247,7 +36247,7 @@ Each beast is also considered fey, and it disappears when it drops to 0 hit poin
 
 # Conjure Celestial
 
-- MDR: [Invoquer un céleste](hd_spells_invoquer_un_celeste.md)
+- Alias: [Invoquer un céleste](hd_spells_invoquer_un_celeste.md)
 - Source: (SRD p127)
 -  7th-level conjuration
 - **Casting Time :** 1 minute
@@ -36272,7 +36272,7 @@ The DM has the celestial's statistics.
 
 # Conjure Elemental
 
-- MDR: [Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)
+- Alias: [Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)
 - Source: (SRD p128)
 -  5th-level conjuration
 - **Casting Time :** 1 minute
@@ -36295,7 +36295,7 @@ If your concentration is broken, the elemental doesn't disappear. Instead, you l
 
 # Conjure Fey
 
-- MDR: [Invoquer une fée](hd_spells_invoquer_une_fee.md)
+- Alias: [Invoquer une fée](hd_spells_invoquer_une_fee.md)
 - Source: (SRD p128)
 -  6th-level conjuration
 - **Casting Time :** 1 minute
@@ -36322,7 +36322,7 @@ The DM has the fey creature's statistics.
 
 # Conjure Minor Elementals
 
-- MDR: [Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)
+- Alias: [Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)
 - Source: (SRD p128)
 -  4th-level conjuration
 - **Casting Time :** 1 minute
@@ -36357,7 +36357,7 @@ The DM has the creatures' statistics.
 
 # Conjure Woodland Beings
 
-- MDR: [Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)
+- Alias: [Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)
 - Source: (SRD p129)
 -  4th-level conjuration
 - **Casting Time :** 1 action
@@ -36392,7 +36392,7 @@ The DM has the creatures' statistics.
 
 # Contact Other Plane
 
-- MDR: [Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)
+- Alias: [Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)
 - Source: (SRD p129)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 minute
@@ -36413,7 +36413,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 # Contagion
 
-- MDR: [Contagion](hd_spells_contagion.md)
+- Alias: [Contagion](hd_spells_contagion.md)
 - Source: (SRD p129)
 -  5th-level necromancy
 - **Casting Time :** 1 action
@@ -36450,7 +36450,7 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 # Contingency
 
-- MDR: [Contingence](hd_spells_contingence.md)
+- Alias: [Contingence](hd_spells_contingence.md)
 - Source: (SRD p130)
 -  6th-level evocation
 - **Casting Time :** 10 minutes
@@ -36473,7 +36473,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 # Continual Flame
 
-- MDR: [Flamme éternelle](hd_spells_flamme_eternelle.md)
+- Alias: [Flamme éternelle](hd_spells_flamme_eternelle.md)
 - Source: (SRD p130)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -36492,7 +36492,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 # Control Water
 
-- MDR: [Contrôle de l'eau](hd_spells_controle_de_leau.md)
+- Alias: [Contrôle de l'eau](hd_spells_controle_de_leau.md)
 - Source: (SRD p130)
 -  4th-level transmutation
 - **Casting Time :** 1 action
@@ -36523,7 +36523,7 @@ The first time each turn that an object enters the vortex, the object takes 2d8 
 
 # Control Weather
 
-- MDR: [Contrôle du climat](hd_spells_controle_du_climat.md)
+- Alias: [Contrôle du climat](hd_spells_controle_du_climat.md)
 - Source: (SRD p131)
 -  8th-level transmutation
 - **Casting Time :** 10 minutes
@@ -36575,7 +36575,7 @@ Wind
 
 # Counterspell
 
-- MDR: [Contresort](hd_spells_contresort.md)
+- Alias: [Contresort](hd_spells_contresort.md)
 - Source: (SRD p131)
 -  3th-level abjuration
 - **Casting Time :** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
@@ -36596,7 +36596,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 # Create Food and Water
 
-- MDR: [Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)
+- Alias: [Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)
 - Source: (SRD p131)
 -  3th-level conjuration
 - **Casting Time :** 1 action
@@ -36615,7 +36615,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 # Create or Destroy Water
 
-- MDR: [Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)
+- Alias: [Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)
 - Source: (SRD p132)
 -  1st-level transmutation
 - **Casting Time :** 1 action
@@ -36640,7 +36640,7 @@ You either create or destroy water.
 
 # Create Undead
 
-- MDR: [Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)
+- Alias: [Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)
 - Source: (SRD p132)
 -  6th-level necromancy
 - **Casting Time :** 1 minute
@@ -36665,7 +36665,7 @@ The creature is under your control for 24 hours, after which it stops obeying an
 
 # Creation
 
-- MDR: [Création](hd_spells_creation.md)
+- Alias: [Création](hd_spells_creation.md)
 - Source: (SRD p132)
 -  5th-level illusion
 - **Casting Time :** 1 minute
@@ -36698,7 +36698,7 @@ Using any material created by this spell as another spell's material component c
 
 # Cure Wounds
 
-- MDR: [Soin des blessures](hd_spells_soin_des_blessures.md)
+- Alias: [Soin des blessures](hd_spells_soin_des_blessures.md)
 - Source: (SRD p132)
 -  1st-level evocation
 - **Casting Time :** 1 action
@@ -36719,7 +36719,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 # Dancing Lights
 
-- MDR: [Lumières dansantes](hd_spells_lumieres_dansantes.md)
+- Alias: [Lumières dansantes](hd_spells_lumieres_dansantes.md)
 - Source: (SRD p133)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -36740,7 +36740,7 @@ As a bonus action on your turn, you can move the lights up to 60 feet to a new s
 
 # Darkness
 
-- MDR: [Ténèbres](hd_spells_tenebres.md)
+- Alias: [Ténèbres](hd_spells_tenebres.md)
 - Source: (SRD p133)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -36763,7 +36763,7 @@ If any of this spell's area overlaps with an area of light created by a spell of
 
 # Darkvision
 
-- MDR: [Vision dans le noir](hd_spells_vision_dans_le_noir.md)
+- Alias: [Vision dans le noir](hd_spells_vision_dans_le_noir.md)
 - Source: (SRD p133)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -36782,7 +36782,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 # Daylight
 
-- MDR: [Lumière du jour](hd_spells_lumiere_du_jour.md)
+- Alias: [Lumière du jour](hd_spells_lumiere_du_jour.md)
 - Source: (SRD p133)
 -  3th-level evocation
 - **Casting Time :** 1 action
@@ -36805,7 +36805,7 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 
 # Death Ward
 
-- MDR: [Protection contre la mort](hd_spells_protection_contre_la_mort.md)
+- Alias: [Protection contre la mort](hd_spells_protection_contre_la_mort.md)
 - Source: (SRD p133)
 -  4th-level abjuration
 - **Casting Time :** 1 action
@@ -36828,7 +36828,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 # Delayed Blast Fireball
 
-- MDR: [Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)
+- Alias: [Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)
 - Source: (SRD p133)
 -  7th-level evocation
 - **Casting Time :** 1 action
@@ -36855,7 +36855,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 # Demiplane
 
-- MDR: [Demi-plan](hd_spells_demi_plan.md)
+- Alias: [Demi-plan](hd_spells_demi_plan.md)
 - Source: (SRD p134)
 -  8th-level conjuration
 - **Casting Time :** 1 action
@@ -36876,7 +36876,7 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 
 # Detect Evil and Good
 
-- MDR: [Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)
+- Alias: [Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)
 - Source: (SRD p134)
 -  1st-level divination
 - **Casting Time :** 1 action
@@ -36897,7 +36897,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 # Detect Magic
 
-- MDR: [Détection de la magie](hd_spells_detection_de_la_magie.md)
+- Alias: [Détection de la magie](hd_spells_detection_de_la_magie.md)
 - Source: (SRD p134)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action
@@ -36918,7 +36918,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 # Detect Poison and Disease
 
-- MDR: [Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)
+- Alias: [Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)
 - Source: (SRD p134)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action
@@ -36939,7 +36939,7 @@ The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 i
 
 # Detect Thoughts
 
-- MDR: [Détection des pensées](hd_spells_detection_des_pensees.md)
+- Alias: [Détection des pensées](hd_spells_detection_des_pensees.md)
 - Source: (SRD p135)
 -  2nd-level divination
 - **Casting Time :** 1 action
@@ -36966,7 +36966,7 @@ Once you detect the presence of a creature in this way, you can read its thought
 
 # Dimension Door
 
-- MDR: [Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)
+- Alias: [Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)
 - Source: (SRD p135)
 -  4th-level conjuration
 - **Casting Time :** 1 action
@@ -36989,7 +36989,7 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 # Disguise Self
 
-- MDR: [Déguisement](hd_spells_deguisement.md)
+- Alias: [Déguisement](hd_spells_deguisement.md)
 - Source: (SRD p135)
 -  1st-level illusion
 - **Casting Time :** 1 action
@@ -37012,7 +37012,7 @@ To discern that you are disguised, a creature can use its action to inspect your
 
 # Disintegrate
 
-- MDR: [Désintégration](hd_spells_desintegration.md)
+- Alias: [Désintégration](hd_spells_desintegration.md)
 - Source: (SRD p135)
 -  6th-level transmutation
 - **Casting Time :** 1 action
@@ -37039,7 +37039,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 
 # Dispel Evil and Good
 
-- MDR: [Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)
+- Alias: [Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)
 - Source: (SRD p136)
 -  5th-level abjuration
 - **Casting Time :** 1 action
@@ -37064,7 +37064,7 @@ You can end the spell early by using either of the following special functions.
 
 # Dispel Magic
 
-- MDR: [Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)
+- Alias: [Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)
 - Source: (SRD p136)
 -  3th-level abjuration
 - **Casting Time :** 1 action
@@ -37085,7 +37085,7 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 
 # Divination
 
-- MDR: [Divination](hd_spells_divination.md)
+- Alias: [Divination](hd_spells_divination.md)
 - Source: (SRD p136)
 -  4th-level divination (ritual)
 - **Casting Time :** 1 action
@@ -37108,7 +37108,7 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 # Divine Favor
 
-- MDR: [Faveur divine](hd_spells_faveur_divine.md)
+- Alias: [Faveur divine](hd_spells_faveur_divine.md)
 - Source: (SRD p136)
 -  1st-level evocation
 - **Casting Time :** 1 bonus action
@@ -37127,7 +37127,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 # Divine Word
 
-- MDR: [Parole divine](hd_spells_parole_divine.md)
+- Alias: [Parole divine](hd_spells_parole_divine.md)
 - Source: (SRD p137)
 -  7th-level evocation
 - **Casting Time :** 1 bonus action
@@ -37156,7 +37156,7 @@ Regardless of its current hit points, a celestial, an elemental, a fey, or a fie
 
 # Dominate Beast
 
-- MDR: [Dominer une bête](hd_spells_dominer_une_bete.md)
+- Alias: [Dominer une bête](hd_spells_dominer_une_bete.md)
 - Source: (SRD p137)
 -  4th-level enchantment
 - **Casting Time :** 1 action
@@ -37181,7 +37181,7 @@ You can use your action to take total and precise control of the target. Until t
 
 # Dominate Monster
 
-- MDR: [Dominer un monstre](hd_spells_dominer_un_monstre.md)
+- Alias: [Dominer un monstre](hd_spells_dominer_un_monstre.md)
 - Source: (SRD p137)
 -  8th-level enchantment
 - **Casting Time :** 1 action
@@ -37208,7 +37208,7 @@ Each time the target takes damage, it makes a new Wisdom saving throw against th
 
 # Dominate Person
 
-- MDR: [Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)
+- Alias: [Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)
 - Source: (SRD p138)
 -  5th-level enchantment
 - **Casting Time :** 1 action
@@ -37237,7 +37237,7 @@ Wisdom saving throw against the spell. If the saving throw succeeds, the spell e
 
 # Instant Summons
 
-- MDR: [Convocations instantanées](hd_spells_convocations_instantanees.md)
+- Alias: [Convocations instantanées](hd_spells_convocations_instantanees.md)
 - Source: (SRD p157)
 -  6th-level conjuration (ritual)
 - **Casting Time :** 1 minute
@@ -37262,7 +37262,7 @@ _[dispel magic](spells_vo.hd#dispel-magic)_ or a similar effect successfully app
 
 # Dream
 
-- MDR: [Rêve](hd_spells_reve.md)
+- Alias: [Rêve](hd_spells_reve.md)
 - Source: (SRD p138)
 -  5th-level illusion
 - **Casting Time :** 1 minute
@@ -37287,7 +37287,7 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 # Druidcraft
 
-- MDR: [Druidisme](hd_spells_druidisme.md)
+- Alias: [Druidisme](hd_spells_druidisme.md)
 - Source: (SRD p138)
 -  Transmutation cantrip
 - **Casting Time :** 1 action
@@ -37314,7 +37314,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 
 # Earthquake
 
-- MDR: [Tremblement de terre](hd_spells_tremblement_de_terre.md)
+- Alias: [Tremblement de terre](hd_spells_tremblement_de_terre.md)
 - Source: (SRD p139)
 -  8th-level evocation
 - **Casting Time :** 1 action
@@ -37345,7 +37345,7 @@ A fissure that opens beneath a structure causes it to automatically collapse (se
 
 # Eldritch Blast
 
-- MDR: [Explosion occulte](hd_spells_explosion_occulte.md)
+- Alias: [Explosion occulte](hd_spells_explosion_occulte.md)
 - Source: (SRD p139)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -37366,7 +37366,7 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 
 # Enhance Ability
 
-- MDR: [Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)
+- Alias: [Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)
 - Source: (SRD p139)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -37399,7 +37399,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 # Enlarge/Reduce
 
-- MDR: [Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)
+- Alias: [Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)
 - Source: (SRD p140)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -37424,7 +37424,7 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 # Entangle
 
-- MDR: [Enchevêtrement](hd_spells_enchevetrement.md)
+- Alias: [Enchevêtrement](hd_spells_enchevetrement.md)
 - Source: (SRD p140)
 -  1st-level conjuration
 - **Casting Time :** 1 action
@@ -37447,7 +37447,7 @@ When the spell ends, the conjured plants wilt away.
 
 # Enthrall
 
-- MDR: [Envoûtement](hd_spells_envoutement.md)
+- Alias: [Envoûtement](hd_spells_envoutement.md)
 - Source: (SRD p140)
 -  2nd-level enchantment
 - **Casting Time :** 1 action
@@ -37466,7 +37466,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 # Etherealness
 
-- MDR: [Forme éthérée](hd_spells_forme_etheree.md)
+- Alias: [Forme éthérée](hd_spells_forme_etheree.md)
 - Source: (SRD p140)
 -  7th-level transmutation
 - **Casting Time :** 1 action
@@ -37495,7 +37495,7 @@ This spell has no effect if you cast it while you are on the Ethereal Plane or a
 
 # Black Tentacles
 
-- MDR: [Tentacules noirs](hd_spells_tentacules_noirs.md)
+- Alias: [Tentacules noirs](hd_spells_tentacules_noirs.md)
 - Source: (SRD p121)
 -  4th-level conjuration
 - **Casting Time :** 1 action
@@ -37518,7 +37518,7 @@ A creature restrained by the tentacles can use its action to make a Strength or 
 
 # Expeditious Retreat
 
-- MDR: [Repli expéditif](hd_spells_repli_expeditif.md)
+- Alias: [Repli expéditif](hd_spells_repli_expeditif.md)
 - Source: (SRD p141)
 -  1st-level transmutation
 - **Casting Time :** 1 bonus action
@@ -37537,7 +37537,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 # Eyebite
 
-- MDR: [Mauvais oeil](hd_spells_mauvais_oeil.md)
+- Alias: [Mauvais oeil](hd_spells_mauvais_oeil.md)
 - Source: (SRD p141)
 -  6th-level necromancy
 - **Casting Time :** 1 action
@@ -37562,7 +37562,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 # Fabricate
 
-- MDR: [Fabrication](hd_spells_fabrication.md)
+- Alias: [Fabrication](hd_spells_fabrication.md)
 - Source: (SRD p141)
 -  4th-level transmutation
 - **Casting Time :** 10 minutes
@@ -37585,7 +37585,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 
 # Faerie Fire
 
-- MDR: [Lueurs féeriques](hd_spells_lueurs_feeriques.md)
+- Alias: [Lueurs féeriques](hd_spells_lueurs_feeriques.md)
 - Source: (SRD p141)
 -  1st-level evocation
 - **Casting Time :** 1 action
@@ -37606,7 +37606,7 @@ Any attack roll against an affected creature or object has advantage if the atta
 
 # False Life
 
-- MDR: [Simulacre de vie](hd_spells_simulacre_de_vie.md)
+- Alias: [Simulacre de vie](hd_spells_simulacre_de_vie.md)
 - Source: (SRD p142)
 -  1st-level necromancy
 - **Casting Time :** 1 action
@@ -37627,7 +37627,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 # Fear
 
-- MDR: [Peur](hd_spells_peur.md)
+- Alias: [Peur](hd_spells_peur.md)
 - Source: (SRD p142)
 -  3th-level illusion
 - **Casting Time :** 1 action
@@ -37646,7 +37646,7 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 # Feather Fall
 
-- MDR: [Léger comme une plume](hd_spells_leger_comme_une_plume.md)
+- Alias: [Léger comme une plume](hd_spells_leger_comme_une_plume.md)
 - Source: (SRD p142)
 -  1st-level transmutation
 - **Casting Time :** 1 reaction, which you take when you or a creature within 60 feet of you falls
@@ -37665,7 +37665,7 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 # Feeblemind
 
-- MDR: [Esprit faible](hd_spells_esprit_faible.md)
+- Alias: [Esprit faible](hd_spells_esprit_faible.md)
 - Source: (SRD p142)
 -  8th-level enchantment
 - **Casting Time :** 1 action
@@ -37690,7 +37690,7 @@ The spell can also be ended by _[greater restoration](spells_vo.hd#greater-resto
 
 # Find Familiar
 
-- MDR: [Appel de familier](hd_spells_appel_de_familier.md)
+- Alias: [Appel de familier](hd_spells_appel_de_familier.md)
 - Source: (SRD p143)
 -  1st-level conjuration (ritual)
 - **Casting Time :** 1 hour
@@ -37721,7 +37721,7 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 
 # Find Steed
 
-- MDR: [Trouver une monture](hd_spells_trouver_une_monture.md)
+- Alias: [Trouver une monture](hd_spells_trouver_une_monture.md)
 - Source: (SRD p143)
 -  2nd-level conjuration
 - **Casting Time :** 10 minutes
@@ -37748,7 +37748,7 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 
 # Find the Path
 
-- MDR: [Trouver un chemin](hd_spells_trouver_un_chemin.md)
+- Alias: [Trouver un chemin](hd_spells_trouver_un_chemin.md)
 - Source: (SRD p143)
 -  6th-level divination
 - **Casting Time :** 1 minute
@@ -37769,7 +37769,7 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 # Find Traps
 
-- MDR: [Trouver les pièges](hd_spells_trouver_les_pieges.md)
+- Alias: [Trouver les pièges](hd_spells_trouver_les_pieges.md)
 - Source: (SRD p144)
 -  2nd-level divination
 - **Casting Time :** 1 action
@@ -37790,7 +37790,7 @@ This spell merely reveals that a trap is present. You don't learn the location o
 
 # Finger of Death
 
-- MDR: [Doigt de mort](hd_spells_doigt_de_mort.md)
+- Alias: [Doigt de mort](hd_spells_doigt_de_mort.md)
 - Source: (SRD p144)
 -  7th-level necromancy
 - **Casting Time :** 1 action
@@ -37811,7 +37811,7 @@ A humanoid killed by this spell rises at the start of your next turn as a zombie
 
 # Fire Bolt
 
-- MDR: [Trait de feu](hd_spells_trait_de_feu.md)
+- Alias: [Trait de feu](hd_spells_trait_de_feu.md)
 - Source: (SRD p144)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -37832,7 +37832,7 @@ This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th leve
 
 # Fire Shield
 
-- MDR: [Bouclier de feu](hd_spells_bouclier_de_feu.md)
+- Alias: [Bouclier de feu](hd_spells_bouclier_de_feu.md)
 - Source: (SRD p144)
 -  4th-level evocation
 - **Casting Time :** 1 action
@@ -37855,7 +37855,7 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 # Fire Storm
 
-- MDR: [Tempête de feu](hd_spells_tempete_de_feu.md)
+- Alias: [Tempête de feu](hd_spells_tempete_de_feu.md)
 - Source: (SRD p145)
 -  7th-level evocation
 - **Casting Time :** 1 action
@@ -37876,7 +37876,7 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 
 # Fireball
 
-- MDR: [Boule de feu](hd_spells_boule_de_feu.md)
+- Alias: [Boule de feu](hd_spells_boule_de_feu.md)
 - Source: (SRD p144)
 -  3th-level evocation
 - **Casting Time :** 1 action
@@ -37899,7 +37899,7 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 # Flame Blade
 
-- MDR: [Lame de feu](hd_spells_lame_de_feu.md)
+- Alias: [Lame de feu](hd_spells_lame_de_feu.md)
 - Source: (SRD p145)
 -  2nd-level evocation
 - **Casting Time :** 1 bonus action
@@ -37924,7 +37924,7 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 
 # Flame Strike
 
-- MDR: [Colonne de flamme](hd_spells_colonne_de_flamme.md)
+- Alias: [Colonne de flamme](hd_spells_colonne_de_flamme.md)
 - Source: (SRD p145)
 -  5th-level evocation
 - **Casting Time :** 1 action
@@ -37945,7 +37945,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 # Flaming Sphere
 
-- MDR: [Sphère de feu](hd_spells_sphere_de_feu.md)
+- Alias: [Sphère de feu](hd_spells_sphere_de_feu.md)
 - Source: (SRD p145)
 -  2nd-level conjuration
 - **Casting Time :** 1 action
@@ -37970,7 +37970,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 # Flesh to Stone
 
-- MDR: [Pétrification](hd_spells_petrification.md)
+- Alias: [Pétrification](hd_spells_petrification.md)
 - Source: (SRD p145)
 -  6th-level transmutation
 - **Casting Time :** 1 action
@@ -37995,7 +37995,7 @@ If you maintain your concentration on this spell for the entire possible duratio
 
 # Fly
 
-- MDR: [Vol](hd_spells_vol.md)
+- Alias: [Vol](hd_spells_vol.md)
 - Source: (SRD p146)
 -  3th-level transmutation
 - **Casting Time :** 1 action
@@ -38016,7 +38016,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 # Fog Cloud
 
-- MDR: [Nappe de brouillard](hd_spells_nappe_de_brouillard.md)
+- Alias: [Nappe de brouillard](hd_spells_nappe_de_brouillard.md)
 - Source: (SRD p146)
 -  1st-level conjuration
 - **Casting Time :** 1 action
@@ -38037,7 +38037,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 # Forbiddance
 
-- MDR: [Interdiction](hd_spells_interdiction.md)
+- Alias: [Interdiction](hd_spells_interdiction.md)
 - Source: (SRD p146)
 -  6th-level abjuration (ritual)
 - **Casting Time :** 10 minutes
@@ -38062,7 +38062,7 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 
 # Forcecage
 
-- MDR: [Cage de force](hd_spells_cage_de_force.md)
+- Alias: [Cage de force](hd_spells_cage_de_force.md)
 - Source: (SRD p147)
 -  7th-level evocation
 - **Casting Time :** 1 action
@@ -38091,7 +38091,7 @@ This spell can't be dispelled by _[dispel magic](spells_vo.hd#dispel-magic)_.
 
 # Foresight
 
-- MDR: [Prémonition](hd_spells_premonition.md)
+- Alias: [Prémonition](hd_spells_premonition.md)
 - Source: (SRD p147)
 -  9th-level divination
 - **Casting Time :** 1 minute
@@ -38112,7 +38112,7 @@ This spell immediately ends if you cast it again before its duration ends.
 
 # Freedom of Movement
 
-- MDR: [Liberté de mouvement](hd_spells_liberte_de_mouvement.md)
+- Alias: [Liberté de mouvement](hd_spells_liberte_de_mouvement.md)
 - Source: (SRD p147)
 -  4th-level abjuration
 - **Casting Time :** 1 action
@@ -38133,7 +38133,7 @@ The target can also spend 5 feet of movement to automatically escape from nonmag
 
 # Gaseous Form
 
-- MDR: [Forme gazeuse](hd_spells_forme_gazeuse.md)
+- Alias: [Forme gazeuse](hd_spells_forme_gazeuse.md)
 - Source: (SRD p148)
 -  3th-level transmutation
 - **Casting Time :** 1 action
@@ -38156,7 +38156,7 @@ While in the form of a misty cloud, the target can't talk or manipulate objects,
 
 # Gate
 
-- MDR: [Portail](hd_spells_portail.md)
+- Alias: [Portail](hd_spells_portail.md)
 - Source: (SRD p148)
 -  9th-level conjuration
 - **Casting Time :** 1 action
@@ -38181,7 +38181,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 # Geas
 
-- MDR: [Coercition mystique](hd_spells_coercition_mystique.md)
+- Alias: [Coercition mystique](hd_spells_coercition_mystique.md)
 - Source: (SRD p148)
 -  5th-level enchantment
 - **Casting Time :** 1 minute
@@ -38206,7 +38206,7 @@ You can end the spell early by using an action to dismiss it. A _[remove curse](
 
 # Gentle Repose
 
-- MDR: [Doux repos](hd_spells_doux_repos.md)
+- Alias: [Doux repos](hd_spells_doux_repos.md)
 - Source: (SRD p148)
 -  2nd-level necromancy (ritual)
 - **Casting Time :** 1 action
@@ -38227,7 +38227,7 @@ The spell also effectively extends the time limit on raising the target from the
 
 # Giant Insect
 
-- MDR: [Insecte géant](hd_spells_insecte_geant.md)
+- Alias: [Insecte géant](hd_spells_insecte_geant.md)
 - Source: (SRD p149)
 -  4th-level transmutation
 - **Casting Time :** 1 action
@@ -38252,7 +38252,7 @@ The DM might allow you to choose different targets. For example, if you transfor
 
 # Glibness
 
-- MDR: [Bagou](hd_spells_bagou.md)
+- Alias: [Bagou](hd_spells_bagou.md)
 - Source: (SRD p149)
 -  8th-level transmutation
 - **Casting Time :** 1 action
@@ -38271,7 +38271,7 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 # Globe of Invulnerability
 
-- MDR: [Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)
+- Alias: [Globe d'invulnérabilité](hd_spells_globe_dinvulnerabilite.md)
 - Source: (SRD p149)
 -  6th-level abjuration
 - **Casting Time :** 1 action
@@ -38294,7 +38294,7 @@ Any spell of 5th level or lower cast from outside the barrier can't affect creat
 
 # Glyph of Warding
 
-- MDR: [Glyphe de protection](hd_spells_glyphe_de_protection.md)
+- Alias: [Glyphe de protection](hd_spells_glyphe_de_protection.md)
 - Source: (SRD p149)
 -  3th-level abjuration
 - **Casting Time :** 1 hour
@@ -38327,7 +38327,7 @@ When you inscribe the glyph, choose _explosive runes_ or a _spell glyph_.
 
 # Goodberry
 
-- MDR: [Baies nourricières](hd_spells_baies_nourricieres.md)
+- Alias: [Baies nourricières](hd_spells_baies_nourricieres.md)
 - Source: (SRD p150)
 -  1st-level transmutation
 - **Casting Time :** 1 action
@@ -38348,7 +38348,7 @@ The berries lose their potency if they have not been consumed within 24 hours of
 
 # Grease
 
-- MDR: [Graisse](hd_spells_graisse.md)
+- Alias: [Graisse](hd_spells_graisse.md)
 - Source: (SRD p150)
 -  1st-level conjuration
 - **Casting Time :** 1 action
@@ -38369,7 +38369,7 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 # Greater Invisibility
 
-- MDR: [Invisibilité supérieure](hd_spells_invisibilite_superieure.md)
+- Alias: [Invisibilité supérieure](hd_spells_invisibilite_superieure.md)
 - Source: (SRD p150)
 -  4th-level illusion
 - **Casting Time :** 1 action
@@ -38388,7 +38388,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 # Greater Restoration
 
-- MDR: [Restauration supérieure](hd_spells_restauration_superieure.md)
+- Alias: [Restauration supérieure](hd_spells_restauration_superieure.md)
 - Source: (SRD p150)
 -  5th-level abjuration
 - **Casting Time :** 1 action
@@ -38415,7 +38415,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 # Guardian of Faith
 
-- MDR: [Gardien de la foi](hd_spells_gardien_de_la_foi.md)
+- Alias: [Gardien de la foi](hd_spells_gardien_de_la_foi.md)
 - Source: (SRD p150)
 -  4th-level conjuration
 - **Casting Time :** 1 action
@@ -38436,7 +38436,7 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 
 # Guards and Wards
 
-- MDR: [Protections et sceaux](hd_spells_protections_et_sceaux.md)
+- Alias: [Protections et sceaux](hd_spells_protections_et_sceaux.md)
 - Source: (SRD p151)
 -  6th-level abjuration
 - **Casting Time :** 10 minutes
@@ -38481,7 +38481,7 @@ You can create a permanently guarded and warded structure by casting this spell 
 
 # Guidance
 
-- MDR: [Assistance](hd_spells_assistance.md)
+- Alias: [Assistance](hd_spells_assistance.md)
 - Source: (SRD p151)
 -  Divination cantrip
 - **Casting Time :** 1 action
@@ -38500,7 +38500,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 # Guiding Bolt
 
-- MDR: [Balisage](hd_spells_balisage.md)
+- Alias: [Balisage](hd_spells_balisage.md)
 - Source: (SRD p151)
 -  1st-level evocation
 - **Casting Time :** 1 action
@@ -38521,7 +38521,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 # Gust of Wind
 
-- MDR: [Bourrasque](hd_spells_bourrasque.md)
+- Alias: [Bourrasque](hd_spells_bourrasque.md)
 - Source: (SRD p152)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -38546,7 +38546,7 @@ As a bonus action on each of your turns before the spell ends, you can change th
 
 # Hallow
 
-- MDR: [Sanctification](hd_spells_sanctification.md)
+- Alias: [Sanctification](hd_spells_sanctification.md)
 - Source: (SRD p152)
 -  5th-level evocation
 - **Casting Time :** 24 hours
@@ -38589,7 +38589,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 
 # Hallucinatory Terrain
 
-- MDR: [Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)
+- Alias: [Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)
 - Source: (SRD p152)
 -  4th-level illusion
 - **Casting Time :** 10 minutes
@@ -38610,7 +38610,7 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 # Harm
 
-- MDR: [Contamination](hd_spells_contamination.md)
+- Alias: [Contamination](hd_spells_contamination.md)
 - Source: (SRD p153)
 -  6th-level necromancy
 - **Casting Time :** 1 action
@@ -38629,7 +38629,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 # Haste
 
-- MDR: [Hâte](hd_spells_hate.md)
+- Alias: [Hâte](hd_spells_hate.md)
 - Source: (SRD p153)
 -  3th-level transmutation
 - **Casting Time :** 1 action
@@ -38650,7 +38650,7 @@ When the spell ends, the target can't move or take actions until after its next 
 
 # Heal
 
-- MDR: [Guérison](hd_spells_guerison.md)
+- Alias: [Guérison](hd_spells_guerison.md)
 - Source: (SRD p153)
 -  6th-level evocation
 - **Casting Time :** 1 action
@@ -38671,7 +38671,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 # Healing Word
 
-- MDR: [Mot de guérison](hd_spells_mot_de_guerison.md)
+- Alias: [Mot de guérison](hd_spells_mot_de_guerison.md)
 - Source: (SRD p153)
 -  1st-level evocation
 - **Casting Time :** 1 bonus action
@@ -38692,7 +38692,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 # Heat Metal
 
-- MDR: [Chauffer le métal](hd_spells_chauffer_le_metal.md)
+- Alias: [Chauffer le métal](hd_spells_chauffer_le_metal.md)
 - Source: (SRD p153)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -38715,7 +38715,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 # Hellish Rebuke
 
-- MDR: [Représailles infernales](hd_spells_represailles_infernales.md)
+- Alias: [Représailles infernales](hd_spells_represailles_infernales.md)
 - Source: (SRD p154)
 -  1st-level evocation
 - **Casting Time :** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see
@@ -38736,7 +38736,7 @@ You point your finger, and the creature that damaged you is momentarily surround
 
 # Heroes' Feast
 
-- MDR: [Festin des héros](hd_spells_festin_des_heros.md)
+- Alias: [Festin des héros](hd_spells_festin_des_heros.md)
 - Source: (SRD p154)
 -  6th-level conjuration
 - **Casting Time :** 10 minutes
@@ -38757,7 +38757,7 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 
 # Heroism
 
-- MDR: [Héroïsme](hd_spells_heroisme.md)
+- Alias: [Héroïsme](hd_spells_heroisme.md)
 - Source: (SRD p154)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -38778,7 +38778,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 # Hold Monster
 
-- MDR: [Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)
+- Alias: [Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)
 - Source: (SRD p154)
 -  5th-level enchantment
 - **Casting Time :** 1 action
@@ -38799,7 +38799,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 # Hold Person
 
-- MDR: [Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)
+- Alias: [Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)
 - Source: (SRD p154)
 -  2nd-level enchantment
 - **Casting Time :** 1 action
@@ -38820,7 +38820,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 # Holy Aura
 
-- MDR: [Aura sacrée](hd_spells_aura_sacree.md)
+- Alias: [Aura sacrée](hd_spells_aura_sacree.md)
 - Source: (SRD p155)
 -  8th-level abjuration
 - **Casting Time :** 1 action
@@ -38839,7 +38839,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 # Hunter's Mark
 
-- MDR: [Marque du chasseur](hd_spells_marque_du_chasseur.md)
+- Alias: [Marque du chasseur](hd_spells_marque_du_chasseur.md)
 - Source: (SRD p155)
 -  1st-level divination
 - **Casting Time :** 1 bonus action
@@ -38860,7 +38860,7 @@ You choose a creature you can see within range and mystically mark it as your qu
 
 # Hypnotic Pattern
 
-- MDR: [Motif hypnotique](hd_spells_motif_hypnotique.md)
+- Alias: [Motif hypnotique](hd_spells_motif_hypnotique.md)
 - Source: (SRD p155)
 -  3th-level illusion
 - **Casting Time :** 1 action
@@ -38879,7 +38879,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 # Ice Storm
 
-- MDR: [Tempête de grêle](hd_spells_tempete_de_grele.md)
+- Alias: [Tempête de grêle](hd_spells_tempete_de_grele.md)
 - Source: (SRD p155)
 -  4th-level evocation
 - **Casting Time :** 1 action
@@ -38902,7 +38902,7 @@ Hailstones turn the storm's area of effect into difficult terrain until the end 
 
 # Identify
 
-- MDR: [Identification](hd_spells_identification.md)
+- Alias: [Identification](hd_spells_identification.md)
 - Source: (SRD p155)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 minute
@@ -38923,7 +38923,7 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 
 # Illusory Script
 
-- MDR: [Texte illusoire](hd_spells_texte_illusoire.md)
+- Alias: [Texte illusoire](hd_spells_texte_illusoire.md)
 - Source: (SRD p156)
 -  1st-level illusion (ritual)
 - **Casting Time :** 1 minute
@@ -38948,7 +38948,7 @@ A creature with truesight can read the hidden message.
 
 # Imprisonment
 
-- MDR: [Emprisonnement](hd_spells_emprisonnement.md)
+- Alias: [Emprisonnement](hd_spells_emprisonnement.md)
 - Source: (SRD p156)
 -  9th-level abjuration
 - **Casting Time :** 1 minute
@@ -38995,7 +38995,7 @@ You can use a particular special component to create only one prison at a time. 
 
 # Incendiary Cloud
 
-- MDR: [Nuage incendiaire](hd_spells_nuage_incendiaire.md)
+- Alias: [Nuage incendiaire](hd_spells_nuage_incendiaire.md)
 - Source: (SRD p157)
 -  8th-level conjuration
 - **Casting Time :** 1 action
@@ -39018,7 +39018,7 @@ The cloud moves 10 feet directly away from you in a direction that you choose at
 
 # Inflict Wounds
 
-- MDR: [Blessure](hd_spells_blessure.md)
+- Alias: [Blessure](hd_spells_blessure.md)
 - Source: (SRD p157)
 -  1st-level necromancy
 - **Casting Time :** 1 action
@@ -39039,7 +39039,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 # Insect Plague
 
-- MDR: [Fléau d'insectes](hd_spells_fleau_dinsectes.md)
+- Alias: [Fléau d'insectes](hd_spells_fleau_dinsectes.md)
 - Source: (SRD p157)
 -  5th-level conjuration
 - **Casting Time :** 1 action
@@ -39062,7 +39062,7 @@ When the area appears, each creature in it must make a Constitution saving throw
 
 # Invisibility
 
-- MDR: [Invisibilité](hd_spells_invisibilite.md)
+- Alias: [Invisibilité](hd_spells_invisibilite.md)
 - Source: (SRD p157)
 -  2nd-level illusion
 - **Casting Time :** 1 action
@@ -39083,7 +39083,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 # Jump
 
-- MDR: [Saut](hd_spells_saut.md)
+- Alias: [Saut](hd_spells_saut.md)
 - Source: (SRD p158)
 -  1st-level transmutation
 - **Casting Time :** 1 action
@@ -39102,7 +39102,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 # Knock
 
-- MDR: [Déblocage](hd_spells_deblocage.md)
+- Alias: [Déblocage](hd_spells_deblocage.md)
 - Source: (SRD p158)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -39127,7 +39127,7 @@ When you cast the spell, a loud knock, audible from as far away as 300 feet, ema
 
 # Legend Lore
 
-- MDR: [Légende](hd_spells_legende.md)
+- Alias: [Légende](hd_spells_legende.md)
 - Source: (SRD p158)
 -  5th-level divination
 - **Casting Time :** 10 minutes
@@ -39148,7 +39148,7 @@ The information you learn is accurate but might be couched in figurative languag
 
 # Secret Chest
 
-- MDR: [Coffre secret](hd_spells_coffre_secret.md)
+- Alias: [Coffre secret](hd_spells_coffre_secret.md)
 - Source: (SRD p177)
 -  4th-level conjuration
 - **Casting Time :** 1 action
@@ -39171,7 +39171,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 # Tiny Hut
 
-- MDR: [Petite hutte](hd_spells_petite_hutte.md)
+- Alias: [Petite hutte](hd_spells_petite_hutte.md)
 - Source: (SRD p187)
 -  3th-level evocation (ritual)
 - **Casting Time :** 1 minute
@@ -39194,7 +39194,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 # Lesser Restoration
 
-- MDR: [Restauration inférieure](hd_spells_restauration_inferieure.md)
+- Alias: [Restauration inférieure](hd_spells_restauration_inferieure.md)
 - Source: (SRD p158)
 -  2nd-level abjuration
 - **Casting Time :** 1 action
@@ -39213,7 +39213,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 # Levitate
 
-- MDR: [Lévitation](hd_spells_levitation.md)
+- Alias: [Lévitation](hd_spells_levitation.md)
 - Source: (SRD p158)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -39236,7 +39236,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 # Light
 
-- MDR: [Lumière](hd_spells_lumiere.md)
+- Alias: [Lumière](hd_spells_lumiere.md)
 - Source: (SRD p159)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -39257,7 +39257,7 @@ If you target an object held or worn by a hostile creature, that creature must s
 
 # Lightning Bolt
 
-- MDR: [Éclair](hd_spells_eclair.md)
+- Alias: [Éclair](hd_spells_eclair.md)
 - Source: (SRD p159)
 -  3th-level evocation
 - **Casting Time :** 1 action
@@ -39280,7 +39280,7 @@ The lightning ignites flammable objects in the area that aren't being worn or ca
 
 # Locate Animals or Plants
 
-- MDR: [Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)
+- Alias: [Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)
 - Source: (SRD p159)
 -  2nd-level divination (ritual)
 - **Casting Time :** 1 action
@@ -39299,7 +39299,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 # Locate Creature
 
-- MDR: [Localiser une créature](hd_spells_localiser_une_creature.md)
+- Alias: [Localiser une créature](hd_spells_localiser_une_creature.md)
 - Source: (SRD p159)
 -  4th-level divination
 - **Casting Time :** 1 action
@@ -39322,7 +39322,7 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 # Locate Object
 
-- MDR: [Localiser un objet](hd_spells_localiser_un_objet.md)
+- Alias: [Localiser un objet](hd_spells_localiser_un_objet.md)
 - Source: (SRD p159)
 -  2nd-level divination
 - **Casting Time :** 1 action
@@ -39345,7 +39345,7 @@ This spell can't locate an object if any thickness of lead, even a thin sheet, b
 
 # Longstrider
 
-- MDR: [Grande foulée](hd_spells_grande_foulee.md)
+- Alias: [Grande foulée](hd_spells_grande_foulee.md)
 - Source: (SRD p160)
 -  1st-level transmutation
 - **Casting Time :** 1 action
@@ -39366,7 +39366,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 # Mage Armor
 
-- MDR: [Armure du mage](hd_spells_armure_du_mage.md)
+- Alias: [Armure du mage](hd_spells_armure_du_mage.md)
 - Source: (SRD p160)
 -  1st-level abjuration
 - **Casting Time :** 1 action
@@ -39385,7 +39385,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 # Mage Hand
 
-- MDR: [Main du mage](hd_spells_main_du_mage.md)
+- Alias: [Main du mage](hd_spells_main_du_mage.md)
 - Source: (SRD p160)
 -  Conjuration cantrip
 - **Casting Time :** 1 action
@@ -39408,7 +39408,7 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 # Magic Circle
 
-- MDR: [Cercle magique](hd_spells_cercle_magique.md)
+- Alias: [Cercle magique](hd_spells_cercle_magique.md)
 - Source: (SRD p160)
 -  3th-level abjuration
 - **Casting Time :** 1 minute
@@ -39439,7 +39439,7 @@ When you cast this spell, you can elect to cause its magic to operate in the rev
 
 # Magic Jar
 
-- MDR: [Possession](hd_spells_possession.md)
+- Alias: [Possession](hd_spells_possession.md)
 - Source: (SRD p160)
 -  6th-level necromancy
 - **Casting Time :** 1 minute
@@ -39470,7 +39470,7 @@ When the spell ends, the container is destroyed.
 
 # Magic Missile
 
-- MDR: [Projectile magique](hd_spells_projectile_magique.md)
+- Alias: [Projectile magique](hd_spells_projectile_magique.md)
 - Source: (SRD p161)
 -  1st-level evocation
 - **Casting Time :** 1 action
@@ -39491,7 +39491,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 # Magic Mouth
 
-- MDR: [Bouche magique](hd_spells_bouche_magique.md)
+- Alias: [Bouche magique](hd_spells_bouche_magique.md)
 - Source: (SRD p161)
 -  2nd-level illusion (ritual)
 - **Casting Time :** 1 minute
@@ -39514,7 +39514,7 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 # Magic Weapon
 
-- MDR: [Arme magique](hd_spells_arme_magique.md)
+- Alias: [Arme magique](hd_spells_arme_magique.md)
 - Source: (SRD p161)
 -  2nd-level transmutation
 - **Casting Time :** 1 bonus action
@@ -39535,7 +39535,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 # Major Image
 
-- MDR: [Image majeure](hd_spells_image_majeure.md)
+- Alias: [Image majeure](hd_spells_image_majeure.md)
 - Source: (SRD p162)
 -  3th-level illusion
 - **Casting Time :** 1 action
@@ -39560,7 +39560,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # Mass Cure Wounds
 
-- MDR: [Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)
+- Alias: [Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)
 - Source: (SRD p162)
 -  5th-level evocation
 - **Casting Time :** 1 action
@@ -39581,7 +39581,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 # Mass Heal
 
-- MDR: [Guérison de groupe](hd_spells_guerison_de_groupe.md)
+- Alias: [Guérison de groupe](hd_spells_guerison_de_groupe.md)
 - Source: (SRD p163)
 -  9th-level evocation
 - **Casting Time :** 1 action
@@ -39600,7 +39600,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 # Mass Healing Word
 
-- MDR: [Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)
+- Alias: [Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)
 - Source: (SRD p163)
 -  3th-level evocation
 - **Casting Time :** 1 bonus action
@@ -39621,7 +39621,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 # Mass Suggestion
 
-- MDR: [Suggestion de groupe](hd_spells_suggestion_de_groupe.md)
+- Alias: [Suggestion de groupe](hd_spells_suggestion_de_groupe.md)
 - Source: (SRD p163)
 -  6th-level enchantment
 - **Casting Time :** 1 action
@@ -39648,7 +39648,7 @@ If you or any of your companions damage a creature affected by this spell, the s
 
 # Maze
 
-- MDR: [Labyrinthe](hd_spells_labyrinthe.md)
+- Alias: [Labyrinthe](hd_spells_labyrinthe.md)
 - Source: (SRD p163)
 -  8th-level conjuration
 - **Casting Time :** 1 action
@@ -39671,7 +39671,7 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 # Meld into Stone
 
-- MDR: [Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)
+- Alias: [Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)
 - Source: (SRD p163)
 -  3th-level transmutation (ritual)
 - **Casting Time :** 1 action
@@ -39694,7 +39694,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 # Acid Arrow
 
-- MDR: [Flèche acide](hd_spells_fleche_acide.md)
+- Alias: [Flèche acide](hd_spells_fleche_acide.md)
 - Source: (SRD p114)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -39715,7 +39715,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 # Mending
 
-- MDR: [Réparation](hd_spells_reparation.md)
+- Alias: [Réparation](hd_spells_reparation.md)
 - Source: (SRD p164)
 -  Transmutation cantrip
 - **Casting Time :** 1 minute
@@ -39734,7 +39734,7 @@ This spell repairs a single break or tear in an object you touch, such as a brok
 
 # Message
 
-- MDR: [Message](hd_spells_message.md)
+- Alias: [Message](hd_spells_message.md)
 - Source: (SRD p164)
 -  Transmutation cantrip
 - **Casting Time :** 1 action
@@ -39755,7 +39755,7 @@ You can cast this spell through solid objects if you re familiar with the target
 
 # Meteor Swarm
 
-- MDR: [Nuée de météores](hd_spells_nuee_de_meteores.md)
+- Alias: [Nuée de météores](hd_spells_nuee_de_meteores.md)
 - Source: (SRD p164)
 -  9th-level evocation
 - **Casting Time :** 1 action
@@ -39776,7 +39776,7 @@ The spell damages objects in the area and ignites flammable objects that aren't 
 
 # Mind Blank
 
-- MDR: [Esprit impénétrable](hd_spells_esprit_impenetrable.md)
+- Alias: [Esprit impénétrable](hd_spells_esprit_impenetrable.md)
 - Source: (SRD p164)
 -  8th-level abjuration
 - **Casting Time :** 1 action
@@ -39795,7 +39795,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 # Minor Illusion
 
-- MDR: [Illusion mineure](hd_spells_illusion_mineure.md)
+- Alias: [Illusion mineure](hd_spells_illusion_mineure.md)
 - Source: (SRD p164)
 -  Illusion cantrip
 - **Casting Time :** 1 action
@@ -39820,7 +39820,7 @@ If a creature uses its action to examine the sound or image, the creature can de
 
 # Mirage Arcane
 
-- MDR: [Mirage](hd_spells_mirage.md)
+- Alias: [Mirage](hd_spells_mirage.md)
 - Source: (SRD p165)
 -  7th-level illusion
 - **Casting Time :** 10 minutes
@@ -39845,7 +39845,7 @@ Creatures with truesight can see through the illusion to the terrain's true form
 
 # Mirror Image
 
-- MDR: [Image miroir](hd_spells_image_miroir.md)
+- Alias: [Image miroir](hd_spells_image_miroir.md)
 - Source: (SRD p165)
 -  2nd-level illusion
 - **Casting Time :** 1 action
@@ -39872,7 +39872,7 @@ A creature is unaffected by this spell if it can't see, if it relies on senses o
 
 # Mislead
 
-- MDR: [Tromperie](hd_spells_tromperie.md)
+- Alias: [Tromperie](hd_spells_tromperie.md)
 - Source: (SRD p165)
 -  5th-level illusion
 - **Casting Time :** 1 action
@@ -39895,7 +39895,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 # Misty Step
 
-- MDR: [Pas brumeux](hd_spells_pas_brumeux.md)
+- Alias: [Pas brumeux](hd_spells_pas_brumeux.md)
 - Source: (SRD p165)
 -  2nd-level conjuration
 - **Casting Time :** 1 bonus action
@@ -39914,7 +39914,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 # Modify Memory
 
-- MDR: [Modification de mémoire](hd_spells_modification_de_memoire.md)
+- Alias: [Modification de mémoire](hd_spells_modification_de_memoire.md)
 - Source: (SRD p166)
 -  5th-level enchantment
 - **Casting Time :** 1 action
@@ -39943,7 +39943,7 @@ A _[remove curse](spells_vo.hd#remove-curse)_ or _[greater restoration](spells_v
 
 # Moonbeam
 
-- MDR: [Rayon de lune](hd_spells_rayon_de_lune.md)
+- Alias: [Rayon de lune](hd_spells_rayon_de_lune.md)
 - Source: (SRD p166)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -39970,7 +39970,7 @@ On each of your turns after you cast this spell, you can use an action to move t
 
 # Faithful Hound
 
-- MDR: [Chien de garde](hd_spells_chien_de_garde.md)
+- Alias: [Chien de garde](hd_spells_chien_de_garde.md)
 - Source: (SRD p142)
 -  4th-level conjuration
 - **Casting Time :** 1 action
@@ -39993,7 +39993,7 @@ At the start of each of your turns, the hound attempts to bite one creature with
 
 # Magnificent Mansion
 
-- MDR: [Manoir somptueux](hd_spells_manoir_somptueux.md)
+- Alias: [Manoir somptueux](hd_spells_manoir_somptueux.md)
 - Source: (SRD p162)
 -  7th-level conjuration
 - **Casting Time :** 1 minute
@@ -40016,7 +40016,7 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 # Private Sanctum
 
-- MDR: [Sanctuaire privé](hd_spells_sanctuaire_prive.md)
+- Alias: [Sanctuaire privé](hd_spells_sanctuaire_prive.md)
 - Source: (SRD p171)
 -  4th-level abjuration
 - **Casting Time :** 10 minutes
@@ -40053,7 +40053,7 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 # Arcane Sword
 
-- MDR: [Épée magique](hd_spells_epee_magique.md)
+- Alias: [Épée magique](hd_spells_epee_magique.md)
 - Source: (SRD p119)
 -  7th-level evocation
 - **Casting Time :** 1 action
@@ -40074,7 +40074,7 @@ When the sword appears, you make a melee spell attack against a target of your c
 
 # Move Earth
 
-- MDR: [Déplacer la terre](hd_spells_deplacer_la_terre.md)
+- Alias: [Déplacer la terre](hd_spells_deplacer_la_terre.md)
 - Source: (SRD p166)
 -  6th-level transmutation
 - **Casting Time :** 1 action
@@ -40101,7 +40101,7 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 # Nondetection
 
-- MDR: [Non-détection](hd_spells_non_detection.md)
+- Alias: [Non-détection](hd_spells_non_detection.md)
 - Source: (SRD p167)
 -  3th-level abjuration
 - **Casting Time :** 1 action
@@ -40120,7 +40120,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 # Arcanist's Magic Aura
 
-- MDR: [Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)
+- Alias: [Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)
 - Source: (SRD p119)
 -  2nd-level illusion
 - **Casting Time :** 1 action
@@ -40145,7 +40145,7 @@ When you cast the spell, choose one or both of the following effects. The effect
 
 # Freezing Sphere
 
-- MDR: [Sphère glacée](hd_spells_sphere_glacee.md)
+- Alias: [Sphère glacée](hd_spells_sphere_glacee.md)
 - Source: (SRD p147)
 -  6th-level evocation
 - **Casting Time :** 1 action
@@ -40170,7 +40170,7 @@ You can refrain from firing the globe after completing the spell, if you wish. A
 
 # Resilient Sphere
 
-- MDR: [Sphère résiliente](hd_spells_sphere_resiliente.md)
+- Alias: [Sphère résiliente](hd_spells_sphere_resiliente.md)
 - Source: (SRD p175)
 -  4th-level evocation
 - **Casting Time :** 1 action
@@ -40195,7 +40195,7 @@ A _[disintegrate](spells_vo.hd#disintegrate)_ spell targeting the globe destroys
 
 # Irresistible Dance
 
-- MDR: [Danse irrésistible](hd_spells_danse_irresistible.md)
+- Alias: [Danse irrésistible](hd_spells_danse_irresistible.md)
 - Source: (SRD p158)
 -  6th-level enchantment
 - **Casting Time :** 1 action
@@ -40216,7 +40216,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 
 # Pass without Trace
 
-- MDR: [Passage sans trace](hd_spells_passage_sans_trace.md)
+- Alias: [Passage sans trace](hd_spells_passage_sans_trace.md)
 - Source: (SRD p167)
 -  2nd-level abjuration
 - **Casting Time :** 1 action
@@ -40235,7 +40235,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 # Passwall
 
-- MDR: [Passe-muraille](hd_spells_passe_muraille.md)
+- Alias: [Passe-muraille](hd_spells_passe_muraille.md)
 - Source: (SRD p167)
 -  5th-level transmutation
 - **Casting Time :** 1 action
@@ -40256,7 +40256,7 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 # Phantasmal Killer
 
-- MDR: [Assassin imaginaire](hd_spells_assassin_imaginaire.md)
+- Alias: [Assassin imaginaire](hd_spells_assassin_imaginaire.md)
 - Source: (SRD p167)
 -  4th-level illusion
 - **Casting Time :** 1 action
@@ -40277,7 +40277,7 @@ You tap into the nightmares of a creature you can see within range and create an
 
 # Phantom Steed
 
-- MDR: [Monture fantôme](hd_spells_monture_fantome.md)
+- Alias: [Monture fantôme](hd_spells_monture_fantome.md)
 - Source: (SRD p167)
 -  3th-level illusion (ritual)
 - **Casting Time :** 1 minute
@@ -40298,7 +40298,7 @@ For the duration, you or a creature you choose can ride the steed. The creature 
 
 # Planar Ally
 
-- MDR: [Allié planaire](hd_spells_allie_planaire.md)
+- Alias: [Allié planaire](hd_spells_allie_planaire.md)
 - Source: (SRD p168)
 -  6th-level conjuration
 - **Casting Time :** 10 minutes
@@ -40329,7 +40329,7 @@ A creature enlisted to join your group counts as a member of it, receiving a ful
 
 # Planar Binding
 
-- MDR: [Entrave planaire](hd_spells_entrave_planaire.md)
+- Alias: [Entrave planaire](hd_spells_entrave_planaire.md)
 - Source: (SRD p168)
 -  5th-level abjuration
 - **Casting Time :** 1 hour
@@ -40352,7 +40352,7 @@ A bound creature must follow your instructions to the best of its ability. You m
 
 # Plane Shift
 
-- MDR: [Changement de plan](hd_spells_changement_de_plan.md)
+- Alias: [Changement de plan](hd_spells_changement_de_plan.md)
 - Source: (SRD p168)
 -  7th-level conjuration
 - **Casting Time :** 1 action
@@ -40375,7 +40375,7 @@ You can use this spell to banish an unwilling creature to another plane. Choose 
 
 # Plant Growth
 
-- MDR: [Croissance végétale](hd_spells_croissance_vegetale.md)
+- Alias: [Croissance végétale](hd_spells_croissance_vegetale.md)
 - Source: (SRD p169)
 -  3th-level transmutation
 - **Casting Time :** 1 action or 8 hours
@@ -40400,7 +40400,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a half-m
 
 # Poison Spray
 
-- MDR: [Bouffée de poison](hd_spells_bouffee_de_poison.md)
+- Alias: [Bouffée de poison](hd_spells_bouffee_de_poison.md)
 - Source: (SRD p169)
 -  Conjuration cantrip
 - **Casting Time :** 1 action
@@ -40421,7 +40421,7 @@ This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th leve
 
 # Polymorph
 
-- MDR: [Métamorphose](hd_spells_metamorphose.md)
+- Alias: [Métamorphose](hd_spells_metamorphose.md)
 - Source: (SRD p169)
 -  4th-level transmutation
 - **Casting Time :** 1 action
@@ -40448,7 +40448,7 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 
 # Power Word Kill
 
-- MDR: [Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)
+- Alias: [Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)
 - Source: (SRD p170)
 -  9th-level enchantment
 - **Casting Time :** 1 action
@@ -40467,7 +40467,7 @@ You utter a word of power that can compel one creature you can see within range 
 
 # Power Word Stun
 
-- MDR: [Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)
+- Alias: [Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)
 - Source: (SRD p170)
 -  8th-level enchantment
 - **Casting Time :** 1 action
@@ -40488,7 +40488,7 @@ The stunned target must make a Constitution saving throw at the end of each of i
 
 # Prayer of Healing
 
-- MDR: [Prière de soins](hd_spells_priere_de_soins.md)
+- Alias: [Prière de soins](hd_spells_priere_de_soins.md)
 - Source: (SRD p170)
 -  2nd-level evocation
 - **Casting Time :** 10 minutes
@@ -40509,7 +40509,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 # Prestidigitation
 
-- MDR: [Prestidigitation](hd_spells_prestidigitation.md)
+- Alias: [Prestidigitation](hd_spells_prestidigitation.md)
 - Source: (SRD p170)
 -  Transmutation cantrip
 - **Casting Time :** 1 action
@@ -40542,7 +40542,7 @@ If you cast this spell multiple times, you can have up to three of its non-insta
 
 # Prismatic Spray
 
-- MDR: [Embruns prismatiques](hd_spells_embruns_prismatiques.md)
+- Alias: [Embruns prismatiques](hd_spells_embruns_prismatiques.md)
 - Source: (SRD p170)
 -  7th-level evocation
 - **Casting Time :** 1 action
@@ -40577,7 +40577,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 # Prismatic Wall
 
-- MDR: [Mur prismatique](hd_spells_mur_prismatique.md)
+- Alias: [Mur prismatique](hd_spells_mur_prismatique.md)
 - Source: (SRD p171)
 -  9th-level abjuration
 - **Casting Time :** 1 action
@@ -40618,7 +40618,7 @@ While this layer is in place, spells can't be cast through the wall. The layer i
 
 # Produce Flame
 
-- MDR: [Produire une flamme](hd_spells_produire_une_flamme.md)
+- Alias: [Produire une flamme](hd_spells_produire_une_flamme.md)
 - Source: (SRD p172)
 -  Conjuration cantrip
 - **Casting Time :** 1 action
@@ -40641,7 +40641,7 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 
 # Programmed Illusion
 
-- MDR: [Illusion programmée](hd_spells_illusion_programmee.md)
+- Alias: [Illusion programmée](hd_spells_illusion_programmee.md)
 - Source: (SRD p172)
 -  6th-level illusion
 - **Casting Time :** 1 action
@@ -40666,7 +40666,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # Project Image
 
-- MDR: [Image projetée](hd_spells_image_projetee.md)
+- Alias: [Image projetée](hd_spells_image_projetee.md)
 - Source: (SRD p172)
 -  7th-level illusion
 - **Casting Time :** 1 action
@@ -40691,7 +40691,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # Protection from Energy
 
-- MDR: [Protection contre les énergies](hd_spells_protection_contre_les_energies.md)
+- Alias: [Protection contre les énergies](hd_spells_protection_contre_les_energies.md)
 - Source: (SRD p173)
 -  3th-level abjuration
 - **Casting Time :** 1 action
@@ -40710,7 +40710,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 # Protection from Evil and Good
 
-- MDR: [Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)
+- Alias: [Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)
 - Source: (SRD p173)
 -  1st-level abjuration
 - **Casting Time :** 1 action
@@ -40731,7 +40731,7 @@ The protection grants several benefits. Creatures of those types have disadvanta
 
 # Protection from Poison
 
-- MDR: [Protection contre le poison](hd_spells_protection_contre_le_poison.md)
+- Alias: [Protection contre le poison](hd_spells_protection_contre_le_poison.md)
 - Source: (SRD p173)
 -  2nd-level abjuration
 - **Casting Time :** 1 action
@@ -40752,7 +40752,7 @@ For the duration, the target has advantage on saving throws against being poison
 
 # Purify Food and Drink
 
-- MDR: [Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)
+- Alias: [Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)
 - Source: (SRD p173)
 -  1st-level transmutation (ritual)
 - **Casting Time :** 1 action
@@ -40771,7 +40771,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 # Raise Dead
 
-- MDR: [Rappel à la vie](hd_spells_rappel_a_la_vie.md)
+- Alias: [Rappel à la vie](hd_spells_rappel_a_la_vie.md)
 - Source: (SRD p173)
 -  5th-level necromancy
 - **Casting Time :** 1 hour
@@ -40796,7 +40796,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to all att
 
 # Telepathic Bond
 
-- MDR: [Lien télépathique](hd_spells_lien_telepathique.md)
+- Alias: [Lien télépathique](hd_spells_lien_telepathique.md)
 - Source: (SRD p185)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 action
@@ -40817,7 +40817,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 # Ray of Enfeeblement
 
-- MDR: [Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)
+- Alias: [Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)
 - Source: (SRD p174)
 -  2nd-level necromancy
 - **Casting Time :** 1 action
@@ -40838,7 +40838,7 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 
 # Ray of Frost
 
-- MDR: [Rayon de givre](hd_spells_rayon_de_givre.md)
+- Alias: [Rayon de givre](hd_spells_rayon_de_givre.md)
 - Source: (SRD p174)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -40859,7 +40859,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 # Regenerate
 
-- MDR: [Régénération](hd_spells_regeneration.md)
+- Alias: [Régénération](hd_spells_regeneration.md)
 - Source: (SRD p174)
 -  7th-level transmutation
 - **Casting Time :** 1 minute
@@ -40880,7 +40880,7 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 
 # Reincarnate
 
-- MDR: [Réincarnation](hd_spells_reincarnation.md)
+- Alias: [Réincarnation](hd_spells_reincarnation.md)
 - Source: (SRD p174)
 -  5th-level transmutation
 - **Casting Time :** 1 hour
@@ -40922,7 +40922,7 @@ The reincarnated creature recalls its former life and experiences. It retains th
 
 # Remove Curse
 
-- MDR: [Lever une malédiction](hd_spells_lever_une_malediction.md)
+- Alias: [Lever une malédiction](hd_spells_lever_une_malediction.md)
 - Source: (SRD p174)
 -  3th-level abjuration
 - **Casting Time :** 1 action
@@ -40941,7 +40941,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 # Resistance
 
-- MDR: [Résistance](hd_spells_resistance.md)
+- Alias: [Résistance](hd_spells_resistance.md)
 - Source: (SRD p175)
 -  Abjuration cantrip
 - **Casting Time :** 1 action
@@ -40960,7 +40960,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 # Resurrection
 
-- MDR: [Résurrection](hd_spells_resurrection.md)
+- Alias: [Résurrection](hd_spells_resurrection.md)
 - Source: (SRD p175)
 -  7th-level necromancy
 - **Casting Time :** 1 hour
@@ -40987,7 +40987,7 @@ Casting this spell to restore life to a creature that has been dead for one year
 
 # Reverse Gravity
 
-- MDR: [Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)
+- Alias: [Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)
 - Source: (SRD p175)
 -  7th-level transmutation
 - **Casting Time :** 1 action
@@ -41010,7 +41010,7 @@ At the end of the duration, affected objects and creatures fall back down.
 
 # Revivify
 
-- MDR: [Revigorer](hd_spells_revigorer.md)
+- Alias: [Revigorer](hd_spells_revigorer.md)
 - Source: (SRD p175)
 -  3th-level necromancy
 - **Casting Time :** 1 action
@@ -41029,7 +41029,7 @@ You touch a creature that has died within the last minute. That creature returns
 
 # Rope Trick
 
-- MDR: [Corde enchantée](hd_spells_corde_enchantee.md)
+- Alias: [Corde enchantée](hd_spells_corde_enchantee.md)
 - Source: (SRD p176)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -41054,7 +41054,7 @@ Anything inside the extradimensional space drops out when the spell ends.
 
 # Sacred Flame
 
-- MDR: [Flamme sacrée](hd_spells_flamme_sacree.md)
+- Alias: [Flamme sacrée](hd_spells_flamme_sacree.md)
 - Source: (SRD p176)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -41075,7 +41075,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 # Sanctuary
 
-- MDR: [Sanctuaire](hd_spells_sanctuaire.md)
+- Alias: [Sanctuaire](hd_spells_sanctuaire.md)
 - Source: (SRD p176)
 -  1st-level abjuration
 - **Casting Time :** 1 bonus action
@@ -41096,7 +41096,7 @@ If the warded creature makes an attack or casts a spell that affects an enemy cr
 
 # Scorching Ray
 
-- MDR: [Rayon ardent](hd_spells_rayon_ardent.md)
+- Alias: [Rayon ardent](hd_spells_rayon_ardent.md)
 - Source: (SRD p176)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -41119,7 +41119,7 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 # Scrying
 
-- MDR: [Scrutation](hd_spells_scrutation.md)
+- Alias: [Scrutation](hd_spells_scrutation.md)
 - Source: (SRD p176)
 -  5th-level divination
 - **Casting Time :** 10 minutes
@@ -41152,7 +41152,7 @@ On a successful save, the target isn't affected, and you can't use this spell ag
 
 # See Invisibility
 
-- MDR: [Voir l'invisible](hd_spells_voir_linvisible.md)
+- Alias: [Voir l'invisible](hd_spells_voir_linvisible.md)
 - Source: (SRD p177)
 -  2nd-level divination
 - **Casting Time :** 1 action
@@ -41171,7 +41171,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 # Seeming
 
-- MDR: [Apparence trompeuse](hd_spells_apparence_trompeuse.md)
+- Alias: [Apparence trompeuse](hd_spells_apparence_trompeuse.md)
 - Source: (SRD p177)
 -  5th-level illusion
 - **Casting Time :** 1 action
@@ -41196,7 +41196,7 @@ A creature can use its action to inspect a target and make an Intelligence (Inve
 
 # Sending
 
-- MDR: [Envoi de message](hd_spells_envoi_de_message.md)
+- Alias: [Envoi de message](hd_spells_envoi_de_message.md)
 - Source: (SRD p177)
 -  3th-level evocation
 - **Casting Time :** 1 action
@@ -41217,7 +41217,7 @@ You can send the message across any distance and even to other planes of existen
 
 # Sequester
 
-- MDR: [Séquestration](hd_spells_sequestration.md)
+- Alias: [Séquestration](hd_spells_sequestration.md)
 - Source: (SRD p178)
 -  7th-level transmutation
 - **Casting Time :** 1 action
@@ -41240,7 +41240,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 # Shapechange
 
-- MDR: [Changement de forme](hd_spells_changement_de_forme.md)
+- Alias: [Changement de forme](hd_spells_changement_de_forme.md)
 - Source: (SRD p178)
 -  9th-level transmutation
 - **Casting Time :** 1 action
@@ -41269,7 +41269,7 @@ During this spell's duration, you can use your action to assume a different form
 
 # Shatter
 
-- MDR: [Briser](hd_spells_briser.md)
+- Alias: [Briser](hd_spells_briser.md)
 - Source: (SRD p178)
 -  2nd-level evocation
 - **Casting Time :** 1 action
@@ -41292,7 +41292,7 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 # Shield
 
-- MDR: [Bouclier](hd_spells_bouclier.md)
+- Alias: [Bouclier](hd_spells_bouclier.md)
 - Source: (SRD p179)
 -  1st-level abjuration
 - **Casting Time :** 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell
@@ -41311,7 +41311,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 # Shield of Faith
 
-- MDR: [Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)
+- Alias: [Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)
 - Source: (SRD p179)
 -  1st-level abjuration
 - **Casting Time :** 1 bonus action
@@ -41330,7 +41330,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 # Shillelagh
 
-- MDR: [Gourdin magique](hd_spells_gourdin_magique.md)
+- Alias: [Gourdin magique](hd_spells_gourdin_magique.md)
 - Source: (SRD p179)
 -  Transmutation cantrip
 - **Casting Time :** 1 bonus action
@@ -41349,7 +41349,7 @@ The wood of a club or quarterstaff you are holding is imbued with nature's power
 
 # Shocking Grasp
 
-- MDR: [Poigne électrique](hd_spells_poigne_electrique.md)
+- Alias: [Poigne électrique](hd_spells_poigne_electrique.md)
 - Source: (SRD p179)
 -  Evocation cantrip
 - **Casting Time :** 1 action
@@ -41370,7 +41370,7 @@ The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (
 
 # Silence
 
-- MDR: [Silence](hd_spells_silence.md)
+- Alias: [Silence](hd_spells_silence.md)
 - Source: (SRD p179)
 -  2nd-level illusion (ritual)
 - **Casting Time :** 1 action
@@ -41391,7 +41391,7 @@ Casting a spell that includes a verbal component is impossible there.
 
 # Silent Image
 
-- MDR: [Image silencieuse](hd_spells_image_silencieuse.md)
+- Alias: [Image silencieuse](hd_spells_image_silencieuse.md)
 - Source: (SRD p179)
 -  1st-level illusion
 - **Casting Time :** 1 action
@@ -41414,7 +41414,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 # Simulacrum
 
-- MDR: [Simulacre](hd_spells_simulacre.md)
+- Alias: [Simulacre](hd_spells_simulacre.md)
 - Source: (SRD p180)
 -  7th-level illusion
 - **Casting Time :** 12 hours
@@ -41439,7 +41439,7 @@ If you cast this spell again, any currently active duplicates you created with t
 
 # Sleep
 
-- MDR: [Sommeil](hd_spells_sommeil.md)
+- Alias: [Sommeil](hd_spells_sommeil.md)
 - Source: (SRD p180)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -41464,7 +41464,7 @@ Undead and creatures immune to being charmed aren't affected by this spell.
 
 # Sleet Storm
 
-- MDR: [Tempête de neige](hd_spells_tempete_de_neige.md)
+- Alias: [Tempête de neige](hd_spells_tempete_de_neige.md)
 - Source: (SRD p180)
 -  3th-level conjuration
 - **Casting Time :** 1 action
@@ -41487,7 +41487,7 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 
 # Slow
 
-- MDR: [Lenteur](hd_spells_lenteur.md)
+- Alias: [Lenteur](hd_spells_lenteur.md)
 - Source: (SRD p180)
 -  3th-level transmutation
 - **Casting Time :** 1 action
@@ -41512,7 +41512,7 @@ A creature affected by this spell makes another Wisdom saving throw at the end o
 
 # Spare the Dying
 
-- MDR: [Épargner les mourants](hd_spells_epargner_les_mourants.md)
+- Alias: [Épargner les mourants](hd_spells_epargner_les_mourants.md)
 - Source: (SRD p181)
 -  Necromancy cantrip
 - **Casting Time :** 1 action
@@ -41531,7 +41531,7 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 
 # Speak with Animals
 
-- MDR: [Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)
+- Alias: [Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)
 - Source: (SRD p181)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action
@@ -41550,7 +41550,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 
 # Speak with Dead
 
-- MDR: [Communication avec les morts](hd_spells_communication_avec_les_morts.md)
+- Alias: [Communication avec les morts](hd_spells_communication_avec_les_morts.md)
 - Source: (SRD p181)
 -  3th-level necromancy
 - **Casting Time :** 1 action
@@ -41571,7 +41571,7 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 # Speak with Plants
 
-- MDR: [Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)
+- Alias: [Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)
 - Source: (SRD p181)
 -  3th-level transmutation
 - **Casting Time :** 1 action
@@ -41598,7 +41598,7 @@ This spell can cause the plants created by the _[entangle](spells_vo.hd#entangle
 
 # Spider Climb
 
-- MDR: [Pattes d'araignée](hd_spells_pattes_daraignee.md)
+- Alias: [Pattes d'araignée](hd_spells_pattes_daraignee.md)
 - Source: (SRD p182)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -41617,7 +41617,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 # Spike Growth
 
-- MDR: [Croissance d'épines](hd_spells_croissance_depines.md)
+- Alias: [Croissance d'épines](hd_spells_croissance_depines.md)
 - Source: (SRD p182)
 -  2nd-level transmutation
 - **Casting Time :** 1 action
@@ -41638,7 +41638,7 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 # Spirit Guardians
 
-- MDR: [Esprits gardiens](hd_spells_esprits_gardiens.md)
+- Alias: [Esprits gardiens](hd_spells_esprits_gardiens.md)
 - Source: (SRD p182)
 -  3th-level conjuration
 - **Casting Time :** 1 action
@@ -41661,7 +41661,7 @@ When you cast this spell, you can designate any number of creatures you can see 
 
 # Spiritual Weapon
 
-- MDR: [Arme spirituelle](hd_spells_arme_spirituelle.md)
+- Alias: [Arme spirituelle](hd_spells_arme_spirituelle.md)
 - Source: (SRD p182)
 -  2nd-level evocation
 - **Casting Time :** 1 bonus action
@@ -41686,7 +41686,7 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 
 # Stinking Cloud
 
-- MDR: [Nuage puant](hd_spells_nuage_puant.md)
+- Alias: [Nuage puant](hd_spells_nuage_puant.md)
 - Source: (SRD p182)
 -  3th-level conjuration
 - **Casting Time :** 1 action
@@ -41709,7 +41709,7 @@ A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds.
 
 # Stone Shape
 
-- MDR: [Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)
+- Alias: [Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)
 - Source: (SRD p183)
 -  4th-level transmutation
 - **Casting Time :** 1 action
@@ -41728,7 +41728,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 # Stoneskin
 
-- MDR: [Peau de pierre](hd_spells_peau_de_pierre.md)
+- Alias: [Peau de pierre](hd_spells_peau_de_pierre.md)
 - Source: (SRD p183)
 -  4th-level abjuration
 - **Casting Time :** 1 action
@@ -41747,7 +41747,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 # Storm of Vengeance
 
-- MDR: [Tempête vengeresse](hd_spells_tempete_vengeresse.md)
+- Alias: [Tempête vengeresse](hd_spells_tempete_vengeresse.md)
 - Source: (SRD p183)
 -  9th-level conjuration
 - **Casting Time :** 1 action
@@ -41776,7 +41776,7 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 # Suggestion
 
-- MDR: [Suggestion](hd_spells_suggestion.md)
+- Alias: [Suggestion](hd_spells_suggestion.md)
 - Source: (SRD p183)
 -  2nd-level enchantment
 - **Casting Time :** 1 action
@@ -41801,7 +41801,7 @@ If you or any of your companions damage the target, the spell ends.
 
 # Sunbeam
 
-- MDR: [Rayon de soleil](hd_spells_rayon_de_soleil.md)
+- Alias: [Rayon de soleil](hd_spells_rayon_de_soleil.md)
 - Source: (SRD p184)
 -  6th-level evocation
 - **Casting Time :** 1 action
@@ -41824,7 +41824,7 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 # Sunburst
 
-- MDR: [Éclat du soleil](hd_spells_eclat_du_soleil.md)
+- Alias: [Éclat du soleil](hd_spells_eclat_du_soleil.md)
 - Source: (SRD p184)
 -  8th-level evocation
 - **Casting Time :** 1 action
@@ -41847,7 +41847,7 @@ This spell dispels any darkness in its area that was created by a spell.
 
 # Symbol
 
-- MDR: [Symbole](hd_spells_symbole.md)
+- Alias: [Symbole](hd_spells_symbole.md)
 - Source: (SRD p184)
 -  7th-level abjuration
 - **Casting Time :** 1 minute
@@ -41890,7 +41890,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 # Hideous Laughter
 
-- MDR: [Fou rire](hd_spells_fou_rire.md)
+- Alias: [Fou rire](hd_spells_fou_rire.md)
 - Source: (SRD p154)
 -  1st-level enchantment
 - **Casting Time :** 1 action
@@ -41911,7 +41911,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 # Telekinesis
 
-- MDR: [Télékinésie](hd_spells_telekinesie.md)
+- Alias: [Télékinésie](hd_spells_telekinesie.md)
 - Source: (SRD p185)
 -  5th-level transmutation
 - **Casting Time :** 1 action
@@ -41936,7 +41936,7 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 # Teleport
 
-- MDR: [Téléportation](hd_spells_teleportation.md)
+- Alias: [Téléportation](hd_spells_teleportation.md)
 - Source: (SRD p185)
 -  7th-level conjuration
 - **Casting Time :** 1 action
@@ -41989,7 +41989,7 @@ The destination you choose must be known to you, and it must be on the same plan
 
 # Teleportation Circle
 
-- MDR: [Cercle de téléportation](hd_spells_cercle_de_teleportation.md)
+- Alias: [Cercle de téléportation](hd_spells_cercle_de_teleportation.md)
 - Source: (SRD p186)
 -  5th-level conjuration
 - **Casting Time :** 1 minute
@@ -42012,7 +42012,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 # Floating Disk
 
-- MDR: [Disque flottant](hd_spells_disque_flottant.md)
+- Alias: [Disque flottant](hd_spells_disque_flottant.md)
 - Source: (SRD p146)
 -  1st-level conjuration (ritual)
 - **Casting Time :** 1 action
@@ -42035,7 +42035,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 # Thaumaturgy
 
-- MDR: [Thaumaturgie](hd_spells_thaumaturgie.md)
+- Alias: [Thaumaturgie](hd_spells_thaumaturgie.md)
 - Source: (SRD p187)
 -  Transmutation cantrip
 - **Casting Time :** 1 action
@@ -42068,7 +42068,7 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 # Thunderwave
 
-- MDR: [Vague tonnante](hd_spells_vague_tonnante.md)
+- Alias: [Vague tonnante](hd_spells_vague_tonnante.md)
 - Source: (SRD p187)
 -  1st-level evocation
 - **Casting Time :** 1 action
@@ -42091,7 +42091,7 @@ In addition, unsecured objects that are completely within the area of effect are
 
 # Time Stop
 
-- MDR: [Arrêt du temps](hd_spells_arret_du_temps.md)
+- Alias: [Arrêt du temps](hd_spells_arret_du_temps.md)
 - Source: (SRD p187)
 -  9th-level transmutation
 - **Casting Time :** 1 action
@@ -42112,7 +42112,7 @@ This spell ends if one of the actions you use during this period, or any effects
 
 # Tongues
 
-- MDR: [Langues](hd_spells_langues.md)
+- Alias: [Langues](hd_spells_langues.md)
 - Source: (SRD p187)
 -  3th-level divination
 - **Casting Time :** 1 action
@@ -42131,7 +42131,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 # Transport via Plants
 
-- MDR: [Transport végétal](hd_spells_transport_vegetal.md)
+- Alias: [Transport végétal](hd_spells_transport_vegetal.md)
 - Source: (SRD p188)
 -  6th-level conjuration
 - **Casting Time :** 1 action
@@ -42150,7 +42150,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 # Tree Stride
 
-- MDR: [Passage par les arbres](hd_spells_passage_par_les_arbres.md)
+- Alias: [Passage par les arbres](hd_spells_passage_par_les_arbres.md)
 - Source: (SRD p188)
 -  5th-level conjuration
 - **Casting Time :** 1 action
@@ -42171,7 +42171,7 @@ You can use this transportation ability once per round for the duration. You mus
 
 # True Polymorph
 
-- MDR: [Métamorphose suprême](hd_spells_metamorphose_supreme.md)
+- Alias: [Métamorphose suprême](hd_spells_metamorphose_supreme.md)
 - Source: (SRD p188)
 -  9th-level transmutation
 - **Casting Time :** 1 action
@@ -42206,7 +42206,7 @@ If the spell becomes permanent, you no longer control the creature. It might rem
 
 # True Resurrection
 
-- MDR: [Résurrection suprême](hd_spells_resurrection_supreme.md)
+- Alias: [Résurrection suprême](hd_spells_resurrection_supreme.md)
 - Source: (SRD p189)
 -  9th-level necromancy
 - **Casting Time :** 1 hour
@@ -42229,7 +42229,7 @@ The spell can even provide a new body if the original no longer exists, in which
 
 # True Seeing
 
-- MDR: [Vision suprême](hd_spells_vision_supreme.md)
+- Alias: [Vision suprême](hd_spells_vision_supreme.md)
 - Source: (SRD p189)
 -  6th-level divination
 - **Casting Time :** 1 action
@@ -42248,7 +42248,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 # True Strike
 
-- MDR: [Viser juste](hd_spells_viser_juste.md)
+- Alias: [Viser juste](hd_spells_viser_juste.md)
 - Source: (SRD p189)
 -  Divination cantrip
 - **Casting Time :** 1 action
@@ -42267,7 +42267,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 # Unseen Servant
 
-- MDR: [Serviteur invisible](hd_spells_serviteur_invisible.md)
+- Alias: [Serviteur invisible](hd_spells_serviteur_invisible.md)
 - Source: (SRD p189)
 -  1st-level conjuration (ritual)
 - **Casting Time :** 1 action
@@ -42290,7 +42290,7 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 # Vampiric Touch
 
-- MDR: [Caresse du vampire](hd_spells_caresse_du_vampire.md)
+- Alias: [Caresse du vampire](hd_spells_caresse_du_vampire.md)
 - Source: (SRD p189)
 -  3th-level necromancy
 - **Casting Time :** 1 action
@@ -42311,7 +42311,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 
 # Vicious Mockery
 
-- MDR: [Moquerie cruelle](hd_spells_moquerie_cruelle.md)
+- Alias: [Moquerie cruelle](hd_spells_moquerie_cruelle.md)
 - Source: (SRD p189)
 -  Enchantment cantrip
 - **Casting Time :** 1 action
@@ -42332,7 +42332,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 
 # Wall of Fire
 
-- MDR: [Mur de feu](hd_spells_mur_de_feu.md)
+- Alias: [Mur de feu](hd_spells_mur_de_feu.md)
 - Source: (SRD p190)
 -  4th-level evocation
 - **Casting Time :** 1 action
@@ -42359,7 +42359,7 @@ The other side of the wall deals no damage.
 
 # Wall of Force
 
-- MDR: [Mur de force](hd_spells_mur_de_force.md)
+- Alias: [Mur de force](hd_spells_mur_de_force.md)
 - Source: (SRD p190)
 -  5th-level evocation
 - **Casting Time :** 1 action
@@ -42380,7 +42380,7 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 # Wall of Ice
 
-- MDR: [Mur de glace](hd_spells_mur_de_glace.md)
+- Alias: [Mur de glace](hd_spells_mur_de_glace.md)
 - Source: (SRD p190)
 -  6th-level evocation
 - **Casting Time :** 1 action
@@ -42405,7 +42405,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 
 # Wall of Stone
 
-- MDR: [Mur de pierre](hd_spells_mur_de_pierre.md)
+- Alias: [Mur de pierre](hd_spells_mur_de_pierre.md)
 - Source: (SRD p190)
 -  5th-level evocation
 - **Casting Time :** 1 action
@@ -42434,7 +42434,7 @@ If you maintain your concentration on this spell for its whole duration, the wal
 
 # Wall of Thorns
 
-- MDR: [Mur d'épines](hd_spells_mur_depines.md)
+- Alias: [Mur d'épines](hd_spells_mur_depines.md)
 - Source: (SRD p191)
 -  6th-level conjuration
 - **Casting Time :** 1 action
@@ -42459,7 +42459,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 # Warding Bond
 
-- MDR: [Lien de protection](hd_spells_lien_de_protection.md)
+- Alias: [Lien de protection](hd_spells_lien_de_protection.md)
 - Source: (SRD p191)
 -  2nd-level abjuration
 - **Casting Time :** 1 action
@@ -42480,7 +42480,7 @@ The spell ends if you drop to 0 hit points or if you and the target become separ
 
 # Water Breathing
 
-- MDR: [Respiration aquatique](hd_spells_respiration_aquatique.md)
+- Alias: [Respiration aquatique](hd_spells_respiration_aquatique.md)
 - Source: (SRD p191)
 -  3th-level transmutation (ritual)
 - **Casting Time :** 1 action
@@ -42499,7 +42499,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 # Water Walk
 
-- MDR: [Marche sur l'eau](hd_spells_marche_sur_leau.md)
+- Alias: [Marche sur l'eau](hd_spells_marche_sur_leau.md)
 - Source: (SRD p191)
 -  3th-level transmutation (ritual)
 - **Casting Time :** 1 action
@@ -42520,7 +42520,7 @@ If you target a creature submerged in a liquid, the spell carries the target to 
 
 # Web
 
-- MDR: [Toile d'araignée](hd_spells_toile_daraignee.md)
+- Alias: [Toile d'araignée](hd_spells_toile_daraignee.md)
 - Source: (SRD p192)
 -  2nd-level conjuration
 - **Casting Time :** 1 action
@@ -42547,7 +42547,7 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 
 # Weird
 
-- MDR: [Étrangeté](hd_spells_etrangete.md)
+- Alias: [Étrangeté](hd_spells_etrangete.md)
 - Source: (SRD p192)
 -  9th-level illusion
 - **Casting Time :** 1 action
@@ -42566,7 +42566,7 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 # Wind Walk
 
-- MDR: [Marche sur le vent](hd_spells_marche_sur_le_vent.md)
+- Alias: [Marche sur le vent](hd_spells_marche_sur_le_vent.md)
 - Source: (SRD p192)
 -  6th-level transmutation
 - **Casting Time :** 1 minute
@@ -42587,7 +42587,7 @@ If a creature is in cloud form and flying when the effect ends, the creature des
 
 # Wind Wall
 
-- MDR: [Mur de vent](hd_spells_mur_de_vent.md)
+- Alias: [Mur de vent](hd_spells_mur_de_vent.md)
 - Source: (SRD p192)
 -  3th-level evocation
 - **Casting Time :** 1 action
@@ -42610,7 +42610,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 # Wish
 
-- MDR: [Souhait](hd_spells_souhait.md)
+- Alias: [Souhait](hd_spells_souhait.md)
 - Source: (SRD p193)
 -  9th-level conjuration
 - **Casting Time :** 1 action
@@ -42647,7 +42647,7 @@ The stress of casting this spell to produce any effect other than duplicating an
 
 # Word of Recall
 
-- MDR: [Mot de retour](hd_spells_mot_de_retour.md)
+- Alias: [Mot de retour](hd_spells_mot_de_retour.md)
 - Source: (SRD p193)
 -  6th-level conjuration
 - **Casting Time :** 1 action
@@ -42668,7 +42668,7 @@ You must designate a sanctuary by casting this spell within a location, such as 
 
 # Zone of Truth
 
-- MDR: [Zone de vérité](hd_spells_zone_de_verite.md)
+- Alias: [Zone de vérité](hd_spells_zone_de_verite.md)
 - Source: (SRD p193)
 -  2nd-level enchantment
 - **Casting Time :** 1 action

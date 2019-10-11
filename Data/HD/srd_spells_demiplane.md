@@ -4,7 +4,7 @@
 
 # Demiplane
 
-- MDR: [Demi-plan](hd_spells_demi_plan.md)
+- Alias: [Demi-plan](hd_spells_demi_plan.md)
 - Source: (SRD p134)
 -  8th-level conjuration
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Fire Shield
 
-- MDR: [Bouclier de feu](hd_spells_bouclier_de_feu.md)
+- Alias: [Bouclier de feu](hd_spells_bouclier_de_feu.md)
 - Source: (SRD p144)
 -  4th-level evocation
 - **Casting Time :** 1 action

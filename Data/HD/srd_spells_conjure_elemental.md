@@ -4,7 +4,7 @@
 
 # Conjure Elemental
 
-- MDR: [Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)
+- Alias: [Invoquer un élémentaire](hd_spells_invoquer_un_elementaire.md)
 - Source: (SRD p128)
 -  5th-level conjuration
 - **Casting Time :** 1 minute

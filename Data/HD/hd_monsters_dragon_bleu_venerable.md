@@ -5,7 +5,7 @@
 # Dragon bleu vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
+- Alias: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 22 (armure naturelle)

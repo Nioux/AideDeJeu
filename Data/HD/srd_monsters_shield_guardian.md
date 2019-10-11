@@ -4,7 +4,7 @@
 
 # Shield Guardian
 
-- CEO: [Garde animé](hd_monsters_garde_anime.md)
+- Alias: [Garde animé](hd_monsters_garde_anime.md)
 -  Large construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 142 (15d10 + 60)

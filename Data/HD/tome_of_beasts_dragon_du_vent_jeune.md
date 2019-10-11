@@ -5,7 +5,7 @@
 # Dragon Du Vent, Jeune
 
 - Source: (LDM p137)(TOB p144)
-- TOB: Wind Dragon, Young
+- Alias: Wind Dragon, Young
 -  Dragon de Grande taille (G), chaotique neutre
 - **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)

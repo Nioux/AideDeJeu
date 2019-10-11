@@ -5,7 +5,7 @@
 # Bagiennik
 
 - Source: (LDM p35)(TOB p31)
-- TOB: Bagiennik
+- Alias: Bagiennik
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)

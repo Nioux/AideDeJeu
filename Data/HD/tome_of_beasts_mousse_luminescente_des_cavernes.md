@@ -5,7 +5,7 @@
 # Mousse Luminescente Des Cavernes
 
 - Source: (LDM p313)(TOB p53)
-- TOB: Cavelight Moss
+- Alias: Cavelight Moss
 -  Plante de Grande taille (G), neutre
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)

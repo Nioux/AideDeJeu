@@ -4,7 +4,7 @@
 
 # Crab
 
-- CEO: [Crabe](hd_monsters_crabe.md)
+- Alias: [Crabe](hd_monsters_crabe.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 2 (1d4)

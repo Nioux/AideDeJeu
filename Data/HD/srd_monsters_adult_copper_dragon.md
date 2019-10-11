@@ -4,7 +4,7 @@
 
 # Adult Copper Dragon
 
-- CEO: [Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)
+- Alias: [Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)
 -  Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d12 + 80)

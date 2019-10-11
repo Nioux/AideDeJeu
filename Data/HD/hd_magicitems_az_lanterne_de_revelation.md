@@ -4,7 +4,7 @@
 
 ### Lanterne de révélation
 
-- AltName: Lantern of Revealing (SRD p228)
+- Alias: Lantern of Revealing (SRD p228)
 - Source: (CDC p170)
 -  Objet merveilleux, peu courant
 

@@ -5,7 +5,7 @@
 # Faux-Bourdon Tosculi
 
 - Source: (LDM p387)(TOB p386)
-- TOB: Tosculi Drone
+- Alias: Tosculi Drone
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

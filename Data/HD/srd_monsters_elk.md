@@ -4,7 +4,7 @@
 
 # Elk
 
-- CEO: [Élan](hd_monsters_elan.md)
+- Alias: [Élan](hd_monsters_elan.md)
 -  Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d10 + 2)

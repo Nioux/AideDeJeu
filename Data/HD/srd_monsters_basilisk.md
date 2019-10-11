@@ -4,7 +4,7 @@
 
 # Basilisk
 
-- CEO: [Basilic](hd_monsters_basilic.md)
+- Alias: [Basilic](hd_monsters_basilic.md)
 - Source: (SRD p265)
 -  Medium monstrosity, unaligned
 - **Armor Class** 15 (natural armor)

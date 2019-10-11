@@ -4,7 +4,7 @@
 
 # Flame Blade
 
-- MDR: [Lame de feu](hd_spells_lame_de_feu.md)
+- Alias: [Lame de feu](hd_spells_lame_de_feu.md)
 - Source: (SRD p145)
 -  2nd-level evocation
 - **Casting Time :** 1 bonus action

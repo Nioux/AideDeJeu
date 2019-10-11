@@ -4,7 +4,7 @@
 
 # Animal Friendship
 
-- MDR: [Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)
+- Alias: [Amitié avec les animaux](hd_spells_amitie_avec_les_animaux.md)
 - Source: (SRD p115)
 -  1st-level enchantment
 - **Casting Time :** 1 action

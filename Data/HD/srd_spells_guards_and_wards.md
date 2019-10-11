@@ -4,7 +4,7 @@
 
 # Guards and Wards
 
-- MDR: [Protections et sceaux](hd_spells_protections_et_sceaux.md)
+- Alias: [Protections et sceaux](hd_spells_protections_et_sceaux.md)
 - Source: (SRD p151)
 -  6th-level abjuration
 - **Casting Time :** 10 minutes

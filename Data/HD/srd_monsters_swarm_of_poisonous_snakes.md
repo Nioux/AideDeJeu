@@ -4,7 +4,7 @@
 
 # Swarm of Poisonous Snakes
 
-- CEO: [Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)
+- Alias: [Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 14
 - **Hit Points** 36 (8d8)

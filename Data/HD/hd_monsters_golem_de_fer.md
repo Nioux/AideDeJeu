@@ -5,7 +5,7 @@
 # Golem de fer
 
 - Source: (CEO p)(SRD p)
-- SRD: [Iron Golem](srd_monsters_iron_golem.md)
+- Alias: [Iron Golem](srd_monsters_iron_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 20 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Disque flottant
 
-- SRD: [Floating Disk](srd_spells_floating_disk.md)
+- Alias: [Floating Disk](srd_spells_floating_disk.md)
 
 -  Invocation de niveau 1 (rituel)
 

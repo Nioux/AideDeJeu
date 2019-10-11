@@ -4,7 +4,7 @@
 
 # Mot de pouvoir étourdissant
 
-- SRD: [Power Word Stun](srd_spells_power_word_stun.md)
+- Alias: [Power Word Stun](srd_spells_power_word_stun.md)
 
 -  Enchantement de niveau 8
 

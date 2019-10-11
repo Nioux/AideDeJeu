@@ -5,7 +5,7 @@
 # Dragon Des Cavernes, Jeune
 
 - Source: (LDM p135)(TOB p127)
-- TOB: Young Cave Dragon
+- Alias: Young Cave Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)

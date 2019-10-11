@@ -4,7 +4,7 @@
 
 # Coffre secret
 
-- SRD: [Secret Chest](srd_spells_secret_chest.md)
+- Alias: [Secret Chest](srd_spells_secret_chest.md)
 
 -  Invocation de niveau 4
 

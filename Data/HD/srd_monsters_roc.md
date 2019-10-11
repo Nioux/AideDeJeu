@@ -4,7 +4,7 @@
 
 # Roc
 
-- CEO: [Roc](hd_monsters_roc.md)
+- Alias: [Roc](hd_monsters_roc.md)
 -  Gargantuan monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 248 (16d20 + 80)

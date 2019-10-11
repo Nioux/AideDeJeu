@@ -4,7 +4,7 @@
 
 # Confusion
 
-- SRD: [Confusion](srd_spells_confusion.md)
+- Alias: [Confusion](srd_spells_confusion.md)
 
 -  Enchantement de niveau 4
 

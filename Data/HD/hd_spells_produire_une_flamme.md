@@ -4,7 +4,7 @@
 
 # Produire une flamme
 
-- SRD: [Produce Flame](srd_spells_produce_flame.md)
+- Alias: [Produce Flame](srd_spells_produce_flame.md)
 
 -  Invocation , tour de magie
 

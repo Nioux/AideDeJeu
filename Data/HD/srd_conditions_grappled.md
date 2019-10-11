@@ -4,7 +4,7 @@
 
 # Grappled
 
-- AltName: [Empoigné](hd_conditions_empoigne.md)
+- Alias: [Empoigné](hd_conditions_empoigne.md)
 - Source: (SRD p358)
 
 * A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.

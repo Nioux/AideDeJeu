@@ -5,7 +5,7 @@
 # Cikavak
 
 - Source: (LDM p63)(TOB p58)
-- TOB: Cikavak
+- Alias: Cikavak
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 12
 - **Points de vie** 17 (7d4)

@@ -5,7 +5,7 @@
 # Homme-Ours
 
 - Source: (LDM p244)(TOB p33)
-- TOB: Bearfold
+- Alias: Bearfold
 -  Humanoïde (homme-ours) de taille Moyenne (M), chaotique bon
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure de peau)

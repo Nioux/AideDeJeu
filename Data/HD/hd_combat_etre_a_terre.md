@@ -4,7 +4,7 @@
 
 ### Être à terre
 
-- AltName: Being Prone (SRD p91)
+- Alias: Being Prone (SRD p91)
 - Source: (MDR p286)
 
 Il n'est pas rare que des combattants se trouvent au sol, allongés par terre, qu'ils aient été renversés ou qu'ils se soient eux-mêmes jetés au sol. Dans le cadre du jeu, on dit qu'ils sont à terre, un état décrit à la page 301 du chapitre 10, Gérer la santé.

@@ -5,7 +5,7 @@
 # Jeune Spinosaure
 
 - Source: (LDM p120)(TOB p117)
-- TOB: Young Spinosaurus
+- Alias: Young Spinosaurus
 -  Bête de Très Grande taille (TG), non alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)

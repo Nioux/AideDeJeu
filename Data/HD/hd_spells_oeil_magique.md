@@ -4,7 +4,7 @@
 
 # Oeil magique
 
-- SRD: [Arcane Eye](srd_spells_arcane_eye.md)
+- Alias: [Arcane Eye](srd_spells_arcane_eye.md)
 
 -  Divination de niveau 4
 

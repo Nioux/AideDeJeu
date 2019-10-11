@@ -5,7 +5,7 @@
 
 # États spéciaux
 
-- AltName: [Conditions](srd_conditions.md)
+- Alias: [Conditions](srd_conditions.md)
 - Source: (MDR p299)
 
 Les états modifient les capacités d'une créature de diverses manières et résultent d'un sort, d'une aptitude de classe, d'une attaque de monstre ou d'un autre effet. La plupart des états ont un effet négatif, comme lorsque vous êtes [aveuglé](hd_conditions_aveugle.md), mais quelques-uns confèrent un bénéfice, comme d'être [invisible](hd_conditions_invisible.md).

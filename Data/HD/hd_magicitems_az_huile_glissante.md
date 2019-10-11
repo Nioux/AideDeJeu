@@ -4,7 +4,7 @@
 
 ### Huile glissante
 
-- AltName: Oil of Slipperiness (SRD p232)
+- Alias: Oil of Slipperiness (SRD p232)
 - Source: (CDC p170)
 -  Potion, peu courante
 

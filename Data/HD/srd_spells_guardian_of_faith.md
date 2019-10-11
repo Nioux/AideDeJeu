@@ -4,7 +4,7 @@
 
 # Guardian of Faith
 
-- MDR: [Gardien de la foi](hd_spells_gardien_de_la_foi.md)
+- Alias: [Gardien de la foi](hd_spells_gardien_de_la_foi.md)
 - Source: (SRD p150)
 -  4th-level conjuration
 - **Casting Time :** 1 action

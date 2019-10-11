@@ -4,7 +4,7 @@
 
 # Compulsion
 
-- SRD: [Compulsion](srd_spells_compulsion.md)
+- Alias: [Compulsion](srd_spells_compulsion.md)
 
 -  Enchantement de niveau 4
 

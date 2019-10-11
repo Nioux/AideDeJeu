@@ -5,7 +5,7 @@
 # Mastiff
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mastiff](srd_monsters_mastiff.md)
+- Alias: [Mastiff](srd_monsters_mastiff.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

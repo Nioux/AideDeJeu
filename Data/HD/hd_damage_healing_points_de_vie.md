@@ -4,7 +4,7 @@
 
 ### Points de vie
 
-- AltName: Hit Points
+- Alias: Hit Points
 - Source: (MDR p298)(SRD p96)
 
 Les points de vie représentent une combinaison de résistance mentale et physique, de volonté de vivre et de chance. Plus une créature a de points de vie, plus elle est difficile à tuer. Les créatures avec peu de points de vie sont plus fragiles.

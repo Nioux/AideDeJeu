@@ -4,7 +4,7 @@
 
 # Plane Shift
 
-- MDR: [Changement de plan](hd_spells_changement_de_plan.md)
+- Alias: [Changement de plan](hd_spells_changement_de_plan.md)
 - Source: (SRD p168)
 -  7th-level conjuration
 - **Casting Time :** 1 action

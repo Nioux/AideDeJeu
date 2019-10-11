@@ -4,7 +4,7 @@
 
 # Ancient Bronze Dragon
 
-- CEO: [Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)
+- Alias: [Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)
 -  Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 444 (24d20 + 192)

@@ -4,7 +4,7 @@
 
 ### Menottes dimensionnelles
 
-- AltName: Dimensional Shackles (SRD p219)
+- Alias: Dimensional Shackles (SRD p219)
 - Source: (CDC p173)
 -  Objet merveilleux, rare
 

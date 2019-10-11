@@ -4,7 +4,7 @@
 
 # Vulture
 
-- CEO: [Vautour](hd_monsters_vautour.md)
+- Alias: [Vautour](hd_monsters_vautour.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 5 (1d8 + 1)

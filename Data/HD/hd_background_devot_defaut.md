@@ -4,7 +4,7 @@
 
 ##### Défaut
 
-- AltName: Flaw  (SRD p61)
+- Alias: Flaw  (SRD p61)
 - Source: (MDR p83)
 
 |d6|Défaut|

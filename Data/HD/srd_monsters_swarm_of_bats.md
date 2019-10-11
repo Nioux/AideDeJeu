@@ -4,7 +4,7 @@
 
 # Swarm of Bats
 
-- CEO: [Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)
+- Alias: [Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)

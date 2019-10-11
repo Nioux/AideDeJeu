@@ -5,7 +5,7 @@
 # Roturier
 
 - Source: (CEO p)(SRD p)
-- SRD: [Commoner](srd_monsters_commoner.md)
+- Alias: [Commoner](srd_monsters_commoner.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 10

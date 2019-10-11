@@ -5,7 +5,7 @@
 # Garde
 
 - Source: (CEO p)(SRD p)
-- SRD: [Guard](srd_monsters_guard.md)
+- Alias: [Guard](srd_monsters_guard.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 16 (bouclier, chemise de mailles)

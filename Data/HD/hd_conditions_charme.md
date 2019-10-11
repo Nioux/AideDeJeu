@@ -4,7 +4,7 @@
 
 # Charmé
 
-- AltName: [Charmed](srd_conditions_charmed.md)
+- Alias: [Charmed](srd_conditions_charmed.md)
 
 * Une créature charmée se trouve dans l'incapacité d'attaquer l'individu qui l'a charmée ou de le cibler avec une capacité ou un effet magique néfaste.
 

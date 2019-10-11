@@ -5,7 +5,7 @@
 # Dragonnet noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
+- Alias: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)

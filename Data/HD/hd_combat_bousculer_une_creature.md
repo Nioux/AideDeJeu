@@ -4,7 +4,7 @@
 
 #### Bousculer une créature
 
-- AltName: Shoving a Creature (SRD p96)
+- Alias: Shoving a Creature (SRD p96)
 - Source: (MDR p292)
 
 Vous pouvez utiliser l'action attaquer pour porter une attaque de corps-à-corps spéciale consistant à bousculer une créature, soit pour la faire tomber à terre, soit pour la repousser loin de vous. Si vous pouvez accomplir plusieurs attaques pendant votre action attaquer, cette attaque spéciale remplace l'une d'entre elles.

@@ -4,7 +4,7 @@
 
 # Purification de la nourriture et de l'eau
 
-- SRD: [Purify Food and Drink](srd_spells_purify_food_and_drink.md)
+- Alias: [Purify Food and Drink](srd_spells_purify_food_and_drink.md)
 
 -  Transmutation de niveau 1 (rituel)
 

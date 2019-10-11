@@ -5,7 +5,7 @@
 # Chien Du Temple
 
 - Source: (LDM p60)(TOB p378)
-- TOB: Temple Dog
+- Alias: Temple Dog
 -  Céleste de taille Moyenne (M), bon
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 97 (15d8+30)

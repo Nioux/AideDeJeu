@@ -3,7 +3,7 @@
 ---
 
 
-- AltName: Beyond 1st Level (SRD p56)
+- Alias: Beyond 1st Level (SRD p56)
 - Source: (MDR p32)
 
 # Au-delà du niveau 1

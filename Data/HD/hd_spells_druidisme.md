@@ -4,7 +4,7 @@
 
 # Druidisme
 
-- SRD: [Druidcraft](srd_spells_druidcraft.md)
+- Alias: [Druidcraft](srd_spells_druidcraft.md)
 
 -  Transmutation, tour de magie
 

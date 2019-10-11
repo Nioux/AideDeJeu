@@ -4,7 +4,7 @@
 
 ### Bracelets de défense
 
-- AltName: Bracers of Defense (SRD p212)
+- Alias: Bracers of Defense (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, rare (harmonisation requise)
 

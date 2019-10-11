@@ -4,7 +4,7 @@
 
 # Rayon de lune
 
-- SRD: [Moonbeam](srd_spells_moonbeam.md)
+- Alias: [Moonbeam](srd_spells_moonbeam.md)
 
 -  Évocation de niveau 2
 

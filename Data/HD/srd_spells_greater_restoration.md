@@ -4,7 +4,7 @@
 
 # Greater Restoration
 
-- MDR: [Restauration supérieure](hd_spells_restauration_superieure.md)
+- Alias: [Restauration supérieure](hd_spells_restauration_superieure.md)
 - Source: (SRD p150)
 -  5th-level abjuration
 - **Casting Time :** 1 action

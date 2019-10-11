@@ -4,7 +4,7 @@
 
 ### Harnois nain
 
-- AltName: Dwarven Plate (SRD p220)
+- Alias: Dwarven Plate (SRD p220)
 - Source: (CDC p168)
 -  Armure (harnois), très rare
 

@@ -5,7 +5,7 @@
 # Tigre-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Weretiger](srd_monsters_weretiger.md)
+- Alias: [Weretiger](srd_monsters_weretiger.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre
 - **Terrain** Jungle
 - **Classe d'armure** 12

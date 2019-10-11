@@ -4,7 +4,7 @@
 
 # Mur de feu
 
-- SRD: [Wall of Fire](srd_spells_wall_of_fire.md)
+- Alias: [Wall of Fire](srd_spells_wall_of_fire.md)
 
 -  Évocation de niveau 4
 

@@ -4,7 +4,7 @@
 
 # Invisibilité
 
-- SRD: [Invisibility](srd_spells_invisibility.md)
+- Alias: [Invisibility](srd_spells_invisibility.md)
 
 -  Illusion de niveau 2
 

@@ -5,7 +5,7 @@
 # Tarasque
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tarrasque](srd_monsters_tarrasque.md)
+- Alias: [Tarrasque](srd_monsters_tarrasque.md)
 -  Créature monstrueuse (titan) de taille Gig, non-alignée
 - **Terrain** 
 - **Classe d'armure** 25 (armure naturelle)

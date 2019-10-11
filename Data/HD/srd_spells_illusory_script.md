@@ -4,7 +4,7 @@
 
 # Illusory Script
 
-- MDR: [Texte illusoire](hd_spells_texte_illusoire.md)
+- Alias: [Texte illusoire](hd_spells_texte_illusoire.md)
 - Source: (SRD p156)
 -  1st-level illusion (ritual)
 - **Casting Time :** 1 minute

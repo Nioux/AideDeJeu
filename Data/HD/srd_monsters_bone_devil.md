@@ -4,7 +4,7 @@
 
 # Bone Devil
 
-- CEO: [Diable osseux](hd_monsters_diable_osseux.md)
+- Alias: [Diable osseux](hd_monsters_diable_osseux.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 142 (15d10 + 60)

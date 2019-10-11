@@ -4,7 +4,7 @@
 
 # Conjure Fey
 
-- MDR: [Invoquer une fée](hd_spells_invoquer_une_fee.md)
+- Alias: [Invoquer une fée](hd_spells_invoquer_une_fee.md)
 - Source: (SRD p128)
 -  6th-level conjuration
 - **Casting Time :** 1 minute

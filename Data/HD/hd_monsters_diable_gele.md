@@ -5,7 +5,7 @@
 # Diable gelé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ice Devil](srd_monsters_ice_devil.md)
+- Alias: [Ice Devil](srd_monsters_ice_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)

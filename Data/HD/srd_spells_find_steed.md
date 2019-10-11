@@ -4,7 +4,7 @@
 
 # Find Steed
 
-- MDR: [Trouver une monture](hd_spells_trouver_une_monture.md)
+- Alias: [Trouver une monture](hd_spells_trouver_une_monture.md)
 - Source: (SRD p143)
 -  2nd-level conjuration
 - **Casting Time :** 10 minutes

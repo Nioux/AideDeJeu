@@ -5,7 +5,7 @@
 
 # Objets magiques
 
-- AltName: Magic Items (SRD p206)
+- Alias: Magic Items (SRD p206)
 - Source: (CDC p129)
 
 Les objets magiques sont récupérés dans les caches aux trésors de monstres vaincus ou dans des chambres fortes depuis longtemps oubliées. Ces objets confèrent à leur détenteur des capacités qu'ils ont rarement l'occasion de maîtriser par ailleurs ou complètent leurs capacités par le biais d'une extraordinaire magie.

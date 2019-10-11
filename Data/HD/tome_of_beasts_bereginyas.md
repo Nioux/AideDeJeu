@@ -5,7 +5,7 @@
 # Béreginyas
 
 - Source: (LDM p40)(TOB p36)
-- TOB: Bereginyas
+- Alias: Bereginyas
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Terrain** Montagnes
 - **Classe d'armure** 15

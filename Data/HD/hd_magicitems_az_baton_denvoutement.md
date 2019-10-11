@@ -4,7 +4,7 @@
 
 ### Bâton d'envoûtement
 
-- AltName: Staff of Charming (SRD p243)
+- Alias: Staff of Charming (SRD p243)
 - Source: (CDC p148)
 -  Bâton, rare (harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée)
 

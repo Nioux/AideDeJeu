@@ -4,7 +4,7 @@
 
 # Plant Growth
 
-- MDR: [Croissance végétale](hd_spells_croissance_vegetale.md)
+- Alias: [Croissance végétale](hd_spells_croissance_vegetale.md)
 - Source: (SRD p169)
 -  3th-level transmutation
 - **Casting Time :** 1 action or 8 hours

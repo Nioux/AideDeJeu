@@ -4,7 +4,7 @@
 
 # Magnificent Mansion
 
-- MDR: [Manoir somptueux](hd_spells_manoir_somptueux.md)
+- Alias: [Manoir somptueux](hd_spells_manoir_somptueux.md)
 - Source: (SRD p162)
 -  7th-level conjuration
 - **Casting Time :** 1 minute

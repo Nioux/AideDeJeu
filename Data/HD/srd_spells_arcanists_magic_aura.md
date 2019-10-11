@@ -4,7 +4,7 @@
 
 # Arcanist's Magic Aura
 
-- MDR: [Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)
+- Alias: [Aura magique de l'arcaniste](hd_spells_aura_magique_de_larcaniste.md)
 - Source: (SRD p119)
 -  2nd-level illusion
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Protection contre la mort
 
-- SRD: [Death Ward](srd_spells_death_ward.md)
+- Alias: [Death Ward](srd_spells_death_ward.md)
 
 -  Abjuration de niveau 4
 

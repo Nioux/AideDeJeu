@@ -4,7 +4,7 @@
 
 ### Arme vicieuse
 
-- AltName: Vicious Weapon (SRD p248)
+- Alias: Vicious Weapon (SRD p248)
 - Source: (CDC p143)
 -  Arme (n'importe quelle arme), rare
 

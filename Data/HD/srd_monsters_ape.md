@@ -4,7 +4,7 @@
 
 # Ape
 
-- CEO: [Grand singe](hd_monsters_grand_singe.md)
+- Alias: [Grand singe](hd_monsters_grand_singe.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 19 (3d8 + 6)

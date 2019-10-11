@@ -4,7 +4,7 @@
 
 ### Poussière de disparition
 
-- AltName: Dust of Disappearance (SRD p219)
+- Alias: Dust of Disappearance (SRD p219)
 - Source: (CDC p179)
 -  Objet merveilleux, peu courant
 

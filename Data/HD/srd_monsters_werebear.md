@@ -4,7 +4,7 @@
 
 # Werebear
 
-- CEO: [Ours-garou](hd_monsters_ours_garou.md)
+- Alias: [Ours-garou](hd_monsters_ours_garou.md)
 -  Medium humanoid (human, shapechanger), neutral good
 - **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 - **Hit Points** 135 (18d8 + 54)

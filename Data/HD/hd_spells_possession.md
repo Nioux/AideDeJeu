@@ -4,7 +4,7 @@
 
 # Possession
 
-- SRD: [Magic Jar](srd_spells_magic_jar.md)
+- Alias: [Magic Jar](srd_spells_magic_jar.md)
 
 -  Nécromancie de niveau 6
 

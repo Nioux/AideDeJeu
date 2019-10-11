@@ -5,7 +5,7 @@
 
 # Déplacement
 
-- AltName: Movement (SRD p84)
+- Alias: Movement (SRD p84)
 - Source: (MDR p270)
 
 Ramper dans l’ombre de la nuit, le long d’un campement ennemi, marcher à pas de loup dans la salle du trône après un banquet où les convives sont endormies sur la grande table, escalader la tour d’un château construite en pierres de taille… Les déplacements constituent un élément essentiel de l’aventure dans Héros & Dragons.

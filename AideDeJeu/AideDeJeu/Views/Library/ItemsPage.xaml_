@@ -5,7 +5,7 @@
     xmlns:local="clr-namespace:AideDeJeu.Views" 
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
     xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
-    x:Class="AideDeJeu.Views.Library.ItemsPage" 
+    x:Class="AideDeJeu.Views.Library.ItemsPageOld" 
     x:Name="This" 
     Title="{Binding Title}">
     <ContentPage.Resources>

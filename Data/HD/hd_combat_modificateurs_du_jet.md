@@ -4,7 +4,7 @@
 
 #### Modificateurs du jet
 
-- AltName: Modifiers to the Roll (SRD p94)
+- Alias: Modifiers to the Roll (SRD p94)
 - Source: (MDR p290)
 
 Quand un joueur fait un jet d'attaque, les deux modificateurs les plus courants sont un modificateur de caractéristique et le bonus de maîtrise du personnage. Quand un monstre porte une attaque, il faut appliquer les modificateurs indiqués dans ses statistiques.

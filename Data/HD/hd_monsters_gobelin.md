@@ -5,7 +5,7 @@
 # Gobelin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Goblin](srd_monsters_goblin.md)
+- Alias: [Goblin](srd_monsters_goblin.md)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Terrain** Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir, bouclier)

@@ -4,7 +4,7 @@
 
 # Shatter
 
-- MDR: [Briser](hd_spells_briser.md)
+- Alias: [Briser](hd_spells_briser.md)
 - Source: (SRD p178)
 -  2nd-level evocation
 - **Casting Time :** 1 action

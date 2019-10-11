@@ -4,7 +4,7 @@
 
 # Young Gold Dragon
 
-- CEO: [Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)
+- Alias: [Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)
 -  Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)

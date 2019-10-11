@@ -4,7 +4,7 @@
 
 # Adult Blue Dragon
 
-- CEO: [Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)
+- Alias: [Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)
 -  Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 225 (18d12 + 108)

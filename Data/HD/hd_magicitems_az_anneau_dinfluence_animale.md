@@ -4,7 +4,7 @@
 
 ### Anneau d'influence animale
 
-- AltName: Ring of Animal Influence (SRD p235)
+- Alias: Ring of Animal Influence (SRD p235)
 - Source: (CDC p142)
 -  Anneau, rare
 

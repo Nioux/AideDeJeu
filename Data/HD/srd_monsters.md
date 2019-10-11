@@ -45,7 +45,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Aboleth](hd_monsters_aboleth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aboleth](hd_monsters_aboleth.md)<!--/AltName-->
 
 
 
@@ -2080,7 +2080,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Acolyte](hd_monsters_acolyte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Acolyte](hd_monsters_acolyte.md)<!--/AltName-->
 
 
 
@@ -2251,7 +2251,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Aigle](hd_monsters_aigle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aigle](hd_monsters_aigle.md)<!--/AltName-->
 
 
 
@@ -2410,7 +2410,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Aigle géant](hd_monsters_aigle_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aigle géant](hd_monsters_aigle_geant.md)<!--/AltName-->
 
 
 
@@ -2590,7 +2590,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Androsphinx](hd_monsters_androsphinx.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Androsphinx](hd_monsters_androsphinx.md)<!--/AltName-->
 
 
 
@@ -2880,7 +2880,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ankheg](hd_monsters_ankheg.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ankheg](hd_monsters_ankheg.md)<!--/AltName-->
 
 
 
@@ -3027,7 +3027,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Araignée](hd_monsters_araignee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Araignée](hd_monsters_araignee.md)<!--/AltName-->
 
 
 
@@ -3198,7 +3198,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Araignée de phase](hd_monsters_araignee_de_phase.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Araignée de phase](hd_monsters_araignee_de_phase.md)<!--/AltName-->
 
 
 
@@ -3369,7 +3369,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Araignée géante](hd_monsters_araignee_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Araignée géante](hd_monsters_araignee_geante.md)<!--/AltName-->
 
 
 
@@ -3552,7 +3552,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Araignée-loup géante](hd_monsters_araignee_loup_geante.md)<!--/AltName-->
 
 
 
@@ -3723,7 +3723,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Arbre éveillé](hd_monsters_arbre_eveille.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arbre éveillé](hd_monsters_arbre_eveille.md)<!--/AltName-->
 
 
 
@@ -3886,7 +3886,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Arbuste éveillé](hd_monsters_arbuste_eveille.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arbuste éveillé](hd_monsters_arbuste_eveille.md)<!--/AltName-->
 
 
 
@@ -4051,7 +4051,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Archimage](hd_monsters_archimage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Archimage](hd_monsters_archimage.md)<!--/AltName-->
 
 
 
@@ -4295,7 +4295,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Armure animée](hd_monsters_armure_animee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Armure animée](hd_monsters_armure_animee.md)<!--/AltName-->
 
 
 
@@ -4474,7 +4474,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Assassin](hd_monsters_assassin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Assassin](hd_monsters_assassin.md)<!--/AltName-->
 
 
 
@@ -4677,7 +4677,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Azer](hd_monsters_azer.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Azer](hd_monsters_azer.md)<!--/AltName-->
 
 
 
@@ -4859,7 +4859,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Babouin](hd_monsters_babouin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Babouin](hd_monsters_babouin.md)<!--/AltName-->
 
 
 
@@ -5012,7 +5012,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Babélien](hd_monsters_babelien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Babélien](hd_monsters_babelien.md)<!--/AltName-->
 
 
 
@@ -5198,7 +5198,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Balor](hd_monsters_balor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Balor](hd_monsters_balor.md)<!--/AltName-->
 
 
 
@@ -5416,7 +5416,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Bandit](hd_monsters_bandit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bandit](hd_monsters_bandit.md)<!--/AltName-->
 
 
 
@@ -5570,7 +5570,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Capitaine Bandit](hd_monsters_capitaine_bandit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Capitaine Bandit](hd_monsters_capitaine_bandit.md)<!--/AltName-->
 
 
 
@@ -5752,7 +5752,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Basilic](hd_monsters_basilic.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Basilic](hd_monsters_basilic.md)<!--/AltName-->
 
 
 
@@ -5904,7 +5904,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Bec de hache](hd_monsters_bec_de_hache.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bec de hache](hd_monsters_bec_de_hache.md)<!--/AltName-->
 
 
 
@@ -6045,7 +6045,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Belette](hd_monsters_belette.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Belette](hd_monsters_belette.md)<!--/AltName-->
 
 
 
@@ -6204,7 +6204,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Belette géante](hd_monsters_belette_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Belette géante](hd_monsters_belette_geante.md)<!--/AltName-->
 
 
 
@@ -6362,7 +6362,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Berserker](hd_monsters_berserker.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Berserker](hd_monsters_berserker.md)<!--/AltName-->
 
 
 
@@ -6514,7 +6514,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Blaireau](hd_monsters_blaireau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blaireau](hd_monsters_blaireau.md)<!--/AltName-->
 
 
 
@@ -6666,7 +6666,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Blaireau géant](hd_monsters_blaireau_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blaireau géant](hd_monsters_blaireau_geant.md)<!--/AltName-->
 
 
 
@@ -6839,7 +6839,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Blême](monsters_hd.md#blême)<!--/AltName-->
+      - Alias: <!--AltName-->[Blême](monsters_hd.md#blême)<!--/AltName-->
 
 
 
@@ -7028,7 +7028,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Bulette](hd_monsters_bulette.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bulette](hd_monsters_bulette.md)<!--/AltName-->
 
 
 
@@ -7194,7 +7194,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Béhir](hd_monsters_behir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Béhir](hd_monsters_behir.md)<!--/AltName-->
 
 
 
@@ -7376,7 +7376,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Centaure](hd_monsters_centaure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Centaure](hd_monsters_centaure.md)<!--/AltName-->
 
 
 
@@ -7558,7 +7558,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chacal](hd_monsters_chacal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chacal](hd_monsters_chacal.md)<!--/AltName-->
 
 
 
@@ -7715,7 +7715,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chameau](hd_monsters_chameau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chameau](hd_monsters_chameau.md)<!--/AltName-->
 
 
 
@@ -7849,7 +7849,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chat](hd_monsters_chat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chat](hd_monsters_chat.md)<!--/AltName-->
 
 
 
@@ -8000,7 +8000,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chauve-souris](hd_monsters_chauve_souris.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chauve-souris](hd_monsters_chauve_souris.md)<!--/AltName-->
 
 
 
@@ -8151,7 +8151,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chauve-souris géante](hd_monsters_chauve_souris_geante.md)<!--/AltName-->
 
 
 
@@ -8302,7 +8302,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Cheval de guerre](hd_monsters_cheval_de_guerre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cheval de guerre](hd_monsters_cheval_de_guerre.md)<!--/AltName-->
 
 
 
@@ -8447,7 +8447,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Cheval de selle](hd_monsters_cheval_de_selle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cheval de selle](hd_monsters_cheval_de_selle.md)<!--/AltName-->
 
 
 
@@ -8580,7 +8580,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Cheval de trait](hd_monsters_cheval_de_trait.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cheval de trait](hd_monsters_cheval_de_trait.md)<!--/AltName-->
 
 
 
@@ -8714,7 +8714,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chevalier](hd_monsters_chevalier.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chevalier](hd_monsters_chevalier.md)<!--/AltName-->
 
 
 
@@ -8901,7 +8901,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chevreuil](hd_monsters_chevreuil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chevreuil](hd_monsters_chevreuil.md)<!--/AltName-->
 
 
 
@@ -9035,7 +9035,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chien du trépas](hd_monsters_chien_du_trepas.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chien du trépas](hd_monsters_chien_du_trepas.md)<!--/AltName-->
 
 
 
@@ -9193,7 +9193,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chien esquiveur](hd_monsters_chien_esquiveur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chien esquiveur](hd_monsters_chien_esquiveur.md)<!--/AltName-->
 
 
 
@@ -9351,7 +9351,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chimère](hd_monsters_chimere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chimère](hd_monsters_chimere.md)<!--/AltName-->
 
 
 
@@ -9527,7 +9527,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chouette](hd_monsters_chouette.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chouette](hd_monsters_chouette.md)<!--/AltName-->
 
 
 
@@ -9685,7 +9685,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chouette géante](hd_monsters_chouette_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chouette géante](hd_monsters_chouette_geante.md)<!--/AltName-->
 
 
 
@@ -9845,7 +9845,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chuul](hd_monsters_chuul.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chuul](hd_monsters_chuul.md)<!--/AltName-->
 
 
 
@@ -10026,7 +10026,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chèvre](hd_monsters_chevre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chèvre](hd_monsters_chevre.md)<!--/AltName-->
 
 
 
@@ -10177,7 +10177,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Chèvre géante](hd_monsters_chevre_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chèvre géante](hd_monsters_chevre_geante.md)<!--/AltName-->
 
 
 
@@ -10328,7 +10328,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Cockatrice](hd_monsters_cockatrice.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cockatrice](hd_monsters_cockatrice.md)<!--/AltName-->
 
 
 
@@ -10462,7 +10462,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Corbeau](hd_monsters_corbeau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Corbeau](hd_monsters_corbeau.md)<!--/AltName-->
 
 
 
@@ -10616,7 +10616,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Couatl](hd_monsters_couatl.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Couatl](hd_monsters_couatl.md)<!--/AltName-->
 
 
 
@@ -10828,7 +10828,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Crabe](hd_monsters_crabe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crabe](hd_monsters_crabe.md)<!--/AltName-->
 
 
 
@@ -10980,7 +10980,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Crabe géant](hd_monsters_crabe_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crabe géant](hd_monsters_crabe_geant.md)<!--/AltName-->
 
 
 
@@ -11131,7 +11131,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Crapaud géant](hd_monsters_crapaud_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crapaud géant](hd_monsters_crapaud_geant.md)<!--/AltName-->
 
 
 
@@ -11289,7 +11289,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Criard](hd_monsters_criard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Criard](hd_monsters_criard.md)<!--/AltName-->
 
 
 
@@ -11435,7 +11435,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Crocodile](hd_monsters_crocodile.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crocodile](hd_monsters_crocodile.md)<!--/AltName-->
 
 
 
@@ -11587,7 +11587,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Crocodile géant](hd_monsters_crocodile_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crocodile géant](hd_monsters_crocodile_geant.md)<!--/AltName-->
 
 
 
@@ -11757,7 +11757,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Cube gélatineux](hd_monsters_cube_gelatineux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cube gélatineux](hd_monsters_cube_gelatineux.md)<!--/AltName-->
 
 
 
@@ -11921,7 +11921,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Destrier noir](hd_monsters_destrier_noir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Destrier noir](hd_monsters_destrier_noir.md)<!--/AltName-->
 
 
 
@@ -12089,7 +12089,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diable barbelé](hd_monsters_diable_barbele.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diable barbelé](hd_monsters_diable_barbele.md)<!--/AltName-->
 
 
 
@@ -12310,7 +12310,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diable barbu](hd_monsters_diable_barbu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diable barbu](hd_monsters_diable_barbu.md)<!--/AltName-->
 
 
 
@@ -12513,7 +12513,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diable cornu](hd_monsters_diable_cornu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diable cornu](hd_monsters_diable_cornu.md)<!--/AltName-->
 
 
 
@@ -12722,7 +12722,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diable des chaînes](hd_monsters_diable_des_chaines.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diable des chaînes](hd_monsters_diable_des_chaines.md)<!--/AltName-->
 
 
 
@@ -12925,7 +12925,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diable gelé](hd_monsters_diable_gele.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diable gelé](hd_monsters_diable_gele.md)<!--/AltName-->
 
 
 
@@ -13141,7 +13141,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diable osseux](hd_monsters_diable_osseux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diable osseux](hd_monsters_diable_osseux.md)<!--/AltName-->
 
 
 
@@ -13344,7 +13344,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diablotin](hd_monsters_diablotin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diablotin](hd_monsters_diablotin.md)<!--/AltName-->
 
 
 
@@ -13535,7 +13535,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Diantrefosse](hd_monsters_diantrefosse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Diantrefosse](hd_monsters_diantrefosse.md)<!--/AltName-->
 
 
 
@@ -13778,7 +13778,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Djinn](hd_monsters_djinn.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Djinn](hd_monsters_djinn.md)<!--/AltName-->
 
 
 
@@ -13973,7 +13973,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Doppleganger](hd_monsters_doppleganger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Doppleganger](hd_monsters_doppleganger.md)<!--/AltName-->
 
 
 
@@ -14157,7 +14157,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)<!--/AltName-->
 
 
 
@@ -14401,7 +14401,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)<!--/AltName-->
 
 
 
@@ -14645,7 +14645,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)<!--/AltName-->
 
 
 
@@ -14835,7 +14835,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet blanc](hd_monsters_dragonnet_blanc.md)<!--/AltName-->
 
 
 
@@ -14995,7 +14995,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)<!--/AltName-->
 
 
 
@@ -15233,7 +15233,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)<!--/AltName-->
 
 
 
@@ -15471,7 +15471,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)<!--/AltName-->
 
 
 
@@ -15649,7 +15649,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet bleu](hd_monsters_dragonnet_bleu.md)<!--/AltName-->
 
 
 
@@ -15809,7 +15809,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)<!--/AltName-->
 
 
 
@@ -16059,7 +16059,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)<!--/AltName-->
 
 
 
@@ -16315,7 +16315,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)<!--/AltName-->
 
 
 
@@ -16505,7 +16505,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)<!--/AltName-->
 
 
 
@@ -16677,7 +16677,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)<!--/AltName-->
 
 
 
@@ -16933,7 +16933,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)<!--/AltName-->
 
 
 
@@ -17189,7 +17189,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)<!--/AltName-->
 
 
 
@@ -17379,7 +17379,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)<!--/AltName-->
 
 
 
@@ -17551,7 +17551,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)<!--/AltName-->
 
 
 
@@ -17813,7 +17813,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)<!--/AltName-->
 
 
 
@@ -18075,7 +18075,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)<!--/AltName-->
 
 
 
@@ -18277,7 +18277,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet d'or](hd_monsters_dragonnet_dor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet d'or](hd_monsters_dragonnet_dor.md)<!--/AltName-->
 
 
 
@@ -18461,7 +18461,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)<!--/AltName-->
 
 
 
@@ -18723,7 +18723,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)<!--/AltName-->
 
 
 
@@ -18985,7 +18985,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)<!--/AltName-->
 
 
 
@@ -19187,7 +19187,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)<!--/AltName-->
 
 
 
@@ -19371,7 +19371,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)<!--/AltName-->
 
 
 
@@ -19621,7 +19621,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)<!--/AltName-->
 
 
 
@@ -19877,7 +19877,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)<!--/AltName-->
 
 
 
@@ -20067,7 +20067,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)<!--/AltName-->
 
 
 
@@ -20239,7 +20239,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)<!--/AltName-->
 
 
 
@@ -20483,7 +20483,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)<!--/AltName-->
 
 
 
@@ -20727,7 +20727,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)<!--/AltName-->
 
 
 
@@ -20917,7 +20917,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet noir](hd_monsters_dragonnet_noir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet noir](hd_monsters_dragonnet_noir.md)<!--/AltName-->
 
 
 
@@ -21089,7 +21089,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)<!--/AltName-->
 
 
 
@@ -21327,7 +21327,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)<!--/AltName-->
 
 
 
@@ -21565,7 +21565,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)<!--/AltName-->
 
 
 
@@ -21743,7 +21743,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet rouge](hd_monsters_dragonnet_rouge.md)<!--/AltName-->
 
 
 
@@ -21904,7 +21904,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)<!--/AltName-->
 
 
 
@@ -22155,7 +22155,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)<!--/AltName-->
 
 
 
@@ -22406,7 +22406,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)<!--/AltName-->
 
 
 
@@ -22603,7 +22603,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragonnet vert](hd_monsters_dragonnet_vert.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragonnet vert](hd_monsters_dragonnet_vert.md)<!--/AltName-->
 
 
 
@@ -22780,7 +22780,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dragon-tortue](hd_monsters_dragon_tortue.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon-tortue](hd_monsters_dragon_tortue.md)<!--/AltName-->
 
 
 
@@ -22976,7 +22976,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dretch](hd_monsters_dretch.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dretch](hd_monsters_dretch.md)<!--/AltName-->
 
 
 
@@ -23152,7 +23152,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Drider](hd_monsters_drider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Drider](hd_monsters_drider.md)<!--/AltName-->
 
 
 
@@ -23370,7 +23370,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Drow](hd_monsters_drow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Drow](hd_monsters_drow.md)<!--/AltName-->
 
 
 
@@ -23558,7 +23558,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Druide](hd_monsters_druide.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Druide](hd_monsters_druide.md)<!--/AltName-->
 
 
 
@@ -23728,7 +23728,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Dryade](hd_monsters_dryade.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dryade](hd_monsters_dryade.md)<!--/AltName-->
 
 
 
@@ -23922,7 +23922,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Duergar](hd_monsters_duergar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Duergar](hd_monsters_duergar.md)<!--/AltName-->
 
 
 
@@ -24107,7 +24107,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Déva](hd_monsters_deva.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Déva](hd_monsters_deva.md)<!--/AltName-->
 
 
 
@@ -24319,7 +24319,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ecclésiastique](hd_monsters_ecclesiastique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ecclésiastique](hd_monsters_ecclesiastique.md)<!--/AltName-->
 
 
 
@@ -24501,7 +24501,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Enlaceur](hd_monsters_enlaceur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Enlaceur](hd_monsters_enlaceur.md)<!--/AltName-->
 
 
 
@@ -24689,7 +24689,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Espion](hd_monsters_espion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Espion](hd_monsters_espion.md)<!--/AltName-->
 
 
 
@@ -24865,7 +24865,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Esprit follet](hd_monsters_esprit_follet.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Esprit follet](hd_monsters_esprit_follet.md)<!--/AltName-->
 
 
 
@@ -25029,7 +25029,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ettercap](hd_monsters_ettercap.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ettercap](hd_monsters_ettercap.md)<!--/AltName-->
 
 
 
@@ -25223,7 +25223,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ettin](hd_monsters_ettin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ettin](hd_monsters_ettin.md)<!--/AltName-->
 
 
 
@@ -25399,7 +25399,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Fanatique de secte](hd_monsters_fanatique_de_secte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fanatique de secte](hd_monsters_fanatique_de_secte.md)<!--/AltName-->
 
 
 
@@ -25583,7 +25583,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Fantôme](hd_monsters_fantome.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fantôme](hd_monsters_fantome.md)<!--/AltName-->
 
 
 
@@ -25771,7 +25771,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Faucon](hd_monsters_faucon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Faucon](hd_monsters_faucon.md)<!--/AltName-->
 
 
 
@@ -25923,7 +25923,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Faucon de sang](hd_monsters_faucon_de_sang.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Faucon de sang](hd_monsters_faucon_de_sang.md)<!--/AltName-->
 
 
 
@@ -26083,7 +26083,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Feu follet](hd_monsters_feu_follet.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Feu follet](hd_monsters_feu_follet.md)<!--/AltName-->
 
 
 
@@ -26271,7 +26271,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Garde](hd_monsters_garde.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Garde](hd_monsters_garde.md)<!--/AltName-->
 
 
 
@@ -26412,7 +26412,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Garde animé](hd_monsters_garde_anime.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Garde animé](hd_monsters_garde_anime.md)<!--/AltName-->
 
 
 
@@ -26602,7 +26602,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gargouille](hd_monsters_gargouille.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gargouille](hd_monsters_gargouille.md)<!--/AltName-->
 
 
 
@@ -26786,7 +26786,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gelée ocre](hd_monsters_gelee_ocre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gelée ocre](hd_monsters_gelee_ocre.md)<!--/AltName-->
 
 
 
@@ -26971,7 +26971,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Glabrezu](hd_monsters_glabrezu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Glabrezu](hd_monsters_glabrezu.md)<!--/AltName-->
 
 
 
@@ -27178,7 +27178,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gladiateur](hd_monsters_gladiateur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gladiateur](hd_monsters_gladiateur.md)<!--/AltName-->
 
 
 
@@ -27371,7 +27371,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gnoll](hd_monsters_gnoll.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gnoll](hd_monsters_gnoll.md)<!--/AltName-->
 
 
 
@@ -27541,7 +27541,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)<!--/AltName-->
 
 
 
@@ -27729,7 +27729,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gobelin](hd_monsters_gobelin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gobelin](hd_monsters_gobelin.md)<!--/AltName-->
 
 
 
@@ -27893,7 +27893,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gobelours](hd_monsters_gobelours.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gobelours](hd_monsters_gobelours.md)<!--/AltName-->
 
 
 
@@ -28064,7 +28064,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Golem d'argile](hd_monsters_golem_dargile.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Golem d'argile](hd_monsters_golem_dargile.md)<!--/AltName-->
 
 
 
@@ -28259,7 +28259,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Golem de chair](hd_monsters_golem_de_chair.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Golem de chair](hd_monsters_golem_de_chair.md)<!--/AltName-->
 
 
 
@@ -28454,7 +28454,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Golem de fer](hd_monsters_golem_de_fer.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Golem de fer](hd_monsters_golem_de_fer.md)<!--/AltName-->
 
 
 
@@ -28655,7 +28655,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Golem de pierre](hd_monsters_golem_de_pierre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Golem de pierre](hd_monsters_golem_de_pierre.md)<!--/AltName-->
 
 
 
@@ -28838,7 +28838,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gorgone](hd_monsters_gorgone.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gorgone](hd_monsters_gorgone.md)<!--/AltName-->
 
 
 
@@ -29015,7 +29015,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Goule](hd_monsters_goule.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Goule](hd_monsters_goule.md)<!--/AltName-->
 
 
 
@@ -29173,7 +29173,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Grand singe](hd_monsters_grand_singe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grand singe](hd_monsters_grand_singe.md)<!--/AltName-->
 
 
 
@@ -29330,7 +29330,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Grenouille](hd_monsters_grenouille.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grenouille](hd_monsters_grenouille.md)<!--/AltName-->
 
 
 
@@ -29470,7 +29470,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Grenouille géante](hd_monsters_grenouille_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grenouille géante](hd_monsters_grenouille_geante.md)<!--/AltName-->
 
 
 
@@ -29634,7 +29634,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Grick](hd_monsters_grick.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grick](hd_monsters_grick.md)<!--/AltName-->
 
 
 
@@ -29804,7 +29804,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Griffon](hd_monsters_griffon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Griffon](hd_monsters_griffon.md)<!--/AltName-->
 
 
 
@@ -29973,7 +29973,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guenaude aquatique](hd_monsters_guenaude_aquatique.md)<!--/AltName-->
 
 
 
@@ -30139,7 +30139,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guenaude nocturne](hd_monsters_guenaude_nocturne.md)<!--/AltName-->
 
 
 
@@ -30339,7 +30339,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Guenaude verte](hd_monsters_guenaude_verte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guenaude verte](hd_monsters_guenaude_verte.md)<!--/AltName-->
 
 
 
@@ -30520,7 +30520,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Guerrier tribal](hd_monsters_guerrier_tribal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guerrier tribal](hd_monsters_guerrier_tribal.md)<!--/AltName-->
 
 
 
@@ -30665,7 +30665,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Guêpe géante](hd_monsters_guepe_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guêpe géante](hd_monsters_guepe_geante.md)<!--/AltName-->
 
 
 
@@ -30802,7 +30802,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Gynosphinx](hd_monsters_gynosphinx.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gynosphinx](hd_monsters_gynosphinx.md)<!--/AltName-->
 
 
 
@@ -31056,7 +31056,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Géant des collines](hd_monsters_geant_des_collines.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Géant des collines](hd_monsters_geant_des_collines.md)<!--/AltName-->
 
 
 
@@ -31215,7 +31215,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Géant des nuages](hd_monsters_geant_des_nuages.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Géant des nuages](hd_monsters_geant_des_nuages.md)<!--/AltName-->
 
 
 
@@ -31416,7 +31416,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Géant des pierres](hd_monsters_geant_des_pierres.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Géant des pierres](hd_monsters_geant_des_pierres.md)<!--/AltName-->
 
 
 
@@ -31601,7 +31601,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Géant des tempêtes](hd_monsters_geant_des_tempetes.md)<!--/AltName-->
 
 
 
@@ -31815,7 +31815,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Géant du feu](hd_monsters_geant_du_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Géant du feu](hd_monsters_geant_du_feu.md)<!--/AltName-->
 
 
 
@@ -31987,7 +31987,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Géant du givre](hd_monsters_geant_du_givre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Géant du givre](hd_monsters_geant_du_givre.md)<!--/AltName-->
 
 
 
@@ -32156,7 +32156,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Harpie](hd_monsters_harpie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Harpie](hd_monsters_harpie.md)<!--/AltName-->
 
 
 
@@ -32317,7 +32317,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hezrou](hd_monsters_hezrou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hezrou](hd_monsters_hezrou.md)<!--/AltName-->
 
 
 
@@ -32511,7 +32511,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hibours](hd_monsters_hibours.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hibours](hd_monsters_hibours.md)<!--/AltName-->
 
 
 
@@ -32679,7 +32679,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hippocampe](hd_monsters_hippocampe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hippocampe](hd_monsters_hippocampe.md)<!--/AltName-->
 
 
 
@@ -32806,7 +32806,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hippocampe géant](hd_monsters_hippocampe_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hippocampe géant](hd_monsters_hippocampe_geant.md)<!--/AltName-->
 
 
 
@@ -32958,7 +32958,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hippogriffe](hd_monsters_hippogriffe.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hippogriffe](hd_monsters_hippogriffe.md)<!--/AltName-->
 
 
 
@@ -33127,7 +33127,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hobgobelin](hd_monsters_hobgobelin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hobgobelin](hd_monsters_hobgobelin.md)<!--/AltName-->
 
 
 
@@ -33285,7 +33285,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Homme-lézard](hd_monsters_homme_lezard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Homme-lézard](hd_monsters_homme_lezard.md)<!--/AltName-->
 
 
 
@@ -33479,7 +33479,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Homme-poisson](hd_monsters_homme_poisson.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Homme-poisson](hd_monsters_homme_poisson.md)<!--/AltName-->
 
 
 
@@ -33632,7 +33632,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Homoncule](hd_monsters_homoncule.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Homoncule](hd_monsters_homoncule.md)<!--/AltName-->
 
 
 
@@ -33790,7 +33790,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hydre](hd_monsters_hydre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hydre](hd_monsters_hydre.md)<!--/AltName-->
 
 
 
@@ -33966,7 +33966,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hyène](hd_monsters_hyene.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hyène](hd_monsters_hyene.md)<!--/AltName-->
 
 
 
@@ -34118,7 +34118,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Hyène géante](hd_monsters_hyene_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hyène géante](hd_monsters_hyene_geante.md)<!--/AltName-->
 
 
 
@@ -34269,7 +34269,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Kobold](hd_monsters_kobold.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Kobold](hd_monsters_kobold.md)<!--/AltName-->
 
 
 
@@ -34435,7 +34435,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Kraken](hd_monsters_kraken.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Kraken](hd_monsters_kraken.md)<!--/AltName-->
 
 
 
@@ -34671,7 +34671,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Lamie](hd_monsters_lamie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lamie](hd_monsters_lamie.md)<!--/AltName-->
 
 
 
@@ -34875,7 +34875,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Liche](hd_monsters_liche.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Liche](hd_monsters_liche.md)<!--/AltName-->
 
 
 
@@ -35166,7 +35166,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Licorne](hd_monsters_licorne.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Licorne](hd_monsters_licorne.md)<!--/AltName-->
 
 
 
@@ -35414,7 +35414,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Lion](hd_monsters_lion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lion](hd_monsters_lion.md)<!--/AltName-->
 
 
 
@@ -35596,7 +35596,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Loup](hd_monsters_loup.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Loup](hd_monsters_loup.md)<!--/AltName-->
 
 
 
@@ -35755,7 +35755,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Loup arctique](hd_monsters_loup_arctique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Loup arctique](hd_monsters_loup_arctique.md)<!--/AltName-->
 
 
 
@@ -35931,7 +35931,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Loup sanguinaire](hd_monsters_loup_sanguinaire.md)<!--/AltName-->
 
 
 
@@ -36090,7 +36090,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Loup-garou](hd_monsters_loup_garou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Loup-garou](hd_monsters_loup_garou.md)<!--/AltName-->
 
 
 
@@ -36286,7 +36286,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Lémure](hd_monsters_lemure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lémure](hd_monsters_lemure.md)<!--/AltName-->
 
 
 
@@ -36455,7 +36455,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Lézard](hd_monsters_lezard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lézard](hd_monsters_lezard.md)<!--/AltName-->
 
 
 
@@ -36588,7 +36588,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Lézard géant](hd_monsters_lezard_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lézard géant](hd_monsters_lezard_geant.md)<!--/AltName-->
 
 
 
@@ -36723,7 +36723,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mage](hd_monsters_mage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mage](hd_monsters_mage.md)<!--/AltName-->
 
 
 
@@ -36918,7 +36918,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Magmatique](hd_monsters_magmatique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magmatique](hd_monsters_magmatique.md)<!--/AltName-->
 
 
 
@@ -37082,7 +37082,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Malfrat](hd_monsters_malfrat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Malfrat](hd_monsters_malfrat.md)<!--/AltName-->
 
 
 
@@ -37251,7 +37251,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mammouth](hd_monsters_mammouth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mammouth](hd_monsters_mammouth.md)<!--/AltName-->
 
 
 
@@ -37409,7 +37409,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mante obscure](hd_monsters_mante_obscure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mante obscure](hd_monsters_mante_obscure.md)<!--/AltName-->
 
 
 
@@ -37573,7 +37573,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Manteleur](hd_monsters_manteleur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Manteleur](hd_monsters_manteleur.md)<!--/AltName-->
 
 
 
@@ -37766,7 +37766,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Manticore](hd_monsters_manticore.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Manticore](hd_monsters_manticore.md)<!--/AltName-->
 
 
 
@@ -37945,7 +37945,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Marilith](hd_monsters_marilith.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Marilith](hd_monsters_marilith.md)<!--/AltName-->
 
 
 
@@ -38163,7 +38163,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Membre de secte](hd_monsters_membre_de_secte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Membre de secte](hd_monsters_membre_de_secte.md)<!--/AltName-->
 
 
 
@@ -38314,7 +38314,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Merrow](hd_monsters_merrow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Merrow](hd_monsters_merrow.md)<!--/AltName-->
 
 
 
@@ -38489,7 +38489,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mille-pattes géant](hd_monsters_mille_pattes_geant.md)<!--/AltName-->
 
 
 
@@ -38625,7 +38625,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mimique](hd_monsters_mimique.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mimique](hd_monsters_mimique.md)<!--/AltName-->
 
 
 
@@ -38819,7 +38819,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Minotaure](hd_monsters_minotaure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Minotaure](hd_monsters_minotaure.md)<!--/AltName-->
 
 
 
@@ -38995,7 +38995,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Moisissure violette](hd_monsters_moisissure_violette.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Moisissure violette](hd_monsters_moisissure_violette.md)<!--/AltName-->
 
 
 
@@ -39153,7 +39153,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mastiff](hd_monsters_mastiff.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mastiff](hd_monsters_mastiff.md)<!--/AltName-->
 
 
 
@@ -39306,7 +39306,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Molosse infernal](hd_monsters_molosse_infernal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Molosse infernal](hd_monsters_molosse_infernal.md)<!--/AltName-->
 
 
 
@@ -39485,7 +39485,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Momie](hd_monsters_momie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Momie](hd_monsters_momie.md)<!--/AltName-->
 
 
 
@@ -39662,7 +39662,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Momie auguste](hd_monsters_momie_auguste.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Momie auguste](hd_monsters_momie_auguste.md)<!--/AltName-->
 
 
 
@@ -39943,7 +39943,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Mule](hd_monsters_mule.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mule](hd_monsters_mule.md)<!--/AltName-->
 
 
 
@@ -40095,7 +40095,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Méduse](hd_monsters_meduse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Méduse](hd_monsters_meduse.md)<!--/AltName-->
 
 
 
@@ -40279,7 +40279,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Méphite de glace](hd_monsters_mephite_de_glace.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Méphite de glace](hd_monsters_mephite_de_glace.md)<!--/AltName-->
 
 
 
@@ -40467,7 +40467,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Méphite de magma](hd_monsters_mephite_de_magma.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Méphite de magma](hd_monsters_mephite_de_magma.md)<!--/AltName-->
 
 
 
@@ -40655,7 +40655,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Méphite de poussière](hd_monsters_mephite_de_poussiere.md)<!--/AltName-->
 
 
 
@@ -40836,7 +40836,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)<!--/AltName-->
 
 
 
@@ -41008,7 +41008,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Naga corrupteur](hd_monsters_naga_corrupteur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Naga corrupteur](hd_monsters_naga_corrupteur.md)<!--/AltName-->
 
 
 
@@ -41216,7 +41216,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Naga gardien](hd_monsters_naga_gardien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Naga gardien](hd_monsters_naga_gardien.md)<!--/AltName-->
 
 
 
@@ -41443,7 +41443,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nalfeshnie](hd_monsters_nalfeshnie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nalfeshnie](hd_monsters_nalfeshnie.md)<!--/AltName-->
 
 
 
@@ -41643,7 +41643,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Noble](hd_monsters_noble.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Noble](hd_monsters_noble.md)<!--/AltName-->
 
 
 
@@ -41796,7 +41796,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée d'insectes](hd_monsters_nuee_dinsectes.md)<!--/AltName-->
 
 
 
@@ -41955,7 +41955,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)<!--/AltName-->
 
 
 
@@ -42127,7 +42127,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)<!--/AltName-->
 
 
 
@@ -42292,7 +42292,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)<!--/AltName-->
 
 
 
@@ -42463,7 +42463,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nuée de rats](hd_monsters_nuee_de_rats.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée de rats](hd_monsters_nuee_de_rats.md)<!--/AltName-->
 
 
 
@@ -42628,7 +42628,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)<!--/AltName-->
 
 
 
@@ -42789,7 +42789,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Nécrophage](hd_monsters_necrophage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nécrophage](hd_monsters_necrophage.md)<!--/AltName-->
 
 
 
@@ -42988,7 +42988,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ogre](hd_monsters_ogre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ogre](hd_monsters_ogre.md)<!--/AltName-->
 
 
 
@@ -43137,7 +43137,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ombre](hd_monsters_ombre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ombre](hd_monsters_ombre.md)<!--/AltName-->
 
 
 
@@ -43324,7 +43324,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Oni](hd_monsters_oni.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Oni](hd_monsters_oni.md)<!--/AltName-->
 
 
 
@@ -43530,7 +43530,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Orc](hd_monsters_orc.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Orc](hd_monsters_orc.md)<!--/AltName-->
 
 
 
@@ -43694,7 +43694,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Otyugh](hd_monsters_otyugh.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Otyugh](hd_monsters_otyugh.md)<!--/AltName-->
 
 
 
@@ -43870,7 +43870,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ours brun](hd_monsters_ours_brun.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ours brun](hd_monsters_ours_brun.md)<!--/AltName-->
 
 
 
@@ -44040,7 +44040,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ours noir](hd_monsters_ours_noir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ours noir](hd_monsters_ours_noir.md)<!--/AltName-->
 
 
 
@@ -44210,7 +44210,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ours polaire](hd_monsters_ours_polaire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ours polaire](hd_monsters_ours_polaire.md)<!--/AltName-->
 
 
 
@@ -44381,7 +44381,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ours-garou](hd_monsters_ours_garou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ours-garou](hd_monsters_ours_garou.md)<!--/AltName-->
 
 
 
@@ -44574,7 +44574,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Oxydeur](hd_monsters_oxydeur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Oxydeur](hd_monsters_oxydeur.md)<!--/AltName-->
 
 
 
@@ -44732,7 +44732,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Panthère](hd_monsters_panthere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Panthère](hd_monsters_panthere.md)<!--/AltName-->
 
 
 
@@ -44902,7 +44902,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Pieuvre](hd_monsters_pieuvre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pieuvre](hd_monsters_pieuvre.md)<!--/AltName-->
 
 
 
@@ -45072,7 +45072,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Pieuvre géante](hd_monsters_pieuvre_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pieuvre géante](hd_monsters_pieuvre_geante.md)<!--/AltName-->
 
 
 
@@ -45241,7 +45241,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Piranha](hd_monsters_piranha.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Piranha](hd_monsters_piranha.md)<!--/AltName-->
 
 
 
@@ -45396,7 +45396,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Planétar](hd_monsters_planetar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Planétar](hd_monsters_planetar.md)<!--/AltName-->
 
 
 
@@ -45614,7 +45614,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Plésiosaure](hd_monsters_plesiosaure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Plésiosaure](hd_monsters_plesiosaure.md)<!--/AltName-->
 
 
 
@@ -45765,7 +45765,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Poney](hd_monsters_poney.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Poney](hd_monsters_poney.md)<!--/AltName-->
 
 
 
@@ -45900,7 +45900,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Pouding noir](hd_monsters_pouding_noir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pouding noir](hd_monsters_pouding_noir.md)<!--/AltName-->
 
 
 
@@ -46082,7 +46082,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Pseudodragon](hd_monsters_pseudodragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pseudodragon](hd_monsters_pseudodragon.md)<!--/AltName-->
 
 
 
@@ -46257,7 +46257,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)<!--/AltName-->
 
 
 
@@ -46404,7 +46404,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Pégase](hd_monsters_pegase.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pégase](hd_monsters_pegase.md)<!--/AltName-->
 
 
 
@@ -46553,7 +46553,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Quasit](hd_monsters_quasit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Quasit](hd_monsters_quasit.md)<!--/AltName-->
 
 
 
@@ -46742,7 +46742,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Rakshasa](hd_monsters_rakshasa.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rakshasa](hd_monsters_rakshasa.md)<!--/AltName-->
 
 
 
@@ -46933,7 +46933,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Rat](hd_monsters_rat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rat](hd_monsters_rat.md)<!--/AltName-->
 
 
 
@@ -47078,7 +47078,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Rat géant](hd_monsters_rat_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rat géant](hd_monsters_rat_geant.md)<!--/AltName-->
 
 
 
@@ -47231,7 +47231,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Rat-garou](hd_monsters_rat_garou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rat-garou](hd_monsters_rat_garou.md)<!--/AltName-->
 
 
 
@@ -47425,7 +47425,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Requin de récif](hd_monsters_requin_de_recif.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Requin de récif](hd_monsters_requin_de_recif.md)<!--/AltName-->
 
 
 
@@ -47583,7 +47583,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Requin géant](hd_monsters_requin_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Requin géant](hd_monsters_requin_geant.md)<!--/AltName-->
 
 
 
@@ -47741,7 +47741,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Requin chasseur](hd_monsters_requin_chasseur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Requin chasseur](hd_monsters_requin_chasseur.md)<!--/AltName-->
 
 
 
@@ -47898,7 +47898,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Rhinocéros](hd_monsters_rhinoceros.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rhinocéros](hd_monsters_rhinoceros.md)<!--/AltName-->
 
 
 
@@ -48045,7 +48045,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Roc](hd_monsters_roc.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Roc](hd_monsters_roc.md)<!--/AltName-->
 
 
 
@@ -48220,7 +48220,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Roturier](hd_monsters_roturier.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Roturier](hd_monsters_roturier.md)<!--/AltName-->
 
 
 
@@ -48354,7 +48354,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Remorhaz](hd_monsters_remorhaz.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Remorhaz](hd_monsters_remorhaz.md)<!--/AltName-->
 
 
 
@@ -48512,7 +48512,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Sahuagin](hd_monsters_sahuagin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sahuagin](hd_monsters_sahuagin.md)<!--/AltName-->
 
 
 
@@ -48707,7 +48707,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Salamandre](hd_monsters_salamandre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Salamandre](hd_monsters_salamandre.md)<!--/AltName-->
 
 
 
@@ -48892,7 +48892,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Sanglier](hd_monsters_sanglier.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanglier](hd_monsters_sanglier.md)<!--/AltName-->
 
 
 
@@ -49043,7 +49043,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Sanglier géant](hd_monsters_sanglier_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanglier géant](hd_monsters_sanglier_geant.md)<!--/AltName-->
 
 
 
@@ -49196,7 +49196,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Sanglier-garou](hd_monsters_sanglier_garou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanglier-garou](hd_monsters_sanglier_garou.md)<!--/AltName-->
 
 
 
@@ -49384,7 +49384,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Satyre](hd_monsters_satyre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Satyre](hd_monsters_satyre.md)<!--/AltName-->
 
 
 
@@ -49559,7 +49559,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Scorpion](hd_monsters_scorpion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scorpion](hd_monsters_scorpion.md)<!--/AltName-->
 
 
 
@@ -49692,7 +49692,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Scorpion géant](hd_monsters_scorpion_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scorpion géant](hd_monsters_scorpion_geant.md)<!--/AltName-->
 
 
 
@@ -49843,7 +49843,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Serpent constricteur](hd_monsters_serpent_constricteur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Serpent constricteur](hd_monsters_serpent_constricteur.md)<!--/AltName-->
 
 
 
@@ -49989,7 +49989,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)<!--/AltName-->
 
 
 
@@ -50140,7 +50140,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Serpent venimeux](hd_monsters_serpent_venimeux.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Serpent venimeux](hd_monsters_serpent_venimeux.md)<!--/AltName-->
 
 
 
@@ -50274,7 +50274,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)<!--/AltName-->
 
 
 
@@ -50413,7 +50413,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Serpent volant](hd_monsters_serpent_volant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Serpent volant](hd_monsters_serpent_volant.md)<!--/AltName-->
 
 
 
@@ -50559,7 +50559,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Singe géant](hd_monsters_singe_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Singe géant](hd_monsters_singe_geant.md)<!--/AltName-->
 
 
 
@@ -50721,7 +50721,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Solar](hd_monsters_solar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Solar](hd_monsters_solar.md)<!--/AltName-->
 
 
 
@@ -50995,7 +50995,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Spectre](hd_monsters_spectre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spectre](hd_monsters_spectre.md)<!--/AltName-->
 
 
 
@@ -51166,7 +51166,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Squelette](hd_monsters_squelette.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Squelette](hd_monsters_squelette.md)<!--/AltName-->
 
 
 
@@ -51329,7 +51329,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)<!--/AltName-->
 
 
 
@@ -51480,7 +51480,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Squelette minotaure](hd_monsters_squelette_minotaure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Squelette minotaure](hd_monsters_squelette_minotaure.md)<!--/AltName-->
 
 
 
@@ -51653,7 +51653,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Strige](hd_monsters_strige.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Strige](hd_monsters_strige.md)<!--/AltName-->
 
 
 
@@ -51788,7 +51788,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Succube/Incube](hd_monsters_succubeincube.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Succube/Incube](hd_monsters_succubeincube.md)<!--/AltName-->
 
 
 
@@ -51970,7 +51970,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Sylvanien](hd_monsters_sylvanien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sylvanien](hd_monsters_sylvanien.md)<!--/AltName-->
 
 
 
@@ -52157,7 +52157,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tapis étrangleur](hd_monsters_tapis_etrangleur.md)<!--/AltName-->
 
 
 
@@ -52329,7 +52329,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tarasque](hd_monsters_tarasque.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tarasque](hd_monsters_tarasque.md)<!--/AltName-->
 
 
 
@@ -52598,7 +52598,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tertre errant](hd_monsters_tertre_errant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tertre errant](hd_monsters_tertre_errant.md)<!--/AltName-->
 
 
 
@@ -52780,7 +52780,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tigre](hd_monsters_tigre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tigre](hd_monsters_tigre.md)<!--/AltName-->
 
 
 
@@ -52950,7 +52950,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)<!--/AltName-->
 
 
 
@@ -53121,7 +53121,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tigre-garou](hd_monsters_tigre_garou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tigre-garou](hd_monsters_tigre_garou.md)<!--/AltName-->
 
 
 
@@ -53334,7 +53334,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Torve](hd_monsters_torve.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Torve](hd_monsters_torve.md)<!--/AltName-->
 
 
 
@@ -53507,7 +53507,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Traqueur invisible](hd_monsters_traqueur_invisible.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Traqueur invisible](hd_monsters_traqueur_invisible.md)<!--/AltName-->
 
 
 
@@ -53688,7 +53688,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tricératops](hd_monsters_triceratops.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tricératops](hd_monsters_triceratops.md)<!--/AltName-->
 
 
 
@@ -53846,7 +53846,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Troll](hd_monsters_troll.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Troll](hd_monsters_troll.md)<!--/AltName-->
 
 
 
@@ -54022,7 +54022,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Tyrannosaure](hd_monsters_tyrannosaure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tyrannosaure](hd_monsters_tyrannosaure.md)<!--/AltName-->
 
 
 
@@ -54182,7 +54182,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vampire](hd_monsters_vampire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vampire](hd_monsters_vampire.md)<!--/AltName-->
 
 
 
@@ -54462,7 +54462,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vampirien](hd_monsters_vampirien.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vampirien](hd_monsters_vampirien.md)<!--/AltName-->
 
 
 
@@ -54682,7 +54682,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vase grise](hd_monsters_vase_grise.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vase grise](hd_monsters_vase_grise.md)<!--/AltName-->
 
 
 
@@ -54864,7 +54864,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vautour](hd_monsters_vautour.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vautour](hd_monsters_vautour.md)<!--/AltName-->
 
 
 
@@ -55022,7 +55022,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vautour géant](hd_monsters_vautour_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vautour géant](hd_monsters_vautour_geant.md)<!--/AltName-->
 
 
 
@@ -55198,7 +55198,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Ver pourpre](hd_monsters_ver_pourpre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ver pourpre](hd_monsters_ver_pourpre.md)<!--/AltName-->
 
 
 
@@ -55368,7 +55368,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vouivre](hd_monsters_vouivre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vouivre](hd_monsters_vouivre.md)<!--/AltName-->
 
 
 
@@ -55541,7 +55541,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vrock](hd_monsters_vrock.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vrock](hd_monsters_vrock.md)<!--/AltName-->
 
 
 
@@ -55747,7 +55747,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Vétéran](hd_monsters_veteran.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vétéran](hd_monsters_veteran.md)<!--/AltName-->
 
 
 
@@ -55917,7 +55917,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Worg](hd_monsters_worg.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Worg](hd_monsters_worg.md)<!--/AltName-->
 
 
 
@@ -56070,7 +56070,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Xorn](hd_monsters_xorn.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Xorn](hd_monsters_xorn.md)<!--/AltName-->
 
 
 
@@ -56260,7 +56260,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Zombi](hd_monsters_zombi.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Zombi](hd_monsters_zombi.md)<!--/AltName-->
 
 
 
@@ -56426,7 +56426,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Zombi ogre](hd_monsters_zombi_ogre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Zombi ogre](hd_monsters_zombi_ogre.md)<!--/AltName-->
 
 
 
@@ -56592,7 +56592,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Âme en peine](hd_monsters_ame_en_peine.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Âme en peine](hd_monsters_ame_en_peine.md)<!--/AltName-->
 
 
 
@@ -56768,7 +56768,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Éclaireur](hd_monsters_eclaireur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Éclaireur](hd_monsters_eclaireur.md)<!--/AltName-->
 
 
 
@@ -56939,7 +56939,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Éfrit](hd_monsters_efrit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Éfrit](hd_monsters_efrit.md)<!--/AltName-->
 
 
 
@@ -57138,7 +57138,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Élan](hd_monsters_elan.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Élan](hd_monsters_elan.md)<!--/AltName-->
 
 
 
@@ -57296,7 +57296,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Élan géant](hd_monsters_elan_geant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Élan géant](hd_monsters_elan_geant.md)<!--/AltName-->
 
 
 
@@ -57462,7 +57462,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)<!--/AltName-->
 
 
 
@@ -57640,7 +57640,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)<!--/AltName-->
 
 
 
@@ -57824,7 +57824,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)<!--/AltName-->
 
 
 
@@ -58006,7 +58006,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Élémentaire du feu](hd_monsters_elementaire_du_feu.md)<!--/AltName-->
 
 
 
@@ -58187,7 +58187,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Éléphant](hd_monsters_elephant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Éléphant](hd_monsters_elephant.md)<!--/AltName-->
 
 
 
@@ -58345,7 +58345,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Épaulard](hd_monsters_epaulard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Épaulard](hd_monsters_epaulard.md)<!--/AltName-->
 
 
 
@@ -58511,7 +58511,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Épée volante](hd_monsters_epee_volante.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Épée volante](hd_monsters_epee_volante.md)<!--/AltName-->
 
 
 
@@ -58684,7 +58684,7 @@ SubItems:
 
 
 
-      - CEO: <!--AltName-->[Érinye](hd_monsters_erinye.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Érinye](hd_monsters_erinye.md)<!--/AltName-->
 
 
 
@@ -58885,7 +58885,7 @@ AttributesDictionary: >+
 
 
 
-    - CEO: <!--AltName-->[Créatures](hd_monsters.md)<!--/AltName-->
+    - Alias: <!--AltName-->[Créatures](hd_monsters.md)<!--/AltName-->
 
 
 
@@ -58900,7 +58900,7 @@ AttributesDictionary: >+
 
 # Aboleth
 
-- CEO: [Aboleth](hd_monsters_aboleth.md)
+- Alias: [Aboleth](hd_monsters_aboleth.md)
 - Source: (SRD p261)
 -  Large aberration, lawful evil
 - **Armor Class** 17 (natural armor)
@@ -59406,7 +59406,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 # Acolyte
 
-- CEO: [Acolyte](hd_monsters_acolyte.md)
+- Alias: [Acolyte](hd_monsters_acolyte.md)
 - Source: (SRD p395)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 10
@@ -59442,7 +59442,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # Eagle
 
-- CEO: [Aigle](hd_monsters_aigle.md)
+- Alias: [Aigle](hd_monsters_aigle.md)
 - Source: (SRD p371)
 -  Small beast, unaligned
 - **Armor Class** 12
@@ -59474,7 +59474,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 # Giant Eagle
 
-- CEO: [Aigle géant](hd_monsters_aigle_geant.md)
+- Alias: [Aigle géant](hd_monsters_aigle_geant.md)
 - Source: (SRD p375)
 -  Large beast, neutral good
 - **Armor Class** 13
@@ -59512,7 +59512,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # Androsphinx
 
-- CEO: [Androsphinx](hd_monsters_androsphinx.md)
+- Alias: [Androsphinx](hd_monsters_androsphinx.md)
 - Source: (SRD p347)
 -  Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)
@@ -59585,7 +59585,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 # Ankheg
 
-- CEO: [Ankheg](hd_monsters_ankheg.md)
+- Alias: [Ankheg](hd_monsters_ankheg.md)
 - Source: (SRD p264)
 -  Large monstrosity, unaligned
 - **Armor Class** 14 (natural armor), 11 while prone
@@ -59614,7 +59614,7 @@ _Hit_: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a
 
 # Spider
 
-- CEO: [Araignée](hd_monsters_araignee.md)
+- Alias: [Araignée](hd_monsters_araignee.md)
 - Source: (SRD p389)
 -  Tiny beast, unaligned
 - **Armor Class** 12
@@ -59650,7 +59650,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 9 Constitution sav
 
 # Phase Spider
 
-- CEO: [Araignée de phase](hd_monsters_araignee_de_phase.md)
+- Alias: [Araignée de phase](hd_monsters_araignee_de_phase.md)
 - Source: (SRD p385)
 -  Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)
@@ -59686,7 +59686,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constituti
 
 # Giant Spider
 
-- CEO: [Araignée géante](hd_monsters_araignee_geante.md)
+- Alias: [Araignée géante](hd_monsters_araignee_geante.md)
 - Source: (SRD p379)
 -  Large beast, unaligned
 - **Armor Class** 14 (natural armor)
@@ -59726,7 +59726,7 @@ _Hit_: The target is restrained by webbing. As an action, the restrained target 
 
 # Giant Wolf Spider
 
-- CEO: [Araignée-loup géante](hd_monsters_araignee_loup_geante.md)
+- Alias: [Araignée-loup géante](hd_monsters_araignee_loup_geante.md)
 - Source: (SRD p381)
 -  Medium beast, unaligned
 - **Armor Class** 13
@@ -59762,7 +59762,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitutio
 
 # Awakened Tree
 
-- CEO: [Arbre éveillé](hd_monsters_arbre_eveille.md)
+- Alias: [Arbre éveillé](hd_monsters_arbre_eveille.md)
 - Source: (SRD p366)
 -  Huge plant, unaligned
 - **Armor Class** 13 (natural armor)
@@ -59795,7 +59795,7 @@ _Hit_: 14 (3d6 + 4) bludgeoning damage.
 
 # Awakened Shrub
 
-- CEO: [Arbuste éveillé](hd_monsters_arbuste_eveille.md)
+- Alias: [Arbuste éveillé](hd_monsters_arbuste_eveille.md)
 - Source: (SRD p366)
 -  Small plant, unaligned
 - **Armor Class** 9
@@ -59828,7 +59828,7 @@ _Hit_: 1 (1d4 - 1) slashing damage.
 
 # Archmage
 
-- CEO: [Archimage](hd_monsters_archimage.md)
+- Alias: [Archimage](hd_monsters_archimage.md)
 - Source: (SRD p395)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with
@@ -59886,7 +59886,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # Animated Armor
 
-- CEO: [Armure animée](hd_monsters_armure_animee.md)
+- Alias: [Armure animée](hd_monsters_armure_animee.md)
 - Source: (SRD p263)
 -  Medium construct, unaligned
 - **Armor Class** 18 (natural armor)
@@ -59923,7 +59923,7 @@ _Hit_: 5 (1d6 + 2) bludgeoning damage.
 
 # Assassin
 
-- CEO: [Assassin](hd_monsters_assassin.md)
+- Alias: [Assassin](hd_monsters_assassin.md)
 - Source: (SRD p396)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 15 (studded leather)
@@ -59967,7 +59967,7 @@ _Hit_: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitutio
 
 # Azer
 
-- CEO: [Azer](hd_monsters_azer.md)
+- Alias: [Azer](hd_monsters_azer.md)
 - Source: (SRD p265)
 -  Medium elemental, lawful neutral
 - **Armor Class** 17 (natural armor, shield)
@@ -60005,7 +60005,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if use
 
 # Baboon
 
-- CEO: [Babouin](hd_monsters_babouin.md)
+- Alias: [Babouin](hd_monsters_babouin.md)
 - Source: (SRD p367)
 -  Small beast, unaligned
 - **Armor Class** 12
@@ -60036,7 +60036,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 
 # Gibbering Mouther
 
-- CEO: [Babélien](hd_monsters_babelien.md)
+- Alias: [Babélien](hd_monsters_babelien.md)
 - Source: (SRD p314)
 -  Medium aberration, neutral
 - **Armor Class** 9
@@ -60076,7 +60076,7 @@ _Hit_: 17 (5d6) piercing damage. If the target is Medium or smaller, it must suc
 
 # Balor
 
-- CEO: [Balor](hd_monsters_balor.md)
+- Alias: [Balor](hd_monsters_balor.md)
 - Source: (SRD p270)
 -  Huge fiend (demon), chaotic evil
 - **Armor Class** 19 (natural armor)
@@ -60125,7 +60125,7 @@ _Hit_: 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target mu
 
 # Bandit
 
-- CEO: [Bandit](hd_monsters_bandit.md)
+- Alias: [Bandit](hd_monsters_bandit.md)
 - Source: (SRD p396)
 -  Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 12 (leather armor)
@@ -60156,7 +60156,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # Bandit Captain
 
-- CEO: [Capitaine Bandit](hd_monsters_capitaine_bandit.md)
+- Alias: [Capitaine Bandit](hd_monsters_capitaine_bandit.md)
 - Source: (SRD p397)
 -  Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 15 (studded leather)
@@ -60195,7 +60195,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 # Basilisk
 
-- CEO: [Basilic](hd_monsters_basilic.md)
+- Alias: [Basilic](hd_monsters_basilic.md)
 - Source: (SRD p265)
 -  Medium monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
@@ -60226,7 +60226,7 @@ _Hit_: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
 # Axe Beak
 
-- CEO: [Bec de hache](hd_monsters_bec_de_hache.md)
+- Alias: [Bec de hache](hd_monsters_bec_de_hache.md)
 - Source: (SRD p366)
 -  Large beast, unaligned
 - **Armor Class** 11
@@ -60253,7 +60253,7 @@ _Hit_: 6 (1d8 + 2) slashing damage.
 
 # Weasel
 
-- CEO: [Belette](hd_monsters_belette.md)
+- Alias: [Belette](hd_monsters_belette.md)
 - Source: (SRD p392)
 -  Tiny beast, unaligned
 - **Armor Class** 13
@@ -60285,7 +60285,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Weasel
 
-- CEO: [Belette géante](hd_monsters_belette_geante.md)
+- Alias: [Belette géante](hd_monsters_belette_geante.md)
 - Source: (SRD p381)
 -  Medium beast, unaligned
 - **Armor Class** 13
@@ -60317,7 +60317,7 @@ _Hit_: 5 (1d4 + 3) piercing damage.
 
 # Berserker
 
-- CEO: [Berserker](hd_monsters_berserker.md)
+- Alias: [Berserker](hd_monsters_berserker.md)
 - Source: (SRD p397)
 -  Medium humanoid (any race), any chaotic alignment
 - **Armor Class** 13 (hide armor)
@@ -60348,7 +60348,7 @@ _Hit_: 9 (1d12 + 3) slashing damage.
 
 # Badger
 
-- CEO: [Blaireau](hd_monsters_blaireau.md)
+- Alias: [Blaireau](hd_monsters_blaireau.md)
 - Source: (SRD p367)
 -  Tiny beast, unaligned
 - **Armor Class** 10
@@ -60379,7 +60379,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Badger
 
-- CEO: [Blaireau géant](hd_monsters_blaireau_geant.md)
+- Alias: [Blaireau géant](hd_monsters_blaireau_geant.md)
 - Source: (SRD p373)
 -  Medium beast, unaligned
 - **Armor Class** 10
@@ -60416,7 +60416,7 @@ _Hit_: 6 (2d4 + 1) slashing damage.
 
 # Ghast
 
-- CEO: [Blême](monsters_hd.md#blême)
+- Alias: [Blême](monsters_hd.md#blême)
 - Source: (SRD p311)
 -  Medium undead, chaotic evil
 - **Armor Class** 13
@@ -60456,7 +60456,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a creature other than an u
 
 # Bulette
 
-- CEO: [Bulette](hd_monsters_bulette.md)
+- Alias: [Bulette](hd_monsters_bulette.md)
 - Source: (SRD p266)
 -  Large monstrosity, unaligned
 - **Armor Class** 17 (natural armor)
@@ -60490,7 +60490,7 @@ _Hit_: 30 (4d12 + 4) piercing damage.
 
 # Behir
 
-- CEO: [Béhir](hd_monsters_behir.md)
+- Alias: [Béhir](hd_monsters_behir.md)
 - Source: (SRD p265)
 -  Huge monstrosity, neutral evil
 - **Armor Class** 17 (natural armor)
@@ -60529,7 +60529,7 @@ _Hit_: 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The 
 
 # Centaur
 
-- CEO: [Centaure](hd_monsters_centaure.md)
+- Alias: [Centaure](hd_monsters_centaure.md)
 -  Large monstrosity, neutral good
 - **Armor Class** 12
 - **Hit Points** 45 (6d10 + 12)
@@ -60570,7 +60570,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # Jackal
 
-- CEO: [Chacal](hd_monsters_chacal.md)
+- Alias: [Chacal](hd_monsters_chacal.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -60603,7 +60603,7 @@ _Hit_: 1 (1d4 - 1) piercing damage.
 
 # Camel
 
-- CEO: [Chameau](hd_monsters_chameau.md)
+- Alias: [Chameau](hd_monsters_chameau.md)
 -  Large beast, unaligned
 - **Armor Class** 9
 - **Hit Points** 15 (2d10 + 4)
@@ -60629,7 +60629,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # Cat
 
-- CEO: [Chat](hd_monsters_chat.md)
+- Alias: [Chat](hd_monsters_chat.md)
 -  Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 2 (1d4)
@@ -60660,7 +60660,7 @@ _Hit_: 1 slashing damage.
 
 # Bat
 
-- CEO: [Chauve-souris](hd_monsters_chauve_souris.md)
+- Alias: [Chauve-souris](hd_monsters_chauve_souris.md)
 -  Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)
@@ -60692,7 +60692,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Bat
 
-- CEO: [Chauve-souris géante](hd_monsters_chauve_souris_geante.md)
+- Alias: [Chauve-souris géante](hd_monsters_chauve_souris_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 22 (4d10)
@@ -60724,7 +60724,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Warhorse
 
-- CEO: [Cheval de guerre](hd_monsters_cheval_de_guerre.md)
+- Alias: [Cheval de guerre](hd_monsters_cheval_de_guerre.md)
 -  Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)
@@ -60754,7 +60754,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # Riding Horse
 
-- CEO: [Cheval de selle](hd_monsters_cheval_de_selle.md)
+- Alias: [Cheval de selle](hd_monsters_cheval_de_selle.md)
 -  Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d10 + 2)
@@ -60780,7 +60780,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 # Draft Horse
 
-- CEO: [Cheval de trait](hd_monsters_cheval_de_trait.md)
+- Alias: [Cheval de trait](hd_monsters_cheval_de_trait.md)
 -  Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 19 (3d10 + 3)
@@ -60806,7 +60806,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage.
 
 # Knight
 
-- CEO: [Chevalier](hd_monsters_chevalier.md)
+- Alias: [Chevalier](hd_monsters_chevalier.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 18 (plate)
 - **Hit Points** 52 (8d8 + 16)
@@ -60849,7 +60849,7 @@ _Hit_: 5 (1d10) piercing damage.
 
 # Deer
 
-- CEO: [Chevreuil](hd_monsters_chevreuil.md)
+- Alias: [Chevreuil](hd_monsters_chevreuil.md)
 -  Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 4 (1d8)
@@ -60875,7 +60875,7 @@ _Hit_: 2 (1d4) piercing damage.
 
 # Death Dog
 
-- CEO: [Chien du trépas](hd_monsters_chien_du_trepas.md)
+- Alias: [Chien du trépas](hd_monsters_chien_du_trepas.md)
 -  Medium monstrosity, neutral evil
 - **Armor Class** 12
 - **Hit Points** 39 (6d8 + 12)
@@ -60908,7 +60908,7 @@ _Hit_: 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed
 
 # Blink Dog
 
-- CEO: [Chien esquiveur](hd_monsters_chien_esquiveur.md)
+- Alias: [Chien esquiveur](hd_monsters_chien_esquiveur.md)
 -  Medium fey, lawful good
 - **Armor Class** 13
 - **Hit Points** 22 (4d8 + 4)
@@ -60941,7 +60941,7 @@ _Hit_: 4 (1d6 + 1) piercing damage.
 
 # Chimera
 
-- CEO: [Chimère](hd_monsters_chimere.md)
+- Alias: [Chimère](hd_monsters_chimere.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -60980,7 +60980,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Owl
 
-- CEO: [Chouette](hd_monsters_chouette.md)
+- Alias: [Chouette](hd_monsters_chouette.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)
@@ -61013,7 +61013,7 @@ _Hit_: 1 slashing damage.
 
 # Giant Owl
 
-- CEO: [Chouette géante](hd_monsters_chouette_geante.md)
+- Alias: [Chouette géante](hd_monsters_chouette_geante.md)
 -  Large beast, neutral
 - **Armor Class** 12
 - **Hit Points** 19 (3d10 + 3)
@@ -61046,7 +61046,7 @@ _Hit_: 8 (2d6 + 1) slashing damage.
 
 # Chuul
 
-- CEO: [Chuul](hd_monsters_chuul.md)
+- Alias: [Chuul](hd_monsters_chuul.md)
 -  Large aberration, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 93 (11d10 + 33)
@@ -61085,7 +61085,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if
 
 # Goat
 
-- CEO: [Chèvre](hd_monsters_chevre.md)
+- Alias: [Chèvre](hd_monsters_chevre.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 4 (1d8)
@@ -61117,7 +61117,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 # Giant Goat
 
-- CEO: [Chèvre géante](hd_monsters_chevre_geante.md)
+- Alias: [Chèvre géante](hd_monsters_chevre_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 19 (3d10 + 3)
@@ -61149,7 +61149,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 # Cockatrice
 
-- CEO: [Cockatrice](hd_monsters_cockatrice.md)
+- Alias: [Cockatrice](hd_monsters_cockatrice.md)
 -  Small monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 27 (6d6 + 6)
@@ -61175,7 +61175,7 @@ _Hit_: 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Const
 
 # Raven
 
-- CEO: [Corbeau](hd_monsters_corbeau.md)
+- Alias: [Corbeau](hd_monsters_corbeau.md)
 -  Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)
@@ -61206,7 +61206,7 @@ _Hit_: 1 piercing damage.
 
 # Couatl
 
-- CEO: [Couatl](hd_monsters_couatl.md)
+- Alias: [Couatl](hd_monsters_couatl.md)
 -  Medium celestial, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 97 (13d8 + 39)
@@ -61255,7 +61255,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15
 
 # Crab
 
-- CEO: [Crabe](hd_monsters_crabe.md)
+- Alias: [Crabe](hd_monsters_crabe.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 2 (1d4)
@@ -61286,7 +61286,7 @@ _Hit_: 1 bludgeoning damage.
 
 # Giant Crab
 
-- CEO: [Crabe géant](hd_monsters_crabe_geant.md)
+- Alias: [Crabe géant](hd_monsters_crabe_geant.md)
 -  Medium beast, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 13 (3d8)
@@ -61317,7 +61317,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11)
 
 # Giant Toad
 
-- CEO: [Crapaud géant](hd_monsters_crapaud_geant.md)
+- Alias: [Crapaud géant](hd_monsters_crapaud_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 39 (6d10 + 6)
@@ -61351,7 +61351,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 
 # Shrieker
 
-- CEO: [Criard](hd_monsters_criard.md)
+- Alias: [Criard](hd_monsters_criard.md)
 -  Medium plant, unaligned
 - **Armor Class** 5
 - **Hit Points** 13 (3d8)
@@ -61380,7 +61380,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target 
 
 # Crocodile
 
-- CEO: [Crocodile](hd_monsters_crocodile.md)
+- Alias: [Crocodile](hd_monsters_crocodile.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 19 (3d10 + 3)
@@ -61411,7 +61411,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). 
 
 # Giant Crocodile
 
-- CEO: [Crocodile géant](hd_monsters_crocodile_geant.md)
+- Alias: [Crocodile géant](hd_monsters_crocodile_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 85 (9d12 + 27)
@@ -61448,7 +61448,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must suc
 
 # Gelatinous Cube
 
-- CEO: [Cube gélatineux](hd_monsters_cube_gelatineux.md)
+- Alias: [Cube gélatineux](hd_monsters_cube_gelatineux.md)
 -  Large ooze, unaligned
 - **Armor Class** 6
 - **Hit Points** 84 (8d10 + 40)
@@ -61483,7 +61483,7 @@ _Hit_: 10 (3d6) acid damage.
 
 # Nightmare
 
-- CEO: [Destrier noir](hd_monsters_destrier_noir.md)
+- Alias: [Destrier noir](hd_monsters_destrier_noir.md)
 -  Large fiend, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 68 (8d10 + 24)
@@ -61518,7 +61518,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.
 
 # Barbed Devil
 
-- CEO: [Diable barbelé](hd_monsters_diable_barbele.md)
+- Alias: [Diable barbelé](hd_monsters_diable_barbele.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 110 (13d8 + 52)
@@ -61567,7 +61567,7 @@ _Hit_: 10 (3d6) fire damage. If the target is a flammable object that isn't bein
 
 # Bearded Devil
 
-- CEO: [Diable barbu](hd_monsters_diable_barbu.md)
+- Alias: [Diable barbu](hd_monsters_diable_barbu.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -61611,7 +61611,7 @@ _Hit_: 8 (1d10 + 3) slashing damage. If the target is a creature other than an u
 
 # Horned Devil
 
-- CEO: [Diable cornu](hd_monsters_diable_cornu.md)
+- Alias: [Diable cornu](hd_monsters_diable_cornu.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -61657,7 +61657,7 @@ _Hit_: 14 (4d6) fire damage. If the target is a flammable object that isn't bein
 
 # Chain Devil
 
-- CEO: [Diable des chaînes](hd_monsters_diable_des_chaines.md)
+- Alias: [Diable des chaînes](hd_monsters_diable_des_chaines.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 85 (10d8 + 40)
@@ -61701,7 +61701,7 @@ _Hit_: 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if th
 
 # Ice Devil
 
-- CEO: [Diable gelé](hd_monsters_diable_gele.md)
+- Alias: [Diable gelé](hd_monsters_diable_gele.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 180 (19d10 + 76)
@@ -61749,7 +61749,7 @@ _Hit_: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 
 # Bone Devil
 
-- CEO: [Diable osseux](hd_monsters_diable_osseux.md)
+- Alias: [Diable osseux](hd_monsters_diable_osseux.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -61792,7 +61792,7 @@ _Hit_: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target 
 
 # Imp
 
-- CEO: [Diablotin](hd_monsters_diablotin.md)
+- Alias: [Diablotin](hd_monsters_diablotin.md)
 -  Tiny fiend (devil, shapechanger), lawful evil
 - **Armor Class** 13
 - **Hit Points** 10 (3d4 + 3)
@@ -61832,7 +61832,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitu
 
 # Pit Fiend
 
-- CEO: [Diantrefosse](hd_monsters_diantrefosse.md)
+- Alias: [Diantrefosse](hd_monsters_diantrefosse.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 300 (24d10 + 168)
@@ -61890,7 +61890,7 @@ _Hit_: 24 (3d10 + 8) bludgeoning damage.
 
 # Djinni
 
-- CEO: [Djinn](hd_monsters_djinn.md)
+- Alias: [Djinn](hd_monsters_djinn.md)
 -  Large elemental, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 161 (14d10 + 84)
@@ -61934,7 +61934,7 @@ _Hit_: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (dj
 
 # Doppelganger
 
-- CEO: [Doppleganger](hd_monsters_doppleganger.md)
+- Alias: [Doppleganger](hd_monsters_doppleganger.md)
 -  Medium monstrosity (shapechanger), neutral
 - **Armor Class** 14
 - **Hit Points** 52 (8d8 + 16)
@@ -61974,7 +61974,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage.
 
 # Adult White Dragon
 
-- CEO: [Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)
+- Alias: [Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)
 -  Huge dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 200 (16d12 + 96)
@@ -62033,7 +62033,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient White Dragon
 
-- CEO: [Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)
+- Alias: [Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)
 -  Gargantuan dragon, chaotic evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 333 (18d20 + 144)
@@ -62092,7 +62092,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young White Dragon
 
-- CEO: [Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)
+- Alias: [Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)
 -  Large dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 133 (14d10 + 56)
@@ -62133,7 +62133,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # White Dragon Wyrmling
 
-- CEO: [Dragonnet blanc](hd_monsters_dragonnet_blanc.md)
+- Alias: [Dragonnet blanc](hd_monsters_dragonnet_blanc.md)
 -  Medium dragon, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -62164,7 +62164,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.
 
 # Adult Blue Dragon
 
-- CEO: [Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)
+- Alias: [Dragon bleu adulte](hd_monsters_dragon_bleu_adulte.md)
 -  Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 225 (18d12 + 108)
@@ -62221,7 +62221,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Blue Dragon
 
-- CEO: [Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)
+- Alias: [Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)
 -  Gargantuan dragon, lawful evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 481 (26d20 + 208)
@@ -62278,7 +62278,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Blue Dragon
 
-- CEO: [Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)
+- Alias: [Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)
 -  Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 152 (16d10 + 64)
@@ -62315,7 +62315,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # Blue Dragon Wyrmling
 
-- CEO: [Dragonnet bleu](hd_monsters_dragonnet_bleu.md)
+- Alias: [Dragonnet bleu](hd_monsters_dragonnet_bleu.md)
 -  Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 52 (8d8 + 16)
@@ -62346,7 +62346,7 @@ _Hit_: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.
 
 # Adult Brass Dragon
 
-- CEO: [Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)
+- Alias: [Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)
 -  Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 172 (15d12 + 75)
@@ -62407,7 +62407,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Brass Dragon
 
-- CEO: [Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)
+- Alias: [Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)
 -  Gargantuan dragon, chaotic good
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 297 (17d20 + 119)
@@ -62470,7 +62470,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Brass Dragon
 
-- CEO: [Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)
+- Alias: [Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)
 -  Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 110 (13d10 + 39)
@@ -62511,7 +62511,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Brass Dragon Wyrmling
 
-- CEO: [Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)
+- Alias: [Dragonnet d'airain](hd_monsters_dragonnet_dairain.md)
 -  Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 16 (3d8 + 3)
@@ -62546,7 +62546,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 
 # Adult Silver Dragon
 
-- CEO: [Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)
+- Alias: [Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)
 -  Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 243 (18d12 + 126)
@@ -62609,7 +62609,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Silver Dragon
 
-- CEO: [Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)
+- Alias: [Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)
 -  Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 487 (25d20 + 225)
@@ -62672,7 +62672,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Silver Dragon
 
-- CEO: [Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)
+- Alias: [Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)
 -  Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 168 (16d10 + 80)
@@ -62713,7 +62713,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 
 # Silver Dragon Wyrmling
 
-- CEO: [Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)
+- Alias: [Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)
 -  Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 45 (6d8 + 18)
@@ -62748,7 +62748,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 
 # Adult Gold Dragon
 
-- CEO: [Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)
+- Alias: [Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)
 -  Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)
@@ -62813,7 +62813,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Gold Dragon
 
-- CEO: [Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)
+- Alias: [Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)
 -  Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)
@@ -62878,7 +62878,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Gold Dragon
 
-- CEO: [Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)
+- Alias: [Jeune dragon d'or](hd_monsters_jeune_dragon_dor.md)
 -  Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -62923,7 +62923,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 
 # Gold Dragon Wyrmling
 
-- CEO: [Dragonnet d'or](hd_monsters_dragonnet_dor.md)
+- Alias: [Dragonnet d'or](hd_monsters_dragonnet_dor.md)
 -  Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 60 (8d8 + 24)
@@ -62962,7 +62962,7 @@ _Hit_: 9 (1d10 + 4) piercing damage.
 
 # Adult Bronze Dragon
 
-- CEO: [Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)
+- Alias: [Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)
 -  Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 212 (17d12 + 102)
@@ -63027,7 +63027,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Bronze Dragon
 
-- CEO: [Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)
+- Alias: [Dragon de bronze vénérable](hd_monsters_dragon_de_bronze_venerable.md)
 -  Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 444 (24d20 + 192)
@@ -63092,7 +63092,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Bronze Dragon
 
-- CEO: [Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)
+- Alias: [Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)
 -  Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -63137,7 +63137,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # Bronze Dragon Wyrmling
 
-- CEO: [Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)
+- Alias: [Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)
 -  Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -63176,7 +63176,7 @@ _Hit_: 8 (1d10 + 3) piercing damage.
 
 # Adult Copper Dragon
 
-- CEO: [Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)
+- Alias: [Dragon de cuivre adulte](hd_monsters_dragon_de_cuivre_adulte.md)
 -  Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d12 + 80)
@@ -63237,7 +63237,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Copper Dragon
 
-- CEO: [Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)
+- Alias: [Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)
 -  Gargantuan dragon, chaotic good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 350 (20d20 + 140)
@@ -63300,7 +63300,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Copper Dragon
 
-- CEO: [Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)
+- Alias: [Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)
 -  Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 119 (14d10 + 42)
@@ -63341,7 +63341,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Copper Dragon Wyrmling
 
-- CEO: [Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)
+- Alias: [Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)
 -  Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -63376,7 +63376,7 @@ _Hit_: 7 (1d10 + 2) piercing damage.
 
 # Adult Black Dragon
 
-- CEO: [Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)
+- Alias: [Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)
 -  Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 195 (17d12 + 85)
@@ -63435,7 +63435,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Black Dragon
 
-- CEO: [Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)
+- Alias: [Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)
 -  Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 367 (21d20 + 147)
@@ -63494,7 +63494,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Black Dragon
 
-- CEO: [Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)
+- Alias: [Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)
 -  Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)
@@ -63535,7 +63535,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Black Dragon Wyrmling
 
-- CEO: [Dragonnet noir](hd_monsters_dragonnet_noir.md)
+- Alias: [Dragonnet noir](hd_monsters_dragonnet_noir.md)
 -  Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -63570,7 +63570,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 
 # Adult Red Dragon
 
-- CEO: [Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)
+- Alias: [Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)
 -  Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)
@@ -63627,7 +63627,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Red Dragon
 
-- CEO: [Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)
+- Alias: [Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)
 -  Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)
@@ -63684,7 +63684,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Red Dragon
 
-- CEO: [Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)
+- Alias: [Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)
 -  Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -63721,7 +63721,7 @@ _Hit_: 13 (2d6 + 6) slashing damage.
 
 # Red Dragon Wyrmling
 
-- CEO: [Dragonnet rouge](hd_monsters_dragonnet_rouge.md)
+- Alias: [Dragonnet rouge](hd_monsters_dragonnet_rouge.md)
 -  Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 75 (10d8 + 30)
@@ -63752,7 +63752,7 @@ _Hit_: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 
 # Adult Green Dragon
 
-- CEO: [Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)
+- Alias: [Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)
 -  Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 207 (18d12 + 90)
@@ -63812,7 +63812,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Ancient Green Dragon
 
-- CEO: [Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)
+- Alias: [Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)
 -  Gargantuan dragon, lawful evil
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 385 (22d20 + 154)
@@ -63872,7 +63872,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 # Young Green Dragon
 
-- CEO: [Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)
+- Alias: [Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)
 -  Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -63914,7 +63914,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Green Dragon Wyrmling
 
-- CEO: [Dragonnet vert](hd_monsters_dragonnet_vert.md)
+- Alias: [Dragonnet vert](hd_monsters_dragonnet_vert.md)
 -  Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 38 (7d8 + 7)
@@ -63950,7 +63950,7 @@ _Hit_: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.
 
 # Dragon Turtle
 
-- CEO: [Dragon-tortue](hd_monsters_dragon_tortue.md)
+- Alias: [Dragon-tortue](hd_monsters_dragon_tortue.md)
 -  Gargantuan dragon, neutral
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 341 (22d20 + 110)
@@ -63994,7 +63994,7 @@ _Hit_: 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must su
 
 # Dretch
 
-- CEO: [Dretch](hd_monsters_dretch.md)
+- Alias: [Dretch](hd_monsters_dretch.md)
 -  Small fiend (demon), chaotic evil
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 18 (4d6 + 4)
@@ -64031,7 +64031,7 @@ _Hit_: 5 (2d4) slashing damage.
 
 # Drider
 
-- CEO: [Drider](hd_monsters_drider.md)
+- Alias: [Drider](hd_monsters_drider.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 123 (13d10 + 52)
@@ -64084,7 +64084,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
 # Drow
 
-- CEO: [Drow](hd_monsters_drow.md)
+- Alias: [Drow](hd_monsters_drow.md)
 -  Medium humanoid (elf), neutral evil
 - **Armor Class** 15 (chain shirt)
 - **Hit Points** 13 (3d8)
@@ -64127,7 +64127,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Const
 
 # Druid
 
-- CEO: [Druide](hd_monsters_druide.md)
+- Alias: [Druide](hd_monsters_druide.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 11 (16 with
 - **Hit Points** 27 (5d8 + 5)
@@ -64164,7 +64164,7 @@ _Hit_: 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with tw
 
 # Dryad
 
-- CEO: [Dryade](hd_monsters_dryade.md)
+- Alias: [Dryade](hd_monsters_dryade.md)
 -  Medium fey, neutral
 - **Armor Class** 11 (16 with
 - **Hit Points** 22 (5d8)
@@ -64209,7 +64209,7 @@ _Hit_: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _[shil
 
 # Duergar
 
-- CEO: [Duergar](hd_monsters_duergar.md)
+- Alias: [Duergar](hd_monsters_duergar.md)
 -  Medium humanoid (dwarf), lawful evil
 - **Armor Class** 16 (scale mail, shield)
 - **Hit Points** 26 (4d8 + 8)
@@ -64250,7 +64250,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarge
 
 # Deva
 
-- CEO: [Déva](hd_monsters_deva.md)
+- Alias: [Déva](hd_monsters_deva.md)
 -  Medium celestial, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 136 (16d8 + 64)
@@ -64298,7 +64298,7 @@ _Hit_: 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.
 
 # Priest
 
-- CEO: [Ecclésiastique](hd_monsters_ecclesiastique.md)
+- Alias: [Ecclésiastique](hd_monsters_ecclesiastique.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 13 (chain shirt)
 - **Hit Points** 27 (5d8 + 5)
@@ -64339,7 +64339,7 @@ _Hit_: 3 (1d6) bludgeoning damage.
 
 # Roper
 
-- CEO: [Enlaceur](hd_monsters_enlaceur.md)
+- Alias: [Enlaceur](hd_monsters_enlaceur.md)
 -  Large monstrosity, neutral evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 93 (11d10 + 33)
@@ -64382,7 +64382,7 @@ _Hit_: The target is grappled (escape DC 15). Until the grapple ends, the target
 
 # Spy
 
-- CEO: [Espion](hd_monsters_espion.md)
+- Alias: [Espion](hd_monsters_espion.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12
 - **Hit Points** 27 (6d8)
@@ -64421,7 +64421,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Sprite
 
-- CEO: [Esprit follet](hd_monsters_esprit_follet.md)
+- Alias: [Esprit follet](hd_monsters_esprit_follet.md)
 -  Tiny fey, neutral good
 - **Armor Class** 15 (leather armor)
 - **Hit Points** 2 (1d4)
@@ -64456,7 +64456,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 
 # Ettercap
 
-- CEO: [Ettercap](hd_monsters_ettercap.md)
+- Alias: [Ettercap](hd_monsters_ettercap.md)
 -  Medium monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 44 (8d8 + 8)
@@ -64501,7 +64501,7 @@ _Hit_: The creature is restrained by webbing. As an action, the restrained creat
 
 # Ettin
 
-- CEO: [Ettin](hd_monsters_ettin.md)
+- Alias: [Ettin](hd_monsters_ettin.md)
 -  Large giant, chaotic evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 85 (10d10 + 30)
@@ -64540,7 +64540,7 @@ _Hit_: 14 (2d8 + 5) piercing damage.
 
 # Cult Fanatic
 
-- CEO: [Fanatique de secte](hd_monsters_fanatique_de_secte.md)
+- Alias: [Fanatique de secte](hd_monsters_fanatique_de_secte.md)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 13 (leather armor)
 - **Hit Points** 33 (6d8 + 6)
@@ -64581,7 +64581,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # Ghost
 
-- CEO: [Fantôme](hd_monsters_fantome.md)
+- Alias: [Fantôme](hd_monsters_fantome.md)
 -  Medium undead, any alignment
 - **Armor Class** 11
 - **Hit Points** 45 (10d8)
@@ -64622,7 +64622,7 @@ _Hit_: 17 (4d6 + 3) necrotic damage.
 
 # Hawk
 
-- CEO: [Faucon](hd_monsters_faucon.md)
+- Alias: [Faucon](hd_monsters_faucon.md)
 -  Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)
@@ -64653,7 +64653,7 @@ _Hit_: 1 slashing damage.
 
 # Blood Hawk
 
-- CEO: [Faucon de sang](hd_monsters_faucon_de_sang.md)
+- Alias: [Faucon de sang](hd_monsters_faucon_de_sang.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 7 (2d6)
@@ -64686,7 +64686,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # Will-o'-Wisp
 
-- CEO: [Feu follet](hd_monsters_feu_follet.md)
+- Alias: [Feu follet](hd_monsters_feu_follet.md)
 -  Tiny undead, chaotic evil
 - **Armor Class** 19
 - **Hit Points** 22 (9d4)
@@ -64727,7 +64727,7 @@ _Hit_: 9 (2d8) lightning damage.
 
 # Guard
 
-- CEO: [Garde](hd_monsters_garde.md)
+- Alias: [Garde](hd_monsters_garde.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 16 (chain shirt, shield)
 - **Hit Points** 11 (2d8 + 2)
@@ -64754,7 +64754,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 # Shield Guardian
 
-- CEO: [Garde animé](hd_monsters_garde_anime.md)
+- Alias: [Garde animé](hd_monsters_garde_anime.md)
 -  Large construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 142 (15d10 + 60)
@@ -64796,7 +64796,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # Gargoyle
 
-- CEO: [Gargouille](hd_monsters_gargouille.md)
+- Alias: [Gargouille](hd_monsters_gargouille.md)
 -  Medium elemental, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (7d8 + 21)
@@ -64835,7 +64835,7 @@ _Hit_: 5 (1d6 + 2) slashing damage.
 
 # Ochre Jelly
 
-- CEO: [Gelée ocre](hd_monsters_gelee_ocre.md)
+- Alias: [Gelée ocre](hd_monsters_gelee_ocre.md)
 -  Large ooze, unaligned
 - **Armor Class** 8
 - **Hit Points** 45 (6d10 + 12)
@@ -64874,7 +64874,7 @@ _Hit_: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
 # Glabrezu
 
-- CEO: [Glabrezu](hd_monsters_glabrezu.md)
+- Alias: [Glabrezu](hd_monsters_glabrezu.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 157 (15d10 + 75)
@@ -64920,7 +64920,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 # Gladiator
 
-- CEO: [Gladiateur](hd_monsters_gladiateur.md)
+- Alias: [Gladiateur](hd_monsters_gladiateur.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 16 (studded leather, shield)
 - **Hit Points** 112 (15d8 + 45)
@@ -64964,7 +64964,7 @@ _Hit_: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller crea
 
 # Gnoll
 
-- CEO: [Gnoll](hd_monsters_gnoll.md)
+- Alias: [Gnoll](hd_monsters_gnoll.md)
 -  Medium humanoid (gnoll), chaotic evil
 - **Armor Class** 15 (hide armor, shield)
 - **Hit Points** 22 (5d8)
@@ -65002,7 +65002,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # Deep Gnome (Svirfneblin)
 
-- CEO: [Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)
+- Alias: [Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)
 -  Small humanoid (gnome), neutral good
 - **Armor Class** 15 (chain shirt)
 - **Hit Points** 16 (3d6 + 6)
@@ -65045,7 +65045,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Const
 
 # Goblin
 
-- CEO: [Gobelin](hd_monsters_gobelin.md)
+- Alias: [Gobelin](hd_monsters_gobelin.md)
 -  Small humanoid (goblinoid), neutral evil
 - **Armor Class** 15 (leather armor, shield)
 - **Hit Points** 7 (2d6)
@@ -65080,7 +65080,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Bugbear
 
-- CEO: [Gobelours](hd_monsters_gobelours.md)
+- Alias: [Gobelours](hd_monsters_gobelours.md)
 -  Medium humanoid (goblinoid), chaotic evil
 - **Armor Class** 16 (hide armor, shield)
 - **Hit Points** 27 (5d8 + 5)
@@ -65117,7 +65117,7 @@ _Hit_: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at ra
 
 # Clay Golem
 
-- CEO: [Golem d'argile](hd_monsters_golem_dargile.md)
+- Alias: [Golem d'argile](hd_monsters_golem_dargile.md)
 -  Large construct, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 133 (14d10 + 56)
@@ -65161,7 +65161,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must su
 
 # Flesh Golem
 
-- CEO: [Golem de chair](hd_monsters_golem_de_chair.md)
+- Alias: [Golem de chair](hd_monsters_golem_de_chair.md)
 -  Medium construct, neutral
 - **Armor Class** 9
 - **Hit Points** 93 (11d8 + 44)
@@ -65205,7 +65205,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # Iron Golem
 
-- CEO: [Golem de fer](hd_monsters_golem_de_fer.md)
+- Alias: [Golem de fer](hd_monsters_golem_de_fer.md)
 -  Large construct, unaligned
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 210 (20d10 + 100)
@@ -65251,7 +65251,7 @@ _Hit_: 23 (3d10 + 7) slashing damage.
 
 # Stone Golem
 
-- CEO: [Golem de pierre](hd_monsters_golem_de_pierre.md)
+- Alias: [Golem de pierre](hd_monsters_golem_de_pierre.md)
 -  Large construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 178 (17d10 + 85)
@@ -65291,7 +65291,7 @@ _Hit_: 19 (3d8 + 6) bludgeoning damage.
 
 # Gorgon
 
-- CEO: [Gorgone](hd_monsters_gorgone.md)
+- Alias: [Gorgone](hd_monsters_gorgone.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -65329,7 +65329,7 @@ _Hit_: 16 (2d10 + 5) bludgeoning damage.
 
 # Ghoul
 
-- CEO: [Goule](hd_monsters_goule.md)
+- Alias: [Goule](hd_monsters_goule.md)
 -  Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -65361,7 +65361,7 @@ _Hit_: 7 (2d4 + 2) slashing damage. If the target is a creature other than an el
 
 # Ape
 
-- CEO: [Grand singe](hd_monsters_grand_singe.md)
+- Alias: [Grand singe](hd_monsters_grand_singe.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 19 (3d8 + 6)
@@ -65394,7 +65394,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 
 # Frog
 
-- CEO: [Grenouille](hd_monsters_grenouille.md)
+- Alias: [Grenouille](hd_monsters_grenouille.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)
@@ -65421,7 +65421,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage.
 
 # Giant Frog
 
-- CEO: [Grenouille géante](hd_monsters_grenouille_geante.md)
+- Alias: [Grenouille géante](hd_monsters_grenouille_geante.md)
 -  Medium beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 18 (4d8)
@@ -65456,7 +65456,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). U
 
 # Grick
 
-- CEO: [Grick](hd_monsters_grick.md)
+- Alias: [Grick](hd_monsters_grick.md)
 -  Medium monstrosity, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 27 (6d8)
@@ -65493,7 +65493,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Griffon
 
-- CEO: [Griffon](hd_monsters_griffon.md)
+- Alias: [Griffon](hd_monsters_griffon.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 12
 - **Hit Points** 59 (7d10 + 21)
@@ -65530,7 +65530,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Sea Hag
 
-- CEO: [Guenaude aquatique](hd_monsters_guenaude_aquatique.md)
+- Alias: [Guenaude aquatique](hd_monsters_guenaude_aquatique.md)
 -  Medium fey, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 52 (7d8 + 21)
@@ -65566,7 +65566,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # Night Hag
 
-- CEO: [Guenaude nocturne](hd_monsters_guenaude_nocturne.md)
+- Alias: [Guenaude nocturne](hd_monsters_guenaude_nocturne.md)
 -  Medium fiend, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 112 (15d8 + 45)
@@ -65611,7 +65611,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 
 # Green Hag
 
-- CEO: [Guenaude verte](hd_monsters_guenaude_verte.md)
+- Alias: [Guenaude verte](hd_monsters_guenaude_verte.md)
 -  Medium fey, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 82 (11d8 + 33)
@@ -65652,7 +65652,7 @@ _Hit_: 13 (2d8 + 4) slashing damage.
 
 # Tribal Warrior
 
-- CEO: [Guerrier tribal](hd_monsters_guerrier_tribal.md)
+- Alias: [Guerrier tribal](hd_monsters_guerrier_tribal.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12 (hide armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -65682,7 +65682,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 # Giant Wasp
 
-- CEO: [Guêpe géante](hd_monsters_guepe_geante.md)
+- Alias: [Guêpe géante](hd_monsters_guepe_geante.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (3d8)
@@ -65708,7 +65708,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitutio
 
 # Gynosphinx
 
-- CEO: [Gynosphinx](hd_monsters_gynosphinx.md)
+- Alias: [Gynosphinx](hd_monsters_gynosphinx.md)
 -  Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -65770,7 +65770,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 # Hill Giant
 
-- CEO: [Géant des collines](hd_monsters_geant_des_collines.md)
+- Alias: [Géant des collines](hd_monsters_geant_des_collines.md)
 -  Huge giant, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 105 (10d12 + 40)
@@ -65803,7 +65803,7 @@ _Hit_: 21 (3d10 + 5) bludgeoning damage.
 
 # Cloud Giant
 
-- CEO: [Géant des nuages](hd_monsters_geant_des_nuages.md)
+- Alias: [Géant des nuages](hd_monsters_geant_des_nuages.md)
 -  Huge giant, neutral good (50 %) or neutral evil (50 %)
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 200 (16d12 + 96)
@@ -65849,7 +65849,7 @@ _Hit_: 30 (4d10 + 8) bludgeoning damage.
 
 # Stone Giant
 
-- CEO: [Géant des pierres](hd_monsters_geant_des_pierres.md)
+- Alias: [Géant des pierres](hd_monsters_geant_des_pierres.md)
 -  Huge giant, neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 126 (11d12 + 55)
@@ -65889,7 +65889,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must su
 
 # Storm Giant
 
-- CEO: [Géant des tempêtes](hd_monsters_geant_des_tempetes.md)
+- Alias: [Géant des tempêtes](hd_monsters_geant_des_tempetes.md)
 -  Huge giant, chaotic good
 - **Armor Class** 16 (scale mail)
 - **Hit Points** 230 (20d12 + 100)
@@ -65937,7 +65937,7 @@ _Hit_: 35 (4d12 + 9) bludgeoning damage.
 
 # Fire Giant
 
-- CEO: [Géant du feu](hd_monsters_geant_du_feu.md)
+- Alias: [Géant du feu](hd_monsters_geant_du_feu.md)
 -  Huge giant, lawful evil
 - **Armor Class** 18 (plate)
 - **Hit Points** 162 (13d12 + 78)
@@ -65972,7 +65972,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 # Frost Giant
 
-- CEO: [Géant du givre](hd_monsters_geant_du_givre.md)
+- Alias: [Géant du givre](hd_monsters_geant_du_givre.md)
 -  Huge giant, neutral evil
 - **Armor Class** 15 (patchwork armor)
 - **Hit Points** 138 (12d12 + 60)
@@ -66007,7 +66007,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 # Harpy
 
-- CEO: [Harpie](hd_monsters_harpie.md)
+- Alias: [Harpie](hd_monsters_harpie.md)
 -  Medium monstrosity, chaotic evil
 - **Armor Class** 11
 - **Hit Points** 38 (7d8 + 7)
@@ -66041,7 +66041,7 @@ _Hit_: 3 (1d4 + 1) bludgeoning damage.
 
 # Hezrou
 
-- CEO: [Hezrou](hd_monsters_hezrou.md)
+- Alias: [Hezrou](hd_monsters_hezrou.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 136 (13d10 + 65)
@@ -66083,7 +66083,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Owlbear
 
-- CEO: [Hibours](hd_monsters_hibours.md)
+- Alias: [Hibours](hd_monsters_hibours.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 59 (7d10 + 21)
@@ -66120,7 +66120,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 
 # Sea Horse
 
-- CEO: [Hippocampe](hd_monsters_hippocampe.md)
+- Alias: [Hippocampe](hd_monsters_hippocampe.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)
@@ -66144,7 +66144,7 @@ _Hit_: 14 (2d8 + 5) slashing damage.
 
 # Giant Sea Horse
 
-- CEO: [Hippocampe géant](hd_monsters_hippocampe_geant.md)
+- Alias: [Hippocampe géant](hd_monsters_hippocampe_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 16 (3d10)
@@ -66176,7 +66176,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 # Hippogriff
 
-- CEO: [Hippogriffe](hd_monsters_hippogriffe.md)
+- Alias: [Hippogriffe](hd_monsters_hippogriffe.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)
@@ -66213,7 +66213,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # Hobgoblin
 
-- CEO: [Hobgobelin](hd_monsters_hobgobelin.md)
+- Alias: [Hobgobelin](hd_monsters_hobgobelin.md)
 -  Medium humanoid (goblinoid), lawful evil
 - **Armor Class** 18 (chain mail, shield)
 - **Hit Points** 11 (2d8 + 2)
@@ -66247,7 +66247,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # Lizardfolk
 
-- CEO: [Homme-lézard](hd_monsters_homme_lezard.md)
+- Alias: [Homme-lézard](hd_monsters_homme_lezard.md)
 -  Medium humanoid (lizardfolk), neutral
 - **Armor Class** 15 (natural armor, shield)
 - **Hit Points** 22 (4d8 + 4)
@@ -66292,7 +66292,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Merfolk
 
-- CEO: [Homme-poisson](hd_monsters_homme_poisson.md)
+- Alias: [Homme-poisson](hd_monsters_homme_poisson.md)
 -  Medium humanoid (merfolk), neutral
 - **Armor Class** 11
 - **Hit Points** 11 (2d8 + 2)
@@ -66323,7 +66323,7 @@ _Hit_: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hand
 
 # Homunculus
 
-- CEO: [Homoncule](hd_monsters_homoncule.md)
+- Alias: [Homoncule](hd_monsters_homoncule.md)
 -  Tiny construct, neutral
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 5 (2d4)
@@ -66355,7 +66355,7 @@ _Hit_: 1 piercing damage, and the target must succeed on a DC 10 Constitution sa
 
 # Hydra
 
-- CEO: [Hydre](hd_monsters_hydre.md)
+- Alias: [Hydre](hd_monsters_hydre.md)
 -  Huge monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 172 (15d12 + 75)
@@ -66394,7 +66394,7 @@ _Hit_: 10 (1d10 + 5) piercing damage.
 
 # Hyena
 
-- CEO: [Hyène](hd_monsters_hyene.md)
+- Alias: [Hyène](hd_monsters_hyene.md)
 -  Medium beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 5 (1d8 + 1)
@@ -66425,7 +66425,7 @@ _Hit_: 3 (1d6) piercing damage.
 
 # Giant Hyena
 
-- CEO: [Hyène géante](hd_monsters_hyene_geante.md)
+- Alias: [Hyène géante](hd_monsters_hyene_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 45 (6d10 + 12)
@@ -66456,7 +66456,7 @@ _Hit_: 10 (2d6 + 3) piercing damage.
 
 # Kobold
 
-- CEO: [Kobold](hd_monsters_kobold.md)
+- Alias: [Kobold](hd_monsters_kobold.md)
 -  Small humanoid (kobold), lawful evil
 - **Armor Class** 12
 - **Hit Points** 5 (2d6 - 2)
@@ -66492,7 +66492,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 # Kraken
 
-- CEO: [Kraken](hd_monsters_kraken.md)
+- Alias: [Kraken](hd_monsters_kraken.md)
 -  Gargantuan monstrosity (titan), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 472 (27d20 + 189)
@@ -66549,7 +66549,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 # Lamia
 
-- CEO: [Lamie](hd_monsters_lamie.md)
+- Alias: [Lamie](hd_monsters_lamie.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 97 (13d10 + 26)
@@ -66596,7 +66596,7 @@ _Hit_: The target is magically cursed for 1 hour. Until the curse ends, the targ
 
 # Lich
 
-- CEO: [Liche](hd_monsters_liche.md)
+- Alias: [Liche](hd_monsters_liche.md)
 -  Medium undead, any evil alignment
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 135 (18d8 + 54)
@@ -66669,7 +66669,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 # Unicorn
 
-- CEO: [Licorne](hd_monsters_licorne.md)
+- Alias: [Licorne](hd_monsters_licorne.md)
 -  Large celestial, lawful good
 - **Armor Class** 12
 - **Hit Points** 67 (9d10 + 18)
@@ -66731,7 +66731,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 # Lion
 
-- CEO: [Lion](hd_monsters_lion.md)
+- Alias: [Lion](hd_monsters_lion.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 26 (4d10 + 4)
@@ -66772,7 +66772,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 # Wolf
 
-- CEO: [Loup](hd_monsters_loup.md)
+- Alias: [Loup](hd_monsters_loup.md)
 -  Medium beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -66805,7 +66805,7 @@ _Hit_: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed
 
 # Winter Wolf
 
-- CEO: [Loup arctique](hd_monsters_loup_arctique.md)
+- Alias: [Loup arctique](hd_monsters_loup_arctique.md)
 -  Large monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 75 (10d10 + 20)
@@ -66843,7 +66843,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a creature, it must succee
 
 # Dire Wolf
 
-- CEO: [Loup sanguinaire](hd_monsters_loup_sanguinaire.md)
+- Alias: [Loup sanguinaire](hd_monsters_loup_sanguinaire.md)
 -  Large beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 37 (5d10 + 10)
@@ -66876,7 +66876,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 
 # Werewolf
 
-- CEO: [Loup-garou](hd_monsters_loup_garou.md)
+- Alias: [Loup-garou](hd_monsters_loup_garou.md)
 -  Medium humanoid (human, shapechanger), chaotic evil
 - **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 - **Hit Points** 58 (9d8 + 18)
@@ -66920,7 +66920,7 @@ _Hit_: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with 
 
 # Lemure
 
-- CEO: [Lémure](hd_monsters_lemure.md)
+- Alias: [Lémure](hd_monsters_lemure.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 7
 - **Hit Points** 13 (3d8)
@@ -66955,7 +66955,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # Lizard
 
-- CEO: [Lézard](hd_monsters_lezard.md)
+- Alias: [Lézard](hd_monsters_lezard.md)
 -  Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 2 (1d4)
@@ -66981,7 +66981,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Lizard
 
-- CEO: [Lézard géant](hd_monsters_lezard_geant.md)
+- Alias: [Lézard géant](hd_monsters_lezard_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 19 (3d10 + 3)
@@ -67007,7 +67007,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # Mage
 
-- CEO: [Mage](hd_monsters_mage.md)
+- Alias: [Mage](hd_monsters_mage.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with
 - **Hit Points** 40 (9d8)
@@ -67051,7 +67051,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # Magmin
 
-- CEO: [Magmatique](hd_monsters_magmatique.md)
+- Alias: [Magmatique](hd_monsters_magmatique.md)
 -  Small elemental, chaotic neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 9 (2d6 + 2)
@@ -67085,7 +67085,7 @@ _Hit_: 7 (2d6) fire damage. If the target is a creature or a flammable object, i
 
 # Thug
 
-- CEO: [Malfrat](hd_monsters_malfrat.md)
+- Alias: [Malfrat](hd_monsters_malfrat.md)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 11 (leather armor)
 - **Hit Points** 32 (5d8 + 10)
@@ -67122,7 +67122,7 @@ _Hit_: 5 (1d10) piercing damage.
 
 # Mammoth
 
-- CEO: [Mammouth](hd_monsters_mammouth.md)
+- Alias: [Mammouth](hd_monsters_mammouth.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 126 (11d12 + 55)
@@ -67156,7 +67156,7 @@ _Hit_: 29 (4d10 + 7) bludgeoning damage.
 
 # Darkmantle
 
-- CEO: [Mante obscure](hd_monsters_mante_obscure.md)
+- Alias: [Mante obscure](hd_monsters_mante_obscure.md)
 -  Small monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 22 (5d6 + 5)
@@ -67191,7 +67191,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target
 
 # Cloaker
 
-- CEO: [Manteleur](hd_monsters_manteleur.md)
+- Alias: [Manteleur](hd_monsters_manteleur.md)
 -  Large aberration, chaotic neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 78 (12d10 + 12)
@@ -67236,7 +67236,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 
 # Manticore
 
-- CEO: [Manticore](hd_monsters_manticore.md)
+- Alias: [Manticore](hd_monsters_manticore.md)
 -  Large monstrosity, lawful evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 68 (8d10 + 24)
@@ -67276,7 +67276,7 @@ _Hit_: 7 (1d8 + 3) piercing damage.
 
 # Marilith
 
-- CEO: [Marilith](hd_monsters_marilith.md)
+- Alias: [Marilith](hd_monsters_marilith.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 189 (18d10 + 90)
@@ -67326,7 +67326,7 @@ _Hit_: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it 
 
 # Cultist
 
-- CEO: [Membre de secte](hd_monsters_membre_de_secte.md)
+- Alias: [Membre de secte](hd_monsters_membre_de_secte.md)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 12 (leather armor)
 - **Hit Points** 9 (2d8)
@@ -67357,7 +67357,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 
 # Merrow
 
-- CEO: [Merrow](hd_monsters_merrow.md)
+- Alias: [Merrow](hd_monsters_merrow.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 45 (6d10 + 12)
@@ -67397,7 +67397,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature
 
 # Giant Centipede
 
-- CEO: [Mille-pattes géant](hd_monsters_mille_pattes_geant.md)
+- Alias: [Mille-pattes géant](hd_monsters_mille_pattes_geant.md)
 -  Small beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 4 (1d6 + 1)
@@ -67423,7 +67423,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 # Mimic
 
-- CEO: [Mimique](hd_monsters_mimique.md)
+- Alias: [Mimique](hd_monsters_mimique.md)
 -  Medium monstrosity (shapechanger), neutral
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 58 (9d8 + 18)
@@ -67466,7 +67466,7 @@ _Hit_: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
 # Minotaur
 
-- CEO: [Minotaure](hd_monsters_minotaure.md)
+- Alias: [Minotaure](hd_monsters_minotaure.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 76 (9d10 + 27)
@@ -67505,7 +67505,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 
 # Violet Fungus
 
-- CEO: [Moisissure violette](hd_monsters_moisissure_violette.md)
+- Alias: [Moisissure violette](hd_monsters_moisissure_violette.md)
 -  Medium plant, unaligned
 - **Armor Class** 5
 - **Hit Points** 18 (4d8)
@@ -67538,7 +67538,7 @@ _Hit_: 4 (1d8) necrotic damage.
 
 # Mastiff
 
-- CEO: [Mastiff](hd_monsters_mastiff.md)
+- Alias: [Mastiff](hd_monsters_mastiff.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 5 (1d8 + 1)
@@ -67569,7 +67569,7 @@ _Hit_: 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed
 
 # Hell Hound
 
-- CEO: [Molosse infernal](hd_monsters_molosse_infernal.md)
+- Alias: [Molosse infernal](hd_monsters_molosse_infernal.md)
 -  Medium fiend, lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 45 (7d8 + 14)
@@ -67607,7 +67607,7 @@ Fire-breathing fiends that take the form of powerful dogs, hell hounds commonly 
 
 # Mummy
 
-- CEO: [Momie](hd_monsters_momie.md)
+- Alias: [Momie](hd_monsters_momie.md)
 -  Medium undead, lawful evil
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 58 (9d8 + 18)
@@ -67642,7 +67642,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the tar
 
 # Mummy Lord
 
-- CEO: [Momie auguste](hd_monsters_momie_auguste.md)
+- Alias: [Momie auguste](hd_monsters_momie_auguste.md)
 -  Medium undead, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 97 (13d8 + 39)
@@ -67713,7 +67713,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 # Mule
 
-- CEO: [Mule](hd_monsters_mule.md)
+- Alias: [Mule](hd_monsters_mule.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 11 (2d8 + 2)
@@ -67745,7 +67745,7 @@ _Hit_: 4 (1d4 + 2) bludgeoning damage.
 
 # Medusa
 
-- CEO: [Méduse](hd_monsters_meduse.md)
+- Alias: [Méduse](hd_monsters_meduse.md)
 -  Medium monstrosity, lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 127 (17d8 + 51)
@@ -67786,7 +67786,7 @@ _Hit_: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 
 # Ice Mephit
 
-- CEO: [Méphite de glace](hd_monsters_mephite_de_glace.md)
+- Alias: [Méphite de glace](hd_monsters_mephite_de_glace.md)
 -  Small elemental, neutral evil
 - **Armor Class** 11
 - **Hit Points** 21 (6d6)
@@ -67826,7 +67826,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
 # Magma Mephit
 
-- CEO: [Méphite de magma](hd_monsters_mephite_de_magma.md)
+- Alias: [Méphite de magma](hd_monsters_mephite_de_magma.md)
 -  Small elemental, neutral evil
 - **Armor Class** 11
 - **Hit Points** 22 (5d6 + 5)
@@ -67866,7 +67866,7 @@ _Hit_: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.
 
 # Dust Mephit
 
-- CEO: [Méphite de poussière](hd_monsters_mephite_de_poussiere.md)
+- Alias: [Méphite de poussière](hd_monsters_mephite_de_poussiere.md)
 -  Small elemental, neutral evil
 - **Armor Class** 12
 - **Hit Points** 17 (5d6)
@@ -67904,7 +67904,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 # Steam Mephit
 
-- CEO: [Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)
+- Alias: [Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)
 -  Small elemental, neutral evil
 - **Armor Class** 10
 - **Hit Points** 21 (6d6)
@@ -67940,7 +67940,7 @@ _Hit_: 2 (1d4) slashing damage plus 2 (1d4) fire damage.
 
 # Spirit Naga
 
-- CEO: [Naga corrupteur](hd_monsters_naga_corrupteur.md)
+- Alias: [Naga corrupteur](hd_monsters_naga_corrupteur.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 75 (10d10 + 20)
@@ -67987,7 +67987,7 @@ _Hit_: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitutio
 
 # Guardian Naga
 
-- CEO: [Naga gardien](hd_monsters_naga_gardien.md)
+- Alias: [Naga gardien](hd_monsters_naga_gardien.md)
 -  Large monstrosity, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)
@@ -68040,7 +68040,7 @@ _Hit_: The target must make a DC 15 Constitution saving throw, taking 45 (10d8) 
 
 # Nalfeshnee
 
-- CEO: [Nalfeshnie](hd_monsters_nalfeshnie.md)
+- Alias: [Nalfeshnie](hd_monsters_nalfeshnie.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d10 + 96)
@@ -68084,7 +68084,7 @@ _Hit_: 15 (3d6 + 5) slashing damage.
 
 # Noble
 
-- CEO: [Noble](hd_monsters_noble.md)
+- Alias: [Noble](hd_monsters_noble.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 15 (breastplate)
 - **Hit Points** 9 (2d8)
@@ -68115,7 +68115,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # Swarm of Insects
 
-- CEO: [Nuée d'insectes](hd_monsters_nuee_dinsectes.md)
+- Alias: [Nuée d'insectes](hd_monsters_nuee_dinsectes.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (5d8)
@@ -68147,7 +68147,7 @@ _Hit_: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has hal
 
 # Swarm of Bats
 
-- CEO: [Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)
+- Alias: [Nuée de chauve-souris](hd_monsters_nuee_de_chauve_souris.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -68183,7 +68183,7 @@ _Hit_: 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half
 
 # Swarm of Ravens
 
-- CEO: [Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)
+- Alias: [Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 24 (7d8 - 7)
@@ -68216,7 +68216,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 # Swarm of Quippers
 
-- CEO: [Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)
+- Alias: [Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 13
 - **Hit Points** 28 (8d8 - 8)
@@ -68252,7 +68252,7 @@ _Hit_: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has hal
 
 # Swarm of Rats
 
-- CEO: [Nuée de rats](hd_monsters_nuee_de_rats.md)
+- Alias: [Nuée de rats](hd_monsters_nuee_de_rats.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 10
 - **Hit Points** 24 (7d8 - 7)
@@ -68286,7 +68286,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 # Swarm of Poisonous Snakes
 
-- CEO: [Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)
+- Alias: [Nuée de serpents venimeux](hd_monsters_nuee_de_serpents_venimeux.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 14
 - **Hit Points** 36 (8d8)
@@ -68318,7 +68318,7 @@ _Hit_: 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half
 
 # Wight
 
-- CEO: [Nécrophage](hd_monsters_necrophage.md)
+- Alias: [Nécrophage](hd_monsters_necrophage.md)
 -  Medium undead, neutral evil
 - **Armor Class** 14 (studded leather)
 - **Hit Points** 45 (6d8 + 18)
@@ -68362,7 +68362,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # Ogre
 
-- CEO: [Ogre](hd_monsters_ogre.md)
+- Alias: [Ogre](hd_monsters_ogre.md)
 -  Large giant, chaotic evil
 - **Armor Class** 11 (hide armor)
 - **Hit Points** 59 (7d10 + 21)
@@ -68392,7 +68392,7 @@ _Hit_: 11 (2d6 + 4) piercing damage.
 
 # Shadow
 
-- CEO: [Ombre](hd_monsters_ombre.md)
+- Alias: [Ombre](hd_monsters_ombre.md)
 -  Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 16 (3d8 + 3)
@@ -68431,7 +68431,7 @@ _Hit_: 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced b
 
 # Oni
 
-- CEO: [Oni](hd_monsters_oni.md)
+- Alias: [Oni](hd_monsters_oni.md)
 -  Large giant, lawful evil
 - **Armor Class** 16 (chain mail)
 - **Hit Points** 110 (13d10 + 39)
@@ -68479,7 +68479,7 @@ _Hit_: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small o
 
 # Orc
 
-- CEO: [Orc](hd_monsters_orc.md)
+- Alias: [Orc](hd_monsters_orc.md)
 -  Medium humanoid (orc), chaotic evil
 - **Armor Class** 13 (hide armor)
 - **Hit Points** 15 (2d8 + 6)
@@ -68514,7 +68514,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 
 # Otyugh
 
-- CEO: [Otyugh](hd_monsters_otyugh.md)
+- Alias: [Otyugh](hd_monsters_otyugh.md)
 -  Large aberration, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -68553,7 +68553,7 @@ _Hit_: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the targe
 
 # Brown Bear
 
-- CEO: [Ours brun](hd_monsters_ours_brun.md)
+- Alias: [Ours brun](hd_monsters_ours_brun.md)
 -  Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 34 (4d10 + 12)
@@ -68590,7 +68590,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Black Bear
 
-- CEO: [Ours noir](hd_monsters_ours_noir.md)
+- Alias: [Ours noir](hd_monsters_ours_noir.md)
 -  Medium beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 19 (3d8 + 6)
@@ -68627,7 +68627,7 @@ _Hit_: 7 (2d4 + 2) slashing damage.
 
 # Polar Bear
 
-- CEO: [Ours polaire](hd_monsters_ours_polaire.md)
+- Alias: [Ours polaire](hd_monsters_ours_polaire.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 42 (5d10 + 15)
@@ -68664,7 +68664,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # Werebear
 
-- CEO: [Ours-garou](hd_monsters_ours_garou.md)
+- Alias: [Ours-garou](hd_monsters_ours_garou.md)
 -  Medium humanoid (human, shapechanger), neutral good
 - **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form
 - **Hit Points** 135 (18d8 + 54)
@@ -68708,7 +68708,7 @@ _Hit_: 10 (1d12 + 4) slashing damage.
 
 # Rust Monster
 
-- CEO: [Oxydeur](hd_monsters_oxydeur.md)
+- Alias: [Oxydeur](hd_monsters_oxydeur.md)
 -  Medium monstrosity, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 27 (5d8 + 5)
@@ -68742,7 +68742,7 @@ _Hit_: 5 (1d8 + 1) piercing damage.
 
 # Panther
 
-- CEO: [Panthère](hd_monsters_panthere.md)
+- Alias: [Panthère](hd_monsters_panthere.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (3d8)
@@ -68779,7 +68779,7 @@ _Hit_: 4 (1d4 + 2) slashing damage.
 
 # Octopus
 
-- CEO: [Pieuvre](hd_monsters_pieuvre.md)
+- Alias: [Pieuvre](hd_monsters_pieuvre.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)
@@ -68816,7 +68816,7 @@ _Hit_: 1 bludgeoning damage, and the target is grappled (escape DC 10). Until th
 
 # Giant Octopus
 
-- CEO: [Pieuvre géante](hd_monsters_pieuvre_geante.md)
+- Alias: [Pieuvre géante](hd_monsters_pieuvre_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 52 (8d10 + 8)
@@ -68853,7 +68853,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grapp
 
 # Quipper
 
-- CEO: [Piranha](hd_monsters_piranha.md)
+- Alias: [Piranha](hd_monsters_piranha.md)
 -  Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)
@@ -68885,7 +68885,7 @@ _Hit_: 1 piercing damage.
 
 # Planetar
 
-- CEO: [Planétar](hd_monsters_planetar.md)
+- Alias: [Planétar](hd_monsters_planetar.md)
 -  Large celestial, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 200 (16d10 + 112)
@@ -68935,7 +68935,7 @@ _Hit_: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.
 
 # Plesiosaurus
 
-- CEO: [Plésiosaure](hd_monsters_plesiosaure.md)
+- Alias: [Plésiosaure](hd_monsters_plesiosaure.md)
 -  Large beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 68 (8d10 + 24)
@@ -68966,7 +68966,7 @@ _Hit_: 14 (3d6 + 4) piercing damage.
 
 # Pony
 
-- CEO: [Poney](hd_monsters_poney.md)
+- Alias: [Poney](hd_monsters_poney.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 11 (2d8 + 2)
@@ -68992,7 +68992,7 @@ _Hit_: 7 (2d4 + 2) bludgeoning damage.
 
 # Black Pudding
 
-- CEO: [Pouding noir](hd_monsters_pouding_noir.md)
+- Alias: [Pouding noir](hd_monsters_pouding_noir.md)
 -  Large ooze, unaligned
 - **Armor Class** 7
 - **Hit Points** 85 (10d10 + 30)
@@ -69032,7 +69032,7 @@ _Hit_: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, no
 
 # Pseudodragon
 
-- CEO: [Pseudodragon](hd_monsters_pseudodragon.md)
+- Alias: [Pseudodragon](hd_monsters_pseudodragon.md)
 -  Tiny dragon, neutral good
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 7 (2d4 + 2)
@@ -69071,7 +69071,7 @@ _Hit_: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Const
 
 # Giant Fire Beetle
 
-- CEO: [Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)
+- Alias: [Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)
 -  Small beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 4 (1d6 + 1)
@@ -69101,7 +69101,7 @@ _Hit_: 2 (1d6 - 1) slashing damage.
 
 # Pegasus
 
-- CEO: [Pégase](hd_monsters_pegase.md)
+- Alias: [Pégase](hd_monsters_pegase.md)
 -  Large celestial, chaotic good
 - **Armor Class** 12
 - **Hit Points** 59 (7d10 + 21)
@@ -69129,7 +69129,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # Quasit
 
-- CEO: [Quasit](hd_monsters_quasit.md)
+- Alias: [Quasit](hd_monsters_quasit.md)
 -  Tiny fiend (demon, shapechanger), chaotic evil
 - **Armor Class** 13
 - **Hit Points** 7 (3d4)
@@ -69169,7 +69169,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Const
 
 # Rakshasa
 
-- CEO: [Rakshasa](hd_monsters_rakshasa.md)
+- Alias: [Rakshasa](hd_monsters_rakshasa.md)
 -  Medium fiend, lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 110 (13d8 + 52)
@@ -69212,7 +69212,7 @@ _Hit_: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature
 
 # Rat
 
-- CEO: [Rat](hd_monsters_rat.md)
+- Alias: [Rat](hd_monsters_rat.md)
 -  Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 1 (1d4 - 1)
@@ -69242,7 +69242,7 @@ _Hit_: 1 piercing damage.
 
 # Giant Rat
 
-- CEO: [Rat géant](hd_monsters_rat_geant.md)
+- Alias: [Rat géant](hd_monsters_rat_geant.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 7 (2d6)
@@ -69274,7 +69274,7 @@ _Hit_: 4 (1d4 + 2) piercing damage.
 
 # Wererat
 
-- CEO: [Rat-garou](hd_monsters_rat_garou.md)
+- Alias: [Rat-garou](hd_monsters_rat_garou.md)
 -  Medium humanoid (human, shapechanger), lawful evil
 - **Armor Class** 12
 - **Hit Points** 33 (6d8 + 6)
@@ -69318,7 +69318,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Reef Shark
 
-- CEO: [Requin de récif](hd_monsters_requin_de_recif.md)
+- Alias: [Requin de récif](hd_monsters_requin_de_recif.md)
 -  Medium beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -69351,7 +69351,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # Giant Shark
 
-- CEO: [Requin géant](hd_monsters_requin_geant.md)
+- Alias: [Requin géant](hd_monsters_requin_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 126 (11d12 + 55)
@@ -69384,7 +69384,7 @@ _Hit_: 22 (3d10 + 6) piercing damage.
 
 # Hunter Shark
 
-- CEO: [Requin chasseur](hd_monsters_requin_chasseur.md)
+- Alias: [Requin chasseur](hd_monsters_requin_chasseur.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 45 (6d10 + 12)
@@ -69417,7 +69417,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 
 # Rhinoceros
 
-- CEO: [Rhinocéros](hd_monsters_rhinoceros.md)
+- Alias: [Rhinocéros](hd_monsters_rhinoceros.md)
 -  Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 45 (6d10 + 12)
@@ -69447,7 +69447,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 # Roc
 
-- CEO: [Roc](hd_monsters_roc.md)
+- Alias: [Roc](hd_monsters_roc.md)
 -  Gargantuan monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 248 (16d20 + 80)
@@ -69485,7 +69485,7 @@ _Hit_: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). 
 
 # Commoner
 
-- CEO: [Roturier](hd_monsters_roturier.md)
+- Alias: [Roturier](hd_monsters_roturier.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 10
 - **Hit Points** 4 (1d8)
@@ -69511,7 +69511,7 @@ _Hit_: 2 (1d4) bludgeoning damage.
 
 # Remorhaz
 
-- CEO: [Remorhaz](hd_monsters_remorhaz.md)
+- Alias: [Remorhaz](hd_monsters_remorhaz.md)
 -  Huge monstrosity, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 195 (17d12 + 85)
@@ -69544,7 +69544,7 @@ _Hit_: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is
 
 # Sahuagin
 
-- CEO: [Sahuagin](hd_monsters_sahuagin.md)
+- Alias: [Sahuagin](hd_monsters_sahuagin.md)
 -  Medium humanoid (sahuagin), lawful evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (4d8 + 4)
@@ -69589,7 +69589,7 @@ _Hit_: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with 
 
 # Salamander
 
-- CEO: [Salamandre](hd_monsters_salamandre.md)
+- Alias: [Salamandre](hd_monsters_salamandre.md)
 -  Large elemental, neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 90 (12d10 + 24)
@@ -69630,7 +69630,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target 
 
 # Boar
 
-- CEO: [Sanglier](hd_monsters_sanglier.md)
+- Alias: [Sanglier](hd_monsters_sanglier.md)
 -  Medium beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 11 (2d8 + 2)
@@ -69662,7 +69662,7 @@ _Hit_: 4 (1d6 + 1) slashing damage.
 
 # Giant Boar
 
-- CEO: [Sanglier géant](hd_monsters_sanglier_geant.md)
+- Alias: [Sanglier géant](hd_monsters_sanglier_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 42 (5d10 + 15)
@@ -69694,7 +69694,7 @@ _Hit_: 10 (2d6 + 3) slashing damage.
 
 # Wereboar
 
-- CEO: [Sanglier-garou](hd_monsters_sanglier_garou.md)
+- Alias: [Sanglier-garou](hd_monsters_sanglier_garou.md)
 -  Medium humanoid (human, shapechanger), neutral evil
 - **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
 - **Hit Points** 78 (12d8 + 24)
@@ -69736,7 +69736,7 @@ _Hit_: 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succee
 
 # Satyr
 
-- CEO: [Satyre](hd_monsters_satyre.md)
+- Alias: [Satyre](hd_monsters_satyre.md)
 -  Medium fey, chaotic neutral
 - **Armor Class** 14 (leather armor)
 - **Hit Points** 31 (7d8)
@@ -69775,7 +69775,7 @@ _Hit_: 6 (1d6 + 3) piercing damage.
 
 # Scorpion
 
-- CEO: [Scorpion](hd_monsters_scorpion.md)
+- Alias: [Scorpion](hd_monsters_scorpion.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 1 (1d4 - 1)
@@ -69801,7 +69801,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 9 Constitution saving th
 
 # Giant Scorpion
 
-- CEO: [Scorpion géant](hd_monsters_scorpion_geant.md)
+- Alias: [Scorpion géant](hd_monsters_scorpion_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (7d10 + 14)
@@ -69833,7 +69833,7 @@ _Hit_: 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constituti
 
 # Constrictor Snake
 
-- CEO: [Serpent constricteur](hd_monsters_serpent_constricteur.md)
+- Alias: [Serpent constricteur](hd_monsters_serpent_constricteur.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (2d10 + 2)
@@ -69863,7 +69863,7 @@ _Hit_: 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14)
 
 # Giant Constrictor Snake
 
-- CEO: [Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)
+- Alias: [Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 60 (8d12 + 8)
@@ -69894,7 +69894,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16
 
 # Poisonous Snake
 
-- CEO: [Serpent venimeux](hd_monsters_serpent_venimeux.md)
+- Alias: [Serpent venimeux](hd_monsters_serpent_venimeux.md)
 -  Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 2 (1d4)
@@ -69920,7 +69920,7 @@ _Hit_: 1 piercing damage, and the target must make a DC 10 Constitution saving t
 
 # Giant Poisonous Snake
 
-- CEO: [Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)
+- Alias: [Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)
 -  Medium beast, unaligned
 - **Armor Class** 14
 - **Hit Points** 11 (2d8 + 2)
@@ -69947,7 +69947,7 @@ _Hit_: 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitutio
 
 # Flying Snake
 
-- CEO: [Serpent volant](hd_monsters_serpent_volant.md)
+- Alias: [Serpent volant](hd_monsters_serpent_volant.md)
 -  Tiny beast, unaligned
 - **Armor Class** 14
 - **Hit Points** 5 (2d4)
@@ -69977,7 +69977,7 @@ _Hit_: 1 piercing damage plus 7 (3d4) poison damage.
 
 # Giant Ape
 
-- CEO: [Singe géant](hd_monsters_singe_geant.md)
+- Alias: [Singe géant](hd_monsters_singe_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 157 (15d12 + 60)
@@ -70010,7 +70010,7 @@ _Hit_: 30 (7d6 + 6) bludgeoning damage.
 
 # Solar
 
-- CEO: [Solar](hd_monsters_solar.md)
+- Alias: [Solar](hd_monsters_solar.md)
 -  Large celestial, lawful good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 243 (18d10 + 144)
@@ -70077,7 +70077,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 # Specter
 
-- CEO: [Spectre](hd_monsters_spectre.md)
+- Alias: [Spectre](hd_monsters_spectre.md)
 -  Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)
@@ -70112,7 +70112,7 @@ _Hit_: 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution
 
 # Skeleton
 
-- CEO: [Squelette](hd_monsters_squelette.md)
+- Alias: [Squelette](hd_monsters_squelette.md)
 -  Medium undead, lawful evil
 - **Armor Class** 13 (armor scraps)
 - **Hit Points** 13 (2d8 + 4)
@@ -70145,7 +70145,7 @@ _Hit_: 5 (1d6 + 2) piercing damage.
 
 # Warhorse Skeleton
 
-- CEO: [Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)
+- Alias: [Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)
 -  Large undead, lawful evil
 - **Armor Class** 13 (barding scraps)
 - **Hit Points** 22 (3d10 + 6)
@@ -70174,7 +70174,7 @@ _Hit_: 11 (2d6 + 4) bludgeoning damage.
 
 # Minotaur Skeleton
 
-- CEO: [Squelette minotaure](hd_monsters_squelette_minotaure.md)
+- Alias: [Squelette minotaure](hd_monsters_squelette_minotaure.md)
 -  Large undead, lawful evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 67 (9d10 + 18)
@@ -70211,7 +70211,7 @@ _Hit_: 13 (2d8 + 4) piercing damage.
 
 # Stirge
 
-- CEO: [Strige](hd_monsters_strige.md)
+- Alias: [Strige](hd_monsters_strige.md)
 -  Tiny beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 2 (1d4)
@@ -70237,7 +70237,7 @@ _Hit_: 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While
 
 # Succubus
 
-- CEO: [Succube/Incube](hd_monsters_succubeincube.md)
+- Alias: [Succube/Incube](hd_monsters_succubeincube.md)
 -  Medium fiend (shapechanger), neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 66 (12d8 + 12)
@@ -70277,7 +70277,7 @@ _Hit_: 6 (1d6 + 3) slashing damage.
 
 # Treant
 
-- CEO: [Sylvanien](hd_monsters_sylvanien.md)
+- Alias: [Sylvanien](hd_monsters_sylvanien.md)
 -  Huge plant, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 138 (12d12 + 60)
@@ -70319,7 +70319,7 @@ _Hit_: 28 (4d10 + 6) bludgeoning damage.
 
 # Rug of Smothering
 
-- CEO: [Tapis étrangleur](hd_monsters_tapis_etrangleur.md)
+- Alias: [Tapis étrangleur](hd_monsters_tapis_etrangleur.md)
 -  Large construct, unaligned
 - **Armor Class** 12
 - **Hit Points** 33 (6d10)
@@ -70355,7 +70355,7 @@ _Hit_: The creature is grappled (escape DC 13). Until this grapple ends, the tar
 
 # Tarrasque
 
-- CEO: [Tarasque](hd_monsters_tarasque.md)
+- Alias: [Tarasque](hd_monsters_tarasque.md)
 -  Gargantuan monstrosity (titan), unaligned
 - **Armor Class** 25 (natural armor)
 - **Hit Points** 676 (33d20 + 330)
@@ -70422,7 +70422,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 # Shambling Mound
 
-- CEO: [Tertre errant](hd_monsters_tertre_errant.md)
+- Alias: [Tertre errant](hd_monsters_tertre_errant.md)
 -  Large plant, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 136 (16d10 + 48)
@@ -70460,7 +70460,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # Tiger
 
-- CEO: [Tigre](hd_monsters_tigre.md)
+- Alias: [Tigre](hd_monsters_tigre.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 37 (5d10 + 10)
@@ -70497,7 +70497,7 @@ _Hit_: 7 (1d8 + 3) slashing damage.
 
 # Saber-Toothed Tiger
 
-- CEO: [Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)
+- Alias: [Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 52 (7d10 + 14)
@@ -70534,7 +70534,7 @@ _Hit_: 12 (2d6 + 5) slashing damage.
 
 # Weretiger
 
-- CEO: [Tigre-garou](hd_monsters_tigre_garou.md)
+- Alias: [Tigre-garou](hd_monsters_tigre_garou.md)
 -  Medium humanoid (human, shapechanger), neutral
 - **Armor Class** 12
 - **Hit Points** 120 (16d8 + 48)
@@ -70584,7 +70584,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # Grimlock
 
-- CEO: [Torve](hd_monsters_torve.md)
+- Alias: [Torve](hd_monsters_torve.md)
 -  Medium humanoid (grimlock), neutral evil
 - **Armor Class** 11
 - **Hit Points** 11 (2d8 + 2)
@@ -70620,7 +70620,7 @@ _Hit_: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 
 # Invisible Stalker
 
-- CEO: [Traqueur invisible](hd_monsters_traqueur_invisible.md)
+- Alias: [Traqueur invisible](hd_monsters_traqueur_invisible.md)
 -  Medium elemental, neutral
 - **Armor Class** 14
 - **Hit Points** 104 (16d8 + 32)
@@ -70658,7 +70658,7 @@ _Hit_: 10 (2d6 + 3) bludgeoning damage.
 
 # Triceratops
 
-- CEO: [Tricératops](hd_monsters_triceratops.md)
+- Alias: [Tricératops](hd_monsters_triceratops.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 95 (10d12 + 30)
@@ -70692,7 +70692,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage
 
 # Troll
 
-- CEO: [Troll](hd_monsters_troll.md)
+- Alias: [Troll](hd_monsters_troll.md)
 -  Large giant, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 84 (8d10 + 40)
@@ -70731,7 +70731,7 @@ _Hit_: 11 (2d6 + 4) slashing damage.
 
 # Tyrannosaurus Rex
 
-- CEO: [Tyrannosaure](hd_monsters_tyrannosaure.md)
+- Alias: [Tyrannosaure](hd_monsters_tyrannosaure.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 136 (13d12 + 52)
@@ -70764,7 +70764,7 @@ _Hit_: 20 (3d8 + 7) bludgeoning damage.
 
 # Vampire
 
-- CEO: [Vampire](hd_monsters_vampire.md)
+- Alias: [Vampire](hd_monsters_vampire.md)
 -  Medium undead (shapechanger), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 144 (17d8 + 68)
@@ -70835,7 +70835,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 # Vampire Spawn
 
-- CEO: [Vampirien](hd_monsters_vampirien.md)
+- Alias: [Vampirien](hd_monsters_vampirien.md)
 -  Medium undead, neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 82 (11d8 + 33)
@@ -70886,7 +70886,7 @@ _Hit_: 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hi
 
 # Gray Ooze
 
-- CEO: [Vase grise](hd_monsters_vase_grise.md)
+- Alias: [Vase grise](hd_monsters_vase_grise.md)
 -  Medium ooze, unaligned
 - **Armor Class** 8
 - **Hit Points** 22 (3d8 + 9)
@@ -70925,7 +70925,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the targe
 
 # Vulture
 
-- CEO: [Vautour](hd_monsters_vautour.md)
+- Alias: [Vautour](hd_monsters_vautour.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 5 (1d8 + 1)
@@ -70958,7 +70958,7 @@ _Hit_: 2 (1d4) piercing damage.
 
 # Giant Vulture
 
-- CEO: [Vautour géant](hd_monsters_vautour_geant.md)
+- Alias: [Vautour géant](hd_monsters_vautour_geant.md)
 -  Large beast, neutral evil
 - **Armor Class** 10
 - **Hit Points** 22 (3d10 + 6)
@@ -70997,7 +70997,7 @@ _Hit_: 9 (2d6 + 2) slashing damage.
 
 # Purple Worm
 
-- CEO: [Ver pourpre](hd_monsters_ver_pourpre.md)
+- Alias: [Ver pourpre](hd_monsters_ver_pourpre.md)
 -  Gargantuan monstrosity, unaligned
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 247 (15d20 + 90)
@@ -71034,7 +71034,7 @@ _Hit_: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constituti
 
 # Wyvern
 
-- CEO: [Vouivre](hd_monsters_vouivre.md)
+- Alias: [Vouivre](hd_monsters_vouivre.md)
 -  Large dragon, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 110 (13d10 + 39)
@@ -71071,7 +71071,7 @@ _Hit_: 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution s
 
 # Vrock
 
-- CEO: [Vrock](hd_monsters_vrock.md)
+- Alias: [Vrock](hd_monsters_vrock.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 104 (11d10 + 44)
@@ -71117,7 +71117,7 @@ _Hit_: 14 (2d10 + 3) slashing damage.
 
 # Veteran
 
-- CEO: [Vétéran](hd_monsters_veteran.md)
+- Alias: [Vétéran](hd_monsters_veteran.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 17 (splint)
 - **Hit Points** 58 (9d8 + 18)
@@ -71154,7 +71154,7 @@ _Hit_: 6 (1d10 + 1) piercing damage.
 
 # Worg
 
-- CEO: [Worg](hd_monsters_worg.md)
+- Alias: [Worg](hd_monsters_worg.md)
 -  Large monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 26 (4d10 + 4)
@@ -71185,7 +71185,7 @@ _Hit_: 10 (2d6 + 3) piercing damage. If the target is a creature, it must succee
 
 # Xorn
 
-- CEO: [Xorn](hd_monsters_xorn.md)
+- Alias: [Xorn](hd_monsters_xorn.md)
 -  Medium elemental, neutral
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 73 (7d8 + 42)
@@ -71227,7 +71227,7 @@ _Hit_: 13 (3d6 + 3) piercing damage.
 
 # Zombie
 
-- CEO: [Zombi](hd_monsters_zombi.md)
+- Alias: [Zombi](hd_monsters_zombi.md)
 -  Medium undead, neutral evil
 - **Armor Class** 8
 - **Hit Points** 22 (3d8 + 9)
@@ -71260,7 +71260,7 @@ _Hit_: 4 (1d6 + 1) bludgeoning damage.
 
 # Ogre Zombie
 
-- CEO: [Zombi ogre](hd_monsters_zombi_ogre.md)
+- Alias: [Zombi ogre](hd_monsters_zombi_ogre.md)
 -  Large undead, neutral evil
 - **Armor Class** 8
 - **Hit Points** 85 (9d10 + 36)
@@ -71293,7 +71293,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # Wraith
 
-- CEO: [Âme en peine](hd_monsters_ame_en_peine.md)
+- Alias: [Âme en peine](hd_monsters_ame_en_peine.md)
 -  Medium undead, neutral evil
 - **Armor Class** 13
 - **Hit Points** 67 (9d8 + 27)
@@ -71330,7 +71330,7 @@ _Hit_: 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitu
 
 # Scout
 
-- CEO: [Éclaireur](hd_monsters_eclaireur.md)
+- Alias: [Éclaireur](hd_monsters_eclaireur.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 13 (leather armor)
 - **Hit Points** 16 (3d8 + 3)
@@ -71367,7 +71367,7 @@ _Hit_: 6 (1d8 + 2) piercing damage.
 
 # Efreeti
 
-- CEO: [Éfrit](hd_monsters_efrit.md)
+- Alias: [Éfrit](hd_monsters_efrit.md)
 -  Large elemental, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 200 (16d10 + 112)
@@ -71413,7 +71413,7 @@ _Hit_: 17 (5d6) fire damage.
 
 # Elk
 
-- CEO: [Élan](hd_monsters_elan.md)
+- Alias: [Élan](hd_monsters_elan.md)
 -  Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d10 + 2)
@@ -71447,7 +71447,7 @@ _Hit_: 8 (2d4 + 3) bludgeoning damage.
 
 # Giant Elk
 
-- CEO: [Élan géant](hd_monsters_elan_geant.md)
+- Alias: [Élan géant](hd_monsters_elan_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 42 (5d12 + 10)
@@ -71482,7 +71482,7 @@ _Hit_: 22 (4d8 + 4) bludgeoning damage.
 
 # Air Elemental
 
-- CEO: [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+- Alias: [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
 -  Large elemental, neutral
 - **Armor Class** 15
 - **Hit Points** 90 (12d10 + 24)
@@ -71519,7 +71519,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 # Water Elemental
 
-- CEO: [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
+- Alias: [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
 -  Large elemental, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)
@@ -71558,7 +71558,7 @@ _Hit_: 13 (2d8 + 4) bludgeoning damage.
 
 # Earth Elemental
 
-- CEO: [Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)
+- Alias: [Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)
 -  Large elemental, neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 126 (12d10 + 60)
@@ -71596,7 +71596,7 @@ _Hit_: 14 (2d8 + 5) bludgeoning damage.
 
 # Fire Elemental
 
-- CEO: [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
+- Alias: [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
 -  Large elemental, neutral
 - **Armor Class** 13
 - **Hit Points** 102 (12d10 + 36)
@@ -71635,7 +71635,7 @@ _Hit_: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable obje
 
 # Elephant
 
-- CEO: [Éléphant](hd_monsters_elephant.md)
+- Alias: [Éléphant](hd_monsters_elephant.md)
 -  Huge beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 76 (8d12 + 24)
@@ -71669,7 +71669,7 @@ _Hit_: 22 (3d10 + 6) bludgeoning damage.
 
 # Killer Whale
 
-- CEO: [Épaulard](hd_monsters_epaulard.md)
+- Alias: [Épaulard](hd_monsters_epaulard.md)
 -  Huge beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 90 (12d12 + 12)
@@ -71704,7 +71704,7 @@ _Hit_: 21 (5d6 + 4) piercing damage.
 
 # Flying Sword
 
-- CEO: [Épée volante](hd_monsters_epee_volante.md)
+- Alias: [Épée volante](hd_monsters_epee_volante.md)
 -  Small construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 17 (5d6)
@@ -71739,7 +71739,7 @@ _Hit_: 5 (1d8 + 1) slashing damage.
 
 # Erinyes
 
-- CEO: [Érinye](hd_monsters_erinye.md)
+- Alias: [Érinye](hd_monsters_erinye.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 18 (plate)
 - **Hit Points** 153 (18d8 + 72)

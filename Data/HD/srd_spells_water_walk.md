@@ -4,7 +4,7 @@
 
 # Water Walk
 
-- MDR: [Marche sur l'eau](hd_spells_marche_sur_leau.md)
+- Alias: [Marche sur l'eau](hd_spells_marche_sur_leau.md)
 - Source: (SRD p191)
 -  3th-level transmutation (ritual)
 - **Casting Time :** 1 action

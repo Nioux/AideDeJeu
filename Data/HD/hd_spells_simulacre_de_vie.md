@@ -4,7 +4,7 @@
 
 # Simulacre de vie
 
-- SRD: [False Life](srd_spells_false_life.md)
+- Alias: [False Life](srd_spells_false_life.md)
 
 -  Nécromancie de niveau 1
 

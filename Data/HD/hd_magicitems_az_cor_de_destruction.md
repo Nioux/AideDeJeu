@@ -4,7 +4,7 @@
 
 ### Cor de destruction
 
-- AltName: Horn of Blasting (SRD p226)
+- Alias: Horn of Blasting (SRD p226)
 - Source: (CDC p160)
 -  Objet merveilleux, rare
 

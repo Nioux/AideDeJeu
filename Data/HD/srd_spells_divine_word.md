@@ -4,7 +4,7 @@
 
 # Divine Word
 
-- MDR: [Parole divine](hd_spells_parole_divine.md)
+- Alias: [Parole divine](hd_spells_parole_divine.md)
 - Source: (SRD p137)
 -  7th-level evocation
 - **Casting Time :** 1 bonus action

@@ -4,7 +4,7 @@
 
 # Antilife Shell
 
-- MDR: [Coquille antivie](hd_spells_coquille_antivie.md)
+- Alias: [Coquille antivie](hd_spells_coquille_antivie.md)
 - Source: (SRD p116)
 -  5th-level abjuration
 - **Casting Time :** 1 action

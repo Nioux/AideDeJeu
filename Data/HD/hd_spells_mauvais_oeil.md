@@ -4,7 +4,7 @@
 
 # Mauvais oeil
 
-- SRD: [Eyebite](srd_spells_eyebite.md)
+- Alias: [Eyebite](srd_spells_eyebite.md)
 
 -  Nécromancie de niveau 6
 

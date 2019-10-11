@@ -5,7 +5,7 @@
 # Boucca
 
 - Source: (LDM p47)(TOB p46)
-- TOB: Bucca
+- Alias: Bucca
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (5d4+15)

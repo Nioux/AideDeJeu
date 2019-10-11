@@ -4,7 +4,7 @@
 
 # Divination
 
-- SRD: [Divination](srd_spells_divination.md)
+- Alias: [Divination](srd_spells_divination.md)
 
 -  Divination de niveau 4 (rituel)
 

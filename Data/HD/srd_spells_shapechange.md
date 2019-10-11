@@ -4,7 +4,7 @@
 
 # Shapechange
 
-- MDR: [Changement de forme](hd_spells_changement_de_forme.md)
+- Alias: [Changement de forme](hd_spells_changement_de_forme.md)
 - Source: (SRD p178)
 -  9th-level transmutation
 - **Casting Time :** 1 action

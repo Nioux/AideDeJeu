@@ -4,7 +4,7 @@
 
 # Quasit
 
-- CEO: [Quasit](hd_monsters_quasit.md)
+- Alias: [Quasit](hd_monsters_quasit.md)
 -  Tiny fiend (demon, shapechanger), chaotic evil
 - **Armor Class** 13
 - **Hit Points** 7 (3d4)

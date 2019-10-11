@@ -5,7 +5,7 @@
 # Profanateur Maudit
 
 - Source: (LDM p342)(TOB p12)
-- TOB: Accursed Defiler
+- Alias: Accursed Defiler
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 12

@@ -5,7 +5,7 @@
 # Homme-Lémurien
 
 - Source: (LDM p243)(TOB p271)
-- TOB: Lemurfolk
+- Alias: Lemurfolk
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Terrain** Jungle
 - **Classe d'armure** 13

@@ -4,7 +4,7 @@
 
 # Awaken
 
-- MDR: [Éveil](hd_spells_eveil.md)
+- Alias: [Éveil](hd_spells_eveil.md)
 - Source: (SRD p120)
 -  5th-level transmutation
 - **Casting Time :** 8 hours

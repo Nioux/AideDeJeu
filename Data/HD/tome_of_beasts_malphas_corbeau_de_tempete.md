@@ -5,7 +5,7 @@
 # Malphas (Corbeau De Tempête)
 
 - Source: (LDM p280)(TOB p283)
-- TOB: Malphas (Storm Crow)
+- Alias: Malphas (Storm Crow)
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 120 (16d8+48)

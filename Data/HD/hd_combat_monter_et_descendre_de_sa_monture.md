@@ -4,7 +4,7 @@
 
 ### Monter et descendre de sa monture
 
-- AltName: Mounting and Dismounting (SRD p99)
+- Alias: Mounting and Dismounting (SRD p99)
 - Source: (MDR p295)
 
 Au cours de votre déplacement, vous pouvez descendre de votre monture ou monter sur celle-ci si elle se trouve dans un rayon de 1,50 mètre de vous. Vous ne pouvez accomplir ce déplacement spécial qu'une fois par tour et il vous coûte la moitié de votre vitesse. Par exemple, si votre vitesse est de 9 mètres, vous devez utiliser 4,50 mètres de votre jauge de déplacement pour monter à cheval. Vous ne pourrez par monter à cheval s'il vous reste moins de 4,50 mètres ou si votre vitesse est réduite à 0.

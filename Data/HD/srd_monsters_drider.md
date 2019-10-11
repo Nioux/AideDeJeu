@@ -4,7 +4,7 @@
 
 # Drider
 
-- CEO: [Drider](hd_monsters_drider.md)
+- Alias: [Drider](hd_monsters_drider.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 123 (13d10 + 52)

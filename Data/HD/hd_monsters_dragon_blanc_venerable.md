@@ -5,7 +5,7 @@
 # Dragon blanc vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
+- Alias: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)

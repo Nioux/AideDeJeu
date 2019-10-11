@@ -4,7 +4,7 @@
 
 # Arme spirituelle
 
-- SRD: [Spiritual Weapon](srd_spells_spiritual_weapon.md)
+- Alias: [Spiritual Weapon](srd_spells_spiritual_weapon.md)
 
 -  Évocation de niveau 2
 

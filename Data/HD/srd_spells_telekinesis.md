@@ -4,7 +4,7 @@
 
 # Telekinesis
 
-- MDR: [Télékinésie](hd_spells_telekinesie.md)
+- Alias: [Télékinésie](hd_spells_telekinesie.md)
 - Source: (SRD p185)
 -  5th-level transmutation
 - **Casting Time :** 1 action

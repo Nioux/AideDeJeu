@@ -5,7 +5,7 @@
 # Aboleth
 
 - Source: (CEO p)(SRD p)
-- SRD: [Aboleth](srd_monsters_aboleth.md)
+- Alias: [Aboleth](srd_monsters_aboleth.md)
 -  Aberration de taille G, Loyal Mauvais
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 17 (armure naturelle)

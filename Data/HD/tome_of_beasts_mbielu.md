@@ -5,7 +5,7 @@
 # Mbielu
 
 - Source: (LDM p117)(TOB p114)
-- TOB: Mbielu
+- Alias: Mbielu
 -  Bête de Très Grande taille (TG), non alignée
 - **Terrain** Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)

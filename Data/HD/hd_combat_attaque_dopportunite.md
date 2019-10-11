@@ -4,7 +4,7 @@
 
 #### Attaque d'opportunité
 
-- AltName: Opportunity Attacks (SRD p95)
+- Alias: Opportunity Attacks (SRD p95)
 - Source: (MDR p292)
 
 Au coeur d'un combat, chacun reste à l'affût d'une chance de frapper un ennemi qui baisse sa garde parce qu'il est en train de fuir ou de passer devant soi. Une telle attaque est appelée une attaque d'opportunité.

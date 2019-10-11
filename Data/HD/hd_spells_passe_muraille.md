@@ -4,7 +4,7 @@
 
 # Passe-muraille
 
-- SRD: [Passwall](srd_spells_passwall.md)
+- Alias: [Passwall](srd_spells_passwall.md)
 
 -  Transmutation de niveau 5
 

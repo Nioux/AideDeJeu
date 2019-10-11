@@ -5,7 +5,7 @@
 # Vase Corruptrice
 
 - Source: (LDM p397)(TOB p311)
-- TOB: Corrupting Ooze
+- Alias: Corrupting Ooze
 -  Vase de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 115 (10d10+60)

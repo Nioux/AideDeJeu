@@ -4,7 +4,7 @@
 
 # Young Black Dragon
 
-- CEO: [Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)
+- Alias: [Jeune dragon noir](hd_monsters_jeune_dragon_noir.md)
 -  Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)

@@ -4,7 +4,7 @@
 
 # Déplacer la terre
 
-- SRD: [Move Earth](srd_spells_move_earth.md)
+- Alias: [Move Earth](srd_spells_move_earth.md)
 
 -  Transmutation de niveau 6
 

@@ -4,7 +4,7 @@
 
 # Sleet Storm
 
-- MDR: [Tempête de neige](hd_spells_tempete_de_neige.md)
+- Alias: [Tempête de neige](hd_spells_tempete_de_neige.md)
 - Source: (SRD p180)
 -  3th-level conjuration
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Kot Bayun
 
 - Source: (LDM p261)(TOB p268)
-- TOB: Kot Bayun
+- Alias: Kot Bayun
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15

@@ -4,7 +4,7 @@
 
 # Rayon ardent
 
-- SRD: [Scorching Ray](srd_spells_scorching_ray.md)
+- Alias: [Scorching Ray](srd_spells_scorching_ray.md)
 
 -  Évocation de niveau 2
 

@@ -4,7 +4,7 @@
 
 # Prayer of Healing
 
-- MDR: [Prière de soins](hd_spells_priere_de_soins.md)
+- Alias: [Prière de soins](hd_spells_priere_de_soins.md)
 - Source: (SRD p170)
 -  2nd-level evocation
 - **Casting Time :** 10 minutes

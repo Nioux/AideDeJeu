@@ -4,7 +4,7 @@
 
 ### Réaction
 
-- AltName: Reactions (SRD p91)
+- Alias: Reactions (SRD p91)
 - Source: (MDR p285)
 
 Certaines capacités spéciales, sorts ou situations permettent à votre personnage d'accomplir une action spéciale appelée une réaction. Une réaction est une réponse instantanée déclenchée par un stimulus qui peut se produire pendant votre tour ou celui de quelqu'un d'autre. Le type de réaction le plus courant est l'attaque d'opportunité, décrite plus loin dans ce chapitre.

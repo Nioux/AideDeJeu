@@ -4,7 +4,7 @@
 
 # Tiny Hut
 
-- MDR: [Petite hutte](hd_spells_petite_hutte.md)
+- Alias: [Petite hutte](hd_spells_petite_hutte.md)
 - Source: (SRD p187)
 -  3th-level evocation (ritual)
 - **Casting Time :** 1 minute

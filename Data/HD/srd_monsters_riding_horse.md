@@ -4,7 +4,7 @@
 
 # Riding Horse
 
-- CEO: [Cheval de selle](hd_monsters_cheval_de_selle.md)
+- Alias: [Cheval de selle](hd_monsters_cheval_de_selle.md)
 -  Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 13 (2d10 + 2)

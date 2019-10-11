@@ -4,7 +4,7 @@
 
 ### Javeline de foudre
 
-- AltName: Javelin of Lightning (SRD p228)
+- Alias: Javelin of Lightning (SRD p228)
 - Source: (CDC p170)
 -  Arme (javeline), peu courante
 

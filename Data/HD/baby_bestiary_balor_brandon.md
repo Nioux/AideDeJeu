@@ -6,6 +6,8 @@
 
 Voir [Balor](hd_monsters_balor.md)
 
+- Source: (MM p22)(BB2 p18)
+- Alias: Balrog Emberling
 -  Fiélon de taille P, Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)

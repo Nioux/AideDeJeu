@@ -4,7 +4,7 @@
 
 # Guard
 
-- CEO: [Garde](hd_monsters_garde.md)
+- Alias: [Garde](hd_monsters_garde.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 16 (chain shirt, shield)
 - **Hit Points** 11 (2d8 + 2)

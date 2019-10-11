@@ -4,7 +4,7 @@
 
 # Forme éthérée
 
-- SRD: [Etherealness](srd_spells_etherealness.md)
+- Alias: [Etherealness](srd_spells_etherealness.md)
 
 -  Transmutation de niveau 7
 

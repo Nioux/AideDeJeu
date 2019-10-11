@@ -5,7 +5,7 @@
 # Claquepiège
 
 - Source: (LDM p64)(TOB p229)
-- TOB: Gnarljak
+- Alias: Gnarljak
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 16

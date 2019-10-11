@@ -4,7 +4,7 @@
 
 # Homunculus
 
-- CEO: [Homoncule](hd_monsters_homoncule.md)
+- Alias: [Homoncule](hd_monsters_homoncule.md)
 -  Tiny construct, neutral
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 5 (2d4)

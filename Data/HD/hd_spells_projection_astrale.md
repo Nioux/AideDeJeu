@@ -4,7 +4,7 @@
 
 # Projection astrale
 
-- SRD: [Astral Projection](srd_spells_astral_projection.md)
+- Alias: [Astral Projection](srd_spells_astral_projection.md)
 
 -  Nécromancie de niveau 9
 

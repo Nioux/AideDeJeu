@@ -4,7 +4,7 @@
 
 # Gardien de la foi
 
-- SRD: [Guardian of Faith](srd_spells_guardian_of_faith.md)
+- Alias: [Guardian of Faith](srd_spells_guardian_of_faith.md)
 
 -  Invocation de niveau 4
 

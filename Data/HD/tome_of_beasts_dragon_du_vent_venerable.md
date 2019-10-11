@@ -5,7 +5,7 @@
 # Dragon Du Vent, Vénérable
 
 - Source: (LDM p138)(TOB p142)
-- TOB: Wind Dragon, Ancient
+- Alias: Wind Dragon, Ancient
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)

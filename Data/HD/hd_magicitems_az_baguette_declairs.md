@@ -4,7 +4,7 @@
 
 ### Baguette d'éclairs
 
-- AltName: Wand of Lightning Bolts (SRD p249)
+- Alias: Wand of Lightning Bolts (SRD p249)
 - Source: (CDC p145)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 

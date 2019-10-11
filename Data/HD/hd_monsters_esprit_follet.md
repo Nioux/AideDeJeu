@@ -5,7 +5,7 @@
 # Esprit follet
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sprite](srd_monsters_sprite.md)
+- Alias: [Sprite](srd_monsters_sprite.md)
 -  Fée de taille TP, Neutre Bonne
 - **Terrain** Bois / Forêt, Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 15 (armure de cuir)

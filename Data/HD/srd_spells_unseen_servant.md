@@ -4,7 +4,7 @@
 
 # Unseen Servant
 
-- MDR: [Serviteur invisible](hd_spells_serviteur_invisible.md)
+- Alias: [Serviteur invisible](hd_spells_serviteur_invisible.md)
 - Source: (SRD p189)
 -  1st-level conjuration (ritual)
 - **Casting Time :** 1 action

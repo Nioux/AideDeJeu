@@ -5,7 +5,7 @@
 # Cheval de trait
 
 - Source: (CEO p)(SRD p)
-- SRD: [Draft Horse](srd_monsters_draft_horse.md)
+- Alias: [Draft Horse](srd_monsters_draft_horse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10

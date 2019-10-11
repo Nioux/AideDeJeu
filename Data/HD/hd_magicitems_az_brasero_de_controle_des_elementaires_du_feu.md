@@ -4,7 +4,7 @@
 
 ### Brasero de contrôle des élémentaires du feu
 
-- AltName: Brazier of Commanding Fire Elementals (SRD p212)
+- Alias: Brazier of Commanding Fire Elementals (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, rare
 

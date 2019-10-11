@@ -5,7 +5,7 @@
 # Fangeux
 
 - Source: (LDM p176)(TOB p292)
-- TOB: Miremal
+- Alias: Miremal
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13

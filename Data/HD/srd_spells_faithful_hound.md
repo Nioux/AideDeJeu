@@ -4,7 +4,7 @@
 
 # Faithful Hound
 
-- MDR: [Chien de garde](hd_spells_chien_de_garde.md)
+- Alias: [Chien de garde](hd_spells_chien_de_garde.md)
 - Source: (SRD p142)
 -  4th-level conjuration
 - **Casting Time :** 1 action

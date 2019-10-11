@@ -5,7 +5,7 @@
 # Guenaude nocturne
 
 - Source: (CEO p)(SRD p)
-- SRD: [Night Hag](srd_monsters_night_hag.md)
+- Alias: [Night Hag](srd_monsters_night_hag.md)
 -  Fiélon de taille M, Neutre Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)

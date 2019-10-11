@@ -4,7 +4,7 @@
 
 # Shrieker
 
-- CEO: [Criard](hd_monsters_criard.md)
+- Alias: [Criard](hd_monsters_criard.md)
 -  Medium plant, unaligned
 - **Armor Class** 5
 - **Hit Points** 13 (3d8)

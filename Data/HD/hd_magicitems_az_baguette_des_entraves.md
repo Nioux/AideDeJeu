@@ -4,7 +4,7 @@
 
 ### Baguette des entraves
 
-- AltName: Wand of Binding (SRD p248)
+- Alias: Wand of Binding (SRD p248)
 - Source: (CDC p146)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 

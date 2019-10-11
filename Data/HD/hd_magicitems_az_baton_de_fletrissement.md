@@ -4,7 +4,7 @@
 
 ### Bâton de flétrissement
 
-- AltName: Staff of Withering (SRD p246)
+- Alias: Staff of Withering (SRD p246)
 - Source: (CDC p149)
 -  Bâton, rare (harmonisation avec un druide, un clerc ou un sorcier exigée)
 

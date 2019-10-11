@@ -4,7 +4,7 @@
 
 # Fear
 
-- MDR: [Peur](hd_spells_peur.md)
+- Alias: [Peur](hd_spells_peur.md)
 - Source: (SRD p142)
 -  3th-level illusion
 - **Casting Time :** 1 action

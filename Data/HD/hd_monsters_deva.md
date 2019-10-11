@@ -5,7 +5,7 @@
 # Déva
 
 - Source: (CEO p)(SRD p)
-- SRD: [Deva](srd_monsters_deva.md)
+- Alias: [Deva](srd_monsters_deva.md)
 -  Céleste de taille M, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)

@@ -5,7 +5,7 @@
 # Serpopard
 
 - Source: (LDM p362)(TOB p342)
-- TOB: Serpopard
+- Alias: Serpopard
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)

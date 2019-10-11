@@ -4,7 +4,7 @@
 
 ### Bouclier animé
 
-- AltName: Animated Shield (SRD p208)
+- Alias: Animated Shield (SRD p208)
 - Source: (CDC p153)
 -  Armure (bouclier), très rare (harmonisation requise)
 

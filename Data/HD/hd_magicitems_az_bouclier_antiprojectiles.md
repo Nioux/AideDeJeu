@@ -4,7 +4,7 @@
 
 ### Bouclier antiprojectiles
 
-- AltName: Arrow-Catching Shield (SRD p209)
+- Alias: Arrow-Catching Shield (SRD p209)
 - Source: (CDC p153)
 -  Armure (bouclier), rare (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Glyphe de protection
 
-- SRD: [Glyph of Warding](srd_spells_glyph_of_warding.md)
+- Alias: [Glyph of Warding](srd_spells_glyph_of_warding.md)
 
 -  Abjuration de niveau 3
 

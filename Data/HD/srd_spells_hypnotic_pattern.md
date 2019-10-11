@@ -4,7 +4,7 @@
 
 # Hypnotic Pattern
 
-- MDR: [Motif hypnotique](hd_spells_motif_hypnotique.md)
+- Alias: [Motif hypnotique](hd_spells_motif_hypnotique.md)
 - Source: (SRD p155)
 -  3th-level illusion
 - **Casting Time :** 1 action

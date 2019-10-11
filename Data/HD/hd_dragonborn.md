@@ -5,7 +5,7 @@
 
 # Sangdragon
 
-- AltName: Dragonborn (SRD p5)
+- Alias: Dragonborn (SRD p5)
 - Source: (MDR p69)
 
 ## Traits des sangdragons

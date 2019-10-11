@@ -5,7 +5,7 @@
 # Stuhac
 
 - Source: (LDM p374)(TOB p370)
-- TOB: Stuhac
+- Alias: Stuhac
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 190 (20d8+100)

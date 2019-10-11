@@ -5,7 +5,7 @@
 # Lindwurm
 
 - Source: (LDM p272)(TOB p276)
-- TOB: Lindwurm
+- Alias: Lindwurm
 -  Dragon de Grande taille (G), neutre mauvais
 - **Terrain** Arctique / Subarctique, Littoral
 - **Classe d'armure** 15

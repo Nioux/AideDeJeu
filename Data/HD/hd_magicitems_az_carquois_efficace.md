@@ -4,7 +4,7 @@
 
 ### Carquois efficace
 
-- AltName: Efficient Quiver (SRD p220)
+- Alias: Efficient Quiver (SRD p220)
 - Source: (CDC p156)
 -  Objet merveilleux, peu courant
 

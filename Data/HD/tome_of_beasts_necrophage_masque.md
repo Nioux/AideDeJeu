@@ -5,7 +5,7 @@
 # Nécrophage Masqué
 
 - Source: (LDM p316)(TOB p285)
-- TOB: Mask Wight
+- Alias: Mask Wight
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d8 +126)

@@ -4,7 +4,7 @@
 
 ### Potion d'amitié avec les animaux
 
-- AltName: Potion of Animal Friendship (SRD p233)
+- Alias: Potion of Animal Friendship (SRD p233)
 - Source: (CDC p177)
 -  Potion, peu courante
 

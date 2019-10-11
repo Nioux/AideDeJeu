@@ -4,7 +4,7 @@
 
 # Dominer un monstre
 
-- SRD: [Dominate Monster](srd_spells_dominate_monster.md)
+- Alias: [Dominate Monster](srd_spells_dominate_monster.md)
 
 -  Enchantement de niveau 8
 

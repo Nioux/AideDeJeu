@@ -4,7 +4,7 @@
 
 # Octopus
 
-- CEO: [Pieuvre](hd_monsters_pieuvre.md)
+- Alias: [Pieuvre](hd_monsters_pieuvre.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)

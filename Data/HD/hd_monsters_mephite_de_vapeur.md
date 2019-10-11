@@ -5,7 +5,7 @@
 # Méphite de vapeur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Steam Mephit](srd_monsters_steam_mephit.md)
+- Alias: [Steam Mephit](srd_monsters_steam_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Littoral, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 10

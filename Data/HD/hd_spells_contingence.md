@@ -4,7 +4,7 @@
 
 # Contingence
 
-- SRD: [Contingency](srd_spells_contingency.md)
+- Alias: [Contingency](srd_spells_contingency.md)
 
 -  Évocation de niveau 6
 

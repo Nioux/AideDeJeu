@@ -4,7 +4,7 @@
 
 # Trouver les pièges
 
-- SRD: [Find Traps](srd_spells_find_traps.md)
+- Alias: [Find Traps](srd_spells_find_traps.md)
 
 -  Divination de niveau 2
 

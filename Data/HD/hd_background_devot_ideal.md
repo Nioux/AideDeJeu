@@ -4,7 +4,7 @@
 
 ##### Idéal
 
-- AltName: Ideal  (SRD p61)
+- Alias: Ideal  (SRD p61)
 - Source: (MDR p83)
 
 |d6|Idéal|

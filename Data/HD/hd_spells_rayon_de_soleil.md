@@ -4,7 +4,7 @@
 
 # Rayon de soleil
 
-- SRD: [Sunbeam](srd_spells_sunbeam.md)
+- Alias: [Sunbeam](srd_spells_sunbeam.md)
 
 -  Évocation de niveau 6
 

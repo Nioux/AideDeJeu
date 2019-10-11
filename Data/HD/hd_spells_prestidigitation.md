@@ -4,7 +4,7 @@
 
 # Prestidigitation
 
-- SRD: [Prestidigitation](srd_spells_prestidigitation.md)
+- Alias: [Prestidigitation](srd_spells_prestidigitation.md)
 
 -  Transmutation, tour de magie
 

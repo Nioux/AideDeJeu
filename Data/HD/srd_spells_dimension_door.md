@@ -4,7 +4,7 @@
 
 # Dimension Door
 
-- MDR: [Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)
+- Alias: [Porte dimensionnelle](hd_spells_porte_dimensionnelle.md)
 - Source: (SRD p135)
 -  4th-level conjuration
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Urochar (Guetteur Étrangleur)
 
 - Source: (LDM p391)(TOB p393)
-- TOB: Urochar (Strangling Watcher)
+- Alias: Urochar (Strangling Watcher)
 -  Aberration de Très Grande taille (TG), chaotique mauvaise
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)

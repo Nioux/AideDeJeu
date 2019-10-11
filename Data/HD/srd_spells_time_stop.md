@@ -4,7 +4,7 @@
 
 # Time Stop
 
-- MDR: [Arrêt du temps](hd_spells_arret_du_temps.md)
+- Alias: [Arrêt du temps](hd_spells_arret_du_temps.md)
 - Source: (SRD p187)
 -  9th-level transmutation
 - **Casting Time :** 1 action

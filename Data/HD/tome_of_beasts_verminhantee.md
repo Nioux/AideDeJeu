@@ -5,7 +5,7 @@
 # Verminhantée
 
 - Source: (LDM p402)(TOB p352)
-- TOB: Skitterhaunt
+- Alias: Skitterhaunt
 -  Vase de Grande taille (G), non-alignée
 - **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)

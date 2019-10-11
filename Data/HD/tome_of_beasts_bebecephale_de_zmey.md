@@ -5,7 +5,7 @@
 # Bébécéphale De Zmey
 
 - Source: (LDM p416)(TOB p416)
-- TOB: Zmey Headling
+- Alias: Zmey Headling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)

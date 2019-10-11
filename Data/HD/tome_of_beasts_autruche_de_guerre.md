@@ -5,7 +5,7 @@
 # Autruche de guerre
 
 - Source: (LDM p320)(TOB p307)
-- TOB: War Ostrich
+- Alias: War Ostrich
 -  Bête de Grande taille (G), non alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11

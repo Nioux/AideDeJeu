@@ -4,7 +4,7 @@
 
 # Terrorisé
 
-- AltName: [Frightened](srd_conditions_frightened.md)
+- Alias: [Frightened](srd_conditions_frightened.md)
 
 * Une créature terrorisée subit un désavantage lors de ses tests de caractéristique et de ses jets d'attaque tant que la source de sa frayeur se trouve dans son champ de vision.
 

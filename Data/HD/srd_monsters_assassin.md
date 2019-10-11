@@ -4,7 +4,7 @@
 
 # Assassin
 
-- CEO: [Assassin](hd_monsters_assassin.md)
+- Alias: [Assassin](hd_monsters_assassin.md)
 - Source: (SRD p396)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 15 (studded leather)

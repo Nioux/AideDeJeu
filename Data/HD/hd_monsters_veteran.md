@@ -5,7 +5,7 @@
 # Vétéran
 
 - Source: (CEO p)(SRD p)
-- SRD: [Veteran](srd_monsters_veteran.md)
+- Alias: [Veteran](srd_monsters_veteran.md)
 -  Humanoïde (n'importe quelle race) de taille M, alignement quelconque
 - **Terrain** 
 - **Classe d'armure** 17 (clibanion)

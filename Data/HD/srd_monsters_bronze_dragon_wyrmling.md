@@ -4,7 +4,7 @@
 
 # Bronze Dragon Wyrmling
 
-- CEO: [Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)
+- Alias: [Dragonnet de bronze](hd_monsters_dragonnet_de_bronze.md)
 -  Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 32 (5d8 + 10)

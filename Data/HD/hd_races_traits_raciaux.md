@@ -4,7 +4,7 @@
 
 ### Traits raciaux
 
-- SRD: Racial Traits
+- Alias: Racial Traits
 - Source: (MDR p36)(SRD p3)
 
 Chaque race possède des traits raciaux communs à tous ses membres. Vous pourrez trouver la terminologie suivante parmi les traits de la plupart des races.

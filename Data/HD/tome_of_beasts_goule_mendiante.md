@@ -5,7 +5,7 @@
 # Goule Mendiante
 
 - Source: (LDM p223)(TOB p213)
-- TOB: Beggar Ghoul
+- Alias: Beggar Ghoul
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 12

@@ -5,7 +5,7 @@
 # Alchimiste Kobold
 
 - Source: (LDM p254)(TOB p261)
-- TOB: Kobold Alchemist
+- Alias: Kobold Alchemist
 -  Humanoïde (kobold) de Petite taille (P), loyal neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)

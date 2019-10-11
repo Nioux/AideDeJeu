@@ -4,7 +4,7 @@
 
 #### Stabiliser une créature
 
-- AltName: Stabilizing a Creature
+- Alias: Stabilizing a Creature
 - Source: (MDR p299)(SRD p98)
 
 Le meilleur moyen de sauver une créature qui se trouve à 0 point de vie est de la soigner. S’il n’est pas possible de la soigner, elle peut être stabilisée afin de lui éviter de mourir des suites d’un échec à son jet de sauvegarde contre la mort.

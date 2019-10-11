@@ -5,7 +5,7 @@
 # Chevalier
 
 - Source: (CEO p)(SRD p)
-- SRD: [Knight](srd_monsters_knight.md)
+- Alias: [Knight](srd_monsters_knight.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 18 (harnois)

@@ -23,11 +23,11 @@
             </x:Arguments>
         </Size>
     </windows:TabbedPage.HeaderIconsSize>
-    <libviews:ItemDetailPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png">
+    <libviews:ItemPage x:Name="NavigationPage" Title="Bibliothèque" Icon="spell_book.png" Path="index.md">
         <!--<x:Arguments>
             <views:ItemDetailPage />
         </x:Arguments>-->
-    </libviews:ItemDetailPage>
+    </libviews:ItemPage>
     <libviews:BookmarksPage Title="Favoris" Icon="stars_stack.png">
         <!--<x:Arguments>
             <views:BookmarksPage />

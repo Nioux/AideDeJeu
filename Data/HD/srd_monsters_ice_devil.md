@@ -4,7 +4,7 @@
 
 # Ice Devil
 
-- CEO: [Diable gelé](hd_monsters_diable_gele.md)
+- Alias: [Diable gelé](hd_monsters_diable_gele.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 180 (19d10 + 76)

@@ -4,7 +4,7 @@
 
 # Storm Giant
 
-- CEO: [Géant des tempêtes](hd_monsters_geant_des_tempetes.md)
+- Alias: [Géant des tempêtes](hd_monsters_geant_des_tempetes.md)
 -  Huge giant, chaotic good
 - **Armor Class** 16 (scale mail)
 - **Hit Points** 230 (20d12 + 100)

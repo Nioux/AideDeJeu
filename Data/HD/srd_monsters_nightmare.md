@@ -4,7 +4,7 @@
 
 # Nightmare
 
-- CEO: [Destrier noir](hd_monsters_destrier_noir.md)
+- Alias: [Destrier noir](hd_monsters_destrier_noir.md)
 -  Large fiend, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 68 (8d10 + 24)

@@ -4,7 +4,7 @@
 
 ### Se déplacer au milieu d'autres créatures
 
-- AltName: Moving Around Other Creatures (SRD p92)
+- Alias: Moving Around Other Creatures (SRD p92)
 - Source: (MDR p286)
 
 Vous pouvez traverser l'emplacement d'une créature qui ne vous est pas hostile. En revanche, vous ne pouvez traverser l'emplacement occupé par une créature hostile que si celle-ci fait deux tailles de plus ou de moins que vous. N'oubliez pas que l'emplacement oc- cupé par une autre créature est considéré comme un terrain difficile.

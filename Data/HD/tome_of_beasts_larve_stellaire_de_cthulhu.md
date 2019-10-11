@@ -5,7 +5,7 @@
 # Larve Stellaire De Cthulhu
 
 - Source: (LDM p263)(TOB p368)
-- TOB: Star Spawn of Cthulhu
+- Alias: Star Spawn of Cthulhu
 -  Fiélon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)

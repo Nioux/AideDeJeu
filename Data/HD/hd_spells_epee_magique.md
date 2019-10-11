@@ -4,7 +4,7 @@
 
 # Épée magique
 
-- SRD: [Arcane Sword](srd_spells_arcane_sword.md)
+- Alias: [Arcane Sword](srd_spells_arcane_sword.md)
 
 -  Évocation de niveau 7
 

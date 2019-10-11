@@ -4,7 +4,7 @@
 
 ## Lancer un sort
 
-- AltName: Casting a Spell (SRD p101)
+- Alias: Casting a Spell (SRD p101)
 - Source: (MDR p307)
 
 Quand un personnage lance un sort, il suit toujours les mêmes règles de base, quelle que soit sa classe et quels que soient les effets du sort.

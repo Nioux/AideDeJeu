@@ -4,7 +4,7 @@
 
 # Griffon
 
-- CEO: [Griffon](hd_monsters_griffon.md)
+- Alias: [Griffon](hd_monsters_griffon.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 12
 - **Hit Points** 59 (7d10 + 21)

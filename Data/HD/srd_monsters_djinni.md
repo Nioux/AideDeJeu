@@ -4,7 +4,7 @@
 
 # Djinni
 
-- CEO: [Djinn](hd_monsters_djinn.md)
+- Alias: [Djinn](hd_monsters_djinn.md)
 -  Large elemental, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 161 (14d10 + 84)

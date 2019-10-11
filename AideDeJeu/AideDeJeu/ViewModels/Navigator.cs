@@ -77,7 +77,8 @@ namespace AideDeJeu.ViewModels
         public async Task GotoLibraryPageAsync()
         {
             //await Navigation.PushAsync(new Views.ItemDetailPage(),true);
-            await Navigation.PushAsync(new Views.Library.MainTabbedPage(), true);
+            //await Navigation.PushAsync(new Views.Library.MainTabbedPage(), true);
+            await Navigation.PushAsync(new Views.Library.ItemPage("index.md"), true);
             //TestNotify = new NotifyTaskCompletion<bool>(TestGotoAsync(), true);
         }
 
@@ -154,15 +155,15 @@ namespace AideDeJeu.ViewModels
             var navigationPage = tabbedPage; //.MainNavigationPage;
             var lastPage = navigationPage.Navigation.NavigationStack.LastOrDefault();
             var context = lastPage.BindingContext;
-            Item item = null;
-            if (context is ItemDetailViewModel)
-            {
-                item = (context as ItemDetailViewModel).Item;
-            }
-            else if (context is ItemsViewModel)
-            {
-                item = (context as ItemsViewModel).AllItems;
-            }
+            Item item = (context as ItemViewModel)?.Item;
+            //if (context is ItemDetailViewModel)
+            //{
+            //    item = (context as ItemDetailViewModel).Item;
+            //}
+            //else if (context is ItemsViewModel)
+            //{
+            //    item = (context as ItemsViewModel).AllItems;
+            //}
             //await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
             var vm = Main.Bookmarks;
             var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarkCollectionNames.ToArray<string>());
@@ -185,9 +186,10 @@ namespace AideDeJeu.ViewModels
             if (item == null)
                 return;
 
+            
             var items = item as Item;
             var filterViewModel = items.GetNewFilterViewModel();
-            var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
+            var itemsViewModel = new ItemViewModel() { Item = item, AllItems = items, Filter = filterViewModel };
             itemsViewModel.LoadItemsCommand.Execute(null);
 
             SwitchToMainTab();
@@ -212,20 +214,20 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public async Task GotoItemsPageAsync(ItemsViewModel itemsVM)
+        public async Task GotoItemsPageAsync(ItemViewModel itemsVM)
         {
             if (itemsVM == null)
                 return;
 
-            await Navigation.PushAsync(new ItemsPage(itemsVM), true);
+            await Navigation.PushAsync(new ItemPage(itemsVM), true);
         }
 
-        public async Task GotoFilteredItemsPageAsync(ItemsViewModel itemsVM)
+        public async Task GotoFilteredItemsPageAsync(ItemViewModel itemsVM)
         {
             if (itemsVM == null)
                 return;
 
-            await Navigation.PushAsync(new FilteredItemsPage(itemsVM), true);
+            await Navigation.PushAsync(new ItemPage(itemsVM), true);
         }
 
         private ICommand _NavigateToLinkCommand = null;
@@ -264,7 +266,7 @@ namespace AideDeJeu.ViewModels
                 {
                     var items = item; // as Items;
                     var filterViewModel = items.GetNewFilterViewModel();
-                    var itemsViewModel = new ItemsViewModel() { AllItems = items, Filter = filterViewModel };
+                    var itemsViewModel = new ItemViewModel() { AllItems = items, Filter = filterViewModel };
                     itemsViewModel.LoadItemsCommand.Execute(null);
                     if (!string.IsNullOrEmpty(with))
                     {

@@ -4,7 +4,7 @@
 
 # Cure Wounds
 
-- MDR: [Soin des blessures](hd_spells_soin_des_blessures.md)
+- Alias: [Soin des blessures](hd_spells_soin_des_blessures.md)
 - Source: (SRD p132)
 -  1st-level evocation
 - **Casting Time :** 1 action

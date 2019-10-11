@@ -4,7 +4,7 @@
 
 # Création
 
-- SRD: [Creation](srd_spells_creation.md)
+- Alias: [Creation](srd_spells_creation.md)
 
 -  Illusion de niveau 5
 

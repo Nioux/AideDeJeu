@@ -5,7 +5,7 @@
 # Seigneur Des Bandits
 
 - Source: (LDM p425)(TOB p418)
-- TOB: Bandit Lord
+- Alias: Bandit Lord
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), tout
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 91 (14d8 + 28)

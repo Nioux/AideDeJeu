@@ -4,7 +4,7 @@
 
 # Giant Fire Beetle
 
-- CEO: [Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)
+- Alias: [Punaise de feu géante](hd_monsters_punaise_de_feu_geante.md)
 -  Small beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 4 (1d6 + 1)

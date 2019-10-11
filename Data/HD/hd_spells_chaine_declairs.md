@@ -4,7 +4,7 @@
 
 # Chaîne d'éclairs
 
-- SRD: [Chain Lightning](srd_spells_chain_lightning.md)
+- Alias: [Chain Lightning](srd_spells_chain_lightning.md)
 
 -  Évocation de niveau 6
 

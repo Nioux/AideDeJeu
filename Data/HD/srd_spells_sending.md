@@ -4,7 +4,7 @@
 
 # Sending
 
-- MDR: [Envoi de message](hd_spells_envoi_de_message.md)
+- Alias: [Envoi de message](hd_spells_envoi_de_message.md)
 - Source: (SRD p177)
 -  3th-level evocation
 - **Casting Time :** 1 action

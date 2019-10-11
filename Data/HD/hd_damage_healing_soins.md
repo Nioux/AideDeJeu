@@ -4,7 +4,7 @@
 
 ### Soins
 
-- AltName: Healing
+- Alias: Healing
 - Source: (MDR p298)(SRD p97)
 
 Les dégâts ne sont pas permanents, à moins bien sûr qu’ils ne provoquent la mort d’une créature. Mais, avec une magie assez puissante, il est même possible de revenir de la mort. Le repos permet de restaurer les points de vie d’une créature, et des méthodes magiques – comme le sort soin des blessures ou une potion de soins – peuvent soigner les dégâts en un instant.

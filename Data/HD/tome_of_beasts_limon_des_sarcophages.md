@@ -5,7 +5,7 @@
 # Limon Des Sarcophages
 
 - Source: (LDM p270)(TOB p336)
-- TOB: Sarcophagus Slime
+- Alias: Sarcophagus Slime
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 11

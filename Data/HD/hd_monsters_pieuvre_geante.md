@@ -5,7 +5,7 @@
 # Pieuvre géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Octopus](srd_monsters_giant_octopus.md)
+- Alias: [Giant Octopus](srd_monsters_giant_octopus.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11

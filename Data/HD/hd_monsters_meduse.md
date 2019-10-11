@@ -5,7 +5,7 @@
 # Méduse
 
 - Source: (CEO p)(SRD p)
-- SRD: [Medusa](srd_monsters_medusa.md)
+- Alias: [Medusa](srd_monsters_medusa.md)
 -  Créature monstrueuse de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)

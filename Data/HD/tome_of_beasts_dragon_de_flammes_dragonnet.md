@@ -5,7 +5,7 @@
 # Dragon De Flammes, Dragonnet
 
 - Source: (LDM p127)(TOB p131)
-- TOB: Flame Dragon Wyrmling
+- Alias: Flame Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

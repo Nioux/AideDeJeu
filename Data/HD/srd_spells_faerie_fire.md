@@ -4,7 +4,7 @@
 
 # Faerie Fire
 
-- MDR: [Lueurs féeriques](hd_spells_lueurs_feeriques.md)
+- Alias: [Lueurs féeriques](hd_spells_lueurs_feeriques.md)
 - Source: (SRD p141)
 -  1st-level evocation
 - **Casting Time :** 1 action

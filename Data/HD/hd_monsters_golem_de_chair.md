@@ -5,7 +5,7 @@
 # Golem de chair
 
 - Source: (CEO p)(SRD p)
-- SRD: [Flesh Golem](srd_monsters_flesh_golem.md)
+- Alias: [Flesh Golem](srd_monsters_flesh_golem.md)
 -  Créature artificielle de taille M, neutre
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 9

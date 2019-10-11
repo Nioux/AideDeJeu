@@ -4,7 +4,7 @@
 
 # Sommeil
 
-- SRD: [Sleep](srd_spells_sleep.md)
+- Alias: [Sleep](srd_spells_sleep.md)
 
 -  Enchantement de niveau 1
 

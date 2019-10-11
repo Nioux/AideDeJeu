@@ -4,7 +4,7 @@
 
 # Entangle
 
-- MDR: [Enchevêtrement](hd_spells_enchevetrement.md)
+- Alias: [Enchevêtrement](hd_spells_enchevetrement.md)
 - Source: (SRD p140)
 -  1st-level conjuration
 - **Casting Time :** 1 action

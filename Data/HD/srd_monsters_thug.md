@@ -4,7 +4,7 @@
 
 # Thug
 
-- CEO: [Malfrat](hd_monsters_malfrat.md)
+- Alias: [Malfrat](hd_monsters_malfrat.md)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 11 (leather armor)
 - **Hit Points** 32 (5d8 + 10)

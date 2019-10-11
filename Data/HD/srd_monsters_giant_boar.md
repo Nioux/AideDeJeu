@@ -4,7 +4,7 @@
 
 # Giant Boar
 
-- CEO: [Sanglier géant](hd_monsters_sanglier_geant.md)
+- Alias: [Sanglier géant](hd_monsters_sanglier_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 42 (5d10 + 15)

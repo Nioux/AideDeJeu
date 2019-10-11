@@ -4,7 +4,7 @@
 
 ### Interagir avec les objets alentours
 
-- AltName: Interacting with Objects Around You (SRD p92)
+- Alias: Interacting with Objects Around You (SRD p92)
 - Source: (MDR p287)
 
 Voici quelques exemples de ce que vous pouvez accomplir librement, en même temps que votre déplacement ou que votre action. Pour rappel, vous ne pouvez interagir librement qu'avec un seul objet par tour de jeu. Interagir avec deux objets vous oblige à utiliser votre action.

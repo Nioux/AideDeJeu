@@ -4,7 +4,7 @@
 
 # Goodberry
 
-- MDR: [Baies nourricières](hd_spells_baies_nourricieres.md)
+- Alias: [Baies nourricières](hd_spells_baies_nourricieres.md)
 - Source: (SRD p150)
 -  1st-level transmutation
 - **Casting Time :** 1 action

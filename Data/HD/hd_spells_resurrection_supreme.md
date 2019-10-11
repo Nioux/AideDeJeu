@@ -4,7 +4,7 @@
 
 # Résurrection suprême
 
-- SRD: [True Resurrection](srd_spells_true_resurrection.md)
+- Alias: [True Resurrection](srd_spells_true_resurrection.md)
 
 -  Nécromancie de niveau 9
 

@@ -5,7 +5,7 @@
 # Naïna
 
 - Source: (LDM p315)(TOB p302)
-- TOB: Naina
+- Alias: Naina
 -  Dragon (métamorphe) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)

@@ -5,7 +5,7 @@
 # Manticore
 
 - Source: (CEO p)(SRD p)
-- SRD: [Manticore](srd_monsters_manticore.md)
+- Alias: [Manticore](srd_monsters_manticore.md)
 -  Créature monstrueuse de taille G, Loyal Mauvais
 - **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 14 (armure naturelle)

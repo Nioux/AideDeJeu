@@ -5,7 +5,7 @@
 # Drake De Cendres
 
 - Source: (LDM p149)(TOB p149)
-- TOB: Ash Drake
+- Alias: Ash Drake
 -  Dragon de Petite taille (P), neutre mauvais
 - **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)

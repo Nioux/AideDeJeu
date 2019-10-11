@@ -4,7 +4,7 @@
 
 # Baies nourricières
 
-- SRD: [Goodberry](srd_spells_goodberry.md)
+- Alias: [Goodberry](srd_spells_goodberry.md)
 
 -  Transmutation de niveau 1
 

@@ -5,7 +5,7 @@
 # Angatra
 
 - Source: (LDM p18)(TOB p19)
-- TOB: Angatra
+- Alias: Angatra
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Jungle, Mangrove / Marécage, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

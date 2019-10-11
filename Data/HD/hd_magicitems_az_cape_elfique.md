@@ -4,7 +4,7 @@
 
 ### Cape elfique
 
-- AltName: Cloak of Elvenkind (SRD p214)
+- Alias: Cloak of Elvenkind (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

@@ -5,7 +5,7 @@
 # Araignée
 
 - Source: (CEO p)(SRD p)
-- SRD: [Spider](srd_monsters_spider.md)
+- Alias: [Spider](srd_monsters_spider.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 12

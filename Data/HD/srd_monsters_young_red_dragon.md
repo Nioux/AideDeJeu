@@ -4,7 +4,7 @@
 
 # Young Red Dragon
 
-- CEO: [Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)
+- Alias: [Jeune dragon rouge](hd_monsters_jeune_dragon_rouge.md)
 -  Large dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)

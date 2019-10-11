@@ -5,7 +5,7 @@
 # Diantrefosse
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pit Fiend](srd_monsters_pit_fiend.md)
+- Alias: [Pit Fiend](srd_monsters_pit_fiend.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)

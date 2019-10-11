@@ -5,7 +5,7 @@
 # Combattant Tosculi
 
 - Source: (LDM p387)(TOB p386)
-- TOB: Tosculi Warrior
+- Alias: Tosculi Warrior
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15

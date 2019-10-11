@@ -4,7 +4,7 @@
 
 ### Arme +1, +2 ou +3
 
-- AltName: Weapon, +1, +2, or +3 (SRD p250)
+- Alias: Weapon, +1, +2, or +3 (SRD p250)
 - Source: (CDC p143)
 -  Arme (n'importe quelle arme), peu courante (+1), rare (+2) ou très rare (+3)
 

@@ -4,7 +4,7 @@
 
 ### Bâton de feu
 
-- AltName: Staff of Fire (SRD p243)
+- Alias: Staff of Fire (SRD p243)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 

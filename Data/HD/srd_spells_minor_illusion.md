@@ -4,7 +4,7 @@
 
 # Minor Illusion
 
-- MDR: [Illusion mineure](hd_spells_illusion_mineure.md)
+- Alias: [Illusion mineure](hd_spells_illusion_mineure.md)
 - Source: (SRD p164)
 -  Illusion cantrip
 - **Casting Time :** 1 action

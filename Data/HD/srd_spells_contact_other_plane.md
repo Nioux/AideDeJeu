@@ -4,7 +4,7 @@
 
 # Contact Other Plane
 
-- MDR: [Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)
+- Alias: [Contacter un autre plan](hd_spells_contacter_un_autre_plan.md)
 - Source: (SRD p129)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 minute

@@ -4,7 +4,7 @@
 
 ## Abri
 
-- AltName: Cover (SRD p96)
+- Alias: Cover (SRD p96)
 - Source: (MDR p293)
 
 Les murs, les arbres, les créatures, et d'autres obstacles constituent pendant un combat autant d'abris potentiels qui rendent une cible plus difficile à blesser. Une cible ne bénéficie d'un abri que si une attaque ou un autre effet provient depuis l'autre côté de ce qui sert d'abri.

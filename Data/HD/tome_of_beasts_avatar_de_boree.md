@@ -5,7 +5,7 @@
 # Avatar de Borée
 
 - Source: (LDM p45)(TOB p42)
-- TOB: Avatar of Boreas
+- Alias: Avatar of Boreas
 -  Élémentaire de taille Moyenne (métamorphe) (M), chaotique mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)

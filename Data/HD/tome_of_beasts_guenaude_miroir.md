@@ -5,7 +5,7 @@
 # Guenaude Miroir
 
 - Source: (LDM p229)(TOB p229)
-- TOB: Mirror Hag
+- Alias: Mirror Hag
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 168 (16d8+96)

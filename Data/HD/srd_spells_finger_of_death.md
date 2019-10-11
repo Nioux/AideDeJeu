@@ -4,7 +4,7 @@
 
 # Finger of Death
 
-- MDR: [Doigt de mort](hd_spells_doigt_de_mort.md)
+- Alias: [Doigt de mort](hd_spells_doigt_de_mort.md)
 - Source: (SRD p144)
 -  7th-level necromancy
 - **Casting Time :** 1 action

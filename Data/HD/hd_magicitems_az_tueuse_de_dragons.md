@@ -4,7 +4,7 @@
 
 ### Tueuse de dragons
 
-- AltName: Dragon Slayer (SRD p219)
+- Alias: Dragon Slayer (SRD p219)
 - Source: (CDC p188)
 -  Arme (épée), rare
 

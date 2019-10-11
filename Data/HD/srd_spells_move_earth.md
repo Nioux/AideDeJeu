@@ -4,7 +4,7 @@
 
 # Move Earth
 
-- MDR: [Déplacer la terre](hd_spells_deplacer_la_terre.md)
+- Alias: [Déplacer la terre](hd_spells_deplacer_la_terre.md)
 - Source: (SRD p166)
 -  6th-level transmutation
 - **Casting Time :** 1 action

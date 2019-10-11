@@ -5,7 +5,7 @@
 # Horakh
 
 - Source: (LDM p246)(TOB p250)
-- TOB: Horakh
+- Alias: Horakh
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)

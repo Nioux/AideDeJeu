@@ -4,7 +4,7 @@
 
 ### Boule de cristal
 
-- AltName: Crystal Ball (SRD p214)
+- Alias: Crystal Ball (SRD p214)
 - Source: (CDC p153)
 -  Objet merveilleux, très rare ou légendaire (harmonisation requise)
 

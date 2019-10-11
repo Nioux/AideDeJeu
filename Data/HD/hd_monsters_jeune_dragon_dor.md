@@ -5,7 +5,7 @@
 # Jeune dragon d'or
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Gold Dragon](srd_monsters_young_gold_dragon.md)
+- Alias: [Young Gold Dragon](srd_monsters_young_gold_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)

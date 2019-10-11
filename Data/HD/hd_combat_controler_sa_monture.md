@@ -4,7 +4,7 @@
 
 ### Contrôler sa monture
 
-- AltName: Controlling a Mount (SRD p99)
+- Alias: Controlling a Mount (SRD p99)
 - Source: (MDR p295)
 
 Tant que vous êtes sur le dos de votre monture, vous avez deux options : soit vous pouvez contrôler vousmême votre monture, soit vous la laissez agir à sa guise. Les créatures intelligentes, comme les dragons, restent toujours libres de leurs actions.

@@ -4,7 +4,7 @@
 
 # Augury
 
-- MDR: [Augure](hd_spells_augure.md)
+- Alias: [Augure](hd_spells_augure.md)
 - Source: (SRD p120)
 -  2nd-level divination (ritual)
 - **Casting Time :** 1 minute

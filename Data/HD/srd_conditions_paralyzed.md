@@ -4,7 +4,7 @@
 
 # Paralyzed
 
-- AltName: [Paralysé](hd_conditions_paralyse.md)
+- Alias: [Paralysé](hd_conditions_paralyse.md)
 - Source: (SRD p358)
 
 * A paralyzed creature is [incapacitated](srd_conditions_incapacitated.md) (see the condition) and can't move or speak.

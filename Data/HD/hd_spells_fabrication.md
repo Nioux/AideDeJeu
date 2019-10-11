@@ -4,7 +4,7 @@
 
 # Fabrication
 
-- SRD: [Fabricate](srd_spells_fabricate.md)
+- Alias: [Fabricate](srd_spells_fabricate.md)
 
 -  Transmutation de niveau 4
 

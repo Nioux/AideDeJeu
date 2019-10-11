@@ -4,7 +4,7 @@
 
 ### Bottes elfiques
 
-- AltName: Boots of Elvenkind (SRD p212)
+- Alias: Boots of Elvenkind (SRD p212)
 - Source: (CDC p153)
 -  Objet merveilleux, peu courant
 

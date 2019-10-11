@@ -4,7 +4,7 @@
 
 ### Baguette de paralysie
 
-- AltName: Wand of Paralysis (SRD p249)
+- Alias: Wand of Paralysis (SRD p249)
 - Source: (CDC p146)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 

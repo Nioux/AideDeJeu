@@ -5,7 +5,7 @@
 # Chien esquiveur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Blink Dog](srd_monsters_blink_dog.md)
+- Alias: [Blink Dog](srd_monsters_blink_dog.md)
 -  Fée de taille M, Loyal Bon
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

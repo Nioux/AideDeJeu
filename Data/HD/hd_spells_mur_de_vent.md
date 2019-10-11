@@ -4,7 +4,7 @@
 
 # Mur de vent
 
-- SRD: [Wind Wall](srd_spells_wind_wall.md)
+- Alias: [Wind Wall](srd_spells_wind_wall.md)
 
 -  Évocation de niveau 3
 

@@ -5,7 +5,7 @@
 # Duergar
 
 - Source: (CEO p)(SRD p)
-- SRD: [Duergar](srd_monsters_duergar.md)
+- Alias: [Duergar](srd_monsters_duergar.md)
 -  Humanoïde (nain) de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles, bouclier)

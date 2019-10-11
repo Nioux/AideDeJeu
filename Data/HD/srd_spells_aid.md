@@ -4,7 +4,7 @@
 
 # Aid
 
-- MDR: [Aide](hd_spells_aide.md)
+- Alias: [Aide](hd_spells_aide.md)
 - Source: (SRD p114)
 -  2nd-level abjuration
 - **Casting Time :** 1 action

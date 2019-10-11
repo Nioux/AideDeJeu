@@ -4,7 +4,7 @@
 
 # Shocking Grasp
 
-- MDR: [Poigne électrique](hd_spells_poigne_electrique.md)
+- Alias: [Poigne électrique](hd_spells_poigne_electrique.md)
 - Source: (SRD p179)
 -  Evocation cantrip
 - **Casting Time :** 1 action

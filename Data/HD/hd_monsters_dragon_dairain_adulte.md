@@ -5,7 +5,7 @@
 # Dragon d'airain adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
+- Alias: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Contagion
 
-- SRD: [Contagion](srd_spells_contagion.md)
+- Alias: [Contagion](srd_spells_contagion.md)
 
 -  Nécromancie de niveau 5
 

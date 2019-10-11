@@ -4,7 +4,7 @@
 
 # Vision dans le noir
 
-- SRD: [Darkvision](srd_spells_darkvision.md)
+- Alias: [Darkvision](srd_spells_darkvision.md)
 
 -  Transmutation de niveau 2
 

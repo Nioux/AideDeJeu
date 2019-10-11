@@ -4,7 +4,7 @@
 
 ### Gemme lumineuse
 
-- AltName: Gem of Brightness (SRD p223)
+- Alias: Gem of Brightness (SRD p223)
 - Source: (CDC p168)
 -  Objet merveilleux, rare
 

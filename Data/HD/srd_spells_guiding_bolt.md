@@ -4,7 +4,7 @@
 
 # Guiding Bolt
 
-- MDR: [Balisage](hd_spells_balisage.md)
+- Alias: [Balisage](hd_spells_balisage.md)
 - Source: (SRD p151)
 -  1st-level evocation
 - **Casting Time :** 1 action

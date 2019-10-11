@@ -4,7 +4,7 @@
 
 ### Bouteille fumigène
 
-- AltName: Eversmoking Bottle (SRD p220)
+- Alias: Eversmoking Bottle (SRD p220)
 - Source: (CDC p154)
 -  Objet merveilleux, peu courant
 

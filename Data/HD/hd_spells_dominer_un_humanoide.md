@@ -4,7 +4,7 @@
 
 # Dominer un humanoïde
 
-- SRD: [Dominate Person](srd_spells_dominate_person.md)
+- Alias: [Dominate Person](srd_spells_dominate_person.md)
 
 -  Enchantement de niveau 5
 

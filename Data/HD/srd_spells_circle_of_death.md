@@ -4,7 +4,7 @@
 
 # Circle of Death
 
-- MDR: [Cercle de mort](hd_spells_cercle_de_mort.md)
+- Alias: [Cercle de mort](hd_spells_cercle_de_mort.md)
 - Source: (SRD p124)
 -  6th-level necromancy
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Dragonnet d'airain
 
 - Source: (CEO p)(SRD p)
-- SRD: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
+- Alias: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 16 (armure naturelle)

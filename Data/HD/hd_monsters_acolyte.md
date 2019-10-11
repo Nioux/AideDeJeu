@@ -5,7 +5,7 @@
 # Acolyte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Acolyte](srd_monsters_acolyte.md)
+- Alias: [Acolyte](srd_monsters_acolyte.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 10

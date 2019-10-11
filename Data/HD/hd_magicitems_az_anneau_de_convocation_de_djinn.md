@@ -4,7 +4,7 @@
 
 ### Anneau de convocation de djinn
 
-- AltName: Ring of Djinni Summoning (SRD p235)
+- Alias: Ring of Djinni Summoning (SRD p235)
 - Source: (CDC p139)
 -  Anneau, légendaire (harmonisation requise)
 

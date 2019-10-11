@@ -4,7 +4,7 @@
 
 # Paralysé
 
-- AltName: [Paralyzed](srd_conditions_paralyzed.md)
+- Alias: [Paralyzed](srd_conditions_paralyzed.md)
 
 * Une créature paralysée est [neutralisée](hd_conditions_neutralise.md) (voir l'état) et ne peut ni parler ni se déplacer.
 

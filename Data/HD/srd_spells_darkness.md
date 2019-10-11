@@ -4,7 +4,7 @@
 
 # Darkness
 
-- MDR: [Ténèbres](hd_spells_tenebres.md)
+- Alias: [Ténèbres](hd_spells_tenebres.md)
 - Source: (SRD p133)
 -  2nd-level evocation
 - **Casting Time :** 1 action

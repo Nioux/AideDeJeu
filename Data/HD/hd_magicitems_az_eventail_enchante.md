@@ -4,7 +4,7 @@
 
 ### Éventail enchanté
 
-- AltName: Wind Fan (SRD p250)
+- Alias: Wind Fan (SRD p250)
 - Source: (CDC p164)
 -  Objet merveilleux, peu courant
 

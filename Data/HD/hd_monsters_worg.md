@@ -5,7 +5,7 @@
 # Worg
 
 - Source: (CEO p)(SRD p)
-- SRD: [Worg](srd_monsters_worg.md)
+- Alias: [Worg](srd_monsters_worg.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 13 (armure naturelle)

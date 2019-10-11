@@ -4,7 +4,7 @@
 
 # Zombie
 
-- CEO: [Zombi](hd_monsters_zombi.md)
+- Alias: [Zombi](hd_monsters_zombi.md)
 -  Medium undead, neutral evil
 - **Armor Class** 8
 - **Hit Points** 22 (3d8 + 9)

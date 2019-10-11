@@ -4,7 +4,7 @@
 
 # Deer
 
-- CEO: [Chevreuil](hd_monsters_chevreuil.md)
+- Alias: [Chevreuil](hd_monsters_chevreuil.md)
 -  Medium beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 4 (1d8)

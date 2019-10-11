@@ -5,7 +5,7 @@
 
 # Sorcier
 
-- AltName: Warlock (SRD p46)
+- Alias: Warlock (SRD p46)
 - Source: (MDR p209)
 
 En tant que sorcier, vous bénéficiez des aptitudes de classe suivantes.

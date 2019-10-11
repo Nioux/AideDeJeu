@@ -4,7 +4,7 @@
 
 # Éclair
 
-- SRD: [Lightning Bolt](srd_spells_lightning_bolt.md)
+- Alias: [Lightning Bolt](srd_spells_lightning_bolt.md)
 
 -  Évocation de niveau 3
 

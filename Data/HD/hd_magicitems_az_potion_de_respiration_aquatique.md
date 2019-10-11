@@ -4,7 +4,7 @@
 
 ### Potion de respiration aquatique
 
-- AltName: Potion of Water Breathing (SRD p235)
+- Alias: Potion of Water Breathing (SRD p235)
 - Source: (CDC p178)
 -  Potion, peu courante
 

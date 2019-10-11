@@ -4,7 +4,7 @@
 
 # Cockatrice
 
-- CEO: [Cockatrice](hd_monsters_cockatrice.md)
+- Alias: [Cockatrice](hd_monsters_cockatrice.md)
 -  Small monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 27 (6d6 + 6)

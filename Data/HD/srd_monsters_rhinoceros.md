@@ -4,7 +4,7 @@
 
 # Rhinoceros
 
-- CEO: [Rhinocéros](hd_monsters_rhinoceros.md)
+- Alias: [Rhinocéros](hd_monsters_rhinoceros.md)
 -  Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 45 (6d10 + 12)

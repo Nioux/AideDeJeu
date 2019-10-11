@@ -4,7 +4,7 @@
 
 # Giant Ape
 
-- CEO: [Singe géant](hd_monsters_singe_geant.md)
+- Alias: [Singe géant](hd_monsters_singe_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 157 (15d12 + 60)

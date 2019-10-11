@@ -4,7 +4,7 @@
 
 ### Surprise
 
-- AltName: Surprise (SRD p90)
+- Alias: Surprise (SRD p90)
 - Source: (MDR p284)
 
 Les héros rampent sans un bruit dans les hautes herbes. Ils ont mis de la graisse sur leurs visages et sur leurs lames. Les guerriers ont laissé leurs amures de métal non loin de là. La nuit est parfaitement noire. Tout proches, les esclavagistes fêtent le butin de la journée autour d'un feu de camp. Ils n'ont aucune conscience du danger qui les guette… L'assassin, qui a bu une potion d'invisibilité, se place juste à côté du clerc et tire sa dague. Aucun héros ne l'a senti passer… Dans chacune de ces situations, l'un des deux partis est surpris par l'autre.

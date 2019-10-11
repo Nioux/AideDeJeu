@@ -4,7 +4,7 @@
 
 ### Bouclier +1, +2 ou +3
 
-- AltName: Shield, +1, +2, or +3 (SRD p242)
+- Alias: Shield, +1, +2, or +3 (SRD p242)
 - Source: (CDC p153)
 -  Armure (bouclier), peu courant (+1), rare (+2) ou très rare (+3)
 

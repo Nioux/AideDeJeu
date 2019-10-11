@@ -4,7 +4,7 @@
 
 ### Épée voleuse de vie
 
-- AltName: Sword of Life Stealing (SRD p246)
+- Alias: Sword of Life Stealing (SRD p246)
 - Source: (CDC p163)
 -  Arme (n'importe quel type d'épée), rare (harmonisation requise)
 

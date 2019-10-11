@@ -5,7 +5,7 @@
 # Empoigneur Arboricole
 
 - Source: (LDM p170)(TOB p25)
-- TOB: Arboreal Grappler
+- Alias: Arboreal Grappler
 -  Aberration de taille Moyenne (M), neutre mauvais
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)

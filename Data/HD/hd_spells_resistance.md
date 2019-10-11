@@ -4,7 +4,7 @@
 
 # Résistance
 
-- SRD: [Resistance](srd_spells_resistance.md)
+- Alias: [Resistance](srd_spells_resistance.md)
 
 -  Abjuration, tour de magie
 

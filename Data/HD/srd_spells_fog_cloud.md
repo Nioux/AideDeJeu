@@ -4,7 +4,7 @@
 
 # Fog Cloud
 
-- MDR: [Nappe de brouillard](hd_spells_nappe_de_brouillard.md)
+- Alias: [Nappe de brouillard](hd_spells_nappe_de_brouillard.md)
 - Source: (SRD p146)
 -  1st-level conjuration
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Héraut Des Ténèbres
 
 - Source: (LDM p236)(TOB p249)
-- TOB: Herald of Darkness
+- Alias: Herald of Darkness
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 105 (10d10+50)

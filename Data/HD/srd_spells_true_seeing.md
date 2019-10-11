@@ -4,7 +4,7 @@
 
 # True Seeing
 
-- MDR: [Vision suprême](hd_spells_vision_supreme.md)
+- Alias: [Vision suprême](hd_spells_vision_supreme.md)
 - Source: (SRD p189)
 -  6th-level divination
 - **Casting Time :** 1 action

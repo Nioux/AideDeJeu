@@ -5,7 +5,7 @@
 # Clurichaun
 
 - Source: (LDM p65)(TOB p67)
-- TOB: Clurichaun
+- Alias: Clurichaun
 -  Fée de taille Très Petite (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 22 (4d4+12)

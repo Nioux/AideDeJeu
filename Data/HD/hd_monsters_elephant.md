@@ -5,7 +5,7 @@
 # Éléphant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Elephant](srd_monsters_elephant.md)
+- Alias: [Elephant](srd_monsters_elephant.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12 (armure naturelle)

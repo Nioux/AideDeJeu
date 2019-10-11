@@ -5,7 +5,7 @@
 # Ukavac
 
 - Source: (LDM p389)(TOB p47)
-- TOB: Bukavac
+- Alias: Bukavac
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Freedom of Movement
 
-- MDR: [Liberté de mouvement](hd_spells_liberte_de_mouvement.md)
+- Alias: [Liberté de mouvement](hd_spells_liberte_de_mouvement.md)
 - Source: (SRD p147)
 -  4th-level abjuration
 - **Casting Time :** 1 action

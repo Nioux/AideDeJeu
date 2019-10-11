@@ -5,7 +5,7 @@
 # Dragon Du Vent, Dragonnet
 
 - Source: (LDM p137)(TOB p145)
-- TOB: Wind Dragon, Wyrmling
+- Alias: Wind Dragon, Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14

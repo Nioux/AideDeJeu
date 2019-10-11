@@ -4,7 +4,7 @@
 
 # Repli expéditif
 
-- SRD: [Expeditious Retreat](srd_spells_expeditious_retreat.md)
+- Alias: [Expeditious Retreat](srd_spells_expeditious_retreat.md)
 
 -  Transmutation de niveau 1
 

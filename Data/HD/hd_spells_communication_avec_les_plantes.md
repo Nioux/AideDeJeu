@@ -4,7 +4,7 @@
 
 # Communication avec les plantes
 
-- SRD: [Speak with Plants](srd_spells_speak_with_plants.md)
+- Alias: [Speak with Plants](srd_spells_speak_with_plants.md)
 
 -  Transmutation de niveau 3
 

@@ -5,7 +5,7 @@
 # Dragon De Flammes, Jeune
 
 - Source: (LDM p128)(TOB p130)
-- TOB: Young Flame Dragon
+- Alias: Young Flame Dragon
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)

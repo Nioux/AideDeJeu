@@ -4,7 +4,7 @@
 
 # Marilith
 
-- CEO: [Marilith](hd_monsters_marilith.md)
+- Alias: [Marilith](hd_monsters_marilith.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 189 (18d10 + 90)

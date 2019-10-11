@@ -5,7 +5,7 @@
 # Géant Du Désert
 
 - Source: (LDM p203)(TOB p222)
-- TOB: Desert Giant
+- Alias: Desert Giant
 -  Géant de Très Grande taille (TG), neutre
 - **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)

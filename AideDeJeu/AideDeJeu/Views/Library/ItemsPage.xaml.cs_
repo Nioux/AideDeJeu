@@ -8,9 +8,9 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views.Library
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class FilteredItemsPage : MasterDetailPage
+	public partial class ItemsPageOld : ContentPage
     {
-        MainViewModel Main
+        public MainViewModel Main
         {
             get
             {
@@ -26,13 +26,21 @@ namespace AideDeJeu.Views.Library
                 return _ItemsViewModel;
             }
         }
-        public FilteredItemsPage (ItemsViewModel itemsViewModel)
+        public ItemsPageOld (ItemsViewModel itemsViewModel)
 		{
-			InitializeComponent();
+			InitializeComponent ();
 
             BindingContext = _ItemsViewModel = itemsViewModel;
+
+            //mdMarkdown.NavigateToLink = async (s) => await itemsViewModel.Main.Navigator.NavigateToLinkAsync(s);
         }
-        public FilteredItemsPage()
+
+        public ItemsPageOld(string id)
+        {
+            InitializeComponent();
+
+        }
+        public ItemsPageOld()
         {
             InitializeComponent();
 
@@ -44,10 +52,10 @@ namespace AideDeJeu.Views.Library
             if (e.Item == null) return;
             ((ListView)sender).SelectedItem = null;
         }
-
-        private void Button_Clicked(object sender, EventArgs e)
+        protected override void OnDisappearing()
         {
-            this.IsPresented = !this.IsPresented;
+            base.OnDisappearing();
+            Main.Speech.ExecuteCancelSpeakCommand();
         }
     }
 }

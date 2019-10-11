@@ -4,7 +4,7 @@
 
 # Magic Weapon
 
-- MDR: [Arme magique](hd_spells_arme_magique.md)
+- Alias: [Arme magique](hd_spells_arme_magique.md)
 - Source: (SRD p161)
 -  2nd-level transmutation
 - **Casting Time :** 1 bonus action

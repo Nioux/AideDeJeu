@@ -4,7 +4,7 @@
 
 # Acid Arrow
 
-- MDR: [Flèche acide](hd_spells_fleche_acide.md)
+- Alias: [Flèche acide](hd_spells_fleche_acide.md)
 - Source: (SRD p114)
 -  2nd-level evocation
 - **Casting Time :** 1 action

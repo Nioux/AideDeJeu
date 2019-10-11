@@ -4,7 +4,7 @@
 
 # Ancient Gold Dragon
 
-- CEO: [Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)
+- Alias: [Dragon d'or vénérable](hd_monsters_dragon_dor_venerable.md)
 -  Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)

@@ -4,7 +4,7 @@
 
 # Agrandir/rétrécir
 
-- SRD: [Enlarge/Reduce](srd_spells_enlargereduce.md)
+- Alias: [Enlarge/Reduce](srd_spells_enlargereduce.md)
 
 -  Transmutation de niveau 2
 

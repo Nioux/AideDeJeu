@@ -4,7 +4,7 @@
 
 # Spider Climb
 
-- MDR: [Pattes d'araignée](hd_spells_pattes_daraignee.md)
+- Alias: [Pattes d'araignée](hd_spells_pattes_daraignee.md)
 - Source: (SRD p182)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

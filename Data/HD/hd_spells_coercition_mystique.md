@@ -4,7 +4,7 @@
 
 # Coercition mystique
 
-- SRD: [Geas](srd_spells_geas.md)
+- Alias: [Geas](srd_spells_geas.md)
 
 -  Enchantement de niveau 5
 

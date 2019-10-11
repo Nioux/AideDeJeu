@@ -4,7 +4,7 @@
 
 ### Bâton de tonnerre et de foudre
 
-- AltName: Staff of Thunder and Lightning (SRD p245)
+- Alias: Staff of Thunder and Lightning (SRD p245)
 - Source: (CDC p150)
 -  Bâton, très rare (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Couleurs dansantes
 
-- SRD: [Color Spray](srd_spells_color_spray.md)
+- Alias: [Color Spray](srd_spells_color_spray.md)
 
 -  Illusion de niveau 1
 

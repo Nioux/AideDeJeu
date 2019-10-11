@@ -4,7 +4,7 @@
 
 # Passage sans trace
 
-- SRD: [Pass without Trace](srd_spells_pass_without_trace.md)
+- Alias: [Pass without Trace](srd_spells_pass_without_trace.md)
 
 -  Abjuration de niveau 2
 

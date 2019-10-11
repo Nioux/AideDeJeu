@@ -5,7 +5,7 @@
 # Edimmu
 
 - Source: (LDM p162)(TOB p165)
-- TOB: Edimmu
+- Alias: Edimmu
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 15

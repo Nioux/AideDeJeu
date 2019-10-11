@@ -4,7 +4,7 @@
 
 # Saut
 
-- SRD: [Jump](srd_spells_jump.md)
+- Alias: [Jump](srd_spells_jump.md)
 
 -  Transmutation de niveau 1
 

@@ -4,7 +4,7 @@
 
 ### Cibles
 
-- AltName: Targets (SRD p102)
+- Alias: Targets (SRD p102)
 - Source: (MDR p308)
 
 Un sort exige généralement que son lanceur choisisse une ou plusieurs cibles qui seront affectées par sa magie. La description du sort précise si ce dernier vise les créatures, les objets ou le point d'origine de la zone d'effet (voir plus loin).

@@ -4,7 +4,7 @@
 
 # Warhorse
 
-- CEO: [Cheval de guerre](hd_monsters_cheval_de_guerre.md)
+- Alias: [Cheval de guerre](hd_monsters_cheval_de_guerre.md)
 -  Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)

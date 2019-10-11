@@ -4,7 +4,7 @@
 
 # Arcane Eye
 
-- MDR: [Oeil magique](hd_spells_oeil_magique.md)
+- Alias: [Oeil magique](hd_spells_oeil_magique.md)
 - Source: (SRD p118)
 -  4th-level divination
 - **Casting Time :** 1 action

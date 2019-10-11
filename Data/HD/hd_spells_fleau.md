@@ -4,7 +4,7 @@
 
 # Fléau
 
-- SRD: [Bane](srd_spells_bane.md)
+- Alias: [Bane](srd_spells_bane.md)
 
 -  Enchantement de niveau 1
 

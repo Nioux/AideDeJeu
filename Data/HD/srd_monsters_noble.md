@@ -4,7 +4,7 @@
 
 # Noble
 
-- CEO: [Noble](hd_monsters_noble.md)
+- Alias: [Noble](hd_monsters_noble.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 15 (breastplate)
 - **Hit Points** 9 (2d8)

@@ -4,7 +4,7 @@
 
 ### Jets d'attaque
 
-- AltName: Attack Rolls (SRD p103)
+- Alias: Attack Rolls (SRD p103)
 - Source: (MDR p310)
 
 Dans certains cas, le lanceur de sorts doit faire un jet d'attaque pour savoir si l'effet du sort touche la cible prévue. Lors d'une attaque de sort, son bonus d'attaque est égal à son modificateur de caractéristique d'incantation + son bonus de maîtrise.

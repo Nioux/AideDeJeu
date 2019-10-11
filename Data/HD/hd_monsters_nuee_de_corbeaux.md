@@ -5,7 +5,7 @@
 # Nuée de corbeaux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
+- Alias: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 12

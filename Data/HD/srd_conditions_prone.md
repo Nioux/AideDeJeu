@@ -4,7 +4,7 @@
 
 # Prone
 
-- AltName: [À terre](hd_conditions_a_terre.md)
+- Alias: [À terre](hd_conditions_a_terre.md)
 - Source: (SRD p359)
 
 * A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.

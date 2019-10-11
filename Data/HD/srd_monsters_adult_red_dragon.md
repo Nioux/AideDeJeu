@@ -4,7 +4,7 @@
 
 # Adult Red Dragon
 
-- CEO: [Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)
+- Alias: [Dragon rouge adulte](hd_monsters_dragon_rouge_adulte.md)
 -  Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)

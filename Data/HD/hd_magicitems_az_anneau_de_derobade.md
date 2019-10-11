@@ -4,7 +4,7 @@
 
 ### Anneau de dérobade
 
-- AltName: Ring of Evasion (SRD p236)
+- Alias: Ring of Evasion (SRD p236)
 - Source: (CDC p139)
 -  Anneau, rare (harmonisation requise)
 

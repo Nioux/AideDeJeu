@@ -4,7 +4,7 @@
 
 # Tremblement de terre
 
-- SRD: [Earthquake](srd_spells_earthquake.md)
+- Alias: [Earthquake](srd_spells_earthquake.md)
 
 -  Évocation de niveau 8
 

@@ -5,7 +5,7 @@
 # Nuée D'Esprits Lupins
 
 - Source: (LDM p324)(TOB p377)
-- TOB: Wolf Spirit Swarm
+- Alias: Wolf Spirit Swarm
 -  Nuée de Grande taille de morts-vivants de taille Moyenne (G), neutre
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)

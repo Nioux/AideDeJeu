@@ -5,7 +5,7 @@
 # Ancien Drake Des Ombres
 
 - Source: (LDM p153)(TOB p153)
-- TOB: Elder Shadow Drake
+- Alias: Elder Shadow Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)

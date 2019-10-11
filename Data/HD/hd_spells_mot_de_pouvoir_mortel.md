@@ -4,7 +4,7 @@
 
 # Mot de pouvoir mortel
 
-- SRD: [Power Word Kill](srd_spells_power_word_kill.md)
+- Alias: [Power Word Kill](srd_spells_power_word_kill.md)
 
 -  Enchantement de niveau 9
 

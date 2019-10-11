@@ -5,7 +5,7 @@
 # Médazur À Défenses
 
 - Source: (LDM p298)(TOB p391)
-- TOB: Tusked Skyfish
+- Alias: Tusked Skyfish
 -  Aberration de Grande taille (G), loyale bonne
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)

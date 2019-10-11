@@ -4,7 +4,7 @@
 
 # Monture fantôme
 
-- SRD: [Phantom Steed](srd_spells_phantom_steed.md)
+- Alias: [Phantom Steed](srd_spells_phantom_steed.md)
 
 -  Illusion de niveau 3 (rituel)
 

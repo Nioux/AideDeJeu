@@ -4,7 +4,7 @@
 
 # Erinyes
 
-- CEO: [Érinye](hd_monsters_erinye.md)
+- Alias: [Érinye](hd_monsters_erinye.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 18 (plate)
 - **Hit Points** 153 (18d8 + 72)

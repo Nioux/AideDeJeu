@@ -4,7 +4,7 @@
 
 #### Action bonus
 
-- AltName: Bonus Actions (SRD p90)
+- Alias: Bonus Actions (SRD p90)
 - Source: (MDR p285)
 
 Plusieurs aptitudes de classes, sorts et autres capacités vous permettent d'accomplir une action supplémentaire lors de votre tour. L'aptitude ruse, par exemple, permet à un roublard d'accomplir une action bonus. Vous ne pouvez accomplir d'action bonus que si une capacité spéciale, un sort ou une aptitude stipule que vous pouvez « accomplir quelque chose comme action bonus ». Si ce n'est pas le cas, vous ne pouvez pas accomplir d'action bonus.

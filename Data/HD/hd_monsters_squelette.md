@@ -5,7 +5,7 @@
 # Squelette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Skeleton](srd_monsters_skeleton.md)
+- Alias: [Skeleton](srd_monsters_skeleton.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 13 (débris d'armure)

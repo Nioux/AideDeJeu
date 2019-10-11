@@ -5,7 +5,7 @@
 # Demoiselle Glacée
 
 - Source: (LDM p75)(TOB p254)
-- TOB: Ice Maiden
+- Alias: Ice Maiden
 -  Fée de taille Moyenne (M), loyale mauvaise
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)

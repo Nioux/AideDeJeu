@@ -5,7 +5,7 @@
 # Planétar
 
 - Source: (CEO p)(SRD p)
-- SRD: [Planetar](srd_monsters_planetar.md)
+- Alias: [Planetar](srd_monsters_planetar.md)
 -  Céleste de taille G, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Philtre d'amour
 
-- AltName: Philter of Love (SRD p232)
+- Alias: Philter of Love (SRD p232)
 - Source: (CDC p174)
 -  Potion, peu courante
 

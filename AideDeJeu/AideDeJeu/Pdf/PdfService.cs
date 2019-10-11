@@ -118,7 +118,14 @@ namespace AideDeJeu.Pdf
                 {
 
                 }
-                writer.Close();
+                try
+                {
+                    writer?.Close();
+                }
+                catch
+                {
+
+                }
             }
 
             //stamper.Close();

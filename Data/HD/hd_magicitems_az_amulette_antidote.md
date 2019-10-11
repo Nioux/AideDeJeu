@@ -4,7 +4,7 @@
 
 ### Amulette antidote
 
-- AltName: Periapt of Proof against Poison (SRD p232)
+- Alias: Periapt of Proof against Poison (SRD p232)
 - Source: (CDC p139)
 -  Objet merveilleux, rare
 

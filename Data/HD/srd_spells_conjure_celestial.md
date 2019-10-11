@@ -4,7 +4,7 @@
 
 # Conjure Celestial
 
-- MDR: [Invoquer un céleste](hd_spells_invoquer_un_celeste.md)
+- Alias: [Invoquer un céleste](hd_spells_invoquer_un_celeste.md)
 - Source: (SRD p127)
 -  7th-level conjuration
 - **Casting Time :** 1 minute

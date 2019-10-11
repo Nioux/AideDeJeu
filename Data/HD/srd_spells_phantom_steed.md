@@ -4,7 +4,7 @@
 
 # Phantom Steed
 
-- MDR: [Monture fantôme](hd_spells_monture_fantome.md)
+- Alias: [Monture fantôme](hd_spells_monture_fantome.md)
 - Source: (SRD p167)
 -  3th-level illusion (ritual)
 - **Casting Time :** 1 minute

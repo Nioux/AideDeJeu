@@ -5,7 +5,7 @@
 # Harpie Chouette
 
 - Source: (LDM p234)(TOB p246)
-- TOB: Owl Harpy
+- Alias: Owl Harpy
 -  Créature monstrueuse de taille Moyenne (M), neutre mauvaise
 - **Terrain** Désert chaud, Jungle
 - **Classe d'armure** 14

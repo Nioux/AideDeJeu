@@ -5,7 +5,7 @@
 # Scorpion
 
 - Source: (CEO p)(SRD p)
-- SRD: [Scorpion](srd_monsters_scorpion.md)
+- Alias: [Scorpion](srd_monsters_scorpion.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 11 (armure naturelle)

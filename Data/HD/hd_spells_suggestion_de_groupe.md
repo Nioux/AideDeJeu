@@ -4,7 +4,7 @@
 
 # Suggestion de groupe
 
-- SRD: [Mass Suggestion](srd_spells_mass_suggestion.md)
+- Alias: [Mass Suggestion](srd_spells_mass_suggestion.md)
 
 -  Enchantement de niveau 6
 

@@ -4,7 +4,7 @@
 
 # Flying Snake
 
-- CEO: [Serpent volant](hd_monsters_serpent_volant.md)
+- Alias: [Serpent volant](hd_monsters_serpent_volant.md)
 -  Tiny beast, unaligned
 - **Armor Class** 14
 - **Hit Points** 5 (2d4)

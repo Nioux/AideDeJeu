@@ -4,7 +4,7 @@
 
 # Peau d'écorce
 
-- SRD: [Barkskin](srd_spells_barkskin.md)
+- Alias: [Barkskin](srd_spells_barkskin.md)
 
 -  Transmutation de niveau 2
 

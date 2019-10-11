@@ -5,7 +5,7 @@
 # Dragon bleu adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
+- Alias: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 19 (armure naturelle)

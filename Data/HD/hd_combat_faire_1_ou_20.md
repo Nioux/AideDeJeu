@@ -4,7 +4,7 @@
 
 #### Faire 1 ou 20
 
-- AltName: Rolling 1 or 20 (SRD p94)
+- Alias: Rolling 1 or 20 (SRD p94)
 - Source: (MDR p291)
 
 Parfois, le destin se montre particulièrement cruel ou clément envers un combattant. Et donc, un novice va parfois réussir une attaque très improbable et le vétéran confirmé va rater un coup tout fait.

@@ -5,7 +5,7 @@
 # Enlaceur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Roper](srd_monsters_roper.md)
+- Alias: [Roper](srd_monsters_roper.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 20 (armure naturelle)

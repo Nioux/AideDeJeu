@@ -4,7 +4,7 @@
 
 # Régénération
 
-- SRD: [Regenerate](srd_spells_regenerate.md)
+- Alias: [Regenerate](srd_spells_regenerate.md)
 
 -  Transmutation de niveau 7
 

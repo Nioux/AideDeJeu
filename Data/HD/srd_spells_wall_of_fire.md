@@ -4,7 +4,7 @@
 
 # Wall of Fire
 
-- MDR: [Mur de feu](hd_spells_mur_de_feu.md)
+- Alias: [Mur de feu](hd_spells_mur_de_feu.md)
 - Source: (SRD p190)
 -  4th-level evocation
 - **Casting Time :** 1 action

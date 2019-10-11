@@ -5,7 +5,7 @@
 # Tapis étrangleur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
+- Alias: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 12

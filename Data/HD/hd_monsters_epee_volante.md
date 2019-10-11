@@ -5,7 +5,7 @@
 # Épée volante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Flying Sword](srd_monsters_flying_sword.md)
+- Alias: [Flying Sword](srd_monsters_flying_sword.md)
 -  Créature artificielle de taille P, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)

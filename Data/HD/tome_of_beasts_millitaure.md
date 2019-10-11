@@ -5,7 +5,7 @@
 # Millitaure
 
 - Source: (LDM p301)(TOB p288)
-- TOB: Millitaur
+- Alias: Millitaur
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)

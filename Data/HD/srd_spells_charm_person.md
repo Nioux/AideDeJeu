@@ -4,7 +4,7 @@
 
 # Charm Person
 
-- MDR: [Charme-personne](hd_spells_charme_personne.md)
+- Alias: [Charme-personne](hd_spells_charme_personne.md)
 - Source: (SRD p124)
 -  1st-level enchantment
 - **Casting Time :** 1 action

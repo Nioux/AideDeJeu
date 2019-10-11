@@ -5,7 +5,7 @@
 # Scarabée Mécanique
 
 - Source: (LDM p296)(TOB p60)
-- TOB: Clockwork Beetle
+- Alias: Clockwork Beetle
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 15 (6d4)

@@ -4,7 +4,7 @@
 
 # Acid Splash
 
-- MDR: [Aspersion acide](hd_spells_aspersion_acide.md)
+- Alias: [Aspersion acide](hd_spells_aspersion_acide.md)
 - Source: (SRD p114)
 -  Conjuration cantrip
 - **Casting Time :** 1 action

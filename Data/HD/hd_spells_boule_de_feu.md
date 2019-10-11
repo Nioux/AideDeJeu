@@ -4,7 +4,7 @@
 
 # Boule de feu
 
-- SRD: [Fireball](srd_spells_fireball.md)
+- Alias: [Fireball](srd_spells_fireball.md)
 
 -  Évocation de niveau 3
 

@@ -4,7 +4,7 @@
 
 ### Harmonisation
 
-- AltName: Attunement (SRD p206)
+- Alias: Attunement (SRD p206)
 - Source: (CDC p130)
 
 Une créature doit parfois sceller un pacte avec certains objets magiques avant de pouvoir utiliser leurs propriétés magiques. Ce pacte est appelé harmonisation et il faut parfois remplir certaines conditions pour plusieurs d'entre eux. Si la condition est une classe, une créature doit appartenir à cette classe pour qu'elle et lui puissent s'harmoniser (si la classe est celle d'un lanceur de sorts, un monstre remplit la condition s'il possède des emplacements de sort et utilise la liste de sorts de cette classe).

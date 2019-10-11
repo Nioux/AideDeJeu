@@ -4,7 +4,7 @@
 
 # Phase Spider
 
-- CEO: [Araignée de phase](hd_monsters_araignee_de_phase.md)
+- Alias: [Araignée de phase](hd_monsters_araignee_de_phase.md)
 - Source: (SRD p385)
 -  Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)

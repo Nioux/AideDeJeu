@@ -4,7 +4,7 @@
 
 # Animal Shapes
 
-- MDR: [Formes animales](hd_spells_formes_animales.md)
+- Alias: [Formes animales](hd_spells_formes_animales.md)
 - Source: (SRD p115)
 -  8th-level transmutation
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Stoneskin
 
-- MDR: [Peau de pierre](hd_spells_peau_de_pierre.md)
+- Alias: [Peau de pierre](hd_spells_peau_de_pierre.md)
 - Source: (SRD p183)
 -  4th-level abjuration
 - **Casting Time :** 1 action

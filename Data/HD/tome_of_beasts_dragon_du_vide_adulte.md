@@ -5,7 +5,7 @@
 # Dragon Du Vide, Adulte
 
 - Source: (LDM p140)(TOB p139)
-- TOB: Adult Void Dragon
+- Alias: Adult Void Dragon
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 229 (17d12+119)

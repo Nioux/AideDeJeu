@@ -4,7 +4,7 @@
 
 # Shield of Faith
 
-- MDR: [Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)
+- Alias: [Bouclier de la foi](hd_spells_bouclier_de_la_foi.md)
 - Source: (SRD p179)
 -  1st-level abjuration
 - **Casting Time :** 1 bonus action

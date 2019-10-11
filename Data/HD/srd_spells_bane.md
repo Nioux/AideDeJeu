@@ -4,7 +4,7 @@
 
 # Bane
 
-- MDR: [Fléau](hd_spells_fleau.md)
+- Alias: [Fléau](hd_spells_fleau.md)
 - Source: (SRD p120)
 -  1st-level enchantment
 - **Casting Time :** 1 action

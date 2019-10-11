@@ -4,7 +4,7 @@
 
 # Meteor Swarm
 
-- MDR: [Nuée de météores](hd_spells_nuee_de_meteores.md)
+- Alias: [Nuée de météores](hd_spells_nuee_de_meteores.md)
 - Source: (SRD p164)
 -  9th-level evocation
 - **Casting Time :** 1 action

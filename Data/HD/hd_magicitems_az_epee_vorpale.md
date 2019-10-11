@@ -4,7 +4,7 @@
 
 ### Épée vorpale
 
-- AltName: Vorpal Sword (SRD p248)
+- Alias: Vorpal Sword (SRD p248)
 - Source: (CDC p163)
 -  Arme (n'importe quel type d'épée qui inflige des dégâts tranchants), légendaire (harmonisation requise)
 

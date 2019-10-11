@@ -4,7 +4,7 @@
 
 # Glibness
 
-- MDR: [Bagou](hd_spells_bagou.md)
+- Alias: [Bagou](hd_spells_bagou.md)
 - Source: (SRD p149)
 -  8th-level transmutation
 - **Casting Time :** 1 action

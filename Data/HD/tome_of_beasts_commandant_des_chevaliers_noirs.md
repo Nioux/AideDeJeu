@@ -5,7 +5,7 @@
 # Commandant Des Chevaliers Noirs
 
 - Source: (LDM p422)(TOB p418)
-- TOB: Black Knight Commander
+- Alias: Black Knight Commander
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal mauvais
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 78 (12d8 + 24)

@@ -4,7 +4,7 @@
 
 # Resurrection
 
-- MDR: [Résurrection](hd_spells_resurrection.md)
+- Alias: [Résurrection](hd_spells_resurrection.md)
 - Source: (SRD p175)
 -  7th-level necromancy
 - **Casting Time :** 1 hour

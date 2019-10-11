@@ -4,7 +4,7 @@
 
 ### Cierge d'invocation
 
-- AltName: Candle of Invocation (SRD p213)
+- Alias: Candle of Invocation (SRD p213)
 - Source: (CDC p160)
 -  Objet merveilleux, très rare (harmonisation requise)
 

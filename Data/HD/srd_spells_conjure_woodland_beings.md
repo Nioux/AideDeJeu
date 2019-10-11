@@ -4,7 +4,7 @@
 
 # Conjure Woodland Beings
 
-- MDR: [Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)
+- Alias: [Invoquer des êtres des bois](hd_spells_invoquer_des_etres_des_bois.md)
 - Source: (SRD p129)
 -  4th-level conjuration
 - **Casting Time :** 1 action

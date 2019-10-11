@@ -5,7 +5,7 @@
 
 # Force
 
-- AltName: Strength (SRD p79)
+- Alias: Strength (SRD p79)
 - Source: (MDR p262)
 
 La Force détermine la puissance physique d'un personnage, ses compétences en [athlétisme](hd_abilities_strength_athletisme.md) et dans quelle mesure il peut se reposer sur sa force brute.

@@ -5,7 +5,7 @@
 # Hezrou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hezrou](srd_monsters_hezrou.md)
+- Alias: [Hezrou](srd_monsters_hezrou.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)

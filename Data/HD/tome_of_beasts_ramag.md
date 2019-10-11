@@ -5,7 +5,7 @@
 # Ramag
 
 - Source: (LDM p346)(TOB p317)
-- TOB: Ramag
+- Alias: Ramag
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure de cuir)

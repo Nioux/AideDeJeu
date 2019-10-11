@@ -4,7 +4,7 @@
 
 # Résurrection
 
-- SRD: [Resurrection](srd_spells_resurrection.md)
+- Alias: [Resurrection](srd_spells_resurrection.md)
 
 -  Nécromancie de niveau 7
 

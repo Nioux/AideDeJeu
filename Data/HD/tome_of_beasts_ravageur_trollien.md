@@ -5,7 +5,7 @@
 # Ravageur Trollien
 
 - Source: (LDM p348)(TOB p390)
-- TOB: Trollkin Reaver
+- Alias: Trollkin Reaver
 -  Humanoïde (trollien) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 82 (11d8+33)

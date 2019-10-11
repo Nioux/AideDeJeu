@@ -4,7 +4,7 @@
 
 ### Anneau de légèreté
 
-- AltName: Ring of Feather Falling (SRD p236)
+- Alias: Ring of Feather Falling (SRD p236)
 - Source: (CDC p140)
 -  Anneau, rare (harmonisation requise)
 

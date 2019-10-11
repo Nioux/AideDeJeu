@@ -5,7 +5,7 @@
 # Gynosphinx
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gynosphinx](srd_monsters_gynosphinx.md)
+- Alias: [Gynosphinx](srd_monsters_gynosphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Terrain** Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

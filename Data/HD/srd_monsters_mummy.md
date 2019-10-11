@@ -4,7 +4,7 @@
 
 # Mummy
 
-- CEO: [Momie](hd_monsters_momie.md)
+- Alias: [Momie](hd_monsters_momie.md)
 -  Medium undead, lawful evil
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 58 (9d8 + 18)

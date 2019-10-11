@@ -4,7 +4,7 @@
 
 # Fatigue et épuisement
 
-- AltName: [Exhaustion](srd_conditions_exhaustion.md)
+- Alias: [Exhaustion](srd_conditions_exhaustion.md)
 
 Certaines aptitudes et certains dangers environnementaux, comme la faim et les effets à long terme des températures glaciales et étouffantes, provoquent un état particulier appelé l'épuisement. Celui-ci se divise en six niveaux. Un effet peut donner un ou plusieurs niveaux d'épuisement, comme indiqué dans la description de chaque effet.
 

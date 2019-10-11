@@ -5,7 +5,7 @@
 # Chouette géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Owl](srd_monsters_giant_owl.md)
+- Alias: [Giant Owl](srd_monsters_giant_owl.md)
 -  Bête de taille G, neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 12

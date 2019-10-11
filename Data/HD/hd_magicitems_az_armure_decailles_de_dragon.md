@@ -4,7 +4,7 @@
 
 ### Armure d'écailles de dragon
 
-- AltName: Dragon Scale Mail (SRD p219)
+- Alias: Dragon Scale Mail (SRD p219)
 - Source: (CDC p143)
 -  Armure (armure d'écaille), très rare (harmonisation requise)
 

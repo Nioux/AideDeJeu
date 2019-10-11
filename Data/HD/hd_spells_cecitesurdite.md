@@ -4,7 +4,7 @@
 
 # Cécité/surdité
 
-- SRD: [Blindness/Deafness](srd_spells_blindnessdeafness.md)
+- Alias: [Blindness/Deafness](srd_spells_blindnessdeafness.md)
 
 -  Nécromancie de niveau 2
 

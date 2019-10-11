@@ -5,7 +5,7 @@
 # Nuée de piranhas
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
+- Alias: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage, Ruines sous-marines
 - **Classe d'armure** 13

@@ -4,7 +4,7 @@
 
 # Giant Bat
 
-- CEO: [Chauve-souris géante](hd_monsters_chauve_souris_geante.md)
+- Alias: [Chauve-souris géante](hd_monsters_chauve_souris_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 22 (4d10)

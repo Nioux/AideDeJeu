@@ -4,7 +4,7 @@
 
 # Satyr
 
-- CEO: [Satyre](hd_monsters_satyre.md)
+- Alias: [Satyre](hd_monsters_satyre.md)
 -  Medium fey, chaotic neutral
 - **Armor Class** 14 (leather armor)
 - **Hit Points** 31 (7d8)

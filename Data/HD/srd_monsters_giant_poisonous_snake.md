@@ -4,7 +4,7 @@
 
 # Giant Poisonous Snake
 
-- CEO: [Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)
+- Alias: [Serpent venimeux géant](hd_monsters_serpent_venimeux_geant.md)
 -  Medium beast, unaligned
 - **Armor Class** 14
 - **Hit Points** 11 (2d8 + 2)

@@ -4,7 +4,7 @@
 
 ## Halfelin pied-léger
 
-- AltName: Lightfoot (SRD p5)
+- Alias: Lightfoot (SRD p5)
 - Source: (MDR p52)
 
 En tant que halfelin pied-léger, vous cacher est presque une seconde nature et vous n'hésitez pas à utiliser d'autres créatures pour échapper aux regards. Vous êtes d'un naturel plutôt affable et sympathique.

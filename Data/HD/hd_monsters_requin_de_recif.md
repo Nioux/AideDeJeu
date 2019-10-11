@@ -5,7 +5,7 @@
 # Requin de récif
 
 - Source: (CEO p)(SRD p)
-- SRD: [Reef Shark](srd_monsters_reef_shark.md)
+- Alias: [Reef Shark](srd_monsters_reef_shark.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Littoral, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)

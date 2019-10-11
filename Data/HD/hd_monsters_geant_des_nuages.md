@@ -5,7 +5,7 @@
 # Géant des nuages
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cloud Giant](srd_monsters_cloud_giant.md)
+- Alias: [Cloud Giant](srd_monsters_cloud_giant.md)
 -  Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
 - **Terrain** Montagnes
 - **Classe d'armure** 14 (armure naturelle)

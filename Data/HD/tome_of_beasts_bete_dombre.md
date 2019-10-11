@@ -5,7 +5,7 @@
 # Bête D'Ombre
 
 - Source: (LDM p41)(TOB p345)
-- TOB: Shadow Beast
+- Alias: Shadow Beast
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 14

@@ -5,7 +5,7 @@
 # Aridni
 
 - Source: (LDM p31)(TOB p26)
-- TOB: Aridni
+- Alias: Aridni
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 82 (15d6+30)

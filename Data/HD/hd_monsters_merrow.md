@@ -5,7 +5,7 @@
 # Merrow
 
 - Source: (CEO p)(SRD p)
-- SRD: [Merrow](srd_monsters_merrow.md)
+- Alias: [Merrow](srd_monsters_merrow.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Littoral, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Charme-personne
 
-- SRD: [Charm Person](srd_spells_charm_person.md)
+- Alias: [Charm Person](srd_spells_charm_person.md)
 
 -  Enchantement de niveau 1
 

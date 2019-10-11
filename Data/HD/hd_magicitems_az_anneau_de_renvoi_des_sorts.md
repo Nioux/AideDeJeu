@@ -4,7 +4,7 @@
 
 ### Anneau de renvoi des sorts
 
-- AltName: Ring of Spell Turning (SRD p237)
+- Alias: Ring of Spell Turning (SRD p237)
 - Source: (CDC p142)
 -  Anneau, légendaire (harmonisation requise)
 

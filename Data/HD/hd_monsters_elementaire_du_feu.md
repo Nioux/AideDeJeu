@@ -5,7 +5,7 @@
 # Élémentaire du feu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Fire Elemental](srd_monsters_fire_elemental.md)
+- Alias: [Fire Elemental](srd_monsters_fire_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 13

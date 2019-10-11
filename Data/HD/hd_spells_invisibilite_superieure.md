@@ -4,7 +4,7 @@
 
 # Invisibilité supérieure
 
-- SRD: [Greater Invisibility](srd_spells_greater_invisibility.md)
+- Alias: [Greater Invisibility](srd_spells_greater_invisibility.md)
 
 -  Illusion de niveau 4
 

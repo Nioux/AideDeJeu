@@ -4,7 +4,7 @@
 
 # Programmed Illusion
 
-- MDR: [Illusion programmée](hd_spells_illusion_programmee.md)
+- Alias: [Illusion programmée](hd_spells_illusion_programmee.md)
 - Source: (SRD p172)
 -  6th-level illusion
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Wraith
 
-- CEO: [Âme en peine](hd_monsters_ame_en_peine.md)
+- Alias: [Âme en peine](hd_monsters_ame_en_peine.md)
 -  Medium undead, neutral evil
 - **Armor Class** 13
 - **Hit Points** 67 (9d8 + 27)

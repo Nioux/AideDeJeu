@@ -4,7 +4,7 @@
 
 # Arcane Sword
 
-- MDR: [Épée magique](hd_spells_epee_magique.md)
+- Alias: [Épée magique](hd_spells_epee_magique.md)
 - Source: (SRD p119)
 -  7th-level evocation
 - **Casting Time :** 1 action

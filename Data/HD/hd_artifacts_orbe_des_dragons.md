@@ -4,7 +4,7 @@
 
 ## ORBE DES DRAGONS
 
-- AltName: Orb of Dragonkind (SRD p252)
+- Alias: Orb of Dragonkind (SRD p252)
 - Source: (CDC p192)
 
 #### Objet merveilleux, artefact (harmonisation requise)

@@ -5,7 +5,7 @@
 # Dryade
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dryad](srd_monsters_dryad.md)
+- Alias: [Dryad](srd_monsters_dryad.md)
 -  Fée de taille M, neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 11 (16 avec peau d'écorce)

@@ -5,7 +5,7 @@
 # Androsphinx
 
 - Source: (CEO p)(SRD p)
-- SRD: [Androsphinx](srd_monsters_androsphinx.md)
+- Alias: [Androsphinx](srd_monsters_androsphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Terrain** Désert chaud, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

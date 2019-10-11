@@ -5,7 +5,7 @@
 # Babouin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Baboon](srd_monsters_baboon.md)
+- Alias: [Baboon](srd_monsters_baboon.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Jungle
 - **Classe d'armure** 12

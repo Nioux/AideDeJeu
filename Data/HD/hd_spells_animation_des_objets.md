@@ -4,7 +4,7 @@
 
 # Animation des objets
 
-- SRD: [Animate Objects](srd_spells_animate_objects.md)
+- Alias: [Animate Objects](srd_spells_animate_objects.md)
 
 -  Transmutation de niveau 5
 

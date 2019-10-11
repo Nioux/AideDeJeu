@@ -4,7 +4,7 @@
 
 # Wish
 
-- MDR: [Souhait](hd_spells_souhait.md)
+- Alias: [Souhait](hd_spells_souhait.md)
 - Source: (SRD p193)
 -  9th-level conjuration
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 ## Gnome des roches
 
-- AltName: Rock Gnome (SRD p6)
+- Alias: Rock Gnome (SRD p6)
 - Source: (MDR p48)
 
 Les gnomes des roches sont naturellement plus inventifs et résistants que les autres gnomes.

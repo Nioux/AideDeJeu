@@ -4,7 +4,7 @@
 
 # Mass Suggestion
 
-- MDR: [Suggestion de groupe](hd_spells_suggestion_de_groupe.md)
+- Alias: [Suggestion de groupe](hd_spells_suggestion_de_groupe.md)
 - Source: (SRD p163)
 -  6th-level enchantment
 - **Casting Time :** 1 action

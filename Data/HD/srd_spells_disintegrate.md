@@ -4,7 +4,7 @@
 
 # Disintegrate
 
-- MDR: [Désintégration](hd_spells_desintegration.md)
+- Alias: [Désintégration](hd_spells_desintegration.md)
 - Source: (SRD p135)
 -  6th-level transmutation
 - **Casting Time :** 1 action

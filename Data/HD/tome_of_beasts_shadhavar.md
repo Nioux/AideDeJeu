@@ -5,7 +5,7 @@
 # Shadhavar
 
 - Source: (LDM p364)(TOB p344)
-- TOB: Shadhavar
+- Alias: Shadhavar
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (naturelle)
 - **Points de vie** 97 (13d10+26)

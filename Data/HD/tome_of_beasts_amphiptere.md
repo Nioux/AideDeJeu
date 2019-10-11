@@ -5,7 +5,7 @@
 # Amphiptère
 
 - Source: (LDM p15)(TOB p16)
-- TOB: Amphiptere
+- Alias: Amphiptere
 -  Bête de taille Moyenne (M), non alignée
 - **Terrain** Bois / Forêt, Littoral
 - **Classe d'armure** 15 (armure naturelle)

@@ -5,7 +5,7 @@
 # Étincelle
 
 - Source: (LDM p175)(TOB p357)
-- TOB: Spark
+- Alias: Spark
 -  Élémentaire de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d4+52)

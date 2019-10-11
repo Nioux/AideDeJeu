@@ -5,7 +5,7 @@
 # Momie auguste
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mummy Lord](srd_monsters_mummy_lord.md)
+- Alias: [Mummy Lord](srd_monsters_mummy_lord.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)

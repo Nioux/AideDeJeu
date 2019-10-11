@@ -4,7 +4,7 @@
 
 # Vampire Spawn
 
-- CEO: [Vampirien](hd_monsters_vampirien.md)
+- Alias: [Vampirien](hd_monsters_vampirien.md)
 -  Medium undead, neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 82 (11d8 + 33)

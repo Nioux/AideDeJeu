@@ -4,7 +4,7 @@
 
 # Harpy
 
-- CEO: [Harpie](hd_monsters_harpie.md)
+- Alias: [Harpie](hd_monsters_harpie.md)
 -  Medium monstrosity, chaotic evil
 - **Armor Class** 11
 - **Hit Points** 38 (7d8 + 7)

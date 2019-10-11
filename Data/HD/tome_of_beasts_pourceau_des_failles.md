@@ -5,7 +5,7 @@
 # Pourceau Des Failles
 
 - Source: (LDM p340)(TOB p326)
-- TOB: Rift Swine
+- Alias: Rift Swine
 -  Aberration de Grande taille (G), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (13d10+39)

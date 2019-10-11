@@ -4,7 +4,7 @@
 
 ### Harnois éthéré
 
-- AltName: Plate Armor of Etherealness (SRD p233)
+- Alias: Plate Armor of Etherealness (SRD p233)
 - Source: (CDC p168)
 -  Armure (harnois), légendaire (harmonisation requise)
 

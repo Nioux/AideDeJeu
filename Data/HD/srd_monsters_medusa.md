@@ -4,7 +4,7 @@
 
 # Medusa
 
-- CEO: [Méduse](hd_monsters_meduse.md)
+- Alias: [Méduse](hd_monsters_meduse.md)
 -  Medium monstrosity, lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 127 (17d8 + 51)

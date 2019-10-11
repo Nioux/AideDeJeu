@@ -4,7 +4,7 @@
 
 # Beacon of Hope
 
-- MDR: [Lueur d'espoir](hd_spells_lueur_despoir.md)
+- Alias: [Lueur d'espoir](hd_spells_lueur_despoir.md)
 - Source: (SRD p121)
 -  3th-level abjuration
 - **Casting Time :** 1 action

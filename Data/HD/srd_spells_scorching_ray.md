@@ -4,7 +4,7 @@
 
 # Scorching Ray
 
-- MDR: [Rayon ardent](hd_spells_rayon_ardent.md)
+- Alias: [Rayon ardent](hd_spells_rayon_ardent.md)
 - Source: (SRD p176)
 -  2nd-level evocation
 - **Casting Time :** 1 action

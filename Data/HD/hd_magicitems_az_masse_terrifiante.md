@@ -4,7 +4,7 @@
 
 ### Masse terrifiante
 
-- AltName: Mace of Terror (SRD p229)
+- Alias: Mace of Terror (SRD p229)
 - Source: (CDC p173)
 -  Arme (masse), rare (harmonisation requise)
 

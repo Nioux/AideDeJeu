@@ -4,7 +4,7 @@
 
 ### Points de vie temporaires
 
-- AltName: Temporary Hit Points
+- Alias: Temporary Hit Points
 - Source: (MDR p299)(SRD p98)
 
 Certains sorts et capacités spéciales confèrent des points de vie temporaires à une créature. Ces points de vie temporaires ne sont pas réellement des points de vie, mais plutôt une protection contre les dégâts, une réserve de points de vie qui évite à un personnage de subir véritablement des dégâts.

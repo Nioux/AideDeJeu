@@ -4,7 +4,7 @@
 
 # Blue Dragon Wyrmling
 
-- CEO: [Dragonnet bleu](hd_monsters_dragonnet_bleu.md)
+- Alias: [Dragonnet bleu](hd_monsters_dragonnet_bleu.md)
 -  Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 52 (8d8 + 16)

@@ -4,7 +4,7 @@
 
 # Spare the Dying
 
-- MDR: [Épargner les mourants](hd_spells_epargner_les_mourants.md)
+- Alias: [Épargner les mourants](hd_spells_epargner_les_mourants.md)
 - Source: (SRD p181)
 -  Necromancy cantrip
 - **Casting Time :** 1 action

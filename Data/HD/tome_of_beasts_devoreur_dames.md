@@ -5,7 +5,7 @@
 # Dévoreur D'Âmes
 
 - Source: (LDM p96)(TOB p356)
-- TOB: Soul Eater
+- Alias: Soul Eater
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16
 - **Points de vie** 104 (16d8+32)

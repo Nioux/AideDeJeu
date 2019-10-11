@@ -5,7 +5,7 @@
 # Drake Stellaire
 
 - Source: (LDM p157)(TOB p157)
-- TOB: Star Drake
+- Alias: Star Drake
 -  Dragon de Grande taille (G), neutre
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 19 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Instant Summons
 
-- MDR: [Convocations instantanées](hd_spells_convocations_instantanees.md)
+- Alias: [Convocations instantanées](hd_spells_convocations_instantanees.md)
 - Source: (SRD p157)
 -  6th-level conjuration (ritual)
 - **Casting Time :** 1 minute

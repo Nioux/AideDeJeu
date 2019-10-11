@@ -4,7 +4,7 @@
 
 # Invisible Stalker
 
-- CEO: [Traqueur invisible](hd_monsters_traqueur_invisible.md)
+- Alias: [Traqueur invisible](hd_monsters_traqueur_invisible.md)
 -  Medium elemental, neutral
 - **Armor Class** 14
 - **Hit Points** 104 (16d8 + 32)

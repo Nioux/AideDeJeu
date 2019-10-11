@@ -4,7 +4,7 @@
 
 # Contamination
 
-- SRD: [Harm](srd_spells_harm.md)
+- Alias: [Harm](srd_spells_harm.md)
 
 -  Nécromancie de niveau 6
 

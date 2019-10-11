@@ -5,7 +5,7 @@
 # Léchy
 
 - Source: (LDM p264)(TOB p272)
-- TOB: Leshy
+- Alias: Leshy
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)

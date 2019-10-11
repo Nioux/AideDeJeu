@@ -5,7 +5,7 @@
 # Glabrezu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Glabrezu](srd_monsters_glabrezu.md)
+- Alias: [Glabrezu](srd_monsters_glabrezu.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)

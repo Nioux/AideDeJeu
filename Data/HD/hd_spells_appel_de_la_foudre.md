@@ -4,7 +4,7 @@
 
 # Appel de la foudre
 
-- SRD: [Call Lightning](srd_spells_call_lightning.md)
+- Alias: [Call Lightning](srd_spells_call_lightning.md)
 
 -  Invocation de niveau 3
 

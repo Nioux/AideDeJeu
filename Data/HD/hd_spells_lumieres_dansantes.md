@@ -4,7 +4,7 @@
 
 # Lumières dansantes
 
-- SRD: [Dancing Lights](srd_spells_dancing_lights.md)
+- Alias: [Dancing Lights](srd_spells_dancing_lights.md)
 
 -  Évocation, tour de magie
 

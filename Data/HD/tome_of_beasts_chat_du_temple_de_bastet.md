@@ -5,7 +5,7 @@
 # Chat Du Temple De Bastet
 
 - Source: (LDM p56)(TOB p32)
-- TOB: Bastet Temple Cat
+- Alias: Bastet Temple Cat
 -  Créature montrueuse de Petite taille (P), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 40 (9d6+9)

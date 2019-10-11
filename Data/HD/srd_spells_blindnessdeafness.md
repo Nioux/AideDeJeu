@@ -4,7 +4,7 @@
 
 # Blindness/Deafness
 
-- MDR: [Cécité/Surdité](hd_spells_cecitesurdite.md)
+- Alias: [Cécité/Surdité](hd_spells_cecitesurdite.md)
 - Source: (SRD p122)
 -  2nd-level necromancy
 - **Casting Time :** 1 action

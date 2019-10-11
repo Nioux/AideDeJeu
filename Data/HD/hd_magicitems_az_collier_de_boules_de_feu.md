@@ -4,7 +4,7 @@
 
 ### Collier de boules de feu
 
-- AltName: Necklace of Fireballs (SRD p231)
+- Alias: Necklace of Fireballs (SRD p231)
 - Source: (CDC p160)
 -  Objet merveilleux, rare
 

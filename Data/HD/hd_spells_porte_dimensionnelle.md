@@ -4,7 +4,7 @@
 
 # Porte dimensionnelle
 
-- SRD: [Dimension Door](srd_spells_dimension_door.md)
+- Alias: [Dimension Door](srd_spells_dimension_door.md)
 
 -  Invocation de niveau 4
 

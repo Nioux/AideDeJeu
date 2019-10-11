@@ -4,7 +4,7 @@
 
 # Iron Golem
 
-- CEO: [Golem de fer](hd_monsters_golem_de_fer.md)
+- Alias: [Golem de fer](hd_monsters_golem_de_fer.md)
 -  Large construct, unaligned
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 210 (20d10 + 100)

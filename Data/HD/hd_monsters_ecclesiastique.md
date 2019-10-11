@@ -5,7 +5,7 @@
 # Ecclésiastique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Priest](srd_monsters_priest.md)
+- Alias: [Priest](srd_monsters_priest.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 13 (chemise de mailles)

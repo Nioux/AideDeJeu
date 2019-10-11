@@ -4,7 +4,7 @@
 
 # Otyugh
 
-- CEO: [Otyugh](hd_monsters_otyugh.md)
+- Alias: [Otyugh](hd_monsters_otyugh.md)
 -  Large aberration, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)

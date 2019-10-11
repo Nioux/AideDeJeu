@@ -4,7 +4,7 @@
 
 # Globe d'invulnérabilité
 
-- SRD: [Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)
+- Alias: [Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)
 
 -  Abjuration de niveau 6
 

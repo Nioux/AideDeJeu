@@ -4,7 +4,7 @@
 
 # Doux repos
 
-- SRD: [Gentle Repose](srd_spells_gentle_repose.md)
+- Alias: [Gentle Repose](srd_spells_gentle_repose.md)
 
 -  Nécromancie de niveau 2 (rituel)
 

@@ -4,7 +4,7 @@
 
 # Invoquer un céleste
 
-- SRD: [Conjure Celestial](srd_spells_conjure_celestial.md)
+- Alias: [Conjure Celestial](srd_spells_conjure_celestial.md)
 
 -  Invocation de niveau 7
 

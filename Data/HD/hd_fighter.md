@@ -5,7 +5,7 @@
 
 # Guerrier
 
-- AltName: Fighter (SRD p24)
+- Alias: Fighter (SRD p24)
 - Source: (MDR p160)
 
 En tant que guerrier, vous bénéficiez des aptitudes de classe suivantes.

@@ -5,7 +5,7 @@
 # Sanglier
 
 - Source: (CEO p)(SRD p)
-- SRD: [Boar](srd_monsters_boar.md)
+- Alias: [Boar](srd_monsters_boar.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Jungle
 - **Classe d'armure** 11 (armure naturelle)

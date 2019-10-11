@@ -4,7 +4,7 @@
 
 # Magic Mouth
 
-- MDR: [Bouche magique](hd_spells_bouche_magique.md)
+- Alias: [Bouche magique](hd_spells_bouche_magique.md)
 - Source: (SRD p161)
 -  2nd-level illusion (ritual)
 - **Casting Time :** 1 minute

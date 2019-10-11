@@ -4,7 +4,7 @@
 
 # Lenteur
 
-- SRD: [Slow](srd_spells_slow.md)
+- Alias: [Slow](srd_spells_slow.md)
 
 -  Transmutation de niveau 3
 

@@ -5,7 +5,7 @@
 # Ravenala
 
 - Source: (LDM p349)(TOB p321)
-- TOB: Ravenala
+- Alias: Ravenala
 -  Plante de Grande taille (G), non alignée
 - **Terrain** Jungle
 - **Classe d'armure** 15 (armure naturelle)

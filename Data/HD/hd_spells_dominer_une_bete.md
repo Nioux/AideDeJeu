@@ -4,7 +4,7 @@
 
 # Dominer une bête
 
-- SRD: [Dominate Beast](srd_spells_dominate_beast.md)
+- Alias: [Dominate Beast](srd_spells_dominate_beast.md)
 
 -  Enchantement de niveau 4
 

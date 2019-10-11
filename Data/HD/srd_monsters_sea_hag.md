@@ -4,7 +4,7 @@
 
 # Sea Hag
 
-- CEO: [Guenaude aquatique](hd_monsters_guenaude_aquatique.md)
+- Alias: [Guenaude aquatique](hd_monsters_guenaude_aquatique.md)
 -  Medium fey, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 52 (7d8 + 21)

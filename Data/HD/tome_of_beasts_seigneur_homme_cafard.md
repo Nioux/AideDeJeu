@@ -5,7 +5,7 @@
 # Seigneur Homme-Cafard
 
 - Source: (LDM p238)(TOB p329)
-- TOB: Roachling Lord
+- Alias: Roachling Lord
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)

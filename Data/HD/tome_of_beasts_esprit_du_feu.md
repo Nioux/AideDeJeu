@@ -5,7 +5,7 @@
 # Esprit Du Feu
 
 - Source: (LDM p174)(TOB p202)
-- TOB: Firegeist
+- Alias: Firegeist
 -  Élémentaire de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 87 (25d6)

@@ -5,7 +5,7 @@
 # Panthère
 
 - Source: (CEO p)(SRD p)
-- SRD: [Panther](srd_monsters_panther.md)
+- Alias: [Panther](srd_monsters_panther.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12

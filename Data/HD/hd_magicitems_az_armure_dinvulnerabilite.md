@@ -4,7 +4,7 @@
 
 ### Armure d'invulnérabilité
 
-- AltName: Armor of Invulnerability (SRD p208)
+- Alias: Armor of Invulnerability (SRD p208)
 - Source: (CDC p145)
 -  Armure (harnois), légendaire (harmonisation requise)
 

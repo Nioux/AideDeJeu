@@ -4,7 +4,7 @@
 
 # Gladiator
 
-- CEO: [Gladiateur](hd_monsters_gladiateur.md)
+- Alias: [Gladiateur](hd_monsters_gladiateur.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 16 (studded leather, shield)
 - **Hit Points** 112 (15d8 + 45)

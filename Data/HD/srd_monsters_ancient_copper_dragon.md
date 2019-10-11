@@ -4,7 +4,7 @@
 
 # Ancient Copper Dragon
 
-- CEO: [Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)
+- Alias: [Dragon de cuivre vénérable](hd_monsters_dragon_de_cuivre_venerable.md)
 -  Gargantuan dragon, chaotic good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 350 (20d20 + 140)

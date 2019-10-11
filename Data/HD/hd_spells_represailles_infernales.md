@@ -4,7 +4,7 @@
 
 # Représailles infernales
 
-- SRD: [Hellish Rebuke](srd_spells_hellish_rebuke.md)
+- Alias: [Hellish Rebuke](srd_spells_hellish_rebuke.md)
 
 -  Évocation de niveau 1
 

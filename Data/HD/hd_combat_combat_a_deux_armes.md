@@ -4,7 +4,7 @@
 
 #### Combat à deux armes
 
-- AltName: Two-Weapon Fighting (SRD p95)
+- Alias: Two-Weapon Fighting (SRD p95)
 - Source: (MDR p292)
 
 Quand vous choisissez l'action attaquer et que vous utilisez pour attaquer une arme de corps-à-corps légère que vous tenez dans une main, vous pouvez utiliser une action bonus pour attaquer avec une autre arme légère de corps-à-corps que vous tenez dans votre autre main. Vous n'ajoutez pas votre modificateur de caractéristique aux dégâts de cette attaque bonus, sauf si ce modificateur est négatif.

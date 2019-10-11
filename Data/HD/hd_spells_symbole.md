@@ -4,7 +4,7 @@
 
 # Symbole
 
-- SRD: [Symbol](srd_spells_symbol.md)
+- Alias: [Symbol](srd_spells_symbol.md)
 
 -  Abjuration de niveau 7
 

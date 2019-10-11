@@ -4,7 +4,7 @@
 
 # Sacred Flame
 
-- MDR: [Flamme sacrée](hd_spells_flamme_sacree.md)
+- Alias: [Flamme sacrée](hd_spells_flamme_sacree.md)
 - Source: (SRD p176)
 -  Evocation cantrip
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Subek
 
 - Source: (LDM p375)(TOB p371)
-- TOB: Subek
+- Alias: Subek
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
 - **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)

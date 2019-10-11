@@ -4,7 +4,7 @@
 
 ### Ceinturon de force de géant des nuages
 
-- AltName: Belt of Cloud Giant Strength (SRD p211)
+- Alias: Belt of Cloud Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, légendaire (harmonisation requise)
 

@@ -5,7 +5,7 @@
 # Tertre errant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shambling Mound](srd_monsters_shambling_mound.md)
+- Alias: [Shambling Mound](srd_monsters_shambling_mound.md)
 -  Plante de taille G, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)

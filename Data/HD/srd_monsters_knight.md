@@ -4,7 +4,7 @@
 
 # Knight
 
-- CEO: [Chevalier](hd_monsters_chevalier.md)
+- Alias: [Chevalier](hd_monsters_chevalier.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 18 (plate)
 - **Hit Points** 52 (8d8 + 16)

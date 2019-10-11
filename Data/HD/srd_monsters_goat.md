@@ -4,7 +4,7 @@
 
 # Goat
 
-- CEO: [Chèvre](hd_monsters_chevre.md)
+- Alias: [Chèvre](hd_monsters_chevre.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 4 (1d8)

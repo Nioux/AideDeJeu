@@ -4,7 +4,7 @@
 
 # Blight
 
-- MDR: [Flétrissement](hd_spells_fletrissement.md)
+- Alias: [Flétrissement](hd_spells_fletrissement.md)
 - Source: (SRD p122)
 -  4th-level necromancy
 - **Casting Time :** 1 action

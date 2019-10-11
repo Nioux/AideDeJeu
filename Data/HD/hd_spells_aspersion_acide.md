@@ -4,7 +4,7 @@
 
 # Aspersion acide
 
-- SRD: [Acid Splash](srd_spells_acid_splash.md)
+- Alias: [Acid Splash](srd_spells_acid_splash.md)
 
 -  Invocation , tour de magie
 

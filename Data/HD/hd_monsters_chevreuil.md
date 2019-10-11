@@ -5,7 +5,7 @@
 # Chevreuil
 
 - Source: (CEO p)(SRD p)
-- SRD: [Deer](srd_monsters_deer.md)
+- Alias: [Deer](srd_monsters_deer.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13

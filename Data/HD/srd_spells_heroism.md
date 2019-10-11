@@ -4,7 +4,7 @@
 
 # Heroism
 
-- MDR: [Héroïsme](hd_spells_heroisme.md)
+- Alias: [Héroïsme](hd_spells_heroisme.md)
 - Source: (SRD p154)
 -  1st-level enchantment
 - **Casting Time :** 1 action

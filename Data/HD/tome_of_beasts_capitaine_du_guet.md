@@ -5,7 +5,7 @@
 # Capitaine Du Guet
 
 - Source: (LDM p418)(TOB p419)
-- TOB: City Watch Captain
+- Alias: City Watch Captain
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal neutre
 - **Classe d'armure** 17 (armure d'écailles)
 - **Points de vie** 91 (14d8 + 28)

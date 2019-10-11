@@ -5,7 +5,7 @@
 # Cavalier De Baba Yaga, Base
 
 - Source: (LDM p267)(TOB p30)
-- TOB: Baba Yaga's Horsemen, Base
+- Alias: Baba Yaga's Horsemen, Base
 -  Fée de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 20 (harnois et bouclier)
 - **Points de vie** 171 (18d8+90)

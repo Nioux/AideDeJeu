@@ -4,7 +4,7 @@
 
 # Poison Spray
 
-- MDR: [Bouffée de poison](hd_spells_bouffee_de_poison.md)
+- Alias: [Bouffée de poison](hd_spells_bouffee_de_poison.md)
 - Source: (SRD p169)
 -  Conjuration cantrip
 - **Casting Time :** 1 action

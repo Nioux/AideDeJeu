@@ -4,7 +4,7 @@
 
 #### Armes improvisées
 
-- AltName: Improvised Weapons (SRD p65)
+- Alias: Improvised Weapons (SRD p65)
 - Source: (MDR p228)
 
 Il peut arriver que les personnages n'aient pas leurs armes avec eux et doivent se contenter de ce qu'ils ont sous la main. Une arme improvisée peut être n'importe quel objet que vous pouvez tenir à une ou [deux mains](hd_weapons_a_deux_mains.md), comme un éclat de verre, un pied de table, une poêle, une roue de chariot ou un cadavre de gobelin.

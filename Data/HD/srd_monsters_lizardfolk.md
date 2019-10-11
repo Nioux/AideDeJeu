@@ -4,7 +4,7 @@
 
 # Lizardfolk
 
-- CEO: [Homme-lézard](hd_monsters_homme_lezard.md)
+- Alias: [Homme-lézard](hd_monsters_homme_lezard.md)
 -  Medium humanoid (lizardfolk), neutral
 - **Armor Class** 15 (natural armor, shield)
 - **Hit Points** 22 (4d8 + 4)

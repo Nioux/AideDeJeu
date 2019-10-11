@@ -5,7 +5,7 @@
 # Zaratan
 
 - Source: (LDM p414)(TOB p414)
-- TOB: Zaratan
+- Alias: Zaratan
 -  Créature monstrueuse (titan) de taille Gigantesque (Gig), non alignée
 - **Terrain** Mer / Océan
 - **Classe d'armure** 25 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Explosion occulte
 
-- SRD: [Eldritch Blast](srd_spells_eldritch_blast.md)
+- Alias: [Eldritch Blast](srd_spells_eldritch_blast.md)
 
 -  Évocation, tour de magie
 

@@ -4,7 +4,7 @@
 
 ### Chemise de mailles elfique
 
-- AltName: Elven Chain (SRD p220)
+- Alias: Elven Chain (SRD p220)
 - Source: (CDC p160)
 -  Armure (chemise de mailles), rare
 

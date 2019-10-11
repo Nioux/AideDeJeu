@@ -4,7 +4,7 @@
 
 # Kraken
 
-- CEO: [Kraken](hd_monsters_kraken.md)
+- Alias: [Kraken](hd_monsters_kraken.md)
 -  Gargantuan monstrosity (titan), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 472 (27d20 + 189)

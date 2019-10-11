@@ -4,7 +4,7 @@
 
 # Guérison de groupe
 
-- SRD: [Mass Heal](srd_spells_mass_heal.md)
+- Alias: [Mass Heal](srd_spells_mass_heal.md)
 
 -  Évocation de niveau 9
 

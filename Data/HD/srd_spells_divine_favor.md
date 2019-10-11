@@ -4,7 +4,7 @@
 
 # Divine Favor
 
-- MDR: [Faveur divine](hd_spells_faveur_divine.md)
+- Alias: [Faveur divine](hd_spells_faveur_divine.md)
 - Source: (SRD p136)
 -  1st-level evocation
 - **Casting Time :** 1 bonus action

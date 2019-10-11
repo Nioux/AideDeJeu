@@ -4,7 +4,7 @@
 
 ### Anneau de chaleur
 
-- AltName: Ring of Warmth (SRD p238)
+- Alias: Ring of Warmth (SRD p238)
 - Source: (CDC p139)
 -  Anneau, peu courant (harmonisation requise)
 

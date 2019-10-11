@@ -5,7 +5,7 @@
 # Zombi Nihilethique
 
 - Source: (LDM p9)(TOB p9)
-- TOB: Nihilethic Zombie
+- Alias: Nihilethic Zombie
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 9 (armure naturelle)

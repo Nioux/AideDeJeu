@@ -4,7 +4,7 @@
 
 # Voir l'invisible
 
-- SRD: [See Invisibility](srd_spells_see_invisibility.md)
+- Alias: [See Invisibility](srd_spells_see_invisibility.md)
 
 -  Divination de niveau 2
 

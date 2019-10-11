@@ -5,7 +5,7 @@
 # Mngwa
 
 - Source: (LDM p305)(TOB p293)
-- TOB: Mngwa
+- Alias: Mngwa
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16

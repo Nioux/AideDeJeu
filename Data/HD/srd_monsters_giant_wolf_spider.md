@@ -4,7 +4,7 @@
 
 # Giant Wolf Spider
 
-- CEO: [Araignée-loup géante](hd_monsters_araignee_loup_geante.md)
+- Alias: [Araignée-loup géante](hd_monsters_araignee_loup_geante.md)
 - Source: (SRD p381)
 -  Medium beast, unaligned
 - **Armor Class** 13

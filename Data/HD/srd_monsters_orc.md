@@ -4,7 +4,7 @@
 
 # Orc
 
-- CEO: [Orc](hd_monsters_orc.md)
+- Alias: [Orc](hd_monsters_orc.md)
 -  Medium humanoid (orc), chaotic evil
 - **Armor Class** 13 (hide armor)
 - **Hit Points** 15 (2d8 + 6)

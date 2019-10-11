@@ -4,7 +4,7 @@
 
 ### Ceinturon de force de géant des collines
 
-- AltName: Belt of Hill Giant Strength (SRD p211)
+- Alias: Belt of Hill Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, rare (harmonisation requise)
 

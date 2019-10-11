@@ -4,7 +4,7 @@
 
 # Quipper
 
-- CEO: [Piranha](hd_monsters_piranha.md)
+- Alias: [Piranha](hd_monsters_piranha.md)
 -  Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 1 (1d4 - 1)

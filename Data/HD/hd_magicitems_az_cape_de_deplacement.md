@@ -4,7 +4,7 @@
 
 ### Cape de déplacement
 
-- AltName: Cloak of Displacement (SRD p214)
+- Alias: Cloak of Displacement (SRD p214)
 - Source: (CDC p154)
 -  Objet merveilleux, rare (harmonisation requise)
 

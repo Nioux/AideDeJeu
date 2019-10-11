@@ -4,7 +4,7 @@
 
 # Dragon Turtle
 
-- CEO: [Dragon-tortue](hd_monsters_dragon_tortue.md)
+- Alias: [Dragon-tortue](hd_monsters_dragon_tortue.md)
 -  Gargantuan dragon, neutral
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 341 (22d20 + 110)

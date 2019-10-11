@@ -4,7 +4,7 @@
 
 # Mule
 
-- CEO: [Mule](hd_monsters_mule.md)
+- Alias: [Mule](hd_monsters_mule.md)
 -  Medium beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 11 (2d8 + 2)

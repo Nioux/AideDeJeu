@@ -5,7 +5,7 @@
 # Blaireau géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Badger](srd_monsters_giant_badger.md)
+- Alias: [Giant Badger](srd_monsters_giant_badger.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10

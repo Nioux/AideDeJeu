@@ -4,7 +4,7 @@
 
 # Antipathy/Sympathy
 
-- MDR: [Répulsion/attirance](hd_spells_repulsionattirance.md)
+- Alias: [Répulsion/attirance](hd_spells_repulsionattirance.md)
 - Source: (SRD p117)
 -  8th-level enchantment
 - **Casting Time :** 1 hour

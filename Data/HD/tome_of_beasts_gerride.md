@@ -5,7 +5,7 @@
 # Gerridé
 
 - Source: (LDM p210)(TOB p212)
-- TOB: Gerridae
+- Alias: Gerridae
 -  Fée de Grande taille (G), neutre
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 14

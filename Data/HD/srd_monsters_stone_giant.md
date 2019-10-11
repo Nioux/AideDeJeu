@@ -4,7 +4,7 @@
 
 # Stone Giant
 
-- CEO: [Géant des pierres](hd_monsters_geant_des_pierres.md)
+- Alias: [Géant des pierres](hd_monsters_geant_des_pierres.md)
 -  Huge giant, neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 126 (11d12 + 55)

@@ -4,7 +4,7 @@
 
 # Giant Scorpion
 
-- CEO: [Scorpion géant](hd_monsters_scorpion_geant.md)
+- Alias: [Scorpion géant](hd_monsters_scorpion_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (7d10 + 14)

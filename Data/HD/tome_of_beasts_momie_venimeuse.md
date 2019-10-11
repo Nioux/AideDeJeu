@@ -5,7 +5,7 @@
 # Momie Venimeuse
 
 - Source: (LDM p307)(TOB p299)
-- TOB: Venomous Mummy
+- Alias: Venomous Mummy
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Terrain** Désert chaud, Ruines souterraines
 - **Classe d'armure** 11 (armure naturelle)

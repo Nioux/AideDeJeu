@@ -4,7 +4,7 @@
 
 # Sanctuaire
 
-- SRD: [Sanctuary](srd_spells_sanctuary.md)
+- Alias: [Sanctuary](srd_spells_sanctuary.md)
 
 -  Abjuration de niveau 1
 

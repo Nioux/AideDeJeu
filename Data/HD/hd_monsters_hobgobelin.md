@@ -5,7 +5,7 @@
 # Hobgobelin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hobgoblin](srd_monsters_hobgoblin.md)
+- Alias: [Hobgoblin](srd_monsters_hobgoblin.md)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 18 (bouclier, cotte de mailles)

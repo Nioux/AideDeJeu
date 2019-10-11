@@ -5,7 +5,7 @@
 # Mante obscure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Darkmantle](srd_monsters_darkmantle.md)
+- Alias: [Darkmantle](srd_monsters_darkmantle.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 11

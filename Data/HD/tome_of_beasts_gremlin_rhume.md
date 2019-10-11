@@ -5,7 +5,7 @@
 # Gremlin Rhumé
 
 - Source: (LDM p227)(TOB p239)
-- TOB: Rum Gremlin
+- Alias: Rum Gremlin
 -  Fée de Très Petite taille  (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)

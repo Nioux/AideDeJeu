@@ -4,7 +4,7 @@
 
 # Invoquer des animaux
 
-- SRD: [Conjure Animals](srd_spells_conjure_animals.md)
+- Alias: [Conjure Animals](srd_spells_conjure_animals.md)
 
 -  Invocation de niveau 3
 

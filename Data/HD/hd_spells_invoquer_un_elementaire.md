@@ -4,7 +4,7 @@
 
 # Invoquer un élémentaire
 
-- SRD: [Conjure Elemental](srd_spells_conjure_elemental.md)
+- Alias: [Conjure Elemental](srd_spells_conjure_elemental.md)
 
 -  Invocation de niveau 5
 

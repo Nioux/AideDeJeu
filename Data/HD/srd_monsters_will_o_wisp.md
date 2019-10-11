@@ -4,7 +4,7 @@
 
 # Will-o'-Wisp
 
-- CEO: [Feu follet](hd_monsters_feu_follet.md)
+- Alias: [Feu follet](hd_monsters_feu_follet.md)
 -  Tiny undead, chaotic evil
 - **Armor Class** 19
 - **Hit Points** 22 (9d4)

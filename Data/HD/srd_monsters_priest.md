@@ -4,7 +4,7 @@
 
 # Priest
 
-- CEO: [Ecclésiastique](hd_monsters_ecclesiastique.md)
+- Alias: [Ecclésiastique](hd_monsters_ecclesiastique.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 13 (chain shirt)
 - **Hit Points** 27 (5d8 + 5)

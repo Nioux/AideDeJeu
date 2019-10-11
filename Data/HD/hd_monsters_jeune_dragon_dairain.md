@@ -5,7 +5,7 @@
 # Jeune dragon d'airain
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
+- Alias: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Rêve
 
-- SRD: [Dream](srd_spells_dream.md)
+- Alias: [Dream](srd_spells_dream.md)
 
 -  Illusion de niveau 5
 

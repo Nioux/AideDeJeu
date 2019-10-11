@@ -5,7 +5,7 @@
 # Vouivre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wyvern](srd_monsters_wyvern.md)
+- Alias: [Wyvern](srd_monsters_wyvern.md)
 -  Dragon de taille G, non-alignée
 - **Terrain** Littoral, Montagnes
 - **Classe d'armure** 13 (armure naturelle)

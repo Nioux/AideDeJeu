@@ -4,7 +4,7 @@
 
 # Clairvoyance
 
-- SRD: [Clairvoyance](srd_spells_clairvoyance.md)
+- Alias: [Clairvoyance](srd_spells_clairvoyance.md)
 
 -  Divination de niveau 3
 

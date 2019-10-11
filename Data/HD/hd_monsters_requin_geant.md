@@ -5,7 +5,7 @@
 # Requin géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Shark](srd_monsters_giant_shark.md)
+- Alias: [Giant Shark](srd_monsters_giant_shark.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)

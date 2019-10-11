@@ -5,7 +5,7 @@
 # Murène Dragon
 
 - Source: (LDM p147)(TOB p146)
-- TOB: Dragon Eel
+- Alias: Dragon Eel
 -  Dragon de Très Grande taille (TG), neutre
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)

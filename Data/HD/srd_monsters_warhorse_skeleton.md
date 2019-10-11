@@ -4,7 +4,7 @@
 
 # Warhorse Skeleton
 
-- CEO: [Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)
+- Alias: [Squelette cheval de guerre](hd_monsters_squelette_cheval_de_guerre.md)
 -  Large undead, lawful evil
 - **Armor Class** 13 (barding scraps)
 - **Hit Points** 22 (3d10 + 6)

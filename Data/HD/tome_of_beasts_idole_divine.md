@@ -5,7 +5,7 @@
 # Idole Divine
 
 - Source: (LDM p248)(TOB p255)
-- TOB: Idolic Deity
+- Alias: Idolic Deity
 -  Créature artificielle de Petite taille (P), neutre mauvaise
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)

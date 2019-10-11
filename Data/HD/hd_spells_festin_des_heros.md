@@ -4,7 +4,7 @@
 
 # Festin des héros
 
-- SRD: [Heroes' Feast](srd_spells_heroes_feast.md)
+- Alias: [Heroes' Feast](srd_spells_heroes_feast.md)
 
 -  Invocation de niveau 6
 

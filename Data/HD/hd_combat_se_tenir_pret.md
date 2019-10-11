@@ -4,7 +4,7 @@
 
 ### Se tenir prêt
 
-- AltName: Ready (SRD p93)
+- Alias: Ready (SRD p93)
 - Source: (MDR p290)
 
 Il peut vous arriver de vouloir surprendre un ennemi ou attendre une configuration particulière avant d'agir. Pour cela, vous devez choisir l'action se tenir prêt pendant votre tour. Cette action vous permet d'utiliser votre réaction avant le début de votre prochain tour.

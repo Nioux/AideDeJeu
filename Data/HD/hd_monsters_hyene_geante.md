@@ -5,7 +5,7 @@
 # Hyène géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Hyena](srd_monsters_giant_hyena.md)
+- Alias: [Giant Hyena](srd_monsters_giant_hyena.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

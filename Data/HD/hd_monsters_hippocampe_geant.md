@@ -5,7 +5,7 @@
 # Hippocampe géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
+- Alias: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)

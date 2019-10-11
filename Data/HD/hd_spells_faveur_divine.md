@@ -4,7 +4,7 @@
 
 # Faveur divine
 
-- SRD: [Divine Favor](srd_spells_divine_favor.md)
+- Alias: [Divine Favor](srd_spells_divine_favor.md)
 
 -  Évocation de niveau 1
 

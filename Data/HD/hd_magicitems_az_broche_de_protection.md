@@ -4,7 +4,7 @@
 
 ### Broche de protection
 
-- AltName: Brooch of Shielding (SRD p212)
+- Alias: Brooch of Shielding (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

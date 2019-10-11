@@ -4,7 +4,7 @@
 
 # Sanctification
 
-- SRD: [Hallow](srd_spells_hallow.md)
+- Alias: [Hallow](srd_spells_hallow.md)
 
 -  Évocation de niveau 5
 

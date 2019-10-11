@@ -4,7 +4,7 @@
 
 # Rat
 
-- CEO: [Rat](hd_monsters_rat.md)
+- Alias: [Rat](hd_monsters_rat.md)
 -  Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 1 (1d4 - 1)

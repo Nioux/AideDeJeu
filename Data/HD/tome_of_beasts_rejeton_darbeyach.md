@@ -5,7 +5,7 @@
 # Rejeton D'Arbeyach
 
 - Source: (LDM p100)(TOB p97)
-- TOB: Spawn of Arbeyach
+- Alias: Spawn of Arbeyach
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 78 (12d8+24)

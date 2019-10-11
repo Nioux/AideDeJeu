@@ -4,7 +4,7 @@
 
 # Identify
 
-- MDR: [Identification](hd_spells_identification.md)
+- Alias: [Identification](hd_spells_identification.md)
 - Source: (SRD p155)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 minute

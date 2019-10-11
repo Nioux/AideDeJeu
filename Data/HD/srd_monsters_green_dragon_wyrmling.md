@@ -4,7 +4,7 @@
 
 # Green Dragon Wyrmling
 
-- CEO: [Dragonnet vert](hd_monsters_dragonnet_vert.md)
+- Alias: [Dragonnet vert](hd_monsters_dragonnet_vert.md)
 -  Medium dragon, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 38 (7d8 + 7)

@@ -4,7 +4,7 @@
 
 # Deva
 
-- CEO: [Déva](hd_monsters_deva.md)
+- Alias: [Déva](hd_monsters_deva.md)
 -  Medium celestial, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 136 (16d8 + 64)

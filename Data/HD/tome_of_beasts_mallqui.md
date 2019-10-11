@@ -5,7 +5,7 @@
 # Mallqui
 
 - Source: (LDM p279)(TOB p282)
-- TOB: Mallqui
+- Alias: Mallqui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Bandeau d'intelligence
 
-- AltName: Headband of Intellect (SRD p225)
+- Alias: Headband of Intellect (SRD p225)
 - Source: (CDC p148)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

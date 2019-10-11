@@ -4,7 +4,7 @@
 
 ### Armure de mithral
 
-- AltName: Mithral Armor (SRD p231)
+- Alias: Mithral Armor (SRD p231)
 - Source: (CDC p143)
 -  Armure (intermédiaire ou lourde mais pas en peau), peu courante
 

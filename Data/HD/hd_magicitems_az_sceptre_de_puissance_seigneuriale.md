@@ -4,7 +4,7 @@
 
 ### Sceptre de puissance seigneuriale
 
-- AltName: Rod of Lordly Might (SRD p240)
+- Alias: Rod of Lordly Might (SRD p240)
 - Source: (CDC p184)
 -  Sceptre, légendaire (harmonisation requise)
 

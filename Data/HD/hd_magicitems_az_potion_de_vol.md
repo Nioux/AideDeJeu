@@ -4,7 +4,7 @@
 
 ### Potion de vol
 
-- AltName: Potion of Flying (SRD p234)
+- Alias: Potion of Flying (SRD p234)
 - Source: (CDC p178)
 -  Potion, très rare
 

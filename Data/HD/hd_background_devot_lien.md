@@ -4,7 +4,7 @@
 
 ##### Lien
 
-- AltName: Bond  (SRD p61)
+- Alias: Bond  (SRD p61)
 - Source: (MDR p83)
 
 |d6|Lien|

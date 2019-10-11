@@ -4,7 +4,7 @@
 
 # Wight
 
-- CEO: [Nécrophage](hd_monsters_necrophage.md)
+- Alias: [Nécrophage](hd_monsters_necrophage.md)
 -  Medium undead, neutral evil
 - **Armor Class** 14 (studded leather)
 - **Hit Points** 45 (6d8 + 18)

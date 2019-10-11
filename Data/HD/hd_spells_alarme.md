@@ -4,7 +4,7 @@
 
 # Alarme
 
-- SRD: [Alarm](srd_spells_alarm.md)
+- Alias: [Alarm](srd_spells_alarm.md)
 
 -  Abjuration de niveau 1 (rituel)
 

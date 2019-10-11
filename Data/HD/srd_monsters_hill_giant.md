@@ -4,7 +4,7 @@
 
 # Hill Giant
 
-- CEO: [Géant des collines](hd_monsters_geant_des_collines.md)
+- Alias: [Géant des collines](hd_monsters_geant_des_collines.md)
 -  Huge giant, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 105 (10d12 + 40)

@@ -4,7 +4,7 @@
 
 ### Potion de clairvoyance
 
-- AltName: Potion of Clairvoyance (SRD p233)
+- Alias: Potion of Clairvoyance (SRD p233)
 - Source: (CDC p177)
 -  Potion, rare
 

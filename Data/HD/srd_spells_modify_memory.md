@@ -4,7 +4,7 @@
 
 # Modify Memory
 
-- MDR: [Modification de mémoire](hd_spells_modification_de_memoire.md)
+- Alias: [Modification de mémoire](hd_spells_modification_de_memoire.md)
 - Source: (SRD p166)
 -  5th-level enchantment
 - **Casting Time :** 1 action

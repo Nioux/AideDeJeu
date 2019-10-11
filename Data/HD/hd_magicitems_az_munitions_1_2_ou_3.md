@@ -4,7 +4,7 @@
 
 ### Munitions +1, +2 ou +3
 
-- AltName: Ammunition, +1, +2, or +3 (SRD p207)
+- Alias: Ammunition, +1, +2, or +3 (SRD p207)
 - Source: (CDC p174)
 -  Arme (n'importe quelle munition), peu courante (+1), rare (+2) ou très rare (+3)
 

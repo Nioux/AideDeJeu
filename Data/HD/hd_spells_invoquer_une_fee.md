@@ -4,7 +4,7 @@
 
 # Invoquer une fée
 
-- SRD: [Conjure Fey](srd_spells_conjure_fey.md)
+- Alias: [Conjure Fey](srd_spells_conjure_fey.md)
 
 -  Invocation de niveau 6
 

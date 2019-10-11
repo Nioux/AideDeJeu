@@ -4,7 +4,7 @@
 
 # Giant Octopus
 
-- CEO: [Pieuvre géante](hd_monsters_pieuvre_geante.md)
+- Alias: [Pieuvre géante](hd_monsters_pieuvre_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 52 (8d10 + 8)

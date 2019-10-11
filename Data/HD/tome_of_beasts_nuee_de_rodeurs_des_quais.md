@@ -5,7 +5,7 @@
 # Nuée De Rôdeurs Des Quais
 
 - Source: (LDM p350)(TOB p407)
-- TOB: Wharfling Swarm
+- Alias: Wharfling Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 63 (14d10 - 14)

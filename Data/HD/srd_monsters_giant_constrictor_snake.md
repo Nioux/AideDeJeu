@@ -4,7 +4,7 @@
 
 # Giant Constrictor Snake
 
-- CEO: [Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)
+- Alias: [Serpent constricteur géant](hd_monsters_serpent_constricteur_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 60 (8d12 + 8)

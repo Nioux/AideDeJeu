@@ -5,7 +5,7 @@
 # Homoncule
 
 - Source: (CEO p)(SRD p)
-- SRD: [Homunculus](srd_monsters_homunculus.md)
+- Alias: [Homunculus](srd_monsters_homunculus.md)
 -  Créature artificielle de taille TP, neutre
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Azer
 
-- CEO: [Azer](hd_monsters_azer.md)
+- Alias: [Azer](hd_monsters_azer.md)
 - Source: (SRD p265)
 -  Medium elemental, lawful neutral
 - **Armor Class** 17 (natural armor, shield)

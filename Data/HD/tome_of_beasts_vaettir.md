@@ -5,7 +5,7 @@
 # Vaettir
 
 - Source: (LDM p393)(TOP p395)
-- TOB: Vaettir
+- Alias: Vaettir
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 120 (16d8+48)

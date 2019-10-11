@@ -4,7 +4,7 @@
 
 # Création ou destruction d'eau
 
-- SRD: [Create or Destroy Water](srd_spells_create_or_destroy_water.md)
+- Alias: [Create or Destroy Water](srd_spells_create_or_destroy_water.md)
 
 -  Transmutation de niveau 1
 

@@ -5,7 +5,7 @@
 # Imy-Ut Ushabti
 
 - Source: (LDM p249)(TOB p256)
-- TOB: Imy-Ut Ushabti
+- Alias: Imy-Ut Ushabti
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 97 (15d8+30)

@@ -4,7 +4,7 @@
 
 ### Baguette du mage de guerre +1, +2 ou +3
 
-- AltName: Wand of the War Mage, +1, +2, or +3 (SRD p249)
+- Alias: Wand of the War Mage, +1, +2, or +3 (SRD p249)
 - Source: (CDC p147)
 -  Baguette, peu courant (+1), rare (+2) ou très rare (+3) (harmonisation avec un lanceur de sorts exigée)
 

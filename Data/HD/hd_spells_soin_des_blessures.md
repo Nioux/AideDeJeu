@@ -4,7 +4,7 @@
 
 # Soin des blessures
 
-- SRD: [Cure Wounds](srd_spells_cure_wounds.md)
+- Alias: [Cure Wounds](srd_spells_cure_wounds.md)
 
 -  Évocation de niveau 1
 

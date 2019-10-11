@@ -4,7 +4,7 @@
 
 # Etherealness
 
-- MDR: [Forme éthérée](hd_spells_forme_etheree.md)
+- Alias: [Forme éthérée](hd_spells_forme_etheree.md)
 - Source: (SRD p140)
 -  7th-level transmutation
 - **Casting Time :** 1 action

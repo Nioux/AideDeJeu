@@ -4,7 +4,7 @@
 
 # Tree Stride
 
-- MDR: [Passage par les arbres](hd_spells_passage_par_les_arbres.md)
+- Alias: [Passage par les arbres](hd_spells_passage_par_les_arbres.md)
 - Source: (SRD p188)
 -  5th-level conjuration
 - **Casting Time :** 1 action

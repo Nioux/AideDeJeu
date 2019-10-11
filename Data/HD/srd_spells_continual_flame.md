@@ -4,7 +4,7 @@
 
 # Continual Flame
 
-- MDR: [Flamme éternelle](hd_spells_flamme_eternelle.md)
+- Alias: [Flamme éternelle](hd_spells_flamme_eternelle.md)
 - Source: (SRD p130)
 -  2nd-level evocation
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Loxoda
 
 - Source: (LDM p276)(TOB p280)
-- TOB: Loxoda
+- Alias: Loxoda
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure naturelle)

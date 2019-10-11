@@ -4,7 +4,7 @@
 
 # Camel
 
-- CEO: [Chameau](hd_monsters_chameau.md)
+- Alias: [Chameau](hd_monsters_chameau.md)
 -  Large beast, unaligned
 - **Armor Class** 9
 - **Hit Points** 15 (2d10 + 4)

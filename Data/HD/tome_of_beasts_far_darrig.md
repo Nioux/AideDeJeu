@@ -5,7 +5,7 @@
 # Far Darrig
 
 - Source: (LDM p177)(TOB p179)
-- TOB: Far Darrig
+- Alias: Far Darrig
 -  Fée de Petite taille (P), neutre
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de peau)

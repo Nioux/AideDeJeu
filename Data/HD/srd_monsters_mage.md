@@ -4,7 +4,7 @@
 
 # Mage
 
-- CEO: [Mage](hd_monsters_mage.md)
+- Alias: [Mage](hd_monsters_mage.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with
 - **Hit Points** 40 (9d8)

@@ -4,7 +4,7 @@
 
 # Skeleton
 
-- CEO: [Squelette](hd_monsters_squelette.md)
+- Alias: [Squelette](hd_monsters_squelette.md)
 -  Medium undead, lawful evil
 - **Armor Class** 13 (armor scraps)
 - **Hit Points** 13 (2d8 + 4)

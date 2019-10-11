@@ -5,7 +5,7 @@
 # Dragonnet bleu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
+- Alias: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 17 (armure naturelle)

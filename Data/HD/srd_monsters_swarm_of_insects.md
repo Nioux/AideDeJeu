@@ -4,7 +4,7 @@
 
 # Swarm of Insects
 
-- CEO: [Nuée d'insectes](hd_monsters_nuee_dinsectes.md)
+- Alias: [Nuée d'insectes](hd_monsters_nuee_dinsectes.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (5d8)

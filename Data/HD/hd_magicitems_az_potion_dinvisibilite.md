@@ -4,7 +4,7 @@
 
 ### Potion d'invisibilité
 
-- AltName: Potion of Invisibility (SRD p234)
+- Alias: Potion of Invisibility (SRD p234)
 - Source: (CDC p179)
 -  Potion, très rare
 

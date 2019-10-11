@@ -4,7 +4,7 @@
 
 # Young Green Dragon
 
-- CEO: [Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)
+- Alias: [Jeune dragon vert](hd_monsters_jeune_dragon_vert.md)
 -  Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 136 (16d10 + 48)

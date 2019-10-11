@@ -4,7 +4,7 @@
 
 # Darkmantle
 
-- CEO: [Mante obscure](hd_monsters_mante_obscure.md)
+- Alias: [Mante obscure](hd_monsters_mante_obscure.md)
 -  Small monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 22 (5d6 + 5)

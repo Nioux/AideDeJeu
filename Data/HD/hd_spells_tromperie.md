@@ -4,7 +4,7 @@
 
 # Tromperie
 
-- SRD: [Mislead](srd_spells_mislead.md)
+- Alias: [Mislead](srd_spells_mislead.md)
 
 -  Illusion de niveau 5
 

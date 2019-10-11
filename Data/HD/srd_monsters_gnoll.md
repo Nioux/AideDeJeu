@@ -4,7 +4,7 @@
 
 # Gnoll
 
-- CEO: [Gnoll](hd_monsters_gnoll.md)
+- Alias: [Gnoll](hd_monsters_gnoll.md)
 -  Medium humanoid (gnoll), chaotic evil
 - **Armor Class** 15 (hide armor, shield)
 - **Hit Points** 22 (5d8)

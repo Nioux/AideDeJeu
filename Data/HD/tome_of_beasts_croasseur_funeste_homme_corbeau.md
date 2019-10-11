@@ -5,7 +5,7 @@
 # Croasseur Funeste Homme-Corbeau
 
 - Source: (LDM p241)(TOB p324)
-- TOB: Ravenfolk Doom Croaker
+- Alias: Ravenfolk Doom Croaker
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)

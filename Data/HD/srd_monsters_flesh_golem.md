@@ -4,7 +4,7 @@
 
 # Flesh Golem
 
-- CEO: [Golem de chair](hd_monsters_golem_de_chair.md)
+- Alias: [Golem de chair](hd_monsters_golem_de_chair.md)
 -  Medium construct, neutral
 - **Armor Class** 9
 - **Hit Points** 93 (11d8 + 44)

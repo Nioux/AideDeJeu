@@ -4,7 +4,7 @@
 
 # Image majeure
 
-- SRD: [Major Image](srd_spells_major_image.md)
+- Alias: [Major Image](srd_spells_major_image.md)
 
 -  Illusion de niveau 3
 

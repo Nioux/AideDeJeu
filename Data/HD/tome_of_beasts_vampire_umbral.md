@@ -5,7 +5,7 @@
 # Vampire Umbral
 
 - Source: (LDM p396)(TOB p397)
-- TOB: Umbral Vampire
+- Alias: Umbral Vampire
 -  Fiélon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 84 (13d8+26)

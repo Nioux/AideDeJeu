@@ -4,7 +4,7 @@
 
 # Nuée de météores
 
-- SRD: [Meteor Swarm](srd_spells_meteor_swarm.md)
+- Alias: [Meteor Swarm](srd_spells_meteor_swarm.md)
 
 -  Évocation de niveau 9
 

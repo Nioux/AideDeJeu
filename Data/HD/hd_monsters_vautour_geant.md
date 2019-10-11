@@ -5,7 +5,7 @@
 # Vautour géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Vulture](srd_monsters_giant_vulture.md)
+- Alias: [Giant Vulture](srd_monsters_giant_vulture.md)
 -  Bête de taille G, Neutre Mauvais
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10

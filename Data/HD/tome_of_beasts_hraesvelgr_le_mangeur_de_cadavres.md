@@ -5,7 +5,7 @@
 # Hraesvelgr Le Mangeur De Cadavres
 
 - Source: (LDM p204)(TOB p224)
-- TOB: Hraesvelgr the Corpse Swallower
+- Alias: Hraesvelgr the Corpse Swallower
 -  Géant (métamorphe (TG), titan) de Très Grande taille (TG), neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 241 (12d12+105)

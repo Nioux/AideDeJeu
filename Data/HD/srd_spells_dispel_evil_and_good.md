@@ -4,7 +4,7 @@
 
 # Dispel Evil and Good
 
-- MDR: [Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)
+- Alias: [Dissipation du mal et du bien](hd_spells_dissipation_du_mal_et_du_bien.md)
 - Source: (SRD p136)
 -  5th-level abjuration
 - **Casting Time :** 1 action

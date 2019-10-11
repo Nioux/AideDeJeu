@@ -5,7 +5,7 @@
 # Garde animé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shield Guardian](srd_monsters_shield_guardian.md)
+- Alias: [Shield Guardian](srd_monsters_shield_guardian.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)

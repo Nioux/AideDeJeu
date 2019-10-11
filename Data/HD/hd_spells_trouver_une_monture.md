@@ -4,7 +4,7 @@
 
 # Trouver une monture
 
-- SRD: [Find Steed](srd_spells_find_steed.md)
+- Alias: [Find Steed](srd_spells_find_steed.md)
 
 -  Invocation de niveau 2
 

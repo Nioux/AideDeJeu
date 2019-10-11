@@ -55,6 +55,14 @@ namespace AideDeJeu.Views.Library
             //LoadPageAsync();
         }
 
+        public ItemPage(ItemViewModel itemViewModel)
+        {
+            BindingContext = this;
+            InitializeComponent();
+            Path = itemViewModel.Item.Id;
+            //Item = itemViewModel;
+        }
+
         //protected override void OnAppearing()
         //{
         //    base.OnAppearing();

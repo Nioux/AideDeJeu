@@ -5,7 +5,7 @@
 # Jeune dragon vert
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Green Dragon](srd_monsters_young_green_dragon.md)
+- Alias: [Young Green Dragon](srd_monsters_young_green_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)

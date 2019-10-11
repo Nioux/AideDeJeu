@@ -4,7 +4,7 @@
 
 # Storm of Vengeance
 
-- MDR: [Tempête vengeresse](hd_spells_tempete_vengeresse.md)
+- Alias: [Tempête vengeresse](hd_spells_tempete_vengeresse.md)
 - Source: (SRD p183)
 -  9th-level conjuration
 - **Casting Time :** 1 action

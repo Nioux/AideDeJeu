@@ -5,7 +5,7 @@
 # Dragon d'argent vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
+- Alias: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 22 (armure naturelle)

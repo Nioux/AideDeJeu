@@ -4,7 +4,7 @@
 
 # Blink
 
-- MDR: [Clignotement](hd_spells_clignotement.md)
+- Alias: [Clignotement](hd_spells_clignotement.md)
 - Source: (SRD p122)
 -  3th-level transmutation
 - **Casting Time :** 1 action

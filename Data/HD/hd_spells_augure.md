@@ -4,7 +4,7 @@
 
 # Augure
 
-- SRD: [Augury](srd_spells_augury.md)
+- Alias: [Augury](srd_spells_augury.md)
 
 -  Divination de niveau 2
 

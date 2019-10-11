@@ -4,7 +4,7 @@
 
 ### Terrain difficile
 
-- AltName: Difficult Terrain (SRD p91)
+- Alias: Difficult Terrain (SRD p91)
 - Source: (MDR p286)
 
 Un combat se déroule rarement sur le sol d'une pièce vide ou dans une plaine bien dégagée. Que ce soit sur le sol irrégulier d'une caverne, au milieu d'une forêt envahie de bruyères, ou dans un escalier glissant, un champ de bataille est généralement un terrain difficile.

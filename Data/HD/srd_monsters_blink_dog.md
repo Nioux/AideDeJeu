@@ -4,7 +4,7 @@
 
 # Blink Dog
 
-- CEO: [Chien esquiveur](hd_monsters_chien_esquiveur.md)
+- Alias: [Chien esquiveur](hd_monsters_chien_esquiveur.md)
 -  Medium fey, lawful good
 - **Armor Class** 13
 - **Hit Points** 22 (4d8 + 4)

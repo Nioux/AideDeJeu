@@ -5,7 +5,7 @@
 # Nuée de rats
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
+- Alias: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 10

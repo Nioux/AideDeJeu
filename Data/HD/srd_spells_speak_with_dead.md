@@ -4,7 +4,7 @@
 
 # Speak with Dead
 
-- MDR: [Communication avec les morts](hd_spells_communication_avec_les_morts.md)
+- Alias: [Communication avec les morts](hd_spells_communication_avec_les_morts.md)
 - Source: (SRD p181)
 -  3th-level necromancy
 - **Casting Time :** 1 action

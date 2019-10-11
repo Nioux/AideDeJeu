@@ -5,7 +5,7 @@
 # Grick
 
 - Source: (CEO p)(SRD p)
-- SRD: [Grick](srd_monsters_grick.md)
+- Alias: [Grick](srd_monsters_grick.md)
 -  Créature monstrueuse de taille M, neutre
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)

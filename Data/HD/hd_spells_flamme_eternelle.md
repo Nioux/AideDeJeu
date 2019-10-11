@@ -4,7 +4,7 @@
 
 # Flamme éternelle
 
-- SRD: [Continual Flame](srd_spells_continual_flame.md)
+- Alias: [Continual Flame](srd_spells_continual_flame.md)
 
 -  Évocation de niveau 2
 

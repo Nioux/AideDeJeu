@@ -4,7 +4,7 @@
 
 # Sphère de feu
 
-- SRD: [Flaming Sphere](srd_spells_flaming_sphere.md)
+- Alias: [Flaming Sphere](srd_spells_flaming_sphere.md)
 
 -  Invocation de niveau 2
 

@@ -4,7 +4,7 @@
 
 # Bouche magique
 
-- SRD: [Magic Mouth](srd_spells_magic_mouth.md)
+- Alias: [Magic Mouth](srd_spells_magic_mouth.md)
 
 -  Illusion de niveau 2 (rituel)
 

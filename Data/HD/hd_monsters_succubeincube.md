@@ -5,7 +5,7 @@
 # Succube/Incube
 
 - Source: (CEO p)(SRD p)
-- SRD: [Succubus](srd_monsters_succubus.md)
+- Alias: [Succubus](srd_monsters_succubus.md)
 -  Fiélon (métamorphe) de taille M, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)

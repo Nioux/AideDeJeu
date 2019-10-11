@@ -5,7 +5,7 @@
 # Férocien
 
 - Source: (LDM p195)(TOB p338)
-- TOB: Savager
+- Alias: Savager
 -  Bête de Grande taille (G), neutre mauvaise
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)

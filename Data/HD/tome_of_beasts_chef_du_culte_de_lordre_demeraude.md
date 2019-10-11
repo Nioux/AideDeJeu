@@ -5,7 +5,7 @@
 # Chef Du Culte De L'Ordre D'Émeraude
 
 - Source: (LDM p419)(TOB p421)
-- TOB: Emerald Order Cult Leader
+- Alias: Emerald Order Cult Leader
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal neutre
 - **Classe d'armure** 14 (cuirasse)
 - **Points de vie** 117 (18d8 + 36)

@@ -4,7 +4,7 @@
 
 # Lesser Restoration
 
-- MDR: [Restauration inférieure](hd_spells_restauration_inferieure.md)
+- Alias: [Restauration inférieure](hd_spells_restauration_inferieure.md)
 - Source: (SRD p158)
 -  2nd-level abjuration
 - **Casting Time :** 1 action

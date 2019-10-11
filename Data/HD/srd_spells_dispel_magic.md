@@ -4,7 +4,7 @@
 
 # Dispel Magic
 
-- MDR: [Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)
+- Alias: [Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)
 - Source: (SRD p136)
 -  3th-level abjuration
 - **Casting Time :** 1 action

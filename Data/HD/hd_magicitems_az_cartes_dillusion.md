@@ -4,7 +4,7 @@
 
 ### Cartes d'illusion
 
-- AltName: Deck of Illusions (SRD p216)
+- Alias: Deck of Illusions (SRD p216)
 - Source: (CDC p156)
 -  Objet merveilleux, peu courant
 

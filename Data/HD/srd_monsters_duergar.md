@@ -4,7 +4,7 @@
 
 # Duergar
 
-- CEO: [Duergar](hd_monsters_duergar.md)
+- Alias: [Duergar](hd_monsters_duergar.md)
 -  Medium humanoid (dwarf), lawful evil
 - **Armor Class** 16 (scale mail, shield)
 - **Hit Points** 26 (4d8 + 8)

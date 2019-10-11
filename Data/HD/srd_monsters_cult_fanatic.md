@@ -4,7 +4,7 @@
 
 # Cult Fanatic
 
-- CEO: [Fanatique de secte](hd_monsters_fanatique_de_secte.md)
+- Alias: [Fanatique de secte](hd_monsters_fanatique_de_secte.md)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 13 (leather armor)
 - **Hit Points** 33 (6d8 + 6)

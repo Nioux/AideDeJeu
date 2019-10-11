@@ -5,7 +5,7 @@
 # Chouette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Owl](srd_monsters_owl.md)
+- Alias: [Owl](srd_monsters_owl.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 11

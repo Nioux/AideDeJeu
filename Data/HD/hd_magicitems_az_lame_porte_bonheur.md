@@ -4,7 +4,7 @@
 
 ### Lame porte-bonheur
 
-- AltName: Luck Blade (SRD p229)
+- Alias: Luck Blade (SRD p229)
 - Source: (CDC p170)
 -  Arme (épée), légendaire (harmonisation requise)
 

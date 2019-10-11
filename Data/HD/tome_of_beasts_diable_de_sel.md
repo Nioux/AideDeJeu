@@ -5,7 +5,7 @@
 # Diable De Sel
 
 - Source: (LDM p110)(TOB p113)
-- TOB: Salt Devil
+- Alias: Salt Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)

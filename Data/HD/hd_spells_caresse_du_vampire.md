@@ -4,7 +4,7 @@
 
 # Caresse du vampire
 
-- SRD: [Vampiric Touch](srd_spells_vampiric_touch.md)
+- Alias: [Vampiric Touch](srd_spells_vampiric_touch.md)
 
 -  Nécromancie de niveau 3
 

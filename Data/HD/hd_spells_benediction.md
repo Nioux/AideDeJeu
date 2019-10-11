@@ -4,7 +4,7 @@
 
 # Bénédiction
 
-- SRD: [Bless](srd_spells_bless.md)
+- Alias: [Bless](srd_spells_bless.md)
 
 -  Enchantement de niveau 1
 

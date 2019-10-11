@@ -4,7 +4,7 @@
 
 # Métamorphose suprême
 
-- SRD: [True Polymorph](srd_spells_true_polymorph.md)
+- Alias: [True Polymorph](srd_spells_true_polymorph.md)
 
 -  Transmutation de niveau 9
 

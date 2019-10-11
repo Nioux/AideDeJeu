@@ -5,7 +5,7 @@
 # Criard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shrieker](srd_monsters_shrieker.md)
+- Alias: [Shrieker](srd_monsters_shrieker.md)
 -  Plante de taille M, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5

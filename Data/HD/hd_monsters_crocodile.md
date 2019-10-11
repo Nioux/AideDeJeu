@@ -5,7 +5,7 @@
 # Crocodile
 
 - Source: (CEO p)(SRD p)
-- SRD: [Crocodile](srd_monsters_crocodile.md)
+- Alias: [Crocodile](srd_monsters_crocodile.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12 (armure naturelle)

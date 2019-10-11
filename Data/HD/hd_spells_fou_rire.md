@@ -4,7 +4,7 @@
 
 # Fou rire
 
-- SRD: [Hideous Laughter](srd_spells_hideous_laughter.md)
+- Alias: [Hideous Laughter](srd_spells_hideous_laughter.md)
 
 -  Enchantement de niveau 1
 

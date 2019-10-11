@@ -4,7 +4,7 @@
 
 # Création de mort-vivant
 
-- SRD: [Create Undead](srd_spells_create_undead.md)
+- Alias: [Create Undead](srd_spells_create_undead.md)
 
 -  Nécromancie de niveau 6
 

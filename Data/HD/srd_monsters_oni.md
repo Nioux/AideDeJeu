@@ -4,7 +4,7 @@
 
 # Oni
 
-- CEO: [Oni](hd_monsters_oni.md)
+- Alias: [Oni](hd_monsters_oni.md)
 -  Large giant, lawful evil
 - **Armor Class** 16 (chain mail)
 - **Hit Points** 110 (13d10 + 39)

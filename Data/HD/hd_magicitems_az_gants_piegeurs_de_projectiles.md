@@ -4,7 +4,7 @@
 
 ### Gants piégeurs de projectiles
 
-- AltName: Gloves of Missile Snaring (SRD p224)
+- Alias: Gloves of Missile Snaring (SRD p224)
 - Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

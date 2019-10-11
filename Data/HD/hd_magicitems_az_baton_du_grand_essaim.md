@@ -4,7 +4,7 @@
 
 ### Bâton du grand essaim
 
-- AltName: Staff of Swarming Insects (SRD p244)
+- Alias: Staff of Swarming Insects (SRD p244)
 - Source: (CDC p150)
 -  Bâton, rare (harmonisation requise)
 

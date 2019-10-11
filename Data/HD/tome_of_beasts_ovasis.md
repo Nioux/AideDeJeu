@@ -5,7 +5,7 @@
 # Ovasis
 
 - Source: (LDM p336)(TOB p310)
-- TOB: Oozasis
+- Alias: Oozasis
 -  Vase de taille Gigantesque (Gig), non alignée
 - **Terrain** Désert chaud, Mangrove / Marécage
 - **Classe d'armure** 7

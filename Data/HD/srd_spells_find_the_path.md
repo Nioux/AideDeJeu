@@ -4,7 +4,7 @@
 
 # Find the Path
 
-- MDR: [Trouver un chemin](hd_spells_trouver_un_chemin.md)
+- Alias: [Trouver un chemin](hd_spells_trouver_un_chemin.md)
 - Source: (SRD p143)
 -  6th-level divination
 - **Casting Time :** 1 minute

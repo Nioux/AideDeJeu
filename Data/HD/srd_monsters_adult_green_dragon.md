@@ -4,7 +4,7 @@
 
 # Adult Green Dragon
 
-- CEO: [Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)
+- Alias: [Dragon vert adulte](hd_monsters_dragon_vert_adulte.md)
 -  Huge dragon, lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 207 (18d12 + 90)

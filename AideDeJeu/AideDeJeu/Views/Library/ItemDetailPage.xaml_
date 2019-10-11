@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
-             x:Class="AideDeJeu.Views.Library.ItemDetailPage"
+             x:Class="AideDeJeu.Views.Library.ItemDetailPageOld"
              Title="{Binding Title}"
              Icon="spell_book.png"
              x:Name="This">

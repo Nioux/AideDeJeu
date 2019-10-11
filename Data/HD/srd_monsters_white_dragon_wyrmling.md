@@ -4,7 +4,7 @@
 
 # White Dragon Wyrmling
 
-- CEO: [Dragonnet blanc](hd_monsters_dragonnet_blanc.md)
+- Alias: [Dragonnet blanc](hd_monsters_dragonnet_blanc.md)
 -  Medium dragon, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 32 (5d8 + 10)

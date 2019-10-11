@@ -4,7 +4,7 @@
 
 ### Anneau de résistance
 
-- AltName: Ring of Resistance (SRD p237)
+- Alias: Ring of Resistance (SRD p237)
 - Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 

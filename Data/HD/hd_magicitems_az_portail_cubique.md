@@ -4,7 +4,7 @@
 
 ### Portail cubique
 
-- AltName: Cubic Gate (SRD p215)
+- Alias: Cubic Gate (SRD p215)
 - Source: (CDC p177)
 -  Objet merveilleux, légendaire
 

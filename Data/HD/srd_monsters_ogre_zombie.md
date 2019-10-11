@@ -4,7 +4,7 @@
 
 # Ogre Zombie
 
-- CEO: [Zombi ogre](hd_monsters_zombi_ogre.md)
+- Alias: [Zombi ogre](hd_monsters_zombi_ogre.md)
 -  Large undead, neutral evil
 - **Armor Class** 8
 - **Hit Points** 85 (9d10 + 36)

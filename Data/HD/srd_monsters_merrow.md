@@ -4,7 +4,7 @@
 
 # Merrow
 
-- CEO: [Merrow](hd_monsters_merrow.md)
+- Alias: [Merrow](hd_monsters_merrow.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 45 (6d10 + 12)

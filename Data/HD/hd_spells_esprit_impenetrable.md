@@ -4,7 +4,7 @@
 
 # Esprit impénétrable
 
-- SRD: [Mind Blank](srd_spells_mind_blank.md)
+- Alias: [Mind Blank](srd_spells_mind_blank.md)
 
 -  Abjuration de niveau 8
 

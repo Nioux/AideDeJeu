@@ -5,7 +5,7 @@
 # Diable barbu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bearded Devil](srd_monsters_bearded_devil.md)
+- Alias: [Bearded Devil](srd_monsters_bearded_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)

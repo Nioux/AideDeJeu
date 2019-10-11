@@ -4,7 +4,7 @@
 
 # Contacter un autre plan
 
-- SRD: [Contact Other Plane](srd_spells_contact_other_plane.md)
+- Alias: [Contact Other Plane](srd_spells_contact_other_plane.md)
 
 -  Divination de niveau 5 (rituel)
 

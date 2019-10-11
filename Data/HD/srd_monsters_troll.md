@@ -4,7 +4,7 @@
 
 # Troll
 
-- CEO: [Troll](hd_monsters_troll.md)
+- Alias: [Troll](hd_monsters_troll.md)
 -  Large giant, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 84 (8d10 + 40)

@@ -5,7 +5,7 @@
 # Ngobou
 
 - Source: (LDM p118)(TOB p115)
-- TOB: Ngobou
+- Alias: Ngobou
 -  Bête de Grande taille (G), non alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)

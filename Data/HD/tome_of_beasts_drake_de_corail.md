@@ -5,7 +5,7 @@
 # Drake De Corail
 
 - Source: (LDM p150)(TOB p150)
-- TOB: Coral Drake
+- Alias: Coral Drake
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)

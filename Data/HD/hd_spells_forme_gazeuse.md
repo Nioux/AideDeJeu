@@ -4,7 +4,7 @@
 
 # Forme gazeuse
 
-- SRD: [Gaseous Form](srd_spells_gaseous_form.md)
+- Alias: [Gaseous Form](srd_spells_gaseous_form.md)
 
 -  Transmutation de niveau 3
 

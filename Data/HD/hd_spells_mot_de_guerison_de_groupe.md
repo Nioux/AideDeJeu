@@ -4,7 +4,7 @@
 
 # Mot de guérison de groupe
 
-- SRD: [Mass Healing Word](srd_spells_mass_healing_word.md)
+- Alias: [Mass Healing Word](srd_spells_mass_healing_word.md)
 
 -  Évocation de niveau 3
 

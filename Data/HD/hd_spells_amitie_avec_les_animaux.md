@@ -4,7 +4,7 @@
 
 # Amitié avec les animaux
 
-- SRD: [Animal Friendship](srd_spells_animal_friendship.md)
+- Alias: [Animal Friendship](srd_spells_animal_friendship.md)
 
 -  Enchantement de niveau 1
 

@@ -5,7 +5,7 @@
 # Zombi
 
 - Source: (CEO p)(SRD p)
-- SRD: [Zombie](srd_monsters_zombie.md)
+- Alias: [Zombie](srd_monsters_zombie.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 8

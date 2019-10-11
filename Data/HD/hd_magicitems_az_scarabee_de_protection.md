@@ -4,7 +4,7 @@
 
 ### Scarabée de protection
 
-- AltName: Scarab of Protection (SRD p241)
+- Alias: Scarab of Protection (SRD p241)
 - Source: (CDC p184)
 -  Objet merveilleux, légendaire (harmonisation requise)
 

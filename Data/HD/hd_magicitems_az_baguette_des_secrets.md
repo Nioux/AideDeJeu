@@ -4,7 +4,7 @@
 
 ### Baguette des secrets
 
-- AltName: Wand of Secrets (SRD p249)
+- Alias: Wand of Secrets (SRD p249)
 - Source: (CDC p147)
 -  Baguette, peu courante
 

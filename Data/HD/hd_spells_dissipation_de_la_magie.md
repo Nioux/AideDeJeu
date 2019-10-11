@@ -4,7 +4,7 @@
 
 # Dissipation de la magie
 
-- SRD: [Dispel Magic](srd_spells_dispel_magic.md)
+- Alias: [Dispel Magic](srd_spells_dispel_magic.md)
 
 -  Abjuration de niveau 3
 

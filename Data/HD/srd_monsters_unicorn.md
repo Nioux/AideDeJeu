@@ -4,7 +4,7 @@
 
 # Unicorn
 
-- CEO: [Licorne](hd_monsters_licorne.md)
+- Alias: [Licorne](hd_monsters_licorne.md)
 -  Large celestial, lawful good
 - **Armor Class** 12
 - **Hit Points** 67 (9d10 + 18)

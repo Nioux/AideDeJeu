@@ -5,7 +5,7 @@
 # Goule De Fer
 
 - Source: (LDM p218)(TOB p221)
-- TOB: Ghoul, Iron
+- Alias: Ghoul, Iron
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)

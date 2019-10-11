@@ -4,7 +4,7 @@
 
 ### Gantelets de puissance d'ogre
 
-- AltName: Gauntlets of Ogre Power (SRD p223)
+- Alias: Gauntlets of Ogre Power (SRD p223)
 - Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

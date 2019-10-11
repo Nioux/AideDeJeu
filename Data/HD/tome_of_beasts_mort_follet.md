@@ -5,7 +5,7 @@
 # Mort Follet
 
 - Source: (LDM p312)(TOB p72)
-- TOB: Deathwisp
+- Alias: Deathwisp
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d8+33)

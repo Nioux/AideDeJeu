@@ -4,7 +4,7 @@
 
 # Branding Smite
 
-- MDR: [Frappe lumineuse](hd_spells_frappe_lumineuse.md)
+- Alias: [Frappe lumineuse](hd_spells_frappe_lumineuse.md)
 - Source: (SRD p123)
 -  2nd-level evocation
 - **Casting Time :** 1 bonus action

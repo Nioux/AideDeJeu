@@ -5,7 +5,7 @@
 # Chien-Anguille
 
 - Source: (LDM p59)(TOB p166)
-- TOB: Eel Hound
+- Alias: Eel Hound
 -  Fée de taille Moyenne (M), neutre
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Lien télépathique
 
-- SRD: [Telepathic Bond](srd_spells_telepathic_bond.md)
+- Alias: [Telepathic Bond](srd_spells_telepathic_bond.md)
 
 -  Divination de niveau 5 (rituel)
 

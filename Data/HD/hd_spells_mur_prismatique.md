@@ -4,7 +4,7 @@
 
 # Mur prismatique
 
-- SRD: [Prismatic Wall](srd_spells_prismatic_wall.md)
+- Alias: [Prismatic Wall](srd_spells_prismatic_wall.md)
 
 -  Abjuration de niveau 9
 

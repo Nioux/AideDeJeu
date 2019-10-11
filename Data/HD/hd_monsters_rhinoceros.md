@@ -5,7 +5,7 @@
 # Rhinocéros
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rhinoceros](srd_monsters_rhinoceros.md)
+- Alias: [Rhinoceros](srd_monsters_rhinoceros.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11 (armure naturelle)

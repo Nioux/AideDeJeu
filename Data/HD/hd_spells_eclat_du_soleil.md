@@ -4,7 +4,7 @@
 
 # Éclat du soleil
 
-- SRD: [Sunburst](srd_spells_sunburst.md)
+- Alias: [Sunburst](srd_spells_sunburst.md)
 
 -  Évocation de niveau 8
 

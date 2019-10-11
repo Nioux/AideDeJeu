@@ -4,7 +4,7 @@
 
 ### Huile éthérée
 
-- AltName: Oil of Etherealness (SRD p231)
+- Alias: Oil of Etherealness (SRD p231)
 - Source: (CDC p170)
 -  Potion, rare
 

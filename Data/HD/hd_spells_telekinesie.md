@@ -4,7 +4,7 @@
 
 # Télékinésie
 
-- SRD: [Telekinesis](srd_spells_telekinesis.md)
+- Alias: [Telekinesis](srd_spells_telekinesis.md)
 
 -  Transmutation de niveau 5
 

@@ -5,7 +5,7 @@
 
 # Halfelin
 
-- AltName: Halfling (SRD p4)
+- Alias: Halfling (SRD p4)
 - Source: (MDR p52)
 
 ## Traits des halfelins

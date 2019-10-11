@@ -4,7 +4,7 @@
 
 # Sahuagin
 
-- CEO: [Sahuagin](hd_monsters_sahuagin.md)
+- Alias: [Sahuagin](hd_monsters_sahuagin.md)
 -  Medium humanoid (sahuagin), lawful evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (4d8 + 4)

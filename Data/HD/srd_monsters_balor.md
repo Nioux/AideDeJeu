@@ -4,7 +4,7 @@
 
 # Balor
 
-- CEO: [Balor](hd_monsters_balor.md)
+- Alias: [Balor](hd_monsters_balor.md)
 - Source: (SRD p270)
 -  Huge fiend (demon), chaotic evil
 - **Armor Class** 19 (natural armor)

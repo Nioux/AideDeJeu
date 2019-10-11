@@ -4,7 +4,7 @@
 
 # Power Word Kill
 
-- MDR: [Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)
+- Alias: [Mot de pouvoir mortel](hd_spells_mot_de_pouvoir_mortel.md)
 - Source: (SRD p170)
 -  9th-level enchantment
 - **Casting Time :** 1 action

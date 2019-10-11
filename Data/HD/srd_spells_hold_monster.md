@@ -4,7 +4,7 @@
 
 # Hold Monster
 
-- MDR: [Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)
+- Alias: [Immobiliser un monstre](hd_spells_immobiliser_un_monstre.md)
 - Source: (SRD p154)
 -  5th-level enchantment
 - **Casting Time :** 1 action

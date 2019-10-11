@@ -5,7 +5,7 @@
 # Guenaude Des Sables
 
 - Source: (LDM p228)(TOB p245)
-- TOB: Sanf Hag
+- Alias: Sanf Hag
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)

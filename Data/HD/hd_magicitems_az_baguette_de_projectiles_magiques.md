@@ -4,7 +4,7 @@
 
 ### Baguette de projectiles magiques
 
-- AltName: Wand of Magic Missiles (SRD p249)
+- Alias: Wand of Magic Missiles (SRD p249)
 - Source: (CDC p146)
 -  Baguette, peu courante
 

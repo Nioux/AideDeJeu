@@ -4,7 +4,7 @@
 
 ## Nain des tertres
 
-- AltName: Hill Dwarf (SRD p3)
+- Alias: Hill Dwarf (SRD p3)
 - Source: (MDR p57)
 
 En tant que nain des tertres, vous avez des sens aiguisés, êtes très intuitif et vous faites preuve d'une résistance remarquable.

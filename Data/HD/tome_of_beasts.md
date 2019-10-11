@@ -47,7 +47,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nihileth<!--/AltName-->
+      - Alias: <!--AltName-->Nihileth<!--/AltName-->
 
 
 
@@ -351,7 +351,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nihilethic Zombie<!--/AltName-->
+      - Alias: <!--AltName-->Nihilethic Zombie<!--/AltName-->
 
 
 
@@ -542,7 +542,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ala<!--/AltName-->
+      - Alias: <!--AltName-->Ala<!--/AltName-->
 
 
 
@@ -717,7 +717,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Algorith<!--/AltName-->
+      - Alias: <!--AltName-->Algorith<!--/AltName-->
 
 
 
@@ -913,7 +913,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Alseid<!--/AltName-->
+      - Alias: <!--AltName-->Alseid<!--/AltName-->
 
 
 
@@ -1054,7 +1054,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Alseid grovekeeper<!--/AltName-->
+      - Alias: <!--AltName-->Alseid grovekeeper<!--/AltName-->
 
 
 
@@ -1218,7 +1218,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Deathcap Myconid<!--/AltName-->
+      - Alias: <!--AltName-->Deathcap Myconid<!--/AltName-->
 
 
 
@@ -1372,7 +1372,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Amphiptere<!--/AltName-->
+      - Alias: <!--AltName-->Amphiptere<!--/AltName-->
 
 
 
@@ -1528,7 +1528,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Andrenjinyi<!--/AltName-->
+      - Alias: <!--AltName-->Andrenjinyi<!--/AltName-->
 
 
 
@@ -1745,7 +1745,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Angatra<!--/AltName-->
+      - Alias: <!--AltName-->Angatra<!--/AltName-->
 
 
 
@@ -1913,7 +1913,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Angel, Chained<!--/AltName-->
+      - Alias: <!--AltName-->Angel, Chained<!--/AltName-->
 
 
 
@@ -2088,7 +2088,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fidele Angel<!--/AltName-->
+      - Alias: <!--AltName-->Fidele Angel<!--/AltName-->
 
 
 
@@ -2323,7 +2323,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Anubian<!--/AltName-->
+      - Alias: <!--AltName-->Anubian<!--/AltName-->
 
 
 
@@ -2496,7 +2496,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Putrid Haunt<!--/AltName-->
+      - Alias: <!--AltName-->Putrid Haunt<!--/AltName-->
 
 
 
@@ -2657,7 +2657,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Red-Banded Line Spider<!--/AltName-->
+      - Alias: <!--AltName-->Red-Banded Line Spider<!--/AltName-->
 
 
 
@@ -2813,7 +2813,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spider of Leng<!--/AltName-->
+      - Alias: <!--AltName-->Spider of Leng<!--/AltName-->
 
 
 
@@ -3032,7 +3032,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sand Spider<!--/AltName-->
+      - Alias: <!--AltName-->Sand Spider<!--/AltName-->
 
 
 
@@ -3197,7 +3197,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->J'Ba Fofi Spider<!--/AltName-->
+      - Alias: <!--AltName-->J'Ba Fofi Spider<!--/AltName-->
 
 
 
@@ -3354,7 +3354,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ghostwalk Spider<!--/AltName-->
+      - Alias: <!--AltName-->Ghostwalk Spider<!--/AltName-->
 
 
 
@@ -3552,7 +3552,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spider Thief<!--/AltName-->
+      - Alias: <!--AltName-->Spider Thief<!--/AltName-->
 
 
 
@@ -3730,7 +3730,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dragonleaf Tree<!--/AltName-->
+      - Alias: <!--AltName-->Dragonleaf Tree<!--/AltName-->
 
 
 
@@ -3892,7 +3892,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Feyward Tree<!--/AltName-->
+      - Alias: <!--AltName-->Feyward Tree<!--/AltName-->
 
 
 
@@ -4082,7 +4082,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Aridni<!--/AltName-->
+      - Alias: <!--AltName-->Aridni<!--/AltName-->
 
 
 
@@ -4260,7 +4260,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Asanbosam<!--/AltName-->
+      - Alias: <!--AltName-->Asanbosam<!--/AltName-->
 
 
 
@@ -4416,7 +4416,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gray Thirster<!--/AltName-->
+      - Alias: <!--AltName-->Gray Thirster<!--/AltName-->
 
 
 
@@ -4590,7 +4590,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Library Automaton<!--/AltName-->
+      - Alias: <!--AltName-->Library Automaton<!--/AltName-->
 
 
 
@@ -4744,7 +4744,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bagiennik<!--/AltName-->
+      - Alias: <!--AltName-->Bagiennik<!--/AltName-->
 
 
 
@@ -4893,7 +4893,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Abominable Beauty<!--/AltName-->
+      - Alias: <!--AltName-->Abominable Beauty<!--/AltName-->
 
 
 
@@ -5055,7 +5055,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Behtu<!--/AltName-->
+      - Alias: <!--AltName-->Behtu<!--/AltName-->
 
 
 
@@ -5218,7 +5218,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Beli<!--/AltName-->
+      - Alias: <!--AltName-->Beli<!--/AltName-->
 
 
 
@@ -5410,7 +5410,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Drowned Maiden<!--/AltName-->
+      - Alias: <!--AltName-->Drowned Maiden<!--/AltName-->
 
 
 
@@ -5602,7 +5602,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bereginyas<!--/AltName-->
+      - Alias: <!--AltName-->Bereginyas<!--/AltName-->
 
 
 
@@ -5756,7 +5756,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shadow Beast<!--/AltName-->
+      - Alias: <!--AltName-->Shadow Beast<!--/AltName-->
 
 
 
@@ -5946,7 +5946,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Blemmyes<!--/AltName-->
+      - Alias: <!--AltName-->Blemmyes<!--/AltName-->
 
 
 
@@ -6100,7 +6100,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Boloti<!--/AltName-->
+      - Alias: <!--AltName-->Boloti<!--/AltName-->
 
 
 
@@ -6270,7 +6270,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Water Leaper<!--/AltName-->
+      - Alias: <!--AltName-->Water Leaper<!--/AltName-->
 
 
 
@@ -6434,7 +6434,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Avatar of Boreas<!--/AltName-->
+      - Alias: <!--AltName-->Avatar of Boreas<!--/AltName-->
 
 
 
@@ -6683,7 +6683,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bucca<!--/AltName-->
+      - Alias: <!--AltName-->Bucca<!--/AltName-->
 
 
 
@@ -6840,7 +6840,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bouda<!--/AltName-->
+      - Alias: <!--AltName-->Bouda<!--/AltName-->
 
 
 
@@ -7050,7 +7050,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Grim Jester<!--/AltName-->
+      - Alias: <!--AltName-->Grim Jester<!--/AltName-->
 
 
 
@@ -7260,7 +7260,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Buraq<!--/AltName-->
+      - Alias: <!--AltName-->Buraq<!--/AltName-->
 
 
 
@@ -7458,7 +7458,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Cactid<!--/AltName-->
+      - Alias: <!--AltName-->Cactid<!--/AltName-->
 
 
 
@@ -7620,7 +7620,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Cambium<!--/AltName-->
+      - Alias: <!--AltName-->Cambium<!--/AltName-->
 
 
 
@@ -7839,7 +7839,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dogmole<!--/AltName-->
+      - Alias: <!--AltName-->Dogmole<!--/AltName-->
 
 
 
@@ -7986,7 +7986,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dogmole Juggernaut<!--/AltName-->
+      - Alias: <!--AltName-->Dogmole Juggernaut<!--/AltName-->
 
 
 
@@ -8154,7 +8154,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Redcap<!--/AltName-->
+      - Alias: <!--AltName-->Redcap<!--/AltName-->
 
 
 
@@ -8331,7 +8331,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bastet Temple Cat<!--/AltName-->
+      - Alias: <!--AltName-->Bastet Temple Cat<!--/AltName-->
 
 
 
@@ -8510,7 +8510,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Chelicerae<!--/AltName-->
+      - Alias: <!--AltName-->Chelicerae<!--/AltName-->
 
 
 
@@ -8718,7 +8718,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Chernomoi<!--/AltName-->
+      - Alias: <!--AltName-->Chernomoi<!--/AltName-->
 
 
 
@@ -8871,7 +8871,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Eel Hound<!--/AltName-->
+      - Alias: <!--AltName-->Eel Hound<!--/AltName-->
 
 
 
@@ -9025,7 +9025,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Temple Dog<!--/AltName-->
+      - Alias: <!--AltName-->Temple Dog<!--/AltName-->
 
 
 
@@ -9183,7 +9183,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Hulking Whelp<!--/AltName-->
+      - Alias: <!--AltName-->Hulking Whelp<!--/AltName-->
 
 
 
@@ -9343,7 +9343,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Chronalmental<!--/AltName-->
+      - Alias: <!--AltName-->Chronalmental<!--/AltName-->
 
 
 
@@ -9515,7 +9515,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Cikavak<!--/AltName-->
+      - Alias: <!--AltName-->Cikavak<!--/AltName-->
 
 
 
@@ -9666,7 +9666,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gnarljak<!--/AltName-->
+      - Alias: <!--AltName-->Gnarljak<!--/AltName-->
 
 
 
@@ -9827,7 +9827,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clurichaun<!--/AltName-->
+      - Alias: <!--AltName-->Clurichaun<!--/AltName-->
 
 
 
@@ -9999,7 +9999,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Possessed Pillar<!--/AltName-->
+      - Alias: <!--AltName-->Possessed Pillar<!--/AltName-->
 
 
 
@@ -10174,7 +10174,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bone Collective<!--/AltName-->
+      - Alias: <!--AltName-->Bone Collective<!--/AltName-->
 
 
 
@@ -10375,7 +10375,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shellycoat<!--/AltName-->
+      - Alias: <!--AltName-->Shellycoat<!--/AltName-->
 
 
 
@@ -10552,7 +10552,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Broodiken<!--/AltName-->
+      - Alias: <!--AltName-->Broodiken<!--/AltName-->
 
 
 
@@ -10709,7 +10709,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Garroter Crab<!--/AltName-->
+      - Alias: <!--AltName-->Garroter Crab<!--/AltName-->
 
 
 
@@ -10852,7 +10852,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bone Crab<!--/AltName-->
+      - Alias: <!--AltName-->Bone Crab<!--/AltName-->
 
 
 
@@ -11024,7 +11024,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Glass Gator<!--/AltName-->
+      - Alias: <!--AltName-->Glass Gator<!--/AltName-->
 
 
 
@@ -11196,7 +11196,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Burrowling<!--/AltName-->
+      - Alias: <!--AltName-->Burrowling<!--/AltName-->
 
 
 
@@ -11355,7 +11355,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dau<!--/AltName-->
+      - Alias: <!--AltName-->Dau<!--/AltName-->
 
 
 
@@ -11546,7 +11546,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ice Maiden<!--/AltName-->
+      - Alias: <!--AltName-->Ice Maiden<!--/AltName-->
 
 
 
@@ -11793,7 +11793,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Apau Perape<!--/AltName-->
+      - Alias: <!--AltName-->Apau Perape<!--/AltName-->
 
 
 
@@ -12003,7 +12003,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Berstuc<!--/AltName-->
+      - Alias: <!--AltName-->Berstuc<!--/AltName-->
 
 
 
@@ -12182,7 +12182,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sap Demon<!--/AltName-->
+      - Alias: <!--AltName-->Sap Demon<!--/AltName-->
 
 
 
@@ -12350,7 +12350,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kishi Demon<!--/AltName-->
+      - Alias: <!--AltName-->Kishi Demon<!--/AltName-->
 
 
 
@@ -12576,7 +12576,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Malakbel<!--/AltName-->
+      - Alias: <!--AltName-->Malakbel<!--/AltName-->
 
 
 
@@ -12762,7 +12762,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Psoglav Demon<!--/AltName-->
+      - Alias: <!--AltName-->Psoglav Demon<!--/AltName-->
 
 
 
@@ -12949,7 +12949,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rubezahl<!--/AltName-->
+      - Alias: <!--AltName-->Rubezahl<!--/AltName-->
 
 
 
@@ -13164,7 +13164,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Akyishigal, Demon Lord of Cockroaches<!--/AltName-->
+      - Alias: <!--AltName-->Akyishigal, Demon Lord of Cockroaches<!--/AltName-->
 
 
 
@@ -13390,7 +13390,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spawn of Akyishigal<!--/AltName-->
+      - Alias: <!--AltName-->Spawn of Akyishigal<!--/AltName-->
 
 
 
@@ -13553,7 +13553,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Alquam, Demon Lord of Night<!--/AltName-->
+      - Alias: <!--AltName-->Alquam, Demon Lord of Night<!--/AltName-->
 
 
 
@@ -13902,7 +13902,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Camazotz, Demon Lord of Bats and Fire<!--/AltName-->
+      - Alias: <!--AltName-->Camazotz, Demon Lord of Bats and Fire<!--/AltName-->
 
 
 
@@ -14170,7 +14170,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Skin Bat<!--/AltName-->
+      - Alias: <!--AltName-->Skin Bat<!--/AltName-->
 
 
 
@@ -14309,7 +14309,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mechuiti, Demon Lord of Apes<!--/AltName-->
+      - Alias: <!--AltName-->Mechuiti, Demon Lord of Apes<!--/AltName-->
 
 
 
@@ -14679,7 +14679,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Qorgeth, Demon Lord of the Devouring Worm<!--/AltName-->
+      - Alias: <!--AltName-->Qorgeth, Demon Lord of the Devouring Worm<!--/AltName-->
 
 
 
@@ -15010,7 +15010,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Derro Shadow Antipaladin<!--/AltName-->
+      - Alias: <!--AltName-->Derro Shadow Antipaladin<!--/AltName-->
 
 
 
@@ -15214,7 +15214,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Derro Fetal Savant<!--/AltName-->
+      - Alias: <!--AltName-->Derro Fetal Savant<!--/AltName-->
 
 
 
@@ -15388,7 +15388,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Soul Eater<!--/AltName-->
+      - Alias: <!--AltName-->Soul Eater<!--/AltName-->
 
 
 
@@ -15563,7 +15563,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Arbeyach<!--/AltName-->
+      - Alias: <!--AltName-->Arbeyach<!--/AltName-->
 
 
 
@@ -15820,7 +15820,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spawn of Arbeyach<!--/AltName-->
+      - Alias: <!--AltName-->Spawn of Arbeyach<!--/AltName-->
 
 
 
@@ -16001,7 +16001,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ia'Affrat<!--/AltName-->
+      - Alias: <!--AltName-->Ia'Affrat<!--/AltName-->
 
 
 
@@ -16212,7 +16212,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mammon<!--/AltName-->
+      - Alias: <!--AltName-->Mammon<!--/AltName-->
 
 
 
@@ -16540,7 +16540,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Totivillus, Scribe of Hell<!--/AltName-->
+      - Alias: <!--AltName-->Totivillus, Scribe of Hell<!--/AltName-->
 
 
 
@@ -16835,7 +16835,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Automata Devil<!--/AltName-->
+      - Alias: <!--AltName-->Automata Devil<!--/AltName-->
 
 
 
@@ -17050,7 +17050,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Chort Devil<!--/AltName-->
+      - Alias: <!--AltName-->Chort Devil<!--/AltName-->
 
 
 
@@ -17254,7 +17254,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Crystalline Devil<!--/AltName-->
+      - Alias: <!--AltName-->Crystalline Devil<!--/AltName-->
 
 
 
@@ -17476,7 +17476,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ink Devil<!--/AltName-->
+      - Alias: <!--AltName-->Ink Devil<!--/AltName-->
 
 
 
@@ -17681,7 +17681,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Salt Devil<!--/AltName-->
+      - Alias: <!--AltName-->Salt Devil<!--/AltName-->
 
 
 
@@ -17891,7 +17891,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gilded Devil<!--/AltName-->
+      - Alias: <!--AltName-->Gilded Devil<!--/AltName-->
 
 
 
@@ -18162,7 +18162,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Koralk (Harvester Devil)<!--/AltName-->
+      - Alias: <!--AltName-->Koralk (Harvester Devil)<!--/AltName-->
 
 
 
@@ -18342,7 +18342,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lunar Devil<!--/AltName-->
+      - Alias: <!--AltName-->Lunar Devil<!--/AltName-->
 
 
 
@@ -18576,7 +18576,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Orobas Devil<!--/AltName-->
+      - Alias: <!--AltName-->Orobas Devil<!--/AltName-->
 
 
 
@@ -18812,7 +18812,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mbielu<!--/AltName-->
+      - Alias: <!--AltName-->Mbielu<!--/AltName-->
 
 
 
@@ -18959,7 +18959,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ngobou<!--/AltName-->
+      - Alias: <!--AltName-->Ngobou<!--/AltName-->
 
 
 
@@ -19113,7 +19113,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spinosaurus<!--/AltName-->
+      - Alias: <!--AltName-->Spinosaurus<!--/AltName-->
 
 
 
@@ -19308,7 +19308,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Young Spinosaurus<!--/AltName-->
+      - Alias: <!--AltName-->Young Spinosaurus<!--/AltName-->
 
 
 
@@ -19458,7 +19458,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dipsa<!--/AltName-->
+      - Alias: <!--AltName-->Dipsa<!--/AltName-->
 
 
 
@@ -19619,7 +19619,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dissimortuum<!--/AltName-->
+      - Alias: <!--AltName-->Dissimortuum<!--/AltName-->
 
 
 
@@ -19779,7 +19779,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Domovoi<!--/AltName-->
+      - Alias: <!--AltName-->Domovoi<!--/AltName-->
 
 
 
@@ -19939,7 +19939,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Doppelrat<!--/AltName-->
+      - Alias: <!--AltName-->Doppelrat<!--/AltName-->
 
 
 
@@ -20093,7 +20093,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dorreq<!--/AltName-->
+      - Alias: <!--AltName-->Dorreq<!--/AltName-->
 
 
 
@@ -20267,7 +20267,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Adult Flame Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Adult Flame Dragon<!--/AltName-->
 
 
 
@@ -20495,7 +20495,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Flame Dragon Wyrmling<!--/AltName-->
+      - Alias: <!--AltName-->Flame Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -20650,7 +20650,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Young Flame Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Young Flame Dragon<!--/AltName-->
 
 
 
@@ -20824,7 +20824,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ancient Flame Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Ancient Flame Dragon<!--/AltName-->
 
 
 
@@ -21134,7 +21134,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Adult Mithral Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Adult Mithral Dragon<!--/AltName-->
 
 
 
@@ -21405,7 +21405,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Young Mithral Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Young Mithral Dragon<!--/AltName-->
 
 
 
@@ -21599,7 +21599,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ancient Mithral Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Ancient Mithral Dragon<!--/AltName-->
 
 
 
@@ -21991,7 +21991,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Adult Cave Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Adult Cave Dragon<!--/AltName-->
 
 
 
@@ -22267,7 +22267,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Cave Dragon Wyrmling<!--/AltName-->
+      - Alias: <!--AltName-->Cave Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -22447,7 +22447,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Young Cave Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Young Cave Dragon<!--/AltName-->
 
 
 
@@ -22657,7 +22657,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wind Dragon, Adult<!--/AltName-->
+      - Alias: <!--AltName-->Wind Dragon, Adult<!--/AltName-->
 
 
 
@@ -22926,7 +22926,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wind Dragon, Wyrmling<!--/AltName-->
+      - Alias: <!--AltName-->Wind Dragon, Wyrmling<!--/AltName-->
 
 
 
@@ -23088,7 +23088,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wind Dragon, Young<!--/AltName-->
+      - Alias: <!--AltName-->Wind Dragon, Young<!--/AltName-->
 
 
 
@@ -23288,7 +23288,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wind Dragon, Ancient<!--/AltName-->
+      - Alias: <!--AltName-->Wind Dragon, Ancient<!--/AltName-->
 
 
 
@@ -23602,7 +23602,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Adult Void Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Adult Void Dragon<!--/AltName-->
 
 
 
@@ -23864,7 +23864,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Void Dragon Wyrmling<!--/AltName-->
+      - Alias: <!--AltName-->Void Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -24049,7 +24049,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Young Void Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Young Void Dragon<!--/AltName-->
 
 
 
@@ -24253,7 +24253,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ancient Void Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Ancient Void Dragon<!--/AltName-->
 
 
 
@@ -24604,7 +24604,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Adult Sea Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Adult Sea Dragon<!--/AltName-->
 
 
 
@@ -24831,7 +24831,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sea Dragon Wyrmling<!--/AltName-->
+      - Alias: <!--AltName-->Sea Dragon Wyrmling<!--/AltName-->
 
 
 
@@ -24986,7 +24986,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Young Sea Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Young Sea Dragon<!--/AltName-->
 
 
 
@@ -25170,7 +25170,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ancient Sea Dragon<!--/AltName-->
+      - Alias: <!--AltName-->Ancient Sea Dragon<!--/AltName-->
 
 
 
@@ -25480,7 +25480,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dragon Eel<!--/AltName-->
+      - Alias: <!--AltName-->Dragon Eel<!--/AltName-->
 
 
 
@@ -25666,7 +25666,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lantern Dragonette<!--/AltName-->
+      - Alias: <!--AltName-->Lantern Dragonette<!--/AltName-->
 
 
 
@@ -25834,7 +25834,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ash Drake<!--/AltName-->
+      - Alias: <!--AltName-->Ash Drake<!--/AltName-->
 
 
 
@@ -26008,7 +26008,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Coral Drake<!--/AltName-->
+      - Alias: <!--AltName-->Coral Drake<!--/AltName-->
 
 
 
@@ -26190,7 +26190,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Paper Drake<!--/AltName-->
+      - Alias: <!--AltName-->Paper Drake<!--/AltName-->
 
 
 
@@ -26346,7 +26346,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rust Drake<!--/AltName-->
+      - Alias: <!--AltName-->Rust Drake<!--/AltName-->
 
 
 
@@ -26525,7 +26525,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Elder Shadow Drake<!--/AltName-->
+      - Alias: <!--AltName-->Elder Shadow Drake<!--/AltName-->
 
 
 
@@ -26717,7 +26717,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Deep Drake<!--/AltName-->
+      - Alias: <!--AltName-->Deep Drake<!--/AltName-->
 
 
 
@@ -26896,7 +26896,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Alehouse Drake<!--/AltName-->
+      - Alias: <!--AltName-->Alehouse Drake<!--/AltName-->
 
 
 
@@ -27083,7 +27083,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Crimson Drake<!--/AltName-->
+      - Alias: <!--AltName-->Crimson Drake<!--/AltName-->
 
 
 
@@ -27258,7 +27258,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Star Drake<!--/AltName-->
+      - Alias: <!--AltName-->Star Drake<!--/AltName-->
 
 
 
@@ -27509,7 +27509,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Drakon<!--/AltName-->
+      - Alias: <!--AltName-->Drakon<!--/AltName-->
 
 
 
@@ -27676,7 +27676,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Duskthorn Dryad<!--/AltName-->
+      - Alias: <!--AltName-->Duskthorn Dryad<!--/AltName-->
 
 
 
@@ -27867,7 +27867,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dullahan<!--/AltName-->
+      - Alias: <!--AltName-->Dullahan<!--/AltName-->
 
 
 
@@ -28074,7 +28074,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Eala<!--/AltName-->
+      - Alias: <!--AltName-->Eala<!--/AltName-->
 
 
 
@@ -28229,7 +28229,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Edimmu<!--/AltName-->
+      - Alias: <!--AltName-->Edimmu<!--/AltName-->
 
 
 
@@ -28382,7 +28382,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Einherjar<!--/AltName-->
+      - Alias: <!--AltName-->Einherjar<!--/AltName-->
 
 
 
@@ -28574,7 +28574,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Eleinomae<!--/AltName-->
+      - Alias: <!--AltName-->Eleinomae<!--/AltName-->
 
 
 
@@ -28757,7 +28757,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shadow Fey<!--/AltName-->
+      - Alias: <!--AltName-->Shadow Fey<!--/AltName-->
 
 
 
@@ -28916,7 +28916,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Forest Hunter<!--/AltName-->
+      - Alias: <!--AltName-->Forest Hunter<!--/AltName-->
 
 
 
@@ -29093,7 +29093,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Duelist<!--/AltName-->
+      - Alias: <!--AltName-->Duelist<!--/AltName-->
 
 
 
@@ -29276,7 +29276,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Enchantress<!--/AltName-->
+      - Alias: <!--AltName-->Enchantress<!--/AltName-->
 
 
 
@@ -29496,7 +29496,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Guardian<!--/AltName-->
+      - Alias: <!--AltName-->Guardian<!--/AltName-->
 
 
 
@@ -29692,7 +29692,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Arboreal Grappler<!--/AltName-->
+      - Alias: <!--AltName-->Arboreal Grappler<!--/AltName-->
 
 
 
@@ -29847,7 +29847,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Child of the Briar<!--/AltName-->
+      - Alias: <!--AltName-->Child of the Briar<!--/AltName-->
 
 
 
@@ -30017,7 +30017,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Erina Scrounger<!--/AltName-->
+      - Alias: <!--AltName-->Erina Scrounger<!--/AltName-->
 
 
 
@@ -30172,7 +30172,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Erina Defender<!--/AltName-->
+      - Alias: <!--AltName-->Erina Defender<!--/AltName-->
 
 
 
@@ -30352,7 +30352,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mindrot Thrall<!--/AltName-->
+      - Alias: <!--AltName-->Mindrot Thrall<!--/AltName-->
 
 
 
@@ -30518,7 +30518,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Firegeist<!--/AltName-->
+      - Alias: <!--AltName-->Firegeist<!--/AltName-->
 
 
 
@@ -30691,7 +30691,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spark<!--/AltName-->
+      - Alias: <!--AltName-->Spark<!--/AltName-->
 
 
 
@@ -30857,7 +30857,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Miremal<!--/AltName-->
+      - Alias: <!--AltName-->Miremal<!--/AltName-->
 
 
 
@@ -31036,7 +31036,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Far Darrig<!--/AltName-->
+      - Alias: <!--AltName-->Far Darrig<!--/AltName-->
 
 
 
@@ -31217,7 +31217,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Queen of Night and Magic<!--/AltName-->
+      - Alias: <!--AltName-->Queen of Night and Magic<!--/AltName-->
 
 
 
@@ -31617,7 +31617,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Snow Queen<!--/AltName-->
+      - Alias: <!--AltName-->Snow Queen<!--/AltName-->
 
 
 
@@ -31956,7 +31956,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Queen of Witches<!--/AltName-->
+      - Alias: <!--AltName-->Queen of Witches<!--/AltName-->
 
 
 
@@ -32290,7 +32290,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lord of the Hunt<!--/AltName-->
+      - Alias: <!--AltName-->Lord of the Hunt<!--/AltName-->
 
 
 
@@ -32623,7 +32623,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Moonlit King<!--/AltName-->
+      - Alias: <!--AltName-->Moonlit King<!--/AltName-->
 
 
 
@@ -32969,7 +32969,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bear King<!--/AltName-->
+      - Alias: <!--AltName-->Bear King<!--/AltName-->
 
 
 
@@ -33285,7 +33285,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->River King<!--/AltName-->
+      - Alias: <!--AltName-->River King<!--/AltName-->
 
 
 
@@ -33623,7 +33623,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fellforged<!--/AltName-->
+      - Alias: <!--AltName-->Fellforged<!--/AltName-->
 
 
 
@@ -33796,7 +33796,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Savager<!--/AltName-->
+      - Alias: <!--AltName-->Savager<!--/AltName-->
 
 
 
@@ -33963,7 +33963,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fext<!--/AltName-->
+      - Alias: <!--AltName-->Fext<!--/AltName-->
 
 
 
@@ -34162,7 +34162,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Son of Fenris<!--/AltName-->
+      - Alias: <!--AltName-->Son of Fenris<!--/AltName-->
 
 
 
@@ -34408,7 +34408,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fear Smith<!--/AltName-->
+      - Alias: <!--AltName-->Fear Smith<!--/AltName-->
 
 
 
@@ -34600,7 +34600,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Giant Ant<!--/AltName-->
+      - Alias: <!--AltName-->Giant Ant<!--/AltName-->
 
 
 
@@ -34734,7 +34734,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Giant Ant Queen<!--/AltName-->
+      - Alias: <!--AltName-->Giant Ant Queen<!--/AltName-->
 
 
 
@@ -34876,7 +34876,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fraughashar<!--/AltName-->
+      - Alias: <!--AltName-->Fraughashar<!--/AltName-->
 
 
 
@@ -35031,7 +35031,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spectral Guardian<!--/AltName-->
+      - Alias: <!--AltName-->Spectral Guardian<!--/AltName-->
 
 
 
@@ -35250,7 +35250,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gbahali (Postosuchus)<!--/AltName-->
+      - Alias: <!--AltName-->Gbahali (Postosuchus)<!--/AltName-->
 
 
 
@@ -35410,7 +35410,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Desert Giant<!--/AltName-->
+      - Alias: <!--AltName-->Desert Giant<!--/AltName-->
 
 
 
@@ -35565,7 +35565,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Hraesvelgr the Corpse Swallower<!--/AltName-->
+      - Alias: <!--AltName-->Hraesvelgr the Corpse Swallower<!--/AltName-->
 
 
 
@@ -35891,7 +35891,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Jotun Giant<!--/AltName-->
+      - Alias: <!--AltName-->Jotun Giant<!--/AltName-->
 
 
 
@@ -36143,7 +36143,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Flab Giant<!--/AltName-->
+      - Alias: <!--AltName-->Flab Giant<!--/AltName-->
 
 
 
@@ -36309,7 +36309,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Thursir Giant<!--/AltName-->
+      - Alias: <!--AltName-->Thursir Giant<!--/AltName-->
 
 
 
@@ -36462,7 +36462,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Al-Aeshma Genie<!--/AltName-->
+      - Alias: <!--AltName-->Al-Aeshma Genie<!--/AltName-->
 
 
 
@@ -36657,7 +36657,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gerridae<!--/AltName-->
+      - Alias: <!--AltName-->Gerridae<!--/AltName-->
 
 
 
@@ -36806,7 +36806,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dust Goblin<!--/AltName-->
+      - Alias: <!--AltName-->Dust Goblin<!--/AltName-->
 
 
 
@@ -36954,7 +36954,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Steam Golem<!--/AltName-->
+      - Alias: <!--AltName-->Steam Golem<!--/AltName-->
 
 
 
@@ -37142,7 +37142,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Salt Golem<!--/AltName-->
+      - Alias: <!--AltName-->Salt Golem<!--/AltName-->
 
 
 
@@ -37298,7 +37298,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Eye Golem<!--/AltName-->
+      - Alias: <!--AltName-->Eye Golem<!--/AltName-->
 
 
 
@@ -37475,7 +37475,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Smaragdine Golem<!--/AltName-->
+      - Alias: <!--AltName-->Smaragdine Golem<!--/AltName-->
 
 
 
@@ -37643,7 +37643,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Hoard Golem<!--/AltName-->
+      - Alias: <!--AltName-->Hoard Golem<!--/AltName-->
 
 
 
@@ -37824,7 +37824,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ghoul, Darakhul<!--/AltName-->
+      - Alias: <!--AltName-->Ghoul, Darakhul<!--/AltName-->
 
 
 
@@ -38014,7 +38014,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ghoul, Iron<!--/AltName-->
+      - Alias: <!--AltName-->Ghoul, Iron<!--/AltName-->
 
 
 
@@ -38182,7 +38182,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Emperor of the Ghouls<!--/AltName-->
+      - Alias: <!--AltName-->Emperor of the Ghouls<!--/AltName-->
 
 
 
@@ -38561,7 +38561,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ghoul, Imperial<!--/AltName-->
+      - Alias: <!--AltName-->Ghoul, Imperial<!--/AltName-->
 
 
 
@@ -38722,7 +38722,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Beggar Ghoul<!--/AltName-->
+      - Alias: <!--AltName-->Beggar Ghoul<!--/AltName-->
 
 
 
@@ -38880,7 +38880,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bonepowder Ghoul<!--/AltName-->
+      - Alias: <!--AltName-->Bonepowder Ghoul<!--/AltName-->
 
 
 
@@ -39147,7 +39147,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Azza Gremlin<!--/AltName-->
+      - Alias: <!--AltName-->Azza Gremlin<!--/AltName-->
 
 
 
@@ -39295,7 +39295,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rum Gremlin<!--/AltName-->
+      - Alias: <!--AltName-->Rum Gremlin<!--/AltName-->
 
 
 
@@ -39466,7 +39466,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sanf Hag<!--/AltName-->
+      - Alias: <!--AltName-->Sanf Hag<!--/AltName-->
 
 
 
@@ -39649,7 +39649,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mirror Hag<!--/AltName-->
+      - Alias: <!--AltName-->Mirror Hag<!--/AltName-->
 
 
 
@@ -39826,7 +39826,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Red Hag<!--/AltName-->
+      - Alias: <!--AltName-->Red Hag<!--/AltName-->
 
 
 
@@ -40016,7 +40016,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Blood Hag<!--/AltName-->
+      - Alias: <!--AltName-->Blood Hag<!--/AltName-->
 
 
 
@@ -40237,7 +40237,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gug<!--/AltName-->
+      - Alias: <!--AltName-->Gug<!--/AltName-->
 
 
 
@@ -40447,7 +40447,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Folk of Leng<!--/AltName-->
+      - Alias: <!--AltName-->Folk of Leng<!--/AltName-->
 
 
 
@@ -40649,7 +40649,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Owl Harpy<!--/AltName-->
+      - Alias: <!--AltName-->Owl Harpy<!--/AltName-->
 
 
 
@@ -40830,7 +40830,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Haugbui<!--/AltName-->
+      - Alias: <!--AltName-->Haugbui<!--/AltName-->
 
 
 
@@ -41064,7 +41064,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Herald of Darkness<!--/AltName-->
+      - Alias: <!--AltName-->Herald of Darkness<!--/AltName-->
 
 
 
@@ -41259,7 +41259,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Herald of Blood<!--/AltName-->
+      - Alias: <!--AltName-->Herald of Blood<!--/AltName-->
 
 
 
@@ -41476,7 +41476,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Roachling Skirmisher<!--/AltName-->
+      - Alias: <!--AltName-->Roachling Skirmisher<!--/AltName-->
 
 
 
@@ -41630,7 +41630,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Roachling Lord<!--/AltName-->
+      - Alias: <!--AltName-->Roachling Lord<!--/AltName-->
 
 
 
@@ -41793,7 +41793,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Goat-Man<!--/AltName-->
+      - Alias: <!--AltName-->Goat-Man<!--/AltName-->
 
 
 
@@ -41960,7 +41960,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ravenfolk Warrior<!--/AltName-->
+      - Alias: <!--AltName-->Ravenfolk Warrior<!--/AltName-->
 
 
 
@@ -42162,7 +42162,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ravenfolk Doom Croaker<!--/AltName-->
+      - Alias: <!--AltName-->Ravenfolk Doom Croaker<!--/AltName-->
 
 
 
@@ -42347,7 +42347,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ravenfolk Scout<!--/AltName-->
+      - Alias: <!--AltName-->Ravenfolk Scout<!--/AltName-->
 
 
 
@@ -42513,7 +42513,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lemurfolk<!--/AltName-->
+      - Alias: <!--AltName-->Lemurfolk<!--/AltName-->
 
 
 
@@ -42660,7 +42660,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lemurfolk Greyfur<!--/AltName-->
+      - Alias: <!--AltName-->Lemurfolk Greyfur<!--/AltName-->
 
 
 
@@ -42837,7 +42837,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bearfold<!--/AltName-->
+      - Alias: <!--AltName-->Bearfold<!--/AltName-->
 
 
 
@@ -42991,7 +42991,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ratfolk<!--/AltName-->
+      - Alias: <!--AltName-->Ratfolk<!--/AltName-->
 
 
 
@@ -43139,7 +43139,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ratfolk Rogue<!--/AltName-->
+      - Alias: <!--AltName-->Ratfolk Rogue<!--/AltName-->
 
 
 
@@ -43305,7 +43305,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Horakh<!--/AltName-->
+      - Alias: <!--AltName-->Horakh<!--/AltName-->
 
 
 
@@ -43474,7 +43474,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Hundun<!--/AltName-->
+      - Alias: <!--AltName-->Hundun<!--/AltName-->
 
 
 
@@ -43716,7 +43716,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Idolic Deity<!--/AltName-->
+      - Alias: <!--AltName-->Idolic Deity<!--/AltName-->
 
 
 
@@ -43908,7 +43908,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Imy-Ut Ushabti<!--/AltName-->
+      - Alias: <!--AltName-->Imy-Ut Ushabti<!--/AltName-->
 
 
 
@@ -44075,7 +44075,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Isonade<!--/AltName-->
+      - Alias: <!--AltName-->Isonade<!--/AltName-->
 
 
 
@@ -44285,7 +44285,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Jaculus<!--/AltName-->
+      - Alias: <!--AltName-->Jaculus<!--/AltName-->
 
 
 
@@ -44444,7 +44444,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kalke<!--/AltName-->
+      - Alias: <!--AltName-->Kalke<!--/AltName-->
 
 
 
@@ -44585,7 +44585,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kikimora<!--/AltName-->
+      - Alias: <!--AltName-->Kikimora<!--/AltName-->
 
 
 
@@ -44759,7 +44759,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kobold Alchemist<!--/AltName-->
+      - Alias: <!--AltName-->Kobold Alchemist<!--/AltName-->
 
 
 
@@ -44950,7 +44950,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kobold Chieftain<!--/AltName-->
+      - Alias: <!--AltName-->Kobold Chieftain<!--/AltName-->
 
 
 
@@ -45134,7 +45134,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kobold Trapsmith<!--/AltName-->
+      - Alias: <!--AltName-->Kobold Trapsmith<!--/AltName-->
 
 
 
@@ -45305,7 +45305,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kongamato<!--/AltName-->
+      - Alias: <!--AltName-->Kongamato<!--/AltName-->
 
 
 
@@ -45467,7 +45467,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Koschei<!--/AltName-->
+      - Alias: <!--AltName-->Koschei<!--/AltName-->
 
 
 
@@ -45785,7 +45785,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Kot Bayun<!--/AltName-->
+      - Alias: <!--AltName-->Kot Bayun<!--/AltName-->
 
 
 
@@ -45958,7 +45958,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Krake Spawn<!--/AltName-->
+      - Alias: <!--AltName-->Krake Spawn<!--/AltName-->
 
 
 
@@ -46163,7 +46163,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Star Spawn of Cthulhu<!--/AltName-->
+      - Alias: <!--AltName-->Star Spawn of Cthulhu<!--/AltName-->
 
 
 
@@ -46347,7 +46347,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Leshy<!--/AltName-->
+      - Alias: <!--AltName-->Leshy<!--/AltName-->
 
 
 
@@ -46522,7 +46522,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Slow Storm<!--/AltName-->
+      - Alias: <!--AltName-->Slow Storm<!--/AltName-->
 
 
 
@@ -46739,7 +46739,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Baba Yaga's Horsemen, Base<!--/AltName-->
+      - Alias: <!--AltName-->Baba Yaga's Horsemen, Base<!--/AltName-->
 
 
 
@@ -46943,7 +46943,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lich Hound<!--/AltName-->
+      - Alias: <!--AltName-->Lich Hound<!--/AltName-->
 
 
 
@@ -47115,7 +47115,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Likho<!--/AltName-->
+      - Alias: <!--AltName-->Likho<!--/AltName-->
 
 
 
@@ -47302,7 +47302,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sarcophagus Slime<!--/AltName-->
+      - Alias: <!--AltName-->Sarcophagus Slime<!--/AltName-->
 
 
 
@@ -47483,7 +47483,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shroud<!--/AltName-->
+      - Alias: <!--AltName-->Shroud<!--/AltName-->
 
 
 
@@ -47657,7 +47657,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lindwurm<!--/AltName-->
+      - Alias: <!--AltName-->Lindwurm<!--/AltName-->
 
 
 
@@ -47843,7 +47843,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Liosalfar<!--/AltName-->
+      - Alias: <!--AltName-->Liosalfar<!--/AltName-->
 
 
 
@@ -48053,7 +48053,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Elemental Locus<!--/AltName-->
+      - Alias: <!--AltName-->Elemental Locus<!--/AltName-->
 
 
 
@@ -48237,7 +48237,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lorelei<!--/AltName-->
+      - Alias: <!--AltName-->Lorelei<!--/AltName-->
 
 
 
@@ -48442,7 +48442,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Loxoda<!--/AltName-->
+      - Alias: <!--AltName-->Loxoda<!--/AltName-->
 
 
 
@@ -48595,7 +48595,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vapor Lynx<!--/AltName-->
+      - Alias: <!--AltName-->Vapor Lynx<!--/AltName-->
 
 
 
@@ -48761,7 +48761,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mahoru<!--/AltName-->
+      - Alias: <!--AltName-->Mahoru<!--/AltName-->
 
 
 
@@ -48966,7 +48966,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mallqui<!--/AltName-->
+      - Alias: <!--AltName-->Mallqui<!--/AltName-->
 
 
 
@@ -49179,7 +49179,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Malphas (Storm Crow)<!--/AltName-->
+      - Alias: <!--AltName-->Malphas (Storm Crow)<!--/AltName-->
 
 
 
@@ -49364,7 +49364,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mamura<!--/AltName-->
+      - Alias: <!--AltName-->Mamura<!--/AltName-->
 
 
 
@@ -49548,7 +49548,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fate Eater<!--/AltName-->
+      - Alias: <!--AltName-->Fate Eater<!--/AltName-->
 
 
 
@@ -49742,7 +49742,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Eater of Dust (Yakat-Shi)<!--/AltName-->
+      - Alias: <!--AltName-->Eater of Dust (Yakat-Shi)<!--/AltName-->
 
 
 
@@ -49934,7 +49934,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dream Eater<!--/AltName-->
+      - Alias: <!--AltName-->Dream Eater<!--/AltName-->
 
 
 
@@ -50140,7 +50140,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Empty Cloak<!--/AltName-->
+      - Alias: <!--AltName-->Empty Cloak<!--/AltName-->
 
 
 
@@ -50322,7 +50322,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Forest Marauder<!--/AltName-->
+      - Alias: <!--AltName-->Forest Marauder<!--/AltName-->
 
 
 
@@ -50465,7 +50465,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sandman<!--/AltName-->
+      - Alias: <!--AltName-->Sandman<!--/AltName-->
 
 
 
@@ -50661,7 +50661,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Spire Walker<!--/AltName-->
+      - Alias: <!--AltName-->Spire Walker<!--/AltName-->
 
 
 
@@ -50841,7 +50841,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mavka<!--/AltName-->
+      - Alias: <!--AltName-->Mavka<!--/AltName-->
 
 
 
@@ -51033,7 +51033,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Abomination<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Abomination<!--/AltName-->
 
 
 
@@ -51223,7 +51223,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Weaving Spider<!--/AltName-->
+      - Alias: <!--AltName-->Weaving Spider<!--/AltName-->
 
 
 
@@ -51385,7 +51385,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Huntsman<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Huntsman<!--/AltName-->
 
 
 
@@ -51558,7 +51558,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Hound<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Hound<!--/AltName-->
 
 
 
@@ -51732,7 +51732,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Watchman<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Watchman<!--/AltName-->
 
 
 
@@ -51899,7 +51899,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Myrmidon<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Myrmidon<!--/AltName-->
 
 
 
@@ -52085,7 +52085,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Beetle<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Beetle<!--/AltName-->
 
 
 
@@ -52241,7 +52241,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Living Wick<!--/AltName-->
+      - Alias: <!--AltName-->Living Wick<!--/AltName-->
 
 
 
@@ -52406,7 +52406,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tusked Skyfish<!--/AltName-->
+      - Alias: <!--AltName-->Tusked Skyfish<!--/AltName-->
 
 
 
@@ -52559,7 +52559,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Treacle<!--/AltName-->
+      - Alias: <!--AltName-->Treacle<!--/AltName-->
 
 
 
@@ -52701,7 +52701,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mi-Go<!--/AltName-->
+      - Alias: <!--AltName-->Mi-Go<!--/AltName-->
 
 
 
@@ -52879,7 +52879,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Millitaur<!--/AltName-->
+      - Alias: <!--AltName-->Millitaur<!--/AltName-->
 
 
 
@@ -53028,7 +53028,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Map Mimic<!--/AltName-->
+      - Alias: <!--AltName-->Map Mimic<!--/AltName-->
 
 
 
@@ -53190,7 +53190,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dune Mimic<!--/AltName-->
+      - Alias: <!--AltName-->Dune Mimic<!--/AltName-->
 
 
 
@@ -53368,7 +53368,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mirager<!--/AltName-->
+      - Alias: <!--AltName-->Mirager<!--/AltName-->
 
 
 
@@ -53545,7 +53545,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mngwa<!--/AltName-->
+      - Alias: <!--AltName-->Mngwa<!--/AltName-->
 
 
 
@@ -53718,7 +53718,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Hound of the night<!--/AltName-->
+      - Alias: <!--AltName-->Hound of the night<!--/AltName-->
 
 
 
@@ -53892,7 +53892,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Venomous Mummy<!--/AltName-->
+      - Alias: <!--AltName-->Venomous Mummy<!--/AltName-->
 
 
 
@@ -54057,7 +54057,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Monolith Champion<!--/AltName-->
+      - Alias: <!--AltName-->Monolith Champion<!--/AltName-->
 
 
 
@@ -54211,7 +54211,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Monolith Footman<!--/AltName-->
+      - Alias: <!--AltName-->Monolith Footman<!--/AltName-->
 
 
 
@@ -54366,7 +54366,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Corpse Mound<!--/AltName-->
+      - Alias: <!--AltName-->Corpse Mound<!--/AltName-->
 
 
 
@@ -54543,7 +54543,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Morphoi<!--/AltName-->
+      - Alias: <!--AltName-->Morphoi<!--/AltName-->
 
 
 
@@ -54699,7 +54699,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Deathwisp<!--/AltName-->
+      - Alias: <!--AltName-->Deathwisp<!--/AltName-->
 
 
 
@@ -54883,7 +54883,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Cavelight Moss<!--/AltName-->
+      - Alias: <!--AltName-->Cavelight Moss<!--/AltName-->
 
 
 
@@ -55032,7 +55032,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Myling<!--/AltName-->
+      - Alias: <!--AltName-->Myling<!--/AltName-->
 
 
 
@@ -55193,7 +55193,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Naina<!--/AltName-->
+      - Alias: <!--AltName-->Naina<!--/AltName-->
 
 
 
@@ -55428,7 +55428,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mask Wight<!--/AltName-->
+      - Alias: <!--AltName-->Mask Wight<!--/AltName-->
 
 
 
@@ -55627,7 +55627,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Carrion Beetle<!--/AltName-->
+      - Alias: <!--AltName-->Carrion Beetle<!--/AltName-->
 
 
 
@@ -55777,7 +55777,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nichny<!--/AltName-->
+      - Alias: <!--AltName-->Nichny<!--/AltName-->
 
 
 
@@ -55985,7 +55985,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nkosi<!--/AltName-->
+      - Alias: <!--AltName-->Nkosi<!--/AltName-->
 
 
 
@@ -56144,7 +56144,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nkosi Pridelord<!--/AltName-->
+      - Alias: <!--AltName-->Nkosi Pridelord<!--/AltName-->
 
 
 
@@ -56321,7 +56321,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->War Ostrich<!--/AltName-->
+      - Alias: <!--AltName-->War Ostrich<!--/AltName-->
 
 
 
@@ -56447,7 +56447,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nightgarm<!--/AltName-->
+      - Alias: <!--AltName-->Nightgarm<!--/AltName-->
 
 
 
@@ -56611,7 +56611,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Nightgarm Falseman<!--/AltName-->
+      - Alias: <!--AltName-->Nightgarm Falseman<!--/AltName-->
 
 
 
@@ -56681,7 +56681,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Noctiny<!--/AltName-->
+      - Alias: <!--AltName-->Noctiny<!--/AltName-->
 
 
 
@@ -56850,7 +56850,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wolf Spirit Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Wolf Spirit Swarm<!--/AltName-->
 
 
 
@@ -57028,7 +57028,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Oculo Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Oculo Swarm<!--/AltName-->
 
 
 
@@ -57177,7 +57177,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Fire Dancer Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Fire Dancer Swarm<!--/AltName-->
 
 
 
@@ -57343,7 +57343,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Death Butterfly Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Death Butterfly Swarm<!--/AltName-->
 
 
 
@@ -57503,7 +57503,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Greater Death Butterfly Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Greater Death Butterfly Swarm<!--/AltName-->
 
 
 
@@ -57664,7 +57664,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Manabane Scarab Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Manabane Scarab Swarm<!--/AltName-->
 
 
 
@@ -57826,7 +57826,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Clockwork Beetle Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Clockwork Beetle Swarm<!--/AltName-->
 
 
 
@@ -57946,7 +57946,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Prismatic Beetle Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Prismatic Beetle Swarm<!--/AltName-->
 
 
 
@@ -58106,7 +58106,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sluagh Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Sluagh Swarm<!--/AltName-->
 
 
 
@@ -58270,7 +58270,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bone Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Bone Swarm<!--/AltName-->
 
 
 
@@ -58451,7 +58451,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Emerald Eye<!--/AltName-->
+      - Alias: <!--AltName-->Emerald Eye<!--/AltName-->
 
 
 
@@ -58631,7 +58631,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Firebird<!--/AltName-->
+      - Alias: <!--AltName-->Firebird<!--/AltName-->
 
 
 
@@ -58829,7 +58829,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ostinato<!--/AltName-->
+      - Alias: <!--AltName-->Ostinato<!--/AltName-->
 
 
 
@@ -59017,7 +59017,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Oozasis<!--/AltName-->
+      - Alias: <!--AltName-->Oozasis<!--/AltName-->
 
 
 
@@ -59212,7 +59212,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Cobbleswarm<!--/AltName-->
+      - Alias: <!--AltName-->Cobbleswarm<!--/AltName-->
 
 
 
@@ -59373,7 +59373,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Mordant Snare<!--/AltName-->
+      - Alias: <!--AltName-->Mordant Snare<!--/AltName-->
 
 
 
@@ -59563,7 +59563,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Pombero<!--/AltName-->
+      - Alias: <!--AltName-->Pombero<!--/AltName-->
 
 
 
@@ -59733,7 +59733,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rift Swine<!--/AltName-->
+      - Alias: <!--AltName-->Rift Swine<!--/AltName-->
 
 
 
@@ -59906,7 +59906,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->White Ape<!--/AltName-->
+      - Alias: <!--AltName-->White Ape<!--/AltName-->
 
 
 
@@ -60063,7 +60063,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Accursed Defiler<!--/AltName-->
+      - Alias: <!--AltName-->Accursed Defiler<!--/AltName-->
 
 
 
@@ -60236,7 +60236,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Deep One<!--/AltName-->
+      - Alias: <!--AltName-->Deep One<!--/AltName-->
 
 
 
@@ -60404,7 +60404,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Deep One Archimandrite<!--/AltName-->
+      - Alias: <!--AltName-->Deep One Archimandrite<!--/AltName-->
 
 
 
@@ -60620,7 +60620,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Deep One Hybrid Priest<!--/AltName-->
+      - Alias: <!--AltName-->Deep One Hybrid Priest<!--/AltName-->
 
 
 
@@ -60822,7 +60822,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Qwyllion<!--/AltName-->
+      - Alias: <!--AltName-->Qwyllion<!--/AltName-->
 
 
 
@@ -60994,7 +60994,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ramag<!--/AltName-->
+      - Alias: <!--AltName-->Ramag<!--/AltName-->
 
 
 
@@ -61136,7 +61136,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ratatosk<!--/AltName-->
+      - Alias: <!--AltName-->Ratatosk<!--/AltName-->
 
 
 
@@ -61319,7 +61319,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Trollkin Reaver<!--/AltName-->
+      - Alias: <!--AltName-->Trollkin Reaver<!--/AltName-->
 
 
 
@@ -61493,7 +61493,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ravenala<!--/AltName-->
+      - Alias: <!--AltName-->Ravenala<!--/AltName-->
 
 
 
@@ -61688,7 +61688,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wharfling<!--/AltName-->
+      - Alias: <!--AltName-->Wharfling<!--/AltName-->
 
 
 
@@ -61818,7 +61818,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wharfling Swarm<!--/AltName-->
+      - Alias: <!--AltName-->Wharfling Swarm<!--/AltName-->
 
 
 
@@ -61975,7 +61975,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Moss Lurker<!--/AltName-->
+      - Alias: <!--AltName-->Moss Lurker<!--/AltName-->
 
 
 
@@ -62167,7 +62167,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rat King<!--/AltName-->
+      - Alias: <!--AltName-->Rat King<!--/AltName-->
 
 
 
@@ -62351,7 +62351,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rusalka<!--/AltName-->
+      - Alias: <!--AltName-->Rusalka<!--/AltName-->
 
 
 
@@ -62522,7 +62522,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Risen Reaver<!--/AltName-->
+      - Alias: <!--AltName-->Risen Reaver<!--/AltName-->
 
 
 
@@ -62686,7 +62686,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Flutterflesh<!--/AltName-->
+      - Alias: <!--AltName-->Flutterflesh<!--/AltName-->
 
 
 
@@ -62882,7 +62882,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Scheznyki<!--/AltName-->
+      - Alias: <!--AltName-->Scheznyki<!--/AltName-->
 
 
 
@@ -63065,7 +63065,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Night Scorpion<!--/AltName-->
+      - Alias: <!--AltName-->Night Scorpion<!--/AltName-->
 
 
 
@@ -63200,7 +63200,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Stygian Fat-Tailed Scorpion<!--/AltName-->
+      - Alias: <!--AltName-->Stygian Fat-Tailed Scorpion<!--/AltName-->
 
 
 
@@ -63337,7 +63337,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vine Lord<!--/AltName-->
+      - Alias: <!--AltName-->Vine Lord<!--/AltName-->
 
 
 
@@ -63527,7 +63527,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tendril Puppet<!--/AltName-->
+      - Alias: <!--AltName-->Tendril Puppet<!--/AltName-->
 
 
 
@@ -63694,7 +63694,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Selang<!--/AltName-->
+      - Alias: <!--AltName-->Selang<!--/AltName-->
 
 
 
@@ -63877,7 +63877,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Swamp Adder<!--/AltName-->
+      - Alias: <!--AltName-->Swamp Adder<!--/AltName-->
 
 
 
@@ -64006,7 +64006,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Zanskaran Viper<!--/AltName-->
+      - Alias: <!--AltName-->Zanskaran Viper<!--/AltName-->
 
 
 
@@ -64131,7 +64131,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Serpopard<!--/AltName-->
+      - Alias: <!--AltName-->Serpopard<!--/AltName-->
 
 
 
@@ -64296,7 +64296,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shabti<!--/AltName-->
+      - Alias: <!--AltName-->Shabti<!--/AltName-->
 
 
 
@@ -64460,7 +64460,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shadhavar<!--/AltName-->
+      - Alias: <!--AltName-->Shadhavar<!--/AltName-->
 
 
 
@@ -64634,7 +64634,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Shoggoth<!--/AltName-->
+      - Alias: <!--AltName-->Shoggoth<!--/AltName-->
 
 
 
@@ -64819,7 +64819,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sand Silhouette<!--/AltName-->
+      - Alias: <!--AltName-->Sand Silhouette<!--/AltName-->
 
 
 
@@ -65004,7 +65004,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Witchlight<!--/AltName-->
+      - Alias: <!--AltName-->Witchlight<!--/AltName-->
 
 
 
@@ -65166,7 +65166,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Skein Witch<!--/AltName-->
+      - Alias: <!--AltName-->Skein Witch<!--/AltName-->
 
 
 
@@ -65353,7 +65353,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gypsosphinx<!--/AltName-->
+      - Alias: <!--AltName-->Gypsosphinx<!--/AltName-->
 
 
 
@@ -65611,7 +65611,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vine Troll Skeleton<!--/AltName-->
+      - Alias: <!--AltName-->Vine Troll Skeleton<!--/AltName-->
 
 
 
@@ -65780,7 +65780,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sharkjaw Skeleton<!--/AltName-->
+      - Alias: <!--AltName-->Sharkjaw Skeleton<!--/AltName-->
 
 
 
@@ -65940,7 +65940,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Stryx<!--/AltName-->
+      - Alias: <!--AltName-->Stryx<!--/AltName-->
 
 
 
@@ -66115,7 +66115,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Stuhac<!--/AltName-->
+      - Alias: <!--AltName-->Stuhac<!--/AltName-->
 
 
 
@@ -66298,7 +66298,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Subek<!--/AltName-->
+      - Alias: <!--AltName-->Subek<!--/AltName-->
 
 
 
@@ -66464,7 +66464,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wormhearted Suffragan<!--/AltName-->
+      - Alias: <!--AltName-->Wormhearted Suffragan<!--/AltName-->
 
 
 
@@ -66636,7 +66636,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Suturefly<!--/AltName-->
+      - Alias: <!--AltName-->Suturefly<!--/AltName-->
 
 
 
@@ -66778,7 +66778,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Weeping Treant<!--/AltName-->
+      - Alias: <!--AltName-->Weeping Treant<!--/AltName-->
 
 
 
@@ -66945,7 +66945,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gearforged Templar<!--/AltName-->
+      - Alias: <!--AltName-->Gearforged Templar<!--/AltName-->
 
 
 
@@ -67134,7 +67134,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Thuellai<!--/AltName-->
+      - Alias: <!--AltName-->Thuellai<!--/AltName-->
 
 
 
@@ -67363,7 +67363,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ancient Titan<!--/AltName-->
+      - Alias: <!--AltName-->Ancient Titan<!--/AltName-->
 
 
 
@@ -67540,7 +67540,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Degenerate Titan<!--/AltName-->
+      - Alias: <!--AltName-->Degenerate Titan<!--/AltName-->
 
 
 
@@ -67701,7 +67701,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Titanoboa<!--/AltName-->
+      - Alias: <!--AltName-->Titanoboa<!--/AltName-->
 
 
 
@@ -67863,7 +67863,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tophet<!--/AltName-->
+      - Alias: <!--AltName-->Tophet<!--/AltName-->
 
 
 
@@ -68038,7 +68038,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tosculi Hive-Queen<!--/AltName-->
+      - Alias: <!--AltName-->Tosculi Hive-Queen<!--/AltName-->
 
 
 
@@ -68332,7 +68332,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tosculi Elite Bow Raider<!--/AltName-->
+      - Alias: <!--AltName-->Tosculi Elite Bow Raider<!--/AltName-->
 
 
 
@@ -68497,7 +68497,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tosculi Warrior<!--/AltName-->
+      - Alias: <!--AltName-->Tosculi Warrior<!--/AltName-->
 
 
 
@@ -68650,7 +68650,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Tosculi Drone<!--/AltName-->
+      - Alias: <!--AltName-->Tosculi Drone<!--/AltName-->
 
 
 
@@ -68791,7 +68791,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Lake Troll<!--/AltName-->
+      - Alias: <!--AltName-->Lake Troll<!--/AltName-->
 
 
 
@@ -68953,7 +68953,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bukavac<!--/AltName-->
+      - Alias: <!--AltName-->Bukavac<!--/AltName-->
 
 
 
@@ -69132,7 +69132,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Uraeus<!--/AltName-->
+      - Alias: <!--AltName-->Uraeus<!--/AltName-->
 
 
 
@@ -69307,7 +69307,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Urochar (Strangling Watcher)<!--/AltName-->
+      - Alias: <!--AltName-->Urochar (Strangling Watcher)<!--/AltName-->
 
 
 
@@ -69547,7 +69547,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ushabti<!--/AltName-->
+      - Alias: <!--AltName-->Ushabti<!--/AltName-->
 
 
 
@@ -69737,7 +69737,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vaettir<!--/AltName-->
+      - Alias: <!--AltName-->Vaettir<!--/AltName-->
 
 
 
@@ -69938,7 +69938,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Eonic Drifter<!--/AltName-->
+      - Alias: <!--AltName-->Eonic Drifter<!--/AltName-->
 
 
 
@@ -70082,7 +70082,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Valkyrie<!--/AltName-->
+      - Alias: <!--AltName-->Valkyrie<!--/AltName-->
 
 
 
@@ -70316,7 +70316,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Umbral Vampire<!--/AltName-->
+      - Alias: <!--AltName-->Umbral Vampire<!--/AltName-->
 
 
 
@@ -70507,7 +70507,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Corrupting Ooze<!--/AltName-->
+      - Alias: <!--AltName-->Corrupting Ooze<!--/AltName-->
 
 
 
@@ -70662,7 +70662,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rotting Wind<!--/AltName-->
+      - Alias: <!--AltName-->Rotting Wind<!--/AltName-->
 
 
 
@@ -70822,7 +70822,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Adult Rime Worm<!--/AltName-->
+      - Alias: <!--AltName-->Adult Rime Worm<!--/AltName-->
 
 
 
@@ -70989,7 +70989,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Rime Worm Grub<!--/AltName-->
+      - Alias: <!--AltName-->Rime Worm Grub<!--/AltName-->
 
 
 
@@ -71150,7 +71150,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Angler Worm<!--/AltName-->
+      - Alias: <!--AltName-->Angler Worm<!--/AltName-->
 
 
 
@@ -71326,7 +71326,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sathaq Worm<!--/AltName-->
+      - Alias: <!--AltName-->Sathaq Worm<!--/AltName-->
 
 
 
@@ -71498,7 +71498,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Skitterhaunt<!--/AltName-->
+      - Alias: <!--AltName-->Skitterhaunt<!--/AltName-->
 
 
 
@@ -71665,7 +71665,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vesiculosa<!--/AltName-->
+      - Alias: <!--AltName-->Vesiculosa<!--/AltName-->
 
 
 
@@ -71854,7 +71854,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Voidling<!--/AltName-->
+      - Alias: <!--AltName-->Voidling<!--/AltName-->
 
 
 
@@ -72050,7 +72050,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Gnoll Havoc Runner<!--/AltName-->
+      - Alias: <!--AltName-->Gnoll Havoc Runner<!--/AltName-->
 
 
 
@@ -72210,7 +72210,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vile Barber<!--/AltName-->
+      - Alias: <!--AltName-->Vile Barber<!--/AltName-->
 
 
 
@@ -72395,7 +72395,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Vila<!--/AltName-->
+      - Alias: <!--AltName-->Vila<!--/AltName-->
 
 
 
@@ -72600,7 +72600,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Frostveil<!--/AltName-->
+      - Alias: <!--AltName-->Frostveil<!--/AltName-->
 
 
 
@@ -72790,7 +72790,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wampus Cat<!--/AltName-->
+      - Alias: <!--AltName-->Wampus Cat<!--/AltName-->
 
 
 
@@ -72954,7 +72954,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Sandwyrm<!--/AltName-->
+      - Alias: <!--AltName-->Sandwyrm<!--/AltName-->
 
 
 
@@ -73101,7 +73101,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Xanka<!--/AltName-->
+      - Alias: <!--AltName-->Xanka<!--/AltName-->
 
 
 
@@ -73236,7 +73236,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Xhkarsh<!--/AltName-->
+      - Alias: <!--AltName-->Xhkarsh<!--/AltName-->
 
 
 
@@ -73390,7 +73390,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ychen Bannog<!--/AltName-->
+      - Alias: <!--AltName-->Ychen Bannog<!--/AltName-->
 
 
 
@@ -73564,7 +73564,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Zaratan<!--/AltName-->
+      - Alias: <!--AltName-->Zaratan<!--/AltName-->
 
 
 
@@ -73776,7 +73776,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Zimwi<!--/AltName-->
+      - Alias: <!--AltName-->Zimwi<!--/AltName-->
 
 
 
@@ -73914,7 +73914,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Zmey<!--/AltName-->
+      - Alias: <!--AltName-->Zmey<!--/AltName-->
 
 
 
@@ -74152,7 +74152,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Zmey Headling<!--/AltName-->
+      - Alias: <!--AltName-->Zmey Headling<!--/AltName-->
 
 
 
@@ -74317,7 +74317,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Elvish Veteran Archer<!--/AltName-->
+      - Alias: <!--AltName-->Elvish Veteran Archer<!--/AltName-->
 
 
 
@@ -74493,7 +74493,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->City Watch Captain<!--/AltName-->
+      - Alias: <!--AltName-->City Watch Captain<!--/AltName-->
 
 
 
@@ -74653,7 +74653,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Emerald Order Cult Leader<!--/AltName-->
+      - Alias: <!--AltName-->Emerald Order Cult Leader<!--/AltName-->
 
 
 
@@ -74872,7 +74872,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ogre Chieftain, Corrupted<!--/AltName-->
+      - Alias: <!--AltName-->Ogre Chieftain, Corrupted<!--/AltName-->
 
 
 
@@ -75063,7 +75063,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Ghost Knight<!--/AltName-->
+      - Alias: <!--AltName-->Ghost Knight<!--/AltName-->
 
 
 
@@ -75252,7 +75252,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Black Knight Commander<!--/AltName-->
+      - Alias: <!--AltName-->Black Knight Commander<!--/AltName-->
 
 
 
@@ -75418,7 +75418,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Scorpion Cultist<!--/AltName-->
+      - Alias: <!--AltName-->Scorpion Cultist<!--/AltName-->
 
 
 
@@ -75566,7 +75566,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Dwarven Ringmage<!--/AltName-->
+      - Alias: <!--AltName-->Dwarven Ringmage<!--/AltName-->
 
 
 
@@ -75767,7 +75767,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Wolf Reaver Dwarf<!--/AltName-->
+      - Alias: <!--AltName-->Wolf Reaver Dwarf<!--/AltName-->
 
 
 
@@ -75934,7 +75934,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Devilbound Gnomish Prince<!--/AltName-->
+      - Alias: <!--AltName-->Devilbound Gnomish Prince<!--/AltName-->
 
 
 
@@ -76069,7 +76069,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Bandit Lord<!--/AltName-->
+      - Alias: <!--AltName-->Bandit Lord<!--/AltName-->
 
 
 
@@ -76295,7 +76295,7 @@ SubItems:
 
 
 
-      - TOB: <!--AltName-->Variant: Vampire Warlock<!--/AltName-->
+      - Alias: <!--AltName-->Variant: Vampire Warlock<!--/AltName-->
 
 
 
@@ -76419,7 +76419,7 @@ AttributesDictionary: >+
 # Nihileth
 
 - Source: (LDM p8)(TOB p8)
-- TOB: Nihileth
+- Alias: Nihileth
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d10+36)
@@ -76501,7 +76501,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Zombi Nihilethique
 
 - Source: (LDM p9)(TOB p9)
-- TOB: Nihilethic Zombie
+- Alias: Nihilethic Zombie
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral, Caverne naturelle, Caverne sous-marine, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 9 (armure naturelle)
@@ -76545,7 +76545,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Ala
 
 - Source: (LDM p11)(TOB p13)
-- TOB: Ala
+- Alias: Ala
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 127 (15d8+60)
@@ -76585,7 +76585,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Algorith
 
 - Source: (LDM p12)(TOB p14)
-- TOB: Algorith
+- Alias: Algorith
 -  Créature artificielle de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -76631,7 +76631,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Alséide
 
 - Source: (LDM p13)(TOB p15)
-- TOB: Alseid
+- Alias: Alseid
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure de cuir)
@@ -76662,7 +76662,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Gardienne des bocages Alséide
 
 - Source: (LDM p13)(TOB p15)
-- TOB: Alseid grovekeeper
+- Alias: Alseid grovekeeper
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 71 (13d8+13)
@@ -76702,7 +76702,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Amanite Myconide
 
 - Source: (LDM p14)(TOB p300)
-- TOB: Deathcap Myconid
+- Alias: Deathcap Myconid
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
@@ -76738,7 +76738,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Amphiptère
 
 - Source: (LDM p15)(TOB p16)
-- TOB: Amphiptere
+- Alias: Amphiptere
 -  Bête de taille Moyenne (M), non alignée
 - **Terrain** Bois / Forêt, Littoral
 - **Classe d'armure** 15 (armure naturelle)
@@ -76773,7 +76773,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Andrenjinyi
 
 - Source: (LDM p17)(TOB p17)
-- TOB: Andrenjinyi
+- Alias: Andrenjinyi
 -  Céleste de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 228 (13d20+91)
@@ -76826,7 +76826,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Angatra
 
 - Source: (LDM p18)(TOB p19)
-- TOB: Angatra
+- Alias: Angatra
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Jungle, Mangrove / Marécage, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -76862,7 +76862,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Ange Enchaîné
 
 - Source: (LDM p19)(TOB p20)
-- TOB: Angel, Chained
+- Alias: Angel, Chained
 -  Céleste de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 88 (16d8+16)
@@ -76901,7 +76901,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Ange Fidèle
 
 - Source: (LDM p20)(TOB p21)
-- TOB: Fidele Angel
+- Alias: Fidele Angel
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 104 (16d8+32)
@@ -76959,7 +76959,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Anubien
 
 - Source: (LDM p21)(TOB p24)
-- TOB: Anubian
+- Alias: Anubian
 -  Élémentaire de taille Moyenne (M), chaotique mauvais
 - **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 13
@@ -76997,7 +76997,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Apparition Putride
 
 - Source: (LDM p22)(TOB p315)
-- TOB: Putrid Haunt
+- Alias: Putrid Haunt
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)
@@ -77032,7 +77032,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Araignée À Lignes Rouges
 
 - Source: (LDM p23)(TOB p363)
-- TOB: Red-Banded Line Spider
+- Alias: Red-Banded Line Spider
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 2 (1d4)
@@ -77066,7 +77066,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Araignée De Leng
 
 - Source: (LDM p24)(TOB p365)
-- TOB: Spider of Leng
+- Alias: Spider of Leng
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
@@ -77120,7 +77120,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Araignée Des Sables
 
 - Source: (LDM p25)(TOB p364)
-- TOB: Sand Spider
+- Alias: Sand Spider
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Désert chaud, Littoral, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -77159,7 +77159,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Araignée J'Ba Fofi
 
 - Source: (LDM p26)(TOB p362)
-- TOB: J'Ba Fofi Spider
+- Alias: J'Ba Fofi Spider
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 18 (armure naturelle)
@@ -77195,7 +77195,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Araignée Marchespectre
 
 - Source: (LDM p27)(TOB p361)
-- TOB: Ghostwalk Spider
+- Alias: Ghostwalk Spider
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 15
@@ -77240,7 +77240,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Araignée Voleuse
 
 - Source: (LDM p28)(TOB p366)
-- TOB: Spider Thief
+- Alias: Spider Thief
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Terrain** Caverne aménagée, Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)
@@ -77280,7 +77280,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Arbre Feuilledragon
 
 - Source: (LDM p29)(TOB p147)
-- TOB: Dragonleaf Tree
+- Alias: Dragonleaf Tree
 -  Plante de Grande taille (G), non alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
@@ -77316,7 +77316,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Arbre Pare-Fées
 
 - Source: (LDM p30)(TOB p200)
-- TOB: Feyward Tree
+- Alias: Feyward Tree
 -  Créature artificielle de Très Grande taille (TG), non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 17 (armure naturelle)
@@ -77360,7 +77360,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Aridni
 
 - Source: (LDM p31)(TOB p26)
-- TOB: Aridni
+- Alias: Aridni
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15
 - **Points de vie** 82 (15d6+30)
@@ -77403,7 +77403,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Asanbosam
 
 - Source: (LDM p32)(TOB p27)
-- TOB: Asanbosam
+- Alias: Asanbosam
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 14 (armure naturelle)
@@ -77438,7 +77438,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Assoiffeur Gris
 
 - Source: (LDM p33)(TOB p238)
-- TOB: Gray Thirster
+- Alias: Gray Thirster
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 13
@@ -77476,7 +77476,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Automate Bibliothécaire
 
 - Source: (LDM p34)(TOB p273)
-- TOB: Library Automaton
+- Alias: Library Automaton
 -  Créature artificielle de Petite taille (P), loyale neutre
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
@@ -77509,7 +77509,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Bagiennik
 
 - Source: (LDM p35)(TOB p31)
-- TOB: Bagiennik
+- Alias: Bagiennik
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
@@ -77542,7 +77542,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Beauté Abominable
 
 - Source: (LDM p36)(TOB p11)
-- TOB: Abominable Beauty
+- Alias: Abominable Beauty
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (22d8+88)
@@ -77578,7 +77578,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Behtu
 
 - Source: (LDM p37)(TOB p34)
-- TOB: Behtu
+- Alias: Behtu
 -  Humanoïde de Petite taille (P), chaotique mauvais
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure de peau)
@@ -77613,7 +77613,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Béli
 
 - Source: (LDM p38)(TOB p35)
-- TOB: Beli
+- Alias: Beli
 -  Fée de Petite taille (P), neutre mauvaise
 - **Terrain** Arctique / Subarctique, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
@@ -77657,7 +77657,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Belle Noyée
 
 - Source: (LDM p39)(TOB p159)
-- TOB: Drowned Maiden
+- Alias: Drowned Maiden
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
@@ -77701,7 +77701,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Béreginyas
 
 - Source: (LDM p40)(TOB p36)
-- TOB: Bereginyas
+- Alias: Bereginyas
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Terrain** Montagnes
 - **Classe d'armure** 15
@@ -77734,7 +77734,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Bête D'Ombre
 
 - Source: (LDM p41)(TOB p345)
-- TOB: Shadow Beast
+- Alias: Shadow Beast
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Bois / Forêt, Mer / Océan, Caverne aménagée, Donjon maçonné, Ruines extérieures, Ruines souterraines, Ruines sous-marines
 - **Classe d'armure** 14
@@ -77780,7 +77780,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Blemmyes
 
 - Source: (LDM p42)(TOB p37)
-- TOB: Blemmyes
+- Alias: Blemmyes
 -  Créature monstrueuse de Grande taille (G), chaotique mauvais
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
@@ -77815,7 +77815,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Boloti
 
 - Source: (LDM p43)(TOB p38)
-- TOB: Boloti
+- Alias: Boloti
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15
@@ -77856,7 +77856,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Bondisseur Aquatique
 
 - Source: (LDM p44)(TOB p406)
-- TOB: Water Leaper
+- Alias: Water Leaper
 -  Créature monstrueuse de Grande taille (G), non alignée
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
@@ -77894,7 +77894,7 @@ Les effets régionaux de l'antre d'un nihileth sont les mêmes que ceux d'un abo
 # Avatar de Borée
 
 - Source: (LDM p45)(TOB p42)
-- TOB: Avatar of Boreas
+- Alias: Avatar of Boreas
 -  Élémentaire de taille Moyenne (métamorphe) (M), chaotique mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)
@@ -77957,7 +77957,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Boucca
 
 - Source: (LDM p47)(TOB p46)
-- TOB: Bucca
+- Alias: Bucca
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 27 (5d4+15)
@@ -77993,7 +77993,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Bouda
 
 - Source: (LDM p48)(TOB p44)
-- TOB: Bouda
+- Alias: Bouda
 -  Fiélon de taille Moyenne (métamorphe) (M), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (11d8+44)
@@ -78043,7 +78043,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Bouffon Macabre
 
 - Source: (LDM p49)(TOB p240)
-- TOB: Grim Jester
+- Alias: Grim Jester
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -78093,7 +78093,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Bouraq
 
 - Source: (LDM p50)(TOB p48)
-- TOB: Buraq
+- Alias: Buraq
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 17
 - **Points de vie** 152 (16d8+80)
@@ -78140,7 +78140,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Cactide
 
 - Source: (LDM p51)(TOB p50)
-- TOB: Cactid
+- Alias: Cactid
 -  Plante de Grande taille (G), non alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)
@@ -78175,7 +78175,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Cambium
 
 - Source: (LDM p52)(TOB p51)
-- TOB: Cambium
+- Alias: Cambium
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)
@@ -78229,7 +78229,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Canitaupe
 
 - Source: (LDM p53)(TOB p120)
-- TOB: Dogmole
+- Alias: Dogmole
 -  Bête de taille Moyenne (M), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
@@ -78263,7 +78263,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Canitaupe Juggernaut
 
 - Source: (LDM p54)(TOB p121)
-- TOB: Dogmole Juggernaut
+- Alias: Dogmole Juggernaut
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15 (armure de chaînes)
@@ -78302,7 +78302,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chapeau Rouge
 
 - Source: (LDM p55)(TOB p325)
-- TOB: Redcap
+- Alias: Redcap
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -78342,7 +78342,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chat Du Temple De Bastet
 
 - Source: (LDM p56)(TOB p32)
-- TOB: Bastet Temple Cat
+- Alias: Bastet Temple Cat
 -  Créature montrueuse de Petite taille (P), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 40 (9d6+9)
@@ -78386,7 +78386,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chélicère
 
 - Source: (LDM p57)(TOB p54)
-- TOB: Chelicerae
+- Alias: Chelicerae
 -  Aberration de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -78437,7 +78437,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chernomoï
 
 - Source: (LDM p58)(TOB p55)
-- TOB: Chernomoi
+- Alias: Chernomoi
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 13
 - **Points de vie** 32 (5d4+20)
@@ -78472,7 +78472,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chien-Anguille
 
 - Source: (LDM p59)(TOB p166)
-- TOB: Eel Hound
+- Alias: Eel Hound
 -  Fée de taille Moyenne (M), neutre
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
@@ -78507,7 +78507,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chien Du Temple
 
 - Source: (LDM p60)(TOB p378)
-- TOB: Temple Dog
+- Alias: Temple Dog
 -  Céleste de taille Moyenne (M), bon
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 97 (15d8+30)
@@ -78543,7 +78543,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chiot Mastodonte
 
 - Source: (LDM p61)(TOB p252)
-- TOB: Hulking Whelp
+- Alias: Hulking Whelp
 -  Fée (métamorphe) de Petite/Très Grande taille (P/TG), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 94 (9d12+36)
@@ -78581,7 +78581,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Chronomentaire
 
 - Source: (LDM p62)(TOB p57)
-- TOB: Chronalmental
+- Alias: Chronalmental
 -  Élémentaire de Grande taille (G), non aligné
 - **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -78621,7 +78621,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Cikavak
 
 - Source: (LDM p63)(TOB p58)
-- TOB: Cikavak
+- Alias: Cikavak
 -  Fée de Très Petite taille (TP), neutre
 - **Classe d'armure** 12
 - **Points de vie** 17 (7d4)
@@ -78654,7 +78654,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Claquepiège
 
 - Source: (LDM p64)(TOB p229)
-- TOB: Gnarljak
+- Alias: Gnarljak
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 16
@@ -78687,7 +78687,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Clurichaun
 
 - Source: (LDM p65)(TOB p67)
-- TOB: Clurichaun
+- Alias: Clurichaun
 -  Fée de taille Très Petite (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 22 (4d4+12)
@@ -78727,7 +78727,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Colonne Possédée
 
 - Source: (LDM p66)(TOB p314)
-- TOB: Possessed Pillar
+- Alias: Possessed Pillar
 -  Créature artificielle de Grande taille (G), non alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)
@@ -78767,7 +78767,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Conglomérat Osseux
 
 - Source: (LDM p67)(TOB p39)
-- TOB: Bone Collective
+- Alias: Bone Collective
 -  Mort-vivant de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 120 (16d6+64)
@@ -78815,7 +78815,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Coquicape
 
 - Source: (LDM p68)(TOB p346)
-- TOB: Shellycoat
+- Alias: Shellycoat
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 75 (10d8+30)
@@ -78858,7 +78858,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Couveteux
 
 - Source: (LDM p69)(TOB p45)
-- TOB: Broodiken
+- Alias: Broodiken
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 55 (10d4+30)
 - **Vitesse** 6m, escalade 6m
@@ -78894,7 +78894,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Crabe Garrotteur
 
 - Source: (LDM p70)(TOB p208)
-- TOB: Garroter Crab
+- Alias: Garroter Crab
 -  Bête de Très Petite taille (TP), non-alignée
 - **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
@@ -78924,7 +78924,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Crabe Osseux
 
 - Source: (LDM p71)(TOB p40)
-- TOB: Bone Crab
+- Alias: Bone Crab
 -  Bête de Petite taille (P), neutre
 - **Terrain** Littoral
 - **Classe d'armure** 13 (armure naturelle)
@@ -78964,7 +78964,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Croco De Verre
 
 - Source: (LDM p72)(TOB p228)
-- TOB: Glass Gator
+- Alias: Glass Gator
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)
@@ -79005,7 +79005,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Cynome
 
 - Source: (LDM p73)(TOB p49)
-- TOB: Burrowling
+- Alias: Burrowling
 -  Humanoïde de Petite taille (cynome) (P), loyal neutre
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -79042,7 +79042,7 @@ Borée peut faire 3 actions légendaires parmi celles présentées ci- dessous. 
 # Dau
 
 - Source: (LDM p74)(TOB p70)
-- TOB: Dau
+- Alias: Dau
 -  Fée de Petite taille (P), chaotique neutre
 - **Terrain** Désert chaud
 - **Classe d'armure** 13
@@ -79088,7 +79088,7 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 # Demoiselle Glacée
 
 - Source: (LDM p75)(TOB p254)
-- TOB: Ice Maiden
+- Alias: Ice Maiden
 -  Fée de taille Moyenne (M), loyale mauvaise
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)
@@ -79149,7 +79149,7 @@ dure 10 minutes, au bout desquelles il redevient une illusion (ou disparaît si 
 # Apau Perape
 
 - Source: (LDM p76)(TOB p75)
-- TOB: Apau Perape
+- Alias: Apau Perape
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 95 (10d10+40)
@@ -79198,7 +79198,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 # Berstuc
 
 - Source: (LDM p77)(TOB p76)
-- TOB: Berstuc
+- Alias: Berstuc
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -79238,7 +79238,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 # Démon De Sève
 
 - Source: (LDM p78)(TOB p335)
-- TOB: Sap Demon
+- Alias: Sap Demon
 -  Vase de Petite taille (P), chaotique mauvaise
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (naturelle)
@@ -79275,7 +79275,7 @@ Certains apau perapes possèdent une action qui leur permet de convoquer d'autre
 # Démon Kishi
 
 - Source: (LDM p79)(TOB p77)
-- TOB: Kishi Demon
+- Alias: Kishi Demon
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle, bouclier)
 - **Points de vie** 119 (14d8+56)
@@ -79330,7 +79330,7 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 # Malakbel
 
 - Source: (LDM p80)(TOB p78)
-- TOB: Malakbel
+- Alias: Malakbel
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -79372,7 +79372,7 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 # Démon Psoglav
 
 - Source: (LDM p81)(TOB p79)
-- TOB: Psoglav Demon
+- Alias: Psoglav Demon
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 115 (11d10+55)
@@ -79414,7 +79414,7 @@ Certains démons kishis possèdent une action qui leur permet de convoquer d'aut
 # Rübezahl
 
 - Source: (LDM p82)(TOB p80)
-- TOB: Rubezahl
+- Alias: Rubezahl
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (17d8+34)
@@ -79465,7 +79465,7 @@ sorts 16, +8 pour toucher avec les attaques de sort). Il peut lancer les sorts s
 # Akyishigal, seigneur démon des cafards
 
 - Source: (LDM p84)(TOB p82)
-- TOB: Akyishigal, Demon Lord of Cockroaches
+- Alias: Akyishigal, Demon Lord of Cockroaches
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 138 (12d10+72)
@@ -79521,7 +79521,7 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 # Rejeton D'Akyishigal
 
 - Source: (LDM p85)(TOB p83)
-- TOB: Spawn of Akyishigal
+- Alias: Spawn of Akyishigal
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 119 (14d8+56)
@@ -79557,7 +79557,7 @@ Akyishigal peut faire 2 actions légendaires, parmi celles proposées ci-dessous
 # Alquam, seigneur démon de la nuit
 
 - Source: (LDM p86)(TOB p84)
-- TOB: Alquam, Demon Lord of Night
+- Alias: Alquam, Demon Lord of Night
 -  Fiélon (démon) de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 350 (28d12+168)
@@ -79653,7 +79653,7 @@ Si Alquam meurt, les conditions de la zone qui entoure son antre redeviennent no
 # Camazotz, seigneur démon des chauves-souris et du feu
 
 - Source: (LDM p87)(TOB p85)
-- TOB: Camazotz, Demon Lord of Bats and Fire
+- Alias: Camazotz, Demon Lord of Bats and Fire
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 537 (43d10+301)
@@ -79722,7 +79722,7 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 # Chauve-Souris De Peau
 
 - Source: (LDM p89)(TOB p87)
-- TOB: Skin Bat
+- Alias: Skin Bat
 -  Mort-vivant de Petite taille (P), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 14 (4d6)
@@ -79751,7 +79751,7 @@ Camazotz peut faire 2 actions légendaires, parmi celles proposées ci-dessous. 
 # Mechuiti, seigneur démon des grands singes
 
 - Source: (LDM p90)(TOB p88)
-- TOB: Mechuiti, Demon Lord of Apes
+- Alias: Mechuiti, Demon Lord of Apes
 -  Fiélon (démon) de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 370 (20d20+160)
@@ -79855,7 +79855,7 @@ Si Mechuiti meurt, tous ces effets régionaux prennent fin immédiatement.
 # Qorgeth, seigneur démon du ver insatiable
 
 - Source: (LDM p92)(TOB p90)
-- TOB: Qorgeth, Demon Lord of the Devouring Worm
+- Alias: Qorgeth, Demon Lord of the Devouring Worm
 -  Fiélon (démon) de taille Gigantesque (Gig), chaotique mauvais
 - **Classe d'armure** 21 (armure naturelle)
 - **Points de vie** 370 (20d20+160)
@@ -79947,7 +79947,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 # Antipaladin Des Ombres Derro
 
 - Source: (LDM p94)(TOB p93)
-- TOB: Derro Shadow Antipaladin
+- Alias: Derro Shadow Antipaladin
 -  Humanoïde (derro) de Petite taille (P), chaotique mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 18 (cuirasse et bouclier)
@@ -79997,7 +79997,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 # Savant Foetal Derro
 
 - Source: (LDM p95)(TOB p92)
-- TOB: Derro Fetal Savant
+- Alias: Derro Fetal Savant
 -  Humanoïde de Très Petite taille (TP), chaotique mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 15 (cage)
@@ -80035,7 +80035,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 # Dévoreur D'Âmes
 
 - Source: (LDM p96)(TOB p356)
-- TOB: Soul Eater
+- Alias: Soul Eater
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16
 - **Points de vie** 104 (16d8+32)
@@ -80073,7 +80073,7 @@ Si Qorgeth meurt, les conditions de la zone qui entoure son antre redeviennent n
 # Arbeyach
 
 - Source: (LDM p98)(TOB p95)
-- TOB: Arbeyach
+- Alias: Arbeyach
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 275 (22d10+154)
@@ -80139,7 +80139,7 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 # Rejeton D'Arbeyach
 
 - Source: (LDM p100)(TOB p97)
-- TOB: Spawn of Arbeyach
+- Alias: Spawn of Arbeyach
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 78 (12d8+24)
@@ -80180,7 +80180,7 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 # Ia'Affrat
 
 - Source: (LDM p101)(TOB p98)
-- TOB: Ia'Affrat
+- Alias: Ia'Affrat
 -  Nuée de Grande taille d'élémentaires de taille Minuscule (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d10+60)
@@ -80230,7 +80230,7 @@ Arbeyach peut faire 3 actions légendaires parmi celles proposées ci-dessous. I
 # Mammon
 
 - Source: (LDM p102)(TOB p99)
-- TOB: Mammon
+- Alias: Mammon
 -  Fiélon (diable) de Très Grande taille (TG), loyal mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 378 (28d12+196)
@@ -80320,7 +80320,7 @@ Si Mammon meurt, les conditions de la zone qui entoure son antre redeviennent no
 # Totivillus, le Scribe de l'Enfer
 
 - Source: (LDM p104)(TOB p101)
-- TOB: Totivillus, Scribe of Hell
+- Alias: Totivillus, Scribe of Hell
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 299 (26d8+182)
@@ -80398,7 +80398,7 @@ Totivillus peut faire 3 actions légendaires, parmi celles proposées ci- dessou
 # Diable Automate
 
 - Source: (LDM p105)(TOB p102)
-- TOB: Automata Devil
+- Alias: Automata Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d10+80)
@@ -80449,7 +80449,7 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 # Chort
 
 - Source: (LDM p107)(TOB p104)
-- TOB: Chort Devil
+- Alias: Chort Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 187 (15d8+120)
@@ -80497,7 +80497,7 @@ les sorts 16). Il peut lancer les sorts suivants de manière innée, sans compos
 # Diable Cristallin
 
 - Source: (LDM p108)(TOB p105)
-- TOB: Crystalline Devil
+- Alias: Crystalline Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -80551,7 +80551,7 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 # Diable D'Encre
 
 - Source: (LDM p109)(TOB p108)
-- TOB: Ink Devil
+- Alias: Ink Devil
 -  Fiélon (diable) de Petite taille (P), loyal mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d6+12)
@@ -80599,7 +80599,7 @@ Certains diables cristallins peuvent par une action convoquer d'autres diables.
 # Diable De Sel
 
 - Source: (LDM p110)(TOB p113)
-- TOB: Salt Devil
+- Alias: Salt Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
@@ -80648,7 +80648,7 @@ Certains diables de sel possèdent une action qui leur permet de convoquer d'aut
 # Diable Doré
 
 - Source: (LDM p111)(TOB p106)
-- TOB: Gilded Devil
+- Alias: Gilded Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (armure de pièces)
 - **Points de vie** 112 (15d8+45)
@@ -80716,7 +80716,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 # Koralk (Diable Moissonneur)
 
 - Source: (LDM p112)(TOB p108)
-- TOB: Koralk (Harvester Devil)
+- Alias: Koralk (Harvester Devil)
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 136 (16d10+48)
@@ -80757,7 +80757,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 # Diable Lunaire
 
 - Source: (LDM p114)(TOB p110)
-- TOB: Lunar Devil
+- Alias: Lunar Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 94 (9d10+45)
@@ -80815,7 +80815,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 # Diable Orobas
 
 - Source: (LDM p115)(TOB p111)
-- TOB: Orobas Devil
+- Alias: Orobas Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 261 (14d10+126)
@@ -80874,7 +80874,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 # Mbielu
 
 - Source: (LDM p117)(TOB p114)
-- TOB: Mbielu
+- Alias: Mbielu
 -  Bête de Très Grande taille (TG), non alignée
 - **Terrain** Littoral, Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -80907,7 +80907,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 # Ngobou
 
 - Source: (LDM p118)(TOB p115)
-- TOB: Ngobou
+- Alias: Ngobou
 -  Bête de Grande taille (G), non alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -80942,7 +80942,7 @@ Un objet est considéré comme un bijou s'il est fait d'un matériau précieux (
 # Spinosaure
 
 - Source: (LDM p119)(TOB p116)
-- TOB: Spinosaurus
+- Alias: Spinosaurus
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
@@ -80991,7 +80991,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Jeune Spinosaure
 
 - Source: (LDM p120)(TOB p117)
-- TOB: Young Spinosaurus
+- Alias: Young Spinosaurus
 -  Bête de Très Grande taille (TG), non alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
@@ -81024,7 +81024,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Dipsa
 
 - Source: (LDM p121)(TOB p118)
-- TOB: Dipsa
+- Alias: Dipsa
 -  Vase de Très Petite taille (TP), non alignée
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15
@@ -81059,7 +81059,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Dissimortuum
 
 - Source: (LDM p122)(TOB p119)
-- TOB: Dissimortuum
+- Alias: Dissimortuum
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
@@ -81094,7 +81094,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Domovoï
 
 - Source: (LDM p123)(TOB p122)
-- TOB: Domovoi
+- Alias: Domovoi
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
@@ -81130,7 +81130,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Doppelrat
 
 - Source: (LDM p124)(TOB p123)
-- TOB: Doppelrat
+- Alias: Doppelrat
 -  Créature monstrueuse de Très Petite taille (TP), non alignée
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 13
@@ -81164,7 +81164,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Dorreq
 
 - Source: (LDM p125)(TOB p124)
-- TOB: Dorreq
+- Alias: Dorreq
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 93 (17d8+17)
@@ -81204,7 +81204,7 @@ Un spinosaure peut faire trois actions légendaires parmi celles proposées ci-d
 # Dragon De Flammes, Adulte
 
 - Source: (LDM p126)(TOB p129)
-- TOB: Adult Flame Dragon
+- Alias: Adult Flame Dragon
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)
@@ -81261,7 +81261,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon De Flammes, Dragonnet
 
 - Source: (LDM p127)(TOB p131)
-- TOB: Flame Dragon Wyrmling
+- Alias: Flame Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -81294,7 +81294,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon De Flammes, Jeune
 
 - Source: (LDM p128)(TOB p130)
-- TOB: Young Flame Dragon
+- Alias: Young Flame Dragon
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
@@ -81333,7 +81333,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon De Flammes, Vénérable
 
 - Source: (LDM p128)(TOB p128)
-- TOB: Ancient Flame Dragon
+- Alias: Ancient Flame Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 22 (armure naturelle)
@@ -81418,7 +81418,7 @@ Si le dragon meurt, les disputes et malentendus se dissipent immédiatement et l
 # Dragon De Mithral, Adulte
 
 - Source: (LDM p130)(TOB p133)
-- TOB: Adult Mithral Dragon
+- Alias: Adult Mithral Dragon
 -  Dragon de Très Grande taille (TG), neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)
@@ -81487,7 +81487,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon De Mithral, Jeune
 
 - Source: (LDM p131)(TOB p134)
-- TOB: Young Mithral Dragon
+- Alias: Young Mithral Dragon
 -  Dragon de taille Moyenne (M), neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)
@@ -81530,7 +81530,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon De Mithral, Vénérable
 
 - Source: (LDM p131)(TOB p132)
-- TOB: Ancient Mithral Dragon
+- Alias: Ancient Mithral Dragon
 -  Dragon de taille Gigantesque (Gig), neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 20 (armure naturelle)
@@ -81640,7 +81640,7 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 # Dragon Des Cavernes, Adulte
 
 - Source: (LDM p133)(TOB p125)
-- TOB: Adult Cave Dragon
+- Alias: Adult Cave Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 18 (armure naturelle)
@@ -81712,7 +81712,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Des Cavernes, Dragonnet
 
 - Source: (LDM p135)(TOB p127)
-- TOB: Cave Dragon Wyrmling
+- Alias: Cave Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
@@ -81752,7 +81752,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Des Cavernes, Jeune
 
 - Source: (LDM p135)(TOB p127)
-- TOB: Young Cave Dragon
+- Alias: Young Cave Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
@@ -81802,7 +81802,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vent, Adulte
 
 - Source: (LDM p136)(TOB p143)
-- TOB: Wind Dragon, Adult
+- Alias: Wind Dragon, Adult
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)
@@ -81871,7 +81871,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vent, Dragonnet
 
 - Source: (LDM p137)(TOB p145)
-- TOB: Wind Dragon, Wyrmling
+- Alias: Wind Dragon, Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14
@@ -81905,7 +81905,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vent, Jeune
 
 - Source: (LDM p137)(TOB p144)
-- TOB: Wind Dragon, Young
+- Alias: Wind Dragon, Young
 -  Dragon de Grande taille (G), chaotique neutre
 - **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
@@ -81951,7 +81951,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vent, Vénérable
 
 - Source: (LDM p138)(TOB p142)
-- TOB: Wind Dragon, Ancient
+- Alias: Wind Dragon, Ancient
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)
@@ -82036,7 +82036,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vide, Adulte
 
 - Source: (LDM p140)(TOB p139)
-- TOB: Adult Void Dragon
+- Alias: Adult Void Dragon
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 229 (17d12+119)
@@ -82105,7 +82105,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vide, Dragonnet
 
 - Source: (LDM p141)(TOB p140)
-- TOB: Void Dragon Wyrmling
+- Alias: Void Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)
@@ -82149,7 +82149,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vide, Jeune
 
 - Source: (LDM p141)(TOB p140)
-- TOB: Young Void Dragon
+- Alias: Young Void Dragon
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -82198,7 +82198,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Du Vide, Vénérable
 
 - Source: (LDM p142)(TOB p138)
-- TOB: Ancient Void Dragon
+- Alias: Ancient Void Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 448 (23d20+207)
@@ -82297,7 +82297,7 @@ Si le dragon meurt, ces effets se dissipent graduellement au bout de 1d10 jours.
 # Dragon Marin, Adulte
 
 - Source: (LDM p144)(TOB p135)
-- TOB: Adult Sea Dragon
+- Alias: Adult Sea Dragon
 -  Dragon de Très Grande taille (TG), neutre mauvais
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)
@@ -82354,7 +82354,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Marin, Dragonnet
 
 - Source: (LDM p144)(TOB p136)
-- TOB: Sea Dragon Wyrmling
+- Alias: Sea Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 17 (armure naturelle)
@@ -82387,7 +82387,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Marin, Jeune
 
 - Source: (LDM p145)(TOB p136)
-- TOB: Young Sea Dragon
+- Alias: Young Sea Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Terrain** Caverne sous-marine
 - **Terrain** Mer / Océan
@@ -82429,7 +82429,7 @@ Le dragon peut faire trois actions légendaires parmi celles proposées ci-desso
 # Dragon Marin, Vénérable
 
 - Source: (LDM p145)(TOB p135)
-- TOB: Ancient Sea Dragon
+- Alias: Ancient Sea Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)
@@ -82514,7 +82514,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 # Murène Dragon
 
 - Source: (LDM p147)(TOB p146)
-- TOB: Dragon Eel
+- Alias: Dragon Eel
 -  Dragon de Très Grande taille (TG), neutre
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
@@ -82556,7 +82556,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 # Dragonette Lanterne
 
 - Source: (LDM p148)(TOB p270)
-- TOB: Lantern Dragonette
+- Alias: Lantern Dragonette
 -  Dragon de Très Petite taille (TP), loyal neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)
@@ -82593,7 +82593,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 # Drake De Cendres
 
 - Source: (LDM p149)(TOB p149)
-- TOB: Ash Drake
+- Alias: Ash Drake
 -  Dragon de Petite taille (P), neutre mauvais
 - **Terrain** Montagnes
 - **Classe d'armure** 16 (armure naturelle)
@@ -82631,7 +82631,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 # Drake De Corail
 
 - Source: (LDM p150)(TOB p150)
-- TOB: Coral Drake
+- Alias: Coral Drake
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)
@@ -82673,7 +82673,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 # Drake De Papier
 
 - Source: (LDM p151)(TOB p154)
-- TOB: Paper Drake
+- Alias: Paper Drake
 -  Dragon de Petite taille (P), neutre
 - **Classe d'armure** 13
 - **Points de vie** 78 (12d6+36)
@@ -82709,7 +82709,7 @@ Si le dragon meurt, les conditions de la mer qui entoure son antre redeviennent 
 # Drake De Rouille
 
 - Source: (LDM p152)(TOB p155)
-- TOB: Rust Drake
+- Alias: Rust Drake
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -82748,7 +82748,7 @@ ou une magie comparable.
 # Ancien Drake Des Ombres
 
 - Source: (LDM p153)(TOB p153)
-- TOB: Elder Shadow Drake
+- Alias: Elder Shadow Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
@@ -82791,7 +82791,7 @@ ou une magie comparable.
 # Drake Des Profondeurs
 
 - Source: (LDM p154)(TOB p152)
-- TOB: Deep Drake
+- Alias: Deep Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
@@ -82831,7 +82831,7 @@ ou une magie comparable.
 # Drake Des Tavernes
 
 - Source: (LDM p155)(TOB p148)
-- TOB: Alehouse Drake
+- Alias: Alehouse Drake
 -  Dragon de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 13
 - **Points de vie** 65 (10d4+40)
@@ -82875,7 +82875,7 @@ ou une magie comparable.
 # Drake Pourpre
 
 - Source: (LDM p156)(TOB p151)
-- TOB: Crimson Drake
+- Alias: Crimson Drake
 -  Dragon de taille Très Petite (TP), chaotique mauvais
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)
@@ -82913,7 +82913,7 @@ ou une magie comparable.
 # Drake Stellaire
 
 - Source: (LDM p157)(TOB p157)
-- TOB: Star Drake
+- Alias: Star Drake
 -  Dragon de Grande taille (G), neutre
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 19 (armure naturelle)
@@ -82977,7 +82977,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Drakon
 
 - Source: (LDM p158)(TOB p157)
-- TOB: Drakon
+- Alias: Drakon
 -  Bête de Grande taille (G), non alignée
 - **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)
@@ -83014,7 +83014,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Dryade Épine-Du-Crépuscule
 
 - Source: (LDM p159)(TOB p160)
-- TOB: Duskthorn Dryad
+- Alias: Duskthorn Dryad
 -  Fée de taille Moyenne (M), chaotique
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 17 (armure naturelle)
@@ -83060,7 +83060,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Dullahan
 
 - Source: (LDM p160)(TOB p161)
-- TOB: Dullahan
+- Alias: Dullahan
 -  Fée de Grande taille (G), loyale mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 178 (17d10+85)
@@ -83111,7 +83111,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Eala
 
 - Source: (LDM p161)(TOB p163)
-- TOB: Eala
+- Alias: Eala
 -  Créature monstrueuse de Petite taille (P), non-alignée
 - **Classe d'armure** 15 (naturelle)
 - **Points de vie** 40 (9d6+9)
@@ -83146,7 +83146,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Edimmu
 
 - Source: (LDM p162)(TOB p165)
-- TOB: Edimmu
+- Alias: Edimmu
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 15
@@ -83179,7 +83179,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Einherjar
 
 - Source: (LDM p163)(TOB p167)
-- TOB: Einherjar
+- Alias: Einherjar
 -  Humanoïde de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (cotte de mailles et bouclier)
 - **Points de vie** 119 (14d8+56)
@@ -83226,7 +83226,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Eleinomae
 
 - Source: (LDM p164)(TOB p168)
-- TOB: Eleinomae
+- Alias: Eleinomae
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 18
@@ -83270,7 +83270,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Fée des ombres
 
 - Source: (LDM p166)(TOB p171)
-- TOB: Shadow Fey
+- Alias: Shadow Fey
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 31 (7d8)
@@ -83308,7 +83308,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Chasseur forestier
 
 - Source: (LDM p166)(TOB p173)
-- TOB: Forest Hunter
+- Alias: Forest Hunter
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 104 (19d8+19)
@@ -83351,7 +83351,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Duelliste
 
 - Source: (LDM p167)(TOB p171)
-- TOB: Duelist
+- Alias: Duelist
 -  Humanoïde (elfe) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (armure de cuir clouté)
 - **Points de vie** 117 (18d8+36)
@@ -83396,7 +83396,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Enchanteresse
 
 - Source: (LDM p168)(TOB p172)
-- TOB: Enchantress
+- Alias: Enchantress
 -  Humanoïde (fée des ombres) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 123 (19d8+38)
@@ -83453,7 +83453,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Gardien
 
 - Source: (LDM p169)(TOB p174)
-- TOB: Guardian
+- Alias: Guardian
 -  Humanoïde (elfe) de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 110 (13d10+39)
@@ -83501,7 +83501,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Empoigneur Arboricole
 
 - Source: (LDM p170)(TOB p25)
-- TOB: Arboreal Grappler
+- Alias: Arboreal Grappler
 -  Aberration de taille Moyenne (M), neutre mauvais
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
@@ -83536,7 +83536,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Enfant Des Bruyères
 
 - Source: (LDM p171)(TOB p56)
-- TOB: Child of the Briar
+- Alias: Child of the Briar
 -  Plante de Très Petite taille (TP), neutre mauvaise
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13
@@ -83575,7 +83575,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Écornifleur Erina
 
 - Source: (LDM p172)(TOB p178)
-- TOB: Erina Scrounger
+- Alias: Erina Scrounger
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12 (armure de cuir)
@@ -83610,7 +83610,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Défenseur Erina
 
 - Source: (LDM p172)(TOB p178)
-- TOB: Erina Defender
+- Alias: Erina Defender
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (chemise de mailles)
@@ -83652,7 +83652,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Esclave Putresprit
 
 - Source: (LDM p173)(TOB p290)
-- TOB: Mindrot Thrall
+- Alias: Mindrot Thrall
 -  Plante de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 82 (11d8+33)
@@ -83689,7 +83689,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Esprit Du Feu
 
 - Source: (LDM p174)(TOB p202)
-- TOB: Firegeist
+- Alias: Firegeist
 -  Élémentaire de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 87 (25d6)
@@ -83729,7 +83729,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Étincelle
 
 - Source: (LDM p175)(TOB p357)
-- TOB: Spark
+- Alias: Spark
 -  Élémentaire de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 84 (13d4+52)
@@ -83766,7 +83766,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Fangeux
 
 - Source: (LDM p176)(TOB p292)
-- TOB: Miremal
+- Alias: Miremal
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13
@@ -83809,7 +83809,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # Far Darrig
 
 - Source: (LDM p177)(TOB p179)
-- TOB: Far Darrig
+- Alias: Far Darrig
 -  Fée de Petite taille (P), neutre
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de peau)
@@ -83851,7 +83851,7 @@ Le drake peut faire trois actions légendaires parmi celles proposées ci-dessou
 # La Reine de la Nuit et de la Magie
 
 - Source: (LDM p180)(TOB p192)
-- TOB: Queen of Night and Magic
+- Alias: Queen of Night and Magic
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 180 (24d8+72)
@@ -83965,7 +83965,7 @@ Si la Reine de la Nuit et de la Magie meurt, les conditions redeviennent normale
 # La Reine des Neiges
 
 - Source: (LDM p182)(TOB p198)
-- TOB: Snow Queen
+- Alias: Snow Queen
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 123 (19d8+38)
@@ -84059,7 +84059,7 @@ Si la Reine des Neiges meurt, les conditions redeviennent normales dans la zone 
 # La Reine des Sorcières
 
 - Source: (LDM p184)(TOB p194)
-- TOB: Queen of Witches
+- Alias: Queen of Witches
 -  Fée de Grande taille (G), neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 123 (13d10+52)
@@ -84151,7 +84151,7 @@ Si Nicnevin meurt, les conditions de la zone qui entoure son antre redeviennent 
 # Le Grand Veneur
 
 - Source: (LDM p186)(TOB p188)
-- TOB: Lord of the Hunt
+- Alias: Lord of the Hunt
 -  Fée de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 229 (27d8+108)
@@ -84243,7 +84243,7 @@ Quand le Grand Veneur meurt ou lève le camp, la région qui entoure celui-ci re
 # Le Roi Baigné de Lune
 
 - Source: (LDM p188)(TOB p190)
-- TOB: Moonlit King
+- Alias: Moonlit King
 -  Fée de taille Moyenne (M), neutre bonne
 - **Classe d'armure** 17 (demi-plate)
 - **Points de vie** 170 (20d8+80)
@@ -84339,7 +84339,7 @@ Si le Roi Baigné de Lune meurt, les conditions redeviennent normales dans la zo
 # Le Roi des Ours
 
 - Source: (LDM p190)(TOB p186)
-- TOB: Bear King
+- Alias: Bear King
 -  Fée (métamorphe) de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 133 (14d8+70)
@@ -84425,7 +84425,7 @@ Si le Roi des Ours meurt, les conditions redeviennent normales dans la zone qui 
 # Le Roi des Rivières
 
 - Source: (LDM p192)(TOB p196)
-- TOB: River King
+- Alias: River King
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 152 (16d8+80)
@@ -84519,7 +84519,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 # Felforgé
 
 - Source: (LDM p194)(TOB p182)
-- TOB: Fellforged
+- Alias: Fellforged
 -  Créature artificielle de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
@@ -84558,7 +84558,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 # Férocien
 
 - Source: (LDM p195)(TOB p338)
-- TOB: Savager
+- Alias: Savager
 -  Bête de Grande taille (G), neutre mauvaise
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
@@ -84595,7 +84595,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 # Fext
 
 - Source: (LDM p196)(TOB p183)
-- TOB: Fext
+- Alias: Fext
 -  Mort-vivant de taille Moyenne (M), n'importe quel alignement
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 60 (11d8+11)
@@ -84642,7 +84642,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 # Fils De Fenris
 
 - Source: (LDM p197)(TOB p355)
-- TOB: Son of Fenris
+- Alias: Son of Fenris
 -  Créature monstrueuse de Très Grande taille (TG), chaotique mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 175 (14d12+84)
@@ -84704,7 +84704,7 @@ Si le Roi des Rivières meurt, les conditions redeviennent normales dans la zone
 # Forgepeur
 
 - Source: (LDM p198)(TOB p181)
-- TOB: Fear Smith
+- Alias: Fear Smith
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 123 (19d8+38)
@@ -84750,7 +84750,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 # Fourmi Géante
 
 - Source: (LDM p199)(TOB p23)
-- TOB: Giant Ant
+- Alias: Giant Ant
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (7d10+14)
@@ -84781,7 +84781,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 # Reine Fourmi Géante
 
 - Source: (LDM p199)(TOB p23)
-- TOB: Giant Ant Queen
+- Alias: Giant Ant Queen
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)
@@ -84814,7 +84814,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 # Fraughashar
 
 - Source: (LDM p200)(TOB p206)
-- TOB: Fraughashar
+- Alias: Fraughashar
 -  Fée de Petite taille (P), neutre mauvaise
 - **Classe d'armure** 15 (armure de cuir, bouclier)
 - **Points de vie** 18 (4d6+4)
@@ -84849,7 +84849,7 @@ jet de sauvegarde mais, jusqu'au début de son prochain tour, elle doit considé
 # Gardien Spectral
 
 - Source: (LDM p201)(TOB p358)
-- TOB: Spectral Guardian
+- Alias: Spectral Guardian
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 110 (13d8+52)
@@ -84904,7 +84904,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 # Gbahali (Postosuchus)
 
 - Source: (LDM p202)(TOB p209)
-- TOB: Gbahali (Postosuchus)
+- Alias: Gbahali (Postosuchus)
 -  Bête de Très Grande taille (TG), non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -84941,7 +84941,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 # Géant Du Désert
 
 - Source: (LDM p203)(TOB p222)
-- TOB: Desert Giant
+- Alias: Desert Giant
 -  Géant de Très Grande taille (TG), neutre
 - **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)
@@ -84976,7 +84976,7 @@ Certains gardiens spectraux n'étaient pas des guerriers de leur vivant, mais de
 # Hraesvelgr Le Mangeur De Cadavres
 
 - Source: (LDM p204)(TOB p224)
-- TOB: Hraesvelgr the Corpse Swallower
+- Alias: Hraesvelgr the Corpse Swallower
 -  Géant (métamorphe (TG), titan) de Très Grande taille (TG), neutre
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 241 (12d12+105)
@@ -85066,7 +85066,7 @@ Si Hraesvelgr meurt, les conditions redeviennent normales dans la zone qui entou
 # Géant Jotun
 
 - Source: (LDM p206)(TOB p226)
-- TOB: Jotun Giant
+- Alias: Jotun Giant
 -  Géant de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 20 (armure naturelle)
@@ -85131,7 +85131,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Géant Obèse
 
 - Source: (LDM p207)(TOB p223)
-- TOB: Flab Giant
+- Alias: Flab Giant
 -  Géant de Grande taille (G), chaotique mauvais
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
@@ -85167,7 +85167,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Géant Thursir
 
 - Source: (LDM p208)(TOB p227)
-- TOB: Thursir Giant
+- Alias: Thursir Giant
 -  Géant de Grande taille (G), neutre mauvais (50 %) ou loyal mauvais (50 %)
 - **Classe d'armure** 13 (chemise de mailles)
 - **Points de vie** 114 (12d10+48)
@@ -85202,7 +85202,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Génie Al-Aeshma
 
 - Source: (LDM p209)(TOB p211)
-- TOB: Al-Aeshma Genie
+- Alias: Al-Aeshma Genie
 -  Élémentaire de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 172 (15d10+90)
@@ -85251,7 +85251,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Gerridé
 
 - Source: (LDM p210)(TOB p212)
-- TOB: Gerridae
+- Alias: Gerridae
 -  Fée de Grande taille (G), neutre
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 14
@@ -85285,7 +85285,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Gobelin Poussiéreux
 
 - Source: (LDM p211)(TOB p232)
-- TOB: Dust Goblin
+- Alias: Dust Goblin
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
 - **Terrain** Désert chaud, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 14 (armure de cuir)
@@ -85317,7 +85317,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Golem À Vapeur
 
 - Source: (LDM p212)(TOB p237)
-- TOB: Steam Golem
+- Alias: Steam Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 171 (18d10+72)
@@ -85364,7 +85364,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Golem De Sel
 
 - Source: (LDM p213)(TOB p235)
-- TOB: Salt Golem
+- Alias: Salt Golem
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 110 (11d10+55)
 - **Vitesse** 6 m
@@ -85401,7 +85401,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Golem Oculaire
 
 - Source: (LDM p214)(TOB p233)
-- TOB: Eye Golem
+- Alias: Eye Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 157 (15d10+75)
@@ -85443,7 +85443,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Golem Smaragdin
 
 - Source: (LDM p215)(TOB p236)
-- TOB: Smaragdine Golem
+- Alias: Smaragdine Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
@@ -85482,7 +85482,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Golem Trésor
 
 - Source: (LDM p216)(TOB p234)
-- TOB: Hoard Golem
+- Alias: Hoard Golem
 -  Créature artificielle de Très Grande taille (TG), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 161 (14d12+70)
@@ -85523,7 +85523,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Goule Darakhule
 
 - Source: (LDM p217)(TOB p216)
-- TOB: Ghoul, Darakhul
+- Alias: Ghoul, Darakhul
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)
@@ -85567,7 +85567,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Goule De Fer
 
 - Source: (LDM p218)(TOB p221)
-- TOB: Ghoul, Iron
+- Alias: Ghoul, Iron
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)
@@ -85605,7 +85605,7 @@ Le géant jotun peut faire une action légendaire à la fin du tour d'une autre 
 # Empereur Des Goules
 
 - Source: (LDM p219)(TOB p218)
-- TOB: Emperor of the Ghouls
+- Alias: Emperor of the Ghouls
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 204 (24d8+96)
@@ -85713,7 +85713,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 # Goule Impériale
 
 - Source: (LDM p222)(TOB p220)
-- TOB: Ghoul, Imperial
+- Alias: Ghoul, Imperial
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)
@@ -85749,7 +85749,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 # Goule Mendiante
 
 - Source: (LDM p223)(TOB p213)
-- TOB: Beggar Ghoul
+- Alias: Beggar Ghoul
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 12
@@ -85783,7 +85783,7 @@ Si l'empereur meurt, les conditions redeviennent normales dans la zone qui entou
 # Goule Poudre D'Os
 
 - Source: (LDM p224)(TOB p214)
-- TOB: Bonepowder Ghoul
+- Alias: Bonepowder Ghoul
 -  Mort-vivant de Petite taille (P), neutre mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
@@ -85851,7 +85851,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Gremlin Azza
 
 - Source: (LDM p226)(TOB p28)
-- TOB: Azza Gremlin
+- Alias: Azza Gremlin
 -  Fée de Petite taille (P), neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 14
@@ -85884,7 +85884,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Gremlin Rhumé
 
 - Source: (LDM p227)(TOB p239)
-- TOB: Rum Gremlin
+- Alias: Rum Gremlin
 -  Fée de Très Petite taille  (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 22 (5d4+10)
@@ -85925,7 +85925,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Guenaude Des Sables
 
 - Source: (LDM p228)(TOB p245)
-- TOB: Sanf Hag
+- Alias: Sanf Hag
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Désert chaud
 - **Classe d'armure** 17 (armure naturelle)
@@ -85970,7 +85970,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Guenaude Miroir
 
 - Source: (LDM p229)(TOB p229)
-- TOB: Mirror Hag
+- Alias: Mirror Hag
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 168 (16d8+96)
@@ -86013,7 +86013,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Guenaude Rouge
 
 - Source: (LDM p230)(TOB p244)
-- TOB: Red Hag
+- Alias: Red Hag
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 119 (14d8+56)
@@ -86060,7 +86060,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Guenaude Sanglante
 
 - Source: (LDM p231)(TOB p242)
-- TOB: Blood Hag
+- Alias: Blood Hag
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 178 (21d8+84)
@@ -86115,7 +86115,7 @@ La maladie se répand surtout chez les humains, mais comme elle peut affecter le
 # Gug
 
 - Source: (LDM p232)(TOB p241)
-- TOB: Gug
+- Alias: Gug
 -  Géant de Très Grande taille (TG), neutre mauvais
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -86165,7 +86165,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 # Habitant De Leng
 
 - Source: (LDM p233)(TOB p204)
-- TOB: Folk of Leng
+- Alias: Folk of Leng
 -  Humanoïde de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14 (armure de cuir clouté)
 - **Points de vie** 68 (8d8+32)
@@ -86213,7 +86213,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 # Harpie Chouette
 
 - Source: (LDM p234)(TOB p246)
-- TOB: Owl Harpy
+- Alias: Owl Harpy
 -  Créature monstrueuse de taille Moyenne (M), neutre mauvaise
 - **Terrain** Désert chaud, Jungle
 - **Classe d'armure** 14
@@ -86255,7 +86255,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 # Haugbui
 
 - Source: (LDM p235)(TOB p247)
-- TOB: Haugbui
+- Alias: Haugbui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)
@@ -86313,7 +86313,7 @@ Le gug peut faire trois actions légendaires parmi celles proposées ci-dessous.
 # Héraut Des Ténèbres
 
 - Source: (LDM p236)(TOB p249)
-- TOB: Herald of Darkness
+- Alias: Herald of Darkness
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 105 (10d10+50)
@@ -86357,7 +86357,7 @@ jets de sauvegarde physiques, peut traverser n'importe quel fossé ou ouverture,
 # Héraut Du Sang
 
 - Source: (LDM p237)(TOB p248)
-- TOB: Herald of Blood
+- Alias: Herald of Blood
 -  Fiélon de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 115 (10d12+50)
@@ -86409,7 +86409,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 # Escarmoucheur Homme-Cafard
 
 - Source: (LDM p238)(TOB p329)
-- TOB: Roachling Skirmisher
+- Alias: Roachling Skirmisher
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
@@ -86443,7 +86443,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 # Seigneur Homme-Cafard
 
 - Source: (LDM p238)(TOB p329)
-- TOB: Roachling Lord
+- Alias: Roachling Lord
 -  Humanoïde (homme-cafard) de Petite taille (P), chaotique neutre
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
@@ -86479,7 +86479,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 # Homme-Chèvre
 
 - Source: (LDM p239)(TOB p231)
-- TOB: Goat-Man
+- Alias: Goat-Man
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)
@@ -86515,7 +86515,7 @@ Le héraut du sang peut faire 3 actions légendaires parmi celles proposées ci-
 # Combattant Homme-Corbeau
 
 - Source: (LDM p240)(TOB p323)
-- TOB: Ravenfolk Warrior
+- Alias: Ravenfolk Warrior
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -86565,7 +86565,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Croasseur Funeste Homme-Corbeau
 
 - Source: (LDM p241)(TOB p324)
-- TOB: Ravenfolk Doom Croaker
+- Alias: Ravenfolk Doom Croaker
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)
@@ -86609,7 +86609,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Éclaireur Homme-Corbeau
 
 - Source: (LDM p242)(TOB p322)
-- TOB: Ravenfolk Scout
+- Alias: Ravenfolk Scout
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14 (armure de cuir clouté)
@@ -86647,7 +86647,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Homme-Lémurien
 
 - Source: (LDM p243)(TOB p271)
-- TOB: Lemurfolk
+- Alias: Lemurfolk
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Terrain** Jungle
 - **Classe d'armure** 13
@@ -86680,7 +86680,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Homme-Lémurien Fourrure Grise
 
 - Source: (LDM p243)(TOB p271)
-- TOB: Lemurfolk Greyfur
+- Alias: Lemurfolk Greyfur
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Terrain** Jungle
 - **Classe d'armure** 13 (16 avec armure du mage )
@@ -86723,7 +86723,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Homme-Ours
 
 - Source: (LDM p244)(TOB p33)
-- TOB: Bearfold
+- Alias: Bearfold
 -  Humanoïde (homme-ours) de taille Moyenne (M), chaotique bon
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure de peau)
@@ -86759,7 +86759,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Homme-Rat
 
 - Source: (LDM p245)(TOB p320)
-- TOB: Ratfolk
+- Alias: Ratfolk
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir clouté)
@@ -86792,7 +86792,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Roublard Homme-Rat
 
 - Source: (LDM p245)(TOB p320)
-- TOB: Ratfolk Rogue
+- Alias: Ratfolk Rogue
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -86831,7 +86831,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Horakh
 
 - Source: (LDM p246)(TOB p250)
-- TOB: Horakh
+- Alias: Horakh
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
@@ -86869,7 +86869,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Hundun
 
 - Source: (LDM p247)(TOB p253)
-- TOB: Hundun
+- Alias: Hundun
 -  Céleste de Grande taille (G), chaotique bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -86927,7 +86927,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Idole Divine
 
 - Source: (LDM p248)(TOB p255)
-- TOB: Idolic Deity
+- Alias: Idolic Deity
 -  Créature artificielle de Petite taille (P), neutre mauvaise
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
@@ -86969,7 +86969,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Imy-Ut Ushabti
 
 - Source: (LDM p249)(TOB p256)
-- TOB: Imy-Ut Ushabti
+- Alias: Imy-Ut Ushabti
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 97 (15d8+30)
@@ -87006,7 +87006,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Isonade
 
 - Source: (LDM p250)(TOB p257)
-- TOB: Isonade
+- Alias: Isonade
 -  Créature monstrueuse de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Littoral
 - **Classe d'armure** 18 (armure naturelle)
@@ -87057,7 +87057,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Jaculus
 
 - Source: (LDM p251)(TOB p258)
-- TOB: Jaculus
+- Alias: Jaculus
 -  Dragon de Petite taille (P), neutre mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)
@@ -87092,7 +87092,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Kalke
 
 - Source: (LDM p252)(TOB p259)
-- TOB: Kalke
+- Alias: Kalke
 -  Fiélon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)
@@ -87124,7 +87124,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Kikimore
 
 - Source: (LDM p253)(TOB p260)
-- TOB: Kikimora
+- Alias: Kikimora
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 65 (10d8+20)
@@ -87165,7 +87165,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Alchimiste Kobold
 
 - Source: (LDM p254)(TOB p261)
-- TOB: Kobold Alchemist
+- Alias: Kobold Alchemist
 -  Humanoïde (kobold) de Petite taille (P), loyal neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -87209,7 +87209,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Chef Kobold
 
 - Source: (LDM p256)(TOB p263)
-- TOB: Kobold Chieftain
+- Alias: Kobold Chieftain
 -  Humanoïde (kobold) de Petite taille (P), loyal mauvais
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 17 (armure de cuir clouté et bouclier)
@@ -87252,7 +87252,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Forgepiège Kobold
 
 - Source: (LDM p257)(TOB p264)
-- TOB: Kobold Trapsmith
+- Alias: Kobold Trapsmith
 -  Humanoïde de Petite taille (P), loyal neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir)
@@ -87293,7 +87293,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Kongamato
 
 - Source: (LDM p258)(TOB p265)
-- TOB: Kongamato
+- Alias: Kongamato
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)
@@ -87330,7 +87330,7 @@ Certains combattants n'ont pas accès aux armes runiques et utilisent une rapiè
 # Koschei
 
 - Source: (LDM p259)(TOB p266)
-- TOB: Koschei
+- Alias: Koschei
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 135 (18d8+54)
@@ -87418,7 +87418,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Kot Bayun
 
 - Source: (LDM p261)(TOB p268)
-- TOB: Kot Bayun
+- Alias: Kot Bayun
 -  Créature monstrueuse de taille Moyenne (M), neutre
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15
@@ -87459,7 +87459,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Larve De Krake
 
 - Source: (LDM p262)(TOB p269)
-- TOB: Krake Spawn
+- Alias: Krake Spawn
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
@@ -87508,7 +87508,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Larve Stellaire De Cthulhu
 
 - Source: (LDM p263)(TOB p368)
-- TOB: Star Spawn of Cthulhu
+- Alias: Star Spawn of Cthulhu
 -  Fiélon de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 187 (15d10+105)
@@ -87550,7 +87550,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Léchy
 
 - Source: (LDM p264)(TOB p272)
-- TOB: Leshy
+- Alias: Leshy
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)
@@ -87591,7 +87591,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Lente Tempête
 
 - Source: (LDM p265)(TOB p353)
-- TOB: Slow Storm
+- Alias: Slow Storm
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 19
@@ -87643,7 +87643,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Cavalier De Baba Yaga, Base
 
 - Source: (LDM p267)(TOB p30)
-- TOB: Baba Yaga's Horsemen, Base
+- Alias: Baba Yaga's Horsemen, Base
 -  Fée de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 20 (harnois et bouclier)
 - **Points de vie** 171 (18d8+90)
@@ -87691,7 +87691,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Liche Canine
 
 - Source: (LDM p268)(TOB p274)
-- TOB: Lich Hound
+- Alias: Lich Hound
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 119 (14d8+56)
@@ -87729,7 +87729,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Likho
 
 - Source: (LDM p269)(TOB p275)
-- TOB: Likho
+- Alias: Likho
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
@@ -87773,7 +87773,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Limon Des Sarcophages
 
 - Source: (LDM p270)(TOB p336)
-- TOB: Sarcophagus Slime
+- Alias: Sarcophagus Slime
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 11
@@ -87812,7 +87812,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Linceul
 
 - Source: (LDM p271)(TOB p348)
-- TOB: Shroud
+- Alias: Shroud
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d8)
@@ -87850,7 +87850,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Lindwurm
 
 - Source: (LDM p272)(TOB p276)
-- TOB: Lindwurm
+- Alias: Lindwurm
 -  Dragon de Grande taille (G), neutre mauvais
 - **Terrain** Arctique / Subarctique, Littoral
 - **Classe d'armure** 15
@@ -87892,7 +87892,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Liosalfar
 
 - Source: (LDM p273)(TOB p277)
-- TOB: Liosalfar
+- Alias: Liosalfar
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 17
 - **Points de vie** 110 (20d10)
@@ -87942,7 +87942,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Locus Élémentaire
 
 - Source: (LDM p274)(TOB p169)
-- TOB: Elemental Locus
+- Alias: Elemental Locus
 -  Élémentaire de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 290 (20d20+80)
@@ -87984,7 +87984,7 @@ Si Koschei meurt, la région qui entoure son antre revient à la normale en 1d10
 # Lorelei
 
 - Source: (LDM p275)(TOB p279)
-- TOB: Lorelei
+- Alias: Lorelei
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Littoral
 - **Classe d'armure** 15 (18 avec armure du mage)
@@ -88035,7 +88035,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Loxoda
 
 - Source: (LDM p276)(TOB p280)
-- TOB: Loxoda
+- Alias: Loxoda
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure naturelle)
@@ -88070,7 +88070,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Lynx Vaporeux
 
 - Source: (LDM p277)(TOB p398)
-- TOB: Vapor Lynx
+- Alias: Vapor Lynx
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
@@ -88109,7 +88109,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Mahoru
 
 - Source: (LDM p278)(TOB p281)
-- TOB: Mahoru
+- Alias: Mahoru
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
@@ -88157,7 +88157,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Mallqui
 
 - Source: (LDM p279)(TOB p282)
-- TOB: Mallqui
+- Alias: Mallqui
 -  Mort-vivant de taille Moyenne (M), loyal neutre
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)
@@ -88208,7 +88208,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Malphas (Corbeau De Tempête)
 
 - Source: (LDM p280)(TOB p283)
-- TOB: Malphas (Storm Crow)
+- Alias: Malphas (Storm Crow)
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure de cuir clouté)
 - **Points de vie** 120 (16d8+48)
@@ -88253,7 +88253,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Mamura
 
 - Source: (LDM p281)(TOB p284)
-- TOB: Mamura
+- Alias: Mamura
 -  Aberration (fée) de Petite taille (P), neutre mauvaise.
 - **Terrain** Mangrove / Marécage, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
@@ -88296,7 +88296,7 @@ dès qu'elle est en contact avec une étendue d'eau.
 # Mangedestin
 
 - Source: (LDM p282)(TOB p180)
-- TOB: Fate Eater
+- Alias: Fate Eater
 -  Aberration de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 182 (28d8+56)
@@ -88341,7 +88341,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Mangepoussière (Yakat-Shi)
 
 - Source: (LDM p283)(TOB p164)
-- TOB: Eater of Dust (Yakat-Shi)
+- Alias: Eater of Dust (Yakat-Shi)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 114 (12d8+60)
@@ -88385,7 +88385,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Mangerêve
 
 - Source: (LDM p284)(TOB p158)
-- TOB: Dream Eater
+- Alias: Dream Eater
 -  Fiélon de taille Moyenne (M), loyal mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
@@ -88433,7 +88433,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Manteau Vide
 
 - Source: (LDM p285)(TOB p176)
-- TOB: Empty Cloak
+- Alias: Empty Cloak
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d8)
@@ -88474,7 +88474,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Maraudeur Des Forêts
 
 - Source: (LDM p286)(TOB p205)
-- TOB: Forest Marauder
+- Alias: Forest Marauder
 -  Géant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 114 (12d10 +48)
@@ -88506,7 +88506,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Marchand De Sable
 
 - Source: (LDM p287)(TOB p333)
-- TOB: Sandman
+- Alias: Sandman
 -  Céleste de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 82 (11d8+33)
@@ -88552,7 +88552,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Marcheflèche
 
 - Source: (LDM p288)(TOB p367)
-- TOB: Spire Walker
+- Alias: Spire Walker
 -  Fée de Très Petite taille (TP), neutre
 - **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)
@@ -88593,7 +88593,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Mavka
 
 - Source: (LDM p289)(TOB p286)
-- TOB: Mavka
+- Alias: Mavka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d8+80)
@@ -88638,7 +88638,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Abomination Mécanique
 
 - Source: (LDM p290)(TOB p59)
-- TOB: Clockwork Abomination
+- Alias: Clockwork Abomination
 -  Créature artificielle (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 76(8d10+32)
@@ -88682,7 +88682,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Araignée Tisseuse Mécanique
 
 - Source: (LDM p291)(TOB p66)
-- TOB: Weaving Spider
+- Alias: Weaving Spider
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 25 (10d4)
@@ -88719,7 +88719,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Chasseur Mécanique
 
 - Source: (LDM p292)(TOB p63)
-- TOB: Clockwork Huntsman
+- Alias: Clockwork Huntsman
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 14
 - **Points de vie** 110 (20d8+20)
@@ -88758,7 +88758,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Chien Mécanique
 
 - Source: (LDM p293)(TOB p62)
-- TOB: Clockwork Hound
+- Alias: Clockwork Hound
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 71 (11d8+22)
@@ -88797,7 +88797,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Gendarme Mécanique
 
 - Source: (LDM p294)(TOB p65)
-- TOB: Clockwork Watchman
+- Alias: Clockwork Watchman
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 55 (10d8+10)
@@ -88834,7 +88834,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Myrmidon Mécanique
 
 - Source: (LDM p295)(TOB p64)
-- TOB: Clockwork Myrmidon
+- Alias: Clockwork Myrmidon
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)
@@ -88877,7 +88877,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Scarabée Mécanique
 
 - Source: (LDM p296)(TOB p60)
-- TOB: Clockwork Beetle
+- Alias: Clockwork Beetle
 -  Créature artificielle de Très Petite taille (TP), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 15 (6d4)
@@ -88910,7 +88910,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Mèche Vivante
 
 - Source: (LDM p297)(TOB p278)
-- TOB: Living Wick
+- Alias: Living Wick
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
@@ -88947,7 +88947,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Médazur À Défenses
 
 - Source: (LDM p298)(TOB p391)
-- TOB: Tusked Skyfish
+- Alias: Tusked Skyfish
 -  Aberration de Grande taille (G), loyale bonne
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
@@ -88982,7 +88982,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Mélasse
 
 - Source: (LDM p299)(TOB p387)
-- TOB: Treacle
+- Alias: Treacle
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (4d4+12)
@@ -89014,7 +89014,7 @@ Les effets 3 à 6 sont permanents jusqu'à ce que le personnage réussisse un je
 # Mi-Go
 
 - Source: (LDM p300)(TOB p287)
-- TOB: Mi-Go
+- Alias: Mi-Go
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76 (8d8+40)
@@ -89055,7 +89055,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # Millitaure
 
 - Source: (LDM p301)(TOB p288)
-- TOB: Millitaur
+- Alias: Millitaur
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
@@ -89086,7 +89086,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # Mimique Carte
 
 - Source: (LDM p302)(TOB p289)
-- TOB: Map Mimic
+- Alias: Map Mimic
 -  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
@@ -89122,7 +89122,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # Mimique Des Dunes
 
 - Source: (LDM p303)(TOB p162)
-- TOB: Dune Mimic
+- Alias: Dune Mimic
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
 - **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
@@ -89163,7 +89163,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # Mirageur
 
 - Source: (LDM p304)(TOB p291)
-- TOB: Mirager
+- Alias: Mirager
 -  Fée (métamorphe) de taille Moyenne (M), neutre mauvaise
 - **Terrain** Désert chaud
 - **Classe d'armure** 13
@@ -89206,7 +89206,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # Mngwa
 
 - Source: (LDM p305)(TOB p293)
-- TOB: Mngwa
+- Alias: Mngwa
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16
@@ -89247,7 +89247,7 @@ griffes et qu'il est avantagé lors de son jet d'attaque, ou si elle se trouve d
 # Molosse Nocturne
 
 - Source: (LDM p306)(TOB p251)
-- TOB: Hound of the night
+- Alias: Hound of the night
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 112 (15d10+30)
@@ -89285,7 +89285,7 @@ dépassent leurs compétences.
 # Momie Venimeuse
 
 - Source: (LDM p307)(TOB p299)
-- TOB: Venomous Mummy
+- Alias: Venomous Mummy
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Terrain** Désert chaud, Ruines souterraines
 - **Classe d'armure** 11 (armure naturelle)
@@ -89320,7 +89320,7 @@ dépassent leurs compétences.
 # Champion Monolithique
 
 - Source: (LDM p308)(TOB p294)
-- TOB: Monolith Champion
+- Alias: Monolith Champion
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d10+36)
@@ -89355,7 +89355,7 @@ dépassent leurs compétences.
 # Valet Monolithique
 
 - Source: (LDM p309)(TOB p295)
-- TOB: Monolith Footman
+- Alias: Monolith Footman
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 60 (8d10+16)
@@ -89390,7 +89390,7 @@ dépassent leurs compétences.
 # Montagne De Cadavres
 
 - Source: (LDM p310)(TOB p69)
-- TOB: Corpse Mound
+- Alias: Corpse Mound
 -  Mort-vivant de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 207 (18d12+90)
@@ -89431,7 +89431,7 @@ dépassent leurs compétences.
 # Morphoï
 
 - Source: (LDM p311)(TOB p297)
-- TOB: Morphoi
+- Alias: Morphoi
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Littoral
 - **Classe d'armure** 13 (parfois plus avec une armure)
@@ -89467,7 +89467,7 @@ dépassent leurs compétences.
 # Mort Follet
 
 - Source: (LDM p312)(TOB p72)
-- TOB: Deathwisp
+- Alias: Deathwisp
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 15
 - **Points de vie** 82 (11d8+33)
@@ -89509,7 +89509,7 @@ dépassent leurs compétences.
 # Mousse Luminescente Des Cavernes
 
 - Source: (LDM p313)(TOB p53)
-- TOB: Cavelight Moss
+- Alias: Cavelight Moss
 -  Plante de Grande taille (G), neutre
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
@@ -89541,7 +89541,7 @@ dépassent leurs compétences.
 # Myling
 
 - Source: (LDM p314)(TOB p301)
-- TOB: Myling
+- Alias: Myling
 -  Mort-vivant de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d6+10)
@@ -89576,7 +89576,7 @@ dépassent leurs compétences.
 # Naïna
 
 - Source: (LDM p315)(TOB p302)
-- TOB: Naina
+- Alias: Naina
 -  Dragon (métamorphe) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)
@@ -89635,7 +89635,7 @@ dépassent leurs compétences.
 # Nécrophage Masqué
 
 - Source: (LDM p316)(TOB p285)
-- TOB: Mask Wight
+- Alias: Mask Wight
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 207 (18d8 +126)
@@ -89682,7 +89682,7 @@ dépassent leurs compétences.
 # Nécrophore
 
 - Source: (LDM p317)(TOB p52)
-- TOB: Carrion Beetle
+- Alias: Carrion Beetle
 -  Bête de Grande taille (G), neutre
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
@@ -89715,7 +89715,7 @@ dépassent leurs compétences.
 # Nichny
 
 - Source: (LDM p318)(TOB p303)
-- TOB: Nichny
+- Alias: Nichny
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 112 (15d8+45)
@@ -89765,7 +89765,7 @@ dépassent leurs compétences.
 # Nkosi
 
 - Source: (LDM p319)(TOB p306)
-- TOB: Nkosi
+- Alias: Nkosi
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -89802,7 +89802,7 @@ dépassent leurs compétences.
 # Chef De Meute Nkosi
 
 - Source: (LDM p319)(TOB p306)
-- TOB: Nkosi Pridelord
+- Alias: Nkosi Pridelord
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure de cuir clouté)
@@ -89845,7 +89845,7 @@ dépassent leurs compétences.
 # Autruche de guerre
 
 - Source: (LDM p320)(TOB p307)
-- TOB: War Ostrich
+- Alias: War Ostrich
 -  Bête de Grande taille (G), non alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
@@ -89872,7 +89872,7 @@ dépassent leurs compétences.
 # Noctegarm
 
 - Source: (LDM p322)(TOB p305)
-- TOB: Nightgarm
+- Alias: Nightgarm
 -  Créature monstrueuse de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 114 (12d10+48)
@@ -89912,7 +89912,7 @@ dépassent leurs compétences.
 # Factice noctegarm
 
 - Source: (LDM p322)(TOB p305)
-- TOB: Nightgarm Falseman
+- Alias: Nightgarm Falseman
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Vulnérabilité aux dégâts** radiants; aux armes en argent
 
@@ -89927,7 +89927,7 @@ dépassent leurs compétences.
 # Noctin
 
 - Source: (LDM p323)(TOB p308)
-- TOB: Noctiny
+- Alias: Noctiny
 -  Humanoïde (noctin) de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure de cuir clouté)
 - **Points de vie** 52 (8d8+16)
@@ -89967,7 +89967,7 @@ dépassent leurs compétences.
 # Nuée D'Esprits Lupins
 
 - Source: (LDM p324)(TOB p377)
-- TOB: Wolf Spirit Swarm
+- Alias: Wolf Spirit Swarm
 -  Nuée de Grande taille de morts-vivants de taille Moyenne (G), neutre
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
@@ -90006,7 +90006,7 @@ dépassent leurs compétences.
 # Nuée D'Yeux
 
 - Source: (LDM p325)(TOB p309)
-- TOB: Oculo Swarm
+- Alias: Oculo Swarm
 -  Nuée de Grande taille d'aberrations de taille Minuscule (G), neutre
 - **Classe d'armure** 15
 - **Points de vie** 110 (13d10+39)
@@ -90038,7 +90038,7 @@ dépassent leurs compétences.
 # Nuée De Danseflammes
 
 - Source: (LDM p326)(TOB p373)
-- TOB: Fire Dancer Swarm
+- Alias: Fire Dancer Swarm
 -  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 15
@@ -90075,7 +90075,7 @@ dépassent leurs compétences.
 # Nuée de Papillons de Mort
 
 - Source: (LDM p327)(TOB p71)
-- TOB: Death Butterfly Swarm
+- Alias: Death Butterfly Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -90111,7 +90111,7 @@ dépassent leurs compétences.
 # Grande Nuée de Papillons de Mort
 
 - Source: (LDM p327)(TOB p71)
-- TOB: Greater Death Butterfly Swarm
+- Alias: Greater Death Butterfly Swarm
 -  Nuée de Très Grande taille de bêtes de Très Petite taille (TP), chaotique mauvaise
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -90147,7 +90147,7 @@ dépassent leurs compétences.
 # Nuée De Scarabées Manavores
 
 - Source: (LDM p328)(TOB p374)
-- TOB: Manabane Scarab Swarm
+- Alias: Manabane Scarab Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
@@ -90184,7 +90184,7 @@ dépassent leurs compétences.
 # Nuée De Scarabées Mécaniques
 
 - Source: (LDM p329)(TOB p61)
-- TOB: Clockwork Beetle Swarm
+- Alias: Clockwork Beetle Swarm
 -  Grande nuée de créatures artificielles de Très Petite taille (TP), neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 52 (8d10+8)
@@ -90210,7 +90210,7 @@ dépassent leurs compétences.
 # Nuée De Scarabées Prismatiques
 
 - Source: (LDM p330)(TOB p375)
-- TOB: Prismatic Beetle Swarm
+- Alias: Prismatic Beetle Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13
@@ -90244,7 +90244,7 @@ dépassent leurs compétences.
 # Nuée De Sluaghs
 
 - Source: (LDM p331)(TOB p376)
-- TOB: Sluagh Swarm
+- Alias: Sluagh Swarm
 -  Nuée de taille Moyenne de fées de taille Très Petite (TP), chaotique mauvaise
 - **Classe d'armure** 13
 - **Points de vie** 54 (12d8)
@@ -90279,7 +90279,7 @@ dépassent leurs compétences.
 # Nuée Osseuse
 
 - Source: (LDM p332)(TOB p41)
-- TOB: Bone Swarm
+- Alias: Bone Swarm
 -  Nuée de Grande taille de morts-vivants de Très Petite taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 198 (36d10)
@@ -90318,7 +90318,7 @@ dépassent leurs compétences.
 # Oeil D'Émeraude
 
 - Source: (LDM p333)(TOB p175)
-- TOB: Emerald Eye
+- Alias: Emerald Eye
 -  Créature artificielle de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d4+24)
@@ -90358,7 +90358,7 @@ dépassent leurs compétences.
 # Oiseau De Feu
 
 - Source: (LDM p334)(TOB p201)
-- TOB: Firebird
+- Alias: Firebird
 -  Céleste de Petite taille (P), neutre bon
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 99 (18d6+36)
@@ -90404,7 +90404,7 @@ dépassent leurs compétences.
 # Ostinato
 
 - Source: (LDM p335)(TOB p335)
-- TOB: Ostinato
+- Alias: Ostinato
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15
 - **Points de vie** 39 (6d8+12)
@@ -90446,7 +90446,7 @@ dépassent leurs compétences.
 # Ovasis
 
 - Source: (LDM p336)(TOB p310)
-- TOB: Oozasis
+- Alias: Oozasis
 -  Vase de taille Gigantesque (Gig), non alignée
 - **Terrain** Désert chaud, Mangrove / Marécage
 - **Classe d'armure** 7
@@ -90490,7 +90490,7 @@ dépassent leurs compétences.
 # Pavenuée
 
 - Source: (LDM p337)(TOB p68)
-- TOB: Cobbleswarm
+- Alias: Cobbleswarm
 -  Nuée de Grande taille composée de bêtes de Très Petite taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 36 (8d8)
@@ -90526,7 +90526,7 @@ dépassent leurs compétences.
 # Piège Caustique
 
 - Source: (LDM p338)(TOB p296)
-- TOB: Mordant Snare
+- Alias: Mordant Snare
 -  Aberration de taille Gigantesque (Gig), chaotique mauvaise
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
@@ -90570,7 +90570,7 @@ dépassent leurs compétences.
 # Pombero
 
 - Source: (LDM p339)(TOB p313)
-- TOB: Pombero
+- Alias: Pombero
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
@@ -90611,7 +90611,7 @@ dépassent leurs compétences.
 # Pourceau Des Failles
 
 - Source: (LDM p340)(TOB p326)
-- TOB: Rift Swine
+- Alias: Rift Swine
 -  Aberration de Grande taille (G), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (13d10+39)
@@ -90652,7 +90652,7 @@ dépassent leurs compétences.
 # Primate Blanc
 
 - Source: (LDM p341)(TOB p408)
-- TOB: White Ape
+- Alias: White Ape
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)
@@ -90687,7 +90687,7 @@ dépassent leurs compétences.
 # Profanateur Maudit
 
 - Source: (LDM p342)(TOB p12)
-- TOB: Accursed Defiler
+- Alias: Accursed Defiler
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 12
@@ -90725,7 +90725,7 @@ dépassent leurs compétences.
 # Profond
 
 - Source: (LDM p343)(TOB p73)
-- TOB: Deep One
+- Alias: Deep One
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
@@ -90762,7 +90762,7 @@ dépassent leurs compétences.
 # Archimandrite Profond
 
 - Source: (LDM p343)(TOB p74)
-- TOB: Deep One Archimandrite
+- Alias: Deep One Archimandrite
 -  Humanoïde de Grande taille (G), chaotique mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
@@ -90814,7 +90814,7 @@ dépassent leurs compétences.
 # Prêtre Profond Hybride
 
 - Source: (LDM p344)(TOB p73)
-- TOB: Deep One Hybrid Priest
+- Alias: Deep One Hybrid Priest
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 14 (armure naturelle)
@@ -90862,7 +90862,7 @@ dépassent leurs compétences.
 # Qwyllion
 
 - Source: (LDM p345)(TOB p316)
-- TOB: Qwyllion
+- Alias: Qwyllion
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 110 (13d8+52)
@@ -90902,7 +90902,7 @@ dépassent leurs compétences.
 # Ramag
 
 - Source: (LDM p346)(TOB p317)
-- TOB: Ramag
+- Alias: Ramag
 -  Humanoïde (ramag) de taille Moyenne (M), neutre
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure de cuir)
@@ -90933,7 +90933,7 @@ dépassent leurs compétences.
 # Ratatosk
 
 - Source: (LDM p347)(TOB p319)
-- TOB: Ratatosk
+- Alias: Ratatosk
 -  Céleste de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 42 (12d4+12)
@@ -90977,7 +90977,7 @@ dépassent leurs compétences.
 # Ravageur Trollien
 
 - Source: (LDM p348)(TOB p390)
-- TOB: Trollkin Reaver
+- Alias: Trollkin Reaver
 -  Humanoïde (trollien) de taille Moyenne (M), neutre
 - **Classe d'armure** 14 (armure de peau)
 - **Points de vie** 82 (11d8+33)
@@ -91018,7 +91018,7 @@ dépassent leurs compétences.
 # Ravenala
 
 - Source: (LDM p349)(TOB p321)
-- TOB: Ravenala
+- Alias: Ravenala
 -  Plante de Grande taille (G), non alignée
 - **Terrain** Jungle
 - **Classe d'armure** 15 (armure naturelle)
@@ -91064,7 +91064,7 @@ dépassent leurs compétences.
 # Rôdeur Des Quais
 
 - Source: (LDM p350)(TOB p407)
-- TOB: Wharfling
+- Alias: Wharfling
 -  Bête de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13
 - **Points de vie** 6 (4d4 - 4)
@@ -91092,7 +91092,7 @@ dépassent leurs compétences.
 # Nuée De Rôdeurs Des Quais
 
 - Source: (LDM p350)(TOB p407)
-- TOB: Wharfling Swarm
+- Alias: Wharfling Swarm
 -  Nuée de Grande taille de bêtes de Très Petite taille (TP), non alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 63 (14d10 - 14)
@@ -91126,7 +91126,7 @@ dépassent leurs compétences.
 # Rôdeur Moussu
 
 - Source: (LDM p351)(TOB p298)
-- TOB: Moss Lurker
+- Alias: Moss Lurker
 -  Humanoïde de Petite taille (P), chaotique neutre
 - **Terrain** Bois / Forêt, Littoral, Mangrove / Marécage, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
@@ -91170,7 +91170,7 @@ dépassent leurs compétences.
 # Roi Des Rats
 
 - Source: (LDM p352)(TOB 318)
-- TOB: Rat King
+- Alias: Rat King
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
@@ -91212,7 +91212,7 @@ dépassent leurs compétences.
 # Roussalka
 
 - Source: (LDM p353)(TOB p331)
-- TOB: Rusalka
+- Alias: Rusalka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral
 - **Classe d'armure** 14 (armure naturelle)
@@ -91252,7 +91252,7 @@ dépassent leurs compétences.
 # Saccageur Relevé
 
 - Source: (LDM p354)(TOB p328)
-- TOB: Risen Reaver
+- Alias: Risen Reaver
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 168 (16d10+80)
@@ -91289,7 +91289,7 @@ dépassent leurs compétences.
 # Sarcoptère
 
 - Source: (LDM p355)(TOB p203)
-- TOB: Flutterflesh
+- Alias: Flutterflesh
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 187 (22d10+66)
@@ -91334,7 +91334,7 @@ dépassent leurs compétences.
 # Scheznyki
 
 - Source: (LDM p356)(TOB p339)
-- TOB: Scheznyki
+- Alias: Scheznyki
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Terrain** Collines / Vallées, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)
@@ -91378,7 +91378,7 @@ dépassent leurs compétences.
 # Scorpion Nocturne
 
 - Source: (LDM p357)(TOB p340)
-- TOB: Night Scorpion
+- Alias: Night Scorpion
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
@@ -91408,7 +91408,7 @@ dépassent leurs compétences.
 # Scorpion Stygien À Large Queue
 
 - Source: (LDM p357)(TOB p340)
-- TOB: Stygian Fat-Tailed Scorpion
+- Alias: Stygian Fat-Tailed Scorpion
 -  Bête de Très Petite taille (TP), non-alignée
 - **Terrain** Désert chaud, Caverne aménagée
 - **Classe d'armure** 14 (armure naturelle)
@@ -91438,7 +91438,7 @@ dépassent leurs compétences.
 # Seigneur Des Lianes
 
 - Source: (LDM p358)(TOB p402)
-- TOB: Vine Lord
+- Alias: Vine Lord
 -  Plante de taille Moyenne (M), loyale neutre
 - **Terrain** Jungle
 - **Classe d'armure** 16 (armure naturelle)
@@ -91483,7 +91483,7 @@ dépassent leurs compétences.
 # Marionnette Des Lianes
 
 - Source: (LDM p359)(TOB p403)
-- TOB: Tendril Puppet
+- Alias: Tendril Puppet
 -  Plante de taille Moyenne (M), loyale neutre
 - **Terrain** Jungle
 - **Classe d'armure** 13 (armure de cuir clouté)
@@ -91521,7 +91521,7 @@ dépassent leurs compétences.
 # Sélang
 
 - Source: (LDM p360)(TOB p341)
-- TOB: Selang
+- Alias: Selang
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
@@ -91564,7 +91564,7 @@ dépassent leurs compétences.
 # Vipère Du Marais
 
 - Source: (LDM p361)(TOB p354)
-- TOB: Swamp Adder
+- Alias: Swamp Adder
 -  Bête de Petite taille (P), non-alignée
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13
@@ -91592,7 +91592,7 @@ dépassent leurs compétences.
 # Vipère De Zanskaran
 
 - Source: (LDM p361)(TOB p354)
-- TOB: Zanskaran Viper
+- Alias: Zanskaran Viper
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)
@@ -91618,7 +91618,7 @@ dépassent leurs compétences.
 # Serpopard
 
 - Source: (LDM p362)(TOB p342)
-- TOB: Serpopard
+- Alias: Serpopard
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)
@@ -91655,7 +91655,7 @@ dépassent leurs compétences.
 # Shabti
 
 - Source: (LDM p363)(TOB p343)
-- TOB: Shabti
+- Alias: Shabti
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d8+48)
@@ -91694,7 +91694,7 @@ dépassent leurs compétences.
 # Shadhavar
 
 - Source: (LDM p364)(TOB p344)
-- TOB: Shadhavar
+- Alias: Shadhavar
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Classe d'armure** 14 (naturelle)
 - **Points de vie** 97 (13d10+26)
@@ -91736,7 +91736,7 @@ dépassent leurs compétences.
 # Shoggoth
 
 - Source: (LDM p365)(TOB p347)
-- TOB: Shoggoth
+- Alias: Shoggoth
 -  Aberration de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 387 (25d12+225)
@@ -91779,7 +91779,7 @@ dépassent leurs compétences.
 # Silhouette De Sable
 
 - Source: (LDM p366)(TOB p332)
-- TOB: Sand Silhouette
+- Alias: Sand Silhouette
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
@@ -91822,7 +91822,7 @@ dépassent leurs compétences.
 # Sorcelueur
 
 - Source: (LDM p367)(TOB p409)
-- TOB: Witchlight
+- Alias: Witchlight
 -  Créature artificielle de Très Petite taille (TP), neutre
 - **Classe d'armure** 14
 - **Points de vie** 10 (4d4)
@@ -91858,7 +91858,7 @@ dépassent leurs compétences.
 # Sorcière De L'Écheveau
 
 - Source: (LDM p368)(TOB p349)
-- TOB: Skein Witch
+- Alias: Skein Witch
 -  Céleste de taille Moyenne (M), neutre
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 162 (25d8+50)
@@ -91901,7 +91901,7 @@ dépassent leurs compétences.
 # Gypsosphinx
 
 - Source: (LDM p369)(TOB p359)
-- TOB: Gypsosphinx
+- Alias: Gypsosphinx
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -91967,7 +91967,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Squelette De Troll Des Lianes
 
 - Source: (LDM p371)(TOB p351)
-- TOB: Vine Troll Skeleton
+- Alias: Vine Troll Skeleton
 -  Plante de Grande taille (G), non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 16 (armure naturelle)
@@ -92003,7 +92003,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Squelette En Mâchoires De Requin
 
 - Source: (LDM p372)(TOB p350)
-- TOB: Sharkjaw Skeleton
+- Alias: Sharkjaw Skeleton
 -  Mort-vivant de Grande taille (G), loyal mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)
@@ -92037,7 +92037,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Stryx
 
 - Source: (LDM p373)(TOB p369)
-- TOB: Stryx
+- Alias: Stryx
 -  Créature monstrueuse de Très Petite taille (TP), neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13
@@ -92078,7 +92078,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Stuhac
 
 - Source: (LDM p374)(TOB p370)
-- TOB: Stuhac
+- Alias: Stuhac
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 190 (20d8+100)
@@ -92120,7 +92120,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Subek
 
 - Source: (LDM p375)(TOB p371)
-- TOB: Subek
+- Alias: Subek
 -  Humanoïde de Grande taille (subek) (G), loyal neutre
 - **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
@@ -92159,7 +92159,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Suffragan Coeur-De-Vers
 
 - Source: (LDM p376)(TOB p410)
-- TOB: Wormhearted Suffragan
+- Alias: Wormhearted Suffragan
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 12
 - **Points de vie** 97 (13d8+39)
@@ -92199,7 +92199,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Sutureuse
 
 - Source: (LDM p377)(TOB p372)
-- TOB: Suturefly
+- Alias: Suturefly
 -  Bête de Très Petite taille (TP), non-alignée
 - **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 14
@@ -92230,7 +92230,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Sylvanien Pleureur
 
 - Source: (LDM p378)(TOB p388)
-- TOB: Weeping Treant
+- Alias: Weeping Treant
 -  Plante de Très Grande taille (TG), neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 17 (armure naturelle)
@@ -92268,7 +92268,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Templier Mécaforgé
 
 - Source: (LDM p379)(TOB p210)
-- TOB: Gearforged Templar
+- Alias: Gearforged Templar
 -  Humanoïde de taille Moyenne (mécaforgé) (M), loyal neutre
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 71 (11d8+22)
@@ -92311,7 +92311,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Thuellai
 
 - Source: (LDM p380)(TOB p379)
-- TOB: Thuellai
+- Alias: Thuellai
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17
@@ -92364,7 +92364,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Titan Antique
 
 - Source: (LDM p381)(TOB p380)
-- TOB: Ancient Titan
+- Alias: Ancient Titan
 -  Céleste de taille Gigantesque (titan) (Gig), neutre bon
 - **Classe d'armure** 15 (cuirasse)
 - **Points de vie** 198 (12d20+72)
@@ -92406,7 +92406,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Titan Dégénéré
 
 - Source: (LDM p382)(TOB p381)
-- TOB: Degenerate Titan
+- Alias: Degenerate Titan
 -  Géant de Très Grande taille (TG), chaotique mauvais
 - **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 12 (manteau renforcé rudimentaire)
@@ -92443,7 +92443,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Titanoboa
 
 - Source: (LDM p383)(TOB p382)
-- TOB: Titanoboa
+- Alias: Titanoboa
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)
@@ -92479,7 +92479,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Tophet
 
 - Source: (LDM p384)(TOB p383)
-- TOB: Tophet
+- Alias: Tophet
 -  Créature artificielle de Très Grande taille (TG), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 184 (16d12+80)
@@ -92517,7 +92517,7 @@ Le sphinx peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Reine Du Nid Tosculie
 
 - Source: (LDM p386)(TOB p385)
-- TOB: Tosculi Hive-Queen
+- Alias: Tosculi Hive-Queen
 -  Créature monstrueuse de Grande taille (G), loyale mauvaise
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17
@@ -92596,7 +92596,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Archer-Pillard D'Élite Tosculi
 
 - Source: (LDM p387)(TOB p386)
-- TOB: Tosculi Elite Bow Raider
+- Alias: Tosculi Elite Bow Raider
 -  Humanoïde (tosculi) de taille Moyenne (M), loyal mauvais
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)
@@ -92635,7 +92635,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Combattant Tosculi
 
 - Source: (LDM p387)(TOB p386)
-- TOB: Tosculi Warrior
+- Alias: Tosculi Warrior
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15
@@ -92671,7 +92671,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Faux-Bourdon Tosculi
 
 - Source: (LDM p387)(TOB p386)
-- TOB: Tosculi Drone
+- Alias: Tosculi Drone
 -  Créature monstrueuse de Petite taille (P), loyale mauvaise
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -92703,7 +92703,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Troll Lacustre
 
 - Source: (LDM p388)(TOB p389)
-- TOB: Lake Troll
+- Alias: Lake Troll
 -  Géant de Grande taille (G), chaotique mauvais
 - **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
@@ -92740,7 +92740,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Ukavac
 
 - Source: (LDM p389)(TOB p47)
-- TOB: Bukavac
+- Alias: Bukavac
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
@@ -92781,7 +92781,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Uraeus
 
 - Source: (LDM p390)(TOB p392)
-- TOB: Uraeus
+- Alias: Uraeus
 -  Céleste de Très Petite taille (TP), loyal neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 40 (9d4+18)
@@ -92820,7 +92820,7 @@ SI la reine du nid tosculie meurt, le bourdonnement disparaît de suite et les b
 # Urochar (Guetteur Étrangleur)
 
 - Source: (LDM p391)(TOB p393)
-- TOB: Urochar (Strangling Watcher)
+- Alias: Urochar (Strangling Watcher)
 -  Aberration de Très Grande taille (TG), chaotique mauvaise
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
@@ -92879,7 +92879,7 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Ushabti
 
 - Source: (LDM p392)(TOB p394)
-- TOB: Ushabti
+- Alias: Ushabti
 -  Créature artificielle de Grande taille (G), non alignée
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
@@ -92923,7 +92923,7 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Vaettir
 
 - Source: (LDM p393)(TOP p395)
-- TOB: Vaettir
+- Alias: Vaettir
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 15 (chemise de mailles)
 - **Points de vie** 120 (16d8+48)
@@ -92973,7 +92973,7 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Vagabond Éonique
 
 - Source: (LDM p394)(TOB p177)
-- TOB: Eonic Drifter
+- Alias: Eonic Drifter
 -  Humanoïde (humain) de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 65 (10d8+20)
@@ -93005,7 +93005,7 @@ L'urochar peut faire trois actions légendaires, parmi celles proposées ci-dess
 # Valkyrie
 
 - Source: (LDM p395)(TOB p396)
-- TOB: Valkyrie
+- Alias: Valkyrie
 -  Céleste de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (cotte de mailles) ou 18 (cotte de mailles et bouclier)
 - **Points de vie** 112 (15d8+45)
@@ -93063,7 +93063,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Vampire Umbral
 
 - Source: (LDM p396)(TOB p397)
-- TOB: Umbral Vampire
+- Alias: Umbral Vampire
 -  Fiélon de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 84 (13d8+26)
@@ -93107,7 +93107,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Vase Corruptrice
 
 - Source: (LDM p397)(TOB p311)
-- TOB: Corrupting Ooze
+- Alias: Corrupting Ooze
 -  Vase de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 115 (10d10+60)
@@ -93140,7 +93140,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Vent Putréfacteur
 
 - Source: (LDM p398)(TOB p330)
-- TOB: Rotting Wind
+- Alias: Rotting Wind
 -  Mort-vivant de Grande taille (G), neutre mauvais
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15
@@ -93175,7 +93175,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Ver Givré Adulte
 
 - Source: (LDM p399)(TOB p327)
-- TOB: Adult Rime Worm
+- Alias: Adult Rime Worm
 -  Élémentaire de Grande taille (G), neutre
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)
@@ -93213,7 +93213,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Larve de Ver Givré
 
 - Source: (LDM p399)(TOB p327)
-- TOB: Rime Worm Grub
+- Alias: Rime Worm Grub
 -  Élémentaire de taille Moyenne (M), neutre
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
@@ -93249,7 +93249,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Ver Pêcheur
 
 - Source: (LDM p400)(TOB p22)
-- TOB: Angler Worm
+- Alias: Angler Worm
 -  Créature monstrueuse de Très Grande taille (TG), non alignée
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)
@@ -93289,7 +93289,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Ver Sathaq
 
 - Source: (LDM p401)(TOB p337)
-- TOB: Sathaq Worm
+- Alias: Sathaq Worm
 -  Élémentaire de Très Grande taille (TG), neutre mauvais
 - **Terrain** Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)
@@ -93326,7 +93326,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Verminhantée
 
 - Source: (LDM p402)(TOB p352)
-- TOB: Skitterhaunt
+- Alias: Skitterhaunt
 -  Vase de Grande taille (G), non-alignée
 - **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)
@@ -93364,7 +93364,7 @@ La valkyrie peut faire trois actions légendaires, parmi celles proposées ci-de
 # Vésiculose
 
 - Source: (LDM p403)(TOB p399)
-- TOB: Vesiculosa
+- Alias: Vesiculosa
 -  Plante de taille Gigantesque (Gig), non alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
@@ -93408,7 +93408,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Vidien
 
 - Source: (LDM p404)(TOB p404)
-- TOB: Voidling
+- Alias: Voidling
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Classe d'armure** 16
 - **Points de vie** 110 (20d10)
@@ -93455,7 +93455,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Vif Ravageur Gnoll
 
 - Source: (LDM p405)(TOB p230)
-- TOB: Gnoll Havoc Runner
+- Alias: Gnoll Havoc Runner
 -  Humanoïde (gnoll) de taille Moyenne (M), chaotique mauvais
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 15 (chemise de mailles)
@@ -93492,7 +93492,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Vil Barbier
 
 - Source: (LDM p406)(TOB p401)
-- TOB: Vile Barber
+- Alias: Vile Barber
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Classe d'armure** 15 (armure de cuir)
 - **Points de vie** 28 (8d6)
@@ -93536,7 +93536,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Vila
 
 - Source: (LDM p407)(TOB p400)
-- TOB: Vila
+- Alias: Vila
 -  Fée de taille Moyenne (M), loyale neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15
@@ -93585,7 +93585,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Voile-De-Givre
 
 - Source: (LDM p408)(TOB p207)
-- TOB: Frostveil
+- Alias: Frostveil
 -  Plante de taille Moyenne (M), non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16
@@ -93628,7 +93628,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Wampus Féline
 
 - Source: (LDM p409)(TOB p405)
-- TOB: Wampus Cat
+- Alias: Wampus Cat
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14
@@ -93667,7 +93667,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Wyrm Des Sables
 
 - Source: (LDM p410)(TOB p334)
-- TOB: Sandwyrm
+- Alias: Sandwyrm
 -  Dragon de Grande taille (G), non-aligné
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)
@@ -93701,7 +93701,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Xanka
 
 - Source: (LDM p411)(TOB p411)
-- TOB: Xanka
+- Alias: Xanka
 -  Créature artificielle de Petite taille (P), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 18 (4d6+4)
@@ -93731,7 +93731,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Xhkarsh
 
 - Source: (LDM p412)(TOB p412)
-- TOB: Xhkarsh
+- Alias: Xhkarsh
 -  Aberration de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 19 (armure naturelle et mystique)
 - **Points de vie** 133 (14d10 + 56)
@@ -93766,7 +93766,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Ychen Bannog
 
 - Source: (LDM p413)(TOB p413)
-- TOB: Ychen Bannog
+- Alias: Ychen Bannog
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)
@@ -93806,7 +93806,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Zaratan
 
 - Source: (LDM p414)(TOB p414)
-- TOB: Zaratan
+- Alias: Zaratan
 -  Créature monstrueuse (titan) de taille Gigantesque (Gig), non alignée
 - **Terrain** Mer / Océan
 - **Classe d'armure** 25 (armure naturelle)
@@ -93858,7 +93858,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Zimwi
 
 - Source: (LDM p415)(TOB p415)
-- TOB: Zimwi
+- Alias: Zimwi
 -  Géant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76 (9d8+36)
@@ -93888,7 +93888,7 @@ du sort éponyme, mais conservent leurs propriétés pendant 1semaine après leu
 # Zmey
 
 - Source: (LDM p416)(TOB p416)
-- TOB: Zmey
+- Alias: Zmey
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Terrain** Bois / Forêt, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
@@ -93948,7 +93948,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Bébécéphale De Zmey
 
 - Source: (LDM p416)(TOB p416)
-- TOB: Zmey Headling
+- Alias: Zmey Headling
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
@@ -93986,7 +93986,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Archer Vétéran Elfique
 
 - Source: (LDM p418)(TOB p422)
-- TOB: Elvish Veteran Archer
+- Alias: Elvish Veteran Archer
 -  Humanoïde (elfe) de taille Moyenne (M), chaotique bon ou chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 77 (14d8 + 14)
@@ -94030,7 +94030,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Capitaine Du Guet
 
 - Source: (LDM p418)(TOB p419)
-- TOB: City Watch Captain
+- Alias: City Watch Captain
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal neutre
 - **Classe d'armure** 17 (armure d'écailles)
 - **Points de vie** 91 (14d8 + 28)
@@ -94068,7 +94068,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Chef Du Culte De L'Ordre D'Émeraude
 
 - Source: (LDM p419)(TOB p421)
-- TOB: Emerald Order Cult Leader
+- Alias: Emerald Order Cult Leader
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal neutre
 - **Classe d'armure** 14 (cuirasse)
 - **Points de vie** 117 (18d8 + 36)
@@ -94124,7 +94124,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Chef Ogre Corrompu
 
 - Source: (LDM p420)(TOB p423)
-- TOB: Ogre Chieftain, Corrupted
+- Alias: Ogre Chieftain, Corrupted
 -  Géant de Grande taille (G), chaotique mauvais
 - **Terrain** Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 17 (clibanion)
@@ -94171,7 +94171,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Chevalier Fantôme
 
 - Source: (LDM p421)(TOB p423)
-- TOB: Ghost Knight
+- Alias: Ghost Knight
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 17 (demi-plate)
 - **Points de vie** 97 (15d8 + 30)
@@ -94216,7 +94216,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Commandant Des Chevaliers Noirs
 
 - Source: (LDM p422)(TOB p418)
-- TOB: Black Knight Commander
+- Alias: Black Knight Commander
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), loyal mauvais
 - **Classe d'armure** 18 (harnois)
 - **Points de vie** 78 (12d8 + 24)
@@ -94255,7 +94255,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Fanatique Du Scorpion
 
 - Source: (LDM p422)(TOB p425)
-- TOB: Scorpion Cultist
+- Alias: Scorpion Cultist
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), neutre
 - **Classe d'armure** 13 (armure de cuir)
 - **Points de vie** 19 (3d8 + 6)
@@ -94288,7 +94288,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Mage Des Anneaux Nains
 
 - Source: (LDM p423)(TOB p420)
-- TOB: Dwarven Ringmage
+- Alias: Dwarven Ringmage
 -  Humanoïde de taille Moyenne (nain) (M), au choix
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 82 (15d8 + 15)
@@ -94338,7 +94338,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Nain Loup Ravageur
 
 - Source: (LDM p424)(TOB p426)
-- TOB: Wolf Reaver Dwarf
+- Alias: Wolf Reaver Dwarf
 -  Humanoïde de taille Moyenne (nain) (M), chaotique
 - **Classe d'armure** 16 (chemise de mailles, bouclier)
 - **Points de vie** 76 (9d8 + 36)
@@ -94378,7 +94378,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Prince Gnome Asservi Aux Démons
 
 - Source: (LDM p424)(TOB p420)
-- TOB: Devilbound Gnomish Prince
+- Alias: Devilbound Gnomish Prince
 -  Humanoïde de Petite taille (gnome) (P), mauvais
 - **Classe d'armure** 12 (15 avec armure du mage)
 - **Points de vie** 104 (19d6 + 38)
@@ -94405,7 +94405,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Seigneur Des Bandits
 
 - Source: (LDM p425)(TOB p418)
-- TOB: Bandit Lord
+- Alias: Bandit Lord
 -  Humanoïde de taille Moyenne (n'importe quelle race) (M), tout
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 91 (14d8 + 28)
@@ -94468,7 +94468,7 @@ Le zmey peut faire une action légendaire, parmi celles proposées ci-dessous. I
 # Variante : Sorcier Vampire
 
 - Source: (LDM p426)(TOB p426)
-- TOB: Variant: Vampire Warlock
+- Alias: Variant: Vampire Warlock
 
 Le sorcier vampire n'est pas sujet à défense d'entrer ni blessé par l'eau courante, faiblesses des vampires ordinaires, et subit 10 dégâts radiants au lieu de 20 s'il est exposé à la lumière du jour.
 

@@ -5,7 +5,7 @@
 # Dragonnet rouge
 
 - Source: (CEO p)(SRD p)
-- SRD: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
+- Alias: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)

@@ -5,7 +5,7 @@
 # Chef Ogre Corrompu
 
 - Source: (LDM p420)(TOB p423)
-- TOB: Ogre Chieftain, Corrupted
+- Alias: Ogre Chieftain, Corrupted
 -  Géant de Grande taille (G), chaotique mauvais
 - **Terrain** Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 17 (clibanion)

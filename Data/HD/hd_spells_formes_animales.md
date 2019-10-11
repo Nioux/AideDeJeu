@@ -4,7 +4,7 @@
 
 # Formes animales
 
-- SRD: [Animal Shapes](srd_spells_animal_shapes.md)
+- Alias: [Animal Shapes](srd_spells_animal_shapes.md)
 
 -  Transmutation de niveau 8
 

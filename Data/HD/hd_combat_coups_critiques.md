@@ -4,7 +4,7 @@
 
 #### Coups critiques
 
-- AltName: Critical Hits (SRD p96)
+- Alias: Critical Hits (SRD p96)
 - Source: (MDR p293)
 
 Si vous réussissez un coup critique contre une cible, vous pouvez lancer des dés de dégâts supplémentaires. Lancez l'ensemble des dés de dégâts deux fois et additionnez- les, puis ajoutez à ce total les modificateurs. Pour simplifier les choses, vous pouvez lancer tous les dés de dégâts à la fois.

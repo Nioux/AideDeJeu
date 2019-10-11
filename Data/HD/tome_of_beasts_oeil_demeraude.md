@@ -5,7 +5,7 @@
 # Oeil D'Émeraude
 
 - Source: (LDM p333)(TOB p175)
-- TOB: Emerald Eye
+- Alias: Emerald Eye
 -  Créature artificielle de taille Très Petite (TP), chaotique mauvais
 - **Classe d'armure** 14
 - **Points de vie** 54 (12d4+24)

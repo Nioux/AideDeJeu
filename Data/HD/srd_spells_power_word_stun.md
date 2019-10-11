@@ -4,7 +4,7 @@
 
 # Power Word Stun
 
-- MDR: [Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)
+- Alias: [Mot de pouvoir étourdissant](hd_spells_mot_de_pouvoir_etourdissant.md)
 - Source: (SRD p170)
 -  8th-level enchantment
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 #### Les divinités celtiques
 
-- AltName: Celtic Deities
+- Alias: Celtic Deities
 - Source: (MDR p414)(SRD p360)
 
 |Divinité|Alignement|Domaines suggérés|Symbole|

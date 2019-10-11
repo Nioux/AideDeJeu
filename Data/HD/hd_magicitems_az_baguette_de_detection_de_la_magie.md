@@ -4,7 +4,7 @@
 
 ### Baguette de détection de la magie
 
-- AltName: Wand of Magic Detection (SRD p249)
+- Alias: Wand of Magic Detection (SRD p249)
 - Source: (CDC p145)
 -  Baguette, peu courante
 

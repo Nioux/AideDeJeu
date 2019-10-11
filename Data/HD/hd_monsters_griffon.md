@@ -5,7 +5,7 @@
 # Griffon
 
 - Source: (CEO p)(SRD p)
-- SRD: [Griffon](srd_monsters_griffon.md)
+- Alias: [Griffon](srd_monsters_griffon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Montagnes
 - **Classe d'armure** 12

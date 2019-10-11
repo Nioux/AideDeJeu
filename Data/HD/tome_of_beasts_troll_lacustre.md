@@ -5,7 +5,7 @@
 # Troll Lacustre
 
 - Source: (LDM p388)(TOB p389)
-- TOB: Lake Troll
+- Alias: Lake Troll
 -  Géant de Grande taille (G), chaotique mauvais
 - **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)

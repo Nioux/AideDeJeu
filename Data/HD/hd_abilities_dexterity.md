@@ -5,7 +5,7 @@
 
 # Dextérité
 
-- AltName: Dexterity (SRD p80)
+- Alias: Dexterity (SRD p80)
 - Source: (MDR p263)
 
 La Dextérité représente tout ce qui a trait à l'agilité, les réflexes et l'équilibre.

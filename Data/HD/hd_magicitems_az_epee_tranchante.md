@@ -4,7 +4,7 @@
 
 ### Épée tranchante
 
-- AltName: Sword of Sharpness (SRD p246)
+- Alias: Sword of Sharpness (SRD p246)
 - Source: (CDC p163)
 -  Arme (n'importe quelle épée qui inflige des dégâts tranchants), très rare (harmonisation requise)
 

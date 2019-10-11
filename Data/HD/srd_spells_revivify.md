@@ -4,7 +4,7 @@
 
 # Revivify
 
-- MDR: [Revigorer](hd_spells_revigorer.md)
+- Alias: [Revigorer](hd_spells_revigorer.md)
 - Source: (SRD p175)
 -  3th-level necromancy
 - **Casting Time :** 1 action

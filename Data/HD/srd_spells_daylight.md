@@ -4,7 +4,7 @@
 
 # Daylight
 
-- MDR: [Lumière du jour](hd_spells_lumiere_du_jour.md)
+- Alias: [Lumière du jour](hd_spells_lumiere_du_jour.md)
 - Source: (SRD p133)
 -  3th-level evocation
 - **Casting Time :** 1 action

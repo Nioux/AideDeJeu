@@ -4,7 +4,7 @@
 
 # Druidcraft
 
-- MDR: [Druidisme](hd_spells_druidisme.md)
+- Alias: [Druidisme](hd_spells_druidisme.md)
 - Source: (SRD p138)
 -  Transmutation cantrip
 - **Casting Time :** 1 action

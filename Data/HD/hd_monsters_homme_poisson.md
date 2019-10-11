@@ -5,7 +5,7 @@
 # Homme-poisson
 
 - Source: (CEO p)(SRD p)
-- SRD: [Merfolk](srd_monsters_merfolk.md)
+- Alias: [Merfolk](srd_monsters_merfolk.md)
 -  Humanoïde (homme-poisson) de taille M, Neutre
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11

@@ -4,7 +4,7 @@
 
 # Fléau d'insectes
 
-- SRD: [Insect Plague](srd_spells_insect_plague.md)
+- Alias: [Insect Plague](srd_spells_insect_plague.md)
 
 -  Invocation de niveau 5
 

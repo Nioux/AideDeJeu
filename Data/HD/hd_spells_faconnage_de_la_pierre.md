@@ -4,7 +4,7 @@
 
 # Façonnage de la pierre
 
-- SRD: [Stone Shape](srd_spells_stone_shape.md)
+- Alias: [Stone Shape](srd_spells_stone_shape.md)
 
 -  Transmutation de niveau 4
 

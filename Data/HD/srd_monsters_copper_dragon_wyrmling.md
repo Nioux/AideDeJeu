@@ -4,7 +4,7 @@
 
 # Copper Dragon Wyrmling
 
-- CEO: [Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)
+- Alias: [Dragonnet de cuivre](hd_monsters_dragonnet_de_cuivre.md)
 -  Medium dragon, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 22 (4d8 + 4)

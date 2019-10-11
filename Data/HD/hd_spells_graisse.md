@@ -4,7 +4,7 @@
 
 # Graisse
 
-- SRD: [Grease](srd_spells_grease.md)
+- Alias: [Grease](srd_spells_grease.md)
 
 -  Invocation de niveau 1
 

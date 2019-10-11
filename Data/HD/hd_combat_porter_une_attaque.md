@@ -4,7 +4,7 @@
 
 ## Porter une attaque
 
-- AltName: Making an Attack (SRD p94)
+- Alias: Making an Attack (SRD p94)
 - Source: (MDR p290)
 
 Que vous portiez une attaque avec une arme de corpsà- corps, une arme à distance ou que vous fassiez un jet d'attaque dans le cadre d'un sort, cette attaque se décompose ainsi :

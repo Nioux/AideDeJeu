@@ -4,7 +4,7 @@
 
 ### Anneau du bélier
 
-- AltName: Ring of the Ram (SRD p238)
+- Alias: Ring of the Ram (SRD p238)
 - Source: (CDC p143)
 -  Anneau, rare (harmonisation requise)
 

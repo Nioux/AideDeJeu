@@ -5,7 +5,7 @@
 # Bandit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bandit](srd_monsters_bandit.md)
+- Alias: [Bandit](srd_monsters_bandit.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)

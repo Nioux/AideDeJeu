@@ -5,7 +5,7 @@
 # Arbre Feuilledragon
 
 - Source: (LDM p29)(TOB p147)
-- TOB: Dragonleaf Tree
+- Alias: Dragonleaf Tree
 -  Plante de Grande taille (G), non alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)

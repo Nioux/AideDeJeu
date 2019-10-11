@@ -4,7 +4,7 @@
 
 ### Pigments merveilleux
 
-- AltName: Marvelous Pigments (SRD p230)
+- Alias: Marvelous Pigments (SRD p230)
 - Source: (CDC p175)
 -  Objet merveilleux, très rare
 

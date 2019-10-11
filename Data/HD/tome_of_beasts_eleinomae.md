@@ -5,7 +5,7 @@
 # Eleinomae
 
 - Source: (LDM p164)(TOB p168)
-- TOB: Eleinomae
+- Alias: Eleinomae
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 18

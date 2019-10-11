@@ -4,7 +4,7 @@
 
 # Prismatic Wall
 
-- MDR: [Mur prismatique](hd_spells_mur_prismatique.md)
+- Alias: [Mur prismatique](hd_spells_mur_prismatique.md)
 - Source: (SRD p171)
 -  9th-level abjuration
 - **Casting Time :** 1 action

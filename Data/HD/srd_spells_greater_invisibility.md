@@ -4,7 +4,7 @@
 
 # Greater Invisibility
 
-- MDR: [Invisibilité supérieure](hd_spells_invisibilite_superieure.md)
+- Alias: [Invisibilité supérieure](hd_spells_invisibilite_superieure.md)
 - Source: (SRD p150)
 -  4th-level illusion
 - **Casting Time :** 1 action

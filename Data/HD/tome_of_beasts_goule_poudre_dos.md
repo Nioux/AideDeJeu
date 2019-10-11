@@ -5,7 +5,7 @@
 # Goule Poudre D'Os
 
 - Source: (LDM p224)(TOB p214)
-- TOB: Bonepowder Ghoul
+- Alias: Bonepowder Ghoul
 -  Mort-vivant de Petite taille (P), neutre mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)

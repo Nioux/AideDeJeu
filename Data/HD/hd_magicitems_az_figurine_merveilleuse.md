@@ -4,7 +4,7 @@
 
 ### Figurine merveilleuse
 
-- AltName: Figurine of Wondrous Power (SRD p221)
+- Alias: Figurine of Wondrous Power (SRD p221)
 - Source: (CDC p164)
 -  Objet merveilleux, rareté selon la figurine
 

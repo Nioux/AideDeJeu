@@ -4,7 +4,7 @@
 
 # Peau de pierre
 
-- SRD: [Stoneskin](srd_spells_stoneskin.md)
+- Alias: [Stoneskin](srd_spells_stoneskin.md)
 
 -  Abjuration de niveau 4
 

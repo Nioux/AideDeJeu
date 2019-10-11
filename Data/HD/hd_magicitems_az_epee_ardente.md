@@ -4,7 +4,7 @@
 
 ### Épée ardente
 
-- AltName: Flame Tongue (SRD p223)
+- Alias: Flame Tongue (SRD p223)
 - Source: (CDC p162)
 -  Arme (épée), rare (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Gentle Repose
 
-- MDR: [Doux repos](hd_spells_doux_repos.md)
+- Alias: [Doux repos](hd_spells_doux_repos.md)
 - Source: (SRD p148)
 -  2nd-level necromancy (ritual)
 - **Casting Time :** 1 action

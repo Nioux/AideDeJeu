@@ -4,7 +4,7 @@
 
 # Transport végétal
 
-- SRD: [Transport via Plants](srd_spells_transport_via_plants.md)
+- Alias: [Transport via Plants](srd_spells_transport_via_plants.md)
 
 -  Invocation de niveau 6
 

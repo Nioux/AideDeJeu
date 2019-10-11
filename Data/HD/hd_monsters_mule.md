@@ -5,7 +5,7 @@
 # Mule
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mule](srd_monsters_mule.md)
+- Alias: [Mule](srd_monsters_mule.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10

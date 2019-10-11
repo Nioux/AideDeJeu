@@ -4,7 +4,7 @@
 
 ### Vengeresse sacrée
 
-- AltName: Holy Avenger (SRD p225)
+- Alias: Holy Avenger (SRD p225)
 - Source: (CDC p188)
 -  Arme (épée), légendaire (harmonisation requise avec un paladin)
 

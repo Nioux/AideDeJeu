@@ -4,7 +4,7 @@
 
 # Communication avec les animaux
 
-- SRD: [Speak with Animals](srd_spells_speak_with_animals.md)
+- Alias: [Speak with Animals](srd_spells_speak_with_animals.md)
 
 -  Divination de niveau 1 (rituel)
 

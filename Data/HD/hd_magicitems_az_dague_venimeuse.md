@@ -4,7 +4,7 @@
 
 ### Dague venimeuse
 
-- AltName: Dagger of Venom (SRD p215)
+- Alias: Dagger of Venom (SRD p215)
 - Source: (CDC p162)
 -  Arme (dague), rare
 

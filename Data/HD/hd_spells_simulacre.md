@@ -4,7 +4,7 @@
 
 # Simulacre
 
-- SRD: [Simulacrum](srd_spells_simulacrum.md)
+- Alias: [Simulacrum](srd_spells_simulacrum.md)
 
 -  Illusion de niveau 7
 

@@ -4,7 +4,7 @@
 
 # Bourrasque
 
-- SRD: [Gust of Wind](srd_spells_gust_of_wind.md)
+- Alias: [Gust of Wind](srd_spells_gust_of_wind.md)
 
 -  Évocation de niveau 2
 

@@ -5,7 +5,7 @@
 # Guenaude Sanglante
 
 - Source: (LDM p231)(TOB p242)
-- TOB: Blood Hag
+- Alias: Blood Hag
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 178 (21d8+84)

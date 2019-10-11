@@ -4,7 +4,7 @@
 
 # Holy Aura
 
-- MDR: [Aura sacrée](hd_spells_aura_sacree.md)
+- Alias: [Aura sacrée](hd_spells_aura_sacree.md)
 - Source: (SRD p155)
 -  8th-level abjuration
 - **Casting Time :** 1 action

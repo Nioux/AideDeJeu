@@ -4,7 +4,7 @@
 
 # Raven
 
-- CEO: [Corbeau](hd_monsters_corbeau.md)
+- Alias: [Corbeau](hd_monsters_corbeau.md)
 -  Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)

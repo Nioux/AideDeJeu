@@ -4,7 +4,7 @@
 
 ### Gants de nage et d'escalade
 
-- AltName: Gloves of Swimming and Climbing (SRD p224)
+- Alias: Gloves of Swimming and Climbing (SRD p224)
 - Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

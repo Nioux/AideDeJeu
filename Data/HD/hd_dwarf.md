@@ -5,7 +5,7 @@
 
 # Nain
 
-- AltName: Dwarf (SRD p3)
+- Alias: Dwarf (SRD p3)
 - Source: (MDR p57)
 
 ## Traits des nains

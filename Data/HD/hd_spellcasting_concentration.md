@@ -4,7 +4,7 @@
 
 #### Concentration
 
-- AltName: Concentration (SRD p102)
+- Alias: Concentration (SRD p102)
 - Source: (MDR p308)
 
 Le lanceur de sorts doit rester concentré pour maintenir la magie de certains sorts qui se terminent dès qu'il perd sa concentration.

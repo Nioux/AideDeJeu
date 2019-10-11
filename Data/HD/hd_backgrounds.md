@@ -5,7 +5,7 @@
 
 ## Historique
 
-- AltName: Backgrounds (SRD p60)
+- Alias: Backgrounds (SRD p60)
 - Source: (MDR p77)
 
 Toute histoire a un commencement. L'historique de votre personnage permet de révéler ses origines, comment il est devenu aventurier et quelle est sa place dans le monde. Votre guerrier a peut-être d'abord été un preux chevalier ou un vétéran endurci. Votre sorcier était peut-être quant à lui un sage ou un artisan, et votre roublard un voleur affilié à la guilde ou un amuseur public.

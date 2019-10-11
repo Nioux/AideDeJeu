@@ -4,7 +4,7 @@
 
 ### Havresac magique
 
-- AltName: Handy Haversack (SRD p224)
+- Alias: Handy Haversack (SRD p224)
 - Source: (CDC p168)
 -  Objet merveilleux, rare
 

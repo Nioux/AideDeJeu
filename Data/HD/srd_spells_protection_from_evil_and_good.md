@@ -4,7 +4,7 @@
 
 # Protection from Evil and Good
 
-- MDR: [Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)
+- Alias: [Protection contre le mal et le bien](hd_spells_protection_contre_le_mal_et_le_bien.md)
 - Source: (SRD p173)
 -  1st-level abjuration
 - **Casting Time :** 1 action

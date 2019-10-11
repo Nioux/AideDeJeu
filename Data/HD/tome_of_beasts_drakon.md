@@ -5,7 +5,7 @@
 # Drakon
 
 - Source: (LDM p158)(TOB p157)
-- TOB: Drakon
+- Alias: Drakon
 -  Bête de Grande taille (G), non alignée
 - **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)

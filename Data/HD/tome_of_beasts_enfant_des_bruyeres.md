@@ -5,7 +5,7 @@
 # Enfant Des Bruyères
 
 - Source: (LDM p171)(TOB p56)
-- TOB: Child of the Briar
+- Alias: Child of the Briar
 -  Plante de Très Petite taille (TP), neutre mauvaise
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13

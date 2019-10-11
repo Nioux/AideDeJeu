@@ -5,7 +5,7 @@
 # Plésiosaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Plesiosaurus](srd_monsters_plesiosaurus.md)
+- Alias: [Plesiosaurus](srd_monsters_plesiosaurus.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)

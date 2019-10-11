@@ -4,7 +4,7 @@
 
 # Chimera
 
-- CEO: [Chimère](hd_monsters_chimere.md)
+- Alias: [Chimère](hd_monsters_chimere.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)

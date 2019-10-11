@@ -4,7 +4,7 @@
 
 # Apparence trompeuse
 
-- SRD: [Seeming](srd_spells_seeming.md)
+- Alias: [Seeming](srd_spells_seeming.md)
 
 -  Illusion de niveau 5
 

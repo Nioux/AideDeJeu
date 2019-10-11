@@ -4,7 +4,7 @@
 
 # True Resurrection
 
-- MDR: [Résurrection suprême](hd_spells_resurrection_supreme.md)
+- Alias: [Résurrection suprême](hd_spells_resurrection_supreme.md)
 - Source: (SRD p189)
 -  9th-level necromancy
 - **Casting Time :** 1 hour

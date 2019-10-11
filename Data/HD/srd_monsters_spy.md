@@ -4,7 +4,7 @@
 
 # Spy
 
-- CEO: [Espion](hd_monsters_espion.md)
+- Alias: [Espion](hd_monsters_espion.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12
 - **Hit Points** 27 (6d8)

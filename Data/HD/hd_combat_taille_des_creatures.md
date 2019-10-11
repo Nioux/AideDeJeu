@@ -4,7 +4,7 @@
 
 ### Taille des créatures
 
-- AltName: Creature Size (SRD p92)
+- Alias: Creature Size (SRD p92)
 - Source: (MDR p287)
 
 Chaque créature occupe une surface plus ou moins importante en fonction de sa taille. Le tableau des catégories de tailles qui suit indique la taille de la surface occupée et contrôlée en combat par une créature d'une taille donnée. Les objets utilisent parfois les mêmes catégories de taille.

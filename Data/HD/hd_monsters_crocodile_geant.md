@@ -5,7 +5,7 @@
 # Crocodile géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Crocodile](srd_monsters_giant_crocodile.md)
+- Alias: [Giant Crocodile](srd_monsters_giant_crocodile.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)

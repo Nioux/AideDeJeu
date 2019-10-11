@@ -4,7 +4,7 @@
 
 # Wereboar
 
-- CEO: [Sanglier-garou](hd_monsters_sanglier_garou.md)
+- Alias: [Sanglier-garou](hd_monsters_sanglier_garou.md)
 -  Medium humanoid (human, shapechanger), neutral evil
 - **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
 - **Hit Points** 78 (12d8 + 24)

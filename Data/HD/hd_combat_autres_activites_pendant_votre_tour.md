@@ -4,7 +4,7 @@
 
 #### Autres activités pendant votre tour
 
-- AltName: Other Activity on Your Turn (SRD p91)
+- Alias: Other Activity on Your Turn (SRD p91)
 - Source: (MDR p285)
 
 Pendant votre tour, vous pouvez faire de nombreuses choses qui ne vous demandent pas de vous déplacer ni d'utiliser une action.

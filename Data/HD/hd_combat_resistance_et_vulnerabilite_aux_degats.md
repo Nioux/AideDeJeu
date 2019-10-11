@@ -4,7 +4,7 @@
 
 ### Résistance et vulnérabilité aux dégâts
 
-- AltName: Damage Resistance and Vulnerability (SRD p97)
+- Alias: Damage Resistance and Vulnerability (SRD p97)
 - Source: (MDR p294)
 
 Certaines créatures sont particulièrement difficiles ou faciles à blesser selon qu'on leur inflige certains types de dégâts. Il en va de même pour certains objets.

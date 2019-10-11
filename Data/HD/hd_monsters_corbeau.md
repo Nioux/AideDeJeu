@@ -5,7 +5,7 @@
 # Corbeau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Raven](srd_monsters_raven.md)
+- Alias: [Raven](srd_monsters_raven.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 12

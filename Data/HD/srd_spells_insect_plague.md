@@ -4,7 +4,7 @@
 
 # Insect Plague
 
-- MDR: [Fléau d'insectes](hd_spells_fleau_dinsectes.md)
+- Alias: [Fléau d'insectes](hd_spells_fleau_dinsectes.md)
 - Source: (SRD p157)
 -  5th-level conjuration
 - **Casting Time :** 1 action

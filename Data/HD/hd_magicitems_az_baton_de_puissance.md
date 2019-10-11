@@ -4,7 +4,7 @@
 
 ### Bâton de puissance
 
-- AltName: Staff of Power (SRD p243)
+- Alias: Staff of Power (SRD p243)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 

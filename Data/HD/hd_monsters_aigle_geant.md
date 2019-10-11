@@ -5,7 +5,7 @@
 # Aigle géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Eagle](srd_monsters_giant_eagle.md)
+- Alias: [Giant Eagle](srd_monsters_giant_eagle.md)
 -  Bête de taille G, neutre bon
 - **Terrain** Montagnes
 - **Classe d'armure** 13

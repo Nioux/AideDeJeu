@@ -5,7 +5,7 @@
 # Jeune dragon rouge
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Red Dragon](srd_monsters_young_red_dragon.md)
+- Alias: [Young Red Dragon](srd_monsters_young_red_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)

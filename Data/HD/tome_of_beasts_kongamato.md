@@ -5,7 +5,7 @@
 # Kongamato
 
 - Source: (LDM p258)(TOB p265)
-- TOB: Kongamato
+- Alias: Kongamato
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 16 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Dominate Person
 
-- MDR: [Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)
+- Alias: [Dominer un humanoïde](hd_spells_dominer_un_humanoide.md)
 - Source: (SRD p138)
 -  5th-level enchantment
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Vampire
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vampire](srd_monsters_vampire.md)
+- Alias: [Vampire](srd_monsters_vampire.md)
 -  Mort-vivant (métamorphe) de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 16 (armure naturelle)

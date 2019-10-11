@@ -4,7 +4,7 @@
 
 # Bouffée de poison
 
-- SRD: [Poison Spray](srd_spells_poison_spray.md)
+- Alias: [Poison Spray](srd_spells_poison_spray.md)
 
 -  Invocation , tour de magie
 

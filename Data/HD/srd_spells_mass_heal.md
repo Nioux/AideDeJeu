@@ -4,7 +4,7 @@
 
 # Mass Heal
 
-- MDR: [Guérison de groupe](hd_spells_guerison_de_groupe.md)
+- Alias: [Guérison de groupe](hd_spells_guerison_de_groupe.md)
 - Source: (SRD p163)
 -  9th-level evocation
 - **Casting Time :** 1 action

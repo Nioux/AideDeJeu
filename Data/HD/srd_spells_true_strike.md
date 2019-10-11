@@ -4,7 +4,7 @@
 
 # True Strike
 
-- MDR: [Viser juste](hd_spells_viser_juste.md)
+- Alias: [Viser juste](hd_spells_viser_juste.md)
 - Source: (SRD p189)
 -  Divination cantrip
 - **Casting Time :** 1 action

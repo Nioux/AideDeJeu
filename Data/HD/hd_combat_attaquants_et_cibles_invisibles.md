@@ -4,7 +4,7 @@
 
 ### Attaquants et cibles invisibles
 
-- AltName: Unseen Attackers and Targets (SRD p94)
+- Alias: Unseen Attackers and Targets (SRD p94)
 - Source: (MDR p291)
 
 Les combattants essaient souvent d'échapper à la vigilance de leurs ennemis en se cachant, en lançant un sort d'invisibilité ou en se fondant dans les ténèbres.

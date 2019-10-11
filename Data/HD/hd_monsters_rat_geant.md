@@ -5,7 +5,7 @@
 # Rat géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Rat](srd_monsters_giant_rat.md)
+- Alias: [Giant Rat](srd_monsters_giant_rat.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12

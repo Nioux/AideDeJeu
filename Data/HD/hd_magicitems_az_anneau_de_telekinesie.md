@@ -4,7 +4,7 @@
 
 ### Anneau de télékinésie
 
-- AltName: Ring of Telekinesis (SRD p238)
+- Alias: Ring of Telekinesis (SRD p238)
 - Source: (CDC p142)
 -  Anneau, très rare (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Meld into Stone
 
-- MDR: [Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)
+- Alias: [Fusion dans la pierre](hd_spells_fusion_dans_la_pierre.md)
 - Source: (SRD p163)
 -  3th-level transmutation (ritual)
 - **Casting Time :** 1 action

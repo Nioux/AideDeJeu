@@ -4,7 +4,7 @@
 
 ### Sceptre d'absorption
 
-- AltName: Rod of Absorption (SRD p239)
+- Alias: Rod of Absorption (SRD p239)
 - Source: (CDC p184)
 -  Sceptre, très rare (harmonisation requise)
 

@@ -5,7 +5,7 @@
 # Solar
 
 - Source: (CEO p)(SRD p)
-- SRD: [Solar](srd_monsters_solar.md)
+- Alias: [Solar](srd_monsters_solar.md)
 -  Céleste de taille G, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 21 (armure naturelle)

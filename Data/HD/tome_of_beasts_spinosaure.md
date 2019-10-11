@@ -5,7 +5,7 @@
 # Spinosaure
 
 - Source: (LDM p119)(TOB p116)
-- TOB: Spinosaurus
+- Alias: Spinosaurus
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)

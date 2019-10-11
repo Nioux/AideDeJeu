@@ -5,7 +5,7 @@
 # Scorpion Stygien À Large Queue
 
 - Source: (LDM p357)(TOB p340)
-- TOB: Stygian Fat-Tailed Scorpion
+- Alias: Stygian Fat-Tailed Scorpion
 -  Bête de Très Petite taille (TP), non-alignée
 - **Terrain** Désert chaud, Caverne aménagée
 - **Classe d'armure** 14 (armure naturelle)

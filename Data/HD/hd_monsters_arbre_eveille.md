@@ -5,7 +5,7 @@
 # Arbre éveillé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Awakened Tree](srd_monsters_awakened_tree.md)
+- Alias: [Awakened Tree](srd_monsters_awakened_tree.md)
 -  Plante de taille TG, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Pierre porte-bonheur
 
-- AltName: Stone of Good Luck (Luckstone) (SRD p246)
+- Alias: Stone of Good Luck (Luckstone) (SRD p246)
 - Source: (CDC p176)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Communion avec la nature
 
-- SRD: [Commune with Nature](srd_spells_commune_with_nature.md)
+- Alias: [Commune with Nature](srd_spells_commune_with_nature.md)
 
 -  Divination de niveau 5 (rituel)
 

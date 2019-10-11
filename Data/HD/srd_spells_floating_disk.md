@@ -4,7 +4,7 @@
 
 # Floating Disk
 
-- MDR: [Disque flottant](hd_spells_disque_flottant.md)
+- Alias: [Disque flottant](hd_spells_disque_flottant.md)
 - Source: (SRD p146)
 -  1st-level conjuration (ritual)
 - **Casting Time :** 1 action

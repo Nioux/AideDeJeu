@@ -4,7 +4,7 @@
 
 # Champ antimagie
 
-- SRD: [Antimagic Field](srd_spells_antimagic_field.md)
+- Alias: [Antimagic Field](srd_spells_antimagic_field.md)
 
 -  Abjuration de niveau 8
 

@@ -4,7 +4,7 @@
 
 # Frappe lumineuse
 
-- SRD: [Branding Smite](srd_spells_branding_smite.md)
+- Alias: [Branding Smite](srd_spells_branding_smite.md)
 
 -  Évocation de niveau 2
 

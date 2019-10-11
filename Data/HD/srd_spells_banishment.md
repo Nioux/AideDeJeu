@@ -4,7 +4,7 @@
 
 # Banishment
 
-- MDR: [Bannissement](hd_spells_bannissement.md)
+- Alias: [Bannissement](hd_spells_bannissement.md)
 - Source: (SRD p120)
 -  4th-level abjuration
 - **Casting Time :** 1 action

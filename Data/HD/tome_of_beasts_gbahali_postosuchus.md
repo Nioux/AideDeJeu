@@ -5,7 +5,7 @@
 # Gbahali (Postosuchus)
 
 - Source: (LDM p202)(TOB p209)
-- TOB: Gbahali (Postosuchus)
+- Alias: Gbahali (Postosuchus)
 -  Bête de Très Grande taille (TG), non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)

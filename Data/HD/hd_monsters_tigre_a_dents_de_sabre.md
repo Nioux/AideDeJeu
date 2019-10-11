@@ -5,7 +5,7 @@
 # Tigre à dents de sabre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
+- Alias: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Collines / Vallées, Désert chaud, Montagnes
 - **Classe d'armure** 12

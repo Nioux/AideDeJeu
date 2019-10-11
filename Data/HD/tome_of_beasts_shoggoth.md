@@ -5,7 +5,7 @@
 # Shoggoth
 
 - Source: (LDM p365)(TOB p347)
-- TOB: Shoggoth
+- Alias: Shoggoth
 -  Aberration de Très Grande taille (TG), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 387 (25d12+225)

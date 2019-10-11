@@ -5,7 +5,7 @@
 # Gypsosphinx
 
 - Source: (LDM p369)(TOB p359)
-- TOB: Gypsosphinx
+- Alias: Gypsosphinx
 -  Créature monstrueuse de Grande taille (G), neutre mauvaise
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

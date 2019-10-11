@@ -5,7 +5,7 @@
 # Vipère De Zanskaran
 
 - Source: (LDM p361)(TOB p354)
-- TOB: Zanskaran Viper
+- Alias: Zanskaran Viper
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 14 (armure naturelle)

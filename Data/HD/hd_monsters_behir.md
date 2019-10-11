@@ -5,7 +5,7 @@
 # Béhir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Behir](srd_monsters_behir.md)
+- Alias: [Behir](srd_monsters_behir.md)
 -  Créature monstrueuse de taille TG, Neutre Mauvais
 - **Terrain** Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)

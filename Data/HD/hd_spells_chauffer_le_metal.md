@@ -4,7 +4,7 @@
 
 # Chauffer le métal
 
-- SRD: [Heat Metal](srd_spells_heat_metal.md)
+- Alias: [Heat Metal](srd_spells_heat_metal.md)
 
 -  Transmutation de niveau 2
 

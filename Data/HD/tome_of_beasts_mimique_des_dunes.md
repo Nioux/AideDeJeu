@@ -5,7 +5,7 @@
 # Mimique Des Dunes
 
 - Source: (LDM p303)(TOB p162)
-- TOB: Dune Mimic
+- Alias: Dune Mimic
 -  Créature monstrueuse (métamorphe) de Très Grande taille (TG), neutre
 - **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)

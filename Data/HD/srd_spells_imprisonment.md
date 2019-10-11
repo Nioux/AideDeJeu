@@ -4,7 +4,7 @@
 
 # Imprisonment
 
-- MDR: [Emprisonnement](hd_spells_emprisonnement.md)
+- Alias: [Emprisonnement](hd_spells_emprisonnement.md)
 - Source: (SRD p156)
 -  9th-level abjuration
 - **Casting Time :** 1 minute

@@ -4,7 +4,7 @@
 
 # Invisible
 
-- AltName: [Invisible](hd_conditions_invisible.md)
+- Alias: [Invisible](hd_conditions_invisible.md)
 - Source: (SRD p358)
 
 * An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.

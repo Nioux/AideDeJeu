@@ -4,7 +4,7 @@
 
 # Petrified
 
-- AltName: [Pétrifié](hd_conditions_petrifie.md)
+- Alias: [Pétrifié](hd_conditions_petrifie.md)
 - Source: (SRD p359)
 
 * A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.

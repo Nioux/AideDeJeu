@@ -4,7 +4,7 @@
 
 ### Cor du Valhalla
 
-- AltName: Horn of Valhalla (SRD p226)
+- Alias: Horn of Valhalla (SRD p226)
 - Source: (CDC p161)
 -  Objet merveilleux, rare (argent ou cuivre), très rare (bronze) ou légendaire (fer)
 

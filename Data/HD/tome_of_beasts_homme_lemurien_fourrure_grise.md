@@ -5,7 +5,7 @@
 # Homme-Lémurien Fourrure Grise
 
 - Source: (LDM p243)(TOB p271)
-- TOB: Lemurfolk Greyfur
+- Alias: Lemurfolk Greyfur
 -  Humanoïde (homme-lémurien) de Petite taille (P), neutre
 - **Terrain** Jungle
 - **Classe d'armure** 13 (16 avec armure du mage )

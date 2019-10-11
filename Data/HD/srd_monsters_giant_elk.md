@@ -4,7 +4,7 @@
 
 # Giant Elk
 
-- CEO: [Élan géant](hd_monsters_elan_geant.md)
+- Alias: [Élan géant](hd_monsters_elan_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 42 (5d12 + 10)

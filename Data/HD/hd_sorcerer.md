@@ -5,7 +5,7 @@
 
 # Ensorceleur
 
-- AltName: Sorcerer (SRD p41)
+- Alias: Sorcerer (SRD p41)
 - Source: (MDR p152)
 
 En tant qu'ensorceleur, vous bénéficiez des aptitudes de classe suivantes.

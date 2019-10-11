@@ -4,7 +4,7 @@
 
 ### Voleuse de vies
 
-- AltName: Nine Lives Stealer (SRD p231)
+- Alias: Nine Lives Stealer (SRD p231)
 - Source: (CDC p188)
 -  Arme (épée), très rare (harmonisation requise)
 

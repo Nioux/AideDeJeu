@@ -5,7 +5,7 @@
 # Dragon de bronze vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
+- Alias: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 22 (armure naturelle)

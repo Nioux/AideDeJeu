@@ -5,7 +5,7 @@
 # Dragon d'argent adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
+- Alias: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 19 (armure naturelle)

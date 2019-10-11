@@ -5,7 +5,7 @@
 # Drow
 
 - Source: (CEO p)(SRD p)
-- SRD: [Drow](srd_monsters_drow.md)
+- Alias: [Drow](srd_monsters_drow.md)
 -  Humanoïde (elfe) de taille M, Neutre Mauvais
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)

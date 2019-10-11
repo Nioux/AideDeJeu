@@ -4,7 +4,7 @@
 
 ### Oeil de lynx
 
-- AltName: Eyes of the Eagle (SRD p221)
+- Alias: Eyes of the Eagle (SRD p221)
 - Source: (CDC p174)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

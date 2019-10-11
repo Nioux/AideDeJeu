@@ -4,7 +4,7 @@
 
 # Transport via Plants
 
-- MDR: [Transport végétal](hd_spells_transport_vegetal.md)
+- Alias: [Transport végétal](hd_spells_transport_vegetal.md)
 - Source: (SRD p188)
 -  6th-level conjuration
 - **Casting Time :** 1 action

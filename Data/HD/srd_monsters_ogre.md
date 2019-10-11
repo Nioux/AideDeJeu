@@ -4,7 +4,7 @@
 
 # Ogre
 
-- CEO: [Ogre](hd_monsters_ogre.md)
+- Alias: [Ogre](hd_monsters_ogre.md)
 -  Large giant, chaotic evil
 - **Armor Class** 11 (hide armor)
 - **Hit Points** 59 (7d10 + 21)

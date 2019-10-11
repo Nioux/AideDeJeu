@@ -4,7 +4,7 @@
 
 # Image projetée
 
-- SRD: [Project Image](srd_spells_project_image.md)
+- Alias: [Project Image](srd_spells_project_image.md)
 
 -  Illusion de niveau 7
 

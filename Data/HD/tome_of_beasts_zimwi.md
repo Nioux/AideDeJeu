@@ -5,7 +5,7 @@
 # Zimwi
 
 - Source: (LDM p415)(TOB p415)
-- TOB: Zimwi
+- Alias: Zimwi
 -  Géant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76 (9d8+36)

@@ -5,7 +5,7 @@
 # Araignée géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Spider](srd_monsters_giant_spider.md)
+- Alias: [Giant Spider](srd_monsters_giant_spider.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Cartes merveilleuses
 
-- AltName: Deck of Many Things (SRD p216)
+- Alias: Deck of Many Things (SRD p216)
 - Source: (CDC p157)
 -  Objet merveilleux, légendaire
 

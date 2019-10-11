@@ -4,7 +4,7 @@
 
 # Souhait
 
-- SRD: [Wish](srd_spells_wish.md)
+- Alias: [Wish](srd_spells_wish.md)
 
 -  Invocation de niveau 9
 

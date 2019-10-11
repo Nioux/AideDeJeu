@@ -4,7 +4,7 @@
 
 # Antimagic Field
 
-- MDR: [Champ antimagie](hd_spells_champ_antimagie.md)
+- Alias: [Champ antimagie](hd_spells_champ_antimagie.md)
 - Source: (SRD p117)
 -  8th-level abjuration
 - **Casting Time :** 1 action

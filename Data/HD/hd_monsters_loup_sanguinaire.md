@@ -5,7 +5,7 @@
 # Loup sanguinaire
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dire Wolf](srd_monsters_dire_wolf.md)
+- Alias: [Dire Wolf](srd_monsters_dire_wolf.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 14 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Pierre Ioun
 
-- AltName: Ioun Stone (SRD p227)
+- Alias: Ioun Stone (SRD p227)
 - Source: (CDC p175)
 -  Objet merveilleux, rareté variable (harmonisation requise)
 

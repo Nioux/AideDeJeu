@@ -5,7 +5,7 @@
 # Araignée Voleuse
 
 - Source: (LDM p28)(TOB p366)
-- TOB: Spider Thief
+- Alias: Spider Thief
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Terrain** Caverne aménagée, Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)

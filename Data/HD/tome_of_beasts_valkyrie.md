@@ -5,7 +5,7 @@
 # Valkyrie
 
 - Source: (LDM p395)(TOB p396)
-- TOB: Valkyrie
+- Alias: Valkyrie
 -  Céleste de taille Moyenne (M), neutre
 - **Classe d'armure** 16 (cotte de mailles) ou 18 (cotte de mailles et bouclier)
 - **Points de vie** 112 (15d8+45)

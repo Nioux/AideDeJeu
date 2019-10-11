@@ -5,7 +5,7 @@
 
 # École d'évocation
 
-- AltName: School of Evocation (SRD p54)
+- Alias: School of Evocation (SRD p54)
 - Source: (MDR p419)
 
 Vous vous intéressez à la magie capable de créer des effets élémentaires puissants, comme un froid mordant, une flamme intense, un coup de tonnerre assourdissant, un éclair crépitant ou de l'acide brûlant.

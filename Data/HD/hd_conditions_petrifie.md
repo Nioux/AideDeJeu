@@ -4,7 +4,7 @@
 
 # Pétrifié
 
-- AltName: [Petrified](srd_conditions_petrified.md)
+- Alias: [Petrified](srd_conditions_petrified.md)
 
 * Une créature pétrifiée est transformée en substance solide inanimée (généralement en pierre), de même que tous les objets non-magiques qu'elle transporte. Le poids de la créature est multiplié par dix et elle ne vieillit plus.
 

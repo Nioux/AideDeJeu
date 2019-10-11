@@ -5,7 +5,7 @@
 # Diable Orobas
 
 - Source: (LDM p115)(TOB p111)
-- TOB: Orobas Devil
+- Alias: Orobas Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 261 (14d10+126)

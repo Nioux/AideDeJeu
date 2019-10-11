@@ -4,7 +4,7 @@
 
 ### Sceptre de suzeraineté
 
-- AltName: Rod of Rulership (SRD p240)
+- Alias: Rod of Rulership (SRD p240)
 - Source: (CDC p185)
 -  Sceptre, rare (harmonisation requise)
 

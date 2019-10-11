@@ -4,7 +4,7 @@
 
 # Balisage
 
-- SRD: [Guiding Bolt](srd_spells_guiding_bolt.md)
+- Alias: [Guiding Bolt](srd_spells_guiding_bolt.md)
 
 -  Évocation de niveau 1
 

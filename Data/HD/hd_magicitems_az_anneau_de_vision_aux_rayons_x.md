@@ -4,7 +4,7 @@
 
 ### Anneau de vision aux rayons X
 
-- AltName: Ring of X-ray Vision (SRD p238)
+- Alias: Ring of X-ray Vision (SRD p238)
 - Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 

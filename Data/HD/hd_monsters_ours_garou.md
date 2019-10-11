@@ -5,7 +5,7 @@
 # Ours-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Werebear](srd_monsters_werebear.md)
+- Alias: [Werebear](srd_monsters_werebear.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Bon
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours

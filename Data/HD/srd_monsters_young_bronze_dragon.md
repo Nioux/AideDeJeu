@@ -4,7 +4,7 @@
 
 # Young Bronze Dragon
 
-- CEO: [Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)
+- Alias: [Jeune dragon de bronze](hd_monsters_jeune_dragon_de_bronze.md)
 -  Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 142 (15d10 + 60)

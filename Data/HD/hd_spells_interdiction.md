@@ -4,7 +4,7 @@
 
 # Interdiction
 
-- SRD: [Forbiddance](srd_spells_forbiddance.md)
+- Alias: [Forbiddance](srd_spells_forbiddance.md)
 
 -  Abjuration de niveau 6 (rituel)
 

@@ -4,7 +4,7 @@
 
 # Adult Brass Dragon
 
-- CEO: [Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)
+- Alias: [Dragon d'airain adulte](hd_monsters_dragon_dairain_adulte.md)
 -  Huge dragon, chaotic good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 172 (15d12 + 75)

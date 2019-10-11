@@ -5,7 +5,7 @@
 # Torve
 
 - Source: (CEO p)(SRD p)
-- SRD: [Grimlock](srd_monsters_grimlock.md)
+- Alias: [Grimlock](srd_monsters_grimlock.md)
 -  Humanoïde (torve) de taille M, Neutre Mauvais
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 11

@@ -4,7 +4,7 @@
 
 # Forcecage
 
-- MDR: [Cage de force](hd_spells_cage_de_force.md)
+- Alias: [Cage de force](hd_spells_cage_de_force.md)
 - Source: (SRD p147)
 -  7th-level evocation
 - **Casting Time :** 1 action

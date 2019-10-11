@@ -4,7 +4,7 @@
 
 # Wall of Thorns
 
-- MDR: [Mur d'épines](hd_spells_mur_depines.md)
+- Alias: [Mur d'épines](hd_spells_mur_depines.md)
 - Source: (SRD p191)
 -  6th-level conjuration
 - **Casting Time :** 1 action

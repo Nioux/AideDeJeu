@@ -5,7 +5,7 @@
 # Locus Élémentaire
 
 - Source: (LDM p274)(TOB p169)
-- TOB: Elemental Locus
+- Alias: Elemental Locus
 -  Élémentaire de taille Gigantesque (Gig), neutre
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 290 (20d20+80)

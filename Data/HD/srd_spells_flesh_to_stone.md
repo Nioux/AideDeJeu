@@ -4,7 +4,7 @@
 
 # Flesh to Stone
 
-- MDR: [Pétrification](hd_spells_petrification.md)
+- Alias: [Pétrification](hd_spells_petrification.md)
 - Source: (SRD p145)
 -  6th-level transmutation
 - **Casting Time :** 1 action

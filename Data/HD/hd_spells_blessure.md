@@ -4,7 +4,7 @@
 
 # Blessure
 
-- SRD: [Inflict Wounds](srd_spells_inflict_wounds.md)
+- Alias: [Inflict Wounds](srd_spells_inflict_wounds.md)
 
 -  Nécromancie de niveau 1
 

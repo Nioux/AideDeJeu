@@ -4,7 +4,7 @@
 
 # Spirit Naga
 
-- CEO: [Naga corrupteur](hd_monsters_naga_corrupteur.md)
+- Alias: [Naga corrupteur](hd_monsters_naga_corrupteur.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 75 (10d10 + 20)

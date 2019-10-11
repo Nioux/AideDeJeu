@@ -4,7 +4,7 @@
 
 ### Heaume de compréhension des langages
 
-- AltName: Helm of Comprehending Languages (SRD p225)
+- Alias: Helm of Comprehending Languages (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, peu courant
 

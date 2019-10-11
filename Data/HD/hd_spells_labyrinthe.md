@@ -4,7 +4,7 @@
 
 # Labyrinthe
 
-- SRD: [Maze](srd_spells_maze.md)
+- Alias: [Maze](srd_spells_maze.md)
 
 -  Invocation de niveau 8
 

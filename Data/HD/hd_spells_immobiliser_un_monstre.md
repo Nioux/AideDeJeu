@@ -4,7 +4,7 @@
 
 # Immobiliser un monstre
 
-- SRD: [Hold Monster](srd_spells_hold_monster.md)
+- Alias: [Hold Monster](srd_spells_hold_monster.md)
 
 -  Enchantement de niveau 5
 

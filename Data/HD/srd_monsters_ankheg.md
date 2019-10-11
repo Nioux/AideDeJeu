@@ -4,7 +4,7 @@
 
 # Ankheg
 
-- CEO: [Ankheg](hd_monsters_ankheg.md)
+- Alias: [Ankheg](hd_monsters_ankheg.md)
 - Source: (SRD p264)
 -  Large monstrosity, unaligned
 - **Armor Class** 14 (natural armor), 11 while prone

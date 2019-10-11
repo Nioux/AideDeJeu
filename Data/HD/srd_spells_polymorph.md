@@ -4,7 +4,7 @@
 
 # Polymorph
 
-- MDR: [Métamorphose](hd_spells_metamorphose.md)
+- Alias: [Métamorphose](hd_spells_metamorphose.md)
 - Source: (SRD p169)
 -  4th-level transmutation
 - **Casting Time :** 1 action

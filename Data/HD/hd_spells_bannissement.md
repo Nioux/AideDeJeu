@@ -4,7 +4,7 @@
 
 # Bannissement
 
-- SRD: [Banishment](srd_spells_banishment.md)
+- Alias: [Banishment](srd_spells_banishment.md)
 
 -  Abjuration de niveau 4
 

@@ -4,7 +4,7 @@
 
 # Danse irrésistible
 
-- SRD: [Irresistible Dance](srd_spells_irresistible_dance.md)
+- Alias: [Irresistible Dance](srd_spells_irresistible_dance.md)
 
 -  Enchantement de niveau 6
 

@@ -4,7 +4,7 @@
 
 ### Marteau de lancer nain
 
-- AltName: Dwarven Thrower (SRD p220)
+- Alias: Dwarven Thrower (SRD p220)
 - Source: (CDC p172)
 -  Arme (marteau de guerre), très rare (harmonisation requise avec un nain)
 

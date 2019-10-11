@@ -4,7 +4,7 @@
 
 ### Potion de vitesse
 
-- AltName: Potion of Speed (SRD p235)
+- Alias: Potion of Speed (SRD p235)
 - Source: (CDC p178)
 -  Potion, très rare
 

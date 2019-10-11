@@ -4,7 +4,7 @@
 
 # Stirge
 
-- CEO: [Strige](hd_monsters_strige.md)
+- Alias: [Strige](hd_monsters_strige.md)
 -  Tiny beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 2 (1d4)

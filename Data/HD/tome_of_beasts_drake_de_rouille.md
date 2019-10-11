@@ -5,7 +5,7 @@
 # Drake De Rouille
 
 - Source: (LDM p152)(TOB p155)
-- TOB: Rust Drake
+- Alias: Rust Drake
 -  Dragon de taille Moyenne (M), chaotique mauvais
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

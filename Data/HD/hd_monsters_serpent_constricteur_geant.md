@@ -5,7 +5,7 @@
 # Serpent constricteur géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
+- Alias: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12

@@ -4,7 +4,7 @@
 
 ### Lentilles de netteté
 
-- AltName: Eyes of Minute Seeing (SRD p221)
+- Alias: Eyes of Minute Seeing (SRD p221)
 - Source: (CDC p170)
 -  Objet merveilleux, peu courant
 

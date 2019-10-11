@@ -5,7 +5,7 @@
 # Marilith
 
 - Source: (CEO p)(SRD p)
-- SRD: [Marilith](srd_monsters_marilith.md)
+- Alias: [Marilith](srd_monsters_marilith.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)

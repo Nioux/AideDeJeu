@@ -4,7 +4,7 @@
 
 # Mot de retour
 
-- SRD: [Word of Recall](srd_spells_word_of_recall.md)
+- Alias: [Word of Recall](srd_spells_word_of_recall.md)
 
 -  Invocation de niveau 6
 

@@ -5,7 +5,7 @@
 # Mavka
 
 - Source: (LDM p289)(TOB p286)
-- TOB: Mavka
+- Alias: Mavka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 170 (20d8+80)

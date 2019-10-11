@@ -4,7 +4,7 @@
 
 ### Perle de puissance
 
-- AltName: Pearl of Power (SRD p232)
+- Alias: Pearl of Power (SRD p232)
 - Source: (CDC p174)
 -  Objet merveilleux, peu courant (harmonisation requise par un incantateur)
 

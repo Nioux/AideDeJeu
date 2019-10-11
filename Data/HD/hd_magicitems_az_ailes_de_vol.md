@@ -4,7 +4,7 @@
 
 ### Ailes de vol
 
-- AltName: Wings of Flying (SRD p251)
+- Alias: Wings of Flying (SRD p251)
 - Source: (CDC p138)
 -  Objet merveilleux, rare (harmonisation requise)
 

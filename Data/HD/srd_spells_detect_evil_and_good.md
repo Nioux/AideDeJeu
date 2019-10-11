@@ -4,7 +4,7 @@
 
 # Detect Evil and Good
 
-- MDR: [Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)
+- Alias: [Détection du mal et du bien](hd_spells_detection_du_mal_et_du_bien.md)
 - Source: (SRD p134)
 -  1st-level divination
 - **Casting Time :** 1 action

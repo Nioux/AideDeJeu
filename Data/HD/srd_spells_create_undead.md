@@ -4,7 +4,7 @@
 
 # Create Undead
 
-- MDR: [Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)
+- Alias: [Création de mort-vivant](hd_spells_creation_de_mort_vivant.md)
 - Source: (SRD p132)
 -  6th-level necromancy
 - **Casting Time :** 1 minute

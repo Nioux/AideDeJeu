@@ -5,7 +5,7 @@
 
 # Conditions
 
-- AltName: [États spéciaux](hd_conditions.md)
+- Alias: [États spéciaux](hd_conditions.md)
 - Source: (SRD p358)
 
 Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monsters attack, or other effect. Most conditions, such as [blinded](srd_conditions_blinded.md), are impairments, but a few, such as invisible, can be advantageous.

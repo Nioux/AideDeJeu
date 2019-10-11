@@ -4,7 +4,7 @@
 
 # Resilient Sphere
 
-- MDR: [Sphère résiliente](hd_spells_sphere_resiliente.md)
+- Alias: [Sphère résiliente](hd_spells_sphere_resiliente.md)
 - Source: (SRD p175)
 -  4th-level evocation
 - **Casting Time :** 1 action

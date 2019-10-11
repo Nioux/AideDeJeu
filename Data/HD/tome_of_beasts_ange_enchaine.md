@@ -5,7 +5,7 @@
 # Ange Enchaîné
 
 - Source: (LDM p19)(TOB p20)
-- TOB: Angel, Chained
+- Alias: Angel, Chained
 -  Céleste de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 88 (16d8+16)

@@ -5,7 +5,7 @@
 # Loup arctique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Winter Wolf](srd_monsters_winter_wolf.md)
+- Alias: [Winter Wolf](srd_monsters_winter_wolf.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Coquille antivie
 
-- SRD: [Antilife Shell](srd_spells_antilife_shell.md)
+- Alias: [Antilife Shell](srd_spells_antilife_shell.md)
 
 -  Abjuration de niveau 5
 

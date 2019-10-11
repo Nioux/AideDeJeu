@@ -4,7 +4,7 @@
 
 # Non-détection
 
-- SRD: [Nondetection](srd_spells_nondetection.md)
+- Alias: [Nondetection](srd_spells_nondetection.md)
 
 -  Abjuration de niveau 3
 

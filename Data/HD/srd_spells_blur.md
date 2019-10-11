@@ -4,7 +4,7 @@
 
 # Blur
 
-- MDR: [Flou](hd_spells_flou.md)
+- Alias: [Flou](hd_spells_flou.md)
 - Source: (SRD p123)
 -  2nd-level illusion
 - **Casting Time :** 1 action

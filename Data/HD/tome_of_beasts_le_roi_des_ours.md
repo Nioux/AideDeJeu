@@ -5,7 +5,7 @@
 # Le Roi des Ours
 
 - Source: (LDM p190)(TOB p186)
-- TOB: Bear King
+- Alias: Bear King
 -  Fée (métamorphe) de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 133 (14d8+70)

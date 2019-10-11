@@ -4,7 +4,7 @@
 
 # Imp
 
-- CEO: [Diablotin](hd_monsters_diablotin.md)
+- Alias: [Diablotin](hd_monsters_diablotin.md)
 -  Tiny fiend (devil, shapechanger), lawful evil
 - **Armor Class** 13
 - **Hit Points** 10 (3d4 + 3)

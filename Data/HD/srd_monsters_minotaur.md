@@ -4,7 +4,7 @@
 
 # Minotaur
 
-- CEO: [Minotaure](hd_monsters_minotaure.md)
+- Alias: [Minotaure](hd_monsters_minotaure.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 76 (9d10 + 27)

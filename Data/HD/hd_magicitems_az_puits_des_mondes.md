@@ -4,7 +4,7 @@
 
 ### Puits des mondes
 
-- AltName: Well of Many Worlds (SRD p250)
+- Alias: Well of Many Worlds (SRD p250)
 - Source: (CDC p180)
 -  Objet merveilleux, légendaire
 

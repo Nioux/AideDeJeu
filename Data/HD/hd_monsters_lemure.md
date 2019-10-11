@@ -5,7 +5,7 @@
 # Lémure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lemure](srd_monsters_lemure.md)
+- Alias: [Lemure](srd_monsters_lemure.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 7

@@ -5,7 +5,7 @@
 # Vrock
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vrock](srd_monsters_vrock.md)
+- Alias: [Vrock](srd_monsters_vrock.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)

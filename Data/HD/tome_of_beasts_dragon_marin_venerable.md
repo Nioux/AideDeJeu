@@ -5,7 +5,7 @@
 # Dragon Marin, Vénérable
 
 - Source: (LDM p145)(TOB p135)
-- TOB: Ancient Sea Dragon
+- Alias: Ancient Sea Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)

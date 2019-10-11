@@ -6,6 +6,8 @@
 
 Voir [Chimère](hd_monsters_chimere.md)
 
+- Source: (MM p36)(BB1 p22)
+- Alias: Chimera Cub
 -  Créature monstrueuse de taille M, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)

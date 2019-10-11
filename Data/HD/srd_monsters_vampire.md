@@ -4,7 +4,7 @@
 
 # Vampire
 
-- CEO: [Vampire](hd_monsters_vampire.md)
+- Alias: [Vampire](hd_monsters_vampire.md)
 -  Medium undead (shapechanger), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 144 (17d8 + 68)

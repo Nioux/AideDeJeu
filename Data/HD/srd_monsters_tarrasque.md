@@ -4,7 +4,7 @@
 
 # Tarrasque
 
-- CEO: [Tarasque](hd_monsters_tarasque.md)
+- Alias: [Tarasque](hd_monsters_tarasque.md)
 -  Gargantuan monstrosity (titan), unaligned
 - **Armor Class** 25 (natural armor)
 - **Hit Points** 676 (33d20 + 330)

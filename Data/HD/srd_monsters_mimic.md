@@ -4,7 +4,7 @@
 
 # Mimic
 
-- CEO: [Mimique](hd_monsters_mimique.md)
+- Alias: [Mimique](hd_monsters_mimique.md)
 -  Medium monstrosity (shapechanger), neutral
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 58 (9d8 + 18)

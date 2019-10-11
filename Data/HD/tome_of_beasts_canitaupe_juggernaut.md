@@ -5,7 +5,7 @@
 # Canitaupe Juggernaut
 
 - Source: (LDM p54)(TOB p121)
-- TOB: Dogmole Juggernaut
+- Alias: Dogmole Juggernaut
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 15 (armure de chaînes)

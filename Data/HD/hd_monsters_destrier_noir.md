@@ -5,7 +5,7 @@
 # Destrier noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Nightmare](srd_monsters_nightmare.md)
+- Alias: [Nightmare](srd_monsters_nightmare.md)
 -  Fiélon de taille G, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)

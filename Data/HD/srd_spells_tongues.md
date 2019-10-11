@@ -4,7 +4,7 @@
 
 # Tongues
 
-- MDR: [Langues](hd_spells_langues.md)
+- Alias: [Langues](hd_spells_langues.md)
 - Source: (SRD p187)
 -  3th-level divination
 - **Casting Time :** 1 action

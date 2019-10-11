@@ -4,7 +4,7 @@
 
 # Ancient Green Dragon
 
-- CEO: [Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)
+- Alias: [Dragon vert vénérable](hd_monsters_dragon_vert_venerable.md)
 -  Gargantuan dragon, lawful evil
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 385 (22d20 + 154)

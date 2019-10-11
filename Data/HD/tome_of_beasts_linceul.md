@@ -5,7 +5,7 @@
 # Linceul
 
 - Source: (LDM p271)(TOB p348)
-- TOB: Shroud
+- Alias: Shroud
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 9 (2d8)

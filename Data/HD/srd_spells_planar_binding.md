@@ -4,7 +4,7 @@
 
 # Planar Binding
 
-- MDR: [Entrave planaire](hd_spells_entrave_planaire.md)
+- Alias: [Entrave planaire](hd_spells_entrave_planaire.md)
 - Source: (SRD p168)
 -  5th-level abjuration
 - **Casting Time :** 1 hour

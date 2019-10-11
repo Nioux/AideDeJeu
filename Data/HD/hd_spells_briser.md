@@ -4,7 +4,7 @@
 
 # Briser
 
-- SRD: [Shatter](srd_spells_shatter.md)
+- Alias: [Shatter](srd_spells_shatter.md)
 
 -  Évocation de niveau 2
 

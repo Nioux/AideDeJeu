@@ -4,7 +4,7 @@
 
 #### Les divinités égyptiennes
 
-- AltName: Egyptian Deities
+- Alias: Egyptian Deities
 - Source: (MDR p415)(SRD p361)
 
 |Divinité|Alignement|Domaines suggérés|Symbole|

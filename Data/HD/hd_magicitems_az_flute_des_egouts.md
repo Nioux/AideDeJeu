@@ -4,7 +4,7 @@
 
 ### Flûte des égouts
 
-- AltName: Pipes of the Sewers (SRD p232)
+- Alias: Pipes of the Sewers (SRD p232)
 - Source: (CDC p166)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

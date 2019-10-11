@@ -5,7 +5,7 @@
 # Punaise de feu géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
+- Alias: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)

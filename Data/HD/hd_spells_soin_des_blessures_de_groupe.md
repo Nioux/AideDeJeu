@@ -4,7 +4,7 @@
 
 # Soin des blessures de groupe
 
-- SRD: [Mass Cure Wounds](srd_spells_mass_cure_wounds.md)
+- Alias: [Mass Cure Wounds](srd_spells_mass_cure_wounds.md)
 
 -  Évocation de niveau 5
 

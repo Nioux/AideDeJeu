@@ -6,6 +6,8 @@
 
 Voir [Criard](hd_monsters_criard.md)
 
+- Source: (MM p42)(BB2 p76)
+- Alias: Shrieker Button
 -  Plante de taille P, non aligné
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5

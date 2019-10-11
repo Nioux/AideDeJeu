@@ -5,7 +5,7 @@
 # Algorith
 
 - Source: (LDM p12)(TOB p14)
-- TOB: Algorith
+- Alias: Algorith
 -  Créature artificielle de taille Moyenne (M), loyal neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)

@@ -5,7 +5,7 @@
 # Hibours
 
 - Source: (CEO p)(SRD p)
-- SRD: [Owlbear](srd_monsters_owlbear.md)
+- Alias: [Owlbear](srd_monsters_owlbear.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)

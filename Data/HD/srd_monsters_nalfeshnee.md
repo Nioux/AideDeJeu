@@ -4,7 +4,7 @@
 
 # Nalfeshnee
 
-- CEO: [Nalfeshnie](hd_monsters_nalfeshnie.md)
+- Alias: [Nalfeshnie](hd_monsters_nalfeshnie.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 184 (16d10 + 96)

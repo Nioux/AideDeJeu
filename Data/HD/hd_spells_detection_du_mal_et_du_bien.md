@@ -4,7 +4,7 @@
 
 # Détection du mal et du bien
 
-- SRD: [Detect Evil and Good](srd_spells_detect_evil_and_good.md)
+- Alias: [Detect Evil and Good](srd_spells_detect_evil_and_good.md)
 
 -  Divination de niveau 1
 

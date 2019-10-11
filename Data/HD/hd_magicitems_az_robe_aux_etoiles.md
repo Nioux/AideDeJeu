@@ -4,7 +4,7 @@
 
 ### Robe aux étoiles
 
-- AltName: Robe of Stars (SRD p239)
+- Alias: Robe of Stars (SRD p239)
 - Source: (CDC p180)
 -  Objet merveilleux, très rare (harmonisation requise)
 

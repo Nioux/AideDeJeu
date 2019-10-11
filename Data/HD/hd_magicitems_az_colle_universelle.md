@@ -4,7 +4,7 @@
 
 ### Colle universelle
 
-- AltName: Sovereign Glue (SRD p242)
+- Alias: Sovereign Glue (SRD p242)
 - Source: (CDC p160)
 -  Objet merveilleux, légendaire
 

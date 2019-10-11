@@ -5,7 +5,7 @@
 
 # Objets magiques intelligents
 
-- AltName: Sentient Magic Items (SRD p251)
+- Alias: Sentient Magic Items (SRD p251)
 - Source: (CDC p189)
 
 Certains objets magiques sont dotés d'une conscience et d'une personnalité. Un tel objet peut faire partie des possessions d'une créature, mais il peut aussi être hanté par l'esprit de l'un de ses précédents propriétaires ou complètement autonome grâce à la magie investie pour le créer. Quoi qu'il en soit, l'objet se comporte comme un personnage, avec ses particularités comportementales, ses idéaux, ses relations et parfois ses défauts. Un objet intelligent peut être l'allié fidèle de son utilisateur ou une perpétuelle épine dans son pied.

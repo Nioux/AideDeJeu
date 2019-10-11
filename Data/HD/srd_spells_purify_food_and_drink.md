@@ -4,7 +4,7 @@
 
 # Purify Food and Drink
 
-- MDR: [Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)
+- Alias: [Purification de la nourriture et de l'eau](hd_spells_purification_de_la_nourriture_et_de_leau.md)
 - Source: (SRD p173)
 -  1st-level transmutation (ritual)
 - **Casting Time :** 1 action

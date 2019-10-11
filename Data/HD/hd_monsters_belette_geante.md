@@ -5,7 +5,7 @@
 # Belette géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Weasel](srd_monsters_giant_weasel.md)
+- Alias: [Giant Weasel](srd_monsters_giant_weasel.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

@@ -5,7 +5,7 @@
 
 ## Les objets magiques
 
-- AltName: Magic Items A-Z (SRD p207)
+- Alias: Magic Items A-Z (SRD p207)
 - Source: (CDC p138)
 
 Les objets magiques sont présentés ici dans l'ordre alphabétique. Le descriptif de chacun comprend son nom, sa catégorie, sa rareté et ses propriétés magiques.

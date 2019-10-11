@@ -4,7 +4,7 @@
 
 #### Mort instantanée
 
-- AltName: Instant Death
+- Alias: Instant Death
 - Source: (MDR p298)(SRD p98)
 
 Des dégâts trop importants peuvent vous tuer sur le coup. Pour que cette chose terrible arrive, il faut que les dégâts vous fassent tomber à 0 point de vie et que le reliquat des dégâts infligés par l’attaque soit supérieur ou égal à votre maximum de points de vie.

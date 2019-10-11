@@ -4,7 +4,7 @@
 
 # Scout
 
-- CEO: [Éclaireur](hd_monsters_eclaireur.md)
+- Alias: [Éclaireur](hd_monsters_eclaireur.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 13 (leather armor)
 - **Hit Points** 16 (3d8 + 3)

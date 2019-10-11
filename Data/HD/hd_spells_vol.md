@@ -4,7 +4,7 @@
 
 # Vol
 
-- SRD: [Fly](srd_spells_fly.md)
+- Alias: [Fly](srd_spells_fly.md)
 
 -  Transmutation de niveau 3
 

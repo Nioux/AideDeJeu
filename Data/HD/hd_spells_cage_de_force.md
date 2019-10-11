@@ -4,7 +4,7 @@
 
 # Cage de force
 
-- SRD: [Forcecage](srd_spells_forcecage.md)
+- Alias: [Forcecage](srd_spells_forcecage.md)
 
 -  Évocation de niveau 7
 

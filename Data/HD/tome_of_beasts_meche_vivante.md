@@ -5,7 +5,7 @@
 # Mèche Vivante
 
 - Source: (LDM p297)(TOB p278)
-- TOB: Living Wick
+- Alias: Living Wick
 -  Créature artificielle de Petite taille (P), non-alignée
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)

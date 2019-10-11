@@ -4,7 +4,7 @@
 
 # Esprit faible
 
-- SRD: [Feeblemind](srd_spells_feeblemind.md)
+- Alias: [Feeblemind](srd_spells_feeblemind.md)
 
 -  Enchantement de niveau 8
 

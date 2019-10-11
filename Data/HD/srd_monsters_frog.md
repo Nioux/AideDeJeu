@@ -4,7 +4,7 @@
 
 # Frog
 
-- CEO: [Grenouille](hd_monsters_grenouille.md)
+- Alias: [Grenouille](hd_monsters_grenouille.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)

@@ -4,7 +4,7 @@
 
 ### Ceinturon de force de géant des tempêtes
 
-- AltName: Belt of Storm Giant Strength (SRD p211)
+- Alias: Belt of Storm Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, légendaire (harmonisation requise)
 

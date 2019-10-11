@@ -4,7 +4,7 @@
 
 # Conjure Animals
 
-- MDR: [Invoquer des animaux](hd_spells_invoquer_des_animaux.md)
+- Alias: [Invoquer des animaux](hd_spells_invoquer_des_animaux.md)
 - Source: (SRD p127)
 -  3th-level conjuration
 - **Casting Time :** 1 action

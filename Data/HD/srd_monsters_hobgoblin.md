@@ -4,7 +4,7 @@
 
 # Hobgoblin
 
-- CEO: [Hobgobelin](hd_monsters_hobgobelin.md)
+- Alias: [Hobgobelin](hd_monsters_hobgobelin.md)
 -  Medium humanoid (goblinoid), lawful evil
 - **Armor Class** 18 (chain mail, shield)
 - **Hit Points** 11 (2d8 + 2)

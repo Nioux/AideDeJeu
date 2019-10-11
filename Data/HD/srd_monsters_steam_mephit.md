@@ -4,7 +4,7 @@
 
 # Steam Mephit
 
-- CEO: [Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)
+- Alias: [Méphite de vapeur](hd_monsters_mephite_de_vapeur.md)
 -  Small elemental, neutral evil
 - **Armor Class** 10
 - **Hit Points** 21 (6d6)

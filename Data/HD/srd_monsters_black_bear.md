@@ -4,7 +4,7 @@
 
 # Black Bear
 
-- CEO: [Ours noir](hd_monsters_ours_noir.md)
+- Alias: [Ours noir](hd_monsters_ours_noir.md)
 -  Medium beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 19 (3d8 + 6)

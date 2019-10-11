@@ -4,7 +4,7 @@
 
 ### Encensoir de contrôle des élémentaires de l'air
 
-- AltName: Censer of Controlling Air Elementals (SRD p213)
+- Alias: Censer of Controlling Air Elementals (SRD p213)
 - Source: (CDC p162)
 -  Objet merveilleux, rare
 

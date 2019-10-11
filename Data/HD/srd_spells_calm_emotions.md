@@ -4,7 +4,7 @@
 
 # Calm Emotions
 
-- MDR: [Apaisement des émotions](hd_spells_apaisement_des_emotions.md)
+- Alias: [Apaisement des émotions](hd_spells_apaisement_des_emotions.md)
 - Source: (SRD p123)
 -  2nd-level enchantment
 - **Casting Time :** 1 action

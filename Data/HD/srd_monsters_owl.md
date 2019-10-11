@@ -4,7 +4,7 @@
 
 # Owl
 
-- CEO: [Chouette](hd_monsters_chouette.md)
+- Alias: [Chouette](hd_monsters_chouette.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)

@@ -4,7 +4,7 @@
 
 # Reef Shark
 
-- CEO: [Requin de récif](hd_monsters_requin_de_recif.md)
+- Alias: [Requin de récif](hd_monsters_requin_de_recif.md)
 -  Medium beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 22 (4d8 + 4)

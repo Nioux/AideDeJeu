@@ -4,7 +4,7 @@
 
 # Sleep
 
-- MDR: [Sommeil](hd_spells_sommeil.md)
+- Alias: [Sommeil](hd_spells_sommeil.md)
 - Source: (SRD p180)
 -  1st-level enchantment
 - **Casting Time :** 1 action

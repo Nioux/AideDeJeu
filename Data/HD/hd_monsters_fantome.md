@@ -5,7 +5,7 @@
 # Fantôme
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ghost](srd_monsters_ghost.md)
+- Alias: [Ghost](srd_monsters_ghost.md)
 -  Mort-vivant de taille M, n'importe quel alignement
 - **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 11

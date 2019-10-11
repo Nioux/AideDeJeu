@@ -5,7 +5,7 @@
 # Requin chasseur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hunter Shark](srd_monsters_hunter_shark.md)
+- Alias: [Hunter Shark](srd_monsters_hunter_shark.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)

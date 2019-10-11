@@ -4,7 +4,7 @@
 
 # Vampiric Touch
 
-- MDR: [Caresse du vampire](hd_spells_caresse_du_vampire.md)
+- Alias: [Caresse du vampire](hd_spells_caresse_du_vampire.md)
 - Source: (SRD p189)
 -  3th-level necromancy
 - **Casting Time :** 1 action

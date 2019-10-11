@@ -4,7 +4,7 @@
 
 # Message
 
-- MDR: [Message](hd_spells_message.md)
+- Alias: [Message](hd_spells_message.md)
 - Source: (SRD p164)
 -  Transmutation cantrip
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Worg
 
-- CEO: [Worg](hd_monsters_worg.md)
+- Alias: [Worg](hd_monsters_worg.md)
 -  Large monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 26 (4d10 + 4)

@@ -4,7 +4,7 @@
 
 # Awakened Tree
 
-- CEO: [Arbre éveillé](hd_monsters_arbre_eveille.md)
+- Alias: [Arbre éveillé](hd_monsters_arbre_eveille.md)
 - Source: (SRD p366)
 -  Huge plant, unaligned
 - **Armor Class** 13 (natural armor)

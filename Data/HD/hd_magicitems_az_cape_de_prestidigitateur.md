@@ -4,7 +4,7 @@
 
 ### Cape de prestidigitateur
 
-- AltName: Cape of the Mountebank (SRD p213)
+- Alias: Cape of the Mountebank (SRD p213)
 - Source: (CDC p155)
 -  Objet merveilleux, rare
 

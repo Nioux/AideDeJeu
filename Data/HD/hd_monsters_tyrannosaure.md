@@ -5,7 +5,7 @@
 # Tyrannosaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
+- Alias: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 13 (armure naturelle)

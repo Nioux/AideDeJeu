@@ -4,7 +4,7 @@
 
 # Dire Wolf
 
-- CEO: [Loup sanguinaire](hd_monsters_loup_sanguinaire.md)
+- Alias: [Loup sanguinaire](hd_monsters_loup_sanguinaire.md)
 -  Large beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 37 (5d10 + 10)

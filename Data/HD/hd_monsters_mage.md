@@ -5,7 +5,7 @@
 # Mage
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mage](srd_monsters_mage.md)
+- Alias: [Mage](srd_monsters_mage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)

@@ -4,7 +4,7 @@
 
 # Longstrider
 
-- MDR: [Grande foulée](hd_spells_grande_foulee.md)
+- Alias: [Grande foulée](hd_spells_grande_foulee.md)
 - Source: (SRD p160)
 -  1st-level transmutation
 - **Casting Time :** 1 action

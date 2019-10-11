@@ -5,7 +5,7 @@
 # Gardien Spectral
 
 - Source: (LDM p201)(TOB p358)
-- TOB: Spectral Guardian
+- Alias: Spectral Guardian
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 14
 - **Points de vie** 110 (13d8+52)

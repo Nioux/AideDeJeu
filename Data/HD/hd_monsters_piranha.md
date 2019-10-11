@@ -5,7 +5,7 @@
 # Piranha
 
 - Source: (CEO p)(SRD p)
-- SRD: [Quipper](srd_monsters_quipper.md)
+- Alias: [Quipper](srd_monsters_quipper.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 13

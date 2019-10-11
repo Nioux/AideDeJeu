@@ -4,7 +4,7 @@
 
 # Mains brûlantes
 
-- SRD: [Burning Hands](srd_spells_burning_hands.md)
+- Alias: [Burning Hands](srd_spells_burning_hands.md)
 
 -  Évocation de niveau 1
 

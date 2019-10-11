@@ -4,7 +4,7 @@
 
 # Protection from Energy
 
-- MDR: [Protection contre les énergies](hd_spells_protection_contre_les_energies.md)
+- Alias: [Protection contre les énergies](hd_spells_protection_contre_les_energies.md)
 - Source: (SRD p173)
 -  3th-level abjuration
 - **Casting Time :** 1 action

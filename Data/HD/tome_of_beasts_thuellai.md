@@ -5,7 +5,7 @@
 # Thuellai
 
 - Source: (LDM p380)(TOB p379)
-- TOB: Thuellai
+- Alias: Thuellai
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17

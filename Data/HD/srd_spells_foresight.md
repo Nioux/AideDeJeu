@@ -4,7 +4,7 @@
 
 # Foresight
 
-- MDR: [Prémonition](hd_spells_premonition.md)
+- Alias: [Prémonition](hd_spells_premonition.md)
 - Source: (SRD p147)
 -  9th-level divination
 - **Casting Time :** 1 minute

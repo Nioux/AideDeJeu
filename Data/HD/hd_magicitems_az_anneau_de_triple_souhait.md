@@ -4,7 +4,7 @@
 
 ### Anneau de triple souhait
 
-- AltName: Ring of Three Wishes (SRD p238)
+- Alias: Ring of Three Wishes (SRD p238)
 - Source: (CDC p142)
 -  Anneau, légendaire
 

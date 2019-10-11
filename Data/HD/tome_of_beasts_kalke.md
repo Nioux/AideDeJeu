@@ -5,7 +5,7 @@
 # Kalke
 
 - Source: (LDM p252)(TOB p259)
-- TOB: Kalke
+- Alias: Kalke
 -  Fiélon de Petite taille (P), neutre mauvais
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 9 (2d6+2)

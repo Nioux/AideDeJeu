@@ -5,7 +5,7 @@
 # Jeune dragon bleu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
+- Alias: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 18 (armure naturelle)

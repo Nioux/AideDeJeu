@@ -4,7 +4,7 @@
 
 # Bless
 
-- MDR: [Bénédiction](hd_spells_benediction.md)
+- Alias: [Bénédiction](hd_spells_benediction.md)
 - Source: (SRD p122)
 -  1st-level enchantment
 - **Casting Time :** 1 action

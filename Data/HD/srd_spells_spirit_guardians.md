@@ -4,7 +4,7 @@
 
 # Spirit Guardians
 
-- MDR: [Esprits gardiens](hd_spells_esprits_gardiens.md)
+- Alias: [Esprits gardiens](hd_spells_esprits_gardiens.md)
 - Source: (SRD p182)
 -  3th-level conjuration
 - **Casting Time :** 1 action

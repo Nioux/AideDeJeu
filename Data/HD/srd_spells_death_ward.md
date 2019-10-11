@@ -4,7 +4,7 @@
 
 # Death Ward
 
-- MDR: [Protection contre la mort](hd_spells_protection_contre_la_mort.md)
+- Alias: [Protection contre la mort](hd_spells_protection_contre_la_mort.md)
 - Source: (SRD p133)
 -  4th-level abjuration
 - **Casting Time :** 1 action

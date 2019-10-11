@@ -5,7 +5,7 @@
 
 # Rôdeur
 
-- AltName: Ranger (SRD p35)
+- Alias: Ranger (SRD p35)
 - Source: (MDR p194)
 
 En tant que rôdeur, vous bénéficiez des aptitudes de classe suivantes.

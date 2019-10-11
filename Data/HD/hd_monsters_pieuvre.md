@@ -5,7 +5,7 @@
 # Pieuvre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Octopus](srd_monsters_octopus.md)
+- Alias: [Octopus](srd_monsters_octopus.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12

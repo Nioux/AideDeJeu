@@ -4,7 +4,7 @@
 
 # Black Pudding
 
-- CEO: [Pouding noir](hd_monsters_pouding_noir.md)
+- Alias: [Pouding noir](hd_monsters_pouding_noir.md)
 -  Large ooze, unaligned
 - **Armor Class** 7
 - **Hit Points** 85 (10d10 + 30)

@@ -4,7 +4,7 @@
 
 # Mirage
 
-- SRD: [Mirage Arcane](srd_spells_mirage_arcane.md)
+- Alias: [Mirage Arcane](srd_spells_mirage_arcane.md)
 
 -  Illusion de niveau 7
 

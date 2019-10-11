@@ -4,7 +4,7 @@
 
 ### Robe de l'archimage
 
-- AltName: Robe of the Archmagi (SRD p239)
+- Alias: Robe of the Archmagi (SRD p239)
 - Source: (CDC p181)
 -  Objet merveilleux, légendaire (harmonisation avec un ensorceleur, un sorcier ou un magicien exigée)
 

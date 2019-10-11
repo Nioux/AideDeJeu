@@ -4,7 +4,7 @@
 
 # Fire Storm
 
-- MDR: [Tempête de feu](hd_spells_tempete_de_feu.md)
+- Alias: [Tempête de feu](hd_spells_tempete_de_feu.md)
 - Source: (SRD p145)
 -  7th-level evocation
 - **Casting Time :** 1 action

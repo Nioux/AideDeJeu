@@ -4,7 +4,7 @@
 
 # Magmin
 
-- CEO: [Magmatique](hd_monsters_magmatique.md)
+- Alias: [Magmatique](hd_monsters_magmatique.md)
 -  Small elemental, chaotic neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 9 (2d6 + 2)

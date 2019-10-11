@@ -4,7 +4,7 @@
 
 # Mastiff
 
-- CEO: [Mastiff](hd_monsters_mastiff.md)
+- Alias: [Mastiff](hd_monsters_mastiff.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 5 (1d8 + 1)

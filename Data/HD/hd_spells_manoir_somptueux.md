@@ -4,7 +4,7 @@
 
 # Manoir somptueux
 
-- SRD: [Magnificent Mansion](srd_spells_magnificent_mansion.md)
+- Alias: [Magnificent Mansion](srd_spells_magnificent_mansion.md)
 
 -  Invocation de niveau 7
 

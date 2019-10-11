@@ -5,7 +5,7 @@
 # Crabe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Crab](srd_monsters_crab.md)
+- Alias: [Crab](srd_monsters_crab.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Littoral, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11 (armure naturelle)

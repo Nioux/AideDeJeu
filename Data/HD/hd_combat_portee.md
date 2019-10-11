@@ -4,7 +4,7 @@
 
 #### Portée
 
-- AltName: Range (SRD p95)
+- Alias: Range (SRD p95)
 - Source: (MDR p291)
 
 Vous ne pouvez faire d'attaque à distance que contre des cibles qui se trouvent à une portée spécifique.

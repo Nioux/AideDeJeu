@@ -5,7 +5,7 @@
 # Oni
 
 - Source: (CEO p)(SRD p)
-- SRD: [Oni](srd_monsters_oni.md)
+- Alias: [Oni](srd_monsters_oni.md)
 -  Géant de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 16 (cotte de mailles)

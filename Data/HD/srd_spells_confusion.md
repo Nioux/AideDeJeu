@@ -4,7 +4,7 @@
 
 # Confusion
 
-- MDR: [Confusion](hd_spells_confusion.md)
+- Alias: [Confusion](hd_spells_confusion.md)
 - Source: (SRD p127)
 -  4th-level enchantment
 - **Casting Time :** 1 action

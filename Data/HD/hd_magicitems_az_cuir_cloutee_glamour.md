@@ -4,7 +4,7 @@
 
 ### Cuir cloutée glamour
 
-- AltName: Glamoured Studded Leather (SRD p224)
+- Alias: Glamoured Studded Leather (SRD p224)
 - Source: (CDC p162)
 -  Armure (cuir cloutée), rare
 

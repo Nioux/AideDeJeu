@@ -5,7 +5,7 @@
 # Xorn
 
 - Source: (CEO p)(SRD p)
-- SRD: [Xorn](srd_monsters_xorn.md)
+- Alias: [Xorn](srd_monsters_xorn.md)
 -  Élémentaire de taille M, Neutre
 - **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 19 (armure naturelle)

@@ -5,7 +5,7 @@
 # Koschei
 
 - Source: (LDM p259)(TOB p266)
-- TOB: Koschei
+- Alias: Koschei
 -  Fiélon de taille Moyenne (M), neutre mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 135 (18d8+54)

@@ -5,7 +5,7 @@
 # Araignée À Lignes Rouges
 
 - Source: (LDM p23)(TOB p363)
-- TOB: Red-Banded Line Spider
+- Alias: Red-Banded Line Spider
 -  Bête de Très Petite taille (TP), non-alignée
 - **Classe d'armure** 13
 - **Points de vie** 2 (1d4)

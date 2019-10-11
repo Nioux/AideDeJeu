@@ -4,7 +4,7 @@
 
 # Adult Gold Dragon
 
-- CEO: [Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)
+- Alias: [Dragon d'or adulte](hd_monsters_dragon_dor_adulte.md)
 -  Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 256 (19d12 + 133)

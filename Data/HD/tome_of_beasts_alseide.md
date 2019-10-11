@@ -5,7 +5,7 @@
 # Alséide
 
 - Source: (LDM p13)(TOB p15)
-- TOB: Alseid
+- Alias: Alseid
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure de cuir)

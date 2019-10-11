@@ -4,7 +4,7 @@
 
 # Petite hutte
 
-- SRD: [Tiny Hut](srd_spells_tiny_hut.md)
+- Alias: [Tiny Hut](srd_spells_tiny_hut.md)
 
 -  Évocation de niveau 3 (rituel)
 

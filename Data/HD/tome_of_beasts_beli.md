@@ -5,7 +5,7 @@
 # Béli
 
 - Source: (LDM p38)(TOB p35)
-- TOB: Beli
+- Alias: Beli
 -  Fée de Petite taille (P), neutre mauvaise
 - **Terrain** Arctique / Subarctique, Montagnes
 - **Classe d'armure** 15 (armure naturelle)

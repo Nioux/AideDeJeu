@@ -5,7 +5,7 @@
 # Amanite Myconide
 
 - Source: (LDM p14)(TOB p300)
-- TOB: Deathcap Myconid
+- Alias: Deathcap Myconid
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)

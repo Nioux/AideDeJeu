@@ -5,7 +5,7 @@
 # La Reine de la Nuit et de la Magie
 
 - Source: (LDM p180)(TOB p192)
-- TOB: Queen of Night and Magic
+- Alias: Queen of Night and Magic
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 15 (18 avec armure du mage)
 - **Points de vie** 180 (24d8+72)

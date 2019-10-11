@@ -5,7 +5,7 @@
 # Dragon Du Vide, Jeune
 
 - Source: (LDM p141)(TOB p140)
-- TOB: Young Void Dragon
+- Alias: Young Void Dragon
 -  Dragon de Grande taille (G), chaotique neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)

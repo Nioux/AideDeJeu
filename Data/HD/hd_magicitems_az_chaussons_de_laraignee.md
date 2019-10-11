@@ -4,7 +4,7 @@
 
 ### Chaussons de l'araignée
 
-- AltName: Slippers of Spider Climbing (SRD p242)
+- Alias: Slippers of Spider Climbing (SRD p242)
 - Source: (CDC p159)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

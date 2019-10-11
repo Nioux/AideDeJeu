@@ -5,7 +5,7 @@
 # Nuée Osseuse
 
 - Source: (LDM p332)(TOB p41)
-- TOB: Bone Swarm
+- Alias: Bone Swarm
 -  Nuée de Grande taille de morts-vivants de Très Petite taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 198 (36d10)

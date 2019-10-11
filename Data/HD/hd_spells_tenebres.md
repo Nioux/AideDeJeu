@@ -4,7 +4,7 @@
 
 # Ténèbres
 
-- SRD: [Darkness](srd_spells_darkness.md)
+- Alias: [Darkness](srd_spells_darkness.md)
 
 -  Évocation de niveau 2
 

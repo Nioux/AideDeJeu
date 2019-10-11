@@ -5,7 +5,7 @@
 # Nuée D'Yeux
 
 - Source: (LDM p325)(TOB p309)
-- TOB: Oculo Swarm
+- Alias: Oculo Swarm
 -  Nuée de Grande taille d'aberrations de taille Minuscule (G), neutre
 - **Classe d'armure** 15
 - **Points de vie** 110 (13d10+39)

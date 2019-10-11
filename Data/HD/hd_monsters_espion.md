@@ -5,7 +5,7 @@
 # Espion
 
 - Source: (CEO p)(SRD p)
-- SRD: [Spy](srd_monsters_spy.md)
+- Alias: [Spy](srd_monsters_spy.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12

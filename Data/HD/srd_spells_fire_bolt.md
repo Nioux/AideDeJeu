@@ -4,7 +4,7 @@
 
 # Fire Bolt
 
-- MDR: [Trait de feu](hd_spells_trait_de_feu.md)
+- Alias: [Trait de feu](hd_spells_trait_de_feu.md)
 - Source: (SRD p144)
 -  Evocation cantrip
 - **Casting Time :** 1 action

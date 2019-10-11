@@ -4,7 +4,7 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
     xmlns:local="clr-namespace:AideDeJeu.Views" 
     xmlns:tools="clr-namespace:AideDeJeu.Tools" 
-    x:Class="AideDeJeu.Views.Library.FilteredItemsPage" 
+    x:Class="AideDeJeu.Views.Library.FilteredItemsPageOld" 
     x:Name="This" 
     Title="{Binding Title}">
     <MasterDetailPage.Resources>

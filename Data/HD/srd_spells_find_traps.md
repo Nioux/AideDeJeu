@@ -4,7 +4,7 @@
 
 # Find Traps
 
-- MDR: [Trouver les pièges](hd_spells_trouver_les_pieges.md)
+- Alias: [Trouver les pièges](hd_spells_trouver_les_pieges.md)
 - Source: (SRD p144)
 -  2nd-level divination
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Wall of Ice
 
-- MDR: [Mur de glace](hd_spells_mur_de_glace.md)
+- Alias: [Mur de glace](hd_spells_mur_de_glace.md)
 - Source: (SRD p190)
 -  6th-level evocation
 - **Casting Time :** 1 action

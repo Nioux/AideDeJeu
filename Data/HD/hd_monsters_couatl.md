@@ -5,7 +5,7 @@
 # Couatl
 
 - Source: (CEO p)(SRD p)
-- SRD: [Couatl](srd_monsters_couatl.md)
+- Alias: [Couatl](srd_monsters_couatl.md)
 -  Céleste de taille M, Loyal Bon
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 19 (armure naturelle)

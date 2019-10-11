@@ -4,7 +4,7 @@
 
 # Sprite
 
-- CEO: [Esprit follet](hd_monsters_esprit_follet.md)
+- Alias: [Esprit follet](hd_monsters_esprit_follet.md)
 -  Tiny fey, neutral good
 - **Armor Class** 15 (leather armor)
 - **Hit Points** 2 (1d4)

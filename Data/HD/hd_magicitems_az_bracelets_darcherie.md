@@ -4,7 +4,7 @@
 
 ### Bracelets d'archerie
 
-- AltName: Bracers of Archery (SRD p212)
+- Alias: Bracers of Archery (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

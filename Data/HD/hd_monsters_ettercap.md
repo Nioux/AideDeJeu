@@ -5,7 +5,7 @@
 # Ettercap
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ettercap](srd_monsters_ettercap.md)
+- Alias: [Ettercap](srd_monsters_ettercap.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)

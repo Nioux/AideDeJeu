@@ -4,7 +4,7 @@
 
 ### Talisman du mal ultime
 
-- AltName: Talisman of Ultimate Evil (SRD p247)
+- Alias: Talisman of Ultimate Evil (SRD p247)
 - Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation avec une créature d'alignement mauvais exigée)
 

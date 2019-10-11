@@ -4,7 +4,7 @@
 
 #### Jets de sauvegarde contre la mort
 
-- AltName: Death Saving Throws
+- Alias: Death Saving Throws
 - Source: (MDR p298)(SRD p98)
 
 À chaque fois que vous commencez votre tour de jeu à 0 point de vie, vous devez faire un jet de sauvegarde spécial appelé jet de sauvegarde contre la mort. Cela permet de déterminer si vous sombrez doucement dans le néant ou si vous vous accrochez à la vie. À la différence des autres jets de sauvegarde, celui-ci n'est pas lié à une caractéristique. Vous êtes entre les mains du destin, et vous ne pouvez être aidé que par certains sorts ou des aptitudes qui vous permettent d'augmenter vos chances de réussir un jet de sauvegarde.

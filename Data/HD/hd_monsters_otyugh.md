@@ -5,7 +5,7 @@
 # Otyugh
 
 - Source: (CEO p)(SRD p)
-- SRD: [Otyugh](srd_monsters_otyugh.md)
+- Alias: [Otyugh](srd_monsters_otyugh.md)
 -  Aberration de taille G, Neutre
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)

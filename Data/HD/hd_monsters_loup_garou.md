@@ -5,7 +5,7 @@
 # Loup-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Werewolf](srd_monsters_werewolf.md)
+- Alias: [Werewolf](srd_monsters_werewolf.md)
 -  Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup

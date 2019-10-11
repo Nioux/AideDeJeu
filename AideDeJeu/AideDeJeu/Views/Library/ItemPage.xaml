@@ -17,6 +17,7 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
         <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand}" CommandParameter="{Binding Item.Markdown}" />
+        <ToolbarItem Name="Speak" Text="Écouter / Arrêter" Order="Primary" Icon="round_star.png" Command="{Binding Main.Speech.SpeakItemCommand}" CommandParameter="{Binding Item}}" />
     </ContentPage.ToolbarItems>
     <Grid>
         <!--<ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">

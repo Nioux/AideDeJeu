@@ -4,7 +4,7 @@
 
 # Guidance
 
-- MDR: [Assistance](hd_spells_assistance.md)
+- Alias: [Assistance](hd_spells_assistance.md)
 - Source: (SRD p151)
 -  Divination cantrip
 - **Casting Time :** 1 action

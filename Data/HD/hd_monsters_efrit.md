@@ -5,7 +5,7 @@
 # Éfrit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Efreeti](srd_monsters_efreeti.md)
+- Alias: [Efreeti](srd_monsters_efreeti.md)
 -  Élémentaire de taille G, Loyal Mauvais
 - **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)

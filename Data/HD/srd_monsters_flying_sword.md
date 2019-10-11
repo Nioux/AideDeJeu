@@ -4,7 +4,7 @@
 
 # Flying Sword
 
-- CEO: [Épée volante](hd_monsters_epee_volante.md)
+- Alias: [Épée volante](hd_monsters_epee_volante.md)
 -  Small construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 17 (5d6)

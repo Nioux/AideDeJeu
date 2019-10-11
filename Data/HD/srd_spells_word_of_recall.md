@@ -4,7 +4,7 @@
 
 # Word of Recall
 
-- MDR: [Mot de retour](hd_spells_mot_de_retour.md)
+- Alias: [Mot de retour](hd_spells_mot_de_retour.md)
 - Source: (SRD p193)
 -  6th-level conjuration
 - **Casting Time :** 1 action

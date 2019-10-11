@@ -4,7 +4,7 @@
 
 ### Baguette merveilleuse
 
-- AltName: Wand of Wonder (SRD p249)
+- Alias: Wand of Wonder (SRD p249)
 - Source: (CDC p147)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 

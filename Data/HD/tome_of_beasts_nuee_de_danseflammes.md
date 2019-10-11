@@ -5,7 +5,7 @@
 # Nuée De Danseflammes
 
 - Source: (LDM p326)(TOB p373)
-- TOB: Fire Dancer Swarm
+- Alias: Fire Dancer Swarm
 -  Nuée de taille Moyenne d'élémentaires de taille Très Petite (TP), neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 15

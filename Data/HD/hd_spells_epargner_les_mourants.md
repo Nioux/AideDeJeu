@@ -4,7 +4,7 @@
 
 # Épargner les mourants
 
-- SRD: [Spare the Dying](srd_spells_spare_the_dying.md)
+- Alias: [Spare the Dying](srd_spells_spare_the_dying.md)
 
 -  Nécromancie, tour de magie
 

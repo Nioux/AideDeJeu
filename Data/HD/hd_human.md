@@ -5,7 +5,7 @@
 
 # Humain
 
-- AltName: Human (SRD p5)
+- Alias: Human (SRD p5)
 - Source: (MDR p54)
 
 ## Traits des humains

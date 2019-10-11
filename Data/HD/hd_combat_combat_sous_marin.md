@@ -4,7 +4,7 @@
 
 ## Combat sous-marin
 
-- AltName: Underwater Combat (SRD p99)
+- Alias: Underwater Combat (SRD p99)
 - Source: (MDR p295)
 
 Quand les aventuriers poursuivent des sahuagins jusqu'à leur repaire sous-marin, affrontent des requins au coeur d'une épave antique ou se trouvent dans une salle de donjon inondée, ils sont contraints de se battre dans un environnement difficile. Sous l'eau, les règles suivantes s'appliquent.

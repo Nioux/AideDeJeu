@@ -4,7 +4,7 @@
 
 ### Trident de domination aquatique
 
-- AltName: Trident of Fish Command (SRD p247)
+- Alias: Trident of Fish Command (SRD p247)
 - Source: (CDC p188)
 -  Arme (trident), peu courante (harmonisation requise)
 

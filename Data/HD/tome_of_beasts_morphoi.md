@@ -5,7 +5,7 @@
 # Morphoï
 
 - Source: (LDM p311)(TOB p297)
-- TOB: Morphoi
+- Alias: Morphoi
 -  Plante (métamorphe) de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Littoral
 - **Classe d'armure** 13 (parfois plus avec une armure)

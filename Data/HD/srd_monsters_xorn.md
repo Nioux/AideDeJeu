@@ -4,7 +4,7 @@
 
 # Xorn
 
-- CEO: [Xorn](hd_monsters_xorn.md)
+- Alias: [Xorn](hd_monsters_xorn.md)
 -  Medium elemental, neutral
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 73 (7d8 + 42)

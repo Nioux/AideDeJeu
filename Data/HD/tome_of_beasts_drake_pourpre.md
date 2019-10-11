@@ -5,7 +5,7 @@
 # Drake Pourpre
 
 - Source: (LDM p156)(TOB p151)
-- TOB: Crimson Drake
+- Alias: Crimson Drake
 -  Dragon de taille Très Petite (TP), chaotique mauvais
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 14 (armure naturelle)

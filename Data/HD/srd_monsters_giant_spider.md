@@ -4,7 +4,7 @@
 
 # Giant Spider
 
-- CEO: [Araignée géante](hd_monsters_araignee_geante.md)
+- Alias: [Araignée géante](hd_monsters_araignee_geante.md)
 - Source: (SRD p379)
 -  Large beast, unaligned
 - **Armor Class** 14 (natural armor)

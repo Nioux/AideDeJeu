@@ -4,7 +4,7 @@
 
 # Heat Metal
 
-- MDR: [Chauffer le métal](hd_spells_chauffer_le_metal.md)
+- Alias: [Chauffer le métal](hd_spells_chauffer_le_metal.md)
 - Source: (SRD p153)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

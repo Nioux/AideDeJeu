@@ -5,7 +5,7 @@
 # Goule Blême
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ghast](srd_monsters_ghast.md)
+- Alias: [Ghast](srd_monsters_ghast.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13

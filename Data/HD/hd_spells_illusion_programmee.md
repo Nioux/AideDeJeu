@@ -4,7 +4,7 @@
 
 # Illusion programmée
 
-- SRD: [Programmed Illusion](srd_spells_programmed_illusion.md)
+- Alias: [Programmed Illusion](srd_spells_programmed_illusion.md)
 
 -  Illusion de niveau 6
 

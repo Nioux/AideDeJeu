@@ -4,7 +4,7 @@
 
 # Sequester
 
-- MDR: [Séquestration](hd_spells_sequestration.md)
+- Alias: [Séquestration](hd_spells_sequestration.md)
 - Source: (SRD p178)
 -  7th-level transmutation
 - **Casting Time :** 1 action

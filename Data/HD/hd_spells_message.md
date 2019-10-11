@@ -4,7 +4,7 @@
 
 # Message
 
-- SRD: [Message](srd_spells_message.md)
+- Alias: [Message](srd_spells_message.md)
 
 -  Transmutation, tour de magie
 

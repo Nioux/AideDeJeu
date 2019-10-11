@@ -5,7 +5,7 @@
 # Gobelin Poussiéreux
 
 - Source: (LDM p211)(TOB p232)
-- TOB: Dust Goblin
+- Alias: Dust Goblin
 -  Humanoïde (gobelinoïde) de Petite taille (P), neutre mauvais
 - **Terrain** Désert chaud, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 14 (armure de cuir)

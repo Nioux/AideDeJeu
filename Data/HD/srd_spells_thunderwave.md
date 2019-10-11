@@ -4,7 +4,7 @@
 
 # Thunderwave
 
-- MDR: [Vague tonnante](hd_spells_vague_tonnante.md)
+- Alias: [Vague tonnante](hd_spells_vague_tonnante.md)
 - Source: (SRD p187)
 -  1st-level evocation
 - **Casting Time :** 1 action

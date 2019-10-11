@@ -5,7 +5,7 @@
 # Armure animée
 
 - Source: (CEO p)(SRD p)
-- SRD: [Animated Armor](srd_monsters_animated_armor.md)
+- Alias: [Animated Armor](srd_monsters_animated_armor.md)
 -  Créature artificielle de taille M, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 18 (armure naturelle)

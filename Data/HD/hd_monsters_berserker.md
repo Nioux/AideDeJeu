@@ -5,7 +5,7 @@
 # Berserker
 
 - Source: (CEO p)(SRD p)
-- SRD: [Berserker](srd_monsters_berserker.md)
+- Alias: [Berserker](srd_monsters_berserker.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
 - **Terrain** 
 - **Classe d'armure** 13 (armure de peau)

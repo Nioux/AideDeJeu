@@ -4,7 +4,7 @@
 
 # Wind Wall
 
-- MDR: [Mur de vent](hd_spells_mur_de_vent.md)
+- Alias: [Mur de vent](hd_spells_mur_de_vent.md)
 - Source: (SRD p192)
 -  3th-level evocation
 - **Casting Time :** 1 action

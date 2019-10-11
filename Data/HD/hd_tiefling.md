@@ -5,7 +5,7 @@
 
 # Tieffelin
 
-- AltName: Tiefling (SRD p7)
+- Alias: Tiefling (SRD p7)
 - Source: (MDR p71)
 
 ## Traits des tieffelins

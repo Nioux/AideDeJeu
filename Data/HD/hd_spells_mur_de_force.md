@@ -4,7 +4,7 @@
 
 # Mur de force
 
-- SRD: [Wall of Force](srd_spells_wall_of_force.md)
+- Alias: [Wall of Force](srd_spells_wall_of_force.md)
 
 -  Évocation de niveau 5
 

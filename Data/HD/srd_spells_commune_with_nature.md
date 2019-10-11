@@ -4,7 +4,7 @@
 
 # Commune with Nature
 
-- MDR: [Communion avec la nature](hd_spells_communion_avec_la_nature.md)
+- Alias: [Communion avec la nature](hd_spells_communion_avec_la_nature.md)
 - Source: (SRD p126)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 minute

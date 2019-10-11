@@ -5,7 +5,7 @@
 # Roc
 
 - Source: (CEO p)(SRD p)
-- SRD: [Roc](srd_monsters_roc.md)
+- Alias: [Roc](srd_monsters_roc.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Terrain** Montagnes
 - **Classe d'armure** 15 (armure naturelle)

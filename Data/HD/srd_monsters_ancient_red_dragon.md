@@ -4,7 +4,7 @@
 
 # Ancient Red Dragon
 
-- CEO: [Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)
+- Alias: [Dragon rouge vénérable](hd_monsters_dragon_rouge_venerable.md)
 -  Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 546 (28d20 + 252)

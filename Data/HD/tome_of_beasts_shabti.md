@@ -5,7 +5,7 @@
 # Shabti
 
 - Source: (LDM p363)(TOB p343)
-- TOB: Shabti
+- Alias: Shabti
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 102 (12d8+48)

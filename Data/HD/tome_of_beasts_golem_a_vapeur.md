@@ -5,7 +5,7 @@
 # Golem À Vapeur
 
 - Source: (LDM p212)(TOB p237)
-- TOB: Steam Golem
+- Alias: Steam Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 171 (18d10+72)

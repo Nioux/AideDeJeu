@@ -5,7 +5,7 @@
 # Chauve-Souris De Peau
 
 - Source: (LDM p89)(TOB p87)
-- TOB: Skin Bat
+- Alias: Skin Bat
 -  Mort-vivant de Petite taille (P), neutre mauvais
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 14 (4d6)

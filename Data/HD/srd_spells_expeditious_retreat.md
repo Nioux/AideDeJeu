@@ -4,7 +4,7 @@
 
 # Expeditious Retreat
 
-- MDR: [Repli expéditif](hd_spells_repli_expeditif.md)
+- Alias: [Repli expéditif](hd_spells_repli_expeditif.md)
 - Source: (SRD p141)
 -  1st-level transmutation
 - **Casting Time :** 1 bonus action

@@ -4,7 +4,7 @@
 
 # Convocations instantanées
 
-- SRD: [Instant Summons](srd_spells_instant_summons.md)
+- Alias: [Instant Summons](srd_spells_instant_summons.md)
 
 -  Invocation de niveau 6 (rituel)
 

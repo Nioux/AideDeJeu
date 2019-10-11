@@ -4,7 +4,7 @@
 
 # Clone
 
-- MDR: [Clone](hd_spells_clone.md)
+- Alias: [Clone](hd_spells_clone.md)
 - Source: (SRD p125)
 -  8th-level necromancy
 - **Casting Time :** 1 hour

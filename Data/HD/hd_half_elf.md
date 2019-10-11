@@ -5,7 +5,7 @@
 
 # Demi-elfe
 
-- AltName: Half-Elf (SRD p6)
+- Alias: Half-Elf (SRD p6)
 - Source: (MDR p39)
 
 ## Traits des demi-elfes

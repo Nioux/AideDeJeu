@@ -4,7 +4,7 @@
 
 # Wererat
 
-- CEO: [Rat-garou](hd_monsters_rat_garou.md)
+- Alias: [Rat-garou](hd_monsters_rat_garou.md)
 -  Medium humanoid (human, shapechanger), lawful evil
 - **Armor Class** 12
 - **Hit Points** 33 (6d8 + 6)

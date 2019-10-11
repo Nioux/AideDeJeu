@@ -4,7 +4,7 @@
 
 # Vision suprême
 
-- SRD: [True Seeing](srd_spells_true_seeing.md)
+- Alias: [True Seeing](srd_spells_true_seeing.md)
 
 -  Divination de niveau 6
 

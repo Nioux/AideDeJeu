@@ -4,7 +4,7 @@
 
 ### Amulette de bonne santé
 
-- AltName: Amulet of Health (SRD p207)
+- Alias: Amulet of Health (SRD p207)
 - Source: (CDC p139)
 -  Objet merveilleux, rare (harmonisation requise)
 

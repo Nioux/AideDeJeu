@@ -5,7 +5,7 @@
 # Chien Mécanique
 
 - Source: (LDM p293)(TOB p62)
-- TOB: Clockwork Hound
+- Alias: Clockwork Hound
 -  Créature artificielle de taille Moyenne (M), non alignée
 - **Classe d'armure** 12 (armure naturelle)
 - **Points de vie** 71 (11d8+22)

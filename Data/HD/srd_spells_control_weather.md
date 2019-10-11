@@ -4,7 +4,7 @@
 
 # Control Weather
 
-- MDR: [Contrôle du climat](hd_spells_controle_du_climat.md)
+- Alias: [Contrôle du climat](hd_spells_controle_du_climat.md)
 - Source: (SRD p131)
 -  8th-level transmutation
 - **Casting Time :** 10 minutes

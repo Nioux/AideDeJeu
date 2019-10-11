@@ -4,7 +4,7 @@
 
 ### Anneau de protection
 
-- AltName: Ring of Protection (SRD p237)
+- Alias: Ring of Protection (SRD p237)
 - Source: (CDC p141)
 -  Anneau, rare (harmonisation requise)
 

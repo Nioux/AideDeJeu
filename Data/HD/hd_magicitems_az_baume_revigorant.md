@@ -4,7 +4,7 @@
 
 ### Baume revigorant
 
-- AltName: Restorative Ointment (SRD p235)
+- Alias: Restorative Ointment (SRD p235)
 - Source: (CDC p152)
 -  Objet merveilleux, peu courant
 

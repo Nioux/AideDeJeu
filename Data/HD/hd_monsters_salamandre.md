@@ -5,7 +5,7 @@
 # Salamandre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Salamander](srd_monsters_salamander.md)
+- Alias: [Salamander](srd_monsters_salamander.md)
 -  Élémentaire de taille G, Neutre Mauvais
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 15 (armure naturelle)

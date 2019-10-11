@@ -5,7 +5,7 @@
 # Dragon blanc adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
+- Alias: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 18 (armure naturelle)

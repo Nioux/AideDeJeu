@@ -5,7 +5,7 @@
 
 # Dons
 
-- AltName: Feats (SRD p75)
+- Alias: Feats (SRD p75)
 - Source: (MDR p245)
 
 Un don représente un talent ou un domaine d'expertise d'un personnage, qui lui accorde des capacités spéciales. Un don représente un entraînement, une expérience et des capacités qui sortent du cadre de ce que la classe d'un personnage peut lui accorder.

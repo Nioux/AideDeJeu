@@ -5,7 +5,7 @@
 
 ## Les pièges
 
-- AltName: Traps 
+- Alias: Traps 
 - Source: (CEO 374)(SRD p195)
 
 Les pièges se trouvent partout ou presque. Il suffit d'un faux pas dans une tombe millénaire pour mettre en mouvement toute une série de lames affûtées qui tranchent les armures comme les os. Ces plantes qui pendent innocemment au-dessus de l'entrée d'une caverne et forment un rideau devant pourraient bien s'enrouler autour du cou du premier qui tente de les écarter. Un filet peut être caché dans les arbres et tomber sur les voyageurs qui passent dessous. Dans un monde fantastique, les aventuriers imprudents risquent fort de faire une chute mortelle, d'être brûlés vifs ou de se trouver victimes d'une volée de fléchettes empoisonnées.

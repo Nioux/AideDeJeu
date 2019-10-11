@@ -4,7 +4,7 @@
 
 ### Puits portatif
 
-- AltName: Portable Hole (SRD p233)
+- Alias: Portable Hole (SRD p233)
 - Source: (CDC p180)
 -  Objet merveilleux, rare
 

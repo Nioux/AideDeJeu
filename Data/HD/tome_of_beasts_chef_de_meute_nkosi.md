@@ -5,7 +5,7 @@
 # Chef De Meute Nkosi
 
 - Source: (LDM p319)(TOB p306)
-- TOB: Nkosi Pridelord
+- Alias: Nkosi Pridelord
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure de cuir clouté)

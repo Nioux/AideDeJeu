@@ -4,7 +4,7 @@
 
 ### Sceptre inamovible
 
-- AltName: Immovable Rod (SRD p226)
+- Alias: Immovable Rod (SRD p226)
 - Source: (CDC p186)
 -  Objet merveilleux, peu courant
 

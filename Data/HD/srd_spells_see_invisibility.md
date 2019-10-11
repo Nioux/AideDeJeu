@@ -4,7 +4,7 @@
 
 # See Invisibility
 
-- MDR: [Voir l'invisible](hd_spells_voir_linvisible.md)
+- Alias: [Voir l'invisible](hd_spells_voir_linvisible.md)
 - Source: (SRD p177)
 -  2nd-level divination
 - **Casting Time :** 1 action

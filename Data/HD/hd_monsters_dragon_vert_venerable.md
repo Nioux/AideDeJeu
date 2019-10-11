@@ -5,7 +5,7 @@
 # Dragon vert vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
+- Alias: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 21 (armure naturelle)

@@ -5,7 +5,7 @@
 # Grenouille
 
 - Source: (CEO p)(SRD p)
-- SRD: [Frog](srd_monsters_frog.md)
+- Alias: [Frog](srd_monsters_frog.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 11

@@ -4,7 +4,7 @@
 
 # Aboleth
 
-- CEO: [Aboleth](hd_monsters_aboleth.md)
+- Alias: [Aboleth](hd_monsters_aboleth.md)
 - Source: (SRD p261)
 -  Large aberration, lawful evil
 - **Armor Class** 17 (natural armor)

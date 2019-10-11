@@ -4,7 +4,7 @@
 
 # Étourdi
 
-- AltName: [Stunned](srd_conditions_stunned.md)
+- Alias: [Stunned](srd_conditions_stunned.md)
 
 * Une créature étourdie est [neutralisée](hd_conditions_neutralise.md) (voir l'état), incapable de se déplacer et parle en balbutiant.
 

@@ -4,7 +4,7 @@
 
 # Death Dog
 
-- CEO: [Chien du trépas](hd_monsters_chien_du_trepas.md)
+- Alias: [Chien du trépas](hd_monsters_chien_du_trepas.md)
 -  Medium monstrosity, neutral evil
 - **Armor Class** 12
 - **Hit Points** 39 (6d8 + 12)

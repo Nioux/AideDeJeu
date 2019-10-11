@@ -4,7 +4,7 @@
 
 # Detect Thoughts
 
-- MDR: [Détection des pensées](hd_spells_detection_des_pensees.md)
+- Alias: [Détection des pensées](hd_spells_detection_des_pensees.md)
 - Source: (SRD p135)
 -  2nd-level divination
 - **Casting Time :** 1 action

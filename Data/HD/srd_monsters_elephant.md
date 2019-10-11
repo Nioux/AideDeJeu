@@ -4,7 +4,7 @@
 
 # Elephant
 
-- CEO: [Éléphant](hd_monsters_elephant.md)
+- Alias: [Éléphant](hd_monsters_elephant.md)
 -  Huge beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 76 (8d12 + 24)

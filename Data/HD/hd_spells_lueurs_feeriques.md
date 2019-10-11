@@ -4,7 +4,7 @@
 
 # Lueurs féeriques
 
-- SRD: [Faerie Fire](srd_spells_faerie_fire.md)
+- Alias: [Faerie Fire](srd_spells_faerie_fire.md)
 
 -  Évocation de niveau 1
 

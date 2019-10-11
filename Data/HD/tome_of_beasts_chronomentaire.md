@@ -5,7 +5,7 @@
 # Chronomentaire
 
 - Source: (LDM p62)(TOB p57)
-- TOB: Chronalmental
+- Alias: Chronalmental
 -  Élémentaire de Grande taille (G), non aligné
 - **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

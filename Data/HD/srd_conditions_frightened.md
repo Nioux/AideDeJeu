@@ -4,7 +4,7 @@
 
 # Frightened
 
-- AltName: [Terrorisé](hd_conditions_terrorise.md)
+- Alias: [Terrorisé](hd_conditions_terrorise.md)
 - Source: (SRD p358)
 
 * A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.

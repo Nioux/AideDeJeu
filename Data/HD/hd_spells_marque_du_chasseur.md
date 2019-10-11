@@ -4,7 +4,7 @@
 
 # Marque du chasseur
 
-- SRD: [Hunter's Mark](srd_spells_hunters_mark.md)
+- Alias: [Hunter's Mark](srd_spells_hunters_mark.md)
 
 -  Divination de niveau 1
 

@@ -5,7 +5,7 @@
 # Serpent constricteur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Constrictor Snake](srd_monsters_constrictor_snake.md)
+- Alias: [Constrictor Snake](srd_monsters_constrictor_snake.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12

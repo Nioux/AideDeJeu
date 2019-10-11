@@ -4,7 +4,7 @@
 
 # Androsphinx
 
-- CEO: [Androsphinx](hd_monsters_androsphinx.md)
+- Alias: [Androsphinx](hd_monsters_androsphinx.md)
 - Source: (SRD p347)
 -  Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)

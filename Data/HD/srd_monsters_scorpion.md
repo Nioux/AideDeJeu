@@ -4,7 +4,7 @@
 
 # Scorpion
 
-- CEO: [Scorpion](hd_monsters_scorpion.md)
+- Alias: [Scorpion](hd_monsters_scorpion.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 1 (1d4 - 1)

@@ -4,7 +4,7 @@
 
 # Compulsion
 
-- MDR: [Compulsion](hd_spells_compulsion.md)
+- Alias: [Compulsion](hd_spells_compulsion.md)
 - Source: (SRD p126)
 -  4th-level enchantment
 - **Casting Time :** 1 action

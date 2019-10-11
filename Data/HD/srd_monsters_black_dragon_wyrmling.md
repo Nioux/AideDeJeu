@@ -4,7 +4,7 @@
 
 # Black Dragon Wyrmling
 
-- CEO: [Dragonnet noir](hd_monsters_dragonnet_noir.md)
+- Alias: [Dragonnet noir](hd_monsters_dragonnet_noir.md)
 -  Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 33 (6d8 + 6)

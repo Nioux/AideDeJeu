@@ -4,7 +4,7 @@
 
 # Lien de protection
 
-- SRD: [Warding Bond](srd_spells_warding_bond.md)
+- Alias: [Warding Bond](srd_spells_warding_bond.md)
 
 -  Abjuration de niveau 2
 

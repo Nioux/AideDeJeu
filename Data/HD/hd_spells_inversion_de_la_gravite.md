@@ -4,7 +4,7 @@
 
 # Inversion de la gravité
 
-- SRD: [Reverse Gravity](srd_spells_reverse_gravity.md)
+- Alias: [Reverse Gravity](srd_spells_reverse_gravity.md)
 
 -  Transmutation de niveau 7
 

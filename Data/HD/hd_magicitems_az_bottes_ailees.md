@@ -4,7 +4,7 @@
 
 ### Bottes ailées
 
-- AltName: Winged Boots (SRD p251)
+- Alias: Winged Boots (SRD p251)
 - Source: (CDC p152)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

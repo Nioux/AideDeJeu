@@ -4,7 +4,7 @@
 
 ### Potion de poison
 
-- AltName: Potion of Poison (SRD p234)
+- Alias: Potion of Poison (SRD p234)
 - Source: (CDC p178)
 -  Potion, peu courante
 

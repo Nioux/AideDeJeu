@@ -4,7 +4,7 @@
 
 # Dretch
 
-- CEO: [Dretch](hd_monsters_dretch.md)
+- Alias: [Dretch](hd_monsters_dretch.md)
 -  Small fiend (demon), chaotic evil
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 18 (4d6 + 4)

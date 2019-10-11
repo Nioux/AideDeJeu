@@ -4,7 +4,7 @@
 
 # Druid
 
-- CEO: [Druide](hd_monsters_druide.md)
+- Alias: [Druide](hd_monsters_druide.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 11 (16 with
 - **Hit Points** 27 (5d8 + 5)

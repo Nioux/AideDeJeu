@@ -4,7 +4,7 @@
 
 ### Poussière à éternuer
 
-- AltName: Dust of Sneezing and Choking (SRD p219)
+- Alias: Dust of Sneezing and Choking (SRD p219)
 - Source: (CDC p179)
 -  Objet merveilleux, peu courant
 

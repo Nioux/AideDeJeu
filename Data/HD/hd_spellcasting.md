@@ -5,7 +5,7 @@
 
 # Lancer des sorts
 
-- AltName: Spellcasting (SRD p100)
+- Alias: Spellcasting (SRD p100)
 - Source: (MDR p306)
 
 La magie imprègne les mondes de Héros & Dragons et se présente souvent sous forme de sorts.

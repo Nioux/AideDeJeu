@@ -4,7 +4,7 @@
 
 # Ice Storm
 
-- MDR: [Tempête de grêle](hd_spells_tempete_de_grele.md)
+- Alias: [Tempête de grêle](hd_spells_tempete_de_grele.md)
 - Source: (SRD p155)
 -  4th-level evocation
 - **Casting Time :** 1 action

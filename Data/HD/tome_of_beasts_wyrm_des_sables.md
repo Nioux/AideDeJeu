@@ -5,7 +5,7 @@
 # Wyrm Des Sables
 
 - Source: (LDM p410)(TOB p334)
-- TOB: Sandwyrm
+- Alias: Sandwyrm
 -  Dragon de Grande taille (G), non-aligné
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)

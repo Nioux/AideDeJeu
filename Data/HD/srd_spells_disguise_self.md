@@ -4,7 +4,7 @@
 
 # Disguise Self
 
-- MDR: [Déguisement](hd_spells_deguisement.md)
+- Alias: [Déguisement](hd_spells_deguisement.md)
 - Source: (SRD p135)
 -  1st-level illusion
 - **Casting Time :** 1 action

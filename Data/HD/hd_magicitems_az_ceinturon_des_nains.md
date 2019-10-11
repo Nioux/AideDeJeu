@@ -4,7 +4,7 @@
 
 ### Ceinturon des nains
 
-- AltName: Belt of Dwarvenkind (SRD p211)
+- Alias: Belt of Dwarvenkind (SRD p211)
 - Source: (CDC p159)
 -  Objet merveilleux, rare (harmonisation requise)
 

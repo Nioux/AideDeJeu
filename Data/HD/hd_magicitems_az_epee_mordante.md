@@ -4,7 +4,7 @@
 
 ### Épée mordante
 
-- AltName: Sword of Wounding (SRD p246)
+- Alias: Sword of Wounding (SRD p246)
 - Source: (CDC p163)
 -  Arme (n'importe quel type d'épée), rare (harmonisation requise)
 

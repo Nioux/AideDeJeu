@@ -5,7 +5,7 @@
 # Élémentaire de la terre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Earth Elemental](srd_monsters_earth_elemental.md)
+- Alias: [Earth Elemental](srd_monsters_earth_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Bois / Forêt, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)

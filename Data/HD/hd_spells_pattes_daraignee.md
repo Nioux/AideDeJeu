@@ -4,7 +4,7 @@
 
 # Pattes d'araignée
 
-- SRD: [Spider Climb](srd_spells_spider_climb.md)
+- Alias: [Spider Climb](srd_spells_spider_climb.md)
 
 -  Transmutation de niveau 2
 

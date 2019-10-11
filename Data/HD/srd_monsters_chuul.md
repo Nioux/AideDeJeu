@@ -4,7 +4,7 @@
 
 # Chuul
 
-- CEO: [Chuul](hd_monsters_chuul.md)
+- Alias: [Chuul](hd_monsters_chuul.md)
 -  Large aberration, chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 93 (11d10 + 33)

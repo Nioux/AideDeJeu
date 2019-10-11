@@ -4,7 +4,7 @@
 
 # Werewolf
 
-- CEO: [Loup-garou](hd_monsters_loup_garou.md)
+- Alias: [Loup-garou](hd_monsters_loup_garou.md)
 -  Medium humanoid (human, shapechanger), chaotic evil
 - **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
 - **Hit Points** 58 (9d8 + 18)

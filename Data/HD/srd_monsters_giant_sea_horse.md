@@ -4,7 +4,7 @@
 
 # Giant Sea Horse
 
-- CEO: [Hippocampe géant](hd_monsters_hippocampe_geant.md)
+- Alias: [Hippocampe géant](hd_monsters_hippocampe_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 16 (3d10)

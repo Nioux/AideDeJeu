@@ -4,7 +4,7 @@
 
 # Séquestration
 
-- SRD: [Sequester](srd_spells_sequester.md)
+- Alias: [Sequester](srd_spells_sequester.md)
 
 -  Transmutation de niveau 7
 

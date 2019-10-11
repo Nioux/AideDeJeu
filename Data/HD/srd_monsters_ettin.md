@@ -4,7 +4,7 @@
 
 # Ettin
 
-- CEO: [Ettin](hd_monsters_ettin.md)
+- Alias: [Ettin](hd_monsters_ettin.md)
 -  Large giant, chaotic evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 85 (10d10 + 30)

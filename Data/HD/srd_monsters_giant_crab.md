@@ -4,7 +4,7 @@
 
 # Giant Crab
 
-- CEO: [Crabe géant](hd_monsters_crabe_geant.md)
+- Alias: [Crabe géant](hd_monsters_crabe_geant.md)
 -  Medium beast, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 13 (3d8)

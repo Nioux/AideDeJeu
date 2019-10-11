@@ -5,7 +5,7 @@
 
 ## Les objets
 
-- AltName: Objects 
+- Alias: Objects 
 - Source: (CEO p380)(SRD p203)
 
 Quand un personnage a besoin de scier une corde, de briser une fenêtre ou de détruire le cercueil d'un vampire, voici la seule règle à suivre : avec assez de temps et des outils adaptés, un personnage peut détruire n'importe quel objet destructible. Faites appel à votre bon sens pour savoir si le personnage réussit à endommager l'objet. Est-ce qu'un guerrier peut faire une brèche dans un mur de pierre avec son épée ? Non, l'épée se cassera probablement avant le mur.

@@ -4,7 +4,7 @@
 
 # Giant Wasp
 
-- CEO: [Guêpe géante](hd_monsters_guepe_geante.md)
+- Alias: [Guêpe géante](hd_monsters_guepe_geante.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (3d8)

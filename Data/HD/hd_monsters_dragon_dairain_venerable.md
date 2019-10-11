@@ -5,7 +5,7 @@
 # Dragon d'airain vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
+- Alias: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 20 (armure naturelle)

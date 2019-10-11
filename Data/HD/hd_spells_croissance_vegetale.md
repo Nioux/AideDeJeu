@@ -4,7 +4,7 @@
 
 # Croissance végétale
 
-- SRD: [Plant Growth](srd_spells_plant_growth.md)
+- Alias: [Plant Growth](srd_spells_plant_growth.md)
 
 -  Transmutation de niveau 3
 

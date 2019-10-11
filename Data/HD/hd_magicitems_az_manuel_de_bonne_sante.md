@@ -4,7 +4,7 @@
 
 ### Manuel de bonne santé
 
-- AltName: Manual of Bodily Health (SRD p229)
+- Alias: Manual of Bodily Health (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, très rare
 

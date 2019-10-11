@@ -4,7 +4,7 @@
 
 # Cone of Cold
 
-- MDR: [Cône de froid](hd_spells_cone_de_froid.md)
+- Alias: [Cône de froid](hd_spells_cone_de_froid.md)
 - Source: (SRD p127)
 -  5th-level evocation
 - **Casting Time :** 1 action

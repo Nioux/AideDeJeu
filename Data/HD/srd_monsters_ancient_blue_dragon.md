@@ -4,7 +4,7 @@
 
 # Ancient Blue Dragon
 
-- CEO: [Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)
+- Alias: [Dragon bleu vénérable](hd_monsters_dragon_bleu_venerable.md)
 -  Gargantuan dragon, lawful evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 481 (26d20 + 208)

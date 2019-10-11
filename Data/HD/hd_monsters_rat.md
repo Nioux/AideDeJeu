@@ -5,7 +5,7 @@
 # Rat
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rat](srd_monsters_rat.md)
+- Alias: [Rat](srd_monsters_rat.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 10

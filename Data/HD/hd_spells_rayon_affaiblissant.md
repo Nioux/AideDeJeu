@@ -4,7 +4,7 @@
 
 # Rayon affaiblissant
 
-- SRD: [Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)
+- Alias: [Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)
 
 -  Nécromancie de niveau 2
 

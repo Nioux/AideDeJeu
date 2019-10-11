@@ -4,7 +4,7 @@
 
 # Ancient White Dragon
 
-- CEO: [Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)
+- Alias: [Dragon blanc vénérable](hd_monsters_dragon_blanc_venerable.md)
 -  Gargantuan dragon, chaotic evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 333 (18d20 + 144)

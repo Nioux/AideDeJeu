@@ -4,7 +4,7 @@
 
 ### Flèche tueuse
 
-- AltName: Arrow of Slaying (SRD p209)
+- Alias: Arrow of Slaying (SRD p209)
 - Source: (CDC p166)
 -  Arme (flèche), très rare
 

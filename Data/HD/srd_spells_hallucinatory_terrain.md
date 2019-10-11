@@ -4,7 +4,7 @@
 
 # Hallucinatory Terrain
 
-- MDR: [Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)
+- Alias: [Terrain hallucinatoire](hd_spells_terrain_hallucinatoire.md)
 - Source: (SRD p152)
 -  4th-level illusion
 - **Casting Time :** 10 minutes

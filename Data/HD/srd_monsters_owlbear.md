@@ -4,7 +4,7 @@
 
 # Owlbear
 
-- CEO: [Hibours](hd_monsters_hibours.md)
+- Alias: [Hibours](hd_monsters_hibours.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 59 (7d10 + 21)

@@ -4,7 +4,7 @@
 
 # Wind Walk
 
-- MDR: [Marche sur le vent](hd_spells_marche_sur_le_vent.md)
+- Alias: [Marche sur le vent](hd_spells_marche_sur_le_vent.md)
 - Source: (SRD p192)
 -  6th-level transmutation
 - **Casting Time :** 1 minute

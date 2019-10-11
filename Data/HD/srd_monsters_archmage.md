@@ -4,7 +4,7 @@
 
 # Archmage
 
-- CEO: [Archimage](hd_monsters_archimage.md)
+- Alias: [Archimage](hd_monsters_archimage.md)
 - Source: (SRD p395)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12 (15 with

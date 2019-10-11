@@ -5,7 +5,7 @@
 # Roussalka
 
 - Source: (LDM p353)(TOB p331)
-- TOB: Rusalka
+- Alias: Rusalka
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral
 - **Classe d'armure** 14 (armure naturelle)

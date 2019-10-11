@@ -5,7 +5,7 @@
 # Dragon noir vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
+- Alias: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)

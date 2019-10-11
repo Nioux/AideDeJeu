@@ -4,7 +4,7 @@
 
 # Ice Mephit
 
-- CEO: [Méphite de glace](hd_monsters_mephite_de_glace.md)
+- Alias: [Méphite de glace](hd_monsters_mephite_de_glace.md)
 -  Small elemental, neutral evil
 - **Armor Class** 11
 - **Hit Points** 21 (6d6)

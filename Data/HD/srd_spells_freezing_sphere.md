@@ -4,7 +4,7 @@
 
 # Freezing Sphere
 
-- MDR: [Sphère glacée](hd_spells_sphere_glacee.md)
+- Alias: [Sphère glacée](hd_spells_sphere_glacee.md)
 - Source: (SRD p147)
 -  6th-level evocation
 - **Casting Time :** 1 action

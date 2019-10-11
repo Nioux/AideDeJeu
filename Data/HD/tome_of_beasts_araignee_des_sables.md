@@ -5,7 +5,7 @@
 # Araignée Des Sables
 
 - Source: (LDM p25)(TOB p364)
-- TOB: Sand Spider
+- Alias: Sand Spider
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Désert chaud, Littoral, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)

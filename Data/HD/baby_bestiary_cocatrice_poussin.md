@@ -6,6 +6,8 @@
 
 Voir [Cockatrice](hd_monsters_cockatrice.md)
 
+- Source: (MM p38)(BB1 p24)
+- Alias: Cockatrice Chick
 -  Créature monstrueuse de taille TP, non aligné
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

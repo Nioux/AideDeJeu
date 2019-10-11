@@ -4,7 +4,7 @@
 
 # Gorgon
 
-- CEO: [Gorgone](hd_monsters_gorgone.md)
+- Alias: [Gorgone](hd_monsters_gorgone.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 114 (12d10 + 48)

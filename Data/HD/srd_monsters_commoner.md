@@ -4,7 +4,7 @@
 
 # Commoner
 
-- CEO: [Roturier](hd_monsters_roturier.md)
+- Alias: [Roturier](hd_monsters_roturier.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 10
 - **Hit Points** 4 (1d8)

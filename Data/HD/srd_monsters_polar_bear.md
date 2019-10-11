@@ -4,7 +4,7 @@
 
 # Polar Bear
 
-- CEO: [Ours polaire](hd_monsters_ours_polaire.md)
+- Alias: [Ours polaire](hd_monsters_ours_polaire.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 42 (5d10 + 15)

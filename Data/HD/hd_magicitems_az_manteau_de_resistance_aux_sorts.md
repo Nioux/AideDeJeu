@@ -4,7 +4,7 @@
 
 ### Manteau de résistance aux sorts
 
-- AltName: Mantle of Spell Resistance (SRD p229)
+- Alias: Mantle of Spell Resistance (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, rare (harmonisation requise)
 

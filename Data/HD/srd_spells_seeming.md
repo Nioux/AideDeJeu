@@ -4,7 +4,7 @@
 
 # Seeming
 
-- MDR: [Apparence trompeuse](hd_spells_apparence_trompeuse.md)
+- Alias: [Apparence trompeuse](hd_spells_apparence_trompeuse.md)
 - Source: (SRD p177)
 -  5th-level illusion
 - **Casting Time :** 1 action

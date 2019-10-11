@@ -4,7 +4,7 @@
 
 # Private Sanctum
 
-- MDR: [Sanctuaire privé](hd_spells_sanctuaire_prive.md)
+- Alias: [Sanctuaire privé](hd_spells_sanctuaire_prive.md)
 - Source: (SRD p171)
 -  4th-level abjuration
 - **Casting Time :** 10 minutes

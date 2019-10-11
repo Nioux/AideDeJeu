@@ -4,7 +4,7 @@
 
 # Invoquer des êtres des bois
 
-- SRD: [Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)
+- Alias: [Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)
 
 -  Invocation de niveau 4
 

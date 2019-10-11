@@ -4,7 +4,7 @@
 
 # Identification
 
-- SRD: [Identify](srd_spells_identify.md)
+- Alias: [Identify](srd_spells_identify.md)
 
 -  Divination de niveau 1 (rituel)
 

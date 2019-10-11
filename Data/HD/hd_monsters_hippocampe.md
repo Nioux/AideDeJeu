@@ -5,7 +5,7 @@
 # Hippocampe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sea Horse](srd_monsters_sea_horse.md)
+- Alias: [Sea Horse](srd_monsters_sea_horse.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Ruines sous-marines
 - **Classe d'armure** 11

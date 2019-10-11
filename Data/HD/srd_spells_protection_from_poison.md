@@ -4,7 +4,7 @@
 
 # Protection from Poison
 
-- MDR: [Protection contre le poison](hd_spells_protection_contre_le_poison.md)
+- Alias: [Protection contre le poison](hd_spells_protection_contre_le_poison.md)
 - Source: (SRD p173)
 -  2nd-level abjuration
 - **Casting Time :** 1 action

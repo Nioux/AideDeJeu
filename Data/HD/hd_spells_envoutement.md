@@ -4,7 +4,7 @@
 
 # Envoûtement
 
-- SRD: [Enthrall](srd_spells_enthrall.md)
+- Alias: [Enthrall](srd_spells_enthrall.md)
 
 -  Enchantement de niveau 2
 

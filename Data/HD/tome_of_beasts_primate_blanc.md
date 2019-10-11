@@ -5,7 +5,7 @@
 # Primate Blanc
 
 - Source: (LDM p341)(TOB p408)
-- TOB: White Ape
+- Alias: White Ape
 -  Créature monstrueuse de Grande taille (G), neutre
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure naturelle)

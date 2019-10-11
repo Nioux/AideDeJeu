@@ -5,7 +5,7 @@
 # Coquicape
 
 - Source: (LDM p68)(TOB p346)
-- TOB: Shellycoat
+- Alias: Shellycoat
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 75 (10d8+30)

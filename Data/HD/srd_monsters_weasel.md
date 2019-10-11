@@ -4,7 +4,7 @@
 
 # Weasel
 
-- CEO: [Belette](hd_monsters_belette.md)
+- Alias: [Belette](hd_monsters_belette.md)
 - Source: (SRD p392)
 -  Tiny beast, unaligned
 - **Armor Class** 13

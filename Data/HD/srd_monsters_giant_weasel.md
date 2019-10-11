@@ -4,7 +4,7 @@
 
 # Giant Weasel
 
-- CEO: [Belette géante](hd_monsters_belette_geante.md)
+- Alias: [Belette géante](hd_monsters_belette_geante.md)
 - Source: (SRD p381)
 -  Medium beast, unaligned
 - **Armor Class** 13

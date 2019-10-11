@@ -5,7 +5,7 @@
 # Dragon noir adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
+- Alias: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)

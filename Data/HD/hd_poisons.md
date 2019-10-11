@@ -5,7 +5,7 @@
 
 ## Les poisons
 
-- AltName: Poisons
+- Alias: Poisons
 - Source (CEO p382)(SRD p204)
 
 Étant donné leur nature mortelle et insidieuse, les poisons sont des produits illégaux dans la plupart des sociétés, mais ils font partie des outils favoris des assassins, des drows et autres créatures maléfiques. Les poisons se divisent en quatre catégories.

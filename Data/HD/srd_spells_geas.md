@@ -4,7 +4,7 @@
 
 # Geas
 
-- MDR: [Coercition mystique](hd_spells_coercition_mystique.md)
+- Alias: [Coercition mystique](hd_spells_coercition_mystique.md)
 - Source: (SRD p148)
 -  5th-level enchantment
 - **Casting Time :** 1 minute

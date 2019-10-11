@@ -4,7 +4,7 @@
 
 # Flou
 
-- SRD: [Blur](srd_spells_blur.md)
+- Alias: [Blur](srd_spells_blur.md)
 
 -  Illusion de niveau 2
 

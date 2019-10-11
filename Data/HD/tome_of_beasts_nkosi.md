@@ -5,7 +5,7 @@
 # Nkosi
 
 - Source: (LDM p319)(TOB p306)
-- TOB: Nkosi
+- Alias: Nkosi
 -  Humanoïde de taille Moyenne (métamorphe, nkosi) (M), loyal neutre
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure de cuir clouté)

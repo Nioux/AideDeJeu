@@ -4,7 +4,7 @@
 
 # Insecte géant
 
-- SRD: [Giant Insect](srd_spells_giant_insect.md)
+- Alias: [Giant Insect](srd_spells_giant_insect.md)
 
 -  Transmutation de niveau 4
 

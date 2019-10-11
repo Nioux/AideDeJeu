@@ -4,7 +4,7 @@
 
 ### Sphère d'annihilation
 
-- AltName: Sphere of Annihilation (SRD p242)
+- Alias: Sphere of Annihilation (SRD p242)
 - Source: (CDC p186)
 -  Objet merveilleux, légendaire
 

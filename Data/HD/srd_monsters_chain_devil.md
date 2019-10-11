@@ -4,7 +4,7 @@
 
 # Chain Devil
 
-- CEO: [Diable des chaînes](hd_monsters_diable_des_chaines.md)
+- Alias: [Diable des chaînes](hd_monsters_diable_des_chaines.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 85 (10d8 + 40)

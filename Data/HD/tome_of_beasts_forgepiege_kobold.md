@@ -5,7 +5,7 @@
 # Forgepiège Kobold
 
 - Source: (LDM p257)(TOB p264)
-- TOB: Kobold Trapsmith
+- Alias: Kobold Trapsmith
 -  Humanoïde de Petite taille (P), loyal neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir)

@@ -4,7 +4,7 @@
 
 ### Anneau d'invisibilité
 
-- AltName: Ring of Invisibility (SRD p236)
+- Alias: Ring of Invisibility (SRD p236)
 - Source: (CDC p143)
 -  Anneau, légendaire (harmonisation requise)
 

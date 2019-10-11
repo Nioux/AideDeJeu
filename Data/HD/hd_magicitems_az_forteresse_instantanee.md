@@ -4,7 +4,7 @@
 
 ### Forteresse instantanée
 
-- AltName: Instant Fortress (SRD p226)
+- Alias: Instant Fortress (SRD p226)
 - Source: (CDC p167)
 -  Objet merveilleux, rare
 

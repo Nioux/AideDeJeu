@@ -4,7 +4,7 @@
 
 # Lightning Bolt
 
-- MDR: [Éclair](hd_spells_eclair.md)
+- Alias: [Éclair](hd_spells_eclair.md)
 - Source: (SRD p159)
 -  3th-level evocation
 - **Casting Time :** 1 action

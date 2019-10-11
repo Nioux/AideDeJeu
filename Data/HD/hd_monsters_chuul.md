@@ -5,7 +5,7 @@
 # Chuul
 
 - Source: (CEO p)(SRD p)
-- SRD: [Chuul](srd_monsters_chuul.md)
+- Alias: [Chuul](srd_monsters_chuul.md)
 -  Aberration de taille G, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)

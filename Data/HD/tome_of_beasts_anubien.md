@@ -5,7 +5,7 @@
 # Anubien
 
 - Source: (LDM p21)(TOB p24)
-- TOB: Anubian
+- Alias: Anubian
 -  Élémentaire de taille Moyenne (M), chaotique mauvais
 - **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 13

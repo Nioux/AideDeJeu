@@ -4,7 +4,7 @@
 
 # Localiser un objet
 
-- SRD: [Locate Object](srd_spells_locate_object.md)
+- Alias: [Locate Object](srd_spells_locate_object.md)
 
 -  Divination de niveau 2
 

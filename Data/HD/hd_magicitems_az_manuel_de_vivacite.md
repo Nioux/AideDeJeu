@@ -4,7 +4,7 @@
 
 ### Manuel de vivacité
 
-- AltName: Manual of Quickness of Action (SRD p230)
+- Alias: Manual of Quickness of Action (SRD p230)
 - Source: (CDC p172)
 -  Objet merveilleux, très rare
 

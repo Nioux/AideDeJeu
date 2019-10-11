@@ -4,7 +4,7 @@
 
 # Speak with Plants
 
-- MDR: [Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)
+- Alias: [Communication avec les plantes](hd_spells_communication_avec_les_plantes.md)
 - Source: (SRD p181)
 -  3th-level transmutation
 - **Casting Time :** 1 action

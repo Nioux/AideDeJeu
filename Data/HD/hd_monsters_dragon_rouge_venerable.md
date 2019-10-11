@@ -5,7 +5,7 @@
 # Dragon rouge vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
+- Alias: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 22 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Potion de soins
 
-- AltName: Potion of Healing (SRD p234)
+- Alias: Potion of Healing (SRD p234)
 - Source: (CDC p178)
 -  Potion, rareté variable
 

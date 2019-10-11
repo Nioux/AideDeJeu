@@ -4,7 +4,7 @@
 
 ### Baguette de métamorphose
 
-- AltName: Wand of Polymorph (SRD p249)
+- Alias: Wand of Polymorph (SRD p249)
 - Source: (CDC p145)
 -  Baguette, très rare (harmonisation avec un lanceur de sorts exigée)
 

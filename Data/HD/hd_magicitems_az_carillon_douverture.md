@@ -4,7 +4,7 @@
 
 ### Carillon d'ouverture
 
-- AltName: Chime of Opening (SRD p213)
+- Alias: Chime of Opening (SRD p213)
 - Source: (CDC p156)
 -  Objet merveilleux, rare
 

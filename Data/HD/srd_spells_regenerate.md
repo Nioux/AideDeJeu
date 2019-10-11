@@ -4,7 +4,7 @@
 
 # Regenerate
 
-- MDR: [Régénération](hd_spells_regeneration.md)
+- Alias: [Régénération](hd_spells_regeneration.md)
 - Source: (SRD p174)
 -  7th-level transmutation
 - **Casting Time :** 1 minute

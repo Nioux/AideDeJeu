@@ -4,7 +4,7 @@
 
 ### Baguette de détection de l'ennemi
 
-- AltName: Wand of Enemy Detection (SRD p248)
+- Alias: Wand of Enemy Detection (SRD p248)
 - Source: (CDC p145)
 -  Baguette, rare (harmonisation requise)
 

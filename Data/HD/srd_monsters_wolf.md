@@ -4,7 +4,7 @@
 
 # Wolf
 
-- CEO: [Loup](hd_monsters_loup.md)
+- Alias: [Loup](hd_monsters_loup.md)
 -  Medium beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 11 (2d8 + 2)

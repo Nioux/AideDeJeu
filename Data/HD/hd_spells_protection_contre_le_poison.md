@@ -4,7 +4,7 @@
 
 # Protection contre le poison
 
-- SRD: [Protection from Poison](srd_spells_protection_from_poison.md)
+- Alias: [Protection from Poison](srd_spells_protection_from_poison.md)
 
 -  Abjuration de niveau 2
 

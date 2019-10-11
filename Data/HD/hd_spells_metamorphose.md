@@ -4,7 +4,7 @@
 
 # Métamorphose
 
-- SRD: [Polymorph](srd_spells_polymorph.md)
+- Alias: [Polymorph](srd_spells_polymorph.md)
 
 -  Transmutation de niveau 4
 

@@ -4,7 +4,7 @@
 
 # Hyena
 
-- CEO: [Hyène](hd_monsters_hyene.md)
+- Alias: [Hyène](hd_monsters_hyene.md)
 -  Medium beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 5 (1d8 + 1)

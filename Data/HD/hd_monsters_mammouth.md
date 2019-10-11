@@ -5,7 +5,7 @@
 # Mammouth
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mammoth](srd_monsters_mammoth.md)
+- Alias: [Mammoth](srd_monsters_mammoth.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)

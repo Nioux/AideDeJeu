@@ -5,7 +5,7 @@
 # Démon De Sève
 
 - Source: (LDM p78)(TOB p335)
-- TOB: Sap Demon
+- Alias: Sap Demon
 -  Vase de Petite taille (P), chaotique mauvaise
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (naturelle)

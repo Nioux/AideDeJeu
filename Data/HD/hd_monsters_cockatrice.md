@@ -5,7 +5,7 @@
 # Cockatrice
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cockatrice](srd_monsters_cockatrice.md)
+- Alias: [Cockatrice](srd_monsters_cockatrice.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11

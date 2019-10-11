@@ -4,7 +4,7 @@
 
 # Grease
 
-- MDR: [Graisse](hd_spells_graisse.md)
+- Alias: [Graisse](hd_spells_graisse.md)
 - Source: (SRD p150)
 -  1st-level conjuration
 - **Casting Time :** 1 action

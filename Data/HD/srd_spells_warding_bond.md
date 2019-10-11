@@ -4,7 +4,7 @@
 
 # Warding Bond
 
-- MDR: [Lien de protection](hd_spells_lien_de_protection.md)
+- Alias: [Lien de protection](hd_spells_lien_de_protection.md)
 - Source: (SRD p191)
 -  2nd-level abjuration
 - **Casting Time :** 1 action

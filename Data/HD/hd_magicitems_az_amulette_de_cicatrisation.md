@@ -4,7 +4,7 @@
 
 ### Amulette de cicatrisation
 
-- AltName: Periapt of Wound Closure (SRD p232)
+- Alias: Periapt of Wound Closure (SRD p232)
 - Source: (CDC p139)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

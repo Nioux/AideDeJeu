@@ -5,7 +5,7 @@
 # Rat-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wererat](srd_monsters_wererat.md)
+- Alias: [Wererat](srd_monsters_wererat.md)
 -  Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 12

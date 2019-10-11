@@ -4,7 +4,7 @@
 
 # Healing Word
 
-- MDR: [Mot de guérison](hd_spells_mot_de_guerison.md)
+- Alias: [Mot de guérison](hd_spells_mot_de_guerison.md)
 - Source: (SRD p153)
 -  1st-level evocation
 - **Casting Time :** 1 bonus action

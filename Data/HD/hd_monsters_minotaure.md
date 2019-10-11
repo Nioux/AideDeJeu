@@ -5,7 +5,7 @@
 # Minotaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Minotaur](srd_monsters_minotaur.md)
+- Alias: [Minotaur](srd_monsters_minotaur.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)

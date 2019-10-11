@@ -4,7 +4,7 @@
 
 # Forbiddance
 
-- MDR: [Interdiction](hd_spells_interdiction.md)
+- Alias: [Interdiction](hd_spells_interdiction.md)
 - Source: (SRD p146)
 -  6th-level abjuration (ritual)
 - **Casting Time :** 10 minutes

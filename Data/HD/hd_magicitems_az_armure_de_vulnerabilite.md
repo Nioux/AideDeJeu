@@ -4,7 +4,7 @@
 
 ### Armure de vulnérabilité
 
-- AltName: Armor of Vulnerability (SRD p209)
+- Alias: Armor of Vulnerability (SRD p209)
 - Source: (CDC p145)
 -  Armure (harnois), rare (harmonisation requise)
 

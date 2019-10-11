@@ -4,7 +4,7 @@
 
 # Gynosphinx
 
-- CEO: [Gynosphinx](hd_monsters_gynosphinx.md)
+- Alias: [Gynosphinx](hd_monsters_gynosphinx.md)
 -  Large monstrosity, lawful neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 136 (16d10 + 48)

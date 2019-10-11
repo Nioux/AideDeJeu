@@ -5,7 +5,7 @@
 # Dissimortuum
 
 - Source: (LDM p122)(TOB p119)
-- TOB: Dissimortuum
+- Alias: Dissimortuum
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 112 (15d8+45)

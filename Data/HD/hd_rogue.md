@@ -5,7 +5,7 @@
 
 # Roublard
 
-- AltName: Rogue (SRD p39)
+- Alias: Rogue (SRD p39)
 - Source: (MDR p202)
 
 En tant que roublard, vous bénéficiez des aptitudes de classe suivantes.

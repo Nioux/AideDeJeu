@@ -4,7 +4,7 @@
 
 # Planetar
 
-- CEO: [Planétar](hd_monsters_planetar.md)
+- Alias: [Planétar](hd_monsters_planetar.md)
 -  Large celestial, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 200 (16d10 + 112)

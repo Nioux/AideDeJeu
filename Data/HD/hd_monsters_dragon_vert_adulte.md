@@ -5,7 +5,7 @@
 # Dragon vert adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
+- Alias: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 19 (armure naturelle)

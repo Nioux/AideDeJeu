@@ -4,7 +4,7 @@
 
 # Tempête de neige
 
-- SRD: [Sleet Storm](srd_spells_sleet_storm.md)
+- Alias: [Sleet Storm](srd_spells_sleet_storm.md)
 
 -  Invocation de niveau 3
 

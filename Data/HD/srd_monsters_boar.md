@@ -4,7 +4,7 @@
 
 # Boar
 
-- CEO: [Sanglier](hd_monsters_sanglier.md)
+- Alias: [Sanglier](hd_monsters_sanglier.md)
 -  Medium beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 11 (2d8 + 2)

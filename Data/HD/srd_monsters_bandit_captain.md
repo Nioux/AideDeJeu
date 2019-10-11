@@ -4,7 +4,7 @@
 
 # Bandit Captain
 
-- CEO: [Capitaine Bandit](hd_monsters_capitaine_bandit.md)
+- Alias: [Capitaine Bandit](hd_monsters_capitaine_bandit.md)
 - Source: (SRD p397)
 -  Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 15 (studded leather)

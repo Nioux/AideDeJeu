@@ -5,7 +5,7 @@
 # Dragon Du Vide, Dragonnet
 
 - Source: (LDM p141)(TOB p140)
-- TOB: Void Dragon Wyrmling
+- Alias: Void Dragon Wyrmling
 -  Dragon de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 45 (6d8+18)

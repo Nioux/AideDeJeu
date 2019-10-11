@@ -4,7 +4,7 @@
 
 # Earthquake
 
-- MDR: [Tremblement de terre](hd_spells_tremblement_de_terre.md)
+- Alias: [Tremblement de terre](hd_spells_tremblement_de_terre.md)
 - Source: (SRD p139)
 -  8th-level evocation
 - **Casting Time :** 1 action

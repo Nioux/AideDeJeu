@@ -4,7 +4,7 @@
 
 # Sphère résiliente
 
-- SRD: [Resilient Sphere](srd_spells_resilient_sphere.md)
+- Alias: [Resilient Sphere](srd_spells_resilient_sphere.md)
 
 -  Évocation de niveau 4
 

@@ -4,7 +4,7 @@
 
 # Bouclier
 
-- SRD: [Shield](srd_spells_shield.md)
+- Alias: [Shield](srd_spells_shield.md)
 
 -  Abjuration de niveau 1
 

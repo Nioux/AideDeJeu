@@ -4,7 +4,7 @@
 
 # Sunbeam
 
-- MDR: [Rayon de soleil](hd_spells_rayon_de_soleil.md)
+- Alias: [Rayon de soleil](hd_spells_rayon_de_soleil.md)
 - Source: (SRD p184)
 -  6th-level evocation
 - **Casting Time :** 1 action

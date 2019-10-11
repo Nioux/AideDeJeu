@@ -5,7 +5,7 @@
 # Goule Impériale
 
 - Source: (LDM p222)(TOB p220)
-- TOB: Ghoul, Imperial
+- Alias: Ghoul, Imperial
 -  Mort-vivant de taille Moyenne (M), loyal mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (cuirasse)

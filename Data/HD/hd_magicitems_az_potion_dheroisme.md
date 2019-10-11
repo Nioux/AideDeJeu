@@ -4,7 +4,7 @@
 
 ### Potion d'héroïsme
 
-- AltName: Potion of Heroism (SRD p234)
+- Alias: Potion of Heroism (SRD p234)
 - Source: (CDC p179)
 -  Potion, rare
 

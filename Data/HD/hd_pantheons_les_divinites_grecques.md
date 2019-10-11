@@ -4,7 +4,7 @@
 
 #### Les divinités grecques
 
-- AltName: Greek Deities
+- Alias: Greek Deities
 - Source: (MDR p414)(SRD p361)
 
 |Divinité|Alignement|Domaines suggérés|Symbole|

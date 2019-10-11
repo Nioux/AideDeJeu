@@ -4,7 +4,7 @@
 
 ### Cape de la chauve-souris
 
-- AltName: Cloak of the Bat (SRD p214)
+- Alias: Cloak of the Bat (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, rare (harmonisation requise)
 

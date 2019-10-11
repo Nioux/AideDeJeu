@@ -4,7 +4,7 @@
 
 # Panther
 
-- CEO: [Panthère](hd_monsters_panthere.md)
+- Alias: [Panthère](hd_monsters_panthere.md)
 -  Medium beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (3d8)

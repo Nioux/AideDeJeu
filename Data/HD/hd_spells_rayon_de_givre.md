@@ -4,7 +4,7 @@
 
 # Rayon de givre
 
-- SRD: [Ray of Frost](srd_spells_ray_of_frost.md)
+- Alias: [Ray of Frost](srd_spells_ray_of_frost.md)
 
 -  Évocation, tour de magie
 

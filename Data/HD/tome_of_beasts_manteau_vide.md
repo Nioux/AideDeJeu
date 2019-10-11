@@ -5,7 +5,7 @@
 # Manteau Vide
 
 - Source: (LDM p285)(TOB p176)
-- TOB: Empty Cloak
+- Alias: Empty Cloak
 -  Créature artificielle de taille Moyenne (M), non-alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 45 (10d8)

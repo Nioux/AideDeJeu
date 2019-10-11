@@ -4,7 +4,7 @@
 
 # Fire Giant
 
-- CEO: [Géant du feu](hd_monsters_geant_du_feu.md)
+- Alias: [Géant du feu](hd_monsters_geant_du_feu.md)
 -  Huge giant, lawful evil
 - **Armor Class** 18 (plate)
 - **Hit Points** 162 (13d12 + 78)

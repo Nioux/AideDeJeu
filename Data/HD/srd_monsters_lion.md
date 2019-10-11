@@ -4,7 +4,7 @@
 
 # Lion
 
-- CEO: [Lion](hd_monsters_lion.md)
+- Alias: [Lion](hd_monsters_lion.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 26 (4d10 + 4)

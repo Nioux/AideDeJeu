@@ -4,7 +4,7 @@
 
 # Flaming Sphere
 
-- MDR: [Sphère de feu](hd_spells_sphere_de_feu.md)
+- Alias: [Sphère de feu](hd_spells_sphere_de_feu.md)
 - Source: (SRD p145)
 -  2nd-level conjuration
 - **Casting Time :** 1 action

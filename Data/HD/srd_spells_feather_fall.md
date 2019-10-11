@@ -4,7 +4,7 @@
 
 # Feather Fall
 
-- MDR: [Léger comme une plume](hd_spells_leger_comme_une_plume.md)
+- Alias: [Léger comme une plume](hd_spells_leger_comme_une_plume.md)
 - Source: (SRD p142)
 -  1st-level transmutation
 - **Casting Time :** 1 reaction, which you take when you or a creature within 60 feet of you falls

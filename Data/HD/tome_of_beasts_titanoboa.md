@@ -5,7 +5,7 @@
 # Titanoboa
 
 - Source: (LDM p383)(TOB p382)
-- TOB: Titanoboa
+- Alias: Titanoboa
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure naturelle)

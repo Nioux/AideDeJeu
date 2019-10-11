@@ -4,7 +4,7 @@
 
 # Grick
 
-- CEO: [Grick](hd_monsters_grick.md)
+- Alias: [Grick](hd_monsters_grick.md)
 -  Medium monstrosity, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 27 (6d8)

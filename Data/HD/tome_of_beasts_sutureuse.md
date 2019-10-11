@@ -5,7 +5,7 @@
 # Sutureuse
 
 - Source: (LDM p377)(TOB p372)
-- TOB: Suturefly
+- Alias: Suturefly
 -  Bête de Très Petite taille (TP), non-alignée
 - **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 14

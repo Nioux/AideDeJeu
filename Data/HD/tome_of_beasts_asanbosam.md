@@ -5,7 +5,7 @@
 # Asanbosam
 
 - Source: (LDM p32)(TOB p27)
-- TOB: Asanbosam
+- Alias: Asanbosam
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 14 (armure naturelle)

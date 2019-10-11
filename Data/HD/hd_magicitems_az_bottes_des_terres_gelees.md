@@ -4,7 +4,7 @@
 
 ### Bottes des terres gelées
 
-- AltName: Boots of the Winterlands (SRD p212)
+- Alias: Boots of the Winterlands (SRD p212)
 - Source: (CDC p153)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

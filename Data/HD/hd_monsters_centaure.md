@@ -5,7 +5,7 @@
 # Centaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Centaur](srd_monsters_centaur.md)
+- Alias: [Centaur](srd_monsters_centaur.md)
 -  Créature monstrueuse de taille G, Neutre Bon
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

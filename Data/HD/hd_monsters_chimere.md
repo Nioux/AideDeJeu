@@ -5,7 +5,7 @@
 # Chimère
 
 - Source: (CEO p)(SRD p)
-- SRD: [Chimera](srd_monsters_chimera.md)
+- Alias: [Chimera](srd_monsters_chimera.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)

@@ -5,7 +5,7 @@
 # Aigle
 
 - Source: (CEO p)(SRD p)
-- SRD: [Eagle](srd_monsters_eagle.md)
+- Alias: [Eagle](srd_monsters_eagle.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Mer / Océan, Montagnes
 - **Classe d'armure** 12

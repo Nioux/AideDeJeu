@@ -5,7 +5,7 @@
 # Basilic
 
 - Source: (CEO p)(SRD p)
-- SRD: [Basilisk](srd_monsters_basilisk.md)
+- Alias: [Basilisk](srd_monsters_basilisk.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)

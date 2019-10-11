@@ -4,7 +4,7 @@
 
 ### Baguette de terreur
 
-- AltName: Wand of Fear (SRD p248)
+- Alias: Wand of Fear (SRD p248)
 - Source: (CDC p146)
 -  Baguette, rare (harmonisation requise)
 

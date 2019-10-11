@@ -4,7 +4,7 @@
 
 ### Flasque de fer
 
-- AltName: Iron Flask (SRD p228)
+- Alias: Iron Flask (SRD p228)
 - Source: (CDC p165)
 -  Objet merveilleux, légendaire
 

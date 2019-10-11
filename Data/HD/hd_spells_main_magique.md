@@ -4,7 +4,7 @@
 
 # Main magique
 
-- SRD: [Arcane Hand](srd_spells_arcane_hand.md)
+- Alias: [Arcane Hand](srd_spells_arcane_hand.md)
 
 -  Évocation de niveau 5
 

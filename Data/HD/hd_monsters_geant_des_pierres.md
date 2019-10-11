@@ -5,7 +5,7 @@
 # Géant des pierres
 
 - Source: (CEO p)(SRD p)
-- SRD: [Stone Giant](srd_monsters_stone_giant.md)
+- Alias: [Stone Giant](srd_monsters_stone_giant.md)
 -  Géant de taille TG, neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)

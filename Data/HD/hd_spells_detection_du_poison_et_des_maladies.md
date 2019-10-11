@@ -4,7 +4,7 @@
 
 # Détection du poison et des maladies
 
-- SRD: [Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)
+- Alias: [Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)
 
 -  Divination de niveau 1 (rituel)
 

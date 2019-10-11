@@ -4,7 +4,7 @@
 
 # Ancient Silver Dragon
 
-- CEO: [Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)
+- Alias: [Dragon d'argent vénérable](hd_monsters_dragon_dargent_venerable.md)
 -  Gargantuan dragon, lawful good
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 487 (25d20 + 225)

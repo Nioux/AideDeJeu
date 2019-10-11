@@ -5,7 +5,7 @@
 # Ettin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ettin](srd_monsters_ettin.md)
+- Alias: [Ettin](srd_monsters_ettin.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 12 (armure naturelle)

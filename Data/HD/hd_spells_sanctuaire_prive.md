@@ -4,7 +4,7 @@
 
 # Sanctuaire privé
 
-- SRD: [Private Sanctum](srd_spells_private_sanctum.md)
+- Alias: [Private Sanctum](srd_spells_private_sanctum.md)
 
 -  Abjuration de niveau 4
 

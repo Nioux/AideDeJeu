@@ -4,7 +4,7 @@
 
 # Jump
 
-- MDR: [Saut](hd_spells_saut.md)
+- Alias: [Saut](hd_spells_saut.md)
 - Source: (SRD p158)
 -  1st-level transmutation
 - **Casting Time :** 1 action

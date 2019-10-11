@@ -4,7 +4,7 @@
 
 # Shillelagh
 
-- MDR: [Gourdin magique](hd_spells_gourdin_magique.md)
+- Alias: [Gourdin magique](hd_spells_gourdin_magique.md)
 - Source: (SRD p179)
 -  Transmutation cantrip
 - **Casting Time :** 1 bonus action

@@ -5,7 +5,7 @@
 # Lion
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lion](srd_monsters_lion.md)
+- Alias: [Lion](srd_monsters_lion.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

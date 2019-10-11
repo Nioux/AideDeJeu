@@ -5,7 +5,7 @@
 
 ## Dégâts et guérison 
 
-- AltName: Damage and Healing
+- Alias: Damage and Healing
 - Source: (MDR p298)(SRD p96)
 
 Dans l’univers fantastique de Héros & Dragons, les risques de se blesser et de mourir sont des compagnons de tous les instants. Le souffle d’un dragon, les griffes d’un troll, le poison d’un ennemi, un carreau d’arbalète qui fait mouche, tous ces dangers ont le potentiel de blesser, voire de tuer les héros et les créatures les plus résistantes.

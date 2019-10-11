@@ -4,7 +4,7 @@
 
 ### Attaque de corps-à-corps
 
-- AltName: Melee Attacks (SRD p95)
+- Alias: Melee Attacks (SRD p95)
 - Source: (MDR p291)
 
 Une attaque de corps-à-corps vous permet d'attaquer un ennemi qui se trouve à la portée de votre allonge. Une attaque de corps-à-corps est généralement portée avec une arme tenue à une ou deux mains, comme une épée, un marteau de guerre ou une hache. Les monstres peuvent également attaquer en frappant avec leurs griffes, leurs cornes, leurs dents, leurs tentacules ou tout autre membre. Il existe aussi quelques sorts qui permettent de porter une attaque de corps-à-corps.

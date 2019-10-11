@@ -4,7 +4,7 @@
 
 # Lizard
 
-- CEO: [Lézard](hd_monsters_lezard.md)
+- Alias: [Lézard](hd_monsters_lezard.md)
 -  Tiny beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 2 (1d4)

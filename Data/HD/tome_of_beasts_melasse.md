@@ -5,7 +5,7 @@
 # Mélasse
 
 - Source: (LDM p299)(TOB p387)
-- TOB: Treacle
+- Alias: Treacle
 -  Vase de Très Petite taille (TP), non alignée
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 22 (4d4+12)

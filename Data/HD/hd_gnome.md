@@ -5,7 +5,7 @@
 
 # Gnome
 
-- AltName: Gnome (SRD p6)
+- Alias: Gnome (SRD p6)
 - Source: (MDR p48)
 
 ## Traits des gnomes

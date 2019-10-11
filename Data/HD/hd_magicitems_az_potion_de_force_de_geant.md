@@ -4,7 +4,7 @@
 
 ### Potion de force de géant
 
-- AltName: Potion of Giant Strength (SRD p234)
+- Alias: Potion of Giant Strength (SRD p234)
 - Source: (CDC p177)
 -  Potion, rareté variable
 

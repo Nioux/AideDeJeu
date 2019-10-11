@@ -4,7 +4,7 @@
 
 # Suggestion
 
-- MDR: [Suggestion](hd_spells_suggestion.md)
+- Alias: [Suggestion](hd_spells_suggestion.md)
 - Source: (SRD p183)
 -  2nd-level enchantment
 - **Casting Time :** 1 action

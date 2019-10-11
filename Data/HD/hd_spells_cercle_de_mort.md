@@ -4,7 +4,7 @@
 
 # Cercle de mort
 
-- SRD: [Circle of Death](srd_spells_circle_of_death.md)
+- Alias: [Circle of Death](srd_spells_circle_of_death.md)
 
 -  Nécromancie de niveau 6
 

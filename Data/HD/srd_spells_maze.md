@@ -4,7 +4,7 @@
 
 # Maze
 
-- MDR: [Labyrinthe](hd_spells_labyrinthe.md)
+- Alias: [Labyrinthe](hd_spells_labyrinthe.md)
 - Source: (SRD p163)
 -  8th-level conjuration
 - **Casting Time :** 1 action

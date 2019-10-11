@@ -4,7 +4,7 @@
 
 # Adult White Dragon
 
-- CEO: [Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)
+- Alias: [Dragon blanc adulte](hd_monsters_dragon_blanc_adulte.md)
 -  Huge dragon, chaotic evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 200 (16d12 + 96)

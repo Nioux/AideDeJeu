@@ -4,7 +4,7 @@
 
 # Spiritual Weapon
 
-- MDR: [Arme spirituelle](hd_spells_arme_spirituelle.md)
+- Alias: [Arme spirituelle](hd_spells_arme_spirituelle.md)
 - Source: (SRD p182)
 -  2nd-level evocation
 - **Casting Time :** 1 bonus action

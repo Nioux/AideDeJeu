@@ -4,7 +4,7 @@
 
 # Haste
 
-- MDR: [Hâte](hd_spells_hate.md)
+- Alias: [Hâte](hd_spells_hate.md)
 - Source: (SRD p153)
 -  3th-level transmutation
 - **Casting Time :** 1 action

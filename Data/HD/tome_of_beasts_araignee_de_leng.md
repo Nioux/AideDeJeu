@@ -5,7 +5,7 @@
 # Araignée De Leng
 
 - Source: (LDM p24)(TOB p365)
-- TOB: Spider of Leng
+- Alias: Spider of Leng
 -  Aberration de Grande taille (G), chaotique mauvaise
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 15 (armure naturelle)

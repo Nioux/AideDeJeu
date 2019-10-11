@@ -4,7 +4,7 @@
 
 ### Votre tour
 
-- AltName: Your Turn (SRD p90)
+- Alias: Your Turn (SRD p90)
 - Source: (MDR p285)
 
 Pendant votre tour, vous pouvez vous déplacer d'une distance égale à votre vitesse et accomplir une action.

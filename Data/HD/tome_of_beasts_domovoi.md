@@ -5,7 +5,7 @@
 # Domovoï
 
 - Source: (LDM p123)(TOB p122)
-- TOB: Domovoi
+- Alias: Domovoi
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)

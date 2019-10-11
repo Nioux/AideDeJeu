@@ -5,7 +5,7 @@
 # Méphite de magma
 
 - Source: (CEO p)(SRD p)
-- SRD: [Magma Mephit](srd_monsters_magma_mephit.md)
+- Alias: [Magma Mephit](srd_monsters_magma_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 11

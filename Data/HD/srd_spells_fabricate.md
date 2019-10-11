@@ -4,7 +4,7 @@
 
 # Fabricate
 
-- MDR: [Fabrication](hd_spells_fabrication.md)
+- Alias: [Fabrication](hd_spells_fabrication.md)
 - Source: (SRD p141)
 -  4th-level transmutation
 - **Casting Time :** 10 minutes

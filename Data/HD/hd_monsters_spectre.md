@@ -5,7 +5,7 @@
 # Spectre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Specter](srd_monsters_specter.md)
+- Alias: [Specter](srd_monsters_specter.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 12

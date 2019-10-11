@@ -4,7 +4,7 @@
 
 # Pit Fiend
 
-- CEO: [Diantrefosse](hd_monsters_diantrefosse.md)
+- Alias: [Diantrefosse](hd_monsters_diantrefosse.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 300 (24d10 + 168)

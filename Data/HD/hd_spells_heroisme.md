@@ -4,7 +4,7 @@
 
 # Héroïsme
 
-- SRD: [Heroism](srd_spells_heroism.md)
+- Alias: [Heroism](srd_spells_heroism.md)
 
 -  Enchantement de niveau 1
 

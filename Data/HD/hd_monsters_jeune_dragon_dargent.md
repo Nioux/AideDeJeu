@@ -5,7 +5,7 @@
 # Jeune dragon d'argent
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
+- Alias: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Baguette de boules de feu
 
-- AltName: Wand of Fireballs (SRD p248)
+- Alias: Wand of Fireballs (SRD p248)
 - Source: (CDC p145)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 

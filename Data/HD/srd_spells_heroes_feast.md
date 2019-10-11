@@ -4,7 +4,7 @@
 
 # Heroes' Feast
 
-- MDR: [Festin des héros](hd_spells_festin_des_heros.md)
+- Alias: [Festin des héros](hd_spells_festin_des_heros.md)
 - Source: (SRD p154)
 -  6th-level conjuration
 - **Casting Time :** 10 minutes

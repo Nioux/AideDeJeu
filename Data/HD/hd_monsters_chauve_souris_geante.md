@@ -5,7 +5,7 @@
 # Chauve-souris géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Bat](srd_monsters_giant_bat.md)
+- Alias: [Giant Bat](srd_monsters_giant_bat.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Jungle, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13

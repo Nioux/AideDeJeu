@@ -4,7 +4,7 @@
 
 # Téléportation
 
-- SRD: [Teleport](srd_spells_teleport.md)
+- Alias: [Teleport](srd_spells_teleport.md)
 
 -  Invocation de niveau 7
 

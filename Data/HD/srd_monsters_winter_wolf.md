@@ -4,7 +4,7 @@
 
 # Winter Wolf
 
-- CEO: [Loup arctique](hd_monsters_loup_arctique.md)
+- Alias: [Loup arctique](hd_monsters_loup_arctique.md)
 -  Large monstrosity, neutral evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 75 (10d10 + 20)

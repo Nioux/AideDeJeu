@@ -4,7 +4,7 @@
 
 # Corde enchantée
 
-- SRD: [Rope Trick](srd_spells_rope_trick.md)
+- Alias: [Rope Trick](srd_spells_rope_trick.md)
 
 -  Transmutation de niveau 2
 

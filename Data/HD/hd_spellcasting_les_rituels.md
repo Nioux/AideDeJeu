@@ -4,7 +4,7 @@
 
 ### Les rituels
 
-- AltName: Rituals (SRD p101)
+- Alias: Rituals (SRD p101)
 - Source: (MDR p307)
 
 Certains sorts portent une mention spéciale : rituel. On peut les lancer en suivant les règles d'incantation ordinaires ou sous forme de rituel. Cette version du sort demande 10 minutes de plus et n'utilise pas d'emplacement de sort. Cela signifie qu'elle ne peut être lancée à plus haut niveau..

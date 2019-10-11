@@ -4,7 +4,7 @@
 
 # Prismatic Spray
 
-- MDR: [Embruns prismatiques](hd_spells_embruns_prismatiques.md)
+- Alias: [Embruns prismatiques](hd_spells_embruns_prismatiques.md)
 - Source: (SRD p170)
 -  7th-level evocation
 - **Casting Time :** 1 action

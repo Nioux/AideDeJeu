@@ -4,7 +4,7 @@
 
 # Knock
 
-- MDR: [Déblocage](hd_spells_deblocage.md)
+- Alias: [Déblocage](hd_spells_deblocage.md)
 - Source: (SRD p158)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

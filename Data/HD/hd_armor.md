@@ -5,7 +5,7 @@
 
 # Armures
 
-- AltName: Armor (SRD p62)
+- Alias: Armor (SRD p62)
 - Source: (MDR p223)
 
 Les univers de Héros & Dragons sont une vaste tapisserie réunissant de nombreuses cultures qui ont chacune leur propre niveau de technologie. Pour cette raison, les aventuriers ont accès à un vaste éventail de types d’armure, de l’armure de cuir à la cotte de mailles, et jusqu’à la coûteuse armure de plates, avec de nombreux types intermédiaires. Le tableau des armures réunit les types d’armure les plus courants qui se trouvent dans le jeu et les présente selon trois catégories : armures légères, armures intermédiaires et armures lourdes. De nombreux guerriers utilisent un bouclier en complément de leur armure.

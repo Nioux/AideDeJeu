@@ -5,7 +5,7 @@
 # Lézard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lizard](srd_monsters_lizard.md)
+- Alias: [Lizard](srd_monsters_lizard.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 10

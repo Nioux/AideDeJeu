@@ -5,7 +5,7 @@
 # Cheval de guerre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Warhorse](srd_monsters_warhorse.md)
+- Alias: [Warhorse](srd_monsters_warhorse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11

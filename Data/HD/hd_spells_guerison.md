@@ -4,7 +4,7 @@
 
 # Guérison
 
-- SRD: [Heal](srd_spells_heal.md)
+- Alias: [Heal](srd_spells_heal.md)
 
 -  Évocation de niveau 6
 

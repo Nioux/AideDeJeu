@@ -4,7 +4,7 @@
 
 # Killer Whale
 
-- CEO: [Épaulard](hd_monsters_epaulard.md)
+- Alias: [Épaulard](hd_monsters_epaulard.md)
 -  Huge beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 90 (12d12 + 12)

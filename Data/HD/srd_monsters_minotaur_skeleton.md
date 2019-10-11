@@ -4,7 +4,7 @@
 
 # Minotaur Skeleton
 
-- CEO: [Squelette minotaure](hd_monsters_squelette_minotaure.md)
+- Alias: [Squelette minotaure](hd_monsters_squelette_minotaure.md)
 -  Large undead, lawful evil
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 67 (9d10 + 18)

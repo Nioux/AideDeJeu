@@ -4,7 +4,7 @@
 
 # Cercle de téléportation
 
-- SRD: [Teleportation Circle](srd_spells_teleportation_circle.md)
+- Alias: [Teleportation Circle](srd_spells_teleportation_circle.md)
 
 -  Invocation de niveau 5
 

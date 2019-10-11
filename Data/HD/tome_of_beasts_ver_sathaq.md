@@ -5,7 +5,7 @@
 # Ver Sathaq
 
 - Source: (LDM p401)(TOB p337)
-- TOB: Sathaq Worm
+- Alias: Sathaq Worm
 -  Élémentaire de Très Grande taille (TG), neutre mauvais
 - **Terrain** Désert chaud, Mangrove / Marécage, Plans élémentaires, Caverne naturelle
 - **Classe d'armure** 16 (armure naturelle)

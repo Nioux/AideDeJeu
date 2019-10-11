@@ -5,7 +5,7 @@
 # Ychen Bannog
 
 - Source: (LDM p413)(TOB p413)
-- TOB: Ychen Bannog
+- Alias: Ychen Bannog
 -  Bête de taille Gigantesque (Gig), non alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 17 (armure naturelle)

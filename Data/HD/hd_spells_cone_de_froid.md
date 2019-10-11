@@ -4,7 +4,7 @@
 
 # Cône de froid
 
-- SRD: [Cone of Cold](srd_spells_cone_of_cold.md)
+- Alias: [Cone of Cold](srd_spells_cone_of_cold.md)
 
 -  Évocation de niveau 5
 

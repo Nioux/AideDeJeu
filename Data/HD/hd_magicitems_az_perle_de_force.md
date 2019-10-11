@@ -4,7 +4,7 @@
 
 ### Perle de force
 
-- AltName: Bead of Force (SRD p211)
+- Alias: Bead of Force (SRD p211)
 - Source: (CDC p174)
 -  Objet merveilleux, rare
 

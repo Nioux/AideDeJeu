@@ -4,7 +4,7 @@
 
 ### Médaillon des pensées
 
-- AltName: Medallion of Thoughts (SRD p230)
+- Alias: Medallion of Thoughts (SRD p230)
 - Source: (CDC p173)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

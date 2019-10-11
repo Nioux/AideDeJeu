@@ -4,7 +4,7 @@
 
 # Pass without Trace
 
-- MDR: [Passage sans trace](hd_spells_passage_sans_trace.md)
+- Alias: [Passage sans trace](hd_spells_passage_sans_trace.md)
 - Source: (SRD p167)
 -  2nd-level abjuration
 - **Casting Time :** 1 action

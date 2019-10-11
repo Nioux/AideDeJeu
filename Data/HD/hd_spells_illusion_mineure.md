@@ -4,7 +4,7 @@
 
 # Illusion mineure
 
-- SRD: [Minor Illusion](srd_spells_minor_illusion.md)
+- Alias: [Minor Illusion](srd_spells_minor_illusion.md)
 
 -  Illusion, tour de magie
 

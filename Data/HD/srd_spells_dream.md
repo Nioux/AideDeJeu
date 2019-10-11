@@ -4,7 +4,7 @@
 
 # Dream
 
-- MDR: [Rêve](hd_spells_reve.md)
+- Alias: [Rêve](hd_spells_reve.md)
 - Source: (SRD p138)
 -  5th-level illusion
 - **Casting Time :** 1 minute

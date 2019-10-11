@@ -4,7 +4,7 @@
 
 # Gold Dragon Wyrmling
 
-- CEO: [Dragonnet d'or](hd_monsters_dragonnet_dor.md)
+- Alias: [Dragonnet d'or](hd_monsters_dragonnet_dor.md)
 -  Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 60 (8d8 + 24)

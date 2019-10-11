@@ -4,7 +4,7 @@
 
 # Tribal Warrior
 
-- CEO: [Guerrier tribal](hd_monsters_guerrier_tribal.md)
+- Alias: [Guerrier tribal](hd_monsters_guerrier_tribal.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 12 (hide armor)
 - **Hit Points** 11 (2d8 + 2)

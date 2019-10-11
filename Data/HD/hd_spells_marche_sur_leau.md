@@ -4,7 +4,7 @@
 
 # Marche sur l'eau
 
-- SRD: [Water Walk](srd_spells_water_walk.md)
+- Alias: [Water Walk](srd_spells_water_walk.md)
 
 -  Transmutation de niveau 3 (rituel)
 

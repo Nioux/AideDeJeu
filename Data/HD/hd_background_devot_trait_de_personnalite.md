@@ -4,7 +4,7 @@
 
 ##### Trait de personnalité
 
-- AltName: Feature: Personality Trait (SRD p61)
+- Alias: Feature: Personality Trait (SRD p61)
 - Source: (MDR p82)
 
 |d8|Trait de personnalité|

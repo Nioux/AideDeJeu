@@ -5,7 +5,7 @@
 # Feu follet
 
 - Source: (CEO p)(SRD p)
-- SRD: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
+- Alias: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
 -  Mort-vivant de taille TP, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 19

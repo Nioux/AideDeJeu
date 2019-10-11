@@ -5,7 +5,7 @@
 # Ombre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shadow](srd_monsters_shadow.md)
+- Alias: [Shadow](srd_monsters_shadow.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 12

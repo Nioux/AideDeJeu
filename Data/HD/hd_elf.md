@@ -5,7 +5,7 @@
 
 # Elfe
 
-- AltName: Elf (SRD p4)
+- Alias: Elf (SRD p4)
 - Source: (MDR p44)
 
 ## Traits des elfes

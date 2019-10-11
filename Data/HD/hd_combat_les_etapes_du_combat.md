@@ -4,7 +4,7 @@
 
 ### Les étapes du combat
 
-- AltName: Combat Step by Step (SRD p90)
+- Alias: Combat Step by Step (SRD p90)
 - Source: (MDR p284)
 
 1. Surprise. Le MJ détermine si l'une des créatures qui prend part au combat est surprise.

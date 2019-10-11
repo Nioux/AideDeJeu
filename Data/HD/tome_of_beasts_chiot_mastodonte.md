@@ -5,7 +5,7 @@
 # Chiot Mastodonte
 
 - Source: (LDM p61)(TOB p252)
-- TOB: Hulking Whelp
+- Alias: Hulking Whelp
 -  Fée (métamorphe) de Petite/Très Grande taille (P/TG), chaotique neutre
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 94 (9d12+36)

@@ -4,7 +4,7 @@
 
 # Wyvern
 
-- CEO: [Vouivre](hd_monsters_vouivre.md)
+- Alias: [Vouivre](hd_monsters_vouivre.md)
 -  Large dragon, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 110 (13d10 + 39)

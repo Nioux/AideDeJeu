@@ -5,7 +5,7 @@
 # Colonne Possédée
 
 - Source: (LDM p66)(TOB p314)
-- TOB: Possessed Pillar
+- Alias: Possessed Pillar
 -  Créature artificielle de Grande taille (G), non alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)

@@ -5,7 +5,7 @@
 # Alquam, seigneur démon de la nuit
 
 - Source: (LDM p86)(TOB p84)
-- TOB: Alquam, Demon Lord of Night
+- Alias: Alquam, Demon Lord of Night
 -  Fiélon (démon) de Très Grande taille (TG), chaotique mauvais
 - **Classe d'armure** 20 (armure naturelle)
 - **Points de vie** 350 (28d12+168)

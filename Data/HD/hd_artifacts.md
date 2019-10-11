@@ -5,7 +5,7 @@
 
 # Artefacts
 
-- AltName: Artifacts (SRD p252)
+- Alias: Artifacts (SRD p252)
 - Source: (CDC p191)
 
 

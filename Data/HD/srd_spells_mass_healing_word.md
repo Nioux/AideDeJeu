@@ -4,7 +4,7 @@
 
 # Mass Healing Word
 
-- MDR: [Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)
+- Alias: [Mot de guérison de groupe](hd_spells_mot_de_guerison_de_groupe.md)
 - Source: (SRD p163)
 -  3th-level evocation
 - **Casting Time :** 1 bonus action

@@ -5,7 +5,7 @@
 # Marionnette Des Lianes
 
 - Source: (LDM p359)(TOB p403)
-- TOB: Tendril Puppet
+- Alias: Tendril Puppet
 -  Plante de taille Moyenne (M), loyale neutre
 - **Terrain** Jungle
 - **Classe d'armure** 13 (armure de cuir clouté)

@@ -4,7 +4,7 @@
 
 # Gust of Wind
 
-- MDR: [Bourrasque](hd_spells_bourrasque.md)
+- Alias: [Bourrasque](hd_spells_bourrasque.md)
 - Source: (SRD p152)
 -  2nd-level evocation
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Arrêt du temps
 
-- SRD: [Time Stop](srd_spells_time_stop.md)
+- Alias: [Time Stop](srd_spells_time_stop.md)
 
 -  Transmutation de niveau 9
 

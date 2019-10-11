@@ -4,7 +4,7 @@
 
 # Mage Hand
 
-- MDR: [Main du mage](hd_spells_main_du_mage.md)
+- Alias: [Main du mage](hd_spells_main_du_mage.md)
 - Source: (SRD p160)
 -  Conjuration cantrip
 - **Casting Time :** 1 action

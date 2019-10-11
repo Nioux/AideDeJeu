@@ -4,7 +4,7 @@
 
 # Fusion dans la pierre
 
-- SRD: [Meld into Stone](srd_spells_meld_into_stone.md)
+- Alias: [Meld into Stone](srd_spells_meld_into_stone.md)
 
 -  Transmutation de niveau 3 (rituel)
 

@@ -5,7 +5,7 @@
 # Dretch
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dretch](srd_monsters_dretch.md)
+- Alias: [Dretch](srd_monsters_dretch.md)
 -  Fiélon (démon) de taille P, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)

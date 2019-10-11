@@ -4,7 +4,7 @@
 
 ### Pierre de contrôle des élémentaires de la terre
 
-- AltName: Stone of Controlling Earth Elementals (SRD p246)
+- Alias: Stone of Controlling Earth Elementals (SRD p246)
 - Source: (CDC p175)
 -  Objet merveilleux, rare
 

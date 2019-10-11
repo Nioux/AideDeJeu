@@ -4,7 +4,7 @@
 
 # Détection de la magie
 
-- SRD: [Detect Magic](srd_spells_detect_magic.md)
+- Alias: [Detect Magic](srd_spells_detect_magic.md)
 
 -  Divination de niveau 1 (rituel)
 

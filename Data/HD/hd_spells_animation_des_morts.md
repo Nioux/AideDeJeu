@@ -4,7 +4,7 @@
 
 # Animation des morts
 
-- SRD: [Animate Dead](srd_spells_animate_dead.md)
+- Alias: [Animate Dead](srd_spells_animate_dead.md)
 
 -  Nécromancie de niveau 3
 

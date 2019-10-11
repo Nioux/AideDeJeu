@@ -4,7 +4,7 @@
 
 # Fire Elemental
 
-- CEO: [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
+- Alias: [Élémentaire du feu](hd_monsters_elementaire_du_feu.md)
 -  Large elemental, neutral
 - **Armor Class** 13
 - **Hit Points** 102 (12d10 + 36)

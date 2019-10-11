@@ -5,7 +5,7 @@
 # Lamie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lamia](srd_monsters_lamia.md)
+- Alias: [Lamia](srd_monsters_lamia.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)

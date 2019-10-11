@@ -5,7 +5,7 @@
 # Dipsa
 
 - Source: (LDM p121)(TOB p118)
-- TOB: Dipsa
+- Alias: Dipsa
 -  Vase de Très Petite taille (TP), non alignée
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15

@@ -5,7 +5,7 @@
 # Vipère Du Marais
 
 - Source: (LDM p361)(TOB p354)
-- TOB: Swamp Adder
+- Alias: Swamp Adder
 -  Bête de Petite taille (P), non-alignée
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13

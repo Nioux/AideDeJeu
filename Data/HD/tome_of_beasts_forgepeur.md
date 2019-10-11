@@ -5,7 +5,7 @@
 # Forgepeur
 
 - Source: (LDM p198)(TOB p181)
-- TOB: Fear Smith
+- Alias: Fear Smith
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 123 (19d8+38)

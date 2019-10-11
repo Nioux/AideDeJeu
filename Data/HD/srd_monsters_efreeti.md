@@ -4,7 +4,7 @@
 
 # Efreeti
 
-- CEO: [Éfrit](hd_monsters_efrit.md)
+- Alias: [Éfrit](hd_monsters_efrit.md)
 -  Large elemental, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 200 (16d10 + 112)

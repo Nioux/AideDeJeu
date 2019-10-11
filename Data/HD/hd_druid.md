@@ -5,7 +5,7 @@
 
 # Druide
 
-- AltName: Druid (SRD p17)
+- Alias: Druid (SRD p17)
 - Source: (MDR p142)
 
 En tant que druide, vous bénéficiez des aptitudes de classe suivantes.

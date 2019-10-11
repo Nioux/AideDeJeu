@@ -4,7 +4,7 @@
 
 # Bearded Devil
 
-- CEO: [Diable barbu](hd_monsters_diable_barbu.md)
+- Alias: [Diable barbu](hd_monsters_diable_barbu.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 52 (8d8 + 16)

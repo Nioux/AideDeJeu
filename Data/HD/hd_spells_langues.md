@@ -4,7 +4,7 @@
 
 # Langues
 
-- SRD: [Tongues](srd_spells_tongues.md)
+- Alias: [Tongues](srd_spells_tongues.md)
 
 -  Divination de niveau 3
 

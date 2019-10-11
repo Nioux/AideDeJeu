@@ -5,7 +5,7 @@
 # Défenseur Erina
 
 - Source: (LDM p172)(TOB p178)
-- TOB: Erina Defender
+- Alias: Erina Defender
 -  Humanoïde (erina) de Petite taille (P), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (chemise de mailles)

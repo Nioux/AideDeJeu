@@ -5,7 +5,7 @@
 # Zmey
 
 - Source: (LDM p416)(TOB p416)
-- TOB: Zmey
+- Alias: Zmey
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Terrain** Bois / Forêt, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)

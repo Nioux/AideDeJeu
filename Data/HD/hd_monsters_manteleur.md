@@ -5,7 +5,7 @@
 # Manteleur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cloaker](srd_monsters_cloaker.md)
+- Alias: [Cloaker](srd_monsters_cloaker.md)
 -  Aberration de taille G, Chaotique Neutre
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)

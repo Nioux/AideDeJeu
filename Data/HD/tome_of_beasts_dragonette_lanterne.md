@@ -5,7 +5,7 @@
 # Dragonette Lanterne
 
 - Source: (LDM p148)(TOB p270)
-- TOB: Lantern Dragonette
+- Alias: Lantern Dragonette
 -  Dragon de Très Petite taille (TP), loyal neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)

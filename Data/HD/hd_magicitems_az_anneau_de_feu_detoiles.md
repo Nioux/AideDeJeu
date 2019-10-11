@@ -4,7 +4,7 @@
 
 ### Anneau de feu d'étoiles
 
-- AltName: Ring of Shooting Stars (SRD p237)
+- Alias: Ring of Shooting Stars (SRD p237)
 - Source: (CDC p140)
 -  Anneau, très rare (harmonisation en plein air et de nuit exigée)
 

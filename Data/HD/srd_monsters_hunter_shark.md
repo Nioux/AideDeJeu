@@ -4,7 +4,7 @@
 
 # Hunter Shark
 
-- CEO: [Requin chasseur](hd_monsters_requin_chasseur.md)
+- Alias: [Requin chasseur](hd_monsters_requin_chasseur.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 45 (6d10 + 12)

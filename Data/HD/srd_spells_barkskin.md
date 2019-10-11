@@ -4,7 +4,7 @@
 
 # Barkskin
 
-- MDR: [Peau d'écorce](hd_spells_peau_decorce.md)
+- Alias: [Peau d'écorce](hd_spells_peau_decorce.md)
 - Source: (SRD p121)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

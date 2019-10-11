@@ -4,7 +4,7 @@
 
 # Lumière du jour
 
-- SRD: [Daylight](srd_spells_daylight.md)
+- Alias: [Daylight](srd_spells_daylight.md)
 
 -  Évocation de niveau 3
 

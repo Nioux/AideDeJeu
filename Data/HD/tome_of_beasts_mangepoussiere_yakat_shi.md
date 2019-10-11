@@ -5,7 +5,7 @@
 # Mangepoussière (Yakat-Shi)
 
 - Source: (LDM p283)(TOB p164)
-- TOB: Eater of Dust (Yakat-Shi)
+- Alias: Eater of Dust (Yakat-Shi)
 -  Aberration de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 114 (12d8+60)

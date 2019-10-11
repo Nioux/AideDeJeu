@@ -4,7 +4,7 @@
 
 # Ancient Black Dragon
 
-- CEO: [Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)
+- Alias: [Dragon noir vénérable](hd_monsters_dragon_noir_venerable.md)
 -  Gargantuan dragon, chaotic evil
 - **Armor Class** 22 (natural armor)
 - **Hit Points** 367 (21d20 + 147)

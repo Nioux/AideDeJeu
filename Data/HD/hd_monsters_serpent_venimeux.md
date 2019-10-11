@@ -5,7 +5,7 @@
 # Serpent venimeux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Poisonous Snake](srd_monsters_poisonous_snake.md)
+- Alias: [Poisonous Snake](srd_monsters_poisonous_snake.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

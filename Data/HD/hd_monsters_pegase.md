@@ -5,7 +5,7 @@
 # Pégase
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pegasus](srd_monsters_pegasus.md)
+- Alias: [Pegasus](srd_monsters_pegasus.md)
 -  Céleste de taille G, Chaotique Bon
 - **Terrain** 
 - **Classe d'armure** 12

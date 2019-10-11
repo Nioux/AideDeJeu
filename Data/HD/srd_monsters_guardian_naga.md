@@ -4,7 +4,7 @@
 
 # Guardian Naga
 
-- CEO: [Naga gardien](hd_monsters_naga_gardien.md)
+- Alias: [Naga gardien](hd_monsters_naga_gardien.md)
 -  Large monstrosity, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 127 (15d10 + 45)

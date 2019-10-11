@@ -4,7 +4,7 @@
 
 ### Bâton du thaumaturge
 
-- AltName: Staff of the Magi (SRD p244)
+- Alias: Staff of the Magi (SRD p244)
 - Source: (CDC p151)
 -  Bâton, légendaire (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 

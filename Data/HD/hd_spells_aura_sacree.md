@@ -4,7 +4,7 @@
 
 # Aura sacrée
 
-- SRD: [Holy Aura](srd_spells_holy_aura.md)
+- Alias: [Holy Aura](srd_spells_holy_aura.md)
 
 -  Abjuration de niveau 8
 

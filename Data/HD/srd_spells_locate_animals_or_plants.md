@@ -4,7 +4,7 @@
 
 # Locate Animals or Plants
 
-- MDR: [Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)
+- Alias: [Localiser des animaux ou des plantes](hd_spells_localiser_des_animaux_ou_des_plantes.md)
 - Source: (SRD p159)
 -  2nd-level divination (ritual)
 - **Casting Time :** 1 action

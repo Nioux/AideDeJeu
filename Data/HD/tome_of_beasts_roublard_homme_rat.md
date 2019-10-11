@@ -5,7 +5,7 @@
 # Roublard Homme-Rat
 
 - Source: (LDM p245)(TOB p320)
-- TOB: Ratfolk Rogue
+- Alias: Ratfolk Rogue
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir clouté)

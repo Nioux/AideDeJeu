@@ -4,7 +4,7 @@
 
 ### Cube de force
 
-- AltName: Cube of Force (SRD p215)
+- Alias: Cube of Force (SRD p215)
 - Source: (CDC p161)
 -  Objet merveilleux, rare (harmonisation requise)
 

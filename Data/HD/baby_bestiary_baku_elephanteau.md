@@ -4,6 +4,8 @@
 
 # Baku, éléphanteau
 
+- Source: (MM p20)(BB2 p16)
+- Alias: Baku Calf
 -  Aberration de taille P, Neutre
 - **Classe d'armure** 12
 - **Points de vie** 11 (2d8+2)

@@ -5,7 +5,7 @@
 # Ogre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ogre](srd_monsters_ogre.md)
+- Alias: [Ogre](srd_monsters_ogre.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 11 (armure de peau)

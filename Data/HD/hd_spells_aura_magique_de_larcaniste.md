@@ -4,7 +4,7 @@
 
 # Aura magique de l'arcaniste
 
-- SRD: [Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)
+- Alias: [Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)
 
 -  Illusion de niveau 2
 

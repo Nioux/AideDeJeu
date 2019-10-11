@@ -4,7 +4,7 @@
 
 # Silence
 
-- SRD: [Silence](srd_spells_silence.md)
+- Alias: [Silence](srd_spells_silence.md)
 
 -  Illusion de niveau 2 (rituel)
 

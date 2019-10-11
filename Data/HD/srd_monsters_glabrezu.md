@@ -4,7 +4,7 @@
 
 # Glabrezu
 
-- CEO: [Glabrezu](hd_monsters_glabrezu.md)
+- Alias: [Glabrezu](hd_monsters_glabrezu.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 157 (15d10 + 75)

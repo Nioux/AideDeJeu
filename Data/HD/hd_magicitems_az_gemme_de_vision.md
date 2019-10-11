@@ -4,7 +4,7 @@
 
 ### Gemme de vision
 
-- AltName: Gem of Seeing (SRD p223)
+- Alias: Gem of Seeing (SRD p223)
 - Source: (CDC p167)
 -  Objet merveilleux, rare (harmonisation requise)
 

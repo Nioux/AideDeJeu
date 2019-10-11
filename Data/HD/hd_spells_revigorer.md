@@ -4,7 +4,7 @@
 
 # Revigorer
 
-- SRD: [Revivify](srd_spells_revivify.md)
+- Alias: [Revivify](srd_spells_revivify.md)
 
 -  Nécromancie de niveau 3
 

@@ -5,7 +5,7 @@
 # Cactide
 
 - Source: (LDM p51)(TOB p50)
-- TOB: Cactid
+- Alias: Cactid
 -  Plante de Grande taille (G), non alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 14 (armure naturelle)

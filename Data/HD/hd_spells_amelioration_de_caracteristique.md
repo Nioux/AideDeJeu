@@ -4,7 +4,7 @@
 
 # Amélioration de caractéristique
 
-- SRD: [Enhance Ability](srd_spells_enhance_ability.md)
+- Alias: [Enhance Ability](srd_spells_enhance_ability.md)
 
 -  Transmutation de niveau 2
 

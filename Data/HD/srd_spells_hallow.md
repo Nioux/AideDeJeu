@@ -4,7 +4,7 @@
 
 # Hallow
 
-- MDR: [Sanctification](hd_spells_sanctification.md)
+- Alias: [Sanctification](hd_spells_sanctification.md)
 - Source: (SRD p152)
 -  5th-level evocation
 - **Casting Time :** 24 hours

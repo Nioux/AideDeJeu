@@ -4,7 +4,7 @@
 
 ### Corde d'enchevêtrement
 
-- AltName: Rope of Entanglement (SRD p241)
+- Alias: Rope of Entanglement (SRD p241)
 - Source: (CDC p161)
 -  Objet merveilleux, rare
 

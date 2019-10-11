@@ -5,7 +5,7 @@
 # Élémentaire de l'air
 
 - Source: (CEO p)(SRD p)
-- SRD: [Air Elemental](srd_monsters_air_elemental.md)
+- Alias: [Air Elemental](srd_monsters_air_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 15

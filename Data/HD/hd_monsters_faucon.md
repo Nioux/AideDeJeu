@@ -5,7 +5,7 @@
 # Faucon
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hawk](srd_monsters_hawk.md)
+- Alias: [Hawk](srd_monsters_hawk.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 13

@@ -5,7 +5,7 @@
 # Sélang
 
 - Source: (LDM p360)(TOB p341)
-- TOB: Selang
+- Alias: Selang
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 76 (9d8+36)

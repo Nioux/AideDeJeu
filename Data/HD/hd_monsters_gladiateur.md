@@ -5,7 +5,7 @@
 # Gladiateur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gladiator](srd_monsters_gladiator.md)
+- Alias: [Gladiator](srd_monsters_gladiator.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)

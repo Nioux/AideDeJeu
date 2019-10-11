@@ -5,7 +5,7 @@
 # Nuée De Scarabées Prismatiques
 
 - Source: (LDM p330)(TOB p375)
-- TOB: Prismatic Beetle Swarm
+- Alias: Prismatic Beetle Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13

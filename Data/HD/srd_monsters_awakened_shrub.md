@@ -4,7 +4,7 @@
 
 # Awakened Shrub
 
-- CEO: [Arbuste éveillé](hd_monsters_arbuste_eveille.md)
+- Alias: [Arbuste éveillé](hd_monsters_arbuste_eveille.md)
 - Source: (SRD p366)
 -  Small plant, unaligned
 - **Armor Class** 9

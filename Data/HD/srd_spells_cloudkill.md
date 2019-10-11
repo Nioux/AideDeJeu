@@ -4,7 +4,7 @@
 
 # Cloudkill
 
-- MDR: [Nuage mortel](hd_spells_nuage_mortel.md)
+- Alias: [Nuage mortel](hd_spells_nuage_mortel.md)
 - Source: (SRD p125)
 -  5th-level conjuration
 - **Casting Time :** 1 action

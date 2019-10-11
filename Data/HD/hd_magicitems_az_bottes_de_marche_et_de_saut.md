@@ -4,7 +4,7 @@
 
 ### Bottes de marche et de saut
 
-- AltName: Boots of Striding and Springing (SRD p212)
+- Alias: Boots of Striding and Springing (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

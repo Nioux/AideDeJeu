@@ -5,7 +5,7 @@
 # Moisissure violette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Violet Fungus](srd_monsters_violet_fungus.md)
+- Alias: [Violet Fungus](srd_monsters_violet_fungus.md)
 -  Plante de taille M, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5

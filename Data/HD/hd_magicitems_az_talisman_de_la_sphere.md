@@ -4,7 +4,7 @@
 
 ### Talisman de la sphère
 
-- AltName: Talisman of the Sphere (SRD p247)
+- Alias: Talisman of the Sphere (SRD p247)
 - Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation requise)
 

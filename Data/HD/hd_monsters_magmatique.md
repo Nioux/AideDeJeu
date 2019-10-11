@@ -5,7 +5,7 @@
 # Magmatique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Magmin](srd_monsters_magmin.md)
+- Alias: [Magmin](srd_monsters_magmin.md)
 -  Élémentaire de taille P, Chaotique Neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 14 (armure naturelle)

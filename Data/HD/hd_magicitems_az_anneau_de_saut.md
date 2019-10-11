@@ -4,7 +4,7 @@
 
 ### Anneau de saut
 
-- AltName: Ring of Jumping (SRD p236)
+- Alias: Ring of Jumping (SRD p236)
 - Source: (CDC p142)
 -  Anneau, peu courant (harmonisation requise)
 

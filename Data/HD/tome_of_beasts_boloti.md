@@ -5,7 +5,7 @@
 # Boloti
 
 - Source: (LDM p43)(TOB p38)
-- TOB: Boloti
+- Alias: Boloti
 -  Fée de Très Petite taille (TP), neutre mauvaise
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 15

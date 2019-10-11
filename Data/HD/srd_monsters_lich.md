@@ -4,7 +4,7 @@
 
 # Lich
 
-- CEO: [Liche](hd_monsters_liche.md)
+- Alias: [Liche](hd_monsters_liche.md)
 -  Medium undead, any evil alignment
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 135 (18d8 + 54)

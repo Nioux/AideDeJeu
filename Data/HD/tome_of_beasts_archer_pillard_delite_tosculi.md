@@ -5,7 +5,7 @@
 # Archer-Pillard D'Élite Tosculi
 
 - Source: (LDM p387)(TOB p386)
-- TOB: Tosculi Elite Bow Raider
+- Alias: Tosculi Elite Bow Raider
 -  Humanoïde (tosculi) de taille Moyenne (M), loyal mauvais
 - **Terrain** Collines / Vallées, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 16 (armure naturelle)

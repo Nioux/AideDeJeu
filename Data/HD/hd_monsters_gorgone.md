@@ -5,7 +5,7 @@
 # Gorgone
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gorgon](srd_monsters_gorgon.md)
+- Alias: [Gorgon](srd_monsters_gorgon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)

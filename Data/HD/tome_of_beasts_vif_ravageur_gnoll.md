@@ -5,7 +5,7 @@
 # Vif Ravageur Gnoll
 
 - Source: (LDM p405)(TOB p230)
-- TOB: Gnoll Havoc Runner
+- Alias: Gnoll Havoc Runner
 -  Humanoïde (gnoll) de taille Moyenne (M), chaotique mauvais
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 15 (chemise de mailles)

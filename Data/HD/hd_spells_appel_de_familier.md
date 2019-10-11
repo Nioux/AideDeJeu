@@ -4,7 +4,7 @@
 
 # Appel de familier
 
-- SRD: [Find Familiar](srd_spells_find_familiar.md)
+- Alias: [Find Familiar](srd_spells_find_familiar.md)
 
 -  Invocation de niveau 1 (rituel)
 

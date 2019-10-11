@@ -4,7 +4,7 @@
 
 # Compréhension des langues
 
-- SRD: [Comprehend Languages](srd_spells_comprehend_languages.md)
+- Alias: [Comprehend Languages](srd_spells_comprehend_languages.md)
 
 -  Divination de niveau 1 (rituel)
 

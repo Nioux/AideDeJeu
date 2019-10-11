@@ -4,7 +4,7 @@
 
 # Changement de plan
 
-- SRD: [Plane Shift](srd_spells_plane_shift.md)
+- Alias: [Plane Shift](srd_spells_plane_shift.md)
 
 -  Invocation de niveau 7
 

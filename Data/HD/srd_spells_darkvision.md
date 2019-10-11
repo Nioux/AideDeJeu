@@ -4,7 +4,7 @@
 
 # Darkvision
 
-- MDR: [Vision dans le noir](hd_spells_vision_dans_le_noir.md)
+- Alias: [Vision dans le noir](hd_spells_vision_dans_le_noir.md)
 - Source: (SRD p133)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

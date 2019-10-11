@@ -4,7 +4,7 @@
 
 ### Heaume scintillant
 
-- AltName: Helm of Brilliance (SRD p225)
+- Alias: Helm of Brilliance (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, très rare (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Frost Giant
 
-- CEO: [Géant du givre](hd_monsters_geant_du_givre.md)
+- Alias: [Géant du givre](hd_monsters_geant_du_givre.md)
 -  Huge giant, neutral evil
 - **Armor Class** 15 (patchwork armor)
 - **Hit Points** 138 (12d12 + 60)

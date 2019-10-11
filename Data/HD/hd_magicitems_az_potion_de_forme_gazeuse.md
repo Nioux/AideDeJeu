@@ -4,7 +4,7 @@
 
 ### Potion de forme gazeuse
 
-- AltName: Potion of Gaseous Form (SRD p234)
+- Alias: Potion of Gaseous Form (SRD p234)
 - Source: (CDC p178)
 -  Potion, rare
 

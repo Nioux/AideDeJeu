@@ -5,7 +5,7 @@
 # Traqueur invisible
 
 - Source: (CEO p)(SRD p)
-- SRD: [Invisible Stalker](srd_monsters_invisible_stalker.md)
+- Alias: [Invisible Stalker](srd_monsters_invisible_stalker.md)
 -  Élémentaire de taille M, neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 14

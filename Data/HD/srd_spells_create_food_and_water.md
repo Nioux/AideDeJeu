@@ -4,7 +4,7 @@
 
 # Create Food and Water
 
-- MDR: [Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)
+- Alias: [Création de nourriture et d'eau](hd_spells_creation_de_nourriture_et_deau.md)
 - Source: (SRD p131)
 -  3th-level conjuration
 - **Casting Time :** 1 action

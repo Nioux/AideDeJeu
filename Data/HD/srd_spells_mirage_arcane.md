@@ -4,7 +4,7 @@
 
 # Mirage Arcane
 
-- MDR: [Mirage](hd_spells_mirage.md)
+- Alias: [Mirage](hd_spells_mirage.md)
 - Source: (SRD p165)
 -  7th-level illusion
 - **Casting Time :** 10 minutes

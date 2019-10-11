@@ -4,7 +4,7 @@
 
 # Remorhaz
 
-- CEO: [Remorhaz](hd_monsters_remorhaz.md)
+- Alias: [Remorhaz](hd_monsters_remorhaz.md)
 -  Huge monstrosity, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 195 (17d12 + 85)

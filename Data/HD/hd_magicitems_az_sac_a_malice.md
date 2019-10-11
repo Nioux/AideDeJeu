@@ -4,7 +4,7 @@
 
 ### Sac à malice
 
-- AltName: Bag of Tricks (SRD p210)
+- Alias: Bag of Tricks (SRD p210)
 - Source: (CDC p182)
 -  Objet merveilleux, peu courant
 

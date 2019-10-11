@@ -5,7 +5,7 @@
 # Lorelei
 
 - Source: (LDM p275)(TOB p279)
-- TOB: Lorelei
+- Alias: Lorelei
 -  Fée de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Littoral
 - **Classe d'armure** 15 (18 avec armure du mage)

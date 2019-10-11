@@ -5,7 +5,7 @@
 # Likho
 
 - Source: (LDM p269)(TOB p275)
-- TOB: Likho
+- Alias: Likho
 -  Créature monstrueuse de taille Moyenne (M), chaotique mauvaise
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)

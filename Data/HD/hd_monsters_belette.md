@@ -5,7 +5,7 @@
 # Belette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Weasel](srd_monsters_weasel.md)
+- Alias: [Weasel](srd_monsters_weasel.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

@@ -5,7 +5,7 @@
 # Malfrat
 
 - Source: (CEO p)(SRD p)
-- SRD: [Thug](srd_monsters_thug.md)
+- Alias: [Thug](srd_monsters_thug.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
 - **Terrain** 
 - **Classe d'armure** 11 (armure de cuir)

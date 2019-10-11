@@ -4,7 +4,7 @@
 
 # Hold Person
 
-- MDR: [Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)
+- Alias: [Immobiliser un humanoïde](hd_spells_immobiliser_un_humanoide.md)
 - Source: (SRD p154)
 -  2nd-level enchantment
 - **Casting Time :** 1 action

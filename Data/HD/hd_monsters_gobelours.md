@@ -5,7 +5,7 @@
 # Gobelours
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bugbear](srd_monsters_bugbear.md)
+- Alias: [Bugbear](srd_monsters_bugbear.md)
 -  Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 16 (armure de peau, bouclier)

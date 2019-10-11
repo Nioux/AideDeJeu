@@ -4,7 +4,7 @@
 
 ### Lunettes nocturnes
 
-- AltName: Goggles of Night (SRD p224)
+- Alias: Goggles of Night (SRD p224)
 - Source: (CDC p171)
 -  Objet merveilleux, peu courant
 

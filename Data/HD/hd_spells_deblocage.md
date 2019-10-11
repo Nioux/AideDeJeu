@@ -4,7 +4,7 @@
 
 # Déblocage
 
-- SRD: [Knock](srd_spells_knock.md)
+- Alias: [Knock](srd_spells_knock.md)
 
 -  Transmutation de niveau 2
 

@@ -5,7 +5,7 @@
 # Homme-lézard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lizardfolk](srd_monsters_lizardfolk.md)
+- Alias: [Lizardfolk](srd_monsters_lizardfolk.md)
 -  Humanoïde (homme-lézard) de taille M, Neutre
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)

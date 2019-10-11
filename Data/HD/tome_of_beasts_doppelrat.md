@@ -5,7 +5,7 @@
 # Doppelrat
 
 - Source: (LDM p124)(TOB p123)
-- TOB: Doppelrat
+- Alias: Doppelrat
 -  Créature monstrueuse de Très Petite taille (TP), non alignée
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 13

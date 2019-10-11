@@ -4,7 +4,7 @@
 
 # Feeblemind
 
-- MDR: [Esprit faible](hd_spells_esprit_faible.md)
+- Alias: [Esprit faible](hd_spells_esprit_faible.md)
 - Source: (SRD p142)
 -  8th-level enchantment
 - **Casting Time :** 1 action

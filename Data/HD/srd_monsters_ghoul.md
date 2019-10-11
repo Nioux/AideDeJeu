@@ -4,7 +4,7 @@
 
 # Ghoul
 
-- CEO: [Goule](hd_monsters_goule.md)
+- Alias: [Goule](hd_monsters_goule.md)
 -  Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)

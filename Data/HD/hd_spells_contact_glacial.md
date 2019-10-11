@@ -4,7 +4,7 @@
 
 # Contact glacial
 
-- SRD: [Chill Touch](srd_spells_chill_touch.md)
+- Alias: [Chill Touch](srd_spells_chill_touch.md)
 
 -  Nécromancie, tour de magie
 

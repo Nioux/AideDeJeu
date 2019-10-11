@@ -4,7 +4,7 @@
 
 ### Cape de la raie manta
 
-- AltName: Cloak of the Manta Ray (SRD p214)
+- Alias: Cloak of the Manta Ray (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant
 

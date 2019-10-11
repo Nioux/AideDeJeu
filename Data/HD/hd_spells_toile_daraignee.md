@@ -4,7 +4,7 @@
 
 # Toile d'araignée
 
-- SRD: [Web](srd_spells_web.md)
+- Alias: [Web](srd_spells_web.md)
 
 -  Invocation de niveau 2
 

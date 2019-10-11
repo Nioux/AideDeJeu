@@ -5,7 +5,7 @@
 # Drake Des Profondeurs
 
 - Source: (LDM p154)(TOB p152)
-- TOB: Deep Drake
+- Alias: Deep Drake
 -  Dragon de Grande taille (G), chaotique mauvais
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)

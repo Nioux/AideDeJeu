@@ -4,7 +4,7 @@
 
 # Spike Growth
 
-- MDR: [Croissance d'épines](hd_spells_croissance_depines.md)
+- Alias: [Croissance d'épines](hd_spells_croissance_depines.md)
 - Source: (SRD p182)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

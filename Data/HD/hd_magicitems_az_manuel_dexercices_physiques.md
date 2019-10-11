@@ -4,7 +4,7 @@
 
 ### Manuel d'exercices physiques
 
-- AltName: Manual of Gainful Exercise (SRD p229)
+- Alias: Manual of Gainful Exercise (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, très rare
 

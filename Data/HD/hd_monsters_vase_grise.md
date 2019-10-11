@@ -5,7 +5,7 @@
 # Vase grise
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gray Ooze](srd_monsters_gray_ooze.md)
+- Alias: [Gray Ooze](srd_monsters_gray_ooze.md)
 -  Vase de taille M, non-alignée
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8

@@ -4,7 +4,7 @@
 
 # Counterspell
 
-- MDR: [Contresort](hd_spells_contresort.md)
+- Alias: [Contresort](hd_spells_contresort.md)
 - Source: (SRD p131)
 -  3th-level abjuration
 - **Casting Time :** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell

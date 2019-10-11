@@ -4,7 +4,7 @@
 
 # Entrave planaire
 
-- SRD: [Planar Binding](srd_spells_planar_binding.md)
+- Alias: [Planar Binding](srd_spells_planar_binding.md)
 
 -  Abjuration de niveau 5
 

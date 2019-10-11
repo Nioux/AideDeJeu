@@ -4,7 +4,7 @@
 
 ### Anneau de régénération
 
-- AltName: Ring of Regeneration (SRD p237)
+- Alias: Ring of Regeneration (SRD p237)
 - Source: (CDC p141)
 -  Anneau, très rare (harmonisation requise)
 

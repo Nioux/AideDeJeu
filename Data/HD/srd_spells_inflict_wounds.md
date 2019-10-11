@@ -4,7 +4,7 @@
 
 # Inflict Wounds
 
-- MDR: [Blessure](hd_spells_blessure.md)
+- Alias: [Blessure](hd_spells_blessure.md)
 - Source: (SRD p157)
 -  1st-level necromancy
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Young Copper Dragon
 
-- CEO: [Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)
+- Alias: [Jeune dragon de cuivre](hd_monsters_jeune_dragon_de_cuivre.md)
 -  Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 119 (14d10 + 42)

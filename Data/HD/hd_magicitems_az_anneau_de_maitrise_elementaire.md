@@ -4,7 +4,7 @@
 
 ### Anneau de maîtrise élémentaire
 
-- AltName: Ring of Elemental Command (SRD p235)
+- Alias: Ring of Elemental Command (SRD p235)
 - Source: (CDC p140)
 -  Anneau, légendaire (harmonisation requise)
 

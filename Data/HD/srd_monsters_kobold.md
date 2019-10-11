@@ -4,7 +4,7 @@
 
 # Kobold
 
-- CEO: [Kobold](hd_monsters_kobold.md)
+- Alias: [Kobold](hd_monsters_kobold.md)
 -  Small humanoid (kobold), lawful evil
 - **Armor Class** 12
 - **Hit Points** 5 (2d6 - 2)

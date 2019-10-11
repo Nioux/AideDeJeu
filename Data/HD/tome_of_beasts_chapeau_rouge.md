@@ -5,7 +5,7 @@
 # Chapeau Rouge
 
 - Source: (LDM p55)(TOB p325)
-- TOB: Redcap
+- Alias: Redcap
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15 (armure naturelle)

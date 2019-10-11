@@ -5,7 +5,7 @@
 # Membre de secte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cultist](srd_monsters_cultist.md)
+- Alias: [Cultist](srd_monsters_cultist.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)

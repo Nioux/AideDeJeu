@@ -4,7 +4,7 @@
 
 # Centaur
 
-- CEO: [Centaure](hd_monsters_centaure.md)
+- Alias: [Centaure](hd_monsters_centaure.md)
 -  Large monstrosity, neutral good
 - **Armor Class** 12
 - **Hit Points** 45 (6d10 + 12)

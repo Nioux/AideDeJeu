@@ -5,7 +5,7 @@
 # Bouffon Macabre
 
 - Source: (LDM p49)(TOB p240)
-- TOB: Grim Jester
+- Alias: Grim Jester
 -  Mort-vivant de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 136 (16d8+64)

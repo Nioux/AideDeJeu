@@ -4,7 +4,7 @@
 
 ### Bouteille de l'éfrit
 
-- AltName: Efreeti Bottle (SRD p220)
+- Alias: Efreeti Bottle (SRD p220)
 - Source: (CDC p154)
 -  Objet merveilleux, très rare
 

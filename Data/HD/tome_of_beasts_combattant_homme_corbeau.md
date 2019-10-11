@@ -5,7 +5,7 @@
 # Combattant Homme-Corbeau
 
 - Source: (LDM p240)(TOB p323)
-- TOB: Ravenfolk Warrior
+- Alias: Ravenfolk Warrior
 -  Humanoïde (kenku) de taille Moyenne (M), neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 15 (armure de cuir clouté)

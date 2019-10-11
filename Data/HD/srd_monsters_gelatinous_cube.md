@@ -4,7 +4,7 @@
 
 # Gelatinous Cube
 
-- CEO: [Cube gélatineux](hd_monsters_cube_gelatineux.md)
+- Alias: [Cube gélatineux](hd_monsters_cube_gelatineux.md)
 -  Large ooze, unaligned
 - **Armor Class** 6
 - **Hit Points** 84 (8d10 + 40)

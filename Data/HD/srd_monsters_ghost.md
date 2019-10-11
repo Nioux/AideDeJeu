@@ -4,7 +4,7 @@
 
 # Ghost
 
-- CEO: [Fantôme](hd_monsters_fantome.md)
+- Alias: [Fantôme](hd_monsters_fantome.md)
 -  Medium undead, any alignment
 - **Armor Class** 11
 - **Hit Points** 45 (10d8)

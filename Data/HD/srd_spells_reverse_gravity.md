@@ -4,7 +4,7 @@
 
 # Reverse Gravity
 
-- MDR: [Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)
+- Alias: [Inversion de la gravité](hd_spells_inversion_de_la_gravite.md)
 - Source: (SRD p175)
 -  7th-level transmutation
 - **Casting Time :** 1 action

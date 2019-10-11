@@ -4,7 +4,7 @@
 
 ### Amulette de santé
 
-- AltName: Periapt of Health (SRD p232)
+- Alias: Periapt of Health (SRD p232)
 - Source: (CDC p139)
 -  Objet merveilleux, peu courant
 

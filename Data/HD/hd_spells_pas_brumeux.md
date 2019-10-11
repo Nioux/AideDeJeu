@@ -4,7 +4,7 @@
 
 # Pas brumeux
 
-- SRD: [Misty Step](srd_spells_misty_step.md)
+- Alias: [Misty Step](srd_spells_misty_step.md)
 
 -  Invocation de niveau 2
 

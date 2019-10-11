@@ -4,7 +4,7 @@
 
 # Enlarge/Reduce
 
-- MDR: [Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)
+- Alias: [Agrandir/Rétrécir](hd_spells_agrandirretrecir.md)
 - Source: (SRD p140)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

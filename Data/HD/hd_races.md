@@ -5,7 +5,7 @@
 
 # Races
 
-- SRD: Races
+- Alias: Races
 - Source: (MDR p36)(SRD p3)
 
 

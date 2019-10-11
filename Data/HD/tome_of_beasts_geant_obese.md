@@ -5,7 +5,7 @@
 # Géant Obèse
 
 - Source: (LDM p207)(TOB p223)
-- TOB: Flab Giant
+- Alias: Flab Giant
 -  Géant de Grande taille (G), chaotique mauvais
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 14 (armure naturelle)

@@ -5,7 +5,7 @@
 # Chauve-souris
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bat](srd_monsters_bat.md)
+- Alias: [Bat](srd_monsters_bat.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12

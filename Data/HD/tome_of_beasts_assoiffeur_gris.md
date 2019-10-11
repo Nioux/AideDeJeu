@@ -5,7 +5,7 @@
 # Assoiffeur Gris
 
 - Source: (LDM p33)(TOB p238)
-- TOB: Gray Thirster
+- Alias: Gray Thirster
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 13

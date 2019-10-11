@@ -5,7 +5,7 @@
 # Chien du trépas
 
 - Source: (CEO p)(SRD p)
-- SRD: [Death Dog](srd_monsters_death_dog.md)
+- Alias: [Death Dog](srd_monsters_death_dog.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

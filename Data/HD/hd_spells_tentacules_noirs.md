@@ -4,7 +4,7 @@
 
 # Tentacules noirs
 
-- SRD: [Black Tentacles](srd_spells_black_tentacles.md)
+- Alias: [Black Tentacles](srd_spells_black_tentacles.md)
 
 -  Invocation de niveau 4
 

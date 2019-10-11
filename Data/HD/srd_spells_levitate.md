@@ -4,7 +4,7 @@
 
 # Levitate
 
-- MDR: [Lévitation](hd_spells_levitation.md)
+- Alias: [Lévitation](hd_spells_levitation.md)
 - Source: (SRD p158)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

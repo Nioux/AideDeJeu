@@ -5,7 +5,7 @@
 # Guerrier tribal
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tribal Warrior](srd_monsters_tribal_warrior.md)
+- Alias: [Tribal Warrior](srd_monsters_tribal_warrior.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12 (armure de peau)

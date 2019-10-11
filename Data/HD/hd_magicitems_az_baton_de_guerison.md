@@ -4,7 +4,7 @@
 
 ### Bâton de guérison
 
-- AltName: Staff of Healing (SRD p243)
+- Alias: Staff of Healing (SRD p243)
 - Source: (CDC p149)
 -  Bâton, rare (harmonisation avec un barde, un clerc ou un druide exigée)
 

@@ -4,7 +4,7 @@
 
 # Triceratops
 
-- CEO: [Tricératops](hd_monsters_triceratops.md)
+- Alias: [Tricératops](hd_monsters_triceratops.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 95 (10d12 + 30)

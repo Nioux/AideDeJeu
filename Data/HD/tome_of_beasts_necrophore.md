@@ -5,7 +5,7 @@
 # Nécrophore
 
 - Source: (LDM p317)(TOB p52)
-- TOB: Carrion Beetle
+- Alias: Carrion Beetle
 -  Bête de Grande taille (G), neutre
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)

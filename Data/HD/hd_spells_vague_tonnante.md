@@ -4,7 +4,7 @@
 
 # Vague tonnante
 
-- SRD: [Thunderwave](srd_spells_thunderwave.md)
+- Alias: [Thunderwave](srd_spells_thunderwave.md)
 
 -  Évocation de niveau 1
 

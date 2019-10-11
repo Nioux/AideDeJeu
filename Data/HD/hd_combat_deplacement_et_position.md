@@ -4,7 +4,7 @@
 
 ## Déplacement et position
 
-- AltName: Movement and Position (SRD p91)
+- Alias: Movement and Position (SRD p91)
 - Source: (MDR p286)
 
 Au cours d'un combat, les héros et leurs adversaires sont constamment en mouvement et utilisent souvent leur déplacement ou leur position pour tenter de prendre le dessus sur leurs ennemis.

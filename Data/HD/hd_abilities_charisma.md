@@ -5,7 +5,7 @@
 
 # Charisme
 
-- AltName: Charisma (SRD p82)
+- Alias: Charisma (SRD p82)
 - Source: (MDR p265)
 
 Le Charisme représente votre capacité à interagir avec les autres. Il prend en compte votre confiance en vous et votre éloquence, et est un indicateur du charme et de l'autorité qui se dégagent de vous.

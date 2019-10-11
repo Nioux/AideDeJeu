@@ -5,7 +5,7 @@
 # Bondisseur Aquatique
 
 - Source: (LDM p44)(TOB p406)
-- TOB: Water Leaper
+- Alias: Water Leaper
 -  Créature monstrueuse de Grande taille (G), non alignée
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)

@@ -5,7 +5,7 @@
 # Squelette cheval de guerre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
+- Alias: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 13 (débris de barde)

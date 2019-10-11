@@ -4,7 +4,7 @@
 
 #### Un chemin dégagé jusqu'à la cible
 
-- AltName: A Clear Path to the Target (SRD p102)
+- Alias: A Clear Path to the Target (SRD p102)
 - Source: (MDR p309)
 
 Pour viser quelque chose, le lanceur de sorts doit avoir un itinéraire dégagé jusqu'à sa cible, elle ne doit donc pas se trouver derrière un abri total.

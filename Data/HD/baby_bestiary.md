@@ -11,6 +11,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Aboleth, rejeton
+  Source: (MM p14)(BB2 p14)
+  AltName: Aboleth Spawn
   Type: Aberration
   Size: M
   Alignment: Loyal Mauvais
@@ -48,6 +50,14 @@ SubItems:
       Voir [Aboleth](hd_monsters_aboleth.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p14)(BB2 p14)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Aboleth Spawn<!--/AltName-->
 
 
 
@@ -161,6 +171,10 @@ SubItems:
 
 
 
+    Source: (MM p14)(BB2 p14)
+
+    AltName: Aboleth Spawn
+
     Type: Aberration
 
     Size: M
@@ -200,6 +214,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Ancien dieu, rejeton
+  Source: (MM p16)(BB2 p28)
+  AltName: Elder Godspawn
   Type: Fiélon (titan)
   Size: G
   Alignment: Chaotique Mauvais
@@ -231,6 +247,14 @@ SubItems:
       # <!--Name-->Ancien dieu, rejeton<!--/Name-->
 
 
+
+
+
+      - Source: <!--Source-->(MM p16)(BB2 p28)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Elder Godspawn<!--/AltName-->
 
 
 
@@ -360,6 +384,10 @@ SubItems:
 
 
 
+    Source: (MM p16)(BB2 p28)
+
+    AltName: Elder Godspawn
+
     Type: Fiélon (titan)
 
     Size: G
@@ -399,6 +427,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Archon canin, chiot
+  Source: (MM p18)(BB2 p38)
+  AltName: Hound Archon Pup
   Type: Céleste
   Size: P
   Alignment: Loyal Bon
@@ -430,6 +460,14 @@ SubItems:
       # <!--Name-->Archon canin, chiot<!--/Name-->
 
 
+
+
+
+      - Source: <!--Source-->(MM p18)(BB2 p38)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Hound Archon Pup<!--/AltName-->
 
 
 
@@ -549,6 +587,10 @@ SubItems:
 
 
 
+    Source: (MM p18)(BB2 p38)
+
+    AltName: Hound Archon Pup
+
     Type: Céleste
 
     Size: P
@@ -588,6 +630,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Baku, éléphanteau
+  Source: (MM p20)(BB2 p16)
+  AltName: Baku Calf
   Type: Aberration
   Size: P
   Alignment: Neutre
@@ -618,6 +662,14 @@ SubItems:
       # <!--Name-->Baku, éléphanteau<!--/Name-->
 
 
+
+
+
+      - Source: <!--Source-->(MM p20)(BB2 p16)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Baku Calf<!--/AltName-->
 
 
 
@@ -715,6 +767,10 @@ SubItems:
 
 
 
+    Source: (MM p20)(BB2 p16)
+
+    AltName: Baku Calf
+
     Type: Aberration
 
     Size: P
@@ -752,6 +808,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Balor, brandon
+  Source: (MM p22)(BB2 p18)
+  AltName: Balrog Emberling
   Type: Fiélon
   Size: P
   Alignment: Mauvais
@@ -788,6 +846,14 @@ SubItems:
       Voir [Balor](hd_monsters_balor.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p22)(BB2 p18)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Balrog Emberling<!--/AltName-->
 
 
 
@@ -898,6 +964,10 @@ SubItems:
       _Touché :_ 6 (2d4+1) dégâts perforants plus 3 (1d6) dégâts de feu.
 
 
+
+    Source: (MM p22)(BB2 p18)
+
+    AltName: Balrog Emberling
 
     Type: Fiélon
 
@@ -1073,7 +1143,9 @@ SubItems:
 
 - !MonsterItem
   Family: BabyBestiary
-  Name: Beithir
+  Name: Beithir, Lézardeau
+  Source: (MM p26)(BB2 p20)
+  AltName: Beithir Hatchling
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -1092,18 +1164,26 @@ SubItems:
   Wisdom: 14 (+2)
   Charisma: 12 (+1)
   XP: 200
-  Id: baby_bestiary.md#beithir
+  Id: baby_bestiary.md#beithir-lézardeau
   ParentLink: baby_bestiary.md#monstrueusement-mignons
   ParentName: Monstrueusement mignons
   NameLevel: 1
   AttributesDictionary: >+
-    Name: Beithir
+    Name: Beithir, Lézardeau
 
     Markdown: >+
 
-      # <!--Name-->Beithir<!--/Name-->
+      # <!--Name-->Beithir, Lézardeau<!--/Name-->
 
 
+
+
+
+      - Source: <!--Source-->(MM p26)(BB2 p20)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Beithir Hatchling<!--/AltName-->
 
 
 
@@ -1195,6 +1275,10 @@ SubItems:
 
 
 
+    Source: (MM p26)(BB2 p20)
+
+    AltName: Beithir Hatchling
+
     Type: Créature monstrueuse
 
     Size: M
@@ -1232,6 +1316,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Bulette, chevreau
+  Source: (MM p28)(BB1 p16)
+  AltName: Bulette Billy
   Type: Créature monstrueuse
   Size: M
   Alignment: non aligné
@@ -1267,6 +1353,14 @@ SubItems:
       Voir [Bulette](hd_monsters_bulette.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p28)(BB1 p16)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Bulette Billy<!--/AltName-->
 
 
 
@@ -1342,6 +1436,10 @@ SubItems:
 
 
 
+    Source: (MM p28)(BB1 p16)
+
+    AltName: Bulette Billy
+
     Type: Créature monstrueuse
 
     Size: M
@@ -1377,6 +1475,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Centaure, poulain
+  Source: (MM p30)(BB1 p18)
+  AltName: Centaur Foal
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Bon
@@ -1412,6 +1512,14 @@ SubItems:
       Voir [Centaure](hd_monsters_centaure.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p30)(BB1 p18)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Centaur Foal<!--/AltName-->
 
 
 
@@ -1499,6 +1607,10 @@ SubItems:
 
 
 
+    Source: (MM p30)(BB1 p18)
+
+    AltName: Centaur Foal
+
     Type: Créature monstrueuse
 
     Size: M
@@ -1534,6 +1646,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Cerbère, chiot
+  Source: (MM p32)(BB1 p20)
+  AltName: Cerberus Puppy
   Type: Créature monstrueuse
   Size: M
   Alignment: Neutre Mauvais
@@ -1571,6 +1685,14 @@ SubItems:
       Voir [Cerbère](hd_monsters_cerbere.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p32)(BB1 p20)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Cerberus Puppy<!--/AltName-->
 
 
 
@@ -1660,6 +1782,10 @@ SubItems:
 
 
 
+    Source: (MM p32)(BB1 p20)
+
+    AltName: Cerberus Puppy
+
     Type: Créature monstrueuse
 
     Size: M
@@ -1699,6 +1825,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Chien esquiveur, chiot
+  Source: (MM p34)(BB1 p14)
+  AltName: Blink Puppy
   Type: Fée
   Size: P
   Alignment: Loyal Bon
@@ -1734,6 +1862,14 @@ SubItems:
       Voir [Chien esquiveur](hd_monsters_chien_esquiveur.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p34)(BB1 p14)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Blink Puppy<!--/AltName-->
 
 
 
@@ -1821,6 +1957,10 @@ SubItems:
 
 
 
+    Source: (MM p34)(BB1 p14)
+
+    AltName: Blink Puppy
+
     Type: Fée
 
     Size: P
@@ -1856,6 +1996,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Chimère, lionceau
+  Source: (MM p36)(BB1 p22)
+  AltName: Chimera Cub
   Type: Créature monstrueuse
   Size: M
   Alignment: Chaotique Mauvais
@@ -1891,6 +2033,14 @@ SubItems:
       Voir [Chimère](hd_monsters_chimere.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p36)(BB1 p22)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Chimera Cub<!--/AltName-->
 
 
 
@@ -1996,6 +2146,10 @@ SubItems:
 
 
 
+    Source: (MM p36)(BB1 p22)
+
+    AltName: Chimera Cub
+
     Type: Créature monstrueuse
 
     Size: M
@@ -2031,6 +2185,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Cocatrice, poussin
+  Source: (MM p38)(BB1 p24)
+  AltName: Cockatrice Chick
   Type: Créature monstrueuse
   Size: TP
   Alignment: non aligné
@@ -2063,6 +2219,14 @@ SubItems:
       Voir [Cockatrice](hd_monsters_cockatrice.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p38)(BB1 p24)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Cockatrice Chick<!--/AltName-->
 
 
 
@@ -2124,6 +2288,10 @@ SubItems:
 
 
 
+    Source: (MM p38)(BB1 p24)
+
+    AltName: Cockatrice Chick
+
     Type: Créature monstrueuse
 
     Size: TP
@@ -2155,6 +2323,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Couatl, nouveau-né
+  Source: (MM p40)(BB1 p26)
+  AltName: Couatl Neonate
   Type: Créature monstrueuse
   Size: P
   Alignment: Loyal Bon
@@ -2192,6 +2362,14 @@ SubItems:
       Voir [Couatl](hd_monsters_couatl.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p40)(BB1 p26)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Couatl Neonate<!--/AltName-->
 
 
 
@@ -2303,6 +2481,10 @@ SubItems:
 
 
 
+    Source: (MM p40)(BB1 p26)
+
+    AltName: Couatl Neonate
+
     Type: Créature monstrueuse
 
     Size: P
@@ -2342,6 +2524,8 @@ SubItems:
 - !MonsterItem
   Family: BabyBestiary
   Name: Criard, bouton
+  Source: (MM p42)(BB2 p76)
+  AltName: Shrieker Button
   Type: Plante
   Size: P
   Alignment: non aligné
@@ -2378,6 +2562,14 @@ SubItems:
       Voir [Criard](hd_monsters_criard.md)
 
 
+
+
+
+      - Source: <!--Source-->(MM p42)(BB2 p76)<!--/Source-->
+
+
+
+      - Alias: <!--AltName-->Shrieker Button<!--/AltName-->
 
 
 
@@ -2456,6 +2648,10 @@ SubItems:
       **_Hurlement._** Quand une lumière vive ou une créature s'approche à 9 mètres ou moins du criard, celui-ci émet un hurlement audible jusqu'à 30 mètres. Le criard continue de hurler jusqu'à ce que la source de gêne se déplace hors de portée et pendant ses 1d4 prochains tours.
 
 
+
+    Source: (MM p42)(BB2 p76)
+
+    AltName: Shrieker Button
 
     Type: Plante
 
@@ -12776,6 +12972,8 @@ AttributesDictionary: >+
 
 Voir [Aboleth](hd_monsters_aboleth.md)
 
+- Source: (MM p14)(BB2 p14)
+- Alias: Aboleth Spawn
 -  Aberration de taille M, Loyal Mauvais
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
@@ -12816,6 +13014,8 @@ _Touché :_ 6 (2d4+1) dégâts contondants. Si la cible est une créature, elle 
 
 # Ancien dieu, rejeton
 
+- Source: (MM p16)(BB2 p28)
+- Alias: Elder Godspawn
 -  Fiélon (titan) de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 100 (8d10+56)
@@ -12861,6 +13061,8 @@ _Touché :_ 15 (3d6+5) dégâts perforants et la cible est empoignée (évasion 
 
 # Archon canin, chiot
 
+- Source: (MM p18)(BB2 p38)
+- Alias: Hound Archon Pup
 -  Céleste de taille P, Loyal Bon
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 16 (3d6+6)
@@ -12903,6 +13105,8 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 
 # Baku, éléphanteau
 
+- Source: (MM p20)(BB2 p16)
+- Alias: Baku Calf
 -  Aberration de taille P, Neutre
 - **Classe d'armure** 12
 - **Points de vie** 11 (2d8+2)
@@ -12940,6 +13144,8 @@ _Touché :_ 5 (1d6+2) dégâts psychiques.
 
 Voir [Balor](hd_monsters_balor.md)
 
+- Source: (MM p22)(BB2 p18)
+- Alias: Balrog Emberling
 -  Fiélon de taille P, Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
@@ -13006,8 +13212,10 @@ Voir [Basilic](hd_monsters_basilic.md)
 
 ---
 
-# Beithir
+# Beithir, Lézardeau
 
+- Source: (MM p26)(BB2 p20)
+- Alias: Beithir Hatchling
 -  Créature monstrueuse de taille M, non aligné
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 43 (5d8+20)
@@ -13043,6 +13251,8 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 
 Voir [Bulette](hd_monsters_bulette.md)
 
+- Source: (MM p28)(BB1 p16)
+- Alias: Bulette Billy
 -  Créature monstrueuse de taille M, non aligné
 - **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
@@ -13073,6 +13283,8 @@ Voir [Bulette](hd_monsters_bulette.md)
 
 Voir [Centaure](hd_monsters_centaure.md)
 
+- Source: (MM p30)(BB1 p18)
+- Alias: Centaur Foal
 -  Créature monstrueuse de taille M, Neutre Bon
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -13107,6 +13319,8 @@ _Touché :_ selon arme.
 
 Voir [Cerbère](hd_monsters_cerbere.md)
 
+- Source: (MM p32)(BB1 p20)
+- Alias: Cerberus Puppy
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt, Jungle, Montagnes
 - **Classe d'armure** 13
@@ -13141,6 +13355,8 @@ Voir [Cerbère](hd_monsters_cerbere.md)
 
 Voir [Chien esquiveur](hd_monsters_chien_esquiveur.md)
 
+- Source: (MM p34)(BB1 p14)
+- Alias: Blink Puppy
 -  Fée de taille P, Loyal Bon
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -13175,6 +13391,8 @@ _Touché :_ 1 dégât perforant.
 
 Voir [Chimère](hd_monsters_chimere.md)
 
+- Source: (MM p36)(BB1 p22)
+- Alias: Chimera Cub
 -  Créature monstrueuse de taille M, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
@@ -13215,6 +13433,8 @@ _Touché :_ 6 (2d4+1) dégâts perforants.
 
 Voir [Cockatrice](hd_monsters_cockatrice.md)
 
+- Source: (MM p38)(BB1 p24)
+- Alias: Cockatrice Chick
 -  Créature monstrueuse de taille TP, non aligné
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -13241,6 +13461,8 @@ _Touché :_ 1 dégât perforant et la cible doit réussir un jet de sauvegarde d
 
 Voir [Couatl](hd_monsters_couatl.md)
 
+- Source: (MM p40)(BB1 p26)
+- Alias: Couatl Neonate
 -  Créature monstrueuse de taille P, Loyal Bon
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)
@@ -13282,6 +13504,8 @@ _Touché :_ 2 (1d6-1) dégâts perforants et la cible doit réussir un jet de sa
 
 Voir [Criard](hd_monsters_criard.md)
 
+- Source: (MM p42)(BB2 p76)
+- Alias: Shrieker Button
 -  Plante de taille P, non aligné
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5

@@ -4,7 +4,7 @@
 
 # Contrôle du climat
 
-- SRD: [Control Weather](srd_spells_control_weather.md)
+- Alias: [Control Weather](srd_spells_control_weather.md)
 
 -  Transmutation de niveau 8
 

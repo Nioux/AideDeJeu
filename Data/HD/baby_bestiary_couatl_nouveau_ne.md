@@ -6,6 +6,8 @@
 
 Voir [Couatl](hd_monsters_couatl.md)
 
+- Source: (MM p40)(BB1 p26)
+- Alias: Couatl Neonate
 -  Créature monstrueuse de taille P, Loyal Bon
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 16 (armure naturelle)

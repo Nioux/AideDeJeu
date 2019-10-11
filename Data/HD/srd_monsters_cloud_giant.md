@@ -4,7 +4,7 @@
 
 # Cloud Giant
 
-- CEO: [Géant des nuages](hd_monsters_geant_des_nuages.md)
+- Alias: [Géant des nuages](hd_monsters_geant_des_nuages.md)
 -  Huge giant, neutral good (50 %) or neutral evil (50 %)
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 200 (16d12 + 96)

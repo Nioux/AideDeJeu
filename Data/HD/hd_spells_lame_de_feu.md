@@ -4,7 +4,7 @@
 
 # Lame de feu
 
-- SRD: [Flame Blade](srd_spells_flame_blade.md)
+- Alias: [Flame Blade](srd_spells_flame_blade.md)
 
 -  Évocation de niveau 2
 

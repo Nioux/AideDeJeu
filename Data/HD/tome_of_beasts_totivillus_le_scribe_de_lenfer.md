@@ -5,7 +5,7 @@
 # Totivillus, le Scribe de l'Enfer
 
 - Source: (LDM p104)(TOB p101)
-- TOB: Totivillus, Scribe of Hell
+- Alias: Totivillus, Scribe of Hell
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 19 (armure naturelle)
 - **Points de vie** 299 (26d8+182)

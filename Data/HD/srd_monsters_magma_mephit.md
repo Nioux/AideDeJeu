@@ -4,7 +4,7 @@
 
 # Magma Mephit
 
-- CEO: [Méphite de magma](hd_monsters_mephite_de_magma.md)
+- Alias: [Méphite de magma](hd_monsters_mephite_de_magma.md)
 -  Small elemental, neutral evil
 - **Armor Class** 11
 - **Hit Points** 22 (5d6 + 5)

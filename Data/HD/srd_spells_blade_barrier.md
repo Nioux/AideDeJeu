@@ -4,7 +4,7 @@
 
 # Blade Barrier
 
-- MDR: [Barrière de lames](hd_spells_barriere_de_lames.md)
+- Alias: [Barrière de lames](hd_spells_barriere_de_lames.md)
 - Source: (SRD p122)
 -  6th-level evocation
 - **Casting Time :** 1 action

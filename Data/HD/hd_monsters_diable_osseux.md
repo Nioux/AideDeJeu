@@ -5,7 +5,7 @@
 # Diable osseux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bone Devil](srd_monsters_bone_devil.md)
+- Alias: [Bone Devil](srd_monsters_bone_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)

@@ -5,7 +5,7 @@
 # Dragon d'or adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
+- Alias: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)

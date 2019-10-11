@@ -4,7 +4,7 @@
 
 # Silence
 
-- MDR: [Silence](hd_spells_silence.md)
+- Alias: [Silence](hd_spells_silence.md)
 - Source: (SRD p179)
 -  2nd-level illusion (ritual)
 - **Casting Time :** 1 action

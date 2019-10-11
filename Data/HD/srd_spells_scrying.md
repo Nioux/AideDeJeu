@@ -4,7 +4,7 @@
 
 # Scrying
 
-- MDR: [Scrutation](hd_spells_scrutation.md)
+- Alias: [Scrutation](hd_spells_scrutation.md)
 - Source: (SRD p176)
 -  5th-level divination
 - **Casting Time :** 10 minutes

@@ -4,7 +4,7 @@
 
 ### Regard charmeur
 
-- AltName: Eyes of Charming (SRD p220)
+- Alias: Eyes of Charming (SRD p220)
 - Source: (CDC p180)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

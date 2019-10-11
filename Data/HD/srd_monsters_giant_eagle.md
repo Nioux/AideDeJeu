@@ -4,7 +4,7 @@
 
 # Giant Eagle
 
-- CEO: [Aigle géant](hd_monsters_aigle_geant.md)
+- Alias: [Aigle géant](hd_monsters_aigle_geant.md)
 - Source: (SRD p375)
 -  Large beast, neutral good
 - **Armor Class** 13

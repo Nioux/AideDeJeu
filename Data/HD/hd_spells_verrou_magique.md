@@ -4,7 +4,7 @@
 
 # Verrou magique
 
-- SRD: [Arcane Lock](srd_spells_arcane_lock.md)
+- Alias: [Arcane Lock](srd_spells_arcane_lock.md)
 
 -  Abjuration de niveau 2
 

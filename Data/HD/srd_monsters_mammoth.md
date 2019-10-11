@@ -4,7 +4,7 @@
 
 # Mammoth
 
-- CEO: [Mammouth](hd_monsters_mammouth.md)
+- Alias: [Mammouth](hd_monsters_mammouth.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 126 (11d12 + 55)

@@ -5,7 +5,7 @@
 
 # Clerc
 
-- AltName: Cleric (SRD p15)
+- Alias: Cleric (SRD p15)
 - Source: (MDR p129)
 
 En tant que clerc, vous bénéficiez des aptitudes de classe suivantes.

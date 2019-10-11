@@ -4,7 +4,7 @@
 
 # Ancient Brass Dragon
 
-- CEO: [Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)
+- Alias: [Dragon d'airain vénérable](hd_monsters_dragon_dairain_venerable.md)
 -  Gargantuan dragon, chaotic good
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 297 (17d20 + 119)

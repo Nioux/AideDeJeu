@@ -4,7 +4,7 @@
 
 ### Corde d'escalade
 
-- AltName: Rope of Climbing (SRD p241)
+- Alias: Rope of Climbing (SRD p241)
 - Source: (CDC p161)
 -  Objet merveilleux, peu courant
 

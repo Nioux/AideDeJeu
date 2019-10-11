@@ -4,7 +4,7 @@
 
 # Saber-Toothed Tiger
 
-- CEO: [Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)
+- Alias: [Tigre à dents de sabre](hd_monsters_tigre_a_dents_de_sabre.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 52 (7d10 + 14)

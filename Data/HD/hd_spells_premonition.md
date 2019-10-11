@@ -4,7 +4,7 @@
 
 # Prémonition
 
-- SRD: [Foresight](srd_spells_foresight.md)
+- Alias: [Foresight](srd_spells_foresight.md)
 
 -  Divination de niveau 9
 

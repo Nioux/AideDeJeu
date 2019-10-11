@@ -5,7 +5,7 @@
 # Sahuagin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sahuagin](srd_monsters_sahuagin.md)
+- Alias: [Sahuagin](srd_monsters_sahuagin.md)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)

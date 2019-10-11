@@ -4,7 +4,7 @@
 
 ### Sceptre de vigilance
 
-- AltName: Rod of Alertness (SRD p240)
+- Alias: Rod of Alertness (SRD p240)
 - Source: (CDC p185)
 -  Sceptre, très rare (harmonisation requise)
 

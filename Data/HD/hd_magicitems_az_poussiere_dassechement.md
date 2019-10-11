@@ -4,7 +4,7 @@
 
 ### Poussière d'assèchement
 
-- AltName: Dust of Dryness (SRD p219)
+- Alias: Dust of Dryness (SRD p219)
 - Source: (CDC p179)
 -  Objet merveilleux, peu courant
 

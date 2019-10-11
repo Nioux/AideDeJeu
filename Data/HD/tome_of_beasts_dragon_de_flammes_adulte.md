@@ -5,7 +5,7 @@
 # Dragon De Flammes, Adulte
 
 - Source: (LDM p126)(TOB p129)
-- TOB: Adult Flame Dragon
+- Alias: Adult Flame Dragon
 -  Dragon de Très Grande taille (TG), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)

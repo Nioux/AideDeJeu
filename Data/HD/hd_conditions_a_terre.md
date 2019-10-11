@@ -4,7 +4,7 @@
 
 # À terre
 
-- AltName: [Prone](srd_conditions_prone.md)
+- Alias: [Prone](srd_conditions_prone.md)
 
 * Une créature à terre n'a plus l'option que de ramper pour se déplacer, à moins de se relever et de mettre ainsi un terme à son état.
 

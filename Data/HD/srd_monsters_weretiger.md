@@ -4,7 +4,7 @@
 
 # Weretiger
 
-- CEO: [Tigre-garou](hd_monsters_tigre_garou.md)
+- Alias: [Tigre-garou](hd_monsters_tigre_garou.md)
 -  Medium humanoid (human, shapechanger), neutral
 - **Armor Class** 12
 - **Hit Points** 120 (16d8 + 48)

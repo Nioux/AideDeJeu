@@ -5,7 +5,7 @@
 
 # Cercle de la terre
 
-- AltName: Circle of the Land (SRD p21)
+- Alias: Circle of the Land (SRD p21)
 - Source: (MDR p145)
 
 Le cercle de la terre réunit des mystiques et des sages qui perpétuent d'antiques connaissances et rites grâce à une tradition orale très développée. Ces druides se rassemblent dans des cercles d'arbres sacrés ou de pierres dressées pour se murmurer des secrets primordiaux en druidique. Les membres les plus sages du cercle font office de grands prêtres dans les communautés qui respectent encore l'antique religion, et conseillent leurs dirigeants. En tant que membre du cercle, votre magie est influencée par le type de terrain sur lequel vous avez été initié aux rites mystérieux du cercle.

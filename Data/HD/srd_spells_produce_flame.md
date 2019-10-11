@@ -4,7 +4,7 @@
 
 # Produce Flame
 
-- MDR: [Produire une flamme](hd_spells_produire_une_flamme.md)
+- Alias: [Produire une flamme](hd_spells_produire_une_flamme.md)
 - Source: (SRD p172)
 -  Conjuration cantrip
 - **Casting Time :** 1 action

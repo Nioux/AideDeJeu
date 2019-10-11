@@ -5,7 +5,7 @@
 # Homme-Rat
 
 - Source: (LDM p245)(TOB p320)
-- TOB: Ratfolk
+- Alias: Ratfolk
 -  Humanoïde (homme-rat) de Petite taille (P), neutre
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 14 (armure de cuir clouté)

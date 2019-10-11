@@ -4,7 +4,7 @@
 
 # Command
 
-- MDR: [Injonction](hd_spells_injonction.md)
+- Alias: [Injonction](hd_spells_injonction.md)
 - Source: (SRD p125)
 -  1st-level enchantment
 - **Casting Time :** 1 action

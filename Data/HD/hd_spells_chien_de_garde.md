@@ -4,7 +4,7 @@
 
 # Chien de garde
 
-- SRD: [Faithful Hound](srd_spells_faithful_hound.md)
+- Alias: [Faithful Hound](srd_spells_faithful_hound.md)
 
 -  Invocation de niveau 4
 

@@ -4,7 +4,7 @@
 
 # Giant Hyena
 
-- CEO: [Hyène géante](hd_monsters_hyene_geante.md)
+- Alias: [Hyène géante](hd_monsters_hyene_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 45 (6d10 + 12)

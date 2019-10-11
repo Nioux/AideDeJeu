@@ -5,7 +5,7 @@
 
 # Moine
 
-- AltName: Monk (SRD p26)
+- Alias: Monk (SRD p26)
 - Source: (MDR p176)
 
 En tant que moine, vous bénéficiez des aptitudes de classe suivantes.

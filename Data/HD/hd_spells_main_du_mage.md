@@ -4,7 +4,7 @@
 
 # Main du mage
 
-- SRD: [Mage Hand](srd_spells_mage_hand.md)
+- Alias: [Mage Hand](srd_spells_mage_hand.md)
 
 -  Invocation , tour de magie
 

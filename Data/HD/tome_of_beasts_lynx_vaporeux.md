@@ -5,7 +5,7 @@
 # Lynx Vaporeux
 
 - Source: (LDM p277)(TOB p398)
-- TOB: Vapor Lynx
+- Alias: Vapor Lynx
 -  Créature monstrueuse de Grande taille (G), chaotique neutre
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)

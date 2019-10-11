@@ -4,7 +4,7 @@
 
 # Green Hag
 
-- CEO: [Guenaude verte](hd_monsters_guenaude_verte.md)
+- Alias: [Guenaude verte](hd_monsters_guenaude_verte.md)
 -  Medium fey, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 82 (11d8 + 33)

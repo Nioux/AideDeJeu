@@ -4,7 +4,7 @@
 
 # Envoi de message
 
-- SRD: [Sending](srd_spells_sending.md)
+- Alias: [Sending](srd_spells_sending.md)
 
 -  Évocation de niveau 3
 

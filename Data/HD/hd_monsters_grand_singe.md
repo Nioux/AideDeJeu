@@ -5,7 +5,7 @@
 # Grand singe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ape](srd_monsters_ape.md)
+- Alias: [Ape](srd_monsters_ape.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Jungle, Montagnes
 - **Classe d'armure** 12

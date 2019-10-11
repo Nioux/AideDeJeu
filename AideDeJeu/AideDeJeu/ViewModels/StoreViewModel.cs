@@ -739,8 +739,8 @@ namespace AideDeJeu.ViewModels
                 modelBuilder.Entity<ClassProficienciesItem>();
                 modelBuilder.Entity<SkillItem>();
 
-                modelBuilder.Entity<Items>();
-                modelBuilder.Entity<Item>();
+                modelBuilder.Entity<Items>().HasIndex(i => new { i.Id, i.Name, i.AltNameText, i.NormalizedName, i.NormalizedAltName });
+                modelBuilder.Entity<Item>().HasIndex(i => new { i.Id, i.Name, i.AltNameText, i.NormalizedName, i.NormalizedAltName });
 
             }
         }

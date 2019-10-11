@@ -4,7 +4,7 @@
 
 # Gaseous Form
 
-- MDR: [Forme gazeuse](hd_spells_forme_gazeuse.md)
+- Alias: [Forme gazeuse](hd_spells_forme_gazeuse.md)
 - Source: (SRD p148)
 -  3th-level transmutation
 - **Casting Time :** 1 action

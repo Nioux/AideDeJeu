@@ -4,7 +4,7 @@
 
 # Mur de pierre
 
-- SRD: [Wall of Stone](srd_spells_wall_of_stone.md)
+- Alias: [Wall of Stone](srd_spells_wall_of_stone.md)
 
 -  Évocation de niveau 5
 

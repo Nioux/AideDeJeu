@@ -4,7 +4,7 @@
 
 # Giant Vulture
 
-- CEO: [Vautour géant](hd_monsters_vautour_geant.md)
+- Alias: [Vautour géant](hd_monsters_vautour_geant.md)
 -  Large beast, neutral evil
 - **Armor Class** 10
 - **Hit Points** 22 (3d10 + 6)

@@ -4,7 +4,7 @@
 
 ### Bouclier de protection contre la magie
 
-- AltName: Spellguard Shield (SRD p242)
+- Alias: Spellguard Shield (SRD p242)
 - Source: (CDC p153)
 -  Armure (bouclier), très rare (harmonisation requise)
 

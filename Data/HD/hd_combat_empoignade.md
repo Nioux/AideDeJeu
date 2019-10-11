@@ -4,7 +4,7 @@
 
 #### Empoignade
 
-- AltName: Grappling (SRD p95)
+- Alias: Grappling (SRD p95)
 - Source: (MDR p292)
 
 Quand vous tentez d'empoigner une créature ou de lutter avec elle, vous utilisez l'action attaquer pour faire une attaque de corps-à-corps spéciale appelée empoignade. Si vous avez la possibilité de faire plusieurs attaques pendant votre action attaquer, l'empoignade remplace l'une d'entre elle.

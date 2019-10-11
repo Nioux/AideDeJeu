@@ -4,7 +4,7 @@
 
 # Control Water
 
-- MDR: [Contrôle de l'eau](hd_spells_controle_de_leau.md)
+- Alias: [Contrôle de l'eau](hd_spells_controle_de_leau.md)
 - Source: (SRD p130)
 -  4th-level transmutation
 - **Casting Time :** 1 action

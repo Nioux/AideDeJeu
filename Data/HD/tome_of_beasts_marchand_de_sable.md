@@ -5,7 +5,7 @@
 # Marchand De Sable
 
 - Source: (LDM p287)(TOB p333)
-- TOB: Sandman
+- Alias: Sandman
 -  Céleste de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 82 (11d8+33)

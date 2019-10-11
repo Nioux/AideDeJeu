@@ -4,7 +4,7 @@
 
 # Assassin imaginaire
 
-- SRD: [Phantasmal Killer](srd_spells_phantasmal_killer.md)
+- Alias: [Phantasmal Killer](srd_spells_phantasmal_killer.md)
 
 -  Illusion de niveau 4
 

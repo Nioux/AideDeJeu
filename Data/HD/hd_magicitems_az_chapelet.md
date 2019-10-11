@@ -4,7 +4,7 @@
 
 ### Chapelet
 
-- AltName: Necklace of Prayer Beads (SRD p231)
+- Alias: Necklace of Prayer Beads (SRD p231)
 - Source: (CDC p159)
 -  Objet merveilleux, rare (harmonisation requise par un clerc, un druide ou un paladin)
 

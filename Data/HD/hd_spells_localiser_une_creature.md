@@ -4,7 +4,7 @@
 
 # Localiser une créature
 
-- SRD: [Locate Creature](srd_spells_locate_creature.md)
+- Alias: [Locate Creature](srd_spells_locate_creature.md)
 
 -  Divination de niveau 4
 

@@ -4,7 +4,7 @@
 
 # Nuage puant
 
-- SRD: [Stinking Cloud](srd_spells_stinking_cloud.md)
+- Alias: [Stinking Cloud](srd_spells_stinking_cloud.md)
 
 -  Invocation de niveau 3
 

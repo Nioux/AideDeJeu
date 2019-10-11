@@ -5,7 +5,7 @@
 # Kraken
 
 - Source: (CEO p)(SRD p)
-- SRD: [Kraken](srd_monsters_kraken.md)
+- Alias: [Kraken](srd_monsters_kraken.md)
 -  Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 18 (armure naturelle)

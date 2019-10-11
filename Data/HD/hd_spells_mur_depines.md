@@ -4,7 +4,7 @@
 
 # Mur d'épines
 
-- SRD: [Wall of Thorns](srd_spells_wall_of_thorns.md)
+- Alias: [Wall of Thorns](srd_spells_wall_of_thorns.md)
 
 -  Invocation de niveau 6
 

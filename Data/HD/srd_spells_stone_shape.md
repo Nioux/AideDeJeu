@@ -4,7 +4,7 @@
 
 # Stone Shape
 
-- MDR: [Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)
+- Alias: [Façonnage de la pierre](hd_spells_faconnage_de_la_pierre.md)
 - Source: (SRD p183)
 -  4th-level transmutation
 - **Casting Time :** 1 action

@@ -45,7 +45,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Enlarge/Reduce](srd_spells_enlargereduce.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Enlarge/Reduce](srd_spells_enlargereduce.md)<!--/AltName-->
 
 
 
@@ -213,7 +213,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Aid](srd_spells_aid.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aid](srd_spells_aid.md)<!--/AltName-->
 
 
 
@@ -350,7 +350,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Alarm](srd_spells_alarm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Alarm](srd_spells_alarm.md)<!--/AltName-->
 
 
 
@@ -502,7 +502,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Planar Ally](srd_spells_planar_ally.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Planar Ally](srd_spells_planar_ally.md)<!--/AltName-->
 
 
 
@@ -727,7 +727,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Enhance Ability](srd_spells_enhance_ability.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Enhance Ability](srd_spells_enhance_ability.md)<!--/AltName-->
 
 
 
@@ -955,7 +955,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Animal Friendship](srd_spells_animal_friendship.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animal Friendship](srd_spells_animal_friendship.md)<!--/AltName-->
 
 
 
@@ -1091,7 +1091,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Animate Dead](srd_spells_animate_dead.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animate Dead](srd_spells_animate_dead.md)<!--/AltName-->
 
 
 
@@ -1272,7 +1272,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Animate Objects](srd_spells_animate_objects.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animate Objects](srd_spells_animate_objects.md)<!--/AltName-->
 
 
 
@@ -1558,7 +1558,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Calm Emotions](srd_spells_calm_emotions.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Calm Emotions](srd_spells_calm_emotions.md)<!--/AltName-->
 
 
 
@@ -1708,7 +1708,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Seeming](srd_spells_seeming.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Seeming](srd_spells_seeming.md)<!--/AltName-->
 
 
 
@@ -1903,7 +1903,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Find Familiar](srd_spells_find_familiar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Find Familiar](srd_spells_find_familiar.md)<!--/AltName-->
 
 
 
@@ -2116,7 +2116,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Call Lightning](srd_spells_call_lightning.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Call Lightning](srd_spells_call_lightning.md)<!--/AltName-->
 
 
 
@@ -2412,7 +2412,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magic Weapon](srd_spells_magic_weapon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magic Weapon](srd_spells_magic_weapon.md)<!--/AltName-->
 
 
 
@@ -2662,7 +2662,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spiritual Weapon](srd_spells_spiritual_weapon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spiritual Weapon](srd_spells_spiritual_weapon.md)<!--/AltName-->
 
 
 
@@ -2841,7 +2841,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mage Armor](srd_spells_mage_armor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mage Armor](srd_spells_mage_armor.md)<!--/AltName-->
 
 
 
@@ -2960,7 +2960,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Time Stop](srd_spells_time_stop.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Time Stop](srd_spells_time_stop.md)<!--/AltName-->
 
 
 
@@ -3091,7 +3091,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Acid Splash](srd_spells_acid_splash.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Acid Splash](srd_spells_acid_splash.md)<!--/AltName-->
 
 
 
@@ -3225,7 +3225,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Phantasmal Killer](srd_spells_phantasmal_killer.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Phantasmal Killer](srd_spells_phantasmal_killer.md)<!--/AltName-->
 
 
 
@@ -3391,7 +3391,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Guidance](srd_spells_guidance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guidance](srd_spells_guidance.md)<!--/AltName-->
 
 
 
@@ -3512,7 +3512,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Augury](srd_spells_augury.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Augury](srd_spells_augury.md)<!--/AltName-->
 
 
 
@@ -3935,7 +3935,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)<!--/AltName-->
 
 
 
@@ -4102,7 +4102,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Holy Aura](srd_spells_holy_aura.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Holy Aura](srd_spells_holy_aura.md)<!--/AltName-->
 
 
 
@@ -4238,7 +4238,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Glibness](srd_spells_glibness.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Glibness](srd_spells_glibness.md)<!--/AltName-->
 
 
 
@@ -4355,7 +4355,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Goodberry](srd_spells_goodberry.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Goodberry](srd_spells_goodberry.md)<!--/AltName-->
 
 
 
@@ -4505,7 +4505,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Guiding Bolt](srd_spells_guiding_bolt.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guiding Bolt](srd_spells_guiding_bolt.md)<!--/AltName-->
 
 
 
@@ -4640,7 +4640,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Banishment](srd_spells_banishment.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Banishment](srd_spells_banishment.md)<!--/AltName-->
 
 
 
@@ -4838,7 +4838,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blade Barrier](srd_spells_blade_barrier.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blade Barrier](srd_spells_blade_barrier.md)<!--/AltName-->
 
 
 
@@ -4975,7 +4975,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bless](srd_spells_bless.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bless](srd_spells_bless.md)<!--/AltName-->
 
 
 
@@ -5209,7 +5209,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Inflict Wounds](srd_spells_inflict_wounds.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Inflict Wounds](srd_spells_inflict_wounds.md)<!--/AltName-->
 
 
 
@@ -5344,7 +5344,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magic Mouth](srd_spells_magic_mouth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magic Mouth](srd_spells_magic_mouth.md)<!--/AltName-->
 
 
 
@@ -5511,7 +5511,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shield](srd_spells_shield.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shield](srd_spells_shield.md)<!--/AltName-->
 
 
 
@@ -5630,7 +5630,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fire Shield](srd_spells_fire_shield.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fire Shield](srd_spells_fire_shield.md)<!--/AltName-->
 
 
 
@@ -5782,7 +5782,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shield of Faith](srd_spells_shield_of_faith.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shield of Faith](srd_spells_shield_of_faith.md)<!--/AltName-->
 
 
 
@@ -5904,7 +5904,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Poison Spray](srd_spells_poison_spray.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Poison Spray](srd_spells_poison_spray.md)<!--/AltName-->
 
 
 
@@ -6038,7 +6038,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fireball](srd_spells_fireball.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fireball](srd_spells_fireball.md)<!--/AltName-->
 
 
 
@@ -6190,7 +6190,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)<!--/AltName-->
 
 
 
@@ -6389,7 +6389,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gust of Wind](srd_spells_gust_of_wind.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gust of Wind](srd_spells_gust_of_wind.md)<!--/AltName-->
 
 
 
@@ -6557,7 +6557,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shatter](srd_spells_shatter.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shatter](srd_spells_shatter.md)<!--/AltName-->
 
 
 
@@ -6880,7 +6880,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Forcecage](srd_spells_forcecage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Forcecage](srd_spells_forcecage.md)<!--/AltName-->
 
 
 
@@ -7076,7 +7076,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Vampiric Touch](srd_spells_vampiric_touch.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vampiric Touch](srd_spells_vampiric_touch.md)<!--/AltName-->
 
 
 
@@ -7370,7 +7370,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blindness/Deafness](srd_spells_blindnessdeafness.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blindness/Deafness](srd_spells_blindnessdeafness.md)<!--/AltName-->
 
 
 
@@ -7517,7 +7517,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Circle of Death](srd_spells_circle_of_death.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Circle of Death](srd_spells_circle_of_death.md)<!--/AltName-->
 
 
 
@@ -7652,7 +7652,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Teleportation Circle](srd_spells_teleportation_circle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Teleportation Circle](srd_spells_teleportation_circle.md)<!--/AltName-->
 
 
 
@@ -7831,7 +7831,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magic Circle](srd_spells_magic_circle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magic Circle](srd_spells_magic_circle.md)<!--/AltName-->
 
 
 
@@ -8057,7 +8057,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Chain Lightning](srd_spells_chain_lightning.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chain Lightning](srd_spells_chain_lightning.md)<!--/AltName-->
 
 
 
@@ -8239,7 +8239,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Antimagic Field](srd_spells_antimagic_field.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Antimagic Field](srd_spells_antimagic_field.md)<!--/AltName-->
 
 
 
@@ -8498,7 +8498,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shapechange](srd_spells_shapechange.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shapechange](srd_spells_shapechange.md)<!--/AltName-->
 
 
 
@@ -8726,7 +8726,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Plane Shift](srd_spells_plane_shift.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Plane Shift](srd_spells_plane_shift.md)<!--/AltName-->
 
 
 
@@ -8891,7 +8891,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Charm Person](srd_spells_charm_person.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Charm Person](srd_spells_charm_person.md)<!--/AltName-->
 
 
 
@@ -9026,7 +9026,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Heat Metal](srd_spells_heat_metal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Heat Metal](srd_spells_heat_metal.md)<!--/AltName-->
 
 
 
@@ -9209,7 +9209,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Faithful Hound](srd_spells_faithful_hound.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Faithful Hound](srd_spells_faithful_hound.md)<!--/AltName-->
 
 
 
@@ -9458,7 +9458,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Clairvoyance](srd_spells_clairvoyance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Clairvoyance](srd_spells_clairvoyance.md)<!--/AltName-->
 
 
 
@@ -9625,7 +9625,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blink](srd_spells_blink.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blink](srd_spells_blink.md)<!--/AltName-->
 
 
 
@@ -9759,7 +9759,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Clone](srd_spells_clone.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Clone](srd_spells_clone.md)<!--/AltName-->
 
 
 
@@ -9893,7 +9893,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Geas](srd_spells_geas.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Geas](srd_spells_geas.md)<!--/AltName-->
 
 
 
@@ -10085,7 +10085,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Secret Chest](srd_spells_secret_chest.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Secret Chest](srd_spells_secret_chest.md)<!--/AltName-->
 
 
 
@@ -10514,7 +10514,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flame Strike](srd_spells_flame_strike.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flame Strike](srd_spells_flame_strike.md)<!--/AltName-->
 
 
 
@@ -10665,7 +10665,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Speak with Animals](srd_spells_speak_with_animals.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Speak with Animals](srd_spells_speak_with_animals.md)<!--/AltName-->
 
 
 
@@ -10786,7 +10786,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Speak with Dead](srd_spells_speak_with_dead.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Speak with Dead](srd_spells_speak_with_dead.md)<!--/AltName-->
 
 
 
@@ -10921,7 +10921,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Speak with Plants](srd_spells_speak_with_plants.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Speak with Plants](srd_spells_speak_with_plants.md)<!--/AltName-->
 
 
 
@@ -11101,7 +11101,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Commune](srd_spells_commune.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Commune](srd_spells_commune.md)<!--/AltName-->
 
 
 
@@ -11254,7 +11254,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Commune with Nature](srd_spells_commune_with_nature.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Commune with Nature](srd_spells_commune_with_nature.md)<!--/AltName-->
 
 
 
@@ -11776,7 +11776,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Comprehend Languages](srd_spells_comprehend_languages.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Comprehend Languages](srd_spells_comprehend_languages.md)<!--/AltName-->
 
 
 
@@ -11914,7 +11914,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Compulsion](srd_spells_compulsion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Compulsion](srd_spells_compulsion.md)<!--/AltName-->
 
 
 
@@ -12050,7 +12050,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cone of Cold](srd_spells_cone_of_cold.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cone of Cold](srd_spells_cone_of_cold.md)<!--/AltName-->
 
 
 
@@ -12202,7 +12202,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Confusion](srd_spells_confusion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Confusion](srd_spells_confusion.md)<!--/AltName-->
 
 
 
@@ -12449,7 +12449,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Chill Touch](srd_spells_chill_touch.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chill Touch](srd_spells_chill_touch.md)<!--/AltName-->
 
 
 
@@ -12612,7 +12612,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Contact Other Plane](srd_spells_contact_other_plane.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contact Other Plane](srd_spells_contact_other_plane.md)<!--/AltName-->
 
 
 
@@ -12760,7 +12760,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Contagion](srd_spells_contagion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contagion](srd_spells_contagion.md)<!--/AltName-->
 
 
 
@@ -13043,7 +13043,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Harm](srd_spells_harm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Harm](srd_spells_harm.md)<!--/AltName-->
 
 
 
@@ -13162,7 +13162,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Contingency](srd_spells_contingency.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Contingency](srd_spells_contingency.md)<!--/AltName-->
 
 
 
@@ -13326,7 +13326,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Counterspell](srd_spells_counterspell.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Counterspell](srd_spells_counterspell.md)<!--/AltName-->
 
 
 
@@ -13474,7 +13474,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Control Water](srd_spells_control_water.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Control Water](srd_spells_control_water.md)<!--/AltName-->
 
 
 
@@ -13703,7 +13703,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Control Weather](srd_spells_control_weather.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Control Weather](srd_spells_control_weather.md)<!--/AltName-->
 
 
 
@@ -14152,7 +14152,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Instant Summons](srd_spells_instant_summons.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Instant Summons](srd_spells_instant_summons.md)<!--/AltName-->
 
 
 
@@ -14335,7 +14335,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Antilife Shell](srd_spells_antilife_shell.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Antilife Shell](srd_spells_antilife_shell.md)<!--/AltName-->
 
 
 
@@ -14486,7 +14486,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Rope Trick](srd_spells_rope_trick.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rope Trick](srd_spells_rope_trick.md)<!--/AltName-->
 
 
 
@@ -14667,7 +14667,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Color Spray](srd_spells_color_spray.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Color Spray](srd_spells_color_spray.md)<!--/AltName-->
 
 
 
@@ -14818,7 +14818,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Creation](srd_spells_creation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Creation](srd_spells_creation.md)<!--/AltName-->
 
 
 
@@ -15074,7 +15074,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Create Undead](srd_spells_create_undead.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Create Undead](srd_spells_create_undead.md)<!--/AltName-->
 
 
 
@@ -15284,7 +15284,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Create Food and Water](srd_spells_create_food_and_water.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Create Food and Water](srd_spells_create_food_and_water.md)<!--/AltName-->
 
 
 
@@ -15403,7 +15403,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Create or Destroy Water](srd_spells_create_or_destroy_water.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Create or Destroy Water](srd_spells_create_or_destroy_water.md)<!--/AltName-->
 
 
 
@@ -15585,7 +15585,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spike Growth](srd_spells_spike_growth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spike Growth](srd_spells_spike_growth.md)<!--/AltName-->
 
 
 
@@ -15722,7 +15722,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Plant Growth](srd_spells_plant_growth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Plant Growth](srd_spells_plant_growth.md)<!--/AltName-->
 
 
 
@@ -15900,7 +15900,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Irresistible Dance](srd_spells_irresistible_dance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Irresistible Dance](srd_spells_irresistible_dance.md)<!--/AltName-->
 
 
 
@@ -16047,7 +16047,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Knock](srd_spells_knock.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Knock](srd_spells_knock.md)<!--/AltName-->
 
 
 
@@ -16193,7 +16193,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Disguise Self](srd_spells_disguise_self.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Disguise Self](srd_spells_disguise_self.md)<!--/AltName-->
 
 
 
@@ -16340,7 +16340,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Demiplane](srd_spells_demiplane.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Demiplane](srd_spells_demiplane.md)<!--/AltName-->
 
 
 
@@ -16473,7 +16473,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Move Earth](srd_spells_move_earth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Move Earth](srd_spells_move_earth.md)<!--/AltName-->
 
 
 
@@ -16641,7 +16641,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Disintegrate](srd_spells_disintegrate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Disintegrate](srd_spells_disintegrate.md)<!--/AltName-->
 
 
 
@@ -16956,7 +16956,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Detect Magic](srd_spells_detect_magic.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Detect Magic](srd_spells_detect_magic.md)<!--/AltName-->
 
 
 
@@ -17095,7 +17095,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Detect Thoughts](srd_spells_detect_thoughts.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Detect Thoughts](srd_spells_detect_thoughts.md)<!--/AltName-->
 
 
 
@@ -17338,7 +17338,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Detect Evil and Good](srd_spells_detect_evil_and_good.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Detect Evil and Good](srd_spells_detect_evil_and_good.md)<!--/AltName-->
 
 
 
@@ -17476,7 +17476,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)<!--/AltName-->
 
 
 
@@ -17617,7 +17617,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Floating Disk](srd_spells_floating_disk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Floating Disk](srd_spells_floating_disk.md)<!--/AltName-->
 
 
 
@@ -17784,7 +17784,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dispel Magic](srd_spells_dispel_magic.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dispel Magic](srd_spells_dispel_magic.md)<!--/AltName-->
 
 
 
@@ -17919,7 +17919,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)<!--/AltName-->
 
 
 
@@ -18088,7 +18088,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Divination](srd_spells_divination.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Divination](srd_spells_divination.md)<!--/AltName-->
 
 
 
@@ -18240,7 +18240,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Finger of Death](srd_spells_finger_of_death.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Finger of Death](srd_spells_finger_of_death.md)<!--/AltName-->
 
 
 
@@ -18374,7 +18374,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dominate Person](srd_spells_dominate_person.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dominate Person](srd_spells_dominate_person.md)<!--/AltName-->
 
 
 
@@ -18600,7 +18600,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dominate Monster](srd_spells_dominate_monster.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dominate Monster](srd_spells_dominate_monster.md)<!--/AltName-->
 
 
 
@@ -18811,7 +18811,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dominate Beast](srd_spells_dominate_beast.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dominate Beast](srd_spells_dominate_beast.md)<!--/AltName-->
 
 
 
@@ -19023,7 +19023,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gentle Repose](srd_spells_gentle_repose.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gentle Repose](srd_spells_gentle_repose.md)<!--/AltName-->
 
 
 
@@ -19160,7 +19160,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Druidcraft](srd_spells_druidcraft.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Druidcraft](srd_spells_druidcraft.md)<!--/AltName-->
 
 
 
@@ -19339,7 +19339,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lightning Bolt](srd_spells_lightning_bolt.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lightning Bolt](srd_spells_lightning_bolt.md)<!--/AltName-->
 
 
 
@@ -19635,7 +19635,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sunburst](srd_spells_sunburst.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sunburst](srd_spells_sunburst.md)<!--/AltName-->
 
 
 
@@ -19800,7 +19800,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Prismatic Spray](srd_spells_prismatic_spray.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prismatic Spray](srd_spells_prismatic_spray.md)<!--/AltName-->
 
 
 
@@ -20024,7 +20024,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Imprisonment](srd_spells_imprisonment.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Imprisonment](srd_spells_imprisonment.md)<!--/AltName-->
 
 
 
@@ -20325,7 +20325,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Entangle](srd_spells_entangle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Entangle](srd_spells_entangle.md)<!--/AltName-->
 
 
 
@@ -20476,7 +20476,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Planar Binding](srd_spells_planar_binding.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Planar Binding](srd_spells_planar_binding.md)<!--/AltName-->
 
 
 
@@ -20627,7 +20627,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sending](srd_spells_sending.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sending](srd_spells_sending.md)<!--/AltName-->
 
 
 
@@ -20762,7 +20762,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Enthrall](srd_spells_enthrall.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Enthrall](srd_spells_enthrall.md)<!--/AltName-->
 
 
 
@@ -20880,7 +20880,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spare the Dying](srd_spells_spare_the_dying.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spare the Dying](srd_spells_spare_the_dying.md)<!--/AltName-->
 
 
 
@@ -21100,7 +21100,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Arcane Sword](srd_spells_arcane_sword.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arcane Sword](srd_spells_arcane_sword.md)<!--/AltName-->
 
 
 
@@ -21238,7 +21238,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Feeblemind](srd_spells_feeblemind.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Feeblemind](srd_spells_feeblemind.md)<!--/AltName-->
 
 
 
@@ -21388,7 +21388,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mind Blank](srd_spells_mind_blank.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mind Blank](srd_spells_mind_blank.md)<!--/AltName-->
 
 
 
@@ -21508,7 +21508,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spirit Guardians](srd_spells_spirit_guardians.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spirit Guardians](srd_spells_spirit_guardians.md)<!--/AltName-->
 
 
 
@@ -21676,7 +21676,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Weird](srd_spells_weird.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Weird](srd_spells_weird.md)<!--/AltName-->
 
 
 
@@ -21797,7 +21797,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Awaken](srd_spells_awaken.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Awaken](srd_spells_awaken.md)<!--/AltName-->
 
 
 
@@ -22144,7 +22144,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Eldritch Blast](srd_spells_eldritch_blast.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Eldritch Blast](srd_spells_eldritch_blast.md)<!--/AltName-->
 
 
 
@@ -22277,7 +22277,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fabricate](srd_spells_fabricate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fabricate](srd_spells_fabricate.md)<!--/AltName-->
 
 
 
@@ -22426,7 +22426,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Stone Shape](srd_spells_stone_shape.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Stone Shape](srd_spells_stone_shape.md)<!--/AltName-->
 
 
 
@@ -22547,7 +22547,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Divine Favor](srd_spells_divine_favor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Divine Favor](srd_spells_divine_favor.md)<!--/AltName-->
 
 
 
@@ -22683,7 +22683,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Heroes' Feast](srd_spells_heroes_feast.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Heroes' Feast](srd_spells_heroes_feast.md)<!--/AltName-->
 
 
 
@@ -22964,7 +22964,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Continual Flame](srd_spells_continual_flame.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Continual Flame](srd_spells_continual_flame.md)<!--/AltName-->
 
 
 
@@ -23084,7 +23084,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sacred Flame](srd_spells_sacred_flame.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sacred Flame](srd_spells_sacred_flame.md)<!--/AltName-->
 
 
 
@@ -23234,7 +23234,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bane](srd_spells_bane.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bane](srd_spells_bane.md)<!--/AltName-->
 
 
 
@@ -23388,7 +23388,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Insect Plague](srd_spells_insect_plague.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Insect Plague](srd_spells_insect_plague.md)<!--/AltName-->
 
 
 
@@ -23556,7 +23556,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Acid Arrow](srd_spells_acid_arrow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Acid Arrow](srd_spells_acid_arrow.md)<!--/AltName-->
 
 
 
@@ -23691,7 +23691,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blight](srd_spells_blight.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blight](srd_spells_blight.md)<!--/AltName-->
 
 
 
@@ -23839,7 +23839,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blur](srd_spells_blur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blur](srd_spells_blur.md)<!--/AltName-->
 
 
 
@@ -23957,7 +23957,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Etherealness](srd_spells_etherealness.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Etherealness](srd_spells_etherealness.md)<!--/AltName-->
 
 
 
@@ -24152,7 +24152,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gaseous Form](srd_spells_gaseous_form.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gaseous Form](srd_spells_gaseous_form.md)<!--/AltName-->
 
 
 
@@ -24320,7 +24320,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Animal Shapes](srd_spells_animal_shapes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animal Shapes](srd_spells_animal_shapes.md)<!--/AltName-->
 
 
 
@@ -24472,7 +24472,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hideous Laughter](srd_spells_hideous_laughter.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hideous Laughter](srd_spells_hideous_laughter.md)<!--/AltName-->
 
 
 
@@ -24781,7 +24781,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Branding Smite](srd_spells_branding_smite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Branding Smite](srd_spells_branding_smite.md)<!--/AltName-->
 
 
 
@@ -24915,7 +24915,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Meld into Stone](srd_spells_meld_into_stone.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Meld into Stone](srd_spells_meld_into_stone.md)<!--/AltName-->
 
 
 
@@ -25079,7 +25079,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Guardian of Faith](srd_spells_guardian_of_faith.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guardian of Faith](srd_spells_guardian_of_faith.md)<!--/AltName-->
 
 
 
@@ -25342,7 +25342,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)<!--/AltName-->
 
 
 
@@ -25495,7 +25495,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Glyph of Warding](srd_spells_glyph_of_warding.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Glyph of Warding](srd_spells_glyph_of_warding.md)<!--/AltName-->
 
 
 
@@ -25736,7 +25736,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shillelagh](srd_spells_shillelagh.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shillelagh](srd_spells_shillelagh.md)<!--/AltName-->
 
 
 
@@ -25857,7 +25857,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Grease](srd_spells_grease.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grease](srd_spells_grease.md)<!--/AltName-->
 
 
 
@@ -25993,7 +25993,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Longstrider](srd_spells_longstrider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Longstrider](srd_spells_longstrider.md)<!--/AltName-->
 
 
 
@@ -26128,7 +26128,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Heal](srd_spells_heal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Heal](srd_spells_heal.md)<!--/AltName-->
 
 
 
@@ -26261,7 +26261,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mass Heal](srd_spells_mass_heal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mass Heal](srd_spells_mass_heal.md)<!--/AltName-->
 
 
 
@@ -26514,7 +26514,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Haste](srd_spells_haste.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Haste](srd_spells_haste.md)<!--/AltName-->
 
 
 
@@ -26652,7 +26652,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Heroism](srd_spells_heroism.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Heroism](srd_spells_heroism.md)<!--/AltName-->
 
 
 
@@ -26789,7 +26789,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Identify](srd_spells_identify.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Identify](srd_spells_identify.md)<!--/AltName-->
 
 
 
@@ -26926,7 +26926,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Minor Illusion](srd_spells_minor_illusion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Minor Illusion](srd_spells_minor_illusion.md)<!--/AltName-->
 
 
 
@@ -27090,7 +27090,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Programmed Illusion](srd_spells_programmed_illusion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Programmed Illusion](srd_spells_programmed_illusion.md)<!--/AltName-->
 
 
 
@@ -27257,7 +27257,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Major Image](srd_spells_major_image.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Major Image](srd_spells_major_image.md)<!--/AltName-->
 
 
 
@@ -27424,7 +27424,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mirror Image](srd_spells_mirror_image.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mirror Image](srd_spells_mirror_image.md)<!--/AltName-->
 
 
 
@@ -27634,7 +27634,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Project Image](srd_spells_project_image.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Project Image](srd_spells_project_image.md)<!--/AltName-->
 
 
 
@@ -27803,7 +27803,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Silent Image](srd_spells_silent_image.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Silent Image](srd_spells_silent_image.md)<!--/AltName-->
 
 
 
@@ -27957,7 +27957,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hold Person](srd_spells_hold_person.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hold Person](srd_spells_hold_person.md)<!--/AltName-->
 
 
 
@@ -28096,7 +28096,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hold Monster](srd_spells_hold_monster.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hold Monster](srd_spells_hold_monster.md)<!--/AltName-->
 
 
 
@@ -28247,7 +28247,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Command](srd_spells_command.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Command](srd_spells_command.md)<!--/AltName-->
 
 
 
@@ -28469,7 +28469,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Insect](srd_spells_giant_insect.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Insect](srd_spells_giant_insect.md)<!--/AltName-->
 
 
 
@@ -28784,7 +28784,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Forbiddance](srd_spells_forbiddance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Forbiddance](srd_spells_forbiddance.md)<!--/AltName-->
 
 
 
@@ -28983,7 +28983,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Reverse Gravity](srd_spells_reverse_gravity.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Reverse Gravity](srd_spells_reverse_gravity.md)<!--/AltName-->
 
 
 
@@ -29137,7 +29137,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Invisibility](srd_spells_invisibility.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invisibility](srd_spells_invisibility.md)<!--/AltName-->
 
 
 
@@ -29275,7 +29275,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Greater Invisibility](srd_spells_greater_invisibility.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Greater Invisibility](srd_spells_greater_invisibility.md)<!--/AltName-->
 
 
 
@@ -29396,7 +29396,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Conjure Animals](srd_spells_conjure_animals.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Conjure Animals](srd_spells_conjure_animals.md)<!--/AltName-->
 
 
 
@@ -29652,7 +29652,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)<!--/AltName-->
 
 
 
@@ -29894,7 +29894,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)<!--/AltName-->
 
 
 
@@ -30137,7 +30137,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Conjure Celestial](srd_spells_conjure_celestial.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Conjure Celestial](srd_spells_conjure_celestial.md)<!--/AltName-->
 
 
 
@@ -30334,7 +30334,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Conjure Elemental](srd_spells_conjure_elemental.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Conjure Elemental](srd_spells_conjure_elemental.md)<!--/AltName-->
 
 
 
@@ -30532,7 +30532,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Conjure Fey](srd_spells_conjure_fey.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Conjure Fey](srd_spells_conjure_fey.md)<!--/AltName-->
 
 
 
@@ -30713,7 +30713,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bestow curse](srd_spells_bestow_curse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bestow curse](srd_spells_bestow_curse.md)<!--/AltName-->
 
 
 
@@ -31036,7 +31036,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Maze](srd_spells_maze.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Maze](srd_spells_maze.md)<!--/AltName-->
 
 
 
@@ -31218,7 +31218,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flame Blade](srd_spells_flame_blade.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flame Blade](srd_spells_flame_blade.md)<!--/AltName-->
 
 
 
@@ -31500,7 +31500,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tongues](srd_spells_tongues.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tongues](srd_spells_tongues.md)<!--/AltName-->
 
 
 
@@ -31634,7 +31634,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Legend Lore](srd_spells_legend_lore.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Legend Lore](srd_spells_legend_lore.md)<!--/AltName-->
 
 
 
@@ -31799,7 +31799,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Feather Fall](srd_spells_feather_fall.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Feather Fall](srd_spells_feather_fall.md)<!--/AltName-->
 
 
 
@@ -31919,7 +31919,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Slow](srd_spells_slow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Slow](srd_spells_slow.md)<!--/AltName-->
 
 
 
@@ -32101,7 +32101,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Remove Curse](srd_spells_remove_curse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Remove Curse](srd_spells_remove_curse.md)<!--/AltName-->
 
 
 
@@ -32221,7 +32221,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Levitate](srd_spells_levitate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Levitate](srd_spells_levitate.md)<!--/AltName-->
 
 
 
@@ -32519,7 +32519,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Freedom of Movement](srd_spells_freedom_of_movement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Freedom of Movement](srd_spells_freedom_of_movement.md)<!--/AltName-->
 
 
 
@@ -32655,7 +32655,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Warding Bond](srd_spells_warding_bond.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Warding Bond](srd_spells_warding_bond.md)<!--/AltName-->
 
 
 
@@ -32807,7 +32807,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Telepathic Bond](srd_spells_telepathic_bond.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Telepathic Bond](srd_spells_telepathic_bond.md)<!--/AltName-->
 
 
 
@@ -32961,7 +32961,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)<!--/AltName-->
 
 
 
@@ -33085,7 +33085,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Locate Object](srd_spells_locate_object.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Locate Object](srd_spells_locate_object.md)<!--/AltName-->
 
 
 
@@ -33254,7 +33254,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Locate Creature](srd_spells_locate_creature.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Locate Creature](srd_spells_locate_creature.md)<!--/AltName-->
 
 
 
@@ -33422,7 +33422,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Beacon of Hope](srd_spells_beacon_of_hope.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Beacon of Hope](srd_spells_beacon_of_hope.md)<!--/AltName-->
 
 
 
@@ -33557,7 +33557,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Faerie Fire](srd_spells_faerie_fire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Faerie Fire](srd_spells_faerie_fire.md)<!--/AltName-->
 
 
 
@@ -33690,7 +33690,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Light](srd_spells_light.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Light](srd_spells_light.md)<!--/AltName-->
 
 
 
@@ -33853,7 +33853,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Daylight](srd_spells_daylight.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Daylight](srd_spells_daylight.md)<!--/AltName-->
 
 
 
@@ -34003,7 +34003,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dancing Lights](srd_spells_dancing_lights.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dancing Lights](srd_spells_dancing_lights.md)<!--/AltName-->
 
 
 
@@ -34185,7 +34185,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mage Hand](srd_spells_mage_hand.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mage Hand](srd_spells_mage_hand.md)<!--/AltName-->
 
 
 
@@ -34335,7 +34335,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Arcane Hand](srd_spells_arcane_hand.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arcane Hand](srd_spells_arcane_hand.md)<!--/AltName-->
 
 
 
@@ -34592,7 +34592,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Burning Hands](srd_spells_burning_hands.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Burning Hands](srd_spells_burning_hands.md)<!--/AltName-->
 
 
 
@@ -34756,7 +34756,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magnificent Mansion](srd_spells_magnificent_mansion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magnificent Mansion](srd_spells_magnificent_mansion.md)<!--/AltName-->
 
 
 
@@ -35083,7 +35083,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Water Walk](srd_spells_water_walk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Water Walk](srd_spells_water_walk.md)<!--/AltName-->
 
 
 
@@ -35221,7 +35221,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wind Walk](srd_spells_wind_walk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wind Walk](srd_spells_wind_walk.md)<!--/AltName-->
 
 
 
@@ -35356,7 +35356,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hunter's Mark](srd_spells_hunters_mark.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hunter's Mark](srd_spells_hunters_mark.md)<!--/AltName-->
 
 
 
@@ -35490,7 +35490,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Eyebite](srd_spells_eyebite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Eyebite](srd_spells_eyebite.md)<!--/AltName-->
 
 
 
@@ -35656,7 +35656,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Message](srd_spells_message.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Message](srd_spells_message.md)<!--/AltName-->
 
 
 
@@ -35793,7 +35793,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Animal Messenger](srd_spells_animal_messenger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animal Messenger](srd_spells_animal_messenger.md)<!--/AltName-->
 
 
 
@@ -35977,7 +35977,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Polymorph](srd_spells_polymorph.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Polymorph](srd_spells_polymorph.md)<!--/AltName-->
 
 
 
@@ -36161,7 +36161,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[True Polymorph](srd_spells_true_polymorph.md)<!--/AltName-->
+      - Alias: <!--AltName-->[True Polymorph](srd_spells_true_polymorph.md)<!--/AltName-->
 
 
 
@@ -36478,7 +36478,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mirage Arcane](srd_spells_mirage_arcane.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mirage Arcane](srd_spells_mirage_arcane.md)<!--/AltName-->
 
 
 
@@ -36627,7 +36627,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Modify Memory](srd_spells_modify_memory.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Modify Memory](srd_spells_modify_memory.md)<!--/AltName-->
 
 
 
@@ -36823,7 +36823,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Alter Self](srd_spells_alter_self.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Alter Self](srd_spells_alter_self.md)<!--/AltName-->
 
 
 
@@ -36989,7 +36989,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Phantom Steed](srd_spells_phantom_steed.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Phantom Steed](srd_spells_phantom_steed.md)<!--/AltName-->
 
 
 
@@ -37138,7 +37138,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Vicious Mockery](srd_spells_vicious_mockery.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vicious Mockery](srd_spells_vicious_mockery.md)<!--/AltName-->
 
 
 
@@ -37268,7 +37268,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Healing Word](srd_spells_healing_word.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Healing Word](srd_spells_healing_word.md)<!--/AltName-->
 
 
 
@@ -37398,7 +37398,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mass Healing Word](srd_spells_mass_healing_word.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mass Healing Word](srd_spells_mass_healing_word.md)<!--/AltName-->
 
 
 
@@ -37528,7 +37528,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Power Word Stun](srd_spells_power_word_stun.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Power Word Stun](srd_spells_power_word_stun.md)<!--/AltName-->
 
 
 
@@ -37658,7 +37658,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Power Word Kill](srd_spells_power_word_kill.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Power Word Kill](srd_spells_power_word_kill.md)<!--/AltName-->
 
 
 
@@ -37773,7 +37773,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Word of Recall](srd_spells_word_of_recall.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Word of Recall](srd_spells_word_of_recall.md)<!--/AltName-->
 
 
 
@@ -37905,7 +37905,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hypnotic Pattern](srd_spells_hypnotic_pattern.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hypnotic Pattern](srd_spells_hypnotic_pattern.md)<!--/AltName-->
 
 
 
@@ -38057,7 +38057,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wall of Thorns](srd_spells_wall_of_thorns.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wall of Thorns](srd_spells_wall_of_thorns.md)<!--/AltName-->
 
 
 
@@ -38241,7 +38241,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wall of Fire](srd_spells_wall_of_fire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wall of Fire](srd_spells_wall_of_fire.md)<!--/AltName-->
 
 
 
@@ -38425,7 +38425,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wall of Force](srd_spells_wall_of_force.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wall of Force](srd_spells_wall_of_force.md)<!--/AltName-->
 
 
 
@@ -38564,7 +38564,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wall of Ice](srd_spells_wall_of_ice.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wall of Ice](srd_spells_wall_of_ice.md)<!--/AltName-->
 
 
 
@@ -38733,7 +38733,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wall of Stone](srd_spells_wall_of_stone.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wall of Stone](srd_spells_wall_of_stone.md)<!--/AltName-->
 
 
 
@@ -38932,7 +38932,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wind Wall](srd_spells_wind_wall.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wind Wall](srd_spells_wind_wall.md)<!--/AltName-->
 
 
 
@@ -39084,7 +39084,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Prismatic Wall](srd_spells_prismatic_wall.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prismatic Wall](srd_spells_prismatic_wall.md)<!--/AltName-->
 
 
 
@@ -39398,7 +39398,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fog Cloud](srd_spells_fog_cloud.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fog Cloud](srd_spells_fog_cloud.md)<!--/AltName-->
 
 
 
@@ -39646,7 +39646,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Nondetection](srd_spells_nondetection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nondetection](srd_spells_nondetection.md)<!--/AltName-->
 
 
 
@@ -39782,7 +39782,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Incendiary Cloud](srd_spells_incendiary_cloud.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Incendiary Cloud](srd_spells_incendiary_cloud.md)<!--/AltName-->
 
 
 
@@ -39948,7 +39948,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cloudkill](srd_spells_cloudkill.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cloudkill](srd_spells_cloudkill.md)<!--/AltName-->
 
 
 
@@ -40130,7 +40130,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Stinking Cloud](srd_spells_stinking_cloud.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Stinking Cloud](srd_spells_stinking_cloud.md)<!--/AltName-->
 
 
 
@@ -40282,7 +40282,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Meteor Swarm](srd_spells_meteor_swarm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Meteor Swarm](srd_spells_meteor_swarm.md)<!--/AltName-->
 
 
 
@@ -40532,7 +40532,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Arcane Eye](srd_spells_arcane_eye.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arcane Eye](srd_spells_arcane_eye.md)<!--/AltName-->
 
 
 
@@ -40998,7 +40998,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Divine Word](srd_spells_divine_word.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Divine Word](srd_spells_divine_word.md)<!--/AltName-->
 
 
 
@@ -41203,7 +41203,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Misty Step](srd_spells_misty_step.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Misty Step](srd_spells_misty_step.md)<!--/AltName-->
 
 
 
@@ -41495,7 +41495,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tree Stride](srd_spells_tree_stride.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tree Stride](srd_spells_tree_stride.md)<!--/AltName-->
 
 
 
@@ -41632,7 +41632,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Pass without Trace](srd_spells_pass_without_trace.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pass without Trace](srd_spells_pass_without_trace.md)<!--/AltName-->
 
 
 
@@ -41785,7 +41785,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Passwall](srd_spells_passwall.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Passwall](srd_spells_passwall.md)<!--/AltName-->
 
 
 
@@ -41922,7 +41922,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spider Climb](srd_spells_spider_climb.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spider Climb](srd_spells_spider_climb.md)<!--/AltName-->
 
 
 
@@ -42046,7 +42046,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Barkskin](srd_spells_barkskin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Barkskin](srd_spells_barkskin.md)<!--/AltName-->
 
 
 
@@ -42170,7 +42170,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Stoneskin](srd_spells_stoneskin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Stoneskin](srd_spells_stoneskin.md)<!--/AltName-->
 
 
 
@@ -42294,7 +42294,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tiny Hut](srd_spells_tiny_hut.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tiny Hut](srd_spells_tiny_hut.md)<!--/AltName-->
 
 
 
@@ -42448,7 +42448,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flesh to Stone](srd_spells_flesh_to_stone.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flesh to Stone](srd_spells_flesh_to_stone.md)<!--/AltName-->
 
 
 
@@ -42617,7 +42617,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fear](srd_spells_fear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fear](srd_spells_fear.md)<!--/AltName-->
 
 
 
@@ -42869,7 +42869,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shocking Grasp](srd_spells_shocking_grasp.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shocking Grasp](srd_spells_shocking_grasp.md)<!--/AltName-->
 
 
 
@@ -43116,7 +43116,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gate](srd_spells_gate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gate](srd_spells_gate.md)<!--/AltName-->
 
 
 
@@ -43282,7 +43282,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dimension Door](srd_spells_dimension_door.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dimension Door](srd_spells_dimension_door.md)<!--/AltName-->
 
 
 
@@ -43544,7 +43544,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magic Jar](srd_spells_magic_jar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magic Jar](srd_spells_magic_jar.md)<!--/AltName-->
 
 
 
@@ -43845,7 +43845,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Foresight](srd_spells_foresight.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Foresight](srd_spells_foresight.md)<!--/AltName-->
 
 
 
@@ -43980,7 +43980,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Prestidigitation](srd_spells_prestidigitation.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prestidigitation](srd_spells_prestidigitation.md)<!--/AltName-->
 
 
 
@@ -44202,7 +44202,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Prayer of Healing](srd_spells_prayer_of_healing.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Prayer of Healing](srd_spells_prayer_of_healing.md)<!--/AltName-->
 
 
 
@@ -44333,7 +44333,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Produce Flame](srd_spells_produce_flame.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Produce Flame](srd_spells_produce_flame.md)<!--/AltName-->
 
 
 
@@ -44496,7 +44496,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magic Missile](srd_spells_magic_missile.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magic Missile](srd_spells_magic_missile.md)<!--/AltName-->
 
 
 
@@ -44760,7 +44760,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Astral Projection](srd_spells_astral_projection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Astral Projection](srd_spells_astral_projection.md)<!--/AltName-->
 
 
 
@@ -44955,7 +44955,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Death Ward](srd_spells_death_ward.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Death Ward](srd_spells_death_ward.md)<!--/AltName-->
 
 
 
@@ -45090,7 +45090,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)<!--/AltName-->
 
 
 
@@ -45242,7 +45242,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Protection from Poison](srd_spells_protection_from_poison.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection from Poison](srd_spells_protection_from_poison.md)<!--/AltName-->
 
 
 
@@ -45376,7 +45376,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Protection from Energy](srd_spells_protection_from_energy.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Protection from Energy](srd_spells_protection_from_energy.md)<!--/AltName-->
 
 
 
@@ -45497,7 +45497,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Guards and Wards](srd_spells_guards_and_wards.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guards and Wards](srd_spells_guards_and_wards.md)<!--/AltName-->
 
 
 
@@ -45828,7 +45828,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Purify Food and Drink](srd_spells_purify_food_and_drink.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Purify Food and Drink](srd_spells_purify_food_and_drink.md)<!--/AltName-->
 
 
 
@@ -46097,7 +46097,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Raise Dead](srd_spells_raise_dead.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Raise Dead](srd_spells_raise_dead.md)<!--/AltName-->
 
 
 
@@ -46263,7 +46263,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)<!--/AltName-->
 
 
 
@@ -46398,7 +46398,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Scorching Ray](srd_spells_scorching_ray.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scorching Ray](srd_spells_scorching_ray.md)<!--/AltName-->
 
 
 
@@ -46531,7 +46531,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ray of Frost](srd_spells_ray_of_frost.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ray of Frost](srd_spells_ray_of_frost.md)<!--/AltName-->
 
 
 
@@ -46666,7 +46666,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Moonbeam](srd_spells_moonbeam.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Moonbeam](srd_spells_moonbeam.md)<!--/AltName-->
 
 
 
@@ -46850,7 +46850,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sunbeam](srd_spells_sunbeam.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sunbeam](srd_spells_sunbeam.md)<!--/AltName-->
 
 
 
@@ -47018,7 +47018,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Regenerate](srd_spells_regenerate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Regenerate](srd_spells_regenerate.md)<!--/AltName-->
 
 
 
@@ -47169,7 +47169,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Reincarnate](srd_spells_reincarnate.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Reincarnate](srd_spells_reincarnate.md)<!--/AltName-->
 
 
 
@@ -47535,7 +47535,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mending](srd_spells_mending.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mending](srd_spells_mending.md)<!--/AltName-->
 
 
 
@@ -47686,7 +47686,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Expeditious Retreat](srd_spells_expeditious_retreat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Expeditious Retreat](srd_spells_expeditious_retreat.md)<!--/AltName-->
 
 
 
@@ -47806,7 +47806,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hellish Rebuke](srd_spells_hellish_rebuke.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hellish Rebuke](srd_spells_hellish_rebuke.md)<!--/AltName-->
 
 
 
@@ -47940,7 +47940,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Antipathy/Sympathy](srd_spells_antipathysympathy.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Antipathy/Sympathy](srd_spells_antipathysympathy.md)<!--/AltName-->
 
 
 
@@ -48167,7 +48167,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Resistance](srd_spells_resistance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Resistance](srd_spells_resistance.md)<!--/AltName-->
 
 
 
@@ -48306,7 +48306,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Water Breathing](srd_spells_water_breathing.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Water Breathing](srd_spells_water_breathing.md)<!--/AltName-->
 
 
 
@@ -48428,7 +48428,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lesser Restoration](srd_spells_lesser_restoration.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lesser Restoration](srd_spells_lesser_restoration.md)<!--/AltName-->
 
 
 
@@ -48547,7 +48547,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Greater Restoration](srd_spells_greater_restoration.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Greater Restoration](srd_spells_greater_restoration.md)<!--/AltName-->
 
 
 
@@ -48728,7 +48728,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Resurrection](srd_spells_resurrection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Resurrection](srd_spells_resurrection.md)<!--/AltName-->
 
 
 
@@ -48924,7 +48924,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[True Resurrection](srd_spells_true_resurrection.md)<!--/AltName-->
+      - Alias: <!--AltName-->[True Resurrection](srd_spells_true_resurrection.md)<!--/AltName-->
 
 
 
@@ -49075,7 +49075,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dream](srd_spells_dream.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dream](srd_spells_dream.md)<!--/AltName-->
 
 
 
@@ -49241,7 +49241,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Revivify](srd_spells_revivify.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Revivify](srd_spells_revivify.md)<!--/AltName-->
 
 
 
@@ -49362,7 +49362,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hallow](srd_spells_hallow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hallow](srd_spells_hallow.md)<!--/AltName-->
 
 
 
@@ -49693,7 +49693,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sanctuary](srd_spells_sanctuary.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sanctuary](srd_spells_sanctuary.md)<!--/AltName-->
 
 
 
@@ -49844,7 +49844,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Private Sanctum](srd_spells_private_sanctum.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Private Sanctum](srd_spells_private_sanctum.md)<!--/AltName-->
 
 
 
@@ -50218,7 +50218,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Jump](srd_spells_jump.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jump](srd_spells_jump.md)<!--/AltName-->
 
 
 
@@ -50340,7 +50340,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Scrying](srd_spells_scrying.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scrying](srd_spells_scrying.md)<!--/AltName-->
 
 
 
@@ -50618,7 +50618,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sequester](srd_spells_sequester.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sequester](srd_spells_sequester.md)<!--/AltName-->
 
 
 
@@ -50770,7 +50770,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Unseen Servant](srd_spells_unseen_servant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Unseen Servant](srd_spells_unseen_servant.md)<!--/AltName-->
 
 
 
@@ -50924,7 +50924,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Silence](srd_spells_silence.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Silence](srd_spells_silence.md)<!--/AltName-->
 
 
 
@@ -51062,7 +51062,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Simulacrum](srd_spells_simulacrum.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Simulacrum](srd_spells_simulacrum.md)<!--/AltName-->
 
 
 
@@ -51243,7 +51243,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[False Life](srd_spells_false_life.md)<!--/AltName-->
+      - Alias: <!--AltName-->[False Life](srd_spells_false_life.md)<!--/AltName-->
 
 
 
@@ -51378,7 +51378,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cure Wounds](srd_spells_cure_wounds.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cure Wounds](srd_spells_cure_wounds.md)<!--/AltName-->
 
 
 
@@ -51511,7 +51511,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mass Cure Wounds](srd_spells_mass_cure_wounds.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mass Cure Wounds](srd_spells_mass_cure_wounds.md)<!--/AltName-->
 
 
 
@@ -51645,7 +51645,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sleep](srd_spells_sleep.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sleep](srd_spells_sleep.md)<!--/AltName-->
 
 
 
@@ -51809,7 +51809,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wish](srd_spells_wish.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wish](srd_spells_wish.md)<!--/AltName-->
 
 
 
@@ -52092,7 +52092,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flaming Sphere](srd_spells_flaming_sphere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flaming Sphere](srd_spells_flaming_sphere.md)<!--/AltName-->
 
 
 
@@ -52260,7 +52260,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Freezing Sphere](srd_spells_freezing_sphere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Freezing Sphere](srd_spells_freezing_sphere.md)<!--/AltName-->
 
 
 
@@ -52472,7 +52472,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Resilient Sphere](srd_spells_resilient_sphere.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Resilient Sphere](srd_spells_resilient_sphere.md)<!--/AltName-->
 
 
 
@@ -52885,7 +52885,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Suggestion](srd_spells_suggestion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Suggestion](srd_spells_suggestion.md)<!--/AltName-->
 
 
 
@@ -53080,7 +53080,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mass Suggestion](srd_spells_mass_suggestion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mass Suggestion](srd_spells_mass_suggestion.md)<!--/AltName-->
 
 
 
@@ -53259,7 +53259,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Symbol](srd_spells_symbol.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Symbol](srd_spells_symbol.md)<!--/AltName-->
 
 
 
@@ -53590,7 +53590,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Telekinesis](srd_spells_telekinesis.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Telekinesis](srd_spells_telekinesis.md)<!--/AltName-->
 
 
 
@@ -53784,7 +53784,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Teleport](srd_spells_teleport.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Teleport](srd_spells_teleport.md)<!--/AltName-->
 
 
 
@@ -54130,7 +54130,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fire Storm](srd_spells_fire_storm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fire Storm](srd_spells_fire_storm.md)<!--/AltName-->
 
 
 
@@ -54279,7 +54279,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ice Storm](srd_spells_ice_storm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ice Storm](srd_spells_ice_storm.md)<!--/AltName-->
 
 
 
@@ -54446,7 +54446,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sleet Storm](srd_spells_sleet_storm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sleet Storm](srd_spells_sleet_storm.md)<!--/AltName-->
 
 
 
@@ -54732,7 +54732,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Storm of Vengeance](srd_spells_storm_of_vengeance.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Storm of Vengeance](srd_spells_storm_of_vengeance.md)<!--/AltName-->
 
 
 
@@ -54943,7 +54943,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Darkness](srd_spells_darkness.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Darkness](srd_spells_darkness.md)<!--/AltName-->
 
 
 
@@ -55095,7 +55095,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Black Tentacles](srd_spells_black_tentacles.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Black Tentacles](srd_spells_black_tentacles.md)<!--/AltName-->
 
 
 
@@ -55248,7 +55248,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)<!--/AltName-->
 
 
 
@@ -55414,7 +55414,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Illusory Script](srd_spells_illusory_script.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Illusory Script](srd_spells_illusory_script.md)<!--/AltName-->
 
 
 
@@ -55563,7 +55563,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Thaumaturgy](srd_spells_thaumaturgy.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Thaumaturgy](srd_spells_thaumaturgy.md)<!--/AltName-->
 
 
 
@@ -55801,7 +55801,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Web](srd_spells_web.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Web](srd_spells_web.md)<!--/AltName-->
 
 
 
@@ -55998,7 +55998,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fire Bolt](srd_spells_fire_bolt.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fire Bolt](srd_spells_fire_bolt.md)<!--/AltName-->
 
 
 
@@ -56258,7 +56258,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Transport via Plants](srd_spells_transport_via_plants.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Transport via Plants](srd_spells_transport_via_plants.md)<!--/AltName-->
 
 
 
@@ -56378,7 +56378,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Earthquake](srd_spells_earthquake.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Earthquake](srd_spells_earthquake.md)<!--/AltName-->
 
 
 
@@ -56620,7 +56620,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mislead](srd_spells_mislead.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mislead](srd_spells_mislead.md)<!--/AltName-->
 
 
 
@@ -56783,7 +56783,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Find Traps](srd_spells_find_traps.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Find Traps](srd_spells_find_traps.md)<!--/AltName-->
 
 
 
@@ -56918,7 +56918,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Find the Path](srd_spells_find_the_path.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Find the Path](srd_spells_find_the_path.md)<!--/AltName-->
 
 
 
@@ -57055,7 +57055,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Find Steed](srd_spells_find_steed.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Find Steed](srd_spells_find_steed.md)<!--/AltName-->
 
 
 
@@ -57263,7 +57263,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Thunderwave](srd_spells_thunderwave.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Thunderwave](srd_spells_thunderwave.md)<!--/AltName-->
 
 
 
@@ -57442,7 +57442,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Arcane Lock](srd_spells_arcane_lock.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Arcane Lock](srd_spells_arcane_lock.md)<!--/AltName-->
 
 
 
@@ -57577,7 +57577,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[True Strike](srd_spells_true_strike.md)<!--/AltName-->
+      - Alias: <!--AltName-->[True Strike](srd_spells_true_strike.md)<!--/AltName-->
 
 
 
@@ -57696,7 +57696,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Darkvision](srd_spells_darkvision.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Darkvision](srd_spells_darkvision.md)<!--/AltName-->
 
 
 
@@ -57817,7 +57817,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[True Seeing](srd_spells_true_seeing.md)<!--/AltName-->
+      - Alias: <!--AltName-->[True Seeing](srd_spells_true_seeing.md)<!--/AltName-->
 
 
 
@@ -58065,7 +58065,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[See Invisibility](srd_spells_see_invisibility.md)<!--/AltName-->
+      - Alias: <!--AltName-->[See Invisibility](srd_spells_see_invisibility.md)<!--/AltName-->
 
 
 
@@ -58187,7 +58187,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fly](srd_spells_fly.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fly](srd_spells_fly.md)<!--/AltName-->
 
 
 
@@ -58324,7 +58324,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Zone of Truth](srd_spells_zone_of_truth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Zone of Truth](srd_spells_zone_of_truth.md)<!--/AltName-->
 
 
 
@@ -58460,7 +58460,7 @@ AttributesDictionary: >+
 
 
 
-    - SRD: <!--AltName-->[Spells](srd_spells.md)<!--/AltName-->
+    - Alias: <!--AltName-->[Spells](srd_spells.md)<!--/AltName-->
 
 
 
@@ -58475,7 +58475,7 @@ AttributesDictionary: >+
 
 # Agrandir/rétrécir
 
-- SRD: [Enlarge/Reduce](srd_spells_enlargereduce.md)
+- Alias: [Enlarge/Reduce](srd_spells_enlargereduce.md)
 
 -  Transmutation de niveau 2
 
@@ -58507,7 +58507,7 @@ Si la cible est une créature, tout ce qu'elle porte et tout ce qu'elle transpor
 
 # Aide
 
-- SRD: [Aid](srd_spells_aid.md)
+- Alias: [Aid](srd_spells_aid.md)
 
 -  Abjuration de niveau 2
 
@@ -58535,7 +58535,7 @@ Le sort renforce vos alliés, qui deviennent plus robustes et plus résolus. Cho
 
 # Alarme
 
-- SRD: [Alarm](srd_spells_alarm.md)
+- Alias: [Alarm](srd_spells_alarm.md)
 
 -  Abjuration de niveau 1 (rituel)
 
@@ -58565,7 +58565,7 @@ Une alarme audible émet le même son qu'une cloche d'alerte pendant 10 secondes
 
 # Allié planaire
 
-- SRD: [Planar Ally](srd_spells_planar_ally.md)
+- Alias: [Planar Ally](srd_spells_planar_ally.md)
 
 -  Invocation de niveau 6
 
@@ -58605,7 +58605,7 @@ Une telle créature enrôlée dans votre groupe compte comme un membre à part e
 
 # Amélioration de caractéristique
 
-- SRD: [Enhance Ability](srd_spells_enhance_ability.md)
+- Alias: [Enhance Ability](srd_spells_enhance_ability.md)
 
 -  Transmutation de niveau 2
 
@@ -58645,7 +58645,7 @@ Vous touchez une créature pour lui accorder une amélioration magique. Choisiss
 
 # Amitié avec les animaux
 
-- SRD: [Animal Friendship](srd_spells_animal_friendship.md)
+- Alias: [Animal Friendship](srd_spells_animal_friendship.md)
 
 -  Enchantement de niveau 1
 
@@ -58673,7 +58673,7 @@ Grâce à ce sort, vous convainquez une bête que vous ne lui voulez aucun mal. 
 
 # Animation des morts
 
-- SRD: [Animate Dead](srd_spells_animate_dead.md)
+- Alias: [Animate Dead](srd_spells_animate_dead.md)
 
 -  Nécromancie de niveau 3
 
@@ -58707,7 +58707,7 @@ La créature est placée sous votre contrôle pendant 24 heures, après quoi ell
 
 # Animation des objets
 
-- SRD: [Animate Objects](srd_spells_animate_objects.md)
+- Alias: [Animate Objects](srd_spells_animate_objects.md)
 
 -  Transmutation de niveau 5
 
@@ -58753,7 +58753,7 @@ Si vous ordonnez à un objet animé d'attaquer, il a droit à une attaque au cor
 
 # Apaisement des émotions
 
-- SRD: [Calm Emotions](srd_spells_calm_emotions.md)
+- Alias: [Calm Emotions](srd_spells_calm_emotions.md)
 
 -  Enchantement de niveau 2
 
@@ -58783,7 +58783,7 @@ Vous tentez de supprimer les émotions fortes au sein d'un groupe de gens. Chaqu
 
 # Apparence trompeuse
 
-- SRD: [Seeming](srd_spells_seeming.md)
+- Alias: [Seeming](srd_spells_seeming.md)
 
 -  Illusion de niveau 5
 
@@ -58819,7 +58819,7 @@ Une créature peut utiliser son action pour examiner une cible et faire un test 
 
 # Appel de familier
 
-- SRD: [Find Familiar](srd_spells_find_familiar.md)
+- Alias: [Find Familiar](srd_spells_find_familiar.md)
 
 -  Invocation de niveau 1 (rituel)
 
@@ -58857,7 +58857,7 @@ Enfin, quand vous lancez un sort avec une portée de « contact », votre famili
 
 # Appel de la foudre
 
-- SRD: [Call Lightning](srd_spells_call_lightning.md)
+- Alias: [Call Lightning](srd_spells_call_lightning.md)
 
 -  Invocation de niveau 3
 
@@ -58911,7 +58911,7 @@ Ces projectiles sont magiques et infligent 1d6 dégâts supplémentaires. De plu
 
 # Arme magique
 
-- SRD: [Magic Weapon](srd_spells_magic_weapon.md)
+- Alias: [Magic Weapon](srd_spells_magic_weapon.md)
 
 -  Transmutation de niveau 2
 
@@ -58959,7 +58959,7 @@ Vous brandissez votre arme et l'investissez du pouvoir de combattre le mal. Jusq
 
 # Arme spirituelle
 
-- SRD: [Spiritual Weapon](srd_spells_spiritual_weapon.md)
+- Alias: [Spiritual Weapon](srd_spells_spiritual_weapon.md)
 
 -  Évocation de niveau 2
 
@@ -58993,7 +58993,7 @@ L'arme peut revêtir la forme de votre choix. Les clercs des divinités associé
 
 # Armure du mage
 
-- SRD: [Mage Armor](srd_spells_mage_armor.md)
+- Alias: [Mage Armor](srd_spells_mage_armor.md)
 
 -  Abjuration de niveau 1
 
@@ -59019,7 +59019,7 @@ Vous touchez une créature consentante qui ne porte pas d'armure et l'enveloppez
 
 # Arrêt du temps
 
-- SRD: [Time Stop](srd_spells_time_stop.md)
+- Alias: [Time Stop](srd_spells_time_stop.md)
 
 -  Transmutation de niveau 9
 
@@ -59047,7 +59047,7 @@ Ce sort se termine si l'une des actions que vous effectuez lors de ce laps de te
 
 # Aspersion acide
 
-- SRD: [Acid Splash](srd_spells_acid_splash.md)
+- Alias: [Acid Splash](srd_spells_acid_splash.md)
 
 -  Invocation , tour de magie
 
@@ -59075,7 +59075,7 @@ Les dégâts du sort augmentent de 1d6 quand vous atteignez le niveau 5 (2d6), 1
 
 # Assassin imaginaire
 
-- SRD: [Phantasmal Killer](srd_spells_phantasmal_killer.md)
+- Alias: [Phantasmal Killer](srd_spells_phantasmal_killer.md)
 
 -  Illusion de niveau 4
 
@@ -59107,7 +59107,7 @@ Elle subit 4d10 dégâts psychiques à chaque échec. Le sort se termine dès qu
 
 # Assistance
 
-- SRD: [Guidance](srd_spells_guidance.md)
+- Alias: [Guidance](srd_spells_guidance.md)
 
 -  Divination, tour de magie
 
@@ -59133,7 +59133,7 @@ Vous touchez une créature consentante. Une fois avant la fin du sort, la cible 
 
 # Augure
 
-- SRD: [Augury](srd_spells_augury.md)
+- Alias: [Augury](srd_spells_augury.md)
 
 -  Divination de niveau 2
 
@@ -59209,7 +59209,7 @@ Le rayon d'action de ce sort double lorsque vous atteignez le niveau 5 (3 mètre
 
 # Aura magique de l'arcaniste
 
-- SRD: [Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)
+- Alias: [Arcanist's Magic Aura](srd_spells_arcanists_magic_aura.md)
 
 -  Illusion de niveau 2
 
@@ -59241,7 +59241,7 @@ Lorsque vous lancez le sort, vous choisissez l'un des effets suivants, ou les de
 
 # Aura sacrée
 
-- SRD: [Holy Aura](srd_spells_holy_aura.md)
+- Alias: [Holy Aura](srd_spells_holy_aura.md)
 
 -  Abjuration de niveau 8
 
@@ -59269,7 +59269,7 @@ Les créatures de votre choix qui se trouvent dans cette zone au moment où vous
 
 # Bagou
 
-- SRD: [Glibness](srd_spells_glibness.md)
+- Alias: [Glibness](srd_spells_glibness.md)
 
 -  Transmutation de niveau 8
 
@@ -59295,7 +59295,7 @@ Jusqu'à la fin du sort, chaque fois que vous effectuez un test de [Charisme](hd
 
 # Baies nourricières
 
-- SRD: [Goodberry](srd_spells_goodberry.md)
+- Alias: [Goodberry](srd_spells_goodberry.md)
 
 -  Transmutation de niveau 1
 
@@ -59325,7 +59325,7 @@ Les baies perdent leurs propriétés si personne ne les mange dans les 24 heures
 
 # Balisage
 
-- SRD: [Guiding Bolt](srd_spells_guiding_bolt.md)
+- Alias: [Guiding Bolt](srd_spells_guiding_bolt.md)
 
 -  Évocation de niveau 1
 
@@ -59353,7 +59353,7 @@ Un rayon de lumière frappe une créature de votre choix située à portée. Fai
 
 # Bannissement
 
-- SRD: [Banishment](srd_spells_banishment.md)
+- Alias: [Banishment](srd_spells_banishment.md)
 
 -  Abjuration de niveau 4
 
@@ -59389,7 +59389,7 @@ Si le sort se termine avant que 1 minute ne se soit écoulée, la cible réappar
 
 # Barrière de lames
 
-- SRD: [Blade Barrier](srd_spells_blade_barrier.md)
+- Alias: [Blade Barrier](srd_spells_blade_barrier.md)
 
 -  Évocation de niveau 6
 
@@ -59417,7 +59417,7 @@ Quand une créature pénètre dans la zone du mur pour la première fois au cour
 
 # Bénédiction
 
-- SRD: [Bless](srd_spells_bless.md)
+- Alias: [Bless](srd_spells_bless.md)
 
 -  Enchantement de niveau 1
 
@@ -59463,7 +59463,7 @@ Vous désignez jusqu'à 5 créatures à portée et que vous pouvez voir. Les cib
 
 # Blessure
 
-- SRD: [Inflict Wounds](srd_spells_inflict_wounds.md)
+- Alias: [Inflict Wounds](srd_spells_inflict_wounds.md)
 
 -  Nécromancie de niveau 1
 
@@ -59491,7 +59491,7 @@ Faites une attaque de sort au corps-à-corps contre une créature située à une
 
 # Bouche magique
 
-- SRD: [Magic Mouth](srd_spells_magic_mouth.md)
+- Alias: [Magic Mouth](srd_spells_magic_mouth.md)
 
 -  Illusion de niveau 2 (rituel)
 
@@ -59523,7 +59523,7 @@ Ces dernières peuvent être aussi génériques ou spécifiques que vous le dés
 
 # Bouclier
 
-- SRD: [Shield](srd_spells_shield.md)
+- Alias: [Shield](srd_spells_shield.md)
 
 -  Abjuration de niveau 1
 
@@ -59549,7 +59549,7 @@ Une barrière [invisible](hd_conditions_invisible.md) faite de force magique app
 
 # Bouclier de feu
 
-- SRD: [Fire Shield](srd_spells_fire_shield.md)
+- Alias: [Fire Shield](srd_spells_fire_shield.md)
 
 -  Évocation de niveau 4
 
@@ -59579,7 +59579,7 @@ De plus, quand une créature située dans un rayon de 1,50 mètre autour de vous
 
 # Bouclier de la foi
 
-- SRD: [Shield of Faith](srd_spells_shield_of_faith.md)
+- Alias: [Shield of Faith](srd_spells_shield_of_faith.md)
 
 -  Abjuration de niveau 1
 
@@ -59605,7 +59605,7 @@ Un champ scintillant apparaît autour d'une créature de votre choix située à 
 
 # Bouffée de poison
 
-- SRD: [Poison Spray](srd_spells_poison_spray.md)
+- Alias: [Poison Spray](srd_spells_poison_spray.md)
 
 -  Invocation , tour de magie
 
@@ -59633,7 +59633,7 @@ Les dégâts du sort augmentent de 1d12 quand vous atteignez le niveau 5 (2d12),
 
 # Boule de feu
 
-- SRD: [Fireball](srd_spells_fireball.md)
+- Alias: [Fireball](srd_spells_fireball.md)
 
 -  Évocation de niveau 3
 
@@ -59663,7 +59663,7 @@ Le feu s'étend en contournant les angles. Il embrase les objets inflammables de
 
 # Boule de feu à explosion retardée
 
-- SRD: [Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)
+- Alias: [Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)
 
 -  Évocation de niveau 7
 
@@ -59699,7 +59699,7 @@ Les flammes endommagent les objets qui se trouvent dans la zone et embrasent les
 
 # Bourrasque
 
-- SRD: [Gust of Wind](srd_spells_gust_of_wind.md)
+- Alias: [Gust of Wind](srd_spells_gust_of_wind.md)
 
 -  Évocation de niveau 2
 
@@ -59731,7 +59731,7 @@ Vous pouvez changer la direction dans laquelle souffle la bourrasque au moyen d'
 
 # Briser
 
-- SRD: [Shatter](srd_spells_shatter.md)
+- Alias: [Shatter](srd_spells_shatter.md)
 
 -  Évocation de niveau 2
 
@@ -59789,7 +59789,7 @@ Les morts-vivants subissent 2d6 points de dégâts et la moitié seulement en ca
 
 # Cage de force
 
-- SRD: [Forcecage](srd_spells_forcecage.md)
+- Alias: [Forcecage](srd_spells_forcecage.md)
 
 -  Évocation de niveau 7
 
@@ -59825,7 +59825,7 @@ La _[dissipation de la magie](hd_spells_dissipation_de_la_magie.md)_ est sans ef
 
 # Caresse du vampire
 
-- SRD: [Vampiric Touch](srd_spells_vampiric_touch.md)
+- Alias: [Vampiric Touch](srd_spells_vampiric_touch.md)
 
 -  Nécromancie de niveau 3
 
@@ -59879,7 +59879,7 @@ Au niveau 9, la cible doit réussir un [jet de sauvegarde](hd_abilities_jets_de_
 
 # Cécité/surdité
 
-- SRD: [Blindness/Deafness](srd_spells_blindnessdeafness.md)
+- Alias: [Blindness/Deafness](srd_spells_blindnessdeafness.md)
 
 -  Nécromancie de niveau 2
 
@@ -59909,7 +59909,7 @@ Choisissez une créature autre que vous qui se situe à portée et dans votre ch
 
 # Cercle de mort
 
-- SRD: [Circle of Death](srd_spells_circle_of_death.md)
+- Alias: [Circle of Death](srd_spells_circle_of_death.md)
 
 -  Nécromancie de niveau 6
 
@@ -59937,7 +59937,7 @@ Une sphère d'énergie négative s'étend dans un rayon de 18 mètres à partir 
 
 # Cercle de téléportation
 
-- SRD: [Teleportation Circle](srd_spells_teleportation_circle.md)
+- Alias: [Teleportation Circle](srd_spells_teleportation_circle.md)
 
 -  Invocation de niveau 5
 
@@ -59971,7 +59971,7 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 
 # Cercle magique
 
-- SRD: [Magic Circle](srd_spells_magic_circle.md)
+- Alias: [Magic Circle](srd_spells_magic_circle.md)
 
 -  Abjuration de niveau 3
 
@@ -60011,7 +60011,7 @@ Quand vous lancez ce sort, vous pouvez décider que sa magie agira à l'envers, 
 
 # Chaîne d'éclairs
 
-- SRD: [Chain Lightning](srd_spells_chain_lightning.md)
+- Alias: [Chain Lightning](srd_spells_chain_lightning.md)
 
 -  Évocation de niveau 6
 
@@ -60045,7 +60045,7 @@ Chaque cible doit faire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.m
 
 # Champ antimagie
 
-- SRD: [Antimagic Field](srd_spells_antimagic_field.md)
+- Alias: [Antimagic Field](srd_spells_antimagic_field.md)
 
 -  Abjuration de niveau 8
 
@@ -60089,7 +60089,7 @@ Les propriétés et les pouvoirs d'une arme magique sont supprimés si son utili
 
 # Changement de forme
 
-- SRD: [Shapechange](srd_spells_shapechange.md)
+- Alias: [Shapechange](srd_spells_shapechange.md)
 
 -  Transmutation de niveau 9
 
@@ -60129,7 +60129,7 @@ Pendant la durée du sort, vous pouvez utiliser votre action pour prendre une no
 
 # Changement de plan
 
-- SRD: [Plane Shift](srd_spells_plane_shift.md)
+- Alias: [Plane Shift](srd_spells_plane_shift.md)
 
 -  Invocation de niveau 7
 
@@ -60161,7 +60161,7 @@ Vous pouvez aussi utiliser ce sort pour bannir une créature non consentante sur
 
 # Charme-personne
 
-- SRD: [Charm Person](srd_spells_charm_person.md)
+- Alias: [Charm Person](srd_spells_charm_person.md)
 
 -  Enchantement de niveau 1
 
@@ -60189,7 +60189,7 @@ Vous tentez de charmer un humanoïde se trouvant à portée et dans votre champ 
 
 # Chauffer le métal
 
-- SRD: [Heat Metal](srd_spells_heat_metal.md)
+- Alias: [Heat Metal](srd_spells_heat_metal.md)
 
 -  Transmutation de niveau 2
 
@@ -60223,7 +60223,7 @@ Si une créature tient l'objet qui lui inflige des dégâts ou le porte sur elle
 
 # Chien de garde
 
-- SRD: [Faithful Hound](srd_spells_faithful_hound.md)
+- Alias: [Faithful Hound](srd_spells_faithful_hound.md)
 
 -  Invocation de niveau 4
 
@@ -60271,7 +60271,7 @@ Vous défiez un adversaire à portée. Tant que vous n'attaquez que cet adversai
 
 # Clairvoyance
 
-- SRD: [Clairvoyance](srd_spells_clairvoyance.md)
+- Alias: [Clairvoyance](srd_spells_clairvoyance.md)
 
 -  Divination de niveau 3
 
@@ -60303,7 +60303,7 @@ Une créature capable de voir l'organe sensoriel (en bénéficiant par exemple d
 
 # Clignotement
 
-- SRD: [Blink](srd_spells_blink.md)
+- Alias: [Blink](srd_spells_blink.md)
 
 -  Transmutation de niveau 3
 
@@ -60331,7 +60331,7 @@ Tant que vous êtes sur le plan éthéré, vous voyez et entendez ce qui se pass
 
 # Clone
 
-- SRD: [Clone](srd_spells_clone.md)
+- Alias: [Clone](srd_spells_clone.md)
 
 -  Nécromancie de niveau 8
 
@@ -60359,7 +60359,7 @@ Une fois que le clone est arrivé à maturité, si la créature originale meurt,
 
 # Coercition mystique
 
-- SRD: [Geas](srd_spells_geas.md)
+- Alias: [Geas](srd_spells_geas.md)
 
 -  Enchantement de niveau 5
 
@@ -60395,7 +60395,7 @@ Avec un emplacement de sort de niveau 9, il persiste jusqu'à ce que quelqu'un l
 
 # Coffre secret
 
-- SRD: [Secret Chest](srd_spells_secret_chest.md)
+- Alias: [Secret Chest](srd_spells_secret_chest.md)
 
 -  Invocation de niveau 4
 
@@ -60471,7 +60471,7 @@ Une créature [entravée](hd_conditions_entrave.md) peut utiliser son action à 
 
 # Colonne de flamme
 
-- SRD: [Flame Strike](srd_spells_flame_strike.md)
+- Alias: [Flame Strike](srd_spells_flame_strike.md)
 
 -  Évocation de niveau 5
 
@@ -60501,7 +60501,7 @@ Celles qui échouent subissent 4d6 dégâts de feu et 4d6 dégâts radiants, les
 
 # Communication avec les animaux
 
-- SRD: [Speak with Animals](srd_spells_speak_with_animals.md)
+- Alias: [Speak with Animals](srd_spells_speak_with_animals.md)
 
 -  Divination de niveau 1 (rituel)
 
@@ -60527,7 +60527,7 @@ Vous devenez capable de comprendre les bêtes et de communiquer verbalement avec
 
 # Communication avec les morts
 
-- SRD: [Speak with Dead](srd_spells_speak_with_dead.md)
+- Alias: [Speak with Dead](srd_spells_speak_with_dead.md)
 
 -  Nécromancie de niveau 3
 
@@ -60555,7 +60555,7 @@ Vous pouvez poser jusqu'à cinq questions avant la fin de la durée du sort. Les
 
 # Communication avec les plantes
 
-- SRD: [Speak with Plants](srd_spells_speak_with_plants.md)
+- Alias: [Speak with Plants](srd_spells_speak_with_plants.md)
 
 -  Transmutation de niveau 3
 
@@ -60589,7 +60589,7 @@ Ce sort permet de libérer une créature [entravée](hd_conditions_entrave.md) p
 
 # Communion
 
-- SRD: [Commune](srd_spells_commune.md)
+- Alias: [Commune](srd_spells_commune.md)
 
 -  Divination de niveau 5 (rituel)
 
@@ -60619,7 +60619,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 # Communion avec la nature
 
-- SRD: [Commune with Nature](srd_spells_commune_with_nature.md)
+- Alias: [Commune with Nature](srd_spells_commune_with_nature.md)
 
 -  Divination de niveau 5 (rituel)
 
@@ -60703,7 +60703,7 @@ Lorsque vous choisissez d'autres effets, ce second compagnon en bénéficie auss
 
 # Compréhension des langues
 
-- SRD: [Comprehend Languages](srd_spells_comprehend_languages.md)
+- Alias: [Comprehend Languages](srd_spells_comprehend_languages.md)
 
 -  Divination de niveau 1 (rituel)
 
@@ -60731,7 +60731,7 @@ Ce sort ne décode pas les messages secrets compris dans un texte ni les glyphes
 
 # Compulsion
 
-- SRD: [Compulsion](srd_spells_compulsion.md)
+- Alias: [Compulsion](srd_spells_compulsion.md)
 
 -  Enchantement de niveau 4
 
@@ -60759,7 +60759,7 @@ Une cible n'est pas obligée de se rendre au sein d'une zone à l'évidence dang
 
 # Cône de froid
 
-- SRD: [Cone of Cold](srd_spells_cone_of_cold.md)
+- Alias: [Cone of Cold](srd_spells_cone_of_cold.md)
 
 -  Évocation de niveau 5
 
@@ -60789,7 +60789,7 @@ Une créature qui succombe suite à ce sort se transforme en statue de glace jus
 
 # Confusion
 
-- SRD: [Confusion](srd_spells_confusion.md)
+- Alias: [Confusion](srd_spells_confusion.md)
 
 -  Enchantement de niveau 4
 
@@ -60830,7 +60830,7 @@ Une créature affectée peut faire un [jet de sauvegarde](hd_abilities_jets_de_s
 
 # Contact glacial
 
-- SRD: [Chill Touch](srd_spells_chill_touch.md)
+- Alias: [Chill Touch](srd_spells_chill_touch.md)
 
 -  Nécromancie, tour de magie
 
@@ -60862,7 +60862,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez les niveaux 5 (2d8),
 
 # Contacter un autre plan
 
-- SRD: [Contact Other Plane](srd_spells_contact_other_plane.md)
+- Alias: [Contact Other Plane](srd_spells_contact_other_plane.md)
 
 -  Divination de niveau 5 (rituel)
 
@@ -60892,7 +60892,7 @@ Si vous réussissez votre [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md
 
 # Contagion
 
-- SRD: [Contagion](srd_spells_contagion.md)
+- Alias: [Contagion](srd_spells_contagion.md)
 
 -  Nécromancie de niveau 5
 
@@ -60940,7 +60940,7 @@ Elle subit un désavantage lors des tests de [Charisme](hd_abilities_charisma.md
 
 # Contamination
 
-- SRD: [Harm](srd_spells_harm.md)
+- Alias: [Harm](srd_spells_harm.md)
 
 -  Nécromancie de niveau 6
 
@@ -60966,7 +60966,7 @@ Vous transmettez une maladie virulente à une créature située à portée et da
 
 # Contingence
 
-- SRD: [Contingency](srd_spells_contingency.md)
+- Alias: [Contingency](srd_spells_contingency.md)
 
 -  Évocation de niveau 6
 
@@ -60998,7 +60998,7 @@ Vous ne pouvez utiliser qu'un seul sort de contingence à la fois. Si vous en la
 
 # Contresort
 
-- SRD: [Counterspell](srd_spells_counterspell.md)
+- Alias: [Counterspell](srd_spells_counterspell.md)
 
 -  Abjuration de niveau 3
 
@@ -61028,7 +61028,7 @@ Si elle essayait de lancer un sort de niveau 3 ou moins, il échoue et reste san
 
 # Contrôle de l'eau
 
-- SRD: [Control Water](srd_spells_control_water.md)
+- Alias: [Control Water](srd_spells_control_water.md)
 
 -  Transmutation de niveau 4
 
@@ -61068,7 +61068,7 @@ Quand une créature entre dans le vortex pour la première fois de son tour ou q
 
 # Contrôle du climat
 
-- SRD: [Control Weather](srd_spells_control_weather.md)
+- Alias: [Control Weather](srd_spells_control_weather.md)
 
 -  Transmutation de niveau 8
 
@@ -61131,7 +61131,7 @@ Vent
 
 # Convocations instantanées
 
-- SRD: [Instant Summons](srd_spells_instant_summons.md)
+- Alias: [Instant Summons](srd_spells_instant_summons.md)
 
 -  Invocation de niveau 6 (rituel)
 
@@ -61165,7 +61165,7 @@ _[Dissipation de la magie](hd_spells_dissipation_de_la_magie.md)_ ou un effet si
 
 # Coquille antivie
 
-- SRD: [Antilife Shell](srd_spells_antilife_shell.md)
+- Alias: [Antilife Shell](srd_spells_antilife_shell.md)
 
 -  Abjuration de niveau 5
 
@@ -61195,7 +61195,7 @@ Si vous vous déplacez de telle manière qu'une créature affectée est contrain
 
 # Corde enchantée
 
-- SRD: [Rope Trick](srd_spells_rope_trick.md)
+- Alias: [Rope Trick](srd_spells_rope_trick.md)
 
 -  Transmutation de niveau 2
 
@@ -61229,7 +61229,7 @@ Tout ce qui se trouve dans l'espace extradimensionnel tombe à l'extérieur quan
 
 # Couleurs dansantes
 
-- SRD: [Color Spray](srd_spells_color_spray.md)
+- Alias: [Color Spray](srd_spells_color_spray.md)
 
 -  Illusion de niveau 1
 
@@ -61259,7 +61259,7 @@ Chaque créature affectée, en commençant par celle qui possède actuellement l
 
 # Création
 
-- SRD: [Creation](srd_spells_creation.md)
+- Alias: [Creation](srd_spells_creation.md)
 
 -  Illusion de niveau 5
 
@@ -61301,7 +61301,7 @@ Si vous utilisez les matériaux créés via ce sort comme composantes matériell
 
 # Création de mort-vivant
 
-- SRD: [Create Undead](srd_spells_create_undead.md)
+- Alias: [Create Undead](srd_spells_create_undead.md)
 
 -  Nécromancie de niveau 6
 
@@ -61339,7 +61339,7 @@ Quand vous le lancez à partir d'un emplacement de niveau 9, vous pouvez animer 
 
 # Création de nourriture et d'eau
 
-- SRD: [Create Food and Water](srd_spells_create_food_and_water.md)
+- Alias: [Create Food and Water](srd_spells_create_food_and_water.md)
 
 -  Invocation de niveau 3
 
@@ -61365,7 +61365,7 @@ Vous créez 25 kilogrammes de nourriture et 120 litres d'eau, soit par terre, so
 
 # Création ou destruction d'eau
 
-- SRD: [Create or Destroy Water](srd_spells_create_or_destroy_water.md)
+- Alias: [Create or Destroy Water](srd_spells_create_or_destroy_water.md)
 
 -  Transmutation de niveau 1
 
@@ -61399,7 +61399,7 @@ Sinon, l'eau peut tomber en pluie dans un cube de 9 mètres d'arête à portée,
 
 # Croissance d'épines
 
-- SRD: [Spike Growth](srd_spells_spike_growth.md)
+- Alias: [Spike Growth](srd_spells_spike_growth.md)
 
 -  Transmutation de niveau 2
 
@@ -61427,7 +61427,7 @@ La transformation du sol est camouflée, de manière à ce que le terrain ait l'
 
 # Croissance végétale
 
-- SRD: [Plant Growth](srd_spells_plant_growth.md)
+- Alias: [Plant Growth](srd_spells_plant_growth.md)
 
 -  Transmutation de niveau 3
 
@@ -61461,7 +61461,7 @@ Vous pouvez exclure une ou plusieurs portions, de n'importe quelle taille, de la
 
 # Danse irrésistible
 
-- SRD: [Irresistible Dance](srd_spells_irresistible_dance.md)
+- Alias: [Irresistible Dance](srd_spells_irresistible_dance.md)
 
 -  Enchantement de niveau 6
 
@@ -61491,7 +61491,7 @@ Tant que la cible est affectée par ce sort, les autres créatures bénéficient
 
 # Déblocage
 
-- SRD: [Knock](srd_spells_knock.md)
+- Alias: [Knock](srd_spells_knock.md)
 
 -  Transmutation de niveau 2
 
@@ -61521,7 +61521,7 @@ Quand vous lancez le sort, un cliquetis émane de l'objet et retentit si fort qu
 
 # Déguisement
 
-- SRD: [Disguise Self](srd_spells_disguise_self.md)
+- Alias: [Disguise Self](srd_spells_disguise_self.md)
 
 -  Illusion de niveau 1
 
@@ -61551,7 +61551,7 @@ Pour percer votre déguisement à jour, une créature peut dépenser une action 
 
 # Demi-plan
 
-- SRD: [Demiplane](srd_spells_demiplane.md)
+- Alias: [Demiplane](srd_spells_demiplane.md)
 
 -  Invocation de niveau 8
 
@@ -61579,7 +61579,7 @@ Vous pouvez créer un nouveau demi-plan pour chaque incantation du sort ou relie
 
 # Déplacer la terre
 
-- SRD: [Move Earth](srd_spells_move_earth.md)
+- Alias: [Move Earth](srd_spells_move_earth.md)
 
 -  Transmutation de niveau 6
 
@@ -61611,7 +61611,7 @@ De même, le sort n'affecte pas directement la croissance des plantes. La terre 
 
 # Désintégration
 
-- SRD: [Disintegrate](srd_spells_disintegrate.md)
+- Alias: [Disintegrate](srd_spells_disintegrate.md)
 
 -  Transmutation de niveau 6
 
@@ -61667,7 +61667,7 @@ Les morts-vivants, les créatures artificielles et les élémentaires sont immun
 
 # Détection de la magie
 
-- SRD: [Detect Magic](srd_spells_detect_magic.md)
+- Alias: [Detect Magic](srd_spells_detect_magic.md)
 
 -  Divination de niveau 1 (rituel)
 
@@ -61695,7 +61695,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 # Détection des pensées
 
-- SRD: [Detect Thoughts](srd_spells_detect_thoughts.md)
+- Alias: [Detect Thoughts](srd_spells_detect_thoughts.md)
 
 -  Divination de niveau 2
 
@@ -61737,7 +61737,7 @@ Une fois que vous avez ainsi détecté la présence d'une créature, vous pouvez
 
 # Détection du mal et du bien
 
-- SRD: [Detect Evil and Good](srd_spells_detect_evil_and_good.md)
+- Alias: [Detect Evil and Good](srd_spells_detect_evil_and_good.md)
 
 -  Divination de niveau 1
 
@@ -61765,7 +61765,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 # Détection du poison et des maladies
 
-- SRD: [Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)
+- Alias: [Detect Poison and Disease](srd_spells_detect_poison_and_disease.md)
 
 -  Divination de niveau 1 (rituel)
 
@@ -61793,7 +61793,7 @@ Le sort ignore la plupart des obstacles, mais il ne peut pas franchir 30 centim�
 
 # Disque flottant
 
-- SRD: [Floating Disk](srd_spells_floating_disk.md)
+- Alias: [Floating Disk](srd_spells_floating_disk.md)
 
 -  Invocation de niveau 1 (rituel)
 
@@ -61825,7 +61825,7 @@ Si vous vous éloignez à plus de 30 mètres du disque (typiquement parce qu'il 
 
 # Dissipation de la magie
 
-- SRD: [Dispel Magic](srd_spells_dispel_magic.md)
+- Alias: [Dispel Magic](srd_spells_dispel_magic.md)
 
 -  Abjuration de niveau 3
 
@@ -61853,7 +61853,7 @@ Choisissez une créature, un objet ou un effet magique à portée. Tout sort de 
 
 # Dissipation du mal et du bien
 
-- SRD: [Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)
+- Alias: [Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)
 
 -  Abjuration de niveau 5
 
@@ -61885,7 +61885,7 @@ Vous pouvez terminer le sort plus tôt en utilisant l'une des fonctions spécial
 
 # Divination
 
-- SRD: [Divination](srd_spells_divination.md)
+- Alias: [Divination](srd_spells_divination.md)
 
 -  Divination de niveau 4 (rituel)
 
@@ -61915,7 +61915,7 @@ Si vous lancez ce sort à deux reprises ou plus avant un long repos, il y a 25 %
 
 # Doigt de mort
 
-- SRD: [Finger of Death](srd_spells_finger_of_death.md)
+- Alias: [Finger of Death](srd_spells_finger_of_death.md)
 
 -  Nécromancie de niveau 7
 
@@ -61943,7 +61943,7 @@ Si ce sort achève un humanoïde, ce dernier se relève au début de votre proch
 
 # Dominer un humanoïde
 
-- SRD: [Dominate Person](srd_spells_dominate_person.md)
+- Alias: [Dominate Person](srd_spells_dominate_person.md)
 
 -  Enchantement de niveau 5
 
@@ -61983,7 +61983,7 @@ Si vous lancez ce sort en utilisant un emplacement de niveau 8, la durée devien
 
 # Dominer un monstre
 
-- SRD: [Dominate Monster](srd_spells_dominate_monster.md)
+- Alias: [Dominate Monster](srd_spells_dominate_monster.md)
 
 -  Enchantement de niveau 8
 
@@ -62021,7 +62021,7 @@ Si elle le réussit, le sort prend fin.
 
 # Dominer une bête
 
-- SRD: [Dominate Beast](srd_spells_dominate_beast.md)
+- Alias: [Dominate Beast](srd_spells_dominate_beast.md)
 
 -  Enchantement de niveau 4
 
@@ -62059,7 +62059,7 @@ Si elle le réussit, le sort prend fin.
 
 # Doux repos
 
-- SRD: [Gentle Repose](srd_spells_gentle_repose.md)
+- Alias: [Gentle Repose](srd_spells_gentle_repose.md)
 
 -  Nécromancie de niveau 2 (rituel)
 
@@ -62087,7 +62087,7 @@ Le sort rallonge aussi la période pendant laquelle on peut rappeler la cible d'
 
 # Druidisme
 
-- SRD: [Druidcraft](srd_spells_druidcraft.md)
+- Alias: [Druidcraft](srd_spells_druidcraft.md)
 
 -  Transmutation, tour de magie
 
@@ -62121,7 +62121,7 @@ Vous créez l'un des effets suivants à portée après quelques murmures adress�
 
 # Éclair
 
-- SRD: [Lightning Bolt](srd_spells_lightning_bolt.md)
+- Alias: [Lightning Bolt](srd_spells_lightning_bolt.md)
 
 -  Évocation de niveau 3
 
@@ -62175,7 +62175,7 @@ Vous pouvez lancer un éclat de bois supplémentaire lorsque vous atteignez les 
 
 # Éclat du soleil
 
-- SRD: [Sunburst](srd_spells_sunburst.md)
+- Alias: [Sunburst](srd_spells_sunburst.md)
 
 -  Évocation de niveau 8
 
@@ -62207,7 +62207,7 @@ Ce sort dissipe toutes les ténèbres issues d'un sort présentes dans la zone.
 
 # Embruns prismatiques
 
-- SRD: [Prismatic Spray](srd_spells_prismatic_spray.md)
+- Alias: [Prismatic Spray](srd_spells_prismatic_spray.md)
 
 -  Évocation de niveau 7
 
@@ -62247,7 +62247,7 @@ Huit rayons de lumière multicolores jaillissent de votre main. Chacun a une cou
 
 # Emprisonnement
 
-- SRD: [Imprisonment](srd_spells_imprisonment.md)
+- Alias: [Imprisonment](srd_spells_imprisonment.md)
 
 -  Abjuration de niveau 9
 
@@ -62297,7 +62297,7 @@ Vous pouvez utiliser une composante spéciale pour créer une prison à la fois 
 
 # Enchevêtrement
 
-- SRD: [Entangle](srd_spells_entangle.md)
+- Alias: [Entangle](srd_spells_entangle.md)
 
 -  Invocation de niveau 1
 
@@ -62327,7 +62327,7 @@ Quand le sort se termine, les plantes invoquées flétrissent.
 
 # Entrave planaire
 
-- SRD: [Planar Binding](srd_spells_planar_binding.md)
+- Alias: [Planar Binding](srd_spells_planar_binding.md)
 
 -  Abjuration de niveau 5
 
@@ -62357,7 +62357,7 @@ La créature liée doit suivre vos instructions au mieux de ses capacités. Vous
 
 # Envoi de message
 
-- SRD: [Sending](srd_spells_sending.md)
+- Alias: [Sending](srd_spells_sending.md)
 
 -  Évocation de niveau 3
 
@@ -62385,7 +62385,7 @@ Vous pouvez envoyer votre message à n'importe quelle distance, et même sur un 
 
 # Envoûtement
 
-- SRD: [Enthrall](srd_spells_enthrall.md)
+- Alias: [Enthrall](srd_spells_enthrall.md)
 
 -  Enchantement de niveau 2
 
@@ -62411,7 +62411,7 @@ Vous entonnez une suite de paroles envoûtantes qui obligent les créatures de v
 
 # Épargner les mourants
 
-- SRD: [Spare the Dying](srd_spells_spare_the_dying.md)
+- Alias: [Spare the Dying](srd_spells_spare_the_dying.md)
 
 -  Nécromancie, tour de magie
 
@@ -62455,7 +62455,7 @@ Votre épée devient une épée de justice pour toute la durée du sort. Elle b�
 
 # Épée magique
 
-- SRD: [Arcane Sword](srd_spells_arcane_sword.md)
+- Alias: [Arcane Sword](srd_spells_arcane_sword.md)
 
 -  Évocation de niveau 7
 
@@ -62483,7 +62483,7 @@ Dès que l'épée apparaît, vous faites une attaque de sort au corps-à-corps c
 
 # Esprit faible
 
-- SRD: [Feeblemind](srd_spells_feeblemind.md)
+- Alias: [Feeblemind](srd_spells_feeblemind.md)
 
 -  Enchantement de niveau 8
 
@@ -62513,7 +62513,7 @@ La créature peut refaire un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde
 
 # Esprit impénétrable
 
-- SRD: [Mind Blank](srd_spells_mind_blank.md)
+- Alias: [Mind Blank](srd_spells_mind_blank.md)
 
 -  Abjuration de niveau 8
 
@@ -62539,7 +62539,7 @@ Vous touchez une créature consentante et, jusqu'à la fin du sort, vous l'immun
 
 # Esprits gardiens
 
-- SRD: [Spirit Guardians](srd_spells_spirit_guardians.md)
+- Alias: [Spirit Guardians](srd_spells_spirit_guardians.md)
 
 -  Invocation de niveau 3
 
@@ -62571,7 +62571,7 @@ Si elle échoue, elle subit 3d8 dégâts radiants (si vous êtes Bon ou Neutre) 
 
 # Étrangeté
 
-- SRD: [Weird](srd_spells_weird.md)
+- Alias: [Weird](srd_spells_weird.md)
 
 -  Illusion de niveau 9
 
@@ -62597,7 +62597,7 @@ Vous puisez dans les peurs les plus profondes d'un groupe de créatures et crée
 
 # Éveil
 
-- SRD: [Awaken](srd_spells_awaken.md)
+- Alias: [Awaken](srd_spells_awaken.md)
 
 -  Transmutation de niveau 5
 
@@ -62663,7 +62663,7 @@ La prochaine fois que vous réussissez une attaque de corps-à-corps pendant la 
 
 # Explosion occulte
 
-- SRD: [Eldritch Blast](srd_spells_eldritch_blast.md)
+- Alias: [Eldritch Blast](srd_spells_eldritch_blast.md)
 
 -  Évocation, tour de magie
 
@@ -62691,7 +62691,7 @@ Le sort crée des rayons supplémentaires quand vous atteignez certains niveaux 
 
 # Fabrication
 
-- SRD: [Fabricate](srd_spells_fabricate.md)
+- Alias: [Fabricate](srd_spells_fabricate.md)
 
 -  Transmutation de niveau 4
 
@@ -62721,7 +62721,7 @@ Il est impossible de créer ou de transmuter des créatures ou des objets magiqu
 
 # Façonnage de la pierre
 
-- SRD: [Stone Shape](srd_spells_stone_shape.md)
+- Alias: [Stone Shape](srd_spells_stone_shape.md)
 
 -  Transmutation de niveau 4
 
@@ -62747,7 +62747,7 @@ Vous touchez un objet de pierre de taille M ou inférieure ou une section de pie
 
 # Faveur divine
 
-- SRD: [Divine Favor](srd_spells_divine_favor.md)
+- Alias: [Divine Favor](srd_spells_divine_favor.md)
 
 -  Évocation de niveau 1
 
@@ -62775,7 +62775,7 @@ Jusqu'à la fin du sort, les attaques que vous portez avec une arme infligent 1d
 
 # Festin des héros
 
-- SRD: [Heroes' Feast](srd_spells_heroes_feast.md)
+- Alias: [Heroes' Feast](srd_spells_heroes_feast.md)
 
 -  Invocation de niveau 6
 
@@ -62827,7 +62827,7 @@ Chaque créature dans la zone doit réussir un [jet de sauvegarde](hd_abilities_
 
 # Flamme éternelle
 
-- SRD: [Continual Flame](srd_spells_continual_flame.md)
+- Alias: [Continual Flame](srd_spells_continual_flame.md)
 
 -  Évocation de niveau 2
 
@@ -62853,7 +62853,7 @@ Une flamme à la luminosité égale à celle d'une torche embrase soudain l'obje
 
 # Flamme sacrée
 
-- SRD: [Sacred Flame](srd_spells_sacred_flame.md)
+- Alias: [Sacred Flame](srd_spells_sacred_flame.md)
 
 -  Évocation, tour de magie
 
@@ -62883,7 +62883,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8), 1
 
 # Fléau
 
-- SRD: [Bane](srd_spells_bane.md)
+- Alias: [Bane](srd_spells_bane.md)
 
 -  Enchantement de niveau 1
 
@@ -62913,7 +62913,7 @@ Dès qu'une cible qui a raté ce jet effectue un jet d'attaque ou de sauvegarde 
 
 # Fléau d'insectes
 
-- SRD: [Insect Plague](srd_spells_insect_plague.md)
+- Alias: [Insect Plague](srd_spells_insect_plague.md)
 
 -  Invocation de niveau 5
 
@@ -62945,7 +62945,7 @@ Une créature doit effectuer le même jet quand elle entre dans la sphère pour 
 
 # Flèche acide
 
-- SRD: [Acid Arrow](srd_spells_acid_arrow.md)
+- Alias: [Acid Arrow](srd_spells_acid_arrow.md)
 
 -  Évocation de niveau 2
 
@@ -62973,7 +62973,7 @@ Une flèche d'un vert chatoyant file vers une cible située à portée et explos
 
 # Flétrissement
 
-- SRD: [Blight](srd_spells_blight.md)
+- Alias: [Blight](srd_spells_blight.md)
 
 -  Nécromancie de niveau 4
 
@@ -63003,7 +63003,7 @@ Si vous visez une créature végétale ou une plante magique, elle subit un dés
 
 # Flou
 
-- SRD: [Blur](srd_spells_blur.md)
+- Alias: [Blur](srd_spells_blur.md)
 
 -  Illusion de niveau 2
 
@@ -63029,7 +63029,7 @@ Votre corps devient flou, il ondule et vacille comme une flamme aux yeux d'autru
 
 # Forme éthérée
 
-- SRD: [Etherealness](srd_spells_etherealness.md)
+- Alias: [Etherealness](srd_spells_etherealness.md)
 
 -  Transmutation de niveau 7
 
@@ -63065,7 +63065,7 @@ Ce sort n'a aucun effet si vous le lancez alors que vous vous trouvez sur le pla
 
 # Forme gazeuse
 
-- SRD: [Gaseous Form](srd_spells_gaseous_form.md)
+- Alias: [Gaseous Form](srd_spells_gaseous_form.md)
 
 -  Transmutation de niveau 3
 
@@ -63097,7 +63097,7 @@ Sous forme de nuage brumeux, la cible ne peut pas parler ni manipuler d'objet. I
 
 # Formes animales
 
-- SRD: [Animal Shapes](srd_spells_animal_shapes.md)
+- Alias: [Animal Shapes](srd_spells_animal_shapes.md)
 
 -  Transmutation de niveau 8
 
@@ -63127,7 +63127,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 
 # Fou rire
 
-- SRD: [Hideous Laughter](srd_spells_hideous_laughter.md)
+- Alias: [Hideous Laughter](srd_spells_hideous_laughter.md)
 
 -  Enchantement de niveau 1
 
@@ -63183,7 +63183,7 @@ Le type de dégâts supplémentaires infligés et la nature de l'effet dépenden
 
 # Frappe lumineuse
 
-- SRD: [Branding Smite](srd_spells_branding_smite.md)
+- Alias: [Branding Smite](srd_spells_branding_smite.md)
 
 -  Évocation de niveau 2
 
@@ -63211,7 +63211,7 @@ La prochaine attaque avec une arme de corps-àcorps ou à distance qui vous perm
 
 # Fusion dans la pierre
 
-- SRD: [Meld into Stone](srd_spells_meld_into_stone.md)
+- Alias: [Meld into Stone](srd_spells_meld_into_stone.md)
 
 -  Transmutation de niveau 3 (rituel)
 
@@ -63243,7 +63243,7 @@ Vous n'êtes pas blessé si la pierre subit des dégâts mineurs mais, si elle e
 
 # Gardien de la foi
 
-- SRD: [Guardian of Faith](srd_spells_guardian_of_faith.md)
+- Alias: [Guardian of Faith](srd_spells_guardian_of_faith.md)
 
 -  Invocation de niveau 4
 
@@ -63293,7 +63293,7 @@ Si le jet est réussi, les dégâts sont réduits de moitié.
 
 # Globe d'invulnérabilité
 
-- SRD: [Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)
+- Alias: [Globe of Invulnerability](srd_spells_globe_of_invulnerability.md)
 
 -  Abjuration de niveau 6
 
@@ -63323,7 +63323,7 @@ Tout sort de niveau 5 ou inférieur lancé depuis l'extérieur de la barrière s
 
 # Glyphe de protection
 
-- SRD: [Glyph of Warding](srd_spells_glyph_of_warding.md)
+- Alias: [Glyph of Warding](srd_spells_glyph_of_warding.md)
 
 -  Abjuration de niveau 3
 
@@ -63365,7 +63365,7 @@ Lorsque vous dessinez le glyphe, vous devez choisir entre des runes explosives o
 
 # Gourdin magique
 
-- SRD: [Shillelagh](srd_spells_shillelagh.md)
+- Alias: [Shillelagh](srd_spells_shillelagh.md)
 
 -  Transmutation, tour de magie
 
@@ -63391,7 +63391,7 @@ La puissance du monde naturel imprègne le bois du bâton ou du gourdin que vous
 
 # Graisse
 
-- SRD: [Grease](srd_spells_grease.md)
+- Alias: [Grease](srd_spells_grease.md)
 
 -  Invocation de niveau 1
 
@@ -63419,7 +63419,7 @@ Lorsque la graisse apparaît, chaque créature qui se trouve dans la zone affect
 
 # Grande foulée
 
-- SRD: [Longstrider](srd_spells_longstrider.md)
+- Alias: [Longstrider](srd_spells_longstrider.md)
 
 -  Transmutation de niveau 1
 
@@ -63447,7 +63447,7 @@ Vous touchez une créature dont la vitesse augmente de 3 mètres jusqu'à la fin
 
 # Guérison
 
-- SRD: [Heal](srd_spells_heal.md)
+- Alias: [Heal](srd_spells_heal.md)
 
 -  Évocation de niveau 6
 
@@ -63475,7 +63475,7 @@ Choisissez une créature située à portée et dans votre champ de vision. Une b
 
 # Guérison de groupe
 
-- SRD: [Mass Heal](srd_spells_mass_heal.md)
+- Alias: [Mass Heal](srd_spells_mass_heal.md)
 
 -  Évocation de niveau 9
 
@@ -63523,7 +63523,7 @@ Enfin, le sort met un terme aux effets de réduction des points de vie maximum p
 
 # Hâte
 
-- SRD: [Haste](srd_spells_haste.md)
+- Alias: [Haste](srd_spells_haste.md)
 
 -  Transmutation de niveau 3
 
@@ -63551,7 +63551,7 @@ Quand le sort se termine, la cible ne peut pas se déplacer ni effectuer une act
 
 # Héroïsme
 
-- SRD: [Heroism](srd_spells_heroism.md)
+- Alias: [Heroism](srd_spells_heroism.md)
 
 -  Enchantement de niveau 1
 
@@ -63579,7 +63579,7 @@ Vous imprégnez de courage une créature consentante que vous touchez. Jusqu'à 
 
 # Identification
 
-- SRD: [Identify](srd_spells_identify.md)
+- Alias: [Identify](srd_spells_identify.md)
 
 -  Divination de niveau 1 (rituel)
 
@@ -63607,7 +63607,7 @@ Si, à la place, vous touchez une créature pendant toute l'incantation, vous d�
 
 # Illusion mineure
 
-- SRD: [Minor Illusion](srd_spells_minor_illusion.md)
+- Alias: [Minor Illusion](srd_spells_minor_illusion.md)
 
 -  Illusion, tour de magie
 
@@ -63639,7 +63639,7 @@ Si une créature utilise son action pour examiner le son ou l'image, elle compre
 
 # Illusion programmée
 
-- SRD: [Programmed Illusion](srd_spells_programmed_illusion.md)
+- Alias: [Programmed Illusion](srd_spells_programmed_illusion.md)
 
 -  Illusion de niveau 6
 
@@ -63671,7 +63671,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 # Image majeure
 
-- SRD: [Major Image](srd_spells_major_image.md)
+- Alias: [Major Image](srd_spells_major_image.md)
 
 -  Illusion de niveau 3
 
@@ -63703,7 +63703,7 @@ Les interactions physiques avec l'image révèlent qu'elle n'est qu'une illusion
 
 # Image miroir
 
-- SRD: [Mirror Image](srd_spells_mirror_image.md)
+- Alias: [Mirror Image](srd_spells_mirror_image.md)
 
 -  Illusion de niveau 2
 
@@ -63741,7 +63741,7 @@ Une créature n'est pas affectée par ce sort si elle ne voit pas, si elle se se
 
 # Image projetée
 
-- SRD: [Project Image](srd_spells_project_image.md)
+- Alias: [Project Image](srd_spells_project_image.md)
 
 -  Illusion de niveau 7
 
@@ -63773,7 +63773,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 # Image silencieuse
 
-- SRD: [Silent Image](srd_spells_silent_image.md)
+- Alias: [Silent Image](srd_spells_silent_image.md)
 
 -  Illusion de niveau 1
 
@@ -63803,7 +63803,7 @@ Les interactions physiques révèlent que l'image n'est qu'une illusion, car les
 
 # Immobiliser un humanoïde
 
-- SRD: [Hold Person](srd_spells_hold_person.md)
+- Alias: [Hold Person](srd_spells_hold_person.md)
 
 -  Enchantement de niveau 2
 
@@ -63831,7 +63831,7 @@ Choisissez un humanoïde situé à portée et dans votre champ de vision. Il doi
 
 # Immobiliser un monstre
 
-- SRD: [Hold Monster](srd_spells_hold_monster.md)
+- Alias: [Hold Monster](srd_spells_hold_monster.md)
 
 -  Enchantement de niveau 5
 
@@ -63861,7 +63861,7 @@ Les créatures visées doivent se trouver à 9 mètres ou moins les unes des aut
 
 # Injonction
 
-- SRD: [Command](srd_spells_command.md)
+- Alias: [Command](srd_spells_command.md)
 
 -  Enchantement de niveau 1
 
@@ -63901,7 +63901,7 @@ Voici quelques ordres typiques et leurs effets. Vous pouvez donner un ordre diff
 
 # Insecte géant
 
-- SRD: [Giant Insect](srd_spells_giant_insect.md)
+- Alias: [Giant Insect](srd_spells_giant_insect.md)
 
 -  Transmutation de niveau 4
 
@@ -63957,7 +63957,7 @@ Au début de chacun de ses tours, la créature doit réussir un [jet de sauvegar
 
 # Interdiction
 
-- SRD: [Forbiddance](srd_spells_forbiddance.md)
+- Alias: [Forbiddance](srd_spells_forbiddance.md)
 
 -  Abjuration de niveau 6 (rituel)
 
@@ -63993,7 +63993,7 @@ La zone d'effet de ce sort ne peut pas se superposer à celle d'un autre sort d'
 
 # Inversion de la gravité
 
-- SRD: [Reverse Gravity](srd_spells_reverse_gravity.md)
+- Alias: [Reverse Gravity](srd_spells_reverse_gravity.md)
 
 -  Transmutation de niveau 7
 
@@ -64023,7 +64023,7 @@ Une fois la durée du sort écoulée, les objets et les créatures affectés ret
 
 # Invisibilité
 
-- SRD: [Invisibility](srd_spells_invisibility.md)
+- Alias: [Invisibility](srd_spells_invisibility.md)
 
 -  Illusion de niveau 2
 
@@ -64051,7 +64051,7 @@ La créature que vous touchez devient [invisible](hd_conditions_invisible.md) ju
 
 # Invisibilité supérieure
 
-- SRD: [Greater Invisibility](srd_spells_greater_invisibility.md)
+- Alias: [Greater Invisibility](srd_spells_greater_invisibility.md)
 
 -  Illusion de niveau 4
 
@@ -64077,7 +64077,7 @@ Vous devenez [invisible](hd_conditions_invisible.md) jusqu'à ce que le sort se 
 
 # Invoquer des animaux
 
-- SRD: [Conjure Animals](srd_spells_conjure_animals.md)
+- Alias: [Conjure Animals](srd_spells_conjure_animals.md)
 
 -  Invocation de niveau 3
 
@@ -64121,7 +64121,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 # Invoquer des élémentaires mineurs
 
-- SRD: [Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)
+- Alias: [Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)
 
 -  Invocation de niveau 4
 
@@ -64163,7 +64163,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 # Invoquer des êtres des bois
 
-- SRD: [Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)
+- Alias: [Conjure Woodland Beings](srd_spells_conjure_woodland_beings.md)
 
 -  Invocation de niveau 4
 
@@ -64205,7 +64205,7 @@ C'est le MJ qui dispose du profil technique des créatures.
 
 # Invoquer un céleste
 
-- SRD: [Conjure Celestial](srd_spells_conjure_celestial.md)
+- Alias: [Conjure Celestial](srd_spells_conjure_celestial.md)
 
 -  Invocation de niveau 7
 
@@ -64241,7 +64241,7 @@ C'est le MJ qui dispose du profil technique du céleste.
 
 # Invoquer un élémentaire
 
-- SRD: [Conjure Elemental](srd_spells_conjure_elemental.md)
+- Alias: [Conjure Elemental](srd_spells_conjure_elemental.md)
 
 -  Invocation de niveau 5
 
@@ -64277,7 +64277,7 @@ C'est le MJ qui dispose du profil technique de l'élémentaire.
 
 # Invoquer une fée
 
-- SRD: [Conjure Fey](srd_spells_conjure_fey.md)
+- Alias: [Conjure Fey](srd_spells_conjure_fey.md)
 
 -  Invocation de niveau 6
 
@@ -64311,7 +64311,7 @@ C'est le MJ qui dispose du profil technique de la créature féerique.
 
 # Jeter une malédiction
 
-- SRD: [Bestow curse](srd_spells_bestow_curse.md)
+- Alias: [Bestow curse](srd_spells_bestow_curse.md)
 
 -  Nécromancie de niveau 3
 
@@ -64369,7 +64369,7 @@ Vous créez une sphère de 9 mètres de rayon centrée sur un point visible de v
 
 # Labyrinthe
 
-- SRD: [Maze](srd_spells_maze.md)
+- Alias: [Maze](srd_spells_maze.md)
 
 -  Invocation de niveau 8
 
@@ -64403,7 +64403,7 @@ Quand le sort se termine, la cible réapparaît à l'emplacement qu'elle a quitt
 
 # Lame de feu
 
-- SRD: [Flame Blade](srd_spells_flame_blade.md)
+- Alias: [Flame Blade](srd_spells_flame_blade.md)
 
 -  Évocation de niveau 2
 
@@ -64455,7 +64455,7 @@ De plus, la créature touchée se retrouve [aveuglée](hd_conditions_aveugle.md)
 
 # Langues
 
-- SRD: [Tongues](srd_spells_tongues.md)
+- Alias: [Tongues](srd_spells_tongues.md)
 
 -  Divination de niveau 3
 
@@ -64483,7 +64483,7 @@ De plus, quand elle parle, toute créature qui maîtrise au moins une langue et 
 
 # Légende
 
-- SRD: [Legend Lore](srd_spells_legend_lore.md)
+- Alias: [Legend Lore](srd_spells_legend_lore.md)
 
 -  Divination de niveau 5
 
@@ -64515,7 +64515,7 @@ Les informations obtenues sont exactes, mais susceptibles de se présenter dans 
 
 # Léger comme une plume
 
-- SRD: [Feather Fall](srd_spells_feather_fall.md)
+- Alias: [Feather Fall](srd_spells_feather_fall.md)
 
 -  Transmutation de niveau 1
 
@@ -64541,7 +64541,7 @@ Choisissez jusqu'à cinq créatures à portée en train de chuter. La vitesse de
 
 # Lenteur
 
-- SRD: [Slow](srd_spells_slow.md)
+- Alias: [Slow](srd_spells_slow.md)
 
 -  Transmutation de niveau 3
 
@@ -64575,7 +64575,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde](hd_abili
 
 # Lever une malédiction
 
-- SRD: [Remove Curse](srd_spells_remove_curse.md)
+- Alias: [Remove Curse](srd_spells_remove_curse.md)
 
 -  Abjuration de niveau 3
 
@@ -64601,7 +64601,7 @@ Une créature affectée par ce sort fait un nouveau [jet de sauvegarde](hd_abili
 
 # Lévitation
 
-- SRD: [Levitate](srd_spells_levitate.md)
+- Alias: [Levitate](srd_spells_levitate.md)
 
 -  Transmutation de niveau 2
 
@@ -64655,7 +64655,7 @@ La liane a le profil suivant : CA 15, points de vie 30, [Force](hd_abilities_str
 
 # Liberté de mouvement
 
-- SRD: [Freedom of Movement](srd_spells_freedom_of_movement.md)
+- Alias: [Freedom of Movement](srd_spells_freedom_of_movement.md)
 
 -  Abjuration de niveau 4
 
@@ -64683,7 +64683,7 @@ La cible peut également dépenser 1,50 mètre de déplacement pour échapper au
 
 # Lien de protection
 
-- SRD: [Warding Bond](srd_spells_warding_bond.md)
+- Alias: [Warding Bond](srd_spells_warding_bond.md)
 
 -  Abjuration de niveau 2
 
@@ -64713,7 +64713,7 @@ Le sort se termine si vous tombez à 0 point de vie ou si votre cible et vous ê
 
 # Lien télépathique
 
-- SRD: [Telepathic Bond](srd_spells_telepathic_bond.md)
+- Alias: [Telepathic Bond](srd_spells_telepathic_bond.md)
 
 -  Divination de niveau 5 (rituel)
 
@@ -64743,7 +64743,7 @@ Jusqu'à la fin du sort, les cibles peuvent communiquer entre elles par télépa
 
 # Localiser des animaux ou des plantes
 
-- SRD: [Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)
+- Alias: [Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)
 
 -  Divination de niveau 2 (rituel)
 
@@ -64769,7 +64769,7 @@ Décrivez ou nommez un type spécifique de bêtes ou de plantes. Vous vous conce
 
 # Localiser un objet
 
-- SRD: [Locate Object](srd_spells_locate_object.md)
+- Alias: [Locate Object](srd_spells_locate_object.md)
 
 -  Divination de niveau 2
 
@@ -64801,7 +64801,7 @@ Le sort ne parvient pas à localiser l'objet si une couche de plomb, aussi mince
 
 # Localiser une créature
 
-- SRD: [Locate Creature](srd_spells_locate_creature.md)
+- Alias: [Locate Creature](srd_spells_locate_creature.md)
 
 -  Divination de niveau 4
 
@@ -64833,7 +64833,7 @@ Le sort ne parvient pas à localiser la créature si le chemin qui vous relie di
 
 # Lueur d'espoir
 
-- SRD: [Beacon of Hope](srd_spells_beacon_of_hope.md)
+- Alias: [Beacon of Hope](srd_spells_beacon_of_hope.md)
 
 -  Abjuration de niveau 3
 
@@ -64861,7 +64861,7 @@ Pendant toute la durée du sort, elles bénéficient d'un avantage lors des [jet
 
 # Lueurs féeriques
 
-- SRD: [Faerie Fire](srd_spells_faerie_fire.md)
+- Alias: [Faerie Fire](srd_spells_faerie_fire.md)
 
 -  Évocation de niveau 1
 
@@ -64889,7 +64889,7 @@ Un assaillant a l'avantage lors du jet d'attaque contre une cible affectée s'il
 
 # Lumière
 
-- SRD: [Light](srd_spells_light.md)
+- Alias: [Light](srd_spells_light.md)
 
 -  Évocation, tour de magie
 
@@ -64921,7 +64921,7 @@ Si vous visez un objet porté ou transporté par une créature hostile, cette de
 
 # Lumière du jour
 
-- SRD: [Daylight](srd_spells_daylight.md)
+- Alias: [Daylight](srd_spells_daylight.md)
 
 -  Évocation de niveau 3
 
@@ -64951,7 +64951,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de ténèbres 
 
 # Lumières dansantes
 
-- SRD: [Dancing Lights](srd_spells_dancing_lights.md)
+- Alias: [Dancing Lights](srd_spells_dancing_lights.md)
 
 -  Évocation, tour de magie
 
@@ -64985,7 +64985,7 @@ Elle s'éteint si elle passe hors de portée.
 
 # Main du mage
 
-- SRD: [Mage Hand](srd_spells_mage_hand.md)
+- Alias: [Mage Hand](srd_spells_mage_hand.md)
 
 -  Invocation , tour de magie
 
@@ -65015,7 +65015,7 @@ La main ne peut pas attaquer, activer un objet magique, ni transporter plus de 5
 
 # Main magique
 
-- SRD: [Arcane Hand](srd_spells_arcane_hand.md)
+- Alias: [Arcane Hand](srd_spells_arcane_hand.md)
 
 -  Évocation de niveau 5
 
@@ -65059,7 +65059,7 @@ Faites une attaque de sort de contact pour la main en utilisant vos propres bonu
 
 # Mains brûlantes
 
-- SRD: [Burning Hands](srd_spells_burning_hands.md)
+- Alias: [Burning Hands](srd_spells_burning_hands.md)
 
 -  Évocation de niveau 1
 
@@ -65091,7 +65091,7 @@ Le feu embrase tous les objets inflammables de la zone, à moins que quelqu'un n
 
 # Manoir somptueux
 
-- SRD: [Magnificent Mansion](srd_spells_magnificent_mansion.md)
+- Alias: [Magnificent Mansion](srd_spells_magnificent_mansion.md)
 
 -  Invocation de niveau 7
 
@@ -65149,7 +65149,7 @@ Vous vous recouvrez d'une enveloppe de givre. Vous bénéficiez d'une résistanc
 
 # Marche sur l'eau
 
-- SRD: [Water Walk](srd_spells_water_walk.md)
+- Alias: [Water Walk](srd_spells_water_walk.md)
 
 -  Transmutation de niveau 3 (rituel)
 
@@ -65177,7 +65177,7 @@ Si vous prenez pour cible une créature immergée dans un liquide, le sort la ra
 
 # Marche sur le vent
 
-- SRD: [Wind Walk](srd_spells_wind_walk.md)
+- Alias: [Wind Walk](srd_spells_wind_walk.md)
 
 -  Transmutation de niveau 6
 
@@ -65205,7 +65205,7 @@ Si une créature est sous forme de nuage et en plein vol quand le sort se termin
 
 # Marque du chasseur
 
-- SRD: [Hunter's Mark](srd_spells_hunters_mark.md)
+- Alias: [Hunter's Mark](srd_spells_hunters_mark.md)
 
 -  Divination de niveau 1
 
@@ -65233,7 +65233,7 @@ Vous choisissez une créature située dans votre champ de vision et à portée e
 
 # Mauvais oeil
 
-- SRD: [Eyebite](srd_spells_eyebite.md)
+- Alias: [Eyebite](srd_spells_eyebite.md)
 
 -  Nécromancie de niveau 6
 
@@ -65265,7 +65265,7 @@ Pendant la durée du sort, vos yeux deviennent deux trous noirs regorgeant d'un 
 
 # Message
 
-- SRD: [Message](srd_spells_message.md)
+- Alias: [Message](srd_spells_message.md)
 
 -  Transmutation, tour de magie
 
@@ -65293,7 +65293,7 @@ Vous pouvez lancer ce sort au travers d'un objet solide si vous connaissez bien 
 
 # Messager animal
 
-- SRD: [Animal Messenger](srd_spells_animal_messenger.md)
+- Alias: [Animal Messenger](srd_spells_animal_messenger.md)
 
 -  Enchantement de niveau 2 (rituel)
 
@@ -65327,7 +65327,7 @@ Quand elle arrive sur place, elle transmet votre message à la créature que vou
 
 # Métamorphose
 
-- SRD: [Polymorph](srd_spells_polymorph.md)
+- Alias: [Polymorph](srd_spells_polymorph.md)
 
 -  Transmutation de niveau 4
 
@@ -65361,7 +65361,7 @@ L'équipement de la cible fusionne avec sa nouvelle forme, mais elle ne peut pas
 
 # Métamorphose suprême
 
-- SRD: [True Polymorph](srd_spells_true_polymorph.md)
+- Alias: [True Polymorph](srd_spells_true_polymorph.md)
 
 -  Transmutation de niveau 9
 
@@ -65413,7 +65413,7 @@ Si le sort devient permanent, vous ne contrôlez plus la créature, mais elle pe
 
 # Mirage
 
-- SRD: [Mirage Arcane](srd_spells_mirage_arcane.md)
+- Alias: [Mirage Arcane](srd_spells_mirage_arcane.md)
 
 -  Illusion de niveau 7
 
@@ -65443,7 +65443,7 @@ Les créatures dotées de vision parfaite distinguent le véritable terrain derr
 
 # Modification de mémoire
 
-- SRD: [Modify Memory](srd_spells_modify_memory.md)
+- Alias: [Modify Memory](srd_spells_modify_memory.md)
 
 -  Enchantement de niveau 5
 
@@ -65479,7 +65479,7 @@ Un sort _[lever une malédiction](hd_spells_lever_une_malediction.md)_ ou _[rest
 
 # Modifier son apparence
 
-- SRD: [Alter Self](srd_spells_alter_self.md)
+- Alias: [Alter Self](srd_spells_alter_self.md)
 
 -  Transmutation de niveau 2
 
@@ -65511,7 +65511,7 @@ Vous revêtez une forme différente. Quand vous lancez ce sort, choisissez l'une
 
 # Monture fantôme
 
-- SRD: [Phantom Steed](srd_spells_phantom_steed.md)
+- Alias: [Phantom Steed](srd_spells_phantom_steed.md)
 
 -  Illusion de niveau 3 (rituel)
 
@@ -65541,7 +65541,7 @@ Pendant toute la durée du sort, vous et une créature de votre choix pouvez che
 
 # Moquerie cruelle
 
-- SRD: [Vicious Mockery](srd_spells_vicious_mockery.md)
+- Alias: [Vicious Mockery](srd_spells_vicious_mockery.md)
 
 -  Enchantement, tour de magie
 
@@ -65569,7 +65569,7 @@ Les dégâts du sort augmentent de 1d4 quand vous atteignez le niveau 5 (2d4), l
 
 # Mot de guérison
 
-- SRD: [Healing Word](srd_spells_healing_word.md)
+- Alias: [Healing Word](srd_spells_healing_word.md)
 
 -  Évocation de niveau 1
 
@@ -65597,7 +65597,7 @@ Une créature de votre choix située à portée et dans votre champ de vision r�
 
 # Mot de guérison de groupe
 
-- SRD: [Mass Healing Word](srd_spells_mass_healing_word.md)
+- Alias: [Mass Healing Word](srd_spells_mass_healing_word.md)
 
 -  Évocation de niveau 3
 
@@ -65625,7 +65625,7 @@ Vous prononcez des paroles curatives qui rendent un nombre de points de vie éga
 
 # Mot de pouvoir étourdissant
 
-- SRD: [Power Word Stun](srd_spells_power_word_stun.md)
+- Alias: [Power Word Stun](srd_spells_power_word_stun.md)
 
 -  Enchantement de niveau 8
 
@@ -65653,7 +65653,7 @@ Une cible [étourdie](hd_conditions_etourdi.md) a droit à un [jet de sauvegarde
 
 # Mot de pouvoir mortel
 
-- SRD: [Power Word Kill](srd_spells_power_word_kill.md)
+- Alias: [Power Word Kill](srd_spells_power_word_kill.md)
 
 -  Enchantement de niveau 9
 
@@ -65679,7 +65679,7 @@ Vous prononcez un mot de pouvoir capable d'obliger une créature située à port
 
 # Mot de retour
 
-- SRD: [Word of Recall](srd_spells_word_of_recall.md)
+- Alias: [Word of Recall](srd_spells_word_of_recall.md)
 
 -  Invocation de niveau 6
 
@@ -65707,7 +65707,7 @@ Pour désigner un sanctuaire, vous devez lancer ce sort en un lieu dédié à vo
 
 # Motif hypnotique
 
-- SRD: [Hypnotic Pattern](srd_spells_hypnotic_pattern.md)
+- Alias: [Hypnotic Pattern](srd_spells_hypnotic_pattern.md)
 
 -  Illusion de niveau 3
 
@@ -65737,7 +65737,7 @@ Le sort se termine pour une créature donnée si elle subit le moindre dégât o
 
 # Mur d'épines
 
-- SRD: [Wall of Thorns](srd_spells_wall_of_thorns.md)
+- Alias: [Wall of Thorns](srd_spells_wall_of_thorns.md)
 
 -  Invocation de niveau 6
 
@@ -65771,7 +65771,7 @@ Une créature peut traverser le mur, mais lentement et dans la douleur. Elle doi
 
 # Mur de feu
 
-- SRD: [Wall of Fire](srd_spells_wall_of_fire.md)
+- Alias: [Wall of Fire](srd_spells_wall_of_fire.md)
 
 -  Évocation de niveau 4
 
@@ -65805,7 +65805,7 @@ L'autre face du mur n'inflige pas de dégâts.
 
 # Mur de force
 
-- SRD: [Wall of Force](srd_spells_wall_of_force.md)
+- Alias: [Wall of Force](srd_spells_wall_of_force.md)
 
 -  Évocation de niveau 5
 
@@ -65833,7 +65833,7 @@ Aucun élément ne peut franchir physiquement le mur, qui est immunisé contre t
 
 # Mur de glace
 
-- SRD: [Wall of Ice](srd_spells_wall_of_ice.md)
+- Alias: [Wall of Ice](srd_spells_wall_of_ice.md)
 
 -  Évocation de niveau 6
 
@@ -65865,7 +65865,7 @@ Si elle échoue, elle subit 5d6 dégâts de froid, la moitié seulement si elle 
 
 # Mur de pierre
 
-- SRD: [Wall of Stone](srd_spells_wall_of_stone.md)
+- Alias: [Wall of Stone](srd_spells_wall_of_stone.md)
 
 -  Évocation de niveau 5
 
@@ -65901,7 +65901,7 @@ Si vous restez concentré sur le sort pendant toute sa durée, le mur devient un
 
 # Mur de vent
 
-- SRD: [Wind Wall](srd_spells_wind_wall.md)
+- Alias: [Wind Wall](srd_spells_wind_wall.md)
 
 -  Évocation de niveau 3
 
@@ -65931,7 +65931,7 @@ Le vent fort maintient la brume, la fumée et les autres gaz à l'écart. Les cr
 
 # Mur prismatique
 
-- SRD: [Prismatic Wall](srd_spells_prismatic_wall.md)
+- Alias: [Prismatic Wall](srd_spells_prismatic_wall.md)
 
 -  Abjuration de niveau 9
 
@@ -65983,7 +65983,7 @@ Tant que cette couche est en place, il est impossible de lancer un sort à trave
 
 # Nappe de brouillard
 
-- SRD: [Fog Cloud](srd_spells_fog_cloud.md)
+- Alias: [Fog Cloud](srd_spells_fog_cloud.md)
 
 -  Invocation de niveau 1
 
@@ -66031,7 +66031,7 @@ Un nimbe blanc et scintillant d'énergie sacrée vous entoure pour la durée du 
 
 # Non-détection
 
-- SRD: [Nondetection](srd_spells_nondetection.md)
+- Alias: [Nondetection](srd_spells_nondetection.md)
 
 -  Abjuration de niveau 3
 
@@ -66059,7 +66059,7 @@ Vous pouvez prendre pour cible une créature consentante, un endroit ou un objet
 
 # Nuage incendiaire
 
-- SRD: [Incendiary Cloud](srd_spells_incendiary_cloud.md)
+- Alias: [Incendiary Cloud](srd_spells_incendiary_cloud.md)
 
 -  Invocation de niveau 8
 
@@ -66091,7 +66091,7 @@ Le nuage s'éloigne de vous sur 3 mètres dans la direction de votre choix au d�
 
 # Nuage mortel
 
-- SRD: [Cloudkill](srd_spells_cloudkill.md)
+- Alias: [Cloudkill](srd_spells_cloudkill.md)
 
 -  Invocation de niveau 5
 
@@ -66125,7 +66125,7 @@ Le brouillard s'éloigne de vous sur une distance de 3 mètres au début de chac
 
 # Nuage puant
 
-- SRD: [Stinking Cloud](srd_spells_stinking_cloud.md)
+- Alias: [Stinking Cloud](srd_spells_stinking_cloud.md)
 
 -  Invocation de niveau 3
 
@@ -66155,7 +66155,7 @@ Un vent modéré (au moins 15 km/h) disperse le nuage après 4 rounds. Un vent f
 
 # Nuée de météores
 
-- SRD: [Meteor Swarm](srd_spells_meteor_swarm.md)
+- Alias: [Meteor Swarm](srd_spells_meteor_swarm.md)
 
 -  Évocation de niveau 9
 
@@ -66203,7 +66203,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 
 # Oeil magique
 
-- SRD: [Arcane Eye](srd_spells_arcane_eye.md)
+- Alias: [Arcane Eye](srd_spells_arcane_eye.md)
 
 -  Divination de niveau 4
 
@@ -66289,7 +66289,7 @@ Vous libérez une vague d'énergie purificatrice qui met instantanément fin aux
 
 # Parole divine
 
-- SRD: [Divine Word](srd_spells_divine_word.md)
+- Alias: [Divine Word](srd_spells_divine_word.md)
 
 -  Évocation de niveau 7
 
@@ -66327,7 +66327,7 @@ Quels que soient ses points de vie, si un céleste, un élémentaire, une fée o
 
 # Pas brumeux
 
-- SRD: [Misty Step](srd_spells_misty_step.md)
+- Alias: [Misty Step](srd_spells_misty_step.md)
 
 -  Invocation de niveau 2
 
@@ -66381,7 +66381,7 @@ Les ouvertures ne laissent pas passer les matières liquides ou gazeuses sauf si
 
 # Passage par les arbres
 
-- SRD: [Tree Stride](srd_spells_tree_stride.md)
+- Alias: [Tree Stride](srd_spells_tree_stride.md)
 
 -  Invocation de niveau 5
 
@@ -66409,7 +66409,7 @@ Vous pouvez utiliser cette capacité de transport une fois par round pendant tou
 
 # Passage sans trace
 
-- SRD: [Pass without Trace](srd_spells_pass_without_trace.md)
+- Alias: [Pass without Trace](srd_spells_pass_without_trace.md)
 
 -  Abjuration de niveau 2
 
@@ -66439,7 +66439,7 @@ Une créature qui profite de ce bonus ne laisse derrière elle aucune trace ni a
 
 # Passe-muraille
 
-- SRD: [Passwall](srd_spells_passwall.md)
+- Alias: [Passwall](srd_spells_passwall.md)
 
 -  Transmutation de niveau 5
 
@@ -66467,7 +66467,7 @@ Quand l'ouverture disparaît, les créatures et les objets qui s'y trouvaient en
 
 # Pattes d'araignée
 
-- SRD: [Spider Climb](srd_spells_spider_climb.md)
+- Alias: [Spider Climb](srd_spells_spider_climb.md)
 
 -  Transmutation de niveau 2
 
@@ -66493,7 +66493,7 @@ Jusqu'à la fin du sort, une créature consentante que vous touchez devient capa
 
 # Peau d'écorce
 
-- SRD: [Barkskin](srd_spells_barkskin.md)
+- Alias: [Barkskin](srd_spells_barkskin.md)
 
 -  Transmutation de niveau 2
 
@@ -66519,7 +66519,7 @@ Vous touchez une créature consentante. Pendant toute la durée du sort, sa peau
 
 # Peau de pierre
 
-- SRD: [Stoneskin](srd_spells_stoneskin.md)
+- Alias: [Stoneskin](srd_spells_stoneskin.md)
 
 -  Abjuration de niveau 4
 
@@ -66545,7 +66545,7 @@ Ce sort modifie la chair d'une créature consentante pour la rendre aussi dure q
 
 # Petite hutte
 
-- SRD: [Tiny Hut](srd_spells_tiny_hut.md)
+- Alias: [Tiny Hut](srd_spells_tiny_hut.md)
 
 -  Évocation de niveau 3 (rituel)
 
@@ -66575,7 +66575,7 @@ Tant que le sort n'est pas terminé, vous pouvez faire en sorte que l'intérieur
 
 # Pétrification
 
-- SRD: [Flesh to Stone](srd_spells_flesh_to_stone.md)
+- Alias: [Flesh to Stone](srd_spells_flesh_to_stone.md)
 
 -  Transmutation de niveau 6
 
@@ -66607,7 +66607,7 @@ Si vous maintenez votre concentration sur ce sort jusqu'à la fin de la durée m
 
 # Peur
 
-- SRD: [Fear](srd_spells_fear.md)
+- Alias: [Fear](srd_spells_fear.md)
 
 -  Illusion de niveau 3
 
@@ -66655,7 +66655,7 @@ Le projectile se dédouble de nombreuses fois et affecte toutes les créatures d
 
 # Poigne électrique
 
-- SRD: [Shocking Grasp](srd_spells_shocking_grasp.md)
+- Alias: [Shocking Grasp](srd_spells_shocking_grasp.md)
 
 -  Évocation, tour de magie
 
@@ -66703,7 +66703,7 @@ Une arme de votre choix exsude une substance poisseuse et venimeuse. À la premi
 
 # Portail
 
-- SRD: [Gate](srd_spells_gate.md)
+- Alias: [Gate](srd_spells_gate.md)
 
 -  Invocation de niveau 9
 
@@ -66735,7 +66735,7 @@ Quand vous lancez ce sort, vous pouvez prononcer le nom d'une créature spécifi
 
 # Porte dimensionnelle
 
-- SRD: [Dimension Door](srd_spells_dimension_door.md)
+- Alias: [Dimension Door](srd_spells_dimension_door.md)
 
 -  Invocation de niveau 4
 
@@ -66785,7 +66785,7 @@ Vous agrippez votre objet porte-bonheur (gri-gri, talisman, amulette, etc.) et, 
 
 # Possession
 
-- SRD: [Magic Jar](srd_spells_magic_jar.md)
+- Alias: [Magic Jar](srd_spells_magic_jar.md)
 
 -  Nécromancie de niveau 6
 
@@ -66835,7 +66835,7 @@ Le réceptacle est détruit quand le sort se termine.
 
 # Prémonition
 
-- SRD: [Foresight](srd_spells_foresight.md)
+- Alias: [Foresight](srd_spells_foresight.md)
 
 -  Divination de niveau 9
 
@@ -66863,7 +66863,7 @@ Le sort se termine immédiatement si vous le lancez de nouveau avant la fin de s
 
 # Prestidigitation
 
-- SRD: [Prestidigitation](srd_spells_prestidigitation.md)
+- Alias: [Prestidigitation](srd_spells_prestidigitation.md)
 
 -  Transmutation, tour de magie
 
@@ -66903,7 +66903,7 @@ Si vous lancez le sort à plusieurs reprises, vous ne pouvez pas avoir plus de t
 
 # Prière de soins
 
-- SRD: [Prayer of Healing](srd_spells_prayer_of_healing.md)
+- Alias: [Prayer of Healing](srd_spells_prayer_of_healing.md)
 
 -  Évocation de niveau 2
 
@@ -66931,7 +66931,7 @@ Un maximum de six créatures de votre choix, situées à portée et dans votre c
 
 # Produire une flamme
 
-- SRD: [Produce Flame](srd_spells_produce_flame.md)
+- Alias: [Produce Flame](srd_spells_produce_flame.md)
 
 -  Invocation , tour de magie
 
@@ -66963,7 +66963,7 @@ Les dégâts de ce sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8)
 
 # Projectile magique
 
-- SRD: [Magic Missile](srd_spells_magic_missile.md)
+- Alias: [Magic Missile](srd_spells_magic_missile.md)
 
 -  Évocation de niveau 1
 
@@ -67013,7 +67013,7 @@ Vous utilisez votre action pour lancer une arme ou tirer un projectile et une ac
 
 # Projection astrale
 
-- SRD: [Astral Projection](srd_spells_astral_projection.md)
+- Alias: [Astral Projection](srd_spells_astral_projection.md)
 
 -  Nécromancie de niveau 9
 
@@ -67049,7 +67049,7 @@ Si vous êtes prématurément renvoyé dans votre corps physique, vos compagnons
 
 # Protection contre la mort
 
-- SRD: [Death Ward](srd_spells_death_ward.md)
+- Alias: [Death Ward](srd_spells_death_ward.md)
 
 -  Abjuration de niveau 4
 
@@ -67077,7 +67077,7 @@ Si le sort est encore actif quand la cible est soumise à un effet qui devrait l
 
 # Protection contre le mal et le bien
 
-- SRD: [Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)
+- Alias: [Protection from Evil and Good](srd_spells_protection_from_evil_and_good.md)
 
 -  Abjuration de niveau 1
 
@@ -67107,7 +67107,7 @@ Les créatures des types précédemment nommés subissent un désavantage lors d
 
 # Protection contre le poison
 
-- SRD: [Protection from Poison](srd_spells_protection_from_poison.md)
+- Alias: [Protection from Poison](srd_spells_protection_from_poison.md)
 
 -  Abjuration de niveau 2
 
@@ -67135,7 +67135,7 @@ Pendant toute la durée du sort, la cible bénéficie d'un avantage lors des [je
 
 # Protection contre les énergies
 
-- SRD: [Protection from Energy](srd_spells_protection_from_energy.md)
+- Alias: [Protection from Energy](srd_spells_protection_from_energy.md)
 
 -  Abjuration de niveau 3
 
@@ -67161,7 +67161,7 @@ Pendant toute la durée du sort, la créature consentante que vous touchez devie
 
 # Protections et sceaux
 
-- SRD: [Guards and Wards](srd_spells_guards_and_wards.md)
+- Alias: [Guards and Wards](srd_spells_guards_and_wards.md)
 
 -  Abjuration de niveau 6
 
@@ -67215,7 +67215,7 @@ Vous pouvez protéger une structure en permanence si vous lancez ce sort tous le
 
 # Purification de la nourriture et de l'eau
 
-- SRD: [Purify Food and Drink](srd_spells_purify_food_and_drink.md)
+- Alias: [Purify Food and Drink](srd_spells_purify_food_and_drink.md)
 
 -  Transmutation de niveau 1 (rituel)
 
@@ -67265,7 +67265,7 @@ Si la cible décède pendant qu'elle est sous l'effet du sort, son corps éclate
 
 # Rappel à la vie
 
-- SRD: [Raise Dead](srd_spells_raise_dead.md)
+- Alias: [Raise Dead](srd_spells_raise_dead.md)
 
 -  Nécromancie de niveau 5
 
@@ -67297,7 +67297,7 @@ Le retour d'entre les morts est une rude épreuve qui se traduit par un malus de
 
 # Rayon affaiblissant
 
-- SRD: [Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)
+- Alias: [Ray of Enfeeblement](srd_spells_ray_of_enfeeblement.md)
 
 -  Nécromancie de niveau 2
 
@@ -67325,7 +67325,7 @@ La cible a droit à un [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) d
 
 # Rayon ardent
 
-- SRD: [Scorching Ray](srd_spells_scorching_ray.md)
+- Alias: [Scorching Ray](srd_spells_scorching_ray.md)
 
 -  Évocation de niveau 2
 
@@ -67353,7 +67353,7 @@ Vous créez trois rayons de feu et les projetez sur des cibles à portée. Vous 
 
 # Rayon de givre
 
-- SRD: [Ray of Frost](srd_spells_ray_of_frost.md)
+- Alias: [Ray of Frost](srd_spells_ray_of_frost.md)
 
 -  Évocation, tour de magie
 
@@ -67381,7 +67381,7 @@ Les dégâts du sort augmentent de 1d8 quand vous atteignez le niveau 5 (2d8),11
 
 # Rayon de lune
 
-- SRD: [Moonbeam](srd_spells_moonbeam.md)
+- Alias: [Moonbeam](srd_spells_moonbeam.md)
 
 -  Évocation de niveau 2
 
@@ -67415,7 +67415,7 @@ Une fois que vous avez lancé ce sort, à chacun de vos tours, vous pouvez utili
 
 # Rayon de soleil
 
-- SRD: [Sunbeam](srd_spells_sunbeam.md)
+- Alias: [Sunbeam](srd_spells_sunbeam.md)
 
 -  Évocation de niveau 6
 
@@ -67447,7 +67447,7 @@ Pendant toute la durée du sort, une boule de lumière brille dans votre main. E
 
 # Régénération
 
-- SRD: [Regenerate](srd_spells_regenerate.md)
+- Alias: [Regenerate](srd_spells_regenerate.md)
 
 -  Transmutation de niveau 7
 
@@ -67477,7 +67477,7 @@ Si vous disposez de la partie amputée et la maintenez contre le moignon, le sor
 
 # Réincarnation
 
-- SRD: [Reincarnate](srd_spells_reincarnate.md)
+- Alias: [Reincarnate](srd_spells_reincarnate.md)
 
 -  Transmutation de niveau 5
 
@@ -67529,7 +67529,7 @@ La créature réincarnée se souvient de son ancienne vie et de ses expériences
 
 # Réparation
 
-- SRD: [Mending](srd_spells_mending.md)
+- Alias: [Mending](srd_spells_mending.md)
 
 -  Transmutation, tour de magie
 
@@ -67559,7 +67559,7 @@ Le sort permet de réparer un objet magique ou une créature artificielle, mais 
 
 # Repli expéditif
 
-- SRD: [Expeditious Retreat](srd_spells_expeditious_retreat.md)
+- Alias: [Expeditious Retreat](srd_spells_expeditious_retreat.md)
 
 -  Transmutation de niveau 1
 
@@ -67585,7 +67585,7 @@ Ce sort vous permet de vous déplacer à une vitesse incroyable. Vous pouvez uti
 
 # Représailles infernales
 
-- SRD: [Hellish Rebuke](srd_spells_hellish_rebuke.md)
+- Alias: [Hellish Rebuke](srd_spells_hellish_rebuke.md)
 
 -  Évocation de niveau 1
 
@@ -67613,7 +67613,7 @@ Durée d'incantation : 1 réaction en réponse aux dégâts que vous inflige une
 
 # Répulsion/attirance
 
-- SRD: [Antipathy/Sympathy](srd_spells_antipathysympathy.md)
+- Alias: [Antipathy/Sympathy](srd_spells_antipathysympathy.md)
 
 -  Enchantement de niveau 8
 
@@ -67653,7 +67653,7 @@ Une créature qui réussit son [jet de sauvegarde](hd_abilities_jets_de_sauvegar
 
 # Résistance
 
-- SRD: [Resistance](srd_spells_resistance.md)
+- Alias: [Resistance](srd_spells_resistance.md)
 
 -  Abjuration, tour de magie
 
@@ -67681,7 +67681,7 @@ Le sort se termine alors.
 
 # Respiration aquatique
 
-- SRD: [Water Breathing](srd_spells_water_breathing.md)
+- Alias: [Water Breathing](srd_spells_water_breathing.md)
 
 -  Transmutation de niveau 3 (rituel)
 
@@ -67707,7 +67707,7 @@ Grâce à ce sort, un maximum de dix créatures situées à portée et dans votr
 
 # Restauration inférieure
 
-- SRD: [Lesser Restoration](srd_spells_lesser_restoration.md)
+- Alias: [Lesser Restoration](srd_spells_lesser_restoration.md)
 
 -  Abjuration de niveau 2
 
@@ -67733,7 +67733,7 @@ Vous touchez une créature et mettez fin à une maladie ou à un état spécial 
 
 # Restauration supérieure
 
-- SRD: [Greater Restoration](srd_spells_greater_restoration.md)
+- Alias: [Greater Restoration](srd_spells_greater_restoration.md)
 
 -  Abjuration de niveau 5
 
@@ -67767,7 +67767,7 @@ Vous imprégnez la créature que vous touchez d'énergie positive, afin de la d�
 
 # Résurrection
 
-- SRD: [Resurrection](srd_spells_resurrection.md)
+- Alias: [Resurrection](srd_spells_resurrection.md)
 
 -  Nécromancie de niveau 7
 
@@ -67803,7 +67803,7 @@ Après cela, vous ne pouvez plus lancer de sort et vous souffrez d'un désavanta
 
 # Résurrection suprême
 
-- SRD: [True Resurrection](srd_spells_true_resurrection.md)
+- Alias: [True Resurrection](srd_spells_true_resurrection.md)
 
 -  Nécromancie de niveau 9
 
@@ -67833,7 +67833,7 @@ Le sort referme toutes les plaies, neutralise tous les poisons, guérit toutes l
 
 # Rêve
 
-- SRD: [Dream](srd_spells_dream.md)
+- Alias: [Dream](srd_spells_dream.md)
 
 -  Illusion de niveau 5
 
@@ -67865,7 +67865,7 @@ Si vous êtes en possession d'un élément corporel de la cible, comme une mèch
 
 # Revigorer
 
-- SRD: [Revivify](srd_spells_revivify.md)
+- Alias: [Revivify](srd_spells_revivify.md)
 
 -  Nécromancie de niveau 3
 
@@ -67891,7 +67891,7 @@ Vous touchez une créature morte au cours de la minute précédente. Elle revien
 
 # Sanctification
 
-- SRD: [Hallow](srd_spells_hallow.md)
+- Alias: [Hallow](srd_spells_hallow.md)
 
 -  Évocation de niveau 5
 
@@ -67945,7 +67945,7 @@ Les ténèbres magiques issues d'un sort de niveau inférieur à celui de l'empl
 
 # Sanctuaire
 
-- SRD: [Sanctuary](srd_spells_sanctuary.md)
+- Alias: [Sanctuary](srd_spells_sanctuary.md)
 
 -  Abjuration de niveau 1
 
@@ -67975,7 +67975,7 @@ Ce sort se termine si la créature protégée attaque ou lance un sort affectant
 
 # Sanctuaire privé
 
-- SRD: [Private Sanctum](srd_spells_private_sanctum.md)
+- Alias: [Private Sanctum](srd_spells_private_sanctum.md)
 
 -  Abjuration de niveau 4
 
@@ -68039,7 +68039,7 @@ Vous contaminez le sang d'une créature vivante que vous touchez. Vous effectuez
 
 # Saut
 
-- SRD: [Jump](srd_spells_jump.md)
+- Alias: [Jump](srd_spells_jump.md)
 
 -  Transmutation de niveau 1
 
@@ -68065,7 +68065,7 @@ Vous touchez une créature et triplez sa distance de saut jusqu'à ce que le sor
 
 # Scrutation
 
-- SRD: [Scrying](srd_spells_scrying.md)
+- Alias: [Scrying](srd_spells_scrying.md)
 
 -  Divination de niveau 5
 
@@ -68109,7 +68109,7 @@ Au lieu de prendre une créature pour cible, vous pouvez choisir un lieu que vou
 
 # Séquestration
 
-- SRD: [Sequester](srd_spells_sequester.md)
+- Alias: [Sequester](srd_spells_sequester.md)
 
 -  Transmutation de niveau 7
 
@@ -68139,7 +68139,7 @@ Vous pouvez décider d'une condition qui mettra un terme prématuré au sort. Ce
 
 # Serviteur invisible
 
-- SRD: [Unseen Servant](srd_spells_unseen_servant.md)
+- Alias: [Unseen Servant](srd_spells_unseen_servant.md)
 
 -  Invocation de niveau 1 (rituel)
 
@@ -68169,7 +68169,7 @@ Si vous ordonnez à votre serviteur d'accomplir une tâche qui l'éloigne à plu
 
 # Silence
 
-- SRD: [Silence](srd_spells_silence.md)
+- Alias: [Silence](srd_spells_silence.md)
 
 -  Illusion de niveau 2 (rituel)
 
@@ -68197,7 +68197,7 @@ Une créature ou un objet entièrement contenu dans la sphère sont immunisés c
 
 # Simulacre
 
-- SRD: [Simulacrum](srd_spells_simulacrum.md)
+- Alias: [Simulacrum](srd_spells_simulacrum.md)
 
 -  Illusion de niveau 7
 
@@ -68231,7 +68231,7 @@ Si vous lancez de nouveau ce sort, l'éventuel double que vous maintenez déjà 
 
 # Simulacre de vie
 
-- SRD: [False Life](srd_spells_false_life.md)
+- Alias: [False Life](srd_spells_false_life.md)
 
 -  Nécromancie de niveau 1
 
@@ -68259,7 +68259,7 @@ Vous renforcez votre corps avec un ersatz de vie et gagnez 1d4+4 points de vie t
 
 # Soin des blessures
 
-- SRD: [Cure Wounds](srd_spells_cure_wounds.md)
+- Alias: [Cure Wounds](srd_spells_cure_wounds.md)
 
 -  Évocation de niveau 1
 
@@ -68287,7 +68287,7 @@ La créature que vous touchez récupère un nombre de points de vie égal à 1d8
 
 # Soin des blessures de groupe
 
-- SRD: [Mass Cure Wounds](srd_spells_mass_cure_wounds.md)
+- Alias: [Mass Cure Wounds](srd_spells_mass_cure_wounds.md)
 
 -  Évocation de niveau 5
 
@@ -68315,7 +68315,7 @@ Une vague d'énergie curative s'étend depuis un point de votre choix situé à 
 
 # Sommeil
 
-- SRD: [Sleep](srd_spells_sleep.md)
+- Alias: [Sleep](srd_spells_sleep.md)
 
 -  Enchantement de niveau 1
 
@@ -68347,7 +68347,7 @@ Ce sort reste sans effet sur les morts-vivants et les créatures qui ne peuvent 
 
 # Souhait
 
-- SRD: [Wish](srd_spells_wish.md)
+- Alias: [Wish](srd_spells_wish.md)
 
 -  Invocation de niveau 9
 
@@ -68395,7 +68395,7 @@ Le stress lié à l'incantation d'un souhait pour faire autre chose que répliqu
 
 # Sphère de feu
 
-- SRD: [Flaming Sphere](srd_spells_flaming_sphere.md)
+- Alias: [Flaming Sphere](srd_spells_flaming_sphere.md)
 
 -  Invocation de niveau 2
 
@@ -68427,7 +68427,7 @@ Quand vous déplacez la sphère, vous pouvez lui faire franchir des obstacles de
 
 # Sphère glacée
 
-- SRD: [Freezing Sphere](srd_spells_freezing_sphere.md)
+- Alias: [Freezing Sphere](srd_spells_freezing_sphere.md)
 
 -  Évocation de niveau 6
 
@@ -68465,7 +68465,7 @@ Il explose au bout de 1 minute s'il n'a pas été brisé auparavant.
 
 # Sphère résiliente
 
-- SRD: [Resilient Sphere](srd_spells_resilient_sphere.md)
+- Alias: [Resilient Sphere](srd_spells_resilient_sphere.md)
 
 -  Évocation de niveau 4
 
@@ -68539,7 +68539,7 @@ Vous tendez le bras en direction de votre cible et, de votre main, vous mimez so
 
 # Suggestion
 
-- SRD: [Suggestion](srd_spells_suggestion.md)
+- Alias: [Suggestion](srd_spells_suggestion.md)
 
 -  Enchantement de niveau 2
 
@@ -68575,7 +68575,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 # Suggestion de groupe
 
-- SRD: [Mass Suggestion](srd_spells_mass_suggestion.md)
+- Alias: [Mass Suggestion](srd_spells_mass_suggestion.md)
 
 -  Enchantement de niveau 6
 
@@ -68609,7 +68609,7 @@ Si vous (ou l'un de vos compagnons) blessez une créature affectée par ce sort,
 
 # Symbole
 
-- SRD: [Symbol](srd_spells_symbol.md)
+- Alias: [Symbol](srd_spells_symbol.md)
 
 -  Abjuration de niveau 7
 
@@ -68663,7 +68663,7 @@ Une telle créature se réveille si elle subit des dégâts ou si quelqu'un util
 
 # Télékinésie
 
-- SRD: [Telekinesis](srd_spells_telekinesis.md)
+- Alias: [Telekinesis](srd_spells_telekinesis.md)
 
 -  Transmutation de niveau 5
 
@@ -68699,7 +68699,7 @@ Vous exercez un contrôle précis sur les objets pris dans votre étreinte tél�
 
 # Téléportation
 
-- SRD: [Teleport](srd_spells_teleport.md)
+- Alias: [Teleport](srd_spells_teleport.md)
 
 -  Invocation de niveau 7
 
@@ -68753,7 +68753,7 @@ La distance qui vous sépare de votre destination est de 1d10 × 1d10 % de la di
 
 # Tempête de feu
 
-- SRD: [Fire Storm](srd_spells_fire_storm.md)
+- Alias: [Fire Storm](srd_spells_fire_storm.md)
 
 -  Évocation de niveau 7
 
@@ -68783,7 +68783,7 @@ Le feu endommage les objets présents dans la zone et embrase les objets inflamm
 
 # Tempête de grêle
 
-- SRD: [Ice Storm](srd_spells_ice_storm.md)
+- Alias: [Ice Storm](srd_spells_ice_storm.md)
 
 -  Évocation de niveau 4
 
@@ -68815,7 +68815,7 @@ Les grêlons transforment la zone en terrain difficile jusqu'à la fin de votre 
 
 # Tempête de neige
 
-- SRD: [Sleet Storm](srd_spells_sleet_storm.md)
+- Alias: [Sleet Storm](srd_spells_sleet_storm.md)
 
 -  Invocation de niveau 3
 
@@ -68867,7 +68867,7 @@ Si ce sort est lancé dans un désert de sable ou de pierre, il inflige 4d6 dég
 
 # Tempête vengeresse
 
-- SRD: [Storm of Vengeance](srd_spells_storm_of_vengeance.md)
+- Alias: [Storm of Vengeance](srd_spells_storm_of_vengeance.md)
 
 -  Invocation de niveau 9
 
@@ -68905,7 +68905,7 @@ Le vent et la pluie fonctionnent comme une distraction sévère quand il s'agit 
 
 # Ténèbres
 
-- SRD: [Darkness](srd_spells_darkness.md)
+- Alias: [Darkness](srd_spells_darkness.md)
 
 -  Évocation de niveau 2
 
@@ -68935,7 +68935,7 @@ Si une partie de la zone affectée par ce sort chevauche une zone de lumière is
 
 # Tentacules noirs
 
-- SRD: [Black Tentacles](srd_spells_black_tentacles.md)
+- Alias: [Black Tentacles](srd_spells_black_tentacles.md)
 
 -  Invocation de niveau 4
 
@@ -68965,7 +68965,7 @@ Une créature [entravée](hd_conditions_entrave.md) par les tentacules peut util
 
 # Terrain hallucinatoire
 
-- SRD: [Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)
+- Alias: [Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)
 
 -  Illusion de niveau 4
 
@@ -68997,7 +68997,7 @@ Une fois qu'une créature a compris l'illusion, elle la voit comme une image flo
 
 # Texte illusoire
 
-- SRD: [Illusory Script](srd_spells_illusory_script.md)
+- Alias: [Illusory Script](srd_spells_illusory_script.md)
 
 -  Illusion de niveau 1 (rituel)
 
@@ -69027,7 +69027,7 @@ Si quelqu'un dissipe le sort, l'illusion disparaît, mais le message original au
 
 # Thaumaturgie
 
-- SRD: [Thaumaturgy](srd_spells_thaumaturgy.md)
+- Alias: [Thaumaturgy](srd_spells_thaumaturgy.md)
 
 -  Transmutation, tour de magie
 
@@ -69069,7 +69069,7 @@ Vous pouvez révoquer un tel effet par une action.
 
 # Toile d'araignée
 
-- SRD: [Web](srd_spells_web.md)
+- Alias: [Web](srd_spells_web.md)
 
 -  Invocation de niveau 2
 
@@ -69105,7 +69105,7 @@ Les toiles sont inflammables. Un cube de toiles de 1,50 mètre d'arête exposé 
 
 # Trait de feu
 
-- SRD: [Fire Bolt](srd_spells_fire_bolt.md)
+- Alias: [Fire Bolt](srd_spells_fire_bolt.md)
 
 -  Évocation, tour de magie
 
@@ -69155,7 +69155,7 @@ Retirer l'arme lui inflige 2d4 dégâts, ou la moitié si elle réussit un [jet 
 
 # Transport végétal
 
-- SRD: [Transport via Plants](srd_spells_transport_via_plants.md)
+- Alias: [Transport via Plants](srd_spells_transport_via_plants.md)
 
 -  Invocation de niveau 6
 
@@ -69181,7 +69181,7 @@ Ce sort crée un lien magique entre une plante inanimée de taille G ou supérie
 
 # Tremblement de terre
 
-- SRD: [Earthquake](srd_spells_earthquake.md)
+- Alias: [Earthquake](srd_spells_earthquake.md)
 
 -  Évocation de niveau 8
 
@@ -69223,7 +69223,7 @@ Une créature qui se trouve près d'un bâtiment en train de s'effondrer, à une
 
 # Tromperie
 
-- SRD: [Mislead](srd_spells_mislead.md)
+- Alias: [Mislead](srd_spells_mislead.md)
 
 -  Illusion de niveau 5
 
@@ -69255,7 +69255,7 @@ Tant que vous utilisez les sens de votre double, vous êtes sourd et aveugle à 
 
 # Trouver les pièges
 
-- SRD: [Find Traps](srd_spells_find_traps.md)
+- Alias: [Find Traps](srd_spells_find_traps.md)
 
 -  Divination de niveau 2
 
@@ -69283,7 +69283,7 @@ Le sort indique simplement qu'il y a un piège ; il ne précise pas où, mais vo
 
 # Trouver un chemin
 
-- SRD: [Find the Path](srd_spells_find_the_path.md)
+- Alias: [Find the Path](srd_spells_find_the_path.md)
 
 -  Divination de niveau 6
 
@@ -69311,7 +69311,7 @@ Tant que le sort persiste et que vous êtes sur le même plan d'existence que vo
 
 # Trouver une monture
 
-- SRD: [Find Steed](srd_spells_find_steed.md)
+- Alias: [Find Steed](srd_spells_find_steed.md)
 
 -  Invocation de niveau 2
 
@@ -69349,7 +69349,7 @@ Vous ne pouvez vous lier qu'à une seule monture issue de ce sort à la fois. Vo
 
 # Vague tonnante
 
-- SRD: [Thunderwave](srd_spells_thunderwave.md)
+- Alias: [Thunderwave](srd_spells_thunderwave.md)
 
 -  Évocation de niveau 1
 
@@ -69383,7 +69383,7 @@ De plus, les objets qui ne sont pas arrimés et se trouvent entièrement englob�
 
 # Verrou magique
 
-- SRD: [Arcane Lock](srd_spells_arcane_lock.md)
+- Alias: [Arcane Lock](srd_spells_arcane_lock.md)
 
 -  Abjuration de niveau 2
 
@@ -69411,7 +69411,7 @@ Tant que l'objet est affecté par ce sort, il est bien plus difficile à briser 
 
 # Viser juste
 
-- SRD: [True Strike](srd_spells_true_strike.md)
+- Alias: [True Strike](srd_spells_true_strike.md)
 
 -  Divination, tour de magie
 
@@ -69437,7 +69437,7 @@ Vous tendez la main et pointez du doigt une cible à portée. Votre magie vous d
 
 # Vision dans le noir
 
-- SRD: [Darkvision](srd_spells_darkvision.md)
+- Alias: [Darkvision](srd_spells_darkvision.md)
 
 -  Transmutation de niveau 2
 
@@ -69463,7 +69463,7 @@ Vous touchez une créature consentante pour lui permettre de voir dans le noir. 
 
 # Vision suprême
 
-- SRD: [True Seeing](srd_spells_true_seeing.md)
+- Alias: [True Seeing](srd_spells_true_seeing.md)
 
 -  Divination de niveau 6
 
@@ -69511,7 +69511,7 @@ Jusqu'à six créatures vivantes de votre choix, à portée et dans votre champ 
 
 # Voir l'invisible
 
-- SRD: [See Invisibility](srd_spells_see_invisibility.md)
+- Alias: [See Invisibility](srd_spells_see_invisibility.md)
 
 -  Divination de niveau 2
 
@@ -69537,7 +69537,7 @@ Pendant toute la durée du sort, vous voyez les créatures et les objets [invisi
 
 # Vol
 
-- SRD: [Fly](srd_spells_fly.md)
+- Alias: [Fly](srd_spells_fly.md)
 
 -  Transmutation de niveau 3
 
@@ -69565,7 +69565,7 @@ Vous touchez une créature consentante et lui conférez la capacité de voler à
 
 # Zone de vérité
 
-- SRD: [Zone of Truth](srd_spells_zone_of_truth.md)
+- Alias: [Zone of Truth](srd_spells_zone_of_truth.md)
 
 -  Enchantement de niveau 2
 

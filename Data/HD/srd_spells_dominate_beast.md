@@ -4,7 +4,7 @@
 
 # Dominate Beast
 
-- MDR: [Dominer une bête](hd_spells_dominer_une_bete.md)
+- Alias: [Dominer une bête](hd_spells_dominer_une_bete.md)
 - Source: (SRD p137)
 -  4th-level enchantment
 - **Casting Time :** 1 action

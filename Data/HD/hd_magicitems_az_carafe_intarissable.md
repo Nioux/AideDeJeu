@@ -4,7 +4,7 @@
 
 ### Carafe intarissable
 
-- AltName: Decanter of Endless Water (SRD p216)
+- Alias: Decanter of Endless Water (SRD p216)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant
 

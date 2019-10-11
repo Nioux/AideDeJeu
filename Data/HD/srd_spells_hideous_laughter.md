@@ -4,7 +4,7 @@
 
 # Hideous Laughter
 
-- MDR: [Fou rire](hd_spells_fou_rire.md)
+- Alias: [Fou rire](hd_spells_fou_rire.md)
 - Source: (SRD p154)
 -  1st-level enchantment
 - **Casting Time :** 1 action

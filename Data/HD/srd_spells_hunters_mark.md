@@ -4,7 +4,7 @@
 
 # Hunter's Mark
 
-- MDR: [Marque du chasseur](hd_spells_marque_du_chasseur.md)
+- Alias: [Marque du chasseur](hd_spells_marque_du_chasseur.md)
 - Source: (SRD p155)
 -  1st-level divination
 - **Casting Time :** 1 bonus action

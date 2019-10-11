@@ -4,7 +4,7 @@
 
 # Animal Messenger
 
-- MDR: [Messager animal](hd_spells_messager_animal.md)
+- Alias: [Messager animal](hd_spells_messager_animal.md)
 - Source: (SRD p115)
 -  2nd-level enchantment (ritual)
 - **Casting Time :** 1 action

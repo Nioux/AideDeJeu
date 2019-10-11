@@ -4,7 +4,7 @@
 
 # Prestidigitation
 
-- MDR: [Prestidigitation](hd_spells_prestidigitation.md)
+- Alias: [Prestidigitation](hd_spells_prestidigitation.md)
 - Source: (SRD p170)
 -  Transmutation cantrip
 - **Casting Time :** 1 action

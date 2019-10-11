@@ -4,7 +4,7 @@
 
 # Hezrou
 
-- CEO: [Hezrou](hd_monsters_hezrou.md)
+- Alias: [Hezrou](hd_monsters_hezrou.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 136 (13d10 + 65)

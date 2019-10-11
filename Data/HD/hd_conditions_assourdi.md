@@ -4,7 +4,7 @@
 
 # Assourdi
 
-- AltName: [Deafened](srd_conditions_deafened.md)
+- Alias: [Deafened](srd_conditions_deafened.md)
 
 * Une créature assourdie n'entend plus rien et rate automatiquement tous les tests de caractéristique faisant intervenir des capacités auditives.
 

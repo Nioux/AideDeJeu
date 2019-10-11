@@ -4,7 +4,7 @@
 
 # Water Elemental
 
-- CEO: [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
+- Alias: [Élémentaire de l'eau](hd_monsters_elementaire_de_leau.md)
 -  Large elemental, neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 114 (12d10 + 48)

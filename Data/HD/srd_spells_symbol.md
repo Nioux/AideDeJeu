@@ -4,7 +4,7 @@
 
 # Symbol
 
-- MDR: [Symbole](hd_spells_symbole.md)
+- Alias: [Symbole](hd_spells_symbole.md)
 - Source: (SRD p184)
 -  7th-level abjuration
 - **Casting Time :** 1 minute

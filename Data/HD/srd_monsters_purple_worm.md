@@ -4,7 +4,7 @@
 
 # Purple Worm
 
-- CEO: [Ver pourpre](hd_monsters_ver_pourpre.md)
+- Alias: [Ver pourpre](hd_monsters_ver_pourpre.md)
 -  Gargantuan monstrosity, unaligned
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 247 (15d20 + 90)

@@ -4,7 +4,7 @@
 
 # Détection des pensées
 
-- SRD: [Detect Thoughts](srd_spells_detect_thoughts.md)
+- Alias: [Detect Thoughts](srd_spells_detect_thoughts.md)
 
 -  Divination de niveau 2
 

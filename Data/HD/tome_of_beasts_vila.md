@@ -5,7 +5,7 @@
 # Vila
 
 - Source: (LDM p407)(TOB p400)
-- TOB: Vila
+- Alias: Vila
 -  Fée de taille Moyenne (M), loyale neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15

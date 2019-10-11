@@ -4,7 +4,7 @@
 
 # Thaumaturgy
 
-- MDR: [Thaumaturgie](hd_spells_thaumaturgie.md)
+- Alias: [Thaumaturgie](hd_spells_thaumaturgie.md)
 - Source: (SRD p187)
 -  Transmutation cantrip
 - **Casting Time :** 1 action

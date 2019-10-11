@@ -4,6 +4,8 @@
 
 # Archon canin, chiot
 
+- Source: (MM p18)(BB2 p38)
+- Alias: Hound Archon Pup
 -  Céleste de taille P, Loyal Bon
 - **Classe d'armure** 13 (armure naturelle)
 - **Points de vie** 16 (3d6+6)

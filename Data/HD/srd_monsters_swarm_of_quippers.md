@@ -4,7 +4,7 @@
 
 # Swarm of Quippers
 
-- CEO: [Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)
+- Alias: [Nuée de piranhas](hd_monsters_nuee_de_piranhas.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 13
 - **Hit Points** 28 (8d8 - 8)

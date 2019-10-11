@@ -4,7 +4,7 @@
 
 # Draft Horse
 
-- CEO: [Cheval de trait](hd_monsters_cheval_de_trait.md)
+- Alias: [Cheval de trait](hd_monsters_cheval_de_trait.md)
 -  Large beast, unaligned
 - **Armor Class** 10
 - **Hit Points** 19 (3d10 + 3)

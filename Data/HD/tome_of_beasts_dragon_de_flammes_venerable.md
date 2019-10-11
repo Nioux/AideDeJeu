@@ -5,7 +5,7 @@
 # Dragon De Flammes, Vénérable
 
 - Source: (LDM p128)(TOB p128)
-- TOB: Ancient Flame Dragon
+- Alias: Ancient Flame Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique mauvais
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 22 (armure naturelle)

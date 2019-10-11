@@ -4,7 +4,7 @@
 
 ### Tapis volant
 
-- AltName: Carpet of Flying (SRD p213)
+- Alias: Carpet of Flying (SRD p213)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 

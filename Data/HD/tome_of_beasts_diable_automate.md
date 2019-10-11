@@ -5,7 +5,7 @@
 # Diable Automate
 
 - Source: (LDM p105)(TOB p102)
-- TOB: Automata Devil
+- Alias: Automata Devil
 -  Fiélon (diable) de Grande taille (G), loyal mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 168 (16d10+80)

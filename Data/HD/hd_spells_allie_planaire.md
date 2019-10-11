@@ -4,7 +4,7 @@
 
 # Allié planaire
 
-- SRD: [Planar Ally](srd_spells_planar_ally.md)
+- Alias: [Planar Ally](srd_spells_planar_ally.md)
 
 -  Invocation de niveau 6
 

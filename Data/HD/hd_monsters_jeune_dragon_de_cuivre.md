@@ -5,7 +5,7 @@
 # Jeune dragon de cuivre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
+- Alias: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 17 (armure naturelle)

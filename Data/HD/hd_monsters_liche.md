@@ -5,7 +5,7 @@
 # Liche
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lich](srd_monsters_lich.md)
+- Alias: [Lich](srd_monsters_lich.md)
 -  Mort-vivant de taille M, alignement Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)

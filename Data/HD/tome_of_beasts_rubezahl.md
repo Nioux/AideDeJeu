@@ -5,7 +5,7 @@
 # Rübezahl
 
 - Source: (LDM p82)(TOB p80)
-- TOB: Rubezahl
+- Alias: Rubezahl
 -  Fiélon (démon) de taille Moyenne (M), chaotique mauvais
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 110 (17d8+34)

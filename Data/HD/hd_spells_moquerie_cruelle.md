@@ -4,7 +4,7 @@
 
 # Moquerie cruelle
 
-- SRD: [Vicious Mockery](srd_spells_vicious_mockery.md)
+- Alias: [Vicious Mockery](srd_spells_vicious_mockery.md)
 
 -  Enchantement, tour de magie
 

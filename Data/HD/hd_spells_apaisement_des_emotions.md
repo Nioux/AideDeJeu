@@ -4,7 +4,7 @@
 
 # Apaisement des émotions
 
-- SRD: [Calm Emotions](srd_spells_calm_emotions.md)
+- Alias: [Calm Emotions](srd_spells_calm_emotions.md)
 
 -  Enchantement de niveau 2
 

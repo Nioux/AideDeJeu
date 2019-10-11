@@ -4,7 +4,7 @@
 
 # Chain Lightning
 
-- MDR: [Chaîne d'éclairs](hd_spells_chaine_declairs.md)
+- Alias: [Chaîne d'éclairs](hd_spells_chaine_declairs.md)
 - Source: (SRD p124)
 -  6th-level evocation
 - **Casting Time :** 1 action

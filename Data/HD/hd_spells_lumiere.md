@@ -4,7 +4,7 @@
 
 # Lumière
 
-- SRD: [Light](srd_spells_light.md)
+- Alias: [Light](srd_spells_light.md)
 
 -  Évocation, tour de magie
 

@@ -5,7 +5,7 @@
 # Ratatosk
 
 - Source: (LDM p347)(TOB p319)
-- TOB: Ratatosk
+- Alias: Ratatosk
 -  Céleste de Très Petite taille (TP), chaotique neutre
 - **Classe d'armure** 14
 - **Points de vie** 42 (12d4+12)

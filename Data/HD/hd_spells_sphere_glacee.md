@@ -4,7 +4,7 @@
 
 # Sphère glacée
 
-- SRD: [Freezing Sphere](srd_spells_freezing_sphere.md)
+- Alias: [Freezing Sphere](srd_spells_freezing_sphere.md)
 
 -  Évocation de niveau 6
 

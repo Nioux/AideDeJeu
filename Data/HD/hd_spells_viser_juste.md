@@ -4,7 +4,7 @@
 
 # Viser juste
 
-- SRD: [True Strike](srd_spells_true_strike.md)
+- Alias: [True Strike](srd_spells_true_strike.md)
 
 -  Divination, tour de magie
 

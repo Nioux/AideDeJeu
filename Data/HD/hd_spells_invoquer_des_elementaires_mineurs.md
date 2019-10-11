@@ -4,7 +4,7 @@
 
 # Invoquer des élémentaires mineurs
 
-- SRD: [Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)
+- Alias: [Conjure Minor Elementals](srd_spells_conjure_minor_elementals.md)
 
 -  Invocation de niveau 4
 

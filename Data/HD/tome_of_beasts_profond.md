@@ -5,7 +5,7 @@
 # Profond
 
 - Source: (LDM p343)(TOB p73)
-- TOB: Deep One
+- Alias: Deep One
 -  Humanoïde de taille Moyenne (M), chaotique mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Arc du serment
 
-- AltName: Oathbow (SRD p231)
+- Alias: Oathbow (SRD p231)
 - Source: (CDC p143)
 -  Arme (arc long), très rare (harmonisation requise)
 

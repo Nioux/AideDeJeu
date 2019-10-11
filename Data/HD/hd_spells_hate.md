@@ -4,7 +4,7 @@
 
 # Hâte
 
-- SRD: [Haste](srd_spells_haste.md)
+- Alias: [Haste](srd_spells_haste.md)
 
 -  Transmutation de niveau 3
 

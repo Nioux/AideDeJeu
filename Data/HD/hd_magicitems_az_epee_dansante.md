@@ -4,7 +4,7 @@
 
 ### Épée dansante
 
-- AltName: Dancing Sword (SRD p215)
+- Alias: Dancing Sword (SRD p215)
 - Source: (CDC p163)
 -  Arme (épée), très rare (harmonisation requise)
 

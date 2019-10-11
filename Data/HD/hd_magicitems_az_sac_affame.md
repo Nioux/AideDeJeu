@@ -4,7 +4,7 @@
 
 ### Sac affamé
 
-- AltName: Bag of Devouring (SRD p210)
+- Alias: Bag of Devouring (SRD p210)
 - Source: (CDC p182)
 -  Objet merveilleux, très rare
 

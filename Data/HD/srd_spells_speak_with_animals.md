@@ -4,7 +4,7 @@
 
 # Speak with Animals
 
-- MDR: [Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)
+- Alias: [Communication avec les animaux](hd_spells_communication_avec_les_animaux.md)
 - Source: (SRD p181)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action

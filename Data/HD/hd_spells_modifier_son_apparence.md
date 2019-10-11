@@ -4,7 +4,7 @@
 
 # Modifier son apparence
 
-- SRD: [Alter Self](srd_spells_alter_self.md)
+- Alias: [Alter Self](srd_spells_alter_self.md)
 
 -  Transmutation de niveau 2
 

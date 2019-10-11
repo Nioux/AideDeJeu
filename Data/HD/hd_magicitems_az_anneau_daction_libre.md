@@ -4,7 +4,7 @@
 
 ### Anneau d'action libre
 
-- AltName: Ring of Free Action (SRD p236)
+- Alias: Ring of Free Action (SRD p236)
 - Source: (CDC p139)
 -  Anneau, rare (harmonisation requise)
 

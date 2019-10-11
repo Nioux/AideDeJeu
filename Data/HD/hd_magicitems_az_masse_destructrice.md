@@ -4,7 +4,7 @@
 
 ### Masse destructrice
 
-- AltName: Mace of Smiting (SRD p229)
+- Alias: Mace of Smiting (SRD p229)
 - Source: (CDC p173)
 -  Arme (masse), rare
 

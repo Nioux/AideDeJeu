@@ -5,7 +5,7 @@
 # Cynome
 
 - Source: (LDM p73)(TOB p49)
-- TOB: Burrowling
+- Alias: Burrowling
 -  Humanoïde de Petite taille (cynome) (P), loyal neutre
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

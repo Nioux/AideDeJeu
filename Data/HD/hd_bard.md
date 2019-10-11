@@ -5,7 +5,7 @@
 
 # Barde
 
-- AltName: Bard (SRD p11)
+- Alias: Bard (SRD p11)
 - Source: (MDR p121)
 
 En tant que barde, vous bénéficiez des aptitudes de classe suivantes.

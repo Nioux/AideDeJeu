@@ -4,7 +4,7 @@
 
 # Zone de vérité
 
-- SRD: [Zone of Truth](srd_spells_zone_of_truth.md)
+- Alias: [Zone of Truth](srd_spells_zone_of_truth.md)
 
 -  Enchantement de niveau 2
 

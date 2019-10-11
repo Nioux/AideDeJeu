@@ -4,7 +4,7 @@
 
 # Animate Dead
 
-- MDR: [Animation des morts](hd_spells_animation_des_morts.md)
+- Alias: [Animation des morts](hd_spells_animation_des_morts.md)
 - Source: (SRD p115)
 -  3th-level necromancy
 - **Casting Time :** 1 minute

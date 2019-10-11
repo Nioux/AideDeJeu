@@ -5,7 +5,7 @@
 # Hydre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hydra](srd_monsters_hydra.md)
+- Alias: [Hydra](srd_monsters_hydra.md)
 -  Créature monstrueuse de taille TG, non-alignée
 - **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)

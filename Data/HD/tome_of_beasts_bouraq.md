@@ -5,7 +5,7 @@
 # Bouraq
 
 - Source: (LDM p50)(TOB p48)
-- TOB: Buraq
+- Alias: Buraq
 -  Céleste de taille Moyenne (M), loyal bon
 - **Classe d'armure** 17
 - **Points de vie** 152 (16d8+80)

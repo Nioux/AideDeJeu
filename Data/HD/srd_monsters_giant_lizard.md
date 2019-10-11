@@ -4,7 +4,7 @@
 
 # Giant Lizard
 
-- CEO: [Lézard géant](hd_monsters_lezard_geant.md)
+- Alias: [Lézard géant](hd_monsters_lezard_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 19 (3d10 + 3)

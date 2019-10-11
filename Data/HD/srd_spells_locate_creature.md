@@ -4,7 +4,7 @@
 
 # Locate Creature
 
-- MDR: [Localiser une créature](hd_spells_localiser_une_creature.md)
+- Alias: [Localiser une créature](hd_spells_localiser_une_creature.md)
 - Source: (SRD p159)
 -  4th-level divination
 - **Casting Time :** 1 action

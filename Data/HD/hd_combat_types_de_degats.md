@@ -4,7 +4,7 @@
 
 #### Types de dégâts
 
-- AltName: Damage Types (SRD p97)
+- Alias: Damage Types (SRD p97)
 - Source: (MDR p294)
 
 Il existe de nombreux types d'attaques, de sorts et d'effets préjudiciables qui infligent différents types de dégâts. Les types de dégâts eux-mêmes n'ont pas de règle de fonctionnement spécifique, mais ils sont liés à d'autres règles, comme la résistance aux dégâts.

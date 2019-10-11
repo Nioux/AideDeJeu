@@ -4,7 +4,7 @@
 
 # Detect Poison and Disease
 
-- MDR: [Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)
+- Alias: [Détection du poison et des maladies](hd_spells_detection_du_poison_et_des_maladies.md)
 - Source: (SRD p134)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action

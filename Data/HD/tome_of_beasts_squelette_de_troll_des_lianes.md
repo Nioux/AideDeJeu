@@ -5,7 +5,7 @@
 # Squelette De Troll Des Lianes
 
 - Source: (LDM p371)(TOB p351)
-- TOB: Vine Troll Skeleton
+- Alias: Vine Troll Skeleton
 -  Plante de Grande taille (G), non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 16 (armure naturelle)

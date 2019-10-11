@@ -4,7 +4,7 @@
 
 ### Amulette d'antidétection
 
-- AltName: Amulet of Proof against Detection and Location (SRD p207)
+- Alias: Amulet of Proof against Detection and Location (SRD p207)
 - Source: (CDC p139)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

@@ -5,7 +5,7 @@
 # Isonade
 
 - Source: (LDM p250)(TOB p257)
-- TOB: Isonade
+- Alias: Isonade
 -  Créature monstrueuse de taille Gigantesque (Gig), chaotique neutre
 - **Terrain** Littoral
 - **Classe d'armure** 18 (armure naturelle)

@@ -5,7 +5,7 @@
 # Pseudodragon
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pseudodragon](srd_monsters_pseudodragon.md)
+- Alias: [Pseudodragon](srd_monsters_pseudodragon.md)
 -  Dragon de taille TP, Neutre Bon
 - **Terrain** Bois / Forêt, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)

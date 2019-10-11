@@ -5,7 +5,7 @@
 # Hippogriffe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hippogriff](srd_monsters_hippogriff.md)
+- Alias: [Hippogriff](srd_monsters_hippogriff.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Littoral, Montagnes
 - **Classe d'armure** 11

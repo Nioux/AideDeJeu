@@ -1,74 +1,16 @@
-﻿# Manuel des règles
+﻿# Bibliothèque
 
-## [Création du personnage](hd_beyond1stlevel.md)
+## [Manuel des règles](index_mdr.md)
 
-## [Races](hd_races.md)
+## [Cadre de campagne](index_cdc.md)
 
-## [Personnalité et Historique](hd_personnality_background.md)
+## [Créatures et oppositions](index_ceo.md)
 
-## [Classes](hd_classes.md)
+## [Les Cinq Royaumes](hd_l5r_index.md)
 
-## [Équipement](hd_equipment.md)
+## [Livre des monstres](tome_of_beasts.md)
 
-## [Options de personnalisation](hd_custom_options.md)
+## [Monstrueusement Mignons](baby_bestiary.md)
 
-## [Utiliser les Caractéristiques](hd_abilities.md)
-
-## [Partir à l'aventure](hd_adventure.md)
-
-## [Combattre](hd_combat.md)
-
-## [Gérer la santé](hd_manage_health.md)
-
-## [Lancer des sorts](hd_spellcasting.md)
-
-## [Description des Sorts](hd_spells.md)
-
-## [Panthéons](hd_pantheons.md)
-
-
-# Cadre de campagne
-
-## [Objets magiques](hd_magicitems.md)
-
-### [Objets magiques de A à Z](hd_magicitems_az.md)
-
-### [Objets magiques intelligents](hd_sentient_magicitems.md)
-
-### [Artefacts](hd_artifacts.md)
-
-## [Jouer dans un multivers](hd_planes.md)
-
-
-# Créatures et oppositions
-
-## [Créatures](hd_monsters.md)
-
-## [Pièges](hd_traps.md)
-
-## [Maladies](hd_diseases.md)
-
-## [Folie](hd_madness.md)
-
-## [Objets](hd_objects.md)
-
-## [Poisons](hd_poisons.md)
-
-
-# [Les Cinq Royaumes](hd_l5r_index.md)
-
-
-# [Livre des monstres](tome_of_beasts.md)
-
-
-# [Monstrueusement Mignons](baby_bestiary.md)
-
-
-# SRD
-
-## [Conditions](srd_conditions.md)
-
-## [Spells](srd_spells.md)
-
-## [Monsters, Animals and NPC](srd_monsters.md)
+## [SRD](index_srd.md)
 

@@ -5,7 +5,7 @@
 # Jeune dragon noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Black Dragon](srd_monsters_young_black_dragon.md)
+- Alias: [Young Black Dragon](srd_monsters_young_black_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)

@@ -4,7 +4,7 @@
 
 ### Bol de contrôle des élémentaires de l'eau
 
-- AltName: Bowl of Commanding Water Elementals (SRD p212)
+- Alias: Bowl of Commanding Water Elementals (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, rare
 

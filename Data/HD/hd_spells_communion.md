@@ -4,7 +4,7 @@
 
 # Communion
 
-- SRD: [Commune](srd_spells_commune.md)
+- Alias: [Commune](srd_spells_commune.md)
 
 -  Divination de niveau 5 (rituel)
 

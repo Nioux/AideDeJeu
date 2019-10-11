@@ -4,7 +4,7 @@
 
 ### Sac sans fond
 
-- AltName: Bag of Holding (SRD p210)
+- Alias: Bag of Holding (SRD p210)
 - Source: (CDC p184)
 -  Objet merveilleux, peu courant
 

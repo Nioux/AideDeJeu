@@ -5,7 +5,7 @@
 # Nécrophage
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wight](srd_monsters_wight.md)
+- Alias: [Wight](srd_monsters_wight.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** Mangrove / Marécage, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure de cuir clouté)

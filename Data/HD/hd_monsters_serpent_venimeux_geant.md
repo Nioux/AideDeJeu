@@ -5,7 +5,7 @@
 # Serpent venimeux géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
+- Alias: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Désert chaud, Caverne sous-marine
 - **Classe d'armure** 14

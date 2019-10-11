@@ -4,7 +4,7 @@
 
 ### Diadème de destruction
 
-- AltName: Circlet of Blasting (SRD p214)
+- Alias: Circlet of Blasting (SRD p214)
 - Source: (CDC p162)
 -  Objet merveilleux, peu courant
 

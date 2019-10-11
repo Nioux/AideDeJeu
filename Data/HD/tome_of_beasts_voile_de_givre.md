@@ -5,7 +5,7 @@
 # Voile-De-Givre
 
 - Source: (LDM p408)(TOB p207)
-- TOB: Frostveil
+- Alias: Frostveil
 -  Plante de taille Moyenne (M), non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16

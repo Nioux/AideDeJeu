@@ -5,7 +5,7 @@
 # Crabe Osseux
 
 - Source: (LDM p71)(TOB p40)
-- TOB: Bone Crab
+- Alias: Bone Crab
 -  Bête de Petite taille (P), neutre
 - **Terrain** Littoral
 - **Classe d'armure** 13 (armure naturelle)

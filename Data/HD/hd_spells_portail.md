@@ -4,7 +4,7 @@
 
 # Portail
 
-- SRD: [Gate](srd_spells_gate.md)
+- Alias: [Gate](srd_spells_gate.md)
 
 -  Invocation de niveau 9
 

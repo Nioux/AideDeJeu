@@ -4,7 +4,7 @@
 
 ### Robe d'objets pratiques
 
-- AltName: Robe of Useful Items (SRD p239)
+- Alias: Robe of Useful Items (SRD p239)
 - Source: (CDC p182)
 -  Objet merveilleux, peu courant
 

@@ -5,7 +5,7 @@
 # Diable barbelé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Barbed Devil](srd_monsters_barbed_devil.md)
+- Alias: [Barbed Devil](srd_monsters_barbed_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)

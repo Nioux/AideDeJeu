@@ -5,7 +5,7 @@
 # Valet Monolithique
 
 - Source: (LDM p309)(TOB p295)
-- TOB: Monolith Footman
+- Alias: Monolith Footman
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 60 (8d10+16)

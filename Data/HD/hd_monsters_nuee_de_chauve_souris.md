@@ -5,7 +5,7 @@
 # Nuée de chauve-souris
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
+- Alias: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12

@@ -4,7 +4,7 @@
 
 ### Flûte terrifiante
 
-- AltName: Pipes of Haunting (SRD p232)
+- Alias: Pipes of Haunting (SRD p232)
 - Source: (CDC p166)
 -  Objet merveilleux, peu courant
 

@@ -4,7 +4,7 @@
 
 # Adult Black Dragon
 
-- CEO: [Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)
+- Alias: [Dragon noir adulte](hd_monsters_dragon_noir_adulte.md)
 -  Huge dragon, chaotic evil
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 195 (17d12 + 85)

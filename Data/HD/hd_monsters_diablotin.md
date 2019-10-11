@@ -5,7 +5,7 @@
 # Diablotin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Imp](srd_monsters_imp.md)
+- Alias: [Imp](srd_monsters_imp.md)
 -  Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 13

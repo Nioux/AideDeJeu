@@ -5,7 +5,7 @@
 # Uraeus
 
 - Source: (LDM p390)(TOB p392)
-- TOB: Uraeus
+- Alias: Uraeus
 -  Céleste de Très Petite taille (TP), loyal neutre
 - **Classe d'armure** 14 (armure naturelle)
 - **Points de vie** 40 (9d4+18)

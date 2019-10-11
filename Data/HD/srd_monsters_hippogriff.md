@@ -4,7 +4,7 @@
 
 # Hippogriff
 
-- CEO: [Hippogriffe](hd_monsters_hippogriffe.md)
+- Alias: [Hippogriffe](hd_monsters_hippogriffe.md)
 -  Large monstrosity, unaligned
 - **Armor Class** 11
 - **Hit Points** 19 (3d10 + 3)

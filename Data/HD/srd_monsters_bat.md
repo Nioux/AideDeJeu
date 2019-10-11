@@ -4,7 +4,7 @@
 
 # Bat
 
-- CEO: [Chauve-souris](hd_monsters_chauve_souris.md)
+- Alias: [Chauve-souris](hd_monsters_chauve_souris.md)
 -  Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 1 (1d4 - 1)

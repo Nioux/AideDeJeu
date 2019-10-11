@@ -4,7 +4,7 @@
 
 # Zone of Truth
 
-- MDR: [Zone de vérité](hd_spells_zone_de_verite.md)
+- Alias: [Zone de vérité](hd_spells_zone_de_verite.md)
 - Source: (SRD p193)
 -  2nd-level enchantment
 - **Casting Time :** 1 action

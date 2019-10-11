@@ -4,7 +4,7 @@
 
 ### Parchemin magique
 
-- AltName: Spell Scroll (SRD p242)
+- Alias: Spell Scroll (SRD p242)
 - Source: (CDC p174)
 -  Parchemin, rareté variable
 

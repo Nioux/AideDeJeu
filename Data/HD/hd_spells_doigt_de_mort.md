@@ -4,7 +4,7 @@
 
 # Doigt de mort
 
-- SRD: [Finger of Death](srd_spells_finger_of_death.md)
+- Alias: [Finger of Death](srd_spells_finger_of_death.md)
 
 -  Nécromancie de niveau 7
 

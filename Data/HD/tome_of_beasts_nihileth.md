@@ -5,7 +5,7 @@
 # Nihileth
 
 - Source: (LDM p8)(TOB p8)
-- TOB: Nihileth
+- Alias: Nihileth
 -  Mort-vivant de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 135 (18d10+36)

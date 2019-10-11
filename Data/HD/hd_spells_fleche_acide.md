@@ -4,7 +4,7 @@
 
 # Flèche acide
 
-- SRD: [Acid Arrow](srd_spells_acid_arrow.md)
+- Alias: [Acid Arrow](srd_spells_acid_arrow.md)
 
 -  Évocation de niveau 2
 

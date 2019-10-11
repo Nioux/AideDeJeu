@@ -6,6 +6,8 @@
 
 Voir [Aboleth](hd_monsters_aboleth.md)
 
+- Source: (MM p14)(BB2 p14)
+- Alias: Aboleth Spawn
 -  Aberration de taille M, Loyal Mauvais
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Hell Hound
 
-- CEO: [Molosse infernal](hd_monsters_molosse_infernal.md)
+- Alias: [Molosse infernal](hd_monsters_molosse_infernal.md)
 -  Medium fiend, lawful evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 45 (7d8 + 14)

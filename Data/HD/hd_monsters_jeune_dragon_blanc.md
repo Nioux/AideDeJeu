@@ -5,7 +5,7 @@
 # Jeune dragon blanc
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young White Dragon](srd_monsters_young_white_dragon.md)
+- Alias: [Young White Dragon](srd_monsters_young_white_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17 (armure naturelle)

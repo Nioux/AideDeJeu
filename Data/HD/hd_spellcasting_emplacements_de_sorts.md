@@ -4,7 +4,7 @@
 
 ### Emplacements de sorts
 
-- AltName: Spell Slots (SRD p100)
+- Alias: Spell Slots (SRD p100)
 - Source: (MDR p306)
 
 Quel que soit le nombre de sorts que le lanceur de sorts connaît ou qu'il a préparé, il ne peut en lancer qu'un nombre limité avant d'être contraint de se reposer. La manipulation du tissu magique et la canalisation de son énergie, même dans un sort simple, est un processus fatiguant aussi bien sur le plan mental que physique, et plus le niveau du sort est élevé, plus il est épuisant à lancer. C'est pourquoi la description de chaque classe de lanceur de sorts – à l'exception du sorcier – comprend une table indiquant le nombre de sorts de chaque niveau que le personnage est capable de lancer. Par exemple, Umare la magicienne de niveau 3 dispose de quatre emplacements de sorts de niveau 1 et de deux emplacements de sort de niveau 2.

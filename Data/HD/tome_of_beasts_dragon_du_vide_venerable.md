@@ -5,7 +5,7 @@
 # Dragon Du Vide, Vénérable
 
 - Source: (LDM p142)(TOB p138)
-- TOB: Ancient Void Dragon
+- Alias: Ancient Void Dragon
 -  Dragon de taille Gigantesque (Gig), chaotique neutre
 - **Classe d'armure** 22 (armure naturelle)
 - **Points de vie** 448 (23d20+207)

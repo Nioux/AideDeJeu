@@ -5,7 +5,7 @@
 # Djinn
 
 - Source: (CEO p)(SRD p)
-- SRD: [Djinni](srd_monsters_djinni.md)
+- Alias: [Djinni](srd_monsters_djinni.md)
 -  Élémentaire de taille G, Chaotique Bon
 - **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)

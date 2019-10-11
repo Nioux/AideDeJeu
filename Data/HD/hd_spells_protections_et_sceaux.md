@@ -4,7 +4,7 @@
 
 # Protections et sceaux
 
-- SRD: [Guards and Wards](srd_spells_guards_and_wards.md)
+- Alias: [Guards and Wards](srd_spells_guards_and_wards.md)
 
 -  Abjuration de niveau 6
 

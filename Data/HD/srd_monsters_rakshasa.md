@@ -4,7 +4,7 @@
 
 # Rakshasa
 
-- CEO: [Rakshasa](hd_monsters_rakshasa.md)
+- Alias: [Rakshasa](hd_monsters_rakshasa.md)
 -  Medium fiend, lawful evil
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 110 (13d8 + 52)

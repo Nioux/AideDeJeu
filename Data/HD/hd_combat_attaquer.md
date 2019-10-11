@@ -4,7 +4,7 @@
 
 ### Attaquer
 
-- AltName: Attack (SRD p93)
+- Alias: Attack (SRD p93)
 - Source: (MDR p288)
 
 L'action de combat la plus courante est attaquer, que ce soit en frappant avec une épée, en tirant une flèche avec un arc ou en combattant à mains nues.

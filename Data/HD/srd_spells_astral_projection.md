@@ -4,7 +4,7 @@
 
 # Astral Projection
 
-- MDR: [Projection astrale](hd_spells_projection_astrale.md)
+- Alias: [Projection astrale](hd_spells_projection_astrale.md)
 - Source: (SRD p119)
 -  9th-level necromancy
 - **Casting Time :** 1 hour

@@ -4,7 +4,7 @@
 
 # Aide
 
-- SRD: [Aid](srd_spells_aid.md)
+- Alias: [Aid](srd_spells_aid.md)
 
 -  Abjuration de niveau 2
 

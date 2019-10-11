@@ -4,7 +4,7 @@
 
 # Swarm of Ravens
 
-- CEO: [Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)
+- Alias: [Nuée de corbeaux](hd_monsters_nuee_de_corbeaux.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 12
 - **Hit Points** 24 (7d8 - 7)

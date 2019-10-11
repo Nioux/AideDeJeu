@@ -4,7 +4,7 @@
 
 # Éveil
 
-- SRD: [Awaken](srd_spells_awaken.md)
+- Alias: [Awaken](srd_spells_awaken.md)
 
 -  Transmutation de niveau 5
 

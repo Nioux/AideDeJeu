@@ -4,7 +4,7 @@
 
 ### Masse d'anéantissement
 
-- AltName: Mace of Disruption (SRD p229)
+- Alias: Mace of Disruption (SRD p229)
 - Source: (CDC p172)
 -  Arme (masse), rare (harmonisation requise)
 

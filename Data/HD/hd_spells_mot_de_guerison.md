@@ -4,7 +4,7 @@
 
 # Mot de guérison
 
-- SRD: [Healing Word](srd_spells_healing_word.md)
+- Alias: [Healing Word](srd_spells_healing_word.md)
 
 -  Évocation de niveau 1
 

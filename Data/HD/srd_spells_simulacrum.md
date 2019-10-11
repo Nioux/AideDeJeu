@@ -4,7 +4,7 @@
 
 # Simulacrum
 
-- MDR: [Simulacre](hd_spells_simulacre.md)
+- Alias: [Simulacre](hd_spells_simulacre.md)
 - Source: (SRD p180)
 -  7th-level illusion
 - **Casting Time :** 12 hours

@@ -4,7 +4,7 @@
 
 ## Les écoles de magie
 
-- AltName: The Schools of Magic (SRD p103)
+- Alias: The Schools of Magic (SRD p103)
 - Source: (MDR p310)
 
 Les académies de magie regroupent les sorts en huit catégories appelées des écoles de magie. Les érudits, en particulier les magiciens, classent tous les sorts dans ces catégories, persuadés que la magie fonctionne toujours de la même manière, et ce qu'elle découle d'études rigoureuses ou qu'elle émane d'une divinité.

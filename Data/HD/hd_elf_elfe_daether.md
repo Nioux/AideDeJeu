@@ -4,7 +4,7 @@
 
 ## Elfe d'aether
 
-- AltName: High Elf (SRD p4)
+- Alias: High Elf (SRD p4)
 - Source: (MDR p45)
 
 En tant qu'elfe d'aether, votre intelligence dépasse celles des autres peuples elfiques. Vous avez une affinité supérieure avec la magie et placez la quête du savoir avant toute chose.

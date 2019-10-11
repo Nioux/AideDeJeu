@@ -4,7 +4,7 @@
 
 ### Protectrice
 
-- AltName: Defender (SRD p218)
+- Alias: Defender (SRD p218)
 - Source: (CDC p179)
 -  Arme (épée), légendaire (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Giant Crocodile
 
-- CEO: [Crocodile géant](hd_monsters_crocodile_geant.md)
+- Alias: [Crocodile géant](hd_monsters_crocodile_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 85 (9d12 + 27)

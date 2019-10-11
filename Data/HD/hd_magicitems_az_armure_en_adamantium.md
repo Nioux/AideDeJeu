@@ -4,7 +4,7 @@
 
 ### Armure en adamantium
 
-- AltName: Adamantine Armor (SRD p207)
+- Alias: Adamantine Armor (SRD p207)
 - Source: (CDC p145)
 -  Armure (intermédiaire ou lourde, mais pas en peau), peu courante
 

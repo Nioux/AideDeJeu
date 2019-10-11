@@ -4,7 +4,7 @@
 
 # Alter Self
 
-- MDR: [Modifier son apparence](hd_spells_modifier_son_apparence.md)
+- Alias: [Modifier son apparence](hd_spells_modifier_son_apparence.md)
 - Source: (SRD p114)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

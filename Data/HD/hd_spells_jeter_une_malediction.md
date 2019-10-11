@@ -4,7 +4,7 @@
 
 # Jeter une malédiction
 
-- SRD: [Bestow curse](srd_spells_bestow_curse.md)
+- Alias: [Bestow curse](srd_spells_bestow_curse.md)
 
 -  Nécromancie de niveau 3
 

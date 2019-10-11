@@ -4,7 +4,7 @@
 
 # Rappel à la vie
 
-- SRD: [Raise Dead](srd_spells_raise_dead.md)
+- Alias: [Raise Dead](srd_spells_raise_dead.md)
 
 -  Nécromancie de niveau 5
 

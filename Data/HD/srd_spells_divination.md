@@ -4,7 +4,7 @@
 
 # Divination
 
-- MDR: [Divination](hd_spells_divination.md)
+- Alias: [Divination](hd_spells_divination.md)
 - Source: (SRD p136)
 -  4th-level divination (ritual)
 - **Casting Time :** 1 action

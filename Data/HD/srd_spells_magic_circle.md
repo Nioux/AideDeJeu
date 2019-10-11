@@ -4,7 +4,7 @@
 
 # Magic Circle
 
-- MDR: [Cercle magique](hd_spells_cercle_magique.md)
+- Alias: [Cercle magique](hd_spells_cercle_magique.md)
 - Source: (SRD p160)
 -  3th-level abjuration
 - **Casting Time :** 1 minute

@@ -5,7 +5,7 @@
 # Mille-pattes géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Centipede](srd_monsters_giant_centipede.md)
+- Alias: [Giant Centipede](srd_monsters_giant_centipede.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Désert chaud, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)

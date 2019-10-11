@@ -4,7 +4,7 @@
 
 # Trouver un chemin
 
-- SRD: [Find the Path](srd_spells_find_the_path.md)
+- Alias: [Find the Path](srd_spells_find_the_path.md)
 
 -  Divination de niveau 6
 

@@ -4,7 +4,7 @@
 
 # Giant Owl
 
-- CEO: [Chouette géante](hd_monsters_chouette_geante.md)
+- Alias: [Chouette géante](hd_monsters_chouette_geante.md)
 -  Large beast, neutral
 - **Armor Class** 12
 - **Hit Points** 19 (3d10 + 3)

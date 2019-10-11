@@ -4,7 +4,7 @@
 
 ### Anneau de stockage de sorts
 
-- AltName: Ring of Spell Storing (SRD p237)
+- Alias: Ring of Spell Storing (SRD p237)
 - Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 

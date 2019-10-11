@@ -5,7 +5,7 @@
 # Blaireau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Badger](srd_monsters_badger.md)
+- Alias: [Badger](srd_monsters_badger.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10

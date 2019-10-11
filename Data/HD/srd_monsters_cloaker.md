@@ -4,7 +4,7 @@
 
 # Cloaker
 
-- CEO: [Manteleur](hd_monsters_manteleur.md)
+- Alias: [Manteleur](hd_monsters_manteleur.md)
 -  Large aberration, chaotic neutral
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 78 (12d10 + 12)

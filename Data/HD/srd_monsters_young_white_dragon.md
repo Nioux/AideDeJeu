@@ -4,7 +4,7 @@
 
 # Young White Dragon
 
-- CEO: [Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)
+- Alias: [Jeune dragon blanc](hd_monsters_jeune_dragon_blanc.md)
 -  Large dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 133 (14d10 + 56)

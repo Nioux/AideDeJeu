@@ -4,7 +4,7 @@
 
 # Earth Elemental
 
-- CEO: [Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)
+- Alias: [Élémentaire de la terre](hd_monsters_elementaire_de_la_terre.md)
 -  Large elemental, neutral
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 126 (12d10 + 60)

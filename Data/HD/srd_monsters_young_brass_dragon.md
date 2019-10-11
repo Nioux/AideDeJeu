@@ -4,7 +4,7 @@
 
 # Young Brass Dragon
 
-- CEO: [Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)
+- Alias: [Jeune dragon d'airain](hd_monsters_jeune_dragon_dairain.md)
 -  Large dragon, chaotic good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 110 (13d10 + 39)

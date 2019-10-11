@@ -4,7 +4,7 @@
 
 # Terrain hallucinatoire
 
-- SRD: [Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)
+- Alias: [Hallucinatory Terrain](srd_spells_hallucinatory_terrain.md)
 
 -  Illusion de niveau 4
 

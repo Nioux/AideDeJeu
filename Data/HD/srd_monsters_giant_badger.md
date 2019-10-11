@@ -4,7 +4,7 @@
 
 # Giant Badger
 
-- CEO: [Blaireau géant](hd_monsters_blaireau_geant.md)
+- Alias: [Blaireau géant](hd_monsters_blaireau_geant.md)
 - Source: (SRD p373)
 -  Medium beast, unaligned
 - **Armor Class** 10

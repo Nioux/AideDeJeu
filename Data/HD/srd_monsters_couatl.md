@@ -4,7 +4,7 @@
 
 # Couatl
 
-- CEO: [Couatl](hd_monsters_couatl.md)
+- Alias: [Couatl](hd_monsters_couatl.md)
 -  Medium celestial, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 97 (13d8 + 39)

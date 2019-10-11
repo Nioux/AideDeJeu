@@ -4,7 +4,7 @@
 
 # Shambling Mound
 
-- CEO: [Tertre errant](hd_monsters_tertre_errant.md)
+- Alias: [Tertre errant](hd_monsters_tertre_errant.md)
 -  Large plant, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 136 (16d10 + 48)

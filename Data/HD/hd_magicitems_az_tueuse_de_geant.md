@@ -4,7 +4,7 @@
 
 ### Tueuse de géant
 
-- AltName: Giant Slayer (SRD p224)
+- Alias: Giant Slayer (SRD p224)
 - Source: (CDC p188)
 -  Arme (épée ou hache), rare
 

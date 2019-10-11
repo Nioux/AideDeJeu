@@ -5,7 +5,7 @@
 # Dragonnet de cuivre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
+- Alias: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 16 (armure naturelle)

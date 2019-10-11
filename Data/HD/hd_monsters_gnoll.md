@@ -5,7 +5,7 @@
 # Gnoll
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gnoll](srd_monsters_gnoll.md)
+- Alias: [Gnoll](srd_monsters_gnoll.md)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 15 (armure de peau, bouclier)

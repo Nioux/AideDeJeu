@@ -12,7 +12,7 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views.Library
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class ItemDetailPage : ContentPage
+	public partial class ItemDetailPageOld : ContentPage
 	{
         public MainViewModel Main
         {
@@ -24,7 +24,7 @@ namespace AideDeJeu.Views.Library
 
         ItemDetailViewModel viewModel;
 
-        public ItemDetailPage(ItemDetailViewModel itemVM)
+        public ItemDetailPageOld(ItemDetailViewModel itemVM)
         {
             InitializeComponent();
 
@@ -34,7 +34,7 @@ namespace AideDeJeu.Views.Library
             //mdMarkdown.NavigateToLink = async (s) => await viewModel.Main.Navigator.NavigateToLinkAsync(s);
         }
 
-        public ItemDetailPage()
+        public ItemDetailPageOld()
         {
             InitializeComponent();
 

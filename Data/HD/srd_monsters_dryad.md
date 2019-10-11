@@ -4,7 +4,7 @@
 
 # Dryad
 
-- CEO: [Dryade](hd_monsters_dryade.md)
+- Alias: [Dryade](hd_monsters_dryade.md)
 -  Medium fey, neutral
 - **Armor Class** 11 (16 with
 - **Hit Points** 22 (5d8)

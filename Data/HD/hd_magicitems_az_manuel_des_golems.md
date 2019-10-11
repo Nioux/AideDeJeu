@@ -4,7 +4,7 @@
 
 ### Manuel des golems
 
-- AltName: Manual of Golems (SRD p229)
+- Alias: Manual of Golems (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, très rare
 

@@ -4,7 +4,7 @@
 
 # Pétrification
 
-- SRD: [Flesh to Stone](srd_spells_flesh_to_stone.md)
+- Alias: [Flesh to Stone](srd_spells_flesh_to_stone.md)
 
 -  Transmutation de niveau 6
 

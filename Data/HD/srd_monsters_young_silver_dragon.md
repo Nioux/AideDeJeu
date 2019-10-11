@@ -4,7 +4,7 @@
 
 # Young Silver Dragon
 
-- CEO: [Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)
+- Alias: [Jeune dragon d'argent](hd_monsters_jeune_dragon_dargent.md)
 -  Large dragon, lawful good
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 168 (16d10 + 80)

@@ -4,7 +4,7 @@
 
 ### Collier d'adaptation
 
-- AltName: Necklace of Adaptation (SRD p231)
+- Alias: Necklace of Adaptation (SRD p231)
 - Source: (CDC p160)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

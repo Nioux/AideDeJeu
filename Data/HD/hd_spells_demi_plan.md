@@ -4,7 +4,7 @@
 
 # Demi-plan
 
-- SRD: [Demiplane](srd_spells_demiplane.md)
+- Alias: [Demiplane](srd_spells_demiplane.md)
 
 -  Invocation de niveau 8
 

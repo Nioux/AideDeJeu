@@ -5,7 +5,7 @@
 # Mirageur
 
 - Source: (LDM p304)(TOB p291)
-- TOB: Mirager
+- Alias: Mirager
 -  Fée (métamorphe) de taille Moyenne (M), neutre mauvaise
 - **Terrain** Désert chaud
 - **Classe d'armure** 13

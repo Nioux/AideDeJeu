@@ -4,7 +4,7 @@
 
 # Cultist
 
-- CEO: [Membre de secte](hd_monsters_membre_de_secte.md)
+- Alias: [Membre de secte](hd_monsters_membre_de_secte.md)
 -  Medium humanoid (any race), any non-good alignment
 - **Armor Class** 12 (leather armor)
 - **Hit Points** 9 (2d8)

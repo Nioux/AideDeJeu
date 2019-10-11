@@ -5,7 +5,7 @@
 # Chacal
 
 - Source: (CEO p)(SRD p)
-- SRD: [Jackal](srd_monsters_jackal.md)
+- Alias: [Jackal](srd_monsters_jackal.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

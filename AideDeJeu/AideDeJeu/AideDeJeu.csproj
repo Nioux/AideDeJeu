@@ -114,15 +114,6 @@
     <Compile Update="Views\Pickers\ItemView.xaml.cs">
       <DependentUpon>ItemView.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\Library\ItemDetailPage.xaml.cs">
-      <DependentUpon>ItemDetailPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="Views\Library\FilteredItemsPage.xaml.cs">
-      <DependentUpon>FilteredItemsPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Update="Views\Library\ItemsPage.xaml.cs">
-      <DependentUpon>ItemsPage.xaml</DependentUpon>
-    </Compile>
     <Compile Update="Views\Library\MainTabbedPage.xaml.cs">
       <DependentUpon>MainTabbedPage.xaml</DependentUpon>
     </Compile>
@@ -218,6 +209,18 @@
     <EmbeddedResource Update="Views\TextInputCancellableView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Views\Library\FilteredItemsPage.xaml.cs_">
+      <DependentUpon>FilteredItemsPage.xaml_</DependentUpon>
+    </None>
+    <None Update="Views\Library\ItemDetailPage.xaml.cs_">
+      <DependentUpon>ItemDetailPage.xaml_</DependentUpon>
+    </None>
+    <None Update="Views\Library\ItemsPage.xaml.cs_">
+      <DependentUpon>ItemsPage.xaml_</DependentUpon>
+    </None>
   </ItemGroup>
 
 </Project>

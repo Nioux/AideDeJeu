@@ -4,7 +4,7 @@
 
 # Flétrissement
 
-- SRD: [Blight](srd_spells_blight.md)
+- Alias: [Blight](srd_spells_blight.md)
 
 -  Nécromancie de niveau 4
 

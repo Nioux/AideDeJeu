@@ -5,7 +5,7 @@
 
 # Repos
 
-- AltName: Resting (SRD p87)
+- Alias: Resting (SRD p87)
 - Source: (MDR p303)
 
 Même si les aventuriers sont des héros, il est impossible de passer ses journées entières à explorer des cavernes, à interagir avec d’autres individus ou à se battre sans jamais se reposer. Vos personnages doivent dormir, manger, soigner leurs blessures, reposer leur esprit afin de lancer à nouveau des sorts, et se préparer à repartir à l’aventure.

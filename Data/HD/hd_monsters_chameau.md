@@ -5,7 +5,7 @@
 # Chameau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Camel](srd_monsters_camel.md)
+- Alias: [Camel](srd_monsters_camel.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 9

@@ -4,7 +4,7 @@
 
 ### Aider
 
-- AltName: Help (SRD p93)
+- Alias: Help (SRD p93)
 - Source: (MDR p288)
 
 Vous pouvez apporter votre aide à une autre créature pour réaliser une tâche. Quand vous choisissez l'action aider, la créature que vous aidez obtient un avantage sur le prochain test de caractéristique qu'elle fait dans le but d'accomplir la tâche pour laquelle vous coopérez, mais seulement si elle fait ce test avant le début de votre prochain tour.

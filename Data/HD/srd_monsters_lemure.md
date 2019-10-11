@@ -4,7 +4,7 @@
 
 # Lemure
 
-- CEO: [Lémure](hd_monsters_lemure.md)
+- Alias: [Lémure](hd_monsters_lemure.md)
 -  Medium fiend (devil), lawful evil
 - **Armor Class** 7
 - **Hit Points** 13 (3d8)

@@ -4,7 +4,7 @@
 
 ### Fers de rapidité
 
-- AltName: Horseshoes of Speed (SRD p226)
+- Alias: Horseshoes of Speed (SRD p226)
 - Source: (CDC p164)
 -  Objet merveilleux, rare
 

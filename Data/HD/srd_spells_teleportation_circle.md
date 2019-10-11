@@ -4,7 +4,7 @@
 
 # Teleportation Circle
 
-- MDR: [Cercle de téléportation](hd_spells_cercle_de_teleportation.md)
+- Alias: [Cercle de téléportation](hd_spells_cercle_de_teleportation.md)
 - Source: (SRD p186)
 -  5th-level conjuration
 - **Casting Time :** 1 minute

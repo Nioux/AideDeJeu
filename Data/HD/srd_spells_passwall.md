@@ -4,7 +4,7 @@
 
 # Passwall
 
-- MDR: [Passe-muraille](hd_spells_passe_muraille.md)
+- Alias: [Passe-muraille](hd_spells_passe_muraille.md)
 - Source: (SRD p167)
 -  5th-level transmutation
 - **Casting Time :** 1 action

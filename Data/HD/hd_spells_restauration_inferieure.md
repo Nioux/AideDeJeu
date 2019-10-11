@@ -4,7 +4,7 @@
 
 # Restauration inférieure
 
-- SRD: [Lesser Restoration](srd_spells_lesser_restoration.md)
+- Alias: [Lesser Restoration](srd_spells_lesser_restoration.md)
 
 -  Abjuration de niveau 2
 

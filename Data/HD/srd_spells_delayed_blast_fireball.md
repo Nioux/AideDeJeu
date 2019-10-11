@@ -4,7 +4,7 @@
 
 # Delayed Blast Fireball
 
-- MDR: [Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)
+- Alias: [Boule de feu à explosion retardée](hd_spells_boule_de_feu_a_explosion_retardee.md)
 - Source: (SRD p133)
 -  7th-level evocation
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Gargouille
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gargoyle](srd_monsters_gargoyle.md)
+- Alias: [Gargoyle](srd_monsters_gargoyle.md)
 -  Élémentaire de taille M, Chaotique Mauvais
 - **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)

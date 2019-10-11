@@ -4,7 +4,7 @@
 
 # Image silencieuse
 
-- SRD: [Silent Image](srd_spells_silent_image.md)
+- Alias: [Silent Image](srd_spells_silent_image.md)
 
 -  Illusion de niveau 1
 

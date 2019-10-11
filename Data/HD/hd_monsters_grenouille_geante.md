@@ -5,7 +5,7 @@
 # Grenouille géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Frog](srd_monsters_giant_frog.md)
+- Alias: [Giant Frog](srd_monsters_giant_frog.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11

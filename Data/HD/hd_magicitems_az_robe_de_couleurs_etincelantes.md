@@ -4,7 +4,7 @@
 
 ### Robe de couleurs étincelantes
 
-- AltName: Robe of Scintillating Colors (SRD p238)
+- Alias: Robe of Scintillating Colors (SRD p238)
 - Source: (CDC p181)
 -  Objet merveilleux, très rare (harmonisation requise)
 

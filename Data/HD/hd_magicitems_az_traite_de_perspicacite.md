@@ -4,7 +4,7 @@
 
 ### Traité de perspicacité
 
-- AltName: Tome of Clear Thought (SRD p247)
+- Alias: Tome of Clear Thought (SRD p247)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 

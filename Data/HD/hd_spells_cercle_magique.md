@@ -4,7 +4,7 @@
 
 # Cercle magique
 
-- SRD: [Magic Circle](srd_spells_magic_circle.md)
+- Alias: [Magic Circle](srd_spells_magic_circle.md)
 
 -  Abjuration de niveau 3
 

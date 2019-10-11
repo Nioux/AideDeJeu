@@ -5,7 +5,7 @@
 # Oxydeur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rust Monster](srd_monsters_rust_monster.md)
+- Alias: [Rust Monster](srd_monsters_rust_monster.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)

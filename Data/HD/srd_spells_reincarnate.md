@@ -4,7 +4,7 @@
 
 # Reincarnate
 
-- MDR: [Réincarnation](hd_spells_reincarnation.md)
+- Alias: [Réincarnation](hd_spells_reincarnation.md)
 - Source: (SRD p174)
 -  5th-level transmutation
 - **Casting Time :** 1 hour

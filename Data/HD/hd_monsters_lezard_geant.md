@@ -5,7 +5,7 @@
 # Lézard géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Lizard](srd_monsters_giant_lizard.md)
+- Alias: [Giant Lizard](srd_monsters_giant_lizard.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)

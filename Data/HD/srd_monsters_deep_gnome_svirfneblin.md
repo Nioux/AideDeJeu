@@ -4,7 +4,7 @@
 
 # Deep Gnome (Svirfneblin)
 
-- CEO: [Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)
+- Alias: [Gnome des profondeurs (svirfneblin)](hd_monsters_gnome_des_profondeurs_svirfneblin.md)
 -  Small humanoid (gnome), neutral good
 - **Armor Class** 15 (chain shirt)
 - **Hit Points** 16 (3d6 + 6)

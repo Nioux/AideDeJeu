@@ -5,7 +5,7 @@
 # Chélicère
 
 - Source: (LDM p57)(TOB p54)
-- TOB: Chelicerae
+- Alias: Chelicerae
 -  Aberration de Grande taille (G), neutre mauvaise
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)

@@ -4,7 +4,7 @@
 
 # Comprehend Languages
 
-- MDR: [Compréhension des langues](hd_spells_comprehension_des_langues.md)
+- Alias: [Compréhension des langues](hd_spells_comprehension_des_langues.md)
 - Source: (SRD p126)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action

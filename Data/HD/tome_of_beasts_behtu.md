@@ -5,7 +5,7 @@
 # Behtu
 
 - Source: (LDM p37)(TOB p34)
-- TOB: Behtu
+- Alias: Behtu
 -  Humanoïde de Petite taille (P), chaotique mauvais
 - **Terrain** Jungle
 - **Classe d'armure** 14 (armure de peau)

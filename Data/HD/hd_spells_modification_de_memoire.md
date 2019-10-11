@@ -4,7 +4,7 @@
 
 # Modification de mémoire
 
-- SRD: [Modify Memory](srd_spells_modify_memory.md)
+- Alias: [Modify Memory](srd_spells_modify_memory.md)
 
 -  Enchantement de niveau 5
 

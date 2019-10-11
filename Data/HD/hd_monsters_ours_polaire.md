@@ -5,7 +5,7 @@
 # Ours polaire
 
 - Source: (CEO p)(SRD p)
-- SRD: [Polar Bear](srd_monsters_polar_bear.md)
+- Alias: [Polar Bear](srd_monsters_polar_bear.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 12 (armure naturelle)

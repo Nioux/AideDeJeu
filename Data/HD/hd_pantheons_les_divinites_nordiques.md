@@ -4,7 +4,7 @@
 
 #### Les divinités nordiques
 
-- AltName: Norse Deities
+- Alias: Norse Deities
 - Source: (MDR p415)(SRD p361)
 
 |Divinité|Alignement|Domaines suggérés|Symbole|

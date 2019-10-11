@@ -4,7 +4,7 @@
 
 # Ray of Enfeeblement
 
-- MDR: [Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)
+- Alias: [Rayon affaiblissant](hd_spells_rayon_affaiblissant.md)
 - Source: (SRD p174)
 -  2nd-level necromancy
 - **Casting Time :** 1 action

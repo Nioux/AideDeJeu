@@ -4,7 +4,7 @@
 
 # Bouclier de la foi
 
-- SRD: [Shield of Faith](srd_spells_shield_of_faith.md)
+- Alias: [Shield of Faith](srd_spells_shield_of_faith.md)
 
 -  Abjuration de niveau 1
 

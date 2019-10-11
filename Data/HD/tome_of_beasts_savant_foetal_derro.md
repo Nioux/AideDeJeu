@@ -5,7 +5,7 @@
 # Savant Foetal Derro
 
 - Source: (LDM p95)(TOB p92)
-- TOB: Derro Fetal Savant
+- Alias: Derro Fetal Savant
 -  Humanoïde de Très Petite taille (TP), chaotique mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 15 (cage)

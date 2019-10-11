@@ -4,7 +4,7 @@
 
 # Major Image
 
-- MDR: [Image majeure](hd_spells_image_majeure.md)
+- Alias: [Image majeure](hd_spells_image_majeure.md)
 - Source: (SRD p162)
 -  3th-level illusion
 - **Casting Time :** 1 action

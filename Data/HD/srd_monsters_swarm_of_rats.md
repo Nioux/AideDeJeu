@@ -4,7 +4,7 @@
 
 # Swarm of Rats
 
-- CEO: [Nuée de rats](hd_monsters_nuee_de_rats.md)
+- Alias: [Nuée de rats](hd_monsters_nuee_de_rats.md)
 -  Medium swarm of Tiny beasts, unaligned
 - **Armor Class** 10
 - **Hit Points** 24 (7d8 - 7)

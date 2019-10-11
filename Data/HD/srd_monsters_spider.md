@@ -4,7 +4,7 @@
 
 # Spider
 
-- CEO: [Araignée](hd_monsters_araignee.md)
+- Alias: [Araignée](hd_monsters_araignee.md)
 - Source: (SRD p389)
 -  Tiny beast, unaligned
 - **Armor Class** 12

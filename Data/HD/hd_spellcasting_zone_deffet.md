@@ -4,7 +4,7 @@
 
 ### Zone d'effet
 
-- AltName: Areas of Effect (SRD p102)
+- Alias: Areas of Effect (SRD p102)
 - Source: (MDR p309)
 
 Les sorts tels que mains brûlantes et cône de froid couvrent une zone, ce qui leur permet d'affecter plusieurs créatures à la fois.

@@ -4,7 +4,7 @@
 
 # Wall of Force
 
-- MDR: [Mur de force](hd_spells_mur_de_force.md)
+- Alias: [Mur de force](hd_spells_mur_de_force.md)
 - Source: (SRD p190)
 -  5th-level evocation
 - **Casting Time :** 1 action

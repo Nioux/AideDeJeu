@@ -4,7 +4,7 @@
 
 ### Fer gelé
 
-- AltName: Frost Brand (SRD p223)
+- Alias: Frost Brand (SRD p223)
 - Source: (CDC p164)
 -  Arme (épée), très rare (harmonisation requise)
 

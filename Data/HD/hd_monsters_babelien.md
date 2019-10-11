@@ -5,7 +5,7 @@
 # Babélien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
+- Alias: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
 -  Aberration de taille M, neutre
 - **Terrain** Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
 - **Classe d'armure** 9

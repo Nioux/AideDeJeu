@@ -5,7 +5,7 @@
 # Strige
 
 - Source: (CEO p)(SRD p)
-- SRD: [Stirge](srd_monsters_stirge.md)
+- Alias: [Stirge](srd_monsters_stirge.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)

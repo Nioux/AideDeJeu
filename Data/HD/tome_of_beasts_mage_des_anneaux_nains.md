@@ -5,7 +5,7 @@
 # Mage Des Anneaux Nains
 
 - Source: (LDM p423)(TOB p420)
-- TOB: Dwarven Ringmage
+- Alias: Dwarven Ringmage
 -  Humanoïde de taille Moyenne (nain) (M), au choix
 - **Classe d'armure** 16 (cuirasse)
 - **Points de vie** 82 (15d8 + 15)

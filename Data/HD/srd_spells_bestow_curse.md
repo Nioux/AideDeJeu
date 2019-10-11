@@ -4,7 +4,7 @@
 
 # Bestow curse
 
-- MDR: [Jeter une malédiction](hd_spells_jeter_une_malediction.md)
+- Alias: [Jeter une malédiction](hd_spells_jeter_une_malediction.md)
 - Source: (SRD p121)
 -  3th-level necromancy
 - **Casting Time :** 1 action

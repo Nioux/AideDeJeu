@@ -5,7 +5,7 @@
 # Singe géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Ape](srd_monsters_giant_ape.md)
+- Alias: [Giant Ape](srd_monsters_giant_ape.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Arctique / Subarctique, Jungle, Montagnes
 - **Classe d'armure** 12

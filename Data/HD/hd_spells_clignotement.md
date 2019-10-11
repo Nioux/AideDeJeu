@@ -4,7 +4,7 @@
 
 # Clignotement
 
-- SRD: [Blink](srd_spells_blink.md)
+- Alias: [Blink](srd_spells_blink.md)
 
 -  Transmutation de niveau 3
 

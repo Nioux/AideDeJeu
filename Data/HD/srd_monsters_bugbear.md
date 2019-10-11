@@ -4,7 +4,7 @@
 
 # Bugbear
 
-- CEO: [Gobelours](hd_monsters_gobelours.md)
+- Alias: [Gobelours](hd_monsters_gobelours.md)
 -  Medium humanoid (goblinoid), chaotic evil
 - **Armor Class** 16 (hide armor, shield)
 - **Hit Points** 27 (5d8 + 5)

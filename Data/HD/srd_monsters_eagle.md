@@ -4,7 +4,7 @@
 
 # Eagle
 
-- CEO: [Aigle](hd_monsters_aigle.md)
+- Alias: [Aigle](hd_monsters_aigle.md)
 - Source: (SRD p371)
 -  Small beast, unaligned
 - **Armor Class** 12

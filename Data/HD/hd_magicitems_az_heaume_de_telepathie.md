@@ -4,7 +4,7 @@
 
 ### Heaume de télépathie
 
-- AltName: Helm of Telepathy (SRD p225)
+- Alias: Helm of Telepathy (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

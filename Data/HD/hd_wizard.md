@@ -5,7 +5,7 @@
 
 # Magicien
 
-- AltName: Wizard (SRD p52)
+- Alias: Wizard (SRD p52)
 - Source: (MDR p166)
 
 En tant que magicien, vous bénéficiez des aptitudes de classe suivantes.

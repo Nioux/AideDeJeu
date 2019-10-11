@@ -4,7 +4,7 @@
 
 # Esprits gardiens
 
-- SRD: [Spirit Guardians](srd_spells_spirit_guardians.md)
+- Alias: [Spirit Guardians](srd_spells_spirit_guardians.md)
 
 -  Invocation de niveau 3
 

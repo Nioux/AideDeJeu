@@ -4,7 +4,7 @@
 
 # Mage Armor
 
-- MDR: [Armure du mage](hd_spells_armure_du_mage.md)
+- Alias: [Armure du mage](hd_spells_armure_du_mage.md)
 - Source: (SRD p160)
 -  1st-level abjuration
 - **Casting Time :** 1 action

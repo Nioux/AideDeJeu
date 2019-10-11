@@ -4,7 +4,7 @@
 
 ### Balai volant
 
-- AltName: Broom of Flying (SRD p213)
+- Alias: Broom of Flying (SRD p213)
 - Source: (CDC p148)
 -  Objet merveilleux, peu courant
 

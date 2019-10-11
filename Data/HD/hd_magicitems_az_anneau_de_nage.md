@@ -4,7 +4,7 @@
 
 ### Anneau de nage
 
-- AltName: Ring of Swimming (SRD p238)
+- Alias: Ring of Swimming (SRD p238)
 - Source: (CDC p141)
 -  Anneau, peu courant
 

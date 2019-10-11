@@ -4,7 +4,7 @@
 
 # Flamme sacrée
 
-- SRD: [Sacred Flame](srd_spells_sacred_flame.md)
+- Alias: [Sacred Flame](srd_spells_sacred_flame.md)
 
 -  Évocation, tour de magie
 

@@ -4,7 +4,7 @@
 
 ### Heaume de téléportation
 
-- AltName: Helm of Teleportation (SRD p225)
+- Alias: Helm of Teleportation (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, rare (harmonisation requise)
 

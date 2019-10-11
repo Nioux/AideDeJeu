@@ -5,7 +5,7 @@
 # Sanglier-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wereboar](srd_monsters_wereboar.md)
+- Alias: [Wereboar](srd_monsters_wereboar.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier

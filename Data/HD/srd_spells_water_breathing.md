@@ -4,7 +4,7 @@
 
 # Water Breathing
 
-- MDR: [Respiration aquatique](hd_spells_respiration_aquatique.md)
+- Alias: [Respiration aquatique](hd_spells_respiration_aquatique.md)
 - Source: (SRD p191)
 -  3th-level transmutation (ritual)
 - **Casting Time :** 1 action

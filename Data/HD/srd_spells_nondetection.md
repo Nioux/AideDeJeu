@@ -4,7 +4,7 @@
 
 # Nondetection
 
-- MDR: [Non-détection](hd_spells_non_detection.md)
+- Alias: [Non-détection](hd_spells_non_detection.md)
 - Source: (SRD p167)
 -  3th-level abjuration
 - **Casting Time :** 1 action

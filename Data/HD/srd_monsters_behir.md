@@ -4,7 +4,7 @@
 
 # Behir
 
-- CEO: [Béhir](hd_monsters_behir.md)
+- Alias: [Béhir](hd_monsters_behir.md)
 - Source: (SRD p265)
 -  Huge monstrosity, neutral evil
 - **Armor Class** 17 (natural armor)

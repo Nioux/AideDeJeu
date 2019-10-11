@@ -5,7 +5,7 @@
 # Scheznyki
 
 - Source: (LDM p356)(TOB p339)
-- TOB: Scheznyki
+- Alias: Scheznyki
 -  Fée de Petite taille (P), chaotique mauvaise
 - **Terrain** Collines / Vallées, Ruines souterraines
 - **Classe d'armure** 16 (armure naturelle)

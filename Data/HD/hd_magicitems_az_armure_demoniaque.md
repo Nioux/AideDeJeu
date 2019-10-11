@@ -4,7 +4,7 @@
 
 ### Armure démoniaque
 
-- AltName: Demon Armor (SRD p218)
+- Alias: Demon Armor (SRD p218)
 - Source: (CDC p144)
 -  Armure (harnois), très rare (harmonisation requise)
 

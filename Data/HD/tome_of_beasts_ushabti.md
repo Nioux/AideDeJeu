@@ -5,7 +5,7 @@
 # Ushabti
 
 - Source: (LDM p392)(TOB p394)
-- TOB: Ushabti
+- Alias: Ushabti
 -  Créature artificielle de Grande taille (G), non alignée
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)

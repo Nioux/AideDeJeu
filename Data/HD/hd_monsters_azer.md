@@ -5,7 +5,7 @@
 # Azer
 
 - Source: (CEO p)(SRD p)
-- SRD: [Azer](srd_monsters_azer.md)
+- Alias: [Azer](srd_monsters_azer.md)
 -  Élémentaire de taille M, Loyal Neutre
 - **Terrain** Plans élémentaires, Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle, bouclier)

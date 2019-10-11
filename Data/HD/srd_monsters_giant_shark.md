@@ -4,7 +4,7 @@
 
 # Giant Shark
 
-- CEO: [Requin géant](hd_monsters_requin_geant.md)
+- Alias: [Requin géant](hd_monsters_requin_geant.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 126 (11d12 + 55)

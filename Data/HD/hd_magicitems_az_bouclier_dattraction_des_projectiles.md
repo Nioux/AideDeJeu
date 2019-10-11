@@ -4,7 +4,7 @@
 
 ### Bouclier d'attraction des projectiles
 
-- AltName: Shield of Missile Attraction (SRD p242)
+- Alias: Shield of Missile Attraction (SRD p242)
 - Source: (CDC p153)
 -  Armure (bouclier), rare (harmonisation requise)
 

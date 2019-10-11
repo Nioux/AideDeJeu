@@ -4,7 +4,7 @@
 
 # Giant Frog
 
-- CEO: [Grenouille géante](hd_monsters_grenouille_geante.md)
+- Alias: [Grenouille géante](hd_monsters_grenouille_geante.md)
 -  Medium beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 18 (4d8)

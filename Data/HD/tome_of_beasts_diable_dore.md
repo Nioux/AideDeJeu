@@ -5,7 +5,7 @@
 # Diable Doré
 
 - Source: (LDM p111)(TOB p106)
-- TOB: Gilded Devil
+- Alias: Gilded Devil
 -  Fiélon (diable) de taille Moyenne (M), loyal mauvais
 - **Classe d'armure** 16 (armure de pièces)
 - **Points de vie** 112 (15d8+45)

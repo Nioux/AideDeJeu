@@ -4,7 +4,7 @@
 
 # Roper
 
-- CEO: [Enlaceur](hd_monsters_enlaceur.md)
+- Alias: [Enlaceur](hd_monsters_enlaceur.md)
 -  Large monstrosity, neutral evil
 - **Armor Class** 20 (natural armor)
 - **Hit Points** 93 (11d10 + 33)

@@ -5,7 +5,7 @@
 # Vautour
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vulture](srd_monsters_vulture.md)
+- Alias: [Vulture](srd_monsters_vulture.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10

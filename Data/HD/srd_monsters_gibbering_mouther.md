@@ -4,7 +4,7 @@
 
 # Gibbering Mouther
 
-- CEO: [Babélien](hd_monsters_babelien.md)
+- Alias: [Babélien](hd_monsters_babelien.md)
 - Source: (SRD p314)
 -  Medium aberration, neutral
 - **Armor Class** 9

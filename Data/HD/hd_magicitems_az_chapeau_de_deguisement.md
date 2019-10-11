@@ -4,7 +4,7 @@
 
 ### Chapeau de déguisement
 
-- AltName: Hat of Disguise (SRD p225)
+- Alias: Hat of Disguise (SRD p225)
 - Source: (CDC p159)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

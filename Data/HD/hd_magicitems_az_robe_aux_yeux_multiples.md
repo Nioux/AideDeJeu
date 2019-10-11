@@ -4,7 +4,7 @@
 
 ### Robe aux yeux multiples
 
-- AltName: Robe of Eyes (SRD p238)
+- Alias: Robe of Eyes (SRD p238)
 - Source: (CDC p180)
 -  Objet merveilleux, rare (harmonisation requise)
 

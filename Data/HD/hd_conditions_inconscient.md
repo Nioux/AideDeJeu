@@ -4,7 +4,7 @@
 
 # Inconscient
 
-- AltName: [Unconscious](srd_conditions_unconscious.md)
+- Alias: [Unconscious](srd_conditions_unconscious.md)
 
 * Une créature inconsciente est [neutralisée](hd_conditions_neutralise.md) (voir l'état), incapable de se déplacer et de parler et n'a pas conscience de ce qui l'entoure.
 

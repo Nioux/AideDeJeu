@@ -5,7 +5,7 @@
 # Nuée De Scarabées Manavores
 
 - Source: (LDM p328)(TOB p374)
-- TOB: Manabane Scarab Swarm
+- Alias: Manabane Scarab Swarm
 -  Nuée de taille Moyenne de bêtes de Très Petite taille (TP), non-alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)

@@ -4,7 +4,7 @@
 
 # Mirror Image
 
-- MDR: [Image miroir](hd_spells_image_miroir.md)
+- Alias: [Image miroir](hd_spells_image_miroir.md)
 - Source: (SRD p165)
 -  2nd-level illusion
 - **Casting Time :** 1 action

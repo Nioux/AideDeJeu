@@ -4,7 +4,7 @@
 
 # Répulsion/attirance
 
-- SRD: [Antipathy/Sympathy](srd_spells_antipathysympathy.md)
+- Alias: [Antipathy/Sympathy](srd_spells_antipathysympathy.md)
 
 -  Enchantement de niveau 8
 

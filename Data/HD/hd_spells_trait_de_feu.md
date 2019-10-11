@@ -4,7 +4,7 @@
 
 # Trait de feu
 
-- SRD: [Fire Bolt](srd_spells_fire_bolt.md)
+- Alias: [Fire Bolt](srd_spells_fire_bolt.md)
 
 -  Évocation, tour de magie
 

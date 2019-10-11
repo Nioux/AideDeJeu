@@ -5,7 +5,7 @@
 # Liosalfar
 
 - Source: (LDM p273)(TOB p277)
-- TOB: Liosalfar
+- Alias: Liosalfar
 -  Élémentaire de Grande taille (G), neutre
 - **Classe d'armure** 17
 - **Points de vie** 110 (20d10)

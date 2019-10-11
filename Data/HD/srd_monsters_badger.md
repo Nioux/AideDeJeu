@@ -4,7 +4,7 @@
 
 # Badger
 
-- CEO: [Blaireau](hd_monsters_blaireau.md)
+- Alias: [Blaireau](hd_monsters_blaireau.md)
 - Source: (SRD p367)
 -  Tiny beast, unaligned
 - **Armor Class** 10

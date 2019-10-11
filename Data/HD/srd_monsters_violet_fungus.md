@@ -4,7 +4,7 @@
 
 # Violet Fungus
 
-- CEO: [Moisissure violette](hd_monsters_moisissure_violette.md)
+- Alias: [Moisissure violette](hd_monsters_moisissure_violette.md)
 -  Medium plant, unaligned
 - **Armor Class** 5
 - **Hit Points** 18 (4d8)

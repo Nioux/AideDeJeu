@@ -4,7 +4,7 @@
 
 # False Life
 
-- MDR: [Simulacre de vie](hd_spells_simulacre_de_vie.md)
+- Alias: [Simulacre de vie](hd_spells_simulacre_de_vie.md)
 - Source: (SRD p142)
 -  1st-level necromancy
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Golem Smaragdin
 
 - Source: (LDM p215)(TOB p236)
-- TOB: Smaragdine Golem
+- Alias: Smaragdine Golem
 -  Créature artificielle de Grande taille (G), non-alignée
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 231 (22d10+110)

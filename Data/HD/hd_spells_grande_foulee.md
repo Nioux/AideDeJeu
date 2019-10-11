@@ -4,7 +4,7 @@
 
 # Grande foulée
 
-- SRD: [Longstrider](srd_spells_longstrider.md)
+- Alias: [Longstrider](srd_spells_longstrider.md)
 
 -  Transmutation de niveau 1
 

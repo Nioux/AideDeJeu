@@ -4,7 +4,7 @@
 
 # Mind Blank
 
-- MDR: [Esprit impénétrable](hd_spells_esprit_impenetrable.md)
+- Alias: [Esprit impénétrable](hd_spells_esprit_impenetrable.md)
 - Source: (SRD p164)
 -  8th-level abjuration
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Call Lightning
 
-- MDR: [Appel de la foudre](hd_spells_appel_de_la_foudre.md)
+- Alias: [Appel de la foudre](hd_spells_appel_de_la_foudre.md)
 - Source: (SRD p123)
 -  3th-level conjuration
 - **Casting Time :** 1 action

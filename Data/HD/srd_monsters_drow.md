@@ -4,7 +4,7 @@
 
 # Drow
 
-- CEO: [Drow](hd_monsters_drow.md)
+- Alias: [Drow](hd_monsters_drow.md)
 -  Medium humanoid (elf), neutral evil
 - **Armor Class** 15 (chain shirt)
 - **Hit Points** 13 (3d8)

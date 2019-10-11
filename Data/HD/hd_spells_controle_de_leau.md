@@ -4,7 +4,7 @@
 
 # Contrôle de l'eau
 
-- SRD: [Control Water](srd_spells_control_water.md)
+- Alias: [Control Water](srd_spells_control_water.md)
 
 -  Transmutation de niveau 4
 

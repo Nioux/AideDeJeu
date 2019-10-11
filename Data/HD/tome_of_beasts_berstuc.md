@@ -5,7 +5,7 @@
 # Berstuc
 
 - Source: (LDM p77)(TOB p76)
-- TOB: Berstuc
+- Alias: Berstuc
 -  Fiélon (démon) de Grande taille (G), chaotique mauvais
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 157 (15d10+75)

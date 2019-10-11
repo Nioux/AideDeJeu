@@ -4,7 +4,7 @@
 
 # Dominate Monster
 
-- MDR: [Dominer un monstre](hd_spells_dominer_un_monstre.md)
+- Alias: [Dominer un monstre](hd_spells_dominer_un_monstre.md)
 - Source: (SRD p137)
 -  8th-level enchantment
 - **Casting Time :** 1 action

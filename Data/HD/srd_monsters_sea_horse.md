@@ -4,7 +4,7 @@
 
 # Sea Horse
 
-- CEO: [Hippocampe](hd_monsters_hippocampe.md)
+- Alias: [Hippocampe](hd_monsters_hippocampe.md)
 -  Tiny beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 1 (1d4 - 1)

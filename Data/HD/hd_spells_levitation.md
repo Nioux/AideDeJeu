@@ -4,7 +4,7 @@
 
 # Lévitation
 
-- SRD: [Levitate](srd_spells_levitate.md)
+- Alias: [Levitate](srd_spells_levitate.md)
 
 -  Transmutation de niveau 2
 

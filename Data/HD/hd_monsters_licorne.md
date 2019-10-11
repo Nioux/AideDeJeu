@@ -5,7 +5,7 @@
 # Licorne
 
 - Source: (CEO p)(SRD p)
-- SRD: [Unicorn](srd_monsters_unicorn.md)
+- Alias: [Unicorn](srd_monsters_unicorn.md)
 -  Céleste de taille G, Loyal Bon
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 12

@@ -4,7 +4,7 @@
 
 ### Fers du zéphyr
 
-- AltName: Horseshoes of a Zephyr (SRD p226)
+- Alias: Horseshoes of a Zephyr (SRD p226)
 - Source: (CDC p164)
 -  Objet merveilleux, très rare
 

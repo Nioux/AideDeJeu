@@ -4,7 +4,7 @@
 
 # Young Blue Dragon
 
-- CEO: [Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)
+- Alias: [Jeune dragon bleu](hd_monsters_jeune_dragon_bleu.md)
 -  Large dragon, lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 152 (16d10 + 64)

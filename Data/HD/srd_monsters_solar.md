@@ -4,7 +4,7 @@
 
 # Solar
 
-- CEO: [Solar](hd_monsters_solar.md)
+- Alias: [Solar](hd_monsters_solar.md)
 -  Large celestial, lawful good
 - **Armor Class** 21 (natural armor)
 - **Hit Points** 243 (18d10 + 144)

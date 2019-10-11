@@ -4,7 +4,7 @@
 
 ### Talisman du bien ultime
 
-- AltName: Talisman of Pure Good (SRD p247)
+- Alias: Talisman of Pure Good (SRD p247)
 - Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation avec une créature d'alignement bon exigée)
 

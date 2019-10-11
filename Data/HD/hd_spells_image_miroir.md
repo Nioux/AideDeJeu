@@ -4,7 +4,7 @@
 
 # Image miroir
 
-- SRD: [Mirror Image](srd_spells_mirror_image.md)
+- Alias: [Mirror Image](srd_spells_mirror_image.md)
 
 -  Illusion de niveau 2
 

@@ -4,7 +4,7 @@
 
 # Tiger
 
-- CEO: [Tigre](hd_monsters_tigre.md)
+- Alias: [Tigre](hd_monsters_tigre.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 37 (5d10 + 10)

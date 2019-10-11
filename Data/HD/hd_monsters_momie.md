@@ -5,7 +5,7 @@
 # Momie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mummy](srd_monsters_mummy.md)
+- Alias: [Mummy](srd_monsters_mummy.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 11 (armure naturelle)

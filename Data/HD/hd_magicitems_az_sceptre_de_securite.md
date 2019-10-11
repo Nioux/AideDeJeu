@@ -4,7 +4,7 @@
 
 ### Sceptre de sécurité
 
-- AltName: Rod of Security (SRD p241)
+- Alias: Rod of Security (SRD p241)
 - Source: (CDC p185)
 -  Sceptre, très rare
 

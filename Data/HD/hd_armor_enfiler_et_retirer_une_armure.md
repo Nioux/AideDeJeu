@@ -4,7 +4,7 @@
 
 ### Enfiler et retirer une armure
 
-- AltName: Getting Into and Out of Armor (SRD p64)
+- Alias: Getting Into and Out of Armor (SRD p64)
 - Source: (MDR p225)
 
 Le temps mis pour enfiler ou retirer une armure dépend de sa catégorie.

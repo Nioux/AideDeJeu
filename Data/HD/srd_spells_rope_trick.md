@@ -4,7 +4,7 @@
 
 # Rope Trick
 
-- MDR: [Corde enchantée](hd_spells_corde_enchantee.md)
+- Alias: [Corde enchantée](hd_spells_corde_enchantee.md)
 - Source: (SRD p176)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

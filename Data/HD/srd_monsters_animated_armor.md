@@ -4,7 +4,7 @@
 
 # Animated Armor
 
-- CEO: [Armure animée](hd_monsters_armure_animee.md)
+- Alias: [Armure animée](hd_monsters_armure_animee.md)
 - Source: (SRD p263)
 -  Medium construct, unaligned
 - **Armor Class** 18 (natural armor)

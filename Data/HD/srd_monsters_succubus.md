@@ -4,7 +4,7 @@
 
 # Succubus
 
-- CEO: [Succube/Incube](hd_monsters_succubeincube.md)
+- Alias: [Succube/Incube](hd_monsters_succubeincube.md)
 -  Medium fiend (shapechanger), neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 66 (12d8 + 12)

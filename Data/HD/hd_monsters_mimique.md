@@ -5,7 +5,7 @@
 # Mimique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mimic](srd_monsters_mimic.md)
+- Alias: [Mimic](srd_monsters_mimic.md)
 -  Créature monstrueuse (métamorphe) de taille M, Neutre
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)

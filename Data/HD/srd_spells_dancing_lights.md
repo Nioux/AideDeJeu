@@ -4,7 +4,7 @@
 
 # Dancing Lights
 
-- MDR: [Lumières dansantes](hd_spells_lumieres_dansantes.md)
+- Alias: [Lumières dansantes](hd_spells_lumieres_dansantes.md)
 - Source: (SRD p133)
 -  Evocation cantrip
 - **Casting Time :** 1 action

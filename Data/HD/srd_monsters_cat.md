@@ -4,7 +4,7 @@
 
 # Cat
 
-- CEO: [Chat](hd_monsters_chat.md)
+- Alias: [Chat](hd_monsters_chat.md)
 -  Tiny beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 2 (1d4)

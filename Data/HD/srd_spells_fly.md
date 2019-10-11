@@ -4,7 +4,7 @@
 
 # Fly
 
-- MDR: [Vol](hd_spells_vol.md)
+- Alias: [Vol](hd_spells_vol.md)
 - Source: (SRD p146)
 -  3th-level transmutation
 - **Casting Time :** 1 action

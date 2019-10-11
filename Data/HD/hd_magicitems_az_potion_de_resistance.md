@@ -4,7 +4,7 @@
 
 ### Potion de résistance
 
-- AltName: Potion of Resistance (SRD p235)
+- Alias: Potion of Resistance (SRD p235)
 - Source: (CDC p178)
 -  Potion, peu courante
 

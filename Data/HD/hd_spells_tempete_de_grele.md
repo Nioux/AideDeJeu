@@ -4,7 +4,7 @@
 
 # Tempête de grêle
 
-- SRD: [Ice Storm](srd_spells_ice_storm.md)
+- Alias: [Ice Storm](srd_spells_ice_storm.md)
 
 -  Évocation de niveau 4
 

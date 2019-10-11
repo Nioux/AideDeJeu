@@ -5,7 +5,7 @@
 # Dragon de cuivre adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
+- Alias: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 18 (armure naturelle)

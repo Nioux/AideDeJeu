@@ -5,7 +5,7 @@
 # Gug
 
 - Source: (LDM p232)(TOB p241)
-- TOB: Gug
+- Alias: Gug
 -  Géant de Très Grande taille (TG), neutre mauvais
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)

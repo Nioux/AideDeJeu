@@ -5,7 +5,7 @@
 # Archimage
 
 - Source: (CEO p)(SRD p)
-- SRD: [Archmage](srd_monsters_archmage.md)
+- Alias: [Archmage](srd_monsters_archmage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)

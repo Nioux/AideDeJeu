@@ -4,7 +4,7 @@
 
 # Manticore
 
-- CEO: [Manticore](hd_monsters_manticore.md)
+- Alias: [Manticore](hd_monsters_manticore.md)
 -  Large monstrosity, lawful evil
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 68 (8d10 + 24)

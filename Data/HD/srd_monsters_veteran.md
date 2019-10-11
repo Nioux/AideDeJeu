@@ -4,7 +4,7 @@
 
 # Veteran
 
-- CEO: [Vétéran](hd_monsters_veteran.md)
+- Alias: [Vétéran](hd_monsters_veteran.md)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 17 (splint)
 - **Hit Points** 58 (9d8 + 18)

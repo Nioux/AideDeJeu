@@ -5,7 +5,7 @@
 # Wampus Féline
 
 - Source: (LDM p409)(TOB p405)
-- TOB: Wampus Cat
+- Alias: Wampus Cat
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt, Collines / Vallées
 - **Classe d'armure** 14

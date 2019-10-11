@@ -4,7 +4,7 @@
 
 # Liberté de mouvement
 
-- SRD: [Freedom of Movement](srd_spells_freedom_of_movement.md)
+- Alias: [Freedom of Movement](srd_spells_freedom_of_movement.md)
 
 -  Abjuration de niveau 4
 

@@ -4,7 +4,7 @@
 
 ### Plume magique
 
-- AltName: Feather Token (SRD p221)
+- Alias: Feather Token (SRD p221)
 - Source: (CDC p176)
 -  Objet merveilleux, rare
 

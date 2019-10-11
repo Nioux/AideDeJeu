@@ -4,7 +4,7 @@
 
 # Déguisement
 
-- SRD: [Disguise Self](srd_spells_disguise_self.md)
+- Alias: [Disguise Self](srd_spells_disguise_self.md)
 
 -  Illusion de niveau 1
 

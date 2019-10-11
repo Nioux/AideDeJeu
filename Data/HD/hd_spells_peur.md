@@ -4,7 +4,7 @@
 
 # Peur
 
-- SRD: [Fear](srd_spells_fear.md)
+- Alias: [Fear](srd_spells_fear.md)
 
 -  Illusion de niveau 3
 

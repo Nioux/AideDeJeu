@@ -4,7 +4,7 @@
 
 # Mummy Lord
 
-- CEO: [Momie auguste](hd_monsters_momie_auguste.md)
+- Alias: [Momie auguste](hd_monsters_momie_auguste.md)
 -  Medium undead, lawful evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 97 (13d8 + 39)

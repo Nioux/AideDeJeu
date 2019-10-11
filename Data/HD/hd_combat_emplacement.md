@@ -4,7 +4,7 @@
 
 #### Emplacement
 
-- AltName: Space (SRD p92)
+- Alias: Space (SRD p92)
 - Source: (MDR p287)
 
 L'emplacement d'une créature correspond à la surface qu'elle contrôle lors d'un combat et non à la surface qu'elle occupe réellement. Par exemple, une créature de taille moyenne classique ne fait pas 1,50 mètre de large, mais elle contrôle une surface de 1,50 mètre de côté. Si un hobgobelin de taille moyenne se trouve dans l'embrasure d'une porte de 1,50 mètre de large, les autres créatures ne peuvent passer que si le hobgobelin leur permet.

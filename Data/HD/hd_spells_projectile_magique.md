@@ -4,7 +4,7 @@
 
 # Projectile magique
 
-- SRD: [Magic Missile](srd_spells_magic_missile.md)
+- Alias: [Magic Missile](srd_spells_magic_missile.md)
 
 -  Évocation de niveau 1
 

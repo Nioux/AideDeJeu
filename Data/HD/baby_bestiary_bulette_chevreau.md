@@ -6,6 +6,8 @@
 
 Voir [Bulette](hd_monsters_bulette.md)
 
+- Source: (MM p28)(BB1 p16)
+- Alias: Bulette Billy
 -  Créature monstrueuse de taille M, non aligné
 - **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)

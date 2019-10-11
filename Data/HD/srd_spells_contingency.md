@@ -4,7 +4,7 @@
 
 # Contingency
 
-- MDR: [Contingence](hd_spells_contingence.md)
+- Alias: [Contingence](hd_spells_contingence.md)
 - Source: (SRD p130)
 -  6th-level evocation
 - **Casting Time :** 10 minutes

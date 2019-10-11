@@ -4,7 +4,7 @@
 
 # Stunned
 
-- AltName: [Étourdi](hd_conditions_etourdi.md)
+- Alias: [Étourdi](hd_conditions_etourdi.md)
 - Source: (SRD p359)
 
 * A stunned creature is [incapacitated](srd_conditions_incapacitated.md) (see the condition), can't move, and can speak only falteringly.

@@ -4,7 +4,7 @@
 
 ### Marteau du tonnerre
 
-- AltName: Hammer of Thunderbolts (SRD p224)
+- Alias: Hammer of Thunderbolts (SRD p224)
 - Source: (CDC p172)
 -  Arme (maillet d'armes), légendaire
 

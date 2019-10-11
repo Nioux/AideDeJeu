@@ -4,7 +4,7 @@
 
 # Baboon
 
-- CEO: [Babouin](hd_monsters_babouin.md)
+- Alias: [Babouin](hd_monsters_babouin.md)
 - Source: (SRD p367)
 -  Small beast, unaligned
 - **Armor Class** 12

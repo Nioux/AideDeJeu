@@ -4,7 +4,7 @@
 
 # Hydra
 
-- CEO: [Hydre](hd_monsters_hydre.md)
+- Alias: [Hydre](hd_monsters_hydre.md)
 -  Huge monstrosity, unaligned
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 172 (15d12 + 75)

@@ -5,7 +5,7 @@
 
 # Sandbox
 
-- SRD: Races
+- Alias: Races
 - Book: (MDR p36)(SRD p3)
 
 

@@ -4,7 +4,7 @@
 
 ### Sac de haricots
 
-- AltName: Bag of Beans (SRD p209)
+- Alias: Bag of Beans (SRD p209)
 - Source: (CDC p183)
 -  Objet merveilleux, rare
 

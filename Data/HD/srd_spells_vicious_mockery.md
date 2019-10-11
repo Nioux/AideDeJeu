@@ -4,7 +4,7 @@
 
 # Vicious Mockery
 
-- MDR: [Moquerie cruelle](hd_spells_moquerie_cruelle.md)
+- Alias: [Moquerie cruelle](hd_spells_moquerie_cruelle.md)
 - Source: (SRD p189)
 -  Enchantment cantrip
 - **Casting Time :** 1 action

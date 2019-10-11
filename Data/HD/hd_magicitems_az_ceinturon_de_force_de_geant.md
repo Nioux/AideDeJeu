@@ -4,7 +4,7 @@
 
 ### Ceinturon de force de géant
 
-- AltName: Belt of Giant Strength (SRD p211)
+- Alias: Belt of Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, rareté variable (harmonisation requise)
 

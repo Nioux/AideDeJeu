@@ -4,7 +4,7 @@
 
 # Grimlock
 
-- CEO: [Torve](hd_monsters_torve.md)
+- Alias: [Torve](hd_monsters_torve.md)
 -  Medium humanoid (grimlock), neutral evil
 - **Armor Class** 11
 - **Hit Points** 11 (2d8 + 2)

@@ -4,7 +4,7 @@
 
 #### Matérielles (M)
 
-- AltName: Material (M) (SRD p102)
+- Alias: Material (M) (SRD p102)
 - Source: (MDR p308)
 
 L'incantation de certains sorts requiert des objets particuliers, indiqués entre parenthèses dans la ligne réservée aux composantes. Le personnage peut utiliser une sacoche à composantes ou un focaliseur d'incantation (voir le chapitre 5, Équipement, page 123) au lieu de la composante indiquée. En revanche, si la composante requise s'accompagne d'une valeur monétaire, le personnage doit obligatoirement utiliser la composante indiquée pour lancer le sort.

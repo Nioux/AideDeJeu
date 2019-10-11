@@ -4,7 +4,7 @@
 
 # Changement de forme
 
-- SRD: [Shapechange](srd_spells_shapechange.md)
+- Alias: [Shapechange](srd_spells_shapechange.md)
 
 -  Transmutation de niveau 9
 

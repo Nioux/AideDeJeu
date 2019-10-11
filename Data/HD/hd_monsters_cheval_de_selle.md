@@ -5,7 +5,7 @@
 # Cheval de selle
 
 - Source: (CEO p)(SRD p)
-- SRD: [Riding Horse](srd_monsters_riding_horse.md)
+- Alias: [Riding Horse](srd_monsters_riding_horse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10

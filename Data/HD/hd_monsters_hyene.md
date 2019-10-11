@@ -5,7 +5,7 @@
 # Hyène
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hyena](srd_monsters_hyena.md)
+- Alias: [Hyena](srd_monsters_hyena.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11

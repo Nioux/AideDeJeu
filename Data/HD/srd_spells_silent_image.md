@@ -4,7 +4,7 @@
 
 # Silent Image
 
-- MDR: [Image silencieuse](hd_spells_image_silencieuse.md)
+- Alias: [Image silencieuse](hd_spells_image_silencieuse.md)
 - Source: (SRD p179)
 -  1st-level illusion
 - **Casting Time :** 1 action

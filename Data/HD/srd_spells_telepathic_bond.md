@@ -4,7 +4,7 @@
 
 # Telepathic Bond
 
-- MDR: [Lien télépathique](hd_spells_lien_telepathique.md)
+- Alias: [Lien télépathique](hd_spells_lien_telepathique.md)
 - Source: (SRD p185)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 action

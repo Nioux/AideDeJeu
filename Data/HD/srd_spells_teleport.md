@@ -4,7 +4,7 @@
 
 # Teleport
 
-- MDR: [Téléportation](hd_spells_teleportation.md)
+- Alias: [Téléportation](hd_spells_teleportation.md)
 - Source: (SRD p185)
 -  7th-level conjuration
 - **Casting Time :** 1 action

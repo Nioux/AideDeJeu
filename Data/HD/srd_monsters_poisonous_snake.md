@@ -4,7 +4,7 @@
 
 # Poisonous Snake
 
-- CEO: [Serpent venimeux](hd_monsters_serpent_venimeux.md)
+- Alias: [Serpent venimeux](hd_monsters_serpent_venimeux.md)
 -  Tiny beast, unaligned
 - **Armor Class** 13
 - **Hit Points** 2 (1d4)

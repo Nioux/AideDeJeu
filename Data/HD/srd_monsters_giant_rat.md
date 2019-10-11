@@ -4,7 +4,7 @@
 
 # Giant Rat
 
-- CEO: [Rat géant](hd_monsters_rat_geant.md)
+- Alias: [Rat géant](hd_monsters_rat_geant.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 7 (2d6)

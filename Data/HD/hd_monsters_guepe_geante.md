@@ -5,7 +5,7 @@
 # Guêpe géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Wasp](srd_monsters_giant_wasp.md)
+- Alias: [Giant Wasp](srd_monsters_giant_wasp.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12

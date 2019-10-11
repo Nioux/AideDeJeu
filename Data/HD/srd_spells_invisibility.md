@@ -4,7 +4,7 @@
 
 # Invisibility
 
-- MDR: [Invisibilité](hd_spells_invisibilite.md)
+- Alias: [Invisibilité](hd_spells_invisibilite.md)
 - Source: (SRD p157)
 -  2nd-level illusion
 - **Casting Time :** 1 action

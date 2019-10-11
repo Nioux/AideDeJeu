@@ -4,7 +4,7 @@
 
 # Suggestion
 
-- SRD: [Suggestion](srd_spells_suggestion.md)
+- Alias: [Suggestion](srd_spells_suggestion.md)
 
 -  Enchantement de niveau 2
 

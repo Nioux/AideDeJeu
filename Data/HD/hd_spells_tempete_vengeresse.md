@@ -4,7 +4,7 @@
 
 # Tempête vengeresse
 
-- SRD: [Storm of Vengeance](srd_spells_storm_of_vengeance.md)
+- Alias: [Storm of Vengeance](srd_spells_storm_of_vengeance.md)
 
 -  Invocation de niveau 9
 

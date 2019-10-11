@@ -4,7 +4,7 @@
 
 # Remove Curse
 
-- MDR: [Lever une malédiction](hd_spells_lever_une_malediction.md)
+- Alias: [Lever une malédiction](hd_spells_lever_une_malediction.md)
 - Source: (SRD p174)
 -  3th-level abjuration
 - **Casting Time :** 1 action

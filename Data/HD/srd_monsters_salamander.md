@@ -4,7 +4,7 @@
 
 # Salamander
 
-- CEO: [Salamandre](hd_monsters_salamandre.md)
+- Alias: [Salamandre](hd_monsters_salamandre.md)
 -  Large elemental, neutral evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 90 (12d10 + 24)

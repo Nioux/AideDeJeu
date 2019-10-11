@@ -5,7 +5,7 @@
 # Quasit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Quasit](srd_monsters_quasit.md)
+- Alias: [Quasit](srd_monsters_quasit.md)
 -  Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 13

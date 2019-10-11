@@ -5,7 +5,7 @@
 # Ours brun
 
 - Source: (CEO p)(SRD p)
-- SRD: [Brown Bear](srd_monsters_brown_bear.md)
+- Alias: [Brown Bear](srd_monsters_brown_bear.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 11 (armure naturelle)

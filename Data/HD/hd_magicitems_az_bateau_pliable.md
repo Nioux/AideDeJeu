@@ -4,7 +4,7 @@
 
 ### Bateau pliable
 
-- AltName: Folding Boat (SRD p223)
+- Alias: Folding Boat (SRD p223)
 - Source: (CDC p148)
 -  Objet merveilleux, rare
 

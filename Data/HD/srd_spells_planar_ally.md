@@ -4,7 +4,7 @@
 
 # Planar Ally
 
-- MDR: [Allié planaire](hd_spells_allie_planaire.md)
+- Alias: [Allié planaire](hd_spells_allie_planaire.md)
 - Source: (SRD p168)
 -  6th-level conjuration
 - **Casting Time :** 10 minutes

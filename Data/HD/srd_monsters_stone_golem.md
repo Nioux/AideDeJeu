@@ -4,7 +4,7 @@
 
 # Stone Golem
 
-- CEO: [Golem de pierre](hd_monsters_golem_de_pierre.md)
+- Alias: [Golem de pierre](hd_monsters_golem_de_pierre.md)
 -  Large construct, unaligned
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 178 (17d10 + 85)

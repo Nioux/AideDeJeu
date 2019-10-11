@@ -5,7 +5,7 @@
 # Marcheflèche
 
 - Source: (LDM p288)(TOB p367)
-- TOB: Spire Walker
+- Alias: Spire Walker
 -  Fée de Très Petite taille (TP), neutre
 - **Terrain** Littoral
 - **Classe d'armure** 16 (armure naturelle)

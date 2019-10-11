@@ -4,7 +4,7 @@
 
 # Prière de soins
 
-- SRD: [Prayer of Healing](srd_spells_prayer_of_healing.md)
+- Alias: [Prayer of Healing](srd_spells_prayer_of_healing.md)
 
 -  Évocation de niveau 2
 

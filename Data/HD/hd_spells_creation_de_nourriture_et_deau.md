@@ -4,7 +4,7 @@
 
 # Création de nourriture et d'eau
 
-- SRD: [Create Food and Water](srd_spells_create_food_and_water.md)
+- Alias: [Create Food and Water](srd_spells_create_food_and_water.md)
 
 -  Invocation de niveau 3
 

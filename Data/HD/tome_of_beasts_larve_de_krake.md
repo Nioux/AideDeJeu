@@ -5,7 +5,7 @@
 # Larve De Krake
 
 - Source: (LDM p262)(TOB p269)
-- TOB: Krake Spawn
+- Alias: Krake Spawn
 -  Créature monstrueuse de Très Grande taille (TG), neutre mauvaise
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)

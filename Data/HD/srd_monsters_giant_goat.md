@@ -4,7 +4,7 @@
 
 # Giant Goat
 
-- CEO: [Chèvre géante](hd_monsters_chevre_geante.md)
+- Alias: [Chèvre géante](hd_monsters_chevre_geante.md)
 -  Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 19 (3d10 + 3)

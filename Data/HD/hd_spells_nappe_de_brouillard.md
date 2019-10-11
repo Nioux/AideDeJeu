@@ -4,7 +4,7 @@
 
 # Nappe de brouillard
 
-- SRD: [Fog Cloud](srd_spells_fog_cloud.md)
+- Alias: [Fog Cloud](srd_spells_fog_cloud.md)
 
 -  Invocation de niveau 1
 

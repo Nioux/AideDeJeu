@@ -4,7 +4,7 @@
 
 # Vrock
 
-- CEO: [Vrock](hd_monsters_vrock.md)
+- Alias: [Vrock](hd_monsters_vrock.md)
 -  Large fiend (demon), chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 104 (11d10 + 44)

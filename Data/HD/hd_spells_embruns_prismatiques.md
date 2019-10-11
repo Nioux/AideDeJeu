@@ -4,7 +4,7 @@
 
 # Embruns prismatiques
 
-- SRD: [Prismatic Spray](srd_spells_prismatic_spray.md)
+- Alias: [Prismatic Spray](srd_spells_prismatic_spray.md)
 
 -  Évocation de niveau 7
 

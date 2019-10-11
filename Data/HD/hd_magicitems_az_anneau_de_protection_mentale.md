@@ -4,7 +4,7 @@
 
 ### Anneau de protection mentale
 
-- AltName: Ring of Mind Shielding (SRD p236)
+- Alias: Ring of Mind Shielding (SRD p236)
 - Source: (CDC p141)
 -  Anneau, peu courant (harmonisation requise)
 

@@ -4,7 +4,7 @@
 
 # Passage par les arbres
 
-- SRD: [Tree Stride](srd_spells_tree_stride.md)
+- Alias: [Tree Stride](srd_spells_tree_stride.md)
 
 -  Invocation de niveau 5
 

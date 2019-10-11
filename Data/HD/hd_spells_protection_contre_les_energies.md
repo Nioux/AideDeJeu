@@ -4,7 +4,7 @@
 
 # Protection contre les énergies
 
-- SRD: [Protection from Energy](srd_spells_protection_from_energy.md)
+- Alias: [Protection from Energy](srd_spells_protection_from_energy.md)
 
 -  Abjuration de niveau 3
 

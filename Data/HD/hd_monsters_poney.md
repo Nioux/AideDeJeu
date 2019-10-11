@@ -5,7 +5,7 @@
 # Poney
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pony](srd_monsters_pony.md)
+- Alias: [Pony](srd_monsters_pony.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10

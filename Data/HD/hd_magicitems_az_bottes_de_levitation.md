@@ -4,7 +4,7 @@
 
 ### Bottes de lévitation
 
-- AltName: Boots of Levitation (SRD p212)
+- Alias: Boots of Levitation (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, rare (harmonisation requise)
 

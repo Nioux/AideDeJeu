@@ -5,7 +5,7 @@
 # Kobold
 
 - Source: (CEO p)(SRD p)
-- SRD: [Kobold](srd_monsters_kobold.md)
+- Alias: [Kobold](srd_monsters_kobold.md)
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
 - **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12

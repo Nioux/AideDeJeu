@@ -4,7 +4,7 @@
 
 # Colonne de flamme
 
-- SRD: [Flame Strike](srd_spells_flame_strike.md)
+- Alias: [Flame Strike](srd_spells_flame_strike.md)
 
 -  Évocation de niveau 5
 

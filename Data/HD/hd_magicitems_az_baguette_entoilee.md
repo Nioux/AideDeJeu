@@ -4,7 +4,7 @@
 
 ### Baguette entoilée
 
-- AltName: Wand of Web (SRD p249)
+- Alias: Wand of Web (SRD p249)
 - Source: (CDC p147)
 -  Baguette, peu courante (harmonisation avec un lanceur de sorts exigée)
 

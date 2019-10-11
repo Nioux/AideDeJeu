@@ -5,7 +5,7 @@
 # Nalfeshnie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Nalfeshnee](srd_monsters_nalfeshnee.md)
+- Alias: [Nalfeshnee](srd_monsters_nalfeshnee.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)

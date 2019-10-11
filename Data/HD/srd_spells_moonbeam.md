@@ -4,7 +4,7 @@
 
 # Moonbeam
 
-- MDR: [Rayon de lune](hd_spells_rayon_de_lune.md)
+- Alias: [Rayon de lune](hd_spells_rayon_de_lune.md)
 - Source: (SRD p166)
 -  2nd-level evocation
 - **Casting Time :** 1 action

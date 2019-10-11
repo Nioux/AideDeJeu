@@ -4,7 +4,7 @@
 
 # Ray of Frost
 
-- MDR: [Rayon de givre](hd_spells_rayon_de_givre.md)
+- Alias: [Rayon de givre](hd_spells_rayon_de_givre.md)
 - Source: (SRD p174)
 -  Evocation cantrip
 - **Casting Time :** 1 action

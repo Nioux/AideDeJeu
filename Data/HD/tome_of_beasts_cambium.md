@@ -5,7 +5,7 @@
 # Cambium
 
 - Source: (LDM p52)(TOB p51)
-- TOB: Cambium
+- Alias: Cambium
 -  Fiélon de Grande taille (G), neutre mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 19 (armure naturelle)

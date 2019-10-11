@@ -4,7 +4,7 @@
 
 # Gate
 
-- MDR: [Portail](hd_spells_portail.md)
+- Alias: [Portail](hd_spells_portail.md)
 - Source: (SRD p148)
 -  9th-level conjuration
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 ### Anneau de marche sur l'eau
 
-- AltName: Ring of Water Walking (SRD p238)
+- Alias: Ring of Water Walking (SRD p238)
 - Source: (CDC p141)
 -  Anneau, peu courant
 

@@ -4,7 +4,7 @@
 
 # Weird
 
-- MDR: [Étrangeté](hd_spells_etrangete.md)
+- Alias: [Étrangeté](hd_spells_etrangete.md)
 - Source: (SRD p192)
 -  9th-level illusion
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Tyrannosaurus Rex
 
-- CEO: [Tyrannosaure](hd_monsters_tyrannosaure.md)
+- Alias: [Tyrannosaure](hd_monsters_tyrannosaure.md)
 -  Huge beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 136 (13d12 + 52)

@@ -4,7 +4,7 @@
 
 # Empoigné
 
-- AltName: [Grappled](srd_conditions_grappled.md)
+- Alias: [Grappled](srd_conditions_grappled.md)
 
 * La vitesse d'une créature empoignée devient 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 

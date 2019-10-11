@@ -4,7 +4,7 @@
 
 # Nuage mortel
 
-- SRD: [Cloudkill](srd_spells_cloudkill.md)
+- Alias: [Cloudkill](srd_spells_cloudkill.md)
 
 -  Invocation de niveau 5
 

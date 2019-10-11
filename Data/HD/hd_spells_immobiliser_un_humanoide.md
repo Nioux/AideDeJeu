@@ -4,7 +4,7 @@
 
 # Immobiliser un humanoïde
 
-- SRD: [Hold Person](srd_spells_hold_person.md)
+- Alias: [Hold Person](srd_spells_hold_person.md)
 
 -  Enchantement de niveau 2
 

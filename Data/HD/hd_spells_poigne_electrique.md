@@ -4,7 +4,7 @@
 
 # Poigne électrique
 
-- SRD: [Shocking Grasp](srd_spells_shocking_grasp.md)
+- Alias: [Shocking Grasp](srd_spells_shocking_grasp.md)
 
 -  Évocation, tour de magie
 

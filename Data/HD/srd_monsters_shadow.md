@@ -4,7 +4,7 @@
 
 # Shadow
 
-- CEO: [Ombre](hd_monsters_ombre.md)
+- Alias: [Ombre](hd_monsters_ombre.md)
 -  Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 16 (3d8 + 3)

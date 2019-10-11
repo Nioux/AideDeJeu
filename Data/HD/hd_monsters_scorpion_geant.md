@@ -5,7 +5,7 @@
 # Scorpion géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Scorpion](srd_monsters_giant_scorpion.md)
+- Alias: [Giant Scorpion](srd_monsters_giant_scorpion.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)

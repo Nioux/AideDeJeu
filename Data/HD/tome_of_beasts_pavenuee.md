@@ -5,7 +5,7 @@
 # Pavenuée
 
 - Source: (LDM p337)(TOB p68)
-- TOB: Cobbleswarm
+- Alias: Cobbleswarm
 -  Nuée de Grande taille composée de bêtes de Très Petite taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 36 (8d8)

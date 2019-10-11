@@ -5,7 +5,7 @@
 # Jaculus
 
 - Source: (LDM p251)(TOB p258)
-- TOB: Jaculus
+- Alias: Jaculus
 -  Dragon de Petite taille (P), neutre mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)

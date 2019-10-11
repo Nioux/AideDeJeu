@@ -4,7 +4,7 @@
 
 # Conjure Minor Elementals
 
-- MDR: [Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)
+- Alias: [Invoquer des élémentaires mineurs](hd_spells_invoquer_des_elementaires_mineurs.md)
 - Source: (SRD p128)
 -  4th-level conjuration
 - **Casting Time :** 1 minute

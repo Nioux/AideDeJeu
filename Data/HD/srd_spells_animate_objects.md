@@ -4,7 +4,7 @@
 
 # Animate Objects
 
-- MDR: [Animation des objets](hd_spells_animation_des_objets.md)
+- Alias: [Animation des objets](hd_spells_animation_des_objets.md)
 - Source: (SRD p116)
 -  5th-level transmutation
 - **Casting Time :** 1 action

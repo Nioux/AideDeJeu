@@ -4,7 +4,7 @@
 
 # Specter
 
-- CEO: [Spectre](hd_monsters_spectre.md)
+- Alias: [Spectre](hd_monsters_spectre.md)
 -  Medium undead, chaotic evil
 - **Armor Class** 12
 - **Hit Points** 22 (5d8)

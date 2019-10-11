@@ -4,7 +4,7 @@
 
 # Resistance
 
-- MDR: [Résistance](hd_spells_resistance.md)
+- Alias: [Résistance](hd_spells_resistance.md)
 - Source: (SRD p175)
 -  Abjuration cantrip
 - **Casting Time :** 1 action

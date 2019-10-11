@@ -4,7 +4,7 @@
 
 # Enhance Ability
 
-- MDR: [Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)
+- Alias: [Amélioration de caractéristique](hd_spells_amelioration_de_caracteristique.md)
 - Source: (SRD p139)
 -  2nd-level transmutation
 - **Casting Time :** 1 action

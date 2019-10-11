@@ -4,7 +4,7 @@
 
 ### Potion d'escalade
 
-- AltName: Potion of Climbing (SRD p233)
+- Alias: Potion of Climbing (SRD p233)
 - Source: (CDC p177)
 -  Potion, courante
 

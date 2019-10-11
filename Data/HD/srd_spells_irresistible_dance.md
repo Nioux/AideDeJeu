@@ -4,7 +4,7 @@
 
 # Irresistible Dance
 
-- MDR: [Danse irrésistible](hd_spells_danse_irresistible.md)
+- Alias: [Danse irrésistible](hd_spells_danse_irresistible.md)
 - Source: (SRD p158)
 -  6th-level enchantment
 - **Casting Time :** 1 action

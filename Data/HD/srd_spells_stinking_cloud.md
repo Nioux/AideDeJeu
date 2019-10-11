@@ -4,7 +4,7 @@
 
 # Stinking Cloud
 
-- MDR: [Nuage puant](hd_spells_nuage_puant.md)
+- Alias: [Nuage puant](hd_spells_nuage_puant.md)
 - Source: (SRD p182)
 -  3th-level conjuration
 - **Casting Time :** 1 action

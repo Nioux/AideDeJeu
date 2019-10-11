@@ -4,7 +4,7 @@
 
 # Misty Step
 
-- MDR: [Pas brumeux](hd_spells_pas_brumeux.md)
+- Alias: [Pas brumeux](hd_spells_pas_brumeux.md)
 - Source: (SRD p165)
 -  2nd-level conjuration
 - **Casting Time :** 1 bonus action

@@ -5,7 +5,7 @@
 # Mi-Go
 
 - Source: (LDM p300)(TOB p287)
-- TOB: Mi-Go
+- Alias: Mi-Go
 -  Plante de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 76 (8d8+40)

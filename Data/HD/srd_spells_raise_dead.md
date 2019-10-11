@@ -4,7 +4,7 @@
 
 # Raise Dead
 
-- MDR: [Rappel à la vie](hd_spells_rappel_a_la_vie.md)
+- Alias: [Rappel à la vie](hd_spells_rappel_a_la_vie.md)
 - Source: (SRD p173)
 -  5th-level necromancy
 - **Casting Time :** 1 hour

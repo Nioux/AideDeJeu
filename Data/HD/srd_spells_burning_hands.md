@@ -4,7 +4,7 @@
 
 # Burning Hands
 
-- MDR: [Mains brûlantes](hd_spells_mains_brulantes.md)
+- Alias: [Mains brûlantes](hd_spells_mains_brulantes.md)
 - Source: (SRD p123)
 -  1st-level evocation
 - **Casting Time :** 1 action

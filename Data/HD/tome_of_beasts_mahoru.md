@@ -5,7 +5,7 @@
 # Mahoru
 
 - Source: (LDM p278)(TOB p281)
-- TOB: Mahoru
+- Alias: Mahoru
 -  Créature monstrueuse de Grande taille (G), non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure naturelle)

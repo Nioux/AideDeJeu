@@ -4,7 +4,7 @@
 
 # Acolyte
 
-- CEO: [Acolyte](hd_monsters_acolyte.md)
+- Alias: [Acolyte](hd_monsters_acolyte.md)
 - Source: (SRD p395)
 -  Medium humanoid (any race), any alignment
 - **Armor Class** 10

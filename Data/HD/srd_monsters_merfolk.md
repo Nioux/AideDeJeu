@@ -4,7 +4,7 @@
 
 # Merfolk
 
-- CEO: [Homme-poisson](hd_monsters_homme_poisson.md)
+- Alias: [Homme-poisson](hd_monsters_homme_poisson.md)
 -  Medium humanoid (merfolk), neutral
 - **Armor Class** 11
 - **Hit Points** 11 (2d8 + 2)

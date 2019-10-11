@@ -4,7 +4,7 @@
 
 ### Combiner les effets magiques
 
-- AltName: Combining Magical Effects (SRD p104)
+- Alias: Combining Magical Effects (SRD p104)
 - Source: (MDR p310)
 
 Les effets de différents sorts s'additionnent quand leurs durées se superposent. En revanche, les effets d'un même sort lancé à plusieurs reprises ne se cumulent pas. Dans ce cas, l'effet le plus puissant (par exemple, le bonus le plus élevé) s'applique tant que sa durée se superpose à celle des autres.

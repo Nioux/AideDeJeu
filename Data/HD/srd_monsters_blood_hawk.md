@@ -4,7 +4,7 @@
 
 # Blood Hawk
 
-- CEO: [Faucon de sang](hd_monsters_faucon_de_sang.md)
+- Alias: [Faucon de sang](hd_monsters_faucon_de_sang.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 7 (2d6)

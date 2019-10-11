@@ -5,7 +5,7 @@
 # Dragon Marin, Jeune
 
 - Source: (LDM p145)(TOB p136)
-- TOB: Young Sea Dragon
+- Alias: Young Sea Dragon
 -  Dragon de Grande taille (G), neutre mauvais
 - **Terrain** Caverne sous-marine
 - **Terrain** Mer / Océan

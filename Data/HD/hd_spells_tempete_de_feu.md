@@ -4,7 +4,7 @@
 
 # Tempête de feu
 
-- SRD: [Fire Storm](srd_spells_fire_storm.md)
+- Alias: [Fire Storm](srd_spells_fire_storm.md)
 
 -  Évocation de niveau 7
 

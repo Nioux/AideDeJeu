@@ -5,7 +5,7 @@
 # Doppleganger
 
 - Source: (CEO p)(SRD p)
-- SRD: [Doppelganger](srd_monsters_doppelganger.md)
+- Alias: [Doppelganger](srd_monsters_doppelganger.md)
 -  Créature monstrueuse (métamorphe) de taille M, neutre
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 14

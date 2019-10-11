@@ -4,7 +4,7 @@
 
 # Phantasmal Killer
 
-- MDR: [Assassin imaginaire](hd_spells_assassin_imaginaire.md)
+- Alias: [Assassin imaginaire](hd_spells_assassin_imaginaire.md)
 - Source: (SRD p167)
 -  4th-level illusion
 - **Casting Time :** 1 action

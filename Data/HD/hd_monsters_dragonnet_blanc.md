@@ -5,7 +5,7 @@
 # Dragonnet blanc
 
 - Source: (CEO p)(SRD p)
-- SRD: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
+- Alias: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)

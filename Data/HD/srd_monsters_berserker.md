@@ -4,7 +4,7 @@
 
 # Berserker
 
-- CEO: [Berserker](hd_monsters_berserker.md)
+- Alias: [Berserker](hd_monsters_berserker.md)
 - Source: (SRD p397)
 -  Medium humanoid (any race), any chaotic alignment
 - **Armor Class** 13 (hide armor)

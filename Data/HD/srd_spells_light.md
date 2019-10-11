@@ -4,7 +4,7 @@
 
 # Light
 
-- MDR: [Lumière](hd_spells_lumiere.md)
+- Alias: [Lumière](hd_spells_lumiere.md)
 - Source: (SRD p159)
 -  Evocation cantrip
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Goblin
 
-- CEO: [Gobelin](hd_monsters_gobelin.md)
+- Alias: [Gobelin](hd_monsters_gobelin.md)
 -  Small humanoid (goblinoid), neutral evil
 - **Armor Class** 15 (leather armor, shield)
 - **Hit Points** 7 (2d6)

@@ -4,7 +4,7 @@
 
 ### Bâton de givre
 
-- AltName: Staff of Frost (SRD p243)
+- Alias: Staff of Frost (SRD p243)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 

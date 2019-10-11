@@ -4,7 +4,7 @@
 
 # Ochre Jelly
 
-- CEO: [Gelée ocre](hd_monsters_gelee_ocre.md)
+- Alias: [Gelée ocre](hd_monsters_gelee_ocre.md)
 -  Large ooze, unaligned
 - **Armor Class** 8
 - **Hit Points** 45 (6d10 + 12)

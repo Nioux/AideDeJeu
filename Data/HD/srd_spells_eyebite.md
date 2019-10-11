@@ -4,7 +4,7 @@
 
 # Eyebite
 
-- MDR: [Mauvais oeil](hd_spells_mauvais_oeil.md)
+- Alias: [Mauvais oeil](hd_spells_mauvais_oeil.md)
 - Source: (SRD p141)
 -  6th-level necromancy
 - **Casting Time :** 1 action

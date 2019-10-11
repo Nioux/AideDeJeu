@@ -5,7 +5,7 @@
 # Cube gélatineux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
+- Alias: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
 -  Vase de taille G, non-alignée
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 6

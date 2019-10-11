@@ -4,7 +4,7 @@
 
 # Rug of Smothering
 
-- CEO: [Tapis étrangleur](hd_monsters_tapis_etrangleur.md)
+- Alias: [Tapis étrangleur](hd_monsters_tapis_etrangleur.md)
 -  Large construct, unaligned
 - **Armor Class** 12
 - **Hit Points** 33 (6d10)

@@ -4,7 +4,7 @@
 
 ### Épée radieuse
 
-- AltName: Sun Blade (SRD p246)
+- Alias: Sun Blade (SRD p246)
 - Source: (CDC p163)
 -  Arme (épée longue), rare (harmonisation requise)
 

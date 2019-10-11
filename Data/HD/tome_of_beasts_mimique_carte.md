@@ -5,7 +5,7 @@
 # Mimique Carte
 
 - Source: (LDM p302)(TOB p289)
-- TOB: Map Mimic
+- Alias: Map Mimic
 -  Créature monstrueuse (métamorphe) de très Petite taille (TP), neutre
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)

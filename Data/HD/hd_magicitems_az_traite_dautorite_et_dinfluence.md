@@ -4,7 +4,7 @@
 
 ### Traité d'autorité et d'influence
 
-- AltName: Tome of Leadership and Influence (SRD p247)
+- Alias: Tome of Leadership and Influence (SRD p247)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 

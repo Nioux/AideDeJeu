@@ -4,7 +4,7 @@
 
 ### Huile d'affûtage
 
-- AltName: Oil of Sharpness (SRD p232)
+- Alias: Oil of Sharpness (SRD p232)
 - Source: (CDC p170)
 -  Potion, très rare
 

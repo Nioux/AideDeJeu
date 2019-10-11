@@ -5,7 +5,7 @@
 # Lente Tempête
 
 - Source: (LDM p265)(TOB p353)
-- TOB: Slow Storm
+- Alias: Slow Storm
 -  Élémentaire de Très Grande taille (TG), chaotique neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 19

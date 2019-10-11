@@ -4,7 +4,7 @@
 
 # Constrictor Snake
 
-- CEO: [Serpent constricteur](hd_monsters_serpent_constricteur.md)
+- Alias: [Serpent constricteur](hd_monsters_serpent_constricteur.md)
 -  Large beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 13 (2d10 + 2)

@@ -4,7 +4,7 @@
 
 # Project Image
 
-- MDR: [Image projetée](hd_spells_image_projetee.md)
+- Alias: [Image projetée](hd_spells_image_projetee.md)
 - Source: (SRD p172)
 -  7th-level illusion
 - **Casting Time :** 1 action

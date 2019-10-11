@@ -5,7 +5,7 @@
 # Dau
 
 - Source: (LDM p74)(TOB p70)
-- TOB: Dau
+- Alias: Dau
 -  Fée de Petite taille (P), chaotique neutre
 - **Terrain** Désert chaud
 - **Classe d'armure** 13

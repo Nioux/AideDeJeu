@@ -5,7 +5,7 @@
 
 # Armes
 
-- AltName: Weapons (SRD p64)
+- Alias: Weapons (SRD p64)
 - Source: (MDR p226)
 
 Votre classe vous donne la maîtrise de certaines armes, qui sont représentatives de cette classe, et des outils que vous êtes susceptible d'utiliser. Que vous préfériez manier l'épée longue ou l'arc long, c'est finalement votre capacité à manier votre arme avec efficacité qui peut vous permettre de survivre à une aventure.

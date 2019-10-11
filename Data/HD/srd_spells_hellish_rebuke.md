@@ -4,7 +4,7 @@
 
 # Hellish Rebuke
 
-- MDR: [Représailles infernales](hd_spells_represailles_infernales.md)
+- Alias: [Représailles infernales](hd_spells_represailles_infernales.md)
 - Source: (SRD p154)
 -  1st-level evocation
 - **Casting Time :** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see

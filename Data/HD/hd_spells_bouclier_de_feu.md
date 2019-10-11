@@ -4,7 +4,7 @@
 
 # Bouclier de feu
 
-- SRD: [Fire Shield](srd_spells_fire_shield.md)
+- Alias: [Fire Shield](srd_spells_fire_shield.md)
 
 -  Évocation de niveau 4
 

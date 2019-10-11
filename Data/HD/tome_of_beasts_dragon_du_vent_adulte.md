@@ -5,7 +5,7 @@
 # Dragon Du Vent, Adulte
 
 - Source: (LDM p136)(TOB p143)
-- TOB: Wind Dragon, Adult
+- Alias: Wind Dragon, Adult
 -  Dragon de Très Grande taille (TG), chaotique neutre
 - **Terrain** Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)

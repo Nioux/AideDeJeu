@@ -4,7 +4,7 @@
 
 # Scrutation
 
-- SRD: [Scrying](srd_spells_scrying.md)
+- Alias: [Scrying](srd_spells_scrying.md)
 
 -  Divination de niveau 5
 

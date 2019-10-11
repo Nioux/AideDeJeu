@@ -4,7 +4,7 @@
 
 # Lueur d'espoir
 
-- SRD: [Beacon of Hope](srd_spells_beacon_of_hope.md)
+- Alias: [Beacon of Hope](srd_spells_beacon_of_hope.md)
 
 -  Abjuration de niveau 3
 

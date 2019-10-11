@@ -5,7 +5,7 @@
 # Gremlin Azza
 
 - Source: (LDM p226)(TOB p28)
-- TOB: Azza Gremlin
+- Alias: Azza Gremlin
 -  Fée de Petite taille (P), neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 14

@@ -4,7 +4,7 @@
 
 # Réincarnation
 
-- SRD: [Reincarnate](srd_spells_reincarnate.md)
+- Alias: [Reincarnate](srd_spells_reincarnate.md)
 
 -  Transmutation de niveau 5
 

@@ -1,84 +1,20 @@
 
 <!--GenericItem-->
 
-# <!--Name-->Manuel des règles<!--/Name-->
+# <!--Name-->Bibliothèque<!--/Name-->
 
-## [Création du personnage](beyond1stlevel_hd.md)
+## [Manuel des règles](index_mdr.md)
 
-## [Races](races_hd.md)
+## [Cadre de campagne](index_cdc.md)
 
-## [Personnalité et Historique](personnality_background_hd.md)
+## [Créatures et oppositions](index_ceo.md)
 
-## [Classes](classes_hd.md)
+## [Les Cinq Royaumes](l5r_index_hd.md)
 
-## [Équipement](equipment_hd.md)
+## [Livre des monstres](tome_of_beasts.md)
 
-## [Options de personnalisation](custom_options_hd.md)
+## [Monstrueusement Mignons](baby_bestiary.md)
 
-## [Utiliser les Caractéristiques](abilities_hd.md)
-
-## [Partir à l'aventure](adventure_hd.md)
-
-## [Combattre](combat_hd.md)
-
-## [Gérer la santé](manage_health_hd.md)
-
-## [Lancer des sorts](spellcasting_hd.md)
-
-## [Description des Sorts](spells_hd.md)
-
-## [Panthéons](pantheons_hd.md)
-
-<!--br-->
-
-# Cadre de campagne
-
-## [Objets magiques](magicitems_hd.md)
-
-### [Objets magiques de A à Z](magicitems_az_hd.md)
-
-### [Objets magiques intelligents](sentient_magicitems_hd.md)
-
-### [Artefacts](artifacts_hd.md)
-
-## [Jouer dans un multivers](planes_hd.md)
-
-<!--br-->
-
-# Créatures et oppositions
-
-## [Créatures](monsters_hd.md)
-
-## [Pièges](traps_hd.md)
-
-## [Maladies](diseases_hd.md)
-
-## [Folie](madness_hd.md)
-
-## [Objets](objects_hd.md)
-
-## [Poisons](poisons_hd.md)
-
-<!--br-->
-
-# [Les Cinq Royaumes](l5r_index_hd.md)
-
-<!--br-->
-
-# [Livre des monstres](tome_of_beasts.md)
-
-<!--br-->
-
-# [Monstrueusement Mignons](baby_bestiary.md)
-
-<!--br-->
-
-# SRD
-
-## [Conditions](conditions_vo.md)
-
-## [Spells](spells_vo.md)
-
-## [Monsters, Animals and NPC](monsters_vo.md)
+## [SRD](index_srd.md)
 
 <!--/GenericItem-->

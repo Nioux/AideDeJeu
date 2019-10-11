@@ -4,7 +4,7 @@
 
 # Légende
 
-- SRD: [Legend Lore](srd_spells_legend_lore.md)
+- Alias: [Legend Lore](srd_spells_legend_lore.md)
 
 -  Divination de niveau 5
 

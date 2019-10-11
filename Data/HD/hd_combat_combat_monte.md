@@ -4,7 +4,7 @@
 
 ## Combat monté
 
-- AltName: Mounted Combat (SRD p99)
+- Alias: Mounted Combat (SRD p99)
 - Source: (MDR p295)
 
 Un chevalier qui charge en plein coeur de la bataille sur son cheval de guerre, un magicien qui lance des sorts monté sur un griffon ou un clerc qui traverse le ciel à dos de pégase, tous ces héros bénéficient de la vitesse et de la mobilité de leur monture.

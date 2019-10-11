@@ -4,7 +4,7 @@
 
 # Sanctuary
 
-- MDR: [Sanctuaire](hd_spells_sanctuaire.md)
+- Alias: [Sanctuaire](hd_spells_sanctuaire.md)
 - Source: (SRD p176)
 -  1st-level abjuration
 - **Casting Time :** 1 bonus action

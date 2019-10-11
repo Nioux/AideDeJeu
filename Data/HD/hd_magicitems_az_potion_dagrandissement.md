@@ -4,7 +4,7 @@
 
 ### Potion d'agrandissement
 
-- AltName: Potion of Growth (SRD p234)
+- Alias: Potion of Growth (SRD p234)
 - Source: (CDC p177)
 -  Potion, peu courante
 

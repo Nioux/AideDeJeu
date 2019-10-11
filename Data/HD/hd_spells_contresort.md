@@ -4,7 +4,7 @@
 
 # Contresort
 
-- SRD: [Counterspell](srd_spells_counterspell.md)
+- Alias: [Counterspell](srd_spells_counterspell.md)
 
 -  Abjuration de niveau 3
 

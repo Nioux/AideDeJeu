@@ -4,7 +4,7 @@
 
 # Enthrall
 
-- MDR: [Envoûtement](hd_spells_envoutement.md)
+- Alias: [Envoûtement](hd_spells_envoutement.md)
 - Source: (SRD p140)
 -  2nd-level enchantment
 - **Casting Time :** 1 action

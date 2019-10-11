@@ -4,7 +4,7 @@
 
 # Magic Missile
 
-- MDR: [Projectile magique](hd_spells_projectile_magique.md)
+- Alias: [Projectile magique](hd_spells_projectile_magique.md)
 - Source: (SRD p161)
 -  1st-level evocation
 - **Casting Time :** 1 action

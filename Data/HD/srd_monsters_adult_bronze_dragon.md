@@ -4,7 +4,7 @@
 
 # Adult Bronze Dragon
 
-- CEO: [Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)
+- Alias: [Dragon de bronze adulte](hd_monsters_dragon_de_bronze_adulte.md)
 -  Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 212 (17d12 + 102)

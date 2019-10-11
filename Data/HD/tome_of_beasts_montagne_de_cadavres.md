@@ -5,7 +5,7 @@
 # Montagne De Cadavres
 
 - Source: (LDM p310)(TOB p69)
-- TOB: Corpse Mound
+- Alias: Corpse Mound
 -  Mort-vivant de Très Grande taille (TG), neutre mauvais
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 207 (18d12+90)

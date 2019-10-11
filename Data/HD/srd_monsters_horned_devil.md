@@ -4,7 +4,7 @@
 
 # Horned Devil
 
-- CEO: [Diable cornu](hd_monsters_diable_cornu.md)
+- Alias: [Diable cornu](hd_monsters_diable_cornu.md)
 -  Large fiend (devil), lawful evil
 - **Armor Class** 18 (natural armor)
 - **Hit Points** 178 (17d10 + 85)

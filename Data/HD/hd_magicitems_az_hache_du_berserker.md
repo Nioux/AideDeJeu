@@ -4,7 +4,7 @@
 
 ### Hache du berserker
 
-- AltName: Berserker Axe (SRD p211)
+- Alias: Berserker Axe (SRD p211)
 - Source: (CDC p168)
 -  Arme (hache), rare (harmonisation requise)
 

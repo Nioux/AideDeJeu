@@ -4,7 +4,7 @@
 
 # Dissipation du mal et du bien
 
-- SRD: [Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)
+- Alias: [Dispel Evil and Good](srd_spells_dispel_evil_and_good.md)
 
 -  Abjuration de niveau 5
 

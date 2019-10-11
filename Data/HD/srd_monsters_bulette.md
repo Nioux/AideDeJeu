@@ -4,7 +4,7 @@
 
 # Bulette
 
-- CEO: [Bulette](hd_monsters_bulette.md)
+- Alias: [Bulette](hd_monsters_bulette.md)
 - Source: (SRD p266)
 -  Large monstrosity, unaligned
 - **Armor Class** 17 (natural armor)

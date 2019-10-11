@@ -4,7 +4,7 @@
 
 # Night Hag
 
-- CEO: [Guenaude nocturne](hd_monsters_guenaude_nocturne.md)
+- Alias: [Guenaude nocturne](hd_monsters_guenaude_nocturne.md)
 -  Medium fiend, neutral evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 112 (15d8 + 45)

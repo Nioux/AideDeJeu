@@ -5,7 +5,7 @@
 # Dragon Marin, Dragonnet
 
 - Source: (LDM p144)(TOB p136)
-- TOB: Sea Dragon Wyrmling
+- Alias: Sea Dragon Wyrmling
 -  Dragon de taille Moyenne (M), neutre mauvais
 - **Terrain** Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 17 (armure naturelle)

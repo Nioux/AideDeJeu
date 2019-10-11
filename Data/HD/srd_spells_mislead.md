@@ -4,7 +4,7 @@
 
 # Mislead
 
-- MDR: [Tromperie](hd_spells_tromperie.md)
+- Alias: [Tromperie](hd_spells_tromperie.md)
 - Source: (SRD p165)
 -  5th-level illusion
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Red Dragon Wyrmling
 
-- CEO: [Dragonnet rouge](hd_monsters_dragonnet_rouge.md)
+- Alias: [Dragonnet rouge](hd_monsters_dragonnet_rouge.md)
 -  Medium dragon, chaotic evil
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 75 (10d8 + 30)

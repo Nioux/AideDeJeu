@@ -4,7 +4,7 @@
 
 # Slow
 
-- MDR: [Lenteur](hd_spells_lenteur.md)
+- Alias: [Lenteur](hd_spells_lenteur.md)
 - Source: (SRD p180)
 -  3th-level transmutation
 - **Casting Time :** 1 action

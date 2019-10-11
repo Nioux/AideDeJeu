@@ -4,7 +4,7 @@
 
 # Léger comme une plume
 
-- SRD: [Feather Fall](srd_spells_feather_fall.md)
+- Alias: [Feather Fall](srd_spells_feather_fall.md)
 
 -  Transmutation de niveau 1
 

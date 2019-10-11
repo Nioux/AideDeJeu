@@ -4,7 +4,7 @@
 
 # Clairvoyance
 
-- MDR: [Clairvoyance](hd_spells_clairvoyance.md)
+- Alias: [Clairvoyance](hd_spells_clairvoyance.md)
 - Source: (SRD p124)
 -  3th-level divination
 - **Casting Time :** 10 minutes

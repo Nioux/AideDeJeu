@@ -4,7 +4,7 @@
 
 # Alarm
 
-- MDR: [Alarme](hd_spells_alarme.md)
+- Alias: [Alarme](hd_spells_alarme.md)
 - Source: (SRD p114)
 -  1st-level abjuration (ritual)
 - **Casting Time :** 1 minute

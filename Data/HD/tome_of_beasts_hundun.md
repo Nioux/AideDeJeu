@@ -5,7 +5,7 @@
 # Hundun
 
 - Source: (LDM p247)(TOB p253)
-- TOB: Hundun
+- Alias: Hundun
 -  Céleste de Grande taille (G), chaotique bon
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 153 (18d10+54)

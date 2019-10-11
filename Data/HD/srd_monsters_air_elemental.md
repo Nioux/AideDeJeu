@@ -4,7 +4,7 @@
 
 # Air Elemental
 
-- CEO: [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
+- Alias: [Élémentaire de l'air](hd_monsters_elementaire_de_lair.md)
 -  Large elemental, neutral
 - **Armor Class** 15
 - **Hit Points** 90 (12d10 + 24)

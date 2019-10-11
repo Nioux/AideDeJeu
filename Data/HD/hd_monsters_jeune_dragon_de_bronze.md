@@ -5,7 +5,7 @@
 # Jeune dragon de bronze
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
+- Alias: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 18 (armure naturelle)

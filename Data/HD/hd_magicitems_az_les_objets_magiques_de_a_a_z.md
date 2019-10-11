@@ -26,7 +26,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wings of Flying (SRD p251)<!--/AltName-->
+      - Alias: <!--AltName-->Wings of Flying (SRD p251)<!--/AltName-->
 
 
 
@@ -75,7 +75,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Periapt of Proof against Poison (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Periapt of Proof against Poison (SRD p232)<!--/AltName-->
 
 
 
@@ -123,7 +123,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Amulet of Proof against Detection and Location (SRD p207)<!--/AltName-->
+      - Alias: <!--AltName-->Amulet of Proof against Detection and Location (SRD p207)<!--/AltName-->
 
 
 
@@ -173,7 +173,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Amulet of Health (SRD p207)<!--/AltName-->
+      - Alias: <!--AltName-->Amulet of Health (SRD p207)<!--/AltName-->
 
 
 
@@ -223,7 +223,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Periapt of Wound Closure (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Periapt of Wound Closure (SRD p232)<!--/AltName-->
 
 
 
@@ -272,7 +272,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Periapt of Health (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Periapt of Health (SRD p232)<!--/AltName-->
 
 
 
@@ -320,7 +320,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Amulet of the Planes (SRD p207)<!--/AltName-->
+      - Alias: <!--AltName-->Amulet of the Planes (SRD p207)<!--/AltName-->
 
 
 
@@ -370,7 +370,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Free Action (SRD p236)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Free Action (SRD p236)<!--/AltName-->
 
 
 
@@ -420,7 +420,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Warmth (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Warmth (SRD p238)<!--/AltName-->
 
 
 
@@ -470,7 +470,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Djinni Summoning (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Djinni Summoning (SRD p235)<!--/AltName-->
 
 
 
@@ -532,7 +532,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Evasion (SRD p236)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Evasion (SRD p236)<!--/AltName-->
 
 
 
@@ -582,7 +582,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Shooting Stars (SRD p237)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Shooting Stars (SRD p237)<!--/AltName-->
 
 
 
@@ -694,7 +694,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Feather Falling (SRD p236)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Feather Falling (SRD p236)<!--/AltName-->
 
 
 
@@ -744,7 +744,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Elemental Command (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Elemental Command (SRD p235)<!--/AltName-->
 
 
 
@@ -901,7 +901,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Water Walking (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Water Walking (SRD p238)<!--/AltName-->
 
 
 
@@ -948,7 +948,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Swimming (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Swimming (SRD p238)<!--/AltName-->
 
 
 
@@ -996,7 +996,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Protection (SRD p237)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Protection (SRD p237)<!--/AltName-->
 
 
 
@@ -1046,7 +1046,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Mind Shielding (SRD p236)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Mind Shielding (SRD p236)<!--/AltName-->
 
 
 
@@ -1108,7 +1108,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Regeneration (SRD p237)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Regeneration (SRD p237)<!--/AltName-->
 
 
 
@@ -1158,7 +1158,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Spell Turning (SRD p237)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Spell Turning (SRD p237)<!--/AltName-->
 
 
 
@@ -1208,7 +1208,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Resistance (SRD p237)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Resistance (SRD p237)<!--/AltName-->
 
 
 
@@ -1308,7 +1308,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Jumping (SRD p236)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Jumping (SRD p236)<!--/AltName-->
 
 
 
@@ -1358,7 +1358,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Spell Storing (SRD p237)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Spell Storing (SRD p237)<!--/AltName-->
 
 
 
@@ -1420,7 +1420,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Telekinesis (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Telekinesis (SRD p238)<!--/AltName-->
 
 
 
@@ -1469,7 +1469,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Three Wishes (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Three Wishes (SRD p238)<!--/AltName-->
 
 
 
@@ -1517,7 +1517,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of X-ray Vision (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of X-ray Vision (SRD p238)<!--/AltName-->
 
 
 
@@ -1572,7 +1572,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Animal Influence (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Animal Influence (SRD p235)<!--/AltName-->
 
 
 
@@ -1634,7 +1634,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of Invisibility (SRD p236)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of Invisibility (SRD p236)<!--/AltName-->
 
 
 
@@ -1684,7 +1684,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ring of the Ram (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Ring of the Ram (SRD p238)<!--/AltName-->
 
 
 
@@ -1740,7 +1740,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Oathbow (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Oathbow (SRD p231)<!--/AltName-->
 
 
 
@@ -1801,7 +1801,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Vicious Weapon (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Vicious Weapon (SRD p248)<!--/AltName-->
 
 
 
@@ -1848,7 +1848,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Weapon, +1, +2, or +3 (SRD p250)<!--/AltName-->
+      - Alias: <!--AltName-->Weapon, +1, +2, or +3 (SRD p250)<!--/AltName-->
 
 
 
@@ -1896,7 +1896,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dragon Scale Mail (SRD p219)<!--/AltName-->
+      - Alias: <!--AltName-->Dragon Scale Mail (SRD p219)<!--/AltName-->
 
 
 
@@ -2007,7 +2007,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Mithral Armor (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Mithral Armor (SRD p231)<!--/AltName-->
 
 
 
@@ -2055,7 +2055,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Demon Armor (SRD p218)<!--/AltName-->
+      - Alias: <!--AltName-->Demon Armor (SRD p218)<!--/AltName-->
 
 
 
@@ -2111,7 +2111,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Armor of Resistance (SRD p208)<!--/AltName-->
+      - Alias: <!--AltName-->Armor of Resistance (SRD p208)<!--/AltName-->
 
 
 
@@ -2211,7 +2211,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Armor of Vulnerability (SRD p209)<!--/AltName-->
+      - Alias: <!--AltName-->Armor of Vulnerability (SRD p209)<!--/AltName-->
 
 
 
@@ -2267,7 +2267,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Armor of Invulnerability (SRD p208)<!--/AltName-->
+      - Alias: <!--AltName-->Armor of Invulnerability (SRD p208)<!--/AltName-->
 
 
 
@@ -2316,7 +2316,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Adamantine Armor (SRD p207)<!--/AltName-->
+      - Alias: <!--AltName-->Adamantine Armor (SRD p207)<!--/AltName-->
 
 
 
@@ -2363,7 +2363,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Armor +1, +2, or +3 (SRD p208)<!--/AltName-->
+      - Alias: <!--AltName-->Armor +1, +2, or +3 (SRD p208)<!--/AltName-->
 
 
 
@@ -2411,7 +2411,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Lightning Bolts (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Lightning Bolts (SRD p249)<!--/AltName-->
 
 
 
@@ -2467,7 +2467,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Fireballs (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Fireballs (SRD p248)<!--/AltName-->
 
 
 
@@ -2523,7 +2523,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Enemy Detection (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Enemy Detection (SRD p248)<!--/AltName-->
 
 
 
@@ -2578,7 +2578,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Magic Detection (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Magic Detection (SRD p249)<!--/AltName-->
 
 
 
@@ -2626,7 +2626,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Polymorph (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Polymorph (SRD p249)<!--/AltName-->
 
 
 
@@ -2682,7 +2682,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Paralysis (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Paralysis (SRD p249)<!--/AltName-->
 
 
 
@@ -2737,7 +2737,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Magic Missiles (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Magic Missiles (SRD p249)<!--/AltName-->
 
 
 
@@ -2791,7 +2791,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Fear (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Fear (SRD p248)<!--/AltName-->
 
 
 
@@ -2853,7 +2853,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Binding (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Binding (SRD p248)<!--/AltName-->
 
 
 
@@ -2914,7 +2914,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Secrets (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Secrets (SRD p249)<!--/AltName-->
 
 
 
@@ -2962,7 +2962,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of the War Mage, +1, +2, or +3 (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of the War Mage, +1, +2, or +3 (SRD p249)<!--/AltName-->
 
 
 
@@ -3012,7 +3012,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Web (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Web (SRD p249)<!--/AltName-->
 
 
 
@@ -3068,7 +3068,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wand of Wonder (SRD p249)<!--/AltName-->
+      - Alias: <!--AltName-->Wand of Wonder (SRD p249)<!--/AltName-->
 
 
 
@@ -3233,7 +3233,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Broom of Flying (SRD p213)<!--/AltName-->
+      - Alias: <!--AltName-->Broom of Flying (SRD p213)<!--/AltName-->
 
 
 
@@ -3287,7 +3287,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Headband of Intellect (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Headband of Intellect (SRD p225)<!--/AltName-->
 
 
 
@@ -3336,7 +3336,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Folding Boat (SRD p223)<!--/AltName-->
+      - Alias: <!--AltName-->Folding Boat (SRD p223)<!--/AltName-->
 
 
 
@@ -3408,7 +3408,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Charming (SRD p243)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Charming (SRD p243)<!--/AltName-->
 
 
 
@@ -3470,7 +3470,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Striking (SRD p244)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Striking (SRD p244)<!--/AltName-->
 
 
 
@@ -3526,7 +3526,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Fire (SRD p243)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Fire (SRD p243)<!--/AltName-->
 
 
 
@@ -3588,7 +3588,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Withering (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Withering (SRD p246)<!--/AltName-->
 
 
 
@@ -3644,7 +3644,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Healing (SRD p243)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Healing (SRD p243)<!--/AltName-->
 
 
 
@@ -3700,7 +3700,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Frost (SRD p243)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Frost (SRD p243)<!--/AltName-->
 
 
 
@@ -3762,7 +3762,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Power (SRD p243)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Power (SRD p243)<!--/AltName-->
 
 
 
@@ -3864,7 +3864,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Thunder and Lightning (SRD p245)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Thunder and Lightning (SRD p245)<!--/AltName-->
 
 
 
@@ -3944,7 +3944,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of the Woodlands (SRD p245)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of the Woodlands (SRD p245)<!--/AltName-->
 
 
 
@@ -4018,7 +4018,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of Swarming Insects (SRD p244)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of Swarming Insects (SRD p244)<!--/AltName-->
 
 
 
@@ -4080,7 +4080,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of the Python (SRD p245)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of the Python (SRD p245)<!--/AltName-->
 
 
 
@@ -4142,7 +4142,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Staff of the Magi (SRD p244)<!--/AltName-->
+      - Alias: <!--AltName-->Staff of the Magi (SRD p244)<!--/AltName-->
 
 
 
@@ -4249,7 +4249,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Restorative Ointment (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Restorative Ointment (SRD p235)<!--/AltName-->
 
 
 
@@ -4302,7 +4302,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bowl of Commanding Water Elementals (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Bowl of Commanding Water Elementals (SRD p212)<!--/AltName-->
 
 
 
@@ -4356,7 +4356,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Winged Boots (SRD p251)<!--/AltName-->
+      - Alias: <!--AltName-->Winged Boots (SRD p251)<!--/AltName-->
 
 
 
@@ -4412,7 +4412,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Boots of Levitation (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Boots of Levitation (SRD p212)<!--/AltName-->
 
 
 
@@ -4462,7 +4462,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Boots of Striding and Springing (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Boots of Striding and Springing (SRD p212)<!--/AltName-->
 
 
 
@@ -4512,7 +4512,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Boots of Speed (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Boots of Speed (SRD p212)<!--/AltName-->
 
 
 
@@ -4568,7 +4568,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Boots of the Winterlands (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Boots of the Winterlands (SRD p212)<!--/AltName-->
 
 
 
@@ -4631,7 +4631,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Boots of Elvenkind (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Boots of Elvenkind (SRD p212)<!--/AltName-->
 
 
 
@@ -4679,7 +4679,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Animated Shield (SRD p208)<!--/AltName-->
+      - Alias: <!--AltName-->Animated Shield (SRD p208)<!--/AltName-->
 
 
 
@@ -4729,7 +4729,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Arrow-Catching Shield (SRD p209)<!--/AltName-->
+      - Alias: <!--AltName-->Arrow-Catching Shield (SRD p209)<!--/AltName-->
 
 
 
@@ -4779,7 +4779,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Shield of Missile Attraction (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Shield of Missile Attraction (SRD p242)<!--/AltName-->
 
 
 
@@ -4835,7 +4835,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Spellguard Shield (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Spellguard Shield (SRD p242)<!--/AltName-->
 
 
 
@@ -4884,7 +4884,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Shield, +1, +2, or +3 (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Shield, +1, +2, or +3 (SRD p242)<!--/AltName-->
 
 
 
@@ -4932,7 +4932,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Crystal Ball (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Crystal Ball (SRD p214)<!--/AltName-->
 
 
 
@@ -5005,7 +5005,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Efreeti Bottle (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Efreeti Bottle (SRD p220)<!--/AltName-->
 
 
 
@@ -5080,7 +5080,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Eversmoking Bottle (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Eversmoking Bottle (SRD p220)<!--/AltName-->
 
 
 
@@ -5134,7 +5134,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bracers of Archery (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Bracers of Archery (SRD p212)<!--/AltName-->
 
 
 
@@ -5184,7 +5184,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bracers of Defense (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Bracers of Defense (SRD p212)<!--/AltName-->
 
 
 
@@ -5233,7 +5233,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Brazier of Commanding Fire Elementals (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Brazier of Commanding Fire Elementals (SRD p212)<!--/AltName-->
 
 
 
@@ -5287,7 +5287,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Brooch of Shielding (SRD p212)<!--/AltName-->
+      - Alias: <!--AltName-->Brooch of Shielding (SRD p212)<!--/AltName-->
 
 
 
@@ -5337,7 +5337,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cloak of Displacement (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Cloak of Displacement (SRD p214)<!--/AltName-->
 
 
 
@@ -5387,7 +5387,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cloak of Arachnida (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Cloak of Arachnida (SRD p214)<!--/AltName-->
 
 
 
@@ -5459,7 +5459,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cloak of the Bat (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Cloak of the Bat (SRD p214)<!--/AltName-->
 
 
 
@@ -5514,7 +5514,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cloak of the Manta Ray (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Cloak of the Manta Ray (SRD p214)<!--/AltName-->
 
 
 
@@ -5561,7 +5561,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cape of the Mountebank (SRD p213)<!--/AltName-->
+      - Alias: <!--AltName-->Cape of the Mountebank (SRD p213)<!--/AltName-->
 
 
 
@@ -5615,7 +5615,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cloak of Protection (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Cloak of Protection (SRD p214)<!--/AltName-->
 
 
 
@@ -5665,7 +5665,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cloak of Elvenkind (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Cloak of Elvenkind (SRD p214)<!--/AltName-->
 
 
 
@@ -5714,7 +5714,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Decanter of Endless Water (SRD p216)<!--/AltName-->
+      - Alias: <!--AltName-->Decanter of Endless Water (SRD p216)<!--/AltName-->
 
 
 
@@ -5781,7 +5781,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Chime of Opening (SRD p213)<!--/AltName-->
+      - Alias: <!--AltName-->Chime of Opening (SRD p213)<!--/AltName-->
 
 
 
@@ -5834,7 +5834,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Efficient Quiver (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Efficient Quiver (SRD p220)<!--/AltName-->
 
 
 
@@ -5887,7 +5887,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Deck of Illusions (SRD p216)<!--/AltName-->
+      - Alias: <!--AltName-->Deck of Illusions (SRD p216)<!--/AltName-->
 
 
 
@@ -6094,7 +6094,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Deck of Many Things (SRD p216)<!--/AltName-->
+      - Alias: <!--AltName-->Deck of Many Things (SRD p216)<!--/AltName-->
 
 
 
@@ -6390,7 +6390,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Giant Strength (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Giant Strength (SRD p211)<!--/AltName-->
 
 
 
@@ -6476,7 +6476,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Hill Giant Strength (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Hill Giant Strength (SRD p211)<!--/AltName-->
 
 
 
@@ -6526,7 +6526,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Frost / Stone Giant Strength (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Frost / Stone Giant Strength (SRD p211)<!--/AltName-->
 
 
 
@@ -6582,7 +6582,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Fire Giant Strength (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Fire Giant Strength (SRD p211)<!--/AltName-->
 
 
 
@@ -6632,7 +6632,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Cloud Giant Strength (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Cloud Giant Strength (SRD p211)<!--/AltName-->
 
 
 
@@ -6682,7 +6682,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Storm Giant Strength (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Storm Giant Strength (SRD p211)<!--/AltName-->
 
 
 
@@ -6732,7 +6732,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Belt of Dwarvenkind (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Belt of Dwarvenkind (SRD p211)<!--/AltName-->
 
 
 
@@ -6824,7 +6824,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Hat of Disguise (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Hat of Disguise (SRD p225)<!--/AltName-->
 
 
 
@@ -6874,7 +6874,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Necklace of Prayer Beads (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Necklace of Prayer Beads (SRD p231)<!--/AltName-->
 
 
 
@@ -6964,7 +6964,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Slippers of Spider Climbing (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Slippers of Spider Climbing (SRD p242)<!--/AltName-->
 
 
 
@@ -7013,7 +7013,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Elven Chain (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Elven Chain (SRD p220)<!--/AltName-->
 
 
 
@@ -7061,7 +7061,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Candle of Invocation (SRD p213)<!--/AltName-->
+      - Alias: <!--AltName-->Candle of Invocation (SRD p213)<!--/AltName-->
 
 
 
@@ -7175,7 +7175,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Scimitar of Speed (SRD p241)<!--/AltName-->
+      - Alias: <!--AltName-->Scimitar of Speed (SRD p241)<!--/AltName-->
 
 
 
@@ -7224,7 +7224,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Sovereign Glue (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Sovereign Glue (SRD p242)<!--/AltName-->
 
 
 
@@ -7278,7 +7278,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Necklace of Adaptation (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Necklace of Adaptation (SRD p231)<!--/AltName-->
 
 
 
@@ -7327,7 +7327,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Necklace of Fireballs (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Necklace of Fireballs (SRD p231)<!--/AltName-->
 
 
 
@@ -7380,7 +7380,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Horn of Blasting (SRD p226)<!--/AltName-->
+      - Alias: <!--AltName-->Horn of Blasting (SRD p226)<!--/AltName-->
 
 
 
@@ -7433,7 +7433,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Horn of Valhalla (SRD p226)<!--/AltName-->
+      - Alias: <!--AltName-->Horn of Valhalla (SRD p226)<!--/AltName-->
 
 
 
@@ -7518,7 +7518,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rope of Entanglement (SRD p241)<!--/AltName-->
+      - Alias: <!--AltName-->Rope of Entanglement (SRD p241)<!--/AltName-->
 
 
 
@@ -7577,7 +7577,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rope of Climbing (SRD p241)<!--/AltName-->
+      - Alias: <!--AltName-->Rope of Climbing (SRD p241)<!--/AltName-->
 
 
 
@@ -7637,7 +7637,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cube of Force (SRD p215)<!--/AltName-->
+      - Alias: <!--AltName-->Cube of Force (SRD p215)<!--/AltName-->
 
 
 
@@ -7774,7 +7774,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Glamoured Studded Leather (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Glamoured Studded Leather (SRD p224)<!--/AltName-->
 
 
 
@@ -7821,7 +7821,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dagger of Venom (SRD p215)<!--/AltName-->
+      - Alias: <!--AltName-->Dagger of Venom (SRD p215)<!--/AltName-->
 
 
 
@@ -7874,7 +7874,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Circlet of Blasting (SRD p214)<!--/AltName-->
+      - Alias: <!--AltName-->Circlet of Blasting (SRD p214)<!--/AltName-->
 
 
 
@@ -7921,7 +7921,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Censer of Controlling Air Elementals (SRD p213)<!--/AltName-->
+      - Alias: <!--AltName-->Censer of Controlling Air Elementals (SRD p213)<!--/AltName-->
 
 
 
@@ -7975,7 +7975,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Flame Tongue (SRD p223)<!--/AltName-->
+      - Alias: <!--AltName-->Flame Tongue (SRD p223)<!--/AltName-->
 
 
 
@@ -8025,7 +8025,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dancing Sword (SRD p215)<!--/AltName-->
+      - Alias: <!--AltName-->Dancing Sword (SRD p215)<!--/AltName-->
 
 
 
@@ -8087,7 +8087,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Sword of Wounding (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Sword of Wounding (SRD p246)<!--/AltName-->
 
 
 
@@ -8143,7 +8143,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Sun Blade (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Sun Blade (SRD p246)<!--/AltName-->
 
 
 
@@ -8205,7 +8205,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Sword of Sharpness (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Sword of Sharpness (SRD p246)<!--/AltName-->
 
 
 
@@ -8267,7 +8267,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Sword of Life Stealing (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Sword of Life Stealing (SRD p246)<!--/AltName-->
 
 
 
@@ -8317,7 +8317,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Vorpal Sword (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Vorpal Sword (SRD p248)<!--/AltName-->
 
 
 
@@ -8372,7 +8372,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Wind Fan (SRD p250)<!--/AltName-->
+      - Alias: <!--AltName-->Wind Fan (SRD p250)<!--/AltName-->
 
 
 
@@ -8420,7 +8420,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Frost Brand (SRD p223)<!--/AltName-->
+      - Alias: <!--AltName-->Frost Brand (SRD p223)<!--/AltName-->
 
 
 
@@ -8481,7 +8481,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Horseshoes of Speed (SRD p226)<!--/AltName-->
+      - Alias: <!--AltName-->Horseshoes of Speed (SRD p226)<!--/AltName-->
 
 
 
@@ -8528,7 +8528,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Horseshoes of a Zephyr (SRD p226)<!--/AltName-->
+      - Alias: <!--AltName-->Horseshoes of a Zephyr (SRD p226)<!--/AltName-->
 
 
 
@@ -8575,7 +8575,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Figurine of Wondrous Power (SRD p221)<!--/AltName-->
+      - Alias: <!--AltName-->Figurine of Wondrous Power (SRD p221)<!--/AltName-->
 
 
 
@@ -8706,7 +8706,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Iron Flask (SRD p228)<!--/AltName-->
+      - Alias: <!--AltName-->Iron Flask (SRD p228)<!--/AltName-->
 
 
 
@@ -8851,7 +8851,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Arrow of Slaying (SRD p209)<!--/AltName-->
+      - Alias: <!--AltName-->Arrow of Slaying (SRD p209)<!--/AltName-->
 
 
 
@@ -8911,7 +8911,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Pipes of the Sewers (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Pipes of the Sewers (SRD p232)<!--/AltName-->
 
 
 
@@ -8972,7 +8972,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Pipes of Haunting (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Pipes of Haunting (SRD p232)<!--/AltName-->
 
 
 
@@ -9019,7 +9019,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Instant Fortress (SRD p226)<!--/AltName-->
+      - Alias: <!--AltName-->Instant Fortress (SRD p226)<!--/AltName-->
 
 
 
@@ -9085,7 +9085,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Gauntlets of Ogre Power (SRD p223)<!--/AltName-->
+      - Alias: <!--AltName-->Gauntlets of Ogre Power (SRD p223)<!--/AltName-->
 
 
 
@@ -9135,7 +9135,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Gloves of Swimming and Climbing (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Gloves of Swimming and Climbing (SRD p224)<!--/AltName-->
 
 
 
@@ -9185,7 +9185,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Gloves of Missile Snaring (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Gloves of Missile Snaring (SRD p224)<!--/AltName-->
 
 
 
@@ -9235,7 +9235,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Gem of Seeing (SRD p223)<!--/AltName-->
+      - Alias: <!--AltName-->Gem of Seeing (SRD p223)<!--/AltName-->
 
 
 
@@ -9290,7 +9290,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Elemental Gem (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Elemental Gem (SRD p220)<!--/AltName-->
 
 
 
@@ -9363,7 +9363,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Gem of Brightness (SRD p223)<!--/AltName-->
+      - Alias: <!--AltName-->Gem of Brightness (SRD p223)<!--/AltName-->
 
 
 
@@ -9435,7 +9435,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Berserker Axe (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Berserker Axe (SRD p211)<!--/AltName-->
 
 
 
@@ -9497,7 +9497,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Plate Armor of Etherealness (SRD p233)<!--/AltName-->
+      - Alias: <!--AltName-->Plate Armor of Etherealness (SRD p233)<!--/AltName-->
 
 
 
@@ -9546,7 +9546,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dwarven Plate (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Dwarven Plate (SRD p220)<!--/AltName-->
 
 
 
@@ -9593,7 +9593,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Handy Haversack (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Handy Haversack (SRD p224)<!--/AltName-->
 
 
 
@@ -9658,7 +9658,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Helm of Comprehending Languages (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Helm of Comprehending Languages (SRD p225)<!--/AltName-->
 
 
 
@@ -9706,7 +9706,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Helm of Telepathy (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Helm of Telepathy (SRD p225)<!--/AltName-->
 
 
 
@@ -9762,7 +9762,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Helm of Teleportation (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Helm of Teleportation (SRD p225)<!--/AltName-->
 
 
 
@@ -9812,7 +9812,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Helm of Brilliance (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Helm of Brilliance (SRD p225)<!--/AltName-->
 
 
 
@@ -9897,7 +9897,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Oil of Sharpness (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Oil of Sharpness (SRD p232)<!--/AltName-->
 
 
 
@@ -9944,7 +9944,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Oil of Etherealness (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Oil of Etherealness (SRD p231)<!--/AltName-->
 
 
 
@@ -9991,7 +9991,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Oil of Slipperiness (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Oil of Slipperiness (SRD p232)<!--/AltName-->
 
 
 
@@ -10044,7 +10044,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Javelin of Lightning (SRD p228)<!--/AltName-->
+      - Alias: <!--AltName-->Javelin of Lightning (SRD p228)<!--/AltName-->
 
 
 
@@ -10098,7 +10098,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Luck Blade (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Luck Blade (SRD p229)<!--/AltName-->
 
 
 
@@ -10159,7 +10159,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Lantern of Revealing (SRD p228)<!--/AltName-->
+      - Alias: <!--AltName-->Lantern of Revealing (SRD p228)<!--/AltName-->
 
 
 
@@ -10206,7 +10206,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Eyes of Minute Seeing (SRD p221)<!--/AltName-->
+      - Alias: <!--AltName-->Eyes of Minute Seeing (SRD p221)<!--/AltName-->
 
 
 
@@ -10253,7 +10253,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Iron Bands of Binding (SRD p228)<!--/AltName-->
+      - Alias: <!--AltName-->Iron Bands of Binding (SRD p228)<!--/AltName-->
 
 
 
@@ -10318,7 +10318,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Goggles of Night (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Goggles of Night (SRD p224)<!--/AltName-->
 
 
 
@@ -10366,7 +10366,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Mantle of Spell Resistance (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Mantle of Spell Resistance (SRD p229)<!--/AltName-->
 
 
 
@@ -10415,7 +10415,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Manual of Bodily Health (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Manual of Bodily Health (SRD p229)<!--/AltName-->
 
 
 
@@ -10462,7 +10462,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Manual of Gainful Exercise (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Manual of Gainful Exercise (SRD p229)<!--/AltName-->
 
 
 
@@ -10509,7 +10509,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Manual of Golems (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Manual of Golems (SRD p229)<!--/AltName-->
 
 
 
@@ -10594,7 +10594,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Manual of Quickness of Action (SRD p230)<!--/AltName-->
+      - Alias: <!--AltName-->Manual of Quickness of Action (SRD p230)<!--/AltName-->
 
 
 
@@ -10642,7 +10642,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dwarven Thrower (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Dwarven Thrower (SRD p220)<!--/AltName-->
 
 
 
@@ -10691,7 +10691,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Hammer of Thunderbolts (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Hammer of Thunderbolts (SRD p224)<!--/AltName-->
 
 
 
@@ -10751,7 +10751,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Mace of Disruption (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Mace of Disruption (SRD p229)<!--/AltName-->
 
 
 
@@ -10806,7 +10806,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Mace of Smiting (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Mace of Smiting (SRD p229)<!--/AltName-->
 
 
 
@@ -10860,7 +10860,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Mace of Terror (SRD p229)<!--/AltName-->
+      - Alias: <!--AltName-->Mace of Terror (SRD p229)<!--/AltName-->
 
 
 
@@ -10916,7 +10916,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Medallion of Thoughts (SRD p230)<!--/AltName-->
+      - Alias: <!--AltName-->Medallion of Thoughts (SRD p230)<!--/AltName-->
 
 
 
@@ -10965,7 +10965,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dimensional Shackles (SRD p219)<!--/AltName-->
+      - Alias: <!--AltName-->Dimensional Shackles (SRD p219)<!--/AltName-->
 
 
 
@@ -11018,7 +11018,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Mirror of Life Trapping (SRD p230)<!--/AltName-->
+      - Alias: <!--AltName-->Mirror of Life Trapping (SRD p230)<!--/AltName-->
 
 
 
@@ -11101,7 +11101,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ammunition, +1, +2, or +3 (SRD p207)<!--/AltName-->
+      - Alias: <!--AltName-->Ammunition, +1, +2, or +3 (SRD p207)<!--/AltName-->
 
 
 
@@ -11149,7 +11149,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Eyes of the Eagle (SRD p221)<!--/AltName-->
+      - Alias: <!--AltName-->Eyes of the Eagle (SRD p221)<!--/AltName-->
 
 
 
@@ -11198,7 +11198,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Spell Scroll (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Spell Scroll (SRD p242)<!--/AltName-->
 
 
 
@@ -11325,7 +11325,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bead of Force (SRD p211)<!--/AltName-->
+      - Alias: <!--AltName-->Bead of Force (SRD p211)<!--/AltName-->
 
 
 
@@ -11385,7 +11385,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Pearl of Power (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Pearl of Power (SRD p232)<!--/AltName-->
 
 
 
@@ -11434,7 +11434,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Philter of Love (SRD p232)<!--/AltName-->
+      - Alias: <!--AltName-->Philter of Love (SRD p232)<!--/AltName-->
 
 
 
@@ -11481,7 +11481,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Marvelous Pigments (SRD p230)<!--/AltName-->
+      - Alias: <!--AltName-->Marvelous Pigments (SRD p230)<!--/AltName-->
 
 
 
@@ -11552,7 +11552,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Stone of Controlling Earth Elementals (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Stone of Controlling Earth Elementals (SRD p246)<!--/AltName-->
 
 
 
@@ -11600,7 +11600,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Ioun Stone (SRD p227)<!--/AltName-->
+      - Alias: <!--AltName-->Ioun Stone (SRD p227)<!--/AltName-->
 
 
 
@@ -11770,7 +11770,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Stone of Good Luck (Luckstone) (SRD p246)<!--/AltName-->
+      - Alias: <!--AltName-->Stone of Good Luck (Luckstone) (SRD p246)<!--/AltName-->
 
 
 
@@ -11819,7 +11819,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Feather Token (SRD p221)<!--/AltName-->
+      - Alias: <!--AltName-->Feather Token (SRD p221)<!--/AltName-->
 
 
 
@@ -11942,7 +11942,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Cubic Gate (SRD p215)<!--/AltName-->
+      - Alias: <!--AltName-->Cubic Gate (SRD p215)<!--/AltName-->
 
 
 
@@ -12001,7 +12001,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Growth (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Growth (SRD p234)<!--/AltName-->
 
 
 
@@ -12048,7 +12048,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Animal Friendship (SRD p233)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Animal Friendship (SRD p233)<!--/AltName-->
 
 
 
@@ -12095,7 +12095,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Clairvoyance (SRD p233)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Clairvoyance (SRD p233)<!--/AltName-->
 
 
 
@@ -12142,7 +12142,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Climbing (SRD p233)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Climbing (SRD p233)<!--/AltName-->
 
 
 
@@ -12189,7 +12189,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Giant Strength (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Giant Strength (SRD p234)<!--/AltName-->
 
 
 
@@ -12272,7 +12272,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Gaseous Form (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Gaseous Form (SRD p234)<!--/AltName-->
 
 
 
@@ -12319,7 +12319,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Mind Reading (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Mind Reading (SRD p234)<!--/AltName-->
 
 
 
@@ -12366,7 +12366,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Poison (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Poison (SRD p234)<!--/AltName-->
 
 
 
@@ -12419,7 +12419,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Resistance (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Resistance (SRD p235)<!--/AltName-->
 
 
 
@@ -12516,7 +12516,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Water Breathing (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Water Breathing (SRD p235)<!--/AltName-->
 
 
 
@@ -12563,7 +12563,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Diminution (SRD p233)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Diminution (SRD p233)<!--/AltName-->
 
 
 
@@ -12610,7 +12610,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Healing (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Healing (SRD p234)<!--/AltName-->
 
 
 
@@ -12689,7 +12689,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Speed (SRD p235)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Speed (SRD p235)<!--/AltName-->
 
 
 
@@ -12736,7 +12736,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Flying (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Flying (SRD p234)<!--/AltName-->
 
 
 
@@ -12783,7 +12783,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Heroism (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Heroism (SRD p234)<!--/AltName-->
 
 
 
@@ -12830,7 +12830,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Potion of Invisibility (SRD p234)<!--/AltName-->
+      - Alias: <!--AltName-->Potion of Invisibility (SRD p234)<!--/AltName-->
 
 
 
@@ -12877,7 +12877,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dust of Sneezing and Choking (SRD p219)<!--/AltName-->
+      - Alias: <!--AltName-->Dust of Sneezing and Choking (SRD p219)<!--/AltName-->
 
 
 
@@ -12930,7 +12930,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dust of Dryness (SRD p219)<!--/AltName-->
+      - Alias: <!--AltName-->Dust of Dryness (SRD p219)<!--/AltName-->
 
 
 
@@ -12989,7 +12989,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dust of Disappearance (SRD p219)<!--/AltName-->
+      - Alias: <!--AltName-->Dust of Disappearance (SRD p219)<!--/AltName-->
 
 
 
@@ -13037,7 +13037,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Defender (SRD p218)<!--/AltName-->
+      - Alias: <!--AltName-->Defender (SRD p218)<!--/AltName-->
 
 
 
@@ -13092,7 +13092,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Well of Many Worlds (SRD p250)<!--/AltName-->
+      - Alias: <!--AltName-->Well of Many Worlds (SRD p250)<!--/AltName-->
 
 
 
@@ -13145,7 +13145,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Portable Hole (SRD p233)<!--/AltName-->
+      - Alias: <!--AltName-->Portable Hole (SRD p233)<!--/AltName-->
 
 
 
@@ -13217,7 +13217,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Eyes of Charming (SRD p220)<!--/AltName-->
+      - Alias: <!--AltName-->Eyes of Charming (SRD p220)<!--/AltName-->
 
 
 
@@ -13267,7 +13267,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Robe of Stars (SRD p239)<!--/AltName-->
+      - Alias: <!--AltName-->Robe of Stars (SRD p239)<!--/AltName-->
 
 
 
@@ -13329,7 +13329,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Robe of Eyes (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Robe of Eyes (SRD p238)<!--/AltName-->
 
 
 
@@ -13405,7 +13405,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Robe of Scintillating Colors (SRD p238)<!--/AltName-->
+      - Alias: <!--AltName-->Robe of Scintillating Colors (SRD p238)<!--/AltName-->
 
 
 
@@ -13455,7 +13455,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Robe of the Archmagi (SRD p239)<!--/AltName-->
+      - Alias: <!--AltName-->Robe of the Archmagi (SRD p239)<!--/AltName-->
 
 
 
@@ -13524,7 +13524,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Robe of Useful Items (SRD p239)<!--/AltName-->
+      - Alias: <!--AltName-->Robe of Useful Items (SRD p239)<!--/AltName-->
 
 
 
@@ -13671,7 +13671,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bag of Devouring (SRD p210)<!--/AltName-->
+      - Alias: <!--AltName-->Bag of Devouring (SRD p210)<!--/AltName-->
 
 
 
@@ -13736,7 +13736,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bag of Tricks (SRD p210)<!--/AltName-->
+      - Alias: <!--AltName-->Bag of Tricks (SRD p210)<!--/AltName-->
 
 
 
@@ -13945,7 +13945,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bag of Beans (SRD p209)<!--/AltName-->
+      - Alias: <!--AltName-->Bag of Beans (SRD p209)<!--/AltName-->
 
 
 
@@ -14062,7 +14062,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Bag of Holding (SRD p210)<!--/AltName-->
+      - Alias: <!--AltName-->Bag of Holding (SRD p210)<!--/AltName-->
 
 
 
@@ -14122,7 +14122,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Scarab of Protection (SRD p241)<!--/AltName-->
+      - Alias: <!--AltName-->Scarab of Protection (SRD p241)<!--/AltName-->
 
 
 
@@ -14182,7 +14182,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rod of Absorption (SRD p239)<!--/AltName-->
+      - Alias: <!--AltName-->Rod of Absorption (SRD p239)<!--/AltName-->
 
 
 
@@ -14250,7 +14250,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rod of Lordly Might (SRD p240)<!--/AltName-->
+      - Alias: <!--AltName-->Rod of Lordly Might (SRD p240)<!--/AltName-->
 
 
 
@@ -14359,7 +14359,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rod of Security (SRD p241)<!--/AltName-->
+      - Alias: <!--AltName-->Rod of Security (SRD p241)<!--/AltName-->
 
 
 
@@ -14419,7 +14419,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rod of Rulership (SRD p240)<!--/AltName-->
+      - Alias: <!--AltName-->Rod of Rulership (SRD p240)<!--/AltName-->
 
 
 
@@ -14469,7 +14469,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Rod of Alertness (SRD p240)<!--/AltName-->
+      - Alias: <!--AltName-->Rod of Alertness (SRD p240)<!--/AltName-->
 
 
 
@@ -14542,7 +14542,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Immovable Rod (SRD p226)<!--/AltName-->
+      - Alias: <!--AltName-->Immovable Rod (SRD p226)<!--/AltName-->
 
 
 
@@ -14589,7 +14589,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Sphere of Annihilation (SRD p242)<!--/AltName-->
+      - Alias: <!--AltName-->Sphere of Annihilation (SRD p242)<!--/AltName-->
 
 
 
@@ -14682,7 +14682,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Universal Solvent (SRD p248)<!--/AltName-->
+      - Alias: <!--AltName-->Universal Solvent (SRD p248)<!--/AltName-->
 
 
 
@@ -14729,7 +14729,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Apparatus of the Crab (SRD p208)<!--/AltName-->
+      - Alias: <!--AltName-->Apparatus of the Crab (SRD p208)<!--/AltName-->
 
 
 
@@ -14875,7 +14875,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Talisman of the Sphere (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Talisman of the Sphere (SRD p247)<!--/AltName-->
 
 
 
@@ -14925,7 +14925,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Talisman of Pure Good (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Talisman of Pure Good (SRD p247)<!--/AltName-->
 
 
 
@@ -14987,7 +14987,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Talisman of Ultimate Evil (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Talisman of Ultimate Evil (SRD p247)<!--/AltName-->
 
 
 
@@ -15048,7 +15048,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Carpet of Flying (SRD p213)<!--/AltName-->
+      - Alias: <!--AltName-->Carpet of Flying (SRD p213)<!--/AltName-->
 
 
 
@@ -15133,7 +15133,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Tome of Leadership and Influence (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Tome of Leadership and Influence (SRD p247)<!--/AltName-->
 
 
 
@@ -15180,7 +15180,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Tome of Understanding (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Tome of Understanding (SRD p247)<!--/AltName-->
 
 
 
@@ -15227,7 +15227,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Tome of Clear Thought (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Tome of Clear Thought (SRD p247)<!--/AltName-->
 
 
 
@@ -15275,7 +15275,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Trident of Fish Command (SRD p247)<!--/AltName-->
+      - Alias: <!--AltName-->Trident of Fish Command (SRD p247)<!--/AltName-->
 
 
 
@@ -15324,7 +15324,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Dragon Slayer (SRD p219)<!--/AltName-->
+      - Alias: <!--AltName-->Dragon Slayer (SRD p219)<!--/AltName-->
 
 
 
@@ -15377,7 +15377,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Giant Slayer (SRD p224)<!--/AltName-->
+      - Alias: <!--AltName-->Giant Slayer (SRD p224)<!--/AltName-->
 
 
 
@@ -15431,7 +15431,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Holy Avenger (SRD p225)<!--/AltName-->
+      - Alias: <!--AltName-->Holy Avenger (SRD p225)<!--/AltName-->
 
 
 
@@ -15487,7 +15487,7 @@ SubItems:
 
 
 
-      - AltName: <!--AltName-->Nine Lives Stealer (SRD p231)<!--/AltName-->
+      - Alias: <!--AltName-->Nine Lives Stealer (SRD p231)<!--/AltName-->
 
 
 
@@ -15538,7 +15538,7 @@ AttributesDictionary: >+
 
 
 
-    - AltName: <!--AltName-->Magic Items A-Z (SRD p207)<!--/AltName-->
+    - Alias: <!--AltName-->Magic Items A-Z (SRD p207)<!--/AltName-->
 
 
 
@@ -15551,7 +15551,7 @@ AttributesDictionary: >+
 
 ### Ailes de vol
 
-- AltName: Wings of Flying (SRD p251)
+- Alias: Wings of Flying (SRD p251)
 - Source: (CDC p138)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -15563,7 +15563,7 @@ Tant que vous êtes équipé de cette cape, vous pouvez utiliser une action pour
 
 ### Amulette antidote
 
-- AltName: Periapt of Proof against Poison (SRD p232)
+- Alias: Periapt of Proof against Poison (SRD p232)
 - Source: (CDC p139)
 -  Objet merveilleux, rare
 
@@ -15575,7 +15575,7 @@ Une gemme noire luisante et parfaitement taillée orne cette délicate chaîne d
 
 ### Amulette d'antidétection
 
-- AltName: Amulet of Proof against Detection and Location (SRD p207)
+- Alias: Amulet of Proof against Detection and Location (SRD p207)
 - Source: (CDC p139)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -15587,7 +15587,7 @@ Tant que vous portez cette amulette, vous êtes caché aux yeux de la magie de d
 
 ### Amulette de bonne santé
 
-- AltName: Amulet of Health (SRD p207)
+- Alias: Amulet of Health (SRD p207)
 - Source: (CDC p139)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -15599,7 +15599,7 @@ Tant que vous portez cette amulette, votre valeur de Constitution passe à 19. L
 
 ### Amulette de cicatrisation
 
-- AltName: Periapt of Wound Closure (SRD p232)
+- Alias: Periapt of Wound Closure (SRD p232)
 - Source: (CDC p139)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -15611,7 +15611,7 @@ Tant que vous portez ce pendentif, vous vous stabilisez automatiquement au débu
 
 ### Amulette de santé
 
-- AltName: Periapt of Health (SRD p232)
+- Alias: Periapt of Health (SRD p232)
 - Source: (CDC p139)
 -  Objet merveilleux, peu courant
 
@@ -15623,7 +15623,7 @@ Tant que vous portez ce pendentif, vous êtes immunisé contre toutes les maladi
 
 ### Amulette des plans
 
-- AltName: Amulet of the Planes (SRD p207)
+- Alias: Amulet of the Planes (SRD p207)
 - Source: (CDC p139)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -15635,7 +15635,7 @@ Tant que vous portez cette amulette, vous pouvez utiliser votre action pour nomm
 
 ### Anneau d'action libre
 
-- AltName: Ring of Free Action (SRD p236)
+- Alias: Ring of Free Action (SRD p236)
 - Source: (CDC p139)
 -  Anneau, rare (harmonisation requise)
 
@@ -15647,7 +15647,7 @@ Tant que vous portez cet anneau au doigt, les terrains difficiles ne vous coûte
 
 ### Anneau de chaleur
 
-- AltName: Ring of Warmth (SRD p238)
+- Alias: Ring of Warmth (SRD p238)
 - Source: (CDC p139)
 -  Anneau, peu courant (harmonisation requise)
 
@@ -15659,7 +15659,7 @@ Vous bénéficiez d'une résistance contre les dégâts de froid tant que vous p
 
 ### Anneau de convocation de djinn
 
-- AltName: Ring of Djinni Summoning (SRD p235)
+- Alias: Ring of Djinni Summoning (SRD p235)
 - Source: (CDC p139)
 -  Anneau, légendaire (harmonisation requise)
 
@@ -15675,7 +15675,7 @@ Après le retour du djinn sur son plan d'origine, vous ne pouvez plus le convoqu
 
 ### Anneau de dérobade
 
-- AltName: Ring of Evasion (SRD p236)
+- Alias: Ring of Evasion (SRD p236)
 - Source: (CDC p139)
 -  Anneau, rare (harmonisation requise)
 
@@ -15687,7 +15687,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 ### Anneau de feu d'étoiles
 
-- AltName: Ring of Shooting Stars (SRD p237)
+- Alias: Ring of Shooting Stars (SRD p237)
 - Source: (CDC p140)
 -  Anneau, très rare (harmonisation en plein air et de nuit exigée)
 
@@ -15718,7 +15718,7 @@ Par une action bonus, vous pouvez déplacer chaque sphère d'une distance maxima
 
 ### Anneau de légèreté
 
-- AltName: Ring of Feather Falling (SRD p236)
+- Alias: Ring of Feather Falling (SRD p236)
 - Source: (CDC p140)
 -  Anneau, rare (harmonisation requise)
 
@@ -15730,7 +15730,7 @@ Vous descendez de 18 mètres par round et ne subissez aucun dégât de chute tan
 
 ### Anneau de maîtrise élémentaire
 
-- AltName: Ring of Elemental Command (SRD p235)
+- Alias: Ring of Elemental Command (SRD p235)
 - Source: (CDC p140)
 -  Anneau, légendaire (harmonisation requise)
 
@@ -15776,7 +15776,7 @@ Si vous aidez à tuer un élémentaire du Feu tout en étant harmonisé à l'ann
 
 ### Anneau de marche sur l'eau
 
-- AltName: Ring of Water Walking (SRD p238)
+- Alias: Ring of Water Walking (SRD p238)
 - Source: (CDC p141)
 -  Anneau, peu courant
 
@@ -15788,7 +15788,7 @@ Vous pouvez vous tenir debout sur toute surface liquide et vous déplacer dessus
 
 ### Anneau de nage
 
-- AltName: Ring of Swimming (SRD p238)
+- Alias: Ring of Swimming (SRD p238)
 - Source: (CDC p141)
 -  Anneau, peu courant
 
@@ -15800,7 +15800,7 @@ Vous possédez une vitesse de déplacement à la nage de 12 mètres tant que vou
 
 ### Anneau de protection
 
-- AltName: Ring of Protection (SRD p237)
+- Alias: Ring of Protection (SRD p237)
 - Source: (CDC p141)
 -  Anneau, rare (harmonisation requise)
 
@@ -15812,7 +15812,7 @@ Vous bénéficiez d'un bonus de +1 à la CA et aux jets de sauvegarde tant que v
 
 ### Anneau de protection mentale
 
-- AltName: Ring of Mind Shielding (SRD p236)
+- Alias: Ring of Mind Shielding (SRD p236)
 - Source: (CDC p141)
 -  Anneau, peu courant (harmonisation requise)
 
@@ -15828,7 +15828,7 @@ Si vous perdez la vie avec l'anneau au doigt, votre âme se réfugie à l'intér
 
 ### Anneau de régénération
 
-- AltName: Ring of Regeneration (SRD p237)
+- Alias: Ring of Regeneration (SRD p237)
 - Source: (CDC p141)
 -  Anneau, très rare (harmonisation requise)
 
@@ -15840,7 +15840,7 @@ Tant que vous portez cet anneau, vous récupérez 1d6 points de vie toutes les 1
 
 ### Anneau de renvoi des sorts
 
-- AltName: Ring of Spell Turning (SRD p237)
+- Alias: Ring of Spell Turning (SRD p237)
 - Source: (CDC p142)
 -  Anneau, légendaire (harmonisation requise)
 
@@ -15852,7 +15852,7 @@ Vous obtenez l'avantage lors des jets de sauvegarde contre les sorts qui ne pren
 
 ### Anneau de résistance
 
-- AltName: Ring of Resistance (SRD p237)
+- Alias: Ring of Resistance (SRD p237)
 - Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 
@@ -15877,7 +15877,7 @@ Vous bénéficiez d'une résistance contre un type de dégâts tant que vous por
 
 ### Anneau de saut
 
-- AltName: Ring of Jumping (SRD p236)
+- Alias: Ring of Jumping (SRD p236)
 - Source: (CDC p142)
 -  Anneau, peu courant (harmonisation requise)
 
@@ -15889,7 +15889,7 @@ Vous pouvez lancer le sort de saut, à volonté et par une action bonus, tant qu
 
 ### Anneau de stockage de sorts
 
-- AltName: Ring of Spell Storing (SRD p237)
+- Alias: Ring of Spell Storing (SRD p237)
 - Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 
@@ -15905,7 +15905,7 @@ Tant que vous portez cet anneau, vous pouvez lancer n'importe quel sort stocké 
 
 ### Anneau de télékinésie
 
-- AltName: Ring of Telekinesis (SRD p238)
+- Alias: Ring of Telekinesis (SRD p238)
 - Source: (CDC p142)
 -  Anneau, très rare (harmonisation requise)
 
@@ -15917,7 +15917,7 @@ Tant que vous portez cet anneau au doigt, vous pouvez lancer le sort de téléki
 
 ### Anneau de triple souhait
 
-- AltName: Ring of Three Wishes (SRD p238)
+- Alias: Ring of Three Wishes (SRD p238)
 - Source: (CDC p142)
 -  Anneau, légendaire
 
@@ -15929,7 +15929,7 @@ Vous pouvez utiliser une action pour dépenser une des 3 charges que contient l'
 
 ### Anneau de vision aux rayons X
 
-- AltName: Ring of X-ray Vision (SRD p238)
+- Alias: Ring of X-ray Vision (SRD p238)
 - Source: (CDC p142)
 -  Anneau, rare (harmonisation requise)
 
@@ -15943,7 +15943,7 @@ Chaque fois que vous utilisez l'anneau à nouveau avant de prendre un repos long
 
 ### Anneau d'influence animale
 
-- AltName: Ring of Animal Influence (SRD p235)
+- Alias: Ring of Animal Influence (SRD p235)
 - Source: (CDC p142)
 -  Anneau, rare
 
@@ -15959,7 +15959,7 @@ Cet anneau contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 ### Anneau d'invisibilité
 
-- AltName: Ring of Invisibility (SRD p236)
+- Alias: Ring of Invisibility (SRD p236)
 - Source: (CDC p143)
 -  Anneau, légendaire (harmonisation requise)
 
@@ -15971,7 +15971,7 @@ Vous pouvez devenir invisible par une action tant que vous portez cet anneau au 
 
 ### Anneau du bélier
 
-- AltName: Ring of the Ram (SRD p238)
+- Alias: Ring of the Ram (SRD p238)
 - Source: (CDC p143)
 -  Anneau, rare (harmonisation requise)
 
@@ -15985,7 +15985,7 @@ Par ailleurs, vous pouvez dépenser de 1 à 3 des charges que contient l'anneau 
 
 ### Arc du serment
 
-- AltName: Oathbow (SRD p231)
+- Alias: Oathbow (SRD p231)
 - Source: (CDC p143)
 -  Arme (arc long), très rare (harmonisation requise)
 
@@ -16001,7 +16001,7 @@ Tant que vit votre ennemi juré, vous subissez un désavantage lors de jets d'at
 
 ### Arme vicieuse
 
-- AltName: Vicious Weapon (SRD p248)
+- Alias: Vicious Weapon (SRD p248)
 - Source: (CDC p143)
 -  Arme (n'importe quelle arme), rare
 
@@ -16013,7 +16013,7 @@ Lorsque vous obtenez un 20 sur un jet d'attaque avec cette arme magique, votre c
 
 ### Arme +1, +2 ou +3
 
-- AltName: Weapon, +1, +2, or +3 (SRD p250)
+- Alias: Weapon, +1, +2, or +3 (SRD p250)
 - Source: (CDC p143)
 -  Arme (n'importe quelle arme), peu courante (+1), rare (+2) ou très rare (+3)
 
@@ -16025,7 +16025,7 @@ Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec c
 
 ### Armure d'écailles de dragon
 
-- AltName: Dragon Scale Mail (SRD p219)
+- Alias: Dragon Scale Mail (SRD p219)
 - Source: (CDC p143)
 -  Armure (armure d'écaille), très rare (harmonisation requise)
 
@@ -16054,7 +16054,7 @@ De plus, vous pouvez utiliser une action pour concentrer vos cinq sens et percev
 
 ### Armure de mithral
 
-- AltName: Mithral Armor (SRD p231)
+- Alias: Mithral Armor (SRD p231)
 - Source: (CDC p143)
 -  Armure (intermédiaire ou lourde mais pas en peau), peu courante
 
@@ -16066,7 +16066,7 @@ Le mithral est un métal léger et flexible, à tel point qu'on peut porter une 
 
 ### Armure démoniaque
 
-- AltName: Demon Armor (SRD p218)
+- Alias: Demon Armor (SRD p218)
 - Source: (CDC p144)
 -  Armure (harnois), très rare (harmonisation requise)
 
@@ -16080,7 +16080,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA et vous c
 
 ### Armure de résistance
 
-- AltName: Armor of Resistance (SRD p208)
+- Alias: Armor of Resistance (SRD p208)
 - Source: (CDC p144)
 -  Armure (légère, intermédiaire ou lourde), rare (harmonisation requise)
 
@@ -16105,7 +16105,7 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts.
 
 ### Armure de vulnérabilité
 
-- AltName: Armor of Vulnerability (SRD p209)
+- Alias: Armor of Vulnerability (SRD p209)
 - Source: (CDC p145)
 -  Armure (harnois), rare (harmonisation requise)
 
@@ -16119,7 +16119,7 @@ Tant que vous portez cette armure, vous êtes résistant à un type de dégâts 
 
 ### Armure d'invulnérabilité
 
-- AltName: Armor of Invulnerability (SRD p208)
+- Alias: Armor of Invulnerability (SRD p208)
 - Source: (CDC p145)
 -  Armure (harnois), légendaire (harmonisation requise)
 
@@ -16131,7 +16131,7 @@ Tant que vous portez cette armure, vous résistez aux dégâts non-magiques. De 
 
 ### Armure en adamantium
 
-- AltName: Adamantine Armor (SRD p207)
+- Alias: Adamantine Armor (SRD p207)
 - Source: (CDC p145)
 -  Armure (intermédiaire ou lourde, mais pas en peau), peu courante
 
@@ -16143,7 +16143,7 @@ Cette armure est renforcée à base d'adamantium, l'une des substances les plus 
 
 ### Armure +1, +2 ou +3
 
-- AltName: Armor +1, +2, or +3 (SRD p208)
+- Alias: Armor +1, +2, or +3 (SRD p208)
 - Source: (CDC p145)
 -  Armure (légère, intermédiaire ou lourde), rare (+1), très rare (+2) ou légendaire (+3)
 
@@ -16155,7 +16155,7 @@ Vous disposez d'un bonus à la CA tant que vous portez cette armure. Ce bonus d�
 
 ### Baguette d'éclairs
 
-- AltName: Wand of Lightning Bolts (SRD p249)
+- Alias: Wand of Lightning Bolts (SRD p249)
 - Source: (CDC p145)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -16169,7 +16169,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette de boules de feu
 
-- AltName: Wand of Fireballs (SRD p248)
+- Alias: Wand of Fireballs (SRD p248)
 - Source: (CDC p145)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -16183,7 +16183,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette de détection de l'ennemi
 
-- AltName: Wand of Enemy Detection (SRD p248)
+- Alias: Wand of Enemy Detection (SRD p248)
 - Source: (CDC p145)
 -  Baguette, rare (harmonisation requise)
 
@@ -16197,7 +16197,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette de détection de la magie
 
-- AltName: Wand of Magic Detection (SRD p249)
+- Alias: Wand of Magic Detection (SRD p249)
 - Source: (CDC p145)
 -  Baguette, peu courante
 
@@ -16209,7 +16209,7 @@ Cette baguette contient 3 charges. Avec cette baguette en main, vous pouvez dép
 
 ### Baguette de métamorphose
 
-- AltName: Wand of Polymorph (SRD p249)
+- Alias: Wand of Polymorph (SRD p249)
 - Source: (CDC p145)
 -  Baguette, très rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -16223,7 +16223,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette de paralysie
 
-- AltName: Wand of Paralysis (SRD p249)
+- Alias: Wand of Paralysis (SRD p249)
 - Source: (CDC p146)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -16237,7 +16237,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette de projectiles magiques
 
-- AltName: Wand of Magic Missiles (SRD p249)
+- Alias: Wand of Magic Missiles (SRD p249)
 - Source: (CDC p146)
 -  Baguette, peu courante
 
@@ -16251,7 +16251,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette de terreur
 
-- AltName: Wand of Fear (SRD p248)
+- Alias: Wand of Fear (SRD p248)
 - Source: (CDC p146)
 -  Baguette, rare (harmonisation requise)
 
@@ -16267,7 +16267,7 @@ Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes.
 
 ### Baguette des entraves
 
-- AltName: Wand of Binding (SRD p248)
+- Alias: Wand of Binding (SRD p248)
 - Source: (CDC p146)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -16283,7 +16283,7 @@ Cette baguette contient 7 charges en ce qui concerne les propriétés suivantes.
 
 ### Baguette des secrets
 
-- AltName: Wand of Secrets (SRD p249)
+- Alias: Wand of Secrets (SRD p249)
 - Source: (CDC p147)
 -  Baguette, peu courante
 
@@ -16295,7 +16295,7 @@ Avec cette baguette en main, vous pouvez utiliser une action pour dépenser 1 de
 
 ### Baguette du mage de guerre +1, +2 ou +3
 
-- AltName: Wand of the War Mage, +1, +2, or +3 (SRD p249)
+- Alias: Wand of the War Mage, +1, +2, or +3 (SRD p249)
 - Source: (CDC p147)
 -  Baguette, peu courant (+1), rare (+2) ou très rare (+3) (harmonisation avec un lanceur de sorts exigée)
 
@@ -16307,7 +16307,7 @@ Avec cette baguette en main, vous bénéficiez d'un bonus aux jets d'attaque des
 
 ### Baguette entoilée
 
-- AltName: Wand of Web (SRD p249)
+- Alias: Wand of Web (SRD p249)
 - Source: (CDC p147)
 -  Baguette, peu courante (harmonisation avec un lanceur de sorts exigée)
 
@@ -16321,7 +16321,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Baguette merveilleuse
 
-- AltName: Wand of Wonder (SRD p249)
+- Alias: Wand of Wonder (SRD p249)
 - Source: (CDC p147)
 -  Baguette, rare (harmonisation avec un lanceur de sorts exigée)
 
@@ -16364,7 +16364,7 @@ La baguette récupère 1d6+1 charges dépensées chaque jour, à l'aube. Lancez 
 
 ### Balai volant
 
-- AltName: Broom of Flying (SRD p213)
+- Alias: Broom of Flying (SRD p213)
 - Source: (CDC p148)
 -  Objet merveilleux, peu courant
 
@@ -16378,7 +16378,7 @@ Vous pouvez envoyer le balai rejoindre seul une destination située dans un rayo
 
 ### Bandeau d'intelligence
 
-- AltName: Headband of Intellect (SRD p225)
+- Alias: Headband of Intellect (SRD p225)
 - Source: (CDC p148)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16390,7 +16390,7 @@ Tant que vous portez ce bandeau, votre Intelligence passe à 19. Si elle est dé
 
 ### Bateau pliable
 
-- AltName: Folding Boat (SRD p223)
+- Alias: Folding Boat (SRD p223)
 - Source: (CDC p148)
 -  Objet merveilleux, rare
 
@@ -16410,7 +16410,7 @@ Le troisième mot de commande replie le bateau qui redevient une boîte, à cond
 
 ### Bâton d'envoûtement
 
-- AltName: Staff of Charming (SRD p243)
+- Alias: Staff of Charming (SRD p243)
 - Source: (CDC p148)
 -  Bâton, rare (harmonisation avec un barde, un clerc, un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -16426,7 +16426,7 @@ Le bâton récupère 1d8+2 charges dépensées chaque jour, à l'aube. Si vous d
 
 ### Bâton de combat
 
-- AltName: Staff of Striking (SRD p244)
+- Alias: Staff of Striking (SRD p244)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation requise)
 
@@ -16440,7 +16440,7 @@ Le bâton contient 10 charges. Quand vous réussissez une attaque au corps à co
 
 ### Bâton de feu
 
-- AltName: Staff of Fire (SRD p243)
+- Alias: Staff of Fire (SRD p243)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -16456,7 +16456,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 ### Bâton de flétrissement
 
-- AltName: Staff of Withering (SRD p246)
+- Alias: Staff of Withering (SRD p246)
 - Source: (CDC p149)
 -  Bâton, rare (harmonisation avec un druide, un clerc ou un sorcier exigée)
 
@@ -16470,7 +16470,7 @@ Le bâton peut être manié comme une arme magique. En cas d'attaque réussie, i
 
 ### Bâton de guérison
 
-- AltName: Staff of Healing (SRD p243)
+- Alias: Staff of Healing (SRD p243)
 - Source: (CDC p149)
 -  Bâton, rare (harmonisation avec un barde, un clerc ou un druide exigée)
 
@@ -16484,7 +16484,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 ### Bâton de givre
 
-- AltName: Staff of Frost (SRD p243)
+- Alias: Staff of Frost (SRD p243)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un druide, un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -16500,7 +16500,7 @@ Le bâton récupère 1d6+4 charges dépensées chaque jour, à l'aube. Si vous d
 
 ### Bâton de puissance
 
-- AltName: Staff of Power (SRD p243)
+- Alias: Staff of Power (SRD p243)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -16528,7 +16528,7 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 ### Bâton de tonnerre et de foudre
 
-- AltName: Staff of Thunder and Lightning (SRD p245)
+- Alias: Staff of Thunder and Lightning (SRD p245)
 - Source: (CDC p150)
 -  Bâton, très rare (harmonisation requise)
 
@@ -16550,7 +16550,7 @@ Ce bâton peut être manié comme une arme magique qui confère un bonus de +2 �
 
 ### Bâton des forêts
 
-- AltName: Staff of the Woodlands (SRD p245)
+- Alias: Staff of the Woodlands (SRD p245)
 - Source: (CDC p150)
 -  Bâton, rare (harmonisation avec un druide exigée)
 
@@ -16570,7 +16570,7 @@ Vous pouvez également utiliser une action pour lancer le sort passage sans trac
 
 ### Bâton du grand essaim
 
-- AltName: Staff of Swarming Insects (SRD p244)
+- Alias: Staff of Swarming Insects (SRD p244)
 - Source: (CDC p150)
 -  Bâton, rare (harmonisation requise)
 
@@ -16586,7 +16586,7 @@ Ce bâton contient 10 charges. Il récupère 1d6+4 charges dépensées chaque jo
 
 ### Bâton du python
 
-- AltName: Staff of the Python (SRD p245)
+- Alias: Staff of the Python (SRD p245)
 - Source: (CDC p151)
 -  Bâton, peu courant (harmonisation avec un clerc, druide ou un sorcier exigée)
 
@@ -16602,7 +16602,7 @@ Si le nombre de points de vie du serpent tombe à 0, il meurt et reprend sa form
 
 ### Bâton du thaumaturge
 
-- AltName: Staff of the Magi (SRD p244)
+- Alias: Staff of the Magi (SRD p244)
 - Source: (CDC p151)
 -  Bâton, légendaire (harmonisation avec un ensorceleur, un magicien ou un sorcier exigée)
 
@@ -16632,7 +16632,7 @@ Il y a 50 % de chances pour que vous soyez instantanément transporté vers un p
 
 ### Baume revigorant
 
-- AltName: Restorative Ointment (SRD p235)
+- Alias: Restorative Ointment (SRD p235)
 - Source: (CDC p152)
 -  Objet merveilleux, peu courant
 
@@ -16646,7 +16646,7 @@ Par une action, il est possible d'avaler ou d'appliquer sur la peau une dose de 
 
 ### Bol de contrôle des élémentaires de l'eau
 
-- AltName: Bowl of Commanding Water Elementals (SRD p212)
+- Alias: Bowl of Commanding Water Elementals (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, rare
 
@@ -16660,7 +16660,7 @@ Le bol fait une trentaine de centimètres de diamètre pour quinze centimètres 
 
 ### Bottes ailées
 
-- AltName: Winged Boots (SRD p251)
+- Alias: Winged Boots (SRD p251)
 - Source: (CDC p152)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16674,7 +16674,7 @@ Les bottes récupèrent 2 heures de capacité de vol pour chaque période de 12 
 
 ### Bottes de lévitation
 
-- AltName: Boots of Levitation (SRD p212)
+- Alias: Boots of Levitation (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -16686,7 +16686,7 @@ Tant que vous portez ces bottes, vous pouvez utiliser une action pour lancer le 
 
 ### Bottes de marche et de saut
 
-- AltName: Boots of Striding and Springing (SRD p212)
+- Alias: Boots of Striding and Springing (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16698,7 +16698,7 @@ Tant que vous portez ces bottes, votre vitesse au sol passe à 9 mètres (à moi
 
 ### Bottes de rapidité
 
-- AltName: Boots of Speed (SRD p212)
+- Alias: Boots of Speed (SRD p212)
 - Source: (CDC p152)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -16712,7 +16712,7 @@ Une fois que la capacité spéciale des bottes a servi pendant un total de 10 mi
 
 ### Bottes des terres gelées
 
-- AltName: Boots of the Winterlands (SRD p212)
+- Alias: Boots of the Winterlands (SRD p212)
 - Source: (CDC p153)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16728,7 +16728,7 @@ Ces bottes fourrées sont chaudes et bien douillettes. Tant que vous les portez,
 
 ### Bottes elfiques
 
-- AltName: Boots of Elvenkind (SRD p212)
+- Alias: Boots of Elvenkind (SRD p212)
 - Source: (CDC p153)
 -  Objet merveilleux, peu courant
 
@@ -16740,7 +16740,7 @@ Tant que vous portez ces bottes, vos pas ne s'accompagnent d'aucun bruit, quelle
 
 ### Bouclier animé
 
-- AltName: Animated Shield (SRD p208)
+- Alias: Animated Shield (SRD p208)
 - Source: (CDC p153)
 -  Armure (bouclier), très rare (harmonisation requise)
 
@@ -16752,7 +16752,7 @@ Tant que vous maniez ce bouclier, vous pouvez prononcer son mot de commande par 
 
 ### Bouclier antiprojectiles
 
-- AltName: Arrow-Catching Shield (SRD p209)
+- Alias: Arrow-Catching Shield (SRD p209)
 - Source: (CDC p153)
 -  Armure (bouclier), rare (harmonisation requise)
 
@@ -16764,7 +16764,7 @@ Tant que vous maniez ce bouclier, vous bénéficiez d'un bonus de +2 à la CA co
 
 ### Bouclier d'attraction des projectiles
 
-- AltName: Shield of Missile Attraction (SRD p242)
+- Alias: Shield of Missile Attraction (SRD p242)
 - Source: (CDC p153)
 -  Armure (bouclier), rare (harmonisation requise)
 
@@ -16778,7 +16778,7 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'une résistance contre les 
 
 ### Bouclier de protection contre la magie
 
-- AltName: Spellguard Shield (SRD p242)
+- Alias: Spellguard Shield (SRD p242)
 - Source: (CDC p153)
 -  Armure (bouclier), très rare (harmonisation requise)
 
@@ -16790,7 +16790,7 @@ Tant que vous tenez ce bouclier, vous vous obtenez l'avantage lors des jets de s
 
 ### Bouclier +1, +2 ou +3
 
-- AltName: Shield, +1, +2, or +3 (SRD p242)
+- Alias: Shield, +1, +2, or +3 (SRD p242)
 - Source: (CDC p153)
 -  Armure (bouclier), peu courant (+1), rare (+2) ou très rare (+3)
 
@@ -16802,7 +16802,7 @@ Tant que vous tenez ce bouclier, vous bénéficiez d'un bonus à la CA qui dépe
 
 ### Boule de cristal
 
-- AltName: Crystal Ball (SRD p214)
+- Alias: Crystal Ball (SRD p214)
 - Source: (CDC p153)
 -  Objet merveilleux, très rare ou légendaire (harmonisation requise)
 
@@ -16822,7 +16822,7 @@ Voici des variantes de ce grand classique qui possèdent des propriétés suppl�
 
 ### Bouteille de l'éfrit
 
-- AltName: Efreeti Bottle (SRD p220)
+- Alias: Efreeti Bottle (SRD p220)
 - Source: (CDC p154)
 -  Objet merveilleux, très rare
 
@@ -16842,7 +16842,7 @@ Le MJ lance un dé dans la table suivante quand quelqu'un ouvre la bouteille pou
 
 ### Bouteille fumigène
 
-- AltName: Eversmoking Bottle (SRD p220)
+- Alias: Eversmoking Bottle (SRD p220)
 - Source: (CDC p154)
 -  Objet merveilleux, peu courant
 
@@ -16856,7 +16856,7 @@ Le nuage persiste tant que la bouteille est ouverte. Pour la fermer, vous devez 
 
 ### Bracelets d'archerie
 
-- AltName: Bracers of Archery (SRD p212)
+- Alias: Bracers of Archery (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16868,7 +16868,7 @@ Tant que vous portez ces bracelets, vous maîtrisez l'arc long et l'arc court et
 
 ### Bracelets de défense
 
-- AltName: Bracers of Defense (SRD p212)
+- Alias: Bracers of Defense (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -16880,7 +16880,7 @@ Tant que vous portez ces bracelets, vous gagnez un bonus de +2 à la CA, à cond
 
 ### Brasero de contrôle des élémentaires du feu
 
-- AltName: Brazier of Commanding Fire Elementals (SRD p212)
+- Alias: Brazier of Commanding Fire Elementals (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, rare
 
@@ -16894,7 +16894,7 @@ Le brasero pèse 2,5 kilos.
 
 ### Broche de protection
 
-- AltName: Brooch of Shielding (SRD p212)
+- Alias: Brooch of Shielding (SRD p212)
 - Source: (CDC p154)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16906,7 +16906,7 @@ Tant que vous portez cette broche, vous êtes résistant aux dégâts de force e
 
 ### Cape de déplacement
 
-- AltName: Cloak of Displacement (SRD p214)
+- Alias: Cloak of Displacement (SRD p214)
 - Source: (CDC p154)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -16918,7 +16918,7 @@ Quand vous enfilez cette cape, elle projette une illusion donnant l'impression q
 
 ### Cape de l'arachnide
 
-- AltName: Cloak of Arachnida (SRD p214)
+- Alias: Cloak of Arachnida (SRD p214)
 - Source: (CDC p154)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -16936,7 +16936,7 @@ Ce bel habit est fait de soie noire mêlée de discrets filaments d'argent. Tant
 
 ### Cape de la chauve-souris
 
-- AltName: Cloak of the Bat (SRD p214)
+- Alias: Cloak of the Bat (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -16950,7 +16950,7 @@ Tant que vous portez la cape dans une zone de faible lumière ou de ténèbres, 
 
 ### Cape de la raie manta
 
-- AltName: Cloak of the Manta Ray (SRD p214)
+- Alias: Cloak of the Manta Ray (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant
 
@@ -16962,7 +16962,7 @@ Tant que vous portez cette cape avec le capuchon tiré, vous pouvez respirer sou
 
 ### Cape de prestidigitateur
 
-- AltName: Cape of the Mountebank (SRD p213)
+- Alias: Cape of the Mountebank (SRD p213)
 - Source: (CDC p155)
 -  Objet merveilleux, rare
 
@@ -16976,7 +16976,7 @@ Quand vous disparaissez, vous laissez un nuage de fumée derrière vous et appar
 
 ### Cape de protection
 
-- AltName: Cloak of Protection (SRD p214)
+- Alias: Cloak of Protection (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -16988,7 +16988,7 @@ Vous gagnez un bonus de +1 à la CA et aux jets de sauvegarde tant que vous port
 
 ### Cape elfique
 
-- AltName: Cloak of Elvenkind (SRD p214)
+- Alias: Cloak of Elvenkind (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17000,7 +17000,7 @@ Tant que vous portez cette cape avec le capuchon tiré, les créatures qui tente
 
 ### Carafe intarissable
 
-- AltName: Decanter of Endless Water (SRD p216)
+- Alias: Decanter of Endless Water (SRD p216)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant
 
@@ -17018,7 +17018,7 @@ Vous pouvez dépenser une action pour enlever le couvercle et prononcer l'un des
 
 ### Carillon d'ouverture
 
-- AltName: Chime of Opening (SRD p213)
+- Alias: Chime of Opening (SRD p213)
 - Source: (CDC p156)
 -  Objet merveilleux, rare
 
@@ -17032,7 +17032,7 @@ Le carillon dispose de dix utilisations. Il se fissure après la dixième et ne 
 
 ### Carquois efficace
 
-- AltName: Efficient Quiver (SRD p220)
+- Alias: Efficient Quiver (SRD p220)
 - Source: (CDC p156)
 -  Objet merveilleux, peu courant
 
@@ -17046,7 +17046,7 @@ Vous pouvez tirer ces objets du carquois comme vous le feriez avec un carquois o
 
 ### Cartes d'illusion
 
-- AltName: Deck of Illusions (SRD p216)
+- Alias: Deck of Illusions (SRD p216)
 - Source: (CDC p156)
 -  Objet merveilleux, peu courant
 
@@ -17100,7 +17100,7 @@ L'illusion persiste jusqu'à ce qu'on la dissipe ou que l'on déplace la carte. 
 
 ### Cartes merveilleuses
 
-- AltName: Deck of Many Things (SRD p216)
+- Alias: Deck of Many Things (SRD p216)
 - Source: (CDC p157)
 -  Objet merveilleux, légendaire
 
@@ -17187,7 +17187,7 @@ Une fois une carte piochée, elle disparaît, mais à moins qu'il ne s'agisse du
 
 ### Ceinturon de force de géant
 
-- AltName: Belt of Giant Strength (SRD p211)
+- Alias: Belt of Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, rareté variable (harmonisation requise)
 
@@ -17209,7 +17209,7 @@ Il existe six modèles de ceinturon qui correspondent aux six espèces de géant
 
 ### Ceinturon de force de géant des collines
 
-- AltName: Belt of Hill Giant Strength (SRD p211)
+- Alias: Belt of Hill Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -17221,7 +17221,7 @@ Tant que vous portez ce ceinturon, votre valeur de Force se modifie à 21 (en fo
 
 ### Ceinturon de force de géant du givre/des pierres
 
-- AltName: Belt of Frost / Stone Giant Strength (SRD p211)
+- Alias: Belt of Frost / Stone Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -17235,7 +17235,7 @@ Le ceinturon de force de géant des pierres et le ceinturon de force de géant d
 
 ### Ceinturon de force de géant du feu
 
-- AltName: Belt of Fire Giant Strength (SRD p211)
+- Alias: Belt of Fire Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -17247,7 +17247,7 @@ Tant que vous portez ce ceinturon, votre valeur de Force se modifie à 25 (en fo
 
 ### Ceinturon de force de géant des nuages
 
-- AltName: Belt of Cloud Giant Strength (SRD p211)
+- Alias: Belt of Cloud Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, légendaire (harmonisation requise)
 
@@ -17259,7 +17259,7 @@ Tant que vous portez ce ceinturon, votre valeur de Force se modifie à 27 (en fo
 
 ### Ceinturon de force de géant des tempêtes
 
-- AltName: Belt of Storm Giant Strength (SRD p211)
+- Alias: Belt of Storm Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, légendaire (harmonisation requise)
 
@@ -17271,7 +17271,7 @@ Tant que vous portez ce ceinturon, votre valeur de Force se modifie à 29 (en fo
 
 ### Ceinturon des nains
 
-- AltName: Belt of Dwarvenkind (SRD p211)
+- Alias: Belt of Dwarvenkind (SRD p211)
 - Source: (CDC p159)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -17297,7 +17297,7 @@ Vous parlez, lisez et écrivez le nain.
 
 ### Chapeau de déguisement
 
-- AltName: Hat of Disguise (SRD p225)
+- Alias: Hat of Disguise (SRD p225)
 - Source: (CDC p159)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17309,7 +17309,7 @@ Tant que vous portez ce chapeau, vous pouvez lancer déguisement sur vous par so
 
 ### Chapelet
 
-- AltName: Necklace of Prayer Beads (SRD p231)
+- Alias: Necklace of Prayer Beads (SRD p231)
 - Source: (CDC p159)
 -  Objet merveilleux, rare (harmonisation requise par un clerc, un druide ou un paladin)
 
@@ -17332,7 +17332,7 @@ Il existe six types de grains magiques. C'est au MJ de décider du type de chaqu
 
 ### Chaussons de l'araignée
 
-- AltName: Slippers of Spider Climbing (SRD p242)
+- Alias: Slippers of Spider Climbing (SRD p242)
 - Source: (CDC p159)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17344,7 +17344,7 @@ Tant que vous portez ces souliers légers aux pieds, vous pouvez vous déplacer 
 
 ### Chemise de mailles elfique
 
-- AltName: Elven Chain (SRD p220)
+- Alias: Elven Chain (SRD p220)
 - Source: (CDC p160)
 -  Armure (chemise de mailles), rare
 
@@ -17356,7 +17356,7 @@ Vous gagnez un bonus de +1 à la CA tant que vous portez cette armure. Vous ête
 
 ### Cierge d'invocation
 
-- AltName: Candle of Invocation (SRD p213)
+- Alias: Candle of Invocation (SRD p213)
 - Source: (CDC p160)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -17386,7 +17386,7 @@ Sinon, vous pouvez lancer le sort portail avec le cierge quand vous l'allumez po
 
 ### Cimeterre de célérité
 
-- AltName: Scimitar of Speed (SRD p241)
+- Alias: Scimitar of Speed (SRD p241)
 - Source: (CDC p160)
 -  Arme (cimeterre), très rare (harmonisation requise)
 
@@ -17398,7 +17398,7 @@ Vous bénéficiez d'un bonus de +2 aux jets d'attaque et de dégâts effectués 
 
 ### Colle universelle
 
-- AltName: Sovereign Glue (SRD p242)
+- Alias: Sovereign Glue (SRD p242)
 - Source: (CDC p160)
 -  Objet merveilleux, légendaire
 
@@ -17412,7 +17412,7 @@ Cette substance visqueuse et aussi blanche que le lait peut coller deux objets d
 
 ### Collier d'adaptation
 
-- AltName: Necklace of Adaptation (SRD p231)
+- Alias: Necklace of Adaptation (SRD p231)
 - Source: (CDC p160)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17424,7 +17424,7 @@ Tant que vous portez ce collier, vous pouvez respirer normalement quel que soit 
 
 ### Collier de boules de feu
 
-- AltName: Necklace of Fireballs (SRD p231)
+- Alias: Necklace of Fireballs (SRD p231)
 - Source: (CDC p160)
 -  Objet merveilleux, rare
 
@@ -17438,7 +17438,7 @@ Vous pouvez lancer plusieurs perles, ou même tout le collier, en une seule acti
 
 ### Cor de destruction
 
-- AltName: Horn of Blasting (SRD p226)
+- Alias: Horn of Blasting (SRD p226)
 - Source: (CDC p160)
 -  Objet merveilleux, rare
 
@@ -17452,7 +17452,7 @@ Vous pouvez utiliser votre action pour prononcer le mot de commande du cor puis 
 
 ### Cor du Valhalla
 
-- AltName: Horn of Valhalla (SRD p226)
+- Alias: Horn of Valhalla (SRD p226)
 - Source: (CDC p161)
 -  Objet merveilleux, rare (argent ou cuivre), très rare (bronze) ou légendaire (fer)
 
@@ -17475,7 +17475,7 @@ Si vous soufflez dans le cor alors que vous ne remplissez pas les conditions req
 
 ### Corde d'enchevêtrement
 
-- AltName: Rope of Entanglement (SRD p241)
+- Alias: Rope of Entanglement (SRD p241)
 - Source: (CDC p161)
 -  Objet merveilleux, rare
 
@@ -17491,7 +17491,7 @@ La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de v
 
 ### Corde d'escalade
 
-- AltName: Rope of Climbing (SRD p241)
+- Alias: Rope of Climbing (SRD p241)
 - Source: (CDC p161)
 -  Objet merveilleux, peu courant
 
@@ -17507,7 +17507,7 @@ La corde possède une CA de 20 et 20 points de vie. Elle récupère 1 point de v
 
 ### Cube de force
 
-- AltName: Cube of Force (SRD p215)
+- Alias: Cube of Force (SRD p215)
 - Source: (CDC p161)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -17544,7 +17544,7 @@ Le cube perd des charges quand la barrière est la cible de certains sorts ou en
 
 ### Cuir cloutée glamour
 
-- AltName: Glamoured Studded Leather (SRD p224)
+- Alias: Glamoured Studded Leather (SRD p224)
 - Source: (CDC p162)
 -  Armure (cuir cloutée), rare
 
@@ -17556,7 +17556,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +1 à la CA. Vous pou
 
 ### Dague venimeuse
 
-- AltName: Dagger of Venom (SRD p215)
+- Alias: Dagger of Venom (SRD p215)
 - Source: (CDC p162)
 -  Arme (dague), rare
 
@@ -17570,7 +17570,7 @@ Vous pouvez dépenser une action pour qu'un épais poison noir enduise la lame. 
 
 ### Diadème de destruction
 
-- AltName: Circlet of Blasting (SRD p214)
+- Alias: Circlet of Blasting (SRD p214)
 - Source: (CDC p162)
 -  Objet merveilleux, peu courant
 
@@ -17582,7 +17582,7 @@ Tant que vous portez ce diadème, vous pouvez utiliser votre action pour lancer 
 
 ### Encensoir de contrôle des élémentaires de l'air
 
-- AltName: Censer of Controlling Air Elementals (SRD p213)
+- Alias: Censer of Controlling Air Elementals (SRD p213)
 - Source: (CDC p162)
 -  Objet merveilleux, rare
 
@@ -17596,7 +17596,7 @@ L'encensoir ressemble à un calice de 15 centimètres de large pour 30 centimèt
 
 ### Épée ardente
 
-- AltName: Flame Tongue (SRD p223)
+- Alias: Flame Tongue (SRD p223)
 - Source: (CDC p162)
 -  Arme (épée), rare (harmonisation requise)
 
@@ -17608,7 +17608,7 @@ Vous pouvez utiliser une action bonus pour prononcer le mot de commande de cette
 
 ### Épée dansante
 
-- AltName: Dancing Sword (SRD p215)
+- Alias: Dancing Sword (SRD p215)
 - Source: (CDC p163)
 -  Arme (épée), très rare (harmonisation requise)
 
@@ -17624,7 +17624,7 @@ Une fois que l'épée a attaqué pour la quatrième fois, elle vole sur un maxim
 
 ### Épée mordante
 
-- AltName: Sword of Wounding (SRD p246)
+- Alias: Sword of Wounding (SRD p246)
 - Source: (CDC p163)
 -  Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
@@ -17638,7 +17638,7 @@ Une fois par tour, lorsque vous réussissez une attaque contre une créature ave
 
 ### Épée radieuse
 
-- AltName: Sun Blade (SRD p246)
+- Alias: Sun Blade (SRD p246)
 - Source: (CDC p163)
 -  Arme (épée longue), rare (harmonisation requise)
 
@@ -17654,7 +17654,7 @@ La lame lumineuse de l'épée diffuse une lumière vive sur un rayon de 4,50 mè
 
 ### Épée tranchante
 
-- AltName: Sword of Sharpness (SRD p246)
+- Alias: Sword of Sharpness (SRD p246)
 - Source: (CDC p163)
 -  Arme (n'importe quelle épée qui inflige des dégâts tranchants), très rare (harmonisation requise)
 
@@ -17670,7 +17670,7 @@ En outre, vous pouvez prononcer le mot de commande de l'épée pour que la lame 
 
 ### Épée voleuse de vie
 
-- AltName: Sword of Life Stealing (SRD p246)
+- Alias: Sword of Life Stealing (SRD p246)
 - Source: (CDC p163)
 -  Arme (n'importe quel type d'épée), rare (harmonisation requise)
 
@@ -17682,7 +17682,7 @@ Quand vous attaquez une créature avec cette arme magique et obtenez un 20 sur l
 
 ### Épée vorpale
 
-- AltName: Vorpal Sword (SRD p248)
+- Alias: Vorpal Sword (SRD p248)
 - Source: (CDC p163)
 -  Arme (n'importe quel type d'épée qui inflige des dégâts tranchants), légendaire (harmonisation requise)
 
@@ -17696,7 +17696,7 @@ Lorsque vous attaquez avec cette arme une créature dotée d'une tête au moins 
 
 ### Éventail enchanté
 
-- AltName: Wind Fan (SRD p250)
+- Alias: Wind Fan (SRD p250)
 - Source: (CDC p164)
 -  Objet merveilleux, peu courant
 
@@ -17708,7 +17708,7 @@ Avec cet éventail en main, vous pouvez utiliser une action pour lancer le sort 
 
 ### Fer gelé
 
-- AltName: Frost Brand (SRD p223)
+- Alias: Frost Brand (SRD p223)
 - Source: (CDC p164)
 -  Arme (épée), très rare (harmonisation requise)
 
@@ -17724,7 +17724,7 @@ Quand vous dégainez cette épée, vous pouvez éteindre toutes les flammes non-
 
 ### Fers de rapidité
 
-- AltName: Horseshoes of Speed (SRD p226)
+- Alias: Horseshoes of Speed (SRD p226)
 - Source: (CDC p164)
 -  Objet merveilleux, rare
 
@@ -17736,7 +17736,7 @@ Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature simi
 
 ### Fers du zéphyr
 
-- AltName: Horseshoes of a Zephyr (SRD p226)
+- Alias: Horseshoes of a Zephyr (SRD p226)
 - Source: (CDC p164)
 -  Objet merveilleux, très rare
 
@@ -17748,7 +17748,7 @@ Ces fers à cheval se trouvent par quatre. Quand un cheval ou une créature simi
 
 ### Figurine merveilleuse
 
-- AltName: Figurine of Wondrous Power (SRD p221)
+- Alias: Figurine of Wondrous Power (SRD p221)
 - Source: (CDC p164)
 -  Objet merveilleux, rareté selon la figurine
 
@@ -17788,7 +17788,7 @@ Si vous êtes d'alignement bon, la figurine a 10 % de chance d'ignorer vos ordre
 
 ### Flasque de fer
 
-- AltName: Iron Flask (SRD p228)
+- Alias: Iron Flask (SRD p228)
 - Source: (CDC p165)
 -  Objet merveilleux, légendaire
 
@@ -17826,7 +17826,7 @@ Le sort identification révèle si la flasque contient une créature ou pas, mai
 
 ### Flèche tueuse
 
-- AltName: Arrow of Slaying (SRD p209)
+- Alias: Arrow of Slaying (SRD p209)
 - Source: (CDC p166)
 -  Arme (flèche), très rare
 
@@ -17842,7 +17842,7 @@ Il existe d'autres munitions magiques similaires, comme des carreaux tueurs pour
 
 ### Flûte des égouts
 
-- AltName: Pipes of the Sewers (SRD p232)
+- Alias: Pipes of the Sewers (SRD p232)
 - Source: (CDC p166)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17858,7 +17858,7 @@ Quand une nuée de rats qui ne se trouve pas sous le contrôle d'une tierce pers
 
 ### Flûte terrifiante
 
-- AltName: Pipes of Haunting (SRD p232)
+- Alias: Pipes of Haunting (SRD p232)
 - Source: (CDC p166)
 -  Objet merveilleux, peu courant
 
@@ -17870,7 +17870,7 @@ Vous devez maîtriser les instruments à vent si vous voulez jouer de cette flû
 
 ### Forteresse instantanée
 
-- AltName: Instant Fortress (SRD p226)
+- Alias: Instant Fortress (SRD p226)
 - Source: (CDC p167)
 -  Objet merveilleux, rare
 
@@ -17888,7 +17888,7 @@ La tour est faite en adamantium et sa magie empêche qu'une force extérieure la
 
 ### Gantelets de puissance d'ogre
 
-- AltName: Gauntlets of Ogre Power (SRD p223)
+- Alias: Gauntlets of Ogre Power (SRD p223)
 - Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17900,7 +17900,7 @@ Tant que vous portez ces gants, votre valeur de Force est de 19. Si elle est dé
 
 ### Gants de nage et d'escalade
 
-- AltName: Gloves of Swimming and Climbing (SRD p224)
+- Alias: Gloves of Swimming and Climbing (SRD p224)
 - Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17912,7 +17912,7 @@ Tant que vous portez ces gants, la natation et l'escalade ne vous demandent pas 
 
 ### Gants piégeurs de projectiles
 
-- AltName: Gloves of Missile Snaring (SRD p224)
+- Alias: Gloves of Missile Snaring (SRD p224)
 - Source: (CDC p167)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -17924,7 +17924,7 @@ Quand vous enfliez ces gants, ils semblent presque fusionner avec votre peau. Qu
 
 ### Gemme de vision
 
-- AltName: Gem of Seeing (SRD p223)
+- Alias: Gem of Seeing (SRD p223)
 - Source: (CDC p167)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -17938,7 +17938,7 @@ Chaque matin à l'aube, la gemme récupère 1d3 charges dépensées.
 
 ### Gemme élémentaire
 
-- AltName: Elemental Gem (SRD p220)
+- Alias: Elemental Gem (SRD p220)
 - Source: (CDC p168)
 -  Objet merveilleux, peu courant
 
@@ -17957,7 +17957,7 @@ Cette gemme contient une particule d'énergie élémentaire. Quand vous brisez l
 
 ### Gemme lumineuse
 
-- AltName: Gem of Brightness (SRD p223)
+- Alias: Gem of Brightness (SRD p223)
 - Source: (CDC p168)
 -  Objet merveilleux, rare
 
@@ -17977,7 +17977,7 @@ Quand la gemme a épuisé toutes ses charges, elle devient un joyau dépourvu de
 
 ### Hache du berserker
 
-- AltName: Berserker Axe (SRD p211)
+- Alias: Berserker Axe (SRD p211)
 - Source: (CDC p168)
 -  Arme (hache), rare (harmonisation requise)
 
@@ -17993,7 +17993,7 @@ Quand une créature hostile vous blesse alors que vous êtes en possession de ce
 
 ### Harnois éthéré
 
-- AltName: Plate Armor of Etherealness (SRD p233)
+- Alias: Plate Armor of Etherealness (SRD p233)
 - Source: (CDC p168)
 -  Armure (harnois), légendaire (harmonisation requise)
 
@@ -18005,7 +18005,7 @@ Tant que vous portez cette armure, vous pouvez prononcer son mot de commande par
 
 ### Harnois nain
 
-- AltName: Dwarven Plate (SRD p220)
+- Alias: Dwarven Plate (SRD p220)
 - Source: (CDC p168)
 -  Armure (harnois), très rare
 
@@ -18017,7 +18017,7 @@ Tant que vous portez cette armure, vous gagnez un bonus de +2 à la CA. De plus,
 
 ### Havresac magique
 
-- AltName: Handy Haversack (SRD p224)
+- Alias: Handy Haversack (SRD p224)
 - Source: (CDC p168)
 -  Objet merveilleux, rare
 
@@ -18035,7 +18035,7 @@ Si l'on place le havresac dans l'espace extradimensionnel né d'un sac sans fond
 
 ### Heaume de compréhension des langages
 
-- AltName: Helm of Comprehending Languages (SRD p225)
+- Alias: Helm of Comprehending Languages (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, peu courant
 
@@ -18047,7 +18047,7 @@ Tant que vous portez ce heaume, vous pouvez utiliser une action pour lancer comp
 
 ### Heaume de télépathie
 
-- AltName: Helm of Telepathy (SRD p225)
+- Alias: Helm of Telepathy (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -18061,7 +18061,7 @@ Tant que vous vous concentrez sur une créature avec détection des pensées, vo
 
 ### Heaume de téléportation
 
-- AltName: Helm of Teleportation (SRD p225)
+- Alias: Helm of Teleportation (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -18073,7 +18073,7 @@ Ce heaume possède 3 charges. Tant que vous le portez, vous pouvez utiliser une 
 
 ### Heaume scintillant
 
-- AltName: Helm of Brilliance (SRD p225)
+- Alias: Helm of Brilliance (SRD p225)
 - Source: (CDC p169)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -18097,7 +18097,7 @@ Lancez 1d20 si vous portez le heaume et subissez des dégâts de feu à cause d'
 
 ### Huile d'affûtage
 
-- AltName: Oil of Sharpness (SRD p232)
+- Alias: Oil of Sharpness (SRD p232)
 - Source: (CDC p170)
 -  Potion, très rare
 
@@ -18109,7 +18109,7 @@ Cette huile claire et gélatineuse est constellée de minuscules paillettes d'ar
 
 ### Huile éthérée
 
-- AltName: Oil of Etherealness (SRD p231)
+- Alias: Oil of Etherealness (SRD p231)
 - Source: (CDC p170)
 -  Potion, rare
 
@@ -18121,7 +18121,7 @@ L'huile d'un gris trouble contenue dans ce récipient forme des perles sur sa pa
 
 ### Huile glissante
 
-- AltName: Oil of Slipperiness (SRD p232)
+- Alias: Oil of Slipperiness (SRD p232)
 - Source: (CDC p170)
 -  Potion, peu courante
 
@@ -18135,7 +18135,7 @@ Sinon, vous pouvez verser l'huile à terre par une action. Elle recouvre une zon
 
 ### Javeline de foudre
 
-- AltName: Javelin of Lightning (SRD p228)
+- Alias: Javelin of Lightning (SRD p228)
 - Source: (CDC p170)
 -  Arme (javeline), peu courante
 
@@ -18149,7 +18149,7 @@ Il faut attendre l'aube suivante pour se servir de nouveau de cette propriété 
 
 ### Lame porte-bonheur
 
-- AltName: Luck Blade (SRD p229)
+- Alias: Luck Blade (SRD p229)
 - Source: (CDC p170)
 -  Arme (épée), légendaire (harmonisation requise)
 
@@ -18165,7 +18165,7 @@ Vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme mag
 
 ### Lanterne de révélation
 
-- AltName: Lantern of Revealing (SRD p228)
+- Alias: Lantern of Revealing (SRD p228)
 - Source: (CDC p170)
 -  Objet merveilleux, peu courant
 
@@ -18177,7 +18177,7 @@ Quand cette lanterne à capote est allumée, elle brûle pendant 6 heures en con
 
 ### Lentilles de netteté
 
-- AltName: Eyes of Minute Seeing (SRD p221)
+- Alias: Eyes of Minute Seeing (SRD p221)
 - Source: (CDC p170)
 -  Objet merveilleux, peu courant
 
@@ -18189,7 +18189,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, votr
 
 ### Liens de fer
 
-- AltName: Iron Bands of Binding (SRD p228)
+- Alias: Iron Bands of Binding (SRD p228)
 - Source: (CDC p171)
 -  Objet merveilleux, rare
 
@@ -18207,7 +18207,7 @@ Une fois les fers utilisés, il faut attendre l'aube prochaine pour s'en servir 
 
 ### Lunettes nocturnes
 
-- AltName: Goggles of Night (SRD p224)
+- Alias: Goggles of Night (SRD p224)
 - Source: (CDC p171)
 -  Objet merveilleux, peu courant
 
@@ -18219,7 +18219,7 @@ Quand vous portez ces verres sombres, vous bénéficiez de la vision dans le noi
 
 ### Manteau de résistance aux sorts
 
-- AltName: Mantle of Spell Resistance (SRD p229)
+- Alias: Mantle of Spell Resistance (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -18231,7 +18231,7 @@ Tant que vous portez ce manteau, vous obtenez l'avantage lors des jets de sauveg
 
 ### Manuel de bonne santé
 
-- AltName: Manual of Bodily Health (SRD p229)
+- Alias: Manual of Bodily Health (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, très rare
 
@@ -18243,7 +18243,7 @@ Ce livre contient des conseils pour rester en bonne santé et s'alimenter sainem
 
 ### Manuel d'exercices physiques
 
-- AltName: Manual of Gainful Exercise (SRD p229)
+- Alias: Manual of Gainful Exercise (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, très rare
 
@@ -18255,7 +18255,7 @@ Ce livre propose des exercices d'entretien musculaire, et ses mots sont chargés
 
 ### Manuel des golems
 
-- AltName: Manual of Golems (SRD p229)
+- Alias: Manual of Golems (SRD p229)
 - Source: (CDC p171)
 -  Objet merveilleux, très rare
 
@@ -18278,7 +18278,7 @@ Dès que vous avez achevé la construction du golem, le manuel se consume dans d
 
 ### Manuel de vivacité
 
-- AltName: Manual of Quickness of Action (SRD p230)
+- Alias: Manual of Quickness of Action (SRD p230)
 - Source: (CDC p172)
 -  Objet merveilleux, très rare
 
@@ -18290,7 +18290,7 @@ Ce livre propose des exercices d'équilibre et de coordination, et ses mots sont
 
 ### Marteau de lancer nain
 
-- AltName: Dwarven Thrower (SRD p220)
+- Alias: Dwarven Thrower (SRD p220)
 - Source: (CDC p172)
 -  Arme (marteau de guerre), très rare (harmonisation requise avec un nain)
 
@@ -18302,7 +18302,7 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts avec cette arme mag
 
 ### Marteau du tonnerre
 
-- AltName: Hammer of Thunderbolts (SRD p224)
+- Alias: Hammer of Thunderbolts (SRD p224)
 - Source: (CDC p172)
 -  Arme (maillet d'armes), légendaire
 
@@ -18318,7 +18318,7 @@ Le marteau dispose de 5 charges. Tant que vous êtes harmonisé avec lui, vous p
 
 ### Masse d'anéantissement
 
-- AltName: Mace of Disruption (SRD p229)
+- Alias: Mace of Disruption (SRD p229)
 - Source: (CDC p172)
 -  Arme (masse), rare (harmonisation requise)
 
@@ -18332,7 +18332,7 @@ Tant que vous tenez cette arme en main, elle émet une vive lumière dans un ray
 
 ### Masse destructrice
 
-- AltName: Mace of Smiting (SRD p229)
+- Alias: Mace of Smiting (SRD p229)
 - Source: (CDC p173)
 -  Arme (masse), rare
 
@@ -18346,7 +18346,7 @@ Quand vous obtenez un 20 sur un jet d'attaque effectué avec cette arme, la cibl
 
 ### Masse terrifiante
 
-- AltName: Mace of Terror (SRD p229)
+- Alias: Mace of Terror (SRD p229)
 - Source: (CDC p173)
 -  Arme (masse), rare (harmonisation requise)
 
@@ -18360,7 +18360,7 @@ Chaque matin à l'aube, la masse récupère 1d3 charges dépensées.
 
 ### Médaillon des pensées
 
-- AltName: Medallion of Thoughts (SRD p230)
+- Alias: Medallion of Thoughts (SRD p230)
 - Source: (CDC p173)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -18372,7 +18372,7 @@ Le médaillon a trois charges. Tant que vous le portez, vous pouvez utiliser une
 
 ### Menottes dimensionnelles
 
-- AltName: Dimensional Shackles (SRD p219)
+- Alias: Dimensional Shackles (SRD p219)
 - Source: (CDC p173)
 -  Objet merveilleux, rare
 
@@ -18386,7 +18386,7 @@ Vous-même et toute créature que vous désignez au moment de fermer les menotte
 
 ### Miroir d'emprisonnement
 
-- AltName: Mirror of Life Trapping (SRD p230)
+- Alias: Mirror of Life Trapping (SRD p230)
 - Source: (CDC p173)
 -  Objet merveilleux, très rare
 
@@ -18410,7 +18410,7 @@ De même, vous pouvez prononcer un deuxième mot de commande et libérer une cr�
 
 ### Munitions +1, +2 ou +3
 
-- AltName: Ammunition, +1, +2, or +3 (SRD p207)
+- Alias: Ammunition, +1, +2, or +3 (SRD p207)
 - Source: (CDC p174)
 -  Arme (n'importe quelle munition), peu courante (+1), rare (+2) ou très rare (+3)
 
@@ -18422,7 +18422,7 @@ Vous bénéficiez d'un bonus aux jets d'attaque et de dégâts effectués avec c
 
 ### Oeil de lynx
 
-- AltName: Eyes of the Eagle (SRD p221)
+- Alias: Eyes of the Eagle (SRD p221)
 - Source: (CDC p174)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -18434,7 +18434,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, vous
 
 ### Parchemin magique
 
-- AltName: Spell Scroll (SRD p242)
+- Alias: Spell Scroll (SRD p242)
 - Source: (CDC p174)
 -  Parchemin, rareté variable
 
@@ -18469,7 +18469,7 @@ Un sort de magicien inscrit sur un parchemin magique peut être recopié, tout c
 
 ### Perle de force
 
-- AltName: Bead of Force (SRD p211)
+- Alias: Bead of Force (SRD p211)
 - Source: (CDC p174)
 -  Objet merveilleux, rare
 
@@ -18485,7 +18485,7 @@ Une créature enfermée peut utiliser son action pour peser contre la paroi de l
 
 ### Perle de puissance
 
-- AltName: Pearl of Power (SRD p232)
+- Alias: Pearl of Power (SRD p232)
 - Source: (CDC p174)
 -  Objet merveilleux, peu courant (harmonisation requise par un incantateur)
 
@@ -18497,7 +18497,7 @@ Tant que vous portez cette perle sur vous, vous pouvez utiliser une action pour 
 
 ### Philtre d'amour
 
-- AltName: Philter of Love (SRD p232)
+- Alias: Philter of Love (SRD p232)
 - Source: (CDC p174)
 -  Potion, peu courante
 
@@ -18509,7 +18509,7 @@ Dans les 10 minutes qui suivent l'absorption de cette potion, vous êtes charmé
 
 ### Pigments merveilleux
 
-- AltName: Marvelous Pigments (SRD p230)
+- Alias: Marvelous Pigments (SRD p230)
 - Source: (CDC p175)
 -  Objet merveilleux, très rare
 
@@ -18529,7 +18529,7 @@ Si vous peigniez une forme d'énergie, comme du feu ou de la foudre, elle appara
 
 ### Pierre de contrôle des élémentaires de la terre
 
-- AltName: Stone of Controlling Earth Elementals (SRD p246)
+- Alias: Stone of Controlling Earth Elementals (SRD p246)
 - Source: (CDC p175)
 -  Objet merveilleux, rare
 
@@ -18541,7 +18541,7 @@ Si la pierre est en contact avec le sol, vous pouvez utiliser une action pour pr
 
 ### Pierre Ioun
 
-- AltName: Ioun Stone (SRD p227)
+- Alias: Ioun Stone (SRD p227)
 - Source: (CDC p175)
 -  Objet merveilleux, rareté variable (harmonisation requise)
 
@@ -18593,7 +18593,7 @@ Tant que cette pierre tourne autour de votre tête, vous pouvez lancer n'importe
 
 ### Pierre porte-bonheur
 
-- AltName: Stone of Good Luck (Luckstone) (SRD p246)
+- Alias: Stone of Good Luck (Luckstone) (SRD p246)
 - Source: (CDC p176)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -18605,7 +18605,7 @@ Tant que vous portez sur vous cette agate lustrée, vous bénéficiez d'un bonus
 
 ### Plume magique
 
-- AltName: Feather Token (SRD p221)
+- Alias: Feather Token (SRD p221)
 - Source: (CDC p176)
 -  Objet merveilleux, rare
 
@@ -18640,7 +18640,7 @@ Ce petit bibelot ressemble à une plume. Il existe plusieurs types de plume, cha
 
 ### Portail cubique
 
-- AltName: Cubic Gate (SRD p215)
+- Alias: Cubic Gate (SRD p215)
 - Source: (CDC p177)
 -  Objet merveilleux, légendaire
 
@@ -18656,7 +18656,7 @@ Le cube a trois charges et en perd une à chaque utilisation. Chaque matin à l'
 
 ### Potion d'agrandissement
 
-- AltName: Potion of Growth (SRD p234)
+- Alias: Potion of Growth (SRD p234)
 - Source: (CDC p177)
 -  Potion, peu courante
 
@@ -18668,7 +18668,7 @@ Quand vous buvez cette potion, vous êtes affecté par la version « agrandir »
 
 ### Potion d'amitié avec les animaux
 
-- AltName: Potion of Animal Friendship (SRD p233)
+- Alias: Potion of Animal Friendship (SRD p233)
 - Source: (CDC p177)
 -  Potion, peu courante
 
@@ -18680,7 +18680,7 @@ Quand vous buvez cette potion, vous pouvez lancer le sort amitié avec les anima
 
 ### Potion de clairvoyance
 
-- AltName: Potion of Clairvoyance (SRD p233)
+- Alias: Potion of Clairvoyance (SRD p233)
 - Source: (CDC p177)
 -  Potion, rare
 
@@ -18692,7 +18692,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort clairvoyance
 
 ### Potion d'escalade
 
-- AltName: Potion of Climbing (SRD p233)
+- Alias: Potion of Climbing (SRD p233)
 - Source: (CDC p177)
 -  Potion, courante
 
@@ -18704,7 +18704,7 @@ Quand vous buvez cette potion, vous gagnez une vitesse d'escalade égale à votr
 
 ### Potion de force de géant
 
-- AltName: Potion of Giant Strength (SRD p234)
+- Alias: Potion of Giant Strength (SRD p234)
 - Source: (CDC p177)
 -  Potion, rareté variable
 
@@ -18726,7 +18726,7 @@ Une rognure d'ongle d'un géant du type approprié flotte dans cette potion tran
 
 ### Potion de forme gazeuse
 
-- AltName: Potion of Gaseous Form (SRD p234)
+- Alias: Potion of Gaseous Form (SRD p234)
 - Source: (CDC p178)
 -  Potion, rare
 
@@ -18738,7 +18738,7 @@ Quand vous buvez cette potion, vous bénéficiez des effets du sort forme gazeus
 
 ### Potion de lecture des pensées
 
-- AltName: Potion of Mind Reading (SRD p234)
+- Alias: Potion of Mind Reading (SRD p234)
 - Source: (CDC p178)
 -  Potion, rare
 
@@ -18750,7 +18750,7 @@ Vous bénéficiez des effets d'un sort de détection des pensées (DD des jets d
 
 ### Potion de poison
 
-- AltName: Potion of Poison (SRD p234)
+- Alias: Potion of Poison (SRD p234)
 - Source: (CDC p178)
 -  Potion, peu courante
 
@@ -18764,7 +18764,7 @@ Vous subissez 3d6 dégâts de poison et devez réussir un jet de sauvegarde de C
 
 ### Potion de résistance
 
-- AltName: Potion of Resistance (SRD p235)
+- Alias: Potion of Resistance (SRD p235)
 - Source: (CDC p178)
 -  Potion, peu courante
 
@@ -18789,7 +18789,7 @@ Vous bénéficiez d'une résistance à un type spécifique de dégâts pendant 1
 
 ### Potion de respiration aquatique
 
-- AltName: Potion of Water Breathing (SRD p235)
+- Alias: Potion of Water Breathing (SRD p235)
 - Source: (CDC p178)
 -  Potion, peu courante
 
@@ -18801,7 +18801,7 @@ Vous pouvez respirer sous l'eau pendant 1 heure après avoir bu cette potion. Le
 
 ### Potion de rétrécissement
 
-- AltName: Potion of Diminution (SRD p233)
+- Alias: Potion of Diminution (SRD p233)
 - Source: (CDC p178)
 -  Potion, rare
 
@@ -18813,7 +18813,7 @@ Quand vous buvez cette potion, vous êtes affecté par la version « rétrécir 
 
 ### Potion de soins
 
-- AltName: Potion of Healing (SRD p234)
+- Alias: Potion of Healing (SRD p234)
 - Source: (CDC p178)
 -  Potion, rareté variable
 
@@ -18834,7 +18834,7 @@ Potions de soins
 
 ### Potion de vitesse
 
-- AltName: Potion of Speed (SRD p235)
+- Alias: Potion of Speed (SRD p235)
 - Source: (CDC p178)
 -  Potion, très rare
 
@@ -18846,7 +18846,7 @@ Vous bénéficiez des effets d'un sort de hâte pendant 1 minute (aucune concent
 
 ### Potion de vol
 
-- AltName: Potion of Flying (SRD p234)
+- Alias: Potion of Flying (SRD p234)
 - Source: (CDC p178)
 -  Potion, très rare
 
@@ -18858,7 +18858,7 @@ Quand vous buvez cette potion, vous gagnez une vitesse de vol égale à votre vi
 
 ### Potion d'héroïsme
 
-- AltName: Potion of Heroism (SRD p234)
+- Alias: Potion of Heroism (SRD p234)
 - Source: (CDC p179)
 -  Potion, rare
 
@@ -18870,7 +18870,7 @@ Pendant 1 heure après l'avoir bue, vous obtenez 10 points de vie temporaires. P
 
 ### Potion d'invisibilité
 
-- AltName: Potion of Invisibility (SRD p234)
+- Alias: Potion of Invisibility (SRD p234)
 - Source: (CDC p179)
 -  Potion, très rare
 
@@ -18882,7 +18882,7 @@ Le contenant de cette potion paraît vide mais il semble, au contact, contenir u
 
 ### Poussière à éternuer
 
-- AltName: Dust of Sneezing and Choking (SRD p219)
+- Alias: Dust of Sneezing and Choking (SRD p219)
 - Source: (CDC p179)
 -  Objet merveilleux, peu courant
 
@@ -18896,7 +18896,7 @@ Quand vous utilisez une action pour jeter une poignée de poussière dans les ai
 
 ### Poussière d'assèchement
 
-- AltName: Dust of Dryness (SRD p219)
+- Alias: Dust of Dryness (SRD p219)
 - Source: (CDC p179)
 -  Objet merveilleux, peu courant
 
@@ -18912,7 +18912,7 @@ Un élémentaire majoritairement composé d'eau exposé à la poussière doit fa
 
 ### Poussière de disparition
 
-- AltName: Dust of Disappearance (SRD p219)
+- Alias: Dust of Disappearance (SRD p219)
 - Source: (CDC p179)
 -  Objet merveilleux, peu courant
 
@@ -18924,7 +18924,7 @@ Cette poudre se trouve dans un petit paquet et ressemble à du sable fin. Il y e
 
 ### Protectrice
 
-- AltName: Defender (SRD p218)
+- Alias: Defender (SRD p218)
 - Source: (CDC p179)
 -  Arme (épée), légendaire (harmonisation requise)
 
@@ -18938,7 +18938,7 @@ Vous gagnez un bonus de +3 aux jets d'attaque et de dégâts effectués avec cet
 
 ### Puits des mondes
 
-- AltName: Well of Many Worlds (SRD p250)
+- Alias: Well of Many Worlds (SRD p250)
 - Source: (CDC p180)
 -  Objet merveilleux, légendaire
 
@@ -18952,7 +18952,7 @@ Vous pouvez utiliser une action pour déplier et positionner le puits des mondes
 
 ### Puits portatif
 
-- AltName: Portable Hole (SRD p233)
+- Alias: Portable Hole (SRD p233)
 - Source: (CDC p180)
 -  Objet merveilleux, rare
 
@@ -18972,7 +18972,7 @@ Si l'on place un puits portatif dans l'espace extradimensionnel né d'un havresa
 
 ### Regard charmeur
 
-- AltName: Eyes of Charming (SRD p220)
+- Alias: Eyes of Charming (SRD p220)
 - Source: (CDC p180)
 -  Objet merveilleux, peu courant (harmonisation requise)
 
@@ -18984,7 +18984,7 @@ Ces lentilles de cristal se portent sur les yeux et possèdent trois charges. Ta
 
 ### Robe aux étoiles
 
-- AltName: Robe of Stars (SRD p239)
+- Alias: Robe of Stars (SRD p239)
 - Source: (CDC p180)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -19000,7 +19000,7 @@ Tant que vous portez la robe, vous pouvez effectuer une action pour entrer dans 
 
 ### Robe aux yeux multiples
 
-- AltName: Robe of Eyes (SRD p238)
+- Alias: Robe of Eyes (SRD p238)
 - Source: (CDC p180)
 -  Objet merveilleux, rare (harmonisation requise)
 
@@ -19020,7 +19020,7 @@ Un sort de lumière lancé sur la robe ou un sort de lumière du jour lancé à 
 
 ### Robe de couleurs étincelantes
 
-- AltName: Robe of Scintillating Colors (SRD p238)
+- Alias: Robe of Scintillating Colors (SRD p238)
 - Source: (CDC p181)
 -  Objet merveilleux, très rare (harmonisation requise)
 
@@ -19032,7 +19032,7 @@ Cette robe contient 3 charges et récupère 1d3 charges dépensées chaque jour,
 
 ### Robe de l'archimage
 
-- AltName: Robe of the Archmagi (SRD p239)
+- Alias: Robe of the Archmagi (SRD p239)
 - Source: (CDC p181)
 -  Objet merveilleux, légendaire (harmonisation avec un ensorceleur, un sorcier ou un magicien exigée)
 
@@ -19050,7 +19050,7 @@ Vous bénéficiez des avantages suivants lorsque vous portez la robe :
 
 ### Robe d'objets pratiques
 
-- AltName: Robe of Useful Items (SRD p239)
+- Alias: Robe of Useful Items (SRD p239)
 - Source: (CDC p182)
 -  Objet merveilleux, peu courant
 
@@ -19089,7 +19089,7 @@ En outre, la robe se compose de 4d4 autres pièces. Le MJ choisit ces pièces ou
 
 ### Sac affamé
 
-- AltName: Bag of Devouring (SRD p210)
+- Alias: Bag of Devouring (SRD p210)
 - Source: (CDC p182)
 -  Objet merveilleux, très rare
 
@@ -19107,7 +19107,7 @@ Si le sac est perforé ou déchiré, il est détruit et tout ce qu'il contenait 
 
 ### Sac à malice
 
-- AltName: Bag of Tricks (SRD p210)
+- Alias: Bag of Tricks (SRD p210)
 - Source: (CDC p182)
 -  Objet merveilleux, peu courant
 
@@ -19164,7 +19164,7 @@ Sac à malice brun
 
 ### Sac de haricots
 
-- AltName: Bag of Beans (SRD p209)
+- Alias: Bag of Beans (SRD p209)
 - Source: (CDC p183)
 -  Objet merveilleux, rare
 
@@ -19195,7 +19195,7 @@ Si vous sortez un haricot du sac, le plantez dans la terre ou le sable et l'arro
 
 ### Sac sans fond
 
-- AltName: Bag of Holding (SRD p210)
+- Alias: Bag of Holding (SRD p210)
 - Source: (CDC p184)
 -  Objet merveilleux, peu courant
 
@@ -19211,7 +19211,7 @@ Si l'on place un sac sans fond dans l'espace extradimensionnel né d'un havresac
 
 ### Scarabée de protection
 
-- AltName: Scarab of Protection (SRD p241)
+- Alias: Scarab of Protection (SRD p241)
 - Source: (CDC p184)
 -  Objet merveilleux, légendaire (harmonisation requise)
 
@@ -19226,7 +19226,7 @@ Si vous tenez ce médaillon en forme de scarabée dans la main pendant 1 round, 
 
 ### Sceptre d'absorption
 
-- AltName: Rod of Absorption (SRD p239)
+- Alias: Rod of Absorption (SRD p239)
 - Source: (CDC p184)
 -  Sceptre, très rare (harmonisation requise)
 
@@ -19244,7 +19244,7 @@ Un sceptre qui vient d'être découvert contient 1d10 niveaux d'énergie magique
 
 ### Sceptre de puissance seigneuriale
 
-- AltName: Rod of Lordly Might (SRD p240)
+- Alias: Rod of Lordly Might (SRD p240)
 - Source: (CDC p184)
 -  Sceptre, légendaire (harmonisation requise)
 
@@ -19276,7 +19276,7 @@ Si vous appuyez sur le **bouton 6**, le sceptre reprend ou conserve sa forme nor
 
 ### Sceptre de sécurité
 
-- AltName: Rod of Security (SRD p241)
+- Alias: Rod of Security (SRD p241)
 - Source: (CDC p185)
 -  Sceptre, très rare
 
@@ -19292,7 +19292,7 @@ Une fois cette période écoulée ou si vous utilisez une action pour y mettre f
 
 ### Sceptre de suzeraineté
 
-- AltName: Rod of Rulership (SRD p240)
+- Alias: Rod of Rulership (SRD p240)
 - Source: (CDC p185)
 -  Sceptre, rare (harmonisation requise)
 
@@ -19304,7 +19304,7 @@ Vous pouvez utiliser une action pour présenter le sceptre et exiger l'obéissan
 
 ### Sceptre de vigilance
 
-- AltName: Rod of Alertness (SRD p240)
+- Alias: Rod of Alertness (SRD p240)
 - Source: (CDC p185)
 -  Sceptre, très rare (harmonisation requise)
 
@@ -19324,7 +19324,7 @@ La lumière diffusée par la tête du sceptre s'éteint et l'effet prend fin au 
 
 ### Sceptre inamovible
 
-- AltName: Immovable Rod (SRD p226)
+- Alias: Immovable Rod (SRD p226)
 - Source: (CDC p186)
 -  Objet merveilleux, peu courant
 
@@ -19336,7 +19336,7 @@ Ce sceptre plat en fer est équipé d'un bouton sur une extrémité. Vous pouvez
 
 ### Sphère d'annihilation
 
-- AltName: Sphere of Annihilation (SRD p242)
+- Alias: Sphere of Annihilation (SRD p242)
 - Source: (CDC p186)
 -  Objet merveilleux, légendaire
 
@@ -19362,7 +19362,7 @@ Si la sphère entre en contact avec un portail planaire, tel que ceux créés pa
 
 ### Solvant universel
 
-- AltName: Universal Solvent (SRD p248)
+- Alias: Universal Solvent (SRD p248)
 - Source: (CDC p186)
 -  Objet merveilleux, légendaire
 
@@ -19374,7 +19374,7 @@ Ce tube contient un liquide laiteux qui sent fort l'alcool. Vous pouvez utiliser
 
 ### Submersible du crabe
 
-- AltName: Apparatus of the Crab (SRD p208)
+- Alias: Apparatus of the Crab (SRD p208)
 - Source: (CDC p186)
 -  Objet merveilleux, légendaire
 
@@ -19414,7 +19414,7 @@ Leviers du submersible du crabe
 
 ### Talisman de la sphère
 
-- AltName: Talisman of the Sphere (SRD p247)
+- Alias: Talisman of the Sphere (SRD p247)
 - Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation requise)
 
@@ -19426,7 +19426,7 @@ Lorsque vous effectuez un test d'Intelligence (Arcanes) pour contrôler une sph�
 
 ### Talisman du bien ultime
 
-- AltName: Talisman of Pure Good (SRD p247)
+- Alias: Talisman of Pure Good (SRD p247)
 - Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation avec une créature d'alignement bon exigée)
 
@@ -19442,7 +19442,7 @@ Le talisman contient 7 charges. Si vous le portez sur vous ou le tenez en main, 
 
 ### Talisman du mal ultime
 
-- AltName: Talisman of Ultimate Evil (SRD p247)
+- Alias: Talisman of Ultimate Evil (SRD p247)
 - Source: (CDC p187)
 -  Objet merveilleux, légendaire (harmonisation avec une créature d'alignement mauvais exigée)
 
@@ -19458,7 +19458,7 @@ Le talisman contient 6 charges. Si vous le portez sur vous ou le tenez en main, 
 
 ### Tapis volant
 
-- AltName: Carpet of Flying (SRD p213)
+- Alias: Carpet of Flying (SRD p213)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 
@@ -19481,7 +19481,7 @@ Un tapis peut porter deux fois le poids indiqué dans la table mais, s'il porte 
 
 ### Traité d'autorité et d'influence
 
-- AltName: Tome of Leadership and Influence (SRD p247)
+- Alias: Tome of Leadership and Influence (SRD p247)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 
@@ -19493,7 +19493,7 @@ Ce livre contient des exercices d'interactions sociales basées sur la manipulat
 
 ### Traité de compréhension
 
-- AltName: Tome of Understanding (SRD p247)
+- Alias: Tome of Understanding (SRD p247)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 
@@ -19505,7 +19505,7 @@ Ce livre contient des exercices intuitifs de sagacité. Ses mots sont imprégné
 
 ### Traité de perspicacité
 
-- AltName: Tome of Clear Thought (SRD p247)
+- Alias: Tome of Clear Thought (SRD p247)
 - Source: (CDC p188)
 -  Objet merveilleux, très rare
 
@@ -19517,7 +19517,7 @@ Ce livre contient des exercices de logique et de mémoire. Ses mots sont imprég
 
 ### Trident de domination aquatique
 
-- AltName: Trident of Fish Command (SRD p247)
+- Alias: Trident of Fish Command (SRD p247)
 - Source: (CDC p188)
 -  Arme (trident), peu courante (harmonisation requise)
 
@@ -19529,7 +19529,7 @@ Ce trident est une arme magique. Il contient 3 charges. Tant que vous le portez 
 
 ### Tueuse de dragons
 
-- AltName: Dragon Slayer (SRD p219)
+- Alias: Dragon Slayer (SRD p219)
 - Source: (CDC p188)
 -  Arme (épée), rare
 
@@ -19543,7 +19543,7 @@ Quand vous touchez un dragon avec elle, il subit 3d6 dégâts supplémentaires d
 
 ### Tueuse de géant
 
-- AltName: Giant Slayer (SRD p224)
+- Alias: Giant Slayer (SRD p224)
 - Source: (CDC p188)
 -  Arme (épée ou hache), rare
 
@@ -19557,7 +19557,7 @@ Quand vous touchez un géant avec elle, il subit 2d6 dégâts supplémentaires d
 
 ### Vengeresse sacrée
 
-- AltName: Holy Avenger (SRD p225)
+- Alias: Holy Avenger (SRD p225)
 - Source: (CDC p188)
 -  Arme (épée), légendaire (harmonisation requise avec un paladin)
 
@@ -19571,7 +19571,7 @@ Tant que vous tenez l'arme en main, elle génère une aura de 3 mètres de rayon
 
 ### Voleuse de vies
 
-- AltName: Nine Lives Stealer (SRD p231)
+- Alias: Nine Lives Stealer (SRD p231)
 - Source: (CDC p188)
 -  Arme (épée), très rare (harmonisation requise)
 

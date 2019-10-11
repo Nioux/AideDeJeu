@@ -4,7 +4,7 @@
 
 # Arme magique
 
-- SRD: [Magic Weapon](srd_spells_magic_weapon.md)
+- Alias: [Magic Weapon](srd_spells_magic_weapon.md)
 
 -  Transmutation de niveau 2
 

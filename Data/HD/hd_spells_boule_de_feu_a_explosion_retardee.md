@@ -4,7 +4,7 @@
 
 # Boule de feu à explosion retardée
 
-- SRD: [Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)
+- Alias: [Delayed Blast Fireball](srd_spells_delayed_blast_fireball.md)
 
 -  Évocation de niveau 7
 

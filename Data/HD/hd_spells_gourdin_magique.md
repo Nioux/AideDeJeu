@@ -4,7 +4,7 @@
 
 # Gourdin magique
 
-- SRD: [Shillelagh](srd_spells_shillelagh.md)
+- Alias: [Shillelagh](srd_spells_shillelagh.md)
 
 -  Transmutation, tour de magie
 

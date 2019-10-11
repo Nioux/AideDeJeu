@@ -4,7 +4,7 @@
 
 # Nuage incendiaire
 
-- SRD: [Incendiary Cloud](srd_spells_incendiary_cloud.md)
+- Alias: [Incendiary Cloud](srd_spells_incendiary_cloud.md)
 
 -  Invocation de niveau 8
 

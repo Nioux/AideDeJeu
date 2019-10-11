@@ -5,7 +5,7 @@
 # Dragon d'or vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
+- Alias: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 22 (armure naturelle)

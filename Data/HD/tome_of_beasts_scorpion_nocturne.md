@@ -5,7 +5,7 @@
 # Scorpion Nocturne
 
 - Source: (LDM p357)(TOB p340)
-- TOB: Night Scorpion
+- Alias: Night Scorpion
 -  Bête de Grande taille (G), non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane, Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)

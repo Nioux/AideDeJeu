@@ -4,7 +4,7 @@
 
 # Dust Mephit
 
-- CEO: [Méphite de poussière](hd_monsters_mephite_de_poussiere.md)
+- Alias: [Méphite de poussière](hd_monsters_mephite_de_poussiere.md)
 -  Small elemental, neutral evil
 - **Armor Class** 12
 - **Hit Points** 17 (5d6)

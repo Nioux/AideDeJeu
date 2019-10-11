@@ -5,7 +5,7 @@
 # Golem de pierre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Stone Golem](srd_monsters_stone_golem.md)
+- Alias: [Stone Golem](srd_monsters_stone_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)

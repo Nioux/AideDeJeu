@@ -4,7 +4,7 @@
 
 # Sunburst
 
-- MDR: [Éclat du soleil](hd_spells_eclat_du_soleil.md)
+- Alias: [Éclat du soleil](hd_spells_eclat_du_soleil.md)
 - Source: (SRD p184)
 -  8th-level evocation
 - **Casting Time :** 1 action

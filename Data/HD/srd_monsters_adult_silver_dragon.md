@@ -4,7 +4,7 @@
 
 # Adult Silver Dragon
 
-- CEO: [Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)
+- Alias: [Dragon d'argent adulte](hd_monsters_dragon_dargent_adulte.md)
 -  Huge dragon, lawful good
 - **Armor Class** 19 (natural armor)
 - **Hit Points** 243 (18d12 + 126)

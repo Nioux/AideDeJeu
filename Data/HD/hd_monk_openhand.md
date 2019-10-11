@@ -5,7 +5,7 @@
 
 # Voie de la main ouverte
 
-- AltName: Way of the Open Hand (SRD p28)
+- Alias: Way of the Open Hand (SRD p28)
 - Source: (MDR p179)
 
 Les moines qui suivent la voie de la main ouverte sont les maîtres ultimes des arts martiaux, que ce soit à mains nues ou avec des armes. Ils apprennent des techniques leur permettant de pousser ou déséquilibrer leurs adversaires, manipulent le ki pour guérir leurs blessures et pratiquent une forme de méditation avancée qui leur permet de se protéger des dégâts.

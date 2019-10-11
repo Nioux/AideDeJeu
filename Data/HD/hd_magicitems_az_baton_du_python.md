@@ -4,7 +4,7 @@
 
 ### Bâton du python
 
-- AltName: Staff of the Python (SRD p245)
+- Alias: Staff of the Python (SRD p245)
 - Source: (CDC p151)
 -  Bâton, peu courant (harmonisation avec un clerc, druide ou un sorcier exigée)
 

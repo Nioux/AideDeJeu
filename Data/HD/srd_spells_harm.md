@@ -4,7 +4,7 @@
 
 # Harm
 
-- MDR: [Contamination](hd_spells_contamination.md)
+- Alias: [Contamination](hd_spells_contamination.md)
 - Source: (SRD p153)
 -  6th-level necromancy
 - **Casting Time :** 1 action

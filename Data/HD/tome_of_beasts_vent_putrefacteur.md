@@ -5,7 +5,7 @@
 # Vent Putréfacteur
 
 - Source: (LDM p398)(TOB p330)
-- TOB: Rotting Wind
+- Alias: Rotting Wind
 -  Mort-vivant de Grande taille (G), neutre mauvais
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 15

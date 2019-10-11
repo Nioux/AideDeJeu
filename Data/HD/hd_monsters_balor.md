@@ -5,7 +5,7 @@
 # Balor
 
 - Source: (CEO p)(SRD p)
-- SRD: [Balor](srd_monsters_balor.md)
+- Alias: [Balor](srd_monsters_balor.md)
 -  Fiélon (démon) de taille TG, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)

@@ -6,6 +6,8 @@
 
 Voir [Chien esquiveur](hd_monsters_chien_esquiveur.md)
 
+- Source: (MM p34)(BB1 p14)
+- Alias: Blink Puppy
 -  Fée de taille P, Loyal Bon
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13

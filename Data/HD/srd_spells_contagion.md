@@ -4,7 +4,7 @@
 
 # Contagion
 
-- MDR: [Contagion](hd_spells_contagion.md)
+- Alias: [Contagion](hd_spells_contagion.md)
 - Source: (SRD p129)
 -  5th-level necromancy
 - **Casting Time :** 1 action

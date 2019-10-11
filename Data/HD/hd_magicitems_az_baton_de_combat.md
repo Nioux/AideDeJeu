@@ -4,7 +4,7 @@
 
 ### Bâton de combat
 
-- AltName: Staff of Striking (SRD p244)
+- Alias: Staff of Striking (SRD p244)
 - Source: (CDC p149)
 -  Bâton, très rare (harmonisation requise)
 

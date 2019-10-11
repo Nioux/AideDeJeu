@@ -5,7 +5,7 @@
 # Piège Caustique
 
 - Source: (LDM p338)(TOB p296)
-- TOB: Mordant Snare
+- Alias: Mordant Snare
 -  Aberration de taille Gigantesque (Gig), chaotique mauvaise
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)

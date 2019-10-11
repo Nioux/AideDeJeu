@@ -4,7 +4,7 @@
 
 # Motif hypnotique
 
-- SRD: [Hypnotic Pattern](srd_spells_hypnotic_pattern.md)
+- Alias: [Hypnotic Pattern](srd_spells_hypnotic_pattern.md)
 
 -  Illusion de niveau 3
 

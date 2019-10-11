@@ -4,7 +4,7 @@
 
 ### Amulette des plans
 
-- AltName: Amulet of the Planes (SRD p207)
+- Alias: Amulet of the Planes (SRD p207)
 - Source: (CDC p139)
 -  Objet merveilleux, très rare (harmonisation requise)
 

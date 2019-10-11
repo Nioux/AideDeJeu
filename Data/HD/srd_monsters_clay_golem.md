@@ -4,7 +4,7 @@
 
 # Clay Golem
 
-- CEO: [Golem d'argile](hd_monsters_golem_dargile.md)
+- Alias: [Golem d'argile](hd_monsters_golem_dargile.md)
 -  Large construct, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 133 (14d10 + 56)

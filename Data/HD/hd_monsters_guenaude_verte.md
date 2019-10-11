@@ -5,7 +5,7 @@
 # Guenaude verte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Green Hag](srd_monsters_green_hag.md)
+- Alias: [Green Hag](srd_monsters_green_hag.md)
 -  Fée de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt, Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)

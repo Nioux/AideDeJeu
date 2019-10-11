@@ -4,7 +4,7 @@
 
 # Étrangeté
 
-- SRD: [Weird](srd_spells_weird.md)
+- Alias: [Weird](srd_spells_weird.md)
 
 -  Illusion de niveau 9
 

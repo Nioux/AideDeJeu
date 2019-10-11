@@ -4,7 +4,7 @@
 
 # Legend Lore
 
-- MDR: [Légende](hd_spells_legende.md)
+- Alias: [Légende](hd_spells_legende.md)
 - Source: (SRD p158)
 -  5th-level divination
 - **Casting Time :** 10 minutes

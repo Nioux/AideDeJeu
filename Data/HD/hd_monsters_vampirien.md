@@ -5,7 +5,7 @@
 # Vampirien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vampire Spawn](srd_monsters_vampire_spawn.md)
+- Alias: [Vampire Spawn](srd_monsters_vampire_spawn.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 15 (armure naturelle)

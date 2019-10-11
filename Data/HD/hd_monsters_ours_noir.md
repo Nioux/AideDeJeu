@@ -5,7 +5,7 @@
 # Ours noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Black Bear](srd_monsters_black_bear.md)
+- Alias: [Black Bear](srd_monsters_black_bear.md)
 -  Bête de taille M, non-alignée
 - **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)

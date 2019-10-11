@@ -4,7 +4,7 @@
 
 # Enchevêtrement
 
-- SRD: [Entangle](srd_spells_entangle.md)
+- Alias: [Entangle](srd_spells_entangle.md)
 
 -  Invocation de niveau 1
 

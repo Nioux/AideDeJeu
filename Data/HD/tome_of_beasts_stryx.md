@@ -5,7 +5,7 @@
 # Stryx
 
 - Source: (LDM p373)(TOB p369)
-- TOB: Stryx
+- Alias: Stryx
 -  Créature monstrueuse de Très Petite taille (TP), neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13

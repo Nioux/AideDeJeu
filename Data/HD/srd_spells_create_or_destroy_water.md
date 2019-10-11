@@ -4,7 +4,7 @@
 
 # Create or Destroy Water
 
-- MDR: [Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)
+- Alias: [Création ou destruction d'eau](hd_spells_creation_ou_destruction_deau.md)
 - Source: (SRD p132)
 -  1st-level transmutation
 - **Casting Time :** 1 action

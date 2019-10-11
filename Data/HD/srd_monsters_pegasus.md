@@ -4,7 +4,7 @@
 
 # Pegasus
 
-- CEO: [Pégase](hd_monsters_pegase.md)
+- Alias: [Pégase](hd_monsters_pegase.md)
 -  Large celestial, chaotic good
 - **Armor Class** 12
 - **Hit Points** 59 (7d10 + 21)

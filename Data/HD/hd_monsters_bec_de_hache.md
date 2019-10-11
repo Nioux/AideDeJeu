@@ -5,7 +5,7 @@
 # Bec de hache
 
 - Source: (CEO p)(SRD p)
-- SRD: [Axe Beak](srd_monsters_axe_beak.md)
+- Alias: [Axe Beak](srd_monsters_axe_beak.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Jungle
 - **Classe d'armure** 11

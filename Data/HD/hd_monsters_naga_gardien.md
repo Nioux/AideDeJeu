@@ -5,7 +5,7 @@
 # Naga gardien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Guardian Naga](srd_monsters_guardian_naga.md)
+- Alias: [Guardian Naga](srd_monsters_guardian_naga.md)
 -  Créature monstrueuse de taille G, Loyal Bon
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)

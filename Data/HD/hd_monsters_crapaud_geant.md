@@ -5,7 +5,7 @@
 # Crapaud géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Toad](srd_monsters_giant_toad.md)
+- Alias: [Giant Toad](srd_monsters_giant_toad.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 11

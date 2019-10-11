@@ -4,7 +4,7 @@
 
 # Serviteur invisible
 
-- SRD: [Unseen Servant](srd_spells_unseen_servant.md)
+- Alias: [Unseen Servant](srd_spells_unseen_servant.md)
 
 -  Invocation de niveau 1 (rituel)
 

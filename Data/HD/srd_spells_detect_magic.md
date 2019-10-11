@@ -4,7 +4,7 @@
 
 # Detect Magic
 
-- MDR: [Détection de la magie](hd_spells_detection_de_la_magie.md)
+- Alias: [Détection de la magie](hd_spells_detection_de_la_magie.md)
 - Source: (SRD p134)
 -  1st-level divination (ritual)
 - **Casting Time :** 1 action

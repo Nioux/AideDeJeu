@@ -4,7 +4,7 @@
 
 # Treant
 
-- CEO: [Sylvanien](hd_monsters_sylvanien.md)
+- Alias: [Sylvanien](hd_monsters_sylvanien.md)
 -  Huge plant, chaotic good
 - **Armor Class** 16 (natural armor)
 - **Hit Points** 138 (12d12 + 60)

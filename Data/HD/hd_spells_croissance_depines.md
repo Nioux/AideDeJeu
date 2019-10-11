@@ -4,7 +4,7 @@
 
 # Croissance d'épines
 
-- SRD: [Spike Growth](srd_spells_spike_growth.md)
+- Alias: [Spike Growth](srd_spells_spike_growth.md)
 
 -  Transmutation de niveau 2
 

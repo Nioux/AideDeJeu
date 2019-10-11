@@ -4,7 +4,7 @@
 
 # Mass Cure Wounds
 
-- MDR: [Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)
+- Alias: [Soin des blessures de groupe](hd_spells_soin_des_blessures_de_groupe.md)
 - Source: (SRD p162)
 -  5th-level evocation
 - **Casting Time :** 1 action

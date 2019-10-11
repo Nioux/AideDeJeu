@@ -5,7 +5,7 @@
 # Seigneur Des Lianes
 
 - Source: (LDM p358)(TOB p402)
-- TOB: Vine Lord
+- Alias: Vine Lord
 -  Plante de taille Moyenne (M), loyale neutre
 - **Terrain** Jungle
 - **Classe d'armure** 16 (armure naturelle)

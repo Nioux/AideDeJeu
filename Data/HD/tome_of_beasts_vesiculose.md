@@ -5,7 +5,7 @@
 # Vésiculose
 
 - Source: (LDM p403)(TOB p399)
-- TOB: Vesiculosa
+- Alias: Vesiculosa
 -  Plante de taille Gigantesque (Gig), non alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 15 (armure naturelle)

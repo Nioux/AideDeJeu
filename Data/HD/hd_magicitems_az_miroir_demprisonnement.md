@@ -4,7 +4,7 @@
 
 ### Miroir d'emprisonnement
 
-- AltName: Mirror of Life Trapping (SRD p230)
+- Alias: Mirror of Life Trapping (SRD p230)
 - Source: (CDC p173)
 -  Objet merveilleux, très rare
 

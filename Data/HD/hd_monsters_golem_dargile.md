@@ -5,7 +5,7 @@
 # Golem d'argile
 
 - Source: (CEO p)(SRD p)
-- SRD: [Clay Golem](srd_monsters_clay_golem.md)
+- Alias: [Clay Golem](srd_monsters_clay_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 14 (armure naturelle)

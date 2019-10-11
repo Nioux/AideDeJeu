@@ -4,7 +4,7 @@
 
 # Lamia
 
-- CEO: [Lamie](hd_monsters_lamie.md)
+- Alias: [Lamie](hd_monsters_lamie.md)
 -  Large monstrosity, chaotic evil
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 97 (13d10 + 26)

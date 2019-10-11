@@ -4,7 +4,7 @@
 
 ### Cape de protection
 
-- AltName: Cloak of Protection (SRD p214)
+- Alias: Cloak of Protection (SRD p214)
 - Source: (CDC p155)
 -  Objet merveilleux, peu courant (harmonisation requise)
 

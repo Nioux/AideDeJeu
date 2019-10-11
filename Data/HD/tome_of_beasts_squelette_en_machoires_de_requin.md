@@ -5,7 +5,7 @@
 # Squelette En Mâchoires De Requin
 
 - Source: (LDM p372)(TOB p350)
-- TOB: Sharkjaw Skeleton
+- Alias: Sharkjaw Skeleton
 -  Mort-vivant de Grande taille (G), loyal mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 13 (armure naturelle)

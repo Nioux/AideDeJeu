@@ -4,7 +4,7 @@
 
 # Glyph of Warding
 
-- MDR: [Glyphe de protection](hd_spells_glyphe_de_protection.md)
+- Alias: [Glyphe de protection](hd_spells_glyphe_de_protection.md)
 - Source: (SRD p149)
 -  3th-level abjuration
 - **Casting Time :** 1 hour

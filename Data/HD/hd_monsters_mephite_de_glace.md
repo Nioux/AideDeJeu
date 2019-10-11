@@ -5,7 +5,7 @@
 # Méphite de glace
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ice Mephit](srd_monsters_ice_mephit.md)
+- Alias: [Ice Mephit](srd_monsters_ice_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Arctique / Subarctique, Montagnes, Plans élémentaires
 - **Classe d'armure** 11

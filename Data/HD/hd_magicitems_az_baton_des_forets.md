@@ -4,7 +4,7 @@
 
 ### Bâton des forêts
 
-- AltName: Staff of the Woodlands (SRD p245)
+- Alias: Staff of the Woodlands (SRD p245)
 - Source: (CDC p150)
 -  Bâton, rare (harmonisation avec un druide exigée)
 

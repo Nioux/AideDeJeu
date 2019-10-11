@@ -5,7 +5,7 @@
 # Myrmidon Mécanique
 
 - Source: (LDM p295)(TOB p64)
-- TOB: Clockwork Myrmidon
+- Alias: Clockwork Myrmidon
 -  Créature artificielle de Grande taille (G), non alignée
 - **Classe d'armure** 16 (armure naturelle)
 - **Points de vie** 153 (18d10+54)

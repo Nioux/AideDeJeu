@@ -4,7 +4,7 @@
 
 # Lever une malédiction
 
-- SRD: [Remove Curse](srd_spells_remove_curse.md)
+- Alias: [Remove Curse](srd_spells_remove_curse.md)
 
 -  Abjuration de niveau 3
 

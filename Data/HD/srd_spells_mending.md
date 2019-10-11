@@ -4,7 +4,7 @@
 
 # Mending
 
-- MDR: [Réparation](hd_spells_reparation.md)
+- Alias: [Réparation](hd_spells_reparation.md)
 - Source: (SRD p164)
 -  Transmutation cantrip
 - **Casting Time :** 1 minute

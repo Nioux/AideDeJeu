@@ -5,7 +5,7 @@
 # Élan
 
 - Source: (CEO p)(SRD p)
-- SRD: [Elk](srd_monsters_elk.md)
+- Alias: [Elk](srd_monsters_elk.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 10

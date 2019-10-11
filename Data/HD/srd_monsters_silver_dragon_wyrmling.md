@@ -4,7 +4,7 @@
 
 # Silver Dragon Wyrmling
 
-- CEO: [Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)
+- Alias: [Dragonnet d'argent](hd_monsters_dragonnet_dargent.md)
 -  Medium dragon, lawful good
 - **Armor Class** 17 (natural armor)
 - **Hit Points** 45 (6d8 + 18)

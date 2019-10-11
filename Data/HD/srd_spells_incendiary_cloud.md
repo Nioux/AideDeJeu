@@ -4,7 +4,7 @@
 
 # Incendiary Cloud
 
-- MDR: [Nuage incendiaire](hd_spells_nuage_incendiaire.md)
+- Alias: [Nuage incendiaire](hd_spells_nuage_incendiaire.md)
 - Source: (SRD p157)
 -  8th-level conjuration
 - **Casting Time :** 1 action

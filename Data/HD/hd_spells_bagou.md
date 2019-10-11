@@ -4,7 +4,7 @@
 
 # Bagou
 
-- SRD: [Glibness](srd_spells_glibness.md)
+- Alias: [Glibness](srd_spells_glibness.md)
 
 -  Transmutation de niveau 8
 

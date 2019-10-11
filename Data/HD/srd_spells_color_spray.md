@@ -4,7 +4,7 @@
 
 # Color Spray
 
-- MDR: [Couleurs dansantes](hd_spells_couleurs_dansantes.md)
+- Alias: [Couleurs dansantes](hd_spells_couleurs_dansantes.md)
 - Source: (SRD p125)
 -  1st-level illusion
 - **Casting Time :** 1 action

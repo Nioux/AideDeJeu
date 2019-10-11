@@ -4,7 +4,7 @@
 
 ### Se précipiter
 
-- AltName: Dash (SRD p93)
+- Alias: Dash (SRD p93)
 - Source: (MDR p290)
 
 Quand vous choisissez l'action se précipiter, la distance que vous pouvez parcourir est augmentée jusqu'à la fin du tour. Ce bonus de déplacement est égal à votre vitesse, après avoir appliqué tous les modificateurs éventuels. Donc si votre vitesse est de 9 mètres, par exemple, si vous utilisez l'action se précipiter, vous pourrez parcourir 18 mètres lors de votre tour.

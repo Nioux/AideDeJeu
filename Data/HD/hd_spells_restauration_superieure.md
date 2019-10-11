@@ -4,7 +4,7 @@
 
 # Restauration supérieure
 
-- SRD: [Greater Restoration](srd_spells_greater_restoration.md)
+- Alias: [Greater Restoration](srd_spells_greater_restoration.md)
 
 -  Abjuration de niveau 5
 

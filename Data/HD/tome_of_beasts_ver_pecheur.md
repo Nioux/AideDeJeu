@@ -5,7 +5,7 @@
 # Ver Pêcheur
 
 - Source: (LDM p400)(TOB p22)
-- TOB: Angler Worm
+- Alias: Angler Worm
 -  Créature monstrueuse de Très Grande taille (TG), non alignée
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle)

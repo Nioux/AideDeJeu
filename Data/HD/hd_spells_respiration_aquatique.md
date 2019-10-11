@@ -4,7 +4,7 @@
 
 # Respiration aquatique
 
-- SRD: [Water Breathing](srd_spells_water_breathing.md)
+- Alias: [Water Breathing](srd_spells_water_breathing.md)
 
 -  Transmutation de niveau 3 (rituel)
 

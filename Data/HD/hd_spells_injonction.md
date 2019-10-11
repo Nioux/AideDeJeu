@@ -4,7 +4,7 @@
 
 # Injonction
 
-- SRD: [Command](srd_spells_command.md)
+- Alias: [Command](srd_spells_command.md)
 
 -  Enchantement de niveau 1
 

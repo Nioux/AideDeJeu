@@ -4,7 +4,7 @@
 
 # Localiser des animaux ou des plantes
 
-- SRD: [Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)
+- Alias: [Locate Animals or Plants](srd_spells_locate_animals_or_plants.md)
 
 -  Divination de niveau 2 (rituel)
 

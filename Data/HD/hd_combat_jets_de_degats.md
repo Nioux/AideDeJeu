@@ -4,7 +4,7 @@
 
 ### Jets de dégâts
 
-- AltName: Damage Rolls (SRD p96)
+- Alias: Damage Rolls (SRD p96)
 - Source: (MDR p293)
 
 Pour chaque arme, sort ou capacité offensive de monstre, les dégâts infligés sont décrits dans la rubrique correspondante. Quand vous lancez un ou plusieurs dés de dégâts, vous devez ajouter tous les modificateurs, puis infliger ces dégâts à votre cible. Les armes magiques, les capacités spéciales et d'autres facteurs peuvent infliger des dégâts bonus. Il est également possible qu'un malus vous fasse infliger un nombre de dégâts égal à 0, mais vous ne pouvez jamais infliger de dégâts négatifs.

@@ -5,7 +5,7 @@
 # Troll
 
 - Source: (CEO p)(SRD p)
-- SRD: [Troll](srd_monsters_troll.md)
+- Alias: [Troll](srd_monsters_troll.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
 - **Classe d'armure** 15 (armure naturelle)

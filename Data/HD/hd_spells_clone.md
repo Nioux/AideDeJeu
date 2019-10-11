@@ -4,7 +4,7 @@
 
 # Clone
 
-- SRD: [Clone](srd_spells_clone.md)
+- Alias: [Clone](srd_spells_clone.md)
 
 -  Nécromancie de niveau 8
 

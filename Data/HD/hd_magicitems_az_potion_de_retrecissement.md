@@ -4,7 +4,7 @@
 
 ### Potion de rétrécissement
 
-- AltName: Potion of Diminution (SRD p233)
+- Alias: Potion of Diminution (SRD p233)
 - Source: (CDC p178)
 -  Potion, rare
 

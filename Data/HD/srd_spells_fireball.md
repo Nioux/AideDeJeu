@@ -4,7 +4,7 @@
 
 # Fireball
 
-- MDR: [Boule de feu](hd_spells_boule_de_feu.md)
+- Alias: [Boule de feu](hd_spells_boule_de_feu.md)
 - Source: (SRD p144)
 -  3th-level evocation
 - **Casting Time :** 1 action

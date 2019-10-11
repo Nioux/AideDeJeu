@@ -4,7 +4,7 @@
 
 # Emprisonnement
 
-- SRD: [Imprisonment](srd_spells_imprisonment.md)
+- Alias: [Imprisonment](srd_spells_imprisonment.md)
 
 -  Abjuration de niveau 9
 

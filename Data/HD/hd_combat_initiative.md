@@ -4,7 +4,7 @@
 
 ### Initiative
 
-- AltName: Initiative (SRD p90)
+- Alias: Initiative (SRD p90)
 - Source: (MDR p284)
 
 L'initiative permet de déterminer l'ordre des tours pendant un combat. Au début du combat, chaque par- ticipant fait un test de Dextérité afin de déterminer son rang dans l'ordre d'initiative. Le MJ lance un seul dé pour un groupe de créatures identiques, de sorte que tous les membres de ce groupe agissent en même temps.

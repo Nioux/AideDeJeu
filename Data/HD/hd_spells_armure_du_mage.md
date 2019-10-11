@@ -4,7 +4,7 @@
 
 # Armure du mage
 
-- SRD: [Mage Armor](srd_spells_mage_armor.md)
+- Alias: [Mage Armor](srd_spells_mage_armor.md)
 
 -  Abjuration de niveau 1
 

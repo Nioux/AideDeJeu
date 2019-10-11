@@ -4,7 +4,7 @@
 
 # Pseudodragon
 
-- CEO: [Pseudodragon](hd_monsters_pseudodragon.md)
+- Alias: [Pseudodragon](hd_monsters_pseudodragon.md)
 -  Tiny dragon, neutral good
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 7 (2d4 + 2)

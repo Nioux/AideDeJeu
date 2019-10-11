@@ -4,7 +4,7 @@
 
 ### Solvant universel
 
-- AltName: Universal Solvent (SRD p248)
+- Alias: Universal Solvent (SRD p248)
 - Source: (CDC p186)
 -  Objet merveilleux, légendaire
 

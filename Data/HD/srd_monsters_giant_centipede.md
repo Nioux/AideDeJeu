@@ -4,7 +4,7 @@
 
 # Giant Centipede
 
-- CEO: [Mille-pattes géant](hd_monsters_mille_pattes_geant.md)
+- Alias: [Mille-pattes géant](hd_monsters_mille_pattes_geant.md)
 -  Small beast, unaligned
 - **Armor Class** 13 (natural armor)
 - **Hit Points** 4 (1d6 + 1)

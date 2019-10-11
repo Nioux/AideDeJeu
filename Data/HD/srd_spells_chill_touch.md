@@ -4,7 +4,7 @@
 
 # Chill Touch
 
-- MDR: [Contact glacial](hd_spells_contact_glacial.md)
+- Alias: [Contact glacial](hd_spells_contact_glacial.md)
 - Source: (SRD p124)
 -  Necromancy cantrip
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Gardienne des bocages Alséide
 
 - Source: (LDM p13)(TOB p15)
-- TOB: Alseid grovekeeper
+- Alias: Alseid grovekeeper
 -  Créature monstrueuse de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15 (armure de cuir clouté)
 - **Points de vie** 71 (13d8+13)

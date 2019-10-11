@@ -4,7 +4,7 @@
 
 # Locate Object
 
-- MDR: [Localiser un objet](hd_spells_localiser_un_objet.md)
+- Alias: [Localiser un objet](hd_spells_localiser_un_objet.md)
 - Source: (SRD p159)
 -  2nd-level divination
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Crocodile
 
-- CEO: [Crocodile](hd_monsters_crocodile.md)
+- Alias: [Crocodile](hd_monsters_crocodile.md)
 -  Large beast, unaligned
 - **Armor Class** 12 (natural armor)
 - **Hit Points** 19 (3d10 + 3)

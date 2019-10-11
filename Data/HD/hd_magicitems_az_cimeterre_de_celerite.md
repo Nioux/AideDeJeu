@@ -4,7 +4,7 @@
 
 ### Cimeterre de célérité
 
-- AltName: Scimitar of Speed (SRD p241)
+- Alias: Scimitar of Speed (SRD p241)
 - Source: (CDC p160)
 -  Arme (cimeterre), très rare (harmonisation requise)
 

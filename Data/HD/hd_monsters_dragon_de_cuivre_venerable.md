@@ -5,7 +5,7 @@
 # Dragon de cuivre vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
+- Alias: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 21 (armure naturelle)

@@ -2,7 +2,7 @@
 
 namespace AideDeJeu.ViewModels.Library
 {
-    public class ItemDetailViewModel : BaseViewModel
+    public class ItemDetailViewModelOld : BaseViewModel
     {
         Item _Item = null;
         public Item Item
@@ -14,7 +14,7 @@ namespace AideDeJeu.ViewModels.Library
             }
         }
 
-        public ItemDetailViewModel(Item item = null)
+        public ItemDetailViewModelOld(Item item = null)
         {
             Title = item?.Name;
             Item = item;

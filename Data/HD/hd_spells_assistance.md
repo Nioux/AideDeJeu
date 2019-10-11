@@ -4,7 +4,7 @@
 
 # Assistance
 
-- SRD: [Guidance](srd_spells_guidance.md)
+- Alias: [Guidance](srd_spells_guidance.md)
 
 -  Divination, tour de magie
 

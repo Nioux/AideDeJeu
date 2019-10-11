@@ -5,7 +5,7 @@
 # Harpie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Harpy](srd_monsters_harpy.md)
+- Alias: [Harpy](srd_monsters_harpy.md)
 -  Créature monstrueuse de taille M, Chaotique Mauvais
 - **Terrain** Littoral, Montagnes, Ruines extérieures
 - **Classe d'armure** 11

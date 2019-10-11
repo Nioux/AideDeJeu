@@ -4,7 +4,7 @@
 
 # Heal
 
-- MDR: [Guérison](hd_spells_guerison.md)
+- Alias: [Guérison](hd_spells_guerison.md)
 - Source: (SRD p153)
 -  6th-level evocation
 - **Casting Time :** 1 action

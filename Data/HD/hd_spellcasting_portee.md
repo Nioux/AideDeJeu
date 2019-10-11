@@ -4,7 +4,7 @@
 
 ### Portée
 
-- AltName: Range (SRD p101)
+- Alias: Range (SRD p101)
 - Source: (MDR p307)
 
 La cible d'un sort doit être à portée de ce sort. Pour un sort comme projectile magique, la cible est une créature, pour un sort comme boule de feu, c'est le point où la boule explose.

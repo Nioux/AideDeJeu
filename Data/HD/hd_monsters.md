@@ -51,7 +51,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Aboleth](srd_monsters_aboleth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Aboleth](srd_monsters_aboleth.md)<!--/AltName-->
 
 
 
@@ -532,7 +532,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wraith](srd_monsters_wraith.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wraith](srd_monsters_wraith.md)<!--/AltName-->
 
 
 
@@ -913,7 +913,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Deva](srd_monsters_deva.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Deva](srd_monsters_deva.md)<!--/AltName-->
 
 
 
@@ -1145,7 +1145,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Planetar](srd_monsters_planetar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Planetar](srd_monsters_planetar.md)<!--/AltName-->
 
 
 
@@ -1378,7 +1378,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Solar](srd_monsters_solar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Solar](srd_monsters_solar.md)<!--/AltName-->
 
 
 
@@ -1667,7 +1667,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ankheg](srd_monsters_ankheg.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ankheg](srd_monsters_ankheg.md)<!--/AltName-->
 
 
 
@@ -1823,7 +1823,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Azer](srd_monsters_azer.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Azer](srd_monsters_azer.md)<!--/AltName-->
 
 
 
@@ -2013,7 +2013,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gibbering Mouther](srd_monsters_gibbering_mouther.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gibbering Mouther](srd_monsters_gibbering_mouther.md)<!--/AltName-->
 
 
 
@@ -2196,7 +2196,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Basilisk](srd_monsters_basilisk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Basilisk](srd_monsters_basilisk.md)<!--/AltName-->
 
 
 
@@ -2381,7 +2381,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Behir](srd_monsters_behir.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Behir](srd_monsters_behir.md)<!--/AltName-->
 
 
 
@@ -2577,7 +2577,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bulette](srd_monsters_bulette.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bulette](srd_monsters_bulette.md)<!--/AltName-->
 
 
 
@@ -2755,7 +2755,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Centaur](srd_monsters_centaur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Centaur](srd_monsters_centaur.md)<!--/AltName-->
 
 
 
@@ -3136,7 +3136,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shrieker](srd_monsters_shrieker.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shrieker](srd_monsters_shrieker.md)<!--/AltName-->
 
 
 
@@ -3296,7 +3296,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Violet Fungus](srd_monsters_violet_fungus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Violet Fungus](srd_monsters_violet_fungus.md)<!--/AltName-->
 
 
 
@@ -3468,7 +3468,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Chimera](srd_monsters_chimera.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chimera](srd_monsters_chimera.md)<!--/AltName-->
 
 
 
@@ -3660,7 +3660,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Chuul](srd_monsters_chuul.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chuul](srd_monsters_chuul.md)<!--/AltName-->
 
 
 
@@ -3861,7 +3861,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cockatrice](srd_monsters_cockatrice.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cockatrice](srd_monsters_cockatrice.md)<!--/AltName-->
 
 
 
@@ -4011,7 +4011,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Couatl](srd_monsters_couatl.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Couatl](srd_monsters_couatl.md)<!--/AltName-->
 
 
 
@@ -4444,7 +4444,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Balor](srd_monsters_balor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Balor](srd_monsters_balor.md)<!--/AltName-->
 
 
 
@@ -4669,7 +4669,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dretch](srd_monsters_dretch.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dretch](srd_monsters_dretch.md)<!--/AltName-->
 
 
 
@@ -4859,7 +4859,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Glabrezu](srd_monsters_glabrezu.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Glabrezu](srd_monsters_glabrezu.md)<!--/AltName-->
 
 
 
@@ -5079,7 +5079,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hezrou](srd_monsters_hezrou.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hezrou](srd_monsters_hezrou.md)<!--/AltName-->
 
 
 
@@ -5293,7 +5293,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Marilith](srd_monsters_marilith.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Marilith](srd_monsters_marilith.md)<!--/AltName-->
 
 
 
@@ -5531,7 +5531,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Nalfeshnee](srd_monsters_nalfeshnee.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nalfeshnee](srd_monsters_nalfeshnee.md)<!--/AltName-->
 
 
 
@@ -5757,7 +5757,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Quasit](srd_monsters_quasit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Quasit](srd_monsters_quasit.md)<!--/AltName-->
 
 
 
@@ -5971,7 +5971,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Vrock](srd_monsters_vrock.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vrock](srd_monsters_vrock.md)<!--/AltName-->
 
 
 
@@ -6188,7 +6188,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Nightmare](srd_monsters_nightmare.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Nightmare](srd_monsters_nightmare.md)<!--/AltName-->
 
 
 
@@ -6659,7 +6659,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Barbed Devil](srd_monsters_barbed_devil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Barbed Devil](srd_monsters_barbed_devil.md)<!--/AltName-->
 
 
 
@@ -6891,7 +6891,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bearded Devil](srd_monsters_bearded_devil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bearded Devil](srd_monsters_bearded_devil.md)<!--/AltName-->
 
 
 
@@ -7105,7 +7105,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Horned Devil](srd_monsters_horned_devil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Horned Devil](srd_monsters_horned_devil.md)<!--/AltName-->
 
 
 
@@ -7325,7 +7325,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ice Devil](srd_monsters_ice_devil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ice Devil](srd_monsters_ice_devil.md)<!--/AltName-->
 
 
 
@@ -7587,7 +7587,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Chain Devil](srd_monsters_chain_devil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Chain Devil](srd_monsters_chain_devil.md)<!--/AltName-->
 
 
 
@@ -7814,7 +7814,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bone Devil](srd_monsters_bone_devil.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bone Devil](srd_monsters_bone_devil.md)<!--/AltName-->
 
 
 
@@ -8028,7 +8028,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Imp](srd_monsters_imp.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Imp](srd_monsters_imp.md)<!--/AltName-->
 
 
 
@@ -8236,7 +8236,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Pit Fiend](srd_monsters_pit_fiend.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pit Fiend](srd_monsters_pit_fiend.md)<!--/AltName-->
 
 
 
@@ -8492,7 +8492,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Erinyes](srd_monsters_erinyes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Erinyes](srd_monsters_erinyes.md)<!--/AltName-->
 
 
 
@@ -8711,7 +8711,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lemure](srd_monsters_lemure.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lemure](srd_monsters_lemure.md)<!--/AltName-->
 
 
 
@@ -9085,7 +9085,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Plesiosaurus](srd_monsters_plesiosaurus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Plesiosaurus](srd_monsters_plesiosaurus.md)<!--/AltName-->
 
 
 
@@ -9250,7 +9250,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Triceratops](srd_monsters_triceratops.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Triceratops](srd_monsters_triceratops.md)<!--/AltName-->
 
 
 
@@ -9422,7 +9422,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)<!--/AltName-->
 
 
 
@@ -9595,7 +9595,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Doppelganger](srd_monsters_doppelganger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Doppelganger](srd_monsters_doppelganger.md)<!--/AltName-->
 
 
 
@@ -9799,7 +9799,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient White Dragon](srd_monsters_ancient_white_dragon.md)<!--/AltName-->
 
 
 
@@ -10057,7 +10057,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult White Dragon](srd_monsters_adult_white_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult White Dragon](srd_monsters_adult_white_dragon.md)<!--/AltName-->
 
 
 
@@ -10315,7 +10315,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young White Dragon](srd_monsters_young_white_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young White Dragon](srd_monsters_young_white_dragon.md)<!--/AltName-->
 
 
 
@@ -10519,7 +10519,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -10693,7 +10693,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)<!--/AltName-->
 
 
 
@@ -10945,7 +10945,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)<!--/AltName-->
 
 
 
@@ -11197,7 +11197,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Blue Dragon](srd_monsters_young_blue_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Blue Dragon](srd_monsters_young_blue_dragon.md)<!--/AltName-->
 
 
 
@@ -11389,7 +11389,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -11563,7 +11563,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)<!--/AltName-->
 
 
 
@@ -11815,7 +11815,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Black Dragon](srd_monsters_adult_black_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Black Dragon](srd_monsters_adult_black_dragon.md)<!--/AltName-->
 
 
 
@@ -12073,7 +12073,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Black Dragon](srd_monsters_young_black_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Black Dragon](srd_monsters_young_black_dragon.md)<!--/AltName-->
 
 
 
@@ -12277,7 +12277,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -12463,7 +12463,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)<!--/AltName-->
 
 
 
@@ -12715,7 +12715,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Red Dragon](srd_monsters_adult_red_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Red Dragon](srd_monsters_adult_red_dragon.md)<!--/AltName-->
 
 
 
@@ -12967,7 +12967,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Red Dragon](srd_monsters_young_red_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Red Dragon](srd_monsters_young_red_dragon.md)<!--/AltName-->
 
 
 
@@ -13159,7 +13159,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -13334,7 +13334,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)<!--/AltName-->
 
 
 
@@ -13605,7 +13605,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Green Dragon](srd_monsters_adult_green_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Green Dragon](srd_monsters_adult_green_dragon.md)<!--/AltName-->
 
 
 
@@ -13870,7 +13870,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Green Dragon](srd_monsters_young_green_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Green Dragon](srd_monsters_young_green_dragon.md)<!--/AltName-->
 
 
 
@@ -14081,7 +14081,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -14273,7 +14273,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)<!--/AltName-->
 
 
 
@@ -14555,7 +14555,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)<!--/AltName-->
 
 
 
@@ -14819,7 +14819,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Brass Dragon](srd_monsters_young_brass_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Brass Dragon](srd_monsters_young_brass_dragon.md)<!--/AltName-->
 
 
 
@@ -15023,7 +15023,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -15209,7 +15209,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)<!--/AltName-->
 
 
 
@@ -15485,7 +15485,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)<!--/AltName-->
 
 
 
@@ -15767,7 +15767,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Silver Dragon](srd_monsters_young_silver_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Silver Dragon](srd_monsters_young_silver_dragon.md)<!--/AltName-->
 
 
 
@@ -15971,7 +15971,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -16157,7 +16157,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)<!--/AltName-->
 
 
 
@@ -16439,7 +16439,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)<!--/AltName-->
 
 
 
@@ -16727,7 +16727,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)<!--/AltName-->
 
 
 
@@ -16943,7 +16943,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -17141,7 +17141,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)<!--/AltName-->
 
 
 
@@ -17429,7 +17429,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)<!--/AltName-->
 
 
 
@@ -17699,7 +17699,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Copper Dragon](srd_monsters_young_copper_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Copper Dragon](srd_monsters_young_copper_dragon.md)<!--/AltName-->
 
 
 
@@ -17915,7 +17915,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -18100,7 +18100,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)<!--/AltName-->
 
 
 
@@ -18379,7 +18379,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)<!--/AltName-->
 
 
 
@@ -18664,7 +18664,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Young Gold Dragon](srd_monsters_young_gold_dragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Young Gold Dragon](srd_monsters_young_gold_dragon.md)<!--/AltName-->
 
 
 
@@ -18877,7 +18877,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)<!--/AltName-->
 
 
 
@@ -19072,7 +19072,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dragon Turtle](srd_monsters_dragon_turtle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dragon Turtle](srd_monsters_dragon_turtle.md)<!--/AltName-->
 
 
 
@@ -19474,7 +19474,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Drider](srd_monsters_drider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Drider](srd_monsters_drider.md)<!--/AltName-->
 
 
 
@@ -19706,7 +19706,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Drow](srd_monsters_drow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Drow](srd_monsters_drow.md)<!--/AltName-->
 
 
 
@@ -20184,7 +20184,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dryad](srd_monsters_dryad.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dryad](srd_monsters_dryad.md)<!--/AltName-->
 
 
 
@@ -20404,7 +20404,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Duergar](srd_monsters_duergar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Duergar](srd_monsters_duergar.md)<!--/AltName-->
 
 
 
@@ -20608,7 +20608,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Air Elemental](srd_monsters_air_elemental.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Air Elemental](srd_monsters_air_elemental.md)<!--/AltName-->
 
 
 
@@ -20812,7 +20812,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Water Elemental](srd_monsters_water_elemental.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Water Elemental](srd_monsters_water_elemental.md)<!--/AltName-->
 
 
 
@@ -21016,7 +21016,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fire Elemental](srd_monsters_fire_elemental.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fire Elemental](srd_monsters_fire_elemental.md)<!--/AltName-->
 
 
 
@@ -21215,7 +21215,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Earth Elemental](srd_monsters_earth_elemental.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Earth Elemental](srd_monsters_earth_elemental.md)<!--/AltName-->
 
 
 
@@ -21411,7 +21411,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Roper](srd_monsters_roper.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Roper](srd_monsters_roper.md)<!--/AltName-->
 
 
 
@@ -21619,7 +21619,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sprite](srd_monsters_sprite.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sprite](srd_monsters_sprite.md)<!--/AltName-->
 
 
 
@@ -21797,7 +21797,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ettercap](srd_monsters_ettercap.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ettercap](srd_monsters_ettercap.md)<!--/AltName-->
 
 
 
@@ -22005,7 +22005,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ettin](srd_monsters_ettin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ettin](srd_monsters_ettin.md)<!--/AltName-->
 
 
 
@@ -22197,7 +22197,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ghost](srd_monsters_ghost.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ghost](srd_monsters_ghost.md)<!--/AltName-->
 
 
 
@@ -22413,7 +22413,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Will-o'-Wisp](srd_monsters_will_o_wisp.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Will-o'-Wisp](srd_monsters_will_o_wisp.md)<!--/AltName-->
 
 
 
@@ -22616,7 +22616,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shield Guardian](srd_monsters_shield_guardian.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shield Guardian](srd_monsters_shield_guardian.md)<!--/AltName-->
 
 
 
@@ -22820,7 +22820,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gargoyle](srd_monsters_gargoyle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gargoyle](srd_monsters_gargoyle.md)<!--/AltName-->
 
 
 
@@ -23016,7 +23016,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hill Giant](srd_monsters_hill_giant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hill Giant](srd_monsters_hill_giant.md)<!--/AltName-->
 
 
 
@@ -23189,7 +23189,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cloud Giant](srd_monsters_cloud_giant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cloud Giant](srd_monsters_cloud_giant.md)<!--/AltName-->
 
 
 
@@ -23404,7 +23404,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Stone Giant](srd_monsters_stone_giant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Stone Giant](srd_monsters_stone_giant.md)<!--/AltName-->
 
 
 
@@ -23597,7 +23597,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Storm Giant](srd_monsters_storm_giant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Storm Giant](srd_monsters_storm_giant.md)<!--/AltName-->
 
 
 
@@ -23825,7 +23825,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Fire Giant](srd_monsters_fire_giant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Fire Giant](srd_monsters_fire_giant.md)<!--/AltName-->
 
 
 
@@ -24011,7 +24011,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Frost Giant](srd_monsters_frost_giant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Frost Giant](srd_monsters_frost_giant.md)<!--/AltName-->
 
 
 
@@ -24196,7 +24196,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Djinni](srd_monsters_djinni.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Djinni](srd_monsters_djinni.md)<!--/AltName-->
 
 
 
@@ -24417,7 +24417,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Efreeti](srd_monsters_efreeti.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Efreeti](srd_monsters_efreeti.md)<!--/AltName-->
 
 
 
@@ -24630,7 +24630,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gnoll](srd_monsters_gnoll.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gnoll](srd_monsters_gnoll.md)<!--/AltName-->
 
 
 
@@ -24999,7 +24999,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)<!--/AltName-->
 
 
 
@@ -25201,7 +25201,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Goblin](srd_monsters_goblin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Goblin](srd_monsters_goblin.md)<!--/AltName-->
 
 
 
@@ -25996,7 +25996,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bugbear](srd_monsters_bugbear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bugbear](srd_monsters_bugbear.md)<!--/AltName-->
 
 
 
@@ -26384,7 +26384,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Clay Golem](srd_monsters_clay_golem.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Clay Golem](srd_monsters_clay_golem.md)<!--/AltName-->
 
 
 
@@ -26605,7 +26605,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flesh Golem](srd_monsters_flesh_golem.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flesh Golem](srd_monsters_flesh_golem.md)<!--/AltName-->
 
 
 
@@ -26844,7 +26844,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Iron Golem](srd_monsters_iron_golem.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Iron Golem](srd_monsters_iron_golem.md)<!--/AltName-->
 
 
 
@@ -27059,7 +27059,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Stone Golem](srd_monsters_stone_golem.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Stone Golem](srd_monsters_stone_golem.md)<!--/AltName-->
 
 
 
@@ -27256,7 +27256,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gorgon](srd_monsters_gorgon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gorgon](srd_monsters_gorgon.md)<!--/AltName-->
 
 
 
@@ -27453,7 +27453,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ghoul](srd_monsters_ghoul.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ghoul](srd_monsters_ghoul.md)<!--/AltName-->
 
 
 
@@ -27627,7 +27627,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ghast](srd_monsters_ghast.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ghast](srd_monsters_ghast.md)<!--/AltName-->
 
 
 
@@ -27823,7 +27823,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Grick](srd_monsters_grick.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grick](srd_monsters_grick.md)<!--/AltName-->
 
 
 
@@ -28007,7 +28007,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Griffon](srd_monsters_griffon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Griffon](srd_monsters_griffon.md)<!--/AltName-->
 
 
 
@@ -28190,7 +28190,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sea Hag](srd_monsters_sea_hag.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sea Hag](srd_monsters_sea_hag.md)<!--/AltName-->
 
 
 
@@ -28382,7 +28382,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Night Hag](srd_monsters_night_hag.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Night Hag](srd_monsters_night_hag.md)<!--/AltName-->
 
 
 
@@ -28602,7 +28602,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Green Hag](srd_monsters_green_hag.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Green Hag](srd_monsters_green_hag.md)<!--/AltName-->
 
 
 
@@ -28809,7 +28809,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Harpy](srd_monsters_harpy.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Harpy](srd_monsters_harpy.md)<!--/AltName-->
 
 
 
@@ -28999,7 +28999,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Owlbear](srd_monsters_owlbear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Owlbear](srd_monsters_owlbear.md)<!--/AltName-->
 
 
 
@@ -29183,7 +29183,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hippogriff](srd_monsters_hippogriff.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hippogriff](srd_monsters_hippogriff.md)<!--/AltName-->
 
 
 
@@ -29366,7 +29366,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hobgoblin](srd_monsters_hobgoblin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hobgoblin](srd_monsters_hobgoblin.md)<!--/AltName-->
 
 
 
@@ -29714,7 +29714,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lizardfolk](srd_monsters_lizardfolk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lizardfolk](srd_monsters_lizardfolk.md)<!--/AltName-->
 
 
 
@@ -30123,7 +30123,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Merfolk](srd_monsters_merfolk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Merfolk](srd_monsters_merfolk.md)<!--/AltName-->
 
 
 
@@ -30290,7 +30290,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Homunculus](srd_monsters_homunculus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Homunculus](srd_monsters_homunculus.md)<!--/AltName-->
 
 
 
@@ -30462,7 +30462,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hydra](srd_monsters_hydra.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hydra](srd_monsters_hydra.md)<!--/AltName-->
 
 
 
@@ -30663,7 +30663,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Kobold](srd_monsters_kobold.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Kobold](srd_monsters_kobold.md)<!--/AltName-->
 
 
 
@@ -31025,7 +31025,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Kraken](srd_monsters_kraken.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Kraken](srd_monsters_kraken.md)<!--/AltName-->
 
 
 
@@ -31281,7 +31281,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lamia](srd_monsters_lamia.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lamia](srd_monsters_lamia.md)<!--/AltName-->
 
 
 
@@ -31498,7 +31498,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lich](srd_monsters_lich.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lich](srd_monsters_lich.md)<!--/AltName-->
 
 
 
@@ -31797,7 +31797,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Unicorn](srd_monsters_unicorn.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Unicorn](srd_monsters_unicorn.md)<!--/AltName-->
 
 
 
@@ -32060,7 +32060,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Werewolf](srd_monsters_werewolf.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Werewolf](srd_monsters_werewolf.md)<!--/AltName-->
 
 
 
@@ -32269,7 +32269,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Werebear](srd_monsters_werebear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Werebear](srd_monsters_werebear.md)<!--/AltName-->
 
 
 
@@ -32478,7 +32478,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wererat](srd_monsters_wererat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wererat](srd_monsters_wererat.md)<!--/AltName-->
 
 
 
@@ -32687,7 +32687,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wereboar](srd_monsters_wereboar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wereboar](srd_monsters_wereboar.md)<!--/AltName-->
 
 
 
@@ -32890,7 +32890,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Weretiger](srd_monsters_weretiger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Weretiger](srd_monsters_weretiger.md)<!--/AltName-->
 
 
 
@@ -33117,7 +33117,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magmin](srd_monsters_magmin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magmin](srd_monsters_magmin.md)<!--/AltName-->
 
 
 
@@ -33307,7 +33307,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cloaker](srd_monsters_cloaker.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cloaker](srd_monsters_cloaker.md)<!--/AltName-->
 
 
 
@@ -33533,7 +33533,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Darkmantle](srd_monsters_darkmantle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Darkmantle](srd_monsters_darkmantle.md)<!--/AltName-->
 
 
 
@@ -33728,7 +33728,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Manticore](srd_monsters_manticore.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Manticore](srd_monsters_manticore.md)<!--/AltName-->
 
 
 
@@ -33918,7 +33918,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Medusa](srd_monsters_medusa.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Medusa](srd_monsters_medusa.md)<!--/AltName-->
 
 
 
@@ -34129,7 +34129,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ice Mephit](srd_monsters_ice_mephit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ice Mephit](srd_monsters_ice_mephit.md)<!--/AltName-->
 
 
 
@@ -34340,7 +34340,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Magma Mephit](srd_monsters_magma_mephit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Magma Mephit](srd_monsters_magma_mephit.md)<!--/AltName-->
 
 
 
@@ -34545,7 +34545,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dust Mephit](srd_monsters_dust_mephit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dust Mephit](srd_monsters_dust_mephit.md)<!--/AltName-->
 
 
 
@@ -34748,7 +34748,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Steam Mephit](srd_monsters_steam_mephit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Steam Mephit](srd_monsters_steam_mephit.md)<!--/AltName-->
 
 
 
@@ -34937,7 +34937,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Merrow](srd_monsters_merrow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Merrow](srd_monsters_merrow.md)<!--/AltName-->
 
 
 
@@ -35135,7 +35135,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mimic](srd_monsters_mimic.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mimic](srd_monsters_mimic.md)<!--/AltName-->
 
 
 
@@ -35349,7 +35349,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Minotaur](srd_monsters_minotaur.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Minotaur](srd_monsters_minotaur.md)<!--/AltName-->
 
 
 
@@ -35545,7 +35545,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hell Hound](srd_monsters_hell_hound.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hell Hound](srd_monsters_hell_hound.md)<!--/AltName-->
 
 
 
@@ -35731,7 +35731,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mummy](srd_monsters_mummy.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mummy](srd_monsters_mummy.md)<!--/AltName-->
 
 
 
@@ -35931,7 +35931,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mummy Lord](srd_monsters_mummy_lord.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mummy Lord](srd_monsters_mummy_lord.md)<!--/AltName-->
 
 
 
@@ -36249,7 +36249,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spirit Naga](srd_monsters_spirit_naga.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spirit Naga](srd_monsters_spirit_naga.md)<!--/AltName-->
 
 
 
@@ -36471,7 +36471,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Guardian Naga](srd_monsters_guardian_naga.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guardian Naga](srd_monsters_guardian_naga.md)<!--/AltName-->
 
 
 
@@ -36712,7 +36712,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wight](srd_monsters_wight.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wight](srd_monsters_wight.md)<!--/AltName-->
 
 
 
@@ -36933,7 +36933,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Animated Armor](srd_monsters_animated_armor.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Animated Armor](srd_monsters_animated_armor.md)<!--/AltName-->
 
 
 
@@ -37119,7 +37119,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flying Sword](srd_monsters_flying_sword.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flying Sword](srd_monsters_flying_sword.md)<!--/AltName-->
 
 
 
@@ -37304,7 +37304,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Rug of Smothering](srd_monsters_rug_of_smothering.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rug of Smothering](srd_monsters_rug_of_smothering.md)<!--/AltName-->
 
 
 
@@ -37499,7 +37499,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ogre](srd_monsters_ogre.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ogre](srd_monsters_ogre.md)<!--/AltName-->
 
 
 
@@ -37663,7 +37663,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shadow](srd_monsters_shadow.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shadow](srd_monsters_shadow.md)<!--/AltName-->
 
 
 
@@ -37871,7 +37871,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Oni](srd_monsters_oni.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Oni](srd_monsters_oni.md)<!--/AltName-->
 
 
 
@@ -38449,7 +38449,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Otyugh](srd_monsters_otyugh.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Otyugh](srd_monsters_otyugh.md)<!--/AltName-->
 
 
 
@@ -38650,7 +38650,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Rust Monster](srd_monsters_rust_monster.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rust Monster](srd_monsters_rust_monster.md)<!--/AltName-->
 
 
 
@@ -39065,7 +39065,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Pegasus](srd_monsters_pegasus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pegasus](srd_monsters_pegasus.md)<!--/AltName-->
 
 
 
@@ -39223,7 +39223,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Pseudodragon](srd_monsters_pseudodragon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pseudodragon](srd_monsters_pseudodragon.md)<!--/AltName-->
 
 
 
@@ -39414,7 +39414,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Rakshasa](srd_monsters_rakshasa.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rakshasa](srd_monsters_rakshasa.md)<!--/AltName-->
 
 
 
@@ -39804,7 +39804,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Roc](srd_monsters_roc.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Roc](srd_monsters_roc.md)<!--/AltName-->
 
 
 
@@ -39994,7 +39994,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sahuagin](srd_monsters_sahuagin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sahuagin](srd_monsters_sahuagin.md)<!--/AltName-->
 
 
 
@@ -40441,7 +40441,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Salamander](srd_monsters_salamander.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Salamander](srd_monsters_salamander.md)<!--/AltName-->
 
 
 
@@ -40643,7 +40643,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Satyr](srd_monsters_satyr.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Satyr](srd_monsters_satyr.md)<!--/AltName-->
 
 
 
@@ -41245,7 +41245,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Specter](srd_monsters_specter.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Specter](srd_monsters_specter.md)<!--/AltName-->
 
 
 
@@ -41432,7 +41432,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Androsphinx](srd_monsters_androsphinx.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Androsphinx](srd_monsters_androsphinx.md)<!--/AltName-->
 
 
 
@@ -41733,7 +41733,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gynosphinx](srd_monsters_gynosphinx.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gynosphinx](srd_monsters_gynosphinx.md)<!--/AltName-->
 
 
 
@@ -42003,7 +42003,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Skeleton](srd_monsters_skeleton.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Skeleton](srd_monsters_skeleton.md)<!--/AltName-->
 
 
 
@@ -42182,7 +42182,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)<!--/AltName-->
 
 
 
@@ -42348,7 +42348,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)<!--/AltName-->
 
 
 
@@ -42537,7 +42537,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Stirge](srd_monsters_stirge.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Stirge](srd_monsters_stirge.md)<!--/AltName-->
 
 
 
@@ -42697,7 +42697,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Succubus](srd_monsters_succubus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Succubus](srd_monsters_succubus.md)<!--/AltName-->
 
 
 
@@ -42904,7 +42904,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Treant](srd_monsters_treant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Treant](srd_monsters_treant.md)<!--/AltName-->
 
 
 
@@ -43107,7 +43107,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tarrasque](srd_monsters_tarrasque.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tarrasque](srd_monsters_tarrasque.md)<!--/AltName-->
 
 
 
@@ -43756,7 +43756,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Shambling Mound](srd_monsters_shambling_mound.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Shambling Mound](srd_monsters_shambling_mound.md)<!--/AltName-->
 
 
 
@@ -43953,7 +43953,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Grimlock](srd_monsters_grimlock.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Grimlock](srd_monsters_grimlock.md)<!--/AltName-->
 
 
 
@@ -44139,7 +44139,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Invisible Stalker](srd_monsters_invisible_stalker.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Invisible Stalker](srd_monsters_invisible_stalker.md)<!--/AltName-->
 
 
 
@@ -44329,7 +44329,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Troll](srd_monsters_troll.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Troll](srd_monsters_troll.md)<!--/AltName-->
 
 
 
@@ -44521,7 +44521,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Vampire](srd_monsters_vampire.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vampire](srd_monsters_vampire.md)<!--/AltName-->
 
 
 
@@ -44851,7 +44851,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Vampire Spawn](srd_monsters_vampire_spawn.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vampire Spawn](srd_monsters_vampire_spawn.md)<!--/AltName-->
 
 
 
@@ -45089,7 +45089,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gelatinous Cube](srd_monsters_gelatinous_cube.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gelatinous Cube](srd_monsters_gelatinous_cube.md)<!--/AltName-->
 
 
 
@@ -45311,7 +45311,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ochre Jelly](srd_monsters_ochre_jelly.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ochre Jelly](srd_monsters_ochre_jelly.md)<!--/AltName-->
 
 
 
@@ -45508,7 +45508,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Black Pudding](srd_monsters_black_pudding.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Black Pudding](srd_monsters_black_pudding.md)<!--/AltName-->
 
 
 
@@ -45712,7 +45712,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gray Ooze](srd_monsters_gray_ooze.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gray Ooze](srd_monsters_gray_ooze.md)<!--/AltName-->
 
 
 
@@ -45914,7 +45914,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Purple Worm](srd_monsters_purple_worm.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Purple Worm](srd_monsters_purple_worm.md)<!--/AltName-->
 
 
 
@@ -46110,7 +46110,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wyvern](srd_monsters_wyvern.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wyvern](srd_monsters_wyvern.md)<!--/AltName-->
 
 
 
@@ -46295,7 +46295,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Xorn](srd_monsters_xorn.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Xorn](srd_monsters_xorn.md)<!--/AltName-->
 
 
 
@@ -46498,7 +46498,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Zombie](srd_monsters_zombie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Zombie](srd_monsters_zombie.md)<!--/AltName-->
 
 
 
@@ -46675,7 +46675,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ogre Zombie](srd_monsters_ogre_zombie.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ogre Zombie](srd_monsters_ogre_zombie.md)<!--/AltName-->
 
 
 
@@ -46851,7 +46851,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Eagle](srd_monsters_eagle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Eagle](srd_monsters_eagle.md)<!--/AltName-->
 
 
 
@@ -47017,7 +47017,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Eagle](srd_monsters_giant_eagle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Eagle](srd_monsters_giant_eagle.md)<!--/AltName-->
 
 
 
@@ -47201,7 +47201,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spider](srd_monsters_spider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spider](srd_monsters_spider.md)<!--/AltName-->
 
 
 
@@ -47379,7 +47379,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Phase Spider](srd_monsters_phase_spider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Phase Spider](srd_monsters_phase_spider.md)<!--/AltName-->
 
 
 
@@ -47557,7 +47557,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Spider](srd_monsters_giant_spider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Spider](srd_monsters_giant_spider.md)<!--/AltName-->
 
 
 
@@ -47747,7 +47747,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)<!--/AltName-->
 
 
 
@@ -47926,7 +47926,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Awakened Tree](srd_monsters_awakened_tree.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Awakened Tree](srd_monsters_awakened_tree.md)<!--/AltName-->
 
 
 
@@ -48099,7 +48099,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Awakened Shrub](srd_monsters_awakened_shrub.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Awakened Shrub](srd_monsters_awakened_shrub.md)<!--/AltName-->
 
 
 
@@ -48270,7 +48270,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Baboon](srd_monsters_baboon.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Baboon](srd_monsters_baboon.md)<!--/AltName-->
 
 
 
@@ -48429,7 +48429,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Axe Beak](srd_monsters_axe_beak.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Axe Beak](srd_monsters_axe_beak.md)<!--/AltName-->
 
 
 
@@ -48577,7 +48577,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Weasel](srd_monsters_weasel.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Weasel](srd_monsters_weasel.md)<!--/AltName-->
 
 
 
@@ -48743,7 +48743,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Weasel](srd_monsters_giant_weasel.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Weasel](srd_monsters_giant_weasel.md)<!--/AltName-->
 
 
 
@@ -48908,7 +48908,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Badger](srd_monsters_badger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Badger](srd_monsters_badger.md)<!--/AltName-->
 
 
 
@@ -49067,7 +49067,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Badger](srd_monsters_giant_badger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Badger](srd_monsters_giant_badger.md)<!--/AltName-->
 
 
 
@@ -49245,7 +49245,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Jackal](srd_monsters_jackal.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Jackal](srd_monsters_jackal.md)<!--/AltName-->
 
 
 
@@ -49416,7 +49416,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Camel](srd_monsters_camel.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Camel](srd_monsters_camel.md)<!--/AltName-->
 
 
 
@@ -49564,7 +49564,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cat](srd_monsters_cat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cat](srd_monsters_cat.md)<!--/AltName-->
 
 
 
@@ -49729,7 +49729,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bat](srd_monsters_bat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bat](srd_monsters_bat.md)<!--/AltName-->
 
 
 
@@ -49894,7 +49894,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Bat](srd_monsters_giant_bat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Bat](srd_monsters_giant_bat.md)<!--/AltName-->
 
 
 
@@ -50059,7 +50059,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Warhorse](srd_monsters_warhorse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Warhorse](srd_monsters_warhorse.md)<!--/AltName-->
 
 
 
@@ -50575,7 +50575,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Riding Horse](srd_monsters_riding_horse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Riding Horse](srd_monsters_riding_horse.md)<!--/AltName-->
 
 
 
@@ -50722,7 +50722,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Draft Horse](srd_monsters_draft_horse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Draft Horse](srd_monsters_draft_horse.md)<!--/AltName-->
 
 
 
@@ -50869,7 +50869,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Goat](srd_monsters_goat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Goat](srd_monsters_goat.md)<!--/AltName-->
 
 
 
@@ -51034,7 +51034,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Goat](srd_monsters_giant_goat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Goat](srd_monsters_giant_goat.md)<!--/AltName-->
 
 
 
@@ -51199,7 +51199,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Deer](srd_monsters_deer.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Deer](srd_monsters_deer.md)<!--/AltName-->
 
 
 
@@ -51347,7 +51347,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Death Dog](srd_monsters_death_dog.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Death Dog](srd_monsters_death_dog.md)<!--/AltName-->
 
 
 
@@ -51519,7 +51519,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blink Dog](srd_monsters_blink_dog.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blink Dog](srd_monsters_blink_dog.md)<!--/AltName-->
 
 
 
@@ -51691,7 +51691,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Owl](srd_monsters_owl.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Owl](srd_monsters_owl.md)<!--/AltName-->
 
 
 
@@ -51863,7 +51863,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Owl](srd_monsters_giant_owl.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Owl](srd_monsters_giant_owl.md)<!--/AltName-->
 
 
 
@@ -52035,7 +52035,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Raven](srd_monsters_raven.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Raven](srd_monsters_raven.md)<!--/AltName-->
 
 
 
@@ -52201,7 +52201,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Crab](srd_monsters_crab.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crab](srd_monsters_crab.md)<!--/AltName-->
 
 
 
@@ -52367,7 +52367,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Crab](srd_monsters_giant_crab.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Crab](srd_monsters_giant_crab.md)<!--/AltName-->
 
 
 
@@ -52532,7 +52532,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Toad](srd_monsters_giant_toad.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Toad](srd_monsters_giant_toad.md)<!--/AltName-->
 
 
 
@@ -52710,7 +52710,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Crocodile](srd_monsters_crocodile.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Crocodile](srd_monsters_crocodile.md)<!--/AltName-->
 
 
 
@@ -52876,7 +52876,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Crocodile](srd_monsters_giant_crocodile.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Crocodile](srd_monsters_giant_crocodile.md)<!--/AltName-->
 
 
 
@@ -53059,7 +53059,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Elk](srd_monsters_elk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Elk](srd_monsters_elk.md)<!--/AltName-->
 
 
 
@@ -53231,7 +53231,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Elk](srd_monsters_giant_elk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Elk](srd_monsters_giant_elk.md)<!--/AltName-->
 
 
 
@@ -53408,7 +53408,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Elephant](srd_monsters_elephant.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Elephant](srd_monsters_elephant.md)<!--/AltName-->
 
 
 
@@ -53580,7 +53580,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Killer Whale](srd_monsters_killer_whale.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Killer Whale](srd_monsters_killer_whale.md)<!--/AltName-->
 
 
 
@@ -53758,7 +53758,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hawk](srd_monsters_hawk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hawk](srd_monsters_hawk.md)<!--/AltName-->
 
 
 
@@ -53924,7 +53924,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Blood Hawk](srd_monsters_blood_hawk.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Blood Hawk](srd_monsters_blood_hawk.md)<!--/AltName-->
 
 
 
@@ -54096,7 +54096,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Ape](srd_monsters_ape.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Ape](srd_monsters_ape.md)<!--/AltName-->
 
 
 
@@ -54267,7 +54267,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Frog](srd_monsters_frog.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Frog](srd_monsters_frog.md)<!--/AltName-->
 
 
 
@@ -54421,7 +54421,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Frog](srd_monsters_giant_frog.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Frog](srd_monsters_giant_frog.md)<!--/AltName-->
 
 
 
@@ -54604,7 +54604,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Wasp](srd_monsters_giant_wasp.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Wasp](srd_monsters_giant_wasp.md)<!--/AltName-->
 
 
 
@@ -55086,7 +55086,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Sea Horse](srd_monsters_sea_horse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Sea Horse](srd_monsters_sea_horse.md)<!--/AltName-->
 
 
 
@@ -55227,7 +55227,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Sea Horse](srd_monsters_giant_sea_horse.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Sea Horse](srd_monsters_giant_sea_horse.md)<!--/AltName-->
 
 
 
@@ -55393,7 +55393,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hyena](srd_monsters_hyena.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hyena](srd_monsters_hyena.md)<!--/AltName-->
 
 
 
@@ -55559,7 +55559,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Hyena](srd_monsters_giant_hyena.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Hyena](srd_monsters_giant_hyena.md)<!--/AltName-->
 
 
 
@@ -55724,7 +55724,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lizard](srd_monsters_lizard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lizard](srd_monsters_lizard.md)<!--/AltName-->
 
 
 
@@ -55871,7 +55871,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Lizard](srd_monsters_giant_lizard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Lizard](srd_monsters_giant_lizard.md)<!--/AltName-->
 
 
 
@@ -56019,7 +56019,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Lion](srd_monsters_lion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Lion](srd_monsters_lion.md)<!--/AltName-->
 
 
 
@@ -56209,7 +56209,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Wolf](srd_monsters_wolf.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Wolf](srd_monsters_wolf.md)<!--/AltName-->
 
 
 
@@ -56382,7 +56382,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Winter Wolf](srd_monsters_winter_wolf.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Winter Wolf](srd_monsters_winter_wolf.md)<!--/AltName-->
 
 
 
@@ -56578,7 +56578,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Dire Wolf](srd_monsters_dire_wolf.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Dire Wolf](srd_monsters_dire_wolf.md)<!--/AltName-->
 
 
 
@@ -56749,7 +56749,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mammoth](srd_monsters_mammoth.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mammoth](srd_monsters_mammoth.md)<!--/AltName-->
 
 
 
@@ -56921,7 +56921,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mastiff](srd_monsters_mastiff.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mastiff](srd_monsters_mastiff.md)<!--/AltName-->
 
 
 
@@ -57086,7 +57086,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Centipede](srd_monsters_giant_centipede.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Centipede](srd_monsters_giant_centipede.md)<!--/AltName-->
 
 
 
@@ -57233,7 +57233,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mule](srd_monsters_mule.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mule](srd_monsters_mule.md)<!--/AltName-->
 
 
 
@@ -57400,7 +57400,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Swarm of Bats](srd_monsters_swarm_of_bats.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Swarm of Bats](srd_monsters_swarm_of_bats.md)<!--/AltName-->
 
 
 
@@ -57586,7 +57586,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Swarm of Ravens](srd_monsters_swarm_of_ravens.md)<!--/AltName-->
 
 
 
@@ -57765,7 +57765,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Swarm of Quippers](srd_monsters_swarm_of_quippers.md)<!--/AltName-->
 
 
 
@@ -57950,7 +57950,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Swarm of Rats](srd_monsters_swarm_of_rats.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Swarm of Rats](srd_monsters_swarm_of_rats.md)<!--/AltName-->
 
 
 
@@ -58129,7 +58129,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)<!--/AltName-->
 
 
 
@@ -58302,7 +58302,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Swarm of Insects](srd_monsters_swarm_of_insects.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Swarm of Insects](srd_monsters_swarm_of_insects.md)<!--/AltName-->
 
 
 
@@ -58522,7 +58522,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Brown Bear](srd_monsters_brown_bear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Brown Bear](srd_monsters_brown_bear.md)<!--/AltName-->
 
 
 
@@ -58705,7 +58705,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Black Bear](srd_monsters_black_bear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Black Bear](srd_monsters_black_bear.md)<!--/AltName-->
 
 
 
@@ -58887,7 +58887,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Polar Bear](srd_monsters_polar_bear.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Polar Bear](srd_monsters_polar_bear.md)<!--/AltName-->
 
 
 
@@ -59071,7 +59071,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Panther](srd_monsters_panther.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Panther](srd_monsters_panther.md)<!--/AltName-->
 
 
 
@@ -59255,7 +59255,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Octopus](srd_monsters_octopus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Octopus](srd_monsters_octopus.md)<!--/AltName-->
 
 
 
@@ -59439,7 +59439,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Octopus](srd_monsters_giant_octopus.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Octopus](srd_monsters_giant_octopus.md)<!--/AltName-->
 
 
 
@@ -59628,7 +59628,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Quipper](srd_monsters_quipper.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Quipper](srd_monsters_quipper.md)<!--/AltName-->
 
 
 
@@ -59793,7 +59793,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Pony](srd_monsters_pony.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Pony](srd_monsters_pony.md)<!--/AltName-->
 
 
 
@@ -59940,7 +59940,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)<!--/AltName-->
 
 
 
@@ -60099,7 +60099,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Rat](srd_monsters_rat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rat](srd_monsters_rat.md)<!--/AltName-->
 
 
 
@@ -60258,7 +60258,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Rat](srd_monsters_giant_rat.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Rat](srd_monsters_giant_rat.md)<!--/AltName-->
 
 
 
@@ -60448,7 +60448,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Hunter Shark](srd_monsters_hunter_shark.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Hunter Shark](srd_monsters_hunter_shark.md)<!--/AltName-->
 
 
 
@@ -60620,7 +60620,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Reef Shark](srd_monsters_reef_shark.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Reef Shark](srd_monsters_reef_shark.md)<!--/AltName-->
 
 
 
@@ -60792,7 +60792,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Shark](srd_monsters_giant_shark.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Shark](srd_monsters_giant_shark.md)<!--/AltName-->
 
 
 
@@ -60963,7 +60963,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Rhinoceros](srd_monsters_rhinoceros.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Rhinoceros](srd_monsters_rhinoceros.md)<!--/AltName-->
 
 
 
@@ -61128,7 +61128,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Boar](srd_monsters_boar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Boar](srd_monsters_boar.md)<!--/AltName-->
 
 
 
@@ -61293,7 +61293,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Boar](srd_monsters_giant_boar.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Boar](srd_monsters_giant_boar.md)<!--/AltName-->
 
 
 
@@ -61458,7 +61458,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Scorpion](srd_monsters_scorpion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scorpion](srd_monsters_scorpion.md)<!--/AltName-->
 
 
 
@@ -61605,7 +61605,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Scorpion](srd_monsters_giant_scorpion.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Scorpion](srd_monsters_giant_scorpion.md)<!--/AltName-->
 
 
 
@@ -61770,7 +61770,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Constrictor Snake](srd_monsters_constrictor_snake.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Constrictor Snake](srd_monsters_constrictor_snake.md)<!--/AltName-->
 
 
 
@@ -61930,7 +61930,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)<!--/AltName-->
 
 
 
@@ -62095,7 +62095,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Poisonous Snake](srd_monsters_poisonous_snake.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Poisonous Snake](srd_monsters_poisonous_snake.md)<!--/AltName-->
 
 
 
@@ -62243,7 +62243,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)<!--/AltName-->
 
 
 
@@ -62402,7 +62402,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Flying Snake](srd_monsters_flying_snake.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Flying Snake](srd_monsters_flying_snake.md)<!--/AltName-->
 
 
 
@@ -62562,7 +62562,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Ape](srd_monsters_giant_ape.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Ape](srd_monsters_giant_ape.md)<!--/AltName-->
 
 
 
@@ -62734,7 +62734,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tiger](srd_monsters_tiger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tiger](srd_monsters_tiger.md)<!--/AltName-->
 
 
 
@@ -62918,7 +62918,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)<!--/AltName-->
 
 
 
@@ -63102,7 +63102,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Vulture](srd_monsters_vulture.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Vulture](srd_monsters_vulture.md)<!--/AltName-->
 
 
 
@@ -63274,7 +63274,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Giant Vulture](srd_monsters_giant_vulture.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Giant Vulture](srd_monsters_giant_vulture.md)<!--/AltName-->
 
 
 
@@ -63464,7 +63464,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Worg](srd_monsters_worg.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Worg](srd_monsters_worg.md)<!--/AltName-->
 
 
 
@@ -63629,7 +63629,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Acolyte](srd_monsters_acolyte.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Acolyte](srd_monsters_acolyte.md)<!--/AltName-->
 
 
 
@@ -63806,7 +63806,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Archmage](srd_monsters_archmage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Archmage](srd_monsters_archmage.md)<!--/AltName-->
 
 
 
@@ -64061,7 +64061,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Assassin](srd_monsters_assassin.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Assassin](srd_monsters_assassin.md)<!--/AltName-->
 
 
 
@@ -64265,7 +64265,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bandit](srd_monsters_bandit.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bandit](srd_monsters_bandit.md)<!--/AltName-->
 
 
 
@@ -64421,7 +64421,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Berserker](srd_monsters_berserker.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Berserker](srd_monsters_berserker.md)<!--/AltName-->
 
 
 
@@ -64579,7 +64579,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Bandit Captain](srd_monsters_bandit_captain.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Bandit Captain](srd_monsters_bandit_captain.md)<!--/AltName-->
 
 
 
@@ -64766,7 +64766,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Knight](srd_monsters_knight.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Knight](srd_monsters_knight.md)<!--/AltName-->
 
 
 
@@ -64965,7 +64965,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Druid](srd_monsters_druid.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Druid](srd_monsters_druid.md)<!--/AltName-->
 
 
 
@@ -65146,7 +65146,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Priest](srd_monsters_priest.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Priest](srd_monsters_priest.md)<!--/AltName-->
 
 
 
@@ -65345,7 +65345,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Scout](srd_monsters_scout.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Scout](srd_monsters_scout.md)<!--/AltName-->
 
 
 
@@ -65526,7 +65526,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Spy](srd_monsters_spy.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Spy](srd_monsters_spy.md)<!--/AltName-->
 
 
 
@@ -65713,7 +65713,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cult Fanatic](srd_monsters_cult_fanatic.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cult Fanatic](srd_monsters_cult_fanatic.md)<!--/AltName-->
 
 
 
@@ -65906,7 +65906,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Guard](srd_monsters_guard.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Guard](srd_monsters_guard.md)<!--/AltName-->
 
 
 
@@ -66058,7 +66058,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Gladiator](srd_monsters_gladiator.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Gladiator](srd_monsters_gladiator.md)<!--/AltName-->
 
 
 
@@ -66268,7 +66268,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Tribal Warrior](srd_monsters_tribal_warrior.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Tribal Warrior](srd_monsters_tribal_warrior.md)<!--/AltName-->
 
 
 
@@ -66426,7 +66426,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Mage](srd_monsters_mage.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Mage](srd_monsters_mage.md)<!--/AltName-->
 
 
 
@@ -66631,7 +66631,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Thug](srd_monsters_thug.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Thug](srd_monsters_thug.md)<!--/AltName-->
 
 
 
@@ -66818,7 +66818,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Cultist](srd_monsters_cultist.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Cultist](srd_monsters_cultist.md)<!--/AltName-->
 
 
 
@@ -66981,7 +66981,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Noble](srd_monsters_noble.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Noble](srd_monsters_noble.md)<!--/AltName-->
 
 
 
@@ -67143,7 +67143,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Commoner](srd_monsters_commoner.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Commoner](srd_monsters_commoner.md)<!--/AltName-->
 
 
 
@@ -67288,7 +67288,7 @@ SubItems:
 
 
 
-      - SRD: <!--AltName-->[Veteran](srd_monsters_veteran.md)<!--/AltName-->
+      - Alias: <!--AltName-->[Veteran](srd_monsters_veteran.md)<!--/AltName-->
 
 
 
@@ -67464,7 +67464,7 @@ AttributesDictionary: >+
 
 
 
-    - SRD: <!--AltName-->[Monsters](srd_monsters.md)<!--/AltName-->
+    - Alias: <!--AltName-->[Monsters](srd_monsters.md)<!--/AltName-->
 
 
 
@@ -67482,7 +67482,7 @@ AttributesDictionary: >+
 # Aboleth
 
 - Source: (CEO p)(SRD p)
-- SRD: [Aboleth](srd_monsters_aboleth.md)
+- Alias: [Aboleth](srd_monsters_aboleth.md)
 -  Aberration de taille G, Loyal Mauvais
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 17 (armure naturelle)
@@ -67592,7 +67592,7 @@ Chaque fois que la cible [charmée](hd_conditions_charme.md) subit des dégâts,
 # Âme-en-peine
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wraith](srd_monsters_wraith.md)
+- Alias: [Wraith](srd_monsters_wraith.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** Collines / Vallées, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13
@@ -67673,7 +67673,7 @@ _Touché :_ 5 (1d4+3) dégâts tranchants.
 # Déva
 
 - Source: (CEO p)(SRD p)
-- SRD: [Deva](srd_monsters_deva.md)
+- Alias: [Deva](srd_monsters_deva.md)
 -  Céleste de taille M, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
@@ -67725,7 +67725,7 @@ _Touché :_ 7 (1d6+4) dégâts contondants plus 18 (4d8) dégâts radiants.
 # Planétar
 
 - Source: (CEO p)(SRD p)
-- SRD: [Planetar](srd_monsters_planetar.md)
+- Alias: [Planetar](srd_monsters_planetar.md)
 -  Céleste de taille G, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
@@ -67777,7 +67777,7 @@ _Touché :_ 21 (4d6+7) dégâts tranchants plus 22 (5d8) dégâts radiants.
 # Solar
 
 - Source: (CEO p)(SRD p)
-- SRD: [Solar](srd_monsters_solar.md)
+- Alias: [Solar](srd_monsters_solar.md)
 -  Céleste de taille G, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 21 (armure naturelle)
@@ -67848,7 +67848,7 @@ Le solar peut effectuer 3 actions légendaires qu'il choisit parmi celles décri
 # Ankheg
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ankheg](srd_monsters_ankheg.md)
+- Alias: [Ankheg](srd_monsters_ankheg.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane, Caverne naturelle
 - **Classe d'armure** 14 (armure naturelle), 11 quand il est [à terre](hd_conditions_a_terre.md)
@@ -67878,7 +67878,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants plus 3 (1d6) dégâts d'acide. Si la 
 # Azer
 
 - Source: (CEO p)(SRD p)
-- SRD: [Azer](srd_monsters_azer.md)
+- Alias: [Azer](srd_monsters_azer.md)
 -  Élémentaire de taille M, Loyal Neutre
 - **Terrain** Plans élémentaires, Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle, bouclier)
@@ -67917,7 +67917,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants ou 8 (1d10+3) dégâts contondants s'
 # Babélien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
+- Alias: [Gibbering Mouther](srd_monsters_gibbering_mouther.md)
 -  Aberration de taille M, neutre
 - **Terrain** Littoral, Mer / Océan, Caverne naturelle, Caverne sous-marine
 - **Classe d'armure** 9
@@ -67956,7 +67956,7 @@ _Touché :_ 17 (5d6) dégâts perforants. Si la cible est de taille M ou plus pe
 # Basilic
 
 - Source: (CEO p)(SRD p)
-- SRD: [Basilisk](srd_monsters_basilisk.md)
+- Alias: [Basilisk](srd_monsters_basilisk.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
@@ -67996,7 +67996,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants plus 7 (2d6) dégâts de poison.
 # Béhir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Behir](srd_monsters_behir.md)
+- Alias: [Behir](srd_monsters_behir.md)
 -  Créature monstrueuse de taille TG, Neutre Mauvais
 - **Terrain** Désert chaud, Montagnes, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
@@ -68038,7 +68038,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 # Bulette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bulette](srd_monsters_bulette.md)
+- Alias: [Bulette](srd_monsters_bulette.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Caverne naturelle
 - **Classe d'armure** 17 (armure naturelle)
@@ -68075,7 +68075,7 @@ Chacune de ces créatures doit réussir un [jet de sauvegarde](hd_abilities_jets
 # Centaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Centaur](srd_monsters_centaur.md)
+- Alias: [Centaur](srd_monsters_centaur.md)
 -  Créature monstrueuse de taille G, Neutre Bon
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -68156,7 +68156,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 # Criard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shrieker](srd_monsters_shrieker.md)
+- Alias: [Shrieker](srd_monsters_shrieker.md)
 -  Plante de taille M, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
@@ -68187,7 +68187,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants et la cible doit réussir un [jet de 
 # Moisissure violette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Violet Fungus](srd_monsters_violet_fungus.md)
+- Alias: [Violet Fungus](srd_monsters_violet_fungus.md)
 -  Plante de taille M, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 5
@@ -68222,7 +68222,7 @@ _Touché :_ 4 (1d8) dégâts nécrotiques.
 # Chimère
 
 - Source: (CEO p)(SRD p)
-- SRD: [Chimera](srd_monsters_chimera.md)
+- Alias: [Chimera](srd_monsters_chimera.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Montagnes, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
@@ -68263,7 +68263,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 # Chuul
 
 - Source: (CEO p)(SRD p)
-- SRD: [Chuul](srd_monsters_chuul.md)
+- Alias: [Chuul](srd_monsters_chuul.md)
 -  Aberration de taille G, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 16 (armure naturelle)
@@ -68306,7 +68306,7 @@ La cible est [paralysée](hd_conditions_paralyse.md) tant que ce poison fait eff
 # Cockatrice
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cockatrice](srd_monsters_cockatrice.md)
+- Alias: [Cockatrice](srd_monsters_cockatrice.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
@@ -68334,7 +68334,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants et la cible doit réussir un [jet de s
 # Couatl
 
 - Source: (CEO p)(SRD p)
-- SRD: [Couatl](srd_monsters_couatl.md)
+- Alias: [Couatl](srd_monsters_couatl.md)
 -  Céleste de taille M, Loyal Bon
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 19 (armure naturelle)
@@ -68432,7 +68432,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants ou 8 (1d10+3) dégâts tranchants si e
 # Balor
 
 - Source: (CEO p)(SRD p)
-- SRD: [Balor](srd_monsters_balor.md)
+- Alias: [Balor](srd_monsters_balor.md)
 -  Fiélon (démon) de taille TG, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
@@ -68482,7 +68482,7 @@ _Touché :_ 15 (2d6+8) dégâts tranchants plus 10 (3d6) dégâts de feu et la c
 # Dretch
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dretch](srd_monsters_dretch.md)
+- Alias: [Dretch](srd_monsters_dretch.md)
 -  Fiélon (démon) de taille P, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)
@@ -68521,7 +68521,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 # Glabrezu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Glabrezu](srd_monsters_glabrezu.md)
+- Alias: [Glabrezu](srd_monsters_glabrezu.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
@@ -68569,7 +68569,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 # Hezrou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hezrou](srd_monsters_hezrou.md)
+- Alias: [Hezrou](srd_monsters_hezrou.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
@@ -68615,7 +68615,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants.
 # Marilith
 
 - Source: (CEO p)(SRD p)
-- SRD: [Marilith](srd_monsters_marilith.md)
+- Alias: [Marilith](srd_monsters_marilith.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
@@ -68669,7 +68669,7 @@ Elle doit voir son agresseur et manier une arme de corps à corps pour pouvoir p
 # Nalfeshnie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Nalfeshnee](srd_monsters_nalfeshnee.md)
+- Alias: [Nalfeshnee](srd_monsters_nalfeshnee.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
@@ -68719,7 +68719,7 @@ _Touché :_ 32 (5d10+5) dégâts perforants.
 # Quasit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Quasit](srd_monsters_quasit.md)
+- Alias: [Quasit](srd_monsters_quasit.md)
 -  Fiélon (démon, métamorphe) de taille TP, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 13
@@ -68765,7 +68765,7 @@ La cible peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md
 # Vrock
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vrock](srd_monsters_vrock.md)
+- Alias: [Vrock](srd_monsters_vrock.md)
 -  Fiélon (démon) de taille G, Chaotique Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
@@ -68813,7 +68813,7 @@ Les spores contournent les angles. Les créatures dans cette zone doivent chacun
 # Destrier noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Nightmare](srd_monsters_nightmare.md)
+- Alias: [Nightmare](srd_monsters_nightmare.md)
 -  Fiélon de taille G, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
@@ -68925,7 +68925,7 @@ Relancez deux fois le dé et rejouez tous les 8.
 # Diable barbelé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Barbed Devil](srd_monsters_barbed_devil.md)
+- Alias: [Barbed Devil](srd_monsters_barbed_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
@@ -68976,7 +68976,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 # Diable barbu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bearded Devil](srd_monsters_bearded_devil.md)
+- Alias: [Bearded Devil](srd_monsters_bearded_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 13 (armure naturelle)
@@ -69022,7 +69022,7 @@ _Touché :_ 8 (1d10+3) dégâts tranchants. Si la cible n'est pas un mort-vivant
 # Diable cornu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Horned Devil](srd_monsters_horned_devil.md)
+- Alias: [Horned Devil](srd_monsters_horned_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
@@ -69070,7 +69070,7 @@ _Touché :_ 10 (1d8+6) dégâts perforants. Si la cible n'est pas un mort-vivant
 # Diable gelé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ice Devil](srd_monsters_ice_devil.md)
+- Alias: [Ice Devil](srd_monsters_ice_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
@@ -69132,7 +69132,7 @@ _Touché :_ 12 (2d6+5) dégâts contondants plus 10 (3d6) dégâts de froid.
 # Diable des chaînes
 
 - Source: (CEO p)(SRD p)
-- SRD: [Chain Devil](srd_monsters_chain_devil.md)
+- Alias: [Chain Devil](srd_monsters_chain_devil.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
@@ -69182,7 +69182,7 @@ Si celle-ci peut voir le diable, elle doit réussir un [jet de sauvegarde](hd_ab
 # Diable osseux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bone Devil](srd_monsters_bone_devil.md)
+- Alias: [Bone Devil](srd_monsters_bone_devil.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
@@ -69227,7 +69227,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants.
 # Diablotin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Imp](srd_monsters_imp.md)
+- Alias: [Imp](srd_monsters_imp.md)
 -  Fiélon (diable, métamorphe) de taille TP, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 13
@@ -69271,7 +69271,7 @@ Il redevient visible s'il attaque ou si sa concentration est interrompue (comme 
 # Diantrefosse
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pit Fiend](srd_monsters_pit_fiend.md)
+- Alias: [Pit Fiend](srd_monsters_pit_fiend.md)
 -  Fiélon (diable) de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
@@ -69331,7 +69331,7 @@ _Touché :_ 24 (3d10+8) dégâts contondants.
 # Érinye
 
 - Source: (CEO p)(SRD p)
-- SRD: [Erinyes](srd_monsters_erinyes.md)
+- Alias: [Erinyes](srd_monsters_erinyes.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 18 (harnois)
@@ -69379,7 +69379,7 @@ _Touché :_ 8 (1d8+4) dégâts tranchants, ou 9 (1d10+4) dégâts tranchants si 
 # Lémure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lemure](srd_monsters_lemure.md)
+- Alias: [Lemure](srd_monsters_lemure.md)
 -  Fiélon (diable) de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 7
@@ -69460,7 +69460,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants.
 # Plésiosaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Plesiosaurus](srd_monsters_plesiosaurus.md)
+- Alias: [Plesiosaurus](srd_monsters_plesiosaurus.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
@@ -69493,7 +69493,7 @@ _Touché :_ 14 (3d6+4) dégâts perforants.
 # Tricératops
 
 - Source: (CEO p)(SRD p)
-- SRD: [Triceratops](srd_monsters_triceratops.md)
+- Alias: [Triceratops](srd_monsters_triceratops.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13 (armure naturelle)
@@ -69529,7 +69529,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 # Tyrannosaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
+- Alias: [Tyrannosaurus Rex](srd_monsters_tyrannosaurus_rex.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 13 (armure naturelle)
@@ -69564,7 +69564,7 @@ _Touché :_ 20 (3d8+7) dégâts contondants.
 # Doppleganger
 
 - Source: (CEO p)(SRD p)
-- SRD: [Doppelganger](srd_monsters_doppelganger.md)
+- Alias: [Doppelganger](srd_monsters_doppelganger.md)
 -  Créature monstrueuse (métamorphe) de taille M, neutre
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 14
@@ -69608,7 +69608,7 @@ Tant que la créature est à portée, le doppleganger peut continuer à lire ses
 # Dragon blanc vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
+- Alias: [Ancient White Dragon](srd_monsters_ancient_white_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 20 (armure naturelle)
@@ -69669,7 +69669,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon blanc adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
+- Alias: [Adult White Dragon](srd_monsters_adult_white_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 18 (armure naturelle)
@@ -69730,7 +69730,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon blanc
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young White Dragon](srd_monsters_young_white_dragon.md)
+- Alias: [Young White Dragon](srd_monsters_young_white_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 17 (armure naturelle)
@@ -69773,7 +69773,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts de froid.
 # Dragonnet blanc
 
 - Source: (CEO p)(SRD p)
-- SRD: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
+- Alias: [White Dragon Wyrmling](srd_monsters_white_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 16 (armure naturelle)
@@ -69806,7 +69806,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts de froid.
 # Dragon bleu vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
+- Alias: [Ancient Blue Dragon](srd_monsters_ancient_blue_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 22 (armure naturelle)
@@ -69865,7 +69865,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon bleu adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
+- Alias: [Adult Blue Dragon](srd_monsters_adult_blue_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 19 (armure naturelle)
@@ -69924,7 +69924,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon bleu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
+- Alias: [Young Blue Dragon](srd_monsters_young_blue_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 18 (armure naturelle)
@@ -69963,7 +69963,7 @@ _Touché :_ 16 (2d10+5) dégâts perforants plus 5 (1d10) dégâts de foudre.
 # Dragonnet bleu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
+- Alias: [Blue Dragon Wyrmling](srd_monsters_blue_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Terrain** Désert chaud, Littoral
 - **Classe d'armure** 17 (armure naturelle)
@@ -69996,7 +69996,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants plus 3 (1d6) dégâts de foudre.
 # Dragon noir vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
+- Alias: [Ancient Black Dragon](srd_monsters_ancient_black_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 22 (armure naturelle)
@@ -70055,7 +70055,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon noir adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
+- Alias: [Adult Black Dragon](srd_monsters_adult_black_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 19 (armure naturelle)
@@ -70116,7 +70116,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Black Dragon](srd_monsters_young_black_dragon.md)
+- Alias: [Young Black Dragon](srd_monsters_young_black_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 18 (armure naturelle)
@@ -70159,7 +70159,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 4 (1d8) dégâts d'acide.
 # Dragonnet noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
+- Alias: [Black Dragon Wyrmling](srd_monsters_black_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
@@ -70196,7 +70196,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 2 (1d4) dégâts d'acide.
 # Dragon rouge vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
+- Alias: [Ancient Red Dragon](srd_monsters_ancient_red_dragon.md)
 -  Dragon de taille Gig, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 22 (armure naturelle)
@@ -70255,7 +70255,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon rouge adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Red Dragon](srd_monsters_adult_red_dragon.md)
+- Alias: [Adult Red Dragon](srd_monsters_adult_red_dragon.md)
 -  Dragon de taille TG, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
@@ -70314,7 +70314,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon rouge
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Red Dragon](srd_monsters_young_red_dragon.md)
+- Alias: [Young Red Dragon](srd_monsters_young_red_dragon.md)
 -  Dragon de taille G, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 18 (armure naturelle)
@@ -70353,7 +70353,7 @@ _Touché :_ 17 (2d10+6) dégâts perforants plus 3 (1d6) dégâts de feu.
 # Dragonnet rouge
 
 - Source: (CEO p)(SRD p)
-- SRD: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
+- Alias: [Red Dragon Wyrmling](srd_monsters_red_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Mauvais
 - **Terrain** Montagnes, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
@@ -70386,7 +70386,7 @@ _Touché :_ 9 (1d10+4) dégâts perforants plus 3 (1d6) dégâts de feu.
 # Dragon vert vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
+- Alias: [Ancient Green Dragon](srd_monsters_ancient_green_dragon.md)
 -  Dragon de taille Gig, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 21 (armure naturelle)
@@ -70450,7 +70450,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon vert adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
+- Alias: [Adult Green Dragon](srd_monsters_adult_green_dragon.md)
 -  Dragon de taille TG, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 19 (armure naturelle)
@@ -70512,7 +70512,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon vert
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Green Dragon](srd_monsters_young_green_dragon.md)
+- Alias: [Young Green Dragon](srd_monsters_young_green_dragon.md)
 -  Dragon de taille G, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 18 (armure naturelle)
@@ -70556,7 +70556,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants plus 7 (2d6) dégâts de poison.
 # Dragonnet vert
 
 - Source: (CEO p)(SRD p)
-- SRD: [Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)
+- Alias: [Green Dragon Wyrmling](srd_monsters_green_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Mauvais
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 17 (armure naturelle)
@@ -70594,7 +70594,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 3 (1d6) dégâts de poison.
 # Dragon d'airain vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
+- Alias: [Ancient Brass Dragon](srd_monsters_ancient_brass_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 20 (armure naturelle)
@@ -70663,7 +70663,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon d'airain adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
+- Alias: [Adult Brass Dragon](srd_monsters_adult_brass_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
@@ -70726,7 +70726,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon d'airain
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
+- Alias: [Young Brass Dragon](srd_monsters_young_brass_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -70769,7 +70769,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 9 m�
 # Dragonnet d'airain
 
 - Source: (CEO p)(SRD p)
-- SRD: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
+- Alias: [Brass Dragon Wyrmling](srd_monsters_brass_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Terrain** Désert chaud, Ruines extérieures
 - **Classe d'armure** 16 (armure naturelle)
@@ -70806,7 +70806,7 @@ _Souffle soporifique._ Le dragon souffle un gaz soporifique sur un cône de 4,50
 # Dragon d'argent vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
+- Alias: [Ancient Silver Dragon](srd_monsters_ancient_silver_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 22 (armure naturelle)
@@ -70873,7 +70873,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon d'argent adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
+- Alias: [Adult Silver Dragon](srd_monsters_adult_silver_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 19 (armure naturelle)
@@ -70942,7 +70942,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon d'argent
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
+- Alias: [Young Silver Dragon](srd_monsters_young_silver_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)
@@ -70985,7 +70985,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 9 mèt
 # Dragonnet d'argent
 
 - Source: (CEO p)(SRD p)
-- SRD: [Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)
+- Alias: [Silver Dragon Wyrmling](srd_monsters_silver_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)
@@ -71022,7 +71022,7 @@ _Souffle paralysant._ Le dragon souffle du gaz paralysant sur un cône de 4,50 m
 # Dragon de bronze vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
+- Alias: [Ancient Bronze Dragon](srd_monsters_ancient_bronze_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 22 (armure naturelle)
@@ -71091,7 +71091,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon de bronze adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
+- Alias: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 19 (armure naturelle)
@@ -71162,7 +71162,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon de bronze
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
+- Alias: [Young Bronze Dragon](srd_monsters_young_bronze_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 18 (armure naturelle)
@@ -71209,7 +71209,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 # Dragonnet de bronze
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)
+- Alias: [Bronze Dragon Wyrmling](srd_monsters_bronze_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 17 (armure naturelle)
@@ -71250,7 +71250,7 @@ _Souffle répulsif._ Le dragon souffle de l'énergie répulsive sur un cône de 
 # Dragon de cuivre vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
+- Alias: [Ancient Copper Dragon](srd_monsters_ancient_copper_dragon.md)
 -  Dragon de taille Gig, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 21 (armure naturelle)
@@ -71321,7 +71321,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon de cuivre adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
+- Alias: [Adult Copper Dragon](srd_monsters_adult_copper_dragon.md)
 -  Dragon de taille TG, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 18 (armure naturelle)
@@ -71386,7 +71386,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon de cuivre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
+- Alias: [Young Copper Dragon](srd_monsters_young_copper_dragon.md)
 -  Dragon de taille G, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 17 (armure naturelle)
@@ -71433,7 +71433,7 @@ Ces effets durent 1 minute. Les créatures peuvent retenter le [jet de sauvegard
 # Dragonnet de cuivre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
+- Alias: [Copper Dragon Wyrmling](srd_monsters_copper_dragon_wyrmling.md)
 -  Dragon de taille M, Chaotique Bon
 - **Terrain** Collines / Vallées
 - **Classe d'armure** 16 (armure naturelle)
@@ -71470,7 +71470,7 @@ _Souffle ralentissant._ Le dragon souffle du gaz sur un cône de 4,50 mètres. L
 # Dragon d'or vénérable
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
+- Alias: [Ancient Gold Dragon](srd_monsters_ancient_gold_dragon.md)
 -  Dragon de taille Gig, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 22 (armure naturelle)
@@ -71539,7 +71539,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Dragon d'or adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
+- Alias: [Adult Gold Dragon](srd_monsters_adult_gold_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 19 (armure naturelle)
@@ -71610,7 +71610,7 @@ Le dragon peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Jeune dragon d'or
 
 - Source: (CEO p)(SRD p)
-- SRD: [Young Gold Dragon](srd_monsters_young_gold_dragon.md)
+- Alias: [Young Gold Dragon](srd_monsters_young_gold_dragon.md)
 -  Dragon de taille G, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 18 (armure naturelle)
@@ -71657,7 +71657,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 9 mètres. Les créat
 # Dragonnet d'or
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)
+- Alias: [Gold Dragon Wyrmling](srd_monsters_gold_dragon_wyrmling.md)
 -  Dragon de taille M, Loyal Bon
 - **Terrain** 
 - **Classe d'armure** 17 (armure naturelle)
@@ -71698,7 +71698,7 @@ _Souffle de feu._ Le dragon souffle du feu sur un cône de 4,50 mètres. Les cr�
 # Dragon-tortue
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dragon Turtle](srd_monsters_dragon_turtle.md)
+- Alias: [Dragon Turtle](srd_monsters_dragon_turtle.md)
 -  Dragon de taille Gig, neutre
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 20 (armure naturelle)
@@ -71786,7 +71786,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # Drider
 
 - Source: (CEO p)(SRD p)
-- SRD: [Drider](srd_monsters_drider.md)
+- Alias: [Drider](srd_monsters_drider.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 19 (armure naturelle)
@@ -71841,7 +71841,7 @@ _Touché :_ 2 (1d4) dégâts perforants plus 9 (2d8) dégâts de poison.
 # Drow
 
 - Source: (CEO p)(SRD p)
-- SRD: [Drow](srd_monsters_drow.md)
+- Alias: [Drow](srd_monsters_drow.md)
 -  Humanoïde (elfe) de taille M, Neutre Mauvais
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)
@@ -71953,7 +71953,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # Dryade
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dryad](srd_monsters_dryad.md)
+- Alias: [Dryad](srd_monsters_dryad.md)
 -  Fée de taille M, neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 11 (16 avec peau d'écorce)
@@ -72004,7 +72004,7 @@ _Touché :_ 2 (1d4) dégâts contondants, ou 8 (1d8+4) dégâts contondants avec
 # Duergar
 
 - Source: (CEO p)(SRD p)
-- SRD: [Duergar](srd_monsters_duergar.md)
+- Alias: [Duergar](srd_monsters_duergar.md)
 -  Humanoïde (nain) de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles, bouclier)
@@ -72049,7 +72049,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants ou 11 (2d8+2) dégâts perforants s'il
 # Élémentaire de l'air
 
 - Source: (CEO p)(SRD p)
-- SRD: [Air Elemental](srd_monsters_air_elemental.md)
+- Alias: [Air Elemental](srd_monsters_air_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 15
@@ -72092,7 +72092,7 @@ Si le [jet de sauvegarde](hd_abilities_jets_de_sauvegarde.md) est réussi, la ci
 # Élémentaire de l'eau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Water Elemental](srd_monsters_water_elemental.md)
+- Alias: [Water Elemental](srd_monsters_water_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Mer / Océan, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
@@ -72135,7 +72135,7 @@ L'élémentaire peut empoigner une créature de taille G ou jusqu'à deux créat
 # Élémentaire du feu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Fire Elemental](srd_monsters_fire_elemental.md)
+- Alias: [Fire Elemental](srd_monsters_fire_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 13
@@ -72176,7 +72176,7 @@ _Touché :_ 10 (2d6+3) dégâts de feu. Si la cible est un objet inflammable ou 
 # Élémentaire de la terre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Earth Elemental](srd_monsters_earth_elemental.md)
+- Alias: [Earth Elemental](srd_monsters_earth_elemental.md)
 -  Élémentaire de taille G, neutre
 - **Terrain** Bois / Forêt, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
@@ -72216,7 +72216,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 # Enlaceur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Roper](srd_monsters_roper.md)
+- Alias: [Roper](srd_monsters_roper.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Terrain** Caverne aménagée, Caverne naturelle
 - **Classe d'armure** 20 (armure naturelle)
@@ -72263,7 +72263,7 @@ _Touché :_ 22 (4d8+4) dégâts perforants.
 # Esprit follet
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sprite](srd_monsters_sprite.md)
+- Alias: [Sprite](srd_monsters_sprite.md)
 -  Fée de taille TP, Neutre Bonne
 - **Terrain** Bois / Forêt, Collines / Vallées, Ruines extérieures
 - **Classe d'armure** 15 (armure de cuir)
@@ -72300,7 +72300,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 # Ettercap
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ettercap](srd_monsters_ettercap.md)
+- Alias: [Ettercap](srd_monsters_ettercap.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt, Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)
@@ -72347,7 +72347,7 @@ _Touché :_ la créature est [entravée](hd_conditions_entrave.md) par la toile.
 # Ettin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ettin](srd_monsters_ettin.md)
+- Alias: [Ettin](srd_monsters_ettin.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Montagnes, Caverne naturelle
 - **Classe d'armure** 12 (armure naturelle)
@@ -72388,7 +72388,7 @@ _Touché :_ 14 (2d8+5) dégâts perforants.
 # Fantôme
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ghost](srd_monsters_ghost.md)
+- Alias: [Ghost](srd_monsters_ghost.md)
 -  Mort-vivant de taille M, n'importe quel alignement
 - **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 11
@@ -72435,7 +72435,7 @@ La possession prend fin si le corps physique tombe à 0 point de vie, si le fant
 # Feu follet
 
 - Source: (CEO p)(SRD p)
-- SRD: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
+- Alias: [Will-o'-Wisp](srd_monsters_will_o_wisp.md)
 -  Mort-vivant de taille TP, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 19
@@ -72478,7 +72478,7 @@ _Touché :_ 9 (2d8) dégâts de foudre.
 # Garde animé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shield Guardian](srd_monsters_shield_guardian.md)
+- Alias: [Shield Guardian](srd_monsters_shield_guardian.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
@@ -72522,7 +72522,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # Gargouille
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gargoyle](srd_monsters_gargoyle.md)
+- Alias: [Gargoyle](srd_monsters_gargoyle.md)
 -  Élémentaire de taille M, Chaotique Mauvais
 - **Terrain** Plans élémentaires, Ruines extérieures
 - **Classe d'armure** 15 (armure naturelle)
@@ -72563,7 +72563,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Géant des collines
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hill Giant](srd_monsters_hill_giant.md)
+- Alias: [Hill Giant](srd_monsters_hill_giant.md)
 -  Géant de taille TG, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
@@ -72598,7 +72598,7 @@ _Touché :_ 21 (3d10+5) dégâts contondants.
 # Géant des nuages
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cloud Giant](srd_monsters_cloud_giant.md)
+- Alias: [Cloud Giant](srd_monsters_cloud_giant.md)
 -  Géant de taille TG, Neutre Bon (50 %) ou Neutre Mauvais (50 %)
 - **Terrain** Montagnes
 - **Classe d'armure** 14 (armure naturelle)
@@ -72646,7 +72646,7 @@ _Touché :_ 30 (4d10+8) dégâts contondants.
 # Géant des pierres
 
 - Source: (CEO p)(SRD p)
-- SRD: [Stone Giant](srd_monsters_stone_giant.md)
+- Alias: [Stone Giant](srd_monsters_stone_giant.md)
 -  Géant de taille TG, neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 17 (armure naturelle)
@@ -72686,7 +72686,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants. Si la cible est une créature, ell
 # Géant des tempêtes
 
 - Source: (CEO p)(SRD p)
-- SRD: [Storm Giant](srd_monsters_storm_giant.md)
+- Alias: [Storm Giant](srd_monsters_storm_giant.md)
 -  Géant de taille TG, Chaotique Bon
 - **Terrain** Littoral, Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 16 (armure d'écailles)
@@ -72736,7 +72736,7 @@ _Touché :_ 35 (4d12+9) dégâts contondants.
 # Géant du feu
 
 - Source: (CEO p)(SRD p)
-- SRD: [Fire Giant](srd_monsters_fire_giant.md)
+- Alias: [Fire Giant](srd_monsters_fire_giant.md)
 -  Géant de taille TG, Loyal Mauvais
 - **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 18 (harnois)
@@ -72773,7 +72773,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 # Géant du givre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Frost Giant](srd_monsters_frost_giant.md)
+- Alias: [Frost Giant](srd_monsters_frost_giant.md)
 -  Géant de taille TG, Neutre Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 15 (armure composite)
@@ -72810,7 +72810,7 @@ _Touché :_ 28 (4d10+6) dégâts contondants.
 # Djinn
 
 - Source: (CEO p)(SRD p)
-- SRD: [Djinni](srd_monsters_djinni.md)
+- Alias: [Djinni](srd_monsters_djinni.md)
 -  Élémentaire de taille G, Chaotique Bon
 - **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
@@ -72860,7 +72860,7 @@ Si le test est réussi, la créature n'est plus [entravée](hd_conditions_entrav
 # Éfrit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Efreeti](srd_monsters_efreeti.md)
+- Alias: [Efreeti](srd_monsters_efreeti.md)
 -  Élémentaire de taille G, Loyal Mauvais
 - **Terrain** Désert chaud, Plans élémentaires
 - **Classe d'armure** 17 (armure naturelle)
@@ -72908,7 +72908,7 @@ _Touché :_ 17 (5d6) dégâts de feu.
 # Gnoll
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gnoll](srd_monsters_gnoll.md)
+- Alias: [Gnoll](srd_monsters_gnoll.md)
 -  Humanoïde (gnoll) de taille M, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 15 (armure de peau, bouclier)
@@ -72991,7 +72991,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # Gnome des profondeurs (svirfneblin)
 
 - Source: (CEO p)(SRD p)
-- SRD: [Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)
+- Alias: [Deep Gnome (Svirfneblin)](srd_monsters_deep_gnome_svirfneblin.md)
 -  Humanoïde (gnome) de taille P, Neutre Bon
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (chemise de mailles)
@@ -73036,7 +73036,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # Gobelin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Goblin](srd_monsters_goblin.md)
+- Alias: [Goblin](srd_monsters_goblin.md)
 -  Humanoïde (gobelinoïde) de taille P, Neutre Mauvais
 - **Terrain** Bois / Forêt, Collines / Vallées, Jungle, Caverne aménagée
 - **Classe d'armure** 15 (armure de cuir, bouclier)
@@ -73213,7 +73213,7 @@ _Touché :_ 5 (1d8+1) dégâts contondants.
 # Gobelours
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bugbear](srd_monsters_bugbear.md)
+- Alias: [Bugbear](srd_monsters_bugbear.md)
 -  Humanoïde (gobelinoïde) de taille M, Chaotique Mauvais
 - **Terrain** Collines / Vallées, Caverne aménagée
 - **Classe d'armure** 16 (armure de peau, bouclier)
@@ -73298,7 +73298,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants au corps à corps ou 6 (1d6+3) dégâ
 # Golem d'argile
 
 - Source: (CEO p)(SRD p)
-- SRD: [Clay Golem](srd_monsters_clay_golem.md)
+- Alias: [Clay Golem](srd_monsters_clay_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 14 (armure naturelle)
@@ -73348,7 +73348,7 @@ _Touché :_ 16 (2d10+5) dégâts contondants. Si la cible est une créature, ell
 # Golem de chair
 
 - Source: (CEO p)(SRD p)
-- SRD: [Flesh Golem](srd_monsters_flesh_golem.md)
+- Alias: [Flesh Golem](srd_monsters_flesh_golem.md)
 -  Créature artificielle de taille M, neutre
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 9
@@ -73404,7 +73404,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # Golem de fer
 
 - Source: (CEO p)(SRD p)
-- SRD: [Iron Golem](srd_monsters_iron_golem.md)
+- Alias: [Iron Golem](srd_monsters_iron_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 20 (armure naturelle)
@@ -73452,7 +73452,7 @@ _Touché :_ 23 (3d10+7) dégâts tranchants.
 # Golem de pierre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Stone Golem](srd_monsters_stone_golem.md)
+- Alias: [Stone Golem](srd_monsters_stone_golem.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
@@ -73494,7 +73494,7 @@ _Touché :_ 19 (3d8+6) dégâts contondants.
 # Gorgone
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gorgon](srd_monsters_gorgon.md)
+- Alias: [Gorgon](srd_monsters_gorgon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 19 (armure naturelle)
@@ -73536,7 +73536,7 @@ Les créatures situées dans cette zone doivent chacune effectuer un [jet de sau
 # Goule
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ghoul](srd_monsters_ghoul.md)
+- Alias: [Ghoul](srd_monsters_ghoul.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 12
@@ -73570,7 +73570,7 @@ _Touché :_ 9 (2d6+2) dégâts perforants.
 # Goule Blême
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ghast](srd_monsters_ghast.md)
+- Alias: [Ghast](srd_monsters_ghast.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13
@@ -73611,7 +73611,7 @@ _Touché :_ 12 (2d8+3) dégâts perforants.
 # Grick
 
 - Source: (CEO p)(SRD p)
-- SRD: [Grick](srd_monsters_grick.md)
+- Alias: [Grick](srd_monsters_grick.md)
 -  Créature monstrueuse de taille M, neutre
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
@@ -73650,7 +73650,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 # Griffon
 
 - Source: (CEO p)(SRD p)
-- SRD: [Griffon](srd_monsters_griffon.md)
+- Alias: [Griffon](srd_monsters_griffon.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Montagnes
 - **Classe d'armure** 12
@@ -73689,7 +73689,7 @@ _Touché :_ 11 (2d6+4) dégâts tranchants.
 # Guenaude aquatique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sea Hag](srd_monsters_sea_hag.md)
+- Alias: [Sea Hag](srd_monsters_sea_hag.md)
 -  Fée de taille M, Chaotique Mauvais
 - **Terrain** Littoral, Mangrove / Marécage, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 14 (armure naturelle)
@@ -73731,7 +73731,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Guenaude nocturne
 
 - Source: (CEO p)(SRD p)
-- SRD: [Night Hag](srd_monsters_night_hag.md)
+- Alias: [Night Hag](srd_monsters_night_hag.md)
 -  Fiélon de taille M, Neutre Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
@@ -73780,7 +73780,7 @@ Un sort de protection contre le mal et le bien lancé sur la cible, tout comme u
 # Guenaude verte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Green Hag](srd_monsters_green_hag.md)
+- Alias: [Green Hag](srd_monsters_green_hag.md)
 -  Fée de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt, Collines / Vallées, Mangrove / Marécage
 - **Classe d'armure** 17 (armure naturelle)
@@ -73827,7 +73827,7 @@ _Touché :_ 13 (2d8+4) dégâts tranchants.
 # Harpie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Harpy](srd_monsters_harpy.md)
+- Alias: [Harpy](srd_monsters_harpy.md)
 -  Créature monstrueuse de taille M, Chaotique Mauvais
 - **Terrain** Littoral, Montagnes, Ruines extérieures
 - **Classe d'armure** 11
@@ -73869,7 +73869,7 @@ _Touché :_ 6 (2d4+1) dégâts tranchants.
 # Hibours
 
 - Source: (CEO p)(SRD p)
-- SRD: [Owlbear](srd_monsters_owlbear.md)
+- Alias: [Owlbear](srd_monsters_owlbear.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Bois / Forêt, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
@@ -73908,7 +73908,7 @@ _Touché :_ 14 (2d8+5) dégâts tranchants.
 # Hippogriffe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hippogriff](srd_monsters_hippogriff.md)
+- Alias: [Hippogriff](srd_monsters_hippogriff.md)
 -  Créature monstrueuse de taille G, non-alignée
 - **Terrain** Littoral, Montagnes
 - **Classe d'armure** 11
@@ -73947,7 +73947,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Hobgobelin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hobgoblin](srd_monsters_hobgoblin.md)
+- Alias: [Hobgoblin](srd_monsters_hobgoblin.md)
 -  Humanoïde (gobelinoïde) de taille M, Loyal Mauvais
 - **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 18 (bouclier, cotte de mailles)
@@ -74022,7 +74022,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants, ou 6 (1d10+1) dégâts tranchants si 
 # Homme-lézard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lizardfolk](srd_monsters_lizardfolk.md)
+- Alias: [Lizardfolk](srd_monsters_lizardfolk.md)
 -  Humanoïde (homme-lézard) de taille M, Neutre
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle, bouclier)
@@ -74115,7 +74115,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants.
 # Homme-poisson
 
 - Source: (CEO p)(SRD p)
-- SRD: [Merfolk](srd_monsters_merfolk.md)
+- Alias: [Merfolk](srd_monsters_merfolk.md)
 -  Humanoïde (homme-poisson) de taille M, Neutre
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11
@@ -74148,7 +74148,7 @@ _Touché :_ 3 (1d6) dégâts perforants ou 4 (1d8) dégâts perforants si elle e
 # Homoncule
 
 - Source: (CEO p)(SRD p)
-- SRD: [Homunculus](srd_monsters_homunculus.md)
+- Alias: [Homunculus](srd_monsters_homunculus.md)
 -  Créature artificielle de taille TP, neutre
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 13 (armure naturelle)
@@ -74182,7 +74182,7 @@ _Touché :_ 1 dégât perforant, et la cible doit réussir un [jet de sauvegarde
 # Hydre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hydra](srd_monsters_hydra.md)
+- Alias: [Hydra](srd_monsters_hydra.md)
 -  Créature monstrueuse de taille TG, non-alignée
 - **Terrain** Littoral, Caverne sous-marine
 - **Classe d'armure** 15 (armure naturelle)
@@ -74227,7 +74227,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 # Kobold
 
 - Source: (CEO p)(SRD p)
-- SRD: [Kobold](srd_monsters_kobold.md)
+- Alias: [Kobold](srd_monsters_kobold.md)
 -  Humanoïde (kobold) de taille P, Loyal Mauvais
 - **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
@@ -74306,7 +74306,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants.
 # Kraken
 
 - Source: (CEO p)(SRD p)
-- SRD: [Kraken](srd_monsters_kraken.md)
+- Alias: [Kraken](srd_monsters_kraken.md)
 -  Créature monstrueuse (titan) de taille Gig, Chaotique Mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 18 (armure naturelle)
@@ -74367,7 +74367,7 @@ Le kraken peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Lamie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lamia](srd_monsters_lamia.md)
+- Alias: [Lamia](srd_monsters_lamia.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Désert chaud
 - **Classe d'armure** 13 (armure naturelle)
@@ -74416,7 +74416,7 @@ _Touché :_ 14 (2d10+3) dégâts tranchants.
 # Liche
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lich](srd_monsters_lich.md)
+- Alias: [Lich](srd_monsters_lich.md)
 -  Mort-vivant de taille M, alignement Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
@@ -74490,7 +74490,7 @@ La liche peut réaliser 3 actions légendaires, choisies parmi les options suiva
 # Licorne
 
 - Source: (CEO p)(SRD p)
-- SRD: [Unicorn](srd_monsters_unicorn.md)
+- Alias: [Unicorn](srd_monsters_unicorn.md)
 -  Céleste de taille G, Loyal Bon
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 12
@@ -74554,7 +74554,7 @@ La licorne peut effectuer 3 actions légendaires qu'elle choisit parmi celles d�
 # Loup-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Werewolf](srd_monsters_werewolf.md)
+- Alias: [Werewolf](srd_monsters_werewolf.md)
 -  Humanoïde (humain, métamorphe) de taille M, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 11 sous forme humanoïde, 12 (armure naturelle) sous forme hybride ou de loup
@@ -74600,7 +74600,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants. Si la cible est un humanoïde, elle d
 # Ours-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Werebear](srd_monsters_werebear.md)
+- Alias: [Werebear](srd_monsters_werebear.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Bon
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou d'ours
@@ -74646,7 +74646,7 @@ _Touché :_ 15 (2d10+4) dégâts perforants. Si la cible est un humanoïde, elle
 # Rat-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wererat](srd_monsters_wererat.md)
+- Alias: [Wererat](srd_monsters_wererat.md)
 -  Humanoïde (humain, métamorphe) de taille M, Loyal Mauvais
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 12
@@ -74692,7 +74692,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est un humanoïde, elle d
 # Sanglier-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wereboar](srd_monsters_wereboar.md)
+- Alias: [Wereboar](srd_monsters_wereboar.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10 sous forme humanoïde, 11 (armure naturelle) sous forme hybride ou de sanglier
@@ -74736,7 +74736,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 # Tigre-garou
 
 - Source: (CEO p)(SRD p)
-- SRD: [Weretiger](srd_monsters_weretiger.md)
+- Alias: [Weretiger](srd_monsters_weretiger.md)
 -  Humanoïde (humain, métamorphe) de taille M, Neutre
 - **Terrain** Jungle
 - **Classe d'armure** 12
@@ -74788,7 +74788,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants. Si la cible est un humanoïde, elle 
 # Magmatique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Magmin](srd_monsters_magmin.md)
+- Alias: [Magmin](srd_monsters_magmin.md)
 -  Élémentaire de taille P, Chaotique Neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 14 (armure naturelle)
@@ -74828,7 +74828,7 @@ Jusqu'au moment où une créature consacre une action à étouffer les flammes, 
 # Manteleur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cloaker](srd_monsters_cloaker.md)
+- Alias: [Cloaker](srd_monsters_cloaker.md)
 -  Aberration de taille G, Chaotique Neutre
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
@@ -74881,7 +74881,7 @@ _Touché :_ 7 (1d8+3) dégâts tranchants.
 # Mante obscure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Darkmantle](srd_monsters_darkmantle.md)
+- Alias: [Darkmantle](srd_monsters_darkmantle.md)
 -  Créature monstrueuse de taille P, non-alignée
 - **Terrain** Caverne naturelle
 - **Classe d'armure** 11
@@ -74924,7 +74924,7 @@ Lors de son tour, la mante obscure peut se détacher de la cible en dépensant 1
 # Manticore
 
 - Source: (CEO p)(SRD p)
-- SRD: [Manticore](srd_monsters_manticore.md)
+- Alias: [Manticore](srd_monsters_manticore.md)
 -  Créature monstrueuse de taille G, Loyal Mauvais
 - **Terrain** Désert chaud, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
@@ -74966,7 +74966,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 # Méduse
 
 - Source: (CEO p)(SRD p)
-- SRD: [Medusa](srd_monsters_medusa.md)
+- Alias: [Medusa](srd_monsters_medusa.md)
 -  Créature monstrueuse de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
@@ -75013,7 +75013,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Méphite de glace
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ice Mephit](srd_monsters_ice_mephit.md)
+- Alias: [Ice Mephit](srd_monsters_ice_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Arctique / Subarctique, Montagnes, Plans élémentaires
 - **Classe d'armure** 11
@@ -75057,7 +75057,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de froid.
 # Méphite de magma
 
 - Source: (CEO p)(SRD p)
-- SRD: [Magma Mephit](srd_monsters_magma_mephit.md)
+- Alias: [Magma Mephit](srd_monsters_magma_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 11
@@ -75099,7 +75099,7 @@ _Touché :_ 3 (1d4+1) dégâts tranchants plus 2 (1d4) dégâts de feu.
 # Méphite de poussière
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dust Mephit](srd_monsters_dust_mephit.md)
+- Alias: [Dust Mephit](srd_monsters_dust_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Désert chaud, Plans élémentaires, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
@@ -75141,7 +75141,7 @@ Une créature peut retenter le [jet de sauvegarde](hd_abilities_jets_de_sauvegar
 # Méphite de vapeur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Steam Mephit](srd_monsters_steam_mephit.md)
+- Alias: [Steam Mephit](srd_monsters_steam_mephit.md)
 -  Élémentaire de taille P, Neutre Mauvais
 - **Terrain** Littoral, Plans élémentaires, Caverne sous-marine
 - **Classe d'armure** 10
@@ -75181,7 +75181,7 @@ Les créatures dans cette zone doivent chacune réussir un [jet de sauvegarde](h
 # Merrow
 
 - Source: (CEO p)(SRD p)
-- SRD: [Merrow](srd_monsters_merrow.md)
+- Alias: [Merrow](srd_monsters_merrow.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Littoral, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
@@ -75225,7 +75225,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 # Mimique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mimic](srd_monsters_mimic.md)
+- Alias: [Mimic](srd_monsters_mimic.md)
 -  Créature monstrueuse (métamorphe) de taille M, Neutre
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
@@ -75272,7 +75272,7 @@ _Touché :_ 7 (1d8+3) dégâts contondants. Si la mimique est sous forme d'objet
 # Minotaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Minotaur](srd_monsters_minotaur.md)
+- Alias: [Minotaur](srd_monsters_minotaur.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Caverne aménagée, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
@@ -75315,7 +75315,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 # Molosse infernal
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hell Hound](srd_monsters_hell_hound.md)
+- Alias: [Hell Hound](srd_monsters_hell_hound.md)
 -  Fiélon de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
@@ -75353,7 +75353,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants plus 7 (2d6) dégâts de feu.
 # Momie
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mummy](srd_monsters_mummy.md)
+- Alias: [Mummy](srd_monsters_mummy.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 11 (armure naturelle)
@@ -75392,7 +75392,7 @@ Si la cible peut voir la momie, elle doit réussir un [jet de sauvegarde](hd_abi
 # Momie auguste
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mummy Lord](srd_monsters_mummy_lord.md)
+- Alias: [Mummy Lord](srd_monsters_mummy_lord.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 17 (armure naturelle)
@@ -75471,7 +75471,7 @@ Les créatures autres que les morts-vivants, situées à 3 mètres ou moins de l
 # Naga corrupteur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Spirit Naga](srd_monsters_spirit_naga.md)
+- Alias: [Spirit Naga](srd_monsters_spirit_naga.md)
 -  Créature monstrueuse de taille G, Chaotique Mauvais
 - **Terrain** Caverne aménagée, Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)
@@ -75520,7 +75520,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants et la cible doit effectuer un [jet de 
 # Naga gardien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Guardian Naga](srd_monsters_guardian_naga.md)
+- Alias: [Guardian Naga](srd_monsters_guardian_naga.md)
 -  Créature monstrueuse de taille G, Loyal Bon
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 18 (armure naturelle)
@@ -75575,7 +75575,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants et la cible doit effectuer un [jet de 
 # Nécrophage
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wight](srd_monsters_wight.md)
+- Alias: [Wight](srd_monsters_wight.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** Mangrove / Marécage, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure de cuir clouté)
@@ -75623,7 +75623,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants ou 7 (1d10+2) dégâts tranchants si e
 # Armure animée
 
 - Source: (CEO p)(SRD p)
-- SRD: [Animated Armor](srd_monsters_animated_armor.md)
+- Alias: [Animated Armor](srd_monsters_animated_armor.md)
 -  Créature artificielle de taille M, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 18 (armure naturelle)
@@ -75661,7 +75661,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 # Épée volante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Flying Sword](srd_monsters_flying_sword.md)
+- Alias: [Flying Sword](srd_monsters_flying_sword.md)
 -  Créature artificielle de taille P, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 17 (armure naturelle)
@@ -75698,7 +75698,7 @@ _Touché :_ 5 (1d8+1) dégâts tranchants.
 # Tapis étrangleur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
+- Alias: [Rug of Smothering](srd_monsters_rug_of_smothering.md)
 -  Créature artificielle de taille G, non-alignée
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 12
@@ -75740,7 +75740,7 @@ De plus, au début de chacun des tours de la cible, celle-ci subit 10 (2d6+3) d�
 # Ogre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ogre](srd_monsters_ogre.md)
+- Alias: [Ogre](srd_monsters_ogre.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 11 (armure de peau)
@@ -75772,7 +75772,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # Ombre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shadow](srd_monsters_shadow.md)
+- Alias: [Shadow](srd_monsters_shadow.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 12
@@ -75815,7 +75815,7 @@ Si un humanoïde non-mauvais meurt à cause de cette attaque, une nouvelle ombre
 # Oni
 
 - Source: (CEO p)(SRD p)
-- SRD: [Oni](srd_monsters_oni.md)
+- Alias: [Oni](srd_monsters_oni.md)
 -  Géant de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 16 (cotte de mailles)
@@ -75943,7 +75943,7 @@ _Touché :_ 5 (1d6+2) dégâts contondants.
 # Otyugh
 
 - Source: (CEO p)(SRD p)
-- SRD: [Otyugh](srd_monsters_otyugh.md)
+- Alias: [Otyugh](srd_monsters_otyugh.md)
 -  Aberration de taille G, Neutre
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
@@ -75988,7 +75988,7 @@ L'otyugh a deux tentacules dont chacun peut empoigner une cible.
 # Oxydeur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rust Monster](srd_monsters_rust_monster.md)
+- Alias: [Rust Monster](srd_monsters_rust_monster.md)
 -  Créature monstrueuse de taille M, non-alignée
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 14 (armure naturelle)
@@ -76079,7 +76079,7 @@ Une fois accroché, le parasite absorbe à la cible un emplacement de sort du pl
 # Pégase
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pegasus](srd_monsters_pegasus.md)
+- Alias: [Pegasus](srd_monsters_pegasus.md)
 -  Céleste de taille G, Chaotique Bon
 - **Terrain** 
 - **Classe d'armure** 12
@@ -76109,7 +76109,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # Pseudodragon
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pseudodragon](srd_monsters_pseudodragon.md)
+- Alias: [Pseudodragon](srd_monsters_pseudodragon.md)
 -  Dragon de taille TP, Neutre Bon
 - **Terrain** Bois / Forêt, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
@@ -76150,7 +76150,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # Rakshasa
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rakshasa](srd_monsters_rakshasa.md)
+- Alias: [Rakshasa](srd_monsters_rakshasa.md)
 -  Fiélon de taille M, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 16 (armure naturelle)
@@ -76235,7 +76235,7 @@ _Touché :_ 40 (6d10+7) dégâts perforants plus 10 (3d6) dégât de feu. Si la 
 # Roc
 
 - Source: (CEO p)(SRD p)
-- SRD: [Roc](srd_monsters_roc.md)
+- Alias: [Roc](srd_monsters_roc.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Terrain** Montagnes
 - **Classe d'armure** 15 (armure naturelle)
@@ -76275,7 +76275,7 @@ _Touché :_ 23 (4d6+9) dégâts tranchants et la cible est [empoignée](hd_condi
 # Sahuagin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sahuagin](srd_monsters_sahuagin.md)
+- Alias: [Sahuagin](srd_monsters_sahuagin.md)
 -  Humanoïde (sahuagin) de taille M, Loyal Mauvais
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)
@@ -76380,7 +76380,7 @@ _Touché :_ 3 (1d4+1) dégâts perforants.
 # Salamandre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Salamander](srd_monsters_salamander.md)
+- Alias: [Salamander](srd_monsters_salamander.md)
 -  Élémentaire de taille G, Neutre Mauvais
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 15 (armure naturelle)
@@ -76423,7 +76423,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants plus 7 (2d6) dégâts de feu et la c
 # Satyre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Satyr](srd_monsters_satyr.md)
+- Alias: [Satyr](srd_monsters_satyr.md)
 -  Fée de taille M, Chaotique Neutre
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de cuir)
@@ -76556,7 +76556,7 @@ _Touché :_ 19 (3d6+9) dégâts contondants. Si la cible est une créature, elle
 # Spectre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Specter](srd_monsters_specter.md)
+- Alias: [Specter](srd_monsters_specter.md)
 -  Mort-vivant de taille M, Chaotique Mauvais
 - **Terrain** Ruines extérieures
 - **Classe d'armure** 12
@@ -76593,7 +76593,7 @@ _Touché :_ 10 (3d6) dégâts nécrotiques. La cible doit réussir un [jet de sa
 # Androsphinx
 
 - Source: (CEO p)(SRD p)
-- SRD: [Androsphinx](srd_monsters_androsphinx.md)
+- Alias: [Androsphinx](srd_monsters_androsphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Terrain** Désert chaud, Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -76667,7 +76667,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Gynosphinx
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gynosphinx](srd_monsters_gynosphinx.md)
+- Alias: [Gynosphinx](srd_monsters_gynosphinx.md)
 -  Créature monstrueuse de taille G, Loyal Neutre
 - **Terrain** Arctique / Subarctique, Désert chaud, Montagnes, Caverne aménagée, Ruines extérieures
 - **Classe d'armure** 17 (armure naturelle)
@@ -76731,7 +76731,7 @@ Le sphinx peut effectuer 3 actions légendaires qu'il choisit parmi celles décr
 # Squelette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Skeleton](srd_monsters_skeleton.md)
+- Alias: [Skeleton](srd_monsters_skeleton.md)
 -  Mort-vivant de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines extérieures
 - **Classe d'armure** 13 (débris d'armure)
@@ -76766,7 +76766,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Squelette cheval de guerre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
+- Alias: [Warhorse Skeleton](srd_monsters_warhorse_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Terrain** 
 - **Classe d'armure** 13 (débris de barde)
@@ -76797,7 +76797,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # Squelette minotaure
 
 - Source: (CEO p)(SRD p)
-- SRD: [Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)
+- Alias: [Minotaur Skeleton](srd_monsters_minotaur_skeleton.md)
 -  Mort-vivant de taille G, Loyal Mauvais
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 12 (armure naturelle)
@@ -76836,7 +76836,7 @@ _Touché :_ 17 (2d12+4) dégâts tranchants.
 # Strige
 
 - Source: (CEO p)(SRD p)
-- SRD: [Stirge](srd_monsters_stirge.md)
+- Alias: [Stirge](srd_monsters_stirge.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
@@ -76868,7 +76868,7 @@ La strige peut se détacher en dépensant 1,50 mètre de sa vitesse de déplacem
 # Succube/Incube
 
 - Source: (CEO p)(SRD p)
-- SRD: [Succubus](srd_monsters_succubus.md)
+- Alias: [Succubus](srd_monsters_succubus.md)
 -  Fiélon (métamorphe) de taille M, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 15 (armure naturelle)
@@ -76914,7 +76914,7 @@ Le fiélon ne peut charmer qu'une seule cible à la fois. S'il en charme une aut
 # Sylvanien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Treant](srd_monsters_treant.md)
+- Alias: [Treant](srd_monsters_treant.md)
 -  Plante de taille TG, Chaotique Bonne
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)
@@ -76958,7 +76958,7 @@ _Touché :_ 24 (4d8+6) dégâts contondants.
 # Tarasque
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tarrasque](srd_monsters_tarrasque.md)
+- Alias: [Tarrasque](srd_monsters_tarrasque.md)
 -  Créature monstrueuse (titan) de taille Gig, non-alignée
 - **Terrain** 
 - **Classe d'armure** 25 (armure naturelle)
@@ -77105,7 +77105,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # Tertre errant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Shambling Mound](srd_monsters_shambling_mound.md)
+- Alias: [Shambling Mound](srd_monsters_shambling_mound.md)
 -  Plante de taille G, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 15 (armure naturelle)
@@ -77145,7 +77145,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # Torve
 
 - Source: (CEO p)(SRD p)
-- SRD: [Grimlock](srd_monsters_grimlock.md)
+- Alias: [Grimlock](srd_monsters_grimlock.md)
 -  Humanoïde (torve) de taille M, Neutre Mauvais
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 11
@@ -77183,7 +77183,7 @@ _Touché :_ 5 (1d4+3) dégâts contondants plus 2 (1d4) dégâts perforants.
 # Traqueur invisible
 
 - Source: (CEO p)(SRD p)
-- SRD: [Invisible Stalker](srd_monsters_invisible_stalker.md)
+- Alias: [Invisible Stalker](srd_monsters_invisible_stalker.md)
 -  Élémentaire de taille M, neutre
 - **Terrain** Plans élémentaires
 - **Classe d'armure** 14
@@ -77222,7 +77222,7 @@ _Touché :_ 10 (2d6+3) dégâts contondants.
 # Troll
 
 - Source: (CEO p)(SRD p)
-- SRD: [Troll](srd_monsters_troll.md)
+- Alias: [Troll](srd_monsters_troll.md)
 -  Géant de taille G, Chaotique Mauvais
 - **Terrain** Arctique / Subarctique, Bois / Forêt, Mangrove / Marécage, Montagnes
 - **Classe d'armure** 15 (armure naturelle)
@@ -77263,7 +77263,7 @@ _Touché :_ 7 (1d6+4) dégâts perforants.
 # Vampire
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vampire](srd_monsters_vampire.md)
+- Alias: [Vampire](srd_monsters_vampire.md)
 -  Mort-vivant (métamorphe) de taille M, Loyal Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 16 (armure naturelle)
@@ -77348,7 +77348,7 @@ Le vampire peut effectuer 3 actions légendaires qu'il choisit parmi celles déc
 # Vampirien
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vampire Spawn](srd_monsters_vampire_spawn.md)
+- Alias: [Vampire Spawn](srd_monsters_vampire_spawn.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** Donjon maçonné
 - **Classe d'armure** 15 (armure naturelle)
@@ -77403,7 +77403,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants plus 7 (2d6) dégâts nécrotiques. Le
 # Cube gélatineux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
+- Alias: [Gelatinous Cube](srd_monsters_gelatinous_cube.md)
 -  Vase de taille G, non-alignée
 - **Terrain** Donjon maçonné, Ruines souterraines
 - **Classe d'armure** 6
@@ -77454,7 +77454,7 @@ _Touché :_ 10 (3d6) dégâts d'acide.
 # Gelée ocre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ochre Jelly](srd_monsters_ochre_jelly.md)
+- Alias: [Ochre Jelly](srd_monsters_ochre_jelly.md)
 -  Vase de taille G, non-alignée
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8
@@ -77495,7 +77495,7 @@ _Touché :_ 9 (2d6+2) dégâts contondants plus 3 (1d6) dégâts d'acide.
 # Pouding noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Black Pudding](srd_monsters_black_pudding.md)
+- Alias: [Black Pudding](srd_monsters_black_pudding.md)
 -  Vase de taille G, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Donjon maçonné
 - **Classe d'armure** 7
@@ -77539,7 +77539,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants plus 18 (4d8) dégâts d'acide. De pl
 # Vase grise
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gray Ooze](srd_monsters_gray_ooze.md)
+- Alias: [Gray Ooze](srd_monsters_gray_ooze.md)
 -  Vase de taille M, non-alignée
 - **Terrain** Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 8
@@ -77582,7 +77582,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants plus 7 (2d6) dégâts d'acide et, si 
 # Ver pourpre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Purple Worm](srd_monsters_purple_worm.md)
+- Alias: [Purple Worm](srd_monsters_purple_worm.md)
 -  Créature monstrueuse de taille Gig, non-alignée
 - **Terrain** Montagnes, Caverne naturelle
 - **Classe d'armure** 18 (armure naturelle)
@@ -77625,7 +77625,7 @@ Si le ver meurt, les créatures avalées ne sont plus [entravées](hd_conditions
 # Vouivre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wyvern](srd_monsters_wyvern.md)
+- Alias: [Wyvern](srd_monsters_wyvern.md)
 -  Dragon de taille G, non-alignée
 - **Terrain** Littoral, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
@@ -77664,7 +77664,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 # Xorn
 
 - Source: (CEO p)(SRD p)
-- SRD: [Xorn](srd_monsters_xorn.md)
+- Alias: [Xorn](srd_monsters_xorn.md)
 -  Élémentaire de taille M, Neutre
 - **Terrain** Montagnes, Plans élémentaires
 - **Classe d'armure** 19 (armure naturelle)
@@ -77708,7 +77708,7 @@ _Touché :_ 13 (3d6+3) dégâts perforants.
 # Zombi
 
 - Source: (CEO p)(SRD p)
-- SRD: [Zombie](srd_monsters_zombie.md)
+- Alias: [Zombie](srd_monsters_zombie.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 8
@@ -77743,7 +77743,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 # Zombi ogre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ogre Zombie](srd_monsters_ogre_zombie.md)
+- Alias: [Ogre Zombie](srd_monsters_ogre_zombie.md)
 -  Mort-vivant de taille G, Neutre Mauvais
 - **Terrain** 
 - **Classe d'armure** 8
@@ -77778,7 +77778,7 @@ _Touché :_ 13 (2d8+4) dégâts contondants.
 # Aigle
 
 - Source: (CEO p)(SRD p)
-- SRD: [Eagle](srd_monsters_eagle.md)
+- Alias: [Eagle](srd_monsters_eagle.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Mer / Océan, Montagnes
 - **Classe d'armure** 12
@@ -77811,7 +77811,7 @@ _Touché :_ 4 (1d4+2) dégâts tranchants.
 # Aigle géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Eagle](srd_monsters_giant_eagle.md)
+- Alias: [Giant Eagle](srd_monsters_giant_eagle.md)
 -  Bête de taille G, neutre bon
 - **Terrain** Montagnes
 - **Classe d'armure** 13
@@ -77850,7 +77850,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Araignée
 
 - Source: (CEO p)(SRD p)
-- SRD: [Spider](srd_monsters_spider.md)
+- Alias: [Spider](srd_monsters_spider.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Jungle
 - **Classe d'armure** 12
@@ -77887,7 +77887,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 # Araignée de phase
 
 - Source: (CEO p)(SRD p)
-- SRD: [Phase Spider](srd_monsters_phase_spider.md)
+- Alias: [Phase Spider](srd_monsters_phase_spider.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Bois / Forêt, Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 13 (armure naturelle)
@@ -77924,7 +77924,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible doit effectuer un [jet de
 # Araignée géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Spider](srd_monsters_giant_spider.md)
+- Alias: [Giant Spider](srd_monsters_giant_spider.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Caverne naturelle, Ruines extérieures
 - **Classe d'armure** 14 (armure naturelle)
@@ -77965,7 +77965,7 @@ _Touché :_ la cible est [entravée](hd_conditions_entrave.md) par la toile. Par
 # Araignée-loup géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)
+- Alias: [Giant Wolf Spider](srd_monsters_giant_wolf_spider.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -78002,7 +78002,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible doit effectuer un [jet de 
 # Arbre éveillé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Awakened Tree](srd_monsters_awakened_tree.md)
+- Alias: [Awakened Tree](srd_monsters_awakened_tree.md)
 -  Plante de taille TG, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13 (armure naturelle)
@@ -78036,7 +78036,7 @@ _Touché :_ 14 (3d6+4) dégâts contondants.
 # Arbuste éveillé
 
 - Source: (CEO p)(SRD p)
-- SRD: [Awakened Shrub](srd_monsters_awakened_shrub.md)
+- Alias: [Awakened Shrub](srd_monsters_awakened_shrub.md)
 -  Plante de taille P, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 9
@@ -78070,7 +78070,7 @@ _Touché :_ 1 (1d4-1) dégâts tranchants.
 # Babouin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Baboon](srd_monsters_baboon.md)
+- Alias: [Baboon](srd_monsters_baboon.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Jungle
 - **Classe d'armure** 12
@@ -78102,7 +78102,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 # Bec de hache
 
 - Source: (CEO p)(SRD p)
-- SRD: [Axe Beak](srd_monsters_axe_beak.md)
+- Alias: [Axe Beak](srd_monsters_axe_beak.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Jungle
 - **Classe d'armure** 11
@@ -78130,7 +78130,7 @@ _Touché :_ 6 (1d8+2) dégâts tranchants.
 # Belette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Weasel](srd_monsters_weasel.md)
+- Alias: [Weasel](srd_monsters_weasel.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -78163,7 +78163,7 @@ _Touché :_ 1 dégât perforant.
 # Belette géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Weasel](srd_monsters_giant_weasel.md)
+- Alias: [Giant Weasel](srd_monsters_giant_weasel.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -78196,7 +78196,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # Blaireau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Badger](srd_monsters_badger.md)
+- Alias: [Badger](srd_monsters_badger.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10
@@ -78228,7 +78228,7 @@ _Touché :_ 1 dégât perforant.
 # Blaireau géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Badger](srd_monsters_giant_badger.md)
+- Alias: [Giant Badger](srd_monsters_giant_badger.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 10
@@ -78266,7 +78266,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 # Chacal
 
 - Source: (CEO p)(SRD p)
-- SRD: [Jackal](srd_monsters_jackal.md)
+- Alias: [Jackal](srd_monsters_jackal.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -78301,7 +78301,7 @@ _Touché :_ 1 (1d4-1) dégâts perforants.
 # Chameau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Camel](srd_monsters_camel.md)
+- Alias: [Camel](srd_monsters_camel.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud
 - **Classe d'armure** 9
@@ -78329,7 +78329,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 # Chat
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cat](srd_monsters_cat.md)
+- Alias: [Cat](srd_monsters_cat.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -78362,7 +78362,7 @@ _Touché :_ 1 dégât tranchant.
 # Chauve-souris
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bat](srd_monsters_bat.md)
+- Alias: [Bat](srd_monsters_bat.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
@@ -78396,7 +78396,7 @@ _Touché :_ 1 dégât perforant.
 # Chauve-souris géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Bat](srd_monsters_giant_bat.md)
+- Alias: [Giant Bat](srd_monsters_giant_bat.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Jungle, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13
@@ -78430,7 +78430,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Cheval de guerre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Warhorse](srd_monsters_warhorse.md)
+- Alias: [Warhorse](srd_monsters_warhorse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
@@ -78537,7 +78537,7 @@ _Touché :_ 11 (2d6+4) dégâts contondants.
 # Cheval de selle
 
 - Source: (CEO p)(SRD p)
-- SRD: [Riding Horse](srd_monsters_riding_horse.md)
+- Alias: [Riding Horse](srd_monsters_riding_horse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
@@ -78565,7 +78565,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 # Cheval de trait
 
 - Source: (CEO p)(SRD p)
-- SRD: [Draft Horse](srd_monsters_draft_horse.md)
+- Alias: [Draft Horse](srd_monsters_draft_horse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
@@ -78593,7 +78593,7 @@ _Touché :_ 9 (2d4+4) dégâts contondants.
 # Chèvre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Goat](srd_monsters_goat.md)
+- Alias: [Goat](srd_monsters_goat.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 10
@@ -78627,7 +78627,7 @@ _Touché :_ 3 (1d4+1) dégâts contondants.
 # Chèvre géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Goat](srd_monsters_giant_goat.md)
+- Alias: [Giant Goat](srd_monsters_giant_goat.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 11 (armure naturelle)
@@ -78661,7 +78661,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 # Chevreuil
 
 - Source: (CEO p)(SRD p)
-- SRD: [Deer](srd_monsters_deer.md)
+- Alias: [Deer](srd_monsters_deer.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 13
@@ -78689,7 +78689,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 # Chien du trépas
 
 - Source: (CEO p)(SRD p)
-- SRD: [Death Dog](srd_monsters_death_dog.md)
+- Alias: [Death Dog](srd_monsters_death_dog.md)
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -78724,7 +78724,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants. Si la cible est une créature, elle d
 # Chien esquiveur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Blink Dog](srd_monsters_blink_dog.md)
+- Alias: [Blink Dog](srd_monsters_blink_dog.md)
 -  Fée de taille M, Loyal Bon
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -78759,7 +78759,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 # Chouette
 
 - Source: (CEO p)(SRD p)
-- SRD: [Owl](srd_monsters_owl.md)
+- Alias: [Owl](srd_monsters_owl.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 11
@@ -78794,7 +78794,7 @@ _Touché :_ 1 dégât tranchant.
 # Chouette géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Owl](srd_monsters_giant_owl.md)
+- Alias: [Giant Owl](srd_monsters_giant_owl.md)
 -  Bête de taille G, neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 12
@@ -78829,7 +78829,7 @@ _Touché :_ 8 (2d6+1) dégâts tranchants.
 # Corbeau
 
 - Source: (CEO p)(SRD p)
-- SRD: [Raven](srd_monsters_raven.md)
+- Alias: [Raven](srd_monsters_raven.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 12
@@ -78862,7 +78862,7 @@ _Touché :_ 1 dégât perforant.
 # Crabe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Crab](srd_monsters_crab.md)
+- Alias: [Crab](srd_monsters_crab.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Littoral, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11 (armure naturelle)
@@ -78895,7 +78895,7 @@ _Touché :_ 1 dégât contondant.
 # Crabe géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Crab](srd_monsters_giant_crab.md)
+- Alias: [Giant Crab](srd_monsters_giant_crab.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine, Ruines sous-marines
 - **Classe d'armure** 15 (armure naturelle)
@@ -78928,7 +78928,7 @@ _Touché :_ 4 (1d6+1) dégât contondant et la cible est [empoignée](hd_conditi
 # Crapaud géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Toad](srd_monsters_giant_toad.md)
+- Alias: [Giant Toad](srd_monsters_giant_toad.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Littoral, Mangrove / Marécage
 - **Classe d'armure** 11
@@ -78966,7 +78966,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants plus 5 (1d10) dégâts de poison et l
 # Crocodile
 
 - Source: (CEO p)(SRD p)
-- SRD: [Crocodile](srd_monsters_crocodile.md)
+- Alias: [Crocodile](srd_monsters_crocodile.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12 (armure naturelle)
@@ -78999,7 +78999,7 @@ _Touché :_ 7 (1d10+2) dégâts perforants et la cible est [empoignée](hd_condi
 # Crocodile géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Crocodile](srd_monsters_giant_crocodile.md)
+- Alias: [Giant Crocodile](srd_monsters_giant_crocodile.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Désert chaud, Jungle, Mangrove / Marécage
 - **Classe d'armure** 14 (armure naturelle)
@@ -79038,7 +79038,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants. Si la cible est une créature, elle
 # Élan
 
 - Source: (CEO p)(SRD p)
-- SRD: [Elk](srd_monsters_elk.md)
+- Alias: [Elk](srd_monsters_elk.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 10
@@ -79074,7 +79074,7 @@ _Touché :_ 8 (2d4+3) dégâts contondants.
 # Élan géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Elk](srd_monsters_giant_elk.md)
+- Alias: [Giant Elk](srd_monsters_giant_elk.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 14 (armure naturelle)
@@ -79111,7 +79111,7 @@ _Touché :_ 22 (4d8+4) dégâts contondants.
 # Éléphant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Elephant](srd_monsters_elephant.md)
+- Alias: [Elephant](srd_monsters_elephant.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Désert chaud, Jungle, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12 (armure naturelle)
@@ -79147,7 +79147,7 @@ _Touché :_ 22 (3d10+6) dégâts contondants.
 # Épaulard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Killer Whale](srd_monsters_killer_whale.md)
+- Alias: [Killer Whale](srd_monsters_killer_whale.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
@@ -79184,7 +79184,7 @@ _Touché :_ 21 (5d6+4) dégâts perforants.
 # Faucon
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hawk](srd_monsters_hawk.md)
+- Alias: [Hawk](srd_monsters_hawk.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 13
@@ -79217,7 +79217,7 @@ _Touché :_ 1 dégât tranchant.
 # Faucon de sang
 
 - Source: (CEO p)(SRD p)
-- SRD: [Blood Hawk](srd_monsters_blood_hawk.md)
+- Alias: [Blood Hawk](srd_monsters_blood_hawk.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Collines / Vallées, Désert chaud, Littoral
 - **Classe d'armure** 12
@@ -79252,7 +79252,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # Grand singe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Ape](srd_monsters_ape.md)
+- Alias: [Ape](srd_monsters_ape.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Jungle, Montagnes
 - **Classe d'armure** 12
@@ -79287,7 +79287,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 # Grenouille
 
 - Source: (CEO p)(SRD p)
-- SRD: [Frog](srd_monsters_frog.md)
+- Alias: [Frog](srd_monsters_frog.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 11
@@ -79316,7 +79316,7 @@ _Touché :_ 6 (1d6+3) dégâts contondants.
 # Grenouille géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Frog](srd_monsters_giant_frog.md)
+- Alias: [Giant Frog](srd_monsters_giant_frog.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 11
@@ -79355,7 +79355,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants et la cible est [empoignée](hd_condit
 # Guêpe géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Wasp](srd_monsters_giant_wasp.md)
+- Alias: [Giant Wasp](srd_monsters_giant_wasp.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
@@ -79453,7 +79453,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Hippocampe
 
 - Source: (CEO p)(SRD p)
-- SRD: [Sea Horse](srd_monsters_sea_horse.md)
+- Alias: [Sea Horse](srd_monsters_sea_horse.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Ruines sous-marines
 - **Classe d'armure** 11
@@ -79479,7 +79479,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Hippocampe géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
+- Alias: [Giant Sea Horse](srd_monsters_giant_sea_horse.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
@@ -79513,7 +79513,7 @@ _Touché :_ 4 (1d6+1) dégâts contondants.
 # Hyène
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hyena](srd_monsters_hyena.md)
+- Alias: [Hyena](srd_monsters_hyena.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11
@@ -79546,7 +79546,7 @@ _Touché :_ 3 (1d6) dégâts perforants.
 # Hyène géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Hyena](srd_monsters_giant_hyena.md)
+- Alias: [Giant Hyena](srd_monsters_giant_hyena.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -79579,7 +79579,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants.
 # Lézard
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lizard](srd_monsters_lizard.md)
+- Alias: [Lizard](srd_monsters_lizard.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 10
@@ -79607,7 +79607,7 @@ _Touché :_ 1 dégât perforant.
 # Lézard géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Lizard](srd_monsters_giant_lizard.md)
+- Alias: [Giant Lizard](srd_monsters_giant_lizard.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Jungle, Caverne sous-marine
 - **Classe d'armure** 12 (armure naturelle)
@@ -79635,7 +79635,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # Lion
 
 - Source: (CEO p)(SRD p)
-- SRD: [Lion](srd_monsters_lion.md)
+- Alias: [Lion](srd_monsters_lion.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -79676,7 +79676,7 @@ _Touché :_ 7 (1d8+3) dégâts perforants.
 # Loup
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wolf](srd_monsters_wolf.md)
+- Alias: [Wolf](srd_monsters_wolf.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
@@ -79711,7 +79711,7 @@ _Touché :_ 7 (2d4+2) dégâts perforants. Si la cible est une créature, elle d
 # Loup arctique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Winter Wolf](srd_monsters_winter_wolf.md)
+- Alias: [Winter Wolf](srd_monsters_winter_wolf.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
@@ -79753,7 +79753,7 @@ Les créatures dans ce cône doivent chacune réussir un [jet de sauvegarde](hd_
 # Loup sanguinaire
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dire Wolf](srd_monsters_dire_wolf.md)
+- Alias: [Dire Wolf](srd_monsters_dire_wolf.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Bois / Forêt, Montagnes
 - **Classe d'armure** 14 (armure naturelle)
@@ -79788,7 +79788,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 # Mammouth
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mammoth](srd_monsters_mammoth.md)
+- Alias: [Mammoth](srd_monsters_mammoth.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Arctique / Subarctique
 - **Classe d'armure** 13 (armure naturelle)
@@ -79824,7 +79824,7 @@ _Touché :_ 29 (4d10+7) dégâts contondants.
 # Mastiff
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mastiff](srd_monsters_mastiff.md)
+- Alias: [Mastiff](srd_monsters_mastiff.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12
@@ -79857,7 +79857,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants. Si la cible est une créature, elle d
 # Mille-pattes géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Centipede](srd_monsters_giant_centipede.md)
+- Alias: [Giant Centipede](srd_monsters_giant_centipede.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Désert chaud, Jungle, Caverne naturelle
 - **Classe d'armure** 13 (armure naturelle)
@@ -79885,7 +79885,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants et la cible doit réussir un [jet de s
 # Mule
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mule](srd_monsters_mule.md)
+- Alias: [Mule](srd_monsters_mule.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Montagnes, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
@@ -79919,7 +79919,7 @@ _Touché :_ 4 (1d4+2) dégâts contondants.
 # Nuée de chauve-souris
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
+- Alias: [Swarm of Bats](srd_monsters_swarm_of_bats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 12
@@ -79957,7 +79957,7 @@ _Touché :_ 5 (2d4) dégâts perforants ou 2 (1d4) dégâts perforants si la nu�
 # Nuée de corbeaux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
+- Alias: [Swarm of Ravens](srd_monsters_swarm_of_ravens.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Montagnes, Ruines extérieures
 - **Classe d'armure** 12
@@ -79992,7 +79992,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 # Nuée de piranhas
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
+- Alias: [Swarm of Quippers](srd_monsters_swarm_of_quippers.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage, Ruines sous-marines
 - **Classe d'armure** 13
@@ -80030,7 +80030,7 @@ _Touché :_ 14 (4d6) dégâts perforants ou 7 (2d6) dégâts perforants si la nu
 # Nuée de rats
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
+- Alias: [Swarm of Rats](srd_monsters_swarm_of_rats.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 10
@@ -80066,7 +80066,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 # Nuée de serpents venimeux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)
+- Alias: [Swarm of Poisonous Snakes](srd_monsters_swarm_of_poisonous_snakes.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage, Caverne sous-marine
 - **Classe d'armure** 14
@@ -80100,7 +80100,7 @@ _Touché :_ 7 (2d6) dégâts perforants ou 3 (1d6) dégâts perforants si la nu�
 # Nuée d'insectes
 
 - Source: (CEO p)(SRD p)
-- SRD: [Swarm of Insects](srd_monsters_swarm_of_insects.md)
+- Alias: [Swarm of Insects](srd_monsters_swarm_of_insects.md)
 -  Nuée de taille M composée de bêtes de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12 (armure naturelle)
@@ -80150,7 +80150,7 @@ Il existe plusieurs types d'insectes susceptibles de se rassembler en nuées, et
 # Ours brun
 
 - Source: (CEO p)(SRD p)
-- SRD: [Brown Bear](srd_monsters_brown_bear.md)
+- Alias: [Brown Bear](srd_monsters_brown_bear.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Littoral, Montagnes
 - **Classe d'armure** 11 (armure naturelle)
@@ -80189,7 +80189,7 @@ _Touché :_ 8 (1d8+4) dégâts perforants.
 # Ours noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Black Bear](srd_monsters_black_bear.md)
+- Alias: [Black Bear](srd_monsters_black_bear.md)
 -  Bête de taille M, non-alignée
 - **Terrain** 
 - **Classe d'armure** 11 (armure naturelle)
@@ -80228,7 +80228,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Ours polaire
 
 - Source: (CEO p)(SRD p)
-- SRD: [Polar Bear](srd_monsters_polar_bear.md)
+- Alias: [Polar Bear](srd_monsters_polar_bear.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Bois / Forêt
 - **Classe d'armure** 12 (armure naturelle)
@@ -80267,7 +80267,7 @@ _Touché :_ 9 (1d8+5) dégâts perforants.
 # Panthère
 
 - Source: (CEO p)(SRD p)
-- SRD: [Panther](srd_monsters_panther.md)
+- Alias: [Panther](srd_monsters_panther.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
@@ -80306,7 +80306,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Pieuvre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Octopus](srd_monsters_octopus.md)
+- Alias: [Octopus](srd_monsters_octopus.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12
@@ -80345,7 +80345,7 @@ _Touché :_ 1 dégât contondant et la cible est [empoignée](hd_conditions_empo
 # Pieuvre géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Octopus](srd_monsters_giant_octopus.md)
+- Alias: [Giant Octopus](srd_monsters_giant_octopus.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 11
@@ -80386,7 +80386,7 @@ Jusqu'au terme de cette empoignade, la cible est [entravée](hd_conditions_entra
 # Piranha
 
 - Source: (CEO p)(SRD p)
-- SRD: [Quipper](srd_monsters_quipper.md)
+- Alias: [Quipper](srd_monsters_quipper.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 13
@@ -80420,7 +80420,7 @@ _Touché :_ 1 dégât perforant.
 # Poney
 
 - Source: (CEO p)(SRD p)
-- SRD: [Pony](srd_monsters_pony.md)
+- Alias: [Pony](srd_monsters_pony.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
@@ -80448,7 +80448,7 @@ _Touché :_ 7 (2d4+2) dégâts contondants.
 # Punaise de feu géante
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
+- Alias: [Giant Fire Beetle](srd_monsters_giant_fire_beetle.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Bois / Forêt, Caverne aménagée, Caverne naturelle, Ruines souterraines
 - **Classe d'armure** 13 (armure naturelle)
@@ -80480,7 +80480,7 @@ _Touché :_ 2 (1d6-1) dégâts tranchants.
 # Rat
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rat](srd_monsters_rat.md)
+- Alias: [Rat](srd_monsters_rat.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Caverne aménagée
 - **Classe d'armure** 10
@@ -80512,7 +80512,7 @@ _Touché :_ 1 dégât perforant.
 # Rat géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Rat](srd_monsters_giant_rat.md)
+- Alias: [Giant Rat](srd_monsters_giant_rat.md)
 -  Bête de taille P, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage, Caverne aménagée
 - **Classe d'armure** 12
@@ -80554,7 +80554,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants. Si la cible est une créature, elle d
 # Requin chasseur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Hunter Shark](srd_monsters_hunter_shark.md)
+- Alias: [Hunter Shark](srd_monsters_hunter_shark.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
@@ -80589,7 +80589,7 @@ _Touché :_ 13 (2d8+4) dégâts perforants.
 # Requin de récif
 
 - Source: (CEO p)(SRD p)
-- SRD: [Reef Shark](srd_monsters_reef_shark.md)
+- Alias: [Reef Shark](srd_monsters_reef_shark.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Littoral, Ruines sous-marines
 - **Classe d'armure** 12 (armure naturelle)
@@ -80624,7 +80624,7 @@ _Touché :_ 6 (1d8+2) dégâts perforants.
 # Requin géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Shark](srd_monsters_giant_shark.md)
+- Alias: [Giant Shark](srd_monsters_giant_shark.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Mer / Océan, Ruines sous-marines
 - **Classe d'armure** 13 (armure naturelle)
@@ -80659,7 +80659,7 @@ _Touché :_ 22 (3d10+6) dégâts perforants.
 # Rhinocéros
 
 - Source: (CEO p)(SRD p)
-- SRD: [Rhinoceros](srd_monsters_rhinoceros.md)
+- Alias: [Rhinoceros](srd_monsters_rhinoceros.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 11 (armure naturelle)
@@ -80693,7 +80693,7 @@ _Touché :_ 14 (2d8+5) dégâts contondants.
 # Sanglier
 
 - Source: (CEO p)(SRD p)
-- SRD: [Boar](srd_monsters_boar.md)
+- Alias: [Boar](srd_monsters_boar.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Jungle
 - **Classe d'armure** 11 (armure naturelle)
@@ -80727,7 +80727,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 # Sanglier géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Boar](srd_monsters_giant_boar.md)
+- Alias: [Giant Boar](srd_monsters_giant_boar.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Bois / Forêt, Collines / Vallées, Jungle
 - **Classe d'armure** 12 (armure naturelle)
@@ -80761,7 +80761,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Scorpion
 
 - Source: (CEO p)(SRD p)
-- SRD: [Scorpion](srd_monsters_scorpion.md)
+- Alias: [Scorpion](srd_monsters_scorpion.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 11 (armure naturelle)
@@ -80789,7 +80789,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 # Scorpion géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Scorpion](srd_monsters_giant_scorpion.md)
+- Alias: [Giant Scorpion](srd_monsters_giant_scorpion.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Désert chaud, Caverne naturelle
 - **Classe d'armure** 15 (armure naturelle)
@@ -80823,7 +80823,7 @@ _Touché :_ 6 (1d8+2) dégâts contondants et la cible est [empoignée](hd_condi
 # Serpent constricteur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Constrictor Snake](srd_monsters_constrictor_snake.md)
+- Alias: [Constrictor Snake](srd_monsters_constrictor_snake.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
@@ -80855,7 +80855,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Serpent constricteur géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
+- Alias: [Giant Constrictor Snake](srd_monsters_giant_constrictor_snake.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
@@ -80888,7 +80888,7 @@ _Touché :_ 11 (2d6+4) dégâts perforants.
 # Serpent venimeux
 
 - Source: (CEO p)(SRD p)
-- SRD: [Poisonous Snake](srd_monsters_poisonous_snake.md)
+- Alias: [Poisonous Snake](srd_monsters_poisonous_snake.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 13
@@ -80916,7 +80916,7 @@ _Touché :_ 1 dégât perforant et la cible doit effectuer un [jet de sauvegarde
 # Serpent venimeux géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
+- Alias: [Giant Poisonous Snake](srd_monsters_giant_poisonous_snake.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Désert chaud, Caverne sous-marine
 - **Classe d'armure** 14
@@ -80947,7 +80947,7 @@ Elle subit 10 (3d6) dégâts de poison en cas de [jet de sauvegarde](hd_abilitie
 # Serpent volant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Flying Snake](srd_monsters_flying_snake.md)
+- Alias: [Flying Snake](srd_monsters_flying_snake.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Montagnes
 - **Classe d'armure** 14
@@ -80979,7 +80979,7 @@ _Touché :_ 1 dégât perforant plus 7 (3d4) dégâts de poison.
 # Singe géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Ape](srd_monsters_giant_ape.md)
+- Alias: [Giant Ape](srd_monsters_giant_ape.md)
 -  Bête de taille TG, non-alignée
 - **Terrain** Arctique / Subarctique, Jungle, Montagnes
 - **Classe d'armure** 12
@@ -81014,7 +81014,7 @@ _Touché :_ 30 (7d6+6) dégâts contondants.
 # Tigre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tiger](srd_monsters_tiger.md)
+- Alias: [Tiger](srd_monsters_tiger.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Arctique / Subarctique, Jungle, Mangrove / Marécage
 - **Classe d'armure** 12
@@ -81053,7 +81053,7 @@ _Touché :_ 8 (1d10+3) dégâts perforants.
 # Tigre à dents de sabre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
+- Alias: [Saber-Toothed Tiger](srd_monsters_saber_toothed_tiger.md)
 -  Bête de taille G, non-alignée
 - **Terrain** Collines / Vallées, Désert chaud, Montagnes
 - **Classe d'armure** 12
@@ -81092,7 +81092,7 @@ _Touché :_ 10 (1d10+5) dégâts perforants.
 # Vautour
 
 - Source: (CEO p)(SRD p)
-- SRD: [Vulture](srd_monsters_vulture.md)
+- Alias: [Vulture](srd_monsters_vulture.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Désert chaud, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
@@ -81127,7 +81127,7 @@ _Touché :_ 2 (1d4) dégâts perforants.
 # Vautour géant
 
 - Source: (CEO p)(SRD p)
-- SRD: [Giant Vulture](srd_monsters_giant_vulture.md)
+- Alias: [Giant Vulture](srd_monsters_giant_vulture.md)
 -  Bête de taille G, Neutre Mauvais
 - **Terrain** Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 10
@@ -81168,7 +81168,7 @@ _Touché :_ 9 (2d6+2) dégâts tranchants.
 # Worg
 
 - Source: (CEO p)(SRD p)
-- SRD: [Worg](srd_monsters_worg.md)
+- Alias: [Worg](srd_monsters_worg.md)
 -  Créature monstrueuse de taille G, Neutre Mauvais
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 13 (armure naturelle)
@@ -81201,7 +81201,7 @@ _Touché :_ 10 (2d6+3) dégâts perforants. Si la cible est une créature, elle 
 # Acolyte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Acolyte](srd_monsters_acolyte.md)
+- Alias: [Acolyte](srd_monsters_acolyte.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 10
@@ -81238,7 +81238,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 # Archimage
 
 - Source: (CEO p)(SRD p)
-- SRD: [Archmage](srd_monsters_archmage.md)
+- Alias: [Archmage](srd_monsters_archmage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)
@@ -81299,7 +81299,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # Assassin
 
 - Source: (CEO p)(SRD p)
-- SRD: [Assassin](srd_monsters_assassin.md)
+- Alias: [Assassin](srd_monsters_assassin.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Terrain** 
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -81344,7 +81344,7 @@ _Touché :_ 6 (1d6+3) dégâts perforants et la cible doit effectuer un [jet de 
 # Bandit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bandit](srd_monsters_bandit.md)
+- Alias: [Bandit](srd_monsters_bandit.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)
@@ -81376,7 +81376,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 # Berserker
 
 - Source: (CEO p)(SRD p)
-- SRD: [Berserker](srd_monsters_berserker.md)
+- Alias: [Berserker](srd_monsters_berserker.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement Chaotique
 - **Terrain** 
 - **Classe d'armure** 13 (armure de peau)
@@ -81408,7 +81408,7 @@ _Touché :_ 9 (1d12+3) dégâts tranchants.
 # Capitaine bandit
 
 - Source: (CEO p)(SRD p)
-- SRD: [Bandit Captain](srd_monsters_bandit_captain.md)
+- Alias: [Bandit Captain](srd_monsters_bandit_captain.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Loyal
 - **Terrain** 
 - **Classe d'armure** 15 (armure de cuir clouté)
@@ -81448,7 +81448,7 @@ _Touché :_ 5 (1d4+3) dégâts perforants.
 # Chevalier
 
 - Source: (CEO p)(SRD p)
-- SRD: [Knight](srd_monsters_knight.md)
+- Alias: [Knight](srd_monsters_knight.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 18 (harnois)
@@ -81493,7 +81493,7 @@ _Touché :_ 10 (2d6+3) dégâts tranchants.
 # Druide
 
 - Source: (CEO p)(SRD p)
-- SRD: [Druid](srd_monsters_druid.md)
+- Alias: [Druid](srd_monsters_druid.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 11 (16 avec peau d'écorce)
@@ -81532,7 +81532,7 @@ _Touché :_ 3 (1d6) dégâts contondants, 4 (1d8) dégâts contondants s'il est 
 # Ecclésiastique
 
 - Source: (CEO p)(SRD p)
-- SRD: [Priest](srd_monsters_priest.md)
+- Alias: [Priest](srd_monsters_priest.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 13 (chemise de mailles)
@@ -81577,7 +81577,7 @@ _Touché :_ 3 (1d6) dégâts contondants.
 # Éclaireur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Scout](srd_monsters_scout.md)
+- Alias: [Scout](srd_monsters_scout.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)
@@ -81616,7 +81616,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Espion
 
 - Source: (CEO p)(SRD p)
-- SRD: [Spy](srd_monsters_spy.md)
+- Alias: [Spy](srd_monsters_spy.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12
@@ -81657,7 +81657,7 @@ _Touché :_ 5 (1d6+2) dégâts perforants.
 # Fanatique de secte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cult Fanatic](srd_monsters_cult_fanatic.md)
+- Alias: [Cult Fanatic](srd_monsters_cult_fanatic.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)
@@ -81700,7 +81700,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # Garde
 
 - Source: (CEO p)(SRD p)
-- SRD: [Guard](srd_monsters_guard.md)
+- Alias: [Guard](srd_monsters_guard.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 16 (bouclier, chemise de mailles)
@@ -81729,7 +81729,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 # Gladiateur
 
 - Source: (CEO p)(SRD p)
-- SRD: [Gladiator](srd_monsters_gladiator.md)
+- Alias: [Gladiator](srd_monsters_gladiator.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 16 (armure de cuir clouté, bouclier)
@@ -81777,7 +81777,7 @@ Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir par
 # Guerrier tribal
 
 - Source: (CEO p)(SRD p)
-- SRD: [Tribal Warrior](srd_monsters_tribal_warrior.md)
+- Alias: [Tribal Warrior](srd_monsters_tribal_warrior.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12 (armure de peau)
@@ -81809,7 +81809,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants ou 5 (1d8+1) dégâts perforants si el
 # Mage
 
 - Source: (CEO p)(SRD p)
-- SRD: [Mage](srd_monsters_mage.md)
+- Alias: [Mage](srd_monsters_mage.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 12 (15 avec armure du mage)
@@ -81855,7 +81855,7 @@ _Touché :_ 4 (1d4+2) dégâts perforants.
 # Malfrat
 
 - Source: (CEO p)(SRD p)
-- SRD: [Thug](srd_monsters_thug.md)
+- Alias: [Thug](srd_monsters_thug.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que bon
 - **Terrain** 
 - **Classe d'armure** 11 (armure de cuir)
@@ -81896,7 +81896,7 @@ Les malfrats sont d'impitoyables hommes de mains doués en matière d'intimidati
 # Membre de secte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cultist](srd_monsters_cultist.md)
+- Alias: [Cultist](srd_monsters_cultist.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Terrain** 
 - **Classe d'armure** 12 (armure de cuir)
@@ -81929,7 +81929,7 @@ _Touché :_ 4 (1d6+1) dégâts tranchants.
 # Noble
 
 - Source: (CEO p)(SRD p)
-- SRD: [Noble](srd_monsters_noble.md)
+- Alias: [Noble](srd_monsters_noble.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 15 (cuirasse)
@@ -81962,7 +81962,7 @@ _Touché :_ 5 (1d8+1) dégâts perforants.
 # Roturier
 
 - Source: (CEO p)(SRD p)
-- SRD: [Commoner](srd_monsters_commoner.md)
+- Alias: [Commoner](srd_monsters_commoner.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement
 - **Terrain** 
 - **Classe d'armure** 10
@@ -81990,7 +81990,7 @@ _Touché :_ 2 (1d4) dégâts contondants.
 # Vétéran
 
 - Source: (CEO p)(SRD p)
-- SRD: [Veteran](srd_monsters_veteran.md)
+- Alias: [Veteran](srd_monsters_veteran.md)
 -  Humanoïde (n'importe quelle race) de taille M, alignement quelconque
 - **Terrain** 
 - **Classe d'armure** 17 (clibanion)

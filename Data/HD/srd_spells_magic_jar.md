@@ -4,7 +4,7 @@
 
 # Magic Jar
 
-- MDR: [Possession](hd_spells_possession.md)
+- Alias: [Possession](hd_spells_possession.md)
 - Source: (SRD p160)
 -  6th-level necromancy
 - **Casting Time :** 1 minute

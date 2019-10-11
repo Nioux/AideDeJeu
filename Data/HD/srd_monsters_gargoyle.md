@@ -4,7 +4,7 @@
 
 # Gargoyle
 
-- CEO: [Gargouille](hd_monsters_gargouille.md)
+- Alias: [Gargouille](hd_monsters_gargouille.md)
 -  Medium elemental, chaotic evil
 - **Armor Class** 15 (natural armor)
 - **Hit Points** 52 (7d8 + 21)

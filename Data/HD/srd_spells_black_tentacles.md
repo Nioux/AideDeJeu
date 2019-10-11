@@ -4,7 +4,7 @@
 
 # Black Tentacles
 
-- MDR: [Tentacules noirs](hd_spells_tentacules_noirs.md)
+- Alias: [Tentacules noirs](hd_spells_tentacules_noirs.md)
 - Source: (SRD p121)
 -  4th-level conjuration
 - **Casting Time :** 1 action

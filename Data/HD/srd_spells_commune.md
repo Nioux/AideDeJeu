@@ -4,7 +4,7 @@
 
 # Commune
 
-- MDR: [Communion](hd_spells_communion.md)
+- Alias: [Communion](hd_spells_communion.md)
 - Source: (SRD p126)
 -  5th-level divination (ritual)
 - **Casting Time :** 1 minute

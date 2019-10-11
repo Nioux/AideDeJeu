@@ -5,7 +5,7 @@
 # Conglomérat Osseux
 
 - Source: (LDM p67)(TOB p39)
-- TOB: Bone Collective
+- Alias: Bone Collective
 -  Mort-vivant de Petite taille (P), chaotique mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 120 (16d6+64)

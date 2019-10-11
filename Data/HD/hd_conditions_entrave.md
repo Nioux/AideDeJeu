@@ -4,7 +4,7 @@
 
 # Entravé
 
-- AltName: [Restrained](srd_conditions_restrained.md)
+- Alias: [Restrained](srd_conditions_restrained.md)
 
 * La vitesse de la créature entravée tombe à 0 et elle ne peut plus bénéficier de ses éventuels bonus de vitesse.
 

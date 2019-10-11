@@ -4,7 +4,7 @@
 
 ### Ceinturon de force de géant du givre/des pierres
 
-- AltName: Belt of Frost / Stone Giant Strength (SRD p211)
+- Alias: Belt of Frost / Stone Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, très rare (harmonisation requise)
 

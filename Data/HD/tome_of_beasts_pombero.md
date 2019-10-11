@@ -5,7 +5,7 @@
 # Pombero
 
 - Source: (LDM p339)(TOB p313)
-- TOB: Pombero
+- Alias: Pombero
 -  Fée de taille Moyenne (M), chaotique neutre
 - **Terrain** Bois / Forêt
 - **Classe d'armure** 15 (armure naturelle)

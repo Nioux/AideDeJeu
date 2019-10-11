@@ -4,7 +4,7 @@
 
 ### Potion de lecture des pensées
 
-- AltName: Potion of Mind Reading (SRD p234)
+- Alias: Potion of Mind Reading (SRD p234)
 - Source: (CDC p178)
 -  Potion, rare
 

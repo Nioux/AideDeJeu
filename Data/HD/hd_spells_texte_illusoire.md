@@ -4,7 +4,7 @@
 
 # Texte illusoire
 
-- SRD: [Illusory Script](srd_spells_illusory_script.md)
+- Alias: [Illusory Script](srd_spells_illusory_script.md)
 
 -  Illusion de niveau 1 (rituel)
 

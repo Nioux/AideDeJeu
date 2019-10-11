@@ -10,11 +10,11 @@ using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels.Library
 {
-    public class ItemsViewModel : BaseViewModel
+    public class ItemsViewModelOld : BaseViewModel
     {
         CancellationTokenSource cancellationTokenSource;
 
-        public ItemsViewModel()
+        public ItemsViewModelOld()
         {
             LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
             SearchCommand = new Command<string>((text) =>

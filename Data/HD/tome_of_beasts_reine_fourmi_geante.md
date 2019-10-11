@@ -5,7 +5,7 @@
 # Reine Fourmi Géante
 
 - Source: (LDM p199)(TOB p23)
-- TOB: Giant Ant Queen
+- Alias: Giant Ant Queen
 -  Bête de Grande taille (G), non alignée
 - **Classe d'armure** 15 (armure naturelle)
 - **Points de vie** 85 (10d10+30)

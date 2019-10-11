@@ -4,7 +4,7 @@
 
 # Marche sur le vent
 
-- SRD: [Wind Walk](srd_spells_wind_walk.md)
+- Alias: [Wind Walk](srd_spells_wind_walk.md)
 
 -  Transmutation de niveau 6
 

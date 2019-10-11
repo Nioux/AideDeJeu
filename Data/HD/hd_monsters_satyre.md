@@ -5,7 +5,7 @@
 # Satyre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Satyr](srd_monsters_satyr.md)
+- Alias: [Satyr](srd_monsters_satyr.md)
 -  Fée de taille M, Chaotique Neutre
 - **Terrain** Bois / Forêt, Collines / Vallées, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 14 (armure de cuir)

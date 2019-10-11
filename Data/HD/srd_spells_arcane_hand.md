@@ -4,7 +4,7 @@
 
 # Arcane Hand
 
-- MDR: [Main magique](hd_spells_main_magique.md)
+- Alias: [Main magique](hd_spells_main_magique.md)
 - Source: (SRD p118)
 -  5th-level evocation
 - **Casting Time :** 1 action

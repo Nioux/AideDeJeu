@@ -5,7 +5,7 @@
 # La Reine des Neiges
 
 - Source: (LDM p182)(TOB p198)
-- TOB: Snow Queen
+- Alias: Snow Queen
 -  Fée de taille Moyenne (M), neutre mauvaise
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 123 (19d8+38)

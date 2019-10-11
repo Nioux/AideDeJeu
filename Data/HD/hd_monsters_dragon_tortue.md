@@ -5,7 +5,7 @@
 # Dragon-tortue
 
 - Source: (CEO p)(SRD p)
-- SRD: [Dragon Turtle](srd_monsters_dragon_turtle.md)
+- Alias: [Dragon Turtle](srd_monsters_dragon_turtle.md)
 -  Dragon de taille Gig, neutre
 - **Terrain** Littoral, Mer / Océan, Caverne sous-marine
 - **Classe d'armure** 20 (armure naturelle)

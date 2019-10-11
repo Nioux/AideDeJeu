@@ -4,7 +4,7 @@
 
 ### Gemme élémentaire
 
-- AltName: Elemental Gem (SRD p220)
+- Alias: Elemental Gem (SRD p220)
 - Source: (CDC p168)
 -  Objet merveilleux, peu courant
 

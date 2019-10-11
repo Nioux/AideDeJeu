@@ -4,7 +4,7 @@
 
 # Aveuglé
 
-- AltName: [Blinded](srd_conditions_blinded.md)
+- Alias: [Blinded](srd_conditions_blinded.md)
 
 * Une créature aveuglée ne voit plus rien et rate automatiquement tout test de caractéristique qui requiert la vue.
 

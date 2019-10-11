@@ -4,7 +4,7 @@
 
 # Doppelganger
 
-- CEO: [Doppleganger](hd_monsters_doppleganger.md)
+- Alias: [Doppleganger](hd_monsters_doppleganger.md)
 -  Medium monstrosity (shapechanger), neutral
 - **Armor Class** 14
 - **Hit Points** 52 (8d8 + 16)

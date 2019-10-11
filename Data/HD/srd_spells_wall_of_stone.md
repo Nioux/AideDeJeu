@@ -4,7 +4,7 @@
 
 # Wall of Stone
 
-- MDR: [Mur de pierre](hd_spells_mur_de_pierre.md)
+- Alias: [Mur de pierre](hd_spells_mur_de_pierre.md)
 - Source: (SRD p190)
 -  5th-level evocation
 - **Casting Time :** 1 action

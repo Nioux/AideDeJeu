@@ -5,7 +5,7 @@
 # Chat
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cat](srd_monsters_cat.md)
+- Alias: [Cat](srd_monsters_cat.md)
 -  Bête de taille TP, non-alignée
 - **Terrain** Bois / Forêt, Plaine / Champs / Prairie / Savane
 - **Classe d'armure** 12

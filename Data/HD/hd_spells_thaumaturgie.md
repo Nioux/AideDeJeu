@@ -4,7 +4,7 @@
 
 # Thaumaturgie
 
-- SRD: [Thaumaturgy](srd_spells_thaumaturgy.md)
+- Alias: [Thaumaturgy](srd_spells_thaumaturgy.md)
 
 -  Transmutation, tour de magie
 

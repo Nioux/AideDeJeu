@@ -5,7 +5,7 @@
 # Mangerêve
 
 - Source: (LDM p284)(TOB p158)
-- TOB: Dream Eater
+- Alias: Dream Eater
 -  Fiélon de taille Moyenne (M), loyal mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 15 (armure naturelle)

@@ -5,7 +5,7 @@
 # Dragon de bronze adulte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
+- Alias: [Adult Bronze Dragon](srd_monsters_adult_bronze_dragon.md)
 -  Dragon de taille TG, Loyal Bon
 - **Terrain** Littoral, Mer / Océan
 - **Classe d'armure** 19 (armure naturelle)

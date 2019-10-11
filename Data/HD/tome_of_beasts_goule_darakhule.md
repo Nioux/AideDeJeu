@@ -5,7 +5,7 @@
 # Goule Darakhule
 
 - Source: (LDM p217)(TOB p216)
-- TOB: Ghoul, Darakhul
+- Alias: Ghoul, Darakhul
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Ruines souterraines
 - **Classe d'armure** 16 (armure d'écailles ; 18 avec bouclier)

@@ -5,7 +5,7 @@
 # Pouding noir
 
 - Source: (CEO p)(SRD p)
-- SRD: [Black Pudding](srd_monsters_black_pudding.md)
+- Alias: [Black Pudding](srd_monsters_black_pudding.md)
 -  Vase de taille G, non-alignée
 - **Terrain** Caverne aménagée, Caverne naturelle, Donjon maçonné
 - **Classe d'armure** 7

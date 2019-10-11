@@ -4,7 +4,7 @@
 
 # Rust Monster
 
-- CEO: [Oxydeur](hd_monsters_oxydeur.md)
+- Alias: [Oxydeur](hd_monsters_oxydeur.md)
 -  Medium monstrosity, unaligned
 - **Armor Class** 14 (natural armor)
 - **Hit Points** 27 (5d8 + 5)

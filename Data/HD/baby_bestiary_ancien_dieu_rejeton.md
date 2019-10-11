@@ -4,6 +4,8 @@
 
 # Ancien dieu, rejeton
 
+- Source: (MM p16)(BB2 p28)
+- Alias: Elder Godspawn
 -  Fiélon (titan) de taille G, Chaotique Mauvais
 - **Classe d'armure** 17 (armure naturelle)
 - **Points de vie** 100 (8d10+56)

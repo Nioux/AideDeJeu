@@ -4,7 +4,7 @@
 
 ### Cape de l'arachnide
 
-- AltName: Cloak of Arachnida (SRD p214)
+- Alias: Cloak of Arachnida (SRD p214)
 - Source: (CDC p154)
 -  Objet merveilleux, très rare (harmonisation requise)
 

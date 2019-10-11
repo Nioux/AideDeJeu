@@ -4,7 +4,7 @@
 
 # Bandit
 
-- CEO: [Bandit](hd_monsters_bandit.md)
+- Alias: [Bandit](hd_monsters_bandit.md)
 - Source: (SRD p396)
 -  Medium humanoid (any race), any non-lawful alignment
 - **Armor Class** 12 (leather armor)

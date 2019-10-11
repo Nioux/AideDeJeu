@@ -4,7 +4,7 @@
 
 # Parole divine
 
-- SRD: [Divine Word](srd_spells_divine_word.md)
+- Alias: [Divine Word](srd_spells_divine_word.md)
 
 -  Évocation de niveau 7
 

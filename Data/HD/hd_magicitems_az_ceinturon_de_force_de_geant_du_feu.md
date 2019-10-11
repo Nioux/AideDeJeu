@@ -4,7 +4,7 @@
 
 ### Ceinturon de force de géant du feu
 
-- AltName: Belt of Fire Giant Strength (SRD p211)
+- Alias: Belt of Fire Giant Strength (SRD p211)
 - Source: (CDC p158)
 -  Objet merveilleux, très rare (harmonisation requise)
 

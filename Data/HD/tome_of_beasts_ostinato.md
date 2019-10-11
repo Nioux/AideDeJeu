@@ -5,7 +5,7 @@
 # Ostinato
 
 - Source: (LDM p335)(TOB p335)
-- TOB: Ostinato
+- Alias: Ostinato
 -  Aberration de taille Moyenne (M), chaotique neutre
 - **Classe d'armure** 15
 - **Points de vie** 39 (6d8+12)

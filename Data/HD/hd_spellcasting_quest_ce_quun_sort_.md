@@ -4,7 +4,7 @@
 
 ## Qu'est-ce qu'un sort ?
 
-- AltName: What Is a Spell? (SRD p100)
+- Alias: What Is a Spell? (SRD p100)
 - Source: (MDR p306)
 
 Un sort est un effet magique perceptible, un remodelage unique des énergies magiques qui imprègnent le multivers et qui s'exprime de manière spécifique et limitée. Lorsqu'un personnage lance un sort, il prélève soigneusement quelques brins de la magie brute inhérente au monde, les fixe selon un motif choisi, les fait vibrer de manière spécifique et enfin les libère pour créer l'effet désiré. Le tout généralement en l'espace de quelques secondes.

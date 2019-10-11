@@ -5,7 +5,7 @@
 # Titan Dégénéré
 
 - Source: (LDM p382)(TOB p381)
-- TOB: Degenerate Titan
+- Alias: Degenerate Titan
 -  Géant de Très Grande taille (TG), chaotique mauvais
 - **Terrain** Plaine / Champs / Prairie / Savane, Ruines extérieures
 - **Classe d'armure** 12 (manteau renforcé rudimentaire)

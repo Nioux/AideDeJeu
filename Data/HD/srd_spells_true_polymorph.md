@@ -4,7 +4,7 @@
 
 # True Polymorph
 
-- MDR: [Métamorphose suprême](hd_spells_metamorphose_supreme.md)
+- Alias: [Métamorphose suprême](hd_spells_metamorphose_supreme.md)
 - Source: (SRD p188)
 -  9th-level transmutation
 - **Casting Time :** 1 action

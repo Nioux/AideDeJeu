@@ -4,7 +4,7 @@
 
 # Brown Bear
 
-- CEO: [Ours brun](hd_monsters_ours_brun.md)
+- Alias: [Ours brun](hd_monsters_ours_brun.md)
 -  Large beast, unaligned
 - **Armor Class** 11 (natural armor)
 - **Hit Points** 34 (4d10 + 12)

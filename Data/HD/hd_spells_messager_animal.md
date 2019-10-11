@@ -4,7 +4,7 @@
 
 # Messager animal
 
-- SRD: [Animal Messenger](srd_spells_animal_messenger.md)
+- Alias: [Animal Messenger](srd_spells_animal_messenger.md)
 
 -  Enchantement de niveau 2 (rituel)
 

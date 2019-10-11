@@ -4,7 +4,7 @@
 
 # Giant Insect
 
-- MDR: [Insecte géant](hd_spells_insecte_geant.md)
+- Alias: [Insecte géant](hd_spells_insecte_geant.md)
 - Source: (SRD p149)
 -  4th-level transmutation
 - **Casting Time :** 1 action

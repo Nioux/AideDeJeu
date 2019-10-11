@@ -4,7 +4,7 @@
 
 # Réparation
 
-- SRD: [Mending](srd_spells_mending.md)
+- Alias: [Mending](srd_spells_mending.md)
 
 -  Transmutation, tour de magie
 

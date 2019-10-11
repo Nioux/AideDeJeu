@@ -5,7 +5,7 @@
 
 # Alignement
 
-- AltName: Alignment (SRD p58)
+- Alias: Alignment (SRD p58)
 - Source: (MDR p75)
 
 Une créature typique de l'univers du jeu a un alignement qui permet de donner une idée générale de son point de vue moral et de ce qui dicte son attitude. L'alignement est une combinaison de deux facteurs : l'un identifie la morale (Bon, Mauvais ou Neutre) et l'autre son positionnement par rapport à la société et à l'ordre (Loyal, Chaotique ou Neutre). Il existe neuf combinaisons de ces deux critères, et donc neuf alignements possibles.

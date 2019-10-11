@@ -5,7 +5,7 @@
 # Chèvre
 
 - Source: (CEO p)(SRD p)
-- SRD: [Goat](srd_monsters_goat.md)
+- Alias: [Goat](srd_monsters_goat.md)
 -  Bête de taille M, non-alignée
 - **Terrain** Collines / Vallées, Montagnes
 - **Classe d'armure** 10

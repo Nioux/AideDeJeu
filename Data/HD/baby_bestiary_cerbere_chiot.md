@@ -6,6 +6,8 @@
 
 Voir [Cerbère](hd_monsters_cerbere.md)
 
+- Source: (MM p32)(BB1 p20)
+- Alias: Cerberus Puppy
 -  Créature monstrueuse de taille M, Neutre Mauvais
 - **Terrain** Bois / Forêt, Jungle, Montagnes
 - **Classe d'armure** 13

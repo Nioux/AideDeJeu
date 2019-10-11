@@ -4,7 +4,7 @@
 
 # Web
 
-- MDR: [Toile d'araignée](hd_spells_toile_daraignee.md)
+- Alias: [Toile d'araignée](hd_spells_toile_daraignee.md)
 - Source: (SRD p192)
 -  2nd-level conjuration
 - **Casting Time :** 1 action

@@ -5,7 +5,7 @@
 # Apparition Putride
 
 - Source: (LDM p22)(TOB p315)
-- TOB: Putrid Haunt
+- Alias: Putrid Haunt
 -  Mort-vivant de taille Moyenne (M), neutre mauvais
 - **Terrain** Mangrove / Marécage
 - **Classe d'armure** 13 (armure naturelle)

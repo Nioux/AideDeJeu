@@ -4,7 +4,7 @@
 
 # Flame Strike
 
-- MDR: [Colonne de flamme](hd_spells_colonne_de_flamme.md)
+- Alias: [Colonne de flamme](hd_spells_colonne_de_flamme.md)
 - Source: (SRD p145)
 -  5th-level evocation
 - **Casting Time :** 1 action

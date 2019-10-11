@@ -4,7 +4,7 @@
 
 ### Liens de fer
 
-- AltName: Iron Bands of Binding (SRD p228)
+- Alias: Iron Bands of Binding (SRD p228)
 - Source: (CDC p171)
 -  Objet merveilleux, rare
 

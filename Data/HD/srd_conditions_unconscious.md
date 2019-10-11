@@ -4,7 +4,7 @@
 
 # Unconscious
 
-- AltName: [Inconscient](hd_conditions_inconscient.md)
+- Alias: [Inconscient](hd_conditions_inconscient.md)
 - Source: (SRD p359)
 
 * An unconscious creature is [incapacitated](srd_conditions_incapacitated.md) (see the condition), can't move or speak, and is unaware of its surroundings

@@ -5,7 +5,7 @@
 # Fanatique de secte
 
 - Source: (CEO p)(SRD p)
-- SRD: [Cult Fanatic](srd_monsters_cult_fanatic.md)
+- Alias: [Cult Fanatic](srd_monsters_cult_fanatic.md)
 -  Humanoïde (n'importe quelle race) de taille M, n'importe quel alignement autre que Bon
 - **Terrain** 
 - **Classe d'armure** 13 (armure de cuir)

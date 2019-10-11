@@ -4,7 +4,7 @@
 
 ### Submersible du crabe
 
-- AltName: Apparatus of the Crab (SRD p208)
+- Alias: Apparatus of the Crab (SRD p208)
 - Source: (CDC p186)
 -  Objet merveilleux, légendaire
 

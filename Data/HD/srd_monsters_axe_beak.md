@@ -4,7 +4,7 @@
 
 # Axe Beak
 
-- CEO: [Bec de hache](hd_monsters_bec_de_hache.md)
+- Alias: [Bec de hache](hd_monsters_bec_de_hache.md)
 - Source: (SRD p366)
 -  Large beast, unaligned
 - **Armor Class** 11

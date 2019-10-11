@@ -4,7 +4,7 @@
 
 # Eldritch Blast
 
-- MDR: [Explosion occulte](hd_spells_explosion_occulte.md)
+- Alias: [Explosion occulte](hd_spells_explosion_occulte.md)
 - Source: (SRD p139)
 -  Evocation cantrip
 - **Casting Time :** 1 action

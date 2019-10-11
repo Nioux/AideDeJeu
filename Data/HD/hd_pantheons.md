@@ -5,7 +5,7 @@
 
 # Panthéons historiques et fantastiques
 
-- AltName: Pantheons
+- Alias: Pantheons
 - Source: (MDR p413)(SRD p360)
 
 Les panthéons celtique, égyptien, grec et nordique sont des interprétations fantastiques des religions historiques de l’aube de la civilisation occidentale. Ils présentent des divinités parfaitement adaptées au jeu, séparées de leur contexte historique dans le monde réel et réunies dans des panthéons servant les besoins du jeu.

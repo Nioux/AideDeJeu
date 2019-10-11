@@ -5,7 +5,7 @@
 # Le Grand Veneur
 
 - Source: (LDM p186)(TOB p188)
-- TOB: Lord of the Hunt
+- Alias: Lord of the Hunt
 -  Fée de taille Moyenne (M), loyale neutre
 - **Classe d'armure** 18 (armure naturelle)
 - **Points de vie** 229 (27d8+108)

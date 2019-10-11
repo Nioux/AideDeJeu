@@ -5,7 +5,7 @@
 # Âme-en-peine
 
 - Source: (CEO p)(SRD p)
-- SRD: [Wraith](srd_monsters_wraith.md)
+- Alias: [Wraith](srd_monsters_wraith.md)
 -  Mort-vivant de taille M, Neutre Mauvais
 - **Terrain** Collines / Vallées, Ruines extérieures, Ruines souterraines
 - **Classe d'armure** 13

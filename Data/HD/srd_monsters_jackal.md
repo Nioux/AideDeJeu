@@ -4,7 +4,7 @@
 
 # Jackal
 
-- CEO: [Chacal](hd_monsters_chacal.md)
+- Alias: [Chacal](hd_monsters_chacal.md)
 -  Small beast, unaligned
 - **Armor Class** 12
 - **Hit Points** 3 (1d6)

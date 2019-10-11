@@ -4,7 +4,7 @@
 
 # Creation
 
-- MDR: [Création](hd_spells_creation.md)
+- Alias: [Création](hd_spells_creation.md)
 - Source: (SRD p132)
 -  5th-level illusion
 - **Casting Time :** 1 minute

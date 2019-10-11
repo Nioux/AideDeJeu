@@ -4,7 +4,7 @@
 
 # Giant Toad
 
-- CEO: [Crapaud géant](hd_monsters_crapaud_geant.md)
+- Alias: [Crapaud géant](hd_monsters_crapaud_geant.md)
 -  Large beast, unaligned
 - **Armor Class** 11
 - **Hit Points** 39 (6d10 + 6)

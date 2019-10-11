@@ -5,7 +5,7 @@
 # Dragon De Mithral, Adulte
 
 - Source: (LDM p130)(TOB p133)
-- TOB: Adult Mithral Dragon
+- Alias: Adult Mithral Dragon
 -  Dragon de Très Grande taille (TG), neutre
 - **Terrain** Montagnes
 - **Classe d'armure** 18 (armure naturelle)

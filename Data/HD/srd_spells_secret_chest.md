@@ -4,7 +4,7 @@
 
 # Secret Chest
 
-- MDR: [Coffre secret](hd_spells_coffre_secret.md)
+- Alias: [Coffre secret](hd_spells_coffre_secret.md)
 - Source: (SRD p177)
 -  4th-level conjuration
 - **Casting Time :** 1 action

@@ -4,7 +4,7 @@
 
 # Find Familiar
 
-- MDR: [Appel de familier](hd_spells_appel_de_familier.md)
+- Alias: [Appel de familier](hd_spells_appel_de_familier.md)
 - Source: (SRD p143)
 -  1st-level conjuration (ritual)
 - **Casting Time :** 1 hour

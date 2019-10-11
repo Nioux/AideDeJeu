@@ -4,7 +4,7 @@
 
 # Communication avec les morts
 
-- SRD: [Speak with Dead](srd_spells_speak_with_dead.md)
+- Alias: [Speak with Dead](srd_spells_speak_with_dead.md)
 
 -  Nécromancie de niveau 3
 
