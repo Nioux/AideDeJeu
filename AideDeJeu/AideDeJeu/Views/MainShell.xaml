@@ -130,9 +130,30 @@
         <!--</StackLayout>-->
     </Shell.FlyoutHeader>
 
-    <FlyoutItem Title="Accueil">
-        <ShellContent Title="Accueil"  ContentTemplate="{DataTemplate local:MainPage}" />
+    <ShellContent Title="Accueil" ContentTemplate="{DataTemplate local:MainPage}" />
+    <ShellContent Title="Personnages" Icon="battle_axe.png" ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
+    <ShellContent Title="Dés" Icon="d20.png" ContentTemplate="{DataTemplate local:DicesPage}" />
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent Title="Bibliothèque" Icon="spell_book.png">
+            <ShellContent.ContentTemplate>
+                <DataTemplate>
+                    <library:ItemPage>
+                        <x:Arguments>
+                            <x:String>index.md</x:String>
+                        </x:Arguments>
+                    </library:ItemPage>
+                </DataTemplate>
+            </ShellContent.ContentTemplate>
+        </ShellContent>
+        <ShellContent Title="Favoris"  ContentTemplate="{DataTemplate library:BookmarksPage}" Icon="stars_stack.png" />
+        <ShellContent Title="Recherche"  ContentTemplate="{DataTemplate library:DeepSearchPage}"  Icon="crystal_ball.png" />
     </FlyoutItem>
+    <ShellContent Title="A propos de..." Icon="wooden_sign.png" ContentTemplate="{DataTemplate local:AboutPage}" />
+    <!--<ShellItem Title="Accueil" FlyoutDisplayOptions="AsSingleItem">
+        <ShellContent Title="Accueil" ContentTemplate="{DataTemplate local:MainPage}" />
+        <ShellContent Title="Personnages" Icon="battle_axe.png" ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
+        <ShellContent Title="Dés" Icon="d20.png" ContentTemplate="{DataTemplate local:DicesPage}" />
+    </ShellItem>
     <FlyoutItem Title="Personnages" FlyoutIcon="battle_axe.png">
         <ShellContent Title="Personnages"  ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />
     </FlyoutItem>
@@ -152,7 +173,7 @@
             </ShellContent.ContentTemplate>
         </ShellContent>
 
-    </FlyoutItem>
+    </FlyoutItem>-->
     <!--<FlyoutItem Title="Manuel des Règles">
         <ShellContent>
             <ShellContent.ContentTemplate>
@@ -244,7 +265,7 @@
             </ShellContent.ContentTemplate>
         </ShellContent>
     </FlyoutItem>-->
-    <FlyoutItem Title="Favoris">
+    <!--<FlyoutItem Title="Favoris">
         <ShellContent Title="Favoris"  ContentTemplate="{DataTemplate library:BookmarksPage}" FlyoutIcon="stars_stack.png" />
     </FlyoutItem>
     <FlyoutItem Title="Recherche">
@@ -252,6 +273,13 @@
     </FlyoutItem>
     <FlyoutItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
         <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
-    </FlyoutItem>
+    </FlyoutItem>-->
+    <!--<MenuItem Text="A propos de..." IconImageSource="wooden_sign.png" Command="{Binding NavigateToAboutCommand}">
+    </MenuItem>
+    <ShellItem Title="A propos de..." FlyoutIcon="wooden_sign.png">
+        <ShellSection>
+            <ShellContent Title="A propos de..."  ContentTemplate="{DataTemplate local:AboutPage}" />
+        </ShellSection>
+    </ShellItem>-->
 
 </Shell>
