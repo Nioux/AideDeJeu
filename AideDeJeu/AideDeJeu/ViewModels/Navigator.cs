@@ -42,7 +42,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoAboutPageAsync()
         {
-            await Navigation.PushAsync(new Views.AboutPage(), true);
+            //await Navigation.PushAsync(new Views.AboutPage(), true);
+            await Shell.Current.GoToAsync("//about", true);
         }
 
         private Command _LibraryCommand = null;
@@ -78,7 +79,8 @@ namespace AideDeJeu.ViewModels
         {
             //await Navigation.PushAsync(new Views.ItemDetailPage(),true);
             //await Navigation.PushAsync(new Views.Library.MainTabbedPage(), true);
-            await Navigation.PushAsync(new Views.Library.ItemPage("index.md"), true);
+            //await Navigation.PushAsync(new Views.Library.ItemPage("index.md"), true);
+            await Shell.Current.GoToAsync("//library", true);
             //TestNotify = new NotifyTaskCompletion<bool>(TestGotoAsync(), true);
         }
 
@@ -93,7 +95,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoBookmarksPageAsync()
         {
-            await Navigation.PushAsync(new Views.Library.BookmarksPage(), true);
+            //await Navigation.PushAsync(new Views.Library.BookmarksPage(), true);
+            await Shell.Current.GoToAsync("//bookmarks", true);
         }
 
 
@@ -118,12 +121,14 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoPlayerCharacterEditorPageAsync()
         {
-            await Navigation.PushAsync(new Views.PlayerCharacter.PlayerCharacterEditorPage(), true);
+            //await Navigation.PushAsync(new Views.PlayerCharacter.PlayerCharacterEditorPage(), true);
+            await Shell.Current.GoToAsync("//pceditor", true);
         }
 
         public async Task GotoDicesPageAsync()
         {
-            await Navigation.PushAsync(new Views.DicesPage(), true);
+            //await Navigation.PushAsync(new Views.DicesPage(), true);
+            await Shell.Current.GoToAsync("//dices", true);
         }
 
         private Command _DeepSearchCommand = null;
@@ -137,7 +142,8 @@ namespace AideDeJeu.ViewModels
 
         public async Task GotoDeepSearchPageAsync()
         {
-            await Navigation.PushAsync(new Views.Library.DeepSearchPage(), true);
+            //await Navigation.PushAsync(new Views.Library.DeepSearchPage(), true);
+            await Shell.Current.GoToAsync("//deepsearch", true);
         }
 
         private Command _AddToFavoritesCommand = null;
