@@ -10,11 +10,13 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views.PlayerCharacter
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class RaceView : ContentView
+    public partial class FinalizePage : ContentPage
     {
-        public RaceView()
+        public FinalizePage()
         {
             InitializeComponent();
+
+            BindingContext = DependencyService.Get<AideDeJeu.ViewModels.PlayerCharacter.PlayerCharacterEditorViewModel>();
         }
     }
 }

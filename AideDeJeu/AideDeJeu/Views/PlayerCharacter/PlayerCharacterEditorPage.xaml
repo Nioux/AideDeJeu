@@ -63,7 +63,7 @@
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
             
-            <pcviews:RaceView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+            <!--<pcviews:RaceView Grid.ColumnSpan="2" BindingContext="{Binding}" />-->
 
             <Button Grid.Column="0" Grid.Row="1" Text="Nouveau" Command="{Binding ResetPlayerCharacterCommand}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
@@ -80,7 +80,7 @@
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
 
-            <pcviews:BackgroundView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+            <!--<pcviews:BackgroundView Grid.ColumnSpan="2" BindingContext="{Binding}" />-->
 
             <Button Grid.Column="0" Grid.Row="1" Text="Race" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Race}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
@@ -97,7 +97,7 @@
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
 
-            <pcviews:ClassView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+            <!--<pcviews:ClassView Grid.ColumnSpan="2" BindingContext="{Binding}" />-->
 
             <Button Grid.Column="0" Grid.Row="1" Text="Historique" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Background}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
@@ -114,7 +114,7 @@
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
 
-            <pcviews:AbilitiesView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+            <!--<pcviews:AbilitiesView Grid.ColumnSpan="2" BindingContext="{Binding}" />-->
 
             <Button Grid.Column="0" Grid.Row="1" Text="Classe" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Class}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Autres" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Others}"/>
@@ -131,7 +131,7 @@
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
 
-            <pcviews:FinalizeView Grid.ColumnSpan="2" BindingContext="{Binding}" />
+            <!--<pcviews:FinalizeView Grid.ColumnSpan="2" BindingContext="{Binding}" />-->
 
             <Button Grid.Column="0" Grid.Row="1" Text="Caractéristiques" Command="{Binding ChangePageCommand, Source={x:Reference This}}" CommandParameter="{x:Reference Abilities}"/>
             <Button Grid.Column="1" Grid.Row="1" Text="Résumé" Command="{Binding PdfViewCommand, Source={x:Reference This}}" CommandParameter="{Binding SelectedPlayerCharacter}" />

@@ -123,6 +123,21 @@
     <Compile Update="Views\Pickers\ItemPickerView.xaml.cs">
       <DependentUpon>ItemPickerView.xaml</DependentUpon>
     </Compile>
+    <Compile Update="Views\PlayerCharacter\AbilitiesPage.xaml.cs">
+      <DependentUpon>AbilitiesPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\PlayerCharacter\BackgroundPage.xaml.cs">
+      <DependentUpon>BackgroundPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\PlayerCharacter\ClassPage.xaml.cs">
+      <DependentUpon>ClassPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\PlayerCharacter\FinalizePage.xaml.cs">
+      <DependentUpon>FinalizePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\PlayerCharacter\RacePage.xaml.cs">
+      <DependentUpon>RacePage.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
 
   <ItemGroup>
@@ -167,7 +182,7 @@
     <EmbeddedResource Update="Views\Pickers\AbilityPickerView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\PlayerCharacter\AbilitiesView.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\AbilitiesPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\PlayerCharacter\AbilityBaseValueView.xaml">
@@ -176,16 +191,16 @@
     <EmbeddedResource Update="Views\PlayerCharacter\AbilityRacialBonusView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\PlayerCharacter\BackgroundView.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\BackgroundPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\PlayerCharacter\ClassView.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\ClassPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\PlayerCharacter\EquipmentView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\PlayerCharacter\FinalizeView.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\FinalizePage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\PlayerCharacter\PdfViewPage.xaml">
@@ -200,7 +215,7 @@
     <EmbeddedResource Update="Views\Pickers\StringPickerView.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
-    <EmbeddedResource Update="Views\PlayerCharacter\RaceView.xaml">
+    <EmbeddedResource Update="Views\PlayerCharacter\RacePage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\PlayerCharacter\ResumeView.xaml">

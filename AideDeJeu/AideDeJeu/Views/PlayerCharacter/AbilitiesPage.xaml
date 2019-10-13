@@ -1,18 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
              xmlns:pcviews="clr-namespace:AideDeJeu.Views.PlayerCharacter"
-             x:Class="AideDeJeu.Views.PlayerCharacter.AbilitiesView">
-    <ContentView.Resources>
+             x:Class="AideDeJeu.Views.PlayerCharacter.AbilitiesPage"
+             x:Name="This">
+    <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
-    </ContentView.Resources>
-    <ContentView.Content>
+    </ContentPage.Resources>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand, Source={x:Reference This}}" CommandParameter="{Binding SelectedPlayerCharacter}" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
         <ScrollView Orientation="Vertical">
             <Grid>
                 <Grid.ColumnDefinitions>
@@ -100,5 +104,5 @@
                 </Frame>
             </Grid>
         </ScrollView>
-    </ContentView.Content>
-</ContentView>
+    </ContentPage.Content>
+</ContentPage>
