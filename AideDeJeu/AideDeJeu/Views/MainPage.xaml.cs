@@ -13,18 +13,18 @@ namespace AideDeJeu.Views
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MainPage : ContentPage
 	{
-        public MainViewModel Main
-        {
-            get
-            {
-                return DependencyService.Get<MainViewModel>();
-            }
-        }
+        //public MainViewModel Main
+        //{
+        //    get
+        //    {
+        //        return DependencyService.Get<MainViewModel>();
+        //    }
+        //}
 
         public MainPage ()
 		{
 			InitializeComponent ();
-            BindingContext = this;
+            //BindingContext = this;
         }
     }
 }

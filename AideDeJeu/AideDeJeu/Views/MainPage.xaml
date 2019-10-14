@@ -1,9 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
              x:Class="AideDeJeu.Views.MainPage"
              Visual="Material"
-             Title="Haches &amp; Dés">
+             Title="Haches &amp; Dés"
+             x:DataType="vm:BaseViewModel">
+    <ContentPage.BindingContext>
+        <vm:BaseViewModel />
+    </ContentPage.BindingContext>
     <ContentPage.Resources>
         <StyleSheet>
             <![CDATA[
@@ -83,7 +88,7 @@
                         </OnPlatform>
                     </ActivityIndicator.HeightRequest>
                 </ActivityIndicator>-->
-                <Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />
+                <!--<Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />-->
                 <!--<Label Text="{Binding Main.Navigator.TestNotify}" TextColor="Transparent" />-->
                 <Frame>
                     <Grid>
