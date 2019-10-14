@@ -49,8 +49,12 @@ call convertone.bat share share
 
 call convertone.bat cancel cancel
 
+call convertone.bat scroll_unfurled scroll-unfurled
+
 :nouveau
 
-call convertone.bat scroll_unfurled scroll-unfurled
+call convertone.bat speaker speaker
+
+call convertone.bat speaker_off speaker-off
 
 pause

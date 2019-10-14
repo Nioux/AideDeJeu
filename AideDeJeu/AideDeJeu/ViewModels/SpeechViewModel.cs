@@ -32,6 +32,13 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public string SpeakerIcon
+        {
+            get
+            {
+                return Speaking ? "speaker.png" : "speaker_off.png";
+            }
+        }
         public bool Speaking
         {
             get
@@ -60,6 +67,7 @@ namespace AideDeJeu.ViewModels
                 _CancellationTokenSource = new CancellationTokenSource();
                 OnPropertyChanged(nameof(Speaking));
                 OnPropertyChanged(nameof(NotSpeaking));
+                OnPropertyChanged(nameof(SpeakerIcon));
                 var options = new Xamarin.Essentials.SpeechOptions();
                 var locales = (await Xamarin.Essentials.TextToSpeech.GetLocalesAsync()).ToList();
                 if (item.Id.Contains("_vo.md"))
@@ -83,6 +91,7 @@ namespace AideDeJeu.ViewModels
                 _CancellationTokenSource = null;
                 OnPropertyChanged(nameof(Speaking));
                 OnPropertyChanged(nameof(NotSpeaking));
+                OnPropertyChanged(nameof(SpeakerIcon));
             }
         }
 
