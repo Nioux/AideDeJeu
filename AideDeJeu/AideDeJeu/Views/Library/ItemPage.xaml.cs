@@ -20,36 +20,37 @@ namespace AideDeJeu.Views.Library
     [QueryProperty("Path", "path")]
     public partial class ItemPage : ContentPage, INotifyPropertyChanged
     {
-        public MainViewModel Main
-        {
-            get
-            {
-                return DependencyService.Get<MainViewModel>();
-            }
-        }
+        //public MainViewModel Main
+        //{
+        //    get
+        //    {
+        //        return DependencyService.Get<MainViewModel>();
+        //    }
+        //}
 
-        private ItemViewModel _Item = new ItemViewModel();
+        //private ItemViewModel _Item = new ItemViewModel();
         public ItemViewModel Item
         {
             get
             {
-                return _Item;
+                return BindingContext as ItemViewModel;
+                //return _Item;
             }
-            set
-            {
-                SetProperty(ref _Item, value);
-            }
+            //set
+            //{
+            //    SetProperty(ref _Item, value);
+            //}
         }
 
         public ItemPage()
         {
-            BindingContext = this;
+            //BindingContext = this;
             InitializeComponent();
         }
 
         public ItemPage(string id)
         {
-            BindingContext = this;
+            //BindingContext = this;
             InitializeComponent();
             Path = id;
             //LoadPageAsync();
@@ -57,7 +58,7 @@ namespace AideDeJeu.Views.Library
 
         public ItemPage(ItemViewModel itemViewModel)
         {
-            BindingContext = this;
+            //BindingContext = this;
             InitializeComponent();
             Path = itemViewModel.Item.Id;
             //Item = itemViewModel;
@@ -72,13 +73,13 @@ namespace AideDeJeu.Views.Library
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            Main.CurrentItem = Item;
+            Item.Main.CurrentItem = Item;
         }
 
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
-            Main.CurrentItem = null;
+            Item.Main.CurrentItem = null;
         }
         private string _Path { get; set; } = null; //"index.md";
         public string Path

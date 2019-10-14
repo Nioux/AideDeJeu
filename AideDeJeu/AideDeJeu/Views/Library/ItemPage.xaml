@@ -3,10 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
+             xmlns:libvm="clr-namespace:AideDeJeu.ViewModels.Library"
+             xmlns:lib="clr-namespace:AideDeJeuLib"
              x:Class="AideDeJeu.Views.Library.ItemPage"
              Title="{Binding Title}"
              Icon="spell_book.png"
-             x:Name="This">
+             x:Name="This"
+             x:DataType="libvm:ItemViewModel">
+    <ContentPage.BindingContext>
+        <libvm:ItemViewModel />
+    </ContentPage.BindingContext>
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -27,16 +33,16 @@
                 NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
                 />
         </ScrollView>-->
-        <ListView Grid.Column="0" Grid.Row="0" x:Name="ItemsListView" ItemsSource="{Binding Item.Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding Item.SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+        <ListView Grid.Column="0" Grid.Row="0" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
                 Theme="{StaticResource MonsterMarkdownTheme}" 
-                Markdown="{Binding Item.Item.Markdown}" 
+                Markdown="{Binding Item.Markdown}" 
                 NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
                 />
             </ListView.Header>
             <ListView.ItemTemplate>
-                <DataTemplate>
+                <DataTemplate x:DataType="lib:Item">
                     <ViewCell>
                         <StackLayout Padding="10" Orientation="Vertical">
                             <Label Text="{Binding Name}" LineBreakMode="WordWrap" TextColor="{StaticResource HDBlue}" Style="{Binding NameLevel,Converter={StaticResource HeaderLevelToStyleConverter}, ConverterParameter=2}" />

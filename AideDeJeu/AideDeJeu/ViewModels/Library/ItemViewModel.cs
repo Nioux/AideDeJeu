@@ -27,7 +27,18 @@ namespace AideDeJeu.ViewModels.Library
 
         CancellationTokenSource cancellationTokenSource;
 
-        public ItemViewModel(Item item = null)
+        public ItemViewModel()
+        {
+            LoadItemsCommand = new Command(async () => await ExecuteLoadItemsCommandAsync().ConfigureAwait(false));
+            SearchCommand = new Command<string>((text) =>
+            {
+                if (Filter != null)
+                {
+                    Filter.SearchText = text;
+                }
+            });
+        }
+        public ItemViewModel(Item item)
         {
             Title = item?.Name;
             Item = item;
