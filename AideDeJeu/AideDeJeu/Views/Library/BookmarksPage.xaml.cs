@@ -19,7 +19,7 @@ namespace AideDeJeu.Views.Library
 		{
 			InitializeComponent ();
 
-            BindingContext = DependencyService.Get<BookmarksViewModel>();
+            //BindingContext = DependencyService.Get<BookmarksViewModel>();
 		}
     }
 }

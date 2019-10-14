@@ -3,10 +3,16 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
+             xmlns:libvm="clr-namespace:AideDeJeu.ViewModels.Library"
+             xmlns:lib="clr-namespace:AideDeJeuLib"
              x:Class="AideDeJeu.Views.Library.BookmarksPage"
              x:Name="This"
+             x:DataType="libvm:BookmarksViewModel"
              Title="Favoris"
              Icon="stars_stack.png">
+    <ContentPage.BindingContext>
+        <libvm:BookmarksViewModel />
+    </ContentPage.BindingContext>
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:IntToBooleanConverter x:Key="IntToBooleanConverter" NonZeroValue="False" NullOrZeroValue="True" />
@@ -37,9 +43,10 @@
 
             <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
-            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}">
+            <!--SelectedItem="{Binding SelectedItem}"-->
+            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement">
                 <ListView.ItemTemplate>
-                    <DataTemplate>
+                    <DataTemplate x:DataType="lib:Item">
                         <ViewCell>
                             <Grid Padding="10">
                                 <Grid.ColumnDefinitions>

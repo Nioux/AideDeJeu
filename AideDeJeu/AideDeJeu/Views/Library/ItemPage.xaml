@@ -22,7 +22,7 @@
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
         <tools:BindableToolbarItem Name="Filter" Text="Filtrer" Order="Primary" Icon="funnel.png" IsVisible="{Binding Filter, Converter={StaticResource NullToFalseConverter}, Mode=OneWay}" Command="{Binding Main.ChangeFilterIsPresentedCommand, Mode=OneTime}" />
-        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand, Mode=OneTime}" />
+        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand, Mode=OneTime}" CommandParameter="{Binding}" />
         <ToolbarItem Name="Print" Text="Générer un PDF" Order="Secondary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand, Mode=OneTime}" CommandParameter="{Binding Item.Markdown}" />
         <ToolbarItem Name="Speak" Text="Écouter / Arrêter" Order="Secondary" Icon="scroll_unfurled.png" Command="{Binding Main.Speech.SpeakItemCommand, Mode=OneTime}" CommandParameter="{Binding Item}" />
     </ContentPage.ToolbarItems>

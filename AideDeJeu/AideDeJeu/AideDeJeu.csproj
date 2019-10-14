@@ -14,8 +14,13 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <LangVersion>Latest</LangVersion>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Library\MainTabbedPage.xaml.cs" />
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="Resources\AdJTheme.xaml" />
+    <EmbeddedResource Remove="Views\Library\MainTabbedPage.xaml" />
   </ItemGroup>
 
   <ItemGroup>
@@ -114,9 +119,6 @@
     <Compile Update="Views\Pickers\ItemView.xaml.cs">
       <DependentUpon>ItemView.xaml</DependentUpon>
     </Compile>
-    <Compile Update="Views\Library\MainTabbedPage.xaml.cs">
-      <DependentUpon>MainTabbedPage.xaml</DependentUpon>
-    </Compile>
     <Compile Update="Views\Pickers\ItemPicker.xaml.cs">
       <DependentUpon>ItemPicker.xaml</DependentUpon>
     </Compile>
@@ -148,6 +150,12 @@
 
   <ItemGroup>
     <EmbeddedResource Include="..\..\Data\index.md" Link="Data\index.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Views\Library\MainTabbedPage.xaml.cs">
+      <DependentUpon>MainTabbedPage.xaml</DependentUpon>
+    </None>
   </ItemGroup>
 
   <ItemGroup>

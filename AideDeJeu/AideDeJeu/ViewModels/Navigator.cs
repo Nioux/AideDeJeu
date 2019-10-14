@@ -155,31 +155,34 @@ namespace AideDeJeu.ViewModels
             await Shell.Current.GoToAsync("//deepsearch", true);
         }
 
-        private Command _AddToFavoritesCommand = null;
-        public Command AddToFavoritesCommand
+        private Command<ItemViewModel> _AddToFavoritesCommand = null;
+        public Command<ItemViewModel> AddToFavoritesCommand
         {
             get
             {
-                return _AddToFavoritesCommand ?? (_AddToFavoritesCommand = new Command(async () => await ExecuteAddToFavoritesCommandAsync()));
+                return _AddToFavoritesCommand ?? (_AddToFavoritesCommand = new Command<ItemViewModel>(async (item) => await ExecuteAddToFavoritesCommandAsync(item)));
             }
         }
 
-        public async Task ExecuteAddToFavoritesCommandAsync()
+        public async Task ExecuteAddToFavoritesCommandAsync(ItemViewModel itemVM)
         {
-            var tabbedPage = App.Current.MainPage as MainTabbedPage;
-            var navigationPage = tabbedPage; //.MainNavigationPage;
-            var lastPage = navigationPage.Navigation.NavigationStack.LastOrDefault();
-            var context = lastPage.BindingContext;
-            Item item = (context as ItemViewModel)?.Item;
-            //if (context is ItemDetailViewModel)
-            //{
-            //    item = (context as ItemDetailViewModel).Item;
-            //}
-            //else if (context is ItemsViewModel)
-            //{
-            //    item = (context as ItemsViewModel).AllItems;
-            //}
+            //var page = Shell.Current;
+            //var tabbedPage = App.Current.MainPage as MainTabbedPage;
+            //var navigationPage = tabbedPage; //.MainNavigationPage;
+            //var lastPage = navigationPage.Navigation.NavigationStack.LastOrDefault();
+            //var context = lastPage.BindingContext;
+            //Item item = (context as ItemViewModel)?.Item;
+            ////if (context is ItemDetailViewModel)
+            ////{
+            ////    item = (context as ItemDetailViewModel).Item;
+            ////}
+            ////else if (context is ItemsViewModel)
+            ////{
+            ////    item = (context as ItemsViewModel).AllItems;
+            ////}
+
             //await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
+            var item = itemVM.Item;
             var vm = Main.Bookmarks;
             var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarkCollectionNames.ToArray<string>());
             if (result != "Annuler")
@@ -207,7 +210,7 @@ namespace AideDeJeu.ViewModels
             var itemsViewModel = new ItemViewModel() { Item = item, AllItems = items, Filter = filterViewModel };
             itemsViewModel.LoadItemsCommand.Execute(null);
 
-            SwitchToMainTab();
+            await SwitchToMainTabAsync();
 
             if (filterViewModel == null)
             {
@@ -219,14 +222,15 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public void SwitchToMainTab()
+        public async Task SwitchToMainTabAsync()
         {
-            var tabbedPage = App.Current.MainPage as MainTabbedPage;
-            if (tabbedPage != null)
-            {
-                tabbedPage.SelectedItem = null;
-                tabbedPage.SelectedItem = tabbedPage; //.MainNavigationPage;
-            }
+            await Shell.Current.GoToAsync("//library");
+            //var tabbedPage = App.Current.MainPage as MainTabbedPage;
+            //if (tabbedPage != null)
+            //{
+            //    tabbedPage.SelectedItem = null;
+            //    tabbedPage.SelectedItem = tabbedPage; //.MainNavigationPage;
+            //}
         }
 
         public async Task GotoItemsPageAsync(ItemViewModel itemsVM)
@@ -256,6 +260,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task NavigateToLinkAsync(string s)
         {
+            await SwitchToMainTabAsync();
             await Navigation.PushAsync(new ItemPage(s), true);//.GoToAsync($"item?path={Uri.EscapeDataString(s)}");
             return;
             if (s != null)
@@ -293,7 +298,7 @@ namespace AideDeJeu.ViewModels
                             filterViewModel.FilterWith(key, val);
                         }
                     }
-                    SwitchToMainTab();
+                    await SwitchToMainTabAsync();
                     if (filterViewModel == null)
                     {
                         await GotoItemsPageAsync(itemsViewModel);
