@@ -32,11 +32,12 @@ namespace AideDeJeu.ViewModels
             }
         }
 
-        public string SpeakerIcon
+        public ImageSource SpeakerIcon
         {
             get
             {
-                return NotSpeaking ? "speaker.png" : "speaker_off.png";
+                //return ImageSource.FromResource(string.Format("{0}.{1}", System.Reflection.Assembly.GetExecutingAssembly().FullName.Split(',').FirstOrDefault(), NotSpeaking ? "speaker.png" : "speaker_off.png"));
+                return ImageSource.FromFile(NotSpeaking ? "speaker.png" : "speaker_off.png");
             }
         }
         public bool Speaking
