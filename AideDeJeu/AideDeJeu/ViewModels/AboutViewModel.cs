@@ -13,11 +13,7 @@ namespace AideDeJeu.ViewModels
         public AboutViewModel()
         {
             Title = "À propos de ...";
-
-            OpenWebCommand = new Command<string>((param) => Device.OpenUri(new Uri(param)));
         }
-
-        public ICommand OpenWebCommand { get; }
 
         public string Version {
             get

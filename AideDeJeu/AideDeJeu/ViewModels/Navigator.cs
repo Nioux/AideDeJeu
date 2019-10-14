@@ -40,6 +40,15 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        private ICommand _OpenWebCommand = null;
+        public ICommand OpenWebCommand 
+        { 
+            get
+            {
+                return _OpenWebCommand ?? (_OpenWebCommand = new Command<string>((param) => Device.OpenUri(new Uri(param))));
+            }
+        }
+
         public async Task GotoAboutPageAsync()
         {
             //await Navigation.PushAsync(new Views.AboutPage(), true);

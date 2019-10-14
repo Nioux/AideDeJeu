@@ -108,18 +108,18 @@
                         <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
-                <!--<Frame>
+                <Frame>
                     <Grid>
-                        <Label Text="Favoris" />
-                        <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand}" />
+                        <Label Text="Favoris" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                        <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
                 <Frame>
                     <Grid>
-                        <Label Text="Recherche" />
-                        <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand}" />
+                        <Label Text="Recherche" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                        <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand, Mode=OneTime}" />
                     </Grid>
-                </Frame>-->
+                </Frame>
                 <Frame>
                     <Grid>
                         <Label Text="A propos de..." FontFamily="{StaticResource LinuxLibertineCapitals}" />

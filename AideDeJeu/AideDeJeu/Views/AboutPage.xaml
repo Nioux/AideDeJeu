@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AideDeJeu.Views.AboutPage"
              xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
-             Title="{Binding Title}">
+             Title="{Binding Title}"
+             x:DataType="vm:AboutViewModel">
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
     </ContentPage.BindingContext>
@@ -42,7 +43,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://github.com/Nioux/AideDeJeu" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://github.com/Nioux/AideDeJeu" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -54,7 +55,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="http://game-icons.net" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="http://game-icons.net" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -66,7 +67,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.dafont.com/fr/" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://www.dafont.com/fr/" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -78,7 +79,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.black-book-editions.fr/forums.php?topic_id=5626" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://www.black-book-editions.fr/forums.php?topic_id=5626" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -90,7 +91,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.black-book-editions.fr/forums.php?topic_id=12619" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://www.black-book-editions.fr/forums.php?topic_id=12619" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -102,7 +103,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://www.black-book-editions.fr/forums.php?topic_id=7400&amp;tid=304699#msg304699" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://www.black-book-editions.fr/forums.php?topic_id=7400&amp;tid=304699#msg304699" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -116,7 +117,7 @@
                     <Label.GestureRecognizers>
                         <OnPlatform x:TypeArguments="TapGestureRecognizer">
                             <On Platform="Android, UWP">
-                                <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://fr.tipeee.com/nioux" />
+                                <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://fr.tipeee.com/nioux" />
                             </On>
                         </OnPlatform>
                     </Label.GestureRecognizers>
@@ -130,7 +131,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="http://www.black-book-editions.fr/" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="http://www.black-book-editions.fr/" />
                     </Label.GestureRecognizers>
                 </Label>
 
@@ -150,7 +151,7 @@
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding OpenWebCommand}" CommandParameter="https://heros-et-dragons.fr/" />
+                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand}" CommandParameter="https://heros-et-dragons.fr/" />
                     </Label.GestureRecognizers>
                 </Label>
 
