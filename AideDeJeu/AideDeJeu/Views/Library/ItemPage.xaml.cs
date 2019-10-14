@@ -1,16 +1,4 @@
-﻿
-using AideDeJeu.ViewModels;
-using AideDeJeu.ViewModels.Library;
-using AideDeJeuLib;
-using SkiaSharp;
-using SkiaSharp.Views.Forms;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Runtime.CompilerServices;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
+﻿using AideDeJeu.ViewModels.Library;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -20,7 +8,7 @@ namespace AideDeJeu.Views.Library
     [QueryProperty("Path", "path")]
     public partial class ItemPage : ContentPage
     {
-        public ItemViewModel Item
+        public ItemViewModel BindingItem
         {
             get
             {
@@ -48,13 +36,13 @@ namespace AideDeJeu.Views.Library
         protected override void OnAppearing()
         {
             base.OnAppearing();
-            Item.Main.CurrentItem = Item;
+            BindingItem.Main.CurrentItem = BindingItem;
         }
 
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
-            Item.Main.CurrentItem = null;
+            BindingItem.Main.CurrentItem = null;
         }
         private string _Path { get; set; } = null; //"index.md";
         public string Path
@@ -68,7 +56,7 @@ namespace AideDeJeu.Views.Library
                 _Path = value;
                 if (Path != null)
                 {
-                    Item?.LoadPageAsync(Path);
+                    BindingItem?.LoadPageAsync(Path);
                 }
             }
         }

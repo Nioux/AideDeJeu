@@ -27,14 +27,16 @@
         <ToolbarItem Name="Speak" Text="Écouter / Arrêter" Order="Secondary" Icon="scroll_unfurled.png" Command="{Binding Main.Speech.SpeakItemCommand, Mode=OneTime}" CommandParameter="{Binding Item}" />
     </ContentPage.ToolbarItems>
     <Grid>
-        <!--<ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
-            <mdview:MarkdownView 
-                Theme="{StaticResource MonsterMarkdownTheme}" 
-                Markdown="{Binding Item.Item.Markdown}" 
-                NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
-                />
-        </ScrollView>-->
-        <ListView Grid.Column="0" Grid.Row="0" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <SearchBar Grid.Column="0" Grid.Row="0" x:Name="SearchBar" IsVisible="{Binding Filter, Converter={StaticResource NullToFalseConverter}, Mode=OneWay}" HeightRequest="42" SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference SearchBar}}">
+            <SearchBar.Behaviors>
+                <tools:TextChangedBehavior />
+            </SearchBar.Behaviors>
+        </SearchBar>
+        <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
                     Theme="{StaticResource MonsterMarkdownTheme}" 
@@ -54,6 +56,7 @@
             </ListView.ItemTemplate>
         </ListView>
         <ActivityIndicator 
+            Grid.RowSpan="2"
             VerticalOptions="StartAndExpand"
             HorizontalOptions="End"
             Color="{StaticResource HDRed}"
