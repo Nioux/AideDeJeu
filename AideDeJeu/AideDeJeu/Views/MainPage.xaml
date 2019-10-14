@@ -93,19 +93,19 @@
                 <Frame>
                     <Grid>
                         <Label Text="Personnages" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand}" />
+                        <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
                 <Frame>
                     <Grid>
                         <Label Text="Dés" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="d20.png" Command="{Binding Main.Navigator.DicesCommand}" />
+                        <ImageButton Source="d20.png" Command="{Binding Main.Navigator.DicesCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
                 <Frame>
                     <Grid>
                         <Label Text="Bibliothèque" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand}" />
+                        <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
                 <!--<Frame>
@@ -123,7 +123,7 @@
                 <Frame>
                     <Grid>
                         <Label Text="A propos de..." FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand}" />
+                        <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
             </FlexLayout>
