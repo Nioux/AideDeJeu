@@ -1,4 +1,5 @@
-﻿using AideDeJeuLib;
+﻿using AideDeJeu.Repositories;
+using AideDeJeuLib;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -16,49 +17,56 @@ namespace AideDeJeu.ViewModels.Library
 {
     public class BookmarksViewModel : BaseViewModel
     {
+        public BookmarksRepository Repository
+        {
+            get
+            {
+                return DependencyService.Get<BookmarksRepository>();
+            }
+        }
         public BookmarksViewModel()
         {
             //LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]).ConfigureAwait(true);
             LoadBookmarkCollectionsAsync().ConfigureAwait(true);
         }
 
-        public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
-        {
-            "Général",
-            "Grimoire",
-            "Bestiaire",
-            "Sac",
-            "Nouvelle liste",
-        };
+        //public ObservableCollection<string> BookmarkCollectionNames { get; set; } = new ObservableCollection<string>()
+        //{
+        //    "Général",
+        //    "Grimoire",
+        //    "Bestiaire",
+        //    "Sac",
+        //    "Nouvelle liste",
+        //};
 
-        private int _BookmarkCollectionIndex = 0;
-        public int BookmarkCollectionIndex
-        {
-            get
-            {
-                return _BookmarkCollectionIndex;
-            }
-            set
-            {
-                SetProperty(ref _BookmarkCollectionIndex, value);
-                //LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
-            }
-        }
+        //private int _BookmarkCollectionIndex = 0;
+        //public int BookmarkCollectionIndex
+        //{
+        //    get
+        //    {
+        //        return _BookmarkCollectionIndex;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _BookmarkCollectionIndex, value);
+        //        //LoadBookmarkCollection(BookmarkCollectionNames[BookmarkCollectionIndex]);
+        //    }
+        //}
 
-        private Dictionary<string, ObservableCollection<Item>> _BookmarkCollections = new Dictionary<string, ObservableCollection<Item>>();
+        //private Dictionary<string, ObservableCollection<Item>> _BookmarkCollections = new Dictionary<string, ObservableCollection<Item>>();
 
-        private ObservableCollection<Item> _BookmarkCollection = new ObservableCollection<Item>();
-        public ObservableCollection<Item> BookmarkCollection
-        {
-            get
-            {
-                return _BookmarkCollection;
-            }
-            set
-            {
-                SetProperty(ref _BookmarkCollection, value);
-            }
-        }
+        //private ObservableCollection<Item> _BookmarkCollection = new ObservableCollection<Item>();
+        //public ObservableCollection<Item> BookmarkCollection
+        //{
+        //    get
+        //    {
+        //        return _BookmarkCollection;
+        //    }
+        //    set
+        //    {
+        //        SetProperty(ref _BookmarkCollection, value);
+        //    }
+        //}
 
         private ICommand _SelectedIndexChangedCommand = null;
         public ICommand SelectedIndexChangedCommand
@@ -71,24 +79,24 @@ namespace AideDeJeu.ViewModels.Library
 
         private async Task ExecuteSelectedIndexChangedCommandAsync()
         {
-            if (BookmarkCollectionIndex >= 0 && BookmarkCollectionIndex < BookmarkCollectionNames.Count - 1)
+            if (Repository.BookmarkCollectionIndex >= 0 && Repository.BookmarkCollectionIndex < Repository.BookmarkCollectionNames.Count - 1)
             {
-                await LoadBookmarkCollectionAsync(BookmarkCollectionNames[BookmarkCollectionIndex]);
+                await LoadBookmarkCollectionAsync(Repository.BookmarkCollectionNames[Repository.BookmarkCollectionIndex]);
             }
-            else if (BookmarkCollectionIndex == BookmarkCollectionNames.Count - 1)
+            else if (Repository.BookmarkCollectionIndex == Repository.BookmarkCollectionNames.Count - 1)
             {
                 var result = await Main.Navigator.OpenCancellableTextInputAlertDialog("");
                 if (result.Item2 == Navigator.PopupResultEnum.Save)
                 {
-                    var index = BookmarkCollectionNames.Count - 1;
-                    BookmarkCollectionNames.Insert(index, result.Item1);
+                    var index = Repository.BookmarkCollectionNames.Count - 1;
+                    Repository.BookmarkCollectionNames.Insert(index, result.Item1);
                     //BookmarkCollectionIndex = index;
-                    BookmarkCollectionIndex = 0;
+                    Repository.BookmarkCollectionIndex = 0;
                     await SaveBookmarksAsync();
                 }
                 else
                 {
-                    BookmarkCollectionIndex = 0;
+                    Repository.BookmarkCollectionIndex = 0;
                 }
             }
         }
@@ -121,7 +129,7 @@ namespace AideDeJeu.ViewModels.Library
 
         private async Task ExecuteRemoveItemCommandAsync(Item item)
         {
-            BookmarkCollection.Remove(item);
+            Repository.BookmarkCollection.Remove(item);
             await SaveBookmarksAsync();
         }
 
@@ -136,10 +144,10 @@ namespace AideDeJeu.ViewModels.Library
 
         private async Task ExecuteMoveUpItemCommandAsync(Item item)
         {
-            var index = BookmarkCollection.IndexOf(item);
+            var index = Repository.BookmarkCollection.IndexOf(item);
             if (index > 0)
             {
-                BookmarkCollection.Move(index, index - 1);
+                Repository.BookmarkCollection.Move(index, index - 1);
                 await SaveBookmarksAsync();
             }
         }
@@ -155,10 +163,10 @@ namespace AideDeJeu.ViewModels.Library
 
         private async Task ExecuteMoveDownItemCommandAsync(Item item)
         {
-            var index = BookmarkCollection.IndexOf(item);
-            if (index < BookmarkCollection.Count - 1)
+            var index = Repository.BookmarkCollection.IndexOf(item);
+            if (index < Repository.BookmarkCollection.Count - 1)
             {
-                BookmarkCollection.Move(index, index + 1);
+                Repository.BookmarkCollection.Move(index, index + 1);
                 await SaveBookmarksAsync();
             }
         }
@@ -174,27 +182,27 @@ namespace AideDeJeu.ViewModels.Library
 
         private async Task ExecuteConfigureCommandAsync()
         {
-            var result = await Main.Navigator.OpenCancellableTextInputAlertDialog(BookmarkCollectionNames[BookmarkCollectionIndex]);
+            var result = await Main.Navigator.OpenCancellableTextInputAlertDialog(Repository.BookmarkCollectionNames[Repository.BookmarkCollectionIndex]);
             if (result.Item2 == Navigator.PopupResultEnum.Delete)
             {
                 var confirm = await App.Current.MainPage.DisplayAlert("Supprimer ?", "Etes vous sûr de vouloir supprimer la liste ?", "Supprimer", "Annuler");
                 if (confirm)
                 {
-                    var index = BookmarkCollectionIndex;
-                    var name = BookmarkCollectionNames[BookmarkCollectionIndex];
+                    var index = Repository.BookmarkCollectionIndex;
+                    var name = Repository.BookmarkCollectionNames[Repository.BookmarkCollectionIndex];
                     await SaveBookmarksAsync(name, null);
-                    BookmarkCollectionNames.Remove(name);
-                    BookmarkCollectionIndex = 0;
+                    Repository.BookmarkCollectionNames.Remove(name);
+                    Repository.BookmarkCollectionIndex = 0;
                 }
             }
             else if (result.Item2 == Navigator.PopupResultEnum.Save)
             {
-                var index = BookmarkCollectionIndex;
-                var items = await GetBookmarkCollectionAsync(BookmarkCollectionNames[index]);
-                await SaveBookmarksAsync(BookmarkCollectionNames[index], null);
-                BookmarkCollectionNames[index] = result.Item1;
-                await SaveBookmarksAsync(BookmarkCollectionNames[index], items);
-                BookmarkCollectionIndex = index;
+                var index = Repository.BookmarkCollectionIndex;
+                var items = await GetBookmarkCollectionAsync(Repository.BookmarkCollectionNames[index]);
+                await SaveBookmarksAsync(Repository.BookmarkCollectionNames[index], null);
+                Repository.BookmarkCollectionNames[index] = result.Item1;
+                await SaveBookmarksAsync(Repository.BookmarkCollectionNames[index], items);
+                Repository.BookmarkCollectionIndex = index;
             }
         }
 
@@ -218,10 +226,10 @@ namespace AideDeJeu.ViewModels.Library
         public async Task LoadBookmarkCollectionAsync(string key)
         {
             var items = await GetBookmarkCollectionAsync(key);
-            BookmarkCollection.Clear();
+            Repository.BookmarkCollection.Clear();
             if (items != null)
             {
-                items.ForEach(item => BookmarkCollection.Add(item));
+                items.ForEach(item => Repository.BookmarkCollection.Add(item));
             }
         }
 
@@ -235,13 +243,13 @@ namespace AideDeJeu.ViewModels.Library
             }
             items.Add(linkItem);
             await SaveBookmarksAsync(key, items);
-            BookmarkCollectionIndex = BookmarkCollectionNames.IndexOf(key);
+            Repository.BookmarkCollectionIndex = Repository.BookmarkCollectionNames.IndexOf(key);
             await LoadBookmarkCollectionAsync(key);
         }
 
         public async Task SaveBookmarksAsync()
         {
-            App.Current.Properties[BookmarkCollectionNames[BookmarkCollectionIndex]] = ToString(BookmarkCollection);
+            App.Current.Properties[Repository.BookmarkCollectionNames[Repository.BookmarkCollectionIndex]] = ToString(Repository.BookmarkCollection);
             await App.Current.SavePropertiesAsync();
         }
 
@@ -261,7 +269,7 @@ namespace AideDeJeu.ViewModels.Library
 
         public async Task InitBookmarkCollectionsAsync()
         {
-            _BookmarkCollections = new Dictionary<string, ObservableCollection<Item>>()
+            Repository._BookmarkCollections = new Dictionary<string, ObservableCollection<Item>>()
             {
                 { "Général", new ObservableCollection<Item>() },
                 { "Grimoire", new ObservableCollection<Item>() },
@@ -278,14 +286,14 @@ namespace AideDeJeu.ViewModels.Library
                 {
                     var spells = context.Spells.ToList();
                     var spell = spells.Take(1).FirstOrDefault();
-                    _BookmarkCollections["Grimoire"].Add(new Item() { Id = spell.Id, Name = spell.Name });
+                    Repository._BookmarkCollections["Grimoire"].Add(new Item() { Id = spell.Id, Name = spell.Name });
                 }
                 await SaveBookmarkCollectionsAsync();
             }
         }
         public async Task SaveBookmarkCollectionsAsync()
         {
-            var yaml = new YamlDotNet.Serialization.Serializer().Serialize(_BookmarkCollections);
+            var yaml = new YamlDotNet.Serialization.Serializer().Serialize(Repository._BookmarkCollections);
             Debug.WriteLine(yaml);
         }
         public string ToString(IEnumerable<Item> items)

@@ -1,4 +1,5 @@
-﻿using AideDeJeu.ViewModels.Library;
+﻿using AideDeJeu.Repositories;
+using AideDeJeu.ViewModels.Library;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,11 +18,11 @@ namespace AideDeJeu.ViewModels
                 return DependencyService.Get<MainViewModel>();
             }
         }
-        public BookmarksViewModel Bookmarks
+        public BookmarksRepository Bookmarks
         {
             get
             {
-                return DependencyService.Get<BookmarksViewModel>();
+                return DependencyService.Get<BookmarksRepository>();
             }
         }
         public StoreViewModel Store

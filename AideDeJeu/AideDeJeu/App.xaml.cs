@@ -1,4 +1,5 @@
 ﻿using AideDeJeu.Pdf;
+using AideDeJeu.Repositories;
 using AideDeJeu.ViewModels;
 using AideDeJeu.ViewModels.Library;
 using AideDeJeu.ViewModels.PlayerCharacter;
@@ -22,7 +23,7 @@ namespace AideDeJeu
 
             DependencyService.Register<MainViewModel>();
             DependencyService.Register<PdfService>();
-            DependencyService.Register<BookmarksViewModel>();
+            DependencyService.Register<BookmarksRepository>();
             DependencyService.Register<StoreViewModel>();
             DependencyService.Register<PlayerCharacterEditorViewModel>();
             var vm = DependencyService.Get<MainViewModel>();

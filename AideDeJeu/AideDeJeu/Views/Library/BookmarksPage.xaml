@@ -34,17 +34,17 @@
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
-            <Picker x:Name="BookmarkCollectionPicker" Grid.Column="0" Grid.Row="0" HorizontalOptions="Fill" ItemsSource="{Binding BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding BookmarkCollectionIndex, Mode=TwoWay}">
+            <Picker x:Name="BookmarkCollectionPicker" Grid.Column="0" Grid.Row="0" HorizontalOptions="Fill" ItemsSource="{Binding Repository.BookmarkCollectionNames, Mode=OneWay}" ItemDisplayBinding="{Binding Mode=OneWay}" SelectedIndex="{Binding Repository.BookmarkCollectionIndex, Mode=TwoWay}">
               <!--Style="{StaticResource heading1}"-->
               <Picker.Behaviors>
                     <tools:EventToCommandBehavior EventName="SelectedIndexChanged" Command="{Binding BindingContext.SelectedIndexChangedCommand, Source={x:Reference This}}" />
                 </Picker.Behaviors>
             </Picker>
 
-            <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
+            <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" Margin="15,0,15,0" Style="{StaticResource heading3}" Text="Cette liste est vide, ajoutez des éléments à partir de la bibliothèque !" IsVisible="{Binding Repository.BookmarkCollection.Count, Converter={StaticResource IntToBooleanConverter}}" />
 
             <!--SelectedItem="{Binding SelectedItem}"-->
-            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement">
+            <ListView Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" x:Name="ItemsListView" SelectionMode="None" ItemsSource="{Binding Repository.BookmarkCollection}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement">
                 <ListView.ItemTemplate>
                     <DataTemplate x:DataType="lib:Item">
                         <ViewCell>

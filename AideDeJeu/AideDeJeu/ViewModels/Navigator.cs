@@ -183,14 +183,15 @@ namespace AideDeJeu.ViewModels
 
             //await Application.Current.MainPage.DisplayAlert("Id", item.Id, "OK");
             var item = itemVM.Item;
-            var vm = Main.Bookmarks;
-            var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", vm.BookmarkCollectionNames.ToArray<string>());
+            var repo = Main.Bookmarks;
+            var vm = new BookmarksViewModel(); 
+            var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", repo.BookmarkCollectionNames.ToArray<string>());
             if (result != "Annuler")
             {
                 if (result == "Nouvelle liste")
                 {
                     int i = 1;
-                    while (vm.BookmarkCollectionNames.Contains(result = $"Nouvelle liste ({i})"))
+                    while (repo.BookmarkCollectionNames.Contains(result = $"Nouvelle liste ({i})"))
                     {
                         i++;
                     }
