@@ -21,9 +21,10 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand}" />
-        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand}" CommandParameter="{Binding Item.Markdown}" />
-        <ToolbarItem Name="Speak" Text="Écouter / Arrêter" Order="Primary" Icon="round_star.png" Command="{Binding Main.Speech.SpeakItemCommand}" CommandParameter="{Binding Item}" />
+        <tools:BindableToolbarItem Name="Filter" Text="Filtrer" Order="Primary" Icon="funnel.png" IsVisible="{Binding Filter, Converter={StaticResource NullToFalseConverter}, Mode=OneWay}" Command="{Binding Main.ChangeFilterIsPresentedCommand, Mode=OneTime}" />
+        <ToolbarItem Name="AddToFavorites" Text="Ajouter aux favoris" Order="Primary" Icon="round_star.png" Command="{Binding Main.Navigator.AddToFavoritesCommand, Mode=OneTime}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Secondary" Icon="scroll_unfurled.png" Command="{Binding Main.Navigator.GeneratePDFCommand, Mode=OneTime}" CommandParameter="{Binding Item.Markdown}" />
+        <ToolbarItem Name="Speak" Text="Écouter / Arrêter" Order="Secondary" Icon="scroll_unfurled.png" Command="{Binding Main.Speech.SpeakItemCommand, Mode=OneTime}" CommandParameter="{Binding Item}" />
     </ContentPage.ToolbarItems>
     <Grid>
         <!--<ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
@@ -36,9 +37,9 @@
         <ListView Grid.Column="0" Grid.Row="0" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
-                Theme="{StaticResource MonsterMarkdownTheme}" 
-                Markdown="{Binding Item.Markdown}" 
-                NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
+                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Markdown="{Binding Item.Markdown}" 
+                    NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
                 />
             </ListView.Header>
             <ListView.ItemTemplate>

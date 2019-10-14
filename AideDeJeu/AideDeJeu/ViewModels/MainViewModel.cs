@@ -226,5 +226,27 @@ namespace AideDeJeu.ViewModels
                 SetProperty(ref _CurrentItem, value);
             }
         }
+
+        private bool _FilterIsPresented = false;
+        public bool FilterIsPresented
+        {
+            get
+            {
+                return _FilterIsPresented;
+            }
+            set
+            {
+                SetProperty(ref _FilterIsPresented, value);
+            }
+        }
+
+        private Command _ChangeFilterIsPresentedCommand = null;
+        public Command ChangeFilterIsPresentedCommand
+        {
+            get
+            {
+                return _ChangeFilterIsPresentedCommand ?? (_ChangeFilterIsPresentedCommand = new Command(() => FilterIsPresented = !FilterIsPresented));
+            }
+        }
     }
 }

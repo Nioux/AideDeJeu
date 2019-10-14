@@ -5,6 +5,8 @@
        xmlns:pc="clr-namespace:AideDeJeu.Views.PlayerCharacter"
        xmlns:library="clr-namespace:AideDeJeu.Views.Library"
        xmlns:tools="clr-namespace:AideDeJeu.Tools"
+       xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
+       xmlns:libvm="clr-namespace:AideDeJeu.ViewModels.Library"
        x:Class="AideDeJeu.Views.MainShell"
        BackgroundColor="{DynamicResource HDWhite}"
        FlyoutBackgroundColor="{DynamicResource HDWhite}"
@@ -12,7 +14,11 @@
        Shell.TitleColor="{DynamicResource HDBlack}"
        Shell.UnselectedColor="{DynamicResource HDLightGrey}"
        FlyoutHeaderBehavior="Scroll"
-       >
+       FlyoutIsPresented="{Binding Main.FilterIsPresented, Mode=TwoWay}"
+             x:DataType="vm:BaseViewModel">
+    <Shell.BindingContext>
+        <vm:BaseViewModel />
+    </Shell.BindingContext>
     <Shell.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -47,7 +53,7 @@
             <StackLayout>-->
                 <StackLayout BindableLayout.ItemsSource="{Binding Main.CurrentItem.Filter.Filters}">
                     <BindableLayout.ItemTemplate>
-                        <DataTemplate>
+                        <DataTemplate x:DataType="libvm:Filter">
                             <StackLayout Margin="10,5,10,0" Padding="0" Spacing="0">
                                 <Label BindingContext="{Binding}" Text="{Binding Name}" Style="{StaticResource Key=heading4}" />
                                 <Picker HorizontalOptions="FillAndExpand" ItemsSource="{Binding KeyValues, Mode=OneWay}" ItemDisplayBinding="{Binding Value, Mode=OneWay}" SelectedIndex="{Binding Index, Mode=TwoWay}" />
