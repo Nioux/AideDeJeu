@@ -36,7 +36,7 @@ namespace AideDeJeu.ViewModels
         {
             get
             {
-                return Speaking ? "speaker.png" : "speaker_off.png";
+                return NotSpeaking ? "speaker.png" : "speaker_off.png";
             }
         }
         public bool Speaking
