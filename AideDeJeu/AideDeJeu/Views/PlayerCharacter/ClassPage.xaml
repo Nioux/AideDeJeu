@@ -4,8 +4,11 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
+             xmlns:pcvm="clr-namespace:AideDeJeu.ViewModels.PlayerCharacter"
+             xmlns:lib="clr-namespace:AideDeJeuLib"
              x:Class="AideDeJeu.Views.PlayerCharacter.ClassPage"
-             x:Name="This">
+             x:Name="This"
+             x:DataType="pcvm:PlayerCharacterEditorViewModel">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -32,13 +35,13 @@
                         <pickers:ItemView BindingContext="{Binding}" Name="#### Armes" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Weapons}" />
                         <pickers:ItemView BindingContext="{Binding}" Name="#### Outils" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Tools}" />
                         <pickers:ItemView BindingContext="{Binding}" Name="#### Jets de sauvegarde" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.SavingThrows}" />
-                        <pickers:ItemView BindingContext="{Binding}" Name="#### Compétences" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.SkillProficiencies}" />
+                        <pickers:ItemView BindingContext="{Binding}" Name="#### Compétences" Description="{Binding SelectedPlayerCharacter.Class.Proficiencies.Skills}" />
 
                         <pickers:ItemView BindingContext="{Binding}" Name="#### Équipement" Description="{Binding SelectedPlayerCharacter.Class.Equipment.Description}" />
 
                         <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Class.LeveledFeatures}">
                             <BindableLayout.ItemTemplate>
-                                <DataTemplate>
+                                <DataTemplate x:DataType="lib:ClassFeatureItem">
                                     <StackLayout>
                                         <pickers:ItemView BindingContext="{Binding}" Name="{Binding Name, StringFormat='#### {0}'}" Description="{Binding Description}" />
                                     </StackLayout>

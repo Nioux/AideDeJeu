@@ -15,5 +15,8 @@
         </ResourceDictionary>
     </StackLayout.Resources>
     <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Name, Source={x:Reference this}}" />
-    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Description, Source={x:Reference this}}" />
+    <mdview:MarkdownView 
+        Theme="{StaticResource MonsterMarkdownTheme}" 
+        Markdown="{Binding Description, Source={x:Reference this}}" 
+        NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 </StackLayout>
