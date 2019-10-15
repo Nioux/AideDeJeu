@@ -42,6 +42,7 @@ namespace AideDeJeu.Views.Library
         protected override void OnDisappearing()
         {
             base.OnDisappearing();
+            BindingItem.Main.Speech.ExecuteCancelSpeakCommand();
             BindingItem.Main.CurrentItem = null;
         }
         private string _Path { get; set; } = null; //"index.md";
