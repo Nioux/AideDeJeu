@@ -5,6 +5,7 @@
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
              xmlns:pcvm="clr-namespace:AideDeJeu.ViewModels.PlayerCharacter"
+             xmlns:lib="clr-namespace:AideDeJeuLib"
              x:Class="AideDeJeu.Views.PlayerCharacter.RacePage"
              x:Name="This"
              x:DataType="pcvm:PlayerCharacterEditorViewModel">
@@ -44,19 +45,28 @@
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Darkvision}" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
 
-                        <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Race.AttributesKeyValue}">
+                        <StackLayout BindableLayout.ItemsSource="{Binding SelectedPlayerCharacter.Race.AttributesKeyValue.Values}">
                             <BindableLayout.ItemTemplate>
-                                <DataTemplate>
+                                <DataTemplate x:DataType="lib:ItemAttribute">
                                     <StackLayout>
-                                        <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Value.Key, StringFormat='#### {0}'}" />
-                                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Value.Value}" />-->
+                                        <mdview:MarkdownView 
+                                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                                            Markdown="{Binding Key, StringFormat='#### {0}'}" />
+                                        <mdview:MarkdownView 
+                                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                                            Markdown="{Binding Value}" 
+                                            NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}" />
                                     </StackLayout>
                                 </DataTemplate>
                             </BindableLayout.ItemTemplate>
                         </StackLayout>
 
                         <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Langues" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Race.Languages}" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView 
+                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Markdown="{Binding SelectedPlayerCharacter.Race.Languages}" 
+                            IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
+                            NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
                     </StackLayout>
                 </Frame>
