@@ -6,7 +6,8 @@
              x:Class="AideDeJeu.Views.Pickers.StringPicker"
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
              ios:Page.UseSafeArea="true"
-             Title="{Binding Title}">
+             Title="{Binding Title}"
+             x:Name="This">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -18,13 +19,21 @@
             <ListView.Header>
                 <StackLayout>
                     <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Title, StringFormat='# {0}'}" />
-                    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Description}" />
+                    <mdview:MarkdownView 
+                        Theme="{StaticResource MonsterMarkdownTheme}" 
+                        HorizontalOptions="FillAndExpand" 
+                        Markdown="{Binding Description}" 
+                        NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
                 </StackLayout>
             </ListView.Header>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding}" />
+                        <mdview:MarkdownView 
+                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            HorizontalOptions="FillAndExpand" 
+                            Markdown="{Binding}" 
+                            NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}" />
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
