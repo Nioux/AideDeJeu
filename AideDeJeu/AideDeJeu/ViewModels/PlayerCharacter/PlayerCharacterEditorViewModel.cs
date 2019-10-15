@@ -1268,16 +1268,16 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
                     var form = stamper.AcroFields;
                     var fields = form.Fields;
 #if DEBUG
-                    foreach (DictionaryEntry field in fields)
-                    {
-                        var item = field.Value as AcroFields.Item;
-                        Debug.WriteLine(field.Key);
-                        if (field.Key.ToString().Equals("Portrait"))
-                        {
-                            Debug.WriteLine("Portrait");
-                        }
-                        form.SetField(field.Key.ToString(), field.Key.ToString());
-                    }
+                    //foreach (DictionaryEntry field in fields)
+                    //{
+                    //    var item = field.Value as AcroFields.Item;
+                    //    Debug.WriteLine(field.Key);
+                    //    if (field.Key.ToString().Equals("Portrait"))
+                    //    {
+                    //        Debug.WriteLine("Portrait");
+                    //    }
+                    //    form.SetField(field.Key.ToString(), field.Key.ToString());
+                    //}
 #endif // DEBUG
 
                     form.SetField("Nom", SelectedPlayerCharacter?.Name ?? string.Empty);
@@ -1378,6 +1378,27 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             "1", //"2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"
         };
         #endregion Level
+
+
+
+        public Command PdfViewCommand
+        {
+            get
+            {
+                return new Command<PlayerCharacterViewModel>(async (pc) => await ExecutePdfViewCommandAsync(pc));
+            }
+        }
+
+        public async Task ExecutePdfViewCommandAsync(PlayerCharacterViewModel pc)
+        {
+            //var vm = BindingContext as PlayerCharacterEditorViewModel;
+            var page = new Views.PlayerCharacter.PdfViewPage();
+            page.PdfFile = new Tools.NotifyTaskCompletion<string>(Task.Run(async () => await GeneratePdfAsync(pc)));
+            page.BindingContext = page;
+            //Navigation.PushModalAsync(page, true);
+            await Shell.Current.Navigation.PushAsync(page, true);
+        }
+
 
     }
 

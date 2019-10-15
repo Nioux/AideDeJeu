@@ -137,8 +137,8 @@ namespace AideDeJeu.Pdf
             string fontPath = fontName;
             if(Xamarin.Essentials.DeviceInfo.Platform != Xamarin.Essentials.DevicePlatform.Unknown)
             {
-                fontPath = Path.Combine(Xamarin.Essentials.FileSystem.AppDataDirectory, fontPath);
-                //fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, fontPath);
+                //fontPath = Path.Combine(Xamarin.Essentials.FileSystem.AppDataDirectory, fontPath);
+                fontPath = Path.Combine(Xamarin.Essentials.FileSystem.CacheDirectory, fontPath);
             }
             using (var inFont = AideDeJeu.Tools.Helpers.GetResourceStream($"AideDeJeu.Pdf.{fontName}"))
             {
@@ -149,8 +149,8 @@ namespace AideDeJeu.Pdf
             }
             FontFactory.Register(fontPath);
 
-            //return iTextSharp.text.pdf.BaseFont.CreateFont(fontPath, iTextSharp.text.pdf.BaseFont.IDENTITY_H, iTextSharp.text.pdf.BaseFont.EMBEDDED, true, null, null, true, true);
-            return iTextSharp.text.pdf.BaseFont.CreateFont();
+            return iTextSharp.text.pdf.BaseFont.CreateFont(fontPath, iTextSharp.text.pdf.BaseFont.IDENTITY_H, iTextSharp.text.pdf.BaseFont.EMBEDDED);
+            //return iTextSharp.text.pdf.BaseFont.CreateFont();
         }
 
         BaseFont _CinzelRegular = null;
