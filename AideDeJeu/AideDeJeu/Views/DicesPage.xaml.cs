@@ -92,7 +92,6 @@ namespace AideDeJeu.Views
             try
             {
                 var ao = new Urho.ApplicationOptions(assetsFolder: null);
-                HelloWorldUrhoSurface = new Urho.Forms.UrhoSurface();
                 charts = await HelloWorldUrhoSurface.Show<Charts>(ao);
             }
             catch(Exception ex)
