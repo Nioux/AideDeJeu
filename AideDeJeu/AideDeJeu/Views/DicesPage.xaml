@@ -6,7 +6,14 @@
              xmlns:urho="clr-namespace:Urho.Forms;assembly=UrhoSharp.Forms"
              x:Class="AideDeJeu.Views.DicesPage" 
              Appearing="ContentPage_Appearing"
-             Disappearing="ContentPage_Disappearing" Title="Dés" >
+             Disappearing="ContentPage_Disappearing" 
+             Title="Dés" 
+             Shell.FlyoutBehavior="Disabled"
+             Visual="Material">
+    <!--<Shell.BackButtonBehavior>
+        <BackButtonBehavior Command="{Binding BackCommand}"
+                            IconOverride="back.png" />
+    </Shell.BackButtonBehavior>-->
     <!--Visual="Material"-->
     <ContentPage.Content>
         <StackLayout>
@@ -71,7 +78,10 @@
 
             </skviews:SKCanvasView>-->
 
-            <Button Text="Générer" Clicked="Button_Clicked"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button Text="Menu" Clicked="Menu_Clicked"/>
+                <Button Text="Générer" Clicked="Refresh_Clicked"/>
+            </StackLayout>
             <urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" BackgroundColor="White" />
         </StackLayout>
     </ContentPage.Content>

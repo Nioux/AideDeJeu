@@ -92,6 +92,7 @@ namespace AideDeJeu.Views
             try
             {
                 var ao = new Urho.ApplicationOptions(assetsFolder: null);
+                HelloWorldUrhoSurface = new Urho.Forms.UrhoSurface();
                 charts = await HelloWorldUrhoSurface.Show<Charts>(ao);
             }
             catch(Exception ex)
@@ -116,7 +117,7 @@ namespace AideDeJeu.Views
             charts?.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
         }
 
-        private void Button_Clicked(object sender, EventArgs e)
+        private void Refresh_Clicked(object sender, EventArgs e)
         {
             charts?.Bars.ForEach(b => b.SetValueWithAnimation((new Dice()).Roll("3d6", new RandomDieRoller()).Value));
         }
@@ -132,6 +133,11 @@ namespace AideDeJeu.Views
                 }
             }
             catch { }
+        }
+
+        private void Menu_Clicked(object sender, EventArgs e)
+        {
+            Shell.Current.GoToAsync("//home", true);
         }
     }
     public class HelloWorld : Urho.Application
