@@ -12,7 +12,7 @@ using Xamarin.Forms.Xaml;
 namespace AideDeJeu.Views.Pickers
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ItemPickerView : StackLayout
+    public partial class ItemPickerView : ContentView
     {
         public MainViewModel Main
         {
@@ -73,10 +73,10 @@ namespace AideDeJeu.Views.Pickers
         //    defaultValue: new List<string>());
         public static readonly BindableProperty ItemsSourceProperty =
             BindableProperty.Create(
-                nameof(ItemsSource), 
-                typeof(System.Collections.IEnumerable), 
-                typeof(ItemPickerView), 
-                default(System.Collections.IEnumerable));
+                nameof(ItemsSource),
+                typeof(System.Collections.IEnumerable),
+                typeof(ItemPickerView),
+                defaultValue: null); // default(System.Collections.IEnumerable));
 
         public ICommand PickerCommand
         {
