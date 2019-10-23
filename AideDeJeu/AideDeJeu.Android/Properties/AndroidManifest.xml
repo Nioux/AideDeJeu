@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="39" android:versionName="1.39">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="preferExternal" android:versionCode="13940" android:versionName="1.39.40">
 	<uses-sdk android:targetSdkVersion="28" />
 	<application android:label="Beta Haches &amp; Dés">
 		<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.fileprovider" android:exported="false" android:grantUriPermissions="true">
