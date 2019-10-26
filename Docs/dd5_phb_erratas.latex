@@ -22,7 +22,8 @@
 \usepackage{lipsum}
 \usepackage{listings}
 \usepackage{soul}
-\usepackage[bg=print]{dnd}
+\usepackage{dnd}
+% \usepackage[bg=print]{dnd}
 
 \lstset{%
   basicstyle=\ttfamily,
@@ -35,7 +36,7 @@
 % Your content goes here
 
 % Comment this out if you're using the article class.
-\chapter{Erratas du Player's Handbook v2.01}
+\chapter{Erratas du Player's Handbook v2.02}
 
 \nopagebreak
 \subsection{Page 15 - Gauche}
@@ -477,7 +478,7 @@ apparait sous l'appelation "Équipement d'escalade" dans le tableau page 150
 \textit{(Sage Advice Compendium v2.2)}
 \end{itemize}
 \begin{itemize}
-  \item \underline{Vous déplacer à un rythme normal n'impose}
+  \item \underline{Vous déplacer à un rythme rapide n'impose}
   \underline{pas un malus de -5 à votre score de}
   \underline{Sagesse passive (Perception).}
 \newline
