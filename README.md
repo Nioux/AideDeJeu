@@ -6,7 +6,7 @@ Ce site contient plusieurs ressources pour vos parties du plus grand jeu de rôl
 
 [![Google Play](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.Android/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.nioux.aidedejeu)
 
-[![Build status](https://build.appcenter.ms/v0.1/apps/fdb75fb9-ea0e-44fb-92d1-883d65aa7570/branches/master/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/fdb75fb9-ea0e-44fb-92d1-883d65aa7570/branches/master/badge)](https://install.appcenter.ms/users/nioux59/apps/aidedejeu/distribution_groups/tout%20le%20monde)
 
 [![Apple AppStore](https://github.com/Nioux/AideDeJeu/raw/master/AideDeJeu/AideDeJeu.iOS/apple-appstore-badge.png)](https://itunes.apple.com/us/app/haches-d%C3%A9s/id1446575505?l=fr&ls=1&mt=8)
 
