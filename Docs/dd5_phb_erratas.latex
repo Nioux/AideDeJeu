@@ -422,8 +422,10 @@ Pour lancer un de vos sorts de sorcier de niveau 1 \st{ou superieur} \underline{
 \nopagebreak
 \subsection{Page 149}
 \header{Armes}
-\begin{dndtable}[>{\hsize=2\hsize}X >{\hsize=0.75\hsize}Y >{\hsize=1\hsize}X >{\hsize=0.75\hsize}Y >{\hsize=0.75\hsize}Y]
-   	\textbf{Nom} & \textbf{...} & \textbf{Poids} & \textbf{...} \\
+\begin{dndtable}[>{\hsize=1.6\hsize}X >{\hsize=0.25\hsize}Y >{\hsize=0.7\hsize}X >{\hsize=1\hsize}X]
+   	\textbf{Nom} & \textbf{...} & \textbf{Poids} & \textbf{Propriétés} \\
+   	... & ... & ... & ... \\
+    Arc court & ... & ... & \underline{, à deux mains} \\
    	... & ... & ... & ... \\
     Épée courte & ... & \st{0,5} \underline{1} kg & ... \\
     Marteau de guerre & ... & \st{0,5} \underline{1} kg & ... \\
