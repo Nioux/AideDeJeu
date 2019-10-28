@@ -243,14 +243,25 @@ namespace AideDeJeu.ViewModels.Library
             }
             items.Add(linkItem);
             await SaveBookmarksAsync(key, items);
-            Repository.BookmarkCollectionIndex = Repository.BookmarkCollectionNames.IndexOf(key);
+            if (Repository.BookmarkCollectionNames.IndexOf(key) >= 0)
+            {
+                Repository.BookmarkCollectionIndex = Repository.BookmarkCollectionNames.IndexOf(key);
+            }
+            else
+            {
+                Repository.BookmarkCollectionNames.Insert(Repository.BookmarkCollectionNames.Count - 1, key);
+                Repository.BookmarkCollectionIndex = Repository.BookmarkCollectionNames.IndexOf(key);
+            }
             await LoadBookmarkCollectionAsync(key);
         }
 
         public async Task SaveBookmarksAsync()
         {
-            App.Current.Properties[Repository.BookmarkCollectionNames[Repository.BookmarkCollectionIndex]] = ToString(Repository.BookmarkCollection);
-            await App.Current.SavePropertiesAsync();
+            if (Repository.BookmarkCollectionIndex >= 0)
+            {
+                App.Current.Properties[Repository.BookmarkCollectionNames[Repository.BookmarkCollectionIndex]] = ToString(Repository.BookmarkCollection);
+                await App.Current.SavePropertiesAsync();
+            }
         }
 
         public async Task SaveBookmarksAsync(string key, List<Item> items)
