@@ -82,7 +82,10 @@
                 <Button Text="Menu" Clicked="Menu_Clicked"/>
                 <Button Text="Générer" Clicked="Refresh_Clicked"/>
             </StackLayout>
-            <urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" BackgroundColor="White" />
+            <StackLayout x:Name="RootSurface" VerticalOptions="FillAndExpand" BackgroundColor="White" >
+                
+            </StackLayout>
+            <!--<urho:UrhoSurface x:Name="HelloWorldUrhoSurface" VerticalOptions="FillAndExpand" BackgroundColor="White" />-->
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

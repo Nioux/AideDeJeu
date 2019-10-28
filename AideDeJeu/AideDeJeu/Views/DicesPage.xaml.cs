@@ -91,8 +91,13 @@ namespace AideDeJeu.Views
         {
             try
             {
-                var ao = new Urho.ApplicationOptions(assetsFolder: null);
-                charts = await HelloWorldUrhoSurface.Show<Charts>(ao);
+                //if (charts == null)
+                //{
+                    var ao = new Urho.ApplicationOptions(assetsFolder: null);
+                    var urhoSurface = new Urho.Forms.UrhoSurface() { VerticalOptions = LayoutOptions.FillAndExpand, BackgroundColor = Xamarin.Forms.Color.White };
+                    RootSurface.Children.Add(urhoSurface);
+                    charts = await urhoSurface.Show<Charts>(ao);
+                //}
             }
             catch(Exception ex)
             {
@@ -132,6 +137,10 @@ namespace AideDeJeu.Views
                 }
             }
             catch { }
+            RootSurface.Children.Clear();
+            //charts?.DoStop();
+            ////charts?.Dispose();
+            //charts = null;
         }
 
         private void Menu_Clicked(object sender, EventArgs e)

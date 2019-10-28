@@ -26,6 +26,11 @@ namespace AideDeJeu.Views
         Viewport vp;
         Renderer renderer;
 
+        public void DoStop()
+        {
+            base.Exit(); //.Stop();
+        }
+
         public Bar SelectedBar { get; private set; }
 
         public IEnumerable<Bar> Bars => bars;
