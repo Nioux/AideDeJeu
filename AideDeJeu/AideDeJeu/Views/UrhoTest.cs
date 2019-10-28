@@ -98,7 +98,7 @@ namespace AideDeJeu.Views
             //float sumx = diceRolls.Sum(kv => kv.Value);
 
             int sizei = 6;
-            int sizej = 3;
+            int sizej = 1;
             baseNode.Scale = new Vector3(sizei * 1.5f, 1, sizej * 1.5f);
             bars = new List<Bar>(sizei * sizej);
 
