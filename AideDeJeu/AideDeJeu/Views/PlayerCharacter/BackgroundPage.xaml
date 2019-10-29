@@ -16,7 +16,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand, Source={x:Reference This}}" CommandParameter="{Binding SelectedPlayerCharacter}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand}" CommandParameter="{Binding SelectedPlayerCharacter}" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">

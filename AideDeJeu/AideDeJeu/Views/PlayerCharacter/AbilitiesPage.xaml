@@ -5,8 +5,10 @@
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
              xmlns:pcviews="clr-namespace:AideDeJeu.Views.PlayerCharacter"
+             xmlns:pcvm="clr-namespace:AideDeJeu.ViewModels.PlayerCharacter"
              x:Class="AideDeJeu.Views.PlayerCharacter.AbilitiesPage"
-             x:Name="This">
+             x:Name="This"
+             x:DataType="pcvm:PlayerCharacterEditorViewModel">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -14,7 +16,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand, Source={x:Reference This}}" CommandParameter="{Binding SelectedPlayerCharacter}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand}" CommandParameter="{Binding SelectedPlayerCharacter}" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView Orientation="Vertical">
@@ -29,13 +31,13 @@
                     <RowDefinition Height="auto" />
                 </Grid.RowDefinitions>
                 <Frame Grid.Column="0" BorderColor="Black" Padding="2" VerticalOptions="Start">
-                    <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesMRickCommand}" />
+                    <ImageButton Source="rolling_dice_cup.png" Command="{Binding RollDicesMRickCommand}" BackgroundColor="White" />
                 </Frame>
                 <Frame Grid.Column="1" BorderColor="Black" Padding="2">
-                    <ImageButton Source="cubes.png" Command="{Binding RollDices2d6plus6Command}" />
+                    <ImageButton Source="cubes.png" Command="{Binding RollDices2d6plus6Command}" BackgroundColor="White" />
                 </Frame>
                 <Frame Grid.Column="2" BorderColor="Black" Padding="2">
-                    <ImageButton Source="trash_can.png" Command="{Binding ResetDicesCommand}" />
+                    <ImageButton Source="trash_can.png" Command="{Binding ResetDicesCommand}" BackgroundColor="White" />
                 </Frame>
                 <Frame Grid.Row="1" Grid.ColumnSpan="3" BorderColor="Black" Padding="2" Margin="10">
                     <Grid RowSpacing="10" Margin="15">

@@ -7,6 +7,7 @@
        xmlns:tools="clr-namespace:AideDeJeu.Tools"
        xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
        xmlns:libvm="clr-namespace:AideDeJeu.ViewModels.Library"
+       xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
        x:Class="AideDeJeu.Views.MainShell"
        BackgroundColor="{DynamicResource HDWhite}"
        FlyoutBackgroundColor="{DynamicResource HDWhite}"

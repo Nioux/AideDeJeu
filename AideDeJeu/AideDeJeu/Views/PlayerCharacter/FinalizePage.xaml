@@ -4,8 +4,10 @@
              xmlns:tools="clr-namespace:AideDeJeu.Tools"
              xmlns:mdview="clr-namespace:Xam.Forms.Markdown"
              xmlns:pickers="clr-namespace:AideDeJeu.Views.Pickers"
+             xmlns:pcvm="clr-namespace:AideDeJeu.ViewModels.PlayerCharacter"
              x:Class="AideDeJeu.Views.PlayerCharacter.FinalizePage"
-             x:Name="This">
+             x:Name="This"
+             x:DataType="pcvm:PlayerCharacterEditorViewModel">
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
@@ -13,7 +15,7 @@
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
-        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand, Source={x:Reference This}}" CommandParameter="{Binding SelectedPlayerCharacter}" />
+        <ToolbarItem Name="Print" Text="Générer un PDF" Order="Primary" Icon="scroll_unfurled.png" Command="{Binding PdfViewCommand}" CommandParameter="{Binding SelectedPlayerCharacter}" />
     </ContentPage.ToolbarItems>
     <ContentPage.Content>
         <ScrollView Grid.ColumnSpan="2" Orientation="Vertical">
