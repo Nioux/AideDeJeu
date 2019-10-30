@@ -111,7 +111,7 @@
                     <Label.FormattedText>
                         <FormattedString>
                             <Span Text="Merci à mes tipeurs " />
-                            <Span Text="temvaryen, Ekaradon, Emmanuel et Nicolas" FontAttributes="Bold" />
+                            <Span Text="temvaryen, Ekaradon, Emmanuel, Nicolas et Brundle Mouche" FontAttributes="Bold" />
                         </FormattedString>
                     </Label.FormattedText>
                     <Label.GestureRecognizers>
