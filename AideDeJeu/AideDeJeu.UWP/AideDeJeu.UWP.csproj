@@ -143,7 +143,7 @@
   <ItemGroup>
     <Content Include="..\..\Libs\pdfjs\**\*.*">
       <Link>Assets\pdfjs\%(RecursiveDir)%(Filename)%(Extension)</Link>
-	</Content>
+    </Content>
     <Content Include="Assets\Fonts\Cinzel-Black.otf" />
     <Content Include="Assets\Fonts\Cinzel-Bold.otf" />
     <Content Include="Assets\Fonts\CinzelDecorative-Black.otf" />
@@ -249,10 +249,10 @@
       <Version>1.3.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>4.3.0.947036</Version>
+      <Version>4.3.0.991211</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>4.3.0.947036</Version>
+      <Version>4.3.0.991211</Version>
     </PackageReference>
     <PackageReference Include="XamiTextSharpLGPLv2">
       <Version>1.0.0</Version>
