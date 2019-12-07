@@ -186,7 +186,7 @@ namespace AideDeJeu.ViewModels
             var repo = Main.Bookmarks;
             var vm = new BookmarksViewModel(); 
             var result = await Application.Current.MainPage.DisplayActionSheet("Ajouter à", "Annuler", "Nouvelle liste", repo.BookmarkCollectionNames.ToArray<string>());
-            if (result != "Annuler")
+            if (result != "Annuler" && result != null)
             {
                 if (result == "Nouvelle liste")
                 {

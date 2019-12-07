@@ -84,7 +84,7 @@ namespace AideDeJeu.Droid
             //    .SetMessage(Xamarin.Forms.Shell.Current.CurrentItem.Route)
             //    .SetTitle("OnBackPressed")
             //    .Show();
-            if (Xamarin.Forms.Shell.Current.Navigation.NavigationStack.Count == 1 && Xamarin.Forms.Shell.Current.CurrentItem.Route != "IMPL_home")
+            if (Xamarin.Forms.Shell.Current?.Navigation?.NavigationStack?.Count == 1 && Rg.Plugins.Popup.Services.PopupNavigation.Instance.PopupStack.Count == 0 && Xamarin.Forms.Shell.Current?.CurrentItem?.Route != "IMPL_home")
             {
                 Xamarin.Forms.Shell.Current.GoToAsync("//home", true);
             }
@@ -93,7 +93,7 @@ namespace AideDeJeu.Droid
                 if (Rg.Plugins.Popup.Popup.SendBackPressed(base.OnBackPressed))
                 {
                     // Do something if there are some pages in the `PopupStack`
-                    //Rg.Plugins.Popup.Services.PopupNavigation.Instance.PopAsync();
+                    Rg.Plugins.Popup.Services.PopupNavigation.Instance.PopAsync();
                 }
                 else
                 {
