@@ -8,6 +8,7 @@ using Android.Widget;
 using Android.OS;
 using System.Threading.Tasks;
 using System.Diagnostics;
+using System.Linq;
 
 namespace AideDeJeu.Droid
 {
@@ -76,14 +77,28 @@ namespace AideDeJeu.Droid
 
         public override void OnBackPressed()
         {
-            if (Rg.Plugins.Popup.Popup.SendBackPressed(base.OnBackPressed))
+            //new AlertDialog.Builder(this)
+            //    .SetPositiveButton("OK", (sender, args) =>
+            //    {
+            //    })
+            //    .SetMessage(Xamarin.Forms.Shell.Current.CurrentItem.Route)
+            //    .SetTitle("OnBackPressed")
+            //    .Show();
+            if (Xamarin.Forms.Shell.Current.Navigation.NavigationStack.Count == 1 && Xamarin.Forms.Shell.Current.CurrentItem.Route != "IMPL_home")
             {
-                // Do something if there are some pages in the `PopupStack`
-                //Rg.Plugins.Popup.Services.PopupNavigation.Instance.PopAsync();
+                Xamarin.Forms.Shell.Current.GoToAsync("//home", true);
             }
             else
             {
-                // Do something if there are not any pages in the `PopupStack`
+                if (Rg.Plugins.Popup.Popup.SendBackPressed(base.OnBackPressed))
+                {
+                    // Do something if there are some pages in the `PopupStack`
+                    //Rg.Plugins.Popup.Services.PopupNavigation.Instance.PopAsync();
+                }
+                else
+                {
+                    // Do something if there are not any pages in the `PopupStack`
+                }
             }
         }
 
