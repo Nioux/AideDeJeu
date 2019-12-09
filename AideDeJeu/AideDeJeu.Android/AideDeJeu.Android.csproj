@@ -510,5 +510,8 @@
     <AndroidResource Include="Resources\drawable-xhdpi\scroll_unfurled.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\scroll_unfurled.png" />
   </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\xml\searchable.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
