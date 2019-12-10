@@ -11556,7 +11556,7 @@ _Touché :_ 4 (1d6+1) dégâts perforants.
 
 |  FOR  |  DEX  |  CON  |  INT  |  SAG  |  CHA  |
 | ---   | ---   | ---   | ---   | ---   | ---   |
-|<!--Strength--> 3 (+4)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution--> 8 (-1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
+|<!--Strength--> 3 (-4)<!--/Strength-->|<!--Dexterity-->13 (+1)<!--/Dexterity-->|<!--Constitution--> 8 (-1)<!--/Constitution-->|<!--Intelligence--> 2 (-4)<!--/Intelligence-->|<!--Wisdom-->12 (+1)<!--/Wisdom-->|<!--Charisma--> 7 (-2)<!--/Charisma-->|
 
 - **Compétences** <!--Skills-->[Discrétion] +3, [Perception] +3<!--/Skills-->
 - **Sens** <!--Senses-->vision dans le noir 36 m, [Perception passive] 13<!--/Senses-->
