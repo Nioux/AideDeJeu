@@ -7,10 +7,10 @@
 	<script type="text/javascript" src="imageMapResizer.min.js"></script>
 	<script type="text/javascript">
 	function init() {
-		imageMapResize();
 		var slider = document.getElementById("myRange");
 		var output = document.getElementById("myImage");
 		output.style.width = "" + slider.value + "%";
+		imageMapResize();
 		slider.oninput = function() {
 			output.style.width = "" + this.value + "%";
 			imageMapResize();
@@ -21,7 +21,13 @@
 <body onload="init()">
 	<img id="myImage" src="alarian.png" alt="Alarian" usemap="#alarian" />
 	<map id="myMap" name="alarian">
+		<!-- Norven -->
+		<area shape="circle" coords="823,425,8" alt="Kraod" href="javascript:alert('Kraod')" title="Kraod" />
 		<area shape="rect" coords="862,419,877,434" alt="Shaïa Daod" href="javascript:alert('Shaïa Daod')" title="Shaïa Daod" />
+		<area shape="circle" coords="782,481,5" alt="??1" href="javascript:alert('??1')" title="??1" />
+		<area shape="circle" coords="621,554,5" alt="Heim-Hav" href="javascript:alert('Heim-Hav')" title="Heim-Hav" />
+		<area shape="circle" coords="726,550,5" alt="Törnod" href="javascript:alert('Törnod')" title="Törnod" />
+		<area shape="circle" coords="754,600,8" alt="Ragkaod" href="javascript:alert('Ragkaod')" title="Ragkaod" />
 		<area shape="circle" coords="643,853,5" alt="Abod" href="javascript:alert('Abod')" title="Abod" />
 	</map>
 	<input type="range" min="30" max="250" value="30" class="slider" id="myRange" style="position: fixed; top: 0; left: 0" />
