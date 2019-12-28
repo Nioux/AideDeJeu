@@ -2910,7 +2910,7 @@ Ces lentilles de cristal se portent sur les yeux. Tant que vous les portez, vous
 - Source: <!--Source-->(CDC p174)<!--/Source-->
 -  <!--Type-->Parchemin<!--/Type-->, <!--Rarity-->rareté variable<!--/Rarity-->
 
-Sur un parchemin magique est inscrite la formule d'un unique sort, rédigée tel un message mystique crypté. Si le sort est présent dans la liste de sorts de votre classe de personnage, vous pouvez utiliser une action pour lire le parchemin et lancer le sort qu'il contient dans devoir fournir aucune de ses composantes. Sinon, le sort est incompréhensible.
+Sur un parchemin magique est inscrite la formule d'un unique sort, rédigée tel un message mystique crypté. Si le sort est présent dans la liste de sorts de votre classe de personnage, vous pouvez utiliser une action pour lire le parchemin et lancer le sort qu'il contient sans devoir fournir aucune de ses composantes. Sinon, le sort est incompréhensible.
 
 Si le sort est présent dans la liste de sorts de votre classe de personnage mais d'un niveau supérieur à ceux que vous êtes normalement capable de lancer, vous devez effectuer un test de caractéristique en utilisant votre caractéristique d'incantation pour déterminer si vous parvenez à le lancer. Le DD est égal à 10 + le niveau du sort. En cas de test raté, le sort disparaît du parchemin sans produire d'effet.
 
