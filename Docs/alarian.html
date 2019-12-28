@@ -1,14 +1,29 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-	<title>Alarian</title>	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Alarian</title>
+	<!-- voir https://github.com/davidjbradshaw/image-map-resizer -->
+	<script type="text/javascript" src="imageMapResizer.min.js"></script>
+	<script type="text/javascript">
+	function init() {
+		imageMapResize();
+		var slider = document.getElementById("myRange");
+		var output = document.getElementById("myImage");
+		output.style.width = "" + slider.value + "%";
+		slider.oninput = function() {
+			output.style.width = "" + this.value + "%";
+			imageMapResize();
+		}
+	}
+	</script>
 </head>
-<body>
-	<img src="alarian.png" alt="Alarian" usemap="#alarian">
-	<map name="alarian">
-		<area shape="rect" coords="862,419,877,434" alt="Shaïa Daod" href="javascript:alert('Shaïa Daod')" title="Shaïa Daod">	
-		<area shape="circle" coords="643,853,5" alt="Abod" href="javascript:alert('Abod')" title="Abod">
+<body onload="init()">
+	<img id="myImage" src="alarian.png" alt="Alarian" usemap="#alarian" />
+	<map id="myMap" name="alarian">
+		<area shape="rect" coords="862,419,877,434" alt="Shaïa Daod" href="javascript:alert('Shaïa Daod')" title="Shaïa Daod" />
+		<area shape="circle" coords="643,853,5" alt="Abod" href="javascript:alert('Abod')" title="Abod" />
 	</map>
+	<input type="range" min="30" max="250" value="30" class="slider" id="myRange" style="position: fixed; top: 0; left: 0" />
 </body>
 </html>
