@@ -4,8 +4,11 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Alarian</title>
 	<style type"text/css">
-	.point {
+	.displayed .point {
 		fill: #88ffbb
+	}
+	.transparent .point {
+		fill: #ff000000
 	}
 	</style>
 	<!-- voir https://github.com/davidjbradshaw/image-map-resizer -->
@@ -21,13 +24,24 @@
 			mySvg.style.width = "" + slider.value + "%";
 		}
 	}
+	function togglePoints() {
+		var mySvg = document.getElementById("mySvg");
+		if(mySvg.className.baseVal == "displayed") {
+			mySvg.className.baseVal = "transparent";
+		} else {
+			mySvg.className.baseVal = "displayed";
+		}
+	}
+	function toggleLabels() {
+		alert("TODO");
+	}
 	</script>
 </head>
 <body onload="init()" style="margin:0; padding:0">
 
 	<img id="myImage" src="alarian.png" alt="Alarian" />
 	
-	<svg id="mySvg" style="position: absolute; top: 0; left: 0" viewBox="0 0 2500 3250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink">
+	<svg id="mySvg" class="transparent" style="position: absolute; top: 0; left: 0" viewBox="0 0 2500 3250" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="//www.w3.org/1999/xlink">
 
 		<!-- Norven -->
 		<a xlink:href="">
@@ -1017,7 +1031,15 @@
 
 	</svg>
 
-	<input type="range" min="30" max="250" value="100" class="slider" id="myRange" style="position: fixed; top: 0; left: 0" />
+	<div style="position: fixed; top: 0; left: 0">
+		<input type="range" min="30" max="250" value="100" class="slider" id="myRange" />
+		<br />
+		<input id="checkPoints" type="checkbox" onclick="togglePoints()" />
+		<label for="checkPoints">Points</label>
+		<br />
+		<input id="checkLabels" type="checkbox" onclick="toggleLabels()" />
+		<label for="checkLabels">Labels</label>
+	</div>
 
 	</body>
 </html>
