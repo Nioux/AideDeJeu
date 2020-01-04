@@ -106,7 +106,6 @@ window.wheelzoom = (function(){
 			} else {
 				updateBgStyle();
 			}
-			imageMapResize();
 		}
 
 		function drag(e) {
