@@ -48,9 +48,15 @@
 
 		<!-- Norven -->
 		<a xlink:href="">
-			<title>Kraod</title>
-			<circle cx="823" cy="425" r="8" class="point"/>
+			<circle id="kraod" cx="823" cy="425" r="8" class="point">
+				<title>Kraod</title>
+			</circle>
 		</a>
+		<g visibility="hidden">
+			<set attributeName="visibility" from="hidden" to="visible" begin="kraod.mouseover" end="kraod.mouseout"/>
+			<polygon points="823,425 830,400 930,400 930,430 830,430" fill="red"/>
+			<text id="thepopup" x="830" y="425" font-size="30" fill="black" >Kraod</text>
+		</g>
 
 		<a xlink:href="">
 			<title>Shaïa Daod</title>
