@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=UnifrakturCook:700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&display=swap');
+pre {
+	font-family: 'Noto Serif', serif;
+}
+h1 {
+	font-family: 'UnifrakturCook', cursive;
+}
