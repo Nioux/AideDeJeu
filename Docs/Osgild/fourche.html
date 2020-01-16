@@ -1,8 +1,9 @@
 <html>
 <head>
 <link href="style.css" rel="stylesheet"> 
+<script type="text/javascript" src="scripts.js"></script>
 </head>
-<body>
+<body onload="init()">
 <pre>
 <h1>Fourche</h1>
 
@@ -11,8 +12,8 @@
 <b>Source :</b> CB02 La course du printemps  p149
 
 Carte par <b>Romje</b> :
-
-<iframe src="fourche.map.html" width="100%" height="50%"/>
 </pre>
+<input type="range" min="30" max="250" value="100" id="range" /><br />
+<object id="map" data="fourche.svg" width="100%" type="image/svg+xml" />
 </body>
 </html>

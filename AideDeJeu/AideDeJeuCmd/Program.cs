@@ -400,30 +400,67 @@ namespace AideDeJeuCmd
             }
         }
 
+        static string nsSvg = "http://www.w3.org/2000/svg";
         static async Task ConvertMapsAsync()
         {
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\hauterive");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\port-sable");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\vercelise");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\xelys");
+        }
+        static async Task ConvertMapAsync(string basename)
+        {
             HtmlAgilityPack.HtmlDocument document = new HtmlAgilityPack.HtmlDocument();
-            document.Load(@"..\..\..\..\..\Docs\Osgild\ferrance.map.html");
+            document.Load($"{basename}.map.html");
             var svg = new XmlDocument();
-            var svgElt = svg.CreateElement("svg", "http://www.w3.org/2000/svg");
+            var svgElt = svg.CreateElement("svg", nsSvg);
+            svgElt.SetAttribute("style", "fill: transparent");
             svg.AppendChild(svgElt);
+
+            var img = document.DocumentNode.SelectSingleNode("img");
+            var image = svg.CreateElement("image", nsSvg);
+            image.SetAttribute("href", img.GetAttributeValue("src", ""));
+            var width = img.GetAttributeValue("width","");
+            var height = img.GetAttributeValue("height", "");
+            svgElt.SetAttribute("viewBox", $"0 0 {width} {height}");
+            svgElt.AppendChild(image);
+
             var areas = document.DocumentNode.SelectNodes("//area");
             foreach(var area in areas)
             {
                 var coords = area.GetAttributeValue("coords", "");
                 var coordsSplit = coords.Split(",");
 
-                var a = svg.CreateElement("a");
+                var a = svg.CreateElement("a", nsSvg);
                 a.SetAttribute("href", area.GetAttributeValue("href", ""));
                 a.SetAttribute("target", area.GetAttributeValue("target", ""));
-                var rect = svg.CreateElement("rect");
-                rect.SetAttribute("x", coordsSplit[0]);
-                var title = svg.CreateElement("title");
+                var shapeAttr = area.GetAttributeValue("shape", "");
+                XmlElement shape = null;
+                if (shapeAttr == "rect")
+                {
+                    shape = svg.CreateElement("rect", nsSvg);
+                    shape.SetAttribute("x", coordsSplit[0]);
+                    shape.SetAttribute("y", coordsSplit[1]);
+                    shape.SetAttribute("width", (int.Parse(coordsSplit[2]) - int.Parse(coordsSplit[0])).ToString());
+                    shape.SetAttribute("height", (int.Parse(coordsSplit[3]) - int.Parse(coordsSplit[1])).ToString());
+                }
+                if (shapeAttr == "circle")
+                {
+                    shape = svg.CreateElement("circle", nsSvg);
+                    shape.SetAttribute("cx", coordsSplit[0]);
+                    shape.SetAttribute("cy", coordsSplit[1]);
+                    shape.SetAttribute("r", coordsSplit[2]);
+                }
+                var title = svg.CreateElement("title", nsSvg);
                 title.InnerText = area.GetAttributeValue("alt", "");
-                rect.AppendChild(title);
-                a.AppendChild(rect);
+                shape.AppendChild(title);
+                a.AppendChild(shape);
                 svgElt.AppendChild(a);
             }
+            svg.Save($"{basename}.svg");
         }
 
         static async Task ExtractYamlAsync()
