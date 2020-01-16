@@ -15,6 +15,7 @@ using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
+using System.Xml;
 using Xamarin.Forms;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
@@ -358,6 +359,7 @@ namespace AideDeJeuCmd
                 Console.WriteLine("p : test pdf");
                 Console.WriteLine("h : extract html");
                 Console.WriteLine("y : extract yaml");
+                Console.WriteLine("m : convert maps");
                 Console.WriteLine("q : quitter");
                 var key = Console.ReadKey(true);
                 switch (key.KeyChar)
@@ -387,9 +389,40 @@ namespace AideDeJeuCmd
                         await ExtractYamlAsync();
                         Console.WriteLine("/ extract yaml");
                         break;
+                    case 'm':
+                        Console.WriteLine("> convert maps");
+                        await ConvertMapsAsync();
+                        Console.WriteLine("/ convert maps");
+                        break;
                     case 'q':
                         return;
                 }
+            }
+        }
+
+        static async Task ConvertMapsAsync()
+        {
+            HtmlAgilityPack.HtmlDocument document = new HtmlAgilityPack.HtmlDocument();
+            document.Load(@"..\..\..\..\..\Docs\Osgild\ferrance.map.html");
+            var svg = new XmlDocument();
+            var svgElt = svg.CreateElement("svg", "http://www.w3.org/2000/svg");
+            svg.AppendChild(svgElt);
+            var areas = document.DocumentNode.SelectNodes("//area");
+            foreach(var area in areas)
+            {
+                var coords = area.GetAttributeValue("coords", "");
+                var coordsSplit = coords.Split(",");
+
+                var a = svg.CreateElement("a");
+                a.SetAttribute("href", area.GetAttributeValue("href", ""));
+                a.SetAttribute("target", area.GetAttributeValue("target", ""));
+                var rect = svg.CreateElement("rect");
+                rect.SetAttribute("x", coordsSplit[0]);
+                var title = svg.CreateElement("title");
+                title.InnerText = area.GetAttributeValue("alt", "");
+                rect.AppendChild(title);
+                a.AppendChild(rect);
+                svgElt.AppendChild(a);
             }
         }
 
