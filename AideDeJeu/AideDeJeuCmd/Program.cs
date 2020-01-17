@@ -407,7 +407,7 @@ namespace AideDeJeuCmd
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\hauterive");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\port-sable");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\portsable");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\vercelise");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\xelys");
         }
@@ -454,8 +454,19 @@ namespace AideDeJeuCmd
                     shape.SetAttribute("cy", coordsSplit[1]);
                     shape.SetAttribute("r", coordsSplit[2]);
                 }
+                if (shapeAttr == "poly")
+                {
+                    shape = svg.CreateElement("polygon", nsSvg);
+                    var points = "";
+                    for(var i = 0; i < coordsSplit.Length / 2; i++)
+                    {
+                        points += $"{coordsSplit[i*2]},{coordsSplit[i*2+1]} ";
+                    }
+                    points = points.Trim();
+                    shape.SetAttribute("points", points);
+                }
                 var title = svg.CreateElement("title", nsSvg);
-                title.InnerText = area.GetAttributeValue("alt", "");
+                title.InnerText = area.GetAttributeValue("alt", "").Replace("&apos;","'");
                 shape.AppendChild(title);
                 a.AppendChild(shape);
                 svgElt.AppendChild(a);
