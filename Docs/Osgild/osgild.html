@@ -1,9 +1,11 @@
 <html>
 <head>
-<title>Terres d'Osgild</title>
+<link href="style.css" rel="stylesheet" /> 
+<script type="text/javascript" src="scripts.js"></script>
 </head>
-<frameset cols="50%, 50%">
-<frame src="osgild.body.html" />
-<frame src="empty.html" id="details" name="details" />
-</frameset>
+<body onload="init()">
+<h1>Terres d'Osgild</h1>
+<div><input type="range" min="30" max="250" value="100" id="range" /></div>
+<div><object id="map" data="osgild.svg" width="100%" type="image/svg+xml" /></div>
+</body>
 </html>
