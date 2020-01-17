@@ -35,7 +35,7 @@
       <title>Krön</title>
     </circle>
   </a>
-  <a href="fort-boueux.html" target="details">
+  <a href="fortboueux.html" target="details">
     <rect x="431" y="714" width="14" height="15">
       <title>Fort-Boueux</title>
     </rect>
@@ -85,7 +85,7 @@
       <title>Merlith</title>
     </circle>
   </a>
-  <a href="port-sable.html" target="details">
+  <a href="portsable.html" target="details">
     <circle cx="279" cy="1306" r="12">
       <title>Port-Sable</title>
     </circle>
@@ -165,7 +165,7 @@
       <title>???9</title>
     </rect>
   </a>
-  <a href="kaer-undun.html" target="details">
+  <a href="kaerundun.html" target="details">
     <rect x="1126" y="596" width="14" height="15">
       <title>Kaer-Undün</title>
     </rect>
@@ -210,7 +210,7 @@
       <title>Foroc</title>
     </circle>
   </a>
-  <a href="tor-angul.html" target="details">
+  <a href="torangul.html" target="details">
     <rect x="1650" y="514" width="15" height="16">
       <title>Tor-Angul</title>
     </rect>
@@ -245,7 +245,7 @@
       <title>Rivek</title>
     </circle>
   </a>
-  <a href="port-libre.html" target="details">
+  <a href="portlibre.html" target="details">
     <circle cx="1345" cy="927" r="11">
       <title>Port-libre</title>
     </circle>
@@ -345,7 +345,7 @@
       <title>Hauteroche</title>
     </circle>
   </a>
-  <a href="mar-iridan.html" target="details">
+  <a href="mariridan.html" target="details">
     <circle cx="1604" cy="1231" r="7">
       <title>Mar-Iridan</title>
     </circle>
