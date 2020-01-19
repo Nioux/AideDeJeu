@@ -403,18 +403,28 @@ namespace AideDeJeuCmd
         static string nsSvg = "http://www.w3.org/2000/svg";
         static async Task ConvertMapsAsync()
         {
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\hauterive");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\portsable");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\vercelise");
-            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\xelys");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\hauterive");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\portsable");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\vercelise");
+            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\xelys");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\alarian");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\gramlin");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\norven");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\rhu");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\smitin");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\talban");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\yelin");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\ystaad");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\talbethhav");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\yagotalb");
         }
         static async Task ConvertMapAsync(string basename)
         {
             HtmlAgilityPack.HtmlDocument document = new HtmlAgilityPack.HtmlDocument();
-            document.Load($"{basename}.map.html");
+            document.Load($"{basename}.map");
             var svg = new XmlDocument();
             var svgElt = svg.CreateElement("svg", nsSvg);
             svgElt.SetAttribute("style", "fill: transparent");
@@ -429,47 +439,50 @@ namespace AideDeJeuCmd
             svgElt.AppendChild(image);
 
             var areas = document.DocumentNode.SelectNodes("//area");
-            foreach(var area in areas)
+            if (areas != null)
             {
-                var coords = area.GetAttributeValue("coords", "");
-                var coordsSplit = coords.Split(",");
+                foreach (var area in areas)
+                {
+                    var coords = area.GetAttributeValue("coords", "");
+                    var coordsSplit = coords.Split(",");
 
-                var a = svg.CreateElement("a", nsSvg);
-                a.SetAttribute("href", area.GetAttributeValue("href", ""));
-                a.SetAttribute("target", area.GetAttributeValue("target", ""));
-                var shapeAttr = area.GetAttributeValue("shape", "");
-                XmlElement shape = null;
-                if (shapeAttr == "rect")
-                {
-                    shape = svg.CreateElement("rect", nsSvg);
-                    shape.SetAttribute("x", coordsSplit[0]);
-                    shape.SetAttribute("y", coordsSplit[1]);
-                    shape.SetAttribute("width", (int.Parse(coordsSplit[2]) - int.Parse(coordsSplit[0])).ToString());
-                    shape.SetAttribute("height", (int.Parse(coordsSplit[3]) - int.Parse(coordsSplit[1])).ToString());
-                }
-                if (shapeAttr == "circle")
-                {
-                    shape = svg.CreateElement("circle", nsSvg);
-                    shape.SetAttribute("cx", coordsSplit[0]);
-                    shape.SetAttribute("cy", coordsSplit[1]);
-                    shape.SetAttribute("r", coordsSplit[2]);
-                }
-                if (shapeAttr == "poly")
-                {
-                    shape = svg.CreateElement("polygon", nsSvg);
-                    var points = "";
-                    for(var i = 0; i < coordsSplit.Length / 2; i++)
+                    var a = svg.CreateElement("a", nsSvg);
+                    a.SetAttribute("href", area.GetAttributeValue("href", ""));
+                    a.SetAttribute("target", area.GetAttributeValue("target", ""));
+                    var shapeAttr = area.GetAttributeValue("shape", "");
+                    XmlElement shape = null;
+                    if (shapeAttr == "rect")
                     {
-                        points += $"{coordsSplit[i*2]},{coordsSplit[i*2+1]} ";
+                        shape = svg.CreateElement("rect", nsSvg);
+                        shape.SetAttribute("x", coordsSplit[0]);
+                        shape.SetAttribute("y", coordsSplit[1]);
+                        shape.SetAttribute("width", (int.Parse(coordsSplit[2]) - int.Parse(coordsSplit[0])).ToString());
+                        shape.SetAttribute("height", (int.Parse(coordsSplit[3]) - int.Parse(coordsSplit[1])).ToString());
                     }
-                    points = points.Trim();
-                    shape.SetAttribute("points", points);
+                    if (shapeAttr == "circle")
+                    {
+                        shape = svg.CreateElement("circle", nsSvg);
+                        shape.SetAttribute("cx", coordsSplit[0]);
+                        shape.SetAttribute("cy", coordsSplit[1]);
+                        shape.SetAttribute("r", coordsSplit[2]);
+                    }
+                    if (shapeAttr == "poly")
+                    {
+                        shape = svg.CreateElement("polygon", nsSvg);
+                        var points = "";
+                        for (var i = 0; i < coordsSplit.Length / 2; i++)
+                        {
+                            points += $"{coordsSplit[i * 2]},{coordsSplit[i * 2 + 1]} ";
+                        }
+                        points = points.Trim();
+                        shape.SetAttribute("points", points);
+                    }
+                    var title = svg.CreateElement("title", nsSvg);
+                    title.InnerText = area.GetAttributeValue("alt", "").Replace("&apos;", "'");
+                    shape.AppendChild(title);
+                    a.AppendChild(shape);
+                    svgElt.AppendChild(a);
                 }
-                var title = svg.CreateElement("title", nsSvg);
-                title.InnerText = area.GetAttributeValue("alt", "").Replace("&apos;","'");
-                shape.AppendChild(title);
-                a.AppendChild(shape);
-                svgElt.AppendChild(a);
             }
             svg.Save($"{basename}.svg");
         }

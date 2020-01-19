@@ -1,4 +1,4 @@
-<img src="osgild.png" width="2099" height="1485" border="0" usemap="#map" />
+<img src="norven.png" width="958" height="629" border="0" usemap="#map" />
 
 <map name="map">
 <!-- #$-:Image map file created by GIMP Image Map plug-in -->
@@ -6,5 +6,4 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR: -->
-<area shape="rect" coords="72,641,252,676" alt="Coeur-du-bois" target="details" href="coeurdubois.html" />
 </map>
