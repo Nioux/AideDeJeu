@@ -403,13 +403,13 @@ namespace AideDeJeuCmd
         static string nsSvg = "http://www.w3.org/2000/svg";
         static async Task ConvertMapsAsync()
         {
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\hauterive");
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\portsable");
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\vercelise");
-            //await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\xelys");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\hauterive");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\portsable");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\vercelise");
+            await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\xelys");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\alarian");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\gramlin");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Alarian\norven");
@@ -427,6 +427,7 @@ namespace AideDeJeuCmd
             document.Load($"{basename}.map");
             var svg = new XmlDocument();
             var svgElt = svg.CreateElement("svg", nsSvg);
+            svgElt.SetAttribute("id", "map");
             svgElt.SetAttribute("style", "fill: transparent");
             svg.AppendChild(svgElt);
 
@@ -485,6 +486,11 @@ namespace AideDeJeuCmd
                 }
             }
             svg.Save($"{basename}.svg");
+            var html = File.ReadAllText($"{basename}.base.html");
+            html = new Regex("(<object id=\"map\" .*?/>)").Replace(html, svg.OuterXml);
+            
+            //html = html.Replace("<svg>", svg.ToString());
+            File.WriteAllText($"{basename}.html", html, Encoding.UTF8);
         }
 
         static async Task ExtractYamlAsync()

@@ -1,0 +1,13 @@
+<img src="fourche.jpg" width="2048" height="1536" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR: -->
+<area shape="rect" coords="28,100,240,134" alt="Virylène" target="details" href="virylene.html" />
+<area shape="rect" coords="1172,0,1402,29" alt="Hauterive" target="details" href="hauterive.html" />
+<area shape="rect" coords="1876,1429,2036,1462" alt="Wyks" target="details" href="wyks.html" />
+<area shape="rect" coords="333,1476,548,1510" alt="Ferrance" target="details" href="ferrance.html" />
+</map>

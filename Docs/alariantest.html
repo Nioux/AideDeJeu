@@ -13,9 +13,10 @@
 	}
 	-->
 	</style>
+	<script type="text/javascript" src="scripts.js"></script>
 	<script type="text/javascript">
 	<!--
-	function init() {
+	function init2() {
 		var slider = document.getElementById("myRange");
 		var output = document.getElementById("myImage");
 		var mySvg = document.getElementById("mySvg");
@@ -44,7 +45,7 @@
 
 	<!--<img id="myImage" src="alarian.png" alt="Alarian" />-->
 	
-	<svg id="mySvg" class="transparent" style="position: absolute; top: 0; left: 0" viewBox="0 0 2500 3250" xmlns="http://www.w3.org/2000/svg">
+	<svg id="map" class="transparent" viewBox="0 0 2500 3250" xmlns="http://www.w3.org/2000/svg">
 
 		<image id="myImage" href="alarian.png" alt="Alarian" />
 		<!-- Norven -->
@@ -1042,7 +1043,7 @@
 	</svg>
 
 	<div style="position: fixed; top: 0; left: 0">
-		<input type="range" min="30" max="250" value="100" class="slider" id="myRange" />
+		<input type="range" min="30" max="250" value="100" class="slider" id="range" />
 		<br />
 		<input id="checkPoints" type="checkbox" onclick="togglePoints()" />
 		<label for="checkPoints">Points</label>

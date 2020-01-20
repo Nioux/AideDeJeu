@@ -6,6 +6,6 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR: -->
-<area shape="rect" coords="889,0,1123,28" alt="Hauterive" target="_parent" href="hauterive.html" />
-<area shape="rect" coords="783,1484,994,1518" alt="Virylène" target="_parent" href="virylene.html" />
+<area shape="rect" coords="889,0,1123,28" alt="Hauterive" target="details" href="hauterive.html" />
+<area shape="rect" coords="783,1484,994,1518" alt="Virylène" target="details" href="virylene.html" />
 </map>

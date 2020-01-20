@@ -6,7 +6,7 @@
 <!-- #$-:Please do not edit lines starting with "#$" -->
 <!-- #$VERSION:2.3 -->
 <!-- #$AUTHOR: -->
-<area shape="rect" coords="834,4,1059,36" alt="Forterive" target="_parent" href="forterive.html" />
-<area shape="rect" coords="1084,7,1291,33" alt="Bois de Baram" target="_parent" href="boisdebaram.html" />
-<area shape="rect" coords="168,1486,412,1526" alt="Kaerimbor" target="_parent" href="kaerimbor.html" />
+<area shape="rect" coords="834,4,1059,36" alt="Forterive" target="details" href="forterive.html" />
+<area shape="rect" coords="1084,7,1291,33" alt="Bois de Baram" target="details" href="boisdebaram.html" />
+<area shape="rect" coords="168,1486,412,1526" alt="Kaerimbor" target="details" href="kaerimbor.html" />
 </map>

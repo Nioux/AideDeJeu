@@ -1,26 +1,26 @@
-<svg style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
+<svg id="map" style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
   <image href="ferrance.jpg" />
-  <a href="oceanpelurique.html" target="_parent">
+  <a href="oceanpelurique.html" target="details">
     <rect x="1" y="103" width="192" height="40">
       <title>Océan Pelurique</title>
     </rect>
   </a>
-  <a href="oceanpelurique.html" target="_parent">
+  <a href="oceanpelurique.html" target="details">
     <rect x="1" y="1363" width="206" height="172">
       <title>Océan Pelurique</title>
     </rect>
   </a>
-  <a href="portsable.html" target="_parent">
+  <a href="portsable.html" target="details">
     <rect x="1348" y="1480" width="251" height="40">
       <title>Port-Sable</title>
     </rect>
   </a>
-  <a href="fourche.html" target="_parent">
+  <a href="fourche.html" target="details">
     <rect x="1666" y="17" width="211" height="40">
       <title>Fourche</title>
     </rect>
   </a>
-  <a href="valastir.html" target="_parent">
+  <a href="valastir.html" target="details">
     <rect x="1836" y="382" width="208" height="35">
       <title>Valastir</title>
     </rect>

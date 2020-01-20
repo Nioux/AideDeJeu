@@ -1,0 +1,12 @@
+<img src="portsable.jpg" width="2048" height="1536" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR: -->
+<area shape="rect" coords="29,162,275,278" alt="Océan Pelurique" target="details" href="oceanpelurique.html" />
+<area shape="rect" coords="1521,1,1738,29" alt="Ferrance" target="details" href="ferrance.html" />
+<area shape="rect" coords="838,1500,1170,1534" alt="Désert de Tanith" target="details" href="desertdetanith.html" />
+</map>

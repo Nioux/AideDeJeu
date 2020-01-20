@@ -1,0 +1,14 @@
+<img src="ferrance.jpg" width="2048" height="1536" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:fr19960 -->
+<area shape="rect" coords="1,103,193,143" alt="Océan Pelurique" href="oceanpelurique.html" target="details" />
+<area shape="rect" coords="1,1363,207,1535" alt="Océan Pelurique" href="oceanpelurique.html" target="details" />
+<area shape="rect" coords="1348,1480,1599,1520" alt="Port-Sable" href="portsable.html" target="details" />
+<area shape="rect" coords="1666,17,1877,57" alt="Fourche" href="fourche.html" target="details" />
+<area shape="rect" coords="1836,382,2044,417" alt="Valastir" href="valastir.html" target="details" />
+</map>

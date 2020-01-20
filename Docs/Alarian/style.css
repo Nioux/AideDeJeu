@@ -5,7 +5,12 @@ pre {
 }
 body {
 	font-family: 'Noto Serif', serif;
+	margin: 0; 
+	padding: 0;
 }
 h1 {
 	font-family: 'UnifrakturCook', cursive;
+}
+#range {
+	position: fixed; top: 0; left: 0; z-index: 2; visibility: hidden;
 }
