@@ -1,8 +1,10 @@
 <svg id="map" style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
   <image href="hauterive.jpg" />
-  <a href="vercelise.html" target="details">
-    <rect x="1144" y="1500" width="224" height="33">
-      <title>Vercélise</title>
-    </rect>
-  </a>
+  <g class="region">
+    <a href="vercelise.html" target="details">
+      <rect x="1144" y="1500" width="224" height="33">
+        <title>Vercélise</title>
+      </rect>
+    </a>
+  </g>
 </svg>

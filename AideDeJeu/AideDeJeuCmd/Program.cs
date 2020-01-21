@@ -447,9 +447,21 @@ namespace AideDeJeuCmd
                     var coords = area.GetAttributeValue("coords", "");
                     var coordsSplit = coords.Split(",");
 
+                    var href = area.GetAttributeValue("href", "");
+                    var target = area.GetAttributeValue("target", "");
+                    var nsManager = new XmlNamespaceManager(svg.NameTable);
+                    nsManager.AddNamespace("svg", nsSvg);
+                    var g = svg.SelectSingleNode($"//svg:g[svg:a/@href='{href}']", nsManager);
+                    if(g == null)
+                    {
+                        var newg = svg.CreateElement("g", nsSvg);
+                        newg.SetAttribute("class", "region");
+                        g = newg;
+                        svgElt.AppendChild(g);
+                    }
                     var a = svg.CreateElement("a", nsSvg);
-                    a.SetAttribute("href", area.GetAttributeValue("href", ""));
-                    a.SetAttribute("target", area.GetAttributeValue("target", ""));
+                    a.SetAttribute("href", href);
+                    a.SetAttribute("target", target);
                     var shapeAttr = area.GetAttributeValue("shape", "");
                     XmlElement shape = null;
                     if (shapeAttr == "rect")
@@ -482,7 +494,8 @@ namespace AideDeJeuCmd
                     title.InnerText = area.GetAttributeValue("alt", "").Replace("&apos;", "'");
                     shape.AppendChild(title);
                     a.AppendChild(shape);
-                    svgElt.AppendChild(a);
+                    g.AppendChild(a);
+                    //svgElt.AppendChild(a);
                 }
             }
             svg.Save($"{basename}.svg");

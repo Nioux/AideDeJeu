@@ -14,3 +14,7 @@ h1 {
 #range {
 	position: fixed; top: 0; left: 0; z-index: 2; visibility: hidden;
 }
+.region:hover {
+	fill: #ffffff;
+	opacity: .5;
+}

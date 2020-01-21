@@ -1,23 +1,31 @@
 <svg id="map" style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
   <image href="fourche.jpg" />
-  <a href="virylene.html" target="details">
-    <rect x="28" y="100" width="212" height="34">
-      <title>Virylène</title>
-    </rect>
-  </a>
-  <a href="hauterive.html" target="details">
-    <rect x="1172" y="0" width="230" height="29">
-      <title>Hauterive</title>
-    </rect>
-  </a>
-  <a href="wyks.html" target="details">
-    <rect x="1876" y="1429" width="160" height="33">
-      <title>Wyks</title>
-    </rect>
-  </a>
-  <a href="ferrance.html" target="details">
-    <rect x="333" y="1476" width="215" height="34">
-      <title>Ferrance</title>
-    </rect>
-  </a>
+  <g class="region">
+    <a href="virylene.html" target="details">
+      <rect x="28" y="100" width="212" height="34">
+        <title>Virylène</title>
+      </rect>
+    </a>
+  </g>
+  <g class="region">
+    <a href="hauterive.html" target="details">
+      <rect x="1172" y="0" width="230" height="29">
+        <title>Hauterive</title>
+      </rect>
+    </a>
+  </g>
+  <g class="region">
+    <a href="wyks.html" target="details">
+      <rect x="1876" y="1429" width="160" height="33">
+        <title>Wyks</title>
+      </rect>
+    </a>
+  </g>
+  <g class="region">
+    <a href="ferrance.html" target="details">
+      <rect x="333" y="1476" width="215" height="34">
+        <title>Ferrance</title>
+      </rect>
+    </a>
+  </g>
 </svg>

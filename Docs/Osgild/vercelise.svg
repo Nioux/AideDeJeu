@@ -1,13 +1,17 @@
 <svg id="map" style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
   <image href="vercelise.jpg" />
-  <a href="hauterive.html" target="details">
-    <rect x="889" y="0" width="234" height="28">
-      <title>Hauterive</title>
-    </rect>
-  </a>
-  <a href="virylene.html" target="details">
-    <rect x="783" y="1484" width="211" height="34">
-      <title>Virylène</title>
-    </rect>
-  </a>
+  <g class="region">
+    <a href="hauterive.html" target="details">
+      <rect x="889" y="0" width="234" height="28">
+        <title>Hauterive</title>
+      </rect>
+    </a>
+  </g>
+  <g class="region">
+    <a href="virylene.html" target="details">
+      <rect x="783" y="1484" width="211" height="34">
+        <title>Virylène</title>
+      </rect>
+    </a>
+  </g>
 </svg>

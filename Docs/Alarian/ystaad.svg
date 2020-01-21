@@ -1,23 +1,27 @@
 <svg id="map" style="fill: transparent" viewBox="0 0 1047 564" xmlns="http://www.w3.org/2000/svg">
   <image href="ystaad.png" />
-  <a href="talbethhav.html" target="details">
-    <circle cx="472" cy="436" r="15">
-      <title>Talbeth-Hav</title>
-    </circle>
-  </a>
-  <a href="talbethhav.html" target="details">
-    <rect x="294" y="433" width="160" height="24">
-      <title>Talbeth-Hav</title>
-    </rect>
-  </a>
-  <a href="yagotalb.html" target="details">
-    <circle cx="465" cy="466" r="13">
-      <title>Yago-talb</title>
-    </circle>
-  </a>
-  <a href="yagotalb.html" target="details">
-    <rect x="358" y="474" width="101" height="28">
-      <title>Yago-talb</title>
-    </rect>
-  </a>
+  <g class="region">
+    <a href="talbethhav.html" target="details">
+      <circle cx="472" cy="436" r="15">
+        <title>Talbeth-Hav</title>
+      </circle>
+    </a>
+    <a href="talbethhav.html" target="details">
+      <rect x="294" y="433" width="160" height="24">
+        <title>Talbeth-Hav</title>
+      </rect>
+    </a>
+  </g>
+  <g class="region">
+    <a href="yagotalb.html" target="details">
+      <circle cx="465" cy="466" r="13">
+        <title>Yago-talb</title>
+      </circle>
+    </a>
+    <a href="yagotalb.html" target="details">
+      <rect x="358" y="474" width="101" height="28">
+        <title>Yago-talb</title>
+      </rect>
+    </a>
+  </g>
 </svg>
