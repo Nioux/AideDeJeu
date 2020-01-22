@@ -403,7 +403,7 @@ namespace AideDeJeuCmd
         static string nsSvg = "http://www.w3.org/2000/svg";
         static string nsXlink = "http://www.w3.org/1999/xlink";
         static async Task ConvertMapsAsync()
-        {
+        { 
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\ferrance");
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\fourche");
