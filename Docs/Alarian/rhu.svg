@@ -1,3 +1,3 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 950 892" xmlns="http://www.w3.org/2000/svg">
-  <image href="rhu.png" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 950 892" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="rhu.png" width="950px" height="892px" />
 </svg>

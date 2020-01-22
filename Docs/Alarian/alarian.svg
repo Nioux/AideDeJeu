@@ -1,5 +1,5 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 1082 1529" xmlns="http://www.w3.org/2000/svg">
-  <image href="alarian.png" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1082 1529" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="alarian.png" width="1082px" height="1529px" />
   <g class="region">
     <a href="norven.html" target="details">
       <polygon points="234,394 324,424 409,402 428,386 513,383 582,354 622,307 673,279 740,241 732,104 125,110 94,152 154,220 219,248 254,337 244,364 229,377">

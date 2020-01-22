@@ -1,5 +1,5 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
-  <image href="portsable.jpg" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="portsable.jpg" width="2048px" height="1536px" />
   <g class="region">
     <a href="oceanpelurique.html" target="details">
       <rect x="29" y="162" width="246" height="116">

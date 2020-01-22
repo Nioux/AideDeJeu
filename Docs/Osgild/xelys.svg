@@ -1,5 +1,5 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
-  <image href="xelys.jpg" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 1536" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="xelys.jpg" width="2048px" height="1536px" />
   <g class="region">
     <a href="forterive.html" target="details">
       <rect x="834" y="4" width="225" height="32">

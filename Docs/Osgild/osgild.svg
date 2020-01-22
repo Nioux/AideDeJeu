@@ -1,5 +1,5 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 2099 1485" xmlns="http://www.w3.org/2000/svg">
-  <image href="osgild.png" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2099 1485" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="osgild.png" width="2099px" height="1485px" />
   <g class="region">
     <a href="hauterive.html" target="details">
       <circle cx="144" cy="466" r="12">

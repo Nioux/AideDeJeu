@@ -1,3 +1,3 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 958 618" xmlns="http://www.w3.org/2000/svg">
-  <image href="smitin.png" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 958 618" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="smitin.png" width="958px" height="618px" />
 </svg>

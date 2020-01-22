@@ -1,5 +1,5 @@
-<svg id="map" style="fill: transparent" viewBox="0 0 1047 564" xmlns="http://www.w3.org/2000/svg">
-  <image href="ystaad.png" />
+<svg id="map" style="fill: transparent" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1047 564" xmlns="http://www.w3.org/2000/svg">
+  <image xlink:href="ystaad.png" width="1047px" height="564px" />
   <g class="region">
     <a href="talbethhav.html" target="details">
       <circle cx="472" cy="436" r="15">

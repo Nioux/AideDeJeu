@@ -401,6 +401,7 @@ namespace AideDeJeuCmd
         }
 
         static string nsSvg = "http://www.w3.org/2000/svg";
+        static string nsXlink = "http://www.w3.org/1999/xlink";
         static async Task ConvertMapsAsync()
         {
             await ConvertMapAsync(@"..\..\..\..\..\Docs\Osgild\osgild");
@@ -429,13 +430,16 @@ namespace AideDeJeuCmd
             var svgElt = svg.CreateElement("svg", nsSvg);
             svgElt.SetAttribute("id", "map");
             svgElt.SetAttribute("style", "fill: transparent");
+            svgElt.SetAttribute("xmlns:xlink", nsXlink);
             svg.AppendChild(svgElt);
 
             var img = document.DocumentNode.SelectSingleNode("img");
             var image = svg.CreateElement("image", nsSvg);
-            image.SetAttribute("href", img.GetAttributeValue("src", ""));
+            image.SetAttribute("href", nsXlink, img.GetAttributeValue("src", ""));
             var width = img.GetAttributeValue("width","");
             var height = img.GetAttributeValue("height", "");
+            image.SetAttribute("width", $"{width}px");
+            image.SetAttribute("height", $"{height}px");
             svgElt.SetAttribute("viewBox", $"0 0 {width} {height}");
             svgElt.AppendChild(image);
 
