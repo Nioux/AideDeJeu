@@ -1,3 +1,18 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/Nioux/test
+[submodule "Osgild"]
+	path = Osgild
+	url = https://github.com/Nioux/Osgild
+[submodule "Alarian"]
+	path = Alarian
+	url = https://github.com/Nioux/Alarian
+[submodule "HD"]
+	path = HD
+	url = https://github.com/Nioux/HD
+[submodule "JoA"]
+	path = JoA
+	url = https://github.com/Nioux/JoA
+[submodule "CO"]
+	path = CO
+	url = https://github.com/Nioux/CO
