@@ -1,6 +1,3 @@
-[submodule "test"]
-	path = test
-	url = https://github.com/Nioux/test
 [submodule "Osgild"]
 	path = Osgild
 	url = https://github.com/Nioux/Osgild
