@@ -69,7 +69,7 @@ namespace AideDeJeuCmd
 
         static async Task CreateIndexes()
         {
-            string dataDir = @"..\..\..\..\..\Data\";
+            string dataDir = @"..\..\..\..\..\HD\";
 
             var result = string.Empty;
             var md = await LoadStringAsync(dataDir + "spells_hd.md");
@@ -210,7 +210,7 @@ namespace AideDeJeuCmd
 
         static async Task ReorderSpellsAsync()
         {
-            string dataDir = @"..\..\..\..\..\Data\";
+            string dataDir = @"..\..\..\..\..\HD\";
             var mdVF = await LoadStringAsync(dataDir + "spells_hd.md");
             var mdVO = await LoadStringAsync(dataDir + "spells_vo.md");
             var md = mdVO;
@@ -297,7 +297,7 @@ namespace AideDeJeuCmd
         }
 
 
-        static string inDir = @"..\..\..\..\..\Data\";
+        static string inDir = @"..\..\..\..\..\HD\";
 
         public static async Task PreloadAllItemsFromFilesAsync(StoreViewModel store)
         {
@@ -348,7 +348,7 @@ namespace AideDeJeuCmd
             }
             return dico;
         }
-        static string outDir = @"..\..\..\..\..\Data\HD\";
+        static string outDir = @"..\..\..\..\..\HD\HD\";
 
         static async Task Main(string[] args)
         {
@@ -512,8 +512,8 @@ namespace AideDeJeuCmd
 
         static async Task ExtractYamlAsync()
         {
-            var tomeOfBeasts = await LoadStringAsync(@"..\..\..\..\..\Data\tome_of_beasts.md");
-            var monstersHD = await LoadStringAsync(@"..\..\..\..\..\Data\monsters_hd.md");
+            var tomeOfBeasts = await LoadStringAsync(@"..\..\..\..\..\HD\tome_of_beasts.md");
+            var monstersHD = await LoadStringAsync(@"..\..\..\..\..\HD\monsters_hd.md");
             var deserializer = new YamlDotNet.Serialization.Deserializer();
             var terrainLines = new Dictionary<string, string>();
             using (var reader = new StreamReader(@"..\..\..\..\..\Ignore\Index Bestiaires H&D.yaml"))
@@ -570,12 +570,12 @@ namespace AideDeJeuCmd
 
                 }
             }
-            await SaveStringAsync(@"..\..\..\..\..\Data\tome_of_beasts_bis.md", tomeOfBeasts);
+            await SaveStringAsync(@"..\..\..\..\..\HD\tome_of_beasts_bis.md", tomeOfBeasts);
         }
 
         static async Task ExtractHtmlAsync()
         {
-            using (var output = new StreamWriter(@"..\..\..\..\..\Data\tome_of_beasts.md", false, Encoding.UTF8))
+            using (var output = new StreamWriter(@"..\..\..\..\..\HD\tome_of_beasts.md", false, Encoding.UTF8))
             {
                 var parser = new HtmlParser();
                 for (int i = 10; i <= 428; i++)

@@ -148,9 +148,9 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <EmbeddedResource Include="..\..\Data\index.md" Link="Data\index.md" />
-  </ItemGroup>
+  </ItemGroup>-->
 
   <ItemGroup>
     <None Include="Views\Library\MainTabbedPage.xaml.cs">
