@@ -34,11 +34,52 @@
     <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
     <MandroidI18n>West</MandroidI18n>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug_JoA|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug_JoA</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+    <AndroidSupportedAbis />
+    <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <MandroidI18n>West</MandroidI18n>
+  </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>false</DebugSymbols>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidManagedSymbols>true</AndroidManagedSymbols>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <AndroidSupportedAbis>armeabi-v7a;arm64-v8a</AndroidSupportedAbis>
+    <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
+    <AndroidExplicitCrunch>true</AndroidExplicitCrunch>
+    <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
+    <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <BundleAssemblies>false</BundleAssemblies>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+    <AndroidEnableProfiledAot>true</AndroidEnableProfiledAot>
+    <AndroidCreatePackagePerAbi>true</AndroidCreatePackagePerAbi>
+    <AndroidDexTool>d8</AndroidDexTool>
+    <AndroidLinkTool>r8</AndroidLinkTool>
+    <MandroidI18n>West</MandroidI18n>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release_JoA|AnyCPU'">
+    <DebugSymbols>false</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release_JoA</OutputPath>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
@@ -139,9 +180,31 @@
     <AndroidAsset Include="Assets\LinLibertine_aZL.ttf" />
     <AndroidAsset Include="Assets\LinLibertine_DR.ttf" />
     <AndroidAsset Include="Assets\LinLibertine_I.ttf" />
-    <AndroidAsset Include="..\..\Data\library.db">
-      <Link>Assets\library.db</Link>
-    </AndroidAsset>
+  </ItemGroup>
+	<Choose>
+		<When Condition="'$(Configuration)' == 'Debug_JoA'">
+		  <ItemGroup>
+			<EmbeddedResource Include="..\..\Data\library_JoA.db">
+			  <Link>library.db</Link>
+			</EmbeddedResource>
+		  </ItemGroup>
+		</When>
+		<When Condition="'$(Configuration)' == 'Release_JoA'">
+		  <ItemGroup>
+			<EmbeddedResource Include="..\..\Data\library_JoA.db">
+			  <Link>library.db</Link>
+			</EmbeddedResource>
+		  </ItemGroup>
+		</When>
+		<Otherwise>
+		  <ItemGroup>
+			<EmbeddedResource Include="..\..\Data\library.db">
+			  <Link>library.db</Link>
+			</EmbeddedResource>
+		  </ItemGroup>
+		</Otherwise>
+	</Choose>
+  <ItemGroup>
     <AndroidAsset Include="..\..\Data\library.ver">
       <Link>Assets\library.ver</Link>
     </AndroidAsset>

@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <ReleaseVersion>1.32</ReleaseVersion>
+    <Configurations>Debug;Release;Debug_JoA;Release_JoA</Configurations>
   </PropertyGroup>
 
   <ItemGroup>
