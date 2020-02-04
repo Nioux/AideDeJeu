@@ -14,7 +14,11 @@ namespace AideDeJeu.Droid
 {
     [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
     //[Activity(Label = "Aide de Jeu", Icon = "@drawable/black_book", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+#if CONFIG_JOA
+    [Activity(Name = "com.nioux.aidedejeu.joa.MainActivity", Label = "Arc & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+#else
     [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Haches & Dés", Icon = "@drawable/battle_axe", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+#endif
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)
@@ -32,7 +36,7 @@ namespace AideDeJeu.Droid
 
             Xamarin.Essentials.Platform.Init(this, bundle);
             Xamarin.Forms.Forms.SetFlags("CollectionView_Experimental");
-            Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
+            //Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
             Rg.Plugins.Popup.Popup.Init(this, bundle);
 
@@ -205,7 +209,11 @@ namespace AideDeJeu.Droid
 
     [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
     //[Activity(Label = "Aide de Jeu", Icon = "@drawable/black_book", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
-    [Activity(Name = "com.nioux.aidedejeu.SearchActivity", Label = "Aide de Jeu")]
+#if CONFIG_JOA
+    [Activity(Name = "com.nioux.aidedejeu.joa.SearchActivity", Label = "Arc et dés")]
+#else
+    [Activity(Name = "com.nioux.aidedejeu.SearchActivity", Label = "Haches et dés")]
+#endif
     public class SearchActivity : Android.App.Activity // global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)

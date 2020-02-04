@@ -51,10 +51,12 @@ call convertone.bat cancel cancel
 
 call convertone.bat scroll_unfurled scroll-unfurled
 
-:nouveau
-
 call convertone.bat speaker speaker
 
 call convertone.bat speaker_off speaker-off
+
+:nouveau
+
+call convertone.bat high_shot high-shot
 
 pause

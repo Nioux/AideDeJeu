@@ -20,7 +20,7 @@
         <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
             <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
                 <ContentView Padding="20,20,20,20" VerticalOptions="FillAndExpand">
-                  <Image VerticalOptions="Center" HeightRequest="64" Source="battle_axe.png" />
+                  <Image VerticalOptions="Center" HeightRequest="64" Source="main.png" />
                 </ContentView>
             </StackLayout>
         </StackLayout>

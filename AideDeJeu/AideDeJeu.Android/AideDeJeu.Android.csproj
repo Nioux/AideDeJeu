@@ -12,12 +12,12 @@
     <AndroidApplication>True</AndroidApplication>
     <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
     <AndroidResgenClass>Resource</AndroidResgenClass>
-    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <ReleaseVersion>1.38</ReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -33,13 +33,16 @@
     <BundleAssemblies>false</BundleAssemblies>
     <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
     <MandroidI18n>West</MandroidI18n>
+	<MainLogo>battle_axe</MainLogo>
+	<LibraryName>library</LibraryName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug_JoA|AnyCPU'">
+    <AndroidManifest>Properties\AndroidManifest.JoA.xml</AndroidManifest>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug_JoA</OutputPath>
-    <DefineConstants>DEBUG;</DefineConstants>
+    <DefineConstants>DEBUG;CONFIG_JOA;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AndroidLinkMode>SdkOnly</AndroidLinkMode>
@@ -50,8 +53,11 @@
     <BundleAssemblies>false</BundleAssemblies>
     <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
     <MandroidI18n>West</MandroidI18n>
+	<MainLogo>high_shot</MainLogo>
+	<LibraryName>library_JoA</LibraryName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <DebugSymbols>false</DebugSymbols>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
@@ -74,12 +80,16 @@
     <AndroidDexTool>d8</AndroidDexTool>
     <AndroidLinkTool>r8</AndroidLinkTool>
     <MandroidI18n>West</MandroidI18n>
+	<MainLogo>battle_axe</MainLogo>
+	<LibraryName>library</LibraryName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release_JoA|AnyCPU'">
+    <AndroidManifest>Properties\AndroidManifest.JoA.xml</AndroidManifest>
     <DebugSymbols>false</DebugSymbols>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release_JoA</OutputPath>
+    <DefineConstants>CONFIG_JOA;</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
@@ -98,6 +108,8 @@
     <AndroidDexTool>d8</AndroidDexTool>
     <AndroidLinkTool>r8</AndroidLinkTool>
     <MandroidI18n>West</MandroidI18n>
+	<MainLogo>high_shot</MainLogo>
+	<LibraryName>library_JoA</LibraryName>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
@@ -181,30 +193,15 @@
     <AndroidAsset Include="Assets\LinLibertine_DR.ttf" />
     <AndroidAsset Include="Assets\LinLibertine_I.ttf" />
   </ItemGroup>
-	<Choose>
-		<When Condition="'$(Configuration)' == 'Debug_JoA'">
-		  <ItemGroup>
-			<EmbeddedResource Include="..\..\Data\library_JoA.db">
-			  <Link>library.db</Link>
-			</EmbeddedResource>
-		  </ItemGroup>
-		</When>
-		<When Condition="'$(Configuration)' == 'Release_JoA'">
-		  <ItemGroup>
-			<EmbeddedResource Include="..\..\Data\library_JoA.db">
-			  <Link>library.db</Link>
-			</EmbeddedResource>
-		  </ItemGroup>
-		</When>
-		<Otherwise>
-		  <ItemGroup>
-			<EmbeddedResource Include="..\..\Data\library.db">
-			  <Link>library.db</Link>
-			</EmbeddedResource>
-		  </ItemGroup>
-		</Otherwise>
-	</Choose>
   <ItemGroup>
+	<AndroidAsset Include="..\..\Data\$(LibraryName).db">
+	  <Link>Assets\library.db</Link>
+	</AndroidAsset>
+  </ItemGroup>
+  <ItemGroup>
+	<AndroidResource Include="..\..\Data\Icons\Resources\drawable\$(MainLogo).png">
+	  <Link>Resources\drawable\main.png</Link>
+	</AndroidResource>
     <AndroidAsset Include="..\..\Data\library.ver">
       <Link>Assets\library.ver</Link>
     </AndroidAsset>
@@ -228,13 +225,8 @@
     <AndroidResource Include="Resources\font\cinzeldecorative_regular.otf" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\icon.png" />
-    <AndroidResource Include="Resources\drawable-hdpi\icon.png" />
-    <AndroidResource Include="Resources\drawable-xhdpi\icon.png" />
-    <AndroidResource Include="Resources\drawable-xxhdpi\icon.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Properties\AndroidManifest.JoA.xml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Tabbar.axml" />
@@ -250,25 +242,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\ic_home.png" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\drawable\splash.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-hdpi\ic_launcher.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-mdpi\ic_launcher.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xhdpi\ic_launcher.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxhdpi\ic_launcher.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable-xxxhdpi\ic_launcher.png" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\crystal_ball.png" />
@@ -561,6 +535,18 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable-xxhdpi\speaker_off.png" />
   </ItemGroup>
+  <!--<ItemGroup>
+    <AndroidResource Include="Resources\drawable\high_shot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-hdpi\high_shot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xhdpi\high_shot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable-xxhdpi\high_shot.png" />
+  </ItemGroup>--> 
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\battle_axe_.xml" />
   </ItemGroup>
@@ -575,6 +561,10 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\xml\searchable.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\drawable-mdpi\" />
+    <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

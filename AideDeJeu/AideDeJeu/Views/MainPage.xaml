@@ -93,7 +93,7 @@
                 <Frame>
                     <Grid>
                         <Label Text="Personnages" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="battle_axe.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand, Mode=OneTime}" />
+                        <ImageButton Source="main.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand, Mode=OneTime}" />
                     </Grid>
                 </Frame>
                 <Frame>
