@@ -8513,23 +8513,11 @@ namespace AideDeJeu.Droid
 		public partial class Font
 		{
 			
-			// aapt resource value: 0x7F080003
-			public const int cinzeldecorative_black = 2131230723;
-			
-			// aapt resource value: 0x7F080004
-			public const int cinzeldecorative_bold = 2131230724;
-			
-			// aapt resource value: 0x7F080005
-			public const int cinzeldecorative_regular = 2131230725;
-			
 			// aapt resource value: 0x7F080000
-			public const int cinzel_black = 2131230720;
+			public const int cinzel_bold = 2131230720;
 			
 			// aapt resource value: 0x7F080001
-			public const int cinzel_bold = 2131230721;
-			
-			// aapt resource value: 0x7F080002
-			public const int cinzel_regular = 2131230722;
+			public const int cinzel_regular = 2131230721;
 			
 			static Font()
 			{
