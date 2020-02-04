@@ -4,7 +4,7 @@
              xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
              x:Class="AideDeJeu.Views.MainPage"
              Visual="Material"
-             Title="Haches &amp; Dés"
+             Title="{Binding AppName}"
              x:DataType="vm:BaseViewModel">
     <ContentPage.BindingContext>
         <vm:BaseViewModel />

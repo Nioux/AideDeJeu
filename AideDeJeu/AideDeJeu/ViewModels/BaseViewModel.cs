@@ -4,13 +4,28 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
-
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
+        public string Version
+        {
+            get
+            {
+                return AppInfo.VersionString; // DependencyService.Get<INativeAPI>().GetVersion();
+            }
+        }
+        public string AppName
+        {
+            get
+            {
+                return AppInfo.Name; // DependencyService.Get<INativeAPI>().GetVersion();
+            }
+        }
+
         public MainViewModel Main
         {
             get

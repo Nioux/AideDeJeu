@@ -3,7 +3,7 @@ using System;
 using System.Reflection;
 using System.Threading.Tasks;
 using System.Windows.Input;
-
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace AideDeJeu.ViewModels
@@ -13,13 +13,6 @@ namespace AideDeJeu.ViewModels
         public AboutViewModel()
         {
             Title = "À propos de ...";
-        }
-
-        public string Version {
-            get
-            {
-                return DependencyService.Get<INativeAPI>().GetVersion();
-            }
         }
 
         public string OGL

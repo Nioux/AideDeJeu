@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.GTK;
 
@@ -21,7 +22,7 @@ namespace AideDeJeu.GTK
             var window = new FormsWindow();
             window.LoadApplication(app);
             window.SetApplicationIcon("main.png");
-            window.SetApplicationTitle("Haches & Dés");
+            window.SetApplicationTitle(AppInfo.Name); // "Haches & Dés");
             window.Show();
 
             Gtk.Application.Run();
