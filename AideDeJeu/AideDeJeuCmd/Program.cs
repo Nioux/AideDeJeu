@@ -1111,7 +1111,7 @@ namespace AideDeJeuCmd
                     {
                         Console.WriteLine(filename);
                     }
-                    await SaveStringAsync(filename, yaml);
+                    //await SaveStringAsync(filename, yaml);
 
                     var filtervm = item.GetNewFilterViewModel();
                     if (filtervm != null)
