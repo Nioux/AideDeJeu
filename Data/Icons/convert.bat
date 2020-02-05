@@ -55,8 +55,10 @@ call convertone.bat speaker speaker
 
 call convertone.bat speaker_off speaker-off
 
+call convertone.bat high_shot high-shot
+
 :nouveau
 
-call convertone.bat high_shot high-shot
+call convertone.bat tied_scroll tied-scroll
 
 pause

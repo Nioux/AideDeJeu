@@ -5,7 +5,7 @@
   </item>
   <item>
     <bitmap
-      android:src="@drawable/battle_axe"
+      android:src="@drawable/main"
       android:tileMode="disabled"
       android:gravity="center" 
     />
