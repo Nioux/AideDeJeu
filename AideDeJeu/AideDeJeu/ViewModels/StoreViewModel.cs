@@ -679,6 +679,7 @@ namespace AideDeJeu.ViewModels
             public DbSet<FeatureItem> Features { get; set; }
             public DbSet<BackgroundSpecialtyItem> BackgroundSpecialties { get; set; }
 
+            public DbSet<OriginItem> Origins { get; set; }
 
             public DbSet<AlignmentItem> Alignments { get; set; }
 
@@ -738,6 +739,9 @@ namespace AideDeJeu.ViewModels
                 modelBuilder.Entity<ClassHitPointsItem>();
                 modelBuilder.Entity<ClassProficienciesItem>();
                 modelBuilder.Entity<SkillItem>();
+                modelBuilder.Entity<OriginItem>();
+                modelBuilder.Entity<OriginItems>();
+                modelBuilder.Entity<OriginFeatureItem>();
 
                 modelBuilder.Entity<Items>().HasIndex(i => new { i.Id, i.Name, i.AltNameText, i.NormalizedName, i.NormalizedAltName });
                 modelBuilder.Entity<Item>().HasIndex(i => new { i.Id, i.Name, i.AltNameText, i.NormalizedName, i.NormalizedAltName });

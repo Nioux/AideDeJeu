@@ -262,6 +262,9 @@ namespace AideDeJeuLib
             { "ClassFeatureItem", typeof(ClassFeatureItem) },
             { "ClassHitPointsItem", typeof(ClassHitPointsItem) },
             { "ClassProficienciesItem", typeof(ClassProficienciesItem) },
+            { "OriginItem", typeof(OriginItem) },
+            { "OriginItems", typeof(OriginItems) },
+            { "OriginFeatureItem", typeof(OriginFeatureItem) },
 
             { "Items", typeof(Items) },
             { "Item", typeof(Item) },
