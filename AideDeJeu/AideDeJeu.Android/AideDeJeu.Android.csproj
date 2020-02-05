@@ -74,7 +74,7 @@
     <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
     <MandroidI18n>West</MandroidI18n>
 	<MainLogo>tied_scroll</MainLogo>
-	<LibraryName>library_JoA</LibraryName>
+	<LibraryName>library_CO</LibraryName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
@@ -157,7 +157,7 @@
     <AndroidLinkTool>r8</AndroidLinkTool>
     <MandroidI18n>West</MandroidI18n>
 	<MainLogo>tied_scroll</MainLogo>
-	<LibraryName>library_JoA</LibraryName>
+	<LibraryName>library_CO</LibraryName>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Mono.Android" />
