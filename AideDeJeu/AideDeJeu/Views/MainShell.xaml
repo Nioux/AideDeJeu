@@ -137,18 +137,8 @@
         <!--</StackLayout>-->
     </Shell.FlyoutHeader>
 
-    <ShellContent Title="Accueil" Route="home" ContentTemplate="{DataTemplate local:MainPage}" />
+    <ShellContent Title="Accueil" Route="home" Icon="main.png" ContentTemplate="{DataTemplate local:MainPage}" />
     <!--<ShellContent Title="Personnages" Route="pceditor" Icon="battle_axe.png" ContentTemplate="{DataTemplate pc:PlayerCharacterEditorPage}" />-->
-    <FlyoutItem Title="Personnages" Route="pceditor" Icon="main.png">
-        <Tab Title="Personnages">
-            <ShellContent Title="Race" ContentTemplate="{DataTemplate pc:RacePage}" />
-            <ShellContent Title="Historique" ContentTemplate="{DataTemplate pc:BackgroundPage}" />
-            <ShellContent Title="Classe" ContentTemplate="{DataTemplate pc:ClassPage}" />
-            <ShellContent Title="Caractéristiques" ContentTemplate="{DataTemplate pc:AbilitiesPage}" />
-            <ShellContent Title="Finalisation" ContentTemplate="{DataTemplate pc:FinalizePage}" />
-        </Tab>
-    </FlyoutItem>
-    <ShellContent Title="Dés" Icon="d20.png" Route="dices" ContentTemplate="{DataTemplate local:DicesPage}" />
     <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent Title="Bibliothèque" Route="library" Icon="spell_book.png">
             <ShellContent.ContentTemplate>
@@ -164,6 +154,16 @@
         <ShellContent Title="Favoris" Route="bookmarks" ContentTemplate="{DataTemplate library:BookmarksPage}" Icon="stars_stack.png" />
         <ShellContent Title="Recherche" Route="deepsearch" ContentTemplate="{DataTemplate library:DeepSearchPage}"  Icon="crystal_ball.png" />
     </FlyoutItem>
+    <FlyoutItem Title="Personnages" Route="pceditor" Icon="swordman.png">
+        <Tab Title="Personnages">
+            <ShellContent Title="Race" ContentTemplate="{DataTemplate pc:RacePage}" />
+            <ShellContent Title="Historique" ContentTemplate="{DataTemplate pc:BackgroundPage}" />
+            <ShellContent Title="Classe" ContentTemplate="{DataTemplate pc:ClassPage}" />
+            <ShellContent Title="Caractéristiques" ContentTemplate="{DataTemplate pc:AbilitiesPage}" />
+            <ShellContent Title="Finalisation" ContentTemplate="{DataTemplate pc:FinalizePage}" />
+        </Tab>
+    </FlyoutItem>
+    <ShellContent Title="Dés" Icon="d20.png" Route="dices" ContentTemplate="{DataTemplate local:DicesPage}" />
     <ShellContent Title="A propos de..." Route="about" Icon="wooden_sign.png" ContentTemplate="{DataTemplate local:AboutPage}" />
     <!--<ShellItem Title="Accueil" FlyoutDisplayOptions="AsSingleItem">
         <ShellContent Title="Accueil" ContentTemplate="{DataTemplate local:MainPage}" />

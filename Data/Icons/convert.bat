@@ -57,8 +57,16 @@ call convertone.bat speaker_off speaker-off
 
 call convertone.bat high_shot high-shot
 
+call convertone.bat tied_scroll tied-scroll
+
+call convertmain.bat high_shot_big high-shot
+
+call convertmain.bat battle_axe_big battle-axe
+
+call convertmain.bat tied_scroll_big tied-scroll
+
 :nouveau
 
-call convertone.bat tied_scroll tied-scroll
+call convertone.bat swordman swordman
 
 pause

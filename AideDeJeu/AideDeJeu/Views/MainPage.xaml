@@ -68,9 +68,11 @@
         </Style>
     </ContentPage.Resources>
     <ContentPage.Content>
-        <ScrollView>
-            <FlexLayout>
-                <!--<ActivityIndicator 
+        <Grid>
+            <Image Source="main_big.png" Opacity="0.5" />
+            <ScrollView BackgroundColor="Transparent">
+                <FlexLayout>
+                    <!--<ActivityIndicator 
                             VerticalOptions="StartAndExpand"
                             HorizontalOptions="End"
                             Color="{StaticResource HDRed}"
@@ -88,45 +90,46 @@
                         </OnPlatform>
                     </ActivityIndicator.HeightRequest>
                 </ActivityIndicator>-->
-                <!--<Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />-->
-                <!--<Label Text="{Binding Main.Navigator.TestNotify}" TextColor="Transparent" />-->
-                <Frame>
-                    <Grid>
-                        <Label Text="Personnages" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="main.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand, Mode=OneTime}" />
-                    </Grid>
-                </Frame>
-                <Frame>
-                    <Grid>
-                        <Label Text="Dés" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="d20.png" Command="{Binding Main.Navigator.DicesCommand, Mode=OneTime}" />
-                    </Grid>
-                </Frame>
-                <Frame>
-                    <Grid>
-                        <Label Text="Bibliothèque" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand, Mode=OneTime}" />
-                    </Grid>
-                </Frame>
-                <Frame>
-                    <Grid>
-                        <Label Text="Favoris" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand, Mode=OneTime}" />
-                    </Grid>
-                </Frame>
-                <Frame>
-                    <Grid>
-                        <Label Text="Recherche" FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand, Mode=OneTime}" />
-                    </Grid>
-                </Frame>
-                <Frame>
-                    <Grid>
-                        <Label Text="A propos de..." FontFamily="{StaticResource LinuxLibertineCapitals}" />
-                        <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand, Mode=OneTime}" />
-                    </Grid>
-                </Frame>
-            </FlexLayout>
-        </ScrollView>
+                    <!--<Label Text="{Binding Main.DebugCount.Result, StringFormat='Count : {0}'}" TextColor="Transparent" />-->
+                    <!--<Label Text="{Binding Main.Navigator.TestNotify}" TextColor="Transparent" />-->
+                    <Frame>
+                        <Grid>
+                            <Label Text="Bibliothèque" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                            <ImageButton Source="spell_book.png" Command="{Binding Main.Navigator.LibraryCommand, Mode=OneTime}" />
+                        </Grid>
+                    </Frame>
+                    <Frame>
+                        <Grid>
+                            <Label Text="Favoris" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                            <ImageButton Source="stars_stack.png" Command="{Binding Main.Navigator.BookmarksCommand, Mode=OneTime}" />
+                        </Grid>
+                    </Frame>
+                    <Frame>
+                        <Grid>
+                            <Label Text="Recherche" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                            <ImageButton Source="crystal_ball.png" Command="{Binding Main.Navigator.DeepSearchCommand, Mode=OneTime}" />
+                        </Grid>
+                    </Frame>
+                    <Frame>
+                        <Grid>
+                            <Label Text="Personnages" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                            <ImageButton Source="swordman.png" Command="{Binding Main.Navigator.PlayerCharacterEditorCommand, Mode=OneTime}" />
+                        </Grid>
+                    </Frame>
+                    <Frame>
+                        <Grid>
+                            <Label Text="Dés" FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                            <ImageButton Source="d20.png" Command="{Binding Main.Navigator.DicesCommand, Mode=OneTime}" />
+                        </Grid>
+                    </Frame>
+                    <Frame>
+                        <Grid>
+                            <Label Text="A propos de..." FontFamily="{StaticResource LinuxLibertineCapitals}" />
+                            <ImageButton Source="wooden_sign.png" Command="{Binding Main.Navigator.AboutCommand, Mode=OneTime}" />
+                        </Grid>
+                    </Frame>
+                </FlexLayout>
+            </ScrollView>
+        </Grid>
     </ContentPage.Content>
 </ContentPage>
