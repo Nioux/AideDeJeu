@@ -19,7 +19,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  flutter_markdown: ^0.3.3
+  sqflite:
+  path:
+  flutter_svg:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
@@ -41,7 +44,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+  assets:
+    - assets/
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
 
@@ -70,3 +74,19 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+  fonts:
+    - family: Cinzel
+      fonts:
+        - asset: assets/Cinzel-Bold.otf
+          weight: 700
+        - asset: assets/Cinzel-Regular.otf
+    - family: LinuxLibertine
+      fonts:
+        - asset: assets/LinLibertine_R.ttf
+        - asset: assets/LinLibertine_RB.ttf
+          weight: 700
+        - asset: assets/LinLibertine_RBI.ttf
+          style: italic
+          weight: 700
+        - asset: assets/LinLibertine_RI.ttf
+          style: italic
