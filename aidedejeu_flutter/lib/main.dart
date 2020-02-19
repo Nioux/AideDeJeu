@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
@@ -8,23 +9,6 @@ import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
 void main() => runApp(MyApp());
-
-class Item {
-  String Id;
-  String Markdown;
-
-  Item({this.Id, this.Markdown});
-
-  factory Item.fromMap(Map<String, dynamic> json) => new Item(
-    Id: json["Id"],
-    Markdown: json["Markdown"],
-  );
-
-  Map<String, dynamic> toMap() => {
-    "Id": Id,
-    "Markdown": Markdown,
-  };
-}
 
 Database _database;
 
@@ -48,7 +32,7 @@ Future<Database> getDatabaseInstance() async {
 
     ByteData data = await rootBundle.load(join("assets", "library.db"));
     List<int> bytes =
-    data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
+        data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
 
     await File(path).writeAsBytes(bytes, flush: true);
   } else {
@@ -66,7 +50,25 @@ Future<Item> getItemWithId(String id) async {
   if (response.isEmpty) {
     print("Id not found");
   }
-  return response.isNotEmpty ? Item.fromMap(response.first) : null;
+  return response.isNotEmpty ? itemFromMap(response.first) : null;
+}
+
+Future<Item> loadChildrenItems(Item item) async {
+  print("getChildrenItems " + item.Discriminator);
+  if (item.Discriminator.endsWith("Items")) {
+    String discriminator =
+        item.Discriminator.substring(0, item.Discriminator.length - 1);
+    final db = await database;
+    var response = await db
+        .query("Items", where: "Discriminator = ?", whereArgs: [discriminator]);
+    if (response.isEmpty) {
+      print("Id not found");
+    }
+    item.Children = response.isNotEmpty
+        ? itemsFromMapList(response)
+        : null;
+  }
+  return item;
 }
 
 class MyApp extends StatelessWidget {
@@ -96,15 +98,18 @@ class _MyHomePageState extends State<MyHomePage> {
 
   final String id;
 
-  void setMarkdown(String md) {
+  void setItem(Item item) {
     setState(() {
-      markdown = md.replaceAllMapped(RegExp(r'<!--.*?-->'), (match) {
+      this.item = item;
+      this.markdown =
+          item.Markdown.replaceAllMapped(RegExp(r'<!--.*?-->'), (match) {
         return '';
       });
     });
   }
 
   String markdown = "";
+  Item item = null;
   MarkdownStyleSheet styleSheet;
 
   @override
@@ -125,31 +130,85 @@ class _MyHomePageState extends State<MyHomePage> {
 
     //styleSheet = MarkdownStyleSheet.fromTheme(theme);
     styleSheet = MarkdownStyleSheet(
+      //p: TextStyle(fontSize: 14.0, fontFamily: 'LinuxLibertine'),
+
         tableColumnWidth: IntrinsicColumnWidth(),
         tableCellsPadding: EdgeInsets.all(0.2));
 
     getItemWithId(this.id)
-        .then((item) => setMarkdown(item.Markdown))
+        .then((item) => loadChildrenItems(item).then((items) => setItem(item)))
         .catchError((error) => print(error));
   }
 
-  final Widget svg = SvgPicture.asset("assets/crystal-ball.svg",
+  final Widget svg = SvgPicture.asset(
+    "assets/crystal-ball.svg",
     height: 20.0,
     width: 20.0,
     allowDrawingOutsideViewBox: true,
   );
+
+  Widget buildMarkdown(BuildContext context) {
+    return Markdown(
+      data: markdown,
+      styleSheet: styleSheet,
+      onTapLink: (link) => Navigator.push(
+        context,
+        MaterialPageRoute(
+            builder: (context) => MyHomePage(id: link)
+        ),
+      ),
+    );
+  }
+  Widget buildMarkdownBody(BuildContext context) {
+    return MarkdownBody(
+      data: markdown,
+      styleSheet: styleSheet,
+      onTapLink: (link) => Navigator.push(
+        context,
+        MaterialPageRoute(
+            builder: (context) => MyHomePage(id: link)
+        ),
+      ),
+    );
+  }
+  Widget buildChildTile(BuildContext context, Item item) {
+    return ListTile(
+      title: Text(item.Name),
+      onTap: () => Navigator.push(
+        context,
+        MaterialPageRoute(
+            builder: (context) => MyHomePage(id: item.Id)
+        ),
+      ),
+    );
+  }
   @override
   Widget build(BuildContext context) {
-
+    int count = 0;
+    if (item != null && item.Children != null) {
+      count = item.Children.length;
+    }
+    final List<int> _listData = List<int>.generate(count + 1, (i) => i);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.id),
       ),
-      body: Markdown(
-          data: markdown,
-          styleSheet: styleSheet,
-          onTapLink: (link) => Navigator.push(context,
-              MaterialPageRoute(builder: (context) => MyHomePage(id: link)))),
+      body: //Container(
+        //child: Column(
+        Stack(
+          children: <Widget>[
+            //Text(markdown)
+            item?.Children != null ?
+            ListView.builder(
+              itemCount: item.Children.length + 1,
+                itemBuilder: (BuildContext context, int index) {
+                return index == 0 ?
+                buildMarkdownBody(context)
+                : buildChildTile(context, item.Children[index - 1]);
+            }) : buildMarkdown(context), //: Text(item.Children[i-1].Name);}).toList()
+          ],
+        ),
+      //),
       bottomNavigationBar: BottomNavigationBar(
         items: const <BottomNavigationBarItem>[
           BottomNavigationBarItem(

@@ -264,3 +264,4 @@ __pycache__/
 /AideDeJeu/AideDeJeu.Android/zipalign.bat
 /Ignore
 /AideDeJeu/AideDeJeuWeb/Properties/PublishProfiles/AideDeJeuWeb - Web Deploy.pubxml
+*.lock
