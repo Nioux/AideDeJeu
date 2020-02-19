@@ -128,16 +128,20 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
 
-    //styleSheet = MarkdownStyleSheet.fromTheme(theme);
-    styleSheet = MarkdownStyleSheet(
-      //p: TextStyle(fontSize: 14.0, fontFamily: 'LinuxLibertine'),
-
+    styleSheet = MarkdownStyleSheet.fromTheme(theme).copyWith(
         tableColumnWidth: IntrinsicColumnWidth(),
         tableCellsPadding: EdgeInsets.all(0.2));
 
-    getItemWithId(this.id)
+    /*getItemWithId(this.id)
         .then((item) => loadChildrenItems(item).then((items) => setItem(item)))
-        .catchError((error) => print(error));
+        .catchError((error) => print(error));*/
+    loadItem();
+  }
+
+  loadItem() async {
+    var item = await getItemWithId(this.id);
+    var items = await loadChildrenItems(item);
+    setItem(item);
   }
 
   final Widget svg = SvgPicture.asset(
