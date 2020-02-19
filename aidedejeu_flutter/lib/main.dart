@@ -135,13 +135,14 @@ class _MyHomePageState extends State<MyHomePage> {
     /*getItemWithId(this.id)
         .then((item) => loadChildrenItems(item).then((items) => setItem(item)))
         .catchError((error) => print(error));*/
-    loadItem();
+    loadItem().then((item) => setItem(item));
   }
 
-  loadItem() async {
+  Future<Item> loadItem() async {
     var item = await getItemWithId(this.id);
     var items = await loadChildrenItems(item);
-    setItem(item);
+    //setItem(item);
+    return item;
   }
 
   final Widget svg = SvgPicture.asset(
