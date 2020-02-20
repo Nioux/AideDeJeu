@@ -145,7 +145,21 @@ class _MyHomePageState extends State<MyHomePage> {
     return item;
   }
 
-  final Widget svg = SvgPicture.asset(
+  final Widget svgLibrary = SvgPicture.asset(
+    "assets/spell-book.svg",
+    height: 20.0,
+    width: 20.0,
+    allowDrawingOutsideViewBox: true,
+  );
+
+  final Widget svgBookmarks = SvgPicture.asset(
+    "assets/stars-stack.svg",
+    height: 20.0,
+    width: 20.0,
+    allowDrawingOutsideViewBox: true,
+  );
+
+  final Widget svgSearch = SvgPicture.asset(
     "assets/crystal-ball.svg",
     height: 20.0,
     width: 20.0,
@@ -215,19 +229,19 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       //),
       bottomNavigationBar: BottomNavigationBar(
-        items: const <BottomNavigationBarItem>[
+        items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: Icon(Icons.home),
-            title: Text('Home'),
+            icon: svgLibrary, // Icon(Icons.home),
+            title: Text('Bibliothèque'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.business),
-            title: Text('Business'),
+            icon: svgBookmarks, // Icon(Icons.business),
+            title: Text('Favoris'),
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.business),
-            //icon: svg,
-            title: Text('School'),
+            //icon: Icon(Icons.business),
+            icon: svgSearch,
+            title: Text('Recherche'),
             //activeIcon: Icon(Icons.category, color: Color(0xFFEF5123)),
           ),
         ],
