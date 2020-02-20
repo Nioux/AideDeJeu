@@ -145,27 +145,6 @@ class _MyHomePageState extends State<MyHomePage> {
     return item;
   }
 
-  final Widget svgLibrary = SvgPicture.asset(
-    "assets/spell-book.svg",
-    height: 20.0,
-    width: 20.0,
-    allowDrawingOutsideViewBox: true,
-  );
-
-  final Widget svgBookmarks = SvgPicture.asset(
-    "assets/stars-stack.svg",
-    height: 20.0,
-    width: 20.0,
-    allowDrawingOutsideViewBox: true,
-  );
-
-  final Widget svgSearch = SvgPicture.asset(
-    "assets/crystal-ball.svg",
-    height: 20.0,
-    width: 20.0,
-    allowDrawingOutsideViewBox: true,
-  );
-
   Widget buildMarkdown(BuildContext context) {
     return Markdown(
       data: markdown,
@@ -231,16 +210,31 @@ class _MyHomePageState extends State<MyHomePage> {
       bottomNavigationBar: BottomNavigationBar(
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
-            icon: svgLibrary, // Icon(Icons.home),
+            icon: SvgPicture.asset(
+              "assets/spell-book.svg",
+              height: 40.0,
+              width: 40.0,
+              allowDrawingOutsideViewBox: true,
+            ), // Icon(Icons.home),
             title: Text('Bibliothèque'),
           ),
           BottomNavigationBarItem(
-            icon: svgBookmarks, // Icon(Icons.business),
+            icon: SvgPicture.asset(
+              "assets/stars-stack.svg",
+              height: 40.0,
+              width: 40.0,
+              allowDrawingOutsideViewBox: true,
+            ), // Icon(Icons.business),
             title: Text('Favoris'),
           ),
           BottomNavigationBarItem(
             //icon: Icon(Icons.business),
-            icon: svgSearch,
+            icon: SvgPicture.asset(
+              "assets/crystal-ball.svg",
+              height: 40.0,
+              width: 40.0,
+              allowDrawingOutsideViewBox: true,
+            ),
             title: Text('Recherche'),
             //activeIcon: Icon(Icons.category, color: Color(0xFFEF5123)),
           ),
