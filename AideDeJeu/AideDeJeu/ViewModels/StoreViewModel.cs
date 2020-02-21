@@ -710,6 +710,9 @@ namespace AideDeJeu.ViewModels
 
                 modelBuilder.Entity<AlignmentItem>();
                 modelBuilder.Entity<GenericItem>();
+                // voir https://docs.microsoft.com/fr-fr/ef/core/modeling/inheritance
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Family).HasColumnName("Family");
+                modelBuilder.Entity<MonsterItems>().Property(i => i.Family).HasColumnName("Family");
                 modelBuilder.Entity<MonsterItem>().HasIndex(i => new { i.Id, i.Family, i.Type, i.Size, i.Terrain, i.Challenge, i.XP, i.Name, i.AltNameText, i.NormalizedName, i.NormalizedAltName });
                 modelBuilder.Entity<MonsterItems>();
                 modelBuilder.Entity<SpellItem>();
