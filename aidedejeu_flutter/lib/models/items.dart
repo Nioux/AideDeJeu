@@ -12,10 +12,10 @@ class Item {
   String Source;
   String Markdown;
   String FullText;
-  String Discriminator;
+  String ItemType;
   List<Item> Children;
 
-  Item({this.Id, this.Name, this.Alias, this.Markdown, this.Discriminator});
+  Item({this.Id, this.Name, this.Alias, this.Markdown, this.ItemType});
 
   Item.fromMap(Map<String, dynamic> map) {
     this.Id = map["Id"];
@@ -23,7 +23,7 @@ class Item {
     this.Alias = map["AltName"];
     this.AliasText = map["AltNameText"];
     this.Markdown = map["Markdown"];
-    this.Discriminator = map["Discriminator"];
+    this.ItemType = map["ItemType"];
   }
 
   /*factory Item.fromMap(Map<String, dynamic> json) => new Item(
@@ -41,7 +41,7 @@ class Item {
     "AltName": Alias,
     "AltNameText": AliasText,
     "Markdown": Markdown,
-    "Discriminator": Discriminator,
+    "ItemType": ItemType,
   };
 }
 
@@ -132,7 +132,7 @@ class MonsterItems extends Item {
 
   MonsterItems.fromMap(Map<String, dynamic> map)
       : super.fromMap(map) {
-    this.Family = map["MonsterItems_Family"];
+    this.Family = map["Family"];
     this.Type = map["Type"];
     this.Size = map["Size"];
     this.Alignment = map["Alignment"];
@@ -162,7 +162,7 @@ class MonsterItems extends Item {
 }
 
 Item itemFromMap(Map<String, dynamic> map) {
-  switch(map["Discriminator"]) {
+  switch(map["ItemType"]) {
     case "MonsterItem": return MonsterItem.fromMap(map);
     case "MonsterItems": return MonsterItems.fromMap(map);
   }

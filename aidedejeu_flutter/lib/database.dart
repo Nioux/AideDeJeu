@@ -49,18 +49,18 @@ Future<Item> getItemWithId(String id) async {
 }
 
 Future<Item> loadChildrenItems(Item item) async {
-  print("getChildrenItems " + item.Discriminator);
-  if (item.Discriminator.endsWith("Items")) {
-    String discriminator =
-    item.Discriminator.substring(0, item.Discriminator.length - 1);
+  print("getChildrenItems " + item.ItemType);
+  if (item.ItemType.endsWith("Items")) {
+    String itemType =
+    item.ItemType.substring(0, item.ItemType.length - 1);
     String family = "";
     if (item is MonsterItems) {
       family = (item as MonsterItems)?.Family ?? "";
     }
     final db = await database;
     var response = await db
-        .query("Items", where: "Discriminator = ? AND MonsterItem_Family = ?",
-        whereArgs: [discriminator, family],
+        .query("Items", where: "ItemType = ? AND Family = ?",
+        whereArgs: [itemType, family],
         orderBy: "NormalizedName");
     if (response.isEmpty) {
       print("Id not found");
