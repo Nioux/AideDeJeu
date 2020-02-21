@@ -58,9 +58,9 @@ class _MyHomePageState extends State<MyHomePage> {
       accentColor: Colors.cyan[600],
       fontFamily: 'LinuxLibertine',
       textTheme: TextTheme(
-        headline: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold),
-        title: TextStyle(fontSize: 18.0, fontStyle: FontStyle.italic),
-        body1: TextStyle(fontSize: 14.0, fontFamily: 'Hind'),
+        headline: TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
+        title: TextStyle(fontSize: 22.0, fontStyle: FontStyle.italic),
+        body1: TextStyle(fontSize: 16.0, fontFamily: 'Hind'),
       ),
     );
 
