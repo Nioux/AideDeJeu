@@ -1,75 +1,11 @@
-import 'dart:io';
-
+import 'package:aidedejeu_flutter/database.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:path/path.dart';
-import 'package:sqflite/sqflite.dart';
 
 void main() => runApp(MyApp());
-
-Database _database;
-
-Future<Database> get database async {
-  if (_database != null) return _database;
-  _database = await getDatabaseInstance();
-  return _database;
-}
-
-Future<Database> getDatabaseInstance() async {
-  var databasesPath = await getDatabasesPath();
-  var path = join(databasesPath, "library.db");
-
-  var exists = await databaseExists(path);
-  if (!exists) {
-    print("Creating new copy from asset");
-
-    try {
-      await Directory(dirname(path)).create(recursive: true);
-    } catch (_) {}
-
-    ByteData data = await rootBundle.load(join("assets", "library.db"));
-    List<int> bytes =
-        data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
-
-    await File(path).writeAsBytes(bytes, flush: true);
-  } else {
-    print("Opening existing database");
-  }
-
-  return await openDatabase(path, readOnly: true);
-}
-
-Future<Item> getItemWithId(String id) async {
-  print("getItemWithId " + id);
-  final db = await database;
-  var response = await db
-      .query("Items", where: "Id = ? OR RootId = ?", whereArgs: [id, id]);
-  if (response.isEmpty) {
-    print("Id not found");
-  }
-  return response.isNotEmpty ? itemFromMap(response.first) : null;
-}
-
-Future<Item> loadChildrenItems(Item item) async {
-  print("getChildrenItems " + item.Discriminator);
-  if (item.Discriminator.endsWith("Items")) {
-    String discriminator =
-        item.Discriminator.substring(0, item.Discriminator.length - 1);
-    final db = await database;
-    var response = await db
-        .query("Items", where: "Discriminator = ?", whereArgs: [discriminator]);
-    if (response.isEmpty) {
-      print("Id not found");
-    }
-    item.Children = response.isNotEmpty
-        ? itemsFromMapList(response)
-        : null;
-  }
-  return item;
-}
 
 class MyApp extends StatelessWidget {
   @override
@@ -132,9 +68,6 @@ class _MyHomePageState extends State<MyHomePage> {
         tableColumnWidth: IntrinsicColumnWidth(),
         tableCellsPadding: EdgeInsets.all(0.2));
 
-    /*getItemWithId(this.id)
-        .then((item) => loadChildrenItems(item).then((items) => setItem(item)))
-        .catchError((error) => print(error));*/
     loadItem().then((item) => setItem(item));
   }
 
@@ -172,6 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget buildChildTile(BuildContext context, Item item) {
     return ListTile(
       title: Text(item.Name),
+      subtitle: Text(item.AliasText ?? ""),
       onTap: () => Navigator.push(
         context,
         MaterialPageRoute(
@@ -180,65 +114,86 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
+
+  Widget buildLibraryPage() {
+    return Stack(
+      children: <Widget>[
+        ListView.builder(
+          itemCount: (item?.Children?.length ?? 0) + 1,
+          itemBuilder: (BuildContext context, int index) {
+            return index == 0 ?
+            buildMarkdownBody(context)
+                : buildChildTile(context, item.Children[index - 1]);
+          })
+      ],
+    );
+  }
+
+  Widget buildBookmarksPage() {
+    return Text("Bookmarks");
+  }
+
+  Widget buildSearchPage() {
+    return Text("Search");
+  }
+
+  BottomNavigationBarItem buildBottomNavigationBarItem(String title, String assetName) {
+    return BottomNavigationBarItem(
+      icon: SvgPicture.asset(
+        assetName,
+        height: 30.0,
+        width: 30.0,
+        allowDrawingOutsideViewBox: true,
+      ),
+      title: Text(title),
+      activeIcon: SvgPicture.asset(
+        assetName,
+        height: 40.0,
+        width: 40.0,
+        allowDrawingOutsideViewBox: true,
+      ),
+    );
+  }
+
+  List buildBottomNavigationBarItems() {
+    return
+    <BottomNavigationBarItem>[
+      buildBottomNavigationBarItem("Bibliothèque", "assets/spell-book.svg"),
+      buildBottomNavigationBarItem("Favoris", "assets/stars-stack.svg"),
+      buildBottomNavigationBarItem("Recherche", "assets/crystal-ball.svg"),
+    ];
+  }
+
+  int indexPage = 0;
+
   @override
   Widget build(BuildContext context) {
-    int count = 0;
-    if (item != null && item.Children != null) {
-      count = item.Children.length;
+    Widget currentPage;
+    switch(indexPage) {
+      case 0:
+        currentPage = buildLibraryPage();
+        break;
+      case 1:
+        currentPage = buildBookmarksPage();
+        break;
+      case 2:
+        currentPage = buildSearchPage();
+        break;
     }
-    final List<int> _listData = List<int>.generate(count + 1, (i) => i);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.id),
       ),
-      body: //Container(
-        //child: Column(
-        Stack(
-          children: <Widget>[
-            //Text(markdown)
-            item?.Children != null ?
-            ListView.builder(
-              itemCount: item.Children.length + 1,
-                itemBuilder: (BuildContext context, int index) {
-                return index == 0 ?
-                buildMarkdownBody(context)
-                : buildChildTile(context, item.Children[index - 1]);
-            }) : buildMarkdown(context), //: Text(item.Children[i-1].Name);}).toList()
-          ],
-        ),
-      //),
+      body: currentPage,
       bottomNavigationBar: BottomNavigationBar(
-        items: <BottomNavigationBarItem>[
-          BottomNavigationBarItem(
-            icon: SvgPicture.asset(
-              "assets/spell-book.svg",
-              height: 40.0,
-              width: 40.0,
-              allowDrawingOutsideViewBox: true,
-            ), // Icon(Icons.home),
-            title: Text('Bibliothèque'),
-          ),
-          BottomNavigationBarItem(
-            icon: SvgPicture.asset(
-              "assets/stars-stack.svg",
-              height: 40.0,
-              width: 40.0,
-              allowDrawingOutsideViewBox: true,
-            ), // Icon(Icons.business),
-            title: Text('Favoris'),
-          ),
-          BottomNavigationBarItem(
-            //icon: Icon(Icons.business),
-            icon: SvgPicture.asset(
-              "assets/crystal-ball.svg",
-              height: 40.0,
-              width: 40.0,
-              allowDrawingOutsideViewBox: true,
-            ),
-            title: Text('Recherche'),
-            //activeIcon: Icon(Icons.category, color: Color(0xFFEF5123)),
-          ),
-        ],
+        currentIndex: indexPage,
+        onTap: (int index) {
+          setState(() {
+            this.indexPage = index;
+          }
+          );
+        },
+        items: buildBottomNavigationBarItems(),
       ),
     );
   }
