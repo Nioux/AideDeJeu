@@ -117,6 +117,9 @@ namespace AideDeJeuLib
         //    throw new NotImplementedException();
         //}
 
+        [DataMember]
+        public virtual string ItemType { get; set; }
+
         [DataMember(Name = "Item_Id", Order = 0)]
         [PrimaryKey]
         public virtual string Id { get; set; }
