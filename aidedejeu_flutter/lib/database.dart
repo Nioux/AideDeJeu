@@ -40,8 +40,11 @@ Future<Database> getDatabaseInstance() async {
 Future<Item> getItemWithId(String id) async {
   print("getItemWithId " + id);
   final db = await database;
-  var response = await db
-      .query("Items", where: "Id = ? OR RootId = ?", whereArgs: [id, id]);
+  var response = await db.query(
+      "Items",
+      where: "Id = ? OR RootId = ?",
+      whereArgs: [id, id]
+  );
   if (response.isEmpty) {
     print("Id not found");
   }
@@ -54,16 +57,18 @@ Future<Item> loadChildrenItems(Item item) async {
     String itemType =
     item.ItemType.substring(0, item.ItemType.length - 1);
     String family = "";
-    if (item is MonsterItems) {
-      family = (item as MonsterItems)?.Family ?? "";
+    if (item is FilteredItems) {
+      family = (item as FilteredItems)?.Family ?? "";
     }
     final db = await database;
-    var response = await db
-        .query("Items", where: "ItemType = ? AND Family = ?",
+    var response = await db.query(
+        "Items",
+        where: "ItemType = ? AND Family = ?",
         whereArgs: [itemType, family],
-        orderBy: "NormalizedName");
+        orderBy: "NormalizedName"
+    );
     if (response.isEmpty) {
-      print("Id not found");
+      print("Children not found");
     }
     item.Children = response.isNotEmpty
         ? itemsFromMapList(response)

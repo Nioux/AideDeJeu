@@ -749,47 +749,61 @@ namespace AideDeJeu.ViewModels
 
                 modelBuilder.Entity<MonsterItem>().Property(i => i.Family).HasColumnName("Family");
                 modelBuilder.Entity<MonsterItems>().Property(i => i.Family).HasColumnName("Family");
-                modelBuilder.Entity<ClassEvolutionItem>().Property(i => i.Table).HasColumnName("Table");
-                modelBuilder.Entity<MagicItem>().Property(i => i.Rarity).HasColumnName("Rarity");
-                modelBuilder.Entity<MagicItem>().Property(i => i.Type).HasColumnName("Type");
                 modelBuilder.Entity<MagicItems>().Property(i => i.Family).HasColumnName("Family");
-                modelBuilder.Entity<MagicItems>().Property(i => i.Types).HasColumnName("Types");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.ArmorClass).HasColumnName("ArmorClass");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.SavingThrows).HasColumnName("SavingThrows");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Skills).HasColumnName("Skills");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Speed).HasColumnName("Speed");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Strength).HasColumnName("Strength");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Type).HasColumnName("Type");
-                modelBuilder.Entity<MonsterItems>().Property(i => i.Family).HasColumnName("Family");
-                modelBuilder.Entity<MonsterItems>().Property(i => i.Types).HasColumnName("Types");
+                modelBuilder.Entity<SpellItem>().Property(i => i.Family).HasColumnName("Family");
+                modelBuilder.Entity<SpellItems>().Property(i => i.Family).HasColumnName("Family");
+                modelBuilder.Entity<EquipmentItems>().Property(i => i.Family).HasColumnName("Family");
+
+                modelBuilder.Entity<ClassEvolutionItem>().Property(i => i.Table).HasColumnName("Table");
                 modelBuilder.Entity<PersonalityDefectItem>().Property(i => i.Table).HasColumnName("Table");
                 modelBuilder.Entity<PersonalityIdealItem>().Property(i => i.Table).HasColumnName("Table");
                 modelBuilder.Entity<PersonalityLinkItem>().Property(i => i.Table).HasColumnName("Table");
                 modelBuilder.Entity<PersonalityTraitItem>().Property(i => i.Table).HasColumnName("Table");
-                modelBuilder.Entity<RaceItem>().Property(i => i.Alignment).HasColumnName("Alignment");
-                modelBuilder.Entity<RaceItem>().Property(i => i.Languages).HasColumnName("Languages");
-                modelBuilder.Entity<RaceItem>().Property(i => i.Size).HasColumnName("Size");
-                modelBuilder.Entity<RaceItem>().Property(i => i.Speed).HasColumnName("Speed");
-                modelBuilder.Entity<SpellItem>().Property(i => i.Family).HasColumnName("Family");
+                modelBuilder.Entity<BackgroundSpecialtyItem>().Property(i => i.Table).HasColumnName("Table");
+
+                modelBuilder.Entity<MagicItem>().Property(i => i.Type).HasColumnName("Type");
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Type).HasColumnName("Type");
+                modelBuilder.Entity<EquipmentItem>().Property(i => i.Type).HasColumnName("Type");
                 modelBuilder.Entity<SpellItem>().Property(i => i.Type).HasColumnName("Type");
+
+                modelBuilder.Entity<MagicItems>().Property(i => i.Types).HasColumnName("Types");
+                modelBuilder.Entity<MonsterItems>().Property(i => i.Types).HasColumnName("Types");
+                modelBuilder.Entity<EquipmentItems>().Property(i => i.Types).HasColumnName("Types");
+
+                modelBuilder.Entity<MagicItem>().Property(i => i.Rarity).HasColumnName("Rarity");
+                modelBuilder.Entity<EquipmentItem>().Property(i => i.Rarity).HasColumnName("Rarity");
+
+                modelBuilder.Entity<MonsterItem>().Property(i => i.ArmorClass).HasColumnName("ArmorClass");
+                modelBuilder.Entity<EquipmentItem>().Property(i => i.ArmorClass).HasColumnName("ArmorClass");
+
+                modelBuilder.Entity<MonsterItem>().Property(i => i.SavingThrows).HasColumnName("SavingThrows");
+                modelBuilder.Entity<ClassProficienciesItem>().Property(i => i.SavingThrows).HasColumnName("SavingThrows");
+
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Skills).HasColumnName("Skills");
+                modelBuilder.Entity<ClassProficienciesItem>().Property(i => i.Skills).HasColumnName("Skills");
+
+                modelBuilder.Entity<EquipmentItem>().Property(i => i.Speed).HasColumnName("Speed");
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Speed).HasColumnName("Speed");
+                modelBuilder.Entity<RaceItem>().Property(i => i.Speed).HasColumnName("Speed");
+
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Strength).HasColumnName("Strength");
+                modelBuilder.Entity<EquipmentItem>().Property(i => i.Strength).HasColumnName("Strength");
+
+                modelBuilder.Entity<RaceItem>().Property(i => i.Alignment).HasColumnName("Alignment");
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Alignment).HasColumnName("Alignment");
+
+                modelBuilder.Entity<RaceItem>().Property(i => i.Languages).HasColumnName("Languages");
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Languages).HasColumnName("Languages");
+
+                modelBuilder.Entity<RaceItem>().Property(i => i.Size).HasColumnName("Size");
+                modelBuilder.Entity<MonsterItem>().Property(i => i.Size).HasColumnName("Size");
+
                 modelBuilder.Entity<SpellItem>().Property(i => i.Classes).HasColumnName("Classes");
                 modelBuilder.Entity<SpellItems>().Property(i => i.Classes).HasColumnName("Classes");
-                modelBuilder.Entity<SpellItems>().Property(i => i.Family).HasColumnName("Family");
+
                 modelBuilder.Entity<SpellItems>().Property(i => i.Sources).HasColumnName("Sources");
-                modelBuilder.Entity<BackgroundSpecialtyItem>().Property(i => i.Table).HasColumnName("Table");
-                modelBuilder.Entity<ClassProficienciesItem>().Property(i => i.SavingThrows).HasColumnName("SavingThrows");
-                modelBuilder.Entity<ClassProficienciesItem>().Property(i => i.Skills).HasColumnName("Skills");
-                modelBuilder.Entity<EquipmentItem>().Property(i => i.ArmorClass).HasColumnName("ArmorClass");
-                modelBuilder.Entity<EquipmentItem>().Property(i => i.Rarity).HasColumnName("Rarity");
-                modelBuilder.Entity<EquipmentItem>().Property(i => i.Speed).HasColumnName("Speed");
-                modelBuilder.Entity<EquipmentItem>().Property(i => i.Strength).HasColumnName("Strength");
-                modelBuilder.Entity<EquipmentItem>().Property(i => i.Type).HasColumnName("Type");
-                modelBuilder.Entity<EquipmentItems>().Property(i => i.Family).HasColumnName("Family");
-                modelBuilder.Entity<EquipmentItems>().Property(i => i.Types).HasColumnName("Types");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Alignment).HasColumnName("Alignment");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Languages).HasColumnName("Languages");
-                modelBuilder.Entity<MonsterItem>().Property(i => i.Size).HasColumnName("Size");
                 modelBuilder.Entity<MonsterItems>().Property(i => i.Sources).HasColumnName("Sources");
+
                 modelBuilder.Entity<Item>().HasDiscriminator(i => i.ItemType);
             }
         }

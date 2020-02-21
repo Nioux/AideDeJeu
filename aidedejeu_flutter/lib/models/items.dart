@@ -103,8 +103,23 @@ class MonsterItem extends Item {
   }
 }
 
-class MonsterItems extends Item {
+class Items extends Item {
+
+  Items.fromMap(Map<String, dynamic> map)
+      : super.fromMap(map) {
+  }
+}
+
+class FilteredItems extends Items {
   String Family;
+
+  FilteredItems.fromMap(Map<String, dynamic> map)
+      : super.fromMap(map) {
+    this.Family = map["Family"];
+  }
+}
+
+class MonsterItems extends FilteredItems {
   String Type;
   String Size;
   String Alignment;
@@ -132,7 +147,6 @@ class MonsterItems extends Item {
 
   MonsterItems.fromMap(Map<String, dynamic> map)
       : super.fromMap(map) {
-    this.Family = map["Family"];
     this.Type = map["Type"];
     this.Size = map["Size"];
     this.Alignment = map["Alignment"];
