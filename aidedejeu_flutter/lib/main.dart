@@ -84,33 +84,29 @@ class _MyHomePageState extends State<MyHomePage> {
       styleSheet: styleSheet,
       onTapLink: (link) => Navigator.push(
         context,
-        MaterialPageRoute(
-            builder: (context) => MyHomePage(id: link)
-        ),
+        MaterialPageRoute(builder: (context) => MyHomePage(id: link)),
       ),
     );
   }
+
   Widget buildMarkdownBody(BuildContext context) {
     return MarkdownBody(
       data: markdown,
       styleSheet: styleSheet,
       onTapLink: (link) => Navigator.push(
         context,
-        MaterialPageRoute(
-            builder: (context) => MyHomePage(id: link)
-        ),
+        MaterialPageRoute(builder: (context) => MyHomePage(id: link)),
       ),
     );
   }
+
   Widget buildChildTile(BuildContext context, Item item) {
     return ListTile(
       title: Text(item.Name),
       subtitle: Text(item.AliasText ?? ""),
       onTap: () => Navigator.push(
         context,
-        MaterialPageRoute(
-            builder: (context) => MyHomePage(id: item.Id)
-        ),
+        MaterialPageRoute(builder: (context) => MyHomePage(id: item.Id)),
       ),
     );
   }
@@ -119,12 +115,12 @@ class _MyHomePageState extends State<MyHomePage> {
     return Stack(
       children: <Widget>[
         ListView.builder(
-          itemCount: (item?.Children?.length ?? 0) + 1,
-          itemBuilder: (BuildContext context, int index) {
-            return index == 0 ?
-            buildMarkdownBody(context)
-                : buildChildTile(context, item.Children[index - 1]);
-          })
+            itemCount: (item?.Children?.length ?? 0) + 1,
+            itemBuilder: (BuildContext context, int index) {
+              return index == 0
+                  ? buildMarkdownBody(context)
+                  : buildChildTile(context, item.Children[index - 1]);
+            })
       ],
     );
   }
@@ -137,7 +133,8 @@ class _MyHomePageState extends State<MyHomePage> {
     return Text("Search");
   }
 
-  BottomNavigationBarItem buildBottomNavigationBarItem(String title, String assetName) {
+  BottomNavigationBarItem buildBottomNavigationBarItem(
+      String title, String assetName) {
     return BottomNavigationBarItem(
       icon: SvgPicture.asset(
         assetName,
@@ -156,8 +153,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   List buildBottomNavigationBarItems() {
-    return
-    <BottomNavigationBarItem>[
+    return <BottomNavigationBarItem>[
       buildBottomNavigationBarItem("Bibliothèque", "assets/spell-book.svg"),
       buildBottomNavigationBarItem("Favoris", "assets/stars-stack.svg"),
       buildBottomNavigationBarItem("Recherche", "assets/crystal-ball.svg"),
@@ -169,7 +165,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     Widget currentPage;
-    switch(indexPage) {
+    switch (indexPage) {
       case 0:
         currentPage = buildLibraryPage();
         break;
@@ -180,6 +176,7 @@ class _MyHomePageState extends State<MyHomePage> {
         currentPage = buildSearchPage();
         break;
     }
+
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.id),
@@ -190,10 +187,59 @@ class _MyHomePageState extends State<MyHomePage> {
         onTap: (int index) {
           setState(() {
             this.indexPage = index;
-          }
-          );
+          });
         },
         items: buildBottomNavigationBarItems(),
+      ),
+      endDrawer: Drawer(
+        child: ListView(
+          // Important: Remove any padding from the ListView.
+          padding: EdgeInsets.zero,
+          children: <Widget>[
+            DrawerHeader(
+              child: Text('Drawer Header'),
+              decoration: BoxDecoration(
+                color: Colors.blue,
+              ),
+            ),
+            ListTile(
+              title: Text('Item 1'),
+              onTap: () {
+                // Update the state of the app.
+                // ...
+              },
+            ),
+            ListTile(
+              title: Text('Item 2'),
+              onTap: () {
+                // Update the state of the app.
+                // ...
+              },
+            ),
+            Container(
+              child: Wrap(
+                children: <Widget>[
+                  FilterChip(
+                    label: Text("truc"),
+                    backgroundColor: Colors.transparent,
+                    shape: StadiumBorder(side: BorderSide()),
+                    onSelected: (bool value) {
+                      print("selected");
+                    },
+                  ),
+                  FilterChip(
+                    label: Text("truc"),
+                    backgroundColor: Colors.transparent,
+                    shape: StadiumBorder(side: BorderSide()),
+                    onSelected: (bool value) {
+                      print("selected");
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }

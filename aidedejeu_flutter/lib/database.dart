@@ -18,6 +18,7 @@ Future<Database> getDatabaseInstance() async {
   var path = join(databasesPath, "library.db");
 
   var exists = await databaseExists(path);
+  exists = false;
   if (!exists) {
     print("Creating new copy from asset");
 
@@ -52,7 +53,7 @@ Future<Item> getItemWithId(String id) async {
 }
 
 Future<Item> loadChildrenItems(Item item) async {
-  print("getChildrenItems " + item.ItemType);
+  print("getChildrenItems " + (item?.ItemType ?? ""));
   if (item.ItemType.endsWith("Items")) {
     String itemType =
     item.ItemType.substring(0, item.ItemType.length - 1);
