@@ -11,9 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Haches & Dés',
       theme: ThemeData(
-        primarySwatch: Colors.red,
+        primarySwatch: Colors.deepOrange,
       ),
       home: MyHomePage(id: 'index.md'),
     );
@@ -178,9 +178,9 @@ class _MyHomePageState extends State<MyHomePage> {
     }
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.id),
-      ),
+      //appBar: AppBar(
+      //  title: Text(widget.id),
+      //),
       body: currentPage,
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: indexPage,
@@ -240,6 +240,23 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
           ],
         ),
+      ),
+      appBar: AppBar(
+        title: Text(widget.id),
+        actions: [
+          Builder(
+            builder: (context) => IconButton(
+              icon: SvgPicture.asset(
+                "assets/funnel.svg",
+                height: 30.0,
+                width: 30.0,
+                allowDrawingOutsideViewBox: true,
+              ), //Icon(Icons.filter),
+              onPressed: () => Scaffold.of(context).openEndDrawer(),
+              tooltip: MaterialLocalizations.of(context).openAppDrawerTooltip,
+            ),
+          ),
+        ],
       ),
     );
   }
