@@ -191,7 +191,7 @@ class _MyHomePageState extends State<MyHomePage> {
         },
         items: buildBottomNavigationBarItems(),
       ),
-      endDrawer: Drawer(
+      endDrawer: item is FilteredItems ? Drawer(
         child: ListView(
           // Important: Remove any padding from the ListView.
           padding: EdgeInsets.zero,
@@ -240,10 +240,10 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
           ],
         ),
-      ),
+      ) : null,
       appBar: AppBar(
         title: Text(widget.id),
-        actions: [
+        actions: item is FilteredItems ? [
           Builder(
             builder: (context) => IconButton(
               icon: SvgPicture.asset(
@@ -256,7 +256,7 @@ class _MyHomePageState extends State<MyHomePage> {
               tooltip: MaterialLocalizations.of(context).openAppDrawerTooltip,
             ),
           ),
-        ],
+        ] : null,
       ),
     );
   }
