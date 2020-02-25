@@ -99,7 +99,6 @@ class MonsterItem extends Item {
     this.Languages = map["Languages"];
     this.Challenge = map["Challenge"];
     this.XP = map["XP"];
-
   }
 }
 
@@ -117,62 +116,38 @@ class FilteredItems extends Items {
       : super.fromMap(map) {
     this.Family = map["Family"];
   }
+
+  Map<String, dynamic> toFilterMap() {
+
+  }
 }
 
 class MonsterItems extends FilteredItems {
-  String Type;
-  String Size;
-  String Alignment;
-  String Terrain;
-  String Legendary;
-  String ArmorClass;
-  String HitPoints;
-  String Speed;
-  String Strength;
-  String Dexterity;
-  String Constitution;
-  String Intelligence;
-  String Wisdom;
-  String Charisma;
-  String SavingThrows;
-  String Skills;
-  String DamageVulnerabilities;
-  String DamageImmunities;
-  String ConditionImmunities;
-  String DamageResistances;
-  String Senses;
-  String Languages;
-  String Challenge;
-  int XP;
+  String Types;
+  String Challenges;
+  String Sizes;
+  String Sources;
+  String Terrains;
 
   MonsterItems.fromMap(Map<String, dynamic> map)
       : super.fromMap(map) {
-    this.Type = map["Type"];
-    this.Size = map["Size"];
-    this.Alignment = map["Alignment"];
-    this.Terrain = map["Terrain"];
-    this.Legendary = map["Legendary"];
-    this.ArmorClass = map["ArmorClass"];
-    this.HitPoints = map["HitPoints"];
-    this.Speed = map["Speed"];
-    this.Strength = map["Strength"];
-    this.Dexterity = map["Dexterity"];
-    this.Constitution = map["Constitution"];
-    this.Intelligence = map["Intelligence"];
-    this.Wisdom = map["Wisdom"];
-    this.Charisma = map["Charisma"];
-    this.SavingThrows = map["SavingThrows"];
-    this.Skills = map["Skills"];
-    this.DamageVulnerabilities = map["DamageVulnerabilities"];
-    this.DamageImmunities = map["DamageImmunities"];
-    this.ConditionImmunities = map["ConditionImmunities"];
-    this.DamageResistances = map["DamageResistances"];
-    this.Senses = map["Senses"];
-    this.Languages = map["Languages"];
-    this.Challenge = map["Challenge"];
-    this.XP = map["XP"];
-
+    this.Types = map["Types"];
+    this.Challenges = map["Challenges"];
+    this.Sizes = map["Sizes"];
+    this.Sources = map["Sources"];
+    this.Terrains = map["Terrains"];
   }
+
+//  Map<String, dynamic> toMap() => {
+  //"Id": Id,
+  Map<String, dynamic> toFilterMap() => {
+    "Types": Types,
+    "Challenges": Challenges,
+    "Sizes": Sizes,
+    "Sources": Sources,
+    "Terrains": Terrains,
+  };
+
 }
 
 Item itemFromMap(Map<String, dynamic> map) {
