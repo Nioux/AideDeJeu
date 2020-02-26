@@ -195,7 +195,45 @@ class _MyHomePageState extends State<MyHomePage> {
         child: ListView(
           // Important: Remove any padding from the ListView.
           padding: EdgeInsets.zero,
-          children: <Widget>[
+          children: (item as FilteredItems).toFilterMap().entries.map(
+                  (filter) =>
+                      //ListTile(title: Text(filter.key))
+            Container(
+              child: Wrap(
+                children: filter.value.toString().split("|").map(
+                    (choice) =>
+                        FilterChip(
+                          label: Text(choice),
+                          backgroundColor: Colors.transparent,
+                          shape: StadiumBorder(side: BorderSide()),
+                          onSelected: (bool value) {
+                            print("selected");
+                          },
+                        )
+                ).toList()/* <Widget>[
+                  FilterChip(
+                    label: Text("truc"),
+                    backgroundColor: Colors.transparent,
+                    shape: StadiumBorder(side: BorderSide()),
+                    onSelected: (bool value) {
+                      print("selected");
+                    },
+                  ),
+                  FilterChip(
+                    label: Text("truc"),
+                    backgroundColor: Colors.transparent,
+                    shape: StadiumBorder(side: BorderSide()),
+                    onSelected: (bool value) {
+                      print("selected");
+                    },
+                  ),
+                ],*/
+              ),
+
+            )
+          ).toList()
+          /*<Widget>[
+
             DrawerHeader(
               child: Text('Drawer Header'),
               decoration: BoxDecoration(
@@ -238,7 +276,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ],
               ),
             ),
-          ],
+          ],*/
         ),
       ) : null,
       appBar: AppBar(
