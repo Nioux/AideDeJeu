@@ -1,4 +1,5 @@
 import 'package:aidedejeu_flutter/database.dart';
+import 'package:aidedejeu_flutter/filterWidgets.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -160,6 +161,64 @@ class _MyHomePageState extends State<MyHomePage> {
     ];
   }
 
+  List<Widget> buildFilterChipList(List<String> choices) {
+    return choices
+        .map((choice) => Padding(
+            padding: const EdgeInsets.all(4.0),
+            child: FilterChip(
+              label: Text(choice),
+              backgroundColor: Colors.transparent,
+              shape: StadiumBorder(side: BorderSide()),
+              onSelected: (bool value) {
+                print("selected");
+              },
+            )))
+        .toList();
+  }
+
+  Widget buildChoiceFilter(Filter filter) {
+    return Wrap(children: buildFilterChipList(filter.values));
+  }
+
+  Widget buildRangeFilter(Filter filter) {
+    /*return RangeSlider(
+        min: 0,
+        max: 1.0 * filter.values.length,
+        divisions: filter.values.length,
+        labels: RangeLabels(
+            'début ${filter.values.first}', 'fin ${filter.values.last}'),
+        values: RangeValues(0, 1.0 * filter.values.length),
+        onChanged: (RangeValues value) {});*/
+    return RangeFilter(filter: filter);
+  }
+
+  Widget buildFilter(Filter filter) {
+    return Column(children: <Widget>[
+      Divider(
+        color: Colors.blueGrey,
+        height: 10.0,
+      ),
+      Align(
+        alignment: Alignment.centerLeft,
+        child: Padding(
+          padding: const EdgeInsets.all(8.0),
+          child: Text(filter.name),
+        ),
+      ),
+      Container(
+          child: filter.type == FilterType.Choices
+              ? buildChoiceFilter(filter)
+              : buildRangeFilter(filter))
+    ]);
+  }
+
+  List<Widget> buildFilterList() {
+    return (item as FilteredItems)
+        .toFilterList()
+        .map((filter) => buildFilter(filter))
+        .toList();
+  }
+
   int indexPage = 0;
 
   @override
@@ -191,110 +250,33 @@ class _MyHomePageState extends State<MyHomePage> {
         },
         items: buildBottomNavigationBarItems(),
       ),
-      endDrawer: item is FilteredItems ? Drawer(
-        child: ListView(
-          // Important: Remove any padding from the ListView.
-          padding: EdgeInsets.zero,
-          children: (item as FilteredItems).toFilterMap().entries.map(
-                  (filter) =>
-                      //ListTile(title: Text(filter.key))
-            Container(
-              child: Wrap(
-                children: filter.value.toString().split("|").map(
-                    (choice) =>
-                        FilterChip(
-                          label: Text(choice),
-                          backgroundColor: Colors.transparent,
-                          shape: StadiumBorder(side: BorderSide()),
-                          onSelected: (bool value) {
-                            print("selected");
-                          },
-                        )
-                ).toList()/* <Widget>[
-                  FilterChip(
-                    label: Text("truc"),
-                    backgroundColor: Colors.transparent,
-                    shape: StadiumBorder(side: BorderSide()),
-                    onSelected: (bool value) {
-                      print("selected");
-                    },
-                  ),
-                  FilterChip(
-                    label: Text("truc"),
-                    backgroundColor: Colors.transparent,
-                    shape: StadiumBorder(side: BorderSide()),
-                    onSelected: (bool value) {
-                      print("selected");
-                    },
-                  ),
-                ],*/
-              ),
-
+      endDrawer: item is FilteredItems
+          ? Drawer(
+              child: ListView(
+                  // Important: Remove any padding from the ListView.
+                  padding: EdgeInsets.zero,
+                  children: buildFilterList()),
             )
-          ).toList()
-          /*<Widget>[
-
-            DrawerHeader(
-              child: Text('Drawer Header'),
-              decoration: BoxDecoration(
-                color: Colors.blue,
-              ),
-            ),
-            ListTile(
-              title: Text('Item 1'),
-              onTap: () {
-                // Update the state of the app.
-                // ...
-              },
-            ),
-            ListTile(
-              title: Text('Item 2'),
-              onTap: () {
-                // Update the state of the app.
-                // ...
-              },
-            ),
-            Container(
-              child: Wrap(
-                children: <Widget>[
-                  FilterChip(
-                    label: Text("truc"),
-                    backgroundColor: Colors.transparent,
-                    shape: StadiumBorder(side: BorderSide()),
-                    onSelected: (bool value) {
-                      print("selected");
-                    },
-                  ),
-                  FilterChip(
-                    label: Text("truc"),
-                    backgroundColor: Colors.transparent,
-                    shape: StadiumBorder(side: BorderSide()),
-                    onSelected: (bool value) {
-                      print("selected");
-                    },
-                  ),
-                ],
-              ),
-            ),
-          ],*/
-        ),
-      ) : null,
+          : null,
       appBar: AppBar(
         title: Text(widget.id),
-        actions: item is FilteredItems ? [
-          Builder(
-            builder: (context) => IconButton(
-              icon: SvgPicture.asset(
-                "assets/funnel.svg",
-                height: 30.0,
-                width: 30.0,
-                allowDrawingOutsideViewBox: true,
-              ), //Icon(Icons.filter),
-              onPressed: () => Scaffold.of(context).openEndDrawer(),
-              tooltip: MaterialLocalizations.of(context).openAppDrawerTooltip,
-            ),
-          ),
-        ] : null,
+        actions: item is FilteredItems
+            ? [
+                Builder(
+                  builder: (context) => IconButton(
+                    icon: SvgPicture.asset(
+                      "assets/funnel.svg",
+                      height: 30.0,
+                      width: 30.0,
+                      allowDrawingOutsideViewBox: true,
+                    ), //Icon(Icons.filter),
+                    onPressed: () => Scaffold.of(context).openEndDrawer(),
+                    tooltip:
+                        MaterialLocalizations.of(context).openAppDrawerTooltip,
+                  ),
+                ),
+              ]
+            : null,
       ),
     );
   }

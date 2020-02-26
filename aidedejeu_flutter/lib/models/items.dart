@@ -109,7 +109,7 @@ class Items extends Item {
   }
 }
 
-class FilteredItems extends Items {
+abstract class FilteredItems extends Items {
   String Family;
 
   FilteredItems.fromMap(Map<String, dynamic> map)
@@ -117,36 +117,44 @@ class FilteredItems extends Items {
     this.Family = map["Family"];
   }
 
-  Map<String, dynamic> toFilterMap() {
+  List<Filter> toFilterList();
+}
 
-  }
+enum FilterType {
+  Choices, Range
+}
+class Filter {
+  String name;
+  FilterType type;
+  List<String> values;
+  Filter({this.name, this.type, this.values});
 }
 
 class MonsterItems extends FilteredItems {
-  String Types;
-  String Challenges;
-  String Sizes;
-  String Sources;
-  String Terrains;
+  Filter types;
+  Filter challenges;
+  Filter sizes;
+  Filter sources;
+  Filter terrains;
 
   MonsterItems.fromMap(Map<String, dynamic> map)
       : super.fromMap(map) {
-    this.Types = map["Types"];
-    this.Challenges = map["Challenges"];
-    this.Sizes = map["Sizes"];
-    this.Sources = map["Sources"];
-    this.Terrains = map["Terrains"];
+    this.types = Filter(name: "Type", type: FilterType.Choices, values: map["Types"].toString().split("|"));
+    this.challenges = Filter(name: "Dangerosité", type: FilterType.Range, values: map["Challenges"].toString().split("|"));
+    this.sizes = Filter(name: "Taille", type: FilterType.Range, values: map["Sizes"].toString().split("|"));;
+    this.sources = Filter(name: "Source", type: FilterType.Choices, values: map["Sources"].toString().split("|"));
+    this.terrains = Filter(name: "Terrain", type: FilterType.Choices, values: map["Terrains"].toString().split("|"));
   }
 
 //  Map<String, dynamic> toMap() => {
   //"Id": Id,
-  Map<String, dynamic> toFilterMap() => {
-    "Types": Types,
-    "Challenges": Challenges,
-    "Sizes": Sizes,
-    "Sources": Sources,
-    "Terrains": Terrains,
-  };
+  List<Filter> toFilterList() => {
+    types,
+    challenges,
+    sizes,
+    sources,
+    terrains,
+  }.toList();
 
 }
 
