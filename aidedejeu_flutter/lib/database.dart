@@ -52,7 +52,7 @@ Future<Item> getItemWithId(String id) async {
   return response.isNotEmpty ? itemFromMap(response.first) : null;
 }
 
-Future<Item> loadChildrenItems(Item item) async {
+Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
   print("getChildrenItems " + (item?.ItemType ?? ""));
   if (item.ItemType.endsWith("Items")) {
     String itemType =
@@ -61,10 +61,19 @@ Future<Item> loadChildrenItems(Item item) async {
     if (item is FilteredItems) {
       family = (item as FilteredItems)?.Family ?? "";
     }
+    String whereFilter = "";
+    if(filters != null) {
+      filters.forEach((filter) {
+        if(filter.selectedValues.isNotEmpty) {
+          whereFilter = " AND (${filter.name} = '" + filter.selectedValues.join("' OR ${filter.name} = '") + "')";
+        }
+      });
+    }
+    print(whereFilter);
     final db = await database;
     var response = await db.query(
         "Items",
-        where: "ItemType = ? AND Family = ?",
+        where: "ItemType = ? AND Family = ?" + whereFilter,
         whereArgs: [itemType, family],
         orderBy: "NormalizedName"
     );

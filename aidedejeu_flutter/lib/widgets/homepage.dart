@@ -1,5 +1,5 @@
 import 'package:aidedejeu_flutter/database.dart';
-import 'package:aidedejeu_flutter/widgets/filterWidgets.dart';
+import 'package:aidedejeu_flutter/widgets/filters.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   Future<Item> _loadItem() async {
     var item = await getItemWithId(this.widget.id);
-    var items = await loadChildrenItems(item);
+    var items = await loadChildrenItems(item, filters);
     //setItem(item);
     return item;
   }
@@ -156,6 +156,12 @@ class _MyHomePageState extends State<MyHomePage> {
         setState(() {
           filter.selectedValues = choices;
         });
+        loadChildrenItems(item, filters).then((value) => {
+              setState(() {
+                this.item = item;
+                this.filters = filters;
+              })
+            });
       },
     );
   }
@@ -199,6 +205,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
+    print("build");
     Widget currentPage;
     switch (indexPage) {
       case 0:
