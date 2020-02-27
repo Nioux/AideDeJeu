@@ -147,8 +147,8 @@ class MonsterItems extends FilteredItems {
   MonsterItems.fromMap(Map<String, dynamic> map)
       : super.fromMap(map) {
     this.types = Filter(name: "Type", type: FilterType.Choices, values: map["Types"].toString().split("|"));
-    this.challenges = Filter(name: "Dangerosité", type: FilterType.Range, values: map["Challenges"].toString().split("|"));
-    this.sizes = Filter(name: "Taille", type: FilterType.Range, values: map["Sizes"].toString().split("|"));;
+    this.challenges = Filter(name: "Challenge", type: FilterType.Range, values: map["Challenges"].toString().split("|"));
+    this.sizes = Filter(name: "Size", type: FilterType.Range, values: map["Sizes"].toString().split("|"));;
     this.sources = Filter(name: "Source", type: FilterType.Choices, values: map["Sources"].toString().split("|"));
     this.terrains = Filter(name: "Terrain", type: FilterType.Choices, values: map["Terrains"].toString().split("|"));
   }

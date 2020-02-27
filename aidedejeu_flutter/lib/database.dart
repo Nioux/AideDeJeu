@@ -67,6 +67,9 @@ Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
         if(filter.selectedValues.isNotEmpty) {
           whereFilter = " AND (${filter.name} LIKE '%" + filter.selectedValues.join("%' OR ${filter.name} LIKE '%") + "%')";
         }
+        if(filter.rangeValues != null && (filter.rangeValues.start > 0 || filter.rangeValues.end < filter.values.length - 1) ) {
+          whereFilter = " AND ([${filter.name}] BETWEEN '${filter.values[filter.rangeValues.start.round()]}' AND '${filter.values[filter.rangeValues.end.round()]}')";
+        }
       });
     }
     print(whereFilter);

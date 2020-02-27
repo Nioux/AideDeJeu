@@ -174,6 +174,12 @@ class _MyHomePageState extends State<MyHomePage> {
           setState(() {
             filter.rangeValues = values;
           });
+          loadChildrenItems(item, filters).then((value) => {
+            setState(() {
+              this.item = item;
+              this.filters = filters;
+            })
+          });
         });
   }
 
