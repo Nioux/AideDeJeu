@@ -65,7 +65,7 @@ Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
     if(filters != null) {
       filters.forEach((filter) {
         if(filter.selectedValues.isNotEmpty) {
-          whereFilter = " AND (${filter.name} = '" + filter.selectedValues.join("' OR ${filter.name} = '") + "')";
+          whereFilter = " AND (${filter.name} LIKE '%" + filter.selectedValues.join("%' OR ${filter.name} LIKE '%") + "%')";
         }
       });
     }
