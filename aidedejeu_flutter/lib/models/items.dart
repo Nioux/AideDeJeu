@@ -1,31 +1,32 @@
 import 'package:flutter/material.dart';
 
 class Item {
-  String Id;
-  String RootId;
-  String ParentLink;
-  String Name;
-  String NormalizedName;
-  String ParentName;
-  int NameLevel;
-  String Alias;
-  String AliasText;
-  String NormalizedAlias;
-  String Source;
-  String Markdown;
-  String FullText;
-  String ItemType;
-  List<Item> Children;
+  String id;
+  String rootId;
+  String parentLink;
+  String name;
+  String normalizedName;
+  String parentName;
+  int nameLevel;
+  String alias;
+  String aliasText;
+  String normalizedAlias;
+  String source;
+  String markdown;
+  String fullText;
+  String itemType;
+  List<Item> children;
 
-  Item({this.Id, this.Name, this.Alias, this.Markdown, this.ItemType});
+  Item({this.id, this.name, this.alias, this.markdown, this.itemType});
 
   Item.fromMap(Map<String, dynamic> map) {
-    this.Id = map["Id"];
-    this.Name = map["Name"];
-    this.Alias = map["AltName"];
-    this.AliasText = map["AltNameText"];
-    this.Markdown = map["Markdown"];
-    this.ItemType = map["ItemType"];
+    this.id = map["Id"];
+    this.rootId = map["RootId"];
+    this.name = map["Name"];
+    this.alias = map["AltName"];
+    this.aliasText = map["AltNameText"];
+    this.markdown = map["Markdown"];
+    this.itemType = map["ItemType"];
   }
 
   /*factory Item.fromMap(Map<String, dynamic> json) => new Item(
@@ -37,70 +38,70 @@ class Item {
   );*/
 
   Map<String, dynamic> toMap() => {
-    "Id": Id,
-    "RootId": Id,
-    "Name": Name,
-    "AltName": Alias,
-    "AltNameText": AliasText,
-    "Markdown": Markdown,
-    "ItemType": ItemType,
+    "Id": id,
+    "RootId": rootId,
+    "Name": name,
+    "AltName": alias,
+    "AltNameText": aliasText,
+    "Markdown": markdown,
+    "ItemType": itemType,
   };
 }
 
 class MonsterItem extends Item {
-  String Family;
-  String Type;
-  String Size;
-  String Alignment;
-  String Terrain;
-  String Legendary;
-  String ArmorClass;
-  String HitPoints;
-  String Speed;
-  String Strength;
-  String Dexterity;
-  String Constitution;
-  String Intelligence;
-  String Wisdom;
-  String Charisma;
-  String SavingThrows;
-  String Skills;
-  String DamageVulnerabilities;
-  String DamageImmunities;
-  String ConditionImmunities;
-  String DamageResistances;
-  String Senses;
-  String Languages;
-  String Challenge;
-  int XP;
+  String family;
+  String type;
+  String size;
+  String alignment;
+  String terrain;
+  String legendary;
+  String armorClass;
+  String hitPoints;
+  String speed;
+  String strength;
+  String dexterity;
+  String constitution;
+  String intelligence;
+  String wisdom;
+  String charisma;
+  String savingThrows;
+  String skills;
+  String damageVulnerabilities;
+  String damageImmunities;
+  String conditionImmunities;
+  String damageResistances;
+  String senses;
+  String languages;
+  String challenge;
+  int xp;
 
   MonsterItem.fromMap(Map<String, dynamic> map)
     : super.fromMap(map) {
-    this.Family = map["Family"];
-    this.Type = map["Type"];
-    this.Size = map["Size"];
-    this.Alignment = map["Alignment"];
-    this.Terrain = map["Terrain"];
-    this.Legendary = map["Legendary"];
-    this.ArmorClass = map["ArmorClass"];
-    this.HitPoints = map["HitPoints"];
-    this.Speed = map["Speed"];
-    this.Strength = map["Strength"];
-    this.Dexterity = map["Dexterity"];
-    this.Constitution = map["Constitution"];
-    this.Intelligence = map["Intelligence"];
-    this.Wisdom = map["Wisdom"];
-    this.Charisma = map["Charisma"];
-    this.SavingThrows = map["SavingThrows"];
-    this.Skills = map["Skills"];
-    this.DamageVulnerabilities = map["DamageVulnerabilities"];
-    this.DamageImmunities = map["DamageImmunities"];
-    this.ConditionImmunities = map["ConditionImmunities"];
-    this.DamageResistances = map["DamageResistances"];
-    this.Senses = map["Senses"];
-    this.Languages = map["Languages"];
-    this.Challenge = map["Challenge"];
-    this.XP = map["XP"];
+    this.family = map["Family"];
+    this.type = map["Type"];
+    this.size = map["Size"];
+    this.alignment = map["Alignment"];
+    this.terrain = map["Terrain"];
+    this.legendary = map["Legendary"];
+    this.armorClass = map["ArmorClass"];
+    this.hitPoints = map["HitPoints"];
+    this.speed = map["Speed"];
+    this.strength = map["Strength"];
+    this.dexterity = map["Dexterity"];
+    this.constitution = map["Constitution"];
+    this.intelligence = map["Intelligence"];
+    this.wisdom = map["Wisdom"];
+    this.charisma = map["Charisma"];
+    this.savingThrows = map["SavingThrows"];
+    this.skills = map["Skills"];
+    this.damageVulnerabilities = map["DamageVulnerabilities"];
+    this.damageImmunities = map["DamageImmunities"];
+    this.conditionImmunities = map["ConditionImmunities"];
+    this.damageResistances = map["DamageResistances"];
+    this.senses = map["Senses"];
+    this.languages = map["Languages"];
+    this.challenge = map["Challenge"];
+    this.xp = map["XP"];
   }
 }
 
@@ -112,11 +113,11 @@ class Items extends Item {
 }
 
 abstract class FilteredItems extends Items {
-  String Family;
+  String family;
 
   FilteredItems.fromMap(Map<String, dynamic> map)
       : super.fromMap(map) {
-    this.Family = map["Family"];
+    this.family = map["Family"];
   }
 
   List<Filter> toFilterList();

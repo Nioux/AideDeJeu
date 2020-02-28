@@ -53,13 +53,13 @@ Future<Item> getItemWithId(String id) async {
 }
 
 Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
-  print("getChildrenItems " + (item?.ItemType ?? ""));
-  if (item.ItemType.endsWith("Items")) {
+  print("getChildrenItems " + (item?.itemType ?? ""));
+  if (item.itemType.endsWith("Items")) {
     String itemType =
-    item.ItemType.substring(0, item.ItemType.length - 1);
+    item.itemType.substring(0, item.itemType.length - 1);
     String family = "";
     if (item is FilteredItems) {
-      family = (item as FilteredItems)?.Family ?? "";
+      family = (item as FilteredItems)?.family ?? "";
     }
     String whereFilter = "";
     if(filters != null) {
@@ -83,7 +83,7 @@ Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
     if (response.isEmpty) {
       print("Children not found");
     }
-    item.Children = response.isNotEmpty
+    item.children = response.isNotEmpty
         ? itemsFromMapList(response)
         : null;
   }

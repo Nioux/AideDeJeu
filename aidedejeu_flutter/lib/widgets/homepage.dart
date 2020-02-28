@@ -25,7 +25,7 @@ class _MyHomePageState extends State<MyHomePage> {
         this.filters = null;
       }
       this.markdown =
-          item.Markdown.replaceAllMapped(RegExp(r'<!--.*?-->'), (match) {
+          item.markdown.replaceAllMapped(RegExp(r'<!--.*?-->'), (match) {
         return '';
       });
     });
@@ -40,23 +40,17 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
 
-    ThemeData theme = ThemeData(
-      brightness: Brightness.light,
-      primaryColor: Colors.lightBlue[800],
-      accentColor: Colors.cyan[600],
-      fontFamily: 'LinuxLibertine',
-      textTheme: TextTheme(
-        headline: TextStyle(fontSize: 28.0, fontWeight: FontWeight.bold),
-        title: TextStyle(fontSize: 22.0, fontStyle: FontStyle.italic),
-        body1: TextStyle(fontSize: 16.0, fontFamily: 'Hind'),
-      ),
-    );
-
-    styleSheet = MarkdownStyleSheet.fromTheme(theme).copyWith(
-        tableColumnWidth: IntrinsicColumnWidth(),
-        tableCellsPadding: EdgeInsets.all(0.2));
 
     _loadItem().then((item) => setItem(item));
+  }
+
+  @protected
+  @mustCallSuper
+  void didChangeDependencies() {
+    styleSheet = MarkdownStyleSheet.fromTheme(Theme.of(context)).copyWith(
+        tableColumnWidth: IntrinsicColumnWidth(),
+        tableCellsPadding: EdgeInsets.all(0.2),
+    );
   }
 
   Future<Item> _loadItem() async {
@@ -78,23 +72,25 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   Widget _buildMarkdownBody(BuildContext context) {
-    return MarkdownBody(
+    return Container(
+        margin: const EdgeInsets.all(10.0),
+        child: MarkdownBody(
       data: markdown,
       styleSheet: styleSheet,
       onTapLink: (link) => Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => MyHomePage(id: link)),
       ),
-    );
+    ));
   }
 
   Widget _buildChildTile(BuildContext context, Item item) {
     return ListTile(
-      title: Text(item.Name),
-      subtitle: Text(item.AliasText ?? ""),
+      title: Text(item.name),
+      subtitle: Text(item.aliasText ?? ""),
       onTap: () => Navigator.push(
         context,
-        MaterialPageRoute(builder: (context) => MyHomePage(id: item.Id)),
+        MaterialPageRoute(builder: (context) => MyHomePage(id: item.id)),
       ),
     );
   }
@@ -103,11 +99,11 @@ class _MyHomePageState extends State<MyHomePage> {
     return Stack(
       children: <Widget>[
         ListView.builder(
-            itemCount: (item?.Children?.length ?? 0) + 1,
+            itemCount: (item?.children?.length ?? 0) + 1,
             itemBuilder: (BuildContext context, int index) {
               return index == 0
                   ? _buildMarkdownBody(context)
-                  : _buildChildTile(context, item.Children[index - 1]);
+                  : _buildChildTile(context, item.children[index - 1]);
             })
       ],
     );
