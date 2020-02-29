@@ -5,6 +5,8 @@ import 'package:flutter/services.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
+import 'models/filters.dart';
+
 Database _database;
 
 Future<Database> get database async {
@@ -59,7 +61,7 @@ Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
     item.itemType.substring(0, item.itemType.length - 1);
     String family = "";
     if (item is FilteredItems) {
-      family = (item as FilteredItems)?.family ?? "";
+      family = item.family ?? "";
     }
     String whereFilter = "";
     if(filters != null) {

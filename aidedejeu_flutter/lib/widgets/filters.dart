@@ -8,7 +8,7 @@ class RangeFilter extends StatefulWidget {
   final ValueChanged<RangeValues> updateRangeValues;
 
   RangeFilter(
-      {@required this.values, this.rangeValues, this.updateRangeValues});
+      {Key key, @required this.values, this.rangeValues, this.updateRangeValues}) : super(key: key);
 
   @override
   State<StatefulWidget> createState() {
@@ -40,7 +40,7 @@ class ChipListFilter extends StatefulWidget {
   final Set<String> selectedChoices;
   final ValueChanged<Set<String>> updateSelectedChoices;
 
-  ChipListFilter({this.choices, this.selectedChoices, this.updateSelectedChoices});
+  ChipListFilter({Key key, this.choices, this.selectedChoices, this.updateSelectedChoices}) : super(key: key);
 
   @override
   State<StatefulWidget> createState() {
@@ -85,7 +85,7 @@ class _ChipListFilterState extends State<ChipListFilter> {
 class ChipFilter extends StatefulWidget {
   final String label;
 
-  ChipFilter({this.label});
+  ChipFilter({Key key, this.label}) : super(key: key);
 
   @override
   State<StatefulWidget> createState() {

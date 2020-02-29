@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:aidedejeu_flutter/models/filters.dart';
 
 class Item {
   String id;
@@ -17,9 +17,7 @@ class Item {
   String itemType;
   List<Item> children;
 
-  Item({this.id, this.name, this.alias, this.markdown, this.itemType});
-
-  Item.fromMap(Map<String, dynamic> map) {
+  Item(Map<String, dynamic> map) {
     this.id = map["Id"];
     this.rootId = map["RootId"];
     this.name = map["Name"];
@@ -28,24 +26,6 @@ class Item {
     this.markdown = map["Markdown"];
     this.itemType = map["ItemType"];
   }
-
-  /*factory Item.fromMap(Map<String, dynamic> json) => new Item(
-    Id: json["Id"],
-    Name: json["Name"],
-    Alias: json["AltName"],
-    Markdown: json["Markdown"],
-    Discriminator: json["Discriminator"],
-  );*/
-
-  Map<String, dynamic> toMap() => {
-    "Id": id,
-    "RootId": rootId,
-    "Name": name,
-    "AltName": alias,
-    "AltNameText": aliasText,
-    "Markdown": markdown,
-    "ItemType": itemType,
-  };
 }
 
 class MonsterItem extends Item {
@@ -75,8 +55,8 @@ class MonsterItem extends Item {
   String challenge;
   int xp;
 
-  MonsterItem.fromMap(Map<String, dynamic> map)
-    : super.fromMap(map) {
+  MonsterItem(Map<String, dynamic> map)
+    : super(map) {
     this.family = map["Family"];
     this.type = map["Type"];
     this.size = map["Size"];
@@ -107,35 +87,20 @@ class MonsterItem extends Item {
 
 class Items extends Item {
 
-  Items.fromMap(Map<String, dynamic> map)
-      : super.fromMap(map) {
+  Items(Map<String, dynamic> map)
+      : super(map) {
   }
 }
 
 abstract class FilteredItems extends Items {
   String family;
 
-  FilteredItems.fromMap(Map<String, dynamic> map)
-      : super.fromMap(map) {
+  FilteredItems(Map<String, dynamic> map)
+      : super(map) {
     this.family = map["Family"];
   }
 
   List<Filter> toFilterList();
-}
-
-enum FilterType {
-  Choices, Range
-}
-class Filter {
-  String name;
-  FilterType type;
-  List<String> values;
-  Set<String> selectedValues = Set<String>();
-  RangeValues rangeValues;
-
-  Filter({this.name, this.type, this.values}) {
-    rangeValues = RangeValues(0, values.length.toDouble() - 1);
-  }
 }
 
 class MonsterItems extends FilteredItems {
@@ -145,8 +110,8 @@ class MonsterItems extends FilteredItems {
   Filter sources;
   Filter terrains;
 
-  MonsterItems.fromMap(Map<String, dynamic> map)
-      : super.fromMap(map) {
+  MonsterItems(Map<String, dynamic> map)
+      : super(map) {
     this.types = Filter(name: "Type", type: FilterType.Choices, values: map["Types"].toString().split("|"));
     this.challenges = Filter(name: "Challenge", type: FilterType.Range, values: map["Challenges"].toString().split("|"));
     this.sizes = Filter(name: "Size", type: FilterType.Range, values: map["Sizes"].toString().split("|"));;
@@ -154,8 +119,6 @@ class MonsterItems extends FilteredItems {
     this.terrains = Filter(name: "Terrain", type: FilterType.Choices, values: map["Terrains"].toString().split("|"));
   }
 
-//  Map<String, dynamic> toMap() => {
-  //"Id": Id,
   List<Filter> toFilterList() => {
     types,
     challenges,
@@ -168,10 +131,10 @@ class MonsterItems extends FilteredItems {
 
 Item itemFromMap(Map<String, dynamic> map) {
   switch(map["ItemType"]) {
-    case "MonsterItem": return MonsterItem.fromMap(map);
-    case "MonsterItems": return MonsterItems.fromMap(map);
+    case "MonsterItem": return MonsterItem(map);
+    case "MonsterItems": return MonsterItems(map);
   }
-  return Item.fromMap(map);
+  return Item(map);
 }
 
 List<Item> itemsFromMapList(List<Map<String, dynamic>> mapList) {
