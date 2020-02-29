@@ -1,15 +1,15 @@
 ___
 > ## Ectoplasmic Jazz Devil
 >*Large annoyance, oedpipal neutral*
->___
+> ___
 > - **Armor Class** 15
 > - **Hit Points** 10(1d4 + 5)
 > - **Speed** 18ft.
->___
->|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
->|13 (+2)|5 (-2)|20 (+5)|18 (+4)|3 (-3)|12 (+1)|
->___
+> ___
+> |STR|DEX|CON|INT|WIS|CHA|
+> |:---:|:---:|:---:|:---:|:---:|:---:|
+> |13 (+2)|5 (-2)|20 (+5)|18 (+4)|3 (-3)|12 (+1)|
+> ___
 > - **Condition Immunities** None
 > - **Senses** passive Perception 3
 > - **Languages** None
