@@ -3,6 +3,7 @@ import 'package:aidedejeu_flutter/models/filters.dart';
 class Item {
   String id;
   String rootId;
+  String newId;
   String parentLink;
   String name;
   String normalizedName;
@@ -20,6 +21,7 @@ class Item {
   Item(Map<String, dynamic> map) {
     this.id = map["Id"];
     this.rootId = map["RootId"];
+    this.newId = map["NewId"];
     this.name = map["Name"];
     this.alias = map["AltName"];
     this.aliasText = map["AltNameText"];
@@ -134,6 +136,11 @@ class RaceItem extends Item {
 
 }
 
+class SubRaceItem extends RaceItem {
+  SubRaceItem(Map<String, dynamic> map) : super(map);
+
+}
+
 class RaceItems extends FilteredItems {
   RaceItems(Map<String, dynamic> map) : super(map);
 
@@ -147,6 +154,7 @@ class RaceItems extends FilteredItems {
 Item itemFromMap(Map<String, dynamic> map) {
   switch(map["ItemType"]) {
     case "RaceItem": return RaceItem(map);
+    case "SubRaceItem": return SubRaceItem(map);
     case "RaceItems": return RaceItems(map);
     case "MonsterItem": return MonsterItem(map);
     case "MonsterItems": return MonsterItems(map);
@@ -154,7 +162,7 @@ Item itemFromMap(Map<String, dynamic> map) {
   return Item(map);
 }
 
-List<Item> itemsFromMapList(List<Map<String, dynamic>> mapList) {
+List<T> itemsFromMapList<T extends Item>(List<Map<String, dynamic>> mapList) {
   return List.generate(mapList.length, (i) {
     return itemFromMap(mapList[i]);
   });

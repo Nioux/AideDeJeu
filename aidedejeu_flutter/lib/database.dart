@@ -92,3 +92,29 @@ Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
   return item;
 }
 
+Future<List<RaceItem>> loadRaces() async {
+  final db = await database;
+  var response = await db.query(
+      "Items",
+      where: "ItemType = 'RaceItem'",
+      orderBy: "NormalizedName"
+  );
+  if (response.isNotEmpty) {
+    return itemsFromMapList(response);
+  }
+  return null;
+}
+
+Future<List<SubRaceItem>> loadSubRaces(RaceItem race) async {
+  final db = await database;
+  var response = await db.query(
+      "Items",
+      where: "ItemType = 'SubRaceItem' AND ParentLink = ?",
+      whereArgs: [race.id],
+      orderBy: "NormalizedName"
+  );
+  if (response.isNotEmpty) {
+    return itemsFromMapList(response);
+  }
+  return null;
+}

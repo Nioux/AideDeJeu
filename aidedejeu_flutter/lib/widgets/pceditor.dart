@@ -1,12 +1,6 @@
 import 'package:aidedejeu_flutter/database.dart';
-import 'package:aidedejeu_flutter/models/filters.dart';
-import 'package:aidedejeu_flutter/widgets/filters.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
-import 'package:aidedejeu_flutter/widgets/library.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter_markdown/flutter_markdown.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 class PCEditorPage extends StatefulWidget {
   PCEditorPage({Key key}) : super(key: key);
@@ -25,7 +19,74 @@ class PCEditorPage extends StatefulWidget {
 }
 
 class _PCEditorPageState extends State<PCEditorPage> {
-  RaceItem race;
+  RaceItem _race;
+  SubRaceItem _subRace;
+  List<RaceItem> _races;
+  List<SubRaceItem> _subRaces;
+
+  @override
+  void initState() {
+    // TODO: implement initState
+    super.initState();
+    loadRaces().then((value) => setState(() {
+          _races = value.map((e) => e as RaceItem).toList();
+        }));
+  }
+
+  void _setRace(RaceItem race) {
+    setState(() {
+      this._race = race;
+      this._subRace = null;
+      this._subRaces = null;
+    });
+    loadSubRaces(race).then((value) => setState(() {
+          _subRaces = value.map((e) => e as SubRaceItem).toList();
+        }));
+  }
+
+  void _setSubRace(SubRaceItem subRace) {
+    setState(() {
+      this._subRace = subRace;
+    });
+  }
+
+  Widget _loadRacesWidget() {
+    return DropdownButton(
+      hint: Text("Race"),
+      value: _races != null ? _race : "",
+      onChanged: (value) {
+        _setRace(value);
+      },
+      items: _races != null
+          ? _races
+              .map((e) => DropdownMenuItem(
+                    value: e,
+                    child: Text(e.name),
+                  ))
+              .toList()
+          : null,
+    );
+  }
+
+  Widget _loadSubRacesWidget() {
+    return _subRaces != null
+        ? DropdownButton(
+            hint: Text("Sous-Race"),
+            value: _subRaces != null ? _subRace : "",
+            onChanged: (value) {
+              _setSubRace(value);
+            },
+            items: _subRaces != null
+                ? _subRaces
+                    .map((e) => DropdownMenuItem(
+                          value: e,
+                          child: Text(e.name),
+                        ))
+                    .toList()
+                : null,
+          )
+        : SizedBox.shrink();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -34,11 +95,7 @@ class _PCEditorPageState extends State<PCEditorPage> {
         title: Text("Personnage"),
       ),
       body: Column(
-        children: <Widget>[
-          race != null
-              ? Text(race.name)
-              : DropdownButton(hint: Text("Race"), value: "")
-        ],
+        children: <Widget>[_loadRacesWidget(), _loadSubRacesWidget()],
       ),
     );
   }
