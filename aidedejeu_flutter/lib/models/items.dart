@@ -129,8 +129,25 @@ class MonsterItems extends FilteredItems {
 
 }
 
+class RaceItem extends Item {
+  RaceItem(Map<String, dynamic> map) : super(map);
+
+}
+
+class RaceItems extends FilteredItems {
+  RaceItems(Map<String, dynamic> map) : super(map);
+
+  @override
+  List<Filter> toFilterList() {
+    return [].toList();
+  }
+
+}
+
 Item itemFromMap(Map<String, dynamic> map) {
   switch(map["ItemType"]) {
+    case "RaceItem": return RaceItem(map);
+    case "RaceItems": return RaceItems(map);
     case "MonsterItem": return MonsterItem(map);
     case "MonsterItems": return MonsterItems(map);
   }

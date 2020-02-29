@@ -3,6 +3,7 @@ import 'package:aidedejeu_flutter/models/filters.dart';
 import 'package:aidedejeu_flutter/widgets/filters.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:aidedejeu_flutter/widgets/library.dart';
+import 'package:aidedejeu_flutter/widgets/pceditor.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
@@ -42,7 +43,7 @@ class HomePage extends StatelessWidget {
           onPressed: () => Navigator.push(
             context,
             MaterialPageRoute(
-                builder: (context) => LibraryPage(id: 'index.md')),
+                builder: (context) => PCEditorPage()),
           ),
         ),
         FlatButton.icon(
