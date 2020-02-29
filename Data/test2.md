@@ -24,3 +24,4 @@ ___
 > ***Bulldog Rake.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 5 (1d6 + 2) 
 
 
+a
