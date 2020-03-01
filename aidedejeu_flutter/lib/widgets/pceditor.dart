@@ -26,11 +26,18 @@ class _PCEditorPageState extends State<PCEditorPage> {
   List<RaceItem> _races;
   List<SubRaceItem> _subRaces;
 
+  BackgroundItem _background;
+  SubBackgroundItem _subBackground;
+  List<BackgroundItem> _backgrounds;
+  List<SubBackgroundItem> _subBackgrounds;
+
+  // inits
+
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     _initRaces();
+    _initBackgrounds();
   }
 
   void _initRaces() async {
@@ -47,6 +54,23 @@ class _PCEditorPageState extends State<PCEditorPage> {
     });
   }
 
+  void _initBackgrounds() async {
+    var backgrounds = await loadBackgrounds();
+    setState(() {
+      _backgrounds = backgrounds.map((e) => e as BackgroundItem).toList();
+    });
+  }
+
+  void _initSubBackgrounds(BackgroundItem background) async {
+    var subBackgrounds = await loadSubBackgrounds(background);
+    setState(() {
+      _subBackgrounds =
+          subBackgrounds.map((e) => e as SubBackgroundItem).toList();
+    });
+  }
+
+  // setters
+
   void _setRace(RaceItem race) {
     setState(() {
       this._race = race;
@@ -62,15 +86,46 @@ class _PCEditorPageState extends State<PCEditorPage> {
     });
   }
 
-  Widget _loadRacesWidget() {
+  void _setBackground(BackgroundItem background) {
+    setState(() {
+      this._background = background;
+      this._subBackground = null;
+      this._subBackgrounds = null;
+    });
+    _initSubBackgrounds(background);
+  }
+
+  void _setSubBackground(SubBackgroundItem subBackground) {
+    setState(() {
+      this._subBackground = subBackground;
+    });
+  }
+
+  // widgets generics
+
+  Widget _loadMarkdown(String markdown) {
+    return MarkdownBody(
+      data: markdown ?? "",
+      onTapLink: (link) => Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+      ),
+    );
+  }
+
+  Widget _loadItemsWidget<T extends Item>(
+      {String hintText,
+      List<T> items,
+      T selectedItem,
+      ValueChanged<T> onChanged}) {
     return DropdownButton(
-      hint: Text("Race"),
-      value: _races != null ? _race : "",
+      hint: Text(hintText),
+      value: items != null ? selectedItem : "",
       onChanged: (value) {
-        _setRace(value);
+        onChanged(value);
       },
-      items: _races != null
-          ? _races
+      items: items != null
+          ? items
               .map((e) => DropdownMenuItem(
                     value: e,
                     child: Text(e.name),
@@ -80,96 +135,76 @@ class _PCEditorPageState extends State<PCEditorPage> {
     );
   }
 
-  Widget _loadRaceSubRaceWidget() {
+  // widgets specifics
+
+  Widget _loadRacesWidget() {
+    return _loadItemsWidget<RaceItem>(
+      hintText: "Race",
+      items: _races,
+      selectedItem: _race,
+      onChanged: (value) {
+        _setRace(value);
+      },
+    );
+  }
+
+  Widget _loadSubRacesWidget() {
+    return _subRaces != null
+        ? _loadItemsWidget<SubRaceItem>(
+            hintText: "Variante",
+            items: _subRaces,
+            selectedItem: _subRace,
+            onChanged: (value) {
+              _setSubRace(value);
+            },
+          )
+        : SizedBox.shrink();
+  }
+
+  Widget _loadRaceDetailsWidget() {
     return _race != null
         ? Column(
             children: [
               Text("Augmentation de caractéristiques"),
-              MarkdownBody(
-                data: (_race?.abilityScoreIncrease ?? "") +
-                    "\n\n" +
-                    (_subRace?.abilityScoreIncrease ?? ""),
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.abilityScoreIncrease),
+              _loadMarkdown(_subRace?.abilityScoreIncrease),
               Text("Âge"),
-              MarkdownBody(
-                data: _race?.age ?? "",
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.age),
               Text("Alignement"),
-              MarkdownBody(
-                data: _race?.alignment ?? "",
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.alignment),
               Text("Taille"),
-              MarkdownBody(
-                data: _race?.size ?? "",
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.size),
               Text("Vitesse"),
-              MarkdownBody(
-                data: _race?.speed ?? "",
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.speed),
               Text("Vision dans le noir"),
-              MarkdownBody(
-                data: _race?.darkvision ?? "",
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.darkvision),
               Text("Langues"),
-              MarkdownBody(
-                data: _race?.languages ?? "",
-                onTapLink: (link) => Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                      builder: (context) => LibraryPage(id: link)),
-                ),
-              ),
+              _loadMarkdown(_race?.languages),
             ],
           )
         : SizedBox.shrink();
   }
 
-  Widget _loadSubRacesWidget() {
-    return _subRaces != null
-        ? DropdownButton(
-            hint: Text("Sous-Race"),
-            value: _subRaces != null ? _subRace : "",
+  Widget _loadBackgroundsWidget() {
+    return _loadItemsWidget<BackgroundItem>(
+      hintText: "Historique",
+      items: _backgrounds,
+      selectedItem: _background,
+      onChanged: (value) {
+        _setBackground(value);
+      },
+    );
+  }
+
+  Widget _loadSubBackgroundsWidget() {
+    return _subBackgrounds != null
+        ? _loadItemsWidget<SubBackgroundItem>(
+            hintText: "Variante",
+            items: _subBackgrounds,
+            selectedItem: _subBackground,
             onChanged: (value) {
-              _setSubRace(value);
+              _setSubBackground(value);
             },
-            items: _subRaces != null
-                ? _subRaces
-                    .map((e) => DropdownMenuItem(
-                          value: e,
-                          child: Text(e.name),
-                        ))
-                    .toList()
-                : null,
           )
         : SizedBox.shrink();
   }
@@ -204,10 +239,15 @@ class _PCEditorPageState extends State<PCEditorPage> {
               children: <Widget>[
                 _loadRacesWidget(),
                 _loadSubRacesWidget(),
-                _loadRaceSubRaceWidget(),
+                _loadRaceDetailsWidget(),
               ],
             ),
-            Text(""),
+            ListView(
+              children: <Widget>[
+                _loadBackgroundsWidget(),
+                _loadSubBackgroundsWidget(),
+              ],
+            ),
             Text(""),
           ],
         ),

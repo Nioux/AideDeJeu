@@ -205,6 +205,26 @@ class RaceItems extends FilteredItems {
   }
 }
 
+
+class BackgroundItem extends Item {
+
+  String skillProficiencies;
+  String masteredTools;
+  String masteredLanguages;
+  String equipment;
+
+  BackgroundItem(Map<String, dynamic> map) : super(map) {
+    this.skillProficiencies = map["SkillProficiencies"];
+    this.masteredTools = map["MasteredTools"];
+    this.masteredLanguages = map["MasteredLanguages"];
+    this.equipment = map["Equipment"];
+  }
+}
+
+class SubBackgroundItem extends BackgroundItem {
+  SubBackgroundItem(Map<String, dynamic> map) : super(map);
+}
+
 Item itemFromMap(Map<String, dynamic> map) {
   switch (map["ItemType"]) {
     case "RaceItem":
@@ -213,6 +233,10 @@ Item itemFromMap(Map<String, dynamic> map) {
       return SubRaceItem(map);
     case "RaceItems":
       return RaceItems(map);
+    case "BackgroundItem":
+      return BackgroundItem(map);
+    case "SubBackgroundItem":
+      return SubBackgroundItem(map);
     case "MonsterItem":
       return MonsterItem(map);
     case "MonsterItems":

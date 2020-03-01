@@ -118,3 +118,26 @@ Future<List<SubRaceItem>> loadSubRaces(RaceItem race) async {
   }
   return null;
 }
+
+Future<List<T>> loadTypedItems<T extends Item>({String itemType, Item item = null}) async {
+  final db = await database;
+  var response = await db.query(
+      "Items",
+      where: "ItemType = ?" + (item != null ? " AND ParentLink = ?" : ""),
+      whereArgs: item != null ? [itemType, item.id] : [itemType],
+      orderBy: "NormalizedName"
+  );
+  if (response.isNotEmpty) {
+    return itemsFromMapList(response);
+  }
+  return null;
+}
+
+Future<List<BackgroundItem>> loadBackgrounds() async {
+  return loadTypedItems<BackgroundItem>(itemType: "BackgroundItem");
+}
+
+Future<List<SubBackgroundItem>> loadSubBackgrounds(Item item) async {
+  return loadTypedItems<SubBackgroundItem>(itemType: "SubBackgroundItem", item: item);
+}
+
