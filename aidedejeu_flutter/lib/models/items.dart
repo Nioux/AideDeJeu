@@ -3,7 +3,6 @@ import 'package:aidedejeu_flutter/models/filters.dart';
 class Item {
   String id;
   String rootId;
-  String newId;
   String parentLink;
   String name;
   String normalizedName;
@@ -21,7 +20,6 @@ class Item {
   Item(Map<String, dynamic> map) {
     this.id = map["Id"];
     this.rootId = map["RootId"];
-    this.newId = map["NewId"];
     this.name = map["Name"];
     this.alias = map["AltName"];
     this.aliasText = map["AltNameText"];
@@ -57,8 +55,7 @@ class MonsterItem extends Item {
   String challenge;
   int xp;
 
-  MonsterItem(Map<String, dynamic> map)
-    : super(map) {
+  MonsterItem(Map<String, dynamic> map) : super(map) {
     this.family = map["Family"];
     this.type = map["Type"];
     this.size = map["Size"];
@@ -88,17 +85,13 @@ class MonsterItem extends Item {
 }
 
 class Items extends Item {
-
-  Items(Map<String, dynamic> map)
-      : super(map) {
-  }
+  Items(Map<String, dynamic> map) : super(map) {}
 }
 
 abstract class FilteredItems extends Items {
   String family;
 
-  FilteredItems(Map<String, dynamic> map)
-      : super(map) {
+  FilteredItems(Map<String, dynamic> map) : super(map) {
     this.family = map["Family"];
   }
 
@@ -112,33 +105,95 @@ class MonsterItems extends FilteredItems {
   Filter sources;
   Filter terrains;
 
-  MonsterItems(Map<String, dynamic> map)
-      : super(map) {
-    this.types = Filter(name: "Type", type: FilterType.Choices, values: map["Types"].toString().split("|"));
-    this.challenges = Filter(name: "Challenge", type: FilterType.Range, values: map["Challenges"].toString().split("|"));
-    this.sizes = Filter(name: "Size", type: FilterType.Range, values: map["Sizes"].toString().split("|"));;
-    this.sources = Filter(name: "Source", type: FilterType.Choices, values: map["Sources"].toString().split("|"));
-    this.terrains = Filter(name: "Terrain", type: FilterType.Choices, values: map["Terrains"].toString().split("|"));
+  MonsterItems(Map<String, dynamic> map) : super(map) {
+    this.types = Filter(
+        name: "Type",
+        type: FilterType.Choices,
+        values: map["Types"].toString().split("|"));
+    this.challenges = Filter(
+        name: "Challenge",
+        type: FilterType.Range,
+        values: map["Challenges"].toString().split("|"));
+    this.sizes = Filter(
+        name: "Size",
+        type: FilterType.Range,
+        values: map["Sizes"].toString().split("|"));
+    ;
+    this.sources = Filter(
+        name: "Source",
+        type: FilterType.Choices,
+        values: map["Sources"].toString().split("|"));
+    this.terrains = Filter(
+        name: "Terrain",
+        type: FilterType.Choices,
+        values: map["Terrains"].toString().split("|"));
   }
 
   List<Filter> toFilterList() => {
-    types,
-    challenges,
-    sizes,
-    sources,
-    terrains,
-  }.toList();
-
+        types,
+        challenges,
+        sizes,
+        sources,
+        terrains,
+      }.toList();
 }
 
 class RaceItem extends Item {
-  RaceItem(Map<String, dynamic> map) : super(map);
+  String fullName;
+  bool hasSubRaces;
+  String strengthBonus;
+  String dexterityBonus;
+  String constitutionBonus;
+  String intelligenceBonus;
+  String wisdomBonus;
+  String charismaBonus;
+  String dispatchedBonus;
+  String maxDispatchedStrengthBonus;
+  String maxDispatchedDexterityBonus;
+  String maxDispatchedConstitutionBonus;
+  String maxDispatchedIntelligenceBonus;
+  String maxDispatchedWisdomBonus;
+  String maxDispatchedCharismaBonus;
+  String abilityScoreIncrease;
+  String age;
+  String alignment;
+  String size;
+  String speed;
+  String darkvision;
+  String languages;
 
+  RaceItem(Map<String, dynamic> map) : super(map) {
+    this.fullName = map["FullName"];
+    this.hasSubRaces = map["HasSubRaces"] == "true";
+    this.strengthBonus = map["StrengthBonus"];
+    this.dexterityBonus = map["DexterityBonus"];
+    this.constitutionBonus = map["ConstitutionBonus"];
+    this.intelligenceBonus = map["IntelligenceBonus"];
+    this.wisdomBonus = map["WisdomBonus"];
+    this.charismaBonus = map["CharismaBonus"];
+    this.dispatchedBonus = map["DispatchedBonus"];
+    this.maxDispatchedStrengthBonus = map["MaxDispatchedStrengthBonus"];
+    this.maxDispatchedDexterityBonus = map["MaxDispatchedDexterityBonus"];
+    this.maxDispatchedConstitutionBonus = map["MaxDispatchedConstitutionBonus"];
+    this.maxDispatchedIntelligenceBonus = map["MaxDispatchedIntelligenceBonus"];
+    this.maxDispatchedWisdomBonus = map["MaxDispatchedWisdomBonus"];
+    this.maxDispatchedCharismaBonus = map["MaxDispatchedCharismaBonus"];
+    this.abilityScoreIncrease = map["AbilityScoreIncrease"];
+    this.age = map["Age"];
+    this.alignment = map["Alignment"];
+    this.size = map["Size"];
+    this.speed = map["Speed"];
+    this.darkvision = map["Darkvision"];
+    this.languages = map["Languages"];
+  }
 }
 
 class SubRaceItem extends RaceItem {
-  SubRaceItem(Map<String, dynamic> map) : super(map);
+  String parentRaceId;
 
+  SubRaceItem(Map<String, dynamic> map) : super(map) {
+    this.parentRaceId = map["ParentRaceId"];
+  }
 }
 
 class RaceItems extends FilteredItems {
@@ -148,16 +203,20 @@ class RaceItems extends FilteredItems {
   List<Filter> toFilterList() {
     return [].toList();
   }
-
 }
 
 Item itemFromMap(Map<String, dynamic> map) {
-  switch(map["ItemType"]) {
-    case "RaceItem": return RaceItem(map);
-    case "SubRaceItem": return SubRaceItem(map);
-    case "RaceItems": return RaceItems(map);
-    case "MonsterItem": return MonsterItem(map);
-    case "MonsterItems": return MonsterItems(map);
+  switch (map["ItemType"]) {
+    case "RaceItem":
+      return RaceItem(map);
+    case "SubRaceItem":
+      return SubRaceItem(map);
+    case "RaceItems":
+      return RaceItems(map);
+    case "MonsterItem":
+      return MonsterItem(map);
+    case "MonsterItems":
+      return MonsterItems(map);
   }
   return Item(map);
 }

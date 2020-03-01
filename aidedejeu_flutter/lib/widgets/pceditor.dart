@@ -1,6 +1,8 @@
 import 'package:aidedejeu_flutter/database.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
+import 'package:aidedejeu_flutter/widgets/library.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 
 class PCEditorPage extends StatefulWidget {
   PCEditorPage({Key key}) : super(key: key);
@@ -28,9 +30,21 @@ class _PCEditorPageState extends State<PCEditorPage> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    loadRaces().then((value) => setState(() {
-          _races = value.map((e) => e as RaceItem).toList();
-        }));
+    _initRaces();
+  }
+
+  void _initRaces() async {
+    var races = await loadRaces();
+    setState(() {
+      _races = races.map((e) => e as RaceItem).toList();
+    });
+  }
+
+  void _initSubRaces(RaceItem race) async {
+    var subRaces = await loadSubRaces(race);
+    setState(() {
+      _subRaces = subRaces.map((e) => e as SubRaceItem).toList();
+    });
   }
 
   void _setRace(RaceItem race) {
@@ -39,9 +53,7 @@ class _PCEditorPageState extends State<PCEditorPage> {
       this._subRace = null;
       this._subRaces = null;
     });
-    loadSubRaces(race).then((value) => setState(() {
-          _subRaces = value.map((e) => e as SubRaceItem).toList();
-        }));
+    _initSubRaces(race);
   }
 
   void _setSubRace(SubRaceItem subRace) {
@@ -65,6 +77,22 @@ class _PCEditorPageState extends State<PCEditorPage> {
                   ))
               .toList()
           : null,
+    );
+  }
+
+  Widget _loadRaceSubRaceWidget() {
+    return Column(
+      children: [
+        MarkdownBody(
+          data: (_race?.abilityScoreIncrease ?? "") +
+              "\n\n" +
+              (_subRace?.abilityScoreIncrease ?? ""),
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        )
+      ],
     );
   }
 
@@ -95,7 +123,11 @@ class _PCEditorPageState extends State<PCEditorPage> {
         title: Text("Personnage"),
       ),
       body: Column(
-        children: <Widget>[_loadRacesWidget(), _loadSubRacesWidget()],
+        children: <Widget>[
+          _loadRacesWidget(),
+          _loadSubRacesWidget(),
+          _loadRaceSubRaceWidget()
+        ],
       ),
     );
   }
