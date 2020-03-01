@@ -81,68 +81,77 @@ class _PCEditorPageState extends State<PCEditorPage> {
   }
 
   Widget _loadRaceSubRaceWidget() {
-    return _race != null ? Column(
-      children: [
-        Text("Augmentation de caractéristiques"),
-        MarkdownBody(
-          data: (_race?.abilityScoreIncrease ?? "") +
-              "\n\n" +
-              (_subRace?.abilityScoreIncrease ?? ""),
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-        Text("Âge"),
-        MarkdownBody(
-          data: _race?.age ?? "",
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-        Text("Alignement"),
-        MarkdownBody(
-          data: _race?.alignment ?? "",
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-        Text("Taille"),
-        MarkdownBody(
-          data: _race?.size ?? "",
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-        Text("Vitesse"),
-        MarkdownBody(
-          data: _race?.speed ?? "",
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-        Text("Vision dans le noir"),
-        MarkdownBody(
-          data: _race?.darkvision ?? "",
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-        Text("Langues"),
-        MarkdownBody(
-          data: _race?.languages ?? "",
-          onTapLink: (link) => Navigator.push(
-            context,
-            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
-          ),
-        ),
-      ],
-    ): SizedBox.shrink();
+    return _race != null
+        ? Column(
+            children: [
+              Text("Augmentation de caractéristiques"),
+              MarkdownBody(
+                data: (_race?.abilityScoreIncrease ?? "") +
+                    "\n\n" +
+                    (_subRace?.abilityScoreIncrease ?? ""),
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+              Text("Âge"),
+              MarkdownBody(
+                data: _race?.age ?? "",
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+              Text("Alignement"),
+              MarkdownBody(
+                data: _race?.alignment ?? "",
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+              Text("Taille"),
+              MarkdownBody(
+                data: _race?.size ?? "",
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+              Text("Vitesse"),
+              MarkdownBody(
+                data: _race?.speed ?? "",
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+              Text("Vision dans le noir"),
+              MarkdownBody(
+                data: _race?.darkvision ?? "",
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+              Text("Langues"),
+              MarkdownBody(
+                data: _race?.languages ?? "",
+                onTapLink: (link) => Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                      builder: (context) => LibraryPage(id: link)),
+                ),
+              ),
+            ],
+          )
+        : SizedBox.shrink();
   }
 
   Widget _loadSubRacesWidget() {
@@ -167,18 +176,42 @@ class _PCEditorPageState extends State<PCEditorPage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text("Personnage"),
+    return DefaultTabController(
+      length: 3,
+      child: Scaffold(
+        appBar: AppBar(
+          title: Text("Personnage"),
+          bottom: TabBar(
+            tabs: <Widget>[
+              Text(
+                "Race",
+                style: TextStyle(color: Colors.black),
+              ),
+              Text(
+                "Historique",
+                style: TextStyle(color: Colors.black),
+              ),
+              Text(
+                "Classe",
+                style: TextStyle(color: Colors.black),
+              ),
+            ],
+          ),
+        ),
+        body: TabBarView(
+          children: [
+            ListView(
+              children: <Widget>[
+                _loadRacesWidget(),
+                _loadSubRacesWidget(),
+                _loadRaceSubRaceWidget(),
+              ],
+            ),
+            Text(""),
+            Text(""),
+          ],
+        ),
       ),
-      body: ListView(
-        children: <Widget>[
-          _loadRacesWidget(),
-          _loadSubRacesWidget(),
-          _loadRaceSubRaceWidget()
-        ],
-      ),
-
     );
   }
 }

@@ -7,6 +7,8 @@ import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
+import '../theme.dart';
+
 class LibraryPage extends StatefulWidget {
   LibraryPage({Key key, @required this.id}) : super(key: key);
 
@@ -48,10 +50,8 @@ class _LibraryPageState extends State<LibraryPage> {
   @protected
   @mustCallSuper
   void didChangeDependencies() {
-    styleSheet = MarkdownStyleSheet.fromTheme(Theme.of(context)).copyWith(
-      tableColumnWidth: IntrinsicColumnWidth(),
-      tableCellsPadding: EdgeInsets.all(0.2),
-    );
+    super.didChangeDependencies();
+    styleSheet = mainMarkdownStyleSheet(context);
   }
 
   Future<Item> _loadItem() async {

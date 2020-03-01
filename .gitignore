@@ -265,3 +265,4 @@ __pycache__/
 /Ignore
 /AideDeJeu/AideDeJeuWeb/Properties/PublishProfiles/AideDeJeuWeb - Web Deploy.pubxml
 *.lock
+*.lock
