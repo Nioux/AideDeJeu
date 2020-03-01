@@ -81,8 +81,9 @@ class _PCEditorPageState extends State<PCEditorPage> {
   }
 
   Widget _loadRaceSubRaceWidget() {
-    return Column(
+    return _race != null ? Column(
       children: [
+        Text("Augmentation de caractéristiques"),
         MarkdownBody(
           data: (_race?.abilityScoreIncrease ?? "") +
               "\n\n" +
@@ -91,9 +92,57 @@ class _PCEditorPageState extends State<PCEditorPage> {
             context,
             MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
           ),
-        )
+        ),
+        Text("Âge"),
+        MarkdownBody(
+          data: _race?.age ?? "",
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        ),
+        Text("Alignement"),
+        MarkdownBody(
+          data: _race?.alignment ?? "",
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        ),
+        Text("Taille"),
+        MarkdownBody(
+          data: _race?.size ?? "",
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        ),
+        Text("Vitesse"),
+        MarkdownBody(
+          data: _race?.speed ?? "",
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        ),
+        Text("Vision dans le noir"),
+        MarkdownBody(
+          data: _race?.darkvision ?? "",
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        ),
+        Text("Langues"),
+        MarkdownBody(
+          data: _race?.languages ?? "",
+          onTapLink: (link) => Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
+          ),
+        ),
       ],
-    );
+    ): SizedBox.shrink();
   }
 
   Widget _loadSubRacesWidget() {
@@ -122,13 +171,14 @@ class _PCEditorPageState extends State<PCEditorPage> {
       appBar: AppBar(
         title: Text("Personnage"),
       ),
-      body: Column(
+      body: ListView(
         children: <Widget>[
           _loadRacesWidget(),
           _loadSubRacesWidget(),
           _loadRaceSubRaceWidget()
         ],
       ),
+
     );
   }
 }
