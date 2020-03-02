@@ -1,0 +1,8 @@
+{
+  "@@locale": "fr",
+  "title": "Bonjour Monde",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text"
+  }
+}

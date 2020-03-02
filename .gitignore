@@ -266,3 +266,4 @@ __pycache__/
 /AideDeJeu/AideDeJeuWeb/Properties/PublishProfiles/AideDeJeuWeb - Web Deploy.pubxml
 *.lock
 *.lock
+*.lock
