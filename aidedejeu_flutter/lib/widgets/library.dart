@@ -1,9 +1,9 @@
 import 'package:aidedejeu_flutter/database.dart';
+import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/filters.dart';
 import 'package:aidedejeu_flutter/widgets/filters.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
@@ -29,8 +29,8 @@ class _LibraryPageState extends State<LibraryPage> {
       }
       this.markdown =
           item.markdown.replaceAllMapped(RegExp(r'<!--.*?-->'), (match) {
-            return '';
-          });
+        return '';
+      });
     });
   }
 
@@ -42,7 +42,6 @@ class _LibraryPageState extends State<LibraryPage> {
   @override
   void initState() {
     super.initState();
-
 
     _loadItem().then((item) => setItem(item));
   }
@@ -139,9 +138,18 @@ class _LibraryPageState extends State<LibraryPage> {
 
   List _buildBottomNavigationBarItems() {
     return <BottomNavigationBarItem>[
-      _buildBottomNavigationBarItem("Bibliothèque", "assets/spell-book.svg"),
-      _buildBottomNavigationBarItem("Favoris", "assets/stars-stack.svg"),
-      _buildBottomNavigationBarItem("Recherche", "assets/crystal-ball.svg"),
+      _buildBottomNavigationBarItem(
+        AppLocalizations.of(context).library_title,
+        "assets/spell-book.svg",
+      ),
+      _buildBottomNavigationBarItem(
+        AppLocalizations.of(context).bookmarks_title,
+        "assets/stars-stack.svg",
+      ),
+      _buildBottomNavigationBarItem(
+        AppLocalizations.of(context).search_title,
+        "assets/crystal-ball.svg",
+      ),
     ];
   }
 
@@ -154,11 +162,11 @@ class _LibraryPageState extends State<LibraryPage> {
           filter.selectedValues = choices;
         });
         loadChildrenItems(item, filters).then((value) => {
-          setState(() {
-            this.item = item;
-            this.filters = filters;
-          })
-        });
+              setState(() {
+                this.item = item;
+                this.filters = filters;
+              })
+            });
       },
     );
   }
@@ -172,11 +180,11 @@ class _LibraryPageState extends State<LibraryPage> {
             filter.rangeValues = values;
           });
           loadChildrenItems(item, filters).then((value) => {
-            setState(() {
-              this.item = item;
-              this.filters = filters;
-            })
-          });
+                setState(() {
+                  this.item = item;
+                  this.filters = filters;
+                })
+              });
         });
   }
 
@@ -238,30 +246,30 @@ class _LibraryPageState extends State<LibraryPage> {
       ),
       endDrawer: filters != null
           ? Drawer(
-        child: ListView(
-          // Important: Remove any padding from the ListView.
-            padding: EdgeInsets.zero,
-            children: _buildFilterList()),
-      )
+              child: ListView(
+                  // Important: Remove any padding from the ListView.
+                  padding: EdgeInsets.zero,
+                  children: _buildFilterList()),
+            )
           : null,
       appBar: AppBar(
         title: Text(widget.id),
         actions: filters != null
             ? [
-          Builder(
-            builder: (context) => IconButton(
-              icon: SvgPicture.asset(
-                "assets/funnel.svg",
-                height: 30.0,
-                width: 30.0,
-                allowDrawingOutsideViewBox: true,
-              ), //Icon(Icons.filter),
-              onPressed: () => Scaffold.of(context).openEndDrawer(),
-              tooltip:
-              MaterialLocalizations.of(context).openAppDrawerTooltip,
-            ),
-          ),
-        ]
+                Builder(
+                  builder: (context) => IconButton(
+                    icon: SvgPicture.asset(
+                      "assets/funnel.svg",
+                      height: 30.0,
+                      width: 30.0,
+                      allowDrawingOutsideViewBox: true,
+                    ), //Icon(Icons.filter),
+                    onPressed: () => Scaffold.of(context).openEndDrawer(),
+                    tooltip:
+                        MaterialLocalizations.of(context).openAppDrawerTooltip,
+                  ),
+                ),
+              ]
             : null,
       ),
     );

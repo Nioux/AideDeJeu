@@ -12,13 +12,15 @@ class HomePage extends StatelessWidget {
     return Scaffold(
         appBar: AppBar(
           title: Text(
-            AppLocalizations.of(context).title,
+            AppLocalizations.of(context).app_title,
           ),
         ),
         body: Column(
           children: <Widget>[
             FlatButton.icon(
-              label: Text("Bibliothèque"),
+              label: Text(
+                AppLocalizations.of(context).library_title,
+              ),
               icon: SvgPicture.asset(
                 "assets/spell-book.svg",
                 height: 100.0,
@@ -36,7 +38,7 @@ class HomePage extends StatelessWidget {
             ),
             FlatButton.icon(
               label: Text(
-                "Personnages",
+                AppLocalizations.of(context).pceditor_title,
               ),
               icon: SvgPicture.asset(
                 "assets/swordman.svg",
@@ -53,7 +55,7 @@ class HomePage extends StatelessWidget {
             ),
             FlatButton.icon(
               label: Text(
-                "A propos de...",
+                AppLocalizations.of(context).about_title,
               ),
               icon: SvgPicture.asset(
                 "assets/wooden-sign.svg",

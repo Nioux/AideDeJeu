@@ -1,8 +1,39 @@
 {
   "@@locale": "fr",
-  "title": "Bonjour Monde",
-  "@title": {
-    "description": "Title for the Demo application",
-    "type": "text"
+  "app_title": "Bonjour Monde",
+  "@app_title": {
+    "description": "Title for the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "library_title": "Bibliothèque",
+  "@library_title": {
+    "description": "Title for the Library page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pceditor_title": "Personnages",
+  "@pceditor_title": {
+    "description": "Title for the Player Characters page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_title": "A propos de...",
+  "@about_title": {
+    "description": "Title for the About page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bookmarks_title": "Favoris",
+  "@bookmarks_title": {
+    "description": "Title for the Bookmarks page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_title": "Recherche",
+  "@search_title": {
+    "description": "Title for the Search page",
+    "type": "text",
+    "placeholders": {}
   }
 }

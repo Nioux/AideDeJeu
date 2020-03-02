@@ -1,8 +1,39 @@
 {
   "@@locale": "en",
-  "title": "Hello World",
-  "@title": {
-    "description": "Title for the Demo application",
-    "type": "text"
+  "app_title": "Hello World",
+  "@app_title": {
+    "description": "Title for the application",
+    "type": "text",
+    "placeholders": {}
+  },
+  "library_title": "Library",
+  "@library_title": {
+    "description": "Title for the Library page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "pceditor_title": "Player Characters",
+  "@pceditor_title": {
+    "description": "Title for the Player Characters page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "about_title": "About...",
+  "@about_title": {
+    "description": "Title for the About page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "bookmarks_title": "Bookmarks",
+  "@bookmarks_title": {
+    "description": "Title for the Bookmarks page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "search_title": "Search",
+  "@search_title": {
+    "description": "Title for the Search page",
+    "type": "text",
+    "placeholders": {}
   }
 }

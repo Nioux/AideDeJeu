@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       //title: 'Haches & Dés',
-      onGenerateTitle: (BuildContext context) => AppLocalizations.of(context).title,
+      onGenerateTitle: (BuildContext context) =>
+          AppLocalizations.of(context).app_title,
       localizationsDelegates: [
         const AppLocalizationsDelegate(),
         GlobalMaterialLocalizations.delegate,
@@ -26,4 +27,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
