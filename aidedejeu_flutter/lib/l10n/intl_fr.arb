@@ -1,38 +1,56 @@
 {
   "@@locale": "fr",
-  "app_title": "Bonjour Monde",
-  "@app_title": {
+  "appTitle": "Bonjour Monde",
+  "@appTitle": {
     "description": "Title for the application",
     "type": "text",
     "placeholders": {}
   },
-  "library_title": "Bibliothèque",
-  "@library_title": {
+  "libraryTitle": "Bibliothèque",
+  "@libraryTitle": {
     "description": "Title for the Library page",
     "type": "text",
     "placeholders": {}
   },
-  "pceditor_title": "Personnages",
-  "@pceditor_title": {
+  "pceditorTitle": "Personnages",
+  "@pceditorTitle": {
     "description": "Title for the Player Characters page",
     "type": "text",
     "placeholders": {}
   },
-  "about_title": "A propos de...",
-  "@about_title": {
+  "aboutTitle": "A propos de...",
+  "@aboutTitle": {
     "description": "Title for the About page",
     "type": "text",
     "placeholders": {}
   },
-  "bookmarks_title": "Favoris",
-  "@bookmarks_title": {
+  "bookmarksTitle": "Favoris",
+  "@bookmarksTitle": {
     "description": "Title for the Bookmarks page",
     "type": "text",
     "placeholders": {}
   },
-  "search_title": "Recherche",
-  "@search_title": {
+  "searchTitle": "Recherche",
+  "@searchTitle": {
     "description": "Title for the Search page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceTitle": "Race",
+  "@raceTitle": {
+    "description": "Title for the Race page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backgroundTitle": "Historique",
+  "@backgroundTitle": {
+    "description": "Title for the Background page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "classTitle": "Classe",
+  "@classTitle": {
+    "description": "Title for the Class page",
     "type": "text",
     "placeholders": {}
   }

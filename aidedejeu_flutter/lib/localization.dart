@@ -21,59 +21,106 @@ class AppLocalizations {
 
   final String localeName;
 
-  String get app_title {
+  String get appTitle {
     return Intl.message(
       'Hello World',
-      name: 'app_title',
+      name: 'appTitle',
       desc: 'Title for the application',
       locale: localeName,
     );
   }
 
-  String get library_title {
+  String get libraryTitle {
     return Intl.message(
       'Library',
-      name: 'library_title',
+      name: 'libraryTitle',
       desc: 'Title for the Library page',
       locale: localeName,
     );
   }
 
-  String get pceditor_title {
+  String get pceditorTitle {
     return Intl.message(
       'Player Characters',
-      name: 'pceditor_title',
+      name: 'pceditorTitle',
       desc: 'Title for the Player Characters page',
       locale: localeName,
     );
   }
 
-  String get about_title {
+  String get aboutTitle {
     return Intl.message(
       'About...',
-      name: 'about_title',
+      name: 'aboutTitle',
       desc: 'Title for the About page',
       locale: localeName,
     );
   }
 
-  String get bookmarks_title {
+  String get bookmarksTitle {
     return Intl.message(
       'Bookmarks',
-      name: 'bookmarks_title',
+      name: 'bookmarksTitle',
       desc: 'Title for the Bookmarks page',
       locale: localeName,
     );
   }
 
-  String get search_title {
+  String get searchTitle {
     return Intl.message(
       'Search',
-      name: 'search_title',
+      name: 'searchTitle',
       desc: 'Title for the Search page',
       locale: localeName,
     );
   }
+
+  String get raceTitle {
+    return Intl.message(
+      'Race',
+      name: 'raceTitle',
+      desc: 'Title for the Race page',
+      locale: localeName,
+    );
+  }
+
+  String get backgroundTitle {
+    return Intl.message(
+      'Background',
+      name: 'backgroundTitle',
+      desc: 'Title for the Background page',
+      locale: localeName,
+    );
+  }
+
+  String get classTitle {
+    return Intl.message(
+      'Class',
+      name: 'classTitle',
+      desc: 'Title for the Class page',
+      locale: localeName,
+    );
+  }
+
+  String get abilitiesTitle {
+    return Intl.message(
+      'Abilities',
+      name: 'abilitiesTitle',
+      desc: 'Title for the Abilities page',
+      locale: localeName,
+    );
+  }
+
+  String get othersTitle {
+    return Intl.message(
+      'Others',
+      name: 'othersTitle',
+      desc: 'Title for the Others page',
+      locale: localeName,
+    );
+  }
+
+
 }
 
 class AppLocalizationsDelegate extends LocalizationsDelegate<AppLocalizations> {

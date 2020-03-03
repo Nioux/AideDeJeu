@@ -139,15 +139,15 @@ class _LibraryPageState extends State<LibraryPage> {
   List _buildBottomNavigationBarItems() {
     return <BottomNavigationBarItem>[
       _buildBottomNavigationBarItem(
-        AppLocalizations.of(context).library_title,
+        AppLocalizations.of(context).libraryTitle,
         "assets/spell-book.svg",
       ),
       _buildBottomNavigationBarItem(
-        AppLocalizations.of(context).bookmarks_title,
+        AppLocalizations.of(context).bookmarksTitle,
         "assets/stars-stack.svg",
       ),
       _buildBottomNavigationBarItem(
-        AppLocalizations.of(context).search_title,
+        AppLocalizations.of(context).searchTitle,
         "assets/crystal-ball.svg",
       ),
     ];

@@ -1,38 +1,56 @@
 {
-  "@@last_modified": "2020-03-02T17:41:08.588343",
-  "app_title": "Hello World",
-  "@app_title": {
+  "@@last_modified": "2020-03-03T11:00:06.908535",
+  "appTitle": "Hello World",
+  "@appTitle": {
     "description": "Title for the application",
     "type": "text",
     "placeholders": {}
   },
-  "library_title": "Library",
-  "@library_title": {
+  "libraryTitle": "Library",
+  "@libraryTitle": {
     "description": "Title for the Library page",
     "type": "text",
     "placeholders": {}
   },
-  "pceditor_title": "Player Characters",
-  "@pceditor_title": {
+  "pceditorTitle": "Player Characters",
+  "@pceditorTitle": {
     "description": "Title for the Player Characters page",
     "type": "text",
     "placeholders": {}
   },
-  "about_title": "About...",
-  "@about_title": {
+  "aboutTitle": "About...",
+  "@aboutTitle": {
     "description": "Title for the About page",
     "type": "text",
     "placeholders": {}
   },
-  "bookmarks_title": "Bookmarks",
-  "@bookmarks_title": {
+  "bookmarksTitle": "Bookmarks",
+  "@bookmarksTitle": {
     "description": "Title for the Bookmarks page",
     "type": "text",
     "placeholders": {}
   },
-  "search_title": "Search",
-  "@search_title": {
+  "searchTitle": "Search",
+  "@searchTitle": {
     "description": "Title for the Search page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceTitle": "Race",
+  "@raceTitle": {
+    "description": "Title for the Race page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "backgroundTitle": "Background",
+  "@backgroundTitle": {
+    "description": "Title for the Background page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "classTitle": "Class",
+  "@classTitle": {
+    "description": "Title for the Class page",
     "type": "text",
     "placeholders": {}
   }
