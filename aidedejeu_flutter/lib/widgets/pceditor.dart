@@ -96,9 +96,10 @@ class _PCEditorPageState extends State<PCEditorPage> {
 
   // widgets generics
 
-  Widget _loadMarkdown(String markdown) {
+  Widget _buildMarkdown(String markdown) {
     return MarkdownBody(
       data: markdown ?? "",
+      styleSheet: mainMarkdownStyleSheet(context),
       onTapLink: (link) => Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
@@ -106,7 +107,15 @@ class _PCEditorPageState extends State<PCEditorPage> {
     );
   }
 
-  Widget _loadItemsWidget<T extends Item>(
+  Widget _buildSubTitle(String title) {
+    return Text(title,
+        style: TextStyle(
+          fontSize: 16,
+          fontFamily: "Cinzel",
+        ));
+  }
+
+  Widget _buildItemsWidget<T extends Item>(
       {String hintText,
       List<T> items,
       T selectedItem,
@@ -130,8 +139,8 @@ class _PCEditorPageState extends State<PCEditorPage> {
 
   // widgets specifics
 
-  Widget _loadRacesWidget() {
-    return _loadItemsWidget<RaceItem>(
+  Widget _buildRacesWidget() {
+    return _buildItemsWidget<RaceItem>(
       hintText: "Race",
       items: _races,
       selectedItem: _race,
@@ -141,9 +150,9 @@ class _PCEditorPageState extends State<PCEditorPage> {
     );
   }
 
-  Widget _loadSubRacesWidget() {
+  Widget _buildSubRacesWidget() {
     return _subRaces != null
-        ? _loadItemsWidget<SubRaceItem>(
+        ? _buildItemsWidget<SubRaceItem>(
             hintText: "Variante",
             items: _subRaces,
             selectedItem: _subRace,
@@ -154,39 +163,39 @@ class _PCEditorPageState extends State<PCEditorPage> {
         : SizedBox.shrink();
   }
 
-  Widget _loadRaceDetailsWidget() {
+  Widget _buildRaceDetailsWidget() {
     return _race != null
         ? Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text("Augmentation de caractéristiques", style: TextStyle(fontSize: 16, fontFamily: "Cinzel",)),
-              _loadMarkdown(_race?.abilityScoreIncrease),
-              _loadMarkdown(_subRace?.abilityScoreIncrease),
+              _buildSubTitle("Augmentation de caractéristiques"),
+              _buildMarkdown(_race?.abilityScoreIncrease),
+              _buildMarkdown(_subRace?.abilityScoreIncrease),
               Text(""),
-              Text("Âge"),
-              _loadMarkdown(_race?.age),
+              _buildSubTitle("Âge"),
+              _buildMarkdown(_race?.age),
               Text(""),
-              Text("Alignement"),
-              _loadMarkdown(_race?.alignment),
+              _buildSubTitle("Alignement"),
+              _buildMarkdown(_race?.alignment),
               Text(""),
-              Text("Taille"),
-              _loadMarkdown(_race?.size),
+              _buildSubTitle("Taille"),
+              _buildMarkdown(_race?.size),
               Text(""),
-              Text("Vitesse"),
-              _loadMarkdown(_race?.speed),
+              _buildSubTitle("Vitesse"),
+              _buildMarkdown(_race?.speed),
               Text(""),
-              Text("Vision dans le noir"),
-              _loadMarkdown(_race?.darkvision),
+              _buildSubTitle("Vision dans le noir"),
+              _buildMarkdown(_race?.darkvision),
               Text(""),
-              Text("Langues"),
-              _loadMarkdown(_race?.languages),
+              _buildSubTitle("Langues"),
+              _buildMarkdown(_race?.languages),
             ],
           )
         : SizedBox.shrink();
   }
 
-  Widget _loadBackgroundsWidget() {
-    return _loadItemsWidget<BackgroundItem>(
+  Widget _buildBackgroundsWidget() {
+    return _buildItemsWidget<BackgroundItem>(
       hintText: "Historique",
       items: _backgrounds,
       selectedItem: _background,
@@ -196,9 +205,9 @@ class _PCEditorPageState extends State<PCEditorPage> {
     );
   }
 
-  Widget _loadSubBackgroundsWidget() {
+  Widget _buildSubBackgroundsWidget() {
     return _subBackgrounds != null
-        ? _loadItemsWidget<SubBackgroundItem>(
+        ? _buildItemsWidget<SubBackgroundItem>(
             hintText: "Variante",
             items: _subBackgrounds,
             selectedItem: _subBackground,
@@ -219,50 +228,81 @@ class _PCEditorPageState extends State<PCEditorPage> {
           bottom: TabBar(
             labelColor: Colors.black,
             isScrollable: true,
-            indicatorColor: Theme.of(context).accentColor, // Colors.red,
+            indicatorColor: Theme.of(context).accentColor,
+            // Colors.red,
             indicatorSize: TabBarIndicatorSize.label,
             tabs: <Widget>[
               Text(
                 AppLocalizations.of(context).raceTitle,
-                style: TextStyle(fontSize: 25, fontFamily: "Cinzel",),
+                style: TextStyle(
+                  fontSize: 25,
+                  fontFamily: "Cinzel",
+                ),
               ),
               Text(
                 AppLocalizations.of(context).backgroundTitle,
-                style: TextStyle(fontSize: 25, fontFamily: "Cinzel",),
+                style: TextStyle(
+                  fontSize: 25,
+                  fontFamily: "Cinzel",
+                ),
               ),
               Text(
                 AppLocalizations.of(context).classTitle,
-                style: TextStyle(fontSize: 25, fontFamily: "Cinzel",),
+                style: TextStyle(
+                  fontSize: 25,
+                  fontFamily: "Cinzel",
+                ),
               ),
               Text(
                 AppLocalizations.of(context).abilitiesTitle,
-                style: TextStyle(fontSize: 25, fontFamily: "Cinzel",),
+                style: TextStyle(
+                  fontSize: 25,
+                  fontFamily: "Cinzel",
+                ),
               ),
               Text(
                 AppLocalizations.of(context).othersTitle,
-                style: TextStyle(fontSize: 25, fontFamily: "Cinzel",),
+                style: TextStyle(
+                  fontSize: 25,
+                  fontFamily: "Cinzel",
+                ),
               ),
             ],
           ),
         ),
         body: TabBarView(
           children: [
-            ListView(
-              children: <Widget>[
-                _loadRacesWidget(),
-                _loadSubRacesWidget(),
-                _loadRaceDetailsWidget(),
-              ],
+            Container(
+              margin: EdgeInsets.all(10.0),
+              child: ListView(
+                children: <Widget>[
+                  _buildRacesWidget(),
+                  _buildSubRacesWidget(),
+                  _buildRaceDetailsWidget(),
+                ],
+              ),
             ),
-            ListView(
-              children: <Widget>[
-                _loadBackgroundsWidget(),
-                _loadSubBackgroundsWidget(),
-              ],
+            Container(
+              margin: EdgeInsets.all(10.0),
+              child: ListView(
+                children: <Widget>[
+                  _buildBackgroundsWidget(),
+                  _buildSubBackgroundsWidget(),
+                ],
+              ),
             ),
-            Text(AppLocalizations.of(context).classTitle),
-            Text(AppLocalizations.of(context).abilitiesTitle),
-            Text(AppLocalizations.of(context).othersTitle),
+            Container(
+              margin: EdgeInsets.all(10.0),
+              child: Text(AppLocalizations.of(context).classTitle),
+            ),
+            Container(
+              margin: EdgeInsets.all(10.0),
+              child: Text(AppLocalizations.of(context).abilitiesTitle),
+            ),
+            Container(
+              margin: EdgeInsets.all(10.0),
+              child: Text(AppLocalizations.of(context).othersTitle),
+            ),
           ],
         ),
       ),
