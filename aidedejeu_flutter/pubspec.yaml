@@ -87,6 +87,12 @@ flutter:
         - asset: assets/Cinzel-Bold.otf
           weight: 700
         - asset: assets/Cinzel-Regular.otf
+    - family: Cinzel-Regular
+      fonts:
+        - asset: assets/Cinzel-Regular.otf
+    - family: Cinzel-Bold
+      fonts:
+        - asset: assets/Cinzel-Bold.otf
     - family: LinuxLibertine
       fonts:
         - asset: assets/LinLibertine_R.ttf

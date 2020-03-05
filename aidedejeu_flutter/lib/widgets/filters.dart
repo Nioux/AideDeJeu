@@ -1,4 +1,5 @@
 import 'package:aidedejeu_flutter/models/items.dart';
+import 'package:aidedejeu_flutter/theme.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -20,6 +21,8 @@ class _RangeFilterState extends State<RangeFilter> {
   @override
   Widget build(BuildContext context) {
     return RangeSlider(
+      activeColor: colorHDRed,
+        inactiveColor: colorHDLightGrey,
         min: 0,
         max: widget.values.length.toDouble() - 1,
         divisions: widget.values.length,
@@ -57,11 +60,18 @@ class _ChipListFilterState extends State<ChipListFilter> {
   @override
   Widget build(BuildContext context) {
     return Wrap(
+      spacing: 0.0,
+        crossAxisAlignment: WrapCrossAlignment.start,
+        alignment: WrapAlignment.spaceEvenly,
+        direction: Axis.horizontal,
+        runAlignment: WrapAlignment.start,
+        verticalDirection: VerticalDirection.down,
+
         children: widget.choices
             .map((choice) => Padding(
-                padding: const EdgeInsets.all(4.0),
+                padding: const EdgeInsets.fromLTRB(2,0,2,0),
                 child: FilterChip(
-                  label: Text(choice),
+                  label: Text(choice, style: TextStyle(fontSize: 10.0),),
                   backgroundColor: Colors.transparent,
                   shape: StadiumBorder(side: BorderSide()),
                   selected: widget.selectedChoices.contains(choice),

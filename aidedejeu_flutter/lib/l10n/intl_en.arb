@@ -1,6 +1,6 @@
 {
   "@@locale": "en",
-  "appTitle": "Hello World",
+  "appTitle": "Axes & Dices",
   "@appTitle": {
     "description": "Title for the application",
     "type": "text",
@@ -51,6 +51,162 @@
   "classTitle": "Class",
   "@classTitle": {
     "description": "Title for the Class page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "abilitiesTitle": "Abilities",
+  "@abilitiesTitle": {
+    "description": "Title for the Abilities page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "othersTitle": "Others",
+  "@othersTitle": {
+    "description": "Title for the Others page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceAbilityScoreIncrease": "Ability Score Increase",
+  "@raceAbilityScoreIncrease": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceAge": "Age",
+  "@raceAge": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceAlignment": "Alignment",
+  "@raceAlignment": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceSize": "Size",
+  "@raceSize": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceSpeed": "Speed",
+  "@raceSpeed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceDarkvision": "Darkvision",
+  "@raceDarkvision": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceLanguages": "Languages",
+  "@raceLanguages": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersTypes": "Types",
+  "@monstersTypes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersChallenges": "Challenges",
+  "@monstersChallenges": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersSizes": "Sizes",
+  "@monstersSizes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersSources": "Sources",
+  "@monstersSources": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersTerrains": "Terrains",
+  "@monstersTerrains": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsClasses": "Classes",
+  "@spellsClasses": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsLevels": "Levels",
+  "@spellsLevels": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsSchools": "Schools",
+  "@spellsSchools": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsRituals": "Rituals",
+  "@spellsRituals": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsCastingTimes": "Casting Times",
+  "@spellsCastingTimes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsRanges": "Ranges",
+  "@spellsRanges": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsVerbalComponents": "Verbal Components",
+  "@spellsVerbalComponents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsSomaticComponents": "Somatic Components",
+  "@spellsSomaticComponents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsMaterialComponents": "Material Components",
+  "@spellsMaterialComponents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsConcentrations": "Concentrations",
+  "@spellsConcentrations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsDurations": "Durations",
+  "@spellsDurations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsSources": "Sources",
+  "@spellsSources": {
+    "description": "",
     "type": "text",
     "placeholders": {}
   }
