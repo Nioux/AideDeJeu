@@ -14,6 +14,8 @@ class PCEditorPage extends StatefulWidget {
 }
 
 class _PCEditorPageState extends State<PCEditorPage> {
+  MarkdownStyleSheet styleSheet;
+
   RaceItem _race;
   SubRaceItem _subRace;
   List<RaceItem> _races;
@@ -31,6 +33,13 @@ class _PCEditorPageState extends State<PCEditorPage> {
     super.initState();
     _initRaces();
     _initBackgrounds();
+  }
+
+  @protected
+  @mustCallSuper
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    styleSheet = mainMarkdownStyleSheet(context);
   }
 
   void _initRaces() async {
@@ -99,7 +108,7 @@ class _PCEditorPageState extends State<PCEditorPage> {
   Widget _buildMarkdown(String markdown) {
     return MarkdownBody(
       data: markdown ?? "",
-      styleSheet: mainMarkdownStyleSheet(context),
+      styleSheet: styleSheet,
       onTapLink: (link) => Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
