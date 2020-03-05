@@ -21,14 +21,40 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static _notInlinedMessages(_) => <String, Function> {
+    "abilitiesTitle" : MessageLookupByLibrary.simpleMessage("Caractéristiques"),
     "aboutTitle" : MessageLookupByLibrary.simpleMessage("A propos de..."),
-    "appTitle" : MessageLookupByLibrary.simpleMessage("Bonjour Monde"),
+    "appTitle" : MessageLookupByLibrary.simpleMessage("Haches & Dés"),
     "backgroundTitle" : MessageLookupByLibrary.simpleMessage("Historique"),
     "bookmarksTitle" : MessageLookupByLibrary.simpleMessage("Favoris"),
     "classTitle" : MessageLookupByLibrary.simpleMessage("Classe"),
     "libraryTitle" : MessageLookupByLibrary.simpleMessage("Bibliothèque"),
+    "monstersChallenges" : MessageLookupByLibrary.simpleMessage("Dangerosités"),
+    "monstersSizes" : MessageLookupByLibrary.simpleMessage("Tailles"),
+    "monstersSources" : MessageLookupByLibrary.simpleMessage("Sources"),
+    "monstersTerrains" : MessageLookupByLibrary.simpleMessage("Terrains"),
+    "monstersTypes" : MessageLookupByLibrary.simpleMessage("Types"),
+    "othersTitle" : MessageLookupByLibrary.simpleMessage("Autres"),
     "pceditorTitle" : MessageLookupByLibrary.simpleMessage("Personnages"),
+    "raceAbilityScoreIncrease" : MessageLookupByLibrary.simpleMessage("Augmentation de caractéristiques"),
+    "raceAge" : MessageLookupByLibrary.simpleMessage("Âge"),
+    "raceAlignment" : MessageLookupByLibrary.simpleMessage("Alignement"),
+    "raceDarkvision" : MessageLookupByLibrary.simpleMessage("Vision dans le noir"),
+    "raceLanguages" : MessageLookupByLibrary.simpleMessage("Langues"),
+    "raceSize" : MessageLookupByLibrary.simpleMessage("Taille"),
+    "raceSpeed" : MessageLookupByLibrary.simpleMessage("Vitesse"),
     "raceTitle" : MessageLookupByLibrary.simpleMessage("Race"),
-    "searchTitle" : MessageLookupByLibrary.simpleMessage("Recherche")
+    "searchTitle" : MessageLookupByLibrary.simpleMessage("Recherche"),
+    "spellsCastingTimes" : MessageLookupByLibrary.simpleMessage("Temps d\'incantation"),
+    "spellsClasses" : MessageLookupByLibrary.simpleMessage("Classes"),
+    "spellsConcentrations" : MessageLookupByLibrary.simpleMessage("Concentrations"),
+    "spellsDurations" : MessageLookupByLibrary.simpleMessage("Durées"),
+    "spellsLevels" : MessageLookupByLibrary.simpleMessage("Niveaux"),
+    "spellsMaterialComponents" : MessageLookupByLibrary.simpleMessage("Composantes Matérielles"),
+    "spellsRanges" : MessageLookupByLibrary.simpleMessage("Portées"),
+    "spellsRituals" : MessageLookupByLibrary.simpleMessage("Rituels"),
+    "spellsSchools" : MessageLookupByLibrary.simpleMessage("Écoles"),
+    "spellsSomaticComponents" : MessageLookupByLibrary.simpleMessage("Composantes Somatiques"),
+    "spellsSources" : MessageLookupByLibrary.simpleMessage("Sources"),
+    "spellsVerbalComponents" : MessageLookupByLibrary.simpleMessage("Composantes Verbales")
   };
 }

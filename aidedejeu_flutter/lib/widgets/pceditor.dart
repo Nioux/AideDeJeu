@@ -34,31 +34,31 @@ class _PCEditorPageState extends State<PCEditorPage> {
   }
 
   void _initRaces() async {
-    var races = await loadRaces();
+    var races = await loadRaces(context);
     setState(() {
-      _races = races.map((e) => e as RaceItem).toList();
+      _races = races.toList();
     });
   }
 
   void _initSubRaces(RaceItem race) async {
-    var subRaces = await loadSubRaces(race);
+    var subRaces = await loadSubRaces(context, race);
     setState(() {
-      _subRaces = subRaces.map((e) => e as SubRaceItem).toList();
+      _subRaces = subRaces;
     });
   }
 
   void _initBackgrounds() async {
-    var backgrounds = await loadBackgrounds();
+    var backgrounds = await loadBackgrounds(context);
     setState(() {
-      _backgrounds = backgrounds.map((e) => e as BackgroundItem).toList();
+      _backgrounds = backgrounds;
     });
   }
 
   void _initSubBackgrounds(BackgroundItem background) async {
-    var subBackgrounds = await loadSubBackgrounds(background);
+    var subBackgrounds = await loadSubBackgrounds(context, background);
     setState(() {
       _subBackgrounds =
-          subBackgrounds.map((e) => e as SubBackgroundItem).toList();
+          subBackgrounds;
     });
   }
 
@@ -168,26 +168,26 @@ class _PCEditorPageState extends State<PCEditorPage> {
         ? Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              _buildSubTitle("Augmentation de caractéristiques"),
+              _buildSubTitle(AppLocalizations.of(context).raceAbilityScoreIncrease),
               _buildMarkdown(_race?.abilityScoreIncrease),
               _buildMarkdown(_subRace?.abilityScoreIncrease),
               Text(""),
-              _buildSubTitle("Âge"),
+              _buildSubTitle(AppLocalizations.of(context).raceAge),
               _buildMarkdown(_race?.age),
               Text(""),
-              _buildSubTitle("Alignement"),
+              _buildSubTitle(AppLocalizations.of(context).raceAlignment),
               _buildMarkdown(_race?.alignment),
               Text(""),
-              _buildSubTitle("Taille"),
+              _buildSubTitle(AppLocalizations.of(context).raceSize),
               _buildMarkdown(_race?.size),
               Text(""),
-              _buildSubTitle("Vitesse"),
+              _buildSubTitle(AppLocalizations.of(context).raceSpeed),
               _buildMarkdown(_race?.speed),
+              _race?.darkvision != null ? Text("") : SizedBox.shrink(),
+              _race?.darkvision != null ? _buildSubTitle(AppLocalizations.of(context).raceDarkvision) : SizedBox.shrink(),
+              _race?.darkvision != null ? _buildMarkdown(_race?.darkvision) : SizedBox.shrink(),
               Text(""),
-              _buildSubTitle("Vision dans le noir"),
-              _buildMarkdown(_race?.darkvision),
-              Text(""),
-              _buildSubTitle("Langues"),
+              _buildSubTitle(AppLocalizations.of(context).raceLanguages),
               _buildMarkdown(_race?.languages),
             ],
           )

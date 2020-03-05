@@ -23,7 +23,7 @@ class AppLocalizations {
 
   String get appTitle {
     return Intl.message(
-      'Hello World',
+      'Axes & Dices',
       name: 'appTitle',
       desc: 'Title for the application',
       locale: localeName,
@@ -120,6 +120,219 @@ class AppLocalizations {
     );
   }
 
+  String get raceAbilityScoreIncrease {
+    return Intl.message(
+      'Ability Score Increase',
+      name: 'raceAbilityScoreIncrease',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get raceAge {
+    return Intl.message(
+      'Age',
+      name: 'raceAge',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get raceAlignment {
+    return Intl.message(
+      'Alignment',
+      name: 'raceAlignment',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get raceSize {
+    return Intl.message(
+      'Size',
+      name: 'raceSize',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get raceSpeed {
+    return Intl.message(
+      'Speed',
+      name: 'raceSpeed',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get raceDarkvision {
+    return Intl.message(
+      'Darkvision',
+      name: 'raceDarkvision',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get raceLanguages {
+    return Intl.message(
+      'Languages',
+      name: 'raceLanguages',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get monstersTypes {
+    return Intl.message(
+      'Types',
+      name: 'monstersTypes',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get monstersChallenges {
+    return Intl.message(
+      'Challenges',
+      name: 'monstersChallenges',
+      desc: '',
+      locale: localeName,
+    );
+  }
+  String get monstersSizes {
+    return Intl.message(
+      'Sizes',
+      name: 'monstersSizes',
+      desc: '',
+      locale: localeName,
+    );
+  }
+  String get monstersSources {
+    return Intl.message(
+      'Sources',
+      name: 'monstersSources',
+      desc: '',
+      locale: localeName,
+    );
+  }
+  String get monstersTerrains {
+    return Intl.message(
+      'Terrains',
+      name: 'monstersTerrains',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+
+  String get spellsClasses {
+    return Intl.message(
+      'Classes',
+      name: 'spellsClasses',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsLevels {
+    return Intl.message(
+      'Levels',
+      name: 'spellsLevels',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsSchools {
+    return Intl.message(
+      'Schools',
+      name: 'spellsSchools',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsRituals {
+    return Intl.message(
+      'Rituals',
+      name: 'spellsRituals',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsCastingTimes {
+    return Intl.message(
+      'Casting Times',
+      name: 'spellsCastingTimes',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsRanges {
+    return Intl.message(
+      'Ranges',
+      name: 'spellsRanges',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsVerbalComponents {
+    return Intl.message(
+      'Verbal Components',
+      name: 'spellsVerbalComponents',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsSomaticComponents {
+    return Intl.message(
+      'Somatic Components',
+      name: 'spellsSomaticComponents',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsMaterialComponents {
+    return Intl.message(
+      'Material Components',
+      name: 'spellsMaterialComponents',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsConcentrations {
+    return Intl.message(
+      'Concentrations',
+      name: 'spellsConcentrations',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsDurations {
+    return Intl.message(
+      'Durations',
+      name: 'spellsDurations',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get spellsSources {
+    return Intl.message(
+      'Sources',
+      name: 'spellsSources',
+      desc: '',
+      locale: localeName,
+    );
+  }
 
 }
 

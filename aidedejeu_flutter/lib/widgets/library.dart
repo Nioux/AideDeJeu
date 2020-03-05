@@ -54,8 +54,8 @@ class _LibraryPageState extends State<LibraryPage> {
   }
 
   Future<Item> _loadItem() async {
-    var item = await getItemWithId(this.widget.id);
-    var items = await loadChildrenItems(item, filters);
+    var item = await getItemWithId(context, this.widget.id);
+    var items = await loadChildrenItems(context, item, filters);
     //setItem(item);
     return item;
   }
@@ -86,8 +86,22 @@ class _LibraryPageState extends State<LibraryPage> {
 
   Widget _buildChildTile(BuildContext context, Item item) {
     return ListTile(
-      title: Text(item.name),
-      subtitle: Text(item.aliasText ?? ""),
+      title: Text(
+        item.name,
+        style: TextStyle(
+          fontSize: 25.0,
+          color: colorHDBlue,
+          fontWeight: FontWeight.bold,
+          fontFamily: 'Cinzel-Regular',
+        ),
+      ),
+      subtitle: Text(item.aliasText ?? "",
+        style: TextStyle(
+          fontSize: 18.0,
+          color: colorHDLightGrey,
+          fontWeight: FontWeight.bold,
+          fontFamily: 'Cinzel-Regular',
+        ),),
       onTap: () => Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => LibraryPage(id: item.id)),
@@ -126,7 +140,9 @@ class _LibraryPageState extends State<LibraryPage> {
         width: 30.0,
         allowDrawingOutsideViewBox: true,
       ),
-      title: Text(title),
+      title: Text(title, style: TextStyle(fontSize: 16.0,
+        fontWeight: FontWeight.bold,
+        fontFamily: 'Cinzel-Regular',),),
       activeIcon: SvgPicture.asset(
         assetName,
         height: 40.0,
@@ -161,7 +177,7 @@ class _LibraryPageState extends State<LibraryPage> {
         setState(() {
           filter.selectedValues = choices;
         });
-        loadChildrenItems(item, filters).then((value) => {
+        loadChildrenItems(context, item, filters).then((value) => {
               setState(() {
                 this.item = item;
                 this.filters = filters;
@@ -179,7 +195,7 @@ class _LibraryPageState extends State<LibraryPage> {
           setState(() {
             filter.rangeValues = values;
           });
-          loadChildrenItems(item, filters).then((value) => {
+          loadChildrenItems(context, item, filters).then((value) => {
                 setState(() {
                   this.item = item;
                   this.filters = filters;
@@ -192,13 +208,13 @@ class _LibraryPageState extends State<LibraryPage> {
     return Column(children: <Widget>[
       Divider(
         color: Colors.blueGrey,
-        height: 10.0,
+        height: 0.0,
       ),
       Align(
         alignment: Alignment.centerLeft,
         child: Padding(
-          padding: const EdgeInsets.all(8.0),
-          child: Text(filter.name),
+          padding: const EdgeInsets.fromLTRB(8.0,1.0,8.0,1.0),
+          child: Text(filter.name, style: TextStyle(fontFamily: "Cinzel"),),
         ),
       ),
       Container(
@@ -242,6 +258,7 @@ class _LibraryPageState extends State<LibraryPage> {
             this.indexPage = index;
           });
         },
+        selectedItemColor: colorHDRed,
         items: _buildBottomNavigationBarItems(),
       ),
       endDrawer: filters != null
@@ -253,7 +270,7 @@ class _LibraryPageState extends State<LibraryPage> {
             )
           : null,
       appBar: AppBar(
-        title: Text(widget.id),
+        title: Text(item?.name ?? widget.id),
         actions: filters != null
             ? [
                 Builder(

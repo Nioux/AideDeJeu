@@ -1,6 +1,6 @@
 {
   "@@locale": "fr",
-  "appTitle": "Bonjour Monde",
+  "appTitle": "Haches & Dés",
   "@appTitle": {
     "description": "Title for the application",
     "type": "text",
@@ -51,6 +51,162 @@
   "classTitle": "Classe",
   "@classTitle": {
     "description": "Title for the Class page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "abilitiesTitle": "Caractéristiques",
+  "@abilitiesTitle": {
+    "description": "Title for the Abilities page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "othersTitle": "Autres",
+  "@othersTitle": {
+    "description": "Title for the Others page",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceAbilityScoreIncrease": "Augmentation de caractéristiques",
+  "@raceAbilityScoreIncrease": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceAge": "Âge",
+  "@raceAge": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceAlignment": "Alignement",
+  "@raceAlignment": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceSize": "Taille",
+  "@raceSize": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceSpeed": "Vitesse",
+  "@raceSpeed": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceDarkvision": "Vision dans le noir",
+  "@raceDarkvision": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "raceLanguages": "Langues",
+  "@raceLanguages": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersTypes": "Types",
+  "@monstersTypes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersChallenges": "Dangerosités",
+  "@monstersChallenges": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersSizes": "Tailles",
+  "@monstersSizes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersSources": "Sources",
+  "@monstersSources": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "monstersTerrains": "Terrains",
+  "@monstersTerrains": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsClasses": "Classes",
+  "@spellsClasses": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsLevels": "Niveaux",
+  "@spellsLevels": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsSchools": "Écoles",
+  "@spellsSchools": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsRituals": "Rituels",
+  "@spellsRituals": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsCastingTimes": "Temps d'incantation",
+  "@spellsCastingTimes": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsRanges": "Portées",
+  "@spellsRanges": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsVerbalComponents": "Composantes Verbales",
+  "@spellsVerbalComponents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsSomaticComponents": "Composantes Somatiques",
+  "@spellsSomaticComponents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsMaterialComponents": "Composantes Matérielles",
+  "@spellsMaterialComponents": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsConcentrations": "Concentrations",
+  "@spellsConcentrations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsDurations": "Durées",
+  "@spellsDurations": {
+    "description": "",
+    "type": "text",
+    "placeholders": {}
+  },
+  "spellsSources": "Sources",
+  "@spellsSources": {
+    "description": "",
     "type": "text",
     "placeholders": {}
   }
