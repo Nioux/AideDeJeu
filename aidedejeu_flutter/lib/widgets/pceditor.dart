@@ -1,4 +1,6 @@
 import 'package:aidedejeu_flutter/blocs/player_character/player_character_bloc.dart';
+import 'package:aidedejeu_flutter/blocs/player_character/player_character_event.dart';
+import 'package:aidedejeu_flutter/blocs/player_character/player_character_state.dart';
 import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:aidedejeu_flutter/widgets/library.dart';
