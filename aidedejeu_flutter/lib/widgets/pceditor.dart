@@ -1,21 +1,24 @@
+import 'package:aidedejeu_flutter/blocs/player_character/player_character_bloc.dart';
 import 'package:aidedejeu_flutter/database.dart';
 import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:aidedejeu_flutter/theme.dart';
 import 'package:aidedejeu_flutter/widgets/library.dart';
+import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
+import 'package:equatable/equatable.dart';
 
-class PCEditorPage extends StatefulWidget {
-  PCEditorPage({Key key}) : super(key: key);
+class PCEditorPage extends StatelessWidget {
+  // StatefulWidget {
+/*  PCEditorPage({Key key}) : super(key: key);
 
   @override
   State<StatefulWidget> createState() => _PCEditorPageState();
-}
-
-class _PCEditorPageState extends State<PCEditorPage> {
-  MarkdownStyleSheet styleSheet;
-
+}*/
+/*
+class PCEditorViewModel {
   RaceItem _race;
   SubRaceItem _subRace;
   List<RaceItem> _races;
@@ -26,55 +29,45 @@ class _PCEditorPageState extends State<PCEditorPage> {
   List<BackgroundItem> _backgrounds;
   List<SubBackgroundItem> _subBackgrounds;
 
-  // inits
-
-  @override
-  void initState() {
-    super.initState();
-    _initRaces();
-    _initBackgrounds();
-  }
-
-  @protected
-  @mustCallSuper
-  void didChangeDependencies() {
-    super.didChangeDependencies();
-    styleSheet = mainMarkdownStyleSheet(context);
+  _PCEditorPageState state;
+  BuildContext context;
+  PCEditorViewModel(_PCEditorPageState state, BuildContext context) {
+    this.state = state;
+    this.context = context;
   }
 
   void _initRaces() async {
     var races = await loadRaces(context);
-    setState(() {
+    state.setState(() {
       _races = races.toList();
     });
   }
 
   void _initSubRaces(RaceItem race) async {
     var subRaces = await loadSubRaces(context, race);
-    setState(() {
+    state.setState(() {
       _subRaces = subRaces;
     });
   }
 
   void _initBackgrounds() async {
     var backgrounds = await loadBackgrounds(context);
-    setState(() {
+    state.setState(() {
       _backgrounds = backgrounds;
     });
   }
 
   void _initSubBackgrounds(BackgroundItem background) async {
     var subBackgrounds = await loadSubBackgrounds(context, background);
-    setState(() {
-      _subBackgrounds =
-          subBackgrounds;
+    state.setState(() {
+      _subBackgrounds = subBackgrounds;
     });
   }
 
   // setters
 
   void _setRace(RaceItem race) {
-    setState(() {
+    state.setState(() {
       this._race = race;
       this._subRace = null;
       this._subRaces = null;
@@ -83,13 +76,13 @@ class _PCEditorPageState extends State<PCEditorPage> {
   }
 
   void _setSubRace(SubRaceItem subRace) {
-    setState(() {
+    state.setState(() {
       this._subRace = subRace;
     });
   }
 
   void _setBackground(BackgroundItem background) {
-    setState(() {
+    state.setState(() {
       this._background = background;
       this._subBackground = null;
       this._subBackgrounds = null;
@@ -98,14 +91,41 @@ class _PCEditorPageState extends State<PCEditorPage> {
   }
 
   void _setSubBackground(SubBackgroundItem subBackground) {
-    setState(() {
+    state.setState(() {
       this._subBackground = subBackground;
     });
   }
 
+
+}
+
+ */
+
+//class _PCEditorPageState extends State<PCEditorPage> {
+  MarkdownStyleSheet styleSheet;
+
+  //PCEditorViewModel vm;
+  // inits
+/*
+  @override
+  void initState() {
+    super.initState();
+    //vm = PCEditorViewModel(this, context);
+    //vm._initRaces();
+    //vm._initBackgrounds();
+  }
+
+  @protected
+  @mustCallSuper
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    styleSheet = mainMarkdownStyleSheet(context);
+  }
+*/
   // widgets generics
 
-  Widget _buildMarkdown(String markdown) {
+  Widget _buildMarkdown(
+      BuildContext context, PlayerCharacterState state, String markdown) {
     return MarkdownBody(
       data: markdown ?? "",
       styleSheet: styleSheet,
@@ -116,7 +136,8 @@ class _PCEditorPageState extends State<PCEditorPage> {
     );
   }
 
-  Widget _buildSubTitle(String title) {
+  Widget _buildSubTitle(
+      BuildContext context, PlayerCharacterState state, String title) {
     return Text(title,
         style: TextStyle(
           fontSize: 16,
@@ -125,6 +146,7 @@ class _PCEditorPageState extends State<PCEditorPage> {
   }
 
   Widget _buildItemsWidget<T extends Item>(
+      BuildContext context, PlayerCharacterState state,
       {String hintText,
       List<T> items,
       T selectedItem,
@@ -148,80 +170,111 @@ class _PCEditorPageState extends State<PCEditorPage> {
 
   // widgets specifics
 
-  Widget _buildRacesWidget() {
+  Widget _buildRacesWidget(BuildContext context, PlayerCharacterState state) {
     return _buildItemsWidget<RaceItem>(
+      context,
+      state,
       hintText: "Race",
-      items: _races,
-      selectedItem: _race,
+      items: state.races,
+      selectedItem: state.race,
       onChanged: (value) {
-        _setRace(value);
+        //state.setRace(value);
+        BlocProvider.of<PlayerCharacterBloc>(context).add(RaceEvent(value));
       },
     );
   }
 
-  Widget _buildSubRacesWidget() {
-    return _subRaces != null
+  Widget _buildSubRacesWidget(
+      BuildContext context, PlayerCharacterState state) {
+    return state.subRaces != null
         ? _buildItemsWidget<SubRaceItem>(
+            context,
+            state,
             hintText: "Variante",
-            items: _subRaces,
-            selectedItem: _subRace,
+            items: state.subRaces,
+            selectedItem: state.subRace,
             onChanged: (value) {
-              _setSubRace(value);
+              //state.setSubRace(value);
+              BlocProvider.of<PlayerCharacterBloc>(context)
+                  .add(SubRaceEvent(value));
             },
           )
         : SizedBox.shrink();
   }
 
-  Widget _buildRaceDetailsWidget() {
-    return _race != null
+  Widget _buildRaceDetailsWidget(
+      BuildContext context, PlayerCharacterState state) {
+    return state.race != null
         ? Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              _buildSubTitle(AppLocalizations.of(context).raceAbilityScoreIncrease),
-              _buildMarkdown(_race?.abilityScoreIncrease),
-              _buildMarkdown(_subRace?.abilityScoreIncrease),
+              _buildSubTitle(context, state,
+                  AppLocalizations.of(context).raceAbilityScoreIncrease),
+              _buildMarkdown(context, state, state.race?.abilityScoreIncrease),
+              _buildMarkdown(
+                  context, state, state.subRace?.abilityScoreIncrease),
               Text(""),
-              _buildSubTitle(AppLocalizations.of(context).raceAge),
-              _buildMarkdown(_race?.age),
+              _buildSubTitle(
+                  context, state, AppLocalizations.of(context).raceAge),
+              _buildMarkdown(context, state, state.race?.age),
               Text(""),
-              _buildSubTitle(AppLocalizations.of(context).raceAlignment),
-              _buildMarkdown(_race?.alignment),
+              _buildSubTitle(
+                  context, state, AppLocalizations.of(context).raceAlignment),
+              _buildMarkdown(context, state, state.race?.alignment),
               Text(""),
-              _buildSubTitle(AppLocalizations.of(context).raceSize),
-              _buildMarkdown(_race?.size),
+              _buildSubTitle(
+                  context, state, AppLocalizations.of(context).raceSize),
+              _buildMarkdown(context, state, state.race?.size),
               Text(""),
-              _buildSubTitle(AppLocalizations.of(context).raceSpeed),
-              _buildMarkdown(_race?.speed),
-              _race?.darkvision != null ? Text("") : SizedBox.shrink(),
-              _race?.darkvision != null ? _buildSubTitle(AppLocalizations.of(context).raceDarkvision) : SizedBox.shrink(),
-              _race?.darkvision != null ? _buildMarkdown(_race?.darkvision) : SizedBox.shrink(),
+              _buildSubTitle(
+                  context, state, AppLocalizations.of(context).raceSpeed),
+              _buildMarkdown(context, state, state.race?.speed),
+              state.race?.darkvision != null ? Text("") : SizedBox.shrink(),
+              state.race?.darkvision != null
+                  ? _buildSubTitle(context, state,
+                      AppLocalizations.of(context).raceDarkvision)
+                  : SizedBox.shrink(),
+              state.race?.darkvision != null
+                  ? _buildMarkdown(context, state, state.race?.darkvision)
+                  : SizedBox.shrink(),
               Text(""),
-              _buildSubTitle(AppLocalizations.of(context).raceLanguages),
-              _buildMarkdown(_race?.languages),
+              _buildSubTitle(
+                  context, state, AppLocalizations.of(context).raceLanguages),
+              _buildMarkdown(context, state, state.race?.languages),
             ],
           )
         : SizedBox.shrink();
   }
 
-  Widget _buildBackgroundsWidget() {
+  Widget _buildBackgroundsWidget(
+      BuildContext context, PlayerCharacterState state) {
     return _buildItemsWidget<BackgroundItem>(
+      context,
+      state,
       hintText: "Historique",
-      items: _backgrounds,
-      selectedItem: _background,
+      items: state.backgrounds,
+      selectedItem: state.background,
       onChanged: (value) {
-        _setBackground(value);
+        //state.setBackground(value);
+        BlocProvider.of<PlayerCharacterBloc>(context)
+            .add(BackgroundEvent(value));
       },
     );
   }
 
-  Widget _buildSubBackgroundsWidget() {
-    return _subBackgrounds != null
+  Widget _buildSubBackgroundsWidget(
+      BuildContext context, PlayerCharacterState state) {
+    return state.subBackgrounds != null
         ? _buildItemsWidget<SubBackgroundItem>(
+            context,
+            state,
             hintText: "Variante",
-            items: _subBackgrounds,
-            selectedItem: _subBackground,
+            items: state.subBackgrounds,
+            selectedItem: state.subBackground,
             onChanged: (value) {
-              _setSubBackground(value);
+              //state.setSubBackground(value);
+              BlocProvider.of<PlayerCharacterBloc>(context)
+                  .add(SubBackgroundEvent(value));
             },
           )
         : SizedBox.shrink();
@@ -229,6 +282,26 @@ class _PCEditorPageState extends State<PCEditorPage> {
 
   @override
   Widget build(BuildContext context) {
+    return MultiBlocProvider(
+      providers: [
+        BlocProvider<PlayerCharacterBloc>(
+          create: (context) {
+            return PlayerCharacterBloc(context)
+              ..add(
+                LoadEvent(),
+              );
+          },
+        ),
+      ],
+      child: BlocBuilder<PlayerCharacterBloc, PlayerCharacterState>(
+        builder: (context, state) {
+          return buildUI(context, state);
+        },
+      ),
+    );
+  }
+
+  Widget buildUI(BuildContext context, PlayerCharacterState state) {
     return DefaultTabController(
       length: 5,
       child: Scaffold(
@@ -285,9 +358,9 @@ class _PCEditorPageState extends State<PCEditorPage> {
               margin: EdgeInsets.all(10.0),
               child: ListView(
                 children: <Widget>[
-                  _buildRacesWidget(),
-                  _buildSubRacesWidget(),
-                  _buildRaceDetailsWidget(),
+                  _buildRacesWidget(context, state),
+                  _buildSubRacesWidget(context, state),
+                  _buildRaceDetailsWidget(context, state),
                 ],
               ),
             ),
@@ -295,8 +368,8 @@ class _PCEditorPageState extends State<PCEditorPage> {
               margin: EdgeInsets.all(10.0),
               child: ListView(
                 children: <Widget>[
-                  _buildBackgroundsWidget(),
-                  _buildSubBackgroundsWidget(),
+                  _buildBackgroundsWidget(context, state),
+                  _buildSubBackgroundsWidget(context, state),
                 ],
               ),
             ),
