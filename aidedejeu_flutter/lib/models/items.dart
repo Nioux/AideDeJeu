@@ -119,7 +119,7 @@ class SpellItem extends Item {
 }
 
 class Items extends Item {
-  Items(Map<String, dynamic> map) : super(map) {}
+  Items(Map<String, dynamic> map) : super(map);
 }
 
 abstract class FilteredItems extends Items {

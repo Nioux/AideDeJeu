@@ -1,4 +1,3 @@
-import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:aidedejeu_flutter/theme.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

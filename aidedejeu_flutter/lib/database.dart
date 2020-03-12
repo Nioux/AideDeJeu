@@ -120,7 +120,7 @@ Future<List<SubRaceItem>> loadSubRaces(BuildContext context, RaceItem race) asyn
   return null;
 }
 
-Future<List<T>> loadTypedItems<T extends Item>(BuildContext context, {String itemType, Item item = null}) async {
+Future<List<T>> loadTypedItems<T extends Item>(BuildContext context, {String itemType, Item item}) async {
   final db = await database;
   var response = await db.query(
       "Items",

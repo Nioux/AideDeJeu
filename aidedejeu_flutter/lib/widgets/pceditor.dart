@@ -1,127 +1,15 @@
 import 'package:aidedejeu_flutter/blocs/player_character/player_character_bloc.dart';
-import 'package:aidedejeu_flutter/database.dart';
 import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
-import 'package:aidedejeu_flutter/theme.dart';
 import 'package:aidedejeu_flutter/widgets/library.dart';
-import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
-import 'package:equatable/equatable.dart';
 
 class PCEditorPage extends StatelessWidget {
-  // StatefulWidget {
-/*  PCEditorPage({Key key}) : super(key: key);
 
-  @override
-  State<StatefulWidget> createState() => _PCEditorPageState();
-}*/
-/*
-class PCEditorViewModel {
-  RaceItem _race;
-  SubRaceItem _subRace;
-  List<RaceItem> _races;
-  List<SubRaceItem> _subRaces;
-
-  BackgroundItem _background;
-  SubBackgroundItem _subBackground;
-  List<BackgroundItem> _backgrounds;
-  List<SubBackgroundItem> _subBackgrounds;
-
-  _PCEditorPageState state;
-  BuildContext context;
-  PCEditorViewModel(_PCEditorPageState state, BuildContext context) {
-    this.state = state;
-    this.context = context;
-  }
-
-  void _initRaces() async {
-    var races = await loadRaces(context);
-    state.setState(() {
-      _races = races.toList();
-    });
-  }
-
-  void _initSubRaces(RaceItem race) async {
-    var subRaces = await loadSubRaces(context, race);
-    state.setState(() {
-      _subRaces = subRaces;
-    });
-  }
-
-  void _initBackgrounds() async {
-    var backgrounds = await loadBackgrounds(context);
-    state.setState(() {
-      _backgrounds = backgrounds;
-    });
-  }
-
-  void _initSubBackgrounds(BackgroundItem background) async {
-    var subBackgrounds = await loadSubBackgrounds(context, background);
-    state.setState(() {
-      _subBackgrounds = subBackgrounds;
-    });
-  }
-
-  // setters
-
-  void _setRace(RaceItem race) {
-    state.setState(() {
-      this._race = race;
-      this._subRace = null;
-      this._subRaces = null;
-    });
-    _initSubRaces(race);
-  }
-
-  void _setSubRace(SubRaceItem subRace) {
-    state.setState(() {
-      this._subRace = subRace;
-    });
-  }
-
-  void _setBackground(BackgroundItem background) {
-    state.setState(() {
-      this._background = background;
-      this._subBackground = null;
-      this._subBackgrounds = null;
-    });
-    _initSubBackgrounds(background);
-  }
-
-  void _setSubBackground(SubBackgroundItem subBackground) {
-    state.setState(() {
-      this._subBackground = subBackground;
-    });
-  }
-
-
-}
-
- */
-
-//class _PCEditorPageState extends State<PCEditorPage> {
   MarkdownStyleSheet styleSheet;
 
-  //PCEditorViewModel vm;
-  // inits
-/*
-  @override
-  void initState() {
-    super.initState();
-    //vm = PCEditorViewModel(this, context);
-    //vm._initRaces();
-    //vm._initBackgrounds();
-  }
-
-  @protected
-  @mustCallSuper
-  void didChangeDependencies() {
-    super.didChangeDependencies();
-    styleSheet = mainMarkdownStyleSheet(context);
-  }
-*/
   // widgets generics
 
   Widget _buildMarkdown(

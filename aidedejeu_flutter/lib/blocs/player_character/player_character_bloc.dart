@@ -4,8 +4,18 @@ import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/cupertino.dart';
 
-class PlayerCharacterState {
+class PlayerCharacterState extends Equatable {
   final BuildContext context;
+
+  final RaceItem race;
+  final SubRaceItem subRace;
+  final List<RaceItem> races;
+  final List<SubRaceItem> subRaces;
+
+  final BackgroundItem background;
+  final SubBackgroundItem subBackground;
+  final List<BackgroundItem> backgrounds;
+  final List<SubBackgroundItem> subBackgrounds;
 
   PlayerCharacterState({
     this.context,
@@ -17,7 +27,7 @@ class PlayerCharacterState {
     this.backgrounds,
     this.subBackground,
     this.subBackgrounds,
-  }) {}
+  });
 
   PlayerCharacterState copyWith({
     BuildContext context,
@@ -43,15 +53,29 @@ class PlayerCharacterState {
     );
   }
 
-  RaceItem race;
-  SubRaceItem subRace;
-  List<RaceItem> races;
-  List<SubRaceItem> subRaces;
-
-  BackgroundItem background;
-  SubBackgroundItem subBackground;
-  List<BackgroundItem> backgrounds;
-  List<SubBackgroundItem> subBackgrounds;
+  PlayerCharacterState copyWithClean({
+    BuildContext context,
+    RaceItem race,
+    List<RaceItem> races,
+    SubRaceItem subRace,
+    List<SubRaceItem> subRaces,
+    BackgroundItem background,
+    List<BackgroundItem> backgrounds,
+    SubBackgroundItem subBackground,
+    List<SubBackgroundItem> subBackgrounds,
+  }) {
+    return PlayerCharacterState(
+      context: context ?? this.context,
+      race: race ?? this.race,
+      races: races ?? this.races,
+      subRace: race != null ? null : subRace ?? this.subRace,
+      subRaces: race != null ? subRaces : subRaces ?? this.subRaces,
+      background: background ?? this.background,
+      backgrounds: backgrounds ?? this.backgrounds,
+      subBackground: background != null ? null : subBackground ?? this.subBackground,
+      subBackgrounds: background != null ? subBackgrounds : subBackgrounds ?? this.subBackgrounds,
+    );
+  }
 
   @override
   List<Object> get props => [
@@ -64,97 +88,25 @@ class PlayerCharacterState {
         backgrounds,
         subBackgrounds
       ];
-
-  Future<void> initRaces() async {
-    print("initRaces");
-    var races = await loadRaces(context);
-    this.races = races.toList();
-  }
-
-  Future<void> initSubRaces(RaceItem race) async {
-    print("initSubRaces");
-    var subRaces = await loadSubRaces(context, race);
-    this.subRaces = subRaces;
-  }
-
-  Future<void> initBackgrounds() async {
-    print("initBackgrounds");
-    var backgrounds = await loadBackgrounds(context);
-    this.backgrounds = backgrounds;
-  }
-
-  Future<void> initSubBackgrounds(BackgroundItem background) async {
-    print("initSubBackgrounds");
-    var subBackgrounds = await loadSubBackgrounds(context, background);
-    this.subBackgrounds = subBackgrounds;
-  }
-
-  // setters
-
-  Future<void> setRace(RaceItem race) async {
-    this.race = race;
-    this.subRace = null;
-    this.subRaces = null;
-    await initSubRaces(race);
-  }
-
-  Future<void> setSubRace(SubRaceItem subRace) async {
-    this.subRace = subRace;
-  }
-
-  Future<void> setBackground(BackgroundItem background) async {
-    this.background = background;
-    this.subBackground = null;
-    this.subBackgrounds = null;
-    await initSubBackgrounds(background);
-  }
-
-  Future<void> setSubBackground(SubBackgroundItem subBackground) async {
-    this.subBackground = subBackground;
-  }
 }
 
 abstract class PlayerCharacterEvent extends Equatable {}
 
-/*
-class RacesEvent extends PlayerCharacterEvent {
-  List<RaceItem> races;
-
-  @override
-  List<Object> get props => [races];
-}
-*/
-class RaceEvent extends PlayerCharacterEvent {
-  RaceItem race;
-
-  @override
-  List<Object> get props => [race];
-
-  RaceEvent(RaceItem race) {
-    this.race = race;
-  }
+class RaceEvent extends SetItemEvent<RaceItem> {
+  RaceEvent(RaceItem item) : super(item);
 }
 
-class SubRaceEvent extends PlayerCharacterEvent {
-  SubRaceItem subRace;
-
-  @override
-  List<Object> get props => [subRace];
-
-  SubRaceEvent(SubRaceItem subRace) {
-    this.subRace = subRace;
-  }
+class SubRaceEvent extends SetItemEvent<SubRaceItem> {
+  SubRaceEvent(SubRaceItem item) : super(item);
 }
 
 class SetItemEvent<T> extends PlayerCharacterEvent {
-  T item;
+  final T item;
 
   @override
   List<Object> get props => [item];
 
-  SetItemEvent(T item) {
-    this.item = item;
-  }
+  SetItemEvent(T item) : this.item = item;
 }
 
 class BackgroundEvent extends SetItemEvent<BackgroundItem> {
@@ -170,7 +122,6 @@ class LoadEvent extends PlayerCharacterEvent {
   List<Object> get props => [];
 }
 
-//enum PlayerCharacterEvent { setRace, setSubRace, }
 class PlayerCharacterBloc
     extends Bloc<PlayerCharacterEvent, PlayerCharacterState> {
   BuildContext context;
@@ -194,35 +145,33 @@ class PlayerCharacterBloc
     } else if (event is SubBackgroundEvent) {
       yield* _mapSubBackgroundEventToState(event);
     } else if (event is LoadEvent) {
-      final currentState = state.copyWith(); // state;
-      await currentState.initRaces();
-      await currentState.initBackgrounds();
-      yield currentState;
+      yield* _mapLoadEventToState(event);
     }
 
   }
   Stream<PlayerCharacterState> _mapRaceEventToState(
       RaceEvent event) async* {
-    final currentState = state.copyWith();
-    await currentState.setRace(event.race);
-    yield currentState;
+    var subRaces = await loadSubRaces(context, event.item);
+    yield state.copyWithClean(race: event.item, subRaces: subRaces);
   }
+
   Stream<PlayerCharacterState> _mapSubRaceEventToState(
       SubRaceEvent event) async* {
-    final currentState = state.copyWith();
-    await currentState.setSubRace(event.subRace);
-    yield currentState;
+    yield state.copyWith(subRace: event.item);
   }
   Stream<PlayerCharacterState> _mapBackgroundEventToState(
       BackgroundEvent event) async* {
-    final currentState = state.copyWith();
-    await currentState.setBackground(event.item);
-    yield currentState;
+    var subBackgrounds = await loadSubBackgrounds(context, event.item);
+    yield state.copyWithClean(background: event.item,subBackgrounds: subBackgrounds);
   }
   Stream<PlayerCharacterState> _mapSubBackgroundEventToState(
       SubBackgroundEvent event) async* {
-    final currentState = state.copyWith();
-    await currentState.setSubBackground(event.item);
-    yield currentState;
+    yield state.copyWith(subBackground: event.item);
+  }
+  Stream<PlayerCharacterState> _mapLoadEventToState(
+      LoadEvent event) async* {
+    var races = await loadRaces(context);
+    var backgrounds = await loadBackgrounds(context);
+    yield state.copyWith(races: races, backgrounds: backgrounds); // state;
   }
 }

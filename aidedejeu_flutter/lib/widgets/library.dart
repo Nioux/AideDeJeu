@@ -23,7 +23,7 @@ class _LibraryPageState extends State<LibraryPage> {
     setState(() {
       this.item = item;
       if (item is FilteredItems) {
-        this.filters = (item as FilteredItems).toFilterList();
+        this.filters = item.toFilterList();
       } else {
         this.filters = null;
       }
@@ -35,9 +35,9 @@ class _LibraryPageState extends State<LibraryPage> {
   }
 
   String markdown = "";
-  Item item = null;
+  Item item;
   MarkdownStyleSheet styleSheet;
-  List<Filter> filters = null;
+  List<Filter> filters;
 
   @override
   void initState() {
