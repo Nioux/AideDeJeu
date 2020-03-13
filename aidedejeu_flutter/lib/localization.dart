@@ -19,6 +19,15 @@ class AppLocalizations {
     return Localizations.of<AppLocalizations>(context, AppLocalizations);
   }
 
+  String translate(name) {
+    return Intl.message(
+      name,
+      name: name,
+      desc: name,
+      locale: localeName,
+    );
+  }
+
   final String localeName;
 
   String get appTitle {

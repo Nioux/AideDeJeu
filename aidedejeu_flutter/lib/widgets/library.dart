@@ -54,9 +54,8 @@ class _LibraryPageState extends State<LibraryPage> {
   }
 
   Future<Item> _loadItem() async {
-    var item = await getItemWithId(context, this.widget.id);
-    var items = await loadChildrenItems(context, item, filters);
-    //setItem(item);
+    var item = await getItemWithId(this.widget.id);
+    await loadChildrenItems(item, filters);
     return item;
   }
 
@@ -177,7 +176,7 @@ class _LibraryPageState extends State<LibraryPage> {
         setState(() {
           filter.selectedValues = choices;
         });
-        loadChildrenItems(context, item, filters).then((value) => {
+        loadChildrenItems(item, filters).then((value) => {
               setState(() {
                 this.item = item;
                 this.filters = filters;
@@ -195,7 +194,7 @@ class _LibraryPageState extends State<LibraryPage> {
           setState(() {
             filter.rangeValues = values;
           });
-          loadChildrenItems(context, item, filters).then((value) => {
+          loadChildrenItems(item, filters).then((value) => {
                 setState(() {
                   this.item = item;
                   this.filters = filters;
@@ -214,7 +213,7 @@ class _LibraryPageState extends State<LibraryPage> {
         alignment: Alignment.centerLeft,
         child: Padding(
           padding: const EdgeInsets.fromLTRB(8.0,1.0,8.0,1.0),
-          child: Text(filter.name, style: TextStyle(fontFamily: "Cinzel"),),
+          child: Text(AppLocalizations.of(context).translate(filter.name), style: TextStyle(fontFamily: "Cinzel"),),
         ),
       ),
       Container(
@@ -280,7 +279,7 @@ class _LibraryPageState extends State<LibraryPage> {
                       height: 30.0,
                       width: 30.0,
                       allowDrawingOutsideViewBox: true,
-                    ), //Icon(Icons.filter),
+                    ),
                     onPressed: () => Scaffold.of(context).openEndDrawer(),
                     tooltip:
                         MaterialLocalizations.of(context).openAppDrawerTooltip,

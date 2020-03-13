@@ -1,6 +1,4 @@
-import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/filters.dart';
-import 'package:flutter/cupertino.dart';
 
 class Item {
   String id;
@@ -139,25 +137,30 @@ class MonsterItems extends FilteredItems {
   Filter sources;
   Filter terrains;
 
-  MonsterItems(BuildContext context, Map<String, dynamic> map) : super(map) {
+  MonsterItems(Map<String, dynamic> map) : super(map) {
     this.types = Filter(
-        name: AppLocalizations.of(context).monstersTypes,
+        name: "Types",
+        displayName: "monstersTypes",
         type: FilterType.Choices,
         values: map["Types"].toString().split("|"));
     this.challenges = Filter(
-        name: AppLocalizations.of(context).monstersChallenges,
+        name: "Challenges",
+        displayName: "monstersChallenges",
         type: FilterType.Range,
         values: map["Challenges"].toString().split("|"));
     this.sizes = Filter(
-        name: AppLocalizations.of(context).monstersSizes,
+        name: "Sizes",
+        displayName: "monstersSizes",
         type: FilterType.Range,
         values: map["Sizes"].toString().split("|"));
     this.sources = Filter(
-        name: AppLocalizations.of(context).monstersSources,
+        name: "Sources",
+        displayName: "monstersSources",
         type: FilterType.Choices,
         values: map["Sources"].toString().split("|"));
     this.terrains = Filter(
-        name: AppLocalizations.of(context).monstersTerrains,
+        name: "Terrains",
+        displayName: "monstersTerrains",
         type: FilterType.Choices,
         values: map["Terrains"].toString().split("|"));
   }
@@ -185,53 +188,65 @@ class SpellItems extends FilteredItems {
   Filter durations;
   Filter sources;
 
-  SpellItems(BuildContext context, Map<String, dynamic> map) : super(map) {
+  SpellItems(Map<String, dynamic> map) : super(map) {
     this.classes = Filter(
-        name: AppLocalizations.of(context).spellsClasses,
+        name: "Classes",
+        displayName: "spellsClasses",
         type: FilterType.Choices,
         values: map["Classes"].toString().split("|"));
     this.levels = Filter(
-        name: AppLocalizations.of(context).spellsLevels,
+        name: "Levels",
+        displayName: "spellsLevels",
         type: FilterType.Choices,
         values: map["Levels"].toString().split("|"));
     this.schools = Filter(
-        name: AppLocalizations.of(context).spellsSchools,
+        name: "Schools",
+        displayName: "spellsSchools",
         type: FilterType.Choices,
         values: map["Schools"].toString().split("|"));
     this.rituals = Filter(
-        name: AppLocalizations.of(context).spellsRituals,
+        name: "Rituals",
+        displayName: "spellsRituals",
         type: FilterType.Choices,
         values: map["Rituals"].toString().split("|"));
     this.castingTimes = Filter(
-        name: AppLocalizations.of(context).spellsCastingTimes,
+        name: "CastingTimes",
+        displayName: "spellsCastingTimes",
         type: FilterType.Choices,
         values: map["CastingTimes"].toString().split("|"));
     this.ranges = Filter(
-        name: AppLocalizations.of(context).spellsRanges,
+        name: "Ranges",
+        displayName: "spellsRanges",
         type: FilterType.Choices,
         values: map["Ranges"].toString().split("|"));
     this.verbalComponents = Filter(
-        name: AppLocalizations.of(context).spellsVerbalComponents,
+        name: "VerbalComponents",
+        displayName: "spellsVerbalComponents",
         type: FilterType.Choices,
         values: map["VerbalComponents"].toString().split("|"));
     this.somaticComponents = Filter(
-        name: AppLocalizations.of(context).spellsSomaticComponents,
+        name: "SomaticComponents",
+        displayName: "spellsSomaticComponents",
         type: FilterType.Choices,
         values: map["SomaticComponents"].toString().split("|"));
     this.materialComponents = Filter(
-        name: AppLocalizations.of(context).spellsMaterialComponents,
+        name: "MaterialComponents",
+        displayName: "spellsMaterialComponents",
         type: FilterType.Choices,
         values: map["MaterialComponents"].toString().split("|"));
     this.concentrations = Filter(
-        name: AppLocalizations.of(context).spellsConcentrations,
+        name: "Concentrations",
+        displayName: "spellsConcentrations",
         type: FilterType.Choices,
         values: map["Concentrations"].toString().split("|"));
     this.durations = Filter(
-        name: AppLocalizations.of(context).spellsDurations,
+        name: "Durations",
+        displayName: "spellsDurations",
         type: FilterType.Choices,
         values: map["Durations"].toString().split("|"));
     this.sources = Filter(
-        name: AppLocalizations.of(context).spellsSources,
+        name: "Sources",
+        displayName: "spellsSources",
         type: FilterType.Choices,
         values: map["Sources"].toString().split("|"));
   }
@@ -337,7 +352,7 @@ class SubBackgroundItem extends BackgroundItem {
   SubBackgroundItem(Map<String, dynamic> map) : super(map);
 }
 
-Item itemFromMap(BuildContext context, Map<String, dynamic> map) {
+Item itemFromMap(Map<String, dynamic> map) {
   switch (map["ItemType"]) {
     case "RaceItem":
       return RaceItem(map);
@@ -352,17 +367,17 @@ Item itemFromMap(BuildContext context, Map<String, dynamic> map) {
     case "MonsterItem":
       return MonsterItem(map);
     case "MonsterItems":
-      return MonsterItems(context, map);
+      return MonsterItems(map);
     case "SpellItem":
       return SpellItem(map);
     case "SpellItems":
-      return SpellItems(context, map);
+      return SpellItems(map);
   }
   return Item(map);
 }
 
-List<T> itemsFromMapList<T extends Item>(BuildContext context, List<Map<String, dynamic>> mapList) {
+List<T> itemsFromMapList<T extends Item>(List<Map<String, dynamic>> mapList) {
   return List.generate(mapList.length, (i) {
-    return itemFromMap(context, mapList[i]);
+    return itemFromMap(mapList[i]);
   });
 }

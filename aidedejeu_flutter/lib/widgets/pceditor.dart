@@ -3,6 +3,7 @@ import 'package:aidedejeu_flutter/blocs/player_character/player_character_event.
 import 'package:aidedejeu_flutter/blocs/player_character/player_character_state.dart';
 import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
+import 'package:aidedejeu_flutter/theme.dart';
 import 'package:aidedejeu_flutter/widgets/library.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -10,15 +11,13 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 
 class PCEditorPage extends StatelessWidget {
 
-  MarkdownStyleSheet styleSheet;
-
   // widgets generics
 
   Widget _buildMarkdown(
       BuildContext context, PlayerCharacterState state, String markdown) {
     return MarkdownBody(
       data: markdown ?? "",
-      styleSheet: styleSheet,
+      styleSheet: mainMarkdownStyleSheet(context),
       onTapLink: (link) => Navigator.push(
         context,
         MaterialPageRoute(builder: (context) => LibraryPage(id: link)),
@@ -176,7 +175,7 @@ class PCEditorPage extends StatelessWidget {
       providers: [
         BlocProvider<PlayerCharacterBloc>(
           create: (context) {
-            return PlayerCharacterBloc(context)
+            return PlayerCharacterBloc()
               ..add(
                 LoadEvent(),
               );

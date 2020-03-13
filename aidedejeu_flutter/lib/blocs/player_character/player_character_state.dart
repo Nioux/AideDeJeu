@@ -1,9 +1,7 @@
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:equatable/equatable.dart';
-import 'package:flutter/cupertino.dart';
 
 class PlayerCharacterState extends Equatable {
-  final BuildContext context;
 
   final RaceItem race;
   final SubRaceItem subRace;
@@ -16,7 +14,6 @@ class PlayerCharacterState extends Equatable {
   final List<SubBackgroundItem> subBackgrounds;
 
   PlayerCharacterState({
-    this.context,
     this.race,
     this.races,
     this.subRace,
@@ -28,7 +25,6 @@ class PlayerCharacterState extends Equatable {
   });
 
   PlayerCharacterState copyWith({
-    BuildContext context,
     RaceItem race,
     List<RaceItem> races,
     SubRaceItem subRace,
@@ -39,7 +35,6 @@ class PlayerCharacterState extends Equatable {
     List<SubBackgroundItem> subBackgrounds,
   }) {
     return PlayerCharacterState(
-      context: context ?? this.context,
       race: race ?? this.race,
       races: races ?? this.races,
       subRace: subRace ?? this.subRace,
@@ -52,7 +47,6 @@ class PlayerCharacterState extends Equatable {
   }
 
   PlayerCharacterState copyWithClean({
-    BuildContext context,
     RaceItem race,
     List<RaceItem> races,
     SubRaceItem subRace,
@@ -63,7 +57,6 @@ class PlayerCharacterState extends Equatable {
     List<SubBackgroundItem> subBackgrounds,
   }) {
     return PlayerCharacterState(
-      context: context ?? this.context,
       race: race ?? this.race,
       races: races ?? this.races,
       subRace: race != null ? null : subRace ?? this.subRace,

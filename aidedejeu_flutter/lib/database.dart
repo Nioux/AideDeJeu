@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:aidedejeu_flutter/models/items.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/services.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
@@ -41,7 +40,7 @@ Future<Database> getDatabaseInstance() async {
   return await openDatabase(path, readOnly: true);
 }
 
-Future<Item> getItemWithId(BuildContext context, String id) async {
+Future<Item> getItemWithId(String id) async {
   print("getItemWithId " + id);
   final db = await database;
   var response = await db.query(
@@ -52,10 +51,10 @@ Future<Item> getItemWithId(BuildContext context, String id) async {
   if (response.isEmpty) {
     print("Id not found");
   }
-  return response.isNotEmpty ? itemFromMap(context, response.first) : null;
+  return response.isNotEmpty ? itemFromMap(response.first) : null;
 }
 
-Future<Item> loadChildrenItems(BuildContext context, Item item, List<Filter> filters) async {
+Future<Item> loadChildrenItems(Item item, List<Filter> filters) async {
   print("getChildrenItems " + (item?.itemType ?? ""));
   if (item.itemType.endsWith("Items")) {
     String itemType =
@@ -87,13 +86,13 @@ Future<Item> loadChildrenItems(BuildContext context, Item item, List<Filter> fil
       print("Children not found");
     }
     item.children = response.isNotEmpty
-        ? itemsFromMapList(context, response)
+        ? itemsFromMapList(response)
         : null;
   }
   return item;
 }
 
-Future<List<RaceItem>> loadRaces(BuildContext context) async {
+Future<List<RaceItem>> loadRaces() async {
   final db = await database;
   var response = await db.query(
       "Items",
@@ -101,12 +100,12 @@ Future<List<RaceItem>> loadRaces(BuildContext context) async {
       orderBy: "NormalizedName"
   );
   if (response.isNotEmpty) {
-    return itemsFromMapList(context, response);
+    return itemsFromMapList(response);
   }
   return null;
 }
 
-Future<List<SubRaceItem>> loadSubRaces(BuildContext context, RaceItem race) async {
+Future<List<SubRaceItem>> loadSubRaces(RaceItem race) async {
   final db = await database;
   var response = await db.query(
       "Items",
@@ -115,12 +114,12 @@ Future<List<SubRaceItem>> loadSubRaces(BuildContext context, RaceItem race) asyn
       orderBy: "NormalizedName"
   );
   if (response.isNotEmpty) {
-    return itemsFromMapList(context, response);
+    return itemsFromMapList(response);
   }
   return null;
 }
 
-Future<List<T>> loadTypedItems<T extends Item>(BuildContext context, {String itemType, Item item}) async {
+Future<List<T>> loadTypedItems<T extends Item>({String itemType, Item item}) async {
   final db = await database;
   var response = await db.query(
       "Items",
@@ -129,16 +128,16 @@ Future<List<T>> loadTypedItems<T extends Item>(BuildContext context, {String ite
       orderBy: "NormalizedName"
   );
   if (response.isNotEmpty) {
-    return itemsFromMapList(context, response);
+    return itemsFromMapList(response);
   }
   return null;
 }
 
-Future<List<BackgroundItem>> loadBackgrounds(BuildContext context) async {
-  return loadTypedItems<BackgroundItem>(context, itemType: "BackgroundItem");
+Future<List<BackgroundItem>> loadBackgrounds() async {
+  return loadTypedItems<BackgroundItem>(itemType: "BackgroundItem");
 }
 
-Future<List<SubBackgroundItem>> loadSubBackgrounds(BuildContext context, Item item) async {
-  return loadTypedItems<SubBackgroundItem>(context, itemType: "SubBackgroundItem", item: item);
+Future<List<SubBackgroundItem>> loadSubBackgrounds(Item item) async {
+  return loadTypedItems<SubBackgroundItem>(itemType: "SubBackgroundItem", item: item);
 }
 
