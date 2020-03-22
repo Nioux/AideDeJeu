@@ -24,8 +24,10 @@ dependencies:
     sdk: flutter
   intl:
   intl_translation:
-  flutter_markdown: ^0.3.3
+  flutter_markdown:
   sqflite:
+  sembast:
+  sembast_web:
   path:
   flutter_svg:
   bloc:

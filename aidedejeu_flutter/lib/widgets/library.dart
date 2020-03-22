@@ -1,4 +1,5 @@
-import 'package:aidedejeu_flutter/database.dart';
+import 'file:///C:/dev/AideDeJeu/aidedejeu_flutter/lib/databases/database_sqflite.dart';
+import 'package:aidedejeu_flutter/databases/database.dart';
 import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/filters.dart';
 import 'package:aidedejeu_flutter/widgets/filters.dart';
@@ -13,12 +14,14 @@ class LibraryPage extends StatefulWidget {
   LibraryPage({Key key, @required this.id}) : super(key: key);
 
   final String id;
+  final BaseDB _db = SqfliteDB.instance;
 
   @override
   _LibraryPageState createState() => _LibraryPageState();
 }
 
 class _LibraryPageState extends State<LibraryPage> {
+  final BaseDB _db = SqfliteDB.instance;
   void setItem(Item item) {
     setState(() {
       this.item = item;
@@ -54,8 +57,8 @@ class _LibraryPageState extends State<LibraryPage> {
   }
 
   Future<Item> _loadItem() async {
-    var item = await getItemWithId(this.widget.id);
-    await loadChildrenItems(item, filters);
+    var item = await SqfliteDB.instance.getItemWithId(this.widget.id);
+    await _db.loadChildrenItems(item, filters);
     return item;
   }
 
@@ -176,7 +179,7 @@ class _LibraryPageState extends State<LibraryPage> {
         setState(() {
           filter.selectedValues = choices;
         });
-        loadChildrenItems(item, filters).then((value) => {
+        _db.loadChildrenItems(item, filters).then((value) => {
               setState(() {
                 this.item = item;
                 this.filters = filters;
@@ -194,7 +197,7 @@ class _LibraryPageState extends State<LibraryPage> {
           setState(() {
             filter.rangeValues = values;
           });
-          loadChildrenItems(item, filters).then((value) => {
+          _db.loadChildrenItems(item, filters).then((value) => {
                 setState(() {
                   this.item = item;
                   this.filters = filters;

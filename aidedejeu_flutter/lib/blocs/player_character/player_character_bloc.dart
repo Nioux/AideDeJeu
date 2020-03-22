@@ -1,10 +1,13 @@
 import 'package:aidedejeu_flutter/blocs/player_character/player_character_event.dart';
 import 'package:aidedejeu_flutter/blocs/player_character/player_character_state.dart';
-import 'package:aidedejeu_flutter/database.dart';
+import 'package:aidedejeu_flutter/databases/database.dart';
+import 'package:aidedejeu_flutter/databases/database_sqflite.dart';
 import 'package:bloc/bloc.dart';
 
 class PlayerCharacterBloc
     extends Bloc<PlayerCharacterEvent, PlayerCharacterState> {
+
+  BaseDB _db = SqfliteDB.instance;
 
   @override
   PlayerCharacterState get initialState => PlayerCharacterState();
@@ -27,7 +30,7 @@ class PlayerCharacterBloc
   }
   Stream<PlayerCharacterState> _mapRaceEventToState(
       RaceEvent event) async* {
-    var subRaces = await loadSubRaces(event.item);
+    var subRaces = await _db.loadSubRaces(event.item);
     yield state.copyWithClean(race: event.item, subRaces: subRaces);
   }
 
@@ -37,7 +40,7 @@ class PlayerCharacterBloc
   }
   Stream<PlayerCharacterState> _mapBackgroundEventToState(
       BackgroundEvent event) async* {
-    var subBackgrounds = await loadSubBackgrounds(event.item);
+    var subBackgrounds = await _db.loadSubBackgrounds(event.item);
     yield state.copyWithClean(background: event.item,subBackgrounds: subBackgrounds);
   }
   Stream<PlayerCharacterState> _mapSubBackgroundEventToState(
@@ -46,8 +49,8 @@ class PlayerCharacterBloc
   }
   Stream<PlayerCharacterState> _mapLoadEventToState(
       LoadEvent event) async* {
-    var races = await loadRaces();
-    var backgrounds = await loadBackgrounds();
+    var races = await _db.loadRaces();
+    var backgrounds = await _db.loadBackgrounds();
     yield state.copyWith(races: races, backgrounds: backgrounds); // state;
   }
 }
