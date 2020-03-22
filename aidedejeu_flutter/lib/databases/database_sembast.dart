@@ -32,6 +32,20 @@ class SembastDB extends BaseDB {
   }
 
   @override
+  Future<List<Item>> loadAllItems() async {
+    throw UnimplementedError();
+  }
+
+  @override
+  Future<void> saveAllItems(List<Item> items) async {
+    var store = StoreRef.main();
+    for(int i = 0; i<items.length;i++) {
+      var item = items[i];
+      //await store.record(item.id).put(_database,item.toMap());
+    }
+  }
+
+  @override
   Future<Item> getItemWithId(String id) {
     // TODO: implement getItemWithId
     throw UnimplementedError();

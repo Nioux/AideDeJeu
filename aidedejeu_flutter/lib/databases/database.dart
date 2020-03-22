@@ -2,6 +2,8 @@ import 'package:aidedejeu_flutter/models/filters.dart';
 import 'package:aidedejeu_flutter/models/items.dart';
 
 abstract class BaseDB {
+  Future<List<Item>> loadAllItems();
+
   Future<Item> getItemWithId(String id);
 
   Future<Item> loadChildrenItems(Item item, List<Filter> filters);
