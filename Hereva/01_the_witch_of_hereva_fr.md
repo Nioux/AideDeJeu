@@ -41,7 +41,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 
 \page
 
-## Aptitude de recherche
+### Aptitude de recherche
 
 De nombreuses voies existent pour atteindre le pouvoir du Chaos et des évolutions, mais presque toutes nécessitent beaucoup d'études.
 
@@ -51,16 +51,45 @@ Elles apprennent à lancer des sorts enseignés par leurs mentors, mais elles ne
 
 La magie est un monde avec d'immenses zones inexplorées, et les sorcières veulent explorer tout cela.
 
-## Nature concurrentielle
+### Nature concurrentielle
 
 On pourrait penser que les sorcières d'Hereva ne savent jamais se contenter des standards fixés par les anciennes générations, mais c'est parce qu'elles essaient toujours de s'améliorer. Elles sont naturellement compétitives, elles aiment tester leurs compétences entre elles et ne manquent jamais l'occasion d'un concours.
 
-## Créer une sorcière d'Hereva
+### Créer une sorcière d'Hereva
 
 Pour créer une sorcière d'Hereva, vous devez connaître au moins un peu le monde d'où elles viennent. Si vous  créez un personnage pour jouer dans une campagne différente vous devez répondre aux questions suivantes : comment votre personnage est arrivé dans ce monde ? quel est le but de ce voyage ou de cette aventure ?
 
 Une expérience ratée, une quête accordée par les esprits, en suivant les pas d'un magicien très puissant, la recherche de la recette d'une potion légendaire ; celles-ci et bien d'autres pourraient être les raisons qui poussent votre personnage à voyager à partir du monde d'Hereva et commencer une aventure dans votre monde de campagne.
 
-## Création rapide
+#### Création rapide
 
 Vous pouvez créer une sorcière d'Hereva rapidement en suivant ces suggestions. Premièrement, le charisme doit être votre plus haut score de caractéristique, suivi de la constitution ou de la dextérité. En fonction de la maison de sorcellerie à laquelle vous comptez vous joindre, votre prochain meilleur score pourrait changer (vérifiez chaque description de Maison pour des suggestions de construction rapide). Ensuite, choisissez l'historique de l'école des sorcières. Troisièmement, choisissez ces tours de magie : _contact glacial_, _main du mage_. Et enfin, choisissez ces sorts de 1er niveau : _compréhension des langues_, _serviteur invisible_.
+
+## Aptitudes de classe
+
+En tant que sorcière d'Hereva, vous possédez les aptitudes de classe suivantes.
+
+#### Points de vie
+___
+- **Dés de vie :** 1d8 par niveau de sorcière
+- **Points de vie au niveau 1 :** 8 + votre modificateur de Constitution
+- **Points de vie aux niveaux supérieus :** 1d8 (ou 5) + votre modificateur de Constitution par niveau de sorcière après le niveau 1 after 1st
+
+#### Maîtrises
+___
+- **Armures :** aucune
+- **Armes :** dagues, fléchettes, frondes, bâton, arbalètes légères
+- **Outils :** Alchemist supplies
+- **Jets de sauvegarde :** Sagesse, Charisme
+- **Compétences :** choisissez deux compétences parmi les suivantes : Arcanes, Histoire, Perspicacité, Investigation, Médecine, Religion
+
+#### Equipement
+
+Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par votre historique :
+
+- *(a)* un bâton ou *(b)* une dague 
+- une baguette magique (focaliseur arcanique)
+- une sacoche à composantes
+- *(a)* un paquetage d'érudit ou *(b)* un paquetage d'explorateur
+- un grimoire
+

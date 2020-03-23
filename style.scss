@@ -1,11 +1,6 @@
 ---
 ---
-@import 'reset.scss';
-@import 'phb.fonts.scss';
-@import 'phb.assets.scss';
-@import 'phb.depricated.scss';
-@import 'phb.style.scss';
-
+@import 'phb.standalone.css';
 
 .phb {
     overflow: scroll !important;
