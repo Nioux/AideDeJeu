@@ -10,12 +10,6 @@ Mais il existe de nombreux types de sorcières, chaque Maison de Sorcellerie voi
 
 Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah exige un certain degré de discipline pour être capable de maîtriser les pouvoirs qui ont donné naissance à l'univers.
 
-## Aptitude de recherche
-
-De nombreuses voies existent pour atteindre le pouvoir du Chaos et des évolutions, mais presque toutes nécessitent beaucoup d'études.
-
-Les sorcières d'Hereva passent presque autant de temps en immersion dans leurs livres qu'en voyageant et en ayant des aventures.
-
 <div class='classTable wide'>
 
 ##### Table des Soricères
@@ -44,3 +38,29 @@ Les sorcières d'Hereva passent presque autant de temps en immersion dans leurs 
 |20|+6|Aptitude de maison de sorcellerie|4|15|4|13|9|
 
 </div>
+
+\page
+
+## Aptitude de recherche
+
+De nombreuses voies existent pour atteindre le pouvoir du Chaos et des évolutions, mais presque toutes nécessitent beaucoup d'études.
+
+Les sorcières d'Hereva passent presque autant de temps en immersion dans leurs livres qu'en voyageant et en ayant des aventures.
+
+Elles apprennent à lancer des sorts enseignés par leurs mentors, mais elles ne s'arrêtent jamais là, et cherchent toujours de nouvelles formules, de nouveaux secrets et technologies pour créer de nouveaux sorts, potions et même leurs propres objets magiques.
+
+La magie est un monde avec d'immenses zones inexplorées, et les sorcières veulent explorer tout cela.
+
+## Nature concurrentielle
+
+On pourrait penser que les sorcières d'Hereva ne savent jamais se contenter des standards fixées par les anciennes générations, et c'est parce qu'elles essaient toujours de s'améliorer. Elles sont naturellement compétitives, elles aiment tester leurs compétences entre elles et ne manquent jamais l'occasion d'un concours.
+
+## Créer une sorcière d'Hereva
+
+Pour créer une sorcière d'Hereva, vous devez connaître au moins un peu le monde d'où ils viennent. Si vous  créez un personnage pour jouer dans une campagne différente vous devez répondre aux questions suivantes : comment votre personnage est arrivé dans ce monde ? quel est le but de ce voyage ou de cette aventure ?
+
+Une expérience ratée, une quête accordée par les esprits, en suivant les pas d'un magicien très puissant, la recherche de la recette d'une potion légendaire ; celles-ci et bien d'autres pourraient être les raisons qui poussent votre personnage à voyager à partir du monde d'Hereva et commencer une aventure dans votre monde de campagne.
+
+## Création rapide
+
+Vous pouvez créer une sorcière d'Hereva rapidement en suivant ces suggestions. Premièrement, le charisme doit être votre plus haut score de caractéristique, suivi de la constitution ou de la dextérité. En fonction de la maison de sorcellerie à laquelle vous comptez vous joindre, votre prochain meilleur score pourrait changer (vérifiez chaque description de Maison pour des suggestions de construction rapide). Ensuite, choisissez l'historique de l'école des sorcières. Troisièmement, choisissez ces tours de magie : _Chill Touch_, _main du mage_. Et enfin, choisissez ces sorts de 1er niveau : _Comprendre les langues_, _serviteur invisible_.
