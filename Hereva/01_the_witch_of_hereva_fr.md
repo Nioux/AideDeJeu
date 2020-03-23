@@ -15,7 +15,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 ##### Table d'évolution des Sorcières
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Recherche de sorts|Points de Rea|Niveau de sorts|
-|---|---|---|---|---|---|---|---|
+|:---:|:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|+2|Sorcellerie, familier|2|2|-|2|1|
 |2|+2|Maison de sorcellerie|2|3|-|3|1|
 |3|+2|Préparation de potions|2|4|-|4|2|
