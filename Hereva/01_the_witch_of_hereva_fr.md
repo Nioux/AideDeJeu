@@ -93,3 +93,61 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement accordé par
 - *(a)* un paquetage d'érudit ou *(b)* un paquetage d'explorateur
 - un grimoire
 
+### Sorcellerie
+
+En tant que sorcière d'Hereva, vous êtes une étudiante en magie du Chaos et Evolutions. La magie d'Hereva varie un peu de celle de la magie des autres plans d'existence mais en même temps elle conserve certaines similitudes. Les secrets de ces pouvoirs sont découverts grâce à l'étude et à la recherche, et sont
+maîtrisés par la formation.
+
+Vous pouvez apprendre des sorts à partir de la liste de sorts de sorcière d'Hereva. Au fur et à mesure que vous gagnez des niveaux de personnage, vous pouvez ajouter des sorts à votre liste de sorcière d'Hereva et vous pouvez remplacer certains sorts de bas niveau par d'autres. De plus, vous apprendrez comment ajouter des sorts à partir de la liste des sorciers à votre grimoire aussi.
+
+#### Tours de magie
+
+Au niveau 1, vous connaissez deux tours de magie de votre choix issus de la liste de sorts de sorcière d'Hereva. Vous apprenez d'autres tours de magie de sorcière d'Hereva à certains niveaux, comme indiqué dans le tableau d'évolution de sorcière d'Hereva, dans la colonne Tours de magie connus.
+
+#### Points Rea
+
+Rea est l'unité magique utilisée pour mesurer les forces magiques qui ont créé le monde d'Hereva. Rea est l'abréviation de "Réalité". Rea peut être considéré comme collecter les sous-produits d'une tâche. Chaque point de Rea peut être utilisé pour jeter un sort. Vous disposez d'un nombre de points Rea comme figurant dans le tableau de la sorcière d'Hereva. Vous récupérez tous vos points Rea dépensés après un long repos.
+
+\page
+
+Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer. Le Rea stocké dans le corps d'une sorcière seulement leur permet de lancer un nombre limité de ces sorts. Vous ne pouvez lancer qu'un seul sort de chaque niveau de 6 ou plus entre les longs repos en utilisant vos réserves normales de points de Rea. Le tableau indique également le niveau des sorts que vous pouvez lancer. Vous lancez tous vos sorts au même niveau.
+
+> ##### Par exemple
+>
+> Lorsque vous êtes au niveau 5, vous avez six points de Rea et votre niveau de sort est 3. Pour lancer le sort de 1er niveau, vous devez dépenser un de vos points Rea, et vous le lancez comme un sort de niveau 3.
+> 
+> Lorsque vous êtes au niveau 15, vous avez 10 points de Rea et votre niveau de sort est 8. Pour lancer le sort _contre-sort_ de niveau 3, vous devez dépenser un de vos points Rea, et il est considéré comme un sort de niveau 8. Ce sort ne compte pas dans votre limite de seulement un sort de niveau 8 que vous pouvez lancer, car il s'agit à l'origine d'un sort de niveau 3.
+
+#### Sorts connus
+
+#### Caractéristique d'incantation
+
+#### Focaliseur d'incantation
+
+### Familier
+
+#### Familiers de sorcière
+
+### Maison de sorcellerie
+
+### Préparation de potions
+
+#### Table de préparation de potions
+
+#### Table des résultats de préparation de potions
+
+### Amélioration de caractéristiques
+
+### Chevauchage de balai
+
+> ##### Balai volant
+>
+
+### Recherche de sorts
+
+#### Processus de recherche de sorts
+
+#### Coûts et difficultés de recherche de sorts
+
+### Focus Rea
+
