@@ -12,7 +12,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 
 <div class='classTable wide'>
 
-##### Table des Soricères
+##### Table d'évolution des Sorcières
 
 |Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Recherche de sorts|Points de Rea|Niveau de sorts|
 |---|---|---|---|---|---|---|---|
@@ -53,11 +53,11 @@ La magie est un monde avec d'immenses zones inexplorées, et les sorcières veul
 
 ## Nature concurrentielle
 
-On pourrait penser que les sorcières d'Hereva ne savent jamais se contenter des standards fixées par les anciennes générations, et c'est parce qu'elles essaient toujours de s'améliorer. Elles sont naturellement compétitives, elles aiment tester leurs compétences entre elles et ne manquent jamais l'occasion d'un concours.
+On pourrait penser que les sorcières d'Hereva ne savent jamais se contenter des standards fixés par les anciennes générations, mais c'est parce qu'elles essaient toujours de s'améliorer. Elles sont naturellement compétitives, elles aiment tester leurs compétences entre elles et ne manquent jamais l'occasion d'un concours.
 
 ## Créer une sorcière d'Hereva
 
-Pour créer une sorcière d'Hereva, vous devez connaître au moins un peu le monde d'où ils viennent. Si vous  créez un personnage pour jouer dans une campagne différente vous devez répondre aux questions suivantes : comment votre personnage est arrivé dans ce monde ? quel est le but de ce voyage ou de cette aventure ?
+Pour créer une sorcière d'Hereva, vous devez connaître au moins un peu le monde d'où elles viennent. Si vous  créez un personnage pour jouer dans une campagne différente vous devez répondre aux questions suivantes : comment votre personnage est arrivé dans ce monde ? quel est le but de ce voyage ou de cette aventure ?
 
 Une expérience ratée, une quête accordée par les esprits, en suivant les pas d'un magicien très puissant, la recherche de la recette d'une potion légendaire ; celles-ci et bien d'autres pourraient être les raisons qui poussent votre personnage à voyager à partir du monde d'Hereva et commencer une aventure dans votre monde de campagne.
 
