@@ -10,7 +10,7 @@ Mais il existe de nombreux types de sorcières, chaque Maison de Sorcellerie voi
 
 Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah exige un certain degré de discipline pour être capable de maîtriser les pouvoirs qui ont donné naissance à l'univers.
 
-<div class='classTable wide'>
+<div class='classTable wide' > 
 
 ##### Table d'évolution des Sorcières
 
@@ -63,4 +63,4 @@ Une expérience ratée, une quête accordée par les esprits, en suivant les pas
 
 ## Création rapide
 
-Vous pouvez créer une sorcière d'Hereva rapidement en suivant ces suggestions. Premièrement, le charisme doit être votre plus haut score de caractéristique, suivi de la constitution ou de la dextérité. En fonction de la maison de sorcellerie à laquelle vous comptez vous joindre, votre prochain meilleur score pourrait changer (vérifiez chaque description de Maison pour des suggestions de construction rapide). Ensuite, choisissez l'historique de l'école des sorcières. Troisièmement, choisissez ces tours de magie : _Chill Touch_, _main du mage_. Et enfin, choisissez ces sorts de 1er niveau : _Comprendre les langues_, _serviteur invisible_.
+Vous pouvez créer une sorcière d'Hereva rapidement en suivant ces suggestions. Premièrement, le charisme doit être votre plus haut score de caractéristique, suivi de la constitution ou de la dextérité. En fonction de la maison de sorcellerie à laquelle vous comptez vous joindre, votre prochain meilleur score pourrait changer (vérifiez chaque description de Maison pour des suggestions de construction rapide). Ensuite, choisissez l'historique de l'école des sorcières. Troisièmement, choisissez ces tours de magie : _contact glacial_, _main du mage_. Et enfin, choisissez ces sorts de 1er niveau : _compréhension des langues_, _serviteur invisible_.
