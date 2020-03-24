@@ -1,5 +1,5 @@
-import 'file:///C:/dev/AideDeJeu/aidedejeu_flutter/lib/databases/database_sqflite.dart';
 import 'package:aidedejeu_flutter/databases/database.dart';
+import 'package:aidedejeu_flutter/databases/database_sqflite.dart';
 import 'package:aidedejeu_flutter/localization.dart';
 import 'package:aidedejeu_flutter/models/filters.dart';
 import 'package:aidedejeu_flutter/widgets/filters.dart';
@@ -57,7 +57,7 @@ class _LibraryPageState extends State<LibraryPage> {
   }
 
   Future<Item> _loadItem() async {
-    var item = await SqfliteDB.instance.getItemWithId(this.widget.id);
+    var item = await _db.getItemWithId(this.widget.id);
     await _db.loadChildrenItems(item, filters);
     return item;
   }

@@ -120,13 +120,53 @@ Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer.
 
 #### Sorts connus
 
+Au 1er niveau, vous connaissez deux sorts de 1er niveau de votre choix de la liste de sorts de la Sorcière d'Hereva. 
+
+La colonne des sorts connus de la table des sorcières d'Hereva indique quand vous apprenez d'autres sorts de sorcellerie de votre choix de niveau 1 et supérieur. Un sort que vous choisissez doit être d'un niveau non supérieur à ce qui est indiqué dans la colonne "Niveau de sorts" du tableau pour votre niveau. Lorsque vous atteignez le 6e niveau, par exemple, vous apprenez un nouveau sort de sorcière, qui peut être de niveau 1, 2 ou 3.
+
+En outre, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir un des sorts de sorcière que vous connaissez et le remplacer par un autre sort de la liste des sorcières d'Hereva, qui doit également être d'un niveau pour lequel vous avez un sort des niveaux de sorts.
+
 #### Caractéristique d'incantation
 
-#### Focaliseur d'incantation
+La caractéristique d'incantation qui vous permet de lancer les sorts de sorcière d'Hereva est le Charisme, donc vous utilisez votre Charisme dès qu'un sort de sorcière d'Hereva vous demande d'utiliser votre caractéristique d'incatation pour être lancé. De plus, vous utilisez votre modificateur de Charisme quand vous calculez le DD du jet de sauvegarde d'un sort de sorcière d'Hereva que vous avez lancé ou quand vous faites une attque avec un sort.
+
+<div align="center">
+
+**DD d'un jet de sauvegarde** = 8 + votre bonus de maîtrise + votre modificateur de Charisme
+
+**Modificateur de sort de combat** = votre bonus de maîtrise + votre modificateur de Charisme
+
+</div>
+
+#### Focaliseur d'incantation (baguette magique)
+
+Vous pouvez utiliser une baguette magique (voir la section Equipement) comme focaliseur d'incantation pour vos sorts de sorcière d'Hereva.
 
 ### Familier
 
+A partir du premier niveau, vous pouvez choisir un animal compagnon qui vous sert de familier. Un familier d'une sorcière d'Hereva peut être un animal courant ou un esprit qui développe une relation profonde avec elle.
+
+Pour se familiariser avec lui, il faut effectuer un rituel avec un animal de la table des familiers de sorcières. Ce rituel prend une heure, après quoi la créature est liée à vous. Une sorcière d'Hereva ne peut avoir qu'un seul familier à la fois, indépendamment de la manière dont il a été obtenu. En outre, en tant qu'action, vous pouvez libérer votre familier du lien qui le lie à vous.
+
+Votre familier agit indépendamment de vous, mais il obéit à vos ordres. Au combat, il prend l'initiative et agit à son tour. Un familier ne peut pas attaquer, lancer des sorts ou utiliser des armes respiratoires, mais il peut effectuer d'autres actions comme d'habitude.
+
 #### Familiers de sorcière
+
+|Familier|Ability Score|Element|
+|---|---|---|
+|Chat|Dexterité|Feu|
+|Chien|Force|Force|
+|Renard à deux queues|Sagesse|Radiant|
+|Cockerel|Intelligence|Tonnerre|
+|Betta splendens|Charisme|Froid|
+|Arraignée jaune|Dexterité|Poison|
+|Chouette|Sagesse|Foudre|
+|Dragon Canard|Force|Psychique|
+|Zombie-Canari|Constitution|Nécrotique|
+|Dragonchat|Constitution|Acide|
+|Chauve-souris fantôme|Charisme|Slashing|
+|Plante féerique|Intelligence|Bludgeoning|
+
 
 ### Maison de sorcellerie
 

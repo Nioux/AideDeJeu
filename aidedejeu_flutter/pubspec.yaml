@@ -27,7 +27,7 @@ dependencies:
   flutter_markdown:
   sqflite:
   sembast:
-  sembast_web:
+# sembast_web:
   path:
   flutter_svg:
   bloc:

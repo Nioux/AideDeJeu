@@ -3,7 +3,6 @@ import 'package:aidedejeu_flutter/models/filters.dart' as Filters;
 import 'package:aidedejeu_flutter/models/items.dart';
 import 'package:sembast/sembast.dart';
 import 'package:sembast/sembast_io.dart';
-import 'package:sembast_web/sembast_web.dart';
 
 class SembastDB extends BaseDB {
   static SembastDB _instance;
