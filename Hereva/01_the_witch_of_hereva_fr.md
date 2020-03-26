@@ -152,7 +152,7 @@ Votre familier agit indépendamment de vous, mais il obéit à vos ordres. Au co
 
 #### Familiers de sorcière
 
-|Familier|Ability Score|Element|
+|Familier|Valeur de caractéristique|Element|
 |---|---|---|
 |Chat|Dexterité|Feu|
 |Chien|Force|Force|
@@ -167,27 +167,141 @@ Votre familier agit indépendamment de vous, mais il obéit à vos ordres. Au co
 |Chauve-souris fantôme|Charisme|Slashing|
 |Plante féerique|Intelligence|Bludgeoning|
 
+Si votre familier se trouve à moins de 30 mètres de vous, vous pouvez communiquer avec lui par télépathie.
+
+En réaction, votre familier peut vous donner un  avantage sur un lancer de sauvegarde, s'il s'agit de la valeur de caractéristique indiquée dans le tableau "Familiers de sorcières". Vous pouvez également lui faire vous accorder, en tant que réaction, la résistance à une attaque si elle est de son type de dommage, comme indiqué dans le tableau "Familiers de sorcières". Vous ne pouvez utiliser ces capacités que si votre familier se trouve à moins de 30 mètres de vous et une fois chacun, puis vous devez terminer un repos long pour les utiliser à nouveau.
 
 ### Maison de sorcellerie
 
+À partir du niveau 2, vous devez choisir l'une des 6  écoles de magie d'Hereva pour vous spécialiser, c'est-à-dire que vous avez été acceptée par l'une des 6 maisons de Sorcellerie ou que vous obtenez une tutrice d'une de ces maisons. Dans dans tous les cas, votre choix vous accorde des fonctionnalités au niveau 2 et à nouveau aux niveaux 7, 11, 15 et 20.
+
+\page
+
+> Les maisons de sorcellerie diffèrent des autres sous-classes en ce qu'elles ont plus d'influence sur l'évolution de la classe que la normale.
+>
+> Elles changent totalement le rôle que la sorcière a dans son groupe d'aventuriers et comment vous jouez tactiquement votre personnage.
+
 ### Préparation de potions
 
-#### Table de préparation de potions
+A partir du niveau 3, vous pouvez créer vos propres potions magiques, à condition que vous soyez prêt à dépenser du temps et des ressources dessus. Vous fabriquerez normalement ces objets pendant les interruptions de votre campagne.
 
-#### Table des résultats de préparation de potions
+##### Table de préparation de potions
+|Rareté de potion|Niveau de sorcière|Durée de la recette|TD de la recette|Durée de brassage|Coût|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Commune|3|1 semaine|13|2 jours|25po|
+|Peu commune|5|2 semaines|15|4 jours|50po|
+|Rare|7|5 semaines|20|10 jours|500po|
+|Très rare|9|10 semaines|25|3 semaines|5000po|
+|Légendaire|11|20 semaines|30|10 semaines|25000po*|
+
+(*) Pour les potions légendaires, votre MJ pourrait exiger que vous obteniez des ingrédients particulièrement rares que l'on ne peut obtenir que dans une quête.
+
+Tout d'abord, vous devez créer une recette de potion, vous ne pouvez recherchez une recette que si vous êtes du niveau minimum de sorcière indiqué sur le tableau de préparation de la potion pour la rareté de la potion. En fonction de la rareté de la potion, vous devez dépenser un temps de recherche de la recette comme indiqué sur la colonne "Durée de la recette" sur la table.
+
+Après cette période, vous devez faire une test de difficulté d'Intelligence (fournitures d'alchimistes) selon le tableau. En cas de succès, vous obtenez la recette et vous pouvez alors commencer à faire des potions basées dessus.
+
+Tant que vous gardez la recette avec vous physiquement, vous pouvez créer des potions sans recherches supplémentaires. Si jamais vous perdez la recette, vous devrez en créer une nouvelle.
+
+Une fois que vous avez la recette, pour préparer une potion, vous devez consacrer le temps et l'argent nécessaires aux ingrédients figurant sur le tableau de brassage de potions. Après la durée du brassage, vous devez faire un test d'Intelligence (fournitures de l'alchimiste) et comparer vos résultats dans le tableau des résultats de brassage de potions.
+
+Si votre MJ utilise des règles pour créer des objets magiques, la sorcière d'Hereva peut aussi utiliser ces règles. Normalement,  les options sont ici plus rapides et moins coûteuses, car il s'agit d'une compétence de classe. Si la création d'objets magiques est exceptionnellement facile dans votre campagne, votre MJ pourrait vouloir ajuster la table de préparation de potions et la table des résultats de préparation de potions.
+
+
+<div class='wide'>
+
+##### Table des résultats de préparation de potions
+| Commune | Peu Commune | Rare | Très rare | Légendaire | Résultats |
+|:---:|:---:|:---:|:---:|:---:|---|
+| - | - | 5- | 10- | 15- | Your potion explodes. You lose all ingredients, and your alchemist tools are broken. |
+| - | 5- | 6-8 | 11-13 | 16-18 | Terrible fail, you lose all ingredients of this potion. |
+| 5 ou moins | 6-8 | 9-13 | 14-18 | 19-23 | You fail, but you can try again without losing the ingredients. |
+| 6-8 | 8-13 | 14-18 | 19-23 | 24-28 | You succeed but it takes you half again as much time to finish the potion. |
+| 9-20 | 14-25 | 19-30 | 24-35 | 29+ | You succeed. |
+| 21-25 | 26-30 | 31+ | 36+ | - | You succeed in half the time originally needed. |
+| 26+ | 31+ | - | - | - | You succeed in half the time and only spend half the ingredients you originally needed. |
+
+</div>
+
 
 ### Amélioration de caractéristiques
 
+Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous gagnez un bonus de +2 ou deux bonus de +1 aux valeurs de caractéristiques de votre choix. Cette aptitude ne vous permet pas de dépasser 20 dans une valeur de caractéristique.
+
+Si vous utilisez la règle optionnelle des Dons, vous pouvez oublier cette règle pour prendre un Don à la place.
+
+\page
 ### Chevauchage de balai
+
+À partir du niveau 5, vous apprenez à enchanter un balai pour le transformer en un balai volant. Le rituel pour enchanter le balai prend 1 heure et les matériaux coûtent 50po. Cet enchantement dure 1 heure, et vous ne pourrez le refaire qu'après un repos long.
+
+Pendant qu'il est enchanté, le balai fonctionne exactement comme un balai volant, sauf qu'il ne peut être activé que par vous ou votre familier.
+
+Au niveau 10, vous pouvez utiliser cette capacité à deux reprises entre les repos longs et l'enchantement dure 2 heures. Au niveau 15, vous pouvez le faire 3 fois et il dure 5 heures.
+
+À partir du niveau 15, chaque fois que vous montez sur un balai volant, qu'il soit enchanté par vous ou non, sa vitesse devient le double de sa vitesse normale.
 
 > ##### Balai volant
 >
+> équipement d'aventurier (objet merveilleux)
+>
+> catégorie : objets
+>
+> rareté : peu commun
+>
+> poids : 3lbs
+>
+> Ce balai en bois, qui pèse 1,5 kgs, fonctionne comme un balai banal jusqu'à ce que vous vous mettiez à cheval sur lui et disiez son mot de commande. Il plane alors sous vous et peut être conduit en l'air. Il a une vitesse de vol de 15 mètres. Il peut transporter jusqu'à 200 kilos, mais sa vitesse de vol devient de 10 mètres en transportant plus de 100 kilos. Le balai cesse de planer lorsque vous atterrissez. 
+>
+> Vous pouvez envoyer le balai pour voyager seul vers une destination dans un rayon de 1,5 km de vous si vous dites le mot de commande, nommez l'endroit, et connaissez bien cet endroit. Le balai vous revient lorsque vous prononcez un autre mot de commande, à condition que le balai soit toujours à moins d'1,5 km de vous.
 
 ### Recherche de sorts
 
+En plus des sorts que vous obtenez sur la base de la colonne des sorts connus de la table de la sorcière d'Hereva, vous pouvez également apprendre des sorts qui ne figurent pas sur la liste des sorts de sorcières grâce à la Recherche de sorts. L'apprentissage de ces sorts prend du temps et coûte cher en argent. À partir du niveau 10, vous pouvez apprendre un certain nombre de sorts de la liste de sorts de Magicien en fonction de votre niveau dans la colonne Recherche de sorts dans le tableau de sorcière d'Hereva.
+
+Vous ne pouvez apprendre des sorts de cette façon que s'ils sont d'un niveau inférieur à votre niveau de sort.
+
+De plus, chaque fois que vous gagnez un niveau après le dixième, vous pouvez remplacer un sort que vous avez appris par la  recherche par un autre par le biais d'une autre
+recherche.
+
 #### Processus de recherche de sorts
 
-#### Coûts et difficultés de recherche de sorts
+La recherche d'un sort de cette manière prend deux jours et coûte 150 po par niveau. À la fin de la recherche, vous devez faire un test d'Intelligence (arcanes) avec un TD égal à 15 + Niveau du sort. Si vous réussissez, vous ajoutez le sort à votre livre magique, si vous échouez, vous pouvez réessayer. Les tentatives suivantes prennent la moitié du temps et coûtent un tiers du coût, soit 1 jour et 50po par niveau de sort.
+
+##### Coûts et difficultés de recherche de sorts
+
+| Niveau de sort | Niveau de sorcière | Durée de recherche | Coût de recherche | TD d'apprentissage |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | 10 | 2 jours | 150 po | 16 |
+| 2 | 10 | 4 jours | 300 po | 17 |
+| 3 | 10 | 6 jours | 450 po | 18 |
+| 4 | 10 | 8 jours | 600 po | 19 |
+| 5 | 10 | 10 jours | 750 po | 20 |
+| 6 | 11 | 12 jours | 900 po | 21 |
+| 7 | 13 | 14 jours | 1050 po | 22 |
+| 8 | 15 | 16 jours | 1200 po | 23 |
 
 ### Focus Rea
 
+En tant que sorcière d'Hereva, vous avez naturellement une réserve de Rea que vous pouvez utiliser pour jeter des sorts, et vous récupérez toute votre Rea dépensée après un repos long. Cependant, Rea se trouve partout et il est possible d'utiliser le Rea en dehors du corps d'une personne pour contrôler la magie.
+
+Peu de sorcières sont assez compétentes pour canaliser et manipuler Rea sans avoir besoin de constituer des réserves. Une telle canalisation peut être dangereuse. Bien qu'il soit difficile d'obtenir trop de Rea, il est possible pour certains sorts consomme tout le Rea du lanceur et de la la zone environnante. De tels sorts peuvent conduire à des résultats catastrophiques.
+
+Au niveau 13, vous apprenez à canaliser Rea pour lancer des sorts. Lorsque vous avez dépensé tous vos points de Rea, vous pouvez essayer de lancer un sort d'un niveau inférieur à votre niveau de sort actuel ou moins de votre liste de sorts connus.
+
+Pour lancer un sort de cette manière, vous devez d'abord canaliser le Rea autour de vous. Cela pourrait provoquer une explosion d'énergie magique sauvage autour de vous qui pourrait vous blesser, vous et les êtres vivants autour de vous.
+
+Lancez un nombre de d6 égal au niveau du sort que vous tentez de lancer. L'explosion causée par votre canalisation a une puissance négative égale au nombre de résultats de 1 sur ces d6, et une puissance positive égale au nombre de résultats de 6 dans ces d6. Chaque créature dans une zone de 60 pieds de rayon centrée sur vous perdent un nombre de points de vie égal à la puissance négative x 5, et gagnent un nombre
+de points de vie égal à la puissance positive x 5.
+
+\page
+
+Des effets supplémentaires en fonction de la puissance positive et de la puissance négative de la canalisation se produisent.
+
+* Si la puissance négative est égale ou supérieure à 2, toute créature quasi réelle dans la zone de l'explosion cesse d'exister immédiatement.
+* Si la puissance positive est de 3 ou plus, toutes les illusions dans la zone sont dissipées.
+* Si la puissance négative est de 5 ou plus, toute la végétation dans la zone est tuée.
+* Si la puissance positive est de 6 ou plus, vous récupérez une utilisation de Rea Focus.
+
+Après avoir jeté un sort de cette manière, vous devrez finir un repos long pour recommencer.
+
+À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus Rea à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
