@@ -1,8 +1,8 @@
 # Les Sorcières d'Hereva
 
-## Sorcière d'Hereva
+# Sorcière d'Hereva
 
-_Elle est allongée sur la toile d'araignée, un livre à la main, absorbée par sa lecture, et un sourire aux lèvres. Dans son cartable elle transporte tous les ingrédients qu'elle a collecté pendant la journée, et près d'elle il y a un chat. Le  chat regarde attentivement un petit groupe d'araignées qui ne savent pas si elles doivent se rapprocher de ce qui est censé être leur proie._
+E _lle est allongée sur la toile d'araignée, un livre à la main, absorbée par sa lecture, et un sourire aux lèvres. Dans son cartable elle transporte tous les ingrédients qu'elle a collecté pendant la journée, et près d'elle il y a un chat. Le  chat regarde attentivement un petit groupe d'araignées qui ne savent pas si elles doivent se rapprocher de ce qui est censé être leur proie._
 
 Les sorcières d'Hereva s'entraînent dès leur plus jeune âge pour apprendre à contrôler la magie et l'utiliser à leur profit et pour les autres. Ce sont des spécialistes du mystère et du banal et elles aiment résoudre les problèmes. En général, elles ont une aptitude d'aventurière et leur meilleure qualité est qu'elles n'abandonnent jamais, même si cela peut causer des problèmes parfois.
 
@@ -186,7 +186,7 @@ En réaction, votre familier peut vous donner un  avantage sur un lancer de sauv
 A partir du niveau 3, vous pouvez créer vos propres potions magiques, à condition que vous soyez prêt à dépenser du temps et des ressources dessus. Vous fabriquerez normalement ces objets pendant les interruptions de votre campagne.
 
 ##### Table de préparation de potions
-|Rareté de potion|Niveau de sorcière|Durée de la recette|TD de la recette|Durée de brassage|Coût|
+|Rareté de potion|Niveau de sorcière|Durée de la recette|DD de la recette|Durée de brassage|Coût|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |Commune|3|1 semaine|13|2 jours|25po|
 |Peu commune|5|2 semaines|15|4 jours|50po|
@@ -198,7 +198,7 @@ A partir du niveau 3, vous pouvez créer vos propres potions magiques, à condit
 
 Tout d'abord, vous devez créer une recette de potion, vous ne pouvez recherchez une recette que si vous êtes du niveau minimum de sorcière indiqué sur le tableau de préparation de la potion pour la rareté de la potion. En fonction de la rareté de la potion, vous devez dépenser un temps de recherche de la recette comme indiqué sur la colonne "Durée de la recette" sur la table.
 
-Après cette période, vous devez faire une test de difficulté d'Intelligence (fournitures d'alchimistes) selon le tableau. En cas de succès, vous obtenez la recette et vous pouvez alors commencer à faire des potions basées dessus.
+Après cette période, vous devez faire une test de caractéristique d'Intelligence (fournitures d'alchimistes) selon le tableau. En cas de succès, vous obtenez la recette et vous pouvez alors commencer à faire des potions basées dessus.
 
 Tant que vous gardez la recette avec vous physiquement, vous pouvez créer des potions sans recherches supplémentaires. Si jamais vous perdez la recette, vous devrez en créer une nouvelle.
 
@@ -212,13 +212,13 @@ Si votre MJ utilise des règles pour créer des objets magiques, la sorcière d'
 ##### Table des résultats de préparation de potions
 | Commune | Peu Commune | Rare | Très rare | Légendaire | Résultats |
 |:---:|:---:|:---:|:---:|:---:|---|
-| - | - | 5- | 10- | 15- | Your potion explodes. You lose all ingredients, and your alchemist tools are broken. |
-| - | 5- | 6-8 | 11-13 | 16-18 | Terrible fail, you lose all ingredients of this potion. |
-| 5 ou moins | 6-8 | 9-13 | 14-18 | 19-23 | You fail, but you can try again without losing the ingredients. |
-| 6-8 | 8-13 | 14-18 | 19-23 | 24-28 | You succeed but it takes you half again as much time to finish the potion. |
-| 9-20 | 14-25 | 19-30 | 24-35 | 29+ | You succeed. |
-| 21-25 | 26-30 | 31+ | 36+ | - | You succeed in half the time originally needed. |
-| 26+ | 31+ | - | - | - | You succeed in half the time and only spend half the ingredients you originally needed. |
+| - | - | 5- | 10- | 15- | Votre potion explose. Vous perdez tous les ingrédients et vos outils d'alchimiste sont cassés. |
+| - | 5- | 6-8 | 11-13 | 16-18 | Echec critique, vous perdez tous les ingrédients de cette potion. |
+| 5 ou moins | 6-8 | 9-13 | 14-18 | 19-23 | Vous échouez, mais vous pouvez réessayer sans perdre les ingrédients. |
+| 6-8 | 8-13 | 14-18 | 19-23 | 24-28 | Vous réussissez, mais il vous faut encore moitié moins de temps pour terminer la potion. |
+| 9-20 | 14-25 | 19-30 | 24-35 | 29+ | Vous réussissez. |
+| 21-25 | 26-30 | 31+ | 36+ | - | Vous réussissez dans la moitié du temps initialement nécessaire. |
+| 26+ | 31+ | - | - | - | Vous réussissez dans la moitié du temps et ne dépensez que la moitié des ingrédients dont vous aviez besoin à l'origine. |
 
 </div>
 
@@ -265,11 +265,11 @@ recherche.
 
 #### Processus de recherche de sorts
 
-La recherche d'un sort de cette manière prend deux jours et coûte 150 po par niveau. À la fin de la recherche, vous devez faire un test d'Intelligence (arcanes) avec un TD égal à 15 + Niveau du sort. Si vous réussissez, vous ajoutez le sort à votre livre magique, si vous échouez, vous pouvez réessayer. Les tentatives suivantes prennent la moitié du temps et coûtent un tiers du coût, soit 1 jour et 50po par niveau de sort.
+La recherche d'un sort de cette manière prend deux jours et coûte 150 po par niveau. À la fin de la recherche, vous devez faire un test d'Intelligence (arcanes) avec un DD égal à 15 + Niveau du sort. Si vous réussissez, vous ajoutez le sort à votre livre magique, si vous échouez, vous pouvez réessayer. Les tentatives suivantes prennent la moitié du temps et coûtent un tiers du coût, soit 1 jour et 50po par niveau de sort.
 
 ##### Coûts et difficultés de recherche de sorts
 
-| Niveau de sort | Niveau de sorcière | Durée de recherche | Coût de recherche | TD d'apprentissage |
+| Niveau de sort | Niveau de sorcière | Durée de recherche | Coût de recherche | DD d'apprentissage |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | 10 | 2 jours | 150 po | 16 |
 | 2 | 10 | 4 jours | 300 po | 17 |
