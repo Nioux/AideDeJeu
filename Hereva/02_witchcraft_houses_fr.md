@@ -24,7 +24,9 @@ Cependant, une Sorcière de Ah attaque aussi quand c'est nécessaire et ne manqu
 
 ### Liste des sorts de Ah
 
-Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles  en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+##### Sorts de sorcière de Ah par niveau
 
 | Niveau | Sorts |
 | --- | --- |
@@ -115,20 +117,168 @@ Lorsque vous utilisez cette capacité, vous ne pouvez pas l'utiliser à nouveau 
 
 \page
 
-## Maison de Aquah
+# Maison d'Aquah
+
+V _otre bateau s'approche du petit îlot et vous la voyez assise sur un rocher voisin, ce n'est pas une sirène mais une jeune fille de race elfique avec les yeux fixés sur le livre couché sur le sol. Ses vêtements verts et bleus semblent être faits d'algues et de corail, ses longs cheveux blancs sont trempés dans l'eau. Lorsque vous vous approchez, vous voyez un poisson bêta qui saute hors de l'eau, vous jureriez qu'il vous observait._
+
+### Magie d'Aquah
+
+Aquah est la maison de l'eau, du vent, des nuages et des abîmes. C'est la maison de sorcellerie la plus mystérieuse d'Hereva, peu de gens connaissent leur mode de vie ou leurs coutumes. En raison du fait qu'ils vivent sous l'eau, les gens à la surface n'ont pas connu leurs villes, situées à proximité des abîmes de la mer. 
+
+Les sorcières d'Aquah sont connues pour être, en partie,  responsables de la grande guerre d'Hereva. Elles sont également connues pour avoir un tempérament particulier et pour être physiquement très capables.
+
+La magie d'Aquah se concentre sur le contrôle de l'eau, les courants, le vent et le tonnerre. Elles ont également la capacité d'invoquer des créatures terribles inconnues des habitants de la surface.
+
+### Jouer une Sorcière d'Aquah
+
+Il est compliqué de jouer une sorcière d'Aquah dans son propre l'environnement. La plupart des campagnes de jeux de rôle se déroulent sur la terre ferme ou à la surface de la mer, mais peu d'entre elles le font en profondeur dans les abîmes. C'est pourquoi votre personnage est plus susceptible d'être un outsider, que vous jouiez dans le monde d'Hereva ou dans un cadre de campagne différent.
+
+Les règles de ce supplément considèrent que votre personnage, bien que vivant sous la mer, peut respirer l'air comme les humanoïdes normaux, et l'air est en fait ce que votre personnage respirait avant d'entrer dans l'école de magie d'Aquah. C'est pourquoi vous n'aurez aucun problème à entreprendre des aventures en surface.
+
+### Magie d'Aquah en combat
+
+Au combat, les Sorcières d'Aquah ont un rôle en combat rapproché. L'un des principaux pouvoirs de cette école est le fouet à eau, que les sorcières utilisent pour attaquer les ennemis proches.
+
+Une peau plus dure que la normale, couverte d'écailles, vous offre une meilleure classe d'armure lorsque vous ne portez pas d'armure.
+
+### Liste des sorts d'Aquah
+
+Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+##### Sorts de sorcière d'Aquah par niveau
+| Niveau | Sorts |
+| --- | --- |
+| Tours de magie (Niveau 0) | Rayon de givre, Message |
+| Niveau 1 | Water Shield, Water Expulsion* |
+| Niveau 2 | Bourrasque, Water Steed* |
+| Niveau 3 | Respiration aquatique, Appel de la foudre |
+| Niveau 4 | Releasus Krakenis*, Tempête de grêle |
+| Niveau 5 | Cône de froid, Conjure Water Elemental* |
+| Niveau 6 | Mur de glace, Marche sur le vent |
+| Niveau 7 | Manoir somptueux, Sword of the Lake* |
+| Niveau 8 | Contrôle du climat, Deep Dark Ocean* |
+| Niveau 9 | Emrpsionnement, Tempête vengeresse |
+
+Bien qu'ayant une capacité d'invocation de sorts aussi bonne que d'autres écoles de sorcellerie, en tant que sorcière Aquah, vous pouvez changer des points Rea pour améliorer vos compétences au combat.
+
+### Aptitudes par niveau
+
+Le tableau suivant décrit les aptitudes qu'une sorcière d'Aquah gagne à différents niveaux.
+
+| Niveau | Aptitudes |
+| :---: | --- |
+| 2 | Armure d'écaille, Respiration sous l'eau, Fouet à eau |
+| 7 | Invocation de serpent élémentaire d'eau |
+| 11 | Bloc de glace |
+| 15 | Adaptation à l'eau |
+| 20 | Invocation de monstre abyssal |
+
+#### Armure d'écaille
+
+A partir du niveau 2, lorsque vous sélectionnez cette maison de sorcellerie, vous gagnez une peau faite d'écailles plus adaptée pour vivre sous l'eau et plus résistante. Tant que vous ne portez pas d'armure ou de bouclier, votre CA est égal à 13 + votre modificateur de Dextérité.
+
+#### Respiration sous l'eau
+
+La première des compétences que vous apprenez en tant qu'étudiant à l'école d'Aquah est de respirer sous l'eau, ce qui est nécessaire pour s'approcher des écoles de sorcellerie sous la mer. À partir du niveau 2, vous pouvez respirer sous l'eau, en plus de toute autre capacité respiratoire que vous possédez normalement.
+
+\page
+
+#### Fouet à eau
+
+Au niveau 2, vous apprenez à contrôler une petit quantité d'eau et à l'utiliser comme une arme. En action bonus, vous pouvez contrôler un gallon d'eau pour qu'il prenne la forme d'un fouet à eau qui flotte près de vous. Le fouet à eau se déplace avec vous.
+
+En tant qu'action, vous pouvez contrôler le fouet à eau pour attaquer un adversaire, il s'agit d'une attaque à l'arme de mêlée avec portée qui utilise votre modificateur de Charisme pour l'attaque et les dégâts.
+
+Au niveau 2, le fouet à eau inflige 1d4 dégâts sur un coup. Ces dommages augmentent pour atteindre 1d6 au niveau 7, 1d8 au niveau 11 et 1d10 au niveau 15. 
+
+Le fouet à eau dure aussi longtemps que vous maintenez votre concentration. Vous ne pouvez avoir qu'un seul fouet à eau à la fois, si vous transformez un autre gallon d'eau en fouet à eau le précédent revient à la normale et tombe au sol comme de l'eau normale.
+
+##### Rea amélioré
+
+A partir du niveau 11, chaque fois que vous créez un fouet à eau vous pouvez choisir de dépenser jusqu'à 3 points Rea. Si vous le faites, pour chaque point Rea dépensé de cette manière, vous pouvez choisir l'une des prestations suivantes.
+
+* Vous pouvez attaquer avec votre fouet à eau deux fois, au lieu d'une fois, chaque fois que vous entreprenez l'action Attaque à votre tour.
+* Vous ajoutez le niveau de votre sort aux dommages causés par votre Fouet à eau sur un coup.
+* Lorsque vous subissez des dégâts de la part d'une créature qui est à moins d'un mètre de vous, vous pouvez utiliser votre réaction pour faire une attaque à l'arme de mêlée contre cette créature avec votre fouet à eau.
+
+Vous ne pouvez choisir qu'un seul effet chaque fois que vous utilisez cette capacité, et vous ne pouvez pas la choisir à nouveau avant de terminez un repos long. Si votre fouet à eau est renvoyé, les bénéfices continueront à affecter le prochain que vous créez si vous n'avez pas terminé un repos long.
+
+#### Invocation de serpent élémentaire d'eau
+
+À partir du niveau 7, vous pouvez invoquer un allié élémentaire qui étouffera vos ennemis. En tant qu'action, vous invoquez un élémentaire qui prend la forme d'un serpent d'eau élémentaire (ses statistiques se trouvent dans l'annexe sur les créatures) et apparait dans des espaces inoccupés que vous pouvez voir à moins de 60 pieds de vous.
+
+L'élémentaire disparaît lorsqu'il tombe à 0 point de vie ou après une heure.
+
+La créature invoquée est amicale envers vous et vos compagnons. La créature agit avec la même initiative que vous. Il obéit à tout ordre verbal que vous lui donnez (pas d'action requise pour vous). Si vous ne lui donnez pas d'ordres, la créature se défend contre les créatures hostiles, mais ne prend aucune autre mesure.
+
+Le serpent d'eau élémentaire tentera d'étouffer toute créature que vous lui ordonnez d'attaquer.
+
+#### Bloc de glace
+
+#### Adaptation à l'eau
+
+#### Invocation de monstre abyssal
 
 \page
 
 ## Maison de Chaosah
 
+### Magie de Chaosah
+
+
+### Jouer une Sorcière de Chaosah
+
+### Magie de Chaosah en combat
+
+### Liste des sorts de Chaosah
+
+### Aptitudes par niveau
+
+
 \page
 
 ## Maison de Hippiah
+
+### Magie de Hippiah
+
+
+### Jouer une Sorcière de Hippiah
+
+### Magie de Hippiah en combat
+
+### Liste des sorts de Hippiah
+
+### Aptitudes par niveau
+
 
 \page
 
 ## Maison de Magmah
 
+### Magie de Magmah
+
+
+### Jouer une Sorcière de Magmah
+
+### Magie de Magmah en combat
+
+### Liste des sorts de Magmah
+
+### Aptitudes par niveau
+
+
 \page
 
 ## Maison de Zombiah
+
+### Magie de Zombiah
+
+
+### Jouer une Sorcière de Zombiah
+
+### Magie de Zombiah en combat
+
+### Liste des sorts de Zombiah
+
+### Aptitudes par niveau
+
