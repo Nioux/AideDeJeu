@@ -256,12 +256,49 @@ L _es trois lunes éclairent votre chemin vers la petite maison de la sorcière,
 
 ### Magie de Chaosah
 
+Chaosah est la maison du temps, de la gravité, des effets nucléaires, et des forces divines souterraines.
+
+Chaosah est l'une des principales écoles de magie du système magique d'Hereva. Après la grande guerre d'Hereva, il reste peu de sorcières de Chaosah aujourd'hui car elles n'ont pas d'écoles comme toutes les autres Maisons de la Sorcellerie. Parfois des filles qui ont des aptitudes pour la magie de Chaosah apparaissent, mais sans écoles où elles pourraient être suivies, elles doivent chercher d'autres sorcières et demander à être formées, ou apprendre par elles-mêmes.
+
+Les sorcières de Chaosah ont l'étrange habitude d'enterrer leurs erreurs. Elles enterrent littéralement toutes leurs expériences sous terre. On pense qu'il s'agit d'un moyen de rendre au monde le Rea utilisé dans une tentative ratée de créer de la magie.
+
+Cette pratique a parfois fait que les terres autour des maisons des sorcières de Chaosah commencent à se comporter curieusement, avec des plantes auxquelles des dents poussent , des animaux d'une intelligence exceptionnelle, et plusieurs autres phénomènes. Mais pour les Sorcières de Chaosah, cela ressemble à des accidents plutôt heureux.
 
 ### Jouer une Sorcière de Chaosah
 
+Les Sorcières de Chaosah sont généralement très sérieuses, directes et déterminées. Elles ne tournent pas autour de sujets triviaux, elles vont toujours droit au but.
+
+Parmi toutes les maisons de sorcellerie, ce sont les moins compétitives, car elles n'aiment pas se vanter de leurs pouvoirs ou perdre du temps sur des choses insignifiantes ou frivoles. Bien sûr, il y a des exceptions à chaque règle.
+
+La magie de Chaosah est liée aux forces surnaturelles du monde souterrain, mais cela ne signifie pas que les sorcières de Chaosah doivent être mauvaises, bien qu'elles le soient généralement (ou l'étaient généralement, avant la grande guerre). Le regard d'une sorcière de Chaosah est intimidant, il inspire le respect et a de  l'influence sur les puissants.
+
+Bien qu'il s'agisse d'un type de magie très puissant, les sorcières d'Hereva sont très prudentes quant au type d'utilisation qu'elles donnent à leurs pouvoirs. Elles font la plupart de leurs corvées sans magie. Elles essaient de se débrouiller seules et n'utiliser la magie que pour les questions vraiment importantes.
+
 ### Magie de Chaosah en combat
 
+Au combat, les Sorcières de Chaosah ont un rôle de contrôle. Elles sont expertes en matière de confusion, de contrôle des esprits, de création d'illusions et provoquent des explosions de chaos qui peuvent changer le déroulement d'un combat.
+
+En tant que Sorcière de Chaosah, certaines de vos principales fonctions vont être de créer la confusion pour affaiblir vos adversaires et aider vos alliés.
+
+En outre, comme toute autre sorcière d'Hereva, la magie d'attaque à distance a une place importante dans votre style de combat.
+
 ### Liste des sorts de Chaosah
+
+Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+##### Sorts de sorcière de Chaosah par niveau
+| Niveau | Sorts |
+| --- | --- |
+| Tours de magie (Niveau 0) | _Résistance_, _Moquerie cruelle_ |
+| Niveau 1 | _Fou rire_, Grease |
+| Niveau 2 | _Toile d'araignée_, _Briser_ |
+| Niveau 3 | _Nuage puant_, _Image majeure_ |
+| Niveau 4 | _Confusion_, _Métamorphose_ |
+| Niveau 5 | Zone of Chaos*, Micro Dimension of Chaos |
+| Niveau 6 | _Mauvais oeil_, _Danse irrésistible_ |
+| Niveau 7 | Conjure Chaosah Demon*, _Inversion de la gravité_ |
+| Niveau 8 | _Esprit faible_, _Labyrinthe_ |
+| Niveau 9 | _Arrêt du temps_, Nuclear Chaos* |
 
 ### Aptitudes par niveau
 
@@ -279,6 +316,22 @@ L _es trois lunes éclairent votre chemin vers la petite maison de la sorcière,
 
 ### Liste des sorts de Hippiah
 
+Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+##### Sorts de sorcière de Hippiah par niveau
+| Niveau | Sorts |
+| --- | --- |
+| Tours de magie (Niveau 0) | |
+| Niveau 1 | |
+| Niveau 2 | |
+| Niveau 3 | |
+| Niveau 4 | |
+| Niveau 5 | |
+| Niveau 6 | |
+| Niveau 7 | |
+| Niveau 8 | |
+| Niveau 9 | |
+
 ### Aptitudes par niveau
 
 
@@ -295,6 +348,22 @@ L _es trois lunes éclairent votre chemin vers la petite maison de la sorcière,
 
 ### Liste des sorts de Magmah
 
+Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+##### Sorts de sorcière de Magmah par niveau
+| Niveau | Sorts |
+| --- | --- |
+| Tours de magie (Niveau 0) | |
+| Niveau 1 | |
+| Niveau 2 | |
+| Niveau 3 | |
+| Niveau 4 | |
+| Niveau 5 | |
+| Niveau 6 | |
+| Niveau 7 | |
+| Niveau 8 | |
+| Niveau 9 | |
+
 ### Aptitudes par niveau
 
 
@@ -310,6 +379,22 @@ L _es trois lunes éclairent votre chemin vers la petite maison de la sorcière,
 ### Magie de Zombiah en combat
 
 ### Liste des sorts de Zombiah
+
+Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+##### Sorts de sorcière de Zombiah par niveau
+| Niveau | Sorts |
+| --- | --- |
+| Tours de magie (Niveau 0) | |
+| Niveau 1 | |
+| Niveau 2 | |
+| Niveau 3 | |
+| Niveau 4 | |
+| Niveau 5 | |
+| Niveau 6 | |
+| Niveau 7 | |
+| Niveau 8 | |
+| Niveau 9 | |
 
 ### Aptitudes par niveau
 
