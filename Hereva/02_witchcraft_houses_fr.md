@@ -215,13 +215,44 @@ Le serpent d'eau élémentaire tentera d'étouffer toute créature que vous lui 
 
 #### Bloc de glace
 
+À partir du niveau 11, vous apprenez à vous protéger de toute attaque de glace, mais vous restez immobile en le faisant. En réaction, vous pouvez créer un cube de glace qui vous entoure et qui occupe tout votre espace. Si une autre créature se trouve dans le même espace que vous lorsque le bloc apparaît, elle est poussée en dehors de celui-ci et le bloc lui inflige 1d6 de dégâts contondants.
+
+Le bloc a un nombre de points de vie égal à trois fois votre niveau de sorcière d'Hereva. Lorsque le bloc est réduit à 0 point de vie, il disparaît et les dommages restants vous sont attribués.
+
+Tant que vous êtes à l'intérieur du bloc, vous ne pouvez pas vous déplacer ou effectuer toute action sauf l'utilisation d'une réaction pour dissiper le bloc de glace.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant de terminer un repos court ou long.
+
+##### Rea amélioré
+
+Lorsque vous créez un bloc de glace, vous pouvez choisir de dépenser un point Rea. Si vous le faites, vous pouvez utiliser une action durant votre tour pour déplacer magiquement le bloc de glace de 30 pieds.
+
+De plus, lorsqu'il est réduit à 0 point de vie, il se brise et explose. Toutes les créatures dans un rayon de 10 pieds autour de vous doivent faire un jet de sauvegarde de Constitution. Si une créature échoue à son jet de sauvegarde, elle subit 4d6 dommages de froid, et est repoussée de 3 mètres. Si la créature réussit, elle subit  seulement la moitié de ces dommages et n'est pas repoussée.
+
 #### Adaptation à l'eau
+
+Au niveau 15, vous vous adaptez mieux aux conditions extrêmes de l'océan. Vous devenez résistant aux dommages de froid et de foudre; et aux dégâts contondants, perforants et tranchants causés par des attaques non magiques.
 
 #### Invocation de monstre abyssal
 
+Au niveau 20, vous apprenez à appeler certaines des plus puissantes créatures des abysses de l'océan. En tant qu'action, vous invoquez un monstre abyssal à partir de la liste suivante, qui apparaît dans un espace inoccupé que vous pouvez voir dans un rayon de 120 pieds.
+
+* Herevan Kraken
+* Megashark
+* Baleine géante
+* Tortue abyssale
+
+Les statistiques concernant ces monstres sont dans l'appendice des créatures.
+
+La créature invoquée est amicale envers vous et vos compagnons. Lancez l'initiative pour la créature, qui a ses propres tours. Elle obéit à tout ordre verbal que vous lui donnez (aucune action requise de votre part). Si vous ne lui donnez pas d'ordre, la créature se défend contre les créatures hostiles, mais ne prend aucune autre mesure.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé sept repos longs.
+
 \page
 
-## Maison de Chaosah
+# Maison de Chaosah
+
+L _es trois lunes éclairent votre chemin vers la petite maison de la sorcière, quand vous vous approchez vous voyez un panneau vous avertissant que vous pénétrez dans cette propriété à vos propres risques. Au travers de la fenêtre, vous voyez un chat dans la cuisine, qui remue une énorme cuillère dans un chaudron  tout en lisant les instructions d'un livre. À ce moment, une fille ouvre la porte et vous regarde, sa sombre tenue démodée indiquant clairement qu'elle est une sorcière de Chaosah._
 
 ### Magie de Chaosah
 
@@ -237,7 +268,7 @@ Le serpent d'eau élémentaire tentera d'étouffer toute créature que vous lui 
 
 \page
 
-## Maison de Hippiah
+# Maison de Hippiah
 
 ### Magie de Hippiah
 
@@ -253,7 +284,7 @@ Le serpent d'eau élémentaire tentera d'étouffer toute créature que vous lui 
 
 \page
 
-## Maison de Magmah
+# Maison de Magmah
 
 ### Magie de Magmah
 
@@ -269,7 +300,7 @@ Le serpent d'eau élémentaire tentera d'étouffer toute créature que vous lui 
 
 \page
 
-## Maison de Zombiah
+# Maison de Zombiah
 
 ### Magie de Zombiah
 
