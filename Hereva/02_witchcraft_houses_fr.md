@@ -300,19 +300,103 @@ Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces 
 | Niveau 8 | _Esprit faible_, _Labyrinthe_ |
 | Niveau 9 | _Arrêt du temps_, Nuclear Chaos* |
 
+Vous pouvez trouver les descriptions des nouveaux sorts au chapitre 4 de ce document.
+
 ### Aptitudes par niveau
 
+En tant que Sorcière de Chaosiah, vous apprenez différentes capacités quand vous progressez dans votre étude du Chaos & des Evolutions. Voici une liste des capacités que vous acquérez à différents niveaux.
+
+| Niveau | Capacités |
+| --- | --- |
+| 2 | Confusion du Chaos |
+| 7 | Contrôle du Chaos |
+| 11 | Adaptation à l'entropie |
+| 15 | Allié du monde du dessous |
+| 20 | Fracture dimensionnelle |
+
+\page
+
+#### Confusion du Chaos
+
+A partir du niveau 2, lorsque vous choisissez cette maison, vous commencez à comprendre le chaos qui vous entoure et à l'utiliser pour votre confort. Comme action, vous pouvez choisir une créature cible que vous pouvez voir à moins de 60 pieds de vous. Cette créature doit faire un jet de sauvegarde de Sagesse. Si la créature échoue à son jet de sauvegarde, elle agira au cours de son prochain tour en fonction d'un résultat sur la table suivante.
+
+##### Résultats de la confusion du chaos
+| d10 | Résultat |
+| --- | --- |
+| 1-2 | La créature utilise tous ses mouvements pour se déplacer dans une direction aléatoire. Pour déterminer la direction, lancez un d8 et attribuez une direction à chaque face du dé. La créature ne peut pas effectuer d'action à ce tour. |
+| 3-7 | La créature ne bouge pas et ne fait pas d'actions ce tour. |
+| 8-9 | La créature utilise son action pour faire une Attaque de mêlée contre une créature déterminée au hasard et à sa portée. Si aucune créature n'est à sa portée, la créature ne fait rien à ce tour. |
+| 10 | La créature peut agir et se déplacer normalement. |
+
+Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de Charisme (une fois au minimum). Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+#### Contrôle du Chaos
+
+Au niveau 7, vous apprenez à mieux contrôler le chaos qui vous entoure et à en tirer des avantages pour vous et vos camarades. Vous utilisez une action bonus à votre tour pour choisir une autre créature que vous-même à moins de 60 pieds de vous. Lancez un d10, la créature obtient un avantage selon le tableau suivant.
+
+#### Adaptation à l'entropie
+
+A partir du niveau 11, le Chaos n'a plus de secret pour vous. Vous êtes immunisé contre la condition charmé et le sort _Confusion_. En outre, vous avez l'avantage sur les jets de sauvegarde contre les sorts de l'école de l'illusion.
+
+#### Allié du monde du dessous
+
+Au niveau 15, vous apprenez à faire appel aux pouvoirs du monde souterrain.
+
+Vous invoquez l'un des nombreux démons de Chaosah à la discrétion du MD. Lorsque la créature apparaît, c'est sans aucune obligation de se comporter d'une manière particulière. Vous pouvez demander à la créature d'exécuter un service en échange d'un paiement, mais elle n'est pas obligée de le faire. La tâche demandée pourrait aller du plus simple au plus complexe. Vous êtes en mesure de communiquer avec la créature par télépathie. 
+
+Le paiement peut prendre différentes formes. Le démon pourrait exiger un sacrifice ou un don de trésor, ou il pourrait échanger son service pour une quête entreprise par vous.
+
+En règle générale, une tâche qui peut être mesurée en minutes nécessite un paiement d'une valeur de 100 po par minute. Une tâche mesurée en heures nécessite 1 000 po par heure. Et  une tâche mesurée en jours (jusqu'à 10 jours) nécessite 10 000 po par jour.
+
+Les tâches non dangereuses ne nécessitent généralement que la moitié du paiement suggéré, alors que des tâches particulièrement dangereuses pourraient nécessiter un don plus important. Les démons n'hésitent pas à accepter des tâches qui risquent leur vie, car ils savent qu'ils retourneront dans leur plan et ressusciteront.
+
+Une fois que la créature a terminé la tâche, ou lorsque la durée de service convenue expire, la créature retourne dans son plan d'origine après vous avoir fait un rapport, si c'est approprié à la tâche et si c'est possible. Si vous n'êtes pas en mesure de convenir d'un prix pour le service de la créature, la créature retourne immédiatement dans son plan d'origine.
+
+Une créature enrôlée dans votre groupe compte comme un membre de celui ci, recevant un partage complet des points d'expérience accordés.
+
+Vous pouvez utiliser cette capacité deux fois. Vous récupérez tous les usages de cette capacité après un repos long.
+
+#### Fracture dimensionnelle
+
+Au  niveau 20, vous obtenez le pouvoir de créer un chaos aux niveaux planaires. Une zone de 100 pieds de rayon autour de vous devient un chaos total, des réflexions d'autres mondes commencent à apparaître comme des illusions, et les objets changent de taille constamment, ce qui rend difficile d'agir pour toute créature de la région. La région devient un terrain difficile pour toute créature à l'intérieur, y compris vous.
+
+Chaque fois qu'une créature commence son tour à l'intérieur de la zone affectée, la créature doit réussir un jet de sauvegarde de Sagesse contre votre DC d'invocation de sorts ou subir 4d10 dégâts de Force et être affectée jusqu'au début de son prochain tour. Vous êtes immunisé contre cet effet, vos alliés ont l'avantage sur leurs jets de sauvegarde et vos adversaires sont désavantagés sur ce jet de sauvegarde.
+
+Une cible affectée ne peut pas réagir et doit lancer un d10 pour déterminer son comportement pour ce tour.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant de terminer sept repos longs.
+
+##### Comportement de la cible en cas de fracture dimensionnelle
+| d10 | Comportement |
+| --- | --- |
+| 1 | La créature utilise tous ses mouvements pour se déplacer dans une direction aléatoire. Pour déterminer la direction, lancez un d8 et attribuez une direction à chaque face du dé. La créature n'agit pas à ce tour. |
+| 2-6 | La créature ne bouge pas ou ne fait aucune action ce tour. |
+| 7-8 | La créature utilise son action pour faire une attaque de mêlée contre une créature déterminée au hasard et à sa portée. S'il n'y a pas de créature à sa portée, la créature ne fait rien à ce tour. |
+| 9-10 | La créature peut agir et se déplacer normalement |
 
 \page
 
 # Maison de Hippiah
 
+C _'est une citrouille géante, la maison que vous cherchiez et près de la fenêtre, vous la voyez assise devant le table de cuisine, elle a un livre dans les mains et cela semble absorber toute son attention. Ses oreilles d'animal dépassent de ses abondants cheveux blancs. Par la même fenêtre, vous apercevez une petite fée aux allures végétales, qui vous regarde à travers le verre._
+
 ### Magie de Hippiah
 
+Hippiah est la maison des plantes, des créatures, des insectes et de tous les êtres vivants. En termes de nombre d'adeptes, Hippiah est numéro un, les habitants de tout Hereva utilisent ce genre de magie pour l'agriculture, le jardinage et la fertilité et autres pratiques importantes, toutes très bien documentées par les érudits d'Hippiah.
+
+Bien que la plupart des gens utilisent de petits pouvoirs d'Hippiah pour faire leur travail quotidien, le niveau de magie d'Hippiah pratiquée par les sorcières est complètement différent. Seules quelques personnes ont été témoins de l'ampleur de la magie d'Hippiah. Certaines personnes racontent des histoires de légumes et de céréales qui sont si savoureuses qu'elles font même pleurer de joie les écoles de Magmah.
 
 ### Jouer une Sorcière de Hippiah
 
+Les sorcières d'Hippiah respectent beaucoup la nature, elles protègent la vie des créatures des forêts, les plantes, les insectes et les êtres magiques qui habitent Hereva. Leurs pouvoirs sont axés sur la protection et la croissance des êtres vivants au lieu de leur nuire. 
+
+Malgré leur nature pacifique, certaines sorcières d'Hippiah sont souvent capricieuses, tout comme la nature elle-même, et la magie d'Hippiah.
+
+L'étude d'Hippiah, comme celle des autres écoles, est très stricte et très compétitive. Étant l'un des types les plus populaires de magie, ses écoles doivent choisir parmi les meilleurs praticiens, ceux qui montrent le plus de potentiel pour la magie d'Hippiah, avant de les accepter comme étudiants.
+
 ### Magie de Hippiah en combat
+
+Dans un groupe 5e, la sorcière d'Hippiah peut jouer un rôle de combattante de mêlée ou d'invocatrice de créatures de combat.
 
 ### Liste des sorts de Hippiah
 
@@ -321,19 +405,101 @@ Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces 
 ##### Sorts de sorcière de Hippiah par niveau
 | Niveau | Sorts |
 | --- | --- |
-| Tours de magie (Niveau 0) | |
-| Niveau 1 | |
-| Niveau 2 | |
-| Niveau 3 | |
-| Niveau 4 | |
-| Niveau 5 | |
-| Niveau 6 | |
-| Niveau 7 | |
-| Niveau 8 | |
-| Niveau 9 | |
+| Tours de magie (Niveau 0) | _Druidisme_, _Gourdin magique_ |
+| Niveau 1 | _Amitié avec les animaux_, _Baies nourricières_ |
+| Niveau 2 | _Agrandir/rétrécir_, Nature's Healing |
+| Niveau 3 | _Invoquer des animaux_, _Croissance végétale_ |
+| Niveau 4 | _Insecte géant_, _Invoquer des êtres des bois_ |
+| Niveau 5 | _Passage par les arbres_, Shepherd of Hereva* |
+| Niveau 6 | _Invoquer une fée_, _Mur d'épines_ |
+| Niveau 7 | _Régénération_, Wild Transformation* |
+| Niveau 8 | _Tremblement de terre_, _Dominer un monstre_ |
+| Niveau 9 | _Résurraction suprême_, _Changement de forme_ |
 
 ### Aptitudes par niveau
 
+En tant que sorcière d'Hippiah, vous obtenez différentes capacités à certains niveaux, comme le montre le tableau ci-dessous.
+
+| Nveau | Capacités |
+| --- | --- |
+| 2 | Bénédiction de la nature |
+| 7 | Sauvagerie |
+| 11 | Aura sylvestre |
+| 15 | Invocation d'un allié naturel |
+| 20 | Etreinte de la Terre Mère |
+
+#### Bénédiction de la nature
+
+A partir du niveau 2, lorsque vous choisissez cette école, vous obtenez la capacité de soigner vos alliés.
+
+En tant qu'action, vous pouvez invoquer le pouvoir de la nature pour guérir 1d4 pv pour quatre créatures au maximum que vous pouvez voir dans un rayon de 30 pieds centré sur vous. Une fois que vous avez utilisé cette capacité, il vous faudra terminer un repos long pour l'utiliser à nouveau. À partir du niveau 10, vous récupérez l'utilisation de cette capacité après chaque repos court également.
+
+##### Rea Amélioré
+
+À partir du niveau 3, chaque fois que vous utilisez la capacité Bénédiction de la nature, vous pouvez choisir de dépenser un point Rea de votre réserve pour augmenter son pouvoir. Si vous choisissez d'utiliser un point Rea, Bénédiction de la nature soignera 1d4 pv fois votre niveau de sort.
+
+\page
+
+#### Sauvagerie
+
+A partir du niveau 7, les pouvoirs de la nature se manifestent en vous, en vous donnant des capacités particulières. En tant qu'action, vous pouvez entrer dans un état de communion avec la nature qui vous accorde des capacités d'animal ou de plante et vous bénéficiez des avantages suivants :
+
+* Vous pouvez lancer un d6 à la place des dégâts normaux de votre attaque sans armes.
+* Vous pouvez utiliser la Dextérité au lieu de la Force pour les jets d'attaque et de dommages de vos attaques sans armes.
+* Lorsque vous ne portez pas d'armure et que vous ne portez pas de bouclier, votre CA est égal à 13 + votre modificateur de Dextérité.
+
+Vous pouvez rester sous cette forme sauvage pendant plusieurs minutes égales à la moitié de votre niveau de sorcière (arrondi à l'unité inférieure). Vous revenez alors à votre forme normale, sauf si vous réutilisez cette capacité. Vous pouvez revenir à votre forme normale plus tôt en utilisant une action bonus à votre tour. Vous revenez automatiquement à votre forme normale si vous êtes inconscient, descendu à 0pv, ou mort.
+
+Vous pouvez utiliser cette fonction deux fois. Vous récupérez les utilisations dépensées lorsque vous terminez un repos court ou long.
+
+##### Rea amélioré
+
+Chaque fois que vous utilisez votre capacité de Sauvagerie, vous pouvez choisir de dépenser un point de Rea pour renforcer son pouvoir, si vous prenez par magie la forme d'une bête que vous avez déjà vue auparavant, cet état sauvage renforcé vous accorde les avantages suivants :
+* La transformation fonctionne comme la capacité de druide Wild Shape (voir l'encadré vert sur cette page).
+* Vous pouvez vous transformer en une bête que vous avez vue avant, qui a une dangerosité d'un tiers de votre niveau arrondi à l'unité inférieure.
+* Vous pouvez rester à l'état sauvage pendant un certain nombre de minutes égal à votre niveau de sorcière d'Hereva.
+* Vos attaques sous la forme sauvage comptent comme magiques pour l'objectif de surmonter la résistance et l'immunité aux attaques et dommages non magiques.
+* Vous pouvez conserver votre taille ou prendre celle de la bête.
+* Vous pouvez choisir d'avoir des caractéristiques visuelles provenant de plantes.
+* Vous pouvez passer une minute à changer votre forme en une autre créature.
+* Vous pouvez revenir à votre forme normale plus tôt en utilisant une action bonus à votre tour.
+
+> Pendant que vous êtes transformé, les règles suivantes s'appliquent :
+> * Vos statistiques de jeu sont remplacées par les statistiques de la bête, mais vous conservez votre alignement, votre personnalité et vos scores d'Intelligence, de Sagesse et de Charisme. Vous conservez également toutes vos compétences et vos jets de sauvegarde, en plus de gagner ceux de la créature. Si la créature a la même compétence que vous et que son est plus élevé que le vôtre, utilisez le bonus de la créature au lieu du vôtre. Si la créature a des actions légendaires ou de repaire, vous ne pouvez pas les utiliser.
+> * Lorsque vous vous transformez, vous prenez les points de vie et le dé de vie de la bête. Lorsque vous revenez à votre forme normale, vous revenez au nombre de points de vie que vous aviez avant de vous transformer. Cependant, si vous revenez à la suite d'une chute à 0 points de vie, tous dommages en excès se répercutent sur votre forme normale. Par exemple, si vous subissez 10 points de dégâts sous forme animale et n'avez plus qu'un point de vie, vous revenez à votre forme normale et subissez 9 points de dégâts. Tant que l'excédent de dommages ne réduit pas votre forme normale à 0 point de vie, vous n'êtes pas inconscient.
+> * Vous ne pouvez pas jeter de sorts, et votre capacité à parler ou à effectuer des actions qui nécessitent des mains est limitée aux capacités de votre forme de bête. Cependant, la transformation ne brise pas votre concentration sur un sort que vous avez déjà jeté, ni ne vous empêche d'effectuer des actions qui font partie d'un sort, comme l'appel de la foudre, si vous l'avez déjà lancé.
+> * Vous conservez le bénéfice de tout élément de votre classe, de votre race, ou autre source et pouvez les utiliser si la nouvelle forme en est physiquement capable. Cependant, vous ne pouvez utiliser aucun de vos sens, comme la vision nocturne, à moins que votre nouvelle forme n'en dispose également.
+> * Vous choisissez si votre équipement tombe au sol dans votre espace, se fond dans votre nouvelle forme, ou est porté par elle. Porté, l'équipement fonctionne normalement, mais c'est le MD qui décide s'il est pratique pour la nouvelle forme de porter un équipement, basé sur la forme et la taille de la créature. Votre équipement ne change pas de taille ou de forme pour correspondre à la nouvelle forme, et tout équipement que le nouvelle forme ne peut pas porter doit soit tomber par terre, soit fusionner avec elle. L'équipement qui fusionne avec la forme n'a aucun effet jusqu'à ce que vous quittiez la forme.
+
+\page
+
+#### Aura sylvestre
+
+Lorsque vous atteignez le niveau 11, vous bénéficiez d'un avantage sur les jets de sauvegarde contre les effets des bêtes, fées et des créatures végétales. En outre, vous et tous vos alliés à 15 pieds de vous ou moins acquièrent une résistance aux dommages causés par le poison.
+
+Au niveau 17, vous devenez immunisé contre les dommages causés par le poison. De plus, vos alliés à une distance de 15 pieds de vous ou moins gagnent l'avantage sur les jets de sauvegarde contre les effets des bêtes, des fées et des créatures de type végétal.
+
+#### Invocation d'un allié naturel
+
+Au niveau 15, vous apprenez la capacité d'invoquer des créatures sauvages pour vous aider, vous et vos alliés. En tant qu'action, vous pouvez invoquer une créature de type Bête dont la dangerosité est égale à votre niveau de sort ou moins.
+
+La créature apparaît à un endroit inoccupé que vous désignez à une distance maximale de 60 pieds de vous. La créature est amicale envers vous et vos alliés et obéit à vos ordres. La créature reste un nombre de minutes égal à votre niveau de sorcière d'Hereva et disparaît ensuite en revenant à son lieu d'origine. Si la créature est réduite à 0 pv, elle disparaît également et retourne à son plan d'origine avec tous ses pv restaurés.
+
+#### Etreinte de la Terre Mère
+
+Au niveau 20, vous apprenez l'un des plus grands secrets de la nature, vous pouvez appeler la fureur de la nature sauvage contre vos adversaires. En tant qu'action, vous pouvez faire que la terre commence à se déplacer et que des vignes épineuses commencent à pousser autour de vous dans une zone de 120 pieds de rayon. Les créatures à l'intérieur de la zone d'effet se déplacent à la moitié de leur vitesse.
+
+Les créatures dans la zone d'effet doivent faire un jet de sauvegarde de Dextérité. En cas d'échec, une créature prend 5d6 dégâts contondants et seulement la moitié de ce montant sur un jet de sauvegarde réussi.
+
+A chaque round que vous restez concentré sur cette capacité, elle produit des effets différents à votre tour.
+
+**Round 2.** Les adversaires dans la zone sont attaqués par les vignes et les épines. Chaque créature que vous considérez comme hostile doit faire un jet de sauvegarde de Constitution. Lors d'un jet de sauvegarde raté, une créature prend 5d6 dégâts de poison et seulement la moitié
+montant sur une sauvegarde réussie.
+
+**Round 3-10.** Les vignes tenteront de cerner leurs adversaires.
+Chaque tour, chaque créature que vous considérez comme hostile subit 1d6 de dommages perforants. En outre, ces créatures doivent faire un jet de sauvegarde de Force ou de Dextérité. Sur un échec, une créature perd son mouvement et son action à ce tour et reçoit un 1d6 dégâts perforants supplémentaires.
+
+Une fois que vous avez utilisé cette fonction, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé sept repos longs.
 
 \page
 
