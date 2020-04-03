@@ -65,7 +65,7 @@ Pendant qu'il est actif, le gardien regagne des points de vie lorsque les créat
 
 À partir du niveau 7, vous êtes capable de méditer pendant 4 heures pour profiter des avantages d'un repos long. Pendant cette période vous entrez dans un état de transe connu sous le nom de transe spirituelle.
 
-##### Rea amélioré
+##### Renforcement de Rea
 
 Lorsque vous entamez une transe spirituelle, vous pouvez choisir de dépenser un point Rea de vos réserves. Si vous le faites, vous pouvez laisser un nombre de créatures égal à 1 + votre bonus de Charisme entrer en état de transe avec vous. Vous et les créatures bénéficiez d'un repos long après la transe de quatre heures.
 
@@ -193,7 +193,7 @@ Au niveau 2, le fouet à eau inflige 1d4 dégâts sur un coup. Ces dommages augm
 
 Le fouet à eau dure aussi longtemps que vous maintenez votre concentration. Vous ne pouvez avoir qu'un seul fouet à eau à la fois, si vous transformez un autre gallon d'eau en fouet à eau le précédent revient à la normale et tombe au sol comme de l'eau normale.
 
-##### Rea amélioré
+##### Renforcement de Rea
 
 A partir du niveau 11, chaque fois que vous créez un fouet à eau vous pouvez choisir de dépenser jusqu'à 3 points Rea. Si vous le faites, pour chaque point Rea dépensé de cette manière, vous pouvez choisir l'une des prestations suivantes.
 
@@ -223,7 +223,7 @@ Tant que vous êtes à l'intérieur du bloc, vous ne pouvez pas vous déplacer o
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant de terminer un repos court ou long.
 
-##### Rea amélioré
+##### Renforcement de Rea
 
 Lorsque vous créez un bloc de glace, vous pouvez choisir de dépenser un point Rea. Si vous le faites, vous pouvez utiliser une action durant votre tour pour déplacer magiquement le bloc de glace de 30 pieds.
 
@@ -434,7 +434,7 @@ A partir du niveau 2, lorsque vous choisissez cette école, vous obtenez la capa
 
 En tant qu'action, vous pouvez invoquer le pouvoir de la nature pour guérir 1d4 pv pour quatre créatures au maximum que vous pouvez voir dans un rayon de 30 pieds centré sur vous. Une fois que vous avez utilisé cette capacité, il vous faudra terminer un repos long pour l'utiliser à nouveau. À partir du niveau 10, vous récupérez l'utilisation de cette capacité après chaque repos court également.
 
-##### Rea Amélioré
+##### Renforcement de Rea
 
 À partir du niveau 3, chaque fois que vous utilisez la capacité Bénédiction de la nature, vous pouvez choisir de dépenser un point Rea de votre réserve pour augmenter son pouvoir. Si vous choisissez d'utiliser un point Rea, Bénédiction de la nature soignera 1d4 pv fois votre niveau de sort.
 
@@ -452,7 +452,7 @@ Vous pouvez rester sous cette forme sauvage pendant plusieurs minutes égales à
 
 Vous pouvez utiliser cette fonction deux fois. Vous récupérez les utilisations dépensées lorsque vous terminez un repos court ou long.
 
-##### Rea amélioré
+##### Renforcement de Rea
 
 Chaque fois que vous utilisez votre capacité de Sauvagerie, vous pouvez choisir de dépenser un point de Rea pour renforcer son pouvoir, si vous prenez par magie la forme d'une bête que vous avez déjà vue auparavant, cet état sauvage renforcé vous accorde les avantages suivants :
 * La transformation fonctionne comme la capacité de druide Wild Shape (voir l'encadré vert sur cette page).
@@ -499,18 +499,31 @@ montant sur une sauvegarde réussie.
 **Round 3-10.** Les vignes tenteront de cerner leurs adversaires.
 Chaque tour, chaque créature que vous considérez comme hostile subit 1d6 de dommages perforants. En outre, ces créatures doivent faire un jet de sauvegarde de Force ou de Dextérité. Sur un échec, une créature perd son mouvement et son action à ce tour et reçoit un 1d6 dégâts perforants supplémentaires.
 
-Une fois que vous avez utilisé cette fonction, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé sept repos longs.
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé sept repos longs.
 
 \page
 
 # Maison de Magmah
 
+E _lle commence par sortir quelques éléments de son sac. Elle fait quelques gestes de la main en récitant quelques mots que vous ne comprenez pas. Elle jette de la poudre dans le chaudron et ses mains deviennent rougeoyantes, le feu émane du bout de ses doigts et réchauffe le mélange. Son chat, qui était endormi, se lève rapidement et bondit sur la table juste avant qu'elle ne déclare "le dîner est prêt"._
+
 ### Magie de Magmah
 
+L'école de sorcellerie de Magmah est la maison de cuisine, cuisson au four, grillage, ébullition, friture, cuisson à la vapeur, toast. Son domaine est le feu et les matériaux chauds. Cependant, leur attention n'est pas entièrement tournée vers la cuisine, les sorcières de Magmah étudient également les pouvoirs de l'alchimie et des métaux rares.
+
+La magie de Magmah est la seconde plus appréciée d'Hereva après Hippiah, et souvent les deux sont mélangées pour la cuisine. Les sorcières de Magmah créent également des alliages de métaux rares qui sont utilisés dans la production industrielle, et sont aussi utilisés par d'autres sorcières pour créer des artefacts, en particulier celles de la Maison de Zombiah, qui les utilisent pour fabriquer des créatures qu'elles animent ensuite. En général, la magie de Magmah est très utile, ce qui explique que presque tous les habitants d'Hereva l'utilisent à un niveau élémentaire, mais seules ses Sorcières parviennent à découvrir et contrôler la majeure partie de son pouvoir.
 
 ### Jouer une Sorcière de Magmah
 
+Les sorcières de Magma sont passionnées par leur travail. Elles sont les sorcières les plus compétitives de toutes les maisons de sorcellerie d'Hereva, et n'apprécient pas les quelques rares occasions où elles perdent. La grande guerre d'Hereva a été causée par une dispute entre elles et les Sorcières d'Aquah, la guerre a eu de nombreuses conséquences, et à ce jour ces deux écoles n'entretiennent pas les meilleures relations.
+
 ### Magie de Magmah en combat
+
+Au combat, le rôle d'une sorcière de Magmah est le combat à distance. La magie de Magmah est très puissante pour créer du feu et des explosions, mais pas pour se défendre. Cependant, l'attaque n'est pas son seul métier, la magie de Magmah fonctionne aussi comme soutien aux alliés avec des améliorations sous forme de nourriture. En outre, les Sorcières de Magmah sont adeptes de la magie de l'enchantement.
+
+En tant que sorcière de Magmah, vous devrez principalement améliorer vos compagnons, enchanter vos ennemis et causer des dommages avec du feu et des explosions.
+
+Tout comme la magie de Magmah est utile dans la vie quotidienne et puissante au combat, elle est également dangereuse si elle n'est pas utilisée avec prudence. La concentration est l'une des meilleures qualités d'une Sorcière de Magmah.
 
 ### Liste des sorts de Magmah
 
@@ -519,30 +532,131 @@ Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces 
 ##### Sorts de sorcière de Magmah par niveau
 | Niveau | Sorts |
 | --- | --- |
-| Tours de magie (Niveau 0) | |
-| Niveau 1 | |
-| Niveau 2 | |
-| Niveau 3 | |
-| Niveau 4 | |
-| Niveau 5 | |
-| Niveau 6 | |
-| Niveau 7 | |
-| Niveau 8 | |
-| Niveau 9 | |
+| Tours de magie (Niveau 0) | Flambé*, _Produire une flamme_ |
+| Niveau 1 | _Mains brûlantes_, _Charme-personne_ |
+| Niveau 2 | _Flamme éternelle_, _Chauffer le métal_ |
+| Niveau 3 | _Boule de feu_, _Motif hypnotique_ |
+| Niveau 4 | _Bouclier de feu_, Witches' Dinner* |
+| Niveau 5 | _Colonne de flamme_, Alchemize Armor* |
+| Niveau 6 | _Festin des héros_, _Rayon de soleil_ |
+| Niveau 7 | _Tempête de feu_, _Cage de force_ |
+| Niveau 8 | _Bagou_, _Nuage incendiaire_ |
+| Niveau 9 | _Nuée de météores_, Summon Dragon* |
 
 ### Aptitudes par niveau
 
+En tant que Sorcière de Magmah, vous apprenez différentes capacités au fur et à mesure que vous progressez dans votre étude du Chaos et des Evolutions. Voici une liste des capacités que vous acquérez à différents niveaux.
+
+| Niveau | Capacités |
+| --- | --- |
+| 2 | Gourmet du Feu |
+| 7 | Coercition mystique brûlante, Température alchimique |
+| 11 | Magie du Dragon |
+| 15 | Alchimiser un sort |
+| 20 | Résurrection du phénix |
+
+\page
+
+#### Gourmet du Feu
+
+Le magmah est la maison de la cuisine, de la cuisson au four, du grillage, de l'ébullition, de la friture, de la cuisson à la vapeur et du grillage. En commençant au niveau 2, lorsque vous choisissez cette maison, vous gagnez en compétence sur les outils d'artisan (Ustensiles de cuisine). En outre, vous pouvez utiliser des outils improvisés pour effectuer des tests de cuisine sans aucune pénalité.
+
+Vous acquérez également la capacité de créer du feu en posant vos mains pendant une minute sur un matériau inflammable. La quantité de feu créée est suffisante pour allumer un petit feu de camp, ou un four pour cuisiner.
+
+De plus, vous pouvez vous concentrer sur un repas que vous préparez pendant 10 minutes pour en faire ressortir les bienfaits pour ceux qui l'ingèrent. La nourriture préparée suffit à nourrir 6 créatures, quelles que soient leurs tailles.
+
+Une créature qui ingère cette nourriture ne se sentira pas affamée pendant 24 heures. En outre, selon votre niveau, la créature bénéficie d'autres avantages pendant 24 heures :
+
+| Niveau | Avantage |
+| --- | --- |
+| 1 et plus | La créature gagne des points de vie temporaires égaux à votre niveau + votre modificateur de Charisme. |
+| 5 et plus | En mangeant, la créature choisit un score de caractéristique, la créature fait tous les tests de cette caractéristique avec avantage. |
+| 11 et plus | La créature est guérie de toutes les maladies et du poison, devient immunisée contre le poison et la peur, et effectue tous ses jets de sauvegarde de Sagesse avec avantage. |
+| 17 et plus | En mangeant, la créature choisit un type de dégâts, la créature gagne une résistance à ce type de dégâts. |
+
+Après avoir utilisé cette capacité, vous devez prendre un repos long avant de l'utiliser à nouveau.
+
+#### Coercition mystique brûlante
+
+Au niveau 7, vous avez la possibilité d'enchanter les esprits de vos adversaires et les contrôler pour qu'ils suivent vos ordres.
+
+Vous choisissez une créature que vous pouvez voir à portée de main, l'obligeant à effectuer un service ou à s'abstenir d'une l'action ou lui faire suivre la ligne de conduite que vous décidez. Si la créature peut vous comprendre, elle doit réussir un jet de sauvegarde de Sagesse 
+(contre votre DD de lanceur de sorts) ou devenir charmée
+par vous pendant 24 heures. Une créature qui ne peut pas vous comprendre n'est pas concernée par cette capacité.
+
+Vous pouvez émettre n'importe quelle commande de votre choix, à l'exception d'une activité qui entraînerait une mort certaine. Si vous donnez un ordre de suicide, le sort se termine.
+
+Vous pouvez mettre fin à ce charme en utilisant une action pour l'annuler. Un sort _lever de malédiction_, _restauration supérieure_ ou _souhait_ y met également fin.
+
+Une fois que vous avez utilisé cette fonction, vous ne pouvez pas l'utiliser à nouveau avant de terminer un repos court ou long.
+
+##### Renforcement de Rea
+
+Lorsque vous utilisez cette capacié, vous pouvez choisir de dépenser 1 ou plusieurs points de Rea. Pour chaque point de Rea dépensé de cette façon, vous pouvez cibler une créature supplémentaire.
+
+#### Température alchimique
+
+À partir du niveau 7, vous pouvez contrôler la température des métaux autour de vous. Comme action, vous pouvez choisir un objet métallique que vous pouvez voir à votre portée, il peut s'agir d'une arme métallique ou d'un ensemble d'armures métalliques lourdes ou moyennes, ou de tout autre pièce de métal ne dépassant pas la taille d'une créature moyenne, telle qu'une cage, une porte ou une statue. Vous pouvez choisir l'une de ces deux options :
+
+* L'objet se met à briller de mille feux. Toute créature en contact physique avec l'objet prend 3d8 dégâts de feu lorsque vous utilisez cette capacité.
+
+* Vous faites geler l'objet. Toute créature en contact physique avec l'objet prend 3d8 de dégâts de froid lorsque vous utilisez cette capacité.
+
+L'effet dure 1 minute. Toute créature qui entre à son tour en contact avec la pièce de métal subit à nouveau les mêmes dégâts.
+
+Si une créature tient ou porte l'objet et en subit les dégâts, elle doit réussir un jet de sauvegarde de Constitution ou laisser tomber l'objet si elle le peut. Si elle ne laisse pas tomber l'objet, elle est désavantagée sur les jets d'attaque et les tests de caractéristique jusqu'au début de son prochain tour.
+
+Vous pouvez utiliser cette fonction pour plier les portes ou ouvrir les cages si vous vous concentrez sur l'objet pendant une minute entière.
+
+Une fois que vous avez utilisé cette fonction, vous devez terminer un repos court ou long avant de pouvoir l'utiliser à nouveau. À partir du niveau 17, vous pouvez l'utiliser deux fois avant un repos.
+
+#### Magie du Dragon
+
+A partir du niveau 11, vous gagnez une résistance aux dégâts de feu. De plus, lorsque vous lancez un sort qui affecte une zone, vous pouvez choisir un nombre quelconque de créatures dans cette zone, ces créatures ne seront pas affectées par le sort.
+
+#### Alchimiser un sort
+
+Au niveau 15, vous apprenez à modifier la composition magique de certains de vos sorts. Chaque fois que vous lancez un sort qui inflige des dégâts, vous pouvez choisir : Acide, Froid, Feu, Foudre ou Tonnerre. Tous les dégâts qu'une créature subit de votre sort sont convertis dans le type de dégâts que vous avez choisi.
+
+Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de Charisme (au moins une fois). Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+\page
+
+#### Résurrection du phénix
+
+À partir du niveau 20, chaque fois que vous subissez des dégâts qui réduisent vos points de vie à 0, vous pouvez utiliser votre réaction pour préparer une résurrection du Phénix. Si vous le faites, après avoir pris les dégâts, elle provoquera une explosion dans un rayon de 40 pieds autour de vous. Toutes les autres créatures de la zone doivent faire un jet de sauvegarde de Dextérité contre votre DC de lancement de sort. Lors d'un jet de sauvegarde raté, la créature prend 20d6 de dégâts de feu et 20d6 de dégâts de force, et seulement la moitié de ces dommages en cas de sauvegarde réussie.
+
+Ensuite, vous récupérez la moitié de vos points de vie et vous tombez inconscient. Au début de chacun de vos tours, vous devez réussir un jet de sauvegarde de Charisme (DD 15) pour vous réveiller. Vous vous réveillez si vous subissez des dégâts, ou si quelqu'un utilise une action pour vous secouer ou vous réveiller.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant de terminer sept repos longs.
 
 \page
 
 # Maison de Zombiah
 
+E _nfin, vous êtes devant la petite maison que vous cherchiez. La porte s'ouvre lentement et une jeune silhouette sympathique répond à votre appel. La sorcière que vous voyez maintenant n'est peut-être pas exactement celle à laquelle vous vous attendiez. Cette jeune fille élégamment vêtue porte une paire de lunettes de protection sur le front et tient dans ses mains un artefact que vous n'avez jamais vu. Son visage plein de curiosité vous regarde. Vous savez que c'est une sorcière de Zombiah._
+
 ### Magie de Zombiah
 
+Zombiah est l'une des trois sous-écoles d'Evolution.
+
+L'école de sorcellerie de Zombiah est la maison du macabre, de la mort, des zombies et de l'obscurité. Mais c'est aussi la maison de l'animation des objets, du recyclage et de la réutilisation. Les sorcières de Zombiah sont fascinées de découvrir de nouvelles utilisations pour les objets inanimés, pour apprendre comment les choses fonctionnent et inventer de nouveaux artefacts.
+
+Le but ultime de Zombiah n'est pas exactement de réanimer les morts, mais de trouver une nouvelle utilisation aux corps inanimés. Cela peut être mal vu par certaines personnes dans Hereva et d'autres mondes, mais d'autres trouvent cela aussi utile que le recyclage de tout autre objet, une fois que l'esprit a quitté le corps d'une créature autrefois vivante.
 
 ### Jouer une Sorcière de Zombiah
 
+Dans un groupe d'aventuriers, la sorcière de Zombie remplit le rôle de lanceuse de sorts utilitaires et d'invocation. Relever des morts-vivants et animer des objets inertes sont leurs spécialités.
+
+Les caractéristiques sociales d'une sorcière de Zombiah ne sont généralement pas les meilleures. Leur tendance à la curiosité fait qu'elles sont distraites et moins concernées par les principes de l'étiquette que par la façon dont les choses fonctionnent autour d'elles.
+
+Une sorcière de Zombiah s'ennuie facilement si elle n'a rien à analyser sous la main. Au bout d'un certain temps, elle va sûrement trouver quelque chose pour se divertir, généralement l'animation des objets proches.
+
+Cependant, les sorcières de Zombiah sont très observatrices lorsque ça concerne des choses qui les intéressent.
+
 ### Magie de Zombiah en combat
+
+Au combat, l'une de vos forces sont les morts-vivants, qui peuvent être à la fois défensifs et offensifs. En outre, vous pouvez animer des objets inertes tels que des armes et des armures pour se battre à votre place.
 
 ### Liste des sorts de Zombiah
 
@@ -551,16 +665,94 @@ Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces 
 ##### Sorts de sorcière de Zombiah par niveau
 | Niveau | Sorts |
 | --- | --- |
-| Tours de magie (Niveau 0) | |
-| Niveau 1 | |
-| Niveau 2 | |
-| Niveau 3 | |
-| Niveau 4 | |
-| Niveau 5 | |
-| Niveau 6 | |
-| Niveau 7 | |
-| Niveau 8 | |
-| Niveau 9 | |
+| Tours de magie (Niveau 0) | _Poigne électrique_, _Réparation_ |
+| Niveau 1 | _Simulacre de vie_, _Identification_ |
+| Niveau 2 | Zombification*, _Corde enchantée_ |
+| Niveau 3 | _Animation des morts_, Animate Object* |
+| Niveau 4 | _Fabrication_, Imbue Spell* |
+| Niveau 5 | _Animation des objets_, _Eveil_ |
+| Niveau 6 | _Protections et sceaux_, Apparatus* |
+| Niveau 7 | _Cage de force_, _Simulacre_ |
+| Niveau 8 | Store Spell*, Construct Clone* |
+| Niveau 9 | Power Word Create*, _Métamorphose suprême_ |
+
+Tous les sorts de cette liste sont dans le SRD 5e, sauf ceux qui ont un astérisque, il s'agit de nouveaux sorts et leur description se trouve au chapitre 4 de ce document.
 
 ### Aptitudes par niveau
 
+Le tableau suivant décrit les capacités qu'une sorcière de Zombiah acquiert à différents niveaux.
+
+| Niveau | Capacités |
+| --- | --- |
+| 2 | Soupçon de vie |
+| 7 | Animation augmentée |
+| 11 | Réparation des dégâts |
+| 15 | Commandement d'un être animé |
+| 20 | Souffle de vie |
+
+\page
+
+#### Soupçon de vie
+
+En commençant au deuxième niveau, lorsque vous choisissez Zombiah comme votre maison de sorcellerie, vous gagnez la capacité d'animer des objets Très Petits. Vous touchez un objet Très Petit ou plus petit pendant une minute pour contrôler le Rea à l'intérieur. L'objet est maintenant capable de se déplacer et semble vivre pendant 24 heures.
+
+En prime, vous pouvez commander mentalement n'importe quelle créature que vous avez créée avec ce sort si la créature est à moins de 500 pieds de vous (si vous contrôlez plusieurs créatures, vous pouvez les commander toutes ou certaines en même temps, en émettant la même commande à chacune). Vous décidez quelle action la créature prendra et où elle se déplacera pendant son prochain tour, ou vous pouvez donner un ordre général, tel que garder une chambre ou un couloir particulier. Si vous n'émettez pas de commande, la créature ne se défend que contre des créatures hostiles. Une fois qu'elle a reçu un ordre, la créature continue de la suivre jusqu'à ce que sa tâche soit terminée.
+
+Sa Constitution est de 10, son Intelligence et sa Sagesse sont de 3, et son Charisme est 1. Sa vitesse est de 30 pieds ; si l'objet n'a pas de pattes ou d'autres appendices qu'il peut utiliser pour se déplacer, il a au contraire une vitesse de vol de 30 pieds et peut planer.
+
+Lorsque l'objet animé tombe à 0 point de vie, il revient à sa forme d'origine, et tout les dommages se répercutent sur la forme d"origine de l'objet.
+
+Si vous ordonnez à un objet d'attaquer, il peut faire une seule attaque de mêlée contre une créature à moins de 1,5 m de lui. Il fait une attaque avec un bonus d'attaque et des dégâts contondants déterminés par sa taille. Le MD peut décider qu'un objet spécifique inflige des dégâts tranchants ou perforants en fonction de sa forme.
+
+Au niveau 7, vous pouvez animer des objets de Petite taille ou plus petits grâce à cette capacité. Au niveau 11, vous pouvez animer des objets Moyens et plus petits. Au niveau 15, vous pouvez animer des objets Grands et plus petits. Et au niveau 20, vous pouvez animer des objets Très Grands et plus petits.
+
+##### Statistiques sur les objets par taille
+
+| Taille | PV | CA | For | Dex | Attaque |
+| --- | --- | --- | --- | --- | --- |
+| Très Petit | 25 | 18 | 6 | 18 | +8 au toucher, 1d4 + 6 dégâts |
+| Petit | 30 | 16 | 8 | 14 | +6 au toucher, 1d8 + 4 dégâts |
+| Moyen | 45 | 13 | 12 | 12 | +5 au toucher, 2d6 + 3 dégâts |
+| Grand | 55 | 10 | 16 | 10 | +6 à toucher, 2d10 + 4 dégâts |
+| Très Grand | 85 | 10 | 20 | 6 | +8 à toucher, 2d12 + 6 dégâts |
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé un repos court ou long.
+
+##### Renforcement de Rea
+
+À partir du niveau 7, chaque fois que vous utilisez la capacité "Soupçon de vie", vous pouvez choisir de dépenser un point Rea. Si vous le faites, l'objet animé s'agrandit d'une catégorie de taille.
+
+#### Animation augmentée
+
+À partir du niveau 7, chaque fois que vous réanimez un mort-vivant ou que vous animez un objet, la créature résultante obtient les avantages suivants :
+
+* Le maximum de points de vie de la créature augmente d'un nombre égal à votre niveau de sorcière d'Hereva.
+* La créature gagne un bonus d'attaque et de dégâts égal à votre bonus de compétence.
+
+De plus, vous pouvez choisir une créature morte-vivante que vous contrôlez. Votre contrôle sur ce mort-vivant n'a pas de limite de temps, et vous n'avez pas besoin de répéter votre contrôle sur ce mort-vivant toutes les 24 heures.
+
+#### Réparation des dégâts
+
+Au niveau 11, vous apprenez à soigner les morts-vivants et les créatures animées que vous créez. En tant qu'action, vous pouvez toucher un mort-vivant ou une créature construite, il regagne un certain nombre de points de vie égaux à 3d8 + votre modificateur de charactéristique de lancement de sorts. Cette capacité n'a aucun effet sur les créatures vivantes.
+
+Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Charisme (minimum 1). Lorsque vous terminez un repos long, vous récupérez tous les usages dépensés.
+
+##### Renforcement de Rea
+
+Lorsque vous utilisez la capacité Réparation des dégâts, vous pouvez choisir de dépenser un point de Rea. Si vous le faites, vous pouvez choisir jusqu'à 3 morts-vivants ou créatures construites que vous pouvez voir à moins de 30 pieds de vous comme cibles.
+
+#### Commandement d'un être animé
+
+À partir du niveau 15, vous pouvez utiliser la magie pour amener les morts-vivants et les constructions sous votre contrôle, même ceux créés par d'autres lanceurs de sorts. En tant qu'action, vous pouvez choisir un mort-vivant ou une construction que vous pouvez voir à moins de 60 pieds de vous. Cette créature doit faire un jet de sauvegarde de Charisme contre votre DD de sort de Sorcière d'Hereva. Si elle réussit, vous ne pourrez plus utiliser cette fonction sur elle. Si elle échoue, elle devient amicale avec vous et obéit à vos ordres jusqu'à ce que vous utilisiez à nouveau cette capacité.
+
+Les morts-vivants ou les constructions intelligentes sont plus difficiles à contrôler de cette façon. Si la cible a une intelligence de 8 ou plus, elle a l'avantage sur le jet de sauvegarde. Si elle échoue au jet de sauvegarde et a une intelligence de 12 ou plus, elle peut répéter le jet de sauvegarde à la fin de chaque heure jusqu'à ce qu'elle réussisse et se libère.
+
+#### Souffle de vie
+
+Seules les sorcières les plus puissantes de Zombiah ont le le pouvoir de ramener les créatures à la vie de manière appropriée.
+
+Vous nommez une créature morte dont vous savez qu'elle est morte depuis moins d'un siècle, qui n'est pas morte de vieillesse, et qui n'est pas un mort-vivant. Vous obligez l'âme de la créature à revenir à la vie.
+
+Si le corps se trouve dans le même plan, il apparaît devant vous avec tous ses points de vie. Si le corps n'existe plus, un nouveau est formé à partir du Rea du monde. Ce nouveau corps est identique à celui que la créature avait quand elle est morte, mais totalement restauré et guéri. Cette capacité permet de fermer toutes les blessures mortelles et de restaurer les parties du corps disparues.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant vous terminez sept repos longs.
