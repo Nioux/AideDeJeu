@@ -676,3 +676,26 @@ Vous êtes particulièrement doué pour enchanter et pour chevaucher un balai de
 * Augmentez votre score de Charisme ou de Dextérité de 1, jusqu'à un maximum de 20.
 * Le rituel pour enchanter le balai est réduit à seulement 10 minutes.
 * Le balai volant que vous créez a une vitesse de vol de 6 mètres supérieure à sa vitesse normale.
+
+
+
+
+### Magie étrange de Chaosah
+
+_Prérequis : Maison de sorcellerie autre que Chaosah_
+
+Même si vous n'êtes pas un étudiant de la Maison de Chaosah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _illusion mineure_. En outre, vous apprenez également _fou rire_ et _toile d'araignée_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
+
+\page
+
+### Créature de la nuit
+
+### Magie naturelle d'Hippiah
+
+### Magie délicieuse de Magmah
+
+### Précision de la baguette
+
+### Expert en baguette
+
+### Magie animée de Zombiah
