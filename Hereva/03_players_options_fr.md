@@ -402,16 +402,41 @@ Les personnalités nomades peuvent aussi dépendre des tribus auxquelles elles a
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Je parle en murmurant. |
+| 2 | Je préfère toujours écouter les autres avant de commencer à donner mon avis. |
+| 3 | Un nomade parle toujours à la troisième personne lorsqu'il s'agit de lui-même. |
+| 4 | Les gens me regardent toujours en pensant que je suis vraiment génial parce que je Voyage tant, et ils ont un peu raison. |
+| 5 | J'aime goûter des mets variés provenant de différents lieux. |
+| 6 | Phrases courtes, idées claires. |
+| 7 | J'aime beaucoup utiliser des phrases excessivement élaborées, longues comme les racines des trois grands et avec des références obscures telles les pensées timides d'Eyeük. |
+| 8 | J'accorde beaucoup d'importance à l'amitié, même si la plupart de mes amis sont très loin de moi. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Silence.** Il n'est pas nécessaire de faire beaucoup de bruit pour régler les problèmes. (Neutre) |
+| 2 | **Honneur.** Quand je fais une promesse, je prends tous les risques pour la tenir. (Loyal) |
+| 3 | **Voyages.** Les gens ne doivent pas être sédentaires, s'enraciner c'est pour les arbres... et même pas pour tous. (Chaotique) |
+| 4 | **Anonymat.** Je n'ai besoin de personne pour savoir d'où je viens ni où je vais. (Neutre) |
+| 5 | **Paix.** Mes voyages sont destinés à apporter la paix au plus grand nombre de personnes possible. (Bon) |
+| 6 | **Santé.** Mon principal temple est mon corps et je dois le maintenir aussi fort et sain que possible. (Neutre) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Mon maître m'a envoyé à la poursuite d'une mystérieuse sorcière et je dois la rechercher. dans le monde entier. |
+| 2 | Dans mes rêves, je vois un lieu où un effroyable désastre se produit, je dois le trouver pour l'éviter. |
+| 3 | Je suis le septième enfant d'un septième enfant, et mon cousin est le huitième enfant d'un huitième enfant. Un oracle annonce que l'un d'entre nous va tuer l'autre. |
+| 4 | Dans la tradition de ma tribu, je dois voyager jusqu'à trouver une autre tribu de ma même nation, mais je crains qu'il n'y en ait plus d'autres. |
+| 5 | Un groupe de fantômes m'a proposé de les suivre en promettant du pouvoir. |
+| 6 | J'ai grandi dans une tribu nomade mais le secret de mon origine est encore un mystère que je dois découvrir. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | L'éthique n'est pas ma principale préoccupation. |
+| 2 | Je n'aime pas la compagnie des lanceurs de sorts. |
+| 3 | Je parle toujours aux animaux comme s'ils me comprenaient, ce qui n'est généralement pas le cas. |
+| 4 | Je suis claustrophobe. |
+| 5 | Chaque fois qu'un animal hurle à la lune, je ressens le besoin de lui répondre quelle que soit la situation. |
+| 6 | Je n'aime pas grimper en altitude et j'essaie de l'éviter autant que possible. |
 
 \page
 
@@ -436,16 +461,41 @@ Les Nobles de Qualiticity sont des intellectuels et des gens doués pour la magi
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Je parle avec beaucoup de courtoisie. |
+| 2 | J'ai facilement le hoquet si je suis nerveux ou effrayé. |
+| 3 | Quand c'est possible, j'essaie de régler les choses avec de l'argent. |
+| 4 | J'ai tendance à oublier les noms des personnes qui ne sont pas nobles. |
+| 5 | Je me plains toujours quand je ne peux pas dormir dans un lit confortable. |
+| 6 | J'ai tendance à diagnostiquer les troubles émotionnels des gens devant eux. |
+| 7 | Je suis toujours surexcité par les festivités saisonnières. |
+| 8 | J'ai tendance à exagérer mes explications. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Ordre.** Notre système est ce qui a maintenu la paix pendant tout ce temps le temps, il doit être protégé pour notre propre bien. (Loyal) |
+| 2 | **Pouvoir.** Mon pouvoir vient de ma situation, je la protégerai à tout prix.  . (Mauvais) |
+| 3 | **Humilité.** Même dans ma position, je ne suis qu'une infime partie de ce  monde. Comme tous les autres. (Neutre) |
+| 4 | **Cupidité.** J'accepte d'aider les autres tant que je retire un avantage quelconque à le faire. (Mauvais) |
+| 5 | **Altruisme.** La vie m'a beaucoup apporté. J'en suis reconnaissant. et je veux aussi donner aux autres. (Bon) |
+| 6 | **Connaissance.** Notre esprit est l'arme la plus puissante pour faire face à nos problèmes. (N'importe lequel) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Je dois protéger le royaume contre un complot étranger qui veut nous infiltrer. |
+| 2 | Le roi m'a confié la mission de protéger ses enfants si quelque chose lui arrivait. |
+| 3 | Un contrebandier a volé un précieux objet du royaume qui était sous ma responsabilité. Personne ne l'a encore découvert. |
+| 4 | Tous mes contacts, toutes mes ressources ont pour objectif de créer mon propre cercle de pouvoir. |
+| 5 | Chaque fois que je vois des gens ordinaires être victimes d'une l'injustice, j'ai l'obligation morale d'intercéder et de la rectifier. |
+| 6 | La vie facile n'est pas pour moi. Le danger et les aventures sont dans mon avenir. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | Je ne fais pas confiance aux personnes qui ne sont pas nobles, et elles ne semblent pas me faire confiance. |
+| 2 | Je n'aime pas la saleté, je suis très mal à l'aise quand je ne suis pas d'une propreté irréprochable. |
+| 3 | Je dois avoir ce que je veux et sans délai. |
+| 4 | Je crois que je suis la personne la plus importante au monde. |
+| 5 | J'aime la bonne chair, c'est ma motivation et ma faiblesse. |
+| 6 | Je cache un terrible secret qui pourrait ruiner à jamais la réputation de ma famille. |
 
 \page
 
@@ -468,16 +518,41 @@ Vous savez comment vous frayer un chemin à travers les passages secrets de votr
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Je ne me présente jamais sous mon véritable nom. |
+| 2 | Je suis obsédé par le décompte de certains objets que je trouve tout le temps. |
+| 3 | Je partage toujours mon repas avec les autres. |
+| 4 | Je suis le descendant d'un vieux roi et je devrais être le prochain dirigeant du royaume. Mais personne ne semble avoir jamais entendu parler de ce roi. |
+| 5 | Je déteste quand les gens utilisent des mots complexes pour expliquer de simples choses. |
+| 6 | J'ai un bibelot qui me rappelle ma famille, je l'ai toujours à proximité de moi. |
+| 7 | Mon activité préférée est de dormir. |
+| 8 | J'aime chanter et je ne manque jamais une occasion de le faire en public. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Vengeance.** La vie a été si dure pour moi que d'autres devraient souffrir de la même façon. (Mauvais) |
+| 2 | **Liberté.** Les règles s'appliquent à ceux qui sont impliqués dans la société, ils ne savent même pas que j'existe. (Chaotique) |
+| 3 | **Aventure.** Voyager et s'aventurer est ce que vous pouvez faire de mieux quand vous avez un endroit que vous appelez chez vous. (Chaotique) |
+| 4 | **Rachat.** Je dois prouver que je suis aussi important que n'importe quel  membre de la haute société. (N'importe lequel) |
+| 5 | **Anonymat.** Je peux obtenir la gloire par mes propres moyens. Les gens ne pourraient pas comprendre mes raisons de toute façon. (N'importe lequel) |
+| 6 | **Sacrifice.** Je dois travailler dur pour atteindre mes objectifs, quiconque vient avec moi devrait être prêt à se sacrifier tout autant que moi. (N'importe lequel) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | L'aventure est ma seule voie, car je n'ai pas ma place dans cette société. |
+| 2 | Je ferais n'importe quoi pour mes amis d'enfance. |
+| 3 | J'ai une tache de naissance qui ressemble aux armoiries d'un royaume ennemi, et j'essaie de la cacher. |
+| 4 | Dans mes rêves, j'ai appris une nouvelle langue que personne d'autre ne semble parler où je vis. |
+| 5 | Je cherche la gloire et la fortune, quoi qu'il en coûte. |
+| 6 | Quand j'étais enfant, une sorcière m'a pris sous son aile alors que je n'avais personne d'autre. Je ferai n'importe quoi pour elle maintenant. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | Je ne fais plus attention quand quelqu'un parle avec des mots longs et des arguments compliqués. |
+| 2 | Il m'est difficile de faire confiance à des gens que je connais à peine. |
+| 3 | J'ai commis un crime et la loi me recherche. |
+| 4 | J'aime les souterrains et les donjons, mais les espaces ouverts me font peur. |
+| 5 | J'ai trop de secrets, alors j'essaie de ne rien dire de moi aux autres. |
+| 6 | Je ne comprends pas pourquoi les gens sont si préoccupés par la propreté. |
 
 \page
 
@@ -495,7 +570,7 @@ ___
 
 Vous avez appris à réaliser quelques sortilèges que vous pouvez encore lancer. Lancez un d6 ou choisissez une Maison de la sorcellerie. Vous gagnez le tour correspondant à la maison sélectionnée.
 
-| d6 | Capacité de sorcellerie |
+| d6 | Don magique de sorcellerie |
 | --- | --- |
 | 1 | Ah Spirit Magic |
 | 2 | Aquah Abyssal Magic |
@@ -508,17 +583,96 @@ Vous avez appris à réaliser quelques sortilèges que vous pouvez encore lancer
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Si j'entends dire que c'est difficile ou dangereux, je veux l'essayer. |
+| 2 | Mon lieu préféré dans une nouvelle ville est la taverne. |
+| 3 | Je trouve les sorcières de mon ancienne maison ennuyeuses. |
+| 4 | Les bonnes blagues font durer les amitiés plus longtemps. |
+| 5 | La meilleure façon d'apprendre est d'aller dehors et de tout essayer. |
+| 6 | Je remets toujours tout en question, surtout les ordres. |
+| 7 | Quel genre d'aventure est celle où vous n'avez pas le temps de prendre le thé ? |
+| 8 | Je trouve que les gens qui ne lancent pas de sorts sont fascinants. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Survie.** Tant que je suis en vie, je peux continuer à me battre pour mes objectifs. (N'importe lequel) |
+| 2 | **Aventure.** La vie ne doit pas être gâchée à l'école, les aventures dans la nature sauvage sont ce qui me fait me sentir vivant. (Chaotique) |
+| 3 | **Changement.** Les choses ne sont pas comme elles devraient être, je dois me battre pour corriger le système. (Bon) |
+| 4 | **Pouvoir.** Être expulsé d'une école n'est qu'un petit accident dans ma recherche du pouvoir, et je le leur montrerai. (Mauvais) |
+| 5 | **Justice.** Je ne peux pas rester calme quand je vois qu'une injustice se produit. (Bon) |
+| 6 | **Amitié.** Les choses peuvent aller très mal, mais tant que j'ai des amis j'ai une raison de continuer. |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Une injustice a été commise à mon encontre, maintenant je dois la réparer et laver mon nom. |
+| 2 | Mon honneur est plus important que les ordres de mes supérieurs. |
+| 3 | Le désert m'appelle, je dois répondre. |
+| 4 | J'ai appris un sombre secret sur ma précédente maison de sorcellerie, je dois enquêter sur ce qui est réellement arrivé. |
+| 5 | Un livre secret conservé par ma précédente maison me parlait avec des promesses de pouvoir, alors je l'ai volé. |
+| 6 | Ma vie a été sauvée par la magie d'une créature mystique et je dépends de sa vie qui est maintenant en danger. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | Je n'aime pas la compagnie des autres lanceurs de sorts. |
+| 2 | J'ai tendance à casser les choses fragiles, comme les cristaux. |
+| 3 | Je suis facilement distrait par les objets brillants. |
+| 4 | Je suis obsédé par certains aliments et je ne peux pas passer plusieurs jours sans en manger. |
+| 5 | J'ai toujours des objections lorsque c'est une autre personne qui établit les plans. |
+| 6 | Je n'aime pas planifier, je pense qu'il est plus important d'agir rapidement. |
 
 \page
 
 # Dons
+
+Un don représente un talent ou un domaine d'expertise qui accorde des capacités spéciales à un personnage. Il représente un entraînement, une éxpérience et des capacités qui sortent du cadre de ce que sa classe lui confère.
+
+À certains niveaux, votre classe vous octroie l'aptitude amélioration de caractéristiques. Si vous utilisez la règle optionnelle des dons, vous pouvez choisir de remplacer cette aptitude par un don de votre choix. Vous ne pouvez pas prendre un don donné à plusieurs reprises, à moins que sa description n'indique le contraire.
+
+Afin de choisir un don, vous devez satisfaire tous les prérequis spécifiés. Si vous ne remplissez plus les prérequis d'un don que vous possédez, vous devez attendre de les remplir de nouveau pour pouvoir utiliser ce don.
+
+### Magie spirituelle de Ah
+
+_Prérequis : Maison de sorcellerie autre que Ah_
+
+Même si vous n'êtes pas un étudiant de la Maison de Ah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _épargner les mourants_. En outre, vous apprenez également _soin des blessures_ et _pas brumeux_, chacun pouvant être lancé une fois à son niveau le plus bas sans avoir à dépenser de temps pour lancer un sort. Vous retrouverez la possibilité de lancer ces deux sorts de cette manière lorsque vous aurez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
+
+### Magie abyssale d'Aquah
+
+_Prérequis : Maison de sorcellerie autre que Aquah_
+
+Même si vous n'êtes pas un étudiant de la Maison d'Aquah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _rayon de givre_. En outre, vous apprenez également _création ou destruction d'eau_ et _bourrasque_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
+
+### Sorcellerie de combat
+
+_Prérequis : capacité de lancer au moins un tour de magie_
+
+* Pendant votre tour, vous pouvez utiliser l'action Désengagement comme une action bonus. 
+* Lorsque le mouvement d'une créature hostile provoque une attaque d'opportunité de votre part, vous pouvez utiliser votre réaction pour lancer un tour de magie sur la créature, plutôt que de faire une attaque d'opportunité. Le tour de magie doit avoir un temps de lancement d'une action et ne doit viser que cette créature.
+
+### Résilience démoniaque
+
+_Prérequis : capacité de lancer au moins un sort_
+
+Le sang des démons circule dans vos veines et se manifeste lorsque vous êtes blessé. Vous bénéficiez des avantages suivants.
+
+* Augmenter de 1 le score de votre Constitution, jusqu'à un maximum de 20.
+* Chaque fois que vous subissez 10 points de dégâts ou plus lors d'une attaque avec une seule arme, si les dégâts ne vous ont pas réduit à 0 point de vie, vous vous soignez immédiatement avec un nombre de points de vie égal à votre modificateur de charisme (minimum 1).
+
+### Bibliophile mystique
+
+_Prérequis : aptitude de classe recherche de sorts_
+
+Grâce à votre amour pour les livres, vous êtes plus compétent pour lire et rechercher des sorts. Vous bénéficiez des avantages suivants :
+
+* Augmentez votre score d'Intelligence ou de Sagesse de 1, jusqu'à un maximum de 20. 
+* Les temps et les coûts de recherche de sorts sont réduits de moitié. 
+* Vous bénéficiez d'un avantage sur votre test d'Intelligence pour apprendre un nouveau sort via la recherche de sorts.
+
+### Pilote de balai
+
+_Prérequis : aptitude de classe chevauchage de balai_
+
+Vous êtes particulièrement doué pour enchanter et pour chevaucher un balai de sorcière. Vous bénéficiez des avantages suivants :
+
+* Augmentez votre score de Charisme ou de Dextérité de 1, jusqu'à un maximum de 20.
+* Le rituel pour enchanter le balai est réduit à seulement 10 minutes.
+* Le balai volant que vous créez a une vitesse de vol de 6 mètres supérieure à sa vitesse normale.
