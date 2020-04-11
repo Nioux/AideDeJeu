@@ -1,4 +1,15 @@
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
 # Les Sorcières d'Hereva
+
+<div style='margin-top:25px'></div>
+
+\page
 
 # Sorcière d'Hereva
 
@@ -14,7 +25,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 
 ##### Table d'évolution des Sorcières
 
-|Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Recherche de sorts|Points de Rea|Niveau de sorts|
+|Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Recherche de sorts|Points de Réa|Niveau de sorts|
 |:---:|:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|+2|Sorcellerie, familier|2|2|-|2|1|
 |2|+2|Maison de sorcellerie|2|3|-|3|1|
@@ -28,7 +39,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 |10|+4|Recherche de sorts|4|10|-|8|5|
 |11|+4|Aptitude de maison de sorcellerie|4|11|1|9|6|
 |12|+4|Amélioration de caractéristiques|4|11|1|9|6|
-|13|+5|Focus de Rea|4|12|2|10|7|
+|13|+5|Focus de Réa|4|12|2|10|7|
 |14|+5|-|4|12|2|10|7|
 |15|+5|Aptitude de maison de sorcellerie|4|13|3|11|8|
 |16|+5|Amélioration de caractéristiques|4|13|3|11|8|
@@ -104,19 +115,19 @@ Vous pouvez apprendre des sorts à partir de la liste de sorts de sorcière d'He
 
 Au niveau 1, vous connaissez deux tours de magie de votre choix issus de la liste de sorts de sorcière d'Hereva. Vous apprenez d'autres tours de magie de sorcière d'Hereva à certains niveaux, comme indiqué dans le tableau d'évolution de sorcière d'Hereva, dans la colonne Tours de magie connus.
 
-#### Points Rea
+#### Points de Réa
 
-Rea est l'unité magique utilisée pour mesurer les forces magiques qui ont créé le monde d'Hereva. Rea est l'abréviation de "Réalité". Rea peut être considéré comme collecter les sous-produits d'une tâche. Chaque point de Rea peut être utilisé pour jeter un sort. Vous disposez d'un nombre de points Rea comme figurant dans le tableau de la sorcière d'Hereva. Vous récupérez tous vos points Rea dépensés après un long repos.
+Réa est l'unité magique utilisée pour mesurer les forces magiques qui ont créé le monde d'Hereva. Réa est l'abréviation de "Réalité". Réa peut être considéré comme collecter les sous-produits d'une tâche. Chaque point de Réa peut être utilisé pour jeter un sort. Vous disposez d'un nombre de points Réa comme figurant dans le tableau de la sorcière d'Hereva. Vous récupérez tous vos points Réa dépensés après un long repos.
 
 \page
 
-Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer. Le Rea stocké dans le corps d'une sorcière seulement leur permet de lancer un nombre limité de ces sorts. Vous ne pouvez lancer qu'un seul sort de chaque niveau de 6 ou plus entre les longs repos en utilisant vos réserves normales de points de Rea. Le tableau indique également le niveau des sorts que vous pouvez lancer. Vous lancez tous vos sorts au même niveau.
+Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer. Le Réa stocké dans le corps d'une sorcière seulement leur permet de lancer un nombre limité de ces sorts. Vous ne pouvez lancer qu'un seul sort de chaque niveau de 6 ou plus entre les longs repos en utilisant vos réserves normales de points de Réa. Le tableau indique également le niveau des sorts que vous pouvez lancer. Vous lancez tous vos sorts au même niveau.
 
 > ##### Par exemple
 >
-> Lorsque vous êtes au niveau 5, vous avez six points de Rea et votre niveau de sort est 3. Pour lancer le sort de 1er niveau, vous devez dépenser un de vos points Rea, et vous le lancez comme un sort de niveau 3.
+> Lorsque vous êtes au niveau 5, vous avez six points de Réa et votre niveau de sort est 3. Pour lancer le sort de 1er niveau, vous devez dépenser un de vos points Réa, et vous le lancez comme un sort de niveau 3.
 > 
-> Lorsque vous êtes au niveau 15, vous avez 10 points de Rea et votre niveau de sort est 8. Pour lancer le sort _contre-sort_ de niveau 3, vous devez dépenser un de vos points Rea, et il est considéré comme un sort de niveau 8. Ce sort ne compte pas dans votre limite de seulement un sort de niveau 8 que vous pouvez lancer, car il s'agit à l'origine d'un sort de niveau 3.
+> Lorsque vous êtes au niveau 15, vous avez 10 points de Réa et votre niveau de sort est 8. Pour lancer le sort _contre-sort_ de niveau 3, vous devez dépenser un de vos points Réa, et il est considéré comme un sort de niveau 8. Ce sort ne compte pas dans votre limite de seulement un sort de niveau 8 que vous pouvez lancer, car il s'agit à l'origine d'un sort de niveau 3.
 
 #### Sorts connus
 
@@ -280,15 +291,15 @@ La recherche d'un sort de cette manière prend deux jours et coûte 150 po par n
 | 7 | 13 | 14 jours | 1050 po | 22 |
 | 8 | 15 | 16 jours | 1200 po | 23 |
 
-### Focus Rea
+### Focus de Réa
 
-En tant que sorcière d'Hereva, vous avez naturellement une réserve de Rea que vous pouvez utiliser pour jeter des sorts, et vous récupérez toute votre Rea dépensée après un repos long. Cependant, Rea se trouve partout et il est possible d'utiliser le Rea en dehors du corps d'une personne pour contrôler la magie.
+En tant que sorcière d'Hereva, vous avez naturellement une réserve de Réa que vous pouvez utiliser pour jeter des sorts, et vous récupérez toute votre Réa dépensée après un repos long. Cependant, Réa se trouve partout et il est possible d'utiliser le Réa en dehors du corps d'une personne pour contrôler la magie.
 
-Peu de sorcières sont assez compétentes pour canaliser et manipuler Rea sans avoir besoin de constituer des réserves. Une telle canalisation peut être dangereuse. Bien qu'il soit difficile d'obtenir trop de Rea, il est possible pour certains sorts consomme tout le Rea du lanceur et de la la zone environnante. De tels sorts peuvent conduire à des résultats catastrophiques.
+Peu de sorcières sont assez compétentes pour canaliser et manipuler Réa sans avoir besoin de constituer des réserves. Une telle canalisation peut être dangereuse. Bien qu'il soit difficile d'obtenir trop de Réa, il est possible pour certains sorts consomme tout le Réa du lanceur et de la la zone environnante. De tels sorts peuvent conduire à des résultats catastrophiques.
 
-Au niveau 13, vous apprenez à canaliser Rea pour lancer des sorts. Lorsque vous avez dépensé tous vos points de Rea, vous pouvez essayer de lancer un sort d'un niveau inférieur à votre niveau de sort actuel ou moins de votre liste de sorts connus.
+Au niveau 13, vous apprenez à canaliser Réa pour lancer des sorts. Lorsque vous avez dépensé tous vos points de Réa, vous pouvez essayer de lancer un sort d'un niveau inférieur à votre niveau de sort actuel ou moins de votre liste de sorts connus.
 
-Pour lancer un sort de cette manière, vous devez d'abord canaliser le Rea autour de vous. Cela pourrait provoquer une explosion d'énergie magique sauvage autour de vous qui pourrait vous blesser, vous et les êtres vivants autour de vous.
+Pour lancer un sort de cette manière, vous devez d'abord canaliser le Réa autour de vous. Cela pourrait provoquer une explosion d'énergie magique sauvage autour de vous qui pourrait vous blesser, vous et les êtres vivants autour de vous.
 
 Lancez un nombre de d6 égal au niveau du sort que vous tentez de lancer. L'explosion causée par votre canalisation a une puissance négative égale au nombre de résultats de 1 sur ces d6, et une puissance positive égale au nombre de résultats de 6 dans ces d6. Chaque créature dans une zone de 60 pieds de rayon centrée sur vous perdent un nombre de points de vie égal à la puissance négative x 5, et gagnent un nombre
 de points de vie égal à la puissance positive x 5.
@@ -300,8 +311,10 @@ Des effets supplémentaires en fonction de la puissance positive et de la puissa
 * Si la puissance négative est égale ou supérieure à 2, toute créature quasi réelle dans la zone de l'explosion cesse d'exister immédiatement.
 * Si la puissance positive est de 3 ou plus, toutes les illusions dans la zone sont dissipées.
 * Si la puissance négative est de 5 ou plus, toute la végétation dans la zone est tuée.
-* Si la puissance positive est de 6 ou plus, vous récupérez une utilisation de Rea Focus.
+* Si la puissance positive est de 6 ou plus, vous récupérez une utilisation de Focus de Réa.
 
 Après avoir jeté un sort de cette manière, vous devrez finir un repos long pour recommencer.
 
-À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus Rea à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
+À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus de Réa à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
+
+\page

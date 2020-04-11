@@ -1,4 +1,15 @@
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
+
 # Les Sorcières d'Hereva
+
+<div style='margin-top:25px'></div>
+
+\page
 
 # Sorcière d'Hereva
 
@@ -14,7 +25,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 
 ##### Table d'évolution des Sorcières
 
-|Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Recherche de sorts|Points de Rea|Niveau de sorts|
+|Niveau|Bonus de maîtrise|Aptitudes|Tours de magie connus|Sorts connus|Recherche de sorts|Points de Réa|Niveau de sorts|
 |:---:|:---:|---|:---:|:---:|:---:|:---:|:---:|
 |1|+2|Sorcellerie, familier|2|2|-|2|1|
 |2|+2|Maison de sorcellerie|2|3|-|3|1|
@@ -28,7 +39,7 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 |10|+4|Recherche de sorts|4|10|-|8|5|
 |11|+4|Aptitude de maison de sorcellerie|4|11|1|9|6|
 |12|+4|Amélioration de caractéristiques|4|11|1|9|6|
-|13|+5|Focus de Rea|4|12|2|10|7|
+|13|+5|Focus de Réa|4|12|2|10|7|
 |14|+5|-|4|12|2|10|7|
 |15|+5|Aptitude de maison de sorcellerie|4|13|3|11|8|
 |16|+5|Amélioration de caractéristiques|4|13|3|11|8|
@@ -104,19 +115,19 @@ Vous pouvez apprendre des sorts à partir de la liste de sorts de sorcière d'He
 
 Au niveau 1, vous connaissez deux tours de magie de votre choix issus de la liste de sorts de sorcière d'Hereva. Vous apprenez d'autres tours de magie de sorcière d'Hereva à certains niveaux, comme indiqué dans le tableau d'évolution de sorcière d'Hereva, dans la colonne Tours de magie connus.
 
-#### Points Rea
+#### Points de Réa
 
-Rea est l'unité magique utilisée pour mesurer les forces magiques qui ont créé le monde d'Hereva. Rea est l'abréviation de "Réalité". Rea peut être considéré comme collecter les sous-produits d'une tâche. Chaque point de Rea peut être utilisé pour jeter un sort. Vous disposez d'un nombre de points Rea comme figurant dans le tableau de la sorcière d'Hereva. Vous récupérez tous vos points Rea dépensés après un long repos.
+Réa est l'unité magique utilisée pour mesurer les forces magiques qui ont créé le monde d'Hereva. Réa est l'abréviation de "Réalité". Réa peut être considéré comme collecter les sous-produits d'une tâche. Chaque point de Réa peut être utilisé pour jeter un sort. Vous disposez d'un nombre de points Réa comme figurant dans le tableau de la sorcière d'Hereva. Vous récupérez tous vos points Réa dépensés après un long repos.
 
 \page
 
-Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer. Le Rea stocké dans le corps d'une sorcière seulement leur permet de lancer un nombre limité de ces sorts. Vous ne pouvez lancer qu'un seul sort de chaque niveau de 6 ou plus entre les longs repos en utilisant vos réserves normales de points de Rea. Le tableau indique également le niveau des sorts que vous pouvez lancer. Vous lancez tous vos sorts au même niveau.
+Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer. Le Réa stocké dans le corps d'une sorcière seulement leur permet de lancer un nombre limité de ces sorts. Vous ne pouvez lancer qu'un seul sort de chaque niveau de 6 ou plus entre les longs repos en utilisant vos réserves normales de points de Réa. Le tableau indique également le niveau des sorts que vous pouvez lancer. Vous lancez tous vos sorts au même niveau.
 
 > ##### Par exemple
 >
-> Lorsque vous êtes au niveau 5, vous avez six points de Rea et votre niveau de sort est 3. Pour lancer le sort de 1er niveau, vous devez dépenser un de vos points Rea, et vous le lancez comme un sort de niveau 3.
+> Lorsque vous êtes au niveau 5, vous avez six points de Réa et votre niveau de sort est 3. Pour lancer le sort de 1er niveau, vous devez dépenser un de vos points Réa, et vous le lancez comme un sort de niveau 3.
 > 
-> Lorsque vous êtes au niveau 15, vous avez 10 points de Rea et votre niveau de sort est 8. Pour lancer le sort _contre-sort_ de niveau 3, vous devez dépenser un de vos points Rea, et il est considéré comme un sort de niveau 8. Ce sort ne compte pas dans votre limite de seulement un sort de niveau 8 que vous pouvez lancer, car il s'agit à l'origine d'un sort de niveau 3.
+> Lorsque vous êtes au niveau 15, vous avez 10 points de Réa et votre niveau de sort est 8. Pour lancer le sort _contre-sort_ de niveau 3, vous devez dépenser un de vos points Réa, et il est considéré comme un sort de niveau 8. Ce sort ne compte pas dans votre limite de seulement un sort de niveau 8 que vous pouvez lancer, car il s'agit à l'origine d'un sort de niveau 3.
 
 #### Sorts connus
 
@@ -280,15 +291,15 @@ La recherche d'un sort de cette manière prend deux jours et coûte 150 po par n
 | 7 | 13 | 14 jours | 1050 po | 22 |
 | 8 | 15 | 16 jours | 1200 po | 23 |
 
-### Focus Rea
+### Focus de Réa
 
-En tant que sorcière d'Hereva, vous avez naturellement une réserve de Rea que vous pouvez utiliser pour jeter des sorts, et vous récupérez toute votre Rea dépensée après un repos long. Cependant, Rea se trouve partout et il est possible d'utiliser le Rea en dehors du corps d'une personne pour contrôler la magie.
+En tant que sorcière d'Hereva, vous avez naturellement une réserve de Réa que vous pouvez utiliser pour jeter des sorts, et vous récupérez toute votre Réa dépensée après un repos long. Cependant, Réa se trouve partout et il est possible d'utiliser le Réa en dehors du corps d'une personne pour contrôler la magie.
 
-Peu de sorcières sont assez compétentes pour canaliser et manipuler Rea sans avoir besoin de constituer des réserves. Une telle canalisation peut être dangereuse. Bien qu'il soit difficile d'obtenir trop de Rea, il est possible pour certains sorts consomme tout le Rea du lanceur et de la la zone environnante. De tels sorts peuvent conduire à des résultats catastrophiques.
+Peu de sorcières sont assez compétentes pour canaliser et manipuler Réa sans avoir besoin de constituer des réserves. Une telle canalisation peut être dangereuse. Bien qu'il soit difficile d'obtenir trop de Réa, il est possible pour certains sorts consomme tout le Réa du lanceur et de la la zone environnante. De tels sorts peuvent conduire à des résultats catastrophiques.
 
-Au niveau 13, vous apprenez à canaliser Rea pour lancer des sorts. Lorsque vous avez dépensé tous vos points de Rea, vous pouvez essayer de lancer un sort d'un niveau inférieur à votre niveau de sort actuel ou moins de votre liste de sorts connus.
+Au niveau 13, vous apprenez à canaliser Réa pour lancer des sorts. Lorsque vous avez dépensé tous vos points de Réa, vous pouvez essayer de lancer un sort d'un niveau inférieur à votre niveau de sort actuel ou moins de votre liste de sorts connus.
 
-Pour lancer un sort de cette manière, vous devez d'abord canaliser le Rea autour de vous. Cela pourrait provoquer une explosion d'énergie magique sauvage autour de vous qui pourrait vous blesser, vous et les êtres vivants autour de vous.
+Pour lancer un sort de cette manière, vous devez d'abord canaliser le Réa autour de vous. Cela pourrait provoquer une explosion d'énergie magique sauvage autour de vous qui pourrait vous blesser, vous et les êtres vivants autour de vous.
 
 Lancez un nombre de d6 égal au niveau du sort que vous tentez de lancer. L'explosion causée par votre canalisation a une puissance négative égale au nombre de résultats de 1 sur ces d6, et une puissance positive égale au nombre de résultats de 6 dans ces d6. Chaque créature dans une zone de 60 pieds de rayon centrée sur vous perdent un nombre de points de vie égal à la puissance négative x 5, et gagnent un nombre
 de points de vie égal à la puissance positive x 5.
@@ -300,13 +311,26 @@ Des effets supplémentaires en fonction de la puissance positive et de la puissa
 * Si la puissance négative est égale ou supérieure à 2, toute créature quasi réelle dans la zone de l'explosion cesse d'exister immédiatement.
 * Si la puissance positive est de 3 ou plus, toutes les illusions dans la zone sont dissipées.
 * Si la puissance négative est de 5 ou plus, toute la végétation dans la zone est tuée.
-* Si la puissance positive est de 6 ou plus, vous récupérez une utilisation de Rea Focus.
+* Si la puissance positive est de 6 ou plus, vous récupérez une utilisation de Focus de Réa.
 
 Après avoir jeté un sort de cette manière, vous devrez finir un repos long pour recommencer.
 
-À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus Rea à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
+À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus de Réa à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
+
+\page
+
+<style>
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+</style>
+
+<div style='margin-top:450px;'></div>
 
 # Maisons de sorcellerie
+
+<div style='margin-top:25px'></div>
+
+\page
 
 # Maison de Ah
 
@@ -373,9 +397,9 @@ Pendant qu'il est actif, le gardien regagne des points de vie lorsque les créat
 
 À partir du niveau 7, vous êtes capable de méditer pendant 4 heures pour profiter des avantages d'un repos long. Pendant cette période vous entrez dans un état de transe connu sous le nom de transe spirituelle.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-Lorsque vous entamez une transe spirituelle, vous pouvez choisir de dépenser un point Rea de vos réserves. Si vous le faites, vous pouvez laisser un nombre de créatures égal à 1 + votre bonus de Charisme entrer en état de transe avec vous. Vous et les créatures bénéficiez d'un repos long après la transe de quatre heures.
+Lorsque vous entamez une transe spirituelle, vous pouvez choisir de dépenser un point de Réa de vos réserves. Si vous le faites, vous pouvez laisser un nombre de créatures égal à 1 + votre bonus de Charisme entrer en état de transe avec vous. Vous et les créatures bénéficiez d'un repos long après la transe de quatre heures.
 
 #### Résistance d'outre-monde
 
@@ -467,7 +491,7 @@ Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces 
 | Niveau 8 | Contrôle du climat, Deep Dark Ocean* |
 | Niveau 9 | Emprisonnement, Tempête vengeresse |
 
-Bien qu'ayant une capacité d'invocation de sorts aussi bonne que d'autres écoles de sorcellerie, en tant que sorcière Aquah, vous pouvez changer des points Rea pour améliorer vos compétences au combat.
+Bien qu'ayant une capacité d'invocation de sorts aussi bonne que d'autres écoles de sorcellerie, en tant que sorcière Aquah, vous pouvez changer des points de Réa pour améliorer vos compétences au combat.
 
 ### Aptitudes par niveau
 
@@ -501,9 +525,9 @@ Au niveau 2, le fouet à eau inflige 1d4 dégâts sur un coup. Ces dommages augm
 
 Le fouet à eau dure aussi longtemps que vous maintenez votre concentration. Vous ne pouvez avoir qu'un seul fouet à eau à la fois, si vous transformez un autre gallon d'eau en fouet à eau le précédent revient à la normale et tombe au sol comme de l'eau normale.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-A partir du niveau 11, chaque fois que vous créez un fouet à eau vous pouvez choisir de dépenser jusqu'à 3 points Rea. Si vous le faites, pour chaque point Rea dépensé de cette manière, vous pouvez choisir l'une des prestations suivantes.
+A partir du niveau 11, chaque fois que vous créez un fouet à eau vous pouvez choisir de dépenser jusqu'à 3 points de Réa. Si vous le faites, pour chaque point de Réa dépensé de cette manière, vous pouvez choisir l'une des prestations suivantes.
 
 * Vous pouvez attaquer avec votre fouet à eau deux fois, au lieu d'une fois, chaque fois que vous entreprenez l'action Attaque à votre tour.
 * Vous ajoutez le niveau de votre sort aux dommages causés par votre Fouet à eau sur un coup.
@@ -531,9 +555,9 @@ Tant que vous êtes à l'intérieur du bloc, vous ne pouvez pas vous déplacer o
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant de terminer un repos court ou long.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-Lorsque vous créez un bloc de glace, vous pouvez choisir de dépenser un point Rea. Si vous le faites, vous pouvez utiliser une action durant votre tour pour déplacer magiquement le bloc de glace de 30 pieds.
+Lorsque vous créez un bloc de glace, vous pouvez choisir de dépenser un point de Réa. Si vous le faites, vous pouvez utiliser une action durant votre tour pour déplacer magiquement le bloc de glace de 30 pieds.
 
 De plus, lorsqu'il est réduit à 0 point de vie, il se brise et explose. Toutes les créatures dans un rayon de 10 pieds autour de vous doivent faire un jet de sauvegarde de Constitution. Si une créature échoue à son jet de sauvegarde, elle subit 4d6 dommages de froid, et est repoussée de 3 mètres. Si la créature réussit, elle subit  seulement la moitié de ces dommages et n'est pas repoussée.
 
@@ -568,7 +592,7 @@ Chaosah est la maison du temps, de la gravité, des effets nucléaires, et des f
 
 Chaosah est l'une des principales écoles de magie du système magique d'Hereva. Après la grande guerre d'Hereva, il reste peu de sorcières de Chaosah aujourd'hui car elles n'ont pas d'écoles comme toutes les autres Maisons de la Sorcellerie. Parfois des filles qui ont des aptitudes pour la magie de Chaosah apparaissent, mais sans écoles où elles pourraient être suivies, elles doivent chercher d'autres sorcières et demander à être formées, ou apprendre par elles-mêmes.
 
-Les sorcières de Chaosah ont l'étrange habitude d'enterrer leurs erreurs. Elles enterrent littéralement toutes leurs expériences sous terre. On pense qu'il s'agit d'un moyen de rendre au monde le Rea utilisé dans une tentative ratée de créer de la magie.
+Les sorcières de Chaosah ont l'étrange habitude d'enterrer leurs erreurs. Elles enterrent littéralement toutes leurs expériences sous terre. On pense qu'il s'agit d'un moyen de rendre au monde le Réa utilisé dans une tentative ratée de créer de la magie.
 
 Cette pratique a parfois fait que les terres autour des maisons des sorcières de Chaosah commencent à se comporter curieusement, avec des plantes auxquelles des dents poussent , des animaux d'une intelligence exceptionnelle, et plusieurs autres phénomènes. Mais pour les Sorcières de Chaosah, cela ressemble à des accidents plutôt heureux.
 
@@ -742,9 +766,9 @@ A partir du niveau 2, lorsque vous choisissez cette école, vous obtenez la capa
 
 En tant qu'action, vous pouvez invoquer le pouvoir de la nature pour guérir 1d4 pv pour quatre créatures au maximum que vous pouvez voir dans un rayon de 30 pieds centré sur vous. Une fois que vous avez utilisé cette capacité, il vous faudra terminer un repos long pour l'utiliser à nouveau. À partir du niveau 10, vous récupérez l'utilisation de cette capacité après chaque repos court également.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-À partir du niveau 3, chaque fois que vous utilisez la capacité Bénédiction de la nature, vous pouvez choisir de dépenser un point Rea de votre réserve pour augmenter son pouvoir. Si vous choisissez d'utiliser un point Rea, Bénédiction de la nature soignera 1d4 pv fois votre niveau de sort.
+À partir du niveau 3, chaque fois que vous utilisez la capacité Bénédiction de la nature, vous pouvez choisir de dépenser un point de Réa de votre réserve pour augmenter son pouvoir. Si vous choisissez d'utiliser un point de Réa, Bénédiction de la nature soignera 1d4 pv fois votre niveau de sort.
 
 \page
 
@@ -760,9 +784,9 @@ Vous pouvez rester sous cette forme sauvage pendant plusieurs minutes égales à
 
 Vous pouvez utiliser cette fonction deux fois. Vous récupérez les utilisations dépensées lorsque vous terminez un repos court ou long.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-Chaque fois que vous utilisez votre capacité de Sauvagerie, vous pouvez choisir de dépenser un point de Rea pour renforcer son pouvoir, si vous prenez par magie la forme d'une bête que vous avez déjà vue auparavant, cet état sauvage renforcé vous accorde les avantages suivants :
+Chaque fois que vous utilisez votre capacité de Sauvagerie, vous pouvez choisir de dépenser un point de Réa pour renforcer son pouvoir, si vous prenez par magie la forme d'une bête que vous avez déjà vue auparavant, cet état sauvage renforcé vous accorde les avantages suivants :
 * La transformation fonctionne comme la capacité de druide Wild Shape (voir l'encadré vert sur cette page).
 * Vous pouvez vous transformer en une bête que vous avez vue avant, qui a une dangerosité d'un tiers de votre niveau arrondi à l'unité inférieure.
 * Vous pouvez rester à l'état sauvage pendant un certain nombre de minutes égal à votre niveau de sorcière d'Hereva.
@@ -898,9 +922,9 @@ Vous pouvez mettre fin à ce charme en utilisant une action pour l'annuler. Un s
 
 Une fois que vous avez utilisé cette fonction, vous ne pouvez pas l'utiliser à nouveau avant de terminer un repos court ou long.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-Lorsque vous utilisez cette capacié, vous pouvez choisir de dépenser 1 ou plusieurs points de Rea. Pour chaque point de Rea dépensé de cette façon, vous pouvez cibler une créature supplémentaire.
+Lorsque vous utilisez cette capacié, vous pouvez choisir de dépenser 1 ou plusieurs points de Réa. Pour chaque point de Réa dépensé de cette façon, vous pouvez cibler une créature supplémentaire.
 
 #### Température alchimique
 
@@ -1001,7 +1025,7 @@ Le tableau suivant décrit les capacités qu'une sorcière de Zombiah acquiert �
 
 #### Soupçon de vie
 
-En commençant au deuxième niveau, lorsque vous choisissez Zombiah comme votre maison de sorcellerie, vous gagnez la capacité d'animer des objets Très Petits. Vous touchez un objet Très Petit ou plus petit pendant une minute pour contrôler le Rea à l'intérieur. L'objet est maintenant capable de se déplacer et semble vivre pendant 24 heures.
+En commençant au deuxième niveau, lorsque vous choisissez Zombiah comme votre maison de sorcellerie, vous gagnez la capacité d'animer des objets Très Petits. Vous touchez un objet Très Petit ou plus petit pendant une minute pour contrôler le Réa à l'intérieur. L'objet est maintenant capable de se déplacer et semble vivre pendant 24 heures.
 
 En prime, vous pouvez commander mentalement n'importe quelle créature que vous avez créée avec ce sort si la créature est à moins de 500 pieds de vous (si vous contrôlez plusieurs créatures, vous pouvez les commander toutes ou certaines en même temps, en émettant la même commande à chacune). Vous décidez quelle action la créature prendra et où elle se déplacera pendant son prochain tour, ou vous pouvez donner un ordre général, tel que garder une chambre ou un couloir particulier. Si vous n'émettez pas de commande, la créature ne se défend que contre des créatures hostiles. Une fois qu'elle a reçu un ordre, la créature continue de la suivre jusqu'à ce que sa tâche soit terminée.
 
@@ -1025,9 +1049,9 @@ Au niveau 7, vous pouvez animer des objets de Petite taille ou plus petits grâc
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé un repos court ou long.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-À partir du niveau 7, chaque fois que vous utilisez la capacité "Soupçon de vie", vous pouvez choisir de dépenser un point Rea. Si vous le faites, l'objet animé s'agrandit d'une catégorie de taille.
+À partir du niveau 7, chaque fois que vous utilisez la capacité "Soupçon de vie", vous pouvez choisir de dépenser un point de Réa. Si vous le faites, l'objet animé s'agrandit d'une catégorie de taille.
 
 #### Animation augmentée
 
@@ -1044,9 +1068,9 @@ Au niveau 11, vous apprenez à soigner les morts-vivants et les créatures anim�
 
 Vous pouvez utiliser cette capacité un nombre de fois égal à votre modificateur de Charisme (minimum 1). Lorsque vous terminez un repos long, vous récupérez tous les usages dépensés.
 
-##### Renforcement de Rea
+##### Renforcement de Réa
 
-Lorsque vous utilisez la capacité Réparation des dégâts, vous pouvez choisir de dépenser un point de Rea. Si vous le faites, vous pouvez choisir jusqu'à 3 morts-vivants ou créatures construites que vous pouvez voir à moins de 30 pieds de vous comme cibles.
+Lorsque vous utilisez la capacité Réparation des dégâts, vous pouvez choisir de dépenser un point de Réa. Si vous le faites, vous pouvez choisir jusqu'à 3 morts-vivants ou créatures construites que vous pouvez voir à moins de 30 pieds de vous comme cibles.
 
 #### Commandement d'un être animé
 
@@ -1062,6 +1086,8 @@ Seules les sorcières les plus puissantes de Zombiah ont le le pouvoir de ramene
 
 Vous nommez une créature morte dont vous savez qu'elle est morte depuis moins d'un siècle, qui n'est pas morte de vieillesse, et qui n'est pas un mort-vivant. Vous obligez l'âme de la créature à revenir à la vie.
 
-Si le corps se trouve dans le même plan, il apparaît devant vous avec tous ses points de vie. Si le corps n'existe plus, un nouveau est formé à partir du Rea du monde. Ce nouveau corps est identique à celui que la créature avait quand elle est morte, mais totalement restauré et guéri. Cette capacité permet de fermer toutes les blessures mortelles et de restaurer les parties du corps disparues.
+Si le corps se trouve dans le même plan, il apparaît devant vous avec tous ses points de vie. Si le corps n'existe plus, un nouveau est formé à partir du Réa du monde. Ce nouveau corps est identique à celui que la créature avait quand elle est morte, mais totalement restauré et guéri. Cette capacité permet de fermer toutes les blessures mortelles et de restaurer les parties du corps disparues.
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant vous terminez sept repos longs.
+
+\page
