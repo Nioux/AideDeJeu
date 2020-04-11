@@ -111,15 +111,41 @@ Votre personnalité de vétéran de la Grande Guerre d'Hereva est forgée par le
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Je suis courageux et héroïque, je ne refuse jamais d'aider quelqu'un dans le besoin. |
+| 2 | Je suis agressif et je n'aime pas être dérangé quand je mange. |
+| 3 | Je ne manque jamais une occasion de raconter une anecdote sur la guerre. |
+| 4 | En fait, j'ai aimé quand les gens appelaient Kielbasah à Magmah. |
+| 5 | Je me sens attirée par les symboles mystérieux et les lieux inconnus. |
+| 6 | Je ne me soucie pas des normes sociales, j'ai des choses plus importantes à penser. |
+| 7 | Après la guerre, j'ai appris à respecter la force de la nature. |
+| 8 | Après la guerre, j'ai du ressentiment contre une certaine Maison de sorcellerie. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Protéger.** Je dois protéger les faibles. (Bon) |
+| 2 | **Guerre.** Je suis toujours prêt à me battre pour ma cause. (Loyal) |
+| 3 | **Paix.** Une autre guerre serait effroyable, nous devons maintenir la paix. (N'importe lequel) |
+| 4 | **Histoire.** Si nous n'apprenons rien, toutes nos pertes auront été vaines. (N'importe lequel) |
+| 5 | **Rancœur.** Les autres ne comprennent pas à quel point j'ai souffert, à moins qu'ils aient souffert comme moi. (Mauvais) |
+| 6 | **Possible.** Votre force vous donnera raison, c'est pourquoi les forts règnent sur les faibles. (Mauvais) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Je ferais n'importe quoi pour mes vieux compagnons. |
+| 2 | Je suis toujours prêt à répondre à l'appel de ma maison ou de mon royaume. |
+| 3 | Je dois protéger la paix à tout prix. |
+| 4 | J'ai fait une promesse à un vieux compagnon que je trouverai cette personne. |
+| 5 | Mon but est de restaurer les splendeurs passées de ma maison/ mon royaume, perdues pendant la guerre. |
+| 6 | La guerre n'a pas rendu justice, désormais je dois trouver les responsables et les faire payer. |
 
 | d6 | Défaut |
 | --- | --- |
+| 1 | Quand tout est calme, je cherche à rompre le silence avec un grand bruit, délibérément ou pas. |
+| 2 | Je suis toujours honnête, même si cela me cause des problèmes. |
+| 3 | Je n'ai pas survécu à une guerre juste pour mourir dans une aventure. Si ça devient trop dangereux, je préfère vivre pour réessayer un autre jour. |
+| 4 | Je juge les gens en fonction de leur force ou de leur puissance. |
+| 5 | Les sorcières d'une certaine maison ne m'aiment pas spécialement. |
+| 6 | Si ce n'est pas une anecdote sur ma vaillance au combat, je ne suis pas particulièrement intéressé de l'écouter. |
 
 \page
 
@@ -142,15 +168,41 @@ En tant qu'étudiant de l'histoire et de la magie d'Hereva, chaque fois que vous
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | J'utilise des mots longs et complexes pour expliquer même les choses les plus simples. |
+| 2 | Je parle, j'agis et je m'habille d'une manière qui dénote de mon appartenance à ma Maison de la Sorcellerie. |
+| 3 | Je prends toujours des notes sur les événements lorsqu'ils se produisent. |
+| 4 | Je ne manque jamais une occasion de me montrer lors d'événements mondains. |
+| 5 | Je suis terriblement maladroite lors des événements mondains, je préfère la solitude de mes études. |
+| 6 | Je ne manque jamais une occasion de participer à des activités magiques. |
+| 7 | Il y a toujours assez de temps pour faire un plan. Si c'est vraiment important, un plan B est indispensable. |
+| 8 | Je suis fatiguée de toutes ces études, je veux juste voyager dans le monde et vivre des aventures. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Loyauté.** Ma maison est la chose la plus importante. (Loyal) |
+| 2 | **Magie.** La connaissance des arcanes est mon objectif final. (N'importe lequel) |
+| 3 | **Pouvoir.** C'est moi qui devrais diriger cette école. (Mauvais) |
+| 4 | **Curiosité.** Plus j'apprends, plus je veux apprendre, même ces choses dont on m'a dit que je ne devrais pas. (Chaotique) |
+| 5 | **Connaissance.** Mon ambition est de tout apprendre pour pouvoir enseigner à la prochaine génération. (Tout) |
+| 6 | **Altruisme.** Les écoles de sorcellerie devraient se consacrer à l'aide aux personnes. (Bon) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Je ferais n'importe quoi pour ma Maison de Sorcellerie. |
+| 2 | J'ai appris l'existence d'un artefact puissant qui pourrait m'accorder un immense pouvoir, ma position dans l'école m'aidera à l'obtenir. |
+| 3 | Mon professeur préféré a disparu et j'ai un indice qui pourrait me conduire à un terrible secret sur mon école. |
+| 4 | Un puissant esprit a élu domicile provisoirement dans mon corps. Je dois en trouver la raison et découvrir un moyen pour le faire sortir de moi. |
+| 5 | Je dois trouver la puissance magique pour rétablir l'esprit de la forêt. |
+| 6 | Mon ami maléfique m'a toujours aidé durant mes années d'études, maintenant il a besoin de mon aide et je ne peux pas lui faire faux bond. Une maison de sorcellerie va bientôt brûler. |
 
 | d6 | Défaut |
 | --- | --- |
+| 1 | J'ai peur de l'obscurité, surtout de celle qui est magique. |
+| 2 | Je ne peux pas supporter les erreurs grammaticales. |
+| 3 | Je me sens supérieur à ceux qui ne sont pas aussi instruits que moi. Et j'ai tendance à le faire savoir. |
+| 4 | Je me sens en sécurité dans mes appartements ou dans une bibliothèque, mais la nature est trop dangereuse. |
+| 5 | Je n'aime pas être rectifié, et j'ai les moyens de prouver mes dires, même quand ils sont faux. |
+| 6 | Mon plus grand secret est... que la magie me fait peur. |
 
 \page
 
@@ -175,16 +227,41 @@ Votre personnalité en tant que voyageur planaire égaré peut être très vari�
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Tout dans ce monde me paraît étrange et je ne cesse de me poser des questions. |
+| 2 | J'ai une série de balafres sur mon épaule qui grandissent et semblent former une carte. |
+| 3 | J'aime me présenter avec un nom différent de celui par lequel on me connaît dans mon plan d'origine. |
+| 4 | J'ai un bibelot qui me rappelle mon lieu d'origine et je le garde toujours près de moi. |
+| 5 | Je m'excuse toujours de ne pas respecter les règles locales d'étiquette en tant qu'étranger, même si je les connais. |
+| 6 | Ma façon de m'habiller est sensiblement différente de celle des gens qui vivent ici. |
+| 7 | Je romps toujours le silence par une plaisanterie. |
+| 8 | Je n'aime pas les gens que je ne connais pas encore. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Indépendance.** Je n'ai pas à suivre les règles qui menacent ma liberté. (Chaotique) |
+| 2 | **Amitié.** Notre principal atout est l'amitié, qu'il convient de chérir. (Bon) |
+| 3 | **Curiosité.** Je veux tout savoir sur ce nouveau monde. (N'importe lequel) |
+| 4 | **Suspicieux.** Je dois faire attention à tout, dans ce monde je suis un parfait étranger. (N'importe lequel) |
+| 5 | **Famille.** Mon objectif ultime est de rejoindre mes proches. (N'importe lequel) |
+| 6 | **Aventure.** Je veux explorer tous les coins de ce monde et des autres. (N'importe lequel) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Je suis venu dans ce monde en quête du secret de la vie éternelle, je ne m'arrêterai que lorsque je l'aurai trouvé. |
+| 2 | J'ai survécu à une catastrophe en venant dans ce monde, maintenant je cherche un moyen de rentrer. |
+| 3 | Un sort raté a fini par me séparer de mes compagnons d'études, je ne sais pas ou je me trouve ni eux. |
+| 4 | Autrefois, quelqu'un m'a sauvé la vie. Je n'abandonnerai jamais un compagnon. |
+| 5 | Dans mon monde, j'ai lu des histoires sur cette civilisation dans mon livre de fantasy favori. |
+| 6 | Je dois amener mon art dans chaque coin du multivers. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | Je pose constamment des questions sur tout, car tout est nouveau pour moi. |
+| 2 | Je ne sais pas lire les langues de ce monde, mais j'ai peur que cela se sache. |
+| 3 | Je souffre de désynchronisation depuis que je suis arrivé en ce monde. |
+| 4 | Je protège les animaux et la nature, même au prix de risquer ma vie et celle de mes compagnons. |
+| 5 | Sans mon porte-bonheur, je ne peux pas m'endormir. |
+| 6 | De temps en temps, je rêve de personnes qui me parlent depuis mon plan d'origine. |
 
 \page
 
@@ -208,16 +285,41 @@ Les chercheurs de bêtes magiques ont tendance à être curieux ou passionnés. 
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Je préfère la compagnie des animaux à celle des gens, j'ai l'impression de mieux les comprendre. |
+| 2 | Je suis obsédée par un type d'animal dont je n'ai entendu parler que dans les livres. |
+| 3 | Je cherche toujours des traits d'animaux sur les visages des gens. |
+| 4 | Je préfère manger des fruits ou des aliments crus que des plats cuisinés. |
+| 5 | J'aime dessiner ce que je trouve dans mes voyages, surtout les animaux et les bêtes magiques. |
+| 6 | Je ne me soucie pas des règles de conduite sociales, j'ai des choses plus importantes à penser. |
+| 7 | Je hurle à la lune et j'écoute les hurlements des autres bêtes. |
+| 8 | Je n'aime pas tant que ça les bêtes, mais leurs secrets magiques attirent mon attention. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Curiosité.** Je dois dénicher les créatures les plus rares du multivers. (N'importe lequel) |
+| 2 | **Recherche.** Tous les secrets de l'univers peuvent être révélés par l'étude de la faune magique. (N'importe lequel) |
+| 3 | **Gloire.** Je dois combattre les bêtes les plus redoutables du monde. (Mauvais) |
+| 4 | **Liberté.** Nous devrions tous vivre comme les bêtes. (Chaotique) |
+| 5 | **Espoir.** Je sais que même si je dois commettre des actes malveillants, l'histoire sera ma rédemption. (Chaotique) |
+| 6 | **Frugal.** Je dois économiser mes ressources, je ne sais pas quand j'en aurai besoin pendant mes aventures. |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Dans le cadre de mes recherches, j'ai découvert une bête magique qui peut voyager entre les plans, je veux découvrir son secret. |
+| 2 | Mes recherches ont pour but d'améliorer la vie des habitants de ma région d'origine. |
+| 3 | Un dragon a enlevé mon compagnon et je dois maintenant les retrouver pour le secourir. |
+| 4 | Mon compagnon a volé un dragon et je dois maintenant le trouver pour lui restituer. |
+| 5 | Une étrange maladie a commencé à se propager parmi les animaux de ma région. |
+| 6 | Les recherches que j'ai faites durant toute ma vie risquent d'être dérobées. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | L'hygiène n'est pas ma principale préoccupation. |
+| 2 | Je n'aime pas traverser les rivières et j'essaie de l'éviter le plus possible. |
+| 3 | Si je vois une bête rare, je dois m'approcher assez pour l'étudier, si elle s'enfuit, je dois la pourchasser. |
+| 4 | Je parle toujours aux animaux comme s'ils me comprenaient, ce qui n'est généralement pas le cas. |
+| 5 | Un type de bêtes magiques estime que je devrais avoir très bon goût. |
+| 6 | Chaque fois qu'un animal hurle à la lune, je ressens le besoin de lui répondre, quelle que soit la situation. |
 
 \page
 
@@ -241,16 +343,41 @@ Les Archivistes Mystiques sont connus pour être des gens sérieux et silencieux
 
 | d8 | Trait de personnalité |
 | --- | --- |
+| 1 | Je n'ai pas besoin de discuter avec les gens pour apprendre des choses, tout peut être appris dans les livres. |
+| 2 | Chaque fois que je rencontre quelqu'un, j'entame une conversation sur les livres, la science ou la magie. |
+| 3 | Je tiens toujours un livre. |
+| 4 | Je suis obsédé par la propreté. J'essaie de nettoyer tout avant d'y toucher. |
+| 5 | J'ai une énorme quantité de savoirs inutiles dans ma tête, et Je les utilise comme amorce de dialogue. |
+| 6 | Je dis toujours aux gens exactement ce que je pense. |
+| 7 | Je ne regarde jamais directement les gens dans les yeux. |
+| 8 | J'exagère quand je raconte mes aventures. |
 
 | d6 | Idéal |
 | --- | --- |
+| 1 | **Eloquent.** Les mots sont mes premières armes avant de livrer bataille. (N'importe lequel) |
+| 2 | **Loyal.** Je tiens toujours ma parole, une fois donnée, elle est mon engagement. (Loyal) |
+| 3 | **Connaissance.** La source de mon pouvoir et mon objectif sont la sagesse des livres. (Neutre) |
+| 4 | **Protection.** Nous devrions étudier et réunir le pouvoir pour protéger les gens. (Loyal) |
+| 5 | **Isolement.** Le savoir doit être protégé des esprits malveillants. (Neutre) |
+| 6 | **Cupidité.** J'accepte d'aider les autres tant que j'en tire un bénéfice réel. (Mauvais) |
 
 | d6 | Lien |
 | --- | --- |
+| 1 | Je possède le secret pour reconstituer un mécanisme ancien que je dois retrouver dans certaines ruines. |
+| 2 | On m'a volé un bijou magique, qui contient l'âme d'un être cher. |
+| 3 | Il est de mon devoir de protéger les autres membres de ma Maison de sorcellerie. |
+| 4 | Je dois protéger le secret caché au cœur de ma bibliothèque. |
+| 5 | Je risquerai ma vie pour trouver des livres de magie et de connaissance. |
+| 6 | J'ai découvert d'autres mondes et les moyens d'y accéder par magie. |
 
 | d6 | Défaut |
 | --- | --- |
-
+| 1 | J'ai tendance à parler en dormant et il m'arrive de dire des choses compromettantes. |
+| 2 | Lorsque je commence à lire un livre intéressant, je ne veux rien faire avant de l'avoir terminé. |
+| 3 | Je ne bois de l'eau que lorsque c'est absolument nécessaire, je préfère boire du vin chaque fois que je le peux. |
+| 4 | J'ai tendance à confondre mes livres de fantaisy avec ceux de science et de magie, et parfois cela se voit dans mes paroles. |
+| 5 | J'écris très bien, mais je trouve difficile de me faire comprendre avec des mots. |
+| 6 | Je deviens nerveux lorsque je suis le centre d'attention de plusieurs personnes. |
 
 \page
 
