@@ -690,12 +690,41 @@ Même si vous n'êtes pas un étudiant de la Maison de Chaosah, vous êtes famil
 
 ### Créature de la nuit
 
+_Prérequis : aptitude de classe familier, ou capacité à lancer le sort appel de familier_
+
+Votre familier est une créature de la nuit et tant qu'il est à moins de 30 pieds de vous, il vous accorde les capacités suivantes :
+
+* Vous et vos proches avez une vision nocturne à 30 pieds.
+* Vous avez l'avantage sur vos jets de sauvegarde contre l'état terrorisé.
+
 ### Magie naturelle d'Hippiah
+
+_Prérequis : Maison de sorcellerie autre que Hippiah_
+
+Même si vous n'êtes pas un étudiant de la Maison d'Hippiah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _gourdin magique_. En outre, vous apprenez également _amitié avec les animaux_ et _Nature's Healing_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
 
 ### Magie délicieuse de Magmah
 
+_Prérequis : Maison de sorcellerie autre que Magmah_
+
+Même si vous n'êtes pas un étudiant de la Maison de Magmah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _Fire Cooking_. En outre, vous apprenez également _charme-personne_ et _flamme éternelle_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
+
 ### Précision de la baguette
+
+_Prérequis : capacité d'utiliser une baguette magique comme focaliseur d'incantation_
+
+Chaque fois que vous lancez un sort d'attaque, vous pouvez dépenser une charge de la baguette que vous utilisez en tant que Focaliseur pour lancer un d6 et ajouter le nombre obtenu à votre jet d'attaque. Vous pouvez attendre d'avoir lancé l'attaque avant de décider d'utiliser cette capacité, mais vous devez décider avant que le MD ne dise si l'attaque réussit ou échoue.
 
 ### Expert en baguette
 
+_Prérequis : capacité de lancer au moins un sort_
+
+Vous avez appris des techniques pour améliorer votre utilisation des baguettes magiques. Lorsque vous dépensez la dernière charge d'une baguette, elle ne sera pas détruite si elle est harmonisée avec vous.
+
 ### Magie animée de Zombiah
+
+_Prérequis : Maison de sorcellerie autre que Zombiah_
+
+Même si vous n'êtes pas un étudiant de la Maison de Zombiah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _poigne électrique_. En outre, vous apprenez également _simulacre de vie_ et _ténèbres_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
+
+\page
