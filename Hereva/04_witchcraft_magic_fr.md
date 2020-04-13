@@ -245,13 +245,24 @@ Chaque créature dans une sphère de 3 mètres de rayon centrée sur ce point do
 
 _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d4 pour chaque niveau d'emplacement de sort au-dessus du 2e.
 
-#### Imbrication de sort
+#### Imprégnation de sort
 *Evocation de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
 - **Portée :** contact
 - **Composantes :** V, S, M (une opale d'une valeur de 25 po)
 - **Durée :** 1 heure
+
+Pour lancer ce sort, vous touchez un mort-vivant ou une créature artificielle que vous contrôlez tout en lançant un autre sort pour l'imprégner. En fonction de l'école du sort dont vous avez imprégné la cible, elle obtient l'un des avantages suivants.
+
+| Avantage | École |
+| --- | --- |
+| +1 bonus de classe d'armure par niveau de sort | Abjuration, Illusion |
+| 5 points de vie temporaires par niveau de sort | Invocation, Enchantement |
+| +1 aux jets d'attaque par niveau de sort | Divination, Transmutation |
+| +1 aux jets de dégâts par niveau de sort | Evocation, Nécromancie |
+
+Si les points de vie de la cible sont réduits à 0 pendant la durée de ce sort, le sort imprégné est lancé et vous pouvez choisir les directions, les cibles et les autres options à ce moment-là.
 
 #### Invocation d'esprits de Ah
 *Invocation de niveau 8*
@@ -261,6 +272,12 @@ ___
 - **Composantes :** V, S
 - **Durée :** concentration, jusqu'à 1 heure
 
+Vous demandez l'aide de vos ancêtres de la maison de Ah, les esprits prennent la forme d'un gigantesque essaim d'esprits ancestraux. L'essaim d'esprits ancestraux disparaît lorsqu'il tombe à 0 point de vie ou lorsque le sort se termine.
+
+La créature est amicale envers vous et vos compagnons pour la durée du sort. Lancez l'initiative pour la créature, qui a son propre tour. Elle obéit à tout ordre verbal que vous lui donnez (aucune action requise de votre part), tant qu'il ne viole pas son alignement. Si vous n'émettez pas d'ordre à l'essaim d'esprits ancestraux, il se défend des créatures hostiles, mais n'effectue aucune action.
+
+Les caractéristiques de l'essaim d'esprits ancestraux figurent dans l'annexe des monstres de ce livre.
+
 #### Bond
 *Transmutation, tour de magie*
 ___
@@ -268,6 +285,10 @@ ___
 - **Portée :** personnelle
 - **Composantes :** V, S
 - **Durée :** instantanée
+
+Lorsque vous lancez ce sort, vous êtes éjecté dans une direction que vous choisissez. Ce mouvement ne provoque pas d'attaques d'opportunité. Vous avancez de 2d6 x 5 pieds et atterrissez en toute sécurité.
+
+Si l'espace dans lequel vous tombez est occupé, vous atterrissez plutôt dans l'espace inoccupé le plus proche.
 
 #### Fantôme lumineux
 *Invocation de niveau 4*
@@ -277,6 +298,18 @@ ___
 - **Composantes :** V, S, M (poussière de terre sainte)
 - **Durée :** concetration, jusqu'à 1 heure
 
+Vous invoquez un esprit ancestral. Il apparaît dans un espace inoccupé que vous pouvez voir à portée. L'esprit ancestral disparaît lorsqu'il tombe à 0 point de vie ou lorsque le sort se termine.
+
+L'esprit ancestral est amical envers vous et vos compagnons pour la durée du sort. Lancez l'initiative pour la créature, qui a ses propres tours. Elle obéit à tous les ordres verbaux que vous lui donnez (aucune action requise de votre part), tant qu'ils ne violent pas son alignement. Si vous ne lui donnez pas d'ordres, il se défend des créatures hostiles, mais ne prend pas d'actions.
+
+Si votre concentration est rompue, l'esprit ancestral ne disparaît pas. Au lieu de cela, vous perdez le contrôle de l'esprit ancestral, il devient hostile envers vous et vos compagnons, et il pourrait attaquer. Un esprit ancestral ne peut être renvoyé par vous, et il disparaît 1 heure après que vous l'ayez invoqué.
+
+Les caractéristiques de l'esprit ancestral sont dans l'annexe des monstres du présent livre.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement de sort de niveau 5 ou supérieur, la dangerosité augmente de 1 pour chaque niveau d'emplacement de sort supérieur à 4.
+
+\page
+
 #### Lux Maxima
 *Evocation de niveau 3*
 ___
@@ -284,6 +317,18 @@ ___
 - **Portée :** personnelle (ligne de 120 feet)
 - **Composantes :** V, S, M (un champignon fluorescent)
 - **Durée :** concentration, jusqu'à 1 minute
+
+Une étincelle de lumière blanche apparaît sur un de vos doigts illuminant comme une torche, qui dure toute la durée de la sort.
+
+Comme action bonus pendant votre tour, ou comme réaction lorsque vous perdez votre concentration, vous pouvez lancer la lumière sous la forme d'une ligne de lumière d'un mètre de large vers un point que vous pouvez voir à moins de 30 pieds. Elle explosera au niveau de sa cible dans une sphère de lumière de 30 pieds de rayon qui diffuse une lumière faible dans un un rayon supplémentaire de 30 pieds.
+
+Toute créature se trouvant dans la zone de lumière vive doit faire un jet de sauvegarde de Constitution. Lors d'une sauvegarde ratée, la créature subit des dommages radiants de 3d6 et est aveuglée jusqu'au début de votre prochain tour, sur une sauvegarde réussie, elle ne prend que la moitié des dégâts et n'est pas aveuglée.
+
+Toute créature se trouvant dans la zone de faible luminosité doit réussir un jet de sauvegarde de Constitution ou subire un désavantage sur ses jets d'attaque jusqu'au début de votre prochain tour.
+
+Les morts-vivants et les créatures boueuses sont désavantagées sur leur jet de sauvegarde contre ce sort.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement de sort au-dessus du 3ème.
 
 #### Micro dimension du chaos
 *Abjuration de niveau 5*
@@ -293,6 +338,12 @@ ___
 - **Composantes :** V, S
 - **Durée :** concentration, jusqu'à 1 heure
 
+Vous créez une sphère de force de 15 pieds de rayon centrée autour de vous et couvrant tout ce qui se trouve dans la zone, y compris les objets, les êtres vivants et vous-même. Pour la durée du sort, tout dans la sphère existe dans un minuscule demi-plan créé par elle.
+
+Aucune créature, aucun objet ou sort ne peut entrer dans la sphère à moins que vous le permettiez. Les créatures et les objets peuvent quitter la sphère librement. Tout objet ou créature qui quitte la sphère retourne au plan matériel et ne pourra pas y retourner à moins que vous ne l'autorisiez.
+
+Les effets de sort ne peuvent traverser la sphère dans aucune direction.
+
 #### Lien mental
 *Divination de niveau 1*
 ___
@@ -300,6 +351,12 @@ ___
 - **Portée :** contact
 - **Composantes :** V, S, M (un petit objet appartenant à la cible)
 - **Durée :** concentration, jusqu'à 10 minutes
+
+Vous établissez un lien télépathique avec un autre lanceur de sorts consentant que vous touchez.
+
+Jusqu'à la fin du sort, le lien est actif tant que vous et l'autre lanceur de sorts êtes dans le champ de vision l'un de l'autre. Grâce à ce lien, vous et le lanceur de sorts pouvez comprendre vos messages télépathiques mutuels.
+
+Tant que le lien est actif, les deux ont l'avantage de pouvoir attaquer les ennemis que vous pouvez chacun voir.
 
 #### Lumière des lunes
 *Abjuration de niveau 6*
@@ -309,6 +366,14 @@ ___
 - **Composantes :** V, S
 - **Durée :** instantanée
 
+Vous canalisez la lumière des trois lunes d'Hereva. Chaque adversaire à moins de 60 pieds de vous doit faire un jet de sauvegarde de Charisme.
+
+Lors d'une sauvegarde ratée, une créature subit 6d6 de dégâts radiants et tout sort de niveau 3 ou inférieur sur la créature se termine. Lors d'une sauvegarde réussie, la créature prend la moitié des dégâts et annule tout autre effet. Les créatures à 30 pieds de vous ou plus ont l'avantage sur ce jet de sauvetage.
+
+Si un céleste, un élémentaire, une fée, un démon ou un mort-vivant échoue à son jet de sauvegarde, il est renvoyé à son plan d'origine (s'il n'y est pas déjà). S'ils ne sont pas dans leur plan d'origine, les morts-vivants sont envoyés dans le Plan de l'Ombre, et les fées sont envoyées dans le plan des fées.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement de sort de niveau 7 ou supérieur, les dommages augmentent de 1d6 pour chaque niveau d'emplacement de sort supérieur à 6.
+
 #### Guérison de la nature
 *Abjuration de niveau 2*
 ___
@@ -316,6 +381,12 @@ ___
 - **Portée :** contact
 - **Composantes :** V, S
 - **Durée :** instantanée
+
+Vous touchez un être vivant et vous pouvez mettre fin à une maladie ou à un état qui l'affecte. Cette affection peut être une cécité, une surdité, une paralysie ou un empoisonnement.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez mettre fin à une maladie ou une condition supplémentaire pour chaque emplacement de sort de niveau supérieur à 2. De plus, la créature guérit 1d6 points de vie pour chaque niveau d'emplacement de sort au-dessus du 2ème.
+
+\page
 
 #### Chaos nucléaire
 *Evocation de niveau 9*
@@ -325,6 +396,31 @@ ___
 - **Composantes :** V, S
 - **Durée :** concentration, jusqu'à 1 minute
 
+L'énergie chaotique de l'environnement se rassemble en un point que vous pouvez voir à portée. Chaque créature dans une sphère de 40 pieds de rayon centrée sur le point que vous choisissez doit faire un jet de sauvegarde de Dextérité. La sphère se déploie autour des coins. Une créature subit 10d6 dommages nécrotiques sur un échec à son jet de sauvegarde, ou la moitié des dégâts sur une sauvegarde réussie.
+
+Après cela, la sphère se comprime en une sphère de 5 pieds de diamètre centrée sur le point que vous avez choisi. Tout créature qui termine son tour à moins de 1,5 mètre de la sphère doit faire un jet de sauvegarde de Dextérité. La créature prend 10d6 de dégâts nécrotiques sur une sauvegarde ratée, ou la moitié de ces dégâts sur une réussite.
+
+En tant qu'action bonus, vous pouvez déplacer la sphère jusqu'à 30 pieds. Si vous enfoncez la sphère dans une créature, cette créature doit faire son jet de sauvegarde contre les dégâts de la sphère et la sphère conserve son mouvement.
+
+Lorsque le sort se termine, parce que votre concentration est brisée ou parce que vous décidez d'y mettre fin, la sphère explose de nouveau, provoquant un effet aléatoire de la Tableau des effets du chaos nucléaire.
+
+<div class='wide' > 
+
+##### Effets du chaos nucléaire
+
+| d8 | Effet |
+| --- | --- |
+| 1 | **Explosion de feu.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Dextérité, en subissant 20d6 de dégâts de feu lors d'une sauvegarde ratée ou moitié moins sur un succès. L'incendie endommage les objets de la zone et enflamme les objets inflammables qui ne sont pas portés ou transportés. |
+| 2 | **Explosion de froid.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, la créature prend 20d6 dégâts causés par le froid et son mouvement est réduit de 3 mètres pendant une minute. Lors d'une sauvegarde réussie, la créature ne subit que la moitié des dégâts et son mouvement n'est pas affecté. |
+| 3 | **Coup de foudre.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Dextérité, subissant 20d6 dégâts de foudre lors d'une sauvegarde ratée. ou la moitié en cas de succès. La foudre enflamme les objets inflammables qui se trouvent à proximité et qui ne sont pas portés ou transportés. |
+| 4 | **Projection d'acide.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Dextérité, en subissant 20d4 de dégâts d'acide sur une sauvegarde ratée ou la moitié sur un succès. Toute créature qui a échoué à son jet de sauvegarde subit 10d4 dégâts d'acide à la fin de son prochain tour. |
+| 5 | **Nuage de poison**. Chaque créature dans un rayon de 6 mètres doit faire un jet de sauvegarde de Constitution, en subissant 10d12 dégâts d'acide sur une sauvegarde ratée ou la moitié de ces dégâts sur un succès. Les créatures touchées par cet effet deviennent empoisonnées pendant 1 minute. |
+| 6 | **Vignes grimpantes.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Force ou être retenue pendant 1 minute. Au début de chacun de ses tours, une créature retenue reçoit 5d6 dégâts contondants. La créature peut utiliser son action pour faire un test de Force contre votre DD de sauvegarde de sort. Sur un succès, elle se libère. |
+| 7 | **Cauchemar chaotique.** Chaque créature dans une zone de 6 mètres doit faire un jet de sauvegarde de Sagesse. En cas d'échec, la créature est effrayée pendant une minute. A la fin de chaque tour de la créature, alors qu'elle est effrayée, elle doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort, ou subire 5d10 de dégâts psychiques. En cas de sauvegarde réussie, l'effet cesse sur cette créature. |
+| 8 | Lancez deux fois sur cette table, en ignorant tous les résultats de 8. |
+
+</div>
+
 #### Coquille d'oeuf de Phoenix
 *Abjuration de niveau 3*
 ___
@@ -332,6 +428,12 @@ ___
 - **Portée :** personnelle
 - **Composantes :** V, S, M (quelques morceaux de coquille d'oeuf de phénix)
 - **Durée :** instantanée
+
+Une barrière de feu magique en forme d'oeuf de phénix apparaît et vous protège. Jusqu'au début de votre prochain tour, vous bénéficiez d'un bonus de +4 en CA, y compris contre l'attaque déclenchante, et vous ne subissez aucun dégât de _projectile magique_.
+
+De plus, vous obtenez une résistance au feu pendant toute la durée du sort.
+
+\page
 
 #### Mot de puissance de création
 *Abjuration de niveau 9*

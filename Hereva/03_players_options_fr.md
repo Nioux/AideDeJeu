@@ -633,7 +633,7 @@ Afin de choisir un don, vous devez satisfaire tous les prérequis spécifiés. S
 
 _Prérequis : Maison de sorcellerie autre que Ah_
 
-Même si vous n'êtes pas un étudiant de la Maison de Ah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _épargner les mourants_. En outre, vous apprenez également _soin des blessures_ et _pas brumeux_, chacun pouvant être lancé une fois à son niveau le plus bas sans avoir à dépenser de temps pour lancer un sort. Vous retrouverez la possibilité de lancer ces deux sorts de cette manière lorsque vous aurez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
+Même si vous n'êtes pas un étudiant de la Maison de Ah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _épargner les mourants_. En outre, vous apprenez également _soin des blessures_ et _pas brumeux_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous retrouverez la possibilité de lancer ces deux sorts de cette manière lorsque vous aurez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
 
 ### Magie abyssale d'Aquah
 
