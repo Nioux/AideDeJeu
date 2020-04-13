@@ -443,6 +443,18 @@ ___
 - **Composantes :** V, S
 - **Durée :** concentration, jusqu'à 1 heure
 
+Vous faites apparaître un objet, mort-vivant ou créature artificielle, à votre service.
+
+Vous pouvez créer un objet usuel d'une valeur allant jusqu'à 50000 po, et jusqu'à 300 pieds dans n'importe quelle dimension.
+
+Si la création est un objet magique, vous pouvez le faire apparaître dans un espace à portée. Si l'espace est occupé par une créature, il est porté ou manié par cette créature et, si applicable et possible, la créature s'adapte à l'objet. Cet objet magique ne peut pas être légendaire. Si l'objet est détruit ou lorsque le sort se termine, l'objet se réduit en cendres et disparaît.
+
+Optionnellement, vous pouvez créer une créature artificielle ou un mort-vivant de dangerosité 8 ou moins. La créature apparaît dans un espace inoccupé à portée.
+
+Lancer l'initiative pour la créature, qui a ses propres tours. Elle obéit à tout ordre verbal que vous lui donnez (aucune action requise de votre part). Si vous n'émettez pas d'ordre pour elle, elle se défend contre les créatures, mais ne prend aucune autre mesure.
+
+Cette créature ne peut être soignée ou réparée par aucun moyen. Si ses points de vie sont réduits à 0, ou lorsque le sort finit, la créature se transforme en cendres et disparaît.
+
 #### Releasus Krakenis
 *Illusion de niveau 4*
 ___
