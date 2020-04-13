@@ -324,7 +324,7 @@ Comme action bonus pendant votre tour, ou comme réaction lorsque vous perdez vo
 
 Toute créature se trouvant dans la zone de lumière vive doit faire un jet de sauvegarde de Constitution. Lors d'une sauvegarde ratée, la créature subit des dommages radiants de 3d6 et est aveuglée jusqu'au début de votre prochain tour, sur une sauvegarde réussie, elle ne prend que la moitié des dégâts et n'est pas aveuglée.
 
-Toute créature se trouvant dans la zone de faible luminosité doit réussir un jet de sauvegarde de Constitution ou subire un désavantage sur ses jets d'attaque jusqu'au début de votre prochain tour.
+Toute créature se trouvant dans la zone de faible luminosité doit réussir un jet de sauvegarde de Constitution ou subir un désavantage sur ses jets d'attaque jusqu'au début de votre prochain tour.
 
 Les morts-vivants et les créatures boueuses sont désavantagées sur leur jet de sauvegarde contre ce sort.
 
@@ -416,7 +416,7 @@ Lorsque le sort se termine, parce que votre concentration est brisée ou parce q
 | 4 | **Projection d'acide.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Dextérité, en subissant 20d4 de dégâts d'acide sur une sauvegarde ratée ou la moitié sur un succès. Toute créature qui a échoué à son jet de sauvegarde subit 10d4 dégâts d'acide à la fin de son prochain tour. |
 | 5 | **Nuage de poison**. Chaque créature dans un rayon de 6 mètres doit faire un jet de sauvegarde de Constitution, en subissant 10d12 dégâts d'acide sur une sauvegarde ratée ou la moitié de ces dégâts sur un succès. Les créatures touchées par cet effet deviennent empoisonnées pendant 1 minute. |
 | 6 | **Vignes grimpantes.** Chaque créature dans un rayon de 6 mètres doit effectuer un jet de sauvegarde de Force ou être retenue pendant 1 minute. Au début de chacun de ses tours, une créature retenue reçoit 5d6 dégâts contondants. La créature peut utiliser son action pour faire un test de Force contre votre DD de sauvegarde de sort. Sur un succès, elle se libère. |
-| 7 | **Cauchemar chaotique.** Chaque créature dans une zone de 6 mètres doit faire un jet de sauvegarde de Sagesse. En cas d'échec, la créature est effrayée pendant une minute. A la fin de chaque tour de la créature, alors qu'elle est effrayée, elle doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort, ou subire 5d10 de dégâts psychiques. En cas de sauvegarde réussie, l'effet cesse sur cette créature. |
+| 7 | **Cauchemar chaotique.** Chaque créature dans une zone de 6 mètres doit faire un jet de sauvegarde de Sagesse. En cas d'échec, la créature est effrayée pendant une minute. A la fin de chaque tour de la créature, alors qu'elle est effrayée, elle doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort, ou subir 5d10 de dégâts psychiques. En cas de sauvegarde réussie, l'effet cesse sur cette créature. |
 | 8 | Lancez deux fois sur cette table, en ignorant tous les résultats de 8. |
 
 </div>
