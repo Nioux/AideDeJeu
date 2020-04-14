@@ -749,8 +749,320 @@ Les créatures affectées par ce sort ne peuvent pas réagir et ne peuvent pas r
 
 \page
 
-## Objets magiques
+# Objets magiques
+
+Un des lieux les plus magiques du multivers n'est pas étranger aux objets magiques. L'acquisition d'objets magiques est plus courante dans le monde d'Hereva que dans d'autres mondes. Cependant, si votre jeu se déroule dans un cadre de campagne où les objets magiques sont rares, le MD pourrait quand même inclure certaines de ces listes avec une bonne histoire derrière.
 
 ### Liste d'objets magiques
 
 ### Description des objets magiques
+
+#### Meilleur café de tous les temps
+
+*Objet merveilleux, très rare*
+
+Ce liquide brun foncé a le goût du meilleur café que vous puissiez jamais boire. Il est fait de brume de nuages noirs, de baies rouges de la jungle hantée, de coquilles d'oeufs de phénix de la vallée des volcans et de lait d'une jeune Vache-Dragon.
+
+Si vous buvez le café fraîchement préparé et encore chaud, vous entrez dans un état de génie magiquement aligné. Pendant les prochaines 24 heures, vous avez l'avantage sur tous vos jets de dés nécessaires pour créer des objets magiques.
+
+#### Filet attrapeur de nuages
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+Ce filet magique ressemble à un filet de chasse aux insectes ordinaire, mais il peut être utilisé pour capturer des gaz ou des liquides. En tant qu'action, son manieur peut l'utiliser pour capturer 3 mètres cubes d'un gaz ou d'un liquide touché par le filet.
+
+Le filet peut être utilisé pour attraper des créatures vaseuses. Comme action, son manieur peut faire une attaque de mêlée contre une grande ou petite vase. Lors d'un touché, la vase doit réussir un jet de sauvegarde de Dextérité ou être enfermée sans être blessée à l'intérieur du filet. L'attaque elle-même ne fait aucun dégât à la vase. 
+
+Si le filet est retourné, son contenu se répand, indemne, mais le sac doit être remis en place avant de pouvoir être utilisé à nouveau.
+
+#### Manteau d'apprentie d'Hippiah
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+#### Manteau de sorcière d'Hippiah
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Couronne de corail
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Boule de cristal d'environnement
+
+*Objet merveilleux, très rare*
+
+#### Robe d'apprentie de Magmah
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+#### Robe de sorcière de Magmah
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Vêtements d'apprentie de Zombiah
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+#### Vêtements de sorcière de Zombiah
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Bâton inamovible
+
+*Bâton, rare*
+
+#### Sac invisible
+
+*Objet merveilleux, courant*
+
+#### Lampe du Génie de la réussite
+
+*Objet merveilleux, légendaire (harmonisation requise)*
+
+#### Lire du Chaos
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Maillot d'apprentie d'Aquah
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+#### Maillot de sorcière d'Aquah
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Pinces géantes de Mithral
+
+*Arme, rare (harmonisation requise)*
+
+#### Huile de dégénération
+
+*Potion, rare*
+
+#### Huile de vol
+
+*Potion, courant*
+
+#### Huile de richesse
+
+*Potion, rare*
+
+#### Potion de vision diabolique
+
+*Potion, très rare*
+
+#### Potion de feu du dragon
+
+*Potion, très rare*
+
+#### Potion de génie
+
+*Potion, peu courant*
+
+#### Potion de rire
+
+*Potion, rare*
+
+#### Potion de méga-croissance
+
+*Potion, peu courant*
+
+#### Potion de régénération
+
+*Potion, très rare*
+
+#### Potion de fumée
+
+*Potion, peu courant*
+
+\page
+
+#### Potion de boule puante
+
+*Potion, courant*
+
+#### Potion de transparence
+
+*Potion, très rare*
+
+#### Anneau de contrôle des bêtes
+
+*Anneau, très rare (harmonisation requise)*
+
+#### Anneau de bonne chance
+
+*Anneau, courant (harmonisation requise)*
+
+#### Anneau de rayon magique
+
+*Anneau, rare (harmonisation requise)*
+
+#### Anneau de protection mentale
+
+*Anneau, rare (harmonisation requise)*
+
+#### Anneau de personnalité
+
+*Anneau, peu courant (harmonisation requise)*
+
+#### Anneau de sort chaotique
+
+*Anneau, rare*
+
+#### Anneau de peau de pierre
+
+*Anneau, très rare*
+
+#### Anneau du passe-partout
+
+*Anneau, peu courant (harmonisation requise)*
+
+#### Anneau du psionniste
+
+*Anneau, très rare (harmonisation requise)*
+
+#### Anneau du surveillant
+
+*Anneau, courant*
+
+#### Anneau de respiration aquatique
+
+*Anneau, peu courant*
+
+#### Toge d'apprentie de Ah
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+#### Toge de sorcière de Ah
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Sceptre d'allié élémentaire
+
+*Sceptre, rare*
+
+#### Sceptre de lame fantomatique
+
+*Sceptre, rare (harmonisation requise)*
+
+#### Sceptre de paralysie
+
+*Sceptre, rare (harmonisation requise)*
+
+#### Sceptre de perdition
+
+*Sceptre, très rare (harmonisation requise)*
+
+#### Sceptre de la licorne
+
+*Sceptre, légendaire*
+
+#### Sceptre du vampire
+
+*Sceptre, rare (harmonisation requise)*
+
+#### Parchemin d'alarme
+
+*Parchemin, courant*
+
+#### Parchemin de découverte
+
+*Parchemin, peu courant*
+
+#### Parchemin de protection
+
+*Parchemin, courant*
+
+#### Parchemin de combustion ralentie
+
+*Parchemin, peu courant*
+
+#### Parchemin du pélican
+
+*Parchemin, peu courant*
+
+#### Parchemin de contrôle des morts-vivants
+
+*Parchemin, peu courant*
+
+#### Bâton de fouille
+
+*Bâton, peu courant*
+
+#### Bâton de piste de feu
+
+*Bâton, rare (harmonisation requise)*
+
+#### Bâton de glisse
+
+*Bâton, peu courant (harmonisation requise)*
+
+#### Bâton de glace
+
+*Bâton, très rare (harmonisation requise)*
+
+#### Bâton d'acrobate
+
+*Bâton, peu courant (harmonisation requise)*
+
+#### Bâton du Ténébreux
+
+*Bâton, légendaire (harmonisation requise)*
+
+#### Bâton du guérisseur
+
+*Bâton, rare (harmonisation requise)*
+
+#### Bâton du sage
+
+*Bâton, rare (harmonisation requise)*
+
+#### Bâton du berger
+
+*Bâton, rare (harmonisation requise)*
+
+#### Bâton du tonnerre
+
+*Bâton, très rare (harmonisation requise)*
+
+#### Tunique d'apprentie de Chaosah
+
+*Objet merveilleux, rare (harmonisation requise)*
+
+#### Tunique de sorcière de Chaosah
+
+*Objet merveilleux, très rare (harmonisation requise)*
+
+#### Baguette de givre
+
+*Baguette, rare (harmonisation requise)*
+
+#### Baguette de lumière
+
+*Baguette, peu courant*
+
+#### Baguette de la nature
+
+*Baguette, rare (harmonisation requise)*
+
+\page
+
+#### Baguette d'absorption de sorts
+
+*Baguette, très rare (harmonisation requise)*
+
+#### Baguette du maître des invocations
+
+*Baguette, peu courant (harmonisation requise)*
+
+#### Bâton de saule
+
+*Bâton, rare (harmonisation requise)*
+
+#### Baguette de saule
+
+*Baguette, rare (harmonisation requise)*
+
+#### Chaudron de sorcière
+
+*Objet merveilleux, peu courant*
