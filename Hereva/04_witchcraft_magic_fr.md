@@ -463,6 +463,14 @@ ___
 - **Composantes :** V, S, M (encre de pieuvre géante ou de calmar géant)
 - **Durée :** concentration, jusqu'à 1 minute
 
+Un tentacule d'eau quasi-réel apparaît dans un espace inoccupé à portée de main. Le tentacule occupe une surface de 10 pieds carrés et il a une portée de 10 pieds.
+
+Pendant votre tour, vous pouvez commander mentalement le tentacule pour attaquer chaque créature à sa portée, vous n'avez pas besoin d'utiliser une action pour le faire. Toute créature dans la zone doit faire un jet de sauvegarde d'Intelligence, prendre 2d8 dégâts contondants sur une sauvegarde ratée, ou seulement la moitié des dégâts sur une réussite.
+
+Lorsque le sort se termine, le tentacule disparaît, ne laissant aucun trace derrière lui.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d8 pour chaque emplacement de sort de niveau supérieur à 4.
+
 #### Berger d'Hereva
 *Invocation de niveau 5*
 ___
@@ -470,6 +478,18 @@ ___
 - **Portée :** 60 feet
 - **Composantes :** V, S, M (voir description)
 - **Durée :** concentration, jusqu'à 1 heure
+
+Pour lancer ce sort, vous devez sacrifier des objets d'une valeur marchande de 500 gp.
+
+Chuchotant les mots de la création et les noms véritables de ce qu'Hereva abrite, vous permettez à la conscience des rochers, des arbres, des animaux et des autres éléments de la nature, d'entrer en contact avec notre plan.
+
+Pour la durée du sort, vous animez une des options suivantes :
+
+* 1 Primaire Un
+* 2 Elémentaires aînés
+* 4 Anciens Golems
+
+Les caractéristiques de ces créatures figurent dans l'annexe sur les monstres de ce supplément.
 
 #### Détournement de sort
 *Abjuration de niveau 4*
@@ -479,7 +499,11 @@ ___
 - **Composantes :** S
 - **Durée :** instantanée
 
-\page
+Vous essayez de changer la cible d'un sort à cible unique lancé par une créature que vous pouvez voir à portée. Si la créature jette un sort avec une seule cible de niveau 3 ou plus bas, vous pouvez choisir une nouvelle cible pour le sort, elle doit être une cible valide.
+
+S'il lance un sort de niveau 4 ou supérieur, faites un test avec votre caractéristique d'incantation. Le DD est égal à 12 + le niveau du sort. En cas de succès, vous pouvez choisir un nouvelle cible pour le sort, il doit s'agir d'une cible valide.
+
+Aux niveaux supérieurs. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez choisir une nouvelle cible pour le sort si son niveau est inférieur au niveau de l'emplacement de sort que vous avez utilisé. La nouvelle cible doit être valide.
 
 #### Purification spirituelle
 *Abjuration de niveau 4*
@@ -489,6 +513,12 @@ ___
 - **Composantes :** V, S, M ()
 - **Durée :** instantanée
 
+Vous touchez une créature que vous pouvez toucher et qui est charmée, effrayée ou possédée par un céleste, un élémentaire, une fée, un démon ou un mort-vivant. La créature que vous touchez n'est plus charmée, effrayée ou possédée par de telles créatures.
+
+Si la cible possède un objet maudit, la malédiction de l'objet demeure, mais le sort brise l'harmonisation de la créature avec l'objet afin qu'il puisse être enlevé ou jeté.
+
+\page
+
 #### Chauve-souris espionne
 *Invocation de niveau 2*
 ___
@@ -496,6 +526,12 @@ ___
 - **Portée :** 5 feet
 - **Composantes :** V, S
 - **Durée :** 1 heure
+
+Lorsque vous lancez ce sort, une chauve-souris volante apparaît dans un espace inoccupé à côté de vous. Vous pouvez nommer un lieu que vous connaissez, ou une créature dont vous connaissez l'emplacement. La chauve-souris volera à sa vitesse maximale jusqu'au point que vous avez désigné et observera le lieu ou la créature.
+
+A la fin de la durée du sort, la chauve-souris volera jusqu'à vous et vous communiquera par télépathie ce qu'elle a vu.
+
+Si la chauve-souris meurt avant de revenir vers vous, elle sera téléportée devant vous et disparaîtra ensuite en retournant à son plan d'origine.
 
 #### Toile collante
 *Nécromancie de niveau 3*
@@ -505,6 +541,14 @@ ___
 - **Composantes :** V, S
 - **Durée :** 1 minute
 
+Vous invoquez une masse de toile épaisse et collante et la lancez sur une créature de taille moyenne ou plus petite que vous pouvez voir à portée.
+
+La cible doit effectuer un jet de sauvegarde de Force. Sur une sauvegarde ratée, la créature est entièrement couverte par la toile, et devient aveugle et paralysée pour la durée du sort. Sur une sauvegarde réussie, la créature n'est que retenue.
+
+Une créature paralysée par les toiles peut utiliser son action pour faire un test de Force contre votre DD de sauvegarde de sort. Si elle réussit, elle devient retenue.
+
+Une créature retenue par les toiles peut utiliser son action pour faire un test de Force contre votre DD de sauvegarde de sort. Si elle réussit, elle est libre.
+
 #### Stockage de sort
 *Enchantement de niveau 8*
 ___
@@ -512,6 +556,10 @@ ___
 - **Portée :** contact
 - **Composantes :** S
 - **Durée :** 12 heures
+
+Vous touchez une créature artificielle ou un mort-vivant qui est amical envers vous. Vous pouvez stocker un sort que vous avez préparé jusqu'à niveau 6 avec une durée d'incantation de 1 action, 1 action bonus ou 1 réaction. Vous perdez un point de Réa qui sera utilisé pour relâcher le sort. Si le sort stocké a des composantes matérielles, celles-ci sont dépensées au moment du lancement du sort.
+
+Vous pouvez établir une condition pour libérer le sort. Lorsque la condition est déclenchée, le sort stocké est lancé avec les options (cible, portée, etc.) que vous avez spécifiées, et ce sort se termine.
 
 #### Trait de génie
 *Transmutation de niveau 1*
@@ -521,6 +569,12 @@ ___
 - **Composantes :** V, S
 - **Durée :** 1 jour
 
+Vous touchez une bête dont l'intelligence est de 5 ou moins, sans langage et dont le niveau de dangerosité est de 1 ou moins et elle acquiert une intelligence supérieure. La créature peut maintenant lire toutes les langues que vous pouvez lire.
+
+La créature peut communiquer avec d'autres créatures intelligentes par ses propres moyens, même en écrivant si elle ne peut pas parler. Si la créature a des pouces opposables, elle peut écrire.
+
+Par exemple, un perroquet sous l'effet de ce sort pourrait parler, mais un chien ne pourrait pas.
+
 #### Invocation de dragon
 *Invocation de niveau 9*
 ___
@@ -528,6 +582,20 @@ ___
 - **Portée :** illimitée
 - **Composantes :** V, S, M (un diamant d'une valeur d'au moins 1000 po et un autre tribut d'un coût au moins équivalent)
 - **Durée :** concentration, jusqu'à 3 heures
+
+Vous faites appel aux pouvoirs du plan élémentaire du feu et la réponse est donnée sous la forme d'un puissant dragon qui apparaît dans un espace inoccupé à portée. Vous connaissez le nom du dragon et possédez la capacité de communiquer avec lui par télépathie.
+
+Lorsque le dragon apparaît, il n'est pas obligé de se comporter d'une qualconque manière. Vous pouvez demander au dragon de fournir un service en échange d'un paiement, mais il n'est pas obligé de le faire.
+
+Vous pouvez négocier les termes de la tâche jusqu'à ce que le dragon accepte ou décide de partir en mettant immédiatement fin au sort. Si le dragon n'accepte pas votre tribut, il n'est pas consommé.
+
+Même si le dragon accepte le tribut, s'il n'est pas capable d'accomplir la tâche pendant la durée du sort, ou si le dragon meurt en essayant, le tribut n'est pas consommé et il est transporté par magie jusqu'à vous, donc vous savez que la tâche n'a pas été accomplie.
+
+Lorsque le dragon a terminé sa tâche, il retourne à son plan de départ, emportant le tribut avec lui, après vous avoir fait un rapport, si cela est adapté à la tâche et possible.
+
+Le diamant utilisé comme composante matérielle du sort est consommé dans tous les cas.
+
+\page
 
 #### Epée du lac
 *Invocation de niveau 7*
@@ -537,6 +605,12 @@ ___
 - **Composantes :** V, S, M (une source d'eau de 1,5 m et un sacrifice, d'une valeur de 250 po)
 - **Durée :** concentration, jusqu'à 1 minute
 
+Vous offrez un objet de valeur à la surface de l'eau et elle répondra en vous accordant une épée de glace qui en émerge.
+
+L'épée plane à portée de main et elle perdure pendant la durée du sort. Lorsque l'épée apparaît, vous faites une attaque de sort de mêlée contre une cible de votre choix à moins de 1,5 m de l'épée. Lors d'un touché, la cible subit 1d10 dégâts de force et 2d10 dégats de froid.
+
+Jusqu'à la fin du sort, vous pouvez utiliser une action bonus à chacun de vos tours pour déplacer l'épée jusqu'à 6 mètres vers un endroit que vous pouvez voir et répéter cette attaque contre la même cible ou une autre.
+
 #### Expulsion d'eau
 *Invocation de niveau 1*
 ___
@@ -544,6 +618,8 @@ ___
 - **Portée :** 60 feet
 - **Composantes :** V, S
 - **Durée :** instantanée
+
+Vous invoquez un puissant jet d'eau qui apparaît en tout point que vous pouvez voir à portée. Toute créature dans l'espace doit faire un jet de sauvegarde de Force. En cas d'échec, la créature est poussée de 3 mètres dans la direction que vous avez indiquée et elle tombe à terre. Lors d'une sauvegarde réussie, la créature n'est poussée que de 1,5 m et ne tombe pas à terre.
 
 #### Coursier d'eau
 *Transmutation de niveau 2*
@@ -553,6 +629,10 @@ ___
 - **Composantes :** V, S, M (cube de 10 feet d'eau)
 - **Durée :** 2 heures
 
+Vous touchez un cube d'eau de 3 mètres et vous le façonnez sous la forme d'un coursier d'eau. La créature formée a les caractéristiques d'un hippocampe géant, sauf qu'il a le type élémentaire.
+
+Pour la durée du sort, vous ou une créature de votre choix pouvez monter le coursier. La créature utilise les caractéristiques d'un cheval de course, sauf qu'il a une vitesse de nage de 100 pieds et peut parcourir 10 miles en une heure, ou 13 miles à un rythme rapide. Lorsque le sort se termine, le coursier disparaît peu à peu, ce qui donne au cavalier 1 minute avant d'en descendre. Le sort se termine si vous utilisez une action pour l'annuler ou si le coursier subit des dégâts.
+
 #### Transformation sauvage
 *Transmutation de niveau 6*
 ___
@@ -560,6 +640,16 @@ ___
 - **Portée :** personnelle
 - **Composantes :** V, S, M (quelques crins d'un taureau)
 - **Durée :** concentration, jusqu'à 10 minutes
+
+Votre corps se transforme en une version plus sauvage et primitive de vous-même. Vous faites pousser des griffes et des crocs et des oreilles animales jaillissent de votre tête. Tant que le sort n'est pas terminé, vous ne pouvez pas lancer de sorts, et vous obtenez les avantages suivants :
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est de 15 + votre modificateur de Dextérité.
+* Vous gagnez 30 points de vie temporaires. Si des points restent lorsque le sort se termine, ils sont perdus. 
+* Votre attaque à mains nues inflige 3d12 dégâts perforants et est considérée comme magique. Vous avez l'avantage sur vos jets d'attaque effectués avec votre attaque à mains nues.
+* Vous acquérez une maîtrise en athlétisme, en acrobatie, Perception et furtivité. Si vous avez déjà l'un d'entre eux, vous ajoutez plutôt le double de votre bonus de maitrise.
+* Vous pouvez attaquer deux fois, au lieu d'une, lorsque vous effectuez une action d'attaque à votre tour. Vous ignorez cet avantage si vous disposez déjà d'une capacité, comme Attaque supplémentaire, qui vous permet d'effectuer des attaques supplémentaires.
+
+Lorsque le sort se termine, votre corps reprend sa forme normale. Lancez un d20, si le résultat est 1, les oreilles de l'animal restent jusqu'à ce que vous ayez terminé un repos long. Les utilisations répétées de ce sort peuvent faire que les oreilles se rattachent à vous de manière permanente, à la discrétion du MD.
 
 #### Explosion de sorcière
 *Evocation de niveau 3*
@@ -569,6 +659,14 @@ ___
 - **Composantes :** V, S, M (un bâton d'encens incandescent)
 - **Durée :** concentration, jusqu'à 1 minute
 
+Une lumière violacée clignote du bout de votre doigt vers un point que vous choisissez à portée et explose ensuite en flammes pourpres. Chaque créature dans une sphère de 20 pieds de rayon centrée sur ce point doit faire un jet de sauvegarder de Dextérité. Une cible subit 2d6 dégâts de feu et 2d6 dégâts nécrotiques sur une sauvegarde ratée, ou la moitié des dégâts sur une réussie.
+
+Au début de chacun de vos tours pendant la durée du sort, vous pouvez choisir de subir 5 dégâts nécrotiques, si vous le faites vous pouvez créer une autre explosion à un autre point que vous choisissez à portée. Ces dégâts ne peuvent être évités par résistance ou immunité. Si vous choisissez de ne pas encaisser les dégâts, le sort se termine.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts nécrotiques de chaque explosion augmentent de 1d6 pour chaque emplacement de sort de niveau supérieur à 3.
+
+\page
+
 #### Dîner de sorcières
 *Divination de niveau 4*
 ___
@@ -576,6 +674,14 @@ ___
 - **Portée :** contact
 - **Composantes :** V, S, M (ingrédients du repas)
 - **Durée :** instantanée
+
+Vous ne pouvez lancer ce sort que la nuit. Vous devez être contact avec un repas ou les ingrédients, suffisants pour un dîner pour une personne. Si une créature mange ce repas, elle peut poser une question.
+
+Lors du prochain repos long de la créature, la question aura une réponse sous la forme d'un rêve. Le MD peut décider de la clarté de la réponse, en fonction de la difficulté du question, mais la réponse est toujours correcte.
+
+Si vous avez lancé le sort deux fois ou plus avant à la fin de votre prochain repos long, il y a un cumul de 25 pour cent de chance pour chaque lancement après le premier que La créature n'obtienne aucune réponse. Le MD fait ce jet en secret.
+
+_**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement de sort de niveau 5 ou supérieur, vous pouvez utiliser la nourriture pour un créature supplémentaire pour chaque niveau d'emplacement de sort supérieur à 4.
 
 #### Zombification
 *Abjuration de niveau 2*
@@ -585,6 +691,12 @@ ___
 - **Composantes :** V, S, M (une pincée de poudre d'os)
 - **Durée :** concentration, jusqu'à 1 heure
 
+Ce sort crée un serviteur mort-vivant temporaire. Choisissez un tas d'os ou un cadavre d'humanoïde de taille moyenne ou petite à portée. Votre sort imprègne la cible d'un faux mimétisme de vie, l'élevant comme une créature morte-vivante.
+
+La cible devient un squelette si vous avez choisi des os ou un zombie si vous avez choisi un cadavre (le MD a les caractéristiques de jeu de la créature). À chacun de vos tours, vous pouvez utiliser une action bonus pour commander mentalement toute créature que vous avez créée avec ce sort si la créature se trouve à moins de 60 pieds de vous (si vous contrôlez plusieurs créatures, vous pouvez commander n'importe laquelle ou toutes en même temps, en donnant le même ordre à chacune d'entre elles). Vous décidez de l'action que la créature va entreprendre et de l'endroit où elle se déplacera lors de son prochain tour, ou vous pouvez donner un ordre général, par exemple pour garder une chambre ou un couloir particulier. Si vous ne donnez aucun ordre, la créature se défend uniquement contre les créatures hostiles. Une fois qu'elle a reçu un ordre, la créature continue de le suivre jusqu'à ce que sa tâche soit terminée.
+
+La créature obéit à vos ordres pendant toute la durée du sort, après quoi elle se réduit en poussière et disparaît.
+
 #### Zone de Chaos
 *Illusion de niveau 5*
 ___
@@ -592,6 +704,48 @@ ___
 - **Portée :** 60 feet
 - **Composantes :** V, S, M (poignée de poivre)
 - **Durée :** spéciale
+
+Ce sort crée une zone de chaos total, troublant l'esprit des créatures. Tous les effets de ce sort sont décidés au hasard, même les cibles de celui-ci.
+
+Lorsque vous lancez le sort au départ, vous choisissez un point à portée.
+
+Ensuite, vous lancez 1d10 pour définir la cible du sort.
+
+| d10 | Cible |
+| --- | --- |
+| 1 | Pas de cible, le sort n'a aucun effet |
+| 2-3 | 1 créature déterminée au hasard |
+| 4-5 | Sphère de 1,5 m de rayon centrée sur vous |
+| 6-7 | Cône de 15 pieds dans une direction que vous choisissez |
+| 8-9 | Sphère de 3 mètres de rayon centrée en un point que vous choisissez à portée du sort |
+| 10 | Une créature que vous choisissez entre la portée du sort et vous lancez à nouveau pour une explosion supplémentaire |
+
+Ensuite, vous lancez 1d10 pour choisir une représentation et une durée.
+
+| d10 | Représentation (durée) |
+| --- | --- |
+| 1 | Aucune, sauter la table des couleurs (1 round) |
+| 2-3 | Etincelle (1 round) |
+| 4-6 | Pyrotechnique (3 rounds) |
+| 7-9 | Fumée (5 rounds) |
+| 10 | Peinture (1 minute) |
+
+Ensuite, lancez 1d10 pour choisir une couleur pour les effets visuels.
+
+| d10 | Couleur |
+| --- | --- |
+| 1 | Noir |
+| 2 | Rose |
+| 3 | Rouge |
+| 4 | Orange |
+| 5 | Jaune |
+| 6 | Vert |
+| 7 | Bleu |
+| 8 | Violet |
+| 9 | Blanc |
+| 10 | Faire deux nouveaux lancers et ignorer les lancers avec ce résultat |
+
+Les créatures affectées par ce sort ne peuvent pas réagir et ne peuvent pas rester concentrées sur leurs sorts. Enfin, lancez un d10 pour chaque cible afin de décider des effets supplémentaires.
 
 \page
 
