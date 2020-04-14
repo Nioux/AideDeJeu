@@ -779,139 +779,330 @@ Si le filet est retourné, son contenu se répand, indemne, mais le sac doit êt
 
 *Objet merveilleux, rare (harmonisation requise)*
 
+Ce vêtement vert semble avoir été fabriqué de feuilles et d'écorces et orné de runes brunes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Hippiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le manteau d'apprentie d'Hippiah si vous n'êtes pas au moins une sorcière d'Hippiah de niveau 7.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 12 + votre modificateur de Dextérité.
+* Le DD des sorts que vous lancez, à partir de la liste de la Maison d'Hippiah, augmente de 1.
+
 #### Manteau de sorcière d'Hippiah
 
 *Objet merveilleux, très rare (harmonisation requise)*
+
+Ce vêtement vert semble avoir été fabriqué de feuilles et d'écorces et orné de runes brunes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Hippiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le manteau de sorcière d'Hippiah si vous n'êtes pas au moins une sorcière d'Hippiah de niveau 13.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 13 + votre modificateur de Dextérité.
+* Votre DD de sauvegarde de sort et votre bonus d'attaque de sort augmentent chacun de 1.
+* Vous avez l'avantage sur vos jets de sauvegarde contre les sorts de l'école d'invocation.
+* Vous avez une résistance aux dégâts d'acide et de poison.
 
 #### Couronne de corail
 
 *Objet merveilleux, très rare (harmonisation requise)*
 
+Cette couronne semble être faite de petits morceaux de coquillages et de sable. En la portant, vous acquérez la capacité de comprendre et de communiquer verbalement avec les bêtes aquatiques.
+
+Les créatures peuvent vous donner des informations sur des lieux proches et des monstres, y compris tout ce qu'elles peuvent percevoir ou ont pu percevoir au cours de la journée écoulée. Vous pourriez être en mesure de persuader une bête aquatique de vous rendre un petit service, à la convenance du MD.
+
 #### Boule de cristal d'environnement
 
 *Objet merveilleux, très rare*
+
+Cette sphère ressemble à une boule de cristal de 6 pouces de rayon avec une petite maison à l'intérieur. L'espace à l'intérieur de la sphère est une micro-biosphère qui existe dans un petit demi-plan. Lorsque la sphère est secouée, le temps à l'intérieur change en une météo aléatoire déterminée par le MD. Les conditions météorologiques possibles sont les suivantes : ensoleillé, venteux, pluvieux, nuageux, enneigé et orageux.
+
+La sphère a une porte minuscule où une créature d'un pouce de haut ou plus petit pourrait entrer. Les créatures à l'intérieur de la sphère peuvent vivre normalement. L'intérieur est équivalent à un hectare d'un champ arboré et un chalet confortable.
+
+Si la sphère est brisée, le demi-plan à l'intérieur est détruit et les créatures qui s'y trouvent sont exilées vers le plan matériel, subissant 6d6 dégâts de force.
+
+\page
 
 #### Robe d'apprentie de Magmah
 
 *Objet merveilleux, rare (harmonisation requise)*
 
+Cette robe rose a toujours été à la mode et est ornée de runes rouges. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Magmah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe d'apprentie de Magmah si vous n'êtes pas au moins une sorcière de Magmah de niveau 7.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 12 + votre modificateur de Dextérité.
+* Le DD des sorts que vous lancez, à partir de la liste de la Maison de Magmah, augmente de 1.
+
 #### Robe de sorcière de Magmah
 
 *Objet merveilleux, très rare (harmonisation requise)*
 
-#### Vêtements d'apprentie de Zombiah
+Cette robe rose a toujours été à la mode et est ornée de runes rouges. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Magmah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe de sorcière de Magmah si vous n'êtes pas au moins une sorcière de Magmah de niveau 13.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 13 + votre modificateur de Dextérité.
+* Votre DD de sauvegarde de sort et votre bonus d'attaque de sort augmentent chacun de 1.
+* Vous avez l'avantage sur vos jets de sauvegarde contre les sorts de l'école d'évocation.
+* Vous avez une résistance aux dégâts de feu et de poison.
+
+#### Veste d'apprentie de Zombiah
 
 *Objet merveilleux, rare (harmonisation requise)*
 
-#### Vêtements de sorcière de Zombiah
+Ce vêtement rouge ressemble à une tenue militaire mais est orné de runes dorées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Zombiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la veste d'apprentie de Zombiah si vous n'êtes pas au moins une sorcière de Zombiah de niveau 7.
+
+En portant cette veste, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 12 + votre modificateur de Dextérité.
+* Le DD des sorts que vous lancez, à partir de la liste de la Maison de Zombiah, augmente de 1.
+
+
+#### Veste de sorcière de Zombiah
 
 *Objet merveilleux, très rare (harmonisation requise)*
+
+Ce vêtement rouge ressemble à une tenue militaire mais est orné de runes dorées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Zombiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la veste de sorcière de Zombiah si vous n'êtes pas au moins une sorcière de Zombiah de niveau 13.
+
+En portant cette veste, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 13 + votre modificateur de Dextérité.
+* Votre DD de sauvegarde de sort et votre bonus d'attaque de sort augmentent chacun de 1.
+* Vous avez l'avantage sur vos jets de sauvegarde contre les sorts de l'école de nécromancie.
+* Vous avez une résistance aux dégâts nécrotiques et de poison.
 
 #### Bâton inamovible
 
 *Bâton, rare*
 
+Ce bâton de fer est composé de trois parties plus petites, et a un bouton au milieu. Ce bâton peut être manié comme un bâton de combat magique qui accorde un bonus de +1 aux jets d'attaque et de dégâts faits avec.
+
+Vous pouvez utiliser une action pour appuyer sur le bouton, ce qui conduit le bâton à se fixer comme par magie sur place. Jusqu'à ce que vous ou une autre créature utilisiez une action pour appuyer à nouveau sur le bouton, le bâton ne bouge pas, même s'il défie la gravité. Le bâton peut supporter jusqu'à 24 000 livres de poids. Plus de poids entraîne la désactivation et la chute du bâton. Une créature peut utiliser une action pour faire un test de Force de DD 30, déplaçant le bâton fixé jusqu'à 10 pieds sur un succès.
+
 #### Sac invisible
 
 *Objet merveilleux, courant*
+
+Ce petit sac est difficile à remarquer à première vue car il est fait d'un matériau transparent. En guise d'action, vous pouvez glisser vos doigts sur la partie ouverte pour la sceller. Le sac peut contenir n'importe quel objet ne dépassant pas 6 pouces sur chaque dimension. Les denrées périssables à l'intérieur du sac sont conservées à l'état frais.
+
+Lorsque vous fermez le sac, vous pouvez définir un mot secret pour le rouvrir, sinon n'importe qui peut l'ouvrir.
 
 #### Lampe du Génie de la réussite
 
 *Objet merveilleux, légendaire (harmonisation requise)*
 
-#### Lire du Chaos
+La lampe a 3 charges, lorsque la dernière charge est épuisée, la lampe disparaît et réapparaît en un autre point aléatoire dans le même univers.
+
+Cette lampe en cristal semble avoir une nébuleuse dorée à l'intérieur. En tant qu'action, vous pouvez la frotter pour invoquer un Génie de la réussite. Le génie doit obéir à tous vos ordres s'il s'agit de tâche banales. Si vous demandez quelque chose qui n'est pas facilement réalisable, le génie pourrait décider d'utiliser une charge de la lampe pour lancer Souhait afin d'obéir à vos ordres. Le génie vous avertit toujours avant d'utiliser la charge, mais il ne s'arrêtera pas à moins que vous ne disiez les mots "j'ai changé d'avis". plus rapidement. Pour le résoudre, lancez l'initiative contre le génie, si vous gagnez le génie s'arrête, si le génie gagne, il lance le sort.
+
+Vous pouvez utiliser une action pour écarter le génie et le piéger à l'intérieur de la lampe.
+
+Outre son obligation à vous obéir, le génie agit comme n'importe quelle autre créature, et n'a pas d'attachement à vous. Il pourrait essayer de vous tromper, ou de vous aider, en fonction de son propre avis sur vous.
+
+Les caractéristiques du Génie de la réussite sont dans l'annexe des monstres à la fin de ce livre.
+
+\page
+
+#### Lyre du Chaos
 
 *Objet merveilleux, très rare (harmonisation requise)*
+
+Cet instrument dispose de 3 charges. Vous pouvez utiliser une action pour jouer de l'instrument en créant un effet comme le sort _zone de chaos_. L'effet peut se terminer plus tôt si vous arrêtez de jouer de l'instrument. Pendant la durée de l'effet, vous ne pouvez que vous déplacer et ne pouvez entreprendre aucune autre action que de jouer.
+
+La lyre récupère 1d3 de charges dépensées quotidiennement à l'aube. Si vous dépensez la dernière charge de la lyre, lancez un d20. Sur un 1, la lyre se réduit en cendres et est détruite.
 
 #### Maillot d'apprentie d'Aquah
 
 *Objet merveilleux, rare (harmonisation requise)*
 
+Ce vêtement bleu semble être fait d'algues et de corail et orné de runes vertes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Aquah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le maillot d'apprentie d'Aquah si vous n'êtes pas au moins une sorcière d'Aquah de niveau 7.
+
+En portant ce maillot, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 12 + votre modificateur de Dextérité.
+* Le DD des sorts que vous lancez, à partir de la liste de la Maison d'Aquah, augmente de 1.
+
 #### Maillot de sorcière d'Aquah
 
 *Objet merveilleux, très rare (harmonisation requise)*
+
+Ce vêtement bleu semble être fait d'algues et de corail et orné de runes vertes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Aquah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le maillot de sorcière d'Aquah si vous n'êtes pas au moins une sorcière d'Aquah de niveau 13.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 13 + votre modificateur de Dextérité.
+* Votre DD de sauvegarde de sort et votre bonus d'attaque de sort augmentent chacun de 1.
+* Vous avez l'avantage sur vos jets de sauvegarde contre les sorts de l'école de l'illusion.
+* Vous avez une résistance aux dégâts de froid et de foudre.
 
 #### Pinces géantes de Mithral
 
 *Arme, rare (harmonisation requise)*
 
+Cette arme ressemble à de grosses pinces métalliques, qui fonctionnent comme une massue magique (arme de mêlée, à deux mains, 1d8 de dégâts contondants). Vous avez un bonus de +1 aux jets d'attaque et de dégâts effectués avec cette arme magique.
+
+Lorsque vous réussissez à toucher une créature de taille moyenne ou plus petite avec les Pinces géantes de Mithral, la cible est empoignée (se libérer DD 16). Tant que cette empoignade n'est pas terminée, la créature est retenue, et vous ne pouvez pas attaquer une autre créature avec les pinces.
+
 #### Huile de dégénération
 
 *Potion, rare*
+
+Cette substance noire et collante peut être contenue en toute sécurité dans son récipient, mais une fois libérée, elle commence à corroder rapidement les matériaux non vivants. On dit que le liquide est du même type de substance que les vases sont fabriquées.
+
+L'huile peut couvrir une surface de 1,5 mètre carré, elle est inoffensive pour les êtres vivants, mais elle inflige 3d6 dégâts d'acide aux objets non vivants à chaque tour pendant une minute. Après cela, le liquide se dissout et disparaît.
 
 #### Huile de vol
 
 *Potion, courant*
 
+Cet onguent doré et collant est épais et lourd dans son récipient, il ressemble un peu au miel, mais coule rapidement lorsqu'on le verse. L'huile peut couvrir une créature de taille moyenne ou plus petite, ou un objet de même taille. La cible se met en vol stationnaire et a une vitesse de vol de 15 mètres. Elle peut transporter jusqu'à 400 livres, mais sa vitesse de vol devient de 30 pieds en transportant plus de 200 livres.
+
+Cet effet durera une heure. Lorsque l'effet prend fin, la cible tombe si elle est toujours en altitude, à moins qu'elle ne puisse arrêter sa chute.
+
 #### Huile de richesse
 
 *Potion, rare*
+
+Ce liquide orange semble léger et brillant. L'huile peut couvrir une créature de taille moyenne ou plus petite. L'application de l'huile prend 1 tour. Pendant une heure, la créature enrobée devient magiquement plus attirante et charismatique. Elle a l'avantage sur ses tests de Charisme pour toute la durée de l'huile.
 
 #### Potion de vision diabolique
 
 *Potion, très rare*
 
+Lorsque vous buvez cette potion, vous obtenez une vision nocturne de 60 pieds pendant 10 minutes. L'obscurité magique n'entrave pas cette vision nocturne. De plus, lorsque vous êtes sous l'effet de cette potion, vous pouvez voir des objets et des créatures invisibles.
+
 #### Potion de feu du dragon
 
 *Potion, très rare*
+
+Après avoir bu cette potion, vos yeux deviennent rouges et vous expirez de la fumée par les narines. Pendant les 10 minutes qui suivent, vous pouvez lancer un souffle de feu comme un dragon une fois. Un cône de feu de 30 pieds sort de votre bouche, chaque créature de la zone doit effectuer un jet de sauvegarde de Dextérité, lors d'une sauvegarde ratée, la créature subit 8d6 dégâts de feu, et la moitié lors d'une réussite.
+
+Quand vous faites votre attaque de souffle ou après que le temps se soit écoulé, votre apparence revient à la normale et l'effet de la potion prend fin.
 
 #### Potion de génie
 
 *Potion, peu courant*
 
+Si la potion est administrée à une bête dont l'intelligence est inférieure ou égale à 5, elle gagne en intelligence. La créature peut maintenant lire toutes les langues que vous pouvez lire. La créature peut communiquer avec d'autres créatures intelligentes avec ses moyens. Si la créature a des pouces opposables, elle peut écrire.
+
+\page 
+
 #### Potion de rire
 
 *Potion, rare*
+
+C'est une potion maudite. Lorsqu'une créature tente d'identifier le produit par des méthodes ordinaires, il ressemble et a le goût exact d'une potion de guérison.
+
+Une créature qui boit la potion perçoit toute chose comme hilarante et plonge dans des éclats de rire. La créature est sujette à des chutes, devient incapable et inapte à se lever pendant 1 minute. Si la créature a un score d'Intelligence de 4 ou moins, elle n'est pas affectée.
+
+A la fin de chacun de ses tours, et chaque fois qu'elle subit des dégâts, la créature affectée peut faire un jet de sauvegarde de Sagesse (DD 13). La cible a l'avantage sur le jet de sauvegarde s'il est déclenché par des dégâts. En cas de succès, l'effet prend fin.
 
 #### Potion de méga-croissance
 
 *Potion, peu courant*
 
+Lorsque vous buvez cette potion, vos cheveux poussent instantanément et vous êtes couvert de fourrure pendant 1 heure. Après ce temps, les poils supplémentaires tombent et vous revenez à votre état précédent. Tant que vous êtes couvert de poils, vous avez une résistance aux dégâts de froid.
+
 #### Potion de régénération
 
 *Potion, très rare*
+
+Lorsque vous buvez cette potion, vous commencez à soigner vos points de vie au début de chacun de vos tours pendant 1 minute. Le nombre de points de vie dépend de la rareté de la potion, comme indiqué dans le tableau de la potion de régénération. Quelle que soit sa puissance, le liquide rose pourpre scintille lorsqu'il est agité.
+
+| Potion de | Rareté | PV gagnés |
+| --- | --- | :---: |
+| Régénération | Courante | 1 |
+| Grande régénération | Peu courante | 2 | 
+| Régénération supérieure | Rare | 4 |
+| Régénération suprême | Très rare | 6 |
 
 #### Potion de fumée
 
 *Potion, peu courant*
 
-\page
+Lorsque vous buvez cette potion, un nuage de fumée apparaît autour de vous, ce nuage couvre une zone de 20 pieds de rayon centrée sur vous. Le nuage s'étend dans les coins, et sa zone est fortement obscurcie. Elle dure 1 heure ou jusqu'à ce qu'un vent de vitesse modérée ou supérieure (au moins 10 miles par heure) la disperse.
 
 #### Potion de boule puante
 
 *Potion, courant*
 
+Lorsque vous buvez cette potion, vous commencez à dégager des bulles de votre corps qui couvrent une sphère de 20 pieds de rayon. Les bulles s'éloignent de vous jusqu'à 6 mètres et éclatent ensuite, mais vous continuez à créer des bulles qui couvrent la zone pour 1 minute. Les bulles puent comme des oeufs pourris pour chaque créature dans la zone, sauf vous.
+
+Chaque créature qui se trouve entièrement dans la zone au début de son tour doit faire un jet de sauvegarde de Constitution (DC 13) contre le poison. Lors d'une sauvegarde ratée, la créature passe son action de ce tour à avoir des haut-le-coeur et des vertiges. Les créatures qui n'ont pas besoin de respirer ou qui sont immunisées contre Le poison réussissent automatiquement ce jet de sauvegarde.
+
+Les bulles vous suivent pendant une minute puis éclatent toutes en même temps et disparaissent.
+
 #### Potion de transparence
 
 *Potion, très rare*
+
+Le récipient de cette potion paraît vide, mais semble contenir du liquide. Lorsque vous le buvez, vous devenez translucide pendant 1 heure. Tout ce que vous portez ou transportez est également translucide. Vous avez un bonus de +2 en classe d'armure contre les adversaires qui ont besoin de vous voir pour attaquer.
+
+De plus, tant que vous êtes sous l'effet de cette potion, vous ne pouvez pas mentir.
 
 #### Anneau de contrôle des bêtes
 
 *Anneau, très rare (harmonisation requise)*
 
+Cet anneau semble être fait d'argile, mais il est aussi dur que le métal.
+
+L'anneau a 5 charges. Il récupère 1d4 + 1 charge dépensée chaque jour à l'aube. Les sorts lancés depuis l'anneau ont un DD de 15.
+
+Vous pouvez dépenser 2 des charges de l'anneau pour lancer _dominer un monstre_ sur une bête de taille grande ou moins.
+
 #### Anneau de bonne chance
 
 *Anneau, courant (harmonisation requise)*
 
+Cet anneau a 3 charges, et il récupère 1d3 charges dépensées quotidiennement à l'aube.
+
+Chaque fois que vous faites un jet d'attaque, un test de caractéristique ou un jet de sauvegarde, vous pouvez dépenser 1 charge pour obtenir un d20 supplémentaire. Vous pouvez utiliser cette capacité après le premier jet, mais avant que le résultat ne soit révélé. Vous choisissez lequel des d20s est utilisé pour le jet d'attaque, le test de caractéristique ou le jet de sauvegarde.
+
 #### Anneau de rayon magique
 
-*Anneau, rare (harmonisation requise)*
+*Anneau, rare (harmonisation requise avec un lanceur de sorts)*
+
+Cet anneau a 3 charges, et il récupère 1d3 charges dépensées quotidiennement à l'aube.
+
+Chaque fois que vous lancez un sort avec une portée de contact, vous pouvez dépenser une charge de l'anneau pour augmenter la portée du sort à 30 pieds. Vous pouvez choisir une cible à portée que vous pouvez voir. Un rayon jaune est lancé de l'anneau vers la cible.
 
 #### Anneau de protection mentale
 
 *Anneau, rare (harmonisation requise)*
 
+Cet anneau a 3 charges, et il récupère 1d3 charges dépensées quotidiennement à l'aube. Lorsque vous échouez à un jet de sauvegarde de Sagesse alors que vous le portez, vous pouvez utiliser votre réaction pour dépenser 1 de ses charges afin de réussir ce jet de sauvegarde en remplacement.
+
+\page
+
 #### Anneau de personnalité
 
 *Anneau, peu courant (harmonisation requise)*
+
+Cet anneau a 3 charges, et il récupère 1d3 charges dépensées quotidiennement à l'aube.
+
+En portant cet anneau, vous avez l'avantage sur tous les tests basés sur le Charisme que vous faites.
+
+En tant qu'action, vous pouvez dépenser une charge de l'anneau pour changer votre voix afin qu'elle ressemble exactement à la voix d'une autre créature que vous avez entendue, durant une heure.
 
 #### Anneau de sort chaotique
 
 *Anneau, rare*
 
+L'anneau a 3 charges. Il récupère 1d3 charges dépensées par jour à l'aube.
+
+En réaction, lorsqu'un lanceur de sorts situé à moins de 60 pieds de vous lance un sort, vous pouvez dépenser une charge de l'anneau. Si vous le faites, le lanceur doit réussir un jet de sauvegarde de Sagesse (DD 15) ou son sort sera aléatoirement affecté. Faites un jet sur la table _Résultats de l'anneau de sort chaotique_ pour décider du résultat.
+
+##### Résultats de l'anneau de sort chaotique
+
+| d20 | Résultat |
+| --- | --- |
+| 1-3 | Le sort fonctionne normalement. L'anneau fait un drôle de bruit pour indiquer qu'il n'a rien fait du tout. |
+| 4-10 | Le sort est annulé. A la place, un tas de confettis est expulsé des doigts du lanceur. |
+| 11-16 | Le sort est figé pendant 1d6 tours (jeté en secret par le MD) et est ensuite lancé avec de nouveaux objectifs et/ou orientations aléatoires. |
+| 17-20 | Le sort se réfléchit sur le lanceur. Si le sort a une seule cible, le lanceur est la nouvelle cible. S'il a plusieurs cibles, toutes les cibles, sauf une sont choisies au hasard, et le lanceur est la dernière cible. Si l'effet du sort a une zone, elle est centrée sur le lanceur. |
+
 #### Anneau de peau de pierre
 
 *Anneau, très rare*
+
+En portant cet anneau, vous gagnez une résistance aux dégâts tranchants et perçants, et votre vitesse est réduite de 3 mètres.
 
 #### Anneau du passe-partout
 
@@ -929,13 +1120,31 @@ Si le filet est retourné, son contenu se répand, indemne, mais le sac doit êt
 
 *Anneau, peu courant*
 
-#### Toge d'apprentie de Ah
+\page
+
+#### Robe d'apprentie de Ah
 
 *Objet merveilleux, rare (harmonisation requise)*
 
-#### Toge de sorcière de Ah
+Cette robe rouge est faite d'un tissu magnifique orné de runes argentées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Ah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe d'apprentie de Ah si vous n'êtes pas au moins une sorcière de Ah de niveau 7.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 12 + votre modificateur de Dextérité.
+* Le DD des sorts que vous lancez, à partir de la liste de la Maison de Ah, augmente de 1.
+
+#### Robe de sorcière de Ah
 
 *Objet merveilleux, très rare (harmonisation requise)*
+
+Cette robe rouge est faite d'un tissu magnifique orné de runes argentées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Ah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe de sorcière de Ah si vous n'êtes pas au moins une sorcière de Ah de niveau 13.
+
+En portant cette robe, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 13 + votre modificateur de Dextérité.
+* Votre DD de sauvegarde de sort et votre bonus d'attaque de sort augmentent chacun de 1.
+* Vous avez l'avantage sur vos jets de sauvegarde contre les sorts de l'école d'enchantement.
+* Vous avez une résistance aux dégâts d'acides et radiants.
 
 #### Sceptre d'allié élémentaire
 
@@ -1009,6 +1218,8 @@ Si le filet est retourné, son contenu se répand, indemne, mais le sac doit êt
 
 *Bâton, légendaire (harmonisation requise)*
 
+\page
+
 #### Bâton du guérisseur
 
 *Bâton, rare (harmonisation requise)*
@@ -1029,9 +1240,26 @@ Si le filet est retourné, son contenu se répand, indemne, mais le sac doit êt
 
 *Objet merveilleux, rare (harmonisation requise)*
 
+Ce vêtement noir a l'apparence d'une robe démodée ornée de runes grises. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Chaosah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la tunique d'apprentie de Chaosah si vous n'êtes pas au moins une sorcière de Chaosah de niveau 7.
+
+En portant cette tunique, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 12 + votre modificateur de Dextérité.
+* Le DD des sorts que vous lancez, à partir de la liste de la Maison de Chaosah, augmente de 1.
+
 #### Tunique de sorcière de Chaosah
 
 *Objet merveilleux, très rare (harmonisation requise)*
+
+Ce vêtement noir a l'apparence d'une robe démodée ornée de runes grises. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Chaosah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la tunique de sorcière de Chaosah si vous n'êtes pas au moins une sorcière de Chaosah de niveau 13.
+
+En portant cette tunique, vous obtenez les avantages suivants.
+
+* Si vous ne portez pas d'armure, votre classe d'armure de base est 13 + votre modificateur de Dextérité.
+* Votre DD de sauvegarde de sort et votre bonus d'attaque de sort augmentent chacun de 1.
+* Vous avez l'avantage sur vos jets de sauvegarde contre les sorts de l'école de transmutation.
+* Vous avez une résistance aux dégâts psychiques et de tonnerre.
+
 
 #### Baguette de givre
 
