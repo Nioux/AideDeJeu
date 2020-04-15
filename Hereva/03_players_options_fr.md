@@ -728,3 +728,4 @@ _Prérequis : Maison de sorcellerie autre que Zombiah_
 Même si vous n'êtes pas un étudiant de la Maison de Zombiah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _poigne électrique_. En outre, vous apprenez également _simulacre de vie_ et _ténèbres_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
 
 \page
+

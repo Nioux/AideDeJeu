@@ -770,3 +770,4 @@ Si le corps se trouve dans le même plan, il apparaît devant vous avec tous ses
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant vous terminez sept repos longs.
 
 \page
+

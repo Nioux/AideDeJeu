@@ -318,3 +318,4 @@ Après avoir jeté un sort de cette manière, vous devrez finir un repos long po
 À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus de Réa à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
 
 \page
+

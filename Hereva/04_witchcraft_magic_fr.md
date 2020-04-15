@@ -1515,3 +1515,6 @@ Cet objet fonctionne comme une baguette magique ordinaire en tant que focaliseur
 Ce chaudron ressemble à un vieux chaudron ordinaire, mais une sorcière peut prononcer un mot d'ordre pour en changer la température afin de préparer une potion ou d'y faire cuire des aliments.
 
 Tout produit périssable à l'intérieur du chaudron restera indéfiniment frais jusqu'à ce qu'on le retire.
+
+\page
+
