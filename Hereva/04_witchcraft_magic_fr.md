@@ -777,7 +777,7 @@ Si le filet est retourné, son contenu se répand, indemne, mais le sac doit êt
 
 #### Manteau d'apprentie d'Hippiah
 
-*Objet merveilleux, rare (harmonisation requise)*
+*Objet merveilleux, rare (harmonisation requise avec une sorcière d'Hippiah de niveau 7 ou plus)*
 
 Ce vêtement vert semble avoir été fabriqué de feuilles et d'écorces et orné de runes brunes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Hippiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le manteau d'apprentie d'Hippiah si vous n'êtes pas au moins une sorcière d'Hippiah de niveau 7.
 
@@ -788,7 +788,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 #### Manteau de sorcière d'Hippiah
 
-*Objet merveilleux, très rare (harmonisation requise)*
+*Objet merveilleux, très rare (harmonisation requise avec une sorcière d'Hippiah de niveau 13 ou plus)*
 
 Ce vêtement vert semble avoir été fabriqué de feuilles et d'écorces et orné de runes brunes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Hippiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le manteau de sorcière d'Hippiah si vous n'êtes pas au moins une sorcière d'Hippiah de niveau 13.
 
@@ -821,7 +821,7 @@ Si la sphère est brisée, le demi-plan à l'intérieur est détruit et les cré
 
 #### Robe d'apprentie de Magmah
 
-*Objet merveilleux, rare (harmonisation requise)*
+*Objet merveilleux, rare (harmonisation requise avec une sorcière de Magmah de niveau 7 ou plus)*
 
 Cette robe rose a toujours été à la mode et est ornée de runes rouges. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Magmah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe d'apprentie de Magmah si vous n'êtes pas au moins une sorcière de Magmah de niveau 7.
 
@@ -832,7 +832,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 #### Robe de sorcière de Magmah
 
-*Objet merveilleux, très rare (harmonisation requise)*
+*Objet merveilleux, très rare (harmonisation requise avec une sorcière de Magmah de niveau 13 ou plus)*
 
 Cette robe rose a toujours été à la mode et est ornée de runes rouges. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Magmah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe de sorcière de Magmah si vous n'êtes pas au moins une sorcière de Magmah de niveau 13.
 
@@ -845,7 +845,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 #### Veste d'apprentie de Zombiah
 
-*Objet merveilleux, rare (harmonisation requise)*
+*Objet merveilleux, rare (harmonisation requise avec une sorcière de Zombiah de niveau 7 ou plus)*
 
 Ce vêtement rouge ressemble à une tenue militaire mais est orné de runes dorées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Zombiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la veste d'apprentie de Zombiah si vous n'êtes pas au moins une sorcière de Zombiah de niveau 7.
 
@@ -857,7 +857,7 @@ En portant cette veste, vous obtenez les avantages suivants.
 
 #### Veste de sorcière de Zombiah
 
-*Objet merveilleux, très rare (harmonisation requise)*
+*Objet merveilleux, très rare (harmonisation requise avec une sorcière de Zombiah de niveau 13 ou plus)*
 
 Ce vêtement rouge ressemble à une tenue militaire mais est orné de runes dorées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Zombiah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la veste de sorcière de Zombiah si vous n'êtes pas au moins une sorcière de Zombiah de niveau 13.
 
@@ -910,7 +910,7 @@ La lyre récupère 1d3 de charges dépensées quotidiennement à l'aube. Si vous
 
 #### Maillot d'apprentie d'Aquah
 
-*Objet merveilleux, rare (harmonisation requise)*
+*Objet merveilleux, rare (harmonisation requise avec une sorcière d'Aquah de niveau 7 ou plus)*
 
 Ce vêtement bleu semble être fait d'algues et de corail et orné de runes vertes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Aquah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le maillot d'apprentie d'Aquah si vous n'êtes pas au moins une sorcière d'Aquah de niveau 7.
 
@@ -921,7 +921,7 @@ En portant ce maillot, vous obtenez les avantages suivants.
 
 #### Maillot de sorcière d'Aquah
 
-*Objet merveilleux, très rare (harmonisation requise)*
+*Objet merveilleux, très rare (harmonisation requise avec une sorcière d'Aquah de niveau 13 ou plus)*
 
 Ce vêtement bleu semble être fait d'algues et de corail et orné de runes vertes. Ce vêtement a été créé par des membres de la Maison de Sorcellerie d'Aquah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec le maillot de sorcière d'Aquah si vous n'êtes pas au moins une sorcière d'Aquah de niveau 13.
 
@@ -1108,23 +1108,46 @@ En portant cet anneau, vous gagnez une résistance aux dégâts tranchants et pe
 
 *Anneau, peu courant (harmonisation requise)*
 
+L'anneau a 5 charges. Il récupère 1d4 + 1 charges dépensées par jour à l'aube.
+
+En tant qu'action, vous pouvez dépenser une charge de l'anneau pour qu'une clé magique, translucide et quasi-réelle apparaisse sur l'anneau pour un tour. Vous pouvez l'utiliser pour l'un des effets suivants :
+
+* Vous pouvez toucher un objet avec cette clé. L'objet peut être une porte, une boîte, un coffre, un ensemble de chaînes, un cadenas, ou tout autre objet contenant des dispositifs banals ou magiques qui en interdisent l'accès. Une cible qui est maintenue fermée par un verrou banal ou qui est bloquée ou verrouillée devient débloquée, décoincée ou déverrouillée. Si l'objet a plusieurs serrures, jusqu'à trois d'entre elles sont déverrouillées. Si vous choisissez une cible qui est maintenue fermée avec un _verrou magique_, ce sort est désactivé pendant 10 minutes, pendant lesquelles la cible peut être ouverte et fermée normalement.
+* Vous touchez une porte, une fenêtre, un portail, un coffre ou toute autre entrée fermée, et elle se ferme pour la durée de l'effet. Vous et les créatures que vous désignez lorsque vous dépensez la charge pouvez ouvrir l'objet normalement. Vous pouvez également définir un mot de passe qui, lorsqu'il est prononcé à moins d'un mètre de l'objet, supprime ce sort pendant une minute. Sinon, elle est infranchissable jusqu'à ce qu'elle soit brisée ou que le sort soit dissipé ou supprimé. Lancer _déblocage_ sur l'objet supprime _verrou magique_ pendant 10 minutes.
+
 #### Anneau du psionniste
 
 *Anneau, très rare (harmonisation requise)*
+
+L'anneau a 3 charges. Il récupère 1d3 charges dépensées par jour à l'aube. Les sorts lancés depuis l'anneau ont un DD de 17.
+
+Tout en portant l'anneau, vous pouvez utiliser une action pour dépenser une de ses charges afin de lancer l'un des sorts suivants :
+
+* _Télékinésie_
+* _Lien télépathique_
+* _Détection des pensées_ (DD 17)
 
 #### Anneau du surveillant
 
 *Anneau, courant*
 
+Cet anneau a 3 charges, et il récupère 1d3 charges dépensées par jour à l'aube.
+
+En tant qu'action, vous pouvez dépenser une charge pour choisir un type de créature ou de race humanoïde. Pendant les deux heures qui suivent, chaque fois qu'une des créatures choisies s'approche à 100 pieds ou moins de vous, l'anneau se met à briller et à faire un bruit que seuls vous et vos proches pouvez entendre. Vous pouvez dissimuler le bruit et la lumière en couvrant l'anneau, ou l'arrêter en l'enlevant de votre doigt.
+
+L'anneau ne vous dit pas dans quelle direction ni à quelle distance la créature se trouve de vous.
+
 #### Anneau de respiration aquatique
 
 *Anneau, peu courant*
+
+En portant cet anneau, vous avez une respiration aquatique en plus de votre respiration normale.
 
 \page
 
 #### Robe d'apprentie de Ah
 
-*Objet merveilleux, rare (harmonisation requise)*
+*Objet merveilleux, rare (harmonisation requise avec une sorcière de Ah de niveau 7 ou plus)*
 
 Cette robe rouge est faite d'un tissu magnifique orné de runes argentées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Ah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe d'apprentie de Ah si vous n'êtes pas au moins une sorcière de Ah de niveau 7.
 
@@ -1135,7 +1158,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 #### Robe de sorcière de Ah
 
-*Objet merveilleux, très rare (harmonisation requise)*
+*Objet merveilleux, très rare (harmonisation requise avec une sorcière de Ah de niveau 13 ou plus)*
 
 Cette robe rouge est faite d'un tissu magnifique orné de runes argentées. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Ah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la robe de sorcière de Ah si vous n'êtes pas au moins une sorcière de Ah de niveau 13.
 
@@ -1150,95 +1173,250 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 *Sceptre, rare*
 
+En tenant ce sceptre, vous pouvez utiliser une action pour l'activer. Choisissez une zone d'air, de terre, de feu ou d'eau qui remplit un cube de 3 mètres de côté dans un rayon de 90 mètres. Un élémentaire adapté à la zone que vous avez choisie apparaît dans un espace inoccupé situé à moins de 10 pieds. L'élémentaire disparaît après 1 heure ou lorsqu'il tombe à 0 point de vie.
+
+L'élémentaire invoqué dépend de l'élément de la région :
+
+* Air : Drake venteux
+* Terre : Elémentaire d'argile
+* Feu : Serpent en fusion
+* Eau : Esprit de la rivière
+
+Tant que vous tenez le sceptre, l'élémentaire est amical envers vous et vos compagnons pour la durée de l'effet. Lancer l'initiative pour l'élémentaire, qui a ses propres tours. Il obéit à tout ordre verbal que vous lui donnez (aucune action requise de votre part). Si vous ne lui donnez aucun ordre, l'élémentaire se défend contre les créatures hostiles, mais ne fait rien d'autre.
+
+Vous ne pouvez pas invoquer un autre élémentaire avec cette caractéristique avant que le temps ne soit écoulé ou que l'élémentaire actuel ne meure.
+
+Si vous perdez le sceptre, l'élémentaire ne disparaît pas. Au lieu de cela, vous perdez le contrôle de l'élémentaire, il devient hostile envers vous et vos compagnons, et il peut attaquer. Un élémentaire non contrôlé ne peut pas être renvoyé par vous, et il disparaît 1 heure après que vous l'ayez invoqué.
+
+Vous pouvez trouver les caractéristiques des élémentaires dans l'annexe des monstres à la fin de ce livre.
+
 #### Sceptre de lame fantomatique
 
-*Sceptre, rare (harmonisation requise)*
+*Sceptre, rare (harmonisation requise avec un lanceur de sorts)*
+
+En tenant ce sceptre, vous pouvez utiliser une action pour l'activer. Une lame quasi-réelle émerge du sceptre en forme d'épée longue. Pendant qu'elle est active, vous pouvez utiliser une action pour attaquer une créature à 2 mètres de vous. Vous utilisez votre bonus d'invocation de sorts pour les jets d'attaque et de dégâts. De plus, vous pouvez utiliser la lame pour faire des attaques d'opportunité.
+
+Vous pouvez utiliser une action pour désactiver le sceptre.
 
 #### Sceptre de paralysie
 
 *Sceptre, rare (harmonisation requise)*
 
+Ce sceptre a une tête à collerette, et il fonctionne comme une masse magique qui accorde un bonus de +2 aux jets d'attaque et de dégâts effectués avec lui.
+
+Lorsque vous frappez une créature avec une attaque en mêlée en utilisant le sceptre, vous pouvez forcer la cible à faire un jet de sauvegarde de Force DD 15. En cas d'échec, la cible est paralysée pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, ce qui met fin à l'effet sur une réussite. Cette capacité ne peut être réutilisée avant l'aube suivante.
+
 #### Sceptre de perdition
 
 *Sceptre, très rare (harmonisation requise)*
+
+Ce sceptre possède un crâne de bélier à une extrémité. Pendant que vous tenez le sceptre, vous pouvez utiliser une action pour maudire une créature. Choisissez une créature que vous pouvez voir à une distance maximale de 15 pieds et cette créature doit réussir un jet de sauvegarde de Sagesse (DC 15) ou devenir maudite pendant une minute.
+
+Lorsque vous utilisez cette capacité, choisissez la nature de la malédiction parmi les options suivantes :
+
+* Choisissez un score de caractéristique. Pendant la malédiction, la cible a un désavantage sur les tests de caractéristique et les jets de sauvegarde effectués avec ce score de caractéristique.
+* Tant qu'elle est maudite, la cible est désavantagée à ses jets d'attaque contre vous.
+* Tant qu'elle est maudite, la cible doit faire un jet de sauvegarde de Sagesse au début de chacun de ses tours. Si elle échoue, elle gaspille son action qui tourne à l'inaction.
+* Tant que la cible est maudite, vos attaques et vos sorts infligent 1d8 dégâts nécrotiques supplémentaires à la cible.
+
+Un sort _lever une malédiction_ met fin à cet effet.
+
+Une fois que vous avez utilisé cet effet sur une créature, vous ne pouvez plus la cibler à nouveau pendant 24 heures.
+
+\page
 
 #### Sceptre de la licorne
 
 *Sceptre, légendaire*
 
+Ce sceptre de bois est muni d'une ventouse à une extrémité. Vous pouvez utiliser une action pour attacher le sceptre au front d'une créature volontaire. La cible se transforme en licorne indéfiniment.
+
+Les caractéristiques de jeu de la cible, y compris ses caractéristiques mentales sont remplacées par les caractéristiques de la licorne. Elle conserve son alignement et sa personnalité.
+
+La cible prend les points de vie de sa nouvelle forme. Lorsqu'elle revient à sa forme normale, la créature reprend le nombre de points de vie qu'elle avait avant de se transformer. Si elle revient à la suite d'une chute à 0 point de vie, toute les dégâts excessifs se reportent sur sa forme normale. Tant que l'excès de dégâts ne réduit pas la forme normale de la créature à 0 point de vie, elle n'est pas inconsciente.
+
+La créature est limitée dans les actions qu'elle peut effectuer par la nature de sa nouvelle forme.
+
+Les équipements de la cible se fondent dans la nouvelle forme. La créature ne peut pas activer, utiliser, manier ou bénéficier d'une autre manière de l'un de ses équipements.
+
+En tant qu'action, la cible peut mettre fin à l'effet et le sceptre tombe de son front.
+
 #### Sceptre du vampire
 
 *Sceptre, rare (harmonisation requise)*
+
+Ce sceptre a une tête arrondie, et il fonctionne comme une masse magique qui accorde un bonus de +2 aux jets d'attaque et de dégâts effectués avec lui.
+
+Lorsque vous frappez une créature lors d'une attaque en mêlée à l'aide du sceptre, vous pouvez forcer la cible à effectuer un jet de sauvegarde de Constitution DD 15. En cas d'échec, la cible subit 4d6 dégâts nécrotiques supplémentaires et vous récupérez un nombre de points de vie égal à la moitié de ces dégâts nécrotiques. Cette capacité ne peut pas être réutilisée avant l'aube suivante.
 
 #### Parchemin d'alarme
 
 *Parchemin, courant*
 
+Ce parchemin active un sceau d'alarme. Vous pouvez écrire une condition de déclenchement, il peut s'agir d'une créature entrant dans une zone, d'un objet quittant sa place, etc. Lorsque le parchemin se déclenche, il se transforme en un objet qui plane et se déplace vers vous, jusqu'à un mile si possible, afin que vous sachiez que l'alarme a été déclenchée. L'objet peut éviter les obstacles, mais ne peut pas les franchir.
+
 #### Parchemin de découverte
 
 *Parchemin, peu courant*
+
+Décrivez ou nommez une créature ou un objet qui vous est familier. Le parchemin devient une carte qui marque le chemin vers ce que vous cherchez.
+
+Le parchemin peut localiser une créature ou un objet spécifique connu de vous, ou la créature la plus proche d'un type spécifique (comme un humain ou une licorne), à condition que vous ayez vu une telle créature de près - à moins de 30 pieds - au moins une fois.
+
+Lorsque vous vous approchez de 15 pieds ou moins de la créature ou de l'objet que vous recherchez, la carte se transforme en cendres et disparaît.
 
 #### Parchemin de protection
 
 *Parchemin, courant*
 
+Lorsque vous utilisez ce parchemin, vous choisissez une créature consentante à une distance de 30 pieds de vous. Pendant une heure, la créature consentante résiste aux dommages causés par l'acide, le froid, le feu, la foudre et le tonnerre.
+
 #### Parchemin de combustion ralentie
 
 *Parchemin, peu courant*
+
+Pour utiliser ce parchemin, il faut l'allumer avec du feu. Le parchemin brûlera très lentement et fonctionnera comme une torche jusqu'à 3 heures. Pendant que le parchemin brûle, vous pouvez utiliser une action pour le lancer contre une créature, ce qui fait exploser le parchemin et le fait disparaître. La créature doit effectuer un jet de sauvegarde de Dextérité (DD 13). En cas d'échec, elle subit 6d6 dégâts de feu, ou la moitié de ces dégâts en cas de succès.
 
 #### Parchemin du pélican
 
 *Parchemin, peu courant*
 
+Lorsque vous utilisez ce parchemin, vous nommez un lieu que vous connaissez dans un rayon de 30 miles. Le parchemin se transforme en un pélican géant en origami qui peut porter jusqu'à 4 créatures moyennes, 2 grandes créatures ou une énorme créature. Le pélican en papier vole à une vitesse de 1 mile par 30 miles par heure jusqu'au point que vous avez nommé en transportant les créatures sur lui.
+
+Le voyage est plutôt confortable, mais l'atterrissage est catastrophique. Le pélican s'écrase toujours et brûle, et se transforme en cendres. Chaque passager doit faire un jet de sauvegarde de Dextérité (DD 13), sur un échec il subit 4d6 dégâts contondants, ou la moitié de ces dégâts sur un succès. Mais ils arrivent à destination.
+
 #### Parchemin de contrôle des morts-vivants
 
 *Parchemin, peu courant*
+
+Si vous avez des morts-vivants sous votre contrôle, vous pouvez utiliser ce parchemin pour reprendre le contrôle sur chacun d'entre eux pendant encore 24 heures, au lieu de lancer à nouveau le sort qui les a créés.
 
 #### Bâton de fouille
 
 *Bâton, peu courant*
 
+Ce bâton en bois est muni d'une pelle à une extrémité et d'un manche à l'autre bout.
+
+Vous pouvez utiliser le bâton de fouille pour faire un trou dans le sol en 1 minute, ou 2 minutes si c'est dur comme de la roche. Les capacités de fouille du bâton ne permettent pas de travailler sur des structures bâties comme des maisons et des ponts en surface, mais il fonctionne toujours sous terre.
+
+En utilisant la même quantité de terre, vous pouvez remplir 5 pieds cubiques d'un trou en 1 action. En utilisant la même quantité de pierres vous pouvez remplir de 5 pieds cubiques en 2 tours.
+
+L'utilisation de cette capacité ne nécessite pas beaucoup d'efforts physiques de votre part, et ne provoque pas de fatigue.
+
+\page
+
 #### Bâton de piste de feu
 
 *Bâton, rare (harmonisation requise)*
 
-#### Bâton de glisse
+Lorsque vous marchez en tenant ce bâton, vous pouvez lui faire toucher le sol. Le bâton laissera une traînée de feu à l'endroit où il touchera le sol. Le feu formera un mur qui durera une minute.
+
+La piste de feu inflige 3d8 dégâts de feu à chaque créature qui termine son tour à moins de 3 mètres d'elle ou à l'intérieur du mur. Une créature subit les mêmes dégâts lorsqu'elle entre pour la première fois dans le mur lors d'un tour ou qu'elle y termine son tour.
+
+#### Bâton de planage
 
 *Bâton, peu courant (harmonisation requise)*
 
+Ce bâton peut être manié comme un bâton magique qui accorde un bonus de +1 aux jets d'attaque et de dégâts effectués avec lui.
+
+En réaction, vous pouvez activer le bâton pour lui faire pousser deux ailes de chauve-souris. En cas de chute libre, vous pouvez utiliser le bâton activé pour planer. Vous tombez alors de 10 pieds à chaque tour et vous avancez de 30 pieds à chaque tour. En planant, vous pouvez utiliser une action pour tourner jusqu'à 90 degrés, et disposez sinon d'une main libre pour faire d'autres actions.
+
 #### Bâton de glace
 
-*Bâton, très rare (harmonisation requise)*
+*Bâton, très rare (harmonisation requise avec un lanceur de sorts)*
+
+Vous avez une résistance aux dégâts de froid lorsque vous tenez ce bâton.
+
+Le bâton a 10 charges. Pendant que vous le tenez, vous pouvez utiliser une action pour dépenser une ou plusieurs de ses charges afin de lui faire lancer un des sorts suivants, en utilisant votre DD de sauvegarde de sort :
+
+* _Tempête de grêle_ (4 charges)
+* _Cône de froid_ (5 charges)
+* _Mur de glace_ (6 charges)
+
+Le bâton récupère 1d6 + 4 charges dépensées quotidiennement à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un 1, le bâton est gelé, tombe, et est détruit.
 
 #### Bâton d'acrobate
 
 *Bâton, peu courant (harmonisation requise)*
 
+Ce bâton peut être manié comme un bâton magique qui accorde un bonus de +1 aux jets d'attaque et de dégâts effectués avec lui.
+
+En tenant le bâton, vous avez l'avantage pour vos tests de Dextérité (acrobaties). Vous avez également l'avantage pour vos tests de Force (athlétisme) pour sauter.
+
 #### Bâton du Ténébreux
 
-*Bâton, légendaire (harmonisation requise)*
+*Bâton, légendaire (harmonisation requise avec un lanceur de sorts)*
 
-\page
+Ce bâton a 10 charges et récupère 1d6 + 4 charges dépensées quotidiennement à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un 1, un essaim d'asticots dévore et détruit le bâton, puis se disperse.
+
+En tenant le bâton, vous pouvez utiliser une action pour dépenser une partie de ses charges pour lui faire lancer un des sorts suivants, en utilisant votre DD de sauvegarde de sort :
+
+* _Fléau_ (1 charge)
+* _Jeter une malédiction_ (3 charges)
+* _Nuage mortel_ (5 charges)
+* _Contamination_ (6 accusations)
+
+Quand vous tenez le bâton, le sol s'assombrit autour de vous, et de sombres tentacules jaillissent du sol. Une zone de 15 pieds de rayon centrée sur vous est considérée comme un terrain difficile, même pour vous.
+
+Lorsqu'une autre créature pénètre pour la première fois dans la zone affectée lors d'un tour ou y commence son tour, la créature doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts nécrotiques et être retenue. Une créature qui commence son tour dans la zone et qui est déjà retenue par les tentacules subit 3d6 dégâts contondants.
+
+Une créature retenue par les tentacules peut utiliser son action pour faire un test de Force ou de Dextérité (son choix) contre votre DD de sauvegarde de sort. En cas de succès, elle se libère.
+
+Cette propriété ne s'arrête pas tant que le bâton est harmonisé avec vous, même lorsque vous dormez.
 
 #### Bâton du guérisseur
 
 *Bâton, rare (harmonisation requise)*
 
+Ce bâton a 10 charges. Ce bâton peut être utilisé comme un bâton magique qui accorde un bonus de +1 à l'attaque et aux jets de dégâts faits avec.
+
+Ce bâton divin ne peut faire de mal à personne. Sur un touché, calculez les dégâts que vous feriez normalement, mais le bâton guérira à la place comme par magie les dégâts causés à la cible.
+
+De plus, tout en le tenant, vous pouvez utiliser une action pour dépenser une ou plusieurs de ses charges pour soigner des blessures (1 par niveau de sort, jusqu'au 4e).
+
+Le bâton récupère 1d6 + 4 charges dépensées par jour à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un 1, le bâton disparaît dans un éclair de lumière, perdu à jamais.
+
 #### Bâton du sage
 
 *Bâton, rare (harmonisation requise)*
 
+Ce bâton peut être manié comme un bâton magique qui accorde un bonus de +1 aux jets d'attaque et de dégâts effectués avec lui.
+
+En le tenant, vous obtenez un bonus de +1 pour la classe d'armure, les jets de sauvegarde et les jets d'attaque de sorts.
+
+En outre, vous comprenez le sens littéral de toute langue parlée que vous entendez. Vous comprenez également toute langue écrite que vous voyez, mais vous devez toucher la surface sur laquelle les mots sont écrits. Il faut environ 1 minute pour lire une page de texte.
+
+\page
+
 #### Bâton du berger
 
-*Bâton, rare (harmonisation requise)*
+*Bâton, rare (harmonisation requise avec un lanceur de sorts)*
+
+Ce bâton peut être manié comme un bâton magique qui accorde un bonus de +2 aux jets d'attaque et de dégâts effectués avec. Pendant que vous le tenez, vous bénéficiez d'un bonus de +2 aux jets d'attaque de sorts. 
+
+Le bâton a 10 charges avec les capacités suivantes. Il récupère 1d6 + 4 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un 1, le bâton perd ses capacités et devient un bâton non magique.
+
+Vous pouvez utiliser une action pour dépenser 1 ou plusieurs charge pour qu'il lance l'un des sorts suivants, en utilisant votre DD de sauvegarde de sort :
+
+* _Dominer une bête_ (4 charges)
+* _Dominer un humanoïde_ (5 charges)
+* _Dominer un monstre_ (8 charges)
+
+En tenant le bâton, vous avez l'avantage dans tous tests de compétences basés sur le Charisme.
 
 #### Bâton du tonnerre
 
 *Bâton, très rare (harmonisation requise)*
 
+Ce bâton a 10 charges et récupère 1d6 + 4 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge, lancez a d20. Sur un 1, il se réduit en cendres.
+
+En tant qu'action, vous pouvez dépenser une charge et frapper le au sol avec le bâton. Une vague de force tonnante balaye tout à partir du coup. Chaque créature dans un cube de 15 pieds originaire de votre emplacement doit faire un jet de sauvegarde de Constitution (DD 15). Lors d'une sauvegarde ratée, une créature prend 2d8 dégâts de tonnerre et est repoussée à 3 mètres de vous. Sur une sauvegarde réussie, la créature ne prend que la moitié des dégâts et n'est pas poussée.
+
+Vous pouvez également utiliser une action et dépenser jusqu'à 5 charges du bâton pour lancer _appel de la foudre_ (1 charge par niveau de sort jusqu'au 5e).
+
 #### Tunique d'apprentie de Chaosah
 
-*Objet merveilleux, rare (harmonisation requise)*
+*Objet merveilleux, rare (harmonisation requise avec une sorcière de Chaosah de niveau 7 ou plus)*
 
 Ce vêtement noir a l'apparence d'une robe démodée ornée de runes grises. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Chaosah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la tunique d'apprentie de Chaosah si vous n'êtes pas au moins une sorcière de Chaosah de niveau 7.
 
@@ -1249,7 +1427,7 @@ En portant cette tunique, vous obtenez les avantages suivants.
 
 #### Tunique de sorcière de Chaosah
 
-*Objet merveilleux, très rare (harmonisation requise)*
+*Objet merveilleux, très rare (harmonisation requise avec une sorcière de Chaosah de niveau 13 ou plus)*
 
 Ce vêtement noir a l'apparence d'une robe démodée ornée de runes grises. Ce vêtement a été créé par des membres de la Maison de Sorcellerie de Chaosah et est destiné à être utilisé uniquement par eux. Vous ne pouvez pas vous mettre en harmonie avec la tunique de sorcière de Chaosah si vous n'êtes pas au moins une sorcière de Chaosah de niveau 13.
 
@@ -1263,15 +1441,32 @@ En portant cette tunique, vous obtenez les avantages suivants.
 
 #### Baguette de givre
 
-*Baguette, rare (harmonisation requise)*
+*Baguette, rare (harmonisation requise avec un lanceur de sorts)*
+
+Cette baguette a 7 charges pour les capacités suivantes. Elle récupère 1d6 + 1 charges par jour à l'aube. Si vous dépensez la dernière charge de la baguette, lancez un d20. Sur un 1, la baguette gèle et se brise en morceaux.
+
+En tenant la baguette, vous pouvez lancer _rayon de givre_ à volonté.
+
+En tant qu'action, vous pouvez dépenser 3 charges ou plus pour créer un cône de givre devant vous. Chaque créature dans le cône de givre de 60 pieds doit faire un jet de sauvegarde de Constitution. La créature subit 5d8 dégâts de froid lors d'une sauvegarde ratée, ou la moitié des dégâts sur un succès. Les dégâts causés par le cône de givre augmentent de 1d8 pour chaque charge dépensée au-dessus de 3.
 
 #### Baguette de lumière
 
 *Baguette, peu courant*
 
+Comme action, vous pouvez activer cette baguette, en faisant briller son extrémité pointue. La baguette émet une lumière brillante dans un rayon de 20 pieds et une lumière faible sur une distance supplémentaire de 20 pieds. La lumière peut être colorée comme vous le souhaitez. Couvrir complètement la baguette avec quelque chose d'opaque bloque la lumière.
+
+Vous pouvez mettre fin à l'effet grâce à une action bonus ou une réaction.
+
 #### Baguette de la nature
 
 *Baguette, rare (harmonisation requise)*
+
+En tenant la baguette, vous avez l'avantage sur vos tests de caractéristiques de Sagesse (survie), et vous pouvez utiliser une action pour lancer l'un des sorts suivants :
+
+* _Amitié avec les animaux_
+* _Druidisme_
+* _Détection du poison et des maladies_
+* _Communication avec les animaux_
 
 \page
 
@@ -1279,18 +1474,44 @@ En portant cette tunique, vous obtenez les avantages suivants.
 
 *Baguette, très rare (harmonisation requise)*
 
+En tenant la baguette, vous avez l'avantage sur vos jets de sauvegarde contre les sorts.
+
+En outre, vous pouvez utiliser votre réaction lorsqu'une autre créature jette un sort qui ne vise que vous. Si vous le faites, lancez un d10 :
+
+* Si le résultat est un 10, le sort est absorbé, ses effets annulés, et il est stocké dans la baguette.
+* Si le résultat est un 1, la baguette explose, perd toute sa magie, et vous subissez 2d6 dégâts de Force.
+* Dans tout autre résultat, les effets du sort sont annulés.
+
+Si un sort est stocké dans la baguette, et qu'un autre sort est absorbé avec cette capacité, la baguette explose, perd tout sa magie, et les deux sorts sont lancés sur vous en même temps.
+
+Vous pouvez utiliser une action pour lancer un sort stocké dans la baguette.
+
 #### Baguette du maître des invocations
 
-*Baguette, peu courant (harmonisation requise)*
+*Baguette, peu courant (harmonisation requise avec un lanceur de sorts)*
+
+En tant qu'action, vous pouvez dessiner un symbole magique sur le sol couvrant une surface de 5 pieds carrés. Le symbole s'illumine en rouge pendant 1 minute et disparaît ensuite. Pendant que le symbole brille, si vous pouvez lancer un sort d'invocation qui invoque une créature sur le symbole, la durée du sort est doublée. De plus, la créature invoquée a +2 sur ses jets d'attaque et de dégâts.
 
 #### Bâton de saule
 
-*Bâton, rare (harmonisation requise)*
+*Bâton, rare (harmonisation requise avec une sorcière d'Hereva)*
+
+Ce bâton peut être manié comme un bâton magique qui accorde un bonus de +2 aux jets d'attaque et de dégâts effectués avec. Pendant que vous le tenez, vous bénéficiez d'un bonus de +2 aux jets d'attaque de sorts.
+
+Le bâton a 10 charges pour les capacités suivantes. Il récupère 1d6 + 4 charges dépensées chaque jour à l'aube. Si vous dépensez la dernière charge, lancez un d20. Sur un 1, le bâton perd ses capacités et devient un bâton non magique.
+
+Vous pouvez utiliser une action pour dépenser 1 ou plusieurs des charges du bâton pour jeter un sort de votre liste de sorts de votre maison de sorcellerie jusqu'au niveau 5 (1 charge par niveau de sort).
 
 #### Baguette de saule
 
 *Baguette, rare (harmonisation requise)*
 
+Cet objet fonctionne comme une baguette magique ordinaire en tant que focaliseur d'incantation. En outre, la baguette a la capacité de pointer un rayon de lumière de la couleur de votre choix. Lorsque vous lancez un sort qui nécessite une attaque magique à distance, vous obtenez un bonus de +2 au jet d'attaque.
+
 #### Chaudron de sorcière
 
 *Objet merveilleux, peu courant*
+
+Ce chaudron ressemble à un vieux chaudron ordinaire, mais une sorcière peut prononcer un mot d'ordre pour en changer la température afin de préparer une potion ou d'y faire cuire des aliments.
+
+Tout produit périssable à l'intérieur du chaudron restera indéfiniment frais jusqu'à ce qu'on le retire.
