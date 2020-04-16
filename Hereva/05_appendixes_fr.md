@@ -377,11 +377,77 @@ La tortue abyssale est un énorme monstre amphibie noir qui vit dans les profond
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
 
+___
+___
+> ## Tortue abyssale
+> *Créature monstrueuse de Très Grande taille, Neutre Mauvais*
+> ___
+> - **Classe d'armure** 15 (armure naturelle)
+> - **Points de vie** 171 (18d12 + 54)
+> - **Vitesse** 9 m, nage 18 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 20 (+5) | 10 (+0) | 16 (+3) | 10 (+0) | 12 (+1) | 12 (+1) |
+> ___
+> - **Jets de sauvegarde** Dex +3, Con +6, Sag +4
+> - **Compétences** Athlétisme +8, Perception +4
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de froid, de poison
+> - **Immunité contre les états** terrorisé, à terre
+> - **Sens** vision aveugle 9 m, vision dans le noir 36 m, Perception passive +9
+> - **Langues** comprend l'abyssal, sylvestre, télépathie 36 m, mais ne peut pas parler
+> - **Dangerosité** 8 (3 900 PX)
+> ___
+> ***Amphibie.*** La tortue abyssale peut respirer à l'air libre et sous l'eau.
+> ### Actions
+> ***Attaque multiple.*** La tortue abyssale peut faire 3 attaques : une avec sa morsure et deux avec ses griffes. Elle peut faire une attaque de queue à la place de ses deux attaques de griffe.
+>
+> ***Morsure acide.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 3 m, une cible. _Touché_ : 22 (5d6+5) dégâts perforants plus 13 (3d8) dégâts d'acide.
+>
+> ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 1,50 m, une cible. _Touché_ : 9 (1d8+5) dégâts tranchants.
+>
+> ***Queue géante.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 4,50 m, une cible. _Touché_ : 10 (1d10+5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être projetée à 3 mètres de la tortue abyssale et jetée au sol.
+
+\page
+
 ## Golem antique
 
 Le Golem antique est une créature créée par une ancienne civilisation dans les forêts d'Hereva. Il est principalement constitué de roches et d'herbe. Il est très calme et inoffensif, mais il protège toujours la nature sauvage contre ceux qui tentent de la détruire.
 
 C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
+
+___
+___
+> ## Golem antique
+> *Elémentaire de Grande taille, Neutre*
+> ___
+> - **Classe d'armure** 15 (armure naturelle)
+> - **Points de vie** 92 (8d10 + 48)
+> - **Vitesse** 6 m, fouissement 6 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
+> ___
+> - **Jets de sauvegarde** Sag +2
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** d'acide
+> - **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive +10
+> - **Langues** terran
+> - **Dangerosité** 3 (700 PX)
+> ___
+> ***Traverser la terre.*** Le golem antique peut creuser à travers la terre et la pierre non travaillées et non magiques. Quand il se déplace ainsi, il ne laisse ni trace ni tunnel derrière lui.
+>
+> ***Camouflage dans la rocaille.*** Le golem antique est avantagé lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux.
+> ### Actions
+> ***Attaque multiple.*** Le golem antique peut faire 3 attaques de griffe et une attaque de morsure.
+>
+> ***Coup.*** _Attaque d'arme au corps-à-corps_ : +5 pour toucher, allonge 1,50 m, une cible. _Touché_ : 13 (3d6+3) dégâts contondants.
+> ### Réactions
+> ***Parade.*** Le golem antique ajoute 2 à sa CA lorsqu'il est la cible d'une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer ainsi.
+
+\page
 
 ## Démons de Chaosah
 
@@ -389,9 +455,56 @@ C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
 
 Hornük est un Démon de Chaosah qui vit dans la dimension de Chaosah. Son corps est recouvert d'une fourrure verte, et il possède deux grandes cornes et des griffes acérées.
 
+___
+___
+> ## Hornük
+> *Fiélon (démon de Chaosah) de Grande taille, non aligné*
+> ___
+> - **Classe d'armure** 15 (armure naturelle)
+> - **Points de vie** 152 (16d10 + 64)
+> - **Vitesse** 12 m, Vol 18 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 18 (+4) | 15 (+2) | 18 (+4) | 8 (-1) | 13 (+1) | 13 (+1) |
+> ___
+> - **Jets de sauvegarde** Dex +5, Sag +4, Cha +4
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de poison
+> - **Immunité contre les états** empoisonné
+> - **Sens** vision dans le noir 36 m, Perception passive +11
+> - **Langues** abyssal, télépathie 36 m
+> - **Dangerosité** 6 (2 300 PX)
+> ___
+> ***Résistance à la magie.*** Le fiélon est avantagé lors des jets de sauvegarde contre les sorts et autres effets magiques.
+>
+> ***Agressif.*** Par une action bonus, le fiélon peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
+>
+> ***Ruée de taureau.*** Lorsque le fiélon se déplace d'au moins 9 mètres avant d'utiliser son action d'attaque, il peut changer son attaque coup de défense pour une ruée de coups.
+>
+> ***Points de Réa.*** Le fiélon dispose de 6 points de Réa. Il récupère tout son Réa dépensé après un repos long.
+>
+> ***Magie de Chaosah innée.*** Le fiélon peut dépenser un point de Réa pour lancer un des sorts suivants comme un sort de niveau 2 de manière innée, sans utiliser de composantes matérielles. Sa caractéristique d'incantation innée est le Charisme (DD du jet de sauvegarde contre les sorts : 12).
+>
+> Niveau 1 : _fou rire_, _graisse_  
+> Niveau 2 : _toile d'araignée_, _briser_
+> ### Actions
+> ***Attaque multiple.*** Le fiélon peut faire 3 attaques : une avec son attaque coup de défense et deux avec ses griffes.
+>
+> ***Coup de défense.*** _Attaque d'arme au corps-à-corps_ : +7 pour toucher, allonge 3 m, une cible. _Touché_ : 20 (3d10+4) dégâts perforants.
+>
+> ***Ruée de coups.*** _Attaque d'arme au corps-à-corps_ : +7 pour toucher, allonge 12 m, une cible. _Touché_ : 20 (3d10+4) dégâts perforants. La cible doit réussir un jet de sauvegarde de Force DD 15 pour ne pas être jetée au sol.
+>
+> ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +7 pour toucher, allonge 3 m, une cible. _Touché_ : 18 (4d6+4) dégâts tranchants.
+
+
+\page
+
 ### Eyeük
 
 Eyeük est un démon de Chaosah au mauvais caractère. Les anciens de sa race sont parmi les démons les plus puissants du plan de Chaosah. Ce démon a une fourrure rouge sur tout le corps et quatre yeux sur le visage.
+
+\page
 
 ### Spidük
 
@@ -399,37 +512,55 @@ Eyeük est un démon de Chaosah au mauvais caractère. Les anciens de sa race so
 
 C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
 
+\page
+
 ## Citrouille maléfique
 
 Cette monstruosité maléfique a un corps fait de vignes et une citrouille brillante pour tête. Au combat, elle a tendance à rire comme si elle s'amusait. Vous pouvez créer une de ces créatures avec le sort _création d'une citrouille maléfique_.
+
+\page
 
 ## Ancienne citrouille maléfique
 
 C'est une ancienne et plus diabolique version de la citrouille maléfique. Ces créatures vicieuses gagnent en puissance au fil du temps. Lorsqu'elles vivent pendant des décennies, elles deviennent aussi puissantes qu'une ancienne citrouille maléfique.
 
+\page
+
 ## Chauve-souris flottante
 
 C'est le monstre que vous invoquez avec le sort _chauve-souris espionne_.
+
+\page
 
 ## Génie du succès
 
 Ce génie à l'allure amusante, joyeuse et optimiste a le corps d'un tigre anthropomorphe avec une tête de morse et d'énormes défenses. Vous pouvez trouver ces génies, originaires du plan élémentaire du feu, maudits et attachés à une lampe magique. Un Génie du succès n'est pas toujours mauvais, mais il tentera de tromper le propriétaire de sa lampe en lui promettant du succès en échange de la signature d'un contrat.
 
+\page
+
 ## Baleine géante
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
+
+\page
 
 ## Kraken d'Hereva
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
 
+\page
+
 ## Méga-requin
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
 
+\page
+
 ## Primal One
 
 C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
+
+\page
 
 ## Serpent d'eau élémentaire
 
