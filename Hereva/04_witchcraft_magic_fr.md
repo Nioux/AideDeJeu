@@ -1492,6 +1492,9 @@ Vous pouvez utiliser une action pour lancer un sort stocké dans la baguette.
 
 En tant qu'action, vous pouvez dessiner un symbole magique sur le sol couvrant une surface de 5 pieds carrés. Le symbole s'illumine en rouge pendant 1 minute et disparaît ensuite. Pendant que le symbole brille, si vous pouvez lancer un sort d'invocation qui invoque une créature sur le symbole, la durée du sort est doublée. De plus, la créature invoquée a +2 sur ses jets d'attaque et de dégâts.
 
+<div style='margin-top:500px'></div>
+
+
 #### Bâton de saule
 
 *Bâton, rare (harmonisation requise avec une sorcière d'Hereva)*
@@ -1516,5 +1519,6 @@ Ce chaudron ressemble à un vieux chaudron ordinaire, mais une sorcière peut pr
 
 Tout produit périssable à l'intérieur du chaudron restera indéfiniment frais jusqu'à ce qu'on le retire.
 
-\page
+<img src='https://framagit.org/peppercarrot/webcomics/-/raw/master/ep01_Potion-of-Flight/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E01.png' style='position:absolute;top:560px;left:0px;width:816px' />
+
 
