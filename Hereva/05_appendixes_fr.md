@@ -504,9 +504,98 @@ ___
 
 Eyeük est un démon de Chaosah au mauvais caractère. Les anciens de sa race sont parmi les démons les plus puissants du plan de Chaosah. Ce démon a une fourrure rouge sur tout le corps et quatre yeux sur le visage.
 
+___
+___
+> ## Eyeük
+> *Fiélon (démon de Chaosah) de Grande taille, non aligné*
+> ___
+> - **Classe d'armure** 17 (armure naturelle)
+> - **Points de vie** 147 (14d10 + 70)
+> - **Vitesse** 12 m, Vol 18 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 24 (+7) | 17 (+3) | 20 (+5) | 10 (+0) | 15 (+2) | 15 (+2) |
+> ___
+> - **Jets de sauvegarde** Dex +6, Sag +5, Cha +5
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de poison
+> - **Immunité contre les états** empoisonné
+> - **Sens** vision dans le noir 36 m, Perception passive +12
+> - **Langues** abyssal, télépathie 36 m
+> - **Dangerosité** 7 (2 900 PX)
+> ___
+> ***Résistance à la magie.*** Le fiélon est avantagé lors des jets de sauvegarde contre les sorts et autres effets magiques.
+>
+> ***Agressif.*** Par une action bonus, le fiélon peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
+>
+> ***Frénésie sanguinaire.*** Le fiélon est avantagé lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+>
+> ***Ouïe et vue aiguisés.*** Le fiélon est avantagé lors des tests de Sagesse (Perception) basés sur l'ouïe ou la vue.
+>
+> ***Points de Réa.*** Le fiélon dispose de 7 points de Réa. Il récupère tout son Réa dépensé après un repos long.
+>
+> ***Magie de Chaosah innée.*** Le fiélon peut dépenser un point de Réa pour lancer un des sorts suivants comme un sort de niveau 3 de manière innée, sans utiliser de composantes matérielles. Sa caractéristique d'incantation innée est le Charisme (DD du jet de sauvegarde contre les sorts : 13).
+>
+> Niveau 1 : _fou rire_, _graisse_  
+> Niveau 2 : _toile d'araignée_, _briser_
+> ### Actions
+> ***Attaque multiple.*** Le fiélon peut faire 3 attaques : une avec sa morsure et deux avec ses griffes.
+>
+> ***Morsure.*** _Attaque d'arme au corps-à-corps_ : +10 pour toucher, allonge 3 m, une cible. _Touché_ : 18 (2d10+7) dégâts perforants.
+>
+> ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +10 pour toucher, allonge 3 m, une cible. _Touché_ : 14 (2d6+7) dégâts tranchants.
+>
+> ***Trident du Chaos.*** _Attaque d'arme au corps-à-corps_ : +10 pour toucher, allonge 3 m, une cible. _Touché_ : 29 (5d8+7) dégâts perforants et 22 (4d10) dégâts de foudre.
+
+
 \page
 
 ### Spidük
+
+___
+___
+> ## Spidük
+> *Fiélon (démon de Chaosah) de Grande taille, non aligné*
+> ___
+> - **Classe d'armure** 18 (armure naturelle)
+> - **Points de vie** 136 (13d10 + 65)
+> - **Vitesse** 12 m, Vol 18 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 21 (+5) | 19 (+4) | 20 (+5) | 8 (-1) | 15 (+2) | 13 (+1) |
+> ___
+> - **Jets de sauvegarde** Dex +7, Sag +5, Cha +4
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de poison
+> - **Immunité contre les états** empoisonné
+> - **Sens** vision dans le noir 36 m, Perception passive +12
+> - **Langues** abyssal, télépathie 36 m
+> - **Dangerosité** 7 (2 900 PX)
+> ___
+> ***Résistance à la magie.*** Le fiélon est avantagé lors des jets de sauvegarde contre les sorts et autres effets magiques.
+>
+> ***Agressif.*** Par une action bonus, le fiélon peut se déplacer d'une distance maximale égale à sa vitesse vers une créature hostile dans son champ de vision.
+>
+> ***Perception sur les toiles.*** Tant qu'il est en contact avec une toile d'araignée, le fiélon connaît l'exacte position de toutes les autres créatures en contact avec la même toile.
+>
+> ***Marche dans les toiles.*** Le fiélon ignore les restrictions de déplacement imposées par les toiles d'araignées.
+>
+> ***Points de Réa.*** Le fiélon dispose de 7 points de Réa. Il récupère tout son Réa dépensé après un repos long.
+>
+> ***Magie de Chaosah innée.*** Le fiélon peut dépenser un point de Réa pour lancer un des sorts suivants comme un sort de niveau 3 de manière innée, sans utiliser de composantes matérielles. Sa caractéristique d'incantation innée est le Charisme (DD du jet de sauvegarde contre les sorts : 12).
+>
+> Niveau 1 : _fou rire_, _graisse_  
+> Niveau 2 : _toile d'araignée_, _briser_
+> ### Actions
+> ***Attaque multiple.*** Le fiélon peut faire 3 attaques : une avec sa morsure et deux avec ses griffes.
+>
+> ***Morsure venimeuse.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 1,50 m, une cible. _Touché_ : 14 (2d8+5) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 16. Elle subit 14 (4d6) dégâts de poison si elle échoue, la moitié seulement si elle réussit. Si les dégâts de poison de poison réduisent à 0 les points de vie de la cible, celle-ci est stable, mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+>
+> ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 3 m, une cible. _Touché_ : 15 (3d6+5) dégâts tranchants.
+
+\page
 
 ## Ancien élémentaire
 
