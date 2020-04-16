@@ -1534,7 +1534,7 @@ Les personnalités nomades peuvent aussi dépendre des tribus auxquelles elles a
 
 \page
 
-### Noble de Qualiticity
+### Noble de Qualicity
 
 Vous êtes un membre de la haute société de la ville de Qualicity, la capitale magique de Zombiah à Hereva. Vous avez une grande influence dans toute la ville, auprès des gens ordinaires, des gens influents, mais surtout auprès de vos semblables.
 
@@ -1551,7 +1551,7 @@ Vous n'avez pas seulement de l'influence et du prestige, vous ou votre famille �
 
 #### Personnalités suggérées
 
-Les Nobles de Qualiticity sont des intellectuels et des gens doués pour la magie. Beaucoup d'entre eux sont des sorcières de la maison de Zombiah, mais il y a beaucoup d'autres habitants dans cette grande ville.
+Les Nobles de Qualicity sont des intellectuels et des gens doués pour la magie. Beaucoup d'entre eux sont des sorcières de la maison de Zombiah, mais il y a beaucoup d'autres habitants dans cette grande ville.
 
 | d8 | Trait de personnalité |
 | --- | --- |
@@ -2709,19 +2709,19 @@ Ce petit sac est difficile à remarquer à première vue car il est fait d'un ma
 
 Lorsque vous fermez le sac, vous pouvez définir un mot secret pour le rouvrir, sinon n'importe qui peut l'ouvrir.
 
-#### Lampe du Génie de la réussite
+#### Lampe du Génie du succès
 
 *Objet merveilleux, légendaire (harmonisation requise)*
 
 La lampe a 3 charges, lorsque la dernière charge est épuisée, la lampe disparaît et réapparaît en un autre point aléatoire dans le même univers.
 
-Cette lampe en cristal semble avoir une nébuleuse dorée à l'intérieur. En tant qu'action, vous pouvez la frotter pour invoquer un Génie de la réussite. Le génie doit obéir à tous vos ordres s'il s'agit de tâche banales. Si vous demandez quelque chose qui n'est pas facilement réalisable, le génie pourrait décider d'utiliser une charge de la lampe pour lancer Souhait afin d'obéir à vos ordres. Le génie vous avertit toujours avant d'utiliser la charge, mais il ne s'arrêtera pas à moins que vous ne disiez les mots "j'ai changé d'avis". plus rapidement. Pour le résoudre, lancez l'initiative contre le génie, si vous gagnez le génie s'arrête, si le génie gagne, il lance le sort.
+Cette lampe en cristal semble avoir une nébuleuse dorée à l'intérieur. En tant qu'action, vous pouvez la frotter pour invoquer un Génie du succès. Le génie doit obéir à tous vos ordres s'il s'agit de tâche banales. Si vous demandez quelque chose qui n'est pas facilement réalisable, le génie pourrait décider d'utiliser une charge de la lampe pour lancer Souhait afin d'obéir à vos ordres. Le génie vous avertit toujours avant d'utiliser la charge, mais il ne s'arrêtera pas à moins que vous ne disiez les mots "j'ai changé d'avis". plus rapidement. Pour le résoudre, lancez l'initiative contre le génie, si vous gagnez le génie s'arrête, si le génie gagne, il lance le sort.
 
 Vous pouvez utiliser une action pour écarter le génie et le piéger à l'intérieur de la lampe.
 
 Outre son obligation à vous obéir, le génie agit comme n'importe quelle autre créature, et n'a pas d'attachement à vous. Il pourrait essayer de vous tromper, ou de vous aider, en fonction de son propre avis sur vous.
 
-Les caractéristiques du Génie de la réussite sont dans l'annexe des monstres à la fin de ce livre.
+Les caractéristiques du Génie du succès sont dans l'annexe des monstres à la fin de ce livre.
 
 \page
 

@@ -440,7 +440,7 @@ Les personnalités nomades peuvent aussi dépendre des tribus auxquelles elles a
 
 \page
 
-### Noble de Qualiticity
+### Noble de Qualicity
 
 Vous êtes un membre de la haute société de la ville de Qualicity, la capitale magique de Zombiah à Hereva. Vous avez une grande influence dans toute la ville, auprès des gens ordinaires, des gens influents, mais surtout auprès de vos semblables.
 
@@ -457,7 +457,7 @@ Vous n'avez pas seulement de l'influence et du prestige, vous ou votre famille �
 
 #### Personnalités suggérées
 
-Les Nobles de Qualiticity sont des intellectuels et des gens doués pour la magie. Beaucoup d'entre eux sont des sorcières de la maison de Zombiah, mais il y a beaucoup d'autres habitants dans cette grande ville.
+Les Nobles de Qualicity sont des intellectuels et des gens doués pour la magie. Beaucoup d'entre eux sont des sorcières de la maison de Zombiah, mais il y a beaucoup d'autres habitants dans cette grande ville.
 
 | d8 | Trait de personnalité |
 | --- | --- |
