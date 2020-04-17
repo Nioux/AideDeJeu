@@ -788,11 +788,78 @@ ___
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
 
+___
+___
+> ## Baleine géante
+> *Bête de taille Gigantesque (baleine), non alignée*
+> ___
+> - **Classe d'armure** 15 (armure naturelle)
+> - **Points de vie** 175 (14d20 + 28)
+> - **Vitesse** nage 18 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 25 (+7) | 12 (+1) | 15 (+2) | 5 (-3) | 14 (+2) | 9 (-1) |
+> ___
+> - **Compétences** Perception +5
+> - **Sens** vision aveugle 36 m, Perception passive +15
+> - **Dangerosité** 8 (3 900 PX)
+> ___
+> ***Echolocalisation.*** La baleine géante ne peut plus utiliser sa vision aveugle si elle est assourdie.
+>
+> ***Retenir son souffle.*** La baleine géante peut retenir son souffle pendant 30 minutes.
+>
+> ***Ouïe aiguisée.*** La baleine géante est avantagée lors des tests de Sagesse (Perception) basés sur l'ouïe.
+>
+> ***Amphibie.*** La tortue abyssale peut respirer à l'air libre et sous l'eau.
+> ### Actions
+> ***Attaque multiple.*** La baleine géante peut faire 2 attaques de morsure.
+>
+> ***Morsure mortelle.*** _Attaque d'arme au corps-à-corps_ : +10 pour toucher, allonge 1,50 m, une cible. _Touché_ : 24 (5d6+7) dégâts perforants.
+>
+> ***Engloutir en entier.*** La baleine géante effectue une attaque de morsure contre une cible de taille Très Grande ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la baleine géante et elle subit 21 (4d6+7) dégâts d'acide au début de chacun des tours de la baleine géante. Si la baleine géante meurt, une créature engloutie n'est plus entravée à cause d'elle et peut s'extirper de la carcasse en dépensant 1,50 mètre de déplacement ; elle en sort à terre.
+
+
 \page
 
 ## Kraken d'Hereva
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
+
+___
+___
+> ## Kraken d'Hereva
+> *Créature monstrueuse de taille Gigantesque, non alignée*
+> ___
+> - **Classe d'armure** 15 (armure naturelle)
+> - **Points de vie** 189 (14d20 + 42)
+> - **Vitesse** 3 m, nage 18 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 21 (+5) | 17 (+3) | 17 (+3) | 10 (+0) | 16 (+3) | 8 (-1) |
+> ___
+> - **Compétences** Perception +9, Discretion +9
+> - **Sens** Perception passive +19
+> - **Langues** comprend --, mais ne peut pas parler
+> - **Dangerosité** 8 (3 900 PX)
+> ___
+> ***Retenir son souffle.*** Le kraken d'Hereva peut retenir son souffle pendant 30 minutes.
+>
+> ***Camouflage sous l'eau.*** Le kraken d'Hereva est avantagé lors des tests de Dextérité (Discrétion) effectués sous l'eau.
+>
+> ***Respiration aquatique.*** Le kraken d'Hereva peut respirer uniquement sous l'eau.
+>
+> ***Tempête.*** Le kraken d'Hereva est magiquement entouré en permanence par une tempête qui couvre une zone de 9 mètres de rayon autour de lui. Toute créature qui commence son tour dans la zone de la tempête doit réussir un jet de sauvegarde de Dextérité (DC 14) ou subir 1d10 de dégâts dus à la foudre.  
+> Le kraken d'Hereva est immunisé contre ces dégâts.
+> ### Actions
+> ***Attaque multiple.*** La baleine géante peut faire 2 attaques de morsure.
+>
+> ***Tentacules.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 4,50 m, une cible. _Touché_ : 11 (1d12+5) dégâts contondants et, si la cible est une créature, elle est empoignée (évasion DD 16). Jusqu'au terme de cette empoignade, la cible est entravée et le kraken d'Hereva ne peut pas utiliser ses tentacules contre une autre cible.
+>
+> ***Nuage d'encre (Recharge après un repos court ou long).*** Lorsqu'il est sous l'eau, le kraken d'Hereva répand un nuage d'encre sur un rayon de 6 mètres autour de lui. La visibilité dans la zone est nulle pendant 1 minute, mais un courant significatif peut disperser l'encre. Après avoir répandu so nuage, le kraken d'Hereva peut effectuer l'action se précipiter par une action bonus.
+>
+> ***Projection.*** Un objet tenu ou une créature empoignée par le kraken, de Grande taille ou plus petit, est projeté à une distance maximale de 18 mètres dans une direction aléatoire. L'objet ou la créature se retrouve ensuite à terre. Si une cible lancée entre en collision avec une surface solide, elle subit 3 (1d6) dégâts contondants par tranche de 3 mètres parcourus depuis l'emplacement où elle a été projetée. Si la cible heurte une autre créature, cette dernière doit réussir un jet de sauvegarde de Dextérité DD 16 pour ne pas subir les mêmes dégâts et se retrouver à terre.
 
 \page
 
@@ -800,14 +867,102 @@ C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation d
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
 
+___
+___
+> ## Méga-requin
+> *Humanoïde de Très Grande taille, non alignée*
+> ___
+> - **Classe d'armure** 15 (armure naturelle)
+> - **Points de vie** 195 (17d12 + 85)
+> - **Vitesse** nage 15 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 26 (+8) | 10 (+0) | 21 (+5) | 4 (-3) | 10 (+0) | 5 (-3) |
+> ___
+> - **Compétences** Perception +3
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de froid
+> - **Sens** vision aveugle 9 m, Perception passive +13
+> - **Dangerosité** 8 (3 900 PX)
+> ___
+> ***Frénésie sanguinaire.*** Le méga-requin est avantagé lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+>
+> ***Respiration aquatique.*** Le méga-requin peut respirer uniquement sous l'eau.
+> ### Actions
+> ***Attaque multiple.*** Le méga-requin peut faire 2 attaques avec sa morsure mortelle mais sur deux cibles différentes et le méga-requin doit se déplacer d'au moins 1,50 mètres avant chaque attaque.
+>
+> ***Morsure mortelle.*** _Attaque d'arme au corps-à-corps_ : +11 pour toucher, allonge 1,50 m, une cible. _Touché_ : 25 (5d6+8) dégâts perforants.
+>
+> ***Engloutir en entier.*** Le méga-requin effectue une attaque de morsure contre une cible de Grande taille ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la baleine géante et elle subit 7 (2d6) dégâts d'acide au début de chacun des tours de la baleine géante. Si le méga-requin meurt, une créature engloutie n'est plus entravée à cause de lui et peut s'extirper de la carcasse en dépensant 1,50 mètre de déplacement ; elle en sort à terre.
+
+
 \page
 
-## Primal One
+## Primal
 
 C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
+
+___
+___
+> ## Primal
+> *Elémentaire de Grande taille, Neutre*
+> ___
+> - **Classe d'armure** 16 (armure naturelle)
+> - **Points de vie** 126 (12d10 + 60)
+> - **Vitesse** 9 m, fouissage 9 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 20 (+5) | 8 (-1) | 20 (+5) | 5 (-3) | 10 (+0) | 5 (-3) |
+> ___
+> - **Vulnérabilités aux dégâts** de feu
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de poison
+> - **Immunité contre les états** à terre
+> - **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive +10
+> - **Langues** terreux
+> - **Dangerosité** 5 (1 800 PX)
+> ___
+> ***Traverser la terre.*** Le primal peut creuser à travers la terre et la pierre non travaillées et non magiques. Quand il se déplace ainsi, il ne laisse ni trace ni tunnel derrière lui.
+>
+> ***Résistance à la magie.*** Le primal est avantagé lors des jets de sauvegarde contre les sorts et autres effets magiques.
+>
+> ***Monstre assiégeur.*** Le primal inflige des dégâts doublés aux objets et aux structures.
+>
+> ***Communication avec les bêtes et les plantes.*** Le primal peut communiquer avec les bêtes et les plantes comme s'ils parlaient la même langue.
+> ### Actions
+> ***Attaque multiple.*** Le primal peut faire 2 attaques de coup.
+>
+> ***Morsure acide.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 3 m, une cible. _Touché_ : 15 (3d6+5) dégâts perforants plus 9 (2d8) dégâts d'acide.
+>
+> ***Coup.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 1,50 m, une cible. _Touché_ : 15 (3d6+5) dégâts contondants.
 
 \page
 
 ## Serpent d'eau élémentaire
 
 C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation de monstre abyssal_ de la Maison d'Aquah.
+
+___
+___
+> ## Serpent d'eau élémentaire
+> *Elémentaire de Très Grande taille, non aligné*
+> ___
+> - **Classe d'armure** 12 (armure naturelle)
+> - **Points de vie** 90 (12d12 + 12)
+> - **Vitesse** 9 m, nage 9 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 19 (+4) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
+> ___
+> - **Compétences** Perception +2
+> - **Sens** vision aveugle 3 m, Perception passive +12
+> - **Langues** comprend --, mais ne peut pas parler
+> - **Dangerosité** 2 (450 PX)
+> ___
+> ### Actions
+> ***Morsure.*** _Attaque d'arme au corps-à-corps_ : +6 pour toucher, allonge 1,50 m, une cible. _Touché_ : 9 (1d10+4) dégâts perforants.
+>
+> ***Comprimer.*** _Attaque d'arme au corps-à-corps_ : +6 pour toucher, allonge 1,50 m, une cible. _Touché_ : 13 (2d8+4) dégâts contondants et la cible est empoignée (DD 14 pour se dégager). Tant que l'empoignade persiste, la cible est entravée et le serpent d'eau élémentaire ne peut pas en comprimer une nouvelle.
