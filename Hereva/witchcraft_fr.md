@@ -9,6 +9,10 @@
   .phb#p1:after{ display:none; }
 </style>
 
+<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title.png" style='position:absolute;top:0px;left:0px' />
+
+\page
+
 <div style='margin-top:450px;'></div>
 
 # Les Sorcières d'Hereva
