@@ -1,10 +1,4 @@
 <style>
-  .phb{
-    width : 210mm;
-    height : 296.8mm;
-  }
-</style>
-<style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
 </style>
