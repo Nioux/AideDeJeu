@@ -434,7 +434,7 @@ ___
 > - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
 > - **Immunité contre les dégâts** d'acide
 > - **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive +10
-> - **Langues** terran
+> - **Langues** terreux
 > - **Dangerosité** 3 (700 PX)
 > ___
 > ***Traverser la terre.*** Le golem antique peut creuser à travers la terre et la pierre non travaillées et non magiques. Quand il se déplace ainsi, il ne laisse ni trace ni tunnel derrière lui.
@@ -601,11 +601,71 @@ ___
 
 C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
 
+___
+___
+> ## Ancien élémentaire
+> *Elémentaire de Très Grande taille, Neutre*
+> ___
+> - **Classe d'armure** 16 (armure naturelle)
+> - **Points de vie** 125 (10d12 + 60)
+> - **Vitesse** 6 m, fouissement 6 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
+> ___
+> - **Jets de sauvegarde** Sag +2
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** d'acide
+> - **Sens** vision dans le noir 18 m, perception des vibrations 18 m, Perception passive +10
+> - **Langues** terreux
+> - **Dangerosité** 4 (1 100 PX)
+> ___
+> ***Traverser la terre.*** L'ancien élémentaire peut creuser à travers la terre et la pierre non travaillées et non magiques. Quand il se déplace ainsi, il ne laisse ni trace ni tunnel derrière lui.
+>
+> ***Camouflage dans la rocaille.*** L'ancien élémentaire est avantagé lors des tests de Dextérité (Discrétion) effectués pour se cacher dans des environnements rocailleux.
+> ### Actions
+> ***Attaque multiple.*** L'ancien élémentaire peut faire 3 attaques de griffe et une attaque de morsure.
+>
+> ***Morsure.*** _Attaque d'arme au corps-à-corps_ : +5 pour toucher, allonge 1,50 m, une cible. _Touché_ : 8 (1d10+3) dégâts perforants.
+>
+> ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +5 pour toucher, allonge 1,50 m, une cible. _Touché_ : 7 (1d8+3) dégâts tranchants.
+> ### Réactions
+> ***Parade.*** Le golem antique ajoute 2 à sa CA lorsqu'il est la cible d'une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer ainsi.
+
 \page
 
 ## Citrouille maléfique
 
 Cette monstruosité maléfique a un corps fait de vignes et une citrouille brillante pour tête. Au combat, elle a tendance à rire comme si elle s'amusait. Vous pouvez créer une de ces créatures avec le sort _création d'une citrouille maléfique_.
+
+___
+___
+> ## Citrouille maléfique
+> *Plante de taille Moyenne, Chaotique Mauvais*
+> ___
+> - **Classe d'armure** 11 (armure naturelle)
+> - **Points de vie** 99 (18d8 + 18)
+> - **Vitesse** 9 m, fouissement 6 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 14 (+2) | 13 (+1) | 12 (+1) | 13 (+1) | 11 (+0) | 12 (+1) |
+> ___
+> - **Compétences** Discretion +3, Perception +2
+> - **Vulnérabilités aux dégâts** de froid
+> - **Résistance aux dégâts** de feu
+> - **Immunité contre les dégâts** de poison
+> - **Immunité contre les états** empoisonné
+> - **Sens** vision dans le noir 36 m, Perception passive +12
+> - **Langues** abyssal, une au choix (généralement le commun)
+> - **Dangerosité** 3 (700 PX)
+> ___
+> ***Résistance à la magie.*** La citrouille maléfique est avantagée lors des jets de sauvegarde contre les sorts et autres effets magiques.
+> ### Actions
+> ***Morsure venimeuse.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 1,50 m, une cible. _Touché_ : 11 (2d8+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison si elle échoue, la moitié seulement si elle réussit. Si les dégâts de poison de poison réduisent à 0 les points de vie de la cible, celle-ci est stable, mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+>
+> ***Vigne grimpante.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 15 m, une cible. _Touché_ : la cible est empoignée (libérée sur DD 12). Tant que cette empoignade n'est pas terminée, la cible est retenue et est désavantagée sur ses tests de Force et ses jets de sauvegarde de Force, et la citrouille maléfique ne peut pas utiliser la même vigne sur une autre cible.
 
 \page
 
@@ -613,17 +673,114 @@ Cette monstruosité maléfique a un corps fait de vignes et une citrouille brill
 
 C'est une ancienne et plus diabolique version de la citrouille maléfique. Ces créatures vicieuses gagnent en puissance au fil du temps. Lorsqu'elles vivent pendant des décennies, elles deviennent aussi puissantes qu'une ancienne citrouille maléfique.
 
+___
+___
+> ## Ancienne citrouille maléfique
+> *Plante de Grande taille, Chaotique Mauvais*
+> ___
+> - **Classe d'armure** 14 (armure naturelle)
+> - **Points de vie** 165 (22d10 + 44)
+> - **Vitesse** 9 m, fouissement 6 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 16 (+3) | 15 (+2) | 14 (+2) | 15 (+2) | 13 (+1) | 14 (+2) |
+> ___
+> - **Compétences** Discretion +5, Perception +4
+> - **Vulnérabilités aux dégâts** de froid
+> - **Résistance aux dégâts** de feu
+> - **Immunité contre les dégâts** de poison
+> - **Immunité contre les états** empoisonné
+> - **Sens** vision dans le noir 36 m, Perception passive +14
+> - **Langues** abyssal, une au choix (généralement le commun)
+> - **Dangerosité** 5 (1 800 PX)
+> ___
+> ***Résistance à la magie.*** L'ancienne citrouille maléfique est avantagée lors des jets de sauvegarde contre les sorts et autres effets magiques.
+>
+> ***Vignes collantes.*** L'ancienne citrouille maléfique peut posséder jusqu'à six vignes à la fois. Il est possible d'attaquer chacune d'elles (CA 20 ; 10 points de vie ; immunité contre les dégâts de poison et psychiques). La destruction d'une vigne n'inflige aucun dégât à l'ancienne citrouille maléfique qui peut faire repousser une vigne de remplacement lors de son prochain tour. Une créature peut également casser une vigne si elle entreprend une action dans ce sens et réussit un test de force DD 14 contre elle.
+> ### Actions
+> ***Attaque multiple.*** L'ancienne citrouille maléfique peut faire 3 attaques : 2 avec ses vignes et 2 avec sa morsure.
+>
+> ***Morsure venimeuse.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 1,50 m, une cible. _Touché_ : 11 (2d8+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison si elle échoue, la moitié seulement si elle réussit. Si les dégâts de poison de poison réduisent à 0 les points de vie de la cible, celle-ci est stable, mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
+>
+> ***Vigne grimpante.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 15 m, une cible. _Touché_ : la cible est empoignée (libérée sur DD 12). Tant que cette empoignade n'est pas terminée, la cible est retenue et est désavantagée sur ses tests de Force et ses jets de sauvegarde de Force, et la citrouille maléfique ne peut pas utiliser la même vigne sur une autre cible.
+
 \page
 
 ## Chauve-souris flottante
 
 C'est le monstre que vous invoquez avec le sort _chauve-souris espionne_.
 
+___
+___
+> ## Chauve-souris flottante
+> *Bête de Très Petite taille, Loyal Mauvais*
+> ___
+> - **Classe d'armure** 13 (armure naturelle)
+> - **Points de vie** 1
+> - **Vitesse** vol 12 m
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 11 (+0) | 17 (+3) | 13 (+1) | 5 (-3) | 13 (+1) | 7 (-2) |
+> ___
+> - **Compétences** Acrobaties +5, Perception +5
+> - **Sens** vision aveugle 36 m, Perception passive +15
+> - **Langues** --
+> - **Dangerosité** 1/4 (50 PX)
+> ___
+> ***Frénésie sanguinaire.*** La chauve-souris flottante est avantagée lors des jets d'attaque effectués contre les créatures qui n'ont pas la totalité de leurs points de vie.
+>
+> ***Ouïe aiguisée.*** La chauve-souris flottante est avantagée lors des tests de Sagesse (Perception) basés sur l'ouïe.
+> ### Actions
+> ***Morsure.*** _Attaque d'arme au corps-à-corps_ : +5 pour toucher, allonge 1,50 m, une cible. _Touché_ : 5 (1d4+3) dégâts perforants.
+
 \page
 
 ## Génie du succès
 
 Ce génie à l'allure amusante, joyeuse et optimiste a le corps d'un tigre anthropomorphe avec une tête de morse et d'énormes défenses. Vous pouvez trouver ces génies, originaires du plan élémentaire du feu, maudits et attachés à une lampe magique. Un Génie du succès n'est pas toujours mauvais, mais il tentera de tromper le propriétaire de sa lampe en lui promettant du succès en échange de la signature d'un contrat.
+
+___
+___
+> ## Génie du succès
+> *Elémentaire de Grande taille, Neutre*
+> ___
+> - **Classe d'armure** 17 (armure naturelle)
+> - **Points de vie** 136 (13d10 + 65)
+> - **Vitesse** 9 m, vol 27 m (vol stationnaire)
+> ___
+> | FOR | DEX | CON | INT | SAG | CHA |
+> | :---: | :---: | :---: | :---: | :---: | :---: |
+> | 20 (+5) | 16 (+3) | 20 (+5) | 13 (+1) | 18 (+4) | 24 (+7) |
+> ___
+> - **Jets de sauvegarde** Dex +7, Sag +8, Cha +11
+> - **Résistance aux dégâts** contondants, perforants et tranchants infligés par des attaques non magiques
+> - **Immunité contre les dégâts** de feu, de poison
+> - **Immunité contre les états** empoisonné
+> - **Sens** Perception passive +14
+> - **Langues** commun, primordial
+> - **Dangerosité** 11 (7 200 PX)
+> ___
+> ***Trépas élémentaire*** Quand le génie du succès meurt, son corps se dissout en une chaude brise, ne laissant derrière lui que les objets qu'il portait ou transportait.
+>
+> ***Magie de Magmah niveau 5*** Le génie du succès est un lanceur de sorts de niveau 5. Sa caractéristique d'incantation est le Charisme (DD du jet de sauvegarde contre les sorts 19, +11 pour toucher avec les attaques de sorts). Il a les sorts de sorcière d'Hereva suivants préparés :
+>
+> Tours de magie (à volonté) : _illusion mineure_, _produire une flamme_  
+> Niveau 1 (3 emplacements) : _mains brûlantes_, _charme-personne_  
+> Niveau 2 (2 emplacements) : _flamme éternelle_, _chauffer le métal_  
+> Niveau 3 (1 emplacements) : _boule de feu_  
+>
+> ***Bond agressif.*** Si le génie du succès se déplace en ligne droite sur une distance minimale de 6 mètres vers une créature contre laquelle il réussit une attaque de griffe lors du même tour, celle-ci doit réussir un jet de sauvegarde de Force DD 17 pour ne pas être jetée à terre. Si la cible est à terre, le génie du succès peut effectuer une attaque par morsure contre elle par une action bonus.
+> ### Actions
+> ***Attaque multiple.*** Le génie du succès peut faire 3 attaques : une avec sa morsure et deux avec ses griffes.
+>
+> ***Défenses.*** _Attaque d'arme au corps-à-corps_ : +9 pour toucher, allonge 1,50 m, une cible. _Touché_ : 16 (2d10+5) dégâts perforants.
+>
+> ***Griffes mortelles.*** _Attaque d'arme au corps-à-corps_ : +9 pour toucher, allonge 1,50 m, une cible. _Touché_ : 15 (3d6+5) dégâts tranchants.
+>
+> ***Projeter une flamme.*** _Attaque de sort à distance_ : +11 pour toucher, allonge 45 m, une cible. _Touché_ : 45 (13d6) dégâts de feu. Si la cible est un objet inflammable qui n'est pas porté ou transporté, elle prend feu.
+
 
 \page
 
