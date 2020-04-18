@@ -3,19 +3,192 @@
   .phb#p1:after{ display:none; }
 </style>
 
-<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:0px;width:1122px;height:1514px;' />
+<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:0px;width:816px'/>
 
 <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_witchcraft.png" style='position:absolute;top:150px;left:165px;width:500px' />
 
 <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_magic.png" style='position:absolute;top:250px;left:215px;width:400px' />
 
+<div class='pageNumber auto'></div>
+
+\page
+
+titre intérieur
+
+<div class='pageNumber auto'></div>
+
+\page
+
+3è de couv
+
+<div class='pageNumber auto'></div>
+
+\page
+
+<style>
+  .toc a {
+    color: inherit !important;	/*toc specifically wants black text. This resets the headers*/
+  }
+
+  .toc li span:nth-child(2){	/*Allow dot leaders to fill remaining space but not overlap*/
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    display: block;
+  }
+
+  .toc li span:nth-child(2):after{
+    font-family		: BookSanity;	/*Remove any header styles from dot leaders*/
+    font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    content:
+      " ........................................"
+      "........................................."
+      "........................................."; 
+  }
+  
+  .toc li span:first-child{
+    float: right;
+    font-family		: BookSanity;	/*Remove any header styles from page numbers*/
+    font-size   	: 0.317cm;
+    font-weight		: normal;
+    color			: black;
+    margin-left		: 1px;	/*Leaves a small space between page numbers and dot leaders*/
+  }
+  
+/*Special cases for headings*/    
+  .toc li h3 span:nth-child(2):after{
+  	content: " ";						/*Remove dot leaders on h3*/
+  }
+  
+  .toc li h3 {
+    margin-bottom: 4px !important;		/*Special spacing for h3*/
+    margin-top: 10px !important;
+    line-height: initial !important;	/*For some reason Multi-line h3 line spacing changed*/
+  }
+  
+  .toc li h3 span:first-child{
+  	line-height: 1.8em !important;  	/*Line page numbers up with Multi-line h3 better*/
+  }
+  
+  .toc ul ul {
+  	margin-left: 10px !important;		/*Original lists intented too much*/
+  }
+  
+  .toc>ul>li {
+    margin-bottom: initial !important;	/*margin for list items needs to be removed or 0*/
+  }
+</style>
+
+<div class='wide' style="text-align: center">
+
+# Sommaire
+
+</div>
+
+<div class='toc'>
+
+- ### [<span>5</span><span>Introduction</span>](#p5)
+- ### [<span>6</span><span>Remerciements</span>](#p6)
+- ### Chapitre I : Les Sorcières d'Hereva
+ - #### Classe de sorcière d'Hereva
+- ### Chapitre II : Maisons de Sorcellerie
+ - #### Maison de Ah
+ - #### Maison d'Aquah
+ - #### Maison de Chaosah
+ - #### Maison de Hippiah
+ - #### Maison de Magmah
+ - #### Maison de Zombiah
+- ### Chapitre III : Player's Options
+ - #### Historiques
+  - Chasseur de primes
+  - Vétéran de la Grande Guerre d'Hereva
+  - Erudit d'Hereva
+  - Voyageur planaire égaré
+  - Chercheur de bêtes magiques
+  - Archiviste Mystique
+  - Nomade
+  - Noble de Qualicity
+  - Oursin de l'écureuil
+  - Paria de maison de sorcellerie
+ - #### Dons
+- ### Chapitre IV : Magie de Sorcellerie
+ - #### Listes de sorts
+  - Descriptions des sorts
+ - #### Objets magiques
+  - Descriptions des objets magiques
+- ### APPENDICES
+ - #### APPENDICE I : Familiers
+ - #### APPENDICE II : Monstres
+
+<!--
+- ### [<span>3</span><span>Introduction</span>](#p3)
+ - #### [<span>3</span><span>**What You Will Need**</span>](#p3)
+ - #### [<span>3</span><span>**What You Will Learn**</span>](#p3)
+- ### [<span>3</span><span>**Formatting Basics**</span>](#p3)
+ - #### [<span>3</span><span>**Basic Markdown**</span>](#p3)
+  - [<span>3</span><span>Bold</span>](#p3)
+  - [<span>3</span><span>Italics</span>](#p3)
+ - #### [<span>3</span><span>**Headers**</span>](#p3)
+ - #### [<span>4</span><span>**Spacing Text**</span>](#p4)
+  - [<span>4</span><span>Normal Spacing</span>](#p4)
+  - [<span>4</span><span>3 Underscores</span>](#p4)
+  - [<span>4</span><span>Vertical Spacing</span>](#p4)
+ - #### [<span>5</span><span>**Centering Text**</span>](#p5)
+ - #### [<span>5</span><span>**Tabbing Text With &nbsp;**</span>](#p5)
+ - #### [<span>5</span><span>**Wrapping Text Around an Image**</span>](#p5)
+ - #### [<span>6</span><span>**Images**</span>](#p6)
+  - [<span>6</span><span>Images With White Background</span>](#p6)
+  - [<span>6</span><span>Example Using Multiply</span>](#p6)
+- ### [<span>7</span><span>**The Cover**</span>](#p7)
+ - #### [<span>7</span><span>**The Basics**</span>](#p7)
+ - #### [<span>7</span><span>**Before You Start**</span>](#p7)
+ - #### [<span>7</span><span>**Background Image**</span>](#p7)
+  - [<span>7</span><span>Example Cover Image</span>](#p7)
+ - #### [<span>7</span><span>**Brew Name**</span>](#p7)
+  - [<span>7</span><span>Creating your Base Title</span>](#p7)
+  - [<span>8</span><span>Adding to the Homebrewery</span>](#p8)
+ - #### [<span>8</span><span>**Description**</span>](#p8)
+ - #### [<span>8</span><span>**Logos and the Underline**</span>](#p8)
+- ### [<span>9</span><span>**The Table of Contents**</span>](#p9)
+ - #### [<span>9</span><span>**Style**</span>](#p9)
+ - #### [<span>9</span><span>**The Table Itself**</span>](#p9)
+  - [<span>9</span><span>Red Text With Yellow Underline</span>](#p9)
+  - [<span>9</span><span>Red Text</span>](#p9)
+  - [<span>9</span><span>Black Text</span>](#p9)
+- ### [<span>10</span><span>**Image Blending**</span>](#p10)
+ - #### [<span>10</span><span>**How This Works**</span>](#p10)
+-->
+</div>
+
+<div class='pageNumber auto'></div>
+
+\page
+
+# Introduction
+
+<div class='pageNumber auto'></div>
+
+\page
+
+# Remerciements
+
+<div class='pageNumber auto'></div>
+
 \page
 
 <div style='margin-top:450px;'></div>
 
-# Les Sorcières d'Hereva
+<div style='text-align:center'>
+
+# Chapitre I : Les Sorcières d'Hereva
+
+</div>
 
 <div style='margin-top:25px'></div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -57,6 +230,8 @@ Une sorcière d'Héréva est disciplinée. Même la chaotique maison de Chaosah 
 |20|+6|Aptitude de maison de sorcellerie|4|15|4|13|9|
 
 </div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -127,6 +302,8 @@ Au niveau 1, vous connaissez deux tours de magie de votre choix issus de la list
 
 Réa est l'unité magique utilisée pour mesurer les forces magiques qui ont créé le monde d'Hereva. Réa est l'abréviation de "Réalité". Réa peut être considéré comme collecter les sous-produits d'une tâche. Chaque point de Réa peut être utilisé pour jeter un sort. Vous disposez d'un nombre de points Réa comme figurant dans le tableau de la sorcière d'Hereva. Vous récupérez tous vos points Réa dépensés après un long repos.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Les sorts de niveau 6 ou supérieur sont particulièrement difficiles à lancer. Le Réa stocké dans le corps d'une sorcière seulement leur permet de lancer un nombre limité de ces sorts. Vous ne pouvez lancer qu'un seul sort de chaque niveau de 6 ou plus entre les longs repos en utilisant vos réserves normales de points de Réa. Le tableau indique également le niveau des sorts que vous pouvez lancer. Vous lancez tous vos sorts au même niveau.
@@ -194,6 +371,8 @@ En réaction, votre familier peut vous donner un  avantage sur un lancer de sauv
 
 À partir du niveau 2, vous devez choisir l'une des 6  écoles de magie d'Hereva pour vous spécialiser, c'est-à-dire que vous avez été acceptée par l'une des 6 maisons de Sorcellerie ou que vous obtenez une tutrice d'une de ces maisons. Dans dans tous les cas, votre choix vous accorde des fonctionnalités au niveau 2 et à nouveau aux niveaux 7, 11, 15 et 20.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 > Les maisons de sorcellerie diffèrent des autres sous-classes en ce qu'elles ont plus d'influence sur l'évolution de la classe que la normale.
@@ -248,7 +427,10 @@ Quand vous atteignez les niveaux 4, 8, 12, 16 et 19, vous gagnez un bonus de +2 
 
 Si vous utilisez la règle optionnelle des Dons, vous pouvez oublier cette règle pour prendre un Don à la place.
 
+<div class='pageNumber auto'></div>
+
 \page
+
 ### Chevauchage de balai
 
 À partir du niveau 5, vous apprenez à enchanter un balai pour le transformer en un balai volant. Le rituel pour enchanter le balai prend 1 heure et les matériaux coûtent 50po. Cet enchantement dure 1 heure, et vous ne pourrez le refaire qu'après un repos long.
@@ -312,6 +494,8 @@ Pour lancer un sort de cette manière, vous devez d'abord canaliser le Réa auto
 Lancez un nombre de d6 égal au niveau du sort que vous tentez de lancer. L'explosion causée par votre canalisation a une puissance négative égale au nombre de résultats de 1 sur ces d6, et une puissance positive égale au nombre de résultats de 6 dans ces d6. Chaque créature dans une zone de 60 pieds de rayon centrée sur vous perdent un nombre de points de vie égal à la puissance négative x 5, et gagnent un nombre
 de points de vie égal à la puissance positive x 5.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 Des effets supplémentaires en fonction de la puissance positive et de la puissance négative de la canalisation se produisent.
@@ -325,18 +509,17 @@ Après avoir jeté un sort de cette manière, vous devrez finir un repos long po
 
 À partir du niveau 18, vous pouvez essayer de lancer un sort avec Focus de Réa à deux reprises, avant d'avoir besoin d'un repos long pour récupérer vos tentatives.
 
-\page
+<div class='pageNumber auto'></div>
 
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
+\page
 
 <div style='margin-top:450px;'></div>
 
-# Maisons de sorcellerie
+# Chapitre II : Maisons de sorcellerie
 
 <div style='margin-top:25px'></div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -365,6 +548,9 @@ Cependant, une Sorcière de Ah attaque aussi quand c'est nécessaire et ne manqu
 ### Liste des sorts de Ah
 
 Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+```
+```
 
 ##### Sorts de sorcière de Ah par niveau
 
@@ -398,6 +584,8 @@ Le tableau suivant décrit les aptitudes qu'une sorcière de Ah gagne à différ
 Lorsque vous lancez un sort de guérison de niveau 1 ou plus, vous pouvez simultanément créer un gardien magique sur vos cibles qui dure jusqu'à la fin d'un repos long. Le gardien a des points de vie égaux à deux fois votre niveau de sorcière + votre modificateur de Charisme. Chaque fois que la créature gardée subit des dommages, le gardien prend les dégâts à sa place. Si ces dommages réduisent le gardien à 0 pv, la créature surveillée subit les dommages restants.
 
 Pendant qu'il est actif, le gardien regagne des points de vie lorsque les créatures gardées sont guéries par vous, mais il ne peut pas aller au-delà de ses points de vie initiaux. Si le gardien est réduit à 0 pv, il est détruit et vous ne pouvez pas en créer un autre sur la même créature jusqu'à ce que vous ayez terminé un repos long.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -442,6 +630,8 @@ Incident : la magie imprévisible du sort entraîne un voyage difficile. Chaque 
 
 </div>
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Terminus
@@ -454,6 +644,8 @@ Au niveau 20, vous apprenez à canaliser les énergies planaires et spirituelles
 Les créatures Démoniaques et Morte-vivantes sont désavantagées dans leur jet de sauvegarde contre Terminus, alors que les créatures Célestes et les Fées ont l'avantage.
 
 Lorsque vous utilisez cette capacité, vous ne pouvez pas l'utiliser à nouveau pour jusqu'à ce que vous ayez terminé 7 repos longs.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -484,6 +676,9 @@ Une peau plus dure que la normale, couverte d'écailles, vous offre une meilleur
 ### Liste des sorts d'Aquah
 
 Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+```
+```
 
 ##### Sorts de sorcière d'Aquah par niveau
 | Niveau | Sorts |
@@ -520,6 +715,8 @@ A partir du niveau 2, lorsque vous sélectionnez cette maison de sorcellerie, vo
 #### Respiration sous l'eau
 
 La première des compétences que vous apprenez en tant qu'étudiant à l'école d'Aquah est de respirer sous l'eau, ce qui est nécessaire pour s'approcher des écoles de sorcellerie sous la mer. À partir du niveau 2, vous pouvez respirer sous l'eau, en plus de toute autre capacité respiratoire que vous possédez normalement.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -588,6 +785,8 @@ La créature invoquée est amicale envers vous et vos compagnons. Lancez l'initi
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé sept repos longs.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 # Maison de Chaosah
@@ -654,6 +853,8 @@ En tant que Sorcière de Chaosiah, vous apprenez différentes capacités quand v
 | 15 | Allié du monde du dessous |
 | 20 | Fracture dimensionnelle |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Confusion du Chaos
@@ -714,6 +915,8 @@ Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser �
 | 7-8 | La créature utilise son action pour faire une attaque de mêlée contre une créature déterminée au hasard et à sa portée. S'il n'y a pas de créature à sa portée, la créature ne fait rien à ce tour. |
 | 9-10 | La créature peut agir et se déplacer normalement |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 # Maison de Hippiah
@@ -741,6 +944,9 @@ Dans un groupe 5e, la sorcière d'Hippiah peut jouer un rôle de combattante de 
 ### Liste des sorts de Hippiah
 
 Les sorcières de cette maison ont accès à une liste de sorts pour elles. Ces sorts leur sont accessibles en plus de ceux trouvés dans la liste des sorts de classe de la sorcière d'Hereva au chapitre 4.
+
+```
+```
 
 ##### Sorts de sorcière de Hippiah par niveau
 | Niveau | Sorts |
@@ -778,6 +984,8 @@ En tant qu'action, vous pouvez invoquer le pouvoir de la nature pour guérir 1d4
 
 À partir du niveau 3, chaque fois que vous utilisez la capacité Bénédiction de la nature, vous pouvez choisir de dépenser un point de Réa de votre réserve pour augmenter son pouvoir. Si vous choisissez d'utiliser un point de Réa, Bénédiction de la nature soignera 1d4 pv fois votre niveau de sort.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Sauvagerie
@@ -811,6 +1019,8 @@ Chaque fois que vous utilisez votre capacité de Sauvagerie, vous pouvez choisir
 > * Vous conservez le bénéfice de tout élément de votre classe, de votre race, ou autre source et pouvez les utiliser si la nouvelle forme en est physiquement capable. Cependant, vous ne pouvez utiliser aucun de vos sens, comme la vision nocturne, à moins que votre nouvelle forme n'en dispose également.
 > * Vous choisissez si votre équipement tombe au sol dans votre espace, se fond dans votre nouvelle forme, ou est porté par elle. Porté, l'équipement fonctionne normalement, mais c'est le MD qui décide s'il est pratique pour la nouvelle forme de porter un équipement, basé sur la forme et la taille de la créature. Votre équipement ne change pas de taille ou de forme pour correspondre à la nouvelle forme, et tout équipement que le nouvelle forme ne peut pas porter doit soit tomber par terre, soit fusionner avec elle. L'équipement qui fusionne avec la forme n'a aucun effet jusqu'à ce que vous quittiez la forme.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Aura sylvestre
@@ -840,6 +1050,8 @@ montant sur une sauvegarde réussie.
 Chaque tour, chaque créature que vous considérez comme hostile subit 1d6 de dommages perforants. En outre, ces créatures doivent faire un jet de sauvegarde de Force ou de Dextérité. Sur un échec, une créature perd son mouvement et son action à ce tour et reçoit un 1d6 dégâts perforants supplémentaires.
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé sept repos longs.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -894,6 +1106,8 @@ En tant que Sorcière de Magmah, vous apprenez différentes capacités au fur et
 | 11 | Magie du Dragon |
 | 15 | Alchimiser un sort |
 | 20 | Résurrection du phénix |
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -959,6 +1173,8 @@ Au niveau 15, vous apprenez à modifier la composition magique de certains de vo
 
 Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateur de Charisme (au moins une fois). Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Résurrection du phénix
@@ -968,6 +1184,8 @@ Vous pouvez utiliser cette fonction un nombre de fois égal à votre modificateu
 Ensuite, vous récupérez la moitié de vos points de vie et vous tombez inconscient. Au début de chacun de vos tours, vous devez réussir un jet de sauvegarde de Charisme (DD 15) pour vous réveiller. Vous vous réveillez si vous subissez des dégâts, ou si quelqu'un utilise une action pour vous secouer ou vous réveiller.
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant de terminer sept repos longs.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1029,6 +1247,8 @@ Le tableau suivant décrit les capacités qu'une sorcière de Zombiah acquiert �
 | 15 | Commandement d'un être animé |
 | 20 | Souffle de vie |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Soupçon de vie
@@ -1086,6 +1306,8 @@ Lorsque vous utilisez la capacité Réparation des dégâts, vous pouvez choisir
 
 Les morts-vivants ou les constructions intelligentes sont plus difficiles à contrôler de cette façon. Si la cible a une intelligence de 8 ou plus, elle a l'avantage sur le jet de sauvegarde. Si elle échoue au jet de sauvegarde et a une intelligence de 12 ou plus, elle peut répéter le jet de sauvegarde à la fin de chaque heure jusqu'à ce qu'elle réussisse et se libère.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Souffle de vie
@@ -1098,6 +1320,8 @@ Si le corps se trouve dans le même plan, il apparaît devant vous avec tous ses
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser à nouveau avant vous terminez sept repos longs.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 <style>
@@ -1107,9 +1331,11 @@ Une fois que vous avez utilisé cette capacité, vous ne pouvez pas l'utiliser �
 
 <div style='margin-top:450px;'></div>
 
-# Options de joueurs
+# Chapitre III : Options de joueurs
 
 <div style='margin-top:25px'></div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1130,6 +1356,8 @@ question la plus importante que vous devez vous poser quand vous exposez votre h
 **Suggestions de personnalités** Chaque historique vous suggère des traits de personnalité liés à l’histoire de votre personnage. Vous pouvez les sélectionner, lancer des dés pour laisser le hasard décider, ou utiliser ces suggestions pour inventer vous-même les spécificités de votre personnage.
 
 **Personnaliser votre historique** Vous voudrez peut-être adapter certains détails d’un historique pour qu’il corresponde mieux à votre personnage ou au cadre de la campagne. Afin de le personnaliser, vous pouvez remplacer une aptitude par une autre, choisir deux compétences et un total de deux maîtrises d’outils ou de deux langues parmi les historiques qui vous sont proposés ici. Vous pouvez choisir d’utiliser l’équipement de départ proposé ou d’acheter vous-même votre équipement, comme expliqué dans la section équipement. (si vous choisissez d'acheter de l'équipement, vous ne pouvez pas prendre en plus l'équipement de départ suggéré pour votre classe). Enfin, vous pouvez choisir deux traits de personnalité, un idéal, un lien et un défaut. Si vous n’arrivez pas à trouver d’option qui corresponde à l’historique que vous voulez donner à votre personnage, vous pouvez collaborer avec le MD pour en créer une.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1190,6 +1418,8 @@ Les chasseurs de primes sont courageux et audacieux. Leur personnalité est forg
 | 5 | J'ai besoin de fixer le visage des gens pendant un certain temps pour me souvenir de leur identité et de l'endroit d'où je les connais. |
 | 6 | J'ai un chasseur de primes rival qui essaie toujours d'attraper ma proie et de piller les trésors avant moi. |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Vétéran de la Grande Guerre d'Hereva
@@ -1249,6 +1479,8 @@ Votre personnalité de vétéran de la Grande Guerre d'Hereva est forgée par le
 | 5 | Les sorcières d'une certaine maison ne m'aiment pas spécialement. |
 | 6 | Si ce n'est pas une anecdote sur ma vaillance au combat, je ne suis pas particulièrement intéressé de l'écouter. |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Erudit d'Hereva
@@ -1305,6 +1537,8 @@ En tant qu'étudiant de l'histoire et de la magie d'Hereva, chaque fois que vous
 | 4 | Je me sens en sécurité dans mes appartements ou dans une bibliothèque, mais la nature est trop dangereuse. |
 | 5 | Je n'aime pas être rectifié, et j'ai les moyens de prouver mes dires, même quand ils sont faux. |
 | 6 | Mon plus grand secret est... que la magie me fait peur. |
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1365,6 +1599,8 @@ Votre personnalité en tant que voyageur planaire égaré peut être très vari�
 | 5 | Sans mon porte-bonheur, je ne peux pas m'endormir. |
 | 6 | De temps en temps, je rêve de personnes qui me parlent depuis mon plan d'origine. |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Chercheur de bêtes magiques
@@ -1423,6 +1659,8 @@ Les chercheurs de bêtes magiques ont tendance à être curieux ou passionnés. 
 | 5 | Un type de bêtes magiques estime que je devrais avoir très bon goût. |
 | 6 | Chaque fois qu'un animal hurle à la lune, je ressens le besoin de lui répondre, quelle que soit la situation. |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Archiviste Mystique
@@ -1480,6 +1718,8 @@ Les Archivistes Mystiques sont connus pour être des gens sérieux et silencieux
 | 4 | J'ai tendance à confondre mes livres de fantaisy avec ceux de science et de magie, et parfois cela se voit dans mes paroles. |
 | 5 | J'écris très bien, mais je trouve difficile de me faire comprendre avec des mots. |
 | 6 | Je deviens nerveux lorsque je suis le centre d'attention de plusieurs personnes. |
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1540,6 +1780,8 @@ Les personnalités nomades peuvent aussi dépendre des tribus auxquelles elles a
 | 5 | Chaque fois qu'un animal hurle à la lune, je ressens le besoin de lui répondre quelle que soit la situation. |
 | 6 | Je n'aime pas grimper en altitude et j'essaie de l'éviter autant que possible. |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Noble de Qualicity
@@ -1599,6 +1841,8 @@ Les Nobles de Qualicity sont des intellectuels et des gens doués pour la magie.
 | 5 | J'aime la bonne chair, c'est ma motivation et ma faiblesse. |
 | 6 | Je cache un terrible secret qui pourrait ruiner à jamais la réputation de ma famille. |
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Oursin de l'écureuil
@@ -1655,6 +1899,8 @@ Vous savez comment vous frayer un chemin à travers les passages secrets de votr
 | 4 | J'aime les souterrains et les donjons, mais les espaces ouverts me font peur. |
 | 5 | J'ai trop de secrets, alors j'essaie de ne rien dire de moi aux autres. |
 | 6 | Je ne comprends pas pourquoi les gens sont si préoccupés par la propreté. |
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1720,6 +1966,8 @@ Vous avez appris à réaliser quelques sortilèges que vous pouvez encore lancer
 | 4 | Je suis obsédé par certains aliments et je ne peux pas passer plusieurs jours sans en manger. |
 | 5 | J'ai toujours des objections lorsque c'est une autre personne qui établit les plans. |
 | 6 | Je n'aime pas planifier, je pense qu'il est plus important d'agir rapidement. |
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -1788,6 +2036,8 @@ _Prérequis : Maison de sorcellerie autre que Chaosah_
 
 Même si vous n'êtes pas un étudiant de la Maison de Chaosah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _illusion mineure_. En outre, vous apprenez également _fou rire_ et _toile d'araignée_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Créature de la nuit
@@ -1829,24 +2079,447 @@ _Prérequis : Maison de sorcellerie autre que Zombiah_
 
 Même si vous n'êtes pas un étudiant de la Maison de Zombiah, vous êtes familier avec ce type de magie. Vous apprenez le tour de magie _poigne électrique_. En outre, vous apprenez également _simulacre de vie_ et _ténèbres_, que vous pouvez lancer une fois à leur niveau le plus bas sans dépenser de points de Réa. Vous récupérez la possibilité de lancer ces deux sorts de cette manière lorsque vous avez terminé un repos long. Le Charisme est votre caractéristique d'incantation pour les trois sorts.
 
-\page
+<div class='pageNumber auto'></div>
 
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
+\page
 
 <div style='margin-top:450px;'></div>
 
-# Magie de sorcellerie
+<div style='text-align:center'>
+
+# Chapitre IV : Magie de sorcellerie
+
+</div>
 
 <div style='margin-top:25px'></div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
 # Sorts
 
-### Liste des sorts
+La liste des sorts de ce chapitre est triée par classe, sous-classe et niveau. Immédiatement après, vous trouverez une liste complète des descriptions de sorts par ordre alphabétique.  
+Tous les sorts figurant dans ces listes peuvent être trouvés soit dans ce chapitre, soit dans le SRD 5e.
+
+<div class='spellList'>
+
+### Sorts de sorcière d'Hereva
+
+##### Tours de magie (niveau 0)
+- contact glacial
+- main du mage
+- illusion mineure
+- leap !!
+- bouffée de poison
+- prestidigitation
+
+##### Niveau 1
+- compréhension des langues
+- texte illusoire
+- mind bond *
+- stroke of genius *
+- serviteur invisible
+
+##### Niveau 2
+- ténèbres
+- envoûtement
+- immobiliser un humanoïde
+- gravitas spiralis !!
+- image miroir
+- pas brumeux
+- rayon affaiblissant
+- briser
+- pattes d'araignée
+- spying bat *
+
+##### Niveau 3
+- bewitch weapon *
+- contresort
+- dissipation de la magie
+- vol
+- forme gazeuse
+- image majeure
+- phoenix egg shell !!
+- lever une malédiction
+- sticky web *
+- witch blast *
+
+##### Niveau 4
+- bannissement
+- flétrissement
+- brasero intensia *
+- create evil pumpkin *
+- entropy seal *
+- terrain hallucinatoire
+- invisibilité supérieure
+- assassin imaginaire
+- spell deflection *
+- spiritual cleansing *
+- mur de feu
+
+##### Niveau 5
+- cône de froid
+- nuage mortel
+- contagion
+- rêve
+- sanctification
+- immobiliser un monstre
+- scrutation
+- mur de force
+
+##### Niveau 6
+- mauvais oeil
+- contamination
+- pétrification
+- possession
+- suggestion de groupe
+- illusion programmée
+- vision suprême
+
+##### Niveau 7
+- forme éthérée
+- doigt de mort
+- golden cage *
+- mirage
+- simulacre
+
+##### Niveau 8
+- demi-plan
+- dominer un monstre
+- esprit faible
+- bagou
+- mot de pouvoir étourdissant
+
+##### Niveau 9
+- projection astrale
+- prémonition
+- mur prismatique
+- mot de pouvoir mortel
+
+</div>
+
+<div class='pageNumber auto'></div>
+
+\page
+
+<div class='spellList'>
+
+### Sorts de la maison de Ah
+
+<div style='margin-top:25px;'></div>
+
+##### Tours de magie (niveau 0)
+- lumière
+- épargner les mourants
+
+##### Niveau 1
+- soin des blessures
+- sanctuaire
+
+##### Niveau 2
+- aide
+- pas brumeux
+
+##### Niveau 3
+- lux maxima *
+- revigorer
+
+##### Niveau 4
+- bannissement
+- light ghost *
+
+##### Niveau 5
+- contacter un autre plan
+- rappel à la vie
+
+##### Niveau 6
+- guérison
+- moons light *
+
+##### Niveau 7
+- forme éthérée
+- résurrection
+
+##### Niveau 8
+- demi-plan
+- invoke ah spirits *
+
+##### Niveau 9
+- guérison de groupe
+- portail
+
+<div style='margin-top:100px;'></div>
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+<div class='spellList'>
+
+### Sorts de la maison d'Aquah
+
+<div style='margin-top:25px;'></div>
+
+##### Tours de magie (niveau 0)
+- rayon de givre
+- message
+
+##### Niveau 1
+- création ou destruction d'eau
+- water expulsion *
+
+##### Niveau 2
+- bourrasque
+- water steed *
+
+##### Niveau 3
+- respiration aquatique
+- appel de la foudre
+
+##### Niveau 4
+- releasus krakenis *
+- tempête de grêle
+
+##### Niveau 5
+- cône de froid
+- conjure water elemental *
+
+##### Niveau 6
+- mur de glace
+- marche sur le vent
+
+##### Niveau 7
+- abyssal haven !!
+- sword of the lake *
+
+##### Niveau 8
+- contrôle du climat
+- deep dark ocean *
+
+##### Niveau 9
+- emprisonnement
+- tempête vengeresse
+
+<div style='margin-top:100px;'></div>
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+<div class='spellList'>
+
+### Sorts de la maison de Chaosah
+
+<div style='margin-top:0px;'></div>
+
+##### Tours de magie (niveau 0)
+- résistance
+- moquerie cruelle
+
+##### Niveau 1
+- fou rire
+- graisse
+
+##### Niveau 2
+- toile d'araignée
+- briser
+
+##### Niveau 3
+- nuage puant
+- image majeure
+
+##### Niveau 4
+- confusion
+- métamorphose
+
+##### Niveau 5
+- zone of chaos *
+- micro dimension of chaos *
+
+##### Niveau 6
+- mauvais oeil
+- danse irrésistible
+
+##### Niveau 7
+- conjure chaosah demon *
+- inversion de la gravité
+
+##### Niveau 8
+- esprit faible
+- labyrinthe
+
+##### Niveau 9
+- arrêt du temps
+- nuclear chaos *
+
+<div style='margin-top:100px;'></div>
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+<div class='pageNumber auto'></div>
+
+\page
+
+<div class='spellList'>
+
+### Sorts de la maison d'Hippiah
+
+<div style='margin-top:25px;'></div>
+
+##### Tours de magie (niveau 0)
+- druidisme
+- gourdin magique
+
+##### Niveau 1
+- amitié avec les animaux
+- baies nourricières
+
+##### Niveau 2
+- agrandir/rétrécir
+- nature's healing !!
+
+##### Niveau 3
+- invoquer des animaux
+- croissance végétale
+
+##### Niveau 4
+- insecte géant
+- invoquer des êtres des bois
+
+##### Niveau 5
+- passage par les arbres
+- shepherd of Hereva *
+
+##### Niveau 6
+- invoquer une fée
+- mur d'épines
+
+##### Niveau 7
+- régénération
+- wild transformation *
+
+##### Niveau 8
+- tremblement de terre
+- dominer un monstre
+
+##### Niveau 9
+- résurrenction suprême
+- changement de forme
+
+<div style='margin-top:100px;'></div>
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+<div class='spellList'>
+
+### Sorts de la maison de Magmah
+
+<div style='margin-top:0px;'></div>
+
+##### Tours de magie (niveau 0)
+- flambé
+- produire une flamme
+
+##### Niveau 1
+- mains brûlantes
+- charme-personne
+
+##### Niveau 2
+- flamme éternelle
+- chauffer le métal
+
+##### Niveau 3
+- boule de feu
+- motif hypnotique
+
+##### Niveau 4
+- bouclier de feu
+- witche's dinner
+
+##### Niveau 5
+- colonne de flamme
+- alchemize armor *
+
+##### Niveau 6
+- festin des héros
+- rayon de soleil
+
+##### Niveau 7
+- tempête de feu
+- cage de force
+
+##### Niveau 8
+- bagou
+- nuage incendiaire
+
+##### Niveau 9
+- nuée de météores
+- summon dragon *
+
+<div style='margin-top:100px;'></div>
+
+</div>
+
+<div style='margin-top:100px;'></div>
+
+<div class='spellList'>
+
+### Sorts de la maison de Zombiah
+
+<div style='margin-top:0px;'></div>
+
+##### Tours de magie (niveau 0)
+- poigne électrique
+- réparation
+
+##### Niveau 1
+- simulacre de vie
+- identification
+
+##### Niveau 2
+- zombification *
+- corde enchantée
+
+##### Niveau 3
+- animation des morts
+- animate object *
+
+##### Niveau 4
+- fabrication
+- store spell
+
+##### Niveau 5
+- animation des objets
+- éveil
+
+##### Niveau 6
+- protections et sceaux
+- apparatus *
+
+##### Niveau 7
+- cage de force
+- simulacre
+
+##### Niveau 8
+- Imbue Ability *
+- Construct Clone *
+
+##### Niveau 9
+- Power Word Create *
+- Artifact *
+
+<div style='margin-top:100px;'></div>
+
+</div>
+
+<div class='pageNumber auto'></div>
+
+\page
 
 ### Description des sorts
 
@@ -1923,6 +2596,8 @@ Vous pouvez permettre à toute autre créature d'utiliser l'épée comme une ép
 
 _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, le bonus passe à +2. Lorsque vous utilisez un emplacement de sort de niveau 7 ou supérieur, le bonus passe à +3.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Brasero Intensia
@@ -1989,6 +2664,8 @@ Vous imprégnez une partie du Réa d'une créature ciblée dans un corps artific
 À tout moment après avoir jeté ce sort, si la créature d'origine meurt, son âme est transférée au clone, à condition que l'âme soit libre et désireuse de revenir. Le clone est physiquement identique à l'original et a la même personnalité, les mêmes souvenirs et capacités, mais aucun de ses équipements d'origine et son type est modifié en créature artificielle.
 
 Les restes physiques de la créature originale, s'ils existent, deviennent inertes et ne peuvent plus être restaurés à la vie par la suite, puisque l'âme de la créature est ailleurs.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2061,6 +2738,8 @@ ___
 Une cage à oiseaux cylindrique de 20 pieds de rayon, faite d'or, apparaît à un endroit que vous choisissez à portée et attrape n'importe quelle créature dans la zone.
 
 La cage bloque toute tentative d'entrée ou de sortie de tout objet ou créature. Les créatures à l'intérieur de la cage ne peuvent pas lancer de sorts et les sorts ne peuvent pas atteindre les créatures se trouvant à l'intérieur.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2141,6 +2820,8 @@ Les caractéristiques de l'esprit ancestral sont dans l'annexe des monstres du p
 
 _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement de sort de niveau 5 ou supérieur, la dangerosité augmente de 1 pour chaque niveau d'emplacement de sort supérieur à 4.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Lux Maxima
@@ -2219,6 +2900,8 @@ Vous touchez un être vivant et vous pouvez mettre fin à une maladie ou à un �
 
 _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez mettre fin à une maladie ou une condition supplémentaire pour chaque emplacement de sort de niveau supérieur à 2. De plus, la créature guérit 1d6 points de vie pour chaque niveau d'emplacement de sort au-dessus du 2ème.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Chaos nucléaire
@@ -2265,6 +2948,8 @@ ___
 Une barrière de feu magique en forme d'oeuf de phénix apparaît et vous protège. Jusqu'au début de votre prochain tour, vous bénéficiez d'un bonus de +4 en CA, y compris contre l'attaque déclenchante, et vous ne subissez aucun dégât de _projectile magique_.
 
 De plus, vous obtenez une résistance au feu pendant toute la durée du sort.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2350,6 +3035,8 @@ Vous touchez une créature que vous pouvez toucher et qui est charmée, effrayé
 
 Si la cible possède un objet maudit, la malédiction de l'objet demeure, mais le sort brise l'harmonisation de la créature avec l'objet afin qu'il puisse être enlevé ou jeté.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Chauve-souris espionne
@@ -2428,6 +3115,8 @@ Lorsque le dragon a terminé sa tâche, il retourne à son plan de départ, empo
 
 Le diamant utilisé comme composante matérielle du sort est consommé dans tous les cas.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Epée du lac
@@ -2497,6 +3186,8 @@ Une lumière violacée clignote du bout de votre doigt vers un point que vous ch
 Au début de chacun de vos tours pendant la durée du sort, vous pouvez choisir de subir 5 dégâts nécrotiques, si vous le faites vous pouvez créer une autre explosion à un autre point que vous choisissez à portée. Ces dégâts ne peuvent être évités par résistance ou immunité. Si vous choisissez de ne pas encaisser les dégâts, le sort se termine.
 
 _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou supérieur, les dégâts nécrotiques de chaque explosion augmentent de 1d6 pour chaque emplacement de sort de niveau supérieur à 3.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2580,6 +3271,8 @@ Ensuite, lancez 1d10 pour choisir une couleur pour les effets visuels.
 
 Les créatures affectées par ce sort ne peuvent pas réagir et ne peuvent pas rester concentrées sur leurs sorts. Enfin, lancez un d10 pour chaque cible afin de décider des effets supplémentaires.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 # Objets magiques
@@ -2649,6 +3342,8 @@ Cette sphère ressemble à une boule de cristal de 6 pouces de rayon avec une pe
 La sphère a une porte minuscule où une créature d'un pouce de haut ou plus petit pourrait entrer. Les créatures à l'intérieur de la sphère peuvent vivre normalement. L'intérieur est équivalent à un hectare d'un champ arboré et un chalet confortable.
 
 Si la sphère est brisée, le demi-plan à l'intérieur est détruit et les créatures qui s'y trouvent sont exilées vers le plan matériel, subissant 6d6 dégâts de force.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2730,6 +3425,8 @@ Vous pouvez utiliser une action pour écarter le génie et le piéger à l'inté
 Outre son obligation à vous obéir, le génie agit comme n'importe quelle autre créature, et n'a pas d'attachement à vous. Il pourrait essayer de vous tromper, ou de vous aider, en fonction de son propre avis sur vous.
 
 Les caractéristiques du Génie du succès sont dans l'annexe des monstres à la fin de ce livre.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -2814,6 +3511,8 @@ Quand vous faites votre attaque de souffle ou après que le temps se soit écoul
 *Potion, peu courant*
 
 Si la potion est administrée à une bête dont l'intelligence est inférieure ou égale à 5, elle gagne en intelligence. La créature peut maintenant lire toutes les langues que vous pouvez lire. La créature peut communiquer avec d'autres créatures intelligentes avec ses moyens. Si la créature a des pouces opposables, elle peut écrire.
+
+<div class='pageNumber auto'></div>
 
 \page 
 
@@ -2902,6 +3601,8 @@ Chaque fois que vous lancez un sort avec une portée de contact, vous pouvez dé
 
 Cet anneau a 3 charges, et il récupère 1d3 charges dépensées quotidiennement à l'aube. Lorsque vous échouez à un jet de sauvegarde de Sagesse alors que vous le portez, vous pouvez utiliser votre réaction pour dépenser 1 de ses charges afin de réussir ce jet de sauvegarde en remplacement.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Anneau de personnalité
@@ -2975,6 +3676,8 @@ L'anneau ne vous dit pas dans quelle direction ni à quelle distance la créatur
 *Anneau, peu courant*
 
 En portant cet anneau, vous avez une respiration aquatique en plus de votre respiration normale.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -3056,6 +3759,8 @@ Un sort _lever une malédiction_ met fin à cet effet.
 
 Une fois que vous avez utilisé cet effet sur une créature, vous ne pouvez plus la cibler à nouveau pendant 24 heures.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Sceptre de la licorne
@@ -3135,6 +3840,8 @@ Vous pouvez utiliser le bâton de fouille pour faire un trou dans le sol en 1 mi
 En utilisant la même quantité de terre, vous pouvez remplir 5 pieds cubiques d'un trou en 1 action. En utilisant la même quantité de pierres vous pouvez remplir de 5 pieds cubiques en 2 tours.
 
 L'utilisation de cette capacité ne nécessite pas beaucoup d'efforts physiques de votre part, et ne provoque pas de fatigue.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -3219,6 +3926,8 @@ En le tenant, vous obtenez un bonus de +1 pour la classe d'armure, les jets de s
 
 En outre, vous comprenez le sens littéral de toute langue parlée que vous entendez. Vous comprenez également toute langue écrite que vous voyez, mais vous devez toucher la surface sur laquelle les mots sont écrits. Il faut environ 1 minute pour lire une page de texte.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Bâton du berger
@@ -3301,6 +4010,8 @@ En tenant la baguette, vous avez l'avantage sur vos tests de caractéristiques d
 * _Détection du poison et des maladies_
 * _Communication avec les animaux_
 
+<div class='pageNumber auto'></div>
+
 \page
 
 #### Baguette d'absorption de sorts
@@ -3354,6 +4065,8 @@ Tout produit périssable à l'intérieur du chaudron restera indéfiniment frais
 
 <img src='https://framagit.org/peppercarrot/webcomics/-/raw/master/ep01_Potion-of-Flight/lang/gfx_Pepper-and-Carrot_by-David-Revoy_E01.png' style='position:absolute;top:560px;left:0px;width:816px' />
 
+<div class='pageNumber auto'></div>
+
 \page
 
 <style>
@@ -3363,9 +4076,15 @@ Tout produit périssable à l'intérieur du chaudron restera indéfiniment frais
 
 <div style='margin-top:450px;'></div>
 
+<div style='text-align:center'>
+
 # Appendices
 
+</div>
+
 <div style='margin-top:25px'></div>
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -3427,6 +4146,8 @@ ___
 > ### Actions
 > ***Morsure et empoignade.***  _Attaque d'arme au corps-à-corps_ : +3 pour toucher, allonge 1,50 m, une cible. _Touché_ : 8 (2d6+1) dégâts perforants, et la cible est empoignée (libérée sur DD 13). Tant que cette empoignade n'est pas terminée, la cible est retenue, et le chien d'Hereva ne peut pas mordre une autre cible.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Renard à deux queues
@@ -3484,6 +4205,8 @@ ___
 >
 > ### Actions
 > ***Bec.*** _Attaque d'arme au corps-à-corps_ : +13 pour toucher, allonge 3 m, une cible. _Touché_ : 7 (2d4+2) dégâts perforants.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -3545,6 +4268,8 @@ ___
 > ***Serres.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 1,50 m, une cible. _Touché_ : 7 (2d4+2) dégâts tranchants.
 
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Canard dragon
@@ -3602,6 +4327,8 @@ ___
 > ***Morsure venimeuse.*** _Attaque d'arme au corps-à-corps_ : +2 pour toucher, allonge 1,50 m, une cible. _Touché_ : 4 (1d8) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 3 (1d6) dégâts de poison si elle échoue, la moitié seulement si elle réussit. Si les dégâts de poison de poison réduisent à 0 les points de vie de la cible, celle-ci est stable, mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Dragonchat
@@ -3658,6 +4385,8 @@ ___
 > ***Morsure.*** _Attaque d'arme au corps-à-corps_ : +3 pour toucher, allonge 1,50 m, une cible. _Touché_ : 3 (1d4+1) dégâts perforants.
 >
 > ***Absorption de vie.*** _Attaque d'arme au corps-à-corps_ : +3 pour toucher, allonge 1,50 m, une cible. _Touché_ : 6 (1d10+1) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde de Constitution DD 9 pour ne pas voir son total maximum de points de vie réduit d'un montant égal aux dégâts subis. Cette réduction persiste jusqu'au moment où la créature termine un repos long. La cible meurt si cet effet réduit son total maximum de points de vie à 0.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -3719,6 +4448,8 @@ ___
 > ***Morsure venimeuse.*** _Attaque d'arme au corps-à-corps_ : +3 pour toucher, allonge 1,50 m, une cible. _Touché_ : 5 (1d8+1) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 3 (1d6) dégâts de poison si elle échoue, la moitié seulement si elle réussit. Si les dégâts de poison de poison réduisent à 0 les points de vie de la cible, celle-ci est stable, mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 
 
+<div class='pageNumber auto'></div>
+
 \page
 
 # Appendice II : Monstres
@@ -3761,6 +4492,8 @@ ___
 >
 > ***Queue géante.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 4,50 m, une cible. _Touché_ : 10 (1d10+5) dégâts contondants. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force DD 16 pour ne pas être projetée à 3 mètres de la tortue abyssale et jetée au sol.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Golem antique
@@ -3798,6 +4531,8 @@ ___
 > ***Coup.*** _Attaque d'arme au corps-à-corps_ : +5 pour toucher, allonge 1,50 m, une cible. _Touché_ : 13 (3d6+3) dégâts contondants.
 > ### Réactions
 > ***Parade.*** Le golem antique ajoute 2 à sa CA lorsqu'il est la cible d'une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer ainsi.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -3850,6 +4585,8 @@ ___
 > ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +7 pour toucher, allonge 3 m, une cible. _Touché_ : 18 (4d6+4) dégâts tranchants.
 
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Eyeük
@@ -3901,6 +4638,8 @@ ___
 > ***Trident du Chaos.*** _Attaque d'arme au corps-à-corps_ : +10 pour toucher, allonge 3 m, une cible. _Touché_ : 29 (5d8+7) dégâts perforants et 22 (4d10) dégâts de foudre.
 
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ### Spidük
@@ -3947,6 +4686,8 @@ ___
 >
 > ***Griffe.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 3 m, une cible. _Touché_ : 15 (3d6+5) dégâts tranchants.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Ancien élémentaire
@@ -3985,6 +4726,8 @@ ___
 > ### Réactions
 > ***Parade.*** Le golem antique ajoute 2 à sa CA lorsqu'il est la cible d'une attaque au corps à corps qui devrait le toucher. Il doit voir son agresseur et manier une arme de corps à corps pour pouvoir parer ainsi.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Citrouille maléfique
@@ -4018,6 +4761,8 @@ ___
 > ***Morsure venimeuse.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 1,50 m, une cible. _Touché_ : 11 (2d8+2) dégâts perforants et la cible doit effectuer un jet de sauvegarde de Constitution DD 11. Elle subit 7 (2d6) dégâts de poison si elle échoue, la moitié seulement si elle réussit. Si les dégâts de poison de poison réduisent à 0 les points de vie de la cible, celle-ci est stable, mais empoisonnée pendant 1 heure, même après avoir récupéré des points de vie, et elle est paralysée tant que le poison continue de faire effet.
 >
 > ***Vigne grimpante.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 15 m, une cible. _Touché_ : la cible est empoignée (libérée sur DD 12). Tant que cette empoignade n'est pas terminée, la cible est retenue et est désavantagée sur ses tests de Force et ses jets de sauvegarde de Force, et la citrouille maléfique ne peut pas utiliser la même vigne sur une autre cible.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -4057,6 +4802,8 @@ ___
 >
 > ***Vigne grimpante.*** _Attaque d'arme au corps-à-corps_ : +4 pour toucher, allonge 15 m, une cible. _Touché_ : la cible est empoignée (libérée sur DD 12). Tant que cette empoignade n'est pas terminée, la cible est retenue et est désavantagée sur ses tests de Force et ses jets de sauvegarde de Force, et la citrouille maléfique ne peut pas utiliser la même vigne sur une autre cible.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Chauve-souris flottante
@@ -4086,6 +4833,8 @@ ___
 > ***Ouïe aiguisée.*** La chauve-souris flottante est avantagée lors des tests de Sagesse (Perception) basés sur l'ouïe.
 > ### Actions
 > ***Morsure.*** _Attaque d'arme au corps-à-corps_ : +5 pour toucher, allonge 1,50 m, une cible. _Touché_ : 5 (1d4+3) dégâts perforants.
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -4134,6 +4883,8 @@ ___
 > ***Projeter une flamme.*** _Attaque de sort à distance_ : +11 pour toucher, allonge 45 m, une cible. _Touché_ : 45 (13d6) dégâts de feu. Si la cible est un objet inflammable qui n'est pas porté ou transporté, elle prend feu.
 
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Baleine géante
@@ -4171,6 +4922,8 @@ ___
 >
 > ***Engloutir en entier.*** La baleine géante effectue une attaque de morsure contre une cible de taille Très Grande ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la baleine géante et elle subit 21 (4d6+7) dégâts d'acide au début de chacun des tours de la baleine géante. Si la baleine géante meurt, une créature engloutie n'est plus entravée à cause d'elle et peut s'extirper de la carcasse en dépensant 1,50 mètre de déplacement ; elle en sort à terre.
 
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -4213,6 +4966,8 @@ ___
 >
 > ***Projection.*** Un objet tenu ou une créature empoignée par le kraken, de Grande taille ou plus petit, est projeté à une distance maximale de 18 mètres dans une direction aléatoire. L'objet ou la créature se retrouve ensuite à terre. Si une cible lancée entre en collision avec une surface solide, elle subit 3 (1d6) dégâts contondants par tranche de 3 mètres parcourus depuis l'emplacement où elle a été projetée. Si la cible heurte une autre créature, cette dernière doit réussir un jet de sauvegarde de Dextérité DD 16 pour ne pas subir les mêmes dégâts et se retrouver à terre.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Méga-requin
@@ -4248,6 +5003,8 @@ ___
 >
 > ***Engloutir en entier.*** Le méga-requin effectue une attaque de morsure contre une cible de Grande taille ou plus petite qu'elle empoigne. Si l'attaque touche, la cible est engloutie et l'empoignade prend fin. La cible engloutie est aveuglée et entravée, elle bénéficie d'un abri total contre les attaques et autres effets provenant de l'extérieur de la baleine géante et elle subit 7 (2d6) dégâts d'acide au début de chacun des tours de la baleine géante. Si le méga-requin meurt, une créature engloutie n'est plus entravée à cause de lui et peut s'extirper de la carcasse en dépensant 1,50 mètre de déplacement ; elle en sort à terre.
 
+
+<div class='pageNumber auto'></div>
 
 \page
 
@@ -4290,6 +5047,8 @@ ___
 >
 > ***Coup.*** _Attaque d'arme au corps-à-corps_ : +8 pour toucher, allonge 1,50 m, une cible. _Touché_ : 15 (3d6+5) dégâts contondants.
 
+<div class='pageNumber auto'></div>
+
 \page
 
 ## Serpent d'eau élémentaire
@@ -4319,6 +5078,8 @@ ___
 >
 > ***Comprimer.*** _Attaque d'arme au corps-à-corps_ : +6 pour toucher, allonge 1,50 m, une cible. _Touché_ : 13 (2d8+4) dégâts contondants et la cible est empoignée (DD 14 pour se dégager). Tant que l'empoignade persiste, la cible est entravée et le serpent d'eau élémentaire ne peut pas en comprimer une nouvelle.
 
+
+<div class='pageNumber auto'></div>
 
 \page
 
