@@ -3,9 +3,11 @@
   .phb#p1:after{ display:none; }
 </style>
 
-<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:10px' />
+<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:0px;width:1122px;' />
 
-<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_witchcraft.png" style='position:absolute;top:0px;left:0px' />
+<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_witchcraft.png" style='position:absolute;top:150px;left:100px;width:500px' />
+
+<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_magic.png" style='position:absolute;top:250px;left:150px;width:400px' />
 
 \page
 
