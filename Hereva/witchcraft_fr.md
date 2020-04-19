@@ -1,13 +1,33 @@
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
-
 <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:0px;width:816px'/>
 
-<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_witchcraft.png" style='position:absolute;top:150px;left:165px;width:500px' />
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
 
-<img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_magic.png" style='position:absolute;top:250px;left:215px;width:400px' />
+<style type="text/css">
+  @font-face {
+font-family: 'Nodesto Caps Condensed';
+font-style: normal;
+font-weight: 400;
+src: local('Nodesto Caps Condensed'), url(https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf) format('ttf');
+
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
+
+  .phb#p1{ text-align:center; }
+  .phb#p1:after{ display:none; }
+  .phb#p1 h1 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:90px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;}
+  .phb#p1 h2 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:60px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;}
+</style>
+
+<div style='margin-top:150px;'></div>
+
+<div class="wide">
+
+# WITCHCRAFT
+
+## La Magie d'Hereva
+
+</div>
 
 <div class='pageNumber auto'></div>
 
@@ -100,7 +120,7 @@ titre intérieur
  - #### Maison de Hippiah
  - #### Maison de Magmah
  - #### Maison de Zombiah
-- ### Chapitre III : Player's Options
+- ### Chapitre III : Options des joueurs
  - #### Historiques
   - Chasseur de primes
   - Vétéran de la Grande Guerre d'Hereva
