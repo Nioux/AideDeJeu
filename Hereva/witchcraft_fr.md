@@ -6,8 +6,8 @@
   @font-face {
 font-family: 'Nodesto Caps Condensed';
 font-style: normal;
-font-weight: 400;
-src: local('Nodesto Caps Condensed'), url(https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf) format('ttf');
+font-weight: normal;
+src: local('Nodesto Caps Condensed'), url(https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf) format('opentype');
 
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
 
@@ -16,6 +16,11 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-
   .phb#p1 h1 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:90px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: black;}
   .phb#p1 h2 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:60px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;}
+  .phb#p1 h5 { color: white; 
+  font-size: 18px;
+  font-family: 'arial';
+  -webkit-text-fill-color: white;-webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: black;}
 </style>
 
@@ -27,19 +32,71 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-
 
 ## La Magie d'Hereva
 
+<div style='margin-top:600px;'></div>
+
+##### Un supplément pour le plus grand jeu de rôle au monde.
+
+##### Pour jouer des personnages de sorcières basés sur le web comic Pepper & Carrot
+
 </div>
 
 <div class='pageNumber auto'></div>
 
 \page
 
-titre intérieur
+## Un monde de magie et d'aventure
+
+Bienvenue lecteurs ! Merci d'avoir choisi ce supplément, j'espère sincèrement qu'il vous plaira autant qu'à moi de l'écrire. Ce livre est le premier d'une série de suppléments inspirés du monde d'Hereva, basés sur la bande dessinée Pepper & Carrot de David Revoy.
+
+Mais ce ne sont pas mes premiers travaux. J'ai déjà écrit quelques suppléments bien accueillis et ils sont disponibles à l'achat en ligne (certains sont payants).
+
+Vous en trouverez quelques-unes ci-dessous sur cette page.
+
+<div style='margin-top:550px;'></div>
+
+## Plus de titres du même auteur
+
+Immortuos - Undead Monsters for D&D
+
+The Book of Many Eyes - Beholders for 5e
+
+The Cursed Mountain
 
 <div class='pageNumber auto'></div>
 
 \page
 
-3è de couv
+<div class="wide" style="text-align: center">
+
+# Witchcraft
+
+## La Magie d'Hereva
+
+<div style='margin-top:50px;'></div>
+
+#### Un supplément pour le plus grand jeu de rôle au monde.
+
+#### Pour jouer des personnages de sorcières basés sur le web comic Pepper & Carrot, créé par David Rejoy.
+
+<div style='margin-top:50px;'></div>
+
+#### Par Xacur
+
+</div>
+
+<div style='margin-top:450px;'></div>
+
+- Design : Xacur.
+- Design additionel : David Caamal.
+- Developpement : Xacur, David Caamal.
+- Edition : Xacur.
+- Dessin de couverture : David Revoy.
+- Illustrations intérieures : David Revoy, Xacur.
+- Design graphique : Xacur.
+
+Plus de détails sur les crédits et les licences à la fin de ce document.
+
+Remerciements particuliers à mes deux groupes de jeu de rôle qui m'ont aidé à tester différentes parties de ce livre.
 
 <div class='pageNumber auto'></div>
 
@@ -188,11 +245,43 @@ titre intérieur
 
 # Introduction
 
+Le monde d'Hereva est un monde de magie, habité par des créatures fantastiques et de courageux aventuriers. Le monde lui-même est si magique qu'il ne possède pas de carte figée, tout évolue si rapidement que les gens doivent mettre à jour leurs cartes régulièrement. Dans ce monde, tout le monde est capable de faire un peu de magie mais il y a peu de personnes aussi compétentes en magie que les sorcières d'Hereva.
+
+Pepper & Carrot est un webcomic créé par David Revoy, à propos d'une jeune sorcière appelée Pepper et de son espiègle chat orange Carrot. Dans le comic, Pepper apprend comment être une sorcière grâce à ses trois professeurs qui, bien qu'elles ne soient pas comme les professeurs des autres écoles de magie, enseignent toujours de bonnes leçons à leur façon.
+
+Dans Hereva, la magie est partout, tout le monde peut faire au moins un peu de magie, même les animaux et les lieux ont des côtés magiques en eux.
+
+## À quoi sert ce livre ?
+
+Ce livre a pour but d'établir les règles pour jouer des personnages inspirés de l'univers de Pepper & Carot dans le système 5e du plus grand jeu de rôle au monde. Ce supplément n'est pas une explication approfondie du monde, ou de la façon de jouer une campagne entière à Hereva, mais une introduction sur la façon de prendre des personnages de ce monde et de les utiliser dans n'importe quel le type de cadre de campagne.
+
+Les informations contenues dans ce livre sont principalement destinées aux joueurs, il n'y a pas beaucoup de contenu pour un MD. Dans un avenir proche, je vais publier un bestiaire et une aventure sur la base de ces règles qui contiendront plus d'informations pour le MD.
+
+## Comment utiliser ce livre
+
+Tout d'abord, vous pouvez sauter l'introduction (mais si vous lisez ceci, vous ne l'avez pas encore fait) et allez lire le webcomic Pepper & Carrot. Dans ce livre, au lieu d'expliquer ce qui est différent de notre monde, je suppose que vous avez déjà lu le comic et que vous connaissez le genre d'histoires qu'il raconte.
+
+Dans le premier chapitre, vous trouverez les règles pour créer une sorcière d'Hereva. Dans le deuxième chapitre, vous trouverez les descriptions des sous-classes de la sorcière d'Héréva appelées Maisons de sorcellerie. C'est le chapitre le plus important puisque le rôle d'une sorcière dans le jeu dépend beaucoup de la maison de sorcellerie à laquelle elle appartient.
+
+Le chapitre trois contient de nouveaux historiques et dons pour personnaliser davantage les personnages des joueurs. Il ne sont pas seulement destinés aux sorcières mais pour toute autre classe de personnage. Le chapitre 4 traite de la magie, il contient la liste des sorts pour Sorcière d'Hereva et ses sous-classes, ainsi que les descriptions des nouveaux sorts. Il contient également une longue liste de nouveaux objets magiques inspirés de l'univers de Pepper & Carot.
+
 <div class='pageNumber auto'></div>
 
 \page
 
 # Remerciements
+
+Depuis la première fois que j'ai lu le comic, je l'ai toujours aimée, et elle m'a surpris à bien des égards. L'une des choses que j'ai le plus aimé dans ce comic est le monde créé par David Revoy dans lequel il prend lieu. J'ai toujours été fan d'histoires de fantasy, en particulier des mondes hauts en magie. C'est Hereva, un monde où tout ce que vous aviez pris pour acquis s'avère différent, plus passionnant et plus amusant.
+
+Un autre charme de Pepper & Carrot est dans la beauté des dessins de M. Revoy. Il n'est pas seulement ingénieux et talentueux, il est également très ouvert dans sa façon de travailler. Ses vidéos sur YouTube, où il montre la façon dont il crée ses illustrations, sont très utiles pour tous ceux qui aspirent à créer des bandes dessinées comme la sienne.
+
+C'est grâce à M. Revoy et à sa philosophie de publication de son contenu par le biais de licences Creative Commons, que ce livre est possible. Un grand merci à lui et à toutes les personnes qui rendent ce comic possible.
+
+Je tiens également à remercier toutes les personnes qui ont soutenu la campagne Kickstarter, qui m'ont fait confiance pour la réalisation de ce livre et sans qui cela ne serait possible non plus.
+
+Tout au long de la création de ce livre, j'ai constamment eu ce sentiment de créer quelque chose pour que les backers puissent ressentir que ça valait la peine de croire en moi et de me soutenir. Je vous suis profondément reconnaissant à tous.
+
+Enfin, je tiens à remercier David Caamal, un ami depuis de si de nombreuses années, que je ne me souviens plus combien. Il fut suffisamment gentil pour m'aider à rassembler toutes ces règles et ajouter de nombreuses nouveautés pour améliorer ce livre.
 
 <div class='pageNumber auto'></div>
 
@@ -5103,6 +5192,39 @@ ___
 
 \page
 
+## License Information
+
+**Witchcraft: Magic of Hereva** is based on the web comic Pepper & Carrot, created by David Revoy (davidrevoy.com). It uses the world description, character names and illustrations under the license Creative Commons Attribution 4.0 International.
+
+https://www.peppercarrot.com/
+
+The rules on the supplement are based on the roles of the V5.1 Systems Reference Document, under the Open- Gaming License. For more information about this license visit Wizard of the Coast website.
+
+https://dnd.wizards.com/articles/features/systemsreference-document-srd
+
+## Art credits
+
+Cover Art By David Revoy
+
+Inside Illustrations pages: 5, 7, 8, 9, 11, 15, 16, 17, 19, 20, 21, 23, 24, 25, 27, 28, 29, 32, 33, 34, 36, 37, 38, 39, 41, 42, 55, 61, 63, 65, 67, 69, 70, 71, 72, 73, 74, 79, 80, 82, 83, 84, 87, 92, 97, By David Revoy.
+
+These illustrations are used and modified under the license Creative Commons Attribution 4.0 International.
+
+https://www.davidrevoy.com/
+
+Additional illustrations, pages: 11, 13,. By Xacur. these illustrations are released under the license Creative Commons Attribution 4.0 International.
+
+For more information about this license visit the Creative Commons website.
+
+https://creativecommons.org/licenses/by/4.0/
+
+## About the author
+Xacur is a freelancer programmer. Among his hobbies are playing role-playing games and video games. In his spare time he writes supplements for the world’s greatest rolplaying game and he publishes on DM’s Guild, and creates indie video games for some game jams. For more than 20 years, role-playing games have been a very important part of his life.
+
+<div class='pageNumber auto'></div>
+
+\page
+
 OPEN GAME LICENSE Version 1.0a
 The following text is the property of Wizards of the
 Coast, Inc. and is Copyright 2000 Wizards of the Coast,
@@ -5244,3 +5366,5 @@ James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris
 Sims, and Steve Townshend, based on original material by
 E. Gary Gygax and Dave Arneson.
 END OF LICENSE
+
+<div class='pageNumber auto'></div>
