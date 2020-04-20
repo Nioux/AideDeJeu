@@ -1,21 +1,20 @@
 <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:0px;width:816px'/>
 
-<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
 
 <style type="text/css">
   @font-face {
 font-family: 'Nodesto Caps Condensed';
 font-style: normal;
 font-weight: normal;
-src: local('Nodesto Caps Condensed'), url(https://github.com/jonathonf/solbera-dnd-fonts/raw/master/Nodesto%20Caps%20Condensed/Nodesto%20Caps%20Condensed.otf) format('opentype');
+src: url(./fonts/Nodesto%20Caps%20Condensed.otf) format('opentype');
 
 unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215; }
 
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
-  .phb#p1 h1 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:90px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 3px;
+  .phb#p1 h1 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:90px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;}
-  .phb#p1 h2 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:60px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 2px;
+  .phb#p1 h2 { text-align: center; font-family: 'Nodesto Caps Condensed';font-size:60px;-webkit-text-fill-color: white;-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;}
   .phb#p1 h5 { color: white; 
   font-size: 18px;
