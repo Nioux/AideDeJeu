@@ -93,6 +93,15 @@ class AppLocalizations {
     );
   }
 
+  String get originTitle {
+    return Intl.message(
+      'Origin',
+      name: 'originTitle',
+      desc: 'Title for the Origin page',
+      locale: localeName,
+    );
+  }
+
   String get backgroundTitle {
     return Intl.message(
       'Background',
@@ -187,6 +196,39 @@ class AppLocalizations {
     return Intl.message(
       'Languages',
       name: 'raceLanguages',
+      desc: '',
+      locale: localeName,
+    );
+  }
+
+  String get originRegionsOfOrigin {
+    return Intl.message(
+      'Regions of Origin',
+      name: 'originRegionsOfOrigin',
+      desc: '',
+      locale: localeName,
+    );
+  }
+  String get originMainLanguages {
+    return Intl.message(
+      'Main Languages',
+      name: 'originMainLanguages',
+      desc: '',
+      locale: localeName,
+    );
+  }
+  String get originAspirations {
+    return Intl.message(
+      'Aspirations',
+      name: 'originAspirations',
+      desc: '',
+      locale: localeName,
+    );
+  }
+  String get originAvailableSkills {
+    return Intl.message(
+      'Available Skills',
+      name: 'originAvailableSkills',
       desc: '',
       locale: localeName,
     );

@@ -156,38 +156,20 @@ class PCEditorPage extends StatelessWidget {
         ? Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        _buildSubTitle(context, state,
-            "RegionsOfOrigin"),
-            //AppLocalizations.of(context).raceAbilityScoreIncrease),
+        _buildSubTitle(context, state, AppLocalizations.of(context).originRegionsOfOrigin),
         _buildMarkdown(context, state, state.origin?.regionsOfOrigin),
         Text(""),
         _buildSubTitle(
-            context, state, "MainLanguages"), //AppLocalizations.of(context).raceAge),
+            context, state, AppLocalizations.of(context).originMainLanguages),
         _buildMarkdown(context, state, state.origin?.mainLanguages),
         Text(""),
         _buildSubTitle(
-            context, state, "Aspirations"), //AppLocalizations.of(context).raceAlignment),
+            context, state, AppLocalizations.of(context).originAspirations),
         _buildMarkdown(context, state, state.origin?.aspirations),
         Text(""),
         _buildSubTitle(
-            context, state, "AvailableSkills"), //AppLocalizations.of(context).raceSize),
+            context, state, AppLocalizations.of(context).originAvailableSkills),
         _buildMarkdown(context, state, state.origin?.availableSkills),
-        //Text(""),
-        //_buildSubTitle(
-        //    context, state, AppLocalizations.of(context).raceSpeed),
-        //_buildMarkdown(context, state, state.race?.speed),
-        //state.race?.darkvision != null ? Text("") : SizedBox.shrink(),
-        //state.race?.darkvision != null
-        //    ? _buildSubTitle(context, state,
-        //    AppLocalizations.of(context).raceDarkvision)
-        //    : SizedBox.shrink(),
-        //state.race?.darkvision != null
-        //    ? _buildMarkdown(context, state, state.race?.darkvision)
-        //    : SizedBox.shrink(),
-        //Text(""),
-        //_buildSubTitle(
-        //    context, state, AppLocalizations.of(context).raceLanguages),
-        //_buildMarkdown(context, state, state.race?.languages),
       ],
     )
         : SizedBox.shrink();
@@ -261,9 +243,15 @@ class PCEditorPage extends StatelessWidget {
             // Colors.red,
             indicatorSize: TabBarIndicatorSize.label,
             tabs: <Widget>[
+//              Text(
+//                AppLocalizations.of(context).raceTitle,
+//                style: TextStyle(
+//                  fontSize: 25,
+//                  fontFamily: "Cinzel",
+//                ),
+//              ),
               Text(
-                "Origine",
-                //AppLocalizations.of(context).raceTitle,
+                AppLocalizations.of(context).originTitle,
                 style: TextStyle(
                   fontSize: 25,
                   fontFamily: "Cinzel",
@@ -302,13 +290,20 @@ class PCEditorPage extends StatelessWidget {
         ),
         body: TabBarView(
           children: [
+//            Container(
+//              margin: EdgeInsets.all(10.0),
+//              child: ListView(
+//                children: <Widget>[
+//                  _buildRacesWidget(context, state),
+//                  _buildSubRacesWidget(context, state),
+//                  _buildRaceDetailsWidget(context, state),
+//                ],
+//              ),
+//            ),
             Container(
               margin: EdgeInsets.all(10.0),
               child: ListView(
                 children: <Widget>[
-                  //_buildRacesWidget(context, state),
-                  //_buildSubRacesWidget(context, state),
-                  //_buildRaceDetailsWidget(context, state),
                   _buildOriginsWidget(context, state),
                   _buildOriginDetailsWidget(context, state),
                 ],
