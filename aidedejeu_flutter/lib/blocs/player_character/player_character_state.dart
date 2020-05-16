@@ -8,6 +8,9 @@ class PlayerCharacterState extends Equatable {
   final List<RaceItem> races;
   final List<SubRaceItem> subRaces;
 
+  final OriginItem origin;
+  final List<OriginItem> origins;
+
   final BackgroundItem background;
   final SubBackgroundItem subBackground;
   final List<BackgroundItem> backgrounds;
@@ -18,6 +21,8 @@ class PlayerCharacterState extends Equatable {
     this.races,
     this.subRace,
     this.subRaces,
+    this.origin,
+    this.origins,
     this.background,
     this.backgrounds,
     this.subBackground,
@@ -29,6 +34,8 @@ class PlayerCharacterState extends Equatable {
     List<RaceItem> races,
     SubRaceItem subRace,
     List<SubRaceItem> subRaces,
+    OriginItem origin,
+    List<OriginItem> origins,
     BackgroundItem background,
     List<BackgroundItem> backgrounds,
     SubBackgroundItem subBackground,
@@ -39,6 +46,8 @@ class PlayerCharacterState extends Equatable {
       races: races ?? this.races,
       subRace: subRace ?? this.subRace,
       subRaces: subRaces ?? this.subRaces,
+      origin: origin ?? this.origin,
+      origins: origins ?? this.origins,
       background: background ?? this.background,
       backgrounds: backgrounds ?? this.backgrounds,
       subBackground: subBackground ?? this.subBackground,
@@ -51,6 +60,8 @@ class PlayerCharacterState extends Equatable {
     List<RaceItem> races,
     SubRaceItem subRace,
     List<SubRaceItem> subRaces,
+    OriginItem origin,
+    List<OriginItem> origins,
     BackgroundItem background,
     List<BackgroundItem> backgrounds,
     SubBackgroundItem subBackground,
@@ -61,6 +72,8 @@ class PlayerCharacterState extends Equatable {
       races: races ?? this.races,
       subRace: race != null ? null : subRace ?? this.subRace,
       subRaces: race != null ? subRaces : subRaces ?? this.subRaces,
+      origin: origin ?? this.origin,
+      origins: origins ?? this.origins,
       background: background ?? this.background,
       backgrounds: backgrounds ?? this.backgrounds,
       subBackground: background != null ? null : subBackground ?? this.subBackground,
@@ -74,6 +87,8 @@ class PlayerCharacterState extends Equatable {
     subRace,
     races,
     subRaces,
+    origin,
+    origins,
     background,
     subBackground,
     backgrounds,

@@ -135,6 +135,64 @@ class PCEditorPage extends StatelessWidget {
         : SizedBox.shrink();
   }
 
+  Widget _buildOriginsWidget(BuildContext context, PlayerCharacterState state) {
+    return _buildItemsWidget<OriginItem>(
+      context,
+      state,
+      hintText: "Origine",
+      items: state.origins,
+      selectedItem: state.origin,
+      onChanged: (value) {
+        //state.setRace(value);
+        BlocProvider.of<PlayerCharacterBloc>(context).add(OriginEvent(value));
+      },
+    );
+  }
+
+
+  Widget _buildOriginDetailsWidget(
+      BuildContext context, PlayerCharacterState state) {
+    return state.origin != null
+        ? Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        _buildSubTitle(context, state,
+            "RegionsOfOrigin"),
+            //AppLocalizations.of(context).raceAbilityScoreIncrease),
+        _buildMarkdown(context, state, state.origin?.regionsOfOrigin),
+        Text(""),
+        _buildSubTitle(
+            context, state, "MainLanguages"), //AppLocalizations.of(context).raceAge),
+        _buildMarkdown(context, state, state.origin?.mainLanguages),
+        Text(""),
+        _buildSubTitle(
+            context, state, "Aspirations"), //AppLocalizations.of(context).raceAlignment),
+        _buildMarkdown(context, state, state.origin?.aspirations),
+        Text(""),
+        _buildSubTitle(
+            context, state, "AvailableSkills"), //AppLocalizations.of(context).raceSize),
+        _buildMarkdown(context, state, state.origin?.availableSkills),
+        //Text(""),
+        //_buildSubTitle(
+        //    context, state, AppLocalizations.of(context).raceSpeed),
+        //_buildMarkdown(context, state, state.race?.speed),
+        //state.race?.darkvision != null ? Text("") : SizedBox.shrink(),
+        //state.race?.darkvision != null
+        //    ? _buildSubTitle(context, state,
+        //    AppLocalizations.of(context).raceDarkvision)
+        //    : SizedBox.shrink(),
+        //state.race?.darkvision != null
+        //    ? _buildMarkdown(context, state, state.race?.darkvision)
+        //    : SizedBox.shrink(),
+        //Text(""),
+        //_buildSubTitle(
+        //    context, state, AppLocalizations.of(context).raceLanguages),
+        //_buildMarkdown(context, state, state.race?.languages),
+      ],
+    )
+        : SizedBox.shrink();
+  }
+
   Widget _buildBackgroundsWidget(
       BuildContext context, PlayerCharacterState state) {
     return _buildItemsWidget<BackgroundItem>(
@@ -204,7 +262,8 @@ class PCEditorPage extends StatelessWidget {
             indicatorSize: TabBarIndicatorSize.label,
             tabs: <Widget>[
               Text(
-                AppLocalizations.of(context).raceTitle,
+                "Origine",
+                //AppLocalizations.of(context).raceTitle,
                 style: TextStyle(
                   fontSize: 25,
                   fontFamily: "Cinzel",
@@ -247,9 +306,11 @@ class PCEditorPage extends StatelessWidget {
               margin: EdgeInsets.all(10.0),
               child: ListView(
                 children: <Widget>[
-                  _buildRacesWidget(context, state),
-                  _buildSubRacesWidget(context, state),
-                  _buildRaceDetailsWidget(context, state),
+                  //_buildRacesWidget(context, state),
+                  //_buildSubRacesWidget(context, state),
+                  //_buildRaceDetailsWidget(context, state),
+                  _buildOriginsWidget(context, state),
+                  _buildOriginDetailsWidget(context, state),
                 ],
               ),
             ),

@@ -153,6 +153,11 @@ class SqfliteDB extends BaseDB {
   }
 
   @override
+  Future<List<OriginItem>> loadOrigins() async {
+    return loadTypedItems<OriginItem>(itemType: "OriginItem");
+  }
+
+  @override
   Future<List<BackgroundItem>> loadBackgrounds() async {
     return loadTypedItems<BackgroundItem>(itemType: "BackgroundItem");
   }

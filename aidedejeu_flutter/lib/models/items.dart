@@ -334,6 +334,29 @@ class RaceItems extends FilteredItems {
   }
 }
 
+class OriginItem extends Item {
+  String regionsOfOrigin;
+  String mainLanguages;
+  String aspirations;
+  String availableSkills;
+
+  OriginItem(Map<String, dynamic> map) : super(map) {
+    this.regionsOfOrigin = map["RegionsOfOrigin"];
+    this.mainLanguages = map["MainLanguages"];
+    this.aspirations = map["Aspirations"];
+    this.availableSkills = map["AvailableSkills"];
+  }
+}
+
+class OriginItems extends FilteredItems {
+  OriginItems(Map<String, dynamic> map) : super(map);
+
+  @override
+  List<Filter> toFilterList() {
+    return [].toList();
+  }
+}
+
 class BackgroundItem extends Item {
   String skillProficiencies;
   String masteredTools;
@@ -360,6 +383,10 @@ Item itemFromMap(Map<String, dynamic> map) {
       return SubRaceItem(map);
     case "RaceItems":
       return RaceItems(map);
+    case "OriginItem":
+      return OriginItem(map);
+    case "OriginItems":
+      return OriginItems(map);
     case "BackgroundItem":
       return BackgroundItem(map);
     case "SubBackgroundItem":

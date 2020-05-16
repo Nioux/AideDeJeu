@@ -12,6 +12,8 @@ abstract class BaseDB {
 
   Future<List<SubRaceItem>> loadSubRaces(RaceItem race);
 
+  Future<List<OriginItem>> loadOrigins();
+
   Future<List<T>> loadTypedItems<T extends Item>({String itemType, Item item});
 
   Future<List<BackgroundItem>> loadBackgrounds();

@@ -51,6 +51,12 @@ class SembastDB extends BaseDB {
   }
 
   @override
+  Future<List<OriginItem>> loadOrigins() {
+    // TODO: implement loadOrigins
+    throw UnimplementedError();
+  }
+
+  @override
   Future<List<BackgroundItem>> loadBackgrounds() {
     // TODO: implement loadBackgrounds
     throw UnimplementedError();

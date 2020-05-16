@@ -20,6 +20,10 @@ class SubRaceEvent extends SetItemEvent<SubRaceItem> {
   SubRaceEvent(SubRaceItem item) : super(item);
 }
 
+class OriginEvent extends SetItemEvent<OriginItem> {
+  OriginEvent(OriginItem item) : super(item);
+}
+
 class BackgroundEvent extends SetItemEvent<BackgroundItem> {
   BackgroundEvent(BackgroundItem item) : super(item);
 }
