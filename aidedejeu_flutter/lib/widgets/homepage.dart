@@ -20,7 +20,7 @@ class HomePage extends StatelessWidget {
             FlatButton.icon(
               label: Text(
                 AppLocalizations.of(context).libraryTitle,
-                  style: Theme.of(context).textTheme.headline,
+                  style: Theme.of(context).textTheme.headline5,
               ),
               icon: SvgPicture.asset(
                 "assets/spell-book.svg",
@@ -40,7 +40,7 @@ class HomePage extends StatelessWidget {
             FlatButton.icon(
               label: Text(
                 AppLocalizations.of(context).pceditorTitle,
-                style: Theme.of(context).textTheme.headline,
+                style: Theme.of(context).textTheme.headline5,
               ),
               icon: SvgPicture.asset(
                 "assets/swordman.svg",
@@ -58,7 +58,7 @@ class HomePage extends StatelessWidget {
             FlatButton.icon(
               label: Text(
                 AppLocalizations.of(context).aboutTitle,
-                  style: Theme.of(context).textTheme.headline,
+                  style: Theme.of(context).textTheme.headline5,
               ),
               icon: SvgPicture.asset(
                 "assets/wooden-sign.svg",

@@ -14,8 +14,8 @@ description: Haches & Dés version flutter
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.2.0 <3.0.0"
-  flutter: ^1.12.13+hotfix.8
+  sdk: ">=2.3.0 <3.0.0"
+  flutter: ^1.17.0
 
 dependencies:
   flutter:
@@ -27,13 +27,13 @@ dependencies:
   flutter_markdown:
   sqflite:
   sembast:
-# sembast_web:
+  # sembast_web:
   path:
   flutter_svg:
   bloc:
   flutter_bloc:
-  cupertino_icons: ^0.1.2
-  equatable: ^1.0.0
+  cupertino_icons: # ^0.1.2
+  equatable: # ^1.0.0
 
 dev_dependencies:
   flutter_test:

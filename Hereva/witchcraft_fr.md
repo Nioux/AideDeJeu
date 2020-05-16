@@ -52,15 +52,18 @@ Mais ce ne sont pas mes premiers travaux. J'ai déjà écrit quelques supplémen
 
 Vous en trouverez quelques-unes ci-dessous sur cette page.
 
-<div style='margin-top:550px;'></div>
+
+<div class="wide">
+
+<div style='margin-top:500px;'></div>
 
 ## Plus de titres du même auteur
 
-Immortuos - Undead Monsters for D&D
+| <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/witch-0006.png" style='width:150px'/> | <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/witch-0007.png" style='width:150px'/> | <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/witch-0008.png" style='width:150px'/> |
+| :---: | :---: | :---: |
+| Immortuos - <br>Undead Monsters for D&D | The Book of Many Eyes - <br>Beholders for 5e | The Cursed Mountain |
 
-The Book of Many Eyes - Beholders for 5e
-
-The Cursed Mountain
+</div>
 
 <div class='pageNumber auto'></div>
 

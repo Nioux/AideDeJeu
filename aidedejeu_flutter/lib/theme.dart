@@ -19,7 +19,7 @@ ThemeData mainTheme() {
       color: Colors.white,
       iconTheme: IconThemeData(color: Colors.black),
       textTheme: TextTheme(
-          title: TextStyle(
+          headline6: TextStyle(
               fontSize: 28.0,
               color: Colors.black,
               fontWeight: FontWeight.bold,
@@ -31,34 +31,34 @@ ThemeData mainTheme() {
     fontFamily: 'LinuxLibertine',
     textTheme: TextTheme(
       // p
-      body1: TextStyle(
+      bodyText2: TextStyle(
         fontSize: 15.0,
         color: Colors.black,
         fontFamily: 'LinuxLibertine',
       ),
       // h1
-      headline: TextStyle(
+      headline5: TextStyle(
         fontSize: 30.0,
         color: colorHDRed,
         fontWeight: FontWeight.bold,
         fontFamily: 'Cinzel-Bold',
       ),
       // h2
-      title: TextStyle(
+      headline6: TextStyle(
         fontSize: 25.0,
         color: Colors.black,
         fontWeight: FontWeight.bold,
         fontFamily: 'Cinzel-Regular',
       ),
       // h3
-      subhead: TextStyle(
+      subtitle1: TextStyle(
         fontSize: 20.0,
         color: Colors.black,
         fontWeight: FontWeight.bold,
         fontFamily: 'Cinzel-Regular',
       ),
       // h4, h5, h6
-      body2: TextStyle(
+      bodyText1: TextStyle(
         fontSize: 18.0,
         color: Colors.black,
         fontWeight: FontWeight.bold,
