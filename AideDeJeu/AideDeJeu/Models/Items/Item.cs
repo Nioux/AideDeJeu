@@ -97,6 +97,17 @@ namespace AideDeJeuLib
             _Items.Add(item);
         }
 
+        public virtual T GetChild<T>() where T : class
+        {
+            return _Items.Where(i => i is T).FirstOrDefault() as T;
+        }
+
+        public virtual IEnumerable<T> GetChildren<T>() where T : class
+        {
+            var items = _Items.Where(i => i is T).ToArray().Select(i => i as T).ToList();
+            return items.Count > 0 ? items : null;
+        }
+
         //public void Clear()
         //{
         //    _Items.Clear();
@@ -137,6 +148,7 @@ namespace AideDeJeuLib
 
         [DataMember(Name = "Item_Name", Order = 3)]
         [Indexed]
+        [YamlMember(Alias = "title")]
         public virtual string Name { get; set; }
 
         [YamlIgnore]
@@ -621,5 +633,15 @@ namespace AideDeJeuLib
             return matrix;
         }
 
+        [YamlIgnore]
+        public string Folder
+        {
+            get
+            {
+                return null;
+            }
+        }
+
     }
+
 }

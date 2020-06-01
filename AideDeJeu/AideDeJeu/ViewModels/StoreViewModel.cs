@@ -121,6 +121,7 @@ namespace AideDeJeu.ViewModels
                                                 currentItem.Markdown += $"\n\n{new String('#', altlevel)} _[{altname}]({link})_";
                                             }
                                             currentItem.Markdown += "\n\n";
+                                            currentItem.AddChild(subItem);
                                         }
                                         else
                                         {

@@ -51,5 +51,15 @@ namespace AideDeJeuLib
                 return Expand(AvailableSkills);
             }
         }
+
+        [YamlMember]
+        public OriginFeatureItem Feature
+        {
+            get
+            {
+                return GetChild<OriginFeatureItem>();
+            }
+        }
+
     }
 }

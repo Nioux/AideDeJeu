@@ -1,4 +1,6 @@
-﻿using System.Runtime.Serialization;
+﻿using System.Collections.Generic;
+using System.Runtime.Serialization;
+using YamlDotNet.Serialization;
 
 namespace AideDeJeuLib
 {
@@ -79,5 +81,13 @@ namespace AideDeJeuLib
         [DataMember]
         public virtual string Languages { get; set; }
 
+        [YamlMember]
+        public IEnumerable<SubRaceItem> SubRaces
+        {
+            get
+            {
+                return GetChildren<SubRaceItem>();
+            }
+        }
     }
 }
