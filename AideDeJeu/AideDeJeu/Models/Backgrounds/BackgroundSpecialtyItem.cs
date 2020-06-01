@@ -1,17 +1,18 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using YamlDotNet.Serialization;
 
 namespace AideDeJeuLib
 {
 
-    public class BackgroundSpecialtyItem : Item, TableProperty
+    public class BackgroundSpecialtyItem : Item
     {
-        public string Table { get; set; }
+        [YamlIgnore]
         public List<string> BindableTable
         {
             get
             {
-                return ExtractSimpleTable(Table);
+                return Table != null ? ExtractSimpleTable(Table) : new List<string>();
             }
         }
         public List<string> ExtractSimpleTable(string table)

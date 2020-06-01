@@ -117,6 +117,7 @@ namespace AideDeJeuLib
         //    throw new NotImplementedException();
         //}
 
+        [YamlIgnore]
         [DataMember]
         public virtual string ItemType { get; set; }
 
@@ -124,10 +125,12 @@ namespace AideDeJeuLib
         [PrimaryKey]
         public virtual string Id { get; set; }
 
+        [YamlIgnore]
         [DataMember(Name = "Item_RootId", Order = 1)]
         [Indexed]
         public virtual string RootId { get; set; }
 
+        [YamlIgnore]
         [DataMember(Name = "Item_ParentLink", Order = 2)]
         [Indexed]
         public virtual string ParentLink { get; set; }
@@ -136,6 +139,7 @@ namespace AideDeJeuLib
         [Indexed]
         public virtual string Name { get; set; }
 
+        [YamlIgnore]
         [DataMember]
         [Indexed]
         public virtual string NormalizedName
@@ -147,6 +151,7 @@ namespace AideDeJeuLib
             private set { }
         }
 
+        [YamlIgnore]
         [DataMember(Name = "Item_ParentName", Order = 4)]
         [Indexed]
         public virtual string ParentName { get; set; }
@@ -176,8 +181,10 @@ namespace AideDeJeuLib
             }
         }
 
+        [YamlIgnore]
         [DataMember(Name = "Item_NameLevel", Order = 5)]
         public virtual int NameLevel { get; set; }
+
         [DataMember(Name = "Item_AltName", Order = 6)]
         [Indexed]
         public virtual string AltName { get; set; }
@@ -209,6 +216,7 @@ namespace AideDeJeuLib
             private set { }
         }
 
+        [YamlIgnore]
         [DataMember]
         [Indexed]
         public virtual string NormalizedAltName
@@ -227,6 +235,8 @@ namespace AideDeJeuLib
         [YamlIgnore]
         [DataMember(Name = "Item_Markdown", Order = 8)]
         public virtual string Markdown { get; set; }
+
+        [YamlIgnore]
         [DataMember(Name = "Item_FullText", Order = 9)]
         public virtual string FullText { get; set; }
 
@@ -280,13 +290,14 @@ namespace AideDeJeuLib
             get
             {
                 var builder = new SerializerBuilder();
-                foreach(var mapping in ClassMapping)
-                {
-                    builder = builder.WithTagMapping($"!{mapping.Key}", mapping.Value);
-                }
+                //foreach(var mapping in ClassMapping)
+                //{
+                //    builder = builder.WithTagMapping($"!{mapping.Key}", mapping.Value);
+                //}
                 var serializer = builder
-                    .EnsureRoundtrip()
-                    .WithNamingConvention(new PascalCaseNamingConvention())
+                    //.EnsureRoundtrip()
+                    //.WithNamingConvention(new PascalCaseNamingConvention())
+                    .WithNamingConvention(new UnderscoredNamingConvention())
                     .Build();
                 return serializer.Serialize(this);
             }
@@ -298,8 +309,8 @@ namespace AideDeJeuLib
         {
             get
             {
-                //return $"---\n{Yaml}---\n{CleanMarkdown}";
-                return CleanMarkdown;
+                return $"---\n{Yaml}---\n{CleanMarkdown}";
+                //return CleanMarkdown;
             }
         }
 
@@ -353,7 +364,8 @@ namespace AideDeJeuLib
         {
             get
             {
-                var md = Markdown ?? string.Empty;
+                //var md = Markdown ?? string.Empty;
+                var md = Description ?? string.Empty;
                 var rx = new Regex("<!--.*?-->");
                 md = rx.Replace(md, "");
                 return md;
@@ -397,6 +409,7 @@ namespace AideDeJeuLib
         static IDeserializer _Deserializer = new DeserializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
         static ISerializer _Serializer = new SerializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
 
+        [YamlIgnore]
         protected OrderedDictionary Attributes { get; private set; } = new OrderedDictionary();
         //[NotMapped]
         //[IgnoreDataMember]
@@ -459,6 +472,7 @@ namespace AideDeJeuLib
             }
         }
 
+        [YamlIgnore]
         [DataMember]
         public virtual string AttributesDictionary { get; set; }
     //    {
@@ -527,7 +541,85 @@ namespace AideDeJeuLib
         }
 
 
+        [YamlIgnore]
         [DataMember]
         public virtual string Description { get; set; }
+
+        [YamlIgnore]
+        [DataMember]
+        public virtual string Table { get; set; }
+
+
+        [YamlMember(Alias = "table")]
+        public virtual Dictionary<string, Dictionary<string, Dictionary<string, string>>> MapTable
+        {
+            get
+            {
+                return Table != null ? ExtractMapTable(Table) : null;
+            }
+        }
+
+        public Dictionary<string, Dictionary<string, Dictionary<string, string>>> ExtractMapTable(string table)
+        {
+            var map = new Dictionary<string, Dictionary<string, string>>();
+            var matrix = ExtractMatrixTable(table);
+            for (int y = 2; y < matrix.GetLength(1); y++)
+            {
+                map[matrix[0, y]] = new Dictionary<string, string>();
+            }
+            for (int x = 1; x < matrix.GetLength(0); x++)
+            { 
+                for (int y = 2; y < matrix.GetLength(1); y++)
+                {
+                    map[matrix[0, y]][matrix[x,0]] = matrix[x, y];
+                }
+            }
+            var supermap = new Dictionary<string, Dictionary<string, Dictionary<string, string>>>();
+            supermap[matrix[0, 0]] = map;
+            return supermap;
+        }
+        public Dictionary<string, List<string>> ExtractSimpleMapTable(string table)
+        {
+            var map = new Dictionary<string, List<string>>();
+            var matrix = ExtractMatrixTable(table);
+            for (int x = 0; x < matrix.GetLength(0); x++)
+            {
+                map[matrix[x, 0]] = new List<string>();
+            }
+            for (int x = 0; x < matrix.GetLength(0); x++)
+            {
+                for (int y = 2; y < matrix.GetLength(1); y++)
+                {
+                    map[matrix[x, 0]].Add(matrix[x, y]);
+                }
+            }
+            return map;
+        }
+        public string[,] ExtractMatrixTable(string table)
+        {
+            var rows = table.Split('\n');
+            var countRows = rows.Count(r => r.StartsWith("|"));
+            var countCols = rows.FirstOrDefault().Count(c => c == '|') - 1;
+            var matrix = new string[countCols, countRows];
+            var y = 0;
+            foreach (var row in rows)
+            {
+                var x = 0;
+                if (row.StartsWith("|"))
+                {
+                    var allcols = row.Split('|');
+                    var cols = allcols.Skip(1).Take(allcols.Length - 2);
+                    foreach (var col in cols)
+                    {
+                        var text = col.Replace("<!--br-->", " ").Replace("  ", " ");
+                        matrix[x, y] = text;
+                        x++;
+                    }
+                }
+                y++;
+            }
+            return matrix;
+        }
+
     }
 }

@@ -1,11 +1,50 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using YamlDotNet.Serialization;
 
 namespace AideDeJeuLib
 {
     public class ClassEvolutionItem : Item
     {
-        public string Table { get; set; }
+        [YamlIgnore]
+        public override Dictionary<string, Dictionary<string, Dictionary<string, string>>> MapTable
+        {
+            get
+            {
+                return null;
+            }
+        }
+        [YamlMember(Alias = "evolution_table")]
+        public Dictionary<string, Dictionary<string, Dictionary<string, string[]>>> MapEvolutionTable
+        {
+            get
+            {
+                return Table != null ? ExtractMapEvolutionTable(Table) : null;
+            }
+        }
+
+        public Dictionary<string, Dictionary<string, Dictionary<string, string[]>>> ExtractMapEvolutionTable(string table)
+        {
+            var map = new Dictionary<string, Dictionary<string, string[]>>();
+            var matrix = ExtractMatrixTable(table);
+            for (int y = 2; y < matrix.GetLength(1); y++)
+            {
+                map[matrix[0, y]] = new Dictionary<string, string[]>();
+            }
+            for (int x = 1; x < matrix.GetLength(0); x++)
+            {
+                for (int y = 2; y < matrix.GetLength(1); y++)
+                {
+                    map[matrix[0, y]][matrix[x, 0]] = matrix[x, y].Split(new string[] { ", " }, System.StringSplitOptions.None);
+                }
+            }
+            var supermap = new Dictionary<string, Dictionary<string, Dictionary<string, string[]>>>();
+            supermap[matrix[0, 0]] = map;
+            return supermap;
+        }
+
+
+        [YamlIgnore]
         public string[,] BindableTable
         {
             get

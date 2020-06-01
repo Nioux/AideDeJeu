@@ -1,7 +1,6 @@
 ﻿namespace AideDeJeuLib
 {
-    public class PersonalityItem : Item, TableProperty
+    public class PersonalityItem : Item
     {
-        public string Table { get; set; }
     }
 }

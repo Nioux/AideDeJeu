@@ -348,7 +348,7 @@ namespace AideDeJeuCmd
             }
             return dico;
         }
-        static string outDir = $@"..\..\..\..\..\{AideDeJeu.Config.Domain}\HD\";
+        static string outDir = $@"..\..\..\..\..\{AideDeJeu.Config.Domain}\export\";
 
         static async Task Main(string[] args)
         {
@@ -1111,7 +1111,7 @@ namespace AideDeJeuCmd
                     {
                         Console.WriteLine(filename);
                     }
-                    //await SaveStringAsync(filename, yaml);
+                    await SaveStringAsync(filename, yaml);
 
                     var filtervm = item.GetNewFilterViewModel();
                     if (filtervm != null)
