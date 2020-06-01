@@ -1419,7 +1419,7 @@ namespace AideDeJeuCmd
             var serializer = new DataContractJsonSerializer(typeof(T));
             using (var stream = new FileStream(filename, FileMode.Create))
             {
-                using (var writer = JsonReaderWriterFactory.CreateJsonWriter(stream, Encoding.UTF8, true, true, "  "))
+                using (var writer = JsonReaderWriterFactory.CreateJsonWriter(stream, new UTF8Encoding(false), true, true, "  "))
                 {
                     serializer.WriteObject(writer, objT);
                 }
@@ -1428,7 +1428,7 @@ namespace AideDeJeuCmd
 
         private static async Task SaveStringAsync(string filename, string text)
         {
-            using (var sw = new StreamWriter(path: filename, append: false, encoding: Encoding.UTF8))
+            using (var sw = new StreamWriter(path: filename, append: false, encoding: new UTF8Encoding(false)))
             {
                 await sw.WriteAsync(text);
             }
