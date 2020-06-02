@@ -5,7 +5,7 @@ namespace AideDeJeuLib
 {
     public class ClassItem : Item
     {
-        [YamlMember]
+        [YamlMember(Order = 10)]
         public ClassHitPointsItem HitPoints
         {
             get
@@ -14,7 +14,7 @@ namespace AideDeJeuLib
             }
         }
 
-        [YamlMember]
+        [YamlMember(Order = 11)]
         public ClassProficienciesItem Proficiencies
         {
             get
@@ -23,7 +23,7 @@ namespace AideDeJeuLib
             }
         }
 
-        [YamlMember]
+        [YamlMember(Order = 12)]
         public ClassEquipmentItem Equipment
         {
             get
@@ -32,7 +32,7 @@ namespace AideDeJeuLib
             }
         }
 
-        [YamlMember]
+        [YamlMember(Order = 13)]
         public ClassEvolutionItem Evolution
         {
             get
@@ -41,7 +41,7 @@ namespace AideDeJeuLib
             }
         }
 
-        [YamlMember]
+        [YamlMember(Order = 14)]
         public IEnumerable<ClassFeatureItem> Features
         {
             get
@@ -50,7 +50,7 @@ namespace AideDeJeuLib
             }
         }
 
-        [YamlMember]
+        [YamlMember(Order = 15)]
         public IEnumerable<SubClassItem> SubClasses
         {
             get

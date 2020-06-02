@@ -132,6 +132,7 @@ namespace AideDeJeuLib
         [DataMember]
         public virtual string ItemType { get; set; }
 
+        [YamlMember(Order = 0)]
         [DataMember(Name = "Item_Id", Order = 0)]
         [PrimaryKey]
         public virtual string Id { get; set; }
@@ -148,7 +149,7 @@ namespace AideDeJeuLib
 
         [DataMember(Name = "Item_Name", Order = 3)]
         [Indexed]
-        [YamlMember(Alias = "title")]
+        [YamlMember(Alias = "title", Order = 1)]
         public virtual string Name { get; set; }
 
         [YamlIgnore]
@@ -199,11 +200,23 @@ namespace AideDeJeuLib
 
         [DataMember(Name = "Item_AltName", Order = 6)]
         [Indexed]
+        [YamlIgnore]
         public virtual string AltName { get; set; }
 
+        [YamlMember(Alias = "alias", Order = 2)]
+        public string Alias
+        {
+            get
+            {
+                var altname = AltNameText;
+                if (altname.Length > 0) return altname;
+                return null;
+            }
+        }
+
         [DataMember]
-        //[DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         [YamlIgnore]
+        //[DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         public virtual string AltNameText
         {
             get
@@ -240,6 +253,7 @@ namespace AideDeJeuLib
             private set { }
         }
 
+        [YamlMember(Order = 3)]
         [DataMember(Name = "Item_Source", Order = 7)]
         [Indexed]
         public virtual string Source { get; set; }
@@ -349,7 +363,7 @@ namespace AideDeJeuLib
             }
         }
 
-        public static Item ParseYamlMarkdown(string yamlmd)
+        protected static Item ParseYamlMarkdown(string yamlmd)
         {
             var builder = new DeserializerBuilder();
             foreach (var mapping in ClassMapping)
@@ -562,7 +576,7 @@ namespace AideDeJeuLib
         public virtual string Table { get; set; }
 
 
-        [YamlMember(Alias = "table")]
+        [YamlMember(Alias = "table", Order = 4)]
         public virtual Dictionary<string, Dictionary<string, Dictionary<string, string>>> MapTable
         {
             get
@@ -642,6 +656,10 @@ namespace AideDeJeuLib
             }
         }
 
+        protected IEnumerable<string> Expand(string input)
+        {
+            return input != null ? input.Trim('.').Split(new String[] { ", ", " et " }, StringSplitOptions.None) : new string[] { };
+        }
     }
 
 }
