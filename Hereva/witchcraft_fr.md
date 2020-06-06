@@ -3351,7 +3351,7 @@ Tous les sorts figurant dans ces listes peuvent être trouvés soit dans ce chap
 
 <!--SpellItem-->
 
-#### Alchimiser une armure
+#### <!--Name-->Alchimiser une armure<!--/Name-->
 *Transmutation de niveau 5*
 ___
 - **Durée d'incantation :** 1 action
@@ -3371,7 +3371,7 @@ Après la fin du sort, l'armure reprend sa forme normale faite de son matériau 
 
 <!--SpellItem-->
 
-#### Animer un objet
+#### <!--Name-->Animer un objet<!--/Name-->
 *Abjuration de niveau 3*
 ___
 - **Durée d'incantation :** 1 action
@@ -3391,7 +3391,7 @@ Si votre concentration est rompue, l'objet tombe inerte au sol.
 
 <!--SpellItem-->
 
-#### Apparatus
+#### <!--Name-->Apparatus<!--/Name-->
 *Transmuation de niveau 7*
 ___
 - **Durée d'incantation :** 1 heure
@@ -3417,7 +3417,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Envoûter une arme
+#### <!--Name-->Envoûter une arme<!--/Name-->
 *Transmutation de niveau 3*
 ___
 - **Durée d'incantation :** 1 action
@@ -3443,7 +3443,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Brasero Intensia
+#### <!--Name-->Brasero Intensia<!--/Name-->
 *Evocation de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
@@ -3461,7 +3461,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Invocation d'un Démon de Chaosah
+#### <!--Name-->Invocation d'un Démon de Chaosah<!--/Name-->
 *Invocation de niveau 7*
 ___
 - **Durée d'incantation :** 1 minute
@@ -3479,7 +3479,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Invocation d'élémentaire de l'eau
+#### <!--Name-->Invocation d'élémentaire de l'eau<!--/Name-->
 *Invocation de niveau 5*
 ___
 - **Durée d'incantation :** 1 minute
@@ -3506,7 +3506,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant des emplaceme
 
 <!--SpellItem-->
 
-#### Construction d'un clone
+#### <!--Name-->Construction d'un clone<!--/Name-->
 *Transmutation de niveau 8*
 ___
 - **Durée d'incantation :** 1 heure
@@ -3528,7 +3528,7 @@ Les restes physiques de la créature originale, s'ils existent, deviennent inert
 
 <!--SpellItem-->
 
-#### Création d'une citrouille maléfique
+#### <!--Name-->Création d'une citrouille maléfique<!--/Name-->
 *Abjuration de niveau 4*
 ___
 - **Durée d'incantation :** 10 minutes
@@ -3550,7 +3550,7 @@ Les caractéristiques d'une citrouille maléfique sont dans l'annexe des monstre
 
 <!--SpellItem-->
 
-#### Sombres profondeurs de l'océan
+#### <!--Name-->Sombres profondeurs de l'océan<!--/Name-->
 *Illusion de niveau 8*
 ___
 - **Durée d'incantation :** 1 action
@@ -3568,7 +3568,7 @@ Lorsque le sort se termine, toute l'eau tombe au sol avant de disparaître compl
 
 <!--SpellItem-->
 
-#### Sceau entropique
+#### <!--Name-->Sceau entropique<!--/Name-->
 *Abjuration de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
@@ -3586,7 +3586,7 @@ Après sa rupture ou la fin du sort, le sceau disparaît.
 
 <!--SpellItem-->
 
-#### Flambé
+#### <!--Name-->Flambé<!--/Name-->
 *Transmutation, tour de magie*
 ___
 - **Durée d'incantation :** 1 action
@@ -3602,7 +3602,7 @@ Les points de vie maximum augmentés par ce sort sont améliorés de 2 lorsque v
 
 <!--SpellItem-->
 
-#### Cage dorée
+#### <!--Name-->Cage dorée<!--/Name-->
 *Abjuration de niveau 7*
 ___
 - **Durée d'incantation :** 1 action
@@ -3622,7 +3622,7 @@ La cage bloque toute tentative d'entrée ou de sortie de tout objet ou créature
 
 <!--SpellItem-->
 
-#### Gravitas Spiralis
+#### <!--Name-->Gravitas Spiralis<!--/Name-->
 *Invocation de niveau 2*
 ___
 - **Durée d'incantation :** 1 action
@@ -3640,7 +3640,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement
 
 <!--SpellItem-->
 
-#### Imprégnation de sort
+#### <!--Name-->Imprégnation de sort<!--/Name-->
 *Evocation de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
@@ -3663,7 +3663,7 @@ Si les points de vie de la cible sont réduits à 0 pendant la durée de ce sort
 
 <!--SpellItem-->
 
-#### Invocation d'esprits de Ah
+#### <!--Name-->Invocation d'esprits de Ah<!--/Name-->
 *Invocation de niveau 8*
 ___
 - **Durée d'incantation :** 1 minute
@@ -3681,7 +3681,7 @@ Les caractéristiques de l'essaim d'esprits ancestraux figurent dans l'annexe de
 
 <!--SpellItem-->
 
-#### Bond
+#### <!--Name-->Bond<!--/Name-->
 *Transmutation, tour de magie*
 ___
 - **Durée d'incantation :** 1 action
@@ -3697,7 +3697,7 @@ Si l'espace dans lequel vous tombez est occupé, vous atterrissez plutôt dans l
 
 <!--SpellItem-->
 
-#### Fantôme lumineux
+#### <!--Name-->Fantôme lumineux<!--/Name-->
 *Invocation de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
@@ -3723,7 +3723,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement
 
 <!--SpellItem-->
 
-#### Lux Maxima
+#### <!--Name-->Lux Maxima<!--/Name-->
 *Evocation de niveau 3*
 ___
 - **Durée d'incantation :** 1 action
@@ -3747,7 +3747,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement
 
 <!--SpellItem-->
 
-#### Micro dimension du chaos
+#### <!--Name-->Micro dimension du chaos<!--/Name-->
 *Abjuration de niveau 5*
 ___
 - **Durée d'incantation :** 1 action
@@ -3765,7 +3765,7 @@ Les effets de sort ne peuvent traverser la sphère dans aucune direction.
 
 <!--SpellItem-->
 
-#### Lien mental
+#### <!--Name-->Lien mental<!--/Name-->
 *Divination de niveau 1*
 ___
 - **Durée d'incantation :** 1 action
@@ -3783,7 +3783,7 @@ Tant que le lien est actif, les deux ont l'avantage de pouvoir attaquer les enne
 
 <!--SpellItem-->
 
-#### Lumière des lunes
+#### <!--Name-->Lumière des lunes<!--/Name-->
 *Abjuration de niveau 6*
 ___
 - **Durée d'incantation :** 1 action
@@ -3803,7 +3803,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement
 
 <!--SpellItem-->
 
-#### Guérison de la nature
+#### <!--Name-->Guérison de la nature<!--/Name-->
 *Abjuration de niveau 2*
 ___
 - **Durée d'incantation :** 1 action
@@ -3823,7 +3823,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Chaos nucléaire
+#### <!--Name-->Chaos nucléaire<!--/Name-->
 *Evocation de niveau 9*
 ___
 - **Durée d'incantation :** 1 action
@@ -3860,7 +3860,7 @@ Lorsque le sort se termine, parce que votre concentration est brisée ou parce q
 
 <!--SpellItem-->
 
-#### Coquille d'oeuf de Phoenix
+#### <!--Name-->Coquille d'oeuf de Phoenix<!--/Name-->
 *Abjuration de niveau 3*
 ___
 - **Durée d'incantation :** 1 action
@@ -3880,7 +3880,7 @@ De plus, vous obtenez une résistance au feu pendant toute la durée du sort.
 
 <!--SpellItem-->
 
-#### Mot de puissance de création
+#### <!--Name-->Mot de puissance de création<!--/Name-->
 *Abjuration de niveau 9*
 ___
 - **Durée d'incantation :** 1 action
@@ -3904,7 +3904,7 @@ Cette créature ne peut être soignée ou réparée par aucun moyen. Si ses poin
 
 <!--SpellItem-->
 
-#### Releasus Krakenis
+#### <!--Name-->Releasus Krakenis<!--/Name-->
 *Illusion de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
@@ -3924,7 +3924,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Berger d'Hereva
+#### <!--Name-->Berger d'Hereva<!--/Name-->
 *Invocation de niveau 5*
 ___
 - **Durée d'incantation :** 1 minute
@@ -3948,7 +3948,7 @@ Les caractéristiques de ces créatures figurent dans l'annexe sur les monstres 
 
 <!--SpellItem-->
 
-#### Détournement de sort
+#### <!--Name-->Détournement de sort<!--/Name-->
 *Abjuration de niveau 4*
 ___
 - **Durée d'incantation :** 1 réaction
@@ -3966,7 +3966,7 @@ Aux niveaux supérieurs. Lorsque vous lancez ce sort en utilisant un emplacement
 
 <!--SpellItem-->
 
-#### Purification spirituelle
+#### <!--Name-->Purification spirituelle<!--/Name-->
 *Abjuration de niveau 4*
 ___
 - **Durée d'incantation :** 1 action
@@ -3986,7 +3986,7 @@ Si la cible possède un objet maudit, la malédiction de l'objet demeure, mais l
 
 <!--SpellItem-->
 
-#### Chauve-souris espionne
+#### <!--Name-->Chauve-souris espionne<!--/Name-->
 *Invocation de niveau 2*
 ___
 - **Durée d'incantation :** 1 action
@@ -4004,7 +4004,7 @@ Si la chauve-souris meurt avant de revenir vers vous, elle sera téléportée de
 
 <!--SpellItem-->
 
-#### Toile collante
+#### <!--Name-->Toile collante<!--/Name-->
 *Nécromancie de niveau 3*
 ___
 - **Durée d'incantation :** 1 action
@@ -4024,7 +4024,7 @@ Une créature retenue par les toiles peut utiliser son action pour faire un test
 
 <!--SpellItem-->
 
-#### Stockage de sort
+#### <!--Name-->Stockage de sort<!--/Name-->
 *Enchantement de niveau 8*
 ___
 - **Durée d'incantation :** 1 action
@@ -4040,7 +4040,7 @@ Vous pouvez établir une condition pour libérer le sort. Lorsque la condition e
 
 <!--SpellItem-->
 
-#### Trait de génie
+#### <!--Name-->Trait de génie<!--/Name-->
 *Transmutation de niveau 1*
 ___
 - **Durée d'incantation :** 1 action
@@ -4058,7 +4058,7 @@ Par exemple, un perroquet sous l'effet de ce sort pourrait parler, mais un chien
 
 <!--SpellItem-->
 
-#### Invocation de dragon
+#### <!--Name-->Invocation de dragon<!--/Name-->
 *Invocation de niveau 9*
 ___
 - **Durée d'incantation :** 1 action
@@ -4086,7 +4086,7 @@ Le diamant utilisé comme composante matérielle du sort est consommé dans tous
 
 <!--SpellItem-->
 
-#### Epée du lac
+#### <!--Name-->Epée du lac<!--/Name-->
 *Invocation de niveau 7*
 ___
 - **Durée d'incantation :** 1 action
@@ -4104,7 +4104,7 @@ Jusqu'à la fin du sort, vous pouvez utiliser une action bonus à chacun de vos 
 
 <!--SpellItem-->
 
-#### Expulsion d'eau
+#### <!--Name-->Expulsion d'eau<!--/Name-->
 *Invocation de niveau 1*
 ___
 - **Durée d'incantation :** 1 action
@@ -4118,7 +4118,7 @@ Vous invoquez un puissant jet d'eau qui apparaît en tout point que vous pouvez 
 
 <!--SpellItem-->
 
-#### Coursier d'eau
+#### <!--Name-->Coursier d'eau<!--/Name-->
 *Transmutation de niveau 2*
 ___
 - **Durée d'incantation :** 1 minute
@@ -4134,7 +4134,7 @@ Pour la durée du sort, vous ou une créature de votre choix pouvez monter le co
 
 <!--SpellItem-->
 
-#### Transformation sauvage
+#### <!--Name-->Transformation sauvage<!--/Name-->
 *Transmutation de niveau 6*
 ___
 - **Durée d'incantation :** 1 action
@@ -4156,7 +4156,7 @@ Lorsque le sort se termine, votre corps reprend sa forme normale. Lancez un d20,
 
 <!--SpellItem-->
 
-#### Explosion de sorcière
+#### <!--Name-->Explosion de sorcière<!--/Name-->
 *Evocation de niveau 3*
 ___
 - **Durée d'incantation :** 1 action
@@ -4178,7 +4178,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort en utilisant un emplacemen
 
 <!--SpellItem-->
 
-#### Dîner de sorcières
+#### <!--Name-->Dîner de sorcières<!--/Name-->
 *Divination de niveau 4*
 ___
 - **Durée d'incantation :** 10 minutes
@@ -4198,7 +4198,7 @@ _**A plus haut niveau.**_ Lorsque vous lancez ce sort à l'aide d'un emplacement
 
 <!--SpellItem-->
 
-#### Zombification
+#### <!--Name-->Zombification<!--/Name-->
 *Abjuration de niveau 2*
 ___
 - **Durée d'incantation :** 1 minute
@@ -4216,7 +4216,7 @@ La créature obéit à vos ordres pendant toute la durée du sort, après quoi e
 
 <!--SpellItem-->
 
-#### Zone de Chaos
+#### <!--Name-->Zone de Chaos<!--/Name-->
 *Illusion de niveau 5*
 ___
 - **Durée d'incantation :** 1 action
@@ -4282,7 +4282,7 @@ Un des lieux les plus magiques du multivers n'est pas étranger aux objets magiq
 
 <!--MagicItem-->
 
-#### Meilleur café de tous les temps
+#### <!--Name-->Meilleur café de tous les temps<!--/Name-->
 
 *Objet merveilleux, très rare*
 
@@ -4294,7 +4294,7 @@ Si vous buvez le café fraîchement préparé et encore chaud, vous entrez dans 
 
 <!--MagicItem-->
 
-#### Filet attrapeur de nuages
+#### <!--Name-->Filet attrapeur de nuages<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise)*
 
@@ -4308,7 +4308,7 @@ Si le filet est retourné, son contenu se répand, indemne, mais le sac doit êt
 
 <!--MagicItem-->
 
-#### Manteau d'apprentie d'Hippiah
+#### <!--Name-->Manteau d'apprentie d'Hippiah<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise avec une sorcière d'Hippiah de niveau 7 ou plus)*
 
@@ -4323,7 +4323,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Manteau de sorcière d'Hippiah
+#### <!--Name-->Manteau de sorcière d'Hippiah<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise avec une sorcière d'Hippiah de niveau 13 ou plus)*
 
@@ -4340,7 +4340,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Couronne de corail
+#### <!--Name-->Couronne de corail<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise)*
 
@@ -4352,7 +4352,7 @@ Les créatures peuvent vous donner des informations sur des lieux proches et des
 
 <!--MagicItem-->
 
-#### Boule de cristal d'environnement
+#### <!--Name-->Boule de cristal d'environnement<!--/Name-->
 
 *Objet merveilleux, très rare*
 
@@ -4370,7 +4370,7 @@ Si la sphère est brisée, le demi-plan à l'intérieur est détruit et les cré
 
 <!--MagicItem-->
 
-#### Robe d'apprentie de Magmah
+#### <!--Name-->Robe d'apprentie de Magmah<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise avec une sorcière de Magmah de niveau 7 ou plus)*
 
@@ -4385,7 +4385,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Robe de sorcière de Magmah
+#### <!--Name-->Robe de sorcière de Magmah<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise avec une sorcière de Magmah de niveau 13 ou plus)*
 
@@ -4402,7 +4402,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Veste d'apprentie de Zombiah
+#### <!--Name-->Veste d'apprentie de Zombiah<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise avec une sorcière de Zombiah de niveau 7 ou plus)*
 
@@ -4417,7 +4417,7 @@ En portant cette veste, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Veste de sorcière de Zombiah
+#### <!--Name-->Veste de sorcière de Zombiah<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise avec une sorcière de Zombiah de niveau 13 ou plus)*
 
@@ -4434,7 +4434,7 @@ En portant cette veste, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Bâton inamovible
+#### <!--Name-->Bâton inamovible<!--/Name-->
 
 *Bâton, rare*
 
@@ -4446,7 +4446,7 @@ Vous pouvez utiliser une action pour appuyer sur le bouton, ce qui conduit le b�
 
 <!--MagicItem-->
 
-#### Sac invisible
+#### <!--Name-->Sac invisible<!--/Name-->
 
 *Objet merveilleux, courant*
 
@@ -4458,7 +4458,7 @@ Lorsque vous fermez le sac, vous pouvez définir un mot secret pour le rouvrir, 
 
 <!--MagicItem-->
 
-#### Lampe du Génie du succès
+#### <!--Name-->Lampe du Génie du succès<!--/Name-->
 
 *Objet merveilleux, légendaire (harmonisation requise)*
 
@@ -4480,7 +4480,7 @@ Les caractéristiques du Génie du succès sont dans l'annexe des monstres à la
 
 <!--MagicItem-->
 
-#### Lyre du Chaos
+#### <!--Name-->Lyre du Chaos<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise)*
 
@@ -4492,7 +4492,7 @@ La lyre récupère 1d3 de charges dépensées quotidiennement à l'aube. Si vous
 
 <!--MagicItem-->
 
-#### Maillot d'apprentie d'Aquah
+#### <!--Name-->Maillot d'apprentie d'Aquah<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise avec une sorcière d'Aquah de niveau 7 ou plus)*
 
@@ -4507,7 +4507,7 @@ En portant ce maillot, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Maillot de sorcière d'Aquah
+#### <!--Name-->Maillot de sorcière d'Aquah<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise avec une sorcière d'Aquah de niveau 13 ou plus)*
 
@@ -4524,7 +4524,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Pinces géantes de Mithral
+#### <!--Name-->Pinces géantes de Mithral<!--/Name-->
 
 *Arme, rare (harmonisation requise)*
 
@@ -4536,7 +4536,7 @@ Lorsque vous réussissez à toucher une créature de taille moyenne ou plus peti
 
 <!--MagicItem-->
 
-#### Huile de dégénération
+#### <!--Name-->Huile de dégénération<!--/Name-->
 
 *Potion, rare*
 
@@ -4548,7 +4548,7 @@ L'huile peut couvrir une surface de 1,5 mètre carré, elle est inoffensive pour
 
 <!--MagicItem-->
 
-#### Huile de vol
+#### <!--Name-->Huile de vol<!--/Name-->
 
 *Potion, courant*
 
@@ -4560,7 +4560,7 @@ Cet effet durera une heure. Lorsque l'effet prend fin, la cible tombe si elle es
 
 <!--MagicItem-->
 
-#### Huile de richesse
+#### <!--Name-->Huile de richesse<!--/Name-->
 
 *Potion, rare*
 
@@ -4570,7 +4570,7 @@ Ce liquide orange semble léger et brillant. L'huile peut couvrir une créature 
 
 <!--MagicItem-->
 
-#### Potion de vision diabolique
+#### <!--Name-->Potion de vision diabolique<!--/Name-->
 
 *Potion, très rare*
 
@@ -4580,7 +4580,7 @@ Lorsque vous buvez cette potion, vous obtenez une vision nocturne de 60 pieds pe
 
 <!--MagicItem-->
 
-#### Potion de feu du dragon
+#### <!--Name-->Potion de feu du dragon<!--/Name-->
 
 *Potion, très rare*
 
@@ -4592,7 +4592,7 @@ Quand vous faites votre attaque de souffle ou après que le temps se soit écoul
 
 <!--MagicItem-->
 
-#### Potion de génie
+#### <!--Name-->Potion de génie<!--/Name-->
 
 *Potion, peu courant*
 
@@ -4606,7 +4606,7 @@ Si la potion est administrée à une bête dont l'intelligence est inférieure o
 
 <!--MagicItem-->
 
-#### Potion de rire
+#### <!--Name-->Potion de rire<!--/Name-->
 
 *Potion, rare*
 
@@ -4620,7 +4620,7 @@ A la fin de chacun de ses tours, et chaque fois qu'elle subit des dégâts, la c
 
 <!--MagicItem-->
 
-#### Potion de méga-croissance
+#### <!--Name-->Potion de méga-croissance<!--/Name-->
 
 *Potion, peu courant*
 
@@ -4630,7 +4630,7 @@ Lorsque vous buvez cette potion, vos cheveux poussent instantanément et vous ê
 
 <!--MagicItem-->
 
-#### Potion de régénération
+#### <!--Name-->Potion de régénération<!--/Name-->
 
 *Potion, très rare*
 
@@ -4647,7 +4647,7 @@ Lorsque vous buvez cette potion, vous commencez à soigner vos points de vie au 
 
 <!--MagicItem-->
 
-#### Potion de fumée
+#### <!--Name-->Potion de fumée<!--/Name-->
 
 *Potion, peu courant*
 
@@ -4657,7 +4657,7 @@ Lorsque vous buvez cette potion, un nuage de fumée apparaît autour de vous, ce
 
 <!--MagicItem-->
 
-#### Potion de boule puante
+#### <!--Name-->Potion de boule puante<!--/Name-->
 
 *Potion, courant*
 
@@ -4671,7 +4671,7 @@ Les bulles vous suivent pendant une minute puis éclatent toutes en même temps 
 
 <!--MagicItem-->
 
-#### Potion de transparence
+#### <!--Name-->Potion de transparence<!--/Name-->
 
 *Potion, très rare*
 
@@ -4683,7 +4683,7 @@ De plus, tant que vous êtes sous l'effet de cette potion, vous ne pouvez pas me
 
 <!--MagicItem-->
 
-#### Anneau de contrôle des bêtes
+#### <!--Name-->Anneau de contrôle des bêtes<!--/Name-->
 
 *Anneau, très rare (harmonisation requise)*
 
@@ -4697,7 +4697,7 @@ Vous pouvez dépenser 2 des charges de l'anneau pour lancer _dominer un monstre_
 
 <!--MagicItem-->
 
-#### Anneau de bonne chance
+#### <!--Name-->Anneau de bonne chance<!--/Name-->
 
 *Anneau, courant (harmonisation requise)*
 
@@ -4709,7 +4709,7 @@ Chaque fois que vous faites un jet d'attaque, un test de caractéristique ou un 
 
 <!--MagicItem-->
 
-#### Anneau de rayon magique
+#### <!--Name-->Anneau de rayon magique<!--/Name-->
 
 *Anneau, rare (harmonisation requise avec un lanceur de sorts)*
 
@@ -4721,7 +4721,7 @@ Chaque fois que vous lancez un sort avec une portée de contact, vous pouvez dé
 
 <!--MagicItem-->
 
-#### Anneau de protection mentale
+#### <!--Name-->Anneau de protection mentale<!--/Name-->
 
 *Anneau, rare (harmonisation requise)*
 
@@ -4735,7 +4735,7 @@ Cet anneau a 3 charges, et il récupère 1d3 charges dépensées quotidiennement
 
 <!--MagicItem-->
 
-#### Anneau de personnalité
+#### <!--Name-->Anneau de personnalité<!--/Name-->
 
 *Anneau, peu courant (harmonisation requise)*
 
@@ -4749,7 +4749,7 @@ En tant qu'action, vous pouvez dépenser une charge de l'anneau pour changer vot
 
 <!--MagicItem-->
 
-#### Anneau de sort chaotique
+#### <!--Name-->Anneau de sort chaotique<!--/Name-->
 
 *Anneau, rare*
 
@@ -4770,7 +4770,7 @@ En réaction, lorsqu'un lanceur de sorts situé à moins de 60 pieds de vous lan
 
 <!--MagicItem-->
 
-#### Anneau de peau de pierre
+#### <!--Name-->Anneau de peau de pierre<!--/Name-->
 
 *Anneau, très rare*
 
@@ -4780,7 +4780,7 @@ En portant cet anneau, vous gagnez une résistance aux dégâts tranchants et pe
 
 <!--MagicItem-->
 
-#### Anneau du passe-partout
+#### <!--Name-->Anneau du passe-partout<!--/Name-->
 
 *Anneau, peu courant (harmonisation requise)*
 
@@ -4795,7 +4795,7 @@ En tant qu'action, vous pouvez dépenser une charge de l'anneau pour qu'une clé
 
 <!--MagicItem-->
 
-#### Anneau du psionniste
+#### <!--Name-->Anneau du psionniste<!--/Name-->
 
 *Anneau, très rare (harmonisation requise)*
 
@@ -4811,7 +4811,7 @@ Tout en portant l'anneau, vous pouvez utiliser une action pour dépenser une de 
 
 <!--MagicItem-->
 
-#### Anneau du surveillant
+#### <!--Name-->Anneau du surveillant<!--/Name-->
 
 *Anneau, courant*
 
@@ -4825,7 +4825,7 @@ L'anneau ne vous dit pas dans quelle direction ni à quelle distance la créatur
 
 <!--MagicItem-->
 
-#### Anneau de respiration aquatique
+#### <!--Name-->Anneau de respiration aquatique<!--/Name-->
 
 *Anneau, peu courant*
 
@@ -4839,7 +4839,7 @@ En portant cet anneau, vous avez une respiration aquatique en plus de votre resp
 
 <!--MagicItem-->
 
-#### Robe d'apprentie de Ah
+#### <!--Name-->Robe d'apprentie de Ah<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise avec une sorcière de Ah de niveau 7 ou plus)*
 
@@ -4854,7 +4854,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Robe de sorcière de Ah
+#### <!--Name-->Robe de sorcière de Ah<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise avec une sorcière de Ah de niveau 13 ou plus)*
 
@@ -4871,7 +4871,7 @@ En portant cette robe, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Sceptre d'allié élémentaire
+#### <!--Name-->Sceptre d'allié élémentaire<!--/Name-->
 
 *Sceptre, rare*
 
@@ -4896,7 +4896,7 @@ Vous pouvez trouver les caractéristiques des élémentaires dans l'annexe des m
 
 <!--MagicItem-->
 
-#### Sceptre de lame fantomatique
+#### <!--Name-->Sceptre de lame fantomatique<!--/Name-->
 
 *Sceptre, rare (harmonisation requise avec un lanceur de sorts)*
 
@@ -4908,7 +4908,7 @@ Vous pouvez utiliser une action pour désactiver le sceptre.
 
 <!--MagicItem-->
 
-#### Sceptre de paralysie
+#### <!--Name-->Sceptre de paralysie<!--/Name-->
 
 *Sceptre, rare (harmonisation requise)*
 
@@ -4920,7 +4920,7 @@ Lorsque vous frappez une créature avec une attaque en mêlée en utilisant le s
 
 <!--MagicItem-->
 
-#### Sceptre de perdition
+#### <!--Name-->Sceptre de perdition<!--/Name-->
 
 *Sceptre, très rare (harmonisation requise)*
 
@@ -4945,7 +4945,7 @@ Une fois que vous avez utilisé cet effet sur une créature, vous ne pouvez plus
 
 <!--MagicItem-->
 
-#### Sceptre de la licorne
+#### <!--Name-->Sceptre de la licorne<!--/Name-->
 
 *Sceptre, légendaire*
 
@@ -4965,7 +4965,7 @@ En tant qu'action, la cible peut mettre fin à l'effet et le sceptre tombe de so
 
 <!--MagicItem-->
 
-#### Sceptre du vampire
+#### <!--Name-->Sceptre du vampire<!--/Name-->
 
 *Sceptre, rare (harmonisation requise)*
 
@@ -4977,7 +4977,7 @@ Lorsque vous frappez une créature lors d'une attaque en mêlée à l'aide du sc
 
 <!--MagicItem-->
 
-#### Parchemin d'alarme
+#### <!--Name-->Parchemin d'alarme<!--/Name-->
 
 *Parchemin, courant*
 
@@ -4987,7 +4987,7 @@ Ce parchemin active un sceau d'alarme. Vous pouvez écrire une condition de déc
 
 <!--MagicItem-->
 
-#### Parchemin de découverte
+#### <!--Name-->Parchemin de découverte<!--/Name-->
 
 *Parchemin, peu courant*
 
@@ -5001,7 +5001,7 @@ Lorsque vous vous approchez de 15 pieds ou moins de la créature ou de l'objet q
 
 <!--MagicItem-->
 
-#### Parchemin de protection
+#### <!--Name-->Parchemin de protection<!--/Name-->
 
 *Parchemin, courant*
 
@@ -5011,7 +5011,7 @@ Lorsque vous utilisez ce parchemin, vous choisissez une créature consentante à
 
 <!--MagicItem-->
 
-#### Parchemin de combustion ralentie
+#### <!--Name-->Parchemin de combustion ralentie<!--/Name-->
 
 *Parchemin, peu courant*
 
@@ -5021,7 +5021,7 @@ Pour utiliser ce parchemin, il faut l'allumer avec du feu. Le parchemin brûlera
 
 <!--MagicItem-->
 
-#### Parchemin du pélican
+#### <!--Name-->Parchemin du pélican<!--/Name-->
 
 *Parchemin, peu courant*
 
@@ -5033,7 +5033,7 @@ Le voyage est plutôt confortable, mais l'atterrissage est catastrophique. Le p�
 
 <!--MagicItem-->
 
-#### Parchemin de contrôle des morts-vivants
+#### <!--Name-->Parchemin de contrôle des morts-vivants<!--/Name-->
 
 *Parchemin, peu courant*
 
@@ -5043,7 +5043,7 @@ Si vous avez des morts-vivants sous votre contrôle, vous pouvez utiliser ce par
 
 <!--MagicItem-->
 
-#### Bâton de fouille
+#### <!--Name-->Bâton de fouille<!--/Name-->
 
 *Bâton, peu courant*
 
@@ -5063,7 +5063,7 @@ L'utilisation de cette capacité ne nécessite pas beaucoup d'efforts physiques 
 
 <!--MagicItem-->
 
-#### Bâton de piste de feu
+#### <!--Name-->Bâton de piste de feu<!--/Name-->
 
 *Bâton, rare (harmonisation requise)*
 
@@ -5075,7 +5075,7 @@ La piste de feu inflige 3d8 dégâts de feu à chaque créature qui termine son 
 
 <!--MagicItem-->
 
-#### Bâton de planage
+#### <!--Name-->Bâton de planage<!--/Name-->
 
 *Bâton, peu courant (harmonisation requise)*
 
@@ -5087,7 +5087,7 @@ En réaction, vous pouvez activer le bâton pour lui faire pousser deux ailes de
 
 <!--MagicItem-->
 
-#### Bâton de glace
+#### <!--Name-->Bâton de glace<!--/Name-->
 
 *Bâton, très rare (harmonisation requise avec un lanceur de sorts)*
 
@@ -5105,7 +5105,7 @@ Le bâton récupère 1d6 + 4 charges dépensées quotidiennement à l'aube. Si v
 
 <!--MagicItem-->
 
-#### Bâton d'acrobate
+#### <!--Name-->Bâton d'acrobate<!--/Name-->
 
 *Bâton, peu courant (harmonisation requise)*
 
@@ -5117,7 +5117,7 @@ En tenant le bâton, vous avez l'avantage pour vos tests de Dextérité (acrobat
 
 <!--MagicItem-->
 
-#### Bâton du Ténébreux
+#### <!--Name-->Bâton du Ténébreux<!--/Name-->
 
 *Bâton, légendaire (harmonisation requise avec un lanceur de sorts)*
 
@@ -5142,7 +5142,7 @@ Cette propriété ne s'arrête pas tant que le bâton est harmonisé avec vous, 
 
 <!--MagicItem-->
 
-#### Bâton du guérisseur
+#### <!--Name-->Bâton du guérisseur<!--/Name-->
 
 *Bâton, rare (harmonisation requise)*
 
@@ -5158,7 +5158,7 @@ Le bâton récupère 1d6 + 4 charges dépensées par jour à l'aube. Si vous dé
 
 <!--MagicItem-->
 
-#### Bâton du sage
+#### <!--Name-->Bâton du sage<!--/Name-->
 
 *Bâton, rare (harmonisation requise)*
 
@@ -5176,7 +5176,7 @@ En outre, vous comprenez le sens littéral de toute langue parlée que vous ente
 
 <!--MagicItem-->
 
-#### Bâton du berger
+#### <!--Name-->Bâton du berger<!--/Name-->
 
 *Bâton, rare (harmonisation requise avec un lanceur de sorts)*
 
@@ -5196,7 +5196,7 @@ En tenant le bâton, vous avez l'avantage dans tous tests de compétences basés
 
 <!--MagicItem-->
 
-#### Bâton du tonnerre
+#### <!--Name-->Bâton du tonnerre<!--/Name-->
 
 *Bâton, très rare (harmonisation requise)*
 
@@ -5210,7 +5210,7 @@ Vous pouvez également utiliser une action et dépenser jusqu'à 5 charges du b�
 
 <!--MagicItem-->
 
-#### Tunique d'apprentie de Chaosah
+#### <!--Name-->Tunique d'apprentie de Chaosah<!--/Name-->
 
 *Objet merveilleux, rare (harmonisation requise avec une sorcière de Chaosah de niveau 7 ou plus)*
 
@@ -5225,7 +5225,7 @@ En portant cette tunique, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Tunique de sorcière de Chaosah
+#### <!--Name-->Tunique de sorcière de Chaosah<!--/Name-->
 
 *Objet merveilleux, très rare (harmonisation requise avec une sorcière de Chaosah de niveau 13 ou plus)*
 
@@ -5242,7 +5242,7 @@ En portant cette tunique, vous obtenez les avantages suivants.
 
 <!--MagicItem-->
 
-#### Baguette de givre
+#### <!--Name-->Baguette de givre<!--/Name-->
 
 *Baguette, rare (harmonisation requise avec un lanceur de sorts)*
 
@@ -5256,7 +5256,7 @@ En tant qu'action, vous pouvez dépenser 3 charges ou plus pour créer un cône 
 
 <!--MagicItem-->
 
-#### Baguette de lumière
+#### <!--Name-->Baguette de lumière<!--/Name-->
 
 *Baguette, peu courant*
 
@@ -5268,7 +5268,7 @@ Vous pouvez mettre fin à l'effet grâce à une action bonus ou une réaction.
 
 <!--MagicItem-->
 
-#### Baguette de la nature
+#### <!--Name-->Baguette de la nature<!--/Name-->
 
 *Baguette, rare (harmonisation requise)*
 
@@ -5287,7 +5287,7 @@ En tenant la baguette, vous avez l'avantage sur vos tests de caractéristiques d
 
 <!--MagicItem-->
 
-#### Baguette d'absorption de sorts
+#### <!--Name-->Baguette d'absorption de sorts<!--/Name-->
 
 *Baguette, très rare (harmonisation requise)*
 
@@ -5307,7 +5307,7 @@ Vous pouvez utiliser une action pour lancer un sort stocké dans la baguette.
 
 <!--MagicItem-->
 
-#### Baguette du maître des invocations
+#### <!--Name-->Baguette du maître des invocations<!--/Name-->
 
 *Baguette, peu courant (harmonisation requise avec un lanceur de sorts)*
 
@@ -5319,7 +5319,7 @@ En tant qu'action, vous pouvez dessiner un symbole magique sur le sol couvrant u
 
 <!--MagicItem-->
 
-#### Bâton de saule
+#### <!--Name-->Bâton de saule<!--/Name-->
 
 *Bâton, rare (harmonisation requise avec une sorcière d'Hereva)*
 
@@ -5333,7 +5333,7 @@ Vous pouvez utiliser une action pour dépenser 1 ou plusieurs des charges du bâ
 
 <!--MagicItem-->
 
-#### Baguette de saule
+#### <!--Name-->Baguette de saule<!--/Name-->
 
 *Baguette, rare (harmonisation requise)*
 
@@ -5343,7 +5343,7 @@ Cet objet fonctionne comme une baguette magique ordinaire en tant que focaliseur
 
 <!--MagicItem-->
 
-#### Chaudron de sorcière
+#### <!--Name-->Chaudron de sorcière<!--/Name-->
 
 *Objet merveilleux, peu courant*
 
@@ -5387,7 +5387,7 @@ Tout produit périssable à l'intérieur du chaudron restera indéfiniment frais
 A Hereva, les chats sont différents de ceux des autres régions. Comme beaucoup d'autres animaux dans ce monde, les chats sont un peu plus anthropomorphes et intelligents que dans la plupart des plans matériels de l'existence. Les chats d'Hereva sont également un peu plus grands et ont des pouces opposables, ce qui leur permet de tenir des objets avec leurs pattes.
 
 ___
-> ## Chat d'Hereva
+> ## <!--Name-->Chat d'Hereva<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -5422,7 +5422,7 @@ ___
 Les chiens d'Hereva sont plus grands et plus intelligents que ceux des autres mondes. Mais ils ne peuvent pas encore parler.
 
 ___
-> ## Chien d'Hereva
+> ## <!--Name-->Chien d'Hereva<!--/Name-->
 > *Bête de taille Petite, non-alignée*
 > ___
 > - **Classe d'armure** 12 (armure naturelle)
@@ -5455,7 +5455,7 @@ ___
 Les renards à queues multiples sont des animaux mystiques dans Hereva, ils grandissent en taille et en nombre de queues quand ils vieillissent. Les jeunes renards à deux queues sont les compagnons habituels des jeunes sorcières de Ah.
 
 ___
-> ## Renard à deux queues
+> ## <!--Name-->Renard à deux queues<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -5488,7 +5488,7 @@ ___
 Le coquelet, comme d'autres bêtes d'Hereva, a des pouces opposables sur les ailes, ce qui lui permet de tenir et de manipuler des objets.
 
 ___
-> ## Coquelet d'Hereva
+> ## <!--Name-->Coquelet d'Hereva<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -5523,7 +5523,7 @@ ___
 Les combattants (Betta splendens) d'Hereva sont beaucoup plus grands que leurs homologues dans d'autres mondes, et beaucoup plus intelligents aussi. Ils sont connus pour leur attitude agressive et leur tempérament vif. On dit qu'ils ont beaucoup en commun avec les sorcières d'Aquah.
 
 ___
-> ## Combattant Herevien
+> ## <!--Name-->Combattant Herevien<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 14 (armure naturelle)
@@ -5555,7 +5555,7 @@ ___
 Les Chouettes d'Hereva sont parmi les bêtes les plus intelligentes du multivers. Elles ont tendance à être paresseuses et certaines d'entre elles consacrent leur temps à des activités récréatives comme la pêche aux souris. Mais elles peuvent aussi duper les petits enfants humanoïdes pour leur voler leurs bonbons.
 
 ___
-> ## Chouette d'Hereva
+> ## <!--Name-->Chouette d'Hereva<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -5592,7 +5592,7 @@ ___
 Croisement commun entre un grand canard et un petit dragon, le canard dragon est un adorable oiseau.
 
 ___
-> ## Canard dragon
+> ## <!--Name-->Canard dragon<!--/Name-->
 > *Dragon de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -5623,7 +5623,7 @@ ___
 Certaines sorcières de Zombiah préfèrent l'aide indéfectible d'un oiseau mort-vivant quand elles choisissent leurs familiers.
 
 ___
-> ## Zombi-canari
+> ## <!--Name-->Zombi-canari<!--/Name-->
 > *Mort-vivant de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 11 (armure naturelle)
@@ -5658,7 +5658,7 @@ ___
 Peu de personnes ont un Dragonchat comme animal de compagnie. Ces petites bêtes ne sont pas très amicales et peuvent être dangereuses, mais de temps en temps, l'une d'entre elles décide de vivre près d'un enfant humanoïde.
 
 ___
-> ## Dragonchat
+> ## <!--Name-->Dragonchat<!--/Name-->
 > *Dragon de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 12 (armure naturelle)
@@ -5689,7 +5689,7 @@ ___
 Faites de matières quasi réelles, ces petites créatures spectrales adorent côtoyer les sorcières.
 
 ___
-> ## Chauve-souris fantomatique
+> ## <!--Name-->Chauve-souris fantomatique<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 12 (armure naturelle)
@@ -5725,7 +5725,7 @@ ___
 Une petite plante humanoïde ailée. La plante féerique ne peut pas parler mais émet un sifflement lorsqu'elle veut communiquer.
 
 ___
-> ## Plante féerique
+> ## <!--Name-->Plante féerique<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -5756,7 +5756,7 @@ ___
 Ces araignées, plus grosses que les araignées ordinaires, ont une rune sur le dos. Chaque rune est différente d'une araignée à l'autre.
 
 ___
-> ## Argiope runique
+> ## <!--Name-->Argiope runique<!--/Name-->
 > *Bête de taille Très Petite, non-alignée*
 > ___
 > - **Classe d'armure** 12 (armure naturelle)
@@ -5799,7 +5799,7 @@ C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation d
 
 ___
 ___
-> ## Tortue abyssale
+> ## <!--Name-->Tortue abyssale<!--/Name-->
 > *Créature monstrueuse de Très Grande taille, Neutre Mauvais*
 > ___
 > - **Classe d'armure** 15 (armure naturelle)
@@ -5845,7 +5845,7 @@ C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
 
 ___
 ___
-> ## Golem antique
+> ## <!--Name-->Golem antique<!--/Name-->
 > *Elémentaire de Grande taille, Neutre*
 > ___
 > - **Classe d'armure** 15 (armure naturelle)
@@ -5889,7 +5889,7 @@ Hornük est un Démon de Chaosah qui vit dans la dimension de Chaosah. Son corps
 
 ___
 ___
-> ## Hornük
+> ## <!--Name-->Hornük<!--/Name-->
 > *Fiélon (démon de Chaosah) de Grande taille, non aligné*
 > ___
 > - **Classe d'armure** 15 (armure naturelle)
@@ -5943,7 +5943,7 @@ Eyeük est un démon de Chaosah au mauvais caractère. Les anciens de sa race so
 
 ___
 ___
-> ## Eyeük
+> ## <!--Name-->Eyeük<!--/Name-->
 > *Fiélon (démon de Chaosah) de Grande taille, non aligné*
 > ___
 > - **Classe d'armure** 17 (armure naturelle)
@@ -5997,7 +5997,7 @@ ___
 
 ___
 ___
-> ## Spidük
+> ## <!--Name-->Spidük<!--/Name-->
 > *Fiélon (démon de Chaosah) de Grande taille, non aligné*
 > ___
 > - **Classe d'armure** 18 (armure naturelle)
@@ -6051,7 +6051,7 @@ C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
 
 ___
 ___
-> ## Ancien élémentaire
+> ## <!--Name-->Ancien élémentaire<!--/Name-->
 > *Elémentaire de Très Grande taille, Neutre*
 > ___
 > - **Classe d'armure** 16 (armure naturelle)
@@ -6095,7 +6095,7 @@ Cette monstruosité maléfique a un corps fait de vignes et une citrouille brill
 
 ___
 ___
-> ## Citrouille maléfique
+> ## <!--Name-->Citrouille maléfique<!--/Name-->
 > *Plante de taille Moyenne, Chaotique Mauvais*
 > ___
 > - **Classe d'armure** 11 (armure naturelle)
@@ -6135,7 +6135,7 @@ C'est une ancienne et plus diabolique version de la citrouille maléfique. Ces c
 
 ___
 ___
-> ## Ancienne citrouille maléfique
+> ## <!--Name-->Ancienne citrouille maléfique<!--/Name-->
 > *Plante de Grande taille, Chaotique Mauvais*
 > ___
 > - **Classe d'armure** 14 (armure naturelle)
@@ -6179,7 +6179,7 @@ C'est le monstre que vous invoquez avec le sort _chauve-souris espionne_.
 
 ___
 ___
-> ## Chauve-souris flottante
+> ## <!--Name-->Chauve-souris flottante<!--/Name-->
 > *Bête de Très Petite taille, Loyal Mauvais*
 > ___
 > - **Classe d'armure** 13 (armure naturelle)
@@ -6215,7 +6215,7 @@ Ce génie à l'allure amusante, joyeuse et optimiste a le corps d'un tigre anthr
 
 ___
 ___
-> ## Génie du succès
+> ## <!--Name-->Génie du succès<!--/Name-->
 > *Elémentaire de Grande taille, Neutre*
 > ___
 > - **Classe d'armure** 17 (armure naturelle)
@@ -6267,7 +6267,7 @@ C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation d
 
 ___
 ___
-> ## Baleine géante
+> ## <!--Name-->Baleine géante<!--/Name-->
 > *Bête de taille Gigantesque (baleine), non alignée*
 > ___
 > - **Classe d'armure** 15 (armure naturelle)
@@ -6310,7 +6310,7 @@ C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation d
 
 ___
 ___
-> ## Kraken d'Hereva
+> ## <!--Name-->Kraken d'Hereva<!--/Name-->
 > *Créature monstrueuse de taille Gigantesque, non alignée*
 > ___
 > - **Classe d'armure** 15 (armure naturelle)
@@ -6357,7 +6357,7 @@ C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation d
 
 ___
 ___
-> ## Méga-requin
+> ## <!--Name-->Méga-requin<!--/Name-->
 > *Humanoïde de Très Grande taille, non alignée*
 > ___
 > - **Classe d'armure** 15 (armure naturelle)
@@ -6398,7 +6398,7 @@ C'est l'un des monstres que vous pouvez invoquer avec le sort _berger d'Hereva_.
 
 ___
 ___
-> ## Primal
+> ## <!--Name-->Primal<!--/Name-->
 > *Elémentaire de Grande taille, Neutre*
 > ___
 > - **Classe d'armure** 16 (armure naturelle)
@@ -6445,7 +6445,7 @@ C'est l'un des monstres que vous pouvez invoquer avec la capacité _invocation d
 
 ___
 ___
-> ## Serpent d'eau élémentaire
+> ## <!--Name-->Serpent d'eau élémentaire<!--/Name-->
 > *Elémentaire de Très Grande taille, non aligné*
 > ___
 > - **Classe d'armure** 12 (armure naturelle)
