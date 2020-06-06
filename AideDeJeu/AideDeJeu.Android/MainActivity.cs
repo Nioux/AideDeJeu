@@ -18,8 +18,10 @@ namespace AideDeJeu.Droid
     [Activity(Name = "com.nioux.aidedejeu.joa.MainActivity", Label = "Arc & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 #elif CONFIG_CO
     [Activity(Name = "com.nioux.aidedejeu.co.MainActivity", Label = "Chro & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
-#else
+#elif CONFIG_HD
     [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Haches & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+#else
+    [Activity(Name = "com.nioux.aidedejeu.hereva.MainActivity", Label = "Sorcières d Hereva", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 #endif
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
@@ -215,8 +217,10 @@ namespace AideDeJeu.Droid
     [Activity(Name = "com.nioux.aidedejeu.joa.SearchActivity", Label = "Arc et dés")]
 #elif CONFIG_CO
     [Activity(Name = "com.nioux.aidedejeu.co.SearchActivity", Label = "Chro et dés")]
-#else
+#elif CONFIG_HD
     [Activity(Name = "com.nioux.aidedejeu.SearchActivity", Label = "Haches et dés")]
+#else
+    [Activity(Name = "com.nioux.aidedejeu.hereva.SearchActivity", Label = "Sorcières d Hereva")]
 #endif
     public class SearchActivity : Android.App.Activity // global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {

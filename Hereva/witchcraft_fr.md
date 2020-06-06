@@ -1,3 +1,4 @@
+
 <img src="https://raw.githubusercontent.com/Nioux/AideDeJeu/master/Hereva/images/title_background.png" style='position:absolute;top:0px;left:0px;width:816px'/>
 
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
@@ -30,7 +31,7 @@ unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-
 
 <!--GenericItem-->
 
-# WITCHCRAFT
+# <!--Name-->WITCHCRAFT<!--/Name-->
 
 ## La Magie d'Hereva
 
@@ -204,44 +205,6 @@ Remerciements particuliers à mes deux groupes de jeu de rôle qui m'ont aidé �
  - #### APPENDICE I : Familiers
  - #### APPENDICE II : Monstres
 
-<!--
-- ### [<span>3</span><span>Introduction</span>](#p3)
- - #### [<span>3</span><span>**What You Will Need**</span>](#p3)
- - #### [<span>3</span><span>**What You Will Learn**</span>](#p3)
-- ### [<span>3</span><span>**Formatting Basics**</span>](#p3)
- - #### [<span>3</span><span>**Basic Markdown**</span>](#p3)
-  - [<span>3</span><span>Bold</span>](#p3)
-  - [<span>3</span><span>Italics</span>](#p3)
- - #### [<span>3</span><span>**Headers**</span>](#p3)
- - #### [<span>4</span><span>**Spacing Text**</span>](#p4)
-  - [<span>4</span><span>Normal Spacing</span>](#p4)
-  - [<span>4</span><span>3 Underscores</span>](#p4)
-  - [<span>4</span><span>Vertical Spacing</span>](#p4)
- - #### [<span>5</span><span>**Centering Text**</span>](#p5)
- - #### [<span>5</span><span>**Tabbing Text With &nbsp;**</span>](#p5)
- - #### [<span>5</span><span>**Wrapping Text Around an Image**</span>](#p5)
- - #### [<span>6</span><span>**Images**</span>](#p6)
-  - [<span>6</span><span>Images With White Background</span>](#p6)
-  - [<span>6</span><span>Example Using Multiply</span>](#p6)
-- ### [<span>7</span><span>**The Cover**</span>](#p7)
- - #### [<span>7</span><span>**The Basics**</span>](#p7)
- - #### [<span>7</span><span>**Before You Start**</span>](#p7)
- - #### [<span>7</span><span>**Background Image**</span>](#p7)
-  - [<span>7</span><span>Example Cover Image</span>](#p7)
- - #### [<span>7</span><span>**Brew Name**</span>](#p7)
-  - [<span>7</span><span>Creating your Base Title</span>](#p7)
-  - [<span>8</span><span>Adding to the Homebrewery</span>](#p8)
- - #### [<span>8</span><span>**Description**</span>](#p8)
- - #### [<span>8</span><span>**Logos and the Underline**</span>](#p8)
-- ### [<span>9</span><span>**The Table of Contents**</span>](#p9)
- - #### [<span>9</span><span>**Style**</span>](#p9)
- - #### [<span>9</span><span>**The Table Itself**</span>](#p9)
-  - [<span>9</span><span>Red Text With Yellow Underline</span>](#p9)
-  - [<span>9</span><span>Red Text</span>](#p9)
-  - [<span>9</span><span>Black Text</span>](#p9)
-- ### [<span>10</span><span>**Image Blending**</span>](#p10)
- - #### [<span>10</span><span>**How This Works**</span>](#p10)
--->
 </div>
 
 <div class='pageNumber auto'></div>
@@ -921,7 +884,7 @@ Le tableau suivant décrit les aptitudes qu'une sorcière d'Aquah gagne à diff�
 | 15 | Adaptation à l'eau |
 | 20 | Invocation de monstre abyssal |
 
-<!--GenericItem-->
+<!--/GenericItem-->
 
 <!--ClassFeatureItem-->
 

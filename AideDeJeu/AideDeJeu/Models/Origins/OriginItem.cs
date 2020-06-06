@@ -47,15 +47,15 @@ namespace AideDeJeuLib
         
         [YamlIgnore]
         public string Aspirations { get; set; }
+        //[YamlMember(Alias = "aspirations", Order = 12)]
+        //public IEnumerable<object> AspirationsExpanded
+        //{
+        //    get
+        //    {
+        //        return Expand(Aspirations).Select(aspi => new NameValueNode(aspi, " "));
+        //    }
+        //}
         [YamlMember(Alias = "aspirations", Order = 12)]
-        public IEnumerable<object> AspirationsExpanded
-        {
-            get
-            {
-                return Expand(Aspirations).Select(aspi => new NameValueNode(aspi, " "));
-            }
-        }
-        [YamlMember(Alias = "aspirations2", Order = 12)]
         public Dictionary<string, string> AspirationsExpanded2
         {
             get
