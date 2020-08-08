@@ -13,7 +13,8 @@ namespace AideDeJeu
 #elif CONFIG_CO
         public const string Domain = "CO";
 #else
-        public const string Domain = "Hereva";
+        //public const string Domain = "Hereva";
+        public const string Domain = "HD";
 #endif
     }
 }

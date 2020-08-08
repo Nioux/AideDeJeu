@@ -81,13 +81,14 @@ namespace AideDeJeuLib
         [DataMember]
         public virtual string Languages { get; set; }
 
-        [YamlMember]
-        public IEnumerable<SubRaceItem> SubRaces
-        {
-            get
-            {
-                return GetChildren<SubRaceItem>();
-            }
-        }
+        //[YamlMember]
+        //[IgnoreDataMember]
+        //public IEnumerable<SubRaceItem> SubRaces
+        //{
+        //    get
+        //    {
+        //        return GetChildren<SubRaceItem>();
+        //    }
+        //}
     }
 }

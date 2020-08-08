@@ -692,7 +692,8 @@ namespace AideDeJeu.ViewModels
             protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
             {
                 optionsBuilder
-                    .UseSqlite($"Data Source='{DbPath}'");
+                    .UseSqlite($"Data Source='{DbPath}'")
+                    .EnableSensitiveDataLogging(true);
                     //.ConfigureWarnings(warnings => warnings.Throw(Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.QueryClientEvaluationWarning));
             }
 

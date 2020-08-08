@@ -54,7 +54,7 @@ namespace AideDeJeu.UWP
 
                 rootFrame.NavigationFailed += OnNavigationFailed;
 
-                Rg.Plugins.Popup.Popup.Init();
+                //Rg.Plugins.Popup.Popup.Init();
 
                 //Xamarin.Forms.Forms.Init(e);
                 //Xamarin.Forms.SetFlags("CollectionView_Experimental");
@@ -63,7 +63,7 @@ namespace AideDeJeu.UWP
                 Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
                 var assemblies = new List<System.Reflection.Assembly>();
-                assemblies.AddRange(Rg.Plugins.Popup.Popup.GetExtraAssemblies());
+                //assemblies.AddRange(Rg.Plugins.Popup.Popup.GetExtraAssemblies());
                 assemblies.Add(typeof(Urho.Forms.UwpSurfaceRenderer).GetTypeInfo().Assembly);
                 Xamarin.Forms.Forms.Init(e, assemblies);
                 //Xamarin.Forms.Forms.Init(e, Rg.Plugins.Popup.Popup.GetExtraAssemblies());

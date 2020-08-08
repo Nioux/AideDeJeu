@@ -989,6 +989,12 @@ namespace AideDeJeuCmd
             index.Value.Id = index.Value.RootId;
             index.Value.Name = "Bibliothèque";
 
+            var doublons = store._AllItems.GroupBy(i => i.Value.Id)
+                .Where(g => g.Count() > 1)
+                .ToDictionary(x => x.Key, y => y.Count());
+            //.Select(y => y.Key)
+            //.ToList();
+
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 try

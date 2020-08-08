@@ -136,6 +136,11 @@ namespace Tests.Xamarin.Forms.Mocks
             {
                 throw new NotImplementedException();
             }
+
+            public string GetHash(string input)
+            {
+                throw new NotImplementedException();
+            }
         }
 
         internal class MockDeserializer : IDeserializer
