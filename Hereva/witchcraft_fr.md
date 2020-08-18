@@ -4529,6 +4529,8 @@ Cet effet durera une heure. Lorsque l'effet prend fin, la cible tombe si elle es
 
 Ce liquide orange semble léger et brillant. L'huile peut couvrir une créature de taille moyenne ou plus petite. L'application de l'huile prend 1 tour. Pendant une heure, la créature enrobée devient magiquement plus attirante et charismatique. Elle a l'avantage sur ses tests de Charisme pour toute la durée de l'huile.
 
+![Huile de richesse](images/huile_de_richesse.png)
+
 <!--/MagicItem-->
 
 <!--MagicItem-->
