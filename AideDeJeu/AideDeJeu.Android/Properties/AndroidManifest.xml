@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu.hereva" android:installLocation="internalOnly" android:versionCode="1" android:versionName="0.01">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="auto" android:versionCode="14002" android:versionName="1.40.02">
 	<uses-sdk android:targetSdkVersion="28" android:minSdkVersion="16" />
-	<application android:label="Sorcières d Hereva">
-		<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.hereva.fileprovider" android:exported="false" android:grantUriPermissions="true">
+	<application android:label="Haches &amp; Dés">
+		<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.fileprovider" android:exported="false" android:grantUriPermissions="true">
 			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
 		</provider>
 		<activity android:name=".SearchActivity" android:label="Aide de Jeu">

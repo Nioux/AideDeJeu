@@ -222,7 +222,7 @@
       <Version>2.0.3</Version>
     </PackageReference>
     <PackageReference Include="Rg.Plugins.Popup">
-      <Version>2.0.0.2</Version>
+      <Version>2.0.0.3</Version>
     </PackageReference>
     <PackageReference Include="SkiaSharp.Svg">
       <Version>1.60.0</Version>
@@ -304,9 +304,9 @@
     <AndroidResource Include="Resources\font\cinzel_regular.otf" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Properties\AndroidManifest.Hereva.xml" />
     <None Include="Properties\AndroidManifest.JoA.xml" />
-    <None Include="Properties\AndroidManifest.HD.xml" />
+    <None Include="Properties\AndroidManifest.xml" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Tabbar.axml" />

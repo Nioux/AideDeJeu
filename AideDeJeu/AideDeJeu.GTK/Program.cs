@@ -15,7 +15,7 @@ namespace AideDeJeu.GTK
         public static void Main(string[] args)
         {
             Gtk.Application.Init();
-            Forms.Init();
+            //Forms.Init();
             SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
 
             var app = new App();

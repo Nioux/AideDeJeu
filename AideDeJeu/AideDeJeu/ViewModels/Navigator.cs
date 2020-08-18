@@ -225,7 +225,7 @@ namespace AideDeJeu.ViewModels
 
         public async Task SwitchToMainTabAsync()
         {
-            await Shell.Current.GoToAsync("//library");
+            //await Shell.Current.GoToAsync("//library");
             //var tabbedPage = App.Current.MainPage as MainTabbedPage;
             //if (tabbedPage != null)
             //{
