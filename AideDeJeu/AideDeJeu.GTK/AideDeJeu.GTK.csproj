@@ -312,8 +312,8 @@
     <Reference Include="Xamarin.Forms.Platform.GTK, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.Platform.GTK.4.8.0.1269\lib\net45\Xamarin.Forms.Platform.GTK.dll</HintPath>
     </Reference>
-    <Reference Include="Xamarin.Forms.Platform.WPF, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xamarin.Forms.Platform.WPF.4.5.0.530\lib\net45\Xamarin.Forms.Platform.WPF.dll</HintPath>
+    <Reference Include="Xamarin.Forms.Platform.WPF, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.Platform.WPF.4.8.0.1269\lib\net461\Xamarin.Forms.Platform.WPF.dll</HintPath>
     </Reference>
     <Reference Include="Xamarin.Forms.Xaml, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Xamarin.Forms.4.8.0.1269\lib\netstandard2.0\Xamarin.Forms.Xaml.dll</HintPath>
