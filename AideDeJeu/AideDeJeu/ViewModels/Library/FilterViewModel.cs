@@ -289,7 +289,7 @@ namespace AideDeJeu.ViewModels.Library
                 await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
-                    return context.Spells.Where(spell =>
+                    return context.Spells.AsEnumerable().Where(spell =>
                         spell.Family == this.Family &&
                         levelComparer.Compare(spell.Level, levelMin) >= 0 &&
                         levelComparer.Compare(spell.Level, levelMax) <= 0 &&
@@ -438,7 +438,7 @@ namespace AideDeJeu.ViewModels.Library
                     //var funcAll = Expression.AndAlso(funcSize.Body, funcFamily.Body);
                     //var lambdaAll = Expression.Lambda<Func<MonsterItem, bool>>(funcAll, funcSize.Parameters[0]);
                     //return context.Monsters.Where(lambdaAll).ToList();
-                    return context.Monsters.Where(monster =>
+                    return context.Monsters.AsEnumerable().Where(monster =>
                         (string.IsNullOrEmpty(this.Family) || (monster.Family != null && monster.Family.ToLower().Equals(this.Family.ToLower()))) &&
                         (string.IsNullOrEmpty(size) || (monster.Size != null && monster.Size.ToLower().Equals(size.ToLower()))) &&
                         (string.IsNullOrEmpty(type) || (monster.Type != null && monster.Type.ToLower().Contains(type.ToLower()))) &&
@@ -518,7 +518,7 @@ namespace AideDeJeu.ViewModels.Library
                 await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
-                    return context.Equipments.Where(equipment =>
+                    return context.Equipments.AsEnumerable().Where(equipment =>
                         equipment.Type.ToLower().Contains(type.ToLower()) &&
                         priceComparer.Compare(equipment.Price, minPrice) >= 0 &&
                         priceComparer.Compare(equipment.Price, maxPrice) <= 0 &&
@@ -588,7 +588,7 @@ namespace AideDeJeu.ViewModels.Library
                 await StoreViewModel.SemaphoreLibrary.WaitAsync();
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
-                    return context.MagicItems.Where(magicitem =>
+                    return context.MagicItems.AsEnumerable().Where(magicitem =>
                         MatchContains(magicitem.Type, type) &&
                         MatchContains(magicitem.Rarity, rarity) &&
                         MatchContains(magicitem.Attunement, attunement) &&

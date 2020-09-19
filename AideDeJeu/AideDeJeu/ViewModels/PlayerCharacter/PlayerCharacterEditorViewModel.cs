@@ -199,7 +199,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 if (alignment == null)
                 {
-                    return await context.Alignments.OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
+                    //return await context.Alignments.OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToListAsync().ConfigureAwait(false);
+                    return context.Alignments.AsEnumerable().OrderBy(r => Tools.Helpers.RemoveDiacritics(r.Name)).ToList();
                 }
                 else
                 {
@@ -243,7 +244,7 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
                 var expandedRaces = new List<RaceViewModel>();
-                var races = context.Races.Where(r => r.GetType() == typeof(RaceItem));
+                var races = context.Races.AsEnumerable().Where(r => r.GetType() == typeof(RaceItem));
                 foreach (var race in races)
                 {
                     if (race.HasSubRaces)
@@ -273,7 +274,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                return await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).Select(c => new ClassViewModel() { Class = c }).ToListAsync().ConfigureAwait(false);
+                //return await context.Classes.Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).Select(c => new ClassViewModel() { Class = c }).ToListAsync().ConfigureAwait(false);
+                return context.Classes.AsEnumerable().Where(c => !(c is SubClassItem)).OrderBy(c => Tools.Helpers.RemoveDiacritics(c.Name)).Select(c => new ClassViewModel() { Class = c }).ToList();
             }
         }
         #endregion Class
@@ -665,7 +667,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
         {
             using (var context = await StoreViewModel.GetLibraryContextAsync())
             {
-                var list = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+                //var list = await context.Backgrounds.Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+                var list = context.Backgrounds.AsEnumerable().Where(b => b.GetType() == typeof(BackgroundItem)).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToList();
                 return list;
             }
         }
@@ -790,7 +793,8 @@ namespace AideDeJeu.ViewModels.PlayerCharacter
             {
                 using (var context = await StoreViewModel.GetLibraryContextAsync())
                 {
-                    var list = await context.SubBackgrounds.Where(item => item.ParentLink == background.Id).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+                    //var list = await context.SubBackgrounds.Where(item => item.ParentLink == background.Id).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToListAsync().ConfigureAwait(false);
+                    var list = context.SubBackgrounds.AsEnumerable().Where(item => item.ParentLink == background.Id).OrderBy(b => Tools.Helpers.RemoveDiacritics(b.Name)).ToList();
                     list.Insert(0, new SubBackgroundItem() { Name = "-" });
                     return list;
                 }

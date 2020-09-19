@@ -11,14 +11,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.3" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="2.0.3" />
-    <PackageReference Include="sqlite-net-pcl" Version="1.6.292" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="3.1.8" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.7.335" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="4.7.1" />
     <PackageReference Include="UrhoSharp.Forms" Version="1.9.67" />
     <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
-    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1364" />
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
     <PackageReference Include="XamiTextSharpLGPLv2" Version="1.0.0" />
   </ItemGroup>
 

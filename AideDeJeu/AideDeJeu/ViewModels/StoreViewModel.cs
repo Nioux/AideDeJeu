@@ -686,6 +686,7 @@ namespace AideDeJeu.ViewModels
 
             public AideDeJeuContext(string dbPath)
             {
+                SQLitePCL.Batteries_V2.Init();
                 this.DbPath = dbPath;
             }
 

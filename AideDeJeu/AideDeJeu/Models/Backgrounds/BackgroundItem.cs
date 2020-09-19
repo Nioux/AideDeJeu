@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using YamlDotNet.Serialization;
 
@@ -147,12 +148,17 @@ namespace AideDeJeuLib
             }
         }
 
+        [IgnoreDataMember]
         [YamlMember(Order = 19)]
         public IEnumerable<SubBackgroundItem> SubBackgrounds
         {
             get
             {
                 return GetChildren<SubBackgroundItem>();
+            }
+            private set
+            {
+
             }
         }
     }

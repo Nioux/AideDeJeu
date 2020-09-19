@@ -12,7 +12,7 @@ using Windows.Storage;
 using Xamarin.Forms;
 using Xamarin.Forms.Platform.UWP;
 
-[assembly: ExportRenderer(typeof(PdfView), typeof(PdfViewRenderer))]
+[assembly: Xamarin.Forms.Platform.UWP.ExportRenderer(typeof(PdfView), typeof(PdfViewRenderer))]
 namespace AideDeJeu.UWP
 {
     public class PdfViewRenderer : WebViewRenderer
