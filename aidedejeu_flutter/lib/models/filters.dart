@@ -1,10 +1,11 @@
 
 import 'package:flutter/material.dart';
+import 'package:json_annotation/json_annotation.dart';
 
 enum FilterType {
   Choices, Range
 }
-class Filter {
+class Filter extends JsonSerializable {
   String name;
   String displayName;
   FilterType type;

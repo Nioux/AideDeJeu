@@ -34,10 +34,16 @@ dependencies:
   flutter_bloc:
   cupertino_icons: # ^0.1.2
   equatable: # ^1.0.0
+  json_annotation:
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  json_serializable:
+  build_runner:
+
+dependency_overrides:
+  analyzer: '0.39.14'
 
 
 # For information on the generic Dart part of this file, see the

@@ -1,11 +1,21 @@
 import 'package:aidedejeu_flutter/models/filters.dart';
+import 'package:json_annotation/json_annotation.dart';
 
+part 'items.g.dart';
+
+@JsonSerializable(explicitToJson: true, fieldRename: FieldRename.pascal)
 class Item {
+  @JsonKey(name: "Id")
   String id;
+  @JsonKey(name: "RootId")
   String rootId;
+  @JsonKey(name: "ParentLink")
   String parentLink;
+  @JsonKey(name: "Name")
   String name;
+  @JsonKey(name: "NormalizedName")
   String normalizedName;
+  @JsonKey(name: "ParentName")
   String parentName;
   int nameLevel;
   String alias;
@@ -17,6 +27,9 @@ class Item {
   String itemType;
   List<Item> children;
 
+
+Item();
+/*
   Item(Map<String, dynamic> map) {
     this.id = map["Id"];
     this.rootId = map["RootId"];
@@ -26,8 +39,19 @@ class Item {
     this.markdown = map["Markdown"];
     this.itemType = map["ItemType"];
   }
+*/
+  factory Item.fromJson(Map<String, dynamic> map) => _$ItemFromJson(map);
+  Map<String, dynamic> toJson() => _$ItemToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true, fieldRename: FieldRename.pascal)
+class GenericItem extends Item {
+  GenericItem();
+  factory GenericItem.fromJson(Map<String, dynamic> map) => _$GenericItemFromJson(map);
+  Map<String, dynamic> toJson() => _$GenericItemToJson(this);
+}
+
+@JsonSerializable(explicitToJson: true)
 class MonsterItem extends Item {
   String family;
   String type;
@@ -55,6 +79,9 @@ class MonsterItem extends Item {
   String challenge;
   int xp;
 
+  MonsterItem();
+
+/*
   MonsterItem(Map<String, dynamic> map) : super(map) {
     this.family = map["Family"];
     this.type = map["Type"];
@@ -82,8 +109,12 @@ class MonsterItem extends Item {
     this.challenge = map["Challenge"];
     this.xp = map["XP"];
   }
+  */
+  factory MonsterItem.fromJson(Map<String, dynamic> map) => _$MonsterItemFromJson(map);
+  Map<String, dynamic> toJson() => _$MonsterItemToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class SpellItem extends Item {
   String family;
   String level;
@@ -99,7 +130,8 @@ class SpellItem extends Item {
   String duration;
   String classes;
 
-  SpellItem(Map<String, dynamic> map) : super(map) {
+  SpellItem();
+/*  SpellItem(Map<String, dynamic> map) : super(map) {
     this.family = map["Family"];
     this.level = map["Level"];
     this.type = map["Type"];
@@ -113,31 +145,57 @@ class SpellItem extends Item {
     this.concentration = map["Concentration"];
     this.duration = map["Duration"];
     this.classes = map["Classes"];
-  }
+  }*/
+  factory SpellItem.fromJson(Map<String, dynamic> map) => _$SpellItemFromJson(map);
+  Map<String, dynamic> toJson() => _$SpellItemToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class Items extends Item {
-  Items(Map<String, dynamic> map) : super(map);
+  Items();
+//  Items(Map<String, dynamic> map) : super(map);
+  factory Items.fromJson(Map<String, dynamic> map) => _$ItemsFromJson(map);
+  Map<String, dynamic> toJson() => _$ItemsToJson(this);
 }
 
-abstract class FilteredItems extends Items {
+@JsonSerializable(explicitToJson: true)
+class FilteredItems extends Items {
   String family;
 
-  FilteredItems(Map<String, dynamic> map) : super(map) {
-    this.family = map["Family"];
-  }
+  FilteredItems();
 
-  List<Filter> toFilterList();
+/*  FilteredItems(Map<String, dynamic> map) : super(map) {
+    this.family = map["Family"];
+  }*/
+
+  List<Filter> toFilterList() => [].toList();
+
+  factory FilteredItems.fromJson(Map<String, dynamic> map) => _$FilteredItemsFromJson(map);
+  Map<String, dynamic> toJson() => _$FilteredItemsToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class MonsterItems extends FilteredItems {
+  String typesString;
+  String challengesString;
+  String sizesString;
+  String sourcesString;
+  String terrainsString;
+
+  @JsonKey(ignore: true)
   Filter types;
+  @JsonKey(ignore: true)
   Filter challenges;
+  @JsonKey(ignore: true)
   Filter sizes;
+  @JsonKey(ignore: true)
   Filter sources;
+  @JsonKey(ignore: true)
   Filter terrains;
 
-  MonsterItems(Map<String, dynamic> map) : super(map) {
+  MonsterItems();
+
+/*  MonsterItems(Map<String, dynamic> map) : super(map) {
     this.types = Filter(
         name: "Types",
         displayName: "monstersTypes",
@@ -164,7 +222,7 @@ class MonsterItems extends FilteredItems {
         type: FilterType.Choices,
         values: map["Terrains"].toString().split("|"));
   }
-
+*/
   List<Filter> toFilterList() => {
         types,
         challenges,
@@ -172,23 +230,41 @@ class MonsterItems extends FilteredItems {
         sources,
         terrains,
       }.toList();
+
+  factory MonsterItems.fromJson(Map<String, dynamic> map) => _$MonsterItemsFromJson(map);
+  Map<String, dynamic> toJson() => _$MonsterItemsToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class SpellItems extends FilteredItems {
+  @JsonKey(ignore: true)
   Filter classes;
+  @JsonKey(ignore: true)
   Filter levels;
+  @JsonKey(ignore: true)
   Filter schools;
+  @JsonKey(ignore: true)
   Filter rituals;
+  @JsonKey(ignore: true)
   Filter castingTimes;
+  @JsonKey(ignore: true)
   Filter ranges;
+  @JsonKey(ignore: true)
   Filter verbalComponents;
+  @JsonKey(ignore: true)
   Filter somaticComponents;
+  @JsonKey(ignore: true)
   Filter materialComponents;
+  @JsonKey(ignore: true)
   Filter concentrations;
+  @JsonKey(ignore: true)
   Filter durations;
+  @JsonKey(ignore: true)
   Filter sources;
 
-  SpellItems(Map<String, dynamic> map) : super(map) {
+  SpellItems();
+
+/*  SpellItems(Map<String, dynamic> map) : super(map) {
     this.classes = Filter(
         name: "Classes",
         displayName: "spellsClasses",
@@ -250,7 +326,7 @@ class SpellItems extends FilteredItems {
         type: FilterType.Choices,
         values: map["Sources"].toString().split("|"));
   }
-
+*/
   List<Filter> toFilterList() => {
         classes,
         levels,
@@ -265,8 +341,12 @@ class SpellItems extends FilteredItems {
         durations,
         sources,
       }.toList();
+
+  factory SpellItems.fromJson(Map<String, dynamic> map) => _$SpellItemsFromJson(map);
+  Map<String, dynamic> toJson() => _$SpellItemsToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class RaceItem extends Item {
   String fullName;
   bool hasSubRaces;
@@ -291,7 +371,9 @@ class RaceItem extends Item {
   String darkvision;
   String languages;
 
-  RaceItem(Map<String, dynamic> map) : super(map) {
+  RaceItem();
+
+/*  RaceItem(Map<String, dynamic> map) : super(map) {
     this.fullName = map["FullName"];
     this.hasSubRaces = map["HasSubRaces"] == "true";
     this.strengthBonus = map["StrengthBonus"];
@@ -314,93 +396,127 @@ class RaceItem extends Item {
     this.speed = map["Speed"];
     this.darkvision = map["Darkvision"];
     this.languages = map["Languages"];
-  }
+  }*/
+  factory RaceItem.fromJson(Map<String, dynamic> map) => _$RaceItemFromJson(map);
+  Map<String, dynamic> toJson() => _$RaceItemToJson(this);
+
 }
 
+@JsonSerializable(explicitToJson: true)
 class SubRaceItem extends RaceItem {
   String parentRaceId;
 
-  SubRaceItem(Map<String, dynamic> map) : super(map) {
+  SubRaceItem();
+
+/*  SubRaceItem(Map<String, dynamic> map) : super(map) {
     this.parentRaceId = map["ParentRaceId"];
-  }
+  }*/
+  factory SubRaceItem.fromJson(Map<String, dynamic> map) => _$SubRaceItemFromJson(map);
+  Map<String, dynamic> toJson() => _$SubRaceItemToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class RaceItems extends FilteredItems {
-  RaceItems(Map<String, dynamic> map) : super(map);
+//  RaceItems(Map<String, dynamic> map) : super(map);
+
+  RaceItems();
 
   @override
   List<Filter> toFilterList() {
     return [].toList();
   }
+  factory RaceItems.fromJson(Map<String, dynamic> map) => _$RaceItemsFromJson(map);
+  Map<String, dynamic> toJson() => _$RaceItemsToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class OriginItem extends Item {
   String regionsOfOrigin;
   String mainLanguages;
   String aspirations;
   String availableSkills;
 
-  OriginItem(Map<String, dynamic> map) : super(map) {
+  OriginItem();
+
+/*  OriginItem(Map<String, dynamic> map) : super(map) {
     this.regionsOfOrigin = map["RegionsOfOrigin"];
     this.mainLanguages = map["MainLanguages"];
     this.aspirations = map["Aspirations"];
     this.availableSkills = map["AvailableSkills"];
-  }
+  }*/
+  factory OriginItem.fromJson(Map<String, dynamic> map) => _$OriginItemFromJson(map);
+  Map<String, dynamic> toJson() => _$OriginItemToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class OriginItems extends FilteredItems {
-  OriginItems(Map<String, dynamic> map) : super(map);
+//  OriginItems(Map<String, dynamic> map) : super(map);
+
+  OriginItems();
 
   @override
   List<Filter> toFilterList() {
     return [].toList();
   }
+  factory OriginItems.fromJson(Map<String, dynamic> map) => _$OriginItemsFromJson(map);
+  Map<String, dynamic> toJson() => _$OriginItemsToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class BackgroundItem extends Item {
   String skillProficiencies;
   String masteredTools;
   String masteredLanguages;
   String equipment;
 
+  BackgroundItem();
+/*
   BackgroundItem(Map<String, dynamic> map) : super(map) {
     this.skillProficiencies = map["SkillProficiencies"];
     this.masteredTools = map["MasteredTools"];
     this.masteredLanguages = map["MasteredLanguages"];
     this.equipment = map["Equipment"];
-  }
+  }*/
+  factory BackgroundItem.fromJson(Map<String, dynamic> map) => _$BackgroundItemFromJson(map);
+  Map<String, dynamic> toJson() => _$BackgroundItemToJson(this);
 }
 
+@JsonSerializable(explicitToJson: true)
 class SubBackgroundItem extends BackgroundItem {
-  SubBackgroundItem(Map<String, dynamic> map) : super(map);
+  SubBackgroundItem();
+//  SubBackgroundItem(Map<String, dynamic> map) : super(map);
+  factory SubBackgroundItem.fromJson(Map<String, dynamic> map) => _$SubBackgroundItemFromJson(map);
+  Map<String, dynamic> toJson() => _$SubBackgroundItemToJson(this);
 }
 
 Item itemFromMap(Map<String, dynamic> map) {
   switch (map["ItemType"]) {
+    case "GenericItem":
+      return GenericItem.fromJson(map);
     case "RaceItem":
-      return RaceItem(map);
+      return RaceItem.fromJson(map);
     case "SubRaceItem":
-      return SubRaceItem(map);
+      return SubRaceItem.fromJson(map);
     case "RaceItems":
-      return RaceItems(map);
+      return RaceItems.fromJson(map);
     case "OriginItem":
-      return OriginItem(map);
+      return OriginItem.fromJson(map);
     case "OriginItems":
-      return OriginItems(map);
+      return OriginItems.fromJson(map);
     case "BackgroundItem":
-      return BackgroundItem(map);
+      return BackgroundItem.fromJson(map);
     case "SubBackgroundItem":
-      return SubBackgroundItem(map);
+      return SubBackgroundItem.fromJson(map);
     case "MonsterItem":
-      return MonsterItem(map);
+      return MonsterItem.fromJson(map);
     case "MonsterItems":
-      return MonsterItems(map);
+      return MonsterItems.fromJson(map);
     case "SpellItem":
-      return SpellItem(map);
+      return SpellItem.fromJson(map);
     case "SpellItems":
-      return SpellItems(map);
+      return SpellItems.fromJson(map);
   }
-  return Item(map);
+  return Item.fromJson(map);
 }
 
 List<T> itemsFromMapList<T extends Item>(List<Map<String, dynamic>> mapList) {
