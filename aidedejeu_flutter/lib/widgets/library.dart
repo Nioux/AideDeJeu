@@ -97,7 +97,7 @@ class _LibraryPageState extends State<LibraryPage> {
           fontFamily: 'Cinzel-Regular',
         ),
       ),
-      subtitle: Text(item.aliasText ?? "",
+      subtitle: Text(item.altNameText ?? "",
         style: TextStyle(
           fontSize: 18.0,
           color: colorHDLightGrey,
