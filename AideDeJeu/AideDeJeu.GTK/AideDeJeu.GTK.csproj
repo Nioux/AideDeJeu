@@ -188,6 +188,7 @@
     </Reference>
     <Reference Include="Rg.Plugins.Popup, Version=2.0.0.6, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Rg.Plugins.Popup.2.0.0.6\lib\net472\Rg.Plugins.Popup.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="SkiaSharp, Version=2.80.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
       <HintPath>..\..\packages\SkiaSharp.2.80.2\lib\net462\SkiaSharp.dll</HintPath>
@@ -327,8 +328,9 @@
     <Reference Include="XamiTextSharpLGPLv2, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\XamiTextSharpLGPLv2.1.0.0\lib\netstandard2.0\XamiTextSharpLGPLv2.dll</HintPath>
     </Reference>
-    <Reference Include="YamlDotNet, Version=8.0.0.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\YamlDotNet.8.1.2\lib\net45\YamlDotNet.dll</HintPath>
+    <Reference Include="YamlDotNet, Version=9.0.0.0, Culture=neutral, PublicKeyToken=ec19458f3c15af5e, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\YamlDotNet.9.1.0\lib\net45\YamlDotNet.dll</HintPath>
+      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
