@@ -25,7 +25,7 @@ namespace AideDeJeu.Droid
             PackageManager manager = context.PackageManager;
             PackageInfo info = manager.GetPackageInfo(context.PackageName, 0);
 
-            return info.VersionCode;
+            return Android.Resource.Attribute.VersionCode; // info.VersionCode;
         }
 
         public async Task<string> GetDatabasePathAsync(string databaseName)
@@ -198,13 +198,13 @@ namespace AideDeJeu.Droid
         // https://www.syncfusion.com/kb/8707/how-to-share-the-pdf-document-in-xamarin-forms-platform
         public async Task LaunchFileAsync(string title, string message, string filePath)
         {
-            var context = Android.App.Application.Context;
+            /*var context = Android.App.Application.Context;
             var uri = Android.Support.V4.Content.FileProvider.GetUriForFile(context, context.PackageName + ".fileprovider", new Java.IO.File(filePath));
             //var uri = Android.Net.Uri.Parse("file://" + filePath);
             var intent = new Intent(Intent.ActionView);
             intent.SetDataAndType(uri, "application/pdf");
             intent.SetFlags(ActivityFlags.NewTask | ActivityFlags.GrantReadUriPermission);
-            context.StartActivity(intent);
+            context.StartActivity(intent);*/
         }
 
     }

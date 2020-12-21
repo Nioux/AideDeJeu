@@ -945,7 +945,7 @@ namespace AideDeJeuCmd
         static async Task TestPdfAsync()
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
-            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
+            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_dynamic_cdecl()); //.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
             //Xamarin.Essentials.Platform.Init(this, bundle);
@@ -976,7 +976,8 @@ namespace AideDeJeuCmd
         static async Task BuildLibraryAsync()
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
-            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
+            //var truc = new SQLite3Provider_e_sqlite3();
+            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_dynamic_cdecl()); //.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
             //var store = new StoreViewModel();
             //await store.GetItemFromDataAsync("test", "truc");

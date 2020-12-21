@@ -2,10 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.nioux.aidedejeu" android:installLocation="auto" android:versionCode="14002" android:versionName="1.40.02">
 	<uses-sdk android:targetSdkVersion="29" android:minSdkVersion="16" />
 	<application android:label="Haches &amp; Dés">
-		<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.fileprovider" android:exported="false" android:grantUriPermissions="true">
+    <!--<provider android:name="android.support.v4.content.FileProvider" android:authorities="com.nioux.aidedejeu.fileprovider" android:exported="false" android:grantUriPermissions="true">
 			<meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/file_paths"></meta-data>
-		</provider>
-		<activity android:name=".SearchActivity" android:label="Aide de Jeu">
+		</provider>-->
+    <!--
+    <activity android:name=".SearchActivity" android:label="Aide de Jeu">
 			<intent-filter>
 				<action android:name="com.google.android.gms.actions.SEARCH_ACTION" />
 				<category android:name="android.intent.category.DEFAULT" />
@@ -14,6 +15,6 @@
 				<action android:name="android.intent.action.SEARCH" />
 			</intent-filter>
 			<meta-data android:name="android.app.searchable" android:resource="@xml/searchable" />
-		</activity>
+		</activity>-->
 	</application>
 </manifest>

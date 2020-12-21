@@ -323,7 +323,7 @@ namespace AideDeJeuLib
                 var serializer = builder
                     //.EnsureRoundtrip()
                     //.WithNamingConvention(new PascalCaseNamingConvention())
-                    .WithNamingConvention(new UnderscoredNamingConvention())
+                    .WithNamingConvention(UnderscoredNamingConvention.Instance)
                     .Build();
                 return serializer.Serialize(this);
             }
@@ -371,14 +371,14 @@ namespace AideDeJeuLib
                 builder = builder.WithTagMapping($"!{mapping.Key}", mapping.Value);
             }
             var yamlDeserializer = builder
-                .WithNamingConvention(new PascalCaseNamingConvention())
+                .WithNamingConvention(PascalCaseNamingConvention.Instance)
                 .Build();
 
             var parser = new Parser(new System.IO.StringReader(yamlmd));
-            parser.Expect<StreamStart>();
-            parser.Expect<DocumentStart>();
+            parser.Consume<StreamStart>();
+            parser.Consume<DocumentStart>();
             var post = yamlDeserializer.Deserialize(parser);
-            parser.Expect<DocumentEnd>();
+            parser.Consume<DocumentEnd>();
             //parser.MoveNext();
             var item = post as Item;
             item.Markdown = yamlmd.Substring(parser.Current.End.Index + 1);
@@ -432,8 +432,8 @@ namespace AideDeJeuLib
             return $"{Name} ({NewId})";
         }
 
-        static IDeserializer _Deserializer = new DeserializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
-        static ISerializer _Serializer = new SerializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).Build();
+        static IDeserializer _Deserializer = new DeserializerBuilder().WithNamingConvention(PascalCaseNamingConvention.Instance).Build();
+        static ISerializer _Serializer = new SerializerBuilder().WithNamingConvention(PascalCaseNamingConvention.Instance).Build();
 
         [YamlIgnore]
         protected OrderedDictionary Attributes { get; private set; } = new OrderedDictionary();
