@@ -53,11 +53,16 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
-    <MtouchArch>ARMv7s, ARM64</MtouchArch>
-    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchArch>ARM64</MtouchArch>
+    <CodesignKey>Apple Development: Yan Maniez (3Y77SXKSWS)</CodesignKey>
     <MtouchDebug>true</MtouchDebug>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
     <MtouchI18n>west</MtouchI18n>
+    <CodesignProvision>VS: WildCard Development</CodesignProvision>
+    <MtouchLink>None</MtouchLink>
+    <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
+    <MtouchInterpreter>-all</MtouchInterpreter>
+    <MtouchEnableSGenConc>true</MtouchEnableSGenConc>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
     <DebugType>none</DebugType>
@@ -255,13 +260,13 @@
       <Version>1.9.67</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Essentials">
-      <Version>1.6.0-rc1</Version>
+      <Version>1.6.1-preview1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms">
-      <Version>5.0.0.1791-pre5</Version>
+      <Version>5.0.0.1829-pre6</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Forms.Visual.Material">
-      <Version>5.0.0.1791-pre5</Version>
+      <Version>5.0.0.1829-pre6</Version>
     </PackageReference>
     <PackageReference Include="XamiTextSharpLGPLv2">
       <Version>1.0.0</Version>

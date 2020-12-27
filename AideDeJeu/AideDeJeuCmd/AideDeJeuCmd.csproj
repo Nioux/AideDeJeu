@@ -21,8 +21,8 @@
     <PackageReference Include="SQLitePCLRaw.core" Version="2.0.4" />
     <PackageReference Include="System.Text.Encoding.CodePages" Version="5.0.0" />
     <PackageReference Include="UrhoSharp.Forms" Version="1.9.67" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.6.0-rc1" />
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.1791-pre5" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1-preview1" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.1829-pre6" />
     <PackageReference Include="XamiTextSharpLGPLv2" Version="1.0.0" />
   </ItemGroup>
 
