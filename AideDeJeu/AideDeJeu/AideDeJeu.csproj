@@ -100,6 +100,7 @@
     <PackageReference Include="Markdig" Version="0.22.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="5.0.1" />
+    <PackageReference Include="MoonSharp" Version="2.0.0" />
     <PackageReference Include="OnePlat.DiceNotation" Version="2.0.2" />
     <PackageReference Include="Rg.Plugins.Popup" Version="2.0.0.9" />
     <PackageReference Include="SkiaSharp.Svg" Version="1.60.0" />
