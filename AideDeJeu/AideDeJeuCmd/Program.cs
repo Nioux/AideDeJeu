@@ -4,6 +4,7 @@ using AideDeJeu.ViewModels;
 using AideDeJeuLib;
 using Markdig;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Data.Sqlite;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -977,7 +978,8 @@ namespace AideDeJeuCmd
         {
             Tests.Xamarin.Forms.Mocks.MockForms.Init();
             //var truc = new SQLite3Provider_e_sqlite3();
-            SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_dynamic_cdecl()); //.SQLite3Provider_e_sqlite3());
+            //SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_dynamic_cdecl()); //.SQLite3Provider_e_sqlite3());
+            //SQLitePCL.raw.SetProvider(new SQLitePCL.SQLite3Provider_e_sqlite3());
             DependencyService.Register<INativeAPI, AideDeJeu.Cmd.Version_CMD>();
             //var store = new StoreViewModel();
             //await store.GetItemFromDataAsync("test", "truc");
@@ -1102,7 +1104,7 @@ namespace AideDeJeuCmd
                     {
                         int iii = 1;
                     }
-                    var yaml = item.YamlMarkdown;
+                    var yamlmd = item.YamlMarkdown;
                     //var rx = new Regex(@"\(.*?\.md.*?\)");
                     //var matchess = rx.Matches(yaml);
                     //foreach (Match match in matchess)
@@ -1111,14 +1113,26 @@ namespace AideDeJeuCmd
                     //}
                     foreach (var matchid in matchids)
                     {
-                        yaml = yaml.Replace($"({matchid.Key})", $"({matchid.Value})");
+                        yamlmd = yamlmd.Replace($"({matchid.Key})", $"({matchid.Value})");
                     }
                     var filename = Path.Combine(outDir, WebUtility.UrlEncode(item.NewId));
                     if (filename.Contains("%"))
                     {
                         Console.WriteLine(filename);
                     }
+                    await SaveStringAsync(filename, yamlmd);
+                    var yaml = item.Yaml;
+                    foreach (var matchid in matchids)
+                    {
+                        yaml = yaml.Replace($"({matchid.Key})", $"({matchid.Value})");
+                    }
+                    filename = Path.Combine(outDir, WebUtility.UrlEncode(item.NewId)) + ".yml";
+                    if (filename.Contains("%"))
+                    {
+                        Console.WriteLine(filename);
+                    }
                     await SaveStringAsync(filename, yaml);
+
 
                     var filtervm = item.GetNewFilterViewModel();
                     if (filtervm != null)

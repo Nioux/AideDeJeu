@@ -258,7 +258,8 @@ namespace AideDeJeuLib
         [Indexed]
         public virtual string Source { get; set; }
 
-        [YamlIgnore]
+        //[YamlIgnore]
+        [YamlMember(ScalarStyle = ScalarStyle.Literal)]
         [DataMember(Name = "Item_Markdown", Order = 8)]
         public virtual string Markdown { get; set; }
 
@@ -567,7 +568,8 @@ namespace AideDeJeuLib
         }
 
 
-        [YamlIgnore]
+        //[YamlIgnore]
+        [YamlMember(ScalarStyle = ScalarStyle.Literal)]
         [DataMember]
         public virtual string Description { get; set; }
 
@@ -575,6 +577,9 @@ namespace AideDeJeuLib
         [DataMember]
         public virtual string Table { get; set; }
 
+        [YamlMember(ScalarStyle = ScalarStyle.Literal)]
+        [DataMember]
+        public virtual string Code { get; set; }
 
         [YamlMember(Alias = "table", Order = 4)]
         public virtual Dictionary<string, Dictionary<string, Dictionary<string, string>>> MapTable
