@@ -375,6 +375,7 @@
     <Content Include="rolling_dice_cup.png" />
     <Content Include="cancel.png" />
     <Content Include="share.png" />
+    <Content Include="swordman.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
