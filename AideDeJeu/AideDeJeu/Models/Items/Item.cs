@@ -577,9 +577,9 @@ namespace AideDeJeuLib
         [DataMember]
         public virtual string Table { get; set; }
 
-        [YamlMember(ScalarStyle = ScalarStyle.Literal)]
-        [DataMember]
-        public virtual string Code { get; set; }
+        //[YamlMember(ScalarStyle = ScalarStyle.Literal)]
+        //[DataMember]
+        //public virtual string Code { get; set; }
 
         [YamlMember(Alias = "table", Order = 4)]
         public virtual Dictionary<string, Dictionary<string, Dictionary<string, string>>> MapTable

@@ -123,39 +123,7 @@
                     </Label.GestureRecognizers>
                 </Label>
 
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <Span Text="Héros &amp; Dragons est édité par " />
-                            <Span Text="Black Book Editions" FontAttributes="Bold" />
-                        </FormattedString>
-                    </Label.FormattedText>
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand, Mode=OneTime}" CommandParameter="http://www.black-book-editions.fr/" />
-                    </Label.GestureRecognizers>
-                </Label>
-
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <Span Text="Le contenu provient du DRS de Héros &amp; Dragons et du SRD de la 5è édition" />
-                        </FormattedString>
-                    </Label.FormattedText>
-                </Label>
-
-                <Label>
-                    <Label.FormattedText>
-                        <FormattedString>
-                            <Span Text="Le contenu du DRS de Héros &amp; Dragons est également disponible sur " />
-                            <Span Text="https://heros-et-dragons.fr/" FontAttributes="Bold" />
-                        </FormattedString>
-                    </Label.FormattedText>
-                    <Label.GestureRecognizers>
-                        <TapGestureRecognizer Command="{Binding Main.Navigator.OpenWebCommand, Mode=OneTime}" CommandParameter="https://heros-et-dragons.fr/" />
-                    </Label.GestureRecognizers>
-                </Label>
-
-                <Label Text="Il est soumis à la licence OGL" />
+                <Label Text="Le contenu est soumis à la licence OGL" />
 
                 <Label Text="{Binding OGL, Mode=OneTime}" />
 
