@@ -48,6 +48,8 @@ namespace AideDeJeuLib
             {
                 return GetChildren<ClassFeatureItem>();
             }
+            private set
+            { }
         }
 
         [YamlMember(Order = 15)]
