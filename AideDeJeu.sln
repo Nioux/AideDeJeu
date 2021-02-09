@@ -305,6 +305,7 @@ Global
 		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release_JoA|x64.ActiveCfg = Release_JoA|iPhone
 		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release_JoA|x86.ActiveCfg = Release_JoA|iPhone
 		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release|Any CPU.Build.0 = Release|iPhone
 		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release|ARM.ActiveCfg = Release|iPhone
 		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release|iPhone.ActiveCfg = Release|iPhone
 		{9878FADF-BAEA-4B9F-9DF0-A092439AF14D}.Release|iPhone.Build.0 = Release|iPhone
