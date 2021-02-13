@@ -75,7 +75,7 @@
                     <!--<ActivityIndicator 
                             VerticalOptions="StartAndExpand"
                             HorizontalOptions="End"
-                            Color="{StaticResource HDRed}"
+                            Color="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}"
                             IsVisible="{Binding Main.Navigator.TestNotify.IsNotCompleted, FallbackValue=False}" IsRunning="{Binding Main.Navigator.TestNotify.IsNotCompleted, FallbackValue=False}" >
                     <ActivityIndicator.WidthRequest>
                         <OnPlatform x:TypeArguments="x:Double">

@@ -20,6 +20,16 @@ namespace AideDeJeu
 		public App (string search = null)
 		{
 			InitializeComponent();
+            /*
+            App.Current.UserAppTheme = Application.Current.RequestedTheme;
+            //App.Current.UserAppTheme = OSAppTheme.Dark;*/
+
+            App.Current.UserAppTheme = BaseViewModel.OSAppTheme;
+            Application.Current.RequestedThemeChanged += (s, a) =>
+            {
+                App.Current.UserAppTheme = Application.Current.RequestedTheme;
+            };
+
 
             DependencyService.Register<MainViewModel>();
             DependencyService.Register<PdfService>();

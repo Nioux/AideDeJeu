@@ -19,7 +19,34 @@
             <Color x:Key="HDWhite">#FFFFFF</Color>
             <Color x:Key="HDBlack">#000000</Color>
 
+            <Color x:Key="LightHDRed">#9B1C47</Color>
+            <Color x:Key="LightHDBlue">#5B61FF</Color>
+            <Color x:Key="LightHDGrey">#563F5A</Color>
+            <Color x:Key="LightHDMidGrey">#6F5B73</Color>
+            <Color x:Key="LightHDLightGrey">#7C7B7B</Color>
+            <Color x:Key="LightHDLightBlack">#3A213C</Color>
+            <Color x:Key="LightHDBackMidGrey">#B5AAB9</Color>
+            <Color x:Key="LightHDBackLightGrey">#EDEDED</Color>
+            <Color x:Key="LightHDWhite">#FFFFFF</Color>
+            <Color x:Key="LightHDBlack">#000000</Color>
 
+            <Color x:Key="DarkHDRed">#9B1C47</Color>
+            <Color x:Key="DarkHDBlue">#c38dcc</Color>
+            <Color x:Key="DarkHDGrey">#563F5A</Color>
+            <Color x:Key="DarkHDMidGrey">#6F5B73</Color>
+            <Color x:Key="DarkHDLightGrey">#7C7B7B</Color>
+            <Color x:Key="DarkHDLightBlack">#3A213C</Color>
+            <Color x:Key="DarkHDBackMidGrey">#B5AAB9</Color>
+            <Color x:Key="DarkHDBackLightGrey">#EDEDED</Color>
+            <Color x:Key="DarkHDWhite">#333</Color>
+            <Color x:Key="DarkHDBlack">#ddd</Color>
+<!--
+            background : #333
+texte : #ddd
+titres/gras : #eee
+liens/boutons : #c38dcc
+navbar : #563f5a
+-->            
             <!-- Fonts -->
             
             <OnPlatform x:Key="LinuxLibertineCapitals" x:TypeArguments="x:String">
@@ -73,13 +100,13 @@
             <!-- Xamarin Forms -->
 
             <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
-                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
             </Style>
             <Style TargetType="StackLayout" ApplyToDerivedTypes="True">
-                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
             </Style>
             <Style TargetType="ScrollView" ApplyToDerivedTypes="True">
-                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
             </Style>
 
             <Style TargetType="Label" ApplyToDerivedTypes="True">
@@ -87,64 +114,65 @@
             </Style>
 
             <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">
-                <Setter Property="BarBackgroundColor" Value="{StaticResource HDWhite}" />
-                <Setter Property="BarTextColor" Value="{StaticResource HDRed}" />
-                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BarBackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
+                <Setter Property="BarTextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}" />
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
             </Style>
 
             <Style TargetType="TabbedPage" ApplyToDerivedTypes="True">
-                <Setter Property="BarBackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BarBackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
                 <Setter Property="BarTextColor" Value="{StaticResource HDMidGrey}" />
-                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
             </Style>
 
 
             <!-- MarkdownView -->
 
             <Style TargetType="Label"  x:Key="paragraph" ApplyToDerivedTypes="True">
-                <Setter Property="FontSize" Value="15" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="FontFamily" Value="serif" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
+                <!--<Setter Property="FontFamily" Value="serif" />-->
+                <Setter Property="FontFamily" Value="LinLibertine_R" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading1" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="30" />
-                <Setter Property="TextColor" Value="{StaticResource HDRed}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitalsBold}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading2" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="25" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading3" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="20" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading4" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="18" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading5" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="16" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
 
             <Style TargetType="Label"  x:Key="heading6" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="15" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
                 <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertineCapitals}" />
                 <Setter Property="FontAttributes" Value="Bold" />
             </Style>
@@ -158,7 +186,7 @@
             <Style TargetType="Label"  x:Key="tableheader" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
-                <Setter Property="TextColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
                 <Setter Property="BackgroundColor" Value="{StaticResource HDGrey}" />
                 <Setter Property="FontFamily" Value="serif" />
                 <Setter Property="FontAttributes" Value="Bold" />
@@ -167,15 +195,15 @@
             <Style TargetType="Label"  x:Key="tablecell" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
-                <Setter Property="BackgroundColor" Value="{StaticResource HDWhite}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>
 
             <Style TargetType="Label"  x:Key="tablecellalt" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="12" />
                 <Setter Property="Margin" Value="1" />
-                <Setter Property="TextColor" Value="{StaticResource HDBlack}" />
+                <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
                 <Setter Property="BackgroundColor" Value="{StaticResource HDLightGrey}" />
                 <Setter Property="FontFamily" Value="serif" />
             </Style>

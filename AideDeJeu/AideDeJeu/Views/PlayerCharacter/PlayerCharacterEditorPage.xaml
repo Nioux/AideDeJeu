@@ -49,6 +49,7 @@
         </Style>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </CarouselPage.Resources>

@@ -12,6 +12,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -48,9 +49,9 @@
 
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Compétences" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="# Compétences" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             HorizontalOptions="FillAndExpand" 
                             Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.SkillProficiencies}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
@@ -58,9 +59,9 @@
                 </Frame>
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Outils maîtrisés" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="# Outils maîtrisés" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             HorizontalOptions="FillAndExpand" 
                             Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.MasteredTools}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
@@ -68,9 +69,9 @@
                 </Frame>
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Langues maîtrisées" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="# Langues maîtrisées" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             HorizontalOptions="FillAndExpand" 
                             Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.MasteredLanguages}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
@@ -78,9 +79,9 @@
                 </Frame>
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Équipement" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="# Équipement" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             HorizontalOptions="FillAndExpand" 
                             Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackground.Equipment}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
@@ -88,9 +89,9 @@
                 </Frame>
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackgroundSkill, Converter={StaticResource NullToFalseConverter}}">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackgroundSkill.Name, StringFormat='# {0}'}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackgroundSkill.Name, StringFormat='# {0}'}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             HorizontalOptions="FillAndExpand" 
                             Markdown="{Binding SelectedPlayerCharacter.Background.BackgroundOrSubBackgroundSkill.Description}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />

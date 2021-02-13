@@ -59,7 +59,9 @@ namespace AideDeJeu.UWP
                 //Xamarin.Forms.Forms.Init(e);
                 //Xamarin.Forms.SetFlags("CollectionView_Experimental");
                 //Xamarin.Forms.SetFlags("Shell_Experimental");
-                Xamarin.Forms.Forms.SetFlags("Shell_UWP_Experimental"); 
+                Xamarin.Forms.Forms.SetFlags("Shell_UWP_Experimental");
+                //Xamarin.Forms.Forms.SetFlags("AppTheme_Experimental");
+
                 //Xamarin.Essentials.ExperimentalFeatures.Enable(Xamarin.Essentials.ExperimentalFeatures.ShareFileRequest);
 
                 var assemblies = new List<System.Reflection.Assembly>();

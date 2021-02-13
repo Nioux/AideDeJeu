@@ -12,6 +12,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -27,44 +28,44 @@
                 <Frame BorderColor="Black" Padding="2" Margin="10" IsVisible="{Binding SelectedPlayerCharacter.Race, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" >
                     <StackLayout Padding="0">
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Augmentation de caractéristiques" IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.AbilityScoreIncrease, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Âge" IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Âge" IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.Age}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.Age, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Alignement" IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Alignement" IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.Alignment}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.Alignment, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Taille" IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Taille" IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.Size}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.Size, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vitesse" IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Vitesse" IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.Speed}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.Speed, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Vision dans le noir" IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.Darkvision}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.Darkvision, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
@@ -74,10 +75,10 @@
                                 <DataTemplate x:DataType="lib:ItemAttribute">
                                     <StackLayout>
                                         <mdview:MarkdownView 
-                                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                                             Markdown="{Binding Key, StringFormat='#### {0}'}" />
                                         <mdview:MarkdownView 
-                                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                                             Markdown="{Binding Value}" 
                                             NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}" />
                                     </StackLayout>
@@ -85,16 +86,16 @@
                             </BindableLayout.ItemTemplate>
                         </StackLayout>
 
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="#### Langues" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="#### Langues" IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" />
                         <mdview:MarkdownView 
-                            Theme="{StaticResource MonsterMarkdownTheme}" 
+                            Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                             Markdown="{Binding SelectedPlayerCharacter.Race.Languages}" 
                             IsVisible="{Binding SelectedPlayerCharacter.Race.Languages, Converter={StaticResource NullToFalseConverter}, FallbackValue=False}" 
                             NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 
                     </StackLayout>
                 </Frame>
-                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedRace.Markdown}" />-->
+                <!--<mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="{Binding SelectedRace.Markdown}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

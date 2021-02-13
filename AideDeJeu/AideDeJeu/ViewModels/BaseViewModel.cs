@@ -26,6 +26,19 @@ namespace AideDeJeu.ViewModels
             }
         }
 
+        public static OSAppTheme OSAppTheme
+        {
+            get
+            {
+                return Application.Current.Properties.ContainsKey("OSAppTheme") ? (OSAppTheme)(int)Application.Current.Properties["OSAppTheme"] : OSAppTheme.Unspecified;
+            }
+            set
+            {
+                Application.Current.Properties["OSAppTheme"] = (int)value;
+                App.Current.UserAppTheme = BaseViewModel.OSAppTheme;
+            }
+        }
+
         public MainViewModel Main
         {
             get

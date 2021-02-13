@@ -8,6 +8,7 @@
     <ContentView.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentView.Resources>
@@ -16,8 +17,8 @@
             <StackLayout>
                 <Frame BorderColor="Black" Padding="2" Margin="10">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="# Équipement" />
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="### TODO" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="# Équipement" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="### TODO" />
                     </StackLayout>
                 </Frame>
             </StackLayout>

@@ -11,12 +11,13 @@
     <StackLayout.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </StackLayout.Resources>
-    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Name, Source={x:Reference this}}" />
+    <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="{Binding Name, Source={x:Reference this}}" />
     <mdview:MarkdownView 
-        Theme="{StaticResource MonsterMarkdownTheme}" 
+        Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
         Markdown="{Binding Description, Source={x:Reference this}}" 
         NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}" />
 </StackLayout>

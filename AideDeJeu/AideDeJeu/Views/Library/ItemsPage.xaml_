@@ -10,8 +10,9 @@
     Title="{Binding Title}">
     <ContentPage.Resources>
         <ResourceDictionary>
-            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
-            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+          <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+          <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
+          <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
             <tools:NullOrEmptyToFalseConverter x:Key="NullOrEmptyToFalseConverter" />
             <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>
@@ -24,15 +25,15 @@
     <Grid>
         <ScrollView Orientation="Vertical">
             <mdview:MarkdownView 
-                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                     Markdown="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" 
                     NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
                     />
         </ScrollView>
-        <!--<ListView BackgroundColor="{StaticResource HDWhite}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
+        <!--<ListView BackgroundColor="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
-                Theme="{StaticResource MonsterMarkdownTheme}" 
+                Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                 Markdown="{Binding BindingContext.Items.Markdown, Source={x:Reference This}}" 
                 NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
                 />
@@ -51,7 +52,7 @@
         <ActivityIndicator 
             VerticalOptions="StartAndExpand"
             HorizontalOptions="End"
-            Color="{StaticResource HDRed}"
+            Color="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}"
             IsRunning="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}" 
             IsVisible="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}">
             <ActivityIndicator.WidthRequest>

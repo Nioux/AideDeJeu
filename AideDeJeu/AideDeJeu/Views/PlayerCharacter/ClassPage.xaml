@@ -12,6 +12,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -52,7 +53,7 @@
                     </StackLayout>
                 </Frame>
 
-                <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />-->
+                <!--<mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="{Binding SelectedPlayerCharacter.Class.Markdown}" />-->
             </StackLayout>
         </ScrollView>
     </ContentPage.Content>

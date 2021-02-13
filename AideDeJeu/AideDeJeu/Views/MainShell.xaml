@@ -9,10 +9,10 @@
        xmlns:libvm="clr-namespace:AideDeJeu.ViewModels.Library"
        xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
        x:Class="AideDeJeu.Views.MainShell"
-       BackgroundColor="{DynamicResource HDWhite}"
-       FlyoutBackgroundColor="{DynamicResource HDWhite}"
-       Shell.ForegroundColor="{DynamicResource HDRed}"
-       Shell.TitleColor="{DynamicResource HDBlack}"
+       BackgroundColor="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}"
+       FlyoutBackgroundColor="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}"
+       Shell.ForegroundColor="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}"
+       Shell.TitleColor="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}"
        Shell.UnselectedColor="{DynamicResource HDLightGrey}"
        FlyoutHeaderBehavior="Scroll"
        FlyoutIsPresented="{Binding Main.FilterIsPresented, Mode=TwoWay}"
@@ -23,6 +23,7 @@
     <Shell.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
             <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>

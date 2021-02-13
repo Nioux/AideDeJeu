@@ -16,6 +16,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
             <tools:HeaderLevelToStyleConverter x:Key="HeaderLevelToStyleConverter" />
         </ResourceDictionary>
@@ -40,7 +41,7 @@
         <ListView Grid.Column="0" Grid.Row="1" x:Name="ItemsListView" ItemsSource="{Binding Children}" VerticalOptions="FillAndExpand" HasUnevenRows="true" CachingStrategy="RecycleElement" SelectedItem="{Binding SelectedItem}" ItemTapped="ItemsListView_ItemTapped">
             <ListView.Header>
                 <mdview:MarkdownView 
-                    Theme="{StaticResource MonsterMarkdownTheme}" 
+                    Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                     Markdown="{Binding Item.Markdown}" 
                     NavigateToLinkCommand="{Binding Main.Navigator.NavigateToLinkCommand}"
                 />
@@ -60,7 +61,7 @@
             Grid.RowSpan="2"
             VerticalOptions="StartAndExpand"
             HorizontalOptions="End"
-            Color="{StaticResource HDRed}"
+            Color="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}"
             IsRunning="{Binding Main.IsLoading}" 
             IsVisible="{Binding Main.IsLoading}">
             <ActivityIndicator.WidthRequest>

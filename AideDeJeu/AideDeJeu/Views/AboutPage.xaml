@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AideDeJeu.Views.AboutPage"
              xmlns:vm="clr-namespace:AideDeJeu.ViewModels"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
              Title="{Binding Title, Mode=OneTime}"
              x:DataType="vm:AboutViewModel">
     <ContentPage.BindingContext>
@@ -30,7 +31,22 @@
                 <Label Text="{Binding Version, StringFormat=' Version {0}', Mode=OneTime}" HorizontalOptions="Center"/>
             </StackLayout>
         </StackLayout>
-        <ScrollView Grid.Row="1" Grid.ColumnSpan="2">
+        <StackLayout Grid.Row="1" Grid.ColumnSpan="2">
+            <Picker SelectedIndex="{Binding ThemeIndex, Mode=TwoWay}">
+                <!--<Picker.Behaviors>
+                    <xct:EventToCommandBehavior
+                        EventName="SelectedIndexChanged"
+                        Command="{Binding ThemeChangedCommand}"
+                        CommandParameter="{Binding ThemeIndex}"/>
+                </Picker.Behaviors>-->
+                <Picker.Items>
+                    <x:String>Défaut</x:String>
+                    <x:String>Clair</x:String>
+                    <x:String>Sombre</x:String>
+                </Picker.Items>
+            </Picker>
+        </StackLayout>
+        <ScrollView Grid.Row="2" Grid.ColumnSpan="2">
             <StackLayout Orientation="Vertical" Padding="16,20,16,20" Spacing="10">
                 
                 <Label Text="Cette application est une aide de jeu pour le plus grand jeu de rôle au monde et ses dérivés" />

@@ -11,6 +11,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -22,13 +23,13 @@
             <StackLayout>
                 <Frame BorderColor="Black" Padding="2" Margin="10">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Nom" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="# Nom" />
                         <Entry Margin="10" Placeholder="Nom" Text="{Binding SelectedPlayerCharacter.Name, Mode=TwoWay}" Keyboard="Text" />
                     </StackLayout>
                 </Frame>
                 <Frame BorderColor="Black" Padding="2" Margin="10">
                     <StackLayout Padding="0">
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="# Niveau" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="# Niveau" />
                         <Picker Margin="10" Title="Niveau" HorizontalOptions="FillAndExpand">
                             <Picker.ItemsSource>
                                 <x:Array Type="{x:Type x:Int32}">

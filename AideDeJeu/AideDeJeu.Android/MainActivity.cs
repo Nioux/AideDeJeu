@@ -15,13 +15,13 @@ namespace AideDeJeu.Droid
     [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
     //[Activity(Label = "Aide de Jeu", Icon = "@drawable/black_book", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 #if CONFIG_JOA
-    [Activity(Name = "com.nioux.aidedejeu.joa.MainActivity", Label = "Arc & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Name = "com.nioux.aidedejeu.joa.MainActivity", Label = "Arc & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode)]
 #elif CONFIG_CO
-    [Activity(Name = "com.nioux.aidedejeu.co.MainActivity", Label = "Chro & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Name = "com.nioux.aidedejeu.co.MainActivity", Label = "Chro & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode)]
 #elif CONFIG_HD
-    [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Haches & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Haches & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode)]
 #else
-    [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Haches & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
+    [Activity(Name = "com.nioux.aidedejeu.MainActivity", Label = "Haches & Dés", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode)]
 //    [Activity(Name = "com.nioux.aidedejeu.hereva.MainActivity", Label = "Sorcières d Hereva", Icon = "@drawable/main", Theme = "@style/MyTheme.Splash", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 #endif
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity

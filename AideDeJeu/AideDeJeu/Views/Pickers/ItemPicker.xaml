@@ -10,6 +10,7 @@
     <ContentPage.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
@@ -17,14 +18,14 @@
         <ListView ItemsSource="{Binding Items}" HasUnevenRows="True" SelectedItem="{Binding SelectedItem, Mode=TwoWay}">
             <ListView.Header>
                 <StackLayout>
-                    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Title, StringFormat='# {0}'}" />
-                    <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Description}" />
+                    <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="{Binding Title, StringFormat='# {0}'}" />
+                    <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="{Binding Description}" />
                 </StackLayout>
             </ListView.Header>
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" HorizontalOptions="FillAndExpand" Markdown="{Binding Name}" />
+                        <mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" HorizontalOptions="FillAndExpand" Markdown="{Binding Name}" />
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

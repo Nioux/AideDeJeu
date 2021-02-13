@@ -15,6 +15,27 @@ namespace AideDeJeu.ViewModels
             Title = "À propos de ...";
         }
 
+        //private OSAppTheme _Theme = OSAppTheme; // Application.Current.Properties.ContainsKey("OSAppTheme") ? (OSAppTheme)(int)Application.Current.Properties["OSAppTheme"] : OSAppTheme.Unspecified;
+        public int ThemeIndex
+        {
+            get
+            {
+                return (int)OSAppTheme;
+            }
+            set
+            {
+                OSAppTheme = (OSAppTheme)value;
+                OnPropertyChanged();
+            }
+        }
+
+/*        public ICommand ThemeChangedCommand { get; } = new Command<int>((index) => ExecuteThemeChangedCommand(index));
+        public static void ExecuteThemeChangedCommand(int index)
+        {
+            Application.Current.Properties["OSAppTheme"] = index;
+            App.Current.UserAppTheme = (OSAppTheme)index;
+        }*/
+
         public string OGL
         {
             get

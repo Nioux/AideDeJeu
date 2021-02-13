@@ -9,8 +9,9 @@
              x:Name="This">
     <ContentPage.Resources>
         <ResourceDictionary>
-            <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
-            <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
+          <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+          <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
+          <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </ContentPage.Resources>
     <ContentPage.ToolbarItems>
@@ -19,9 +20,9 @@
         <ToolbarItem Name="Speak" Text="Écouter / Arrêter" Order="Secondary" Command="{Binding Main.Speech.SpeakItemCommand}" CommandParameter="{Binding Item}" />
     </ContentPage.ToolbarItems>
     <Grid>
-        <ScrollView Orientation="Vertical" BackgroundColor="{StaticResource HDWhite}">
+        <ScrollView Orientation="Vertical" BackgroundColor="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}">
             <mdview:MarkdownView 
-                Theme="{StaticResource MonsterMarkdownTheme}" 
+                Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" 
                 Markdown="{Binding Item.Markdown}" 
                 NavigateToLinkCommand="{Binding BindingContext.Main.Navigator.NavigateToLinkCommand, Source={x:Reference This}}"
                 />
@@ -29,7 +30,7 @@
         <ActivityIndicator 
             VerticalOptions="StartAndExpand"
             HorizontalOptions="End"
-            Color="{StaticResource HDRed}"
+            Color="{AppThemeBinding Dark={StaticResource DarkHDRed}, Light={StaticResource LightHDRed}}"
             IsRunning="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}" 
             IsVisible="{Binding BindingContext.Main.IsLoading, Source={x:Reference This}}">
             <ActivityIndicator.WidthRequest>

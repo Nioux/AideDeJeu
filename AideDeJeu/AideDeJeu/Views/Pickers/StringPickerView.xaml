@@ -8,6 +8,7 @@
     <StackLayout.Resources>
         <ResourceDictionary>
             <tools:MonsterMarkdownTheme x:Key="MonsterMarkdownTheme" />
+            <tools:DarkMonsterMarkdownTheme x:Key="DarkMonsterMarkdownTheme" />
             <tools:NullToFalseConverter x:Key="NullToFalseConverter" />
         </ResourceDictionary>
     </StackLayout.Resources>
@@ -30,12 +31,12 @@
                 <RowDefinition Height="auto" />
                 <RowDefinition Height="auto" />
             </Grid.RowDefinitions>
-            <mdview:MarkdownView Grid.Column="0" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='# {0}'}" IsEnabled="False" />
+            <mdview:MarkdownView Grid.Column="0" Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="{Binding Title, Source={x:Reference this}, StringFormat='# {0}'}" IsEnabled="False" />
             <Image IsVisible="{Binding Source={x:Reference this}, Path=IsEnabled}" Grid.Column="1" WidthRequest="32" HeightRequest="32" Source="click.png" />
-            <mdview:MarkdownView Grid.Row="1" Grid.ColumnSpan="3" Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />
+            <mdview:MarkdownView Grid.Row="1" Grid.ColumnSpan="3" Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />
         </Grid>
     </Frame>
-    <!--<mdview:MarkdownView Theme="{StaticResource MonsterMarkdownTheme}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->
+    <!--<mdview:MarkdownView Theme="{AppThemeBinding Light={StaticResource MonsterMarkdownTheme}, Dark={StaticResource DarkMonsterMarkdownTheme}}" Markdown="{Binding SelectedItem, Source={x:Reference this}}" />-->
     <!--<StackLayout BindableLayout.ItemsSource="{Binding ItemsSource, Source={x:Reference this}}">
         <BindableLayout.ItemTemplate>
             <DataTemplate>
