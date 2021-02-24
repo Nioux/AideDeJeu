@@ -20,6 +20,7 @@ namespace AideDeJeu
 		public App (string search = null)
 		{
 			InitializeComponent();
+            //return;
             /*
             App.Current.UserAppTheme = Application.Current.RequestedTheme;
             //App.Current.UserAppTheme = OSAppTheme.Dark;*/

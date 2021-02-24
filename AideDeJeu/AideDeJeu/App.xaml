@@ -6,7 +6,7 @@
         <ResourceDictionary>
 
 
-            <!-- Colors -->
+             <!--Colors--> 
 
             <Color x:Key="HDRed">#9B1C47</Color>
             <Color x:Key="HDBlue">#5B61FF</Color>
@@ -40,14 +40,14 @@
             <Color x:Key="DarkHDBackLightGrey">#EDEDED</Color>
             <Color x:Key="DarkHDWhite">#333</Color>
             <Color x:Key="DarkHDBlack">#ddd</Color>
-<!--
-            background : #333
+
+            <!--background : #333
 texte : #ddd
 titres/gras : #eee
 liens/boutons : #c38dcc
-navbar : #563f5a
--->            
-            <!-- Fonts -->
+navbar : #563f5a-->
+            
+             <!--Fonts--> 
             
             <OnPlatform x:Key="LinuxLibertineCapitals" x:TypeArguments="x:String">
                 <On Platform="iOS" Value="Linux Libertine Capitals" />
@@ -97,7 +97,7 @@ navbar : #563f5a
                 <On Platform="UWP, WinRT, WinPhone" Value="Assets/Fonts/LinLibertine_RBI.ttf#Linux Libertine" />
             </OnPlatform>
 
-            <!-- Xamarin Forms -->
+             <!--Xamarin Forms--> 
 
             <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
                 <Setter Property="BackgroundColor" Value="{AppThemeBinding Dark={StaticResource DarkHDWhite}, Light={StaticResource LightHDWhite}}" />
@@ -110,7 +110,7 @@ navbar : #563f5a
             </Style>
 
             <Style TargetType="Label" ApplyToDerivedTypes="True">
-                <!--<Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />-->
+                <Setter Property="FontFamily" Value="{DynamicResource LinuxLibertine}" />
             </Style>
 
             <Style TargetType="NavigationPage" ApplyToDerivedTypes="True">
@@ -126,12 +126,12 @@ navbar : #563f5a
             </Style>
 
 
-            <!-- MarkdownView -->
+             <!--MarkdownView--> 
 
             <Style TargetType="Label"  x:Key="paragraph" ApplyToDerivedTypes="True">
                 <Setter Property="FontSize" Value="16" />
                 <Setter Property="TextColor" Value="{AppThemeBinding Dark={StaticResource DarkHDBlack}, Light={StaticResource LightHDBlack}}" />
-                <!--<Setter Property="FontFamily" Value="serif" />-->
+                <Setter Property="FontFamily" Value="serif" />
                 <Setter Property="FontFamily" Value="LinLibertine_R" />
             </Style>
 
