@@ -55,7 +55,7 @@ namespace AideDeJeu.ViewModels.Library
             public Item Item { get; set; }
         }
 
-        public static string GetPreview(string markdown, string searchText)
+        public string GetPreview(string markdown, string searchText)
         {
             int position = markdown.IndexOf(searchText);
             int startPosition = Math.Max(0, position - 30);
