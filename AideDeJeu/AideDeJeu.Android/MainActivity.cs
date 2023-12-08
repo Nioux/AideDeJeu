@@ -211,7 +211,7 @@ namespace AideDeJeu.Droid
         }
 
     }
-
+    /*
     [IntentFilter(new[] { Android.Content.Intent.ActionAssist }, Categories = new[] { Android.Content.Intent.CategoryDefault })]
     //[Activity(Label = "Aide de Jeu", Icon = "@drawable/black_book", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
 #if CONFIG_JOA
@@ -248,7 +248,7 @@ namespace AideDeJeu.Droid
             }
             this.FinishActivity(0);
         }
-    }
+    }*/
     //public class AndroidListener : Java.Lang.Object, Application.IOnProvideAssistDataListener
     //{
     //    public void OnProvideAssistData(Android.App.Activity activity, Bundle data) 
